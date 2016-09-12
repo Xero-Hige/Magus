@@ -19,6 +19,8 @@ class Tokenizer(object):
 
         text = self.__remove_urls(text)
 
+        text = self.__transform_hashtags(text)
+
         nonAlpha = self.get_non_alphas(text)
 
         for c in nonAlpha:
@@ -47,10 +49,19 @@ class Tokenizer(object):
 
     def add_upercase_words(self, text, tokens):
         for word in text.split():
-            if word.isupper() or word.istitle():
+            if word.isupper() or word.istitle() and not word[:4]=="HTAG":
                 token = word.upper()
                 count = tokens.get(token, 0)
                 tokens[token] = count + 1
+
+            if word.isupper() or word.istitle() and word[:4]=="HTAG":
+                token = word[4:].lower()
+                count = tokens.get(token, 0)
+                tokens[token] = count + 1
+
+            if word.isdigit():
+                count = tokens.get(word, 0)
+                tokens[word] = count + 1
 
     def add_ordered_words(self, splited, tokens):
         for i in range(len(splited) - 1):
@@ -58,6 +69,15 @@ class Tokenizer(object):
                 token = (splited[i], splited[j])
 
                 if not token[0] or not token[1]:
+                    continue
+
+                if len(token[0])<2 or len(token[1])<2:
+                    continue
+
+                if len(token[0])<3 and len(token[1])<3:
+                    continue
+
+                if token[0].isdigit() or token[1].isdigit():
                     continue
 
                 count = tokens.get(token, 0)
@@ -71,7 +91,7 @@ class Tokenizer(object):
     def get_non_alphas(self, text):
         nonAlpha = {}
         for c in text:
-            if c.isalpha() or c.isdigit() or c == " " or c == "\n":
+            if c.isalpha() or c.isdigit() or c == " " or c == "\n" or c=='' or c=="'":
                 continue
 
             count = nonAlpha.get(c, 0)
@@ -82,6 +102,12 @@ class Tokenizer(object):
         for word in text.split():
             if len(word) > 1 and word[0] == '@' and word[1].isalpha():
                 text = text.replace(word, " USER ")
+        return text
+
+    def __transform_hashtags(self, text):
+        for word in text.split():
+            if len(word) > 1 and word[0] == '#' and word[1].isalpha():
+                text = text.replace(word, " HTAG"+word[1:]+" ")
         return text
 
 
@@ -99,12 +125,18 @@ def main():
 
         dict = t.tokenize(tweet["text"])
 
+        pre = len(total)
+
         for token in dict:
             total[token] = 1
 
+        post = len(total)
+
         if dict:
-            print(len(total), end="\n\n---\n\n")
+            print(len(total), end="\n\n--New("+str(post-pre)+")--\n\n")
 
-
+        if (post-pre)>20:
+            print(dict.keys(),end="\n\n___\n---\n\n")
+            
 if __name__ == '__main__':
     main()
