@@ -1,6 +1,6 @@
 from __future__ import absolute_import, print_function, unicode_literals
 
-from KafkaBroker import KafkaReader
+from KafkaBroker import KafkaReader, KafkaWriter
 
 class TweetSplitter():
 
@@ -51,7 +51,7 @@ class TweetSplitter():
 def main():
     tsp = TweetSplitter()
     reader = KafkaReader(b'tweetsInput')
-
+    writer = KafkaWriter(b'parsedTweets')
     while True:
         tweet = reader.read()
 
@@ -61,7 +61,8 @@ def main():
         dict = tsp.process(tweet)
 
         if dict:
-            print(dict["text"],end="\n\n---\n\n")
+            writer.write(dict)
+
 
 if __name__ == '__main__':
     main()
