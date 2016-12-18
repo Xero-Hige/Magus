@@ -46,6 +46,11 @@ class TweetSplitter():
             values["latitude"] = "0"
             values["longitude"] = "0"
 
+        if "place" in tweet_dict and tweet_dict["place"]:
+            values["country"] = tweet_dict["place"]["country"]
+        else:
+            values["country"] = None
+
         return values
 
 def main():
