@@ -10,6 +10,7 @@ RUN apt-get update && \
     apt-get install -y --no-install-recommends aptitude && \
     aptitude install -y \
         wget \
+        locales \
         python3-pip \
 		python3-setuptools && \
     echo 'deb http://www.rabbitmq.com/debian/ testing main' | tee /etc/apt/sources.list.d/rabbitmq.list && \
@@ -18,8 +19,11 @@ RUN apt-get update && \
     rm -rf /var/lib/apt/lists/* && \
     aptitude clean
 
-RUN pip3 install twitter --no-cache-dir
+RUN pip3 install twitter --no-cache-dir && \
+    pip3 install pika --no-cache-dir
 
 COPY /src /Magus
 
-CMD ["python3","/Magus/tweetsFetcher.py"]
+WORKDIR /Magus
+
+CMD ["bash","StartMagus.sh"]
