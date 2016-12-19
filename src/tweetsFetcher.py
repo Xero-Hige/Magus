@@ -2,11 +2,12 @@
 # -*- coding: iso-8859-15 -*-
 
 from __future__ import absolute_import, print_function, unicode_literals
+
+import pika
 from twitter import *
-from KafkaBroker import KafkaWriter
+
 
 class TweetsFetcher():
-
     def __init__(self):
         self.CONSUMER_KEY = ""
         self.CONSUMER_SECRET = ""
@@ -40,18 +41,34 @@ class TweetsFetcher():
                 return next(self.tweets)
 
             except Exception as e:
-                raise e #FIXME
+                raise e  # FIXME
                 self.generate_tweet_pool()
 
     def __iter__(self):
         return self
 
+
+def send_message(channel, message):
+    channel.basic_publish(exchange='',
+                          routing_key='task_queue',
+                          body=message,
+                          properties=pika.BasicProperties(
+                              delivery_mode=2,  # make message persistent
+                          ))
+
+
 def main():
     tf = TweetsFetcher()
-    writer = KafkaWriter(b'tweetsInput')
+    connection = pika.BlockingConnection(pika.ConnectionParameters(host='localhost'))
+    channel = connection.channel()
+
+    channel.queue_declare(queue='task_queue', durable=True)
 
     for t in tf:
-        writer.write(t)
+        tweet = str(t).encode()
+        send_message(channel, tweet)
+
+    connection.close()
 
 
 if __name__ == '__main__':
