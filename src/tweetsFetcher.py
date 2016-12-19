@@ -3,7 +3,7 @@
 
 from __future__ import absolute_import, print_function, unicode_literals
 
-import pika
+from RabbitHandler import *
 from twitter import *
 
 
@@ -48,27 +48,15 @@ class TweetsFetcher():
         return self
 
 
-def send_message(channel, message):
-    channel.basic_publish(exchange='',
-                          routing_key='task_queue',
-                          body=message,
-                          properties=pika.BasicProperties(
-                              delivery_mode=2,  # make message persistent
-                          ))
-
-
 def main():
     tf = TweetsFetcher()
-    connection = pika.BlockingConnection(pika.ConnectionParameters(host='localhost'))
-    channel = connection.channel()
-
-    channel.queue_declare(queue='task_queue', durable=True)
+    handler = RabbitHandler("tweets_input")
 
     for t in tf:
         tweet = str(t).encode()
-        send_message(channel, tweet)
+        handler.send_message(tweet)
 
-    connection.close()
+    handler.close()
 
 
 if __name__ == '__main__':

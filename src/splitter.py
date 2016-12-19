@@ -1,10 +1,13 @@
 from __future__ import absolute_import, print_function, unicode_literals
 
-from KafkaBroker import KafkaReader, KafkaWriter
+from RabbitHandler import *
+
 
 class TweetSplitter():
+    ''' '''
 
-    def process(self, tweet_dict):
+    @staticmethod
+    def process(tweet_dict):
         values = {}
 
         if not "user" in tweet_dict:
@@ -55,19 +58,21 @@ class TweetSplitter():
 
 def main():
     tsp = TweetSplitter()
-    reader = KafkaReader(b'tweetsInput')
-    writer = KafkaWriter(b'parsedTweets')
-    while True:
-        tweet = reader.read()
+    reader = RabbitHandler(b'tweets_input')
+    writer = RabbitHandler(b'parsedTweets')
 
+    def callback(ch, method, properties, tweet):
         if not tweet:
-            break
+            return
 
         dict = tsp.process(tweet)
 
-        if dict:
-            writer.write(dict)
+        print(dict)
 
+        if dict:
+            writer.send_message(dict)
+
+    reader.receive_messages(callback)
 
 if __name__ == '__main__':
     main()
