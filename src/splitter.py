@@ -1,4 +1,8 @@
+# -*- coding: utf-8 -*-
+
 from __future__ import absolute_import, print_function, unicode_literals
+
+import pickle as Serializer
 
 from RabbitHandler import *
 
@@ -18,7 +22,7 @@ class TweetSplitter():
         values["user_location"] = tweet_dict["user"]["location"]
         values["user_image"] = tweet_dict["user"]["profile_image_url"].replace("_normal.jpg", ".jpg")
         values["user_back"] = tweet_dict["user"].get("profile_banner_url", " ")
-        values["text"] = tweet_dict["text"]
+        values["text"] = tweet_dict["text"].encode("utf-8",'replace')
 
         try:
             if "coordinates" in tweet_dict and tweet_dict["coordinates"]:
@@ -56,23 +60,30 @@ class TweetSplitter():
 
         return values
 
+
 def main():
     tsp = TweetSplitter()
-    reader = RabbitHandler(b'tweets_input')
-    writer = RabbitHandler(b'parsedTweets')
+    reader = RabbitHandler("tweets_input")
+    writer = RabbitHandler("parsedTweets")
 
     def callback(ch, method, properties, tweet):
         if not tweet:
             return
 
+        tweet = Serializer.loads(tweet)
+
         dict = tsp.process(tweet)
 
-        print(dict)
+        if not dict:
+            return
+
+        print(dict["text"])
 
         if dict:
-            writer.send_message(dict)
+            writer.send_message(Serializer.dumps(dict))
 
     reader.receive_messages(callback)
+
 
 if __name__ == '__main__':
     main()

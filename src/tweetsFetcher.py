@@ -1,7 +1,9 @@
 #!/usr/bin/python
-# -*- coding: iso-8859-15 -*-
+# -*- coding: utf-8 -*-
 
 from __future__ import absolute_import, print_function, unicode_literals
+
+import pickle as Serializer
 
 from RabbitHandler import *
 from twitter import *
@@ -53,8 +55,8 @@ def main():
     handler = RabbitHandler("tweets_input")
 
     for t in tf:
-        tweet = str(t).encode()
-        handler.send_message(tweet)
+        # tweet = str(t).encode()
+        handler.send_message(Serializer.dumps(t))
 
     handler.close()
 
