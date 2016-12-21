@@ -67,7 +67,7 @@ def main(argv):
 
     tsp = TweetSplitter()
     reader = RabbitHandler("tweets_input")
-    writer = RabbitHandler("parsedTweets")
+    writer = RabbitHandler("parsed_tweets")
 
     def callback(tweet):
         if not tweet:

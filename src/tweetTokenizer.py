@@ -1,12 +1,14 @@
 #!/usr/bin/python
-# -*- coding: iso-8859-15 -*-
+# -*- coding: utf-8 -*-
 
 from __future__ import absolute_import, print_function, unicode_literals
 
+import pickle as Serializer
 import re
 import string
+import sys
 
-from KafkaBroker import KafkaReader
+from RabbitHandler import *
 
 STOP_LISTS = ["arabic", "chinese", "english", "german", "japanese", "portugese", "spanish"]
 
@@ -15,7 +17,7 @@ class Tokenizer(object):
     def __init__(self):
         self.stopwords = {}
         for f in STOP_LISTS:
-            with open("stopwords/" + f, 'r') as stopword_list:
+            with open("stopwords/" + f, 'r', encoding="utf-8") as stopword_list:
                 for line in stopword_list:
                     line.rstrip()
                     self.stopwords[line] = 0
@@ -23,7 +25,8 @@ class Tokenizer(object):
     def _is_stopword(self, word):
         return word in self.stopwords
 
-    def _is_junk(self, token):
+    @staticmethod
+    def _is_junk(token):
         if token in string.whitespace:
             return True
 
@@ -41,13 +44,13 @@ class Tokenizer(object):
 
         text = self.__transform_hashtags(text)
 
-        nonAlpha = self.get_non_alphas(text)
+        non_alpha = self.get_non_alphas(text)
 
-        for c in nonAlpha:
+        for c in non_alpha:
             text = text.replace(c, " ")
-            tokens[c] = nonAlpha[c]
+            tokens[c] = non_alpha[c]
 
-        keys = sorted(nonAlpha.keys())
+        keys = sorted(non_alpha.keys())
 
         for i in range(len(keys)):
             for j in range(i + 1, len(keys)):
@@ -67,7 +70,8 @@ class Tokenizer(object):
 
         return tokens
 
-    def add_upercase_words(self, text, tokens):
+    @staticmethod
+    def add_upercase_words(text, tokens):
         for word in text.split():
             if word.isupper() or word.istitle() and not word[:4] == "HTAG":
                 token = word.upper()
@@ -108,12 +112,14 @@ class Tokenizer(object):
 
                 tokens[token] = 1
 
-    def __remove_urls(self, text):
+    @staticmethod
+    def __remove_urls(text):
         for url in re.findall('http[s]?://(?:[a-zA-Z]|[0-9]|[$-_@.&+]|[!*\(\),]|(?:%[0-9a-fA-F][0-9a-fA-F]))+', text):
             text = text.replace(url, " URL ")
         return text
 
-    def get_non_alphas(self, text):
+    @staticmethod
+    def get_non_alphas(text):
         nonAlpha = {}
         for c in text:
             if c.isalpha() or c.isdigit() or c == " " or c == "\n" or c == '' or c == "'":
@@ -123,13 +129,15 @@ class Tokenizer(object):
             nonAlpha[c] = count + 1
         return nonAlpha
 
-    def __remove_usernames(self, text):
+    @staticmethod
+    def __remove_usernames(text):
         for word in text.split():
             if len(word) > 1 and word[0] == '@' and word[1].isalpha():
                 text = text.replace(word, " USER ")
         return text
 
-    def __transform_hashtags(self, text):
+    @staticmethod
+    def __transform_hashtags(text):
         for word in text.split():
             if len(word) > 1 and word[0] == '#' and word[1].isalpha():
                 text = text.replace(word, " HTAG" + word[1:] + " ")
@@ -176,7 +184,7 @@ def selectTokens(unclass):
             break
 
         infogainer.sort(key=lambda x: -x[0])
-        #print(infogainer)
+        # print(infogainer)
         gain, key = infogainer[0]
         tag, token = key
 
@@ -189,21 +197,21 @@ def selectTokens(unclass):
         # print(tag)
         newUnclass = []
         for x in unclass:
-            if(x[0] == tag and token in x[1]):
+            if (x[0] == tag and token in x[1]):
                 for tok in x[1]:
                     if token == tok:
                         continue
                     if not tok in tokens:
-                        #print(tok)
+                        # print(tok)
                         continue
-                    tokens[tok][tag] = max(0,tokens.get(tok,{}).get(tag,0)-1)
+                    tokens[tok][tag] = max(0, tokens.get(tok, {}).get(tag, 0) - 1)
                     tokens_totals[tok] -= 1
                 continue
             newUnclass.append(x)
             # list(filter(lambda x: x[0]!=tag,unclass))
 
         unclass = newUnclass
-        #for x in unclass:
+        # for x in unclass:
         #    print(x[0],x[0] == tag,tag)
         # print (unclass)
         print("\n\nLEN:", len(unclass), "\n\n")
@@ -220,45 +228,40 @@ def selectTokens(unclass):
             except ZeroDivisionError:
                 results[(tag, token_)] = 0
 
-
-    return (tags.keys(), selected)
+    return tags.keys(), selected
 
 
 def main():
     t = Tokenizer()
-    reader = KafkaReader(b'parsedTweets')
 
-    total = {}
+    reader = RabbitHandler("parsed_tweets")
 
-    i = 0
-
-    unclass = []
-
-    while True:
-        tweet = reader.read()
+    def callback(tweet):
 
         if not tweet:
-            break
+            return
 
-        i += 1
+        tweet = Serializer.loads(tweet)
 
         dict = t.tokenize(tweet["text"])
 
-        tag = tweet["country"]
+        tag = tweet.get("country", None)
+        print(len(dict))
+        sys.stdout.flush()
 
         if not tag:
-            continue
+            return
 
-        unclass.append((tag, dict))
+            # unclass.append((tag, dict))
 
-        if len(unclass) > 1000:
-            print("Calculando")
-            tags, selected = selectTokens(unclass)
-            print("Tags:", tag)
-            print("Selected:", selected)
-            print("Len Selected:", len(selected))
 
-            unclass = []
+            # if len(unclass) > 1000:
+            #    print("Calculando")
+            #    tags, selected = selectTokens(unclass)
+            #    print("Tags:", tag)
+            #    print("Selected:", selected)
+            #    print("Len Selected:", len(selected))
+
             #
             # pre = len(total)
             #
@@ -275,6 +278,8 @@ def main():
             # with open("tokens.tkn",'a') as tokens:
             # tokens.writelines([str(x)+"\n" for x in total.keys()])
             # tokens.write(str(i)+","+str(post-pre)+"\n")
+
+    reader.receive_messages(callback)
 
 
 if __name__ == '__main__':
