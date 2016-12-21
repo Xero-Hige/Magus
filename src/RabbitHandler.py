@@ -19,9 +19,13 @@ class RabbitHandler(object):
                                    ))
 
     def receive_messages(self, callback):
-        self.channel.basic_consume(callback,
-                                   queue=self.queue,
-                                   no_ack=True)
+        def _callback(ch, method, properties, message):
+            callback(message)
+            ch.basic_ack(delivery_tag=method.delivery_tag)
+
+        self.channel.basic_qos(prefetch_count=1)
+        self.channel.basic_consume(_callback,
+                                   queue=self.queue)
         self.channel.start_consuming()
 
     def close(self):
