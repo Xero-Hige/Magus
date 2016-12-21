@@ -4,4 +4,5 @@ sleep 4
 rabbitmqctl start_app
 export PYTHONIOENCODING=utf-8
 python3 tweetsFetcher.py &
-python3 splitter.py
+python3 splitter.py 1 &
+python3 splitter.py 2

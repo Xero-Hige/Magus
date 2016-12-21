@@ -3,9 +3,9 @@
 from __future__ import absolute_import, print_function, unicode_literals
 
 import pickle as Serializer
+import sys
 
 from RabbitHandler import *
-
 
 class TweetSplitter():
     ''' '''
@@ -58,7 +58,13 @@ class TweetSplitter():
         return values
 
 
-def main():
+def main(argv):
+    debug = False
+    worker = 0
+    if len(argv) > 1:
+        debug = True
+        worker = argv[1]
+
     tsp = TweetSplitter()
     reader = RabbitHandler("tweets_input")
     writer = RabbitHandler("parsedTweets")
@@ -74,13 +80,14 @@ def main():
         if not dict:
             return
 
-        print(dict["text"])
+        if debug:
+            print("Worker [", worker, "] ", dict["text"])
+            sys.stdout.flush()
 
-        if dict:
-            writer.send_message(Serializer.dumps(dict))
+        writer.send_message(Serializer.dumps(dict))
 
     reader.receive_messages(callback)
 
 
 if __name__ == '__main__':
-    main()
+    main(sys.argv)
