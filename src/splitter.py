@@ -22,13 +22,12 @@ class TweetSplitter():
         values["user_location"] = tweet_dict["user"]["location"]
         values["user_image"] = tweet_dict["user"]["profile_image_url"].replace("_normal.jpg", ".jpg")
         values["user_back"] = tweet_dict["user"].get("profile_banner_url", " ")
-        values["text"] = tweet_dict["text"].encode("utf-8",'replace')
+        values["text"] = tweet_dict["text"].encode("utf-8", 'replace')
 
         try:
             if "coordinates" in tweet_dict and tweet_dict["coordinates"]:
                 values["latitude"] = tweet_dict["coordinates"]["coordinates"][1]
                 values["longitude"] = tweet_dict["coordinates"]["coordinates"][0]
-
 
             elif "geo" in tweet_dict and tweet_dict["geo"]:
                 values["latitude"] = tweet_dict["geo"]["coordinates"][1]
@@ -46,8 +45,6 @@ class TweetSplitter():
                 values["longitude"] += tweet_dict["place"]["bounding_box"]["coordinates"][0][2][0]
                 values["longitude"] += tweet_dict["place"]["bounding_box"]["coordinates"][0][3][0]
                 values["longitude"] /= 4
-
-
 
         except Exception as e:
             values["latitude"] = "0"
