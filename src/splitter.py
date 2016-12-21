@@ -22,7 +22,7 @@ class TweetSplitter():
         values["user_location"] = tweet_dict["user"]["location"]
         values["user_image"] = tweet_dict["user"]["profile_image_url"].replace("_normal.jpg", ".jpg")
         values["user_back"] = tweet_dict["user"].get("profile_banner_url", " ")
-        values["text"] = tweet_dict["text"].encode("utf-8", 'replace')
+        values["text"] = tweet_dict["text"].encode("utf-8", 'replace').decode("utf-8")
 
         try:
             if "coordinates" in tweet_dict and tweet_dict["coordinates"]:
@@ -63,7 +63,7 @@ def main():
     reader = RabbitHandler("tweets_input")
     writer = RabbitHandler("parsedTweets")
 
-    def callback(ch, method, properties, tweet):
+    def callback(tweet):
         if not tweet:
             return
 
