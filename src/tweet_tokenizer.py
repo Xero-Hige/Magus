@@ -262,18 +262,24 @@ def main():
             return
 
         tokens = {}
+        words = {}
         for tokenizer in tokenizers:
             dict = tokenizer.tokenize(tweet)
+
+            if tokenizer.__name__ == "tokenizers.tokenizer_words":
+                words = dict
 
             for token in dict:
                 if token in tokens:
                     continue
                 tokens[token] = dict[token]
 
-        if len(tokens) < 1:
+        if len(words) < 1:
             return
 
-        print(tag, " -(", len(tokenizers), ")- ", len(tokens), "<<", random.choice(list(tokens.keys())), ">>")
+        # print(tag, " -(", len(tokenizers), ")- ", len(tokens), "<<", random.choice(list(words.keys())), ">>")
+        print("<< {0:30} >>".format(random.choice(list(words.keys()))))
+
         sys.stdout.flush()
 
     reader.receive_messages(callback)
