@@ -66,9 +66,11 @@ class TweetProcesser():
         text_list = [word for word in text.split() if not self._is_junk(word) and not self._is_stopword(word)]
 
         text = " ".join(text_list)
-
         tweet_dict["processed_text"] = text
 
+        text_list = [word for word in text_list if word and word != "URL" and word != "USER" and word[:4] != "HTAG"]
+        text = " ".join(text_list)
+        tweet_dict["cleaned_text"] = text
 
 def main(argv):
     debug = False
