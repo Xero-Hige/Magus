@@ -3,6 +3,7 @@
 
 from __future__ import absolute_import, print_function, unicode_literals
 
+import os
 import pickle as Serializer
 import re
 import string
@@ -231,9 +232,20 @@ def selectTokens(unclass):
     return tags.keys(), selected
 
 
-def main():
-    t = Tokenizer()
+def get_tokenizers(excluded=[]):
+    lst = os.listdir("tokenizers")
 
+    modules = []
+
+    for x in lst:
+        x = x.replace(".py", "")
+        x = "tokenizers." + x
+        modules.append(__import__(x, fromlist=['']))
+
+    return [module for module in modules if "__" not in module.__name__ and module.__name__ not in excluded]
+
+
+def main():
     reader = RabbitHandler("parsed_tweets")
 
     def callback(tweet):
@@ -242,42 +254,24 @@ def main():
             return
 
         tweet = Serializer.loads(tweet)
-
-        dict = t.tokenize(tweet["text"])
-
         tag = tweet.get("country", None)
-        print(len(dict))
-        sys.stdout.flush()
 
-        if not tag:
+        if not tag:  # FIXME remove testing
             return
 
-            # unclass.append((tag, dict))
+        tokenizers = get_tokenizers()
 
+        tokens = {}
+        for tokenizer in tokenizers:
+            dict = tokenizer.tokenize(tweet["text"], tweet)
 
-            # if len(unclass) > 1000:
-            #    print("Calculando")
-            #    tags, selected = selectTokens(unclass)
-            #    print("Tags:", tag)
-            #    print("Selected:", selected)
-            #    print("Len Selected:", len(selected))
+            for token in dict:
+                if token in tokens:
+                    continue
+                tokens[token] = dict[token]
 
-            #
-            # pre = len(total)
-            #
-            # for token in dict:
-            #     total[token] = 1
-            #
-            # post = len(total)
-            #
-            # if dict:
-            #     print(len(total), end="\n\n--New("+str(post-pre)+")--\n\n")
-
-            # if (post-pre)>20:
-            # print(dict.keys(),end="\n\n___\n---\n\n")
-            # with open("tokens.tkn",'a') as tokens:
-            # tokens.writelines([str(x)+"\n" for x in total.keys()])
-            # tokens.write(str(i)+","+str(post-pre)+"\n")
+        print(tag, " -- ", len(dict))
+        sys.stdout.flush()
 
     reader.receive_messages(callback)
 
