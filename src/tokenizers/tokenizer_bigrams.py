@@ -1,5 +1,7 @@
-def tokenize(text, tweet):
+def tokenize(tweet):
     tokens = {}
+
+    text = tweet["text"]
 
     text = text.lower()
 

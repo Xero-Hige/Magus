@@ -5,6 +5,7 @@ from __future__ import absolute_import, print_function, unicode_literals
 
 import os
 import pickle as Serializer
+import random
 import re
 import string
 import sys
@@ -246,7 +247,8 @@ def get_tokenizers(excluded=[]):
 
 
 def main():
-    reader = RabbitHandler("parsed_tweets")
+    reader = RabbitHandler("processed_tweets")
+    tokenizers = get_tokenizers()
 
     def callback(tweet):
 
@@ -259,18 +261,19 @@ def main():
         if not tag:  # FIXME remove testing
             return
 
-        tokenizers = get_tokenizers()
-
         tokens = {}
         for tokenizer in tokenizers:
-            dict = tokenizer.tokenize(tweet["text"], tweet)
+            dict = tokenizer.tokenize(tweet)
 
             for token in dict:
                 if token in tokens:
                     continue
                 tokens[token] = dict[token]
 
-        print(tag, " -- ", len(dict))
+        if len(tokens) < 1:
+            return
+
+        print(tag, " -(", len(tokenizers), ")- ", len(tokens), "<<", random.choice(list(tokens.keys())), ">>")
         sys.stdout.flush()
 
     reader.receive_messages(callback)
