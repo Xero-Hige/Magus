@@ -6,4 +6,4 @@ export PYTHONIOENCODING=utf-8
 python3 tweets_fetcher.py &
 python3 tweets_splitter.py &
 python3 tweets_splitter.py &
-python3 tweetTokenizer.py
+python3 tweet_tokenizer.py
