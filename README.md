@@ -9,3 +9,11 @@ Available tokenizers
 ### Bigrams
 
 Consecutive lowercase characters
+
+### Caps Bigrams
+
+Consecutive case sensitive characters
+
+### Words
+
+Lowercase words (characters separated via whitespace)
