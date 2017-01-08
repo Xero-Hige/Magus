@@ -1,0 +1,122 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <title>{{ pagename }}</title>
+
+    <!-- Bootstrap Core CSS -->
+    <link href="{{ url_for('static', filename='css/bootstrap.min.css') }}" rel="stylesheet">
+
+    <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
+    <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+    <!--[if lt IE 9]>
+    <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+    <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
+    <![endif]-->
+
+</head>
+<!-- jQuery -->
+<script src="{{ url_for('static', filename='jquery/jquery.min.js') }}"></script>
+
+<!-- Bootstrap Core JavaScript -->
+<script src="{{ url_for('static', filename='js/bootstrap.min.js') }}"></script>
+
+<body>
+<div id="wrapper">
+
+    <div id="page-wrapper">
+        <div class="col-lg-12">
+            <h1 class="page-header">{{ pagename }}</h1>
+        </div>
+        <!-- Page content -->
+
+        <div class="container-fluid">
+            <div class="col-lg-9 text-center">
+                <div class="panel panel-default">
+                    <div class="panel-heading">Listado de Tweets</div>
+                    <div class="panel-body">
+                        <div class="list-group text-left">
+                            {% for tweet in tweets %}
+                            <div class="panel panel-info">
+                                <div class="panel-heading">
+                                    <h3>{{tweet["tweet_id"]}}</h3>
+                                </div>
+                                <div class="panel-body">
+                                    {{tweet["tweet_text"]}}
+                                </div>
+                                <div class="panel-footer">
+                                    <ul>
+                                        <li>Tweet lang: {{tweet["tweet_lang"]}}</li>
+                                        <li>Tweet user lang: {{tweet["tweet_user_lang"]}}</li>
+                                        <li>Tweet place: {{tweet["tweet_place"]}}</li>
+                                        <li>Tweet lang: {{tweet["tweet_mentions"]}}</li>
+                                        <li>Tweet Hashtags:
+                                            <ul>
+                                                {% for hashtag in tweet["tweet_hashtags"]%}
+                                                <li>{{hashtag}}</li>
+                                                {% endfor%}
+                                            </ul>
+                                        </li>
+                                        <li>Tweet Media:
+                                            <ul>
+                                                {% for media in tweet["tweet_media"]%}
+                                                <li>({{media}} - {{tweet["tweet_media"][media]}})</li>
+                                                {% endfor%}
+                                            </ul>
+                                        </li>
+                                    </ul>
+                                </div>
+                            </div>
+                            {% endfor %}
+                        </div>
+                    </div>
+                    <div class="panel-footer">
+                        <form action="/" method="post">
+                            {% if page > 0 %}
+                            <button class="btn btn-lg btn-outline btn-primary" type="submit" name="PAGE"
+                                    value="{{ page - 1 }}">
+                                <
+                            </button>
+                            {% endif %}
+                            {% for p in range(page - 2,page) if p >= 0 %}
+                            <button class="btn btn-lg btn-outline btn-info" type="submit" name="PAGE"
+                                    value="{{ p }}">{{ p }}
+                            </button>
+                            {% endfor %}
+                            <button class="btn btn-lg btn-info" type="submit" name="PAGE"
+                                    value="{{ page }}">{{ page }}
+                            </button>
+                            {% for p in range(page + 1,page + 3) if p < pages %}
+                            <button class="btn btn-lg btn-outline btn-info" type="submit" name="PAGE"
+                                    value="{{ p }}">{{ p }}
+                            </button>
+                            {% endfor %}
+                            {% if page < pages-1 %}
+                            <button class="btn btn-lg btn-outline btn-primary" type="submit" name="PAGE"
+                                    value="{{ page + 1 }}">
+                                >
+                            </button>
+                            {% endif %}
+                            <input type="hidden" name="ALERT" value="{{ alert_name }}">
+                        </form>
+                    </div>
+
+
+                </div>
+            </div>
+            <!-- Page content -->
+        </div>
+    </div>
+
+</div>
+</body>
+
+
+</html>

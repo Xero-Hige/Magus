@@ -1,50 +1,59 @@
-import json
 import os
+from math import ceil
+
+from flask import Flask, render_template, request
+
+PINED_ALERTS_PER_PAGE = 18
+
+app = Flask(__name__)
+import json
 
 
-def main():
-    for tweet_file_name in os.listdir("tweets"):
-        with open("../tweets/" + tweet_file_name) as tweet_file:
-            tweet_dump = tweet_file.read()
+@app.route('/', methods=["GET", "POST"])
+def root():
+    tweets = os.listdir("../tweets")
+    tweets.sort()
+    page = int(request.form.get("PAGE", "0"))
 
-        tweet = json.loads(tweet_dump, encoding="utf-8")
+    tweets = [load_tweet(tweets[i]) for i in range(PINED_ALERTS_PER_PAGE * page,
+                                       min(PINED_ALERTS_PER_PAGE * (page + 1), len(tweets)))]
 
-        if not tweet:
-            continue
+    pages = ceil(len(tweets) / PINED_ALERTS_PER_PAGE)
 
-        tweet_text = tweet.get("text", "")
-        tweet_lang = tweet.get("lang", "")
-        if (tweet.get("place")):
-            tweet_place = tweet.get("place", {}).get("name", "")
-        else:
-            tweet_place = ""
-        tweet_user_lang = tweet.get("user", {}).get("lang", "")
-        tweet_hashtags = []
-        for hashtag in tweet.get("entities", {}).get("hashtags", []):
-            tweet_hashtags.append(hashtag.get("text", ""))
-        tweet_mentions = 0
-        for x in tweet.get("entities", {}).get("user_mentions", []):
-            tweet_mentions += 1
-
-        tweet_media = {}
-        if (tweet.get("extended_entities")):
-            media = tweet.get("extended_entities", {}).get("media", [])
-            types = {}
-            for m in media:
-                types[m["type"]] = types.get(m["type"], 0) + 1
-
-        print ("*" * 80)
-        print ("\t--> Text: " + tweet_text + "\n")
-        print ("\t--> Lang: " + tweet_lang + "\n")
-        print ("\t--> User Lang: " + tweet_user_lang + "\n")
-        print ("\t--> Place: " + tweet_place + "\n")
-        print ("\t--> Mentions: " + str(tweet_mentions) + "\n")
-        print ("\t--> Hashtags: ")
-        for hashtag in tweet_hashtags:
-            print ("\t\t*" + hashtag)
-        print ("\t--> Media: ")
-        for media in tweet_media:
-            print ("\t\t* (" + media + "," + tweet_media[media] + ")")
+    return render_template("index.html", pagename="Twitter", tweets=tweets, page=page, pages=pages)
 
 
-main()
+def get_tweets(files):
+    tweets = []
+    for tweet_file_name in files:
+        tweet = load_tweet(tweet_file_name)
+        tweets.append(tweet)
+    return tweets
+
+
+def load_tweet(tweet_file_name):
+    tweet = {}
+    with open("../tweets/" + tweet_file_name) as tweet_file:
+        tweet_dump = tweet_file.read()
+    loaded_tweet = json.loads(tweet_dump, encoding="utf-8")
+
+    tweet["tweet_id"] = tweet_file_name.replace(".json","")
+    tweet["tweet_text"] = loaded_tweet.get("text", "")
+    tweet["tweet_lang"] = loaded_tweet.get("lang", "")
+    if (tweet.get("place")):
+        tweet["tweet_place"] = loaded_tweet.get("place", {}).get("name", "")
+    else:
+        tweet["tweet_place"] = ""
+    tweet["tweet_user_lang"] = loaded_tweet.get("user", {}).get("lang", "")
+    tweet["tweet_hashtags"] = []
+    for hashtag in loaded_tweet.get("entities", {}).get("hashtags", []):
+        tweet["tweet_hashtags"].append(hashtag.get("text", ""))
+    tweet["tweet_mentions"] = 0
+    for x in loaded_tweet.get("entities", {}).get("user_mentions", []):
+        tweet["tweet_mentions"] += 1
+    tweet["tweet_media"] = {}
+    if (loaded_tweet.get("extended_entities")):
+        media = loaded_tweet.get("extended_entities", {}).get("media", [])
+        for m in media:
+            tweet["tweet_media"][m["type"]] = tweet["tweet_media"].get(m["type"], 0) + 1
+    return tweet
