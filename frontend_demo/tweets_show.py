@@ -16,7 +16,7 @@ def root():
     page = int(request.form.get("PAGE", "0"))
 
     tweets = [load_tweet(tweets[i]) for i in range(PINED_ALERTS_PER_PAGE * page,
-                                       min(PINED_ALERTS_PER_PAGE * (page + 1), len(tweets)))]
+                                                   min(PINED_ALERTS_PER_PAGE * (page + 1), len(tweets)))]
 
     pages = ceil(len(tweets) / PINED_ALERTS_PER_PAGE)
 
@@ -37,7 +37,7 @@ def load_tweet(tweet_file_name):
         tweet_dump = tweet_file.read()
     loaded_tweet = json.loads(tweet_dump, encoding="utf-8")
 
-    tweet["tweet_id"] = tweet_file_name.replace(".json","")
+    tweet["tweet_id"] = tweet_file_name.replace(".json", "")
     tweet["tweet_text"] = loaded_tweet.get("text", "")
     tweet["tweet_lang"] = loaded_tweet.get("lang", "")
     if (tweet.get("place")):
