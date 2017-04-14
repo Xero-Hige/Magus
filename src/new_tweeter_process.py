@@ -1,7 +1,7 @@
 import os
 
 
-def get_tokenizers(excluded=[]):
+def get_preprocessors(excluded=[]):
     lst = os.listdir("tokenizers")
 
     modules = []

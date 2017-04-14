@@ -1,13 +1,13 @@
 REP_SIZE = 3
 
 
-def preprocess(word, rep_size=REP_SIZE):
+def preprocess(word):
     """ """
     if not word:
-        return (word, False)
+        return word, False
 
     aux_buffer = []
-    rep_window = ["" for _ in range(rep_size)]
+    rep_window = ["" for _ in range(REP_SIZE)]
 
     for c in word:
         buffer_exceed = True
@@ -24,7 +24,4 @@ def preprocess(word, rep_size=REP_SIZE):
         rep_window = rep_window[1:]
         rep_window.append(c)
 
-    return ("".join(aux_buffer), False)
-
-
-print (preprocess("Jaaaaaaaaaaaaaaajajajoooojooo"))
+    return "".join(aux_buffer), False

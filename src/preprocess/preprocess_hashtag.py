@@ -5,4 +5,4 @@ def preprocess(word):
         word = " HTAG" + word[1:]
         updated = True
 
-    return (word, updated)
+    return word, updated
