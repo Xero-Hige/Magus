@@ -33,6 +33,3 @@ class ModulesManager:
             modules.append(__import__(x, fromlist=['']))
 
         return [module for module in modules if "__" not in module.__name__ and module.__name__ not in excluded]
-
-
-print (ModulesManager.get_preprocessors())

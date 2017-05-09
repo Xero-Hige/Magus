@@ -7,6 +7,7 @@ import sys
 
 from RabbitHandler import *
 
+
 class TweetSplitter():
     ''' '''
 

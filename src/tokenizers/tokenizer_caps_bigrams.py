@@ -1,6 +1,6 @@
 def tokenize(tweet):
     tokens = {}
-
+    return tokens
     text = tweet["processed_text"]
 
     for i in range(len(text) - 2):

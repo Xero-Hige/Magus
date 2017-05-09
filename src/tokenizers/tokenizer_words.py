@@ -1,4 +1,5 @@
 def tokenize(tweet):
+    return {}
     tokens = {}
 
     text = tweet["cleaned_text"].lower()

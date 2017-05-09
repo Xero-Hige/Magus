@@ -6,7 +6,7 @@ def preprocess(word):
     """ """
     updated = False
     if re.match(URL_REGEXP, word):
-        word = " http://URL "
+        word = "http://URL"
         updated = True
 
     return word, updated

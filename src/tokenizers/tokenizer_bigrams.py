@@ -1,6 +1,6 @@
 def tokenize(tweet):
     tokens = {}
-
+    return tokens
     text = tweet["text"]
 
     text = text.lower()

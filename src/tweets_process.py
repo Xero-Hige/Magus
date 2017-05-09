@@ -3,74 +3,13 @@
 from __future__ import absolute_import, print_function, unicode_literals
 
 import pickle as Serializer
-import re
-import string
 import sys
 
 from RabbitHandler import *
+from modules_manager import ModulesManager
 
-STOP_LISTS = ["arabic", "chinese", "english", "german", "japanese", "portugese", "spanish"]
+PREPROCESSORS = ModulesManager.get_preprocessors()
 
-
-class TweetProcesser():
-    ''' '''
-
-    def __init__(self):
-        self.stopwords = {}
-        for f in STOP_LISTS:
-            with open("stopwords/" + f, 'r', encoding="utf-8") as stopword_list:
-                for line in stopword_list:
-                    line.rstrip()
-                    self.stopwords[line] = 0
-
-    def _is_stopword(self, word):
-        return word in self.stopwords
-
-    @staticmethod
-    def _is_junk(token):
-        if token in string.whitespace:
-            return True
-
-        if token.isdigit():
-            return True
-
-        return len(token) < 2 and (token in string.punctuation or token in string.ascii_letters)
-
-    @staticmethod
-    def __remove_urls(text):
-        for url in re.findall('http[s]?://(?:[a-zA-Z]|[0-9]|[$-_@.&+]|[!*\(\),]|(?:%[0-9a-fA-F][0-9a-fA-F]))+', text):
-            text = text.replace(url, " URL ")
-        return text
-
-    @staticmethod
-    def __remove_usernames(text):
-        for word in text.split():
-            if len(word) > 1 and word[0] == '@' and word[1].isalpha():
-                text = text.replace(word, " USER ")
-        return text
-
-    @staticmethod
-    def __transform_hashtags(text):
-        for word in text.split():
-            if len(word) > 1 and word[0] == '#' and word[1].isalpha():
-                text = text.replace(word, " HTAG" + word[1:] + " ")
-        return text
-
-    def process(self, tweet_dict):
-        text = tweet_dict["text"]
-
-        text = self.__remove_usernames(text)
-        text = self.__remove_urls(text)
-        text = self.__transform_hashtags(text)
-
-        text_list = [word for word in text.split() if not self._is_junk(word) and not self._is_stopword(word)]
-
-        text = " ".join(text_list)
-        tweet_dict["processed_text"] = text
-
-        text_list = [word for word in text_list if word and word != "URL" and word != "USER" and word[:4] != "HTAG"]
-        text = " ".join(text_list)
-        tweet_dict["cleaned_text"] = text
 
 def main(argv):
     debug = False
@@ -79,7 +18,6 @@ def main(argv):
         debug = True
         worker = argv[1]
 
-    tsp = TweetProcesser()
     reader = RabbitHandler("parsed_tweets")
     writer = RabbitHandler("processed_tweets")
 
@@ -89,10 +27,19 @@ def main(argv):
 
         tweet = Serializer.loads(tweet)
 
-        tsp.process(tweet)
+        word_list = tweet["text"].split()
+
+        for i, word in enumerate(word_list):
+            for preprocessor in PREPROCESSORS:
+                word, updated = preprocessor.preprocess(word)
+                word_list[i] = word
+                if updated:
+                    break
+
+        tweet["preprocessed_text"] = " ".join(word_list)
 
         if debug:
-            print("Worker [", worker, "] ", tweet["text"])
+            print("Worker [", worker, "] ", tweet["preprocessed_text"])
             sys.stdout.flush()
 
         writer.send_message(Serializer.dumps(tweet))
