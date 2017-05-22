@@ -19,7 +19,9 @@ class ModulesManager:
             x = WORD_PREPROCESSORS_PATH + "." + x
             modules.append(__import__(x, fromlist=['']))
 
-        return [module for module in modules if "__" not in module.__name__ and module.__name__ not in excluded]
+        modules_list = [module for module in modules if "__" not in module.__name__ and module.__name__ not in excluded]
+        modules_list.sort(key=lambda x: x.__name__)
+        return modules_list
 
     @staticmethod
     def get_tokenizers(excluded=()):
@@ -32,4 +34,6 @@ class ModulesManager:
             x = TOKENIZERS_PATH + "." + x
             modules.append(__import__(x, fromlist=['']))
 
-        return [module for module in modules if "__" not in module.__name__ and module.__name__ not in excluded]
+        modules_list = [module for module in modules if "__" not in module.__name__ and module.__name__ not in excluded]
+        modules_list.sort(key=lambda x: x.__name__)
+        return modules_list

@@ -247,7 +247,7 @@ def get_tokenizers(excluded=[]):
 
 
 def main():
-    reader = RabbitHandler("processed_tweets")
+    reader = RabbitHandler("fully-preprocessed_tweets")
     tokenizers = get_tokenizers()
 
     def callback(tweet):

@@ -2,7 +2,7 @@
 
 from __future__ import absolute_import, print_function, unicode_literals
 
-import pickle as Serializer
+import pickle as serializer
 import sys
 
 from RabbitHandler import *
@@ -19,30 +19,30 @@ def main(argv):
         worker = argv[1]
 
     reader = RabbitHandler("parsed_tweets")
-    writer = RabbitHandler("processed_tweets")
+    writer = RabbitHandler("raw-preprocessed_tweets")
 
     def callback(tweet):
         if not tweet:
             return
 
-        tweet = Serializer.loads(tweet)
+        tweet = serializer.loads(tweet)
 
         word_list = tweet["text"].split()
 
         for i, word in enumerate(word_list):
             for preprocessor in PREPROCESSORS:
                 word, updated = preprocessor.preprocess(word)
-                word_list[i] = word
                 if updated:
+                    word_list[i] = word
                     break
 
-        tweet["preprocessed_text"] = " ".join(word_list)
+        tweet["raw_preprocessed_text"] = " ".join(word_list)
 
         if debug:
-            print("Worker [", worker, "] ", tweet["preprocessed_text"])
+            print("Worker [", worker, "] ", tweet["raw_preprocessed_text"])
             sys.stdout.flush()
 
-        writer.send_message(Serializer.dumps(tweet))
+        writer.send_message(serializer.dumps(tweet))
 
     reader.receive_messages(callback)
 
