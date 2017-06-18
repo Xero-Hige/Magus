@@ -4,9 +4,9 @@
 from __future__ import absolute_import, print_function, unicode_literals
 
 import json as Serializer
+import os
 
 import tweepy
-
 
 class TweetsDownloader():
     def __init__(self):
@@ -39,6 +39,10 @@ def main():
     t_id = input("id: ")
     downloader = TweetsDownloader()
     while t_id:
+        if os.path.exists("tweets/" + t_id + ".json"):
+            t_id = input("id: ")
+            continue
+
         try:
             with open("tweets/" + t_id + ".json", 'w') as t_file:
                 tweet = downloader.get_tweet(t_id)
