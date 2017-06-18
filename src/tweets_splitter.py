@@ -7,6 +7,8 @@ import sys
 
 from RabbitHandler import *
 
+import tweet_keys_constants as tkeys
+
 
 class TweetSplitter():
     ''' '''
@@ -23,7 +25,7 @@ class TweetSplitter():
         values["user_location"] = tweet_dict["user"]["location"]
         values["user_image"] = tweet_dict["user"]["profile_image_url"].replace("_normal.jpg", ".jpg")
         values["user_back"] = tweet_dict["user"].get("profile_banner_url", " ")
-        values["text"] = tweet_dict["text"].encode("utf-8", 'replace').decode("utf-8")
+        values[tkeys.TWEET_RAW_TEXT] = tweet_dict["text"].encode("utf-8", 'replace').decode("utf-8")
 
         try:
             if "coordinates" in tweet_dict and tweet_dict["coordinates"]:
@@ -82,7 +84,7 @@ def main(argv):
             return
 
         if debug:
-            print("Worker [", worker, "] ", dict["text"])
+            print("Worker [", worker, "] ", dict[tkeys.TWEET_RAW_TEXT])
             sys.stdout.flush()
 
         writer.send_message(Serializer.dumps(dict))
