@@ -48,6 +48,7 @@ class Status:
         self.queue.close()
         self.totalize()
         self.persist()
+        sys.exit(0)
 
     def totalize(self):
         features_list = [x for x in self.totals]
@@ -66,6 +67,9 @@ class Status:
                 coocurrence = self.coOcurrences.get((feature1, feature2), 0) + self.coOcurrences.get(
                     (feature2, feature1), 0)
 
+                if coocurrence == 0:
+                    continue
+
                 pmi = math.log((coocurrence / counts) / ((feature1_counts / counts) * (feature2_counts / counts)))
 
                 feature1_pmis[feature2] = pmi
@@ -78,20 +82,24 @@ class Status:
         with open("/trainresults/dict", 'wb') as output:
             Serializer.dump(self.result, output)
 
-        features = [random.choice(self.result.keys()) for _ in range(10)]
+        keys = list(self.result.keys())
+        features = [random.choice(keys) for _ in range(10)]
 
         results = []
 
         for feature in features:
             pmis = [(v, k) for k, v in self.result[feature].items()]
             pmis.sort()
-            pmis = pmis[:5] + pmis[-5:0:-1]
+            pmis = pmis[:5] + pmis[len(pmis) - 5:]
 
             results.append((feature, pmis))
 
-        with open("/trainresults/sample", "w") as output:
+        with open("/trainresults/sample.txt", "wb") as output:
             for result in results:
-                output.write(str(result[0]) + " <<-->> " + str(result[1]))
+                string = str(result[0]) + " <<-->> " + str(result[1]) + "\n"
+                print(string)
+                string = string.encode("utf-8")
+                output.write(string)
 
     def start(self):
         signal.signal(signal.SIGALRM, self.signal_callback)

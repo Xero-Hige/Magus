@@ -7,9 +7,8 @@ import os
 import pickle as Serializer
 import sys
 
-from modules_manager import ModulesManager
-
 from RabbitHandler import *
+from modules_manager import ModulesManager
 
 STOP_LISTS = ["arabic", "chinese", "english", "german", "japanese", "portugese", "spanish"]
 
@@ -64,9 +63,7 @@ def main(argv):
                     continue
                 tokens[token] = dict[token]
 
-        if len(words) < 1:
-            return
-
+        writer.send_message(Serializer.dumps(tokens))
 
     reader.receive_messages(callback)
 

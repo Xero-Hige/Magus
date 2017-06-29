@@ -23,6 +23,7 @@ RUN pip3 install twitter --no-cache-dir && \
     pip3 install pika --no-cache-dir
 
 COPY /src /Magus
+COPY /tweets /training
 
 WORKDIR /Magus
 
