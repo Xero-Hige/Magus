@@ -4,9 +4,12 @@
 from __future__ import absolute_import, print_function, unicode_literals
 
 import pickle as Serializer
+import signal
+import sys
+
+from twitter import *
 
 from RabbitHandler import *
-from twitter import *
 
 
 class TweetsFetcher():
@@ -50,9 +53,19 @@ class TweetsFetcher():
         return self
 
 
-def main():
+def main(argv):
     tf = TweetsFetcher()
     handler = RabbitHandler("tweets_input")
+
+    if len(argv) > 1:
+        timer = int(argv[1])
+        signal.alarm(timer)
+
+        def sig_handler(signum, frame):
+            handler.close()
+            sys.exit(0)
+
+        signal.signal(signal.SIGALRM, sig_handler)
 
     for t in tf:
         # tweet = str(t).encode()
@@ -62,4 +75,4 @@ def main():
 
 
 if __name__ == '__main__':
-    main()
+    main(sys.argv)

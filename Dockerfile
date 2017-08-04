@@ -20,7 +20,9 @@ RUN apt-get update && \
     aptitude clean
 
 RUN pip3 install twitter --no-cache-dir && \
-    pip3 install pika --no-cache-dir
+    pip3 install pika --no-cache-dir && \
+    pip3 install Cython --no-cache-dir && \
+    pip3 install word2vec --no-cache-dir
 
 COPY /src /Magus
 COPY /tweets /training

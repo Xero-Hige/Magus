@@ -1,4 +1,3 @@
-import math
 import pickle as Serializer
 import random
 import signal
@@ -6,7 +5,13 @@ import sys
 
 from RabbitHandler import *
 
-WAIT_TIME = 60
+WAIT_TIME = 20
+import math
+
+
+def update_progress(progress):
+    print ('\r[{0:100}] {1:.4f}%'.format('#' * (math.floor(progress)), progress), end='')
+    return
 
 
 class Status:
@@ -58,6 +63,8 @@ class Status:
             feature1 = features_list[i]
             feature1_counts = self.totals[feature1]
             feature1_pmis = self.result.get(feature1, {})
+
+            update_progress(i / len(features_list) * 100)
 
             for j in range(i + 1, len(features_list)):
                 feature2 = features_list[j]
