@@ -43,38 +43,7 @@
                     <div class="panel-heading">Listado de Tweets</div>
                     <div class="panel-body">
                         <div class="list-group text-left">
-                            {% for tweet in tweets %}
-                            <div class="panel panel-info">
-                                <div class="panel-heading">
-                                    <h3>{{tweet["tweet_id"]}}</h3>
-                                </div>
-                                <div class="panel-body">
-                                    {{tweet["tweet_text"]}}
-                                </div>
-                                <div class="panel-footer">
-                                    <ul>
-                                        <li>Tweet lang: {{tweet["tweet_lang"]}}</li>
-                                        <li>Tweet user lang: {{tweet["tweet_user_lang"]}}</li>
-                                        <li>Tweet place: {{tweet["tweet_place"]}}</li>
-                                        <li>Tweet lang: {{tweet["tweet_mentions"]}}</li>
-                                        <li>Tweet Hashtags:
-                                            <ul>
-                                                {% for hashtag in tweet["tweet_hashtags"]%}
-                                                <li>{{hashtag}}</li>
-                                                {% endfor%}
-                                            </ul>
-                                        </li>
-                                        <li>Tweet Media:
-                                            <ul>
-                                                {% for media in tweet["tweet_media"]%}
-                                                <li>({{media}} - {{tweet["tweet_media"][media]}})</li>
-                                                {% endfor%}
-                                            </ul>
-                                        </li>
-                                    </ul>
-                                </div>
-                            </div>
-                            {% endfor %}
+
                         </div>
                     </div>
                     <div class="panel-footer">
