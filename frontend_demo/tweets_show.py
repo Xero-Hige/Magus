@@ -1,5 +1,6 @@
 import os
 import re
+import shelve
 
 from flask import Flask, render_template, request, redirect
 
@@ -53,7 +54,7 @@ def get_emotions(sentiment):
     return []
 
 
-TAGGED_BASE = {}
+TAGGED_BASE = shelve.open("TAGGEDS")
 
 
 class TaggedTweet():
