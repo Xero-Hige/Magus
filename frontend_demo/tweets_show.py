@@ -1,8 +1,7 @@
 import os
-import random
 import re
 
-from flask import Flask, render_template
+from flask import Flask, render_template, request, redirect
 
 PINED_ALERTS_PER_PAGE = 18
 
@@ -47,13 +46,95 @@ DYADS = {
 }
 
 
+def get_emotions(sentiment):
+    for emotions, stored_sentiment in DYADS.items():
+        if stored_sentiment == sentiment:
+            return emotions
+    return []
+
+
+TAGGED_BASE = {}
+
+
+class TaggedTweet():
+    def __init__(self):
+        self.joy = 0
+        self.trust = 0
+        self.fear = 0
+        self.surprise = 0
+        self.sadness = 0
+        self.disgust = 0
+        self.anger = 0
+        self.anticipation = 0
+
+        self.totals = 1
+
+
 @app.route('/', methods=["GET", "POST"])
 def root():
     tweets = os.listdir("../tweets")
-    random.shuffle(tweets)
-    tweets = [load_tweet(tweets[i]) for i in range(10)]
 
-    return render_template("tweet_catalog.html", pagename="Twitter", tweets=tweets)
+    tweet = load_tweet(tweets[0])  # random.choice(tweets))
+
+    return render_template("tweet_catalog.html", pagename="Twitter", tweet=tweet)
+
+
+@app.route('/add', methods=["POST"])
+def classify():
+    action = request.form["action"]
+
+    if action == 'skip':
+        return redirect("/")
+
+    emotion_a = request.form["a"]
+    emotion_b = request.form["b"]
+    emotion_c = request.form["c"]
+    emotion_d = request.form["d"]
+
+    sentiment = request.form["sentiment"]
+
+    lang = request.form["lang"]
+
+    tweet_id = request.form["tweet_id"]
+
+    print (request.form)
+
+    # TODO: LOCK TAKE
+    tweet = TAGGED_BASE.get(tweet_id, TaggedTweet())
+    emotions = get_emotions(sentiment)
+
+    tweet.joy += 1 if emotion_a == 'joy' else 0
+    tweet.joy += 2 if 'joy' in emotions else 0
+
+    tweet.sadness += 1 if emotion_a == 'sadness' else 0
+    tweet.sadness += 2 if 'sadness' in emotions else 0
+
+    tweet.trust += 1 if emotion_b == 'trust' else 0
+    tweet.trust += 2 if 'trust' in emotions else 0
+
+    tweet.disgust += 1 if emotion_b == 'disgust' else 0
+    tweet.disgust += 2 if 'disgust' in emotions else 0
+
+    tweet.fear += 1 if emotion_c == 'fear' else 0
+    tweet.fear += 2 if 'fear' in emotions else 0
+
+    tweet.anger += 1 if emotion_c == 'anger' else 0
+    tweet.anger += 2 if 'anger' in emotions else 0
+
+    print (emotion_d, emotion_d == 'surprise')
+    tweet.surprise += 1 if emotion_d == 'surprise' else 0
+    tweet.surprise += 2 if 'surprise' in emotions else 0
+    print (tweet.surprise)
+
+    tweet.anticipation += 1 if emotion_d == 'anticipation' else 0
+    tweet.anticipation += 2 if 'anticipation' in emotions else 0
+
+    tweet.totals += 3
+
+    TAGGED_BASE[tweet_id] = tweet
+    # TODO: LOCK RELEASE
+
+    return redirect("/")
 
 
 def get_tweets(files):
@@ -103,36 +184,41 @@ def load_tweet(tweet_file_name):
 
     sentiments = tweet_add_sentiments(tweet)
 
-    sentiments.sort(reverse=True)
+    results = [(get_sentiment(sentiments[i], sentiments[j]), (sentiments[i][0] + sentiments[j][0]) / 2)
+               for i in range(len(sentiments))
+               for j in range(i + 1, len(sentiments))
+               if get_sentiment(sentiments[i], sentiments[j]) != "conflict"
+               if sentiments[i][0] != 0 and sentiments[j][0] != 0
+               ] + [("-", 0)] * 5
 
-    sentiments = sentiments[:3]
+    results.sort(reverse=True, key=lambda x: x[1])
 
-    results = [(get_sentiment(sentiments[0], sentiments[1]), (sentiments[0][0] + sentiments[1][0]) / 2),
-               (get_sentiment(sentiments[1], sentiments[2]), (sentiments[1][0] + sentiments[2][0]) / 2),
-               (get_sentiment(sentiments[0], sentiments[2]), (sentiments[0][0] + sentiments[2][0]) / 2)]
-
-    tweet["sentiments"] = results
+    tweet["sentiments"] = results[:5]
 
     return tweet
 
 
 def tweet_add_sentiments(tweet):
-    tweet["joy"] = random.random() * 100
-    tweet["trust"] = random.random() * 100
-    tweet["fear"] = random.random() * 100
-    tweet["surprise"] = random.random() * 100
-    tweet["sadness"] = 100 - tweet["joy"]
-    tweet["disgust"] = 100 - tweet["trust"]
-    tweet["anger"] = 100 - tweet["fear"]
-    tweet["anticipation"] = 100 - tweet["surprise"]
-    sentiments = [(tweet["joy"], "joy"),
-                  (tweet["trust"], "trust"),
-                  (tweet["fear"], "fear"),
-                  (tweet["surprise"], "surprise"),
-                  (tweet["sadness"], "sadness"),
-                  (tweet["disgust"], "disgust"),
-                  (tweet["anger"], "anger"),
-                  (tweet["anticipation"], "anticipation")]
+    _tweet = TAGGED_BASE.get(tweet['tweet_id'], TaggedTweet())
+
+    sentiments = [(_tweet.joy / _tweet.totals, "joy"),
+                  (_tweet.trust / _tweet.totals, "trust"),
+                  (_tweet.fear / _tweet.totals, "fear"),
+                  (_tweet.surprise / _tweet.totals, "surprise"),
+                  (_tweet.sadness / _tweet.totals, "sadness"),
+                  (_tweet.disgust / _tweet.totals, "disgust"),
+                  (_tweet.anger / _tweet.totals, "anger"),
+                  (_tweet.anticipation / _tweet.totals, "anticipation")]
+
+    tweet["joy"] = sentiments[0][0]
+    tweet["trust"] = sentiments[1][0]
+    tweet["fear"] = sentiments[2][0]
+    tweet["surprise"] = sentiments[3][0]
+    tweet["sadness"] = sentiments[4][0]
+    tweet["disgust"] = sentiments[5][0]
+    tweet["anger"] = sentiments[6][0]
+    tweet["anticipation"] = sentiments[7][0]
+
     return sentiments
 
 

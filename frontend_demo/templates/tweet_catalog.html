@@ -3,56 +3,56 @@
 <main>
     <!--Main layout-->
     <div class="container-fluid">
-        {% for tweet in tweets %}
 
         <div class="row">
 
             <div class="card" style="width: 100%;padding: 1em">
+                <form method="post" action="/add">
+                    <div class="col-md-12" style="width: 100%">
 
-                <div class="col-md-12" style="width: 100%">
+                        <div class="row" style="padding: 1em 1em 0;background-color: #0091ea">
 
-                    <div class="row" style="padding: 1em 1em 0;background-color: #0091ea">
-
-                        <div class="col-md-11 text-justify" style="padding: 0 0 0">
-                            {% for line in tweet["tweet_text"].replace("&amp;","&").split("\n")%}
-                            <p>{{line}}</p>
-                            {% endfor%}
-                        </div>
-
-                        <div class="col-md-1" style="text-align: right;margin-bottom: 1em">
-                            <div class="row">
-                                Translate this
+                            <div class="col-md-11 text-justify" style="padding: 0 0 0">
+                                {% for line in tweet["tweet_text"].replace("&amp;","&").split("\n")%}
+                                <p>{{line}}</p>
+                                {% endfor%}
                             </div>
-                            <div class="row">
-                                <a href="https://translate.google.com/#auto/es/{{tweet['tweet_text']}}" target="_blank">
-                                    <img src="http://www.ligaportal.at/international/images/wm2014/flaggen/256/Spanien.png"
-                                         height="25em" width="25em" attributes="#" \>
-                                </a>
 
-                                <a href="https://translate.google.com/#auto/en/{{tweet['tweet_text']}}" target="_blank">
-                                    <img src="https://rlv.zcache.co.uk/great_britain_flag_round_sticker-ra10ab1f0ca084de28068cce8dfbdbc9e_v9wth_8byvr_324.jpg"
-                                         height="25em" width="25em" attributes="#" \>
-                                </a>
-                            </div>
-                        </div>
-                    </div>
+                            <div class="col-md-1" style="text-align: right;margin-bottom: 1em">
+                                <div class="row">
+                                    Translate this
+                                </div>
+                                <div class="row">
+                                    <a href="https://translate.google.com/#auto/es/{{tweet['tweet_text']}}"
+                                       target="_blank">
+                                        <img src="http://www.ligaportal.at/international/images/wm2014/flaggen/256/Spanien.png"
+                                             height="25em" width="25em" attributes="#" \>
+                                    </a>
 
-                    <div class="row" style="margin-top: 1em">
-
-                        <div class="col-md-4">
-                            <div class="row">
-                                <div class="col-md-12" style="text-align: center;background-color: #6200ea">
-                                    Classification
+                                    <a href="https://translate.google.com/#auto/en/{{tweet['tweet_text']}}"
+                                       target="_blank">
+                                        <img src="https://rlv.zcache.co.uk/great_britain_flag_round_sticker-ra10ab1f0ca084de28068cce8dfbdbc9e_v9wth_8byvr_324.jpg"
+                                             height="25em" width="25em" attributes="#" \>
+                                    </a>
                                 </div>
                             </div>
-                            <div class="row">
-                                <div class="col-md-12" style="text-align: center;background-color: #6200ea"><br>
-                                </div>
-                            </div>
+                        </div>
 
-                            <div class="row" style="margin-top: 1em">
-                                <div class="col-md-12">
-                                    <form action="">
+                        <div class="row" style="margin-top: 1em">
+
+                            <div class="col-md-4">
+                                <div class="row">
+                                    <div class="col-md-12" style="text-align: center;background-color: #6200ea">
+                                        Classification
+                                    </div>
+                                </div>
+                                <div class="row">
+                                    <div class="col-md-12" style="text-align: center;background-color: #6200ea"><br>
+                                    </div>
+                                </div>
+
+                                <div class="row" style="margin-top: 1em">
+                                    <div class="col-md-12">
 
                                         <div class="row">
 
@@ -76,8 +76,6 @@
 
                                         </div>
 
-                                    </form>
-                                    <form action="">
 
                                         <div class="row">
 
@@ -101,8 +99,6 @@
 
                                         </div>
 
-                                    </form>
-                                    <form action="">
 
                                         <div class="row">
 
@@ -126,155 +122,154 @@
 
                                         </div>
 
-                                    </form>
-                                    <form action="">
 
                                         <div class="row">
 
                                             <div class="col-md-4" style="text-align: justify">
                                                 <label>
-                                                    <input type="radio" name="gender" value="surprise">
+                                                    <input type="radio" name="d" value="surprise">
                                                 </label> Surprise
                                             </div>
 
                                             <div class="col-md-4" style="text-align: justify">
                                                 <label>
-                                                    <input type="radio" name="gender" value="none" checked>
+                                                    <input type="radio" name="d" value="none" checked>
                                                 </label> None
                                             </div>
 
                                             <div class="col-md-4" style="text-align: justify">
                                                 <label>
-                                                    <input type="radio" name="gender" value="anticipation">
+                                                    <input type="radio" name="d" value="anticipation">
                                                 </label> Anticipation
                                             </div>
 
                                         </div>
 
-                                    </form>
-                                </div>
-                            </div>
-                        </div>
-
-                        <div class="col-md-8">
-                            <div class="row">
-                                <div class="col-md-12" style="text-align: center;background-color: #6200ea">Extra Data
+                                    </div>
                                 </div>
                             </div>
 
-                            <div class="row">
-                                <div class="col-md-6" style="text-align: center;background-color: #651fff">Stats</div>
-                                <div class="col-md-6" style="text-align: center;background-color: #7c4dff">Tweet Info
-                                </div>
-                            </div>
-                            <div class="row">
-
-                                <script type="text/javascript">
-                                    FusionCharts.ready(function () {
-                                        var fusioncharts = new FusionCharts({
-                                                type: 'radar',
-                                                renderAt: "radar_{{tweet['tweet_id']|safe}}",
-                                                width: '100%',
-                                                height: '100%',
-                                                dataFormat: 'json',
-                                                dataSource: {
-                                                    "chart": {
-                                                        "theme": "fint",
-                                                        "radarfillcolor": "#ffffff",
-                                                    },
-                                                    "categories": [{
-                                                        "category": [{
-                                                            "label": "Joy"
-                                                        }, {
-                                                            "label": "Trust"
-                                                        }, {
-                                                            "label": "Fear"
-                                                        }, {
-                                                            "label": "Surprise"
-                                                        }, {
-                                                            "label": "Sadness"
-                                                        }, {
-                                                            "label": "Disgust"
-                                                        }, {
-                                                            "label": "Anger"
-                                                        }, {
-                                                            "label": "Anticipation"
-                                                        }]
-                                                    }],
-                                                    "dataset": [{
-                                                        "seriesname": "Classification",
-                                                        "data": [{
-                                                            "value": "{{tweet['joy']}}"
-                                                        }, {
-                                                            "value": "{{tweet['trust']}}"
-                                                        }, {
-                                                            "value": "{{tweet['fear']}}"
-                                                        }, {
-                                                            "value": "{{tweet['surprise']}}"
-                                                        }, {
-                                                            "value": "{{tweet['sadness']}}"
-                                                        }, {
-                                                            "value": "{{tweet['disgust']}}"
-                                                        }, {
-                                                            "value": "{{tweet['anger']}}"
-                                                        }, {
-                                                            "value": "{{tweet['anticipation']}}"
-                                                        }]
-                                                    }]
-                                                }
-                                            }
-                                        );
-                                        fusioncharts.render();
-                                    });
-                                </script>
-
-                                <div id="radar_{{tweet['tweet_id']}}" class="col-md-6" style="height: 15em"></div>
-
-                                <div class="col-md-6" style="margin-top: 1em">
-                                    <div class="card-block">
-
-                                        <div class="read-more">
-                                            <ul>
-                                                <li>Tweet lang: {{tweet["tweet_lang"]}}</li>
-                                                <li>Tweet user lang: {{tweet["tweet_user_lang"]}}</li>
-                                                <li>Tweet place: {{tweet["tweet_place"]}}</li>
-                                                <li>Tweet lang: {{tweet["tweet_mentions"]}}</li>
-                                                <li>Tweet Hashtags:
-                                                    <ul>
-                                                        {% for hashtag in tweet["tweet_hashtags"]%}
-                                                        <li>{{hashtag}}</li>
-                                                        {% endfor%}
-                                                    </ul>
-                                                </li>
-                                                <li>Tweet Media:
-                                                    <ul>
-                                                        {% for media in tweet["tweet_media"]%}
-                                                        <li>({{media}} - {{tweet["tweet_media"][media]}})</li>
-                                                        {% endfor%}
-                                                    </ul>
-                                                </li>
-                                            </ul>
-                                        </div>
+                            <div class="col-md-8">
+                                <div class="row">
+                                    <div class="col-md-12" style="text-align: center;background-color: #6200ea">Extra
+                                        Data
                                     </div>
                                 </div>
 
-                            </div>
+                                <div class="row">
+                                    <div class="col-md-6" style="text-align: center;background-color: #651fff">Stats
+                                    </div>
+                                    <div class="col-md-6" style="text-align: center;background-color: #7c4dff">Tweet
+                                        Info
+                                    </div>
+                                </div>
+                                <div class="row">
 
+                                    <script type="text/javascript">
+                                        FusionCharts.ready(function () {
+                                            var fusioncharts = new FusionCharts({
+                                                    type: 'radar',
+                                                    renderAt: "radar_{{tweet['tweet_id']|safe}}",
+                                                    width: '100%',
+                                                    height: '100%',
+                                                    dataFormat: 'json',
+                                                    dataSource: {
+                                                        "chart": {
+                                                            "theme": "fint",
+                                                            "radarfillcolor": "#ffffff",
+                                                        },
+                                                        "categories": [{
+                                                            "category": [{
+                                                                "label": "Joy"
+                                                            }, {
+                                                                "label": "Trust"
+                                                            }, {
+                                                                "label": "Fear"
+                                                            }, {
+                                                                "label": "Surprise"
+                                                            }, {
+                                                                "label": "Sadness"
+                                                            }, {
+                                                                "label": "Disgust"
+                                                            }, {
+                                                                "label": "Anger"
+                                                            }, {
+                                                                "label": "Anticipation"
+                                                            }]
+                                                        }],
+                                                        "dataset": [{
+                                                            "seriesname": "Classification",
+                                                            "data": [{
+                                                                "value": "{{tweet['joy']}}"
+                                                            }, {
+                                                                "value": "{{tweet['trust']}}"
+                                                            }, {
+                                                                "value": "{{tweet['fear']}}"
+                                                            }, {
+                                                                "value": "{{tweet['surprise']}}"
+                                                            }, {
+                                                                "value": "{{tweet['sadness']}}"
+                                                            }, {
+                                                                "value": "{{tweet['disgust']}}"
+                                                            }, {
+                                                                "value": "{{tweet['anger']}}"
+                                                            }, {
+                                                                "value": "{{tweet['anticipation']}}"
+                                                            }]
+                                                        }]
+                                                    }
+                                                }
+                                            );
+                                            fusioncharts.render();
+                                        });
+                                    </script>
+
+                                    <div id="radar_{{tweet['tweet_id']}}" class="col-md-6" style="height: 15em"></div>
+
+                                    <div class="col-md-6" style="margin-top: 1em">
+                                        <div class="card-block">
+
+                                            <div class="read-more">
+                                                <ul>
+                                                    <li>Tweet lang: {{tweet["tweet_lang"]}}</li>
+                                                    <li>Tweet user lang: {{tweet["tweet_user_lang"]}}</li>
+                                                    <li>Tweet place: {{tweet["tweet_place"]}}</li>
+                                                    <li>Tweet lang: {{tweet["tweet_mentions"]}}</li>
+                                                    <li>Tweet Hashtags:
+                                                        <ul>
+                                                            {% for hashtag in tweet["tweet_hashtags"]%}
+                                                            <li>{{hashtag}}</li>
+                                                            {% endfor%}
+                                                        </ul>
+                                                    </li>
+                                                    <li>Tweet Media:
+                                                        <ul>
+                                                            {% for media in tweet["tweet_media"]%}
+                                                            <li>({{media}} - {{tweet["tweet_media"][media]}})</li>
+                                                            {% endfor%}
+                                                        </ul>
+                                                    </li>
+                                                </ul>
+                                            </div>
+                                        </div>
+                                    </div>
+
+                                </div>
+
+                            </div>
                         </div>
-                    </div>
 
-                    <div class="row">
-                        <div class="col-md-4">
-                            <div class="row">
-                                <div class="col-md-12" style="text-align: center;background-color: #6200ea">
-                                    Classification
+                        <div class="row">
+                            <div class="col-md-4">
+                                <div class="row">
+                                    <div class="col-md-12" style="text-align: center;background-color: #6200ea">
+                                        Classification
+                                    </div>
                                 </div>
-                            </div>
-                            <div class="row">
-                                <div class="col-md-12" style="text-align: center;background-color: #6200ea"><br>
+                                <div class="row">
+                                    <div class="col-md-12" style="text-align: center;background-color: #6200ea"><br>
+                                    </div>
                                 </div>
-                            </div>
-                            <form action="">
                                 <div class="row" style="margin-top: 0em">
 
                                     <div class="col-md-4" style="padding:0.5em;background-color: #00C851">
@@ -506,8 +501,8 @@
                                     <div class="col-md-2"></div>
                                     <div class="col-md-4" style="padding-top: 0.5em">
                                         <label>
-                                            <input type="radio" name="sentiment" value="contempt">
-                                        </label> Contempt
+                                            <input type="radio" name="sentiment" value="curiosity">
+                                        </label> Curiosity
                                     </div>
                                     <div class="col-md-4" style="padding-top: 0.5em">
                                         <label>
@@ -526,119 +521,127 @@
                                     <div class="col-md-4" style="background-color: #b9bbbe"></div>
                                 </div>
 
-                            </form>
+                            </div>
 
-                        </div>
-
-                        <script type="text/javascript">
-                            FusionCharts.ready(function () {
-                                var fusioncharts = new FusionCharts({
-                                        type: 'radar',
-                                        renderAt: "radar2_{{tweet['tweet_id']|safe}}",
-                                        width: '100%',
-                                        height: '100%',
-                                        dataFormat: 'json',
-                                        dataSource: {
-                                            "chart": {
-                                                "theme": "fint",
-                                                "radarfillcolor": "#ffffff",
-                                            },
-                                            "categories": [{
-                                                "category": [{
-                                                    "label": "Happy"
-                                                }, {
-                                                    "label": "Sad"
-                                                }, {
-                                                    "label": "Angry"
+                            <script type="text/javascript">
+                                FusionCharts.ready(function () {
+                                    var fusioncharts = new FusionCharts({
+                                            type: 'radar',
+                                            renderAt: "radar2_{{tweet['tweet_id']|safe}}",
+                                            width: '100%',
+                                            height: '100%',
+                                            dataFormat: 'json',
+                                            dataSource: {
+                                                "chart": {
+                                                    "theme": "fint",
+                                                    "radarfillcolor": "#ffffff",
+                                                },
+                                                "categories": [{
+                                                    "category": [{
+                                                        "label": "Happy"
+                                                    }, {
+                                                        "label": "Sad"
+                                                    }, {
+                                                        "label": "Angry"
+                                                    }]
+                                                }],
+                                                "dataset": [{
+                                                    "seriesname": "Classification",
+                                                    "data": [{
+                                                        "value": "50"
+                                                    }, {
+                                                        "value": "20"
+                                                    }, {
+                                                        "value": "30"
+                                                    }]
                                                 }]
-                                            }],
-                                            "dataset": [{
-                                                "seriesname": "Classification",
+                                            }
+                                        }
+                                    );
+                                    fusioncharts.render();
+                                });
+                            </script>
+
+                            <div id="radar2_{{tweet['tweet_id']}}" class="col-md-4"></div>
+
+                            <script type="text/javascript">
+                                FusionCharts.ready(function () {
+                                    var fusioncharts = new FusionCharts({
+                                            type: 'bar2d',
+                                            renderAt: "bars_{{tweet['tweet_id']}}",
+                                            width: '100%',
+                                            height: '100%',
+                                            dataFormat: 'json',
+                                            dataSource: {
+                                                "chart": {
+                                                    "caption": "Totals",
+                                                    "paletteColors": "#0075c2",
+                                                    "bgColor": "#ffffff",
+                                                    "showBorder": "0",
+                                                    "showCanvasBorder": "0",
+                                                    "usePlotGradientColor": "0",
+                                                    "plotBorderAlpha": "10",
+                                                    "placeValuesInside": "1",
+                                                    "valueFontColor": "#ffffff",
+                                                    "showAxisLines": "1",
+                                                    "axisLineAlpha": "25",
+                                                    "divLineAlpha": "10",
+                                                    "alignCaptionWithCanvas": "0",
+                                                    "showAlternateVGridColor": "0",
+                                                    "captionFontSize": "14",
+                                                    "subcaptionFontSize": "14",
+                                                    "subcaptionFontBold": "0",
+                                                    "toolTipColor": "#ffffff",
+                                                    "toolTipBorderThickness": "0",
+                                                    "toolTipBgColor": "#000000",
+                                                    "toolTipBgAlpha": "80",
+                                                    "toolTipBorderRadius": "2",
+                                                    "toolTipPadding": "5"
+                                                },
+
                                                 "data": [{
-                                                    "value": "50"
+                                                    "label": "{{tweet['sentiments'][0][0]}}",
+                                                    "value": "{{tweet['sentiments'][0][1]}}"
                                                 }, {
-                                                    "value": "20"
+                                                    "label": "{{tweet['sentiments'][1][0]}}",
+                                                    "value": "{{tweet['sentiments'][1][1]}}"
                                                 }, {
-                                                    "value": "30"
+                                                    "label": "{{tweet['sentiments'][2][0]}}",
+                                                    "value": "{{tweet['sentiments'][2][1]}}"
+                                                }, {
+                                                    "label": "{{tweet['sentiments'][3][0]}}",
+                                                    "value": "{{tweet['sentiments'][3][1]}}"
+                                                }, {
+                                                    "label": "{{tweet['sentiments'][4][0]}}",
+                                                    "value": "{{tweet['sentiments'][4][1]}}"
                                                 }]
-                                            }]
+                                            }
                                         }
-                                    }
-                                );
-                                fusioncharts.render();
-                            });
-                        </script>
+                                    );
+                                    fusioncharts.render();
+                                });
+                            </script>
 
-                        <div id="radar2_{{tweet['tweet_id']}}" class="col-md-4"></div>
+                            <div id="bars_{{tweet['tweet_id']}}" class="col-md-4"></div>
+                        </div>
 
-                        <script type="text/javascript">
-                            FusionCharts.ready(function () {
-                                var fusioncharts = new FusionCharts({
-                                        type: 'bar2d',
-                                        renderAt: "bars_{{tweet['tweet_id']}}",
-                                        width: '100%',
-                                        height: '100%',
-                                        dataFormat: 'json',
-                                        dataSource: {
-                                            "chart": {
-                                                "caption": "Totals",
-                                                "paletteColors": "#0075c2",
-                                                "bgColor": "#ffffff",
-                                                "showBorder": "0",
-                                                "showCanvasBorder": "0",
-                                                "usePlotGradientColor": "0",
-                                                "plotBorderAlpha": "10",
-                                                "placeValuesInside": "1",
-                                                "valueFontColor": "#ffffff",
-                                                "showAxisLines": "1",
-                                                "axisLineAlpha": "25",
-                                                "divLineAlpha": "10",
-                                                "alignCaptionWithCanvas": "0",
-                                                "showAlternateVGridColor": "0",
-                                                "captionFontSize": "14",
-                                                "subcaptionFontSize": "14",
-                                                "subcaptionFontBold": "0",
-                                                "toolTipColor": "#ffffff",
-                                                "toolTipBorderThickness": "0",
-                                                "toolTipBgColor": "#000000",
-                                                "toolTipBgAlpha": "80",
-                                                "toolTipBorderRadius": "2",
-                                                "toolTipPadding": "5"
-                                            },
-
-                                            "data": [{
-                                                "label": "{{tweet['sentiments'][0][0]}}",
-                                                "value": "{{tweet['sentiments'][0][1]}}"
-                                            }, {
-                                                "label": "{{tweet['sentiments'][2][0]}}",
-                                                "value": "{{tweet['sentiments'][2][1]}}"
-                                            }, {
-                                                "label": "{{tweet['sentiments'][1][0]}}",
-                                                "value": "{{tweet['sentiments'][1][1]}}"
-                                            }]
-                                        }
-                                    }
-                                );
-                                fusioncharts.render();
-                            });
-                        </script>
-
-                        <div id="bars_{{tweet['tweet_id']}}" class="col-md-4"></div>
-                    </div>
-
-                    <div class="row">
-                        <div class="col-md-9"></div>
-                        <div class="col-md-3">
-                            <button type="button" class="btn btn-success">Finish</button>
-                            <button type="button" class="btn btn-success">Next</button>
-                            <button type="button" class="btn btn-success">Skip >></button>
+                        <div class="row">
+                            <div class="col-md-9"></div>
+                            <div class="col-md-3">
+                                <button type="submit" class="btn btn-success" name="action" value="finish">Finish
+                                </button>
+                                <button type="submit" class="btn btn-success" name="action" value="next">Next</button>
+                                <button type="submit" class="btn btn-success" name="action" value="skip">Skip >>
+                                </button>
+                            </div>
                         </div>
                     </div>
-                </div>
+                    <input type="hidden" name="lang" value="en">
+                    <input type="hidden" name="tweet_id" value="{{tweet['tweet_id']}}">
+                </form>
             </div>
 
         </div>
-        {% endfor %}
     </div>
 
 </main>
