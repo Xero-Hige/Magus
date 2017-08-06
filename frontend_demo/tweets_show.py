@@ -1,4 +1,5 @@
 import os
+import random
 import re
 import shelve
 
@@ -115,7 +116,7 @@ class TaggedTweet():
 def root():
     tweets = os.listdir("../tweets")
 
-    tweet = load_tweet(tweets[0])  # random.choice(tweets))
+    tweet = load_tweet(random.choice(tweets))
 
     return render_template("tweet_catalog.html", pagename="Twitter", tweet=tweet)
 
