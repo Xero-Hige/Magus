@@ -46,6 +46,46 @@ DYADS = {
     ("fear", "anticipation"): "anxiety"
 }
 
+GROUPS = {
+    "love": "happy",
+    "alarm": "angry",
+    "disappointment": "sad",
+    "remorse": "sad",
+    "contempt": "angry",
+    "agression": "angry",
+    "optimism": "happy",
+    "guilt": "sad",
+    "despair": "sad",
+    "envy": "angry",
+    "cynism": "angry",
+    "pride": "happy",
+    "fatalism": "sad",
+    "delight": "happy",
+    "sentimentality": "sad",
+    "shame": "sad",
+    "outrage": "angry",
+    "pessimism": "sad",
+    "anxiety": "angry"
+}
+
+
+def totalize_groups(sentiments):
+    total = {"happy": 0, "sad": 0, "angry": 0, "none": 0}
+    acum = 0
+
+    for sentiment in sentiments:
+        total[GROUPS.get(sentiment[0], "none")] += sentiment[1]
+        acum += sentiment[1]
+
+    if acum == 0:
+        return total
+
+    for sentiment in total:
+        total[sentiment] /= acum
+        total[sentiment] *= 100
+
+    return total
+
 
 def get_emotions(sentiment):
     for emotions, stored_sentiment in DYADS.items():
@@ -195,6 +235,7 @@ def load_tweet(tweet_file_name):
     results.sort(reverse=True, key=lambda x: x[1])
 
     tweet["sentiments"] = results[:5]
+    tweet["groups"] = totalize_groups(results)
 
     return tweet
 
