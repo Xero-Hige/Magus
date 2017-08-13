@@ -268,3 +268,9 @@ def get_sentiment(sentiment_a, sentiment_b):
         return DYADS.get((sentiment_b[1], sentiment_a[1]), "conflict")
     else:
         return DYADS.get((sentiment_a[1], sentiment_b[1]), "conflict")
+
+
+if __name__ == '__main__':
+    # Bind to PORT if defined, otherwise default to 5000.
+    port = int(os.environ.get('PORT', 5000))
+    app.run(host='0.0.0.0', port=port)
