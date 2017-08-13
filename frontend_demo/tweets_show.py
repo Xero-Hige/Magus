@@ -93,7 +93,7 @@ def get_emotions(sentiment):
     return []
 
 
-TAGGED_BASE = shelve.open("TAGGEDS")
+TAGGED_BASE = shelve.open("/tmp/TAGGEDS")
 
 
 class TaggedTweet:
