@@ -1,7 +1,6 @@
 import os
 import random
 import re
-import shelve
 
 from flask import Flask, render_template, request, redirect
 
@@ -93,7 +92,7 @@ def get_emotions(sentiment):
     return []
 
 
-TAGGED_BASE = shelve.open("/tmp/TAGGEDS")
+TAGGED_BASE = {}  # shelve.open("/tmp/TAGGEDS")
 
 
 class TaggedTweet:
