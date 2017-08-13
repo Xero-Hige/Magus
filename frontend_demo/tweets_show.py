@@ -1,22 +1,23 @@
 import os
 import random
 import re
+import shelve
 
 from flask import Flask, render_template, request, redirect
 
 app = Flask(__name__)
 import json
 
-REMOJIS = re.compile(u"("
-                     u"(\ud83d[\ude00-\ude4f])|"  # emoticons
-                     u"(\ud83c[\udf00-\uffff])|"  # symbols & pictographs (1 of 2)
-                     u"(\ud83d[\u0000-\uddff])|"  # symbols & pictographs (2 of 2)
-                     u"(\ud83d[\ude80-\udeff])|"  # transport & map symbols
-                     u"(\ud83c[\udde0-\uddff])"  # flags (iOS)
-                     u"+"
-                     u")", flags=re.UNICODE)
+# REMOJIS = re.compile(u"("
+#                     u"(\ud83d[\ude00-\ude4f])|"  # emoticons
+#                     u"(\ud83c[\udf00-\uffff])|"  # symbols & pictographs (1 of 2)
+#                     u"(\ud83d[\u0000-\uddff])|"  # symbols & pictographs (2 of 2)
+#                     u"(\ud83d[\ude80-\udeff])|"  # transport & map symbols
+#                     u"(\ud83c[\udde0-\uddff])"  # flags (iOS)
+#                     u"+"
+#                     u")", flags=re.UNICODE)
 
-EMOJIS = re.compile(u"\\ud83d", re.UNICODE)
+EMOJIS = re.compile(u"\\ud83d", flags=re.UNICODE)
 
 DYADS = {
     ("joy", "trust"): "love",
@@ -92,10 +93,10 @@ def get_emotions(sentiment):
     return []
 
 
-TAGGED_BASE = {}  # shelve.open("TAGGEDS")
+TAGGED_BASE = shelve.open("TAGGEDS")
 
 
-class TaggedTweet():
+class TaggedTweet:
     def __init__(self):
         self.joy = 0
         self.trust = 0
