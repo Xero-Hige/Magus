@@ -5,8 +5,6 @@ import shelve
 
 from flask import Flask, render_template, request, redirect
 
-PINED_ALERTS_PER_PAGE = 18
-
 app = Flask(__name__)
 import json
 

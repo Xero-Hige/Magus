@@ -1,1 +1,1 @@
-web: cd ./frontend_demo && bash startServer.sh
+web: gunicorn --pythonpath frontend_demo hello:app
