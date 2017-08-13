@@ -1,1 +1,1 @@
-web: gunicorn --pythonpath frontend_demo hello:app
+web: gunicorn --pythonpath frontend_demo tweets_show:app
