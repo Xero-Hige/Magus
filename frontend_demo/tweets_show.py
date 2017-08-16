@@ -1,10 +1,13 @@
 import os
 import random
 import re
+import sys
 
 from flask import Flask, render_template, request, redirect
 from tweets_db import *
 from tweets_db import DB_Handler
+
+sys.path.insert(0, "/app/frontend_demo")
 
 app = Flask(__name__)
 import json
