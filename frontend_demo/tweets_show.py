@@ -3,6 +3,8 @@ import random
 import re
 
 from flask import Flask, render_template, request, redirect
+from tweets_db import *
+from tweets_db import DB_Handler
 
 app = Flask(__name__)
 import json
@@ -92,23 +94,6 @@ def get_emotions(sentiment):
     return []
 
 
-TAGGED_BASE = {}  # shelve.open("/tmp/TAGGEDS")
-
-
-class TaggedTweet:
-    def __init__(self):
-        self.joy = 0
-        self.trust = 0
-        self.fear = 0
-        self.surprise = 0
-        self.sadness = 0
-        self.disgust = 0
-        self.anger = 0
-        self.anticipation = 0
-
-        self.totals = 1
-
-
 @app.route('/', methods=["GET", "POST"])
 def root():
     tweets = os.listdir("../tweets")
@@ -136,10 +121,9 @@ def classify():
 
     tweet_id = request.form["tweet_id"]
 
-    print (request.form)
-
+    handler = DB_Handler()
     # TODO: LOCK TAKE
-    tweet = TAGGED_BASE.get(tweet_id, TaggedTweet())
+    tweet = handler.get_tagged(tweet_id)
     emotions = get_emotions(sentiment)
 
     tweet.joy += 1 if emotion_a == 'joy' else 0
@@ -170,7 +154,7 @@ def classify():
 
     tweet.totals += 3
 
-    TAGGED_BASE[tweet_id] = tweet
+    handler.commit_changes()
     # TODO: LOCK RELEASE
 
     return redirect("/")
@@ -239,7 +223,8 @@ def load_tweet(tweet_file_name):
 
 
 def tweet_add_sentiments(tweet):
-    _tweet = TAGGED_BASE.get(tweet['tweet_id'], TaggedTweet())
+    handler = DB_Handler()
+    _tweet = handler.get_tagged(tweet['tweet_id'])
 
     sentiments = [(_tweet.joy / _tweet.totals, "joy"),
                   (_tweet.trust / _tweet.totals, "trust"),
