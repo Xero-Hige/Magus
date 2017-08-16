@@ -25,7 +25,7 @@ import os
 from sqlalchemy import create_engine
 
 engine = create_engine(
-    'postgres://{0}:{1}@horton.elephantsql.com:5432/{0}'.format(os.environ[''], os.environ['SQL_PASS']))
+    'postgres://{0}:{1}@horton.elephantsql.com:5432/{0}'.format(os.environ['SQL_USER'], os.environ['SQL_PASS']))
 
 from sqlalchemy.orm import sessionmaker
 
