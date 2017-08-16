@@ -1,3 +1,4 @@
+import sqlalchemy
 from sqlalchemy import Column, Integer, String
 from sqlalchemy.ext.declarative import declarative_base
 
@@ -43,7 +44,10 @@ class DB_Handler:
         self.s = session()
 
     def get_tagged(self, tweet_id):
-        tweet = self.s.query(TaggedTweet).filter(TaggedTweet.id == tweet_id).one()
+        try:
+            tweet = self.s.query(TaggedTweet).filter(TaggedTweet.id == tweet_id).one()
+        except sqlalchemy.orm.exc.NoResultFound:
+            tweet = None
 
         if not tweet:
             tweet = TaggedTweet(id=tweet_id, totals=1)
