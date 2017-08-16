@@ -31,8 +31,10 @@ from sqlalchemy.orm import sessionmaker
 
 session = sessionmaker()
 session.configure(bind=engine)
-Base.metadata.create_all(engine)
-
+try:
+    Base.metadata.create_all(engine)
+except:
+    pass
 
 class DB_Handler:
     def __init__(self):
