@@ -1,0 +1,415 @@
+{% include 'head.html' %}
+
+<main>
+    <!--Main layout-->
+    <div class="container-fluid">
+
+        <div class="row">
+
+            <div class="card" style="width: 100%;padding: 1em">
+                <form method="post" action="/add">
+                    <div class="col-md-12" style="width: 100%">
+
+                        <div class="row" style="padding: 1em 1em 0;background-color: #0091ea">
+
+                            <div class="col-md-11 text-justify" style="padding: 0 0 0">
+                                https://twitter.com/statuses/<input type="text" name="tweet_id"><br>
+                            </div>
+
+                        </div>
+
+                        <div class="row" style="margin-top: 1em">
+
+                            <div class="col-md-6">
+                                <div class="row">
+                                    <div class="col-md-12" style="text-align: center;background-color: #6200ea">
+                                        Classification
+                                    </div>
+                                </div>
+
+                                <div class="row" style="margin-top: 1em">
+                                    <div class="col-md-12">
+
+                                        <div class="row">
+
+                                            <div class="col-md-4" style="text-align: justify">
+                                                <label>
+                                                    <input type="radio" name="a" value="joy">
+                                                </label> Joy
+                                            </div>
+
+                                            <div class="col-md-4" style="text-align: justify">
+                                                <label>
+                                                    <input type="radio" name="a" value="none" checked>
+                                                </label> None
+                                            </div>
+
+                                            <div class="col-md-4" style="text-align: justify">
+                                                <label>
+                                                    <input type="radio" name="a" value="sadness">
+                                                </label> Sadness
+                                            </div>
+
+                                        </div>
+
+
+                                        <div class="row">
+
+                                            <div class="col-md-4" style="text-align: justify">
+                                                <label>
+                                                    <input type="radio" name="b" value="trust">
+                                                </label> Trust
+                                            </div>
+
+                                            <div class="col-md-4" style="text-align: justify">
+                                                <label>
+                                                    <input type="radio" name="b" value="none" checked>
+                                                </label> None
+                                            </div>
+
+                                            <div class="col-md-4" style="text-align: justify">
+                                                <label>
+                                                    <input type="radio" name="b" value="disgust">
+                                                </label> Disgust
+                                            </div>
+
+                                        </div>
+
+
+                                        <div class="row">
+
+                                            <div class="col-md-4" style="text-align: justify">
+                                                <label>
+                                                    <input type="radio" name="c" value="fear">
+                                                </label> Fear
+                                            </div>
+
+                                            <div class="col-md-4" style="text-align: justify">
+                                                <label>
+                                                    <input type="radio" name="c" value="none" checked>
+                                                </label> None
+                                            </div>
+
+                                            <div class="col-md-4" style="text-align: justify">
+                                                <label>
+                                                    <input type="radio" name="c" value="anger">
+                                                </label> Anger
+                                            </div>
+
+                                        </div>
+
+
+                                        <div class="row">
+
+                                            <div class="col-md-4" style="text-align: justify">
+                                                <label>
+                                                    <input type="radio" name="d" value="surprise">
+                                                </label> Surprise
+                                            </div>
+
+                                            <div class="col-md-4" style="text-align: justify">
+                                                <label>
+                                                    <input type="radio" name="d" value="none" checked>
+                                                </label> None
+                                            </div>
+
+                                            <div class="col-md-4" style="text-align: justify">
+                                                <label>
+                                                    <input type="radio" name="d" value="anticipation">
+                                                </label> Anticipation
+                                            </div>
+
+                                        </div>
+
+                                    </div>
+                                </div>
+                            </div>
+
+                            <div class="col-md-6">
+                                <div class="row">
+                                    <div class="col-md-12" style="text-align: center;background-color: #6200ea">
+                                        Classification
+                                    </div>
+                                </div>
+                                <div class="row">
+                                    <div class="col-md-12" style="text-align: center;background-color: #6200ea"><br>
+                                    </div>
+                                </div>
+                                <div class="row" style="margin-top: 0em">
+
+                                    <div class="col-md-4" style="padding:0.5em;background-color: #00C851">
+
+                                        <div class="row" style="padding: 0em;margin-top: 0em">
+
+                                            <div class="col-md-12" style="text-align: center">
+                                                Happy
+                                            </div>
+
+                                        </div>
+
+                                        <div class="row" style="padding: 0em;margin-top: 1em">
+
+                                            <div class="col-md-12" style="text-align: justify">
+                                                <label>
+                                                    <input type="radio" name="sentiment" value="love">
+                                                </label> Love
+                                            </div>
+
+                                        </div>
+                                        <div class="row" style="padding: 0em;margin-top: 0em">
+
+                                            <div class="col-md-12" style="text-align: justify">
+                                                <label>
+                                                    <input type="radio" name="sentiment" value="delight">
+                                                </label> Delight
+                                            </div>
+
+                                        </div>
+                                        <div class="row" style="padding: 0em;margin-top: 0em">
+
+                                            <div class="col-md-12" style="text-align: justify">
+                                                <label>
+                                                    <input type="radio" name="sentiment" value="pride">
+                                                </label> Pride
+                                            </div>
+
+                                        </div>
+                                        <div class="row" style="padding: 0em;margin-top: 0em">
+
+                                            <div class="col-md-12" style="text-align: justify">
+                                                <label>
+                                                    <input type="radio" name="sentiment" value="optimism">
+                                                </label> Optimism
+                                            </div>
+
+                                        </div>
+
+                                    </div>
+
+                                    <div class="col-md-4" style="padding:0.5em;background-color: #31b0d5">
+
+                                        <div class="row" style="padding: 0em;margin-top: 0em">
+
+                                            <div class="col-md-12" style="text-align: center">
+                                                Sad
+                                            </div>
+
+                                        </div>
+
+                                        <div class="row" style="padding: 0em;margin-top: 1em">
+
+                                            <div class="col-md-12" style="text-align: justify">
+                                                <label>
+                                                    <input type="radio" name="sentiment" value="guilt">
+                                                </label> Guilt
+                                            </div>
+
+                                        </div>
+                                        <div class="row" style="padding: 0em;margin-top: 0em">
+
+                                            <div class="col-md-12" style="text-align: justify">
+                                                <label>
+                                                    <input type="radio" name="sentiment" value="sentimentality">
+                                                </label> Sentimentality
+                                            </div>
+
+                                        </div>
+                                        <div class="row" style="padding: 0em;margin-top: 0em">
+
+                                            <div class="col-md-12" style="text-align: justify">
+                                                <label>
+                                                    <input type="radio" name="sentiment" value="despair">
+                                                </label> Despair
+                                            </div>
+
+                                        </div>
+                                        <div class="row" style="padding: 0em;margin-top: 0em">
+
+                                            <div class="col-md-12" style="text-align: justify">
+                                                <label>
+                                                    <input type="radio" name="sentiment" value="shame">
+                                                </label> Shame
+                                            </div>
+
+                                        </div>
+                                        <div class="row" style="padding: 0em;margin-top: 0em">
+
+                                            <div class="col-md-12" style="text-align: justify">
+                                                <label>
+                                                    <input type="radio" name="sentiment" value="disappointment">
+                                                </label> Disappointment
+                                            </div>
+                                        </div>
+                                        <div class="row" style="padding: 0em;margin-top: 0em">
+
+                                            <div class="col-md-12" style="text-align: justify">
+                                                <label>
+                                                    <input type="radio" name="sentiment" value="remorse">
+                                                </label> Remorse
+                                            </div>
+                                        </div>
+                                        <div class="row" style="padding: 0em;margin-top: 0em">
+
+                                            <div class="col-md-12" style="text-align: justify">
+                                                <label>
+                                                    <input type="radio" name="sentiment" value="pessimism">
+                                                </label> Pessimism
+                                            </div>
+                                        </div>
+                                        <div class="row" style="padding: 0em;margin-top: 0em">
+
+                                            <div class="col-md-12" style="text-align: justify">
+                                                <label>
+                                                    <input type="radio" name="sentiment" value="pessimism">
+                                                </label> Fatalism
+                                            </div>
+                                        </div>
+
+                                    </div>
+
+                                    <div class="col-md-4" style="padding:0.5em;background-color: #c83035">
+
+                                        <div class="row" style="padding: 0em;margin-top: 0em">
+
+                                            <div class="col-md-12" style="text-align: center">
+                                                Angry
+                                            </div>
+
+                                        </div>
+
+                                        <div class="row" style="padding: 0em;margin-top: 1em">
+
+                                            <div class="col-md-12" style="text-align: justify">
+                                                <label>
+                                                    <input type="radio" name="sentiment" value="alarm">
+                                                </label> Alarm
+                                            </div>
+
+                                        </div>
+                                        <div class="row" style="padding: 0em;margin-top: 0em">
+
+                                            <div class="col-md-12" style="text-align: justify">
+                                                <label>
+                                                    <input type="radio" name="sentiment" value="outrage">
+                                                </label> Outrage
+                                            </div>
+
+                                        </div>
+                                        <div class="row" style="padding: 0em;margin-top: 0em">
+
+                                            <div class="col-md-12" style="text-align: justify">
+                                                <label>
+                                                    <input type="radio" name="sentiment" value="envy">
+                                                </label> Envy
+                                            </div>
+
+                                        </div>
+                                        <div class="row" style="padding: 0em;margin-top: 0em">
+
+                                            <div class="col-md-12" style="text-align: justify">
+                                                <label>
+                                                    <input type="radio" name="sentiment" value="contempt">
+                                                </label> Contempt
+                                            </div>
+
+                                        </div>
+                                        <div class="row" style="padding: 0em;margin-top: 0em">
+
+                                            <div class="col-md-12" style="text-align: justify">
+                                                <label>
+                                                    <input type="radio" name="sentiment" value="cynism">
+                                                </label> Cynism
+                                            </div>
+                                        </div>
+                                        <div class="row" style="padding: 0em;margin-top: 0em">
+
+                                            <div class="col-md-12" style="text-align: justify">
+                                                <label>
+                                                    <input type="radio" name="sentiment" value="aggression">
+                                                </label> Aggression
+                                            </div>
+
+                                        </div>
+                                        <div class="row" style="padding: 0em;margin-top: 0em">
+
+                                            <div class="col-md-12" style="text-align: justify">
+                                                <label>
+                                                    <input type="radio" name="sentiment" value="anxiety">
+                                                </label> Anxiety
+                                            </div>
+
+                                        </div>
+                                    </div>
+
+                                </div>
+                                <div class="row" style="margin-top: 0">
+                                    <div class="col-md-12" style="text-align: center;background-color: #aa66cc">
+                                        Indifferent
+                                    </div>
+                                </div>
+                                <div class="row" style="margin-top: 0em;background-color: #aa66cc">
+                                    <div class="col-md-2"></div>
+                                    <div class="col-md-4" style="padding-top: 0.5em">
+                                        <label>
+                                            <input type="radio" name="sentiment" value="submission">
+                                        </label> Submission
+                                    </div>
+                                    <div class="col-md-4" style="padding-top: 0.5em">
+                                        <label>
+                                            <input type="radio" name="sentiment" value="dominance">
+                                        </label> Dominance
+                                    </div>
+                                    <div class="col-md-2"></div>
+
+                                </div>
+                                <div class="row" style="margin-top: 0em;background-color: #aa66cc">
+                                    <div class="col-md-2"></div>
+                                    <div class="col-md-4" style="padding-top: 0.5em">
+                                        <label>
+                                            <input type="radio" name="sentiment" value="curiosity">
+                                        </label> Curiosity
+                                    </div>
+                                    <div class="col-md-4" style="padding-top: 0.5em">
+                                        <label>
+                                            <input type="radio" name="sentiment" value="morbidness">
+                                        </label> Morbidness
+                                    </div>
+                                    <div class="col-md-2"></div>
+                                </div>
+                                <div class="row" style="margin-top: 0em">
+                                    <div class="col-md-4" style="background-color: #b9bbbe"></div>
+                                    <div class="col-md-4" style="background-color: #b9bbbe;padding-top: 0.5em">
+                                        <label>
+                                            <input type="radio" name="sentiment" value="none" checked>
+                                        </label> None
+                                    </div>
+                                    <div class="col-md-4" style="background-color: #b9bbbe"></div>
+                                </div>
+
+                            </div>
+
+                        </div>
+
+                        <div class="row">
+                            <div class="col-md-4"></div>
+                            <div class="col-md-6">
+                                <button type="submit" class="btn btn-success" name="action" value="finish">Go Back
+                                </button>
+                                <button type="submit" class="btn btn-success" name="action" value="add">Add</button>
+                                <button type="submit" class="btn btn-success" name="action" value="skip">Add Another
+                                </button>
+                            </div>
+                            <div class="col-md-2"></div>
+
+                        </div>
+                    </div>
+                    <input type="hidden" name="lang" value="en">
+                    <input type="hidden" name="tweet_id" value="25">
+                </form>
+            </div>
+
+        </div>
+    </div>
+
+</main>
+{% include 'foot.html' %}
