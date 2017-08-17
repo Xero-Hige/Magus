@@ -94,14 +94,18 @@ def get_emotions(sentiment):
     return []
 
 
-@app.route('/', methods=["GET", "POST"])
+@app.route('/', methods=["GET"])
 def root():
     tweets = os.listdir("../tweets")
 
     tweet = load_tweet(random.choice(tweets))
 
-    return render_template("tweet_catalog.html", pagename="Twitter", tweet=tweet)
+    return render_template("tweet_catalog.html", tweet=tweet)
 
+
+@app.route('/adder', methods=["GET"])
+def adder():
+    return render_template("tweet_adder.html")
 
 @app.route('/add', methods=["POST"])
 def classify():
