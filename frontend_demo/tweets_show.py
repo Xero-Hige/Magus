@@ -122,41 +122,39 @@ def classify():
 
     tweet_id = request.form["tweet_id"]
 
-    handler = DB_Handler()
-    # TODO: LOCK TAKE
-    tweet = handler.get_tagged(tweet_id)
-    emotions = get_emotions(sentiment)
+    with DB_Handler() as handler:
+        # TODO: LOCK TAKE
+        tweet = handler.get_tagged(tweet_id)
+        emotions = get_emotions(sentiment)
 
-    tweet.joy += 1 if emotion_a == 'joy' else 0
-    tweet.joy += 2 if 'joy' in emotions else 0
+        tweet.joy += 1 if emotion_a == 'joy' else 0
+        tweet.joy += 2 if 'joy' in emotions else 0
 
-    tweet.sadness += 1 if emotion_a == 'sadness' else 0
-    tweet.sadness += 2 if 'sadness' in emotions else 0
+        tweet.sadness += 1 if emotion_a == 'sadness' else 0
+        tweet.sadness += 2 if 'sadness' in emotions else 0
 
-    tweet.trust += 1 if emotion_b == 'trust' else 0
-    tweet.trust += 2 if 'trust' in emotions else 0
+        tweet.trust += 1 if emotion_b == 'trust' else 0
+        tweet.trust += 2 if 'trust' in emotions else 0
 
-    tweet.disgust += 1 if emotion_b == 'disgust' else 0
-    tweet.disgust += 2 if 'disgust' in emotions else 0
+        tweet.disgust += 1 if emotion_b == 'disgust' else 0
+        tweet.disgust += 2 if 'disgust' in emotions else 0
 
-    tweet.fear += 1 if emotion_c == 'fear' else 0
-    tweet.fear += 2 if 'fear' in emotions else 0
+        tweet.fear += 1 if emotion_c == 'fear' else 0
+        tweet.fear += 2 if 'fear' in emotions else 0
 
-    tweet.anger += 1 if emotion_c == 'anger' else 0
-    tweet.anger += 2 if 'anger' in emotions else 0
+        tweet.anger += 1 if emotion_c == 'anger' else 0
+        tweet.anger += 2 if 'anger' in emotions else 0
 
-    print (emotion_d, emotion_d == 'surprise')
-    tweet.surprise += 1 if emotion_d == 'surprise' else 0
-    tweet.surprise += 2 if 'surprise' in emotions else 0
-    print (tweet.surprise)
+        print (emotion_d, emotion_d == 'surprise')
+        tweet.surprise += 1 if emotion_d == 'surprise' else 0
+        tweet.surprise += 2 if 'surprise' in emotions else 0
+        print (tweet.surprise)
 
-    tweet.anticipation += 1 if emotion_d == 'anticipation' else 0
-    tweet.anticipation += 2 if 'anticipation' in emotions else 0
+        tweet.anticipation += 1 if emotion_d == 'anticipation' else 0
+        tweet.anticipation += 2 if 'anticipation' in emotions else 0
 
-    tweet.totals += 3
-
-    handler.commit_changes()
-    # TODO: LOCK RELEASE
+        tweet.totals += 3 if tweet.totals != 1 else 2
+        # TODO: LOCK RELEASE
 
     return redirect("/classify")
 
@@ -224,17 +222,17 @@ def load_tweet(tweet_file_name):
 
 
 def tweet_add_sentiments(tweet):
-    handler = DB_Handler()
-    _tweet = handler.get_tagged(tweet['tweet_id'])
+    with DB_Handler() as handler:
+        _tweet = handler.get_tagged(tweet['tweet_id'])
 
-    sentiments = [(_tweet.joy / _tweet.totals, "joy"),
-                  (_tweet.trust / _tweet.totals, "trust"),
-                  (_tweet.fear / _tweet.totals, "fear"),
-                  (_tweet.surprise / _tweet.totals, "surprise"),
-                  (_tweet.sadness / _tweet.totals, "sadness"),
-                  (_tweet.disgust / _tweet.totals, "disgust"),
-                  (_tweet.anger / _tweet.totals, "anger"),
-                  (_tweet.anticipation / _tweet.totals, "anticipation")]
+        sentiments = [(_tweet.joy / _tweet.totals, "joy"),
+                      (_tweet.trust / _tweet.totals, "trust"),
+                      (_tweet.fear / _tweet.totals, "fear"),
+                      (_tweet.surprise / _tweet.totals, "surprise"),
+                      (_tweet.sadness / _tweet.totals, "sadness"),
+                      (_tweet.disgust / _tweet.totals, "disgust"),
+                      (_tweet.anger / _tweet.totals, "anger"),
+                      (_tweet.anticipation / _tweet.totals, "anticipation")]
 
     tweet["joy"] = sentiments[0][0]
     tweet["trust"] = sentiments[1][0]

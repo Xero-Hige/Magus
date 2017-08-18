@@ -30,8 +30,8 @@ engine = create_engine(
 
 from sqlalchemy.orm import sessionmaker
 
-session = sessionmaker()
-session.configure(bind=engine)
+Session = sessionmaker()
+Session.configure(bind=engine)
 try:
     Base.metadata.create_all(engine)
 except:
@@ -39,22 +39,25 @@ except:
 
 class DB_Handler:
     def __init__(self):
-        self.session = sessionmaker()
-        self.session.configure(bind=engine)
-        self.s = session()
+        self.session = Session()
+
+    def __enter__(self):
+        return self
+
+    def __exit__(self, exc_type, exc_val, exc_tb):
+        self.session.commit()
+        self.session.close()
 
     def get_tagged(self, tweet_id):
         try:
-            tweet = self.s.query(TaggedTweet).filter(TaggedTweet.id == tweet_id).one()
+            tweet = self.session.query(TaggedTweet).filter(TaggedTweet.id == tweet_id).one()
         except sqlalchemy.orm.exc.NoResultFound:
             tweet = None
 
         if not tweet:
             tweet = TaggedTweet(id=tweet_id, totals=1)
-            self.s.add(tweet)
-            self.s.commit()
+            self.session.add(tweet)
+            self.session.commit()
 
         return tweet
 
-    def commit_changes(self):
-        self.s.commit()
