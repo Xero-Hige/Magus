@@ -9,15 +9,6 @@ from tweets_db import DB_Handler
 app = Flask(__name__)
 import json
 
-# REMOJIS = re.compile(u"("
-#                     u"(\ud83d[\ude00-\ude4f])|"  # emoticons
-#                     u"(\ud83c[\udf00-\uffff])|"  # symbols & pictographs (1 of 2)
-#                     u"(\ud83d[\u0000-\uddff])|"  # symbols & pictographs (2 of 2)
-#                     u"(\ud83d[\ude80-\udeff])|"  # transport & map symbols
-#                     u"(\ud83c[\udde0-\uddff])"  # flags (iOS)
-#                     u"+"
-#                     u")", flags=re.UNICODE)
-
 EMOJIS = re.compile(u"\\ud83d", flags=re.UNICODE)
 
 DYADS = {
@@ -94,8 +85,8 @@ def get_emotions(sentiment):
     return []
 
 
-@app.route('/', methods=["GET"])
-def root():
+@app.route('/classify', methods=["GET"])
+def classify_get():
     tweets = os.listdir("../tweets")
 
     tweet = load_tweet(random.choice(tweets))
@@ -103,16 +94,22 @@ def root():
     return render_template("tweet_catalog.html", tweet=tweet)
 
 
-@app.route('/adder', methods=["GET"])
+@app.route('/', methods=["GET"])
+def root():
+    return render_template("index.html")
+
+
+@app.route('/add', methods=["GET"])
 def adder():
     return render_template("tweet_adder.html")
 
-@app.route('/add', methods=["POST"])
+
+@app.route('/classify', methods=["POST"])
 def classify():
     action = request.form["action"]
 
     if action == 'skip':
-        return redirect("/")
+        return redirect("/classify")
 
     emotion_a = request.form["a"]
     emotion_b = request.form["b"]
@@ -161,7 +158,7 @@ def classify():
     handler.commit_changes()
     # TODO: LOCK RELEASE
 
-    return redirect("/")
+    return redirect("/classify")
 
 
 def get_tweets(files):
