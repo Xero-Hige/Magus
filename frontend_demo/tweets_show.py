@@ -96,6 +96,9 @@ def classify_get():
 
 @app.route('/', methods=["GET"])
 def root():
+    with open("../tweets/something", 'w') as kaiser:
+        kaiser.write("thing")
+
     return render_template("index.html")
 
 
