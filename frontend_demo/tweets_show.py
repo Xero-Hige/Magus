@@ -123,7 +123,7 @@ def adder_post():
     if "Error" in str(stdout_data[0]):
         return redirect("/add")
 
-    with open("../tweets/{}.json") as asd:
+    with open("../tweets/{}.json".format(tweet_id)) as asd:
 
         print("DEBUG", asd.read())
 
