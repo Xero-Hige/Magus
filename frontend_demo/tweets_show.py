@@ -119,12 +119,12 @@ def adder_post():
 
     p = Popen(["python3", "tweets_downloader.py"], stdout=PIPE, stdin=PIPE, stderr=PIPE, cwd='../')
     stdout_data = p.communicate(input=str.encode('{}\n'.format(tweet_id)))
-    print ("DEBUG", stdout_data)
+
     if "Error" in str(stdout_data[0]):
         return redirect("/add")
 
-    print ("DEBUG", os.listdir("../tweets"))
-    p = Popen(["ruby", "uploader.rb", "tweets/{}.json".format(tweet_id), "'../tweets/{}.json'".format(tweet_id)])
+    p = Popen(["ruby", "uploader.rb", "tweets/{}.json".format(tweet_id),
+               "'{}/tweets/{}.json'".format(os.getcwd().replace("/frontend_demo", ""), tweet_id)])
     stdout_data = p.communicate(input=b'\n')
     print ("DEBUG", stdout_data)
 

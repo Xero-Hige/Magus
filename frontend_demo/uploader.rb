@@ -82,5 +82,4 @@ def github(method, repo, resource, params={})
   end
 end
 
-puts #{ENV['GITHUB_USER']}
 push_to_github :path => ARGV[0], :content => File.read(ARGV[1]), :repo => 'Magus'
