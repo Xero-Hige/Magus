@@ -63,7 +63,7 @@ def push_to_github(params)
   new_commit = github :post, repo, :commits,
                       :parents => [last_commit_sha],
                       :tree => new_content_tree_sha,
-                      :message => 'New tweet via web frontend upload'
+                      :message => 'New tweet via web frontend uploaded'
   new_commit_sha = new_commit['sha']
 
   # update branch to point to new commit
