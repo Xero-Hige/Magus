@@ -124,7 +124,8 @@ def adder_post():
         return redirect("/add")
 
     p = Popen(["ruby", "uploader.rb", "tweets/{}.json".format(tweet_id),
-               "'{}/tweets/{}.json'".format(os.getcwd().replace("/frontend_demo", ""), tweet_id)])
+               "'../tweets/{}.json'".format(tweet_id)], stdout=PIPE,
+              stdin=PIPE, stderr=PIPE, cwd=os.getcwd())
     stdout_data = p.communicate(input=b'\n')
     print ("DEBUG", stdout_data)
 
