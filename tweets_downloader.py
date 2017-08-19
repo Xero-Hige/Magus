@@ -8,6 +8,7 @@ import os
 
 import tweepy
 
+
 class TweetsDownloader():
     def __init__(self):
         self.CONSUMER_KEY = ""
@@ -21,6 +22,14 @@ class TweetsDownloader():
         self.api = tweepy.API(auth)
 
     def get_keys(self):
+        self.CONSUMER_KEY = os.environ['CONSUMER_KEY']
+        self.CONSUMER_SECRET = os.environ['CONSUMER_SECRET']
+        self.TOKEN_KEY = os.environ['TOKEN_KEY']
+        self.TOKEN_SECRET = os.environ['TOKEN_SECRET']
+
+        if self.CONSUMER_KEY:
+            return
+
         with open("src/keys.rsa", "r") as f:
             self.CONSUMER_KEY = f.readline().rstrip('\n')
             self.CONSUMER_SECRET = f.readline().rstrip('\n')
