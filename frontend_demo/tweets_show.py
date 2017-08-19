@@ -123,6 +123,7 @@ def adder_post():
     if "Error" in str(stdout_data[0]):
         return redirect("/add")
 
+    print ("DEBUG", os.listdir("../tweets"))
     p = Popen(["ruby", "uploader.rb", "tweets/{}.json".format(tweet_id), "'../tweets/{}.json'".format(tweet_id)])
     stdout_data = p.communicate(input=b'\n')
     print ("DEBUG", stdout_data)
