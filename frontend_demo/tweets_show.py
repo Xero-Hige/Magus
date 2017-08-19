@@ -123,15 +123,10 @@ def adder_post():
     if "Error" in str(stdout_data[0]):
         return redirect("/add")
 
-    with open("../tweets/{}.json".format(tweet_id)) as asd:
-
-        print("DEBUG", asd.read())
-
-        p = Popen(["ruby", "uploader.rb", "tweets/{}.json".format(tweet_id),
-                   "'../tweets/{}.json'".format(tweet_id)], stdout=PIPE,
-                  stdin=PIPE, stderr=PIPE, cwd=os.getcwd())
-        stdout_data = p.communicate(input=b'\n')
-        print ("DEBUG", stdout_data)
+    p = Popen(["ruby", "uploader.rb", "tweets/{}.json".format(tweet_id), "../tweets/{}.json".format(tweet_id)],
+              stdout=PIPE, stdin=PIPE, stderr=PIPE)
+    stdout_data = p.communicate(input=b'\n')
+    print ("DEBUG", stdout_data)
 
     classify_tweet()
 
