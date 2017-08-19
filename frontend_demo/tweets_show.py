@@ -112,8 +112,8 @@ def adder_get():
 def adder_post():
     action = request.form["action"]
 
-    if action == 'skip':
-        return redirect("/classify")
+    if action == 'finish':
+        return redirect("/")
 
     tweet_id = request.form["tweet_id"]
 
