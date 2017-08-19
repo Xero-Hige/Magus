@@ -1,5 +1,6 @@
 import random
 import re
+from subprocess import Popen, PIPE
 
 from flask import Flask, render_template, request, redirect
 
@@ -103,28 +104,40 @@ def root():
 
 
 @app.route('/add', methods=["GET"])
-def adder():
+def adder_get():
     return render_template("tweet_adder.html")
 
 
-@app.route('/classify', methods=["POST"])
-def classify():
+@app.route('/add', methods=["POST"])
+def adder_post():
     action = request.form["action"]
 
     if action == 'skip':
         return redirect("/classify")
 
+    tweet_id = request.form["tweet_id"]
+
+    p = Popen(["python3", "tweets_downloader.py"], stdout=PIPE, stdin=PIPE, stderr=PIPE, cwd='../')
+    stdout_data = p.communicate(input=str.encode('{}\n'.format(tweet_id)))[0]
+    if "Error" in str(stdout_data):
+        return redirect("/add")
+
+    p = Popen(["ruby", "uploader.rb", "tweets/{}.json".format(tweet_id), "'../tweets/{}.json'".format(tweet_id)])
+    stdout_data = p.communicate(input=b'\n')
+
+    classify_tweet()
+
+    return redirect("/add")
+
+
+def classify_tweet():
     emotion_a = request.form["a"]
     emotion_b = request.form["b"]
     emotion_c = request.form["c"]
     emotion_d = request.form["d"]
-
     sentiment = request.form["sentiment"]
-
     lang = request.form["lang"]
-
     tweet_id = request.form["tweet_id"]
-
     with DB_Handler() as handler:
         # TODO: LOCK TAKE
         tweet = handler.get_tagged(tweet_id)
@@ -158,6 +171,16 @@ def classify():
 
         tweet.totals += 3 if tweet.totals != 1 else 2
         # TODO: LOCK RELEASE
+
+
+@app.route('/classify', methods=["POST"])
+def classify():
+    action = request.form["action"]
+
+    if action == 'skip':
+        return redirect("/classify")
+
+    classify_tweet()
 
     return redirect("/classify")
 
