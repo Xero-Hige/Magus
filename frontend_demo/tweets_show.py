@@ -125,8 +125,7 @@ def adder_post():
 
     p = Popen(["ruby", "uploader.rb", "tweets/{}.json".format(tweet_id), "../tweets/{}.json".format(tweet_id)],
               stdout=PIPE, stdin=PIPE, stderr=PIPE)
-    stdout_data = p.communicate(input=b'\n')
-    print ("DEBUG", stdout_data)
+    p.communicate(input=b'\n')
 
     classify_tweet()
 
@@ -164,10 +163,8 @@ def classify_tweet():
         tweet.anger += 1 if emotion_c == 'anger' else 0
         tweet.anger += 2 if 'anger' in emotions else 0
 
-        print (emotion_d, emotion_d == 'surprise')
         tweet.surprise += 1 if emotion_d == 'surprise' else 0
         tweet.surprise += 2 if 'surprise' in emotions else 0
-        print (tweet.surprise)
 
         tweet.anticipation += 1 if emotion_d == 'anticipation' else 0
         tweet.anticipation += 2 if 'anticipation' in emotions else 0
