@@ -1,14 +1,15 @@
+import json
 import random
 import re
 from subprocess import Popen, PIPE
 
 from flask import Flask, render_template, request, redirect
 
+from tweet_process import censor_urls, anonymize_usernames
 from tweets_db import *
 from tweets_db import DB_Handler
 
 app = Flask(__name__)
-import json
 
 EMOJIS = re.compile(u"\\ud83d", flags=re.UNICODE)
 
@@ -203,7 +204,7 @@ def load_tweet(tweet_file_name):
 
     tweet["tweet_id"] = tweet_file_name.replace(".json", "")
 
-    tweet["tweet_text"] = loaded_tweet.get("text", "")
+    tweet["tweet_text"] = anonymize_usernames(censor_urls(loaded_tweet.get("text", "")))
 
     tweet["tweet_text"] = re.sub(EMOJIS, r'\<span class="emoji" data-emoji="\g<0>"\>\</span\>', tweet["tweet_text"])
 
