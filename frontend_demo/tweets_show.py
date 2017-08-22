@@ -96,6 +96,19 @@ def classify_get():
     return render_template("tweet_catalog.html", tweet=tweet)
 
 
+@app.route('/classify/<int:tweet_id>', methods=["GET"])
+def classify_exact_get(tweet_id):
+    tweet_id = "{}.json".format(tweet_id)
+    tweets = os.listdir("../tweets")
+
+    if str(tweet_id) not in tweets:
+        return redirect("/add")
+
+    tweet = load_tweet(tweet_id)
+
+    return render_template("tweet_catalog.html", tweet=tweet)
+
+
 @app.route('/', methods=["GET"])
 def root():
     with open("../tweets/something", 'w') as kaiser:
