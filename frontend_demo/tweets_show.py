@@ -9,6 +9,7 @@ from tweet_process import censor_urls, anonymize_usernames
 from tweets_db import *
 from tweets_db import DB_Handler
 
+NONE = "none"
 SAD = "sad"
 ANGRY = "angry"
 HAPPY = "happy"
@@ -67,11 +68,11 @@ GROUPS = {
 
 
 def totalize_groups(sentiments):
-    total = {HAPPY: 0, SAD: 0, ANGRY: 0, "none": 0}
+    total = {HAPPY: 0, SAD: 0, ANGRY: 0, NONE: 0}
     acum = 0
 
     for sentiment in sentiments:
-        total[GROUPS.get(sentiment[0], "none")] += sentiment[1]
+        total[GROUPS.get(sentiment[0], NONE)] += sentiment[1]
         acum += sentiment[1]
 
     if acum == 0:
@@ -286,8 +287,6 @@ def get_tweets_status():
                         (_tweet.anticipation / _tweet.totals, "anticipation"),
                         (_tweet.none / _tweet.totals, "none")]
 
-            emotions.sort(reverse=True)
-
             results = [(get_sentiment(emotions[i], emotions[j]), (emotions[i][0] + emotions[j][0]) / 2)
                        for i in range(len(emotions))
                        for j in range(i + 1, len(emotions))
@@ -295,10 +294,15 @@ def get_tweets_status():
                        if emotions[i][0] != 0 and emotions[j][0] != 0
                        ] + [("-", 0)] * 5
 
+            print ("results", results)
+
             results.sort(reverse=True, key=lambda x: x[1])
 
             groups = totalize_groups(results)
 
+            print ("Groups", groups)
+
+            emotions.sort(reverse=True)
             emotions = [emotion[1]
                         for emotion in emotions
                         if emotion[0] > 0
