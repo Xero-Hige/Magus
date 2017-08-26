@@ -9,6 +9,12 @@ from tweet_process import censor_urls, anonymize_usernames
 from tweets_db import *
 from tweets_db import DB_Handler
 
+SAD = "sad"
+
+ANGRY = "angry"
+
+HAPPY = "happy"
+
 app = Flask(__name__)
 
 EMOJIS = re.compile(u"\\ud83d", flags=re.UNICODE)
@@ -40,30 +46,30 @@ DYADS = {
 }
 
 GROUPS = {
-    "love": "happy",
-    "alarm": "angry",
-    "disappointment": "sad",
-    "remorse": "sad",
-    "contempt": "angry",
-    "agression": "angry",
-    "optimism": "happy",
-    "guilt": "sad",
-    "despair": "sad",
-    "envy": "angry",
-    "cynism": "angry",
-    "pride": "happy",
-    "fatalism": "sad",
-    "delight": "happy",
-    "sentimentality": "sad",
-    "shame": "sad",
-    "outrage": "angry",
-    "pessimism": "sad",
-    "anxiety": "angry"
+    "love": HAPPY,
+    "optimism": HAPPY,
+    "pride": HAPPY,
+    "delight": HAPPY,
+    "alarm": ANGRY,
+    "contempt": ANGRY,
+    "agression": ANGRY,
+    "envy": ANGRY,
+    "cynism": ANGRY,
+    "outrage": ANGRY,
+    "anxiety": ANGRY,
+    "disappointment": SAD,
+    "remorse": SAD,
+    "guilt": SAD,
+    "despair": SAD,
+    "fatalism": SAD,
+    "sentimentality": SAD,
+    "shame": SAD,
+    "pessimism": SAD
 }
 
 
 def totalize_groups(sentiments):
-    total = {"happy": 0, "sad": 0, "angry": 0, "none": 0}
+    total = {HAPPY: 0, SAD: 0, ANGRY: 0, "none": 0}
     acum = 0
 
     for sentiment in sentiments:
