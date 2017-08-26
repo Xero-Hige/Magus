@@ -287,6 +287,8 @@ def get_tweets_status():
                         (_tweet.anticipation / _tweet.totals, "anticipation"),
                         (_tweet.none / _tweet.totals, "none")]
 
+            print ("emotions", results)
+
             results = [(get_sentiment(emotions[i], emotions[j]), (emotions[i][0] + emotions[j][0]) / 2)
                        for i in range(len(emotions))
                        for j in range(i + 1, len(emotions))
@@ -311,8 +313,10 @@ def get_tweets_status():
             for emotion in emotions:
                 totals_emotions[emotion] = totals_emotions.get(emotion, 0) + 1
 
-            groups = [(groups[group], group) for group in groups if groups[group] > 0]
+            groups = [(groups[group], group) for group in groups]
             groups.sort(reverse=True)
+
+            print("Group list", groups)
 
             for group in groups[:1]:
                 totals_groups[group] = totals_groups.get(group, 0) + 1
