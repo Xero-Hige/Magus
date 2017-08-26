@@ -288,7 +288,16 @@ def get_tweets_status():
 
             emotions.sort(reverse=True)
 
-            groups = totalize_groups(emotions)
+            results = [(get_sentiment(emotions[i], emotions[j]), (emotions[i][0] + emotions[j][0]) / 2)
+                       for i in range(len(emotions))
+                       for j in range(i + 1, len(emotions))
+                       if get_sentiment(emotions[i], emotions[j]) != "conflict"
+                       if emotions[i][0] != 0 and emotions[j][0] != 0
+                       ] + [("-", 0)] * 5
+
+            results.sort(reverse=True, key=lambda x: x[1])
+
+            groups = totalize_groups(results)
 
             emotions = [emotion[1]
                         for emotion in emotions
