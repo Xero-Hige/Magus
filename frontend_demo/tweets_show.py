@@ -200,6 +200,12 @@ def classify():
     return redirect("/classify")
 
 
+@app.route('/status', methods=["GET"])
+def status():
+    totals_emotions, totals_groups = get_tweets_status()
+    return render_template("DB_status.html", emotions=totals_emotions, groups=totals_groups)
+
+
 def get_tweets(files):
     tweets = []
     for tweet_file_name in files:
@@ -260,6 +266,45 @@ def load_tweet(tweet_file_name):
     tweet["groups"] = totalize_groups(results)
 
     return tweet
+
+
+def get_tweets_status():
+    totals_emotions = {}
+    totals_groups = {}
+
+    with DB_Handler() as handler:
+        _tweets = handler.get_all_tagged()
+
+        for _tweet in _tweets:
+            emotions = [(_tweet.joy / _tweet.totals, "joy"),
+                        (_tweet.trust / _tweet.totals, "trust"),
+                        (_tweet.fear / _tweet.totals, "fear"),
+                        (_tweet.surprise / _tweet.totals, "surprise"),
+                        (_tweet.sadness / _tweet.totals, "sadness"),
+                        (_tweet.disgust / _tweet.totals, "disgust"),
+                        (_tweet.anger / _tweet.totals, "anger"),
+                        (_tweet.anticipation / _tweet.totals, "anticipation"),
+                        (_tweet.none / _tweet.totals, "none")]
+
+            emotions.sort(reverse=True)
+
+            groups = totalize_groups(emotions)
+
+            emotions = [emotion[1]
+                        for emotion in emotions
+                        if emotion[0] > 0
+                        ][:2]
+
+            for emotion in emotions:
+                totals_emotions[emotion] = totals_emotions.get(emotion, 0) + 1
+
+            groups = [(groups[group], group) for group in groups if groups[group] > 0]
+            groups.sort(reverse=True)
+
+            for group in groups[:1]:
+                totals_groups[group] = totals_groups.get(group, 0) + 1
+
+    return totals_emotions, totals_groups
 
 
 def tweet_add_sentiments(tweet):

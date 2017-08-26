@@ -61,3 +61,11 @@ class DB_Handler:
 
         return tweet
 
+    def get_all_tagged(self):
+        try:
+            tweets = self.session.query(TaggedTweet)
+
+        except sqlalchemy.orm.exc.NoResultFound:
+            tweets = []
+
+        return tweets
