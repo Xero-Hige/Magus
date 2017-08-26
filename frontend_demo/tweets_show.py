@@ -287,7 +287,7 @@ def get_tweets_status():
                         (_tweet.anticipation / _tweet.totals, "anticipation"),
                         (_tweet.none / _tweet.totals, "none")]
 
-            print ("emotions", results)
+            print ("emotions", emotions)
 
             results = [(get_sentiment(emotions[i], emotions[j]), (emotions[i][0] + emotions[j][0]) / 2)
                        for i in range(len(emotions))
