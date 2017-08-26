@@ -10,9 +10,7 @@ from tweets_db import *
 from tweets_db import DB_Handler
 
 SAD = "sad"
-
 ANGRY = "angry"
-
 HAPPY = "happy"
 
 app = Flask(__name__)
@@ -117,9 +115,6 @@ def classify_exact_get(tweet_id):
 
 @app.route('/', methods=["GET"])
 def root():
-    with open("../tweets/something", 'w') as kaiser:
-        kaiser.write("thing")
-
     return render_template("index.html")
 
 
