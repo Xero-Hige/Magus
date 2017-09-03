@@ -22,10 +22,10 @@ class TweetsDownloader():
         self.api = tweepy.API(auth)
 
     def get_keys(self):
-        self.CONSUMER_KEY = os.environ['CONSUMER_KEY']
-        self.CONSUMER_SECRET = os.environ['CONSUMER_SECRET']
-        self.TOKEN_KEY = os.environ['TOKEN_KEY']
-        self.TOKEN_SECRET = os.environ['TOKEN_SECRET']
+        self.CONSUMER_KEY = os.environ.get('CONSUMER_KEY', None)
+        self.CONSUMER_SECRET = os.environ.get('CONSUMER_SECRET', None)
+        self.TOKEN_KEY = os.environ.get('TOKEN_KEY', None)
+        self.TOKEN_SECRET = os.environ.get('TOKEN_SECRET', None)
 
         if self.CONSUMER_KEY:
             return
