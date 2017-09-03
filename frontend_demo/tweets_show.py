@@ -41,7 +41,8 @@ DYADS = {
     ("sadness", "anticipation"): "pessimism",
     ("joy", "disgust"): "morbidness",
     ("trust", "anger"): "dominance",
-    ("fear", "anticipation"): "anxiety"
+    ("fear", "anticipation"): "anxiety",
+    ("none", "none"): "none"
 }
 
 GROUPS = {
@@ -63,7 +64,8 @@ GROUPS = {
     "fatalism": SAD,
     "sentimentality": SAD,
     "shame": SAD,
-    "pessimism": SAD
+    "pessimism": SAD,
+    "none": NONE
 }
 
 
@@ -149,10 +151,10 @@ def adder_post():
 
 
 def classify_tweet():
-    emotion_a = request.form["a"]
-    emotion_b = request.form["b"]
-    emotion_c = request.form["c"]
-    emotion_d = request.form["d"]
+    dyad_a = request.form["a"]
+    dyad_b = request.form["b"]
+    dyad_c = request.form["c"]
+    dyad_d = request.form["d"]
     sentiment = request.form["sentiment"]
     lang = request.form["lang"]
     tweet_id = request.form["tweet_id"]
@@ -161,28 +163,33 @@ def classify_tweet():
         tweet = handler.get_tagged(tweet_id)
         emotions = get_emotions(sentiment)
 
-        tweet.joy += 1 if emotion_a == 'joy' else 0
+        if dyad_a == dyad_b and dyad_b == dyad_c and dyad_c == dyad_d and dyad_d == "none":
+            tweet.none += 1
+        if sentiment == 'none':
+            tweet.none += 1
+
+        tweet.joy += 1 if dyad_a == 'joy' else 0
         tweet.joy += 2 if 'joy' in emotions else 0
 
-        tweet.sadness += 1 if emotion_a == 'sadness' else 0
+        tweet.sadness += 1 if dyad_a == 'sadness' else 0
         tweet.sadness += 2 if 'sadness' in emotions else 0
 
-        tweet.trust += 1 if emotion_b == 'trust' else 0
+        tweet.trust += 1 if dyad_b == 'trust' else 0
         tweet.trust += 2 if 'trust' in emotions else 0
 
-        tweet.disgust += 1 if emotion_b == 'disgust' else 0
+        tweet.disgust += 1 if dyad_b == 'disgust' else 0
         tweet.disgust += 2 if 'disgust' in emotions else 0
 
-        tweet.fear += 1 if emotion_c == 'fear' else 0
+        tweet.fear += 1 if dyad_c == 'fear' else 0
         tweet.fear += 2 if 'fear' in emotions else 0
 
-        tweet.anger += 1 if emotion_c == 'anger' else 0
+        tweet.anger += 1 if dyad_c == 'anger' else 0
         tweet.anger += 2 if 'anger' in emotions else 0
 
-        tweet.surprise += 1 if emotion_d == 'surprise' else 0
+        tweet.surprise += 1 if dyad_d == 'surprise' else 0
         tweet.surprise += 2 if 'surprise' in emotions else 0
 
-        tweet.anticipation += 1 if emotion_d == 'anticipation' else 0
+        tweet.anticipation += 1 if dyad_d == 'anticipation' else 0
         tweet.anticipation += 2 if 'anticipation' in emotions else 0
 
         tweet.totals += 3 if tweet.totals != 1 else 2
