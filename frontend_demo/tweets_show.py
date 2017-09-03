@@ -161,36 +161,32 @@ def classify_tweet():
     with DB_Handler() as handler:
         # TODO: LOCK TAKE
         tweet = handler.get_tagged(tweet_id)
-        emotions = get_emotions(sentiment)
 
         if dyad_a == dyad_b and dyad_b == dyad_c and dyad_c == dyad_d and dyad_d == "none":
             tweet.none += 1
+        else:
+            tweet.joy += 1 if dyad_a == 'joy' else 0
+            tweet.sadness += 1 if dyad_a == 'sadness' else 0
+            tweet.trust += 1 if dyad_b == 'trust' else 0
+            tweet.disgust += 1 if dyad_b == 'disgust' else 0
+            tweet.fear += 1 if dyad_c == 'fear' else 0
+            tweet.anger += 1 if dyad_c == 'anger' else 0
+            tweet.surprise += 1 if dyad_d == 'surprise' else 0
+            tweet.anticipation += 1 if dyad_d == 'anticipation' else 0
+
         if sentiment == 'none':
             tweet.none += 1
+        else:
+            emotions = get_emotions(sentiment)
 
-        tweet.joy += 1 if dyad_a == 'joy' else 0
-        tweet.joy += 2 if 'joy' in emotions else 0
-
-        tweet.sadness += 1 if dyad_a == 'sadness' else 0
-        tweet.sadness += 2 if 'sadness' in emotions else 0
-
-        tweet.trust += 1 if dyad_b == 'trust' else 0
-        tweet.trust += 2 if 'trust' in emotions else 0
-
-        tweet.disgust += 1 if dyad_b == 'disgust' else 0
-        tweet.disgust += 2 if 'disgust' in emotions else 0
-
-        tweet.fear += 1 if dyad_c == 'fear' else 0
-        tweet.fear += 2 if 'fear' in emotions else 0
-
-        tweet.anger += 1 if dyad_c == 'anger' else 0
-        tweet.anger += 2 if 'anger' in emotions else 0
-
-        tweet.surprise += 1 if dyad_d == 'surprise' else 0
-        tweet.surprise += 2 if 'surprise' in emotions else 0
-
-        tweet.anticipation += 1 if dyad_d == 'anticipation' else 0
-        tweet.anticipation += 2 if 'anticipation' in emotions else 0
+            tweet.joy += 2 if 'joy' in emotions else 0
+            tweet.sadness += 2 if 'sadness' in emotions else 0
+            tweet.trust += 2 if 'trust' in emotions else 0
+            tweet.disgust += 2 if 'disgust' in emotions else 0
+            tweet.fear += 2 if 'fear' in emotions else 0
+            tweet.anger += 2 if 'anger' in emotions else 0
+            tweet.surprise += 2 if 'surprise' in emotions else 0
+            tweet.anticipation += 2 if 'anticipation' in emotions else 0
 
         tweet.totals += 3 if tweet.totals != 1 else 2
         # TODO: LOCK RELEASE
