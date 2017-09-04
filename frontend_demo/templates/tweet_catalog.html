@@ -83,6 +83,8 @@
                                                             }, {
                                                                 "label": "Surprise"
                                                             }, {
+                                                                "label": "None"
+                                                            }, {
                                                                 "label": "Sadness"
                                                             }, {
                                                                 "label": "Disgust"
@@ -95,21 +97,23 @@
                                                         "dataset": [{
                                                             "seriesname": "Classification",
                                                             "data": [{
-                                                                "value": "{{tweet['joy']}}"
+                                                                "value": "{{max(0.5,tweet['joy'])}}"
                                                             }, {
-                                                                "value": "{{tweet['trust']}}"
+                                                                "value": "{{max(0.5,tweet['trust'])}}"
                                                             }, {
-                                                                "value": "{{tweet['fear']}}"
+                                                                "value": "{{max(0.5,tweet['fear'])}}"
                                                             }, {
-                                                                "value": "{{tweet['surprise']}}"
+                                                                "value": "{{max(0.5,tweet['surprise'])}}"
                                                             }, {
-                                                                "value": "{{tweet['sadness']}}"
+                                                                "value": "{{max(0.5,tweet['none'])}}"
                                                             }, {
-                                                                "value": "{{tweet['disgust']}}"
+                                                                "value": "{{max(0.5,tweet['sadness'])}}"
                                                             }, {
-                                                                "value": "{{tweet['anger']}}"
+                                                                "value": "{{max(0.5,tweet['disgust'])}}"
                                                             }, {
-                                                                "value": "{{tweet['anticipation']}}"
+                                                                "value": "{{max(0.5,tweet['anger'])}}"
+                                                            }, {
+                                                                "value": "{{max(0.5,tweet['anticipation'])}}"
                                                             }]
                                                         }]
                                                     }
@@ -180,17 +184,21 @@
                                                     }, {
                                                         "label": "Sad"
                                                     }, {
+                                                        "label": "Indiferent"
+                                                    }, {
                                                         "label": "Angry"
                                                     }]
                                                 }],
                                                 "dataset": [{
                                                     "seriesname": "Classification [10-110]",
                                                     "data": [{
-                                                        "value": "{{10+tweet['groups']['happy']}}"
+                                                        "value": "{{max(10,tweet['groups']['happy'])}}"
                                                     }, {
-                                                        "value": "{{10+tweet['groups']['sad']}}"
+                                                        "value": "{{max(10,tweet['groups']['sad'])}}"
                                                     }, {
-                                                        "value": "{{10+tweet['groups']['angry']}}"
+                                                        "value": "{{max(10,tweet['groups']['none'])}}"
+                                                    }, {
+                                                        "value": "{{max(10,tweet['groups']['angry'])}}"
                                                     }]
                                                 }]
                                             }
