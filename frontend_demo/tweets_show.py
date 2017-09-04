@@ -100,7 +100,7 @@ def classify_get():
 
     tweet = load_tweet(random.choice(tweets))
 
-    return render_template("tweet_catalog.html", tweet=tweet)
+    return render_template("tweet_catalog.html", tweet=tweet, max=max)
 
 
 @app.route('/classify/<int:tweet_id>', methods=["GET"])
@@ -113,7 +113,7 @@ def classify_exact_get(tweet_id):
 
     tweet = load_tweet(tweet_id)
 
-    return render_template("tweet_catalog.html", tweet=tweet)
+    return render_template("tweet_catalog.html", tweet=tweet, max=max)
 
 
 @app.route('/', methods=["GET"])
@@ -151,7 +151,6 @@ def adder_post():
 
 
 def classify_tweet():
-
     dyad_a = request.form["a"]
     dyad_b = request.form["b"]
     dyad_c = request.form["c"]
