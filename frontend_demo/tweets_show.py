@@ -42,7 +42,7 @@ DYADS = {
     ("joy", "disgust"): "morbidness",
     ("trust", "anger"): "dominance",
     ("fear", "anticipation"): "anxiety",
-    ("none", "none"): "none"
+    (NONE, NONE): NONE
 }
 
 GROUPS = {
@@ -65,7 +65,7 @@ GROUPS = {
     "sentimentality": SAD,
     "shame": SAD,
     "pessimism": SAD,
-    "none": NONE
+    NONE: NONE
 }
 
 
@@ -151,18 +151,22 @@ def adder_post():
 
 
 def classify_tweet():
+
     dyad_a = request.form["a"]
     dyad_b = request.form["b"]
     dyad_c = request.form["c"]
     dyad_d = request.form["d"]
+
     sentiment = request.form["sentiment"]
+
     lang = request.form["lang"]
     tweet_id = request.form["tweet_id"]
+
     with DB_Handler() as handler:
         # TODO: LOCK TAKE
         tweet = handler.get_tagged(tweet_id)
 
-        if dyad_a == dyad_b and dyad_b == dyad_c and dyad_c == dyad_d and dyad_d == "none":
+        if dyad_a == dyad_b and dyad_b == dyad_c and dyad_c == dyad_d and dyad_d == NONE:
             tweet.none += 1
         else:
             tweet.joy += 1 if dyad_a == 'joy' else 0
@@ -174,7 +178,7 @@ def classify_tweet():
             tweet.surprise += 1 if dyad_d == 'surprise' else 0
             tweet.anticipation += 1 if dyad_d == 'anticipation' else 0
 
-        if sentiment == 'none':
+        if sentiment == NONE:
             tweet.none += 1
         else:
             emotions = get_emotions(sentiment)
@@ -280,15 +284,7 @@ def get_tweets_status():
         _tweets = handler.get_all_tagged()
 
         for _tweet in _tweets:
-            emotions = [(_tweet.joy / _tweet.totals, "joy"),
-                        (_tweet.trust / _tweet.totals, "trust"),
-                        (_tweet.fear / _tweet.totals, "fear"),
-                        (_tweet.surprise / _tweet.totals, "surprise"),
-                        (_tweet.sadness / _tweet.totals, "sadness"),
-                        (_tweet.disgust / _tweet.totals, "disgust"),
-                        (_tweet.anger / _tweet.totals, "anger"),
-                        (_tweet.anticipation / _tweet.totals, "anticipation"),
-                        (_tweet.none / _tweet.totals, "none")]
+            emotions = get_emotions_list(_tweet)
 
             results = [(get_sentiment(emotions[i], emotions[j]), (emotions[i][0] + emotions[j][0]) / 2)
                        for i in range(len(emotions))
@@ -319,36 +315,54 @@ def get_tweets_status():
     return totals_emotions, totals_groups
 
 
+def get_emotions_list(_tweet):
+    emotions = [[_tweet.joy / _tweet.totals, "joy"],
+                [_tweet.trust / _tweet.totals, "trust"],
+                [_tweet.fear / _tweet.totals, "fear"],
+                [_tweet.surprise / _tweet.totals, "surprise"],
+                [_tweet.sadness / _tweet.totals, "sadness"],
+                [_tweet.disgust / _tweet.totals, "disgust"],
+                [_tweet.anger / _tweet.totals, "anger"],
+                [_tweet.anticipation / _tweet.totals, "anticipation"],
+                [_tweet.none / _tweet.totals, "none"],
+                [_tweet.none / _tweet.totals, "none"]]
+
+    emotions.sort(reverse=True)
+
+    value = len(emotions)
+    for i, emotion in enumerate(emotions):
+        if emotion[0] == 0:
+            value = 0
+
+        must_reduce = i < len(emotions) - 1 and emotions[i][0] != emotions[i + 1][0]
+
+        emotion[0] = value
+
+        if must_reduce:
+            value = len(emotions) - (i + 1)
+
+        emotions[i] = tuple(emotion)
+
+    return emotions
+
+
 def tweet_add_sentiments(tweet):
     with DB_Handler() as handler:
         _tweet = handler.get_tagged(tweet['tweet_id'])
 
-        sentiments = [(_tweet.joy / _tweet.totals, "joy"),
-                      (_tweet.trust / _tweet.totals, "trust"),
-                      (_tweet.fear / _tweet.totals, "fear"),
-                      (_tweet.surprise / _tweet.totals, "surprise"),
-                      (_tweet.sadness / _tweet.totals, "sadness"),
-                      (_tweet.disgust / _tweet.totals, "disgust"),
-                      (_tweet.anger / _tweet.totals, "anger"),
-                      (_tweet.anticipation / _tweet.totals, "anticipation")]
+        emotions = get_emotions_list(_tweet)
 
-    tweet["joy"] = sentiments[0][0]
-    tweet["trust"] = sentiments[1][0]
-    tweet["fear"] = sentiments[2][0]
-    tweet["surprise"] = sentiments[3][0]
-    tweet["sadness"] = sentiments[4][0]
-    tweet["disgust"] = sentiments[5][0]
-    tweet["anger"] = sentiments[6][0]
-    tweet["anticipation"] = sentiments[7][0]
+    for emotion in emotions:
+        tweet[emotion[1]] = emotion[0]
 
-    return sentiments
+    return emotions
 
 
-def get_sentiment(sentiment_a, sentiment_b):
-    if not (sentiment_a[1], sentiment_b[1]) in DYADS:
-        return DYADS.get((sentiment_b[1], sentiment_a[1]), "conflict")
+def get_sentiment(emotion_a, emotion_b):
+    if not (emotion_a[1], emotion_b[1]) in DYADS:
+        return DYADS.get((emotion_b[1], emotion_a[1]), "conflict")
     else:
-        return DYADS.get((sentiment_a[1], sentiment_b[1]), "conflict")
+        return DYADS.get((emotion_a[1], emotion_b[1]), "conflict")
 
 
 if __name__ == '__main__':
