@@ -7,6 +7,48 @@ de sentimientos sobre twitter en tiempo real basado en una metodologia novedosa.
 
 ## Clasificacion
 
+De cada tweet se pueden clasificar tantos las emociones como los sentimientos del mismo
+
+### Emociones
+
+Las emociones son las pequeñas unidades que conforman los sentimientos. Cada emocion tiene su contraparte:
+
+|Emocion||Contraparte||
+|:-|:-|:-|:-|
+|Joy|(Alegria)|Sadness|(Tristeza)|
+|Trust|(Confianza)|Disgust|(Disgusto)|
+|Fear|(Miedo)|Anger|(Ira)|
+|Surprise|(Sorpresa)|Anticipation|(Anticipacion)|
+
+### Sentimientos
+
+|Sentimiento||Grupo||
+|:-|:-|:-|:-|
+|Love|(Amor)|Happy|(Feliz)|
+|Delight|(Placer)|Happy|(Feliz)|
+|Pride|(Orgullo)|Happy|(Feliz)|
+|Optimism|(Optimismo)|Happy|(Feliz)|
+|Guilt|(Culpa)|Sad|(Triste)|
+|Sentimentality|(Sentimentalismo)|Sad|(Triste)|
+|Despair|(Desesperacion)|Sad|(Triste)|
+|Shame|(Verguenza)|Sad|(Triste)|
+|Disappointment|(Decepcion)|Sad|(Triste)|
+|Remorse|(Remordimiento)|Sad|(Triste)|
+|Pessimism|(Pesimismo)|Sad|(Triste)|
+|Fatalism|(Fatalismo)|Sad|(Triste)|
+||()|Angry|(Enojado)|
+||()|Angry|(Enojado)|
+||()|Angry|(Enojado)|
+||()|Angry|(Enojado)|
+||()|Angry|(Enojado)|
+||()|Angry|(Enojado)|
+||()|Angry|(Enojado)|
+||()|Indifferent|(Indiferente)|
+||()|Indifferent|(Indiferente)|
+||()|Indifferent|(Indiferente)|
+||()|Indifferent|(Indiferente)|
+||()|Indifferent|(Indiferente)|
+
 ## Como colaborar
 
 Para poder hacer hacer funcionar el proyecto, necesitamos lograr armar una base de tweets clasificados segun las emociones y sentimientos
