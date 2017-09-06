@@ -18,6 +18,7 @@ class TaggedTweet(Base):
     anger = Column(Integer, default=0)
     anticipation = Column(Integer, default=0)
     none = Column(Integer, default=0)
+    ironic = Column(Integer, default=0)
 
     totals = Column(Integer, nullable=False)
 

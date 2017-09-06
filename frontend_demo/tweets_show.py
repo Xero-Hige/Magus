@@ -156,6 +156,8 @@ def classify_tweet():
     dyad_c = request.form["c"]
     dyad_d = request.form["d"]
 
+    is_ironic = request.form["ironic"] == "ironic"
+
     sentiment = request.form["sentiment"]
 
     lang = request.form["lang"]
@@ -190,6 +192,8 @@ def classify_tweet():
             tweet.anger += 2 if 'anger' in emotions else 0
             tweet.surprise += 2 if 'surprise' in emotions else 0
             tweet.anticipation += 2 if 'anticipation' in emotions else 0
+
+        tweet.ironic += 3 if is_ironic else 0
 
         tweet.totals += 3 if tweet.totals != 1 else 2
         # TODO: LOCK RELEASE
