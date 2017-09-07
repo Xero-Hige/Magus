@@ -1,12 +1,13 @@
 from __future__ import absolute_import, print_function, unicode_literals
 
 import csv
+import os
 
 from twitter import *
 
 
 class TweetsFetcher():
-    def __init__(self, locations=[], topics="", geo=""):
+    def __init__(self, locations=[], topics=[], geo=""):
         self.CONSUMER_KEY = ""
         self.CONSUMER_SECRET = ""
         self.TOKEN_KEY = ""
@@ -47,11 +48,14 @@ class TweetsFetcher():
     @staticmethod
     def get_boundaries_list(locations):
         bounds = []
-        with open("country_bounds.csv", 'r') as _file:
+        with open("./libs/country_bounds.csv", 'r') as _file:
             reader = csv.DictReader(_file)
 
             for country in reader:
-                if not country["country"] in locations:
+
+                print(country["country"].lower(), locations, country["country"].lower() in locations)
+
+                if not country["country"].lower() in locations:
                     continue
 
                 geo = "{},{},{},{}".format(country["longmin"],
@@ -64,7 +68,15 @@ class TweetsFetcher():
         return bounds
 
     def get_keys(self):
-        with open("keys.rsa", "r") as f:
+        self.CONSUMER_KEY = os.environ.get('CONSUMER_KEY', None)
+        self.CONSUMER_SECRET = os.environ.get('CONSUMER_SECRET', None)
+        self.TOKEN_KEY = os.environ.get('TOKEN_KEY', None)
+        self.TOKEN_SECRET = os.environ.get('TOKEN_SECRET', None)
+
+        if self.CONSUMER_KEY:
+            return
+
+        with open("src/keys.rsa", "r") as f:
             self.CONSUMER_KEY = f.readline().rstrip('\n')
             self.CONSUMER_SECRET = f.readline().rstrip('\n')
             self.TOKEN_KEY = f.readline().rstrip('\n')
