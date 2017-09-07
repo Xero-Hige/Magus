@@ -16,9 +16,9 @@ Las emociones son las pequeñas unidades que conforman los sentimientos. Cada em
 |Emocion||Contraparte||
 |:-|:-|:-|:-|
 |Joy|(Alegria)|Sadness|(Tristeza)|
-|Trust|(Confianza)|Disgust|(Disgusto)|
+|Trust|(Confianza)|Disgust|(Desagrado)|
 |Fear|(Miedo)|Anger|(Ira)|
-|Surprise|(Sorpresa)|Anticipation|(Anticipacion)|
+|Surprise|(Sorpresa)|Anticipation|(Prevision)|
 
 ### Sentimientos
 
@@ -36,18 +36,18 @@ Las emociones son las pequeñas unidades que conforman los sentimientos. Cada em
 |Remorse|(Remordimiento)|Sad|(Triste)|
 |Pessimism|(Pesimismo)|Sad|(Triste)|
 |Fatalism|(Fatalismo)|Sad|(Triste)|
-||()|Angry|(Enojado)|
-||()|Angry|(Enojado)|
-||()|Angry|(Enojado)|
-||()|Angry|(Enojado)|
-||()|Angry|(Enojado)|
-||()|Angry|(Enojado)|
-||()|Angry|(Enojado)|
-||()|Indifferent|(Indiferente)|
-||()|Indifferent|(Indiferente)|
-||()|Indifferent|(Indiferente)|
-||()|Indifferent|(Indiferente)|
-||()|Indifferent|(Indiferente)|
+|Alarm|(Alerta)|Angry|(Enojado)|
+|Outrage|(Indignacion)|Angry|(Enojado)|
+|Envy|(Envidia)|Angry|(Enojado)|
+|Contempt|(Desprecio)|Angry|(Enojado)|
+|Cynism|(Cinismo)|Angry|(Enojado)|
+|Aggression|(Agresion)|Angry|(Enojado)|
+|Anxiety|(Ansiedad)|Angry|(Enojado)|
+|Submission|(Sumisión)|Indifferent|(Indiferente)|
+|Dominance|(Dominacion)|Indifferent|(Indiferente)|
+|Curiosity|(Curiosidad)|Indifferent|(Indiferente)|
+|Morbidness|(Morbosidad)|Indifferent|(Indiferente)|
+|None|()|Indifferent|(Indiferente)|
 
 ## Como colaborar
 
@@ -63,7 +63,7 @@ Los tweets personales son bastante utiles ya que uno mismo tiene bastante en cla
 Los tweets escritos por uno mismo poseen un valor extra ya que en el momento de emitirlo, se conocen el estado emocional y los sentimientos. Así que cuando estés por tweetear, acordate de incluirlo acá ;-). Cuac
 
 |Botones||
-|:-:|:-|
+|:-|:-|
 |Go Back| Sale sin agregar un tweet nuevo |
 |Add| Agrega el tweet y vuelve a la pantalla principal |
 |Add Another| Agrega el tweet y deja agregar un nuevo tweet |
@@ -74,7 +74,7 @@ El sistema tiene una base de tweets no clasificados. Podes classificar tweets al
 Si los tweets ya fueron clasificados por alguien antes, podes ver lo que opino el resto al respecto.
 
 |Botones||
-|:-:|:-|
+|:-|:-|
 |Finish|Envia la clasificacion actual y termina|
 |Next|Envia la clasificacion actual y propone un nuevo tweet|
 |Skip|Descarta la clasificacion actual y propone un nuevo tweet|
