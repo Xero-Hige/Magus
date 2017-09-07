@@ -47,7 +47,7 @@ Las emociones son las pequeñas unidades que conforman los sentimientos. Cada em
 |Dominance|(Dominacion)|Indifferent|(Indiferente)|
 |Curiosity|(Curiosidad)|Indifferent|(Indiferente)|
 |Morbidness|(Morbosidad)|Indifferent|(Indiferente)|
-|None|()|Indifferent|(Indiferente)|
+|None|(Nada)|Indifferent|(Indiferente)|
 
 ## Como colaborar
 
