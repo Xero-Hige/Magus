@@ -96,7 +96,7 @@ def get_emotions(sentiment):
 
 @app.route('/classify', methods=["GET"])
 def classify_get():
-    tweets = os.listdir("../tweets")
+    tweets = os.listdir("../../tweets")
 
     tweet = load_tweet(random.choice(tweets))
 
