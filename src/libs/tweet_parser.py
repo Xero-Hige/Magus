@@ -2,6 +2,8 @@ import json as Serializer
 
 class TweetParser:
 
+	TWEET_TEXT = "tweet_text"
+
 	@staticmethod
 	def parse_from_json_file(filename):
 		with open(filename,'r') as _file:
@@ -23,9 +25,9 @@ class TweetParser:
 		tweet_dict["user_back"] = tweet["user"].get("profile_banner_url", " ")
 
 		if "truncated" in tweet and "extended_tweet" in tweet:
-			tweet_dict["text"] = tweet["extended_tweet"]["full_text"].encode("utf-8", 'replace').decode("utf-8")
+			tweet_dict[TweetParser.TWEET_TEXT] = tweet["extended_tweet"]["full_text"].encode("utf-8", 'replace').decode("utf-8")
 		else:
-			tweet_dict["text"] = tweet["text"].encode("utf-8", 'replace').decode("utf-8")
+			tweet_dict[TweetParser.TWEET_TEXT] = tweet["text"].encode("utf-8", 'replace').decode("utf-8")
 
 		try:
 			if "coordinates" in tweet and tweet["coordinates"]:
@@ -57,5 +59,31 @@ class TweetParser:
 			tweet_dict["country"] = tweet["place"]["country"]
 		else:
 			tweet_dict["country"] = None
+
+		tweet["tweet_id"] = tweet["id_str"]
+
+		tweet["tweet_lang"] = tweet.get("lang", "")
+
+		if tweet.get("place"):
+			tweet["tweet_place"] = tweet.get("place", {}).get("name", "")
+		else:
+			tweet["tweet_place"] = ""
+
+		tweet["tweet_user_lang"] = tweet.get("user", {}).get("lang", "")
+
+		tweet["tweet_hashtags"] = []
+		for hashtag in tweet.get("entities", {}).get("hashtags", []):
+			tweet["tweet_hashtags"].append(hashtag.get("text", ""))
+
+		tweet["tweet_mentions"] = 0
+		for _ in tweet.get("entities", {}).get("user_mentions", []):
+			tweet["tweet_mentions"] += 1
+
+		tweet["tweet_media"] = {}
+		if tweet.get("extended_entities"):
+			media = tweet.get("extended_entities", {}).get("media", [])
+			for m in media:
+				tweet["tweet_media"][m["type"]] = tweet["tweet_media"].get(m["type"], 0) + 1
+
 
 		return tweet_dict
