@@ -96,7 +96,7 @@ def get_emotions(sentiment):
 
 @app.route('/classify', methods=["GET"])
 def classify_get():
-    tweets = os.listdir("../../tweets")
+    tweets = os.listdir("../tweets")
 
     tweet = load_tweet(random.choice(tweets))
 
@@ -106,7 +106,7 @@ def classify_get():
 @app.route('/classify/<int:tweet_id>', methods=["GET"])
 def classify_exact_get(tweet_id):
     tweet_id = "{}.json".format(tweet_id)
-    tweets = os.listdir("../../tweets")
+    tweets = os.listdir("../tweets")
 
     if str(tweet_id) not in tweets:
         return redirect("/add")

@@ -1,1 +1,1 @@
-web: cd src/frontend && gunicorn tweets_show:app
+web: cd src && gunicorn tweets_show:app
