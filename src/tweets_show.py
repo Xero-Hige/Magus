@@ -1,5 +1,6 @@
 import random
 import re
+import time
 from subprocess import Popen, PIPE
 
 from flask import Flask, render_template, request, redirect
@@ -8,6 +9,7 @@ from libs.tweet_parser import TweetParser
 from tweet_process import censor_urls, anonymize_usernames
 from tweets_db import *
 from tweets_db import DB_Handler
+from utils.tweets_scrapper import do_scrapping
 
 NONE = "none"
 SAD = "sad"
@@ -149,6 +151,46 @@ def adder_post():
 
     return redirect("/add")
 
+
+import zipfile
+
+
+def zipdir(path, ziph):
+    # ziph is zipfile handle
+    for root, dirs, files in os.walk(path):
+        for file in files:
+            ziph.write(os.path.join(root, file))
+
+
+@app.route('/scrapp', methods=['GET'])
+def scrapp():
+    try:
+        os.makedirs("../bulk")
+    except:
+        pass
+
+    locations = request.args.get('location', "")
+    topics = request.args.get('topics', "")
+    geo = request.args.get('geo', "")
+
+    print ("DEBUG ", locations, topics, geo)
+
+    child = os.fork()
+    if child == 0:
+        do_scrapping()
+        name = "{}.zip".format(time.time())
+
+        zipf = zipfile.ZipFile(name, 'w', zipfile.ZIP_DEFLATED)
+        zipdir("../bulk", zipf)
+        zipf.close()
+
+        p = Popen(["ruby", "uploader.rb", name, name],
+                  stdout=PIPE, stdin=PIPE, stderr=PIPE)
+        p.communicate(input=b'\n')
+
+        exit(0)
+    else:
+        return redirect('/')
 
 def classify_tweet():
     dyad_a = request.form["a"]
@@ -345,5 +387,5 @@ def get_sentiment(emotion_a, emotion_b):
 
 if __name__ == '__main__':
     # Bind to PORT if defined, otherwise default to 5000.
-    port = int(os.environ.get('PORT', 5000))
+    port = int(os.environ.get('PORT', 5001))
     app.run(host='0.0.0.0', port=port)
