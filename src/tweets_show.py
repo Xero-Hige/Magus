@@ -1,17 +1,13 @@
-import json
 import random
 import re
 from subprocess import Popen, PIPE
 
 from flask import Flask, render_template, request, redirect
 
+from libs.tweet_parser import TweetParser
 from tweet_process import censor_urls, anonymize_usernames
 from tweets_db import *
 from tweets_db import DB_Handler
-
-import libs
-import libs.tweet_parser
-from libs.tweet_parser import TweetParser
 
 NONE = "none"
 SAD = "sad"
@@ -230,41 +226,15 @@ def get_tweets(files):
 
 
 def load_tweet(tweet_file_name):
-    tweet = {}
+    # with open("../tweets/" + tweet_file_name) as tweet_file:
+    #    tweet_dump = tweet_file.read()
+    #
+    # loaded_tweet = json.loads(tweet_dump, encoding="utf-8")
 
-    with open("../tweets/" + tweet_file_name) as tweet_file:
-        tweet_dump = tweet_file.read()
+    tweet = TweetParser.parse_from_json_file("../tweets/" + tweet_file_name)
 
-    loaded_tweet = json.loads(tweet_dump, encoding="utf-8")
-
-    tweet["tweet_id"] = tweet_file_name.replace(".json", "")
-
-    tweet["tweet_text"] = anonymize_usernames(censor_urls(loaded_tweet.get("text", "")))
-
+    tweet["tweet_text"] = anonymize_usernames(censor_urls(tweet.get(TweetParser.TWEET_TEXT, "")))
     tweet["tweet_text"] = re.sub(EMOJIS, r'\<span class="emoji" data-emoji="\g<0>"\>\</span\>', tweet["tweet_text"])
-
-    tweet["tweet_lang"] = loaded_tweet.get("lang", "")
-
-    if tweet.get("place"):
-        tweet["tweet_place"] = loaded_tweet.get("place", {}).get("name", "")
-    else:
-        tweet["tweet_place"] = ""
-
-    tweet["tweet_user_lang"] = loaded_tweet.get("user", {}).get("lang", "")
-
-    tweet["tweet_hashtags"] = []
-    for hashtag in loaded_tweet.get("entities", {}).get("hashtags", []):
-        tweet["tweet_hashtags"].append(hashtag.get("text", ""))
-
-    tweet["tweet_mentions"] = 0
-    for _ in loaded_tweet.get("entities", {}).get("user_mentions", []):
-        tweet["tweet_mentions"] += 1
-
-    tweet["tweet_media"] = {}
-    if loaded_tweet.get("extended_entities"):
-        media = loaded_tweet.get("extended_entities", {}).get("media", [])
-        for m in media:
-            tweet["tweet_media"][m["type"]] = tweet["tweet_media"].get(m["type"], 0) + 1
 
     sentiments = tweet_add_sentiments(tweet)
 
@@ -355,6 +325,7 @@ def get_emotions_list(_tweet):
 
 def tweet_add_sentiments(tweet):
     with DB_Handler() as handler:
+        print(tweet)
         _tweet = handler.get_tagged(tweet['tweet_id'])
 
         emotions = get_emotions_list(_tweet)
