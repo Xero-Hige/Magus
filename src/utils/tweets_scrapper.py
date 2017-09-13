@@ -17,8 +17,6 @@ def do_scrapping(locations="", topics="", geo=""):
     locations = [s.lower() for s in locations.split(",")]
     topics = [s.lower() for s in topics.split(",")]
 
-    print("DEBUG",locations,topics)
-
     streamer = tweet_fetcher.TweetsFetcher(locations=locations,
                                            topics=topics,
                                            geo=geo)
@@ -28,10 +26,15 @@ def do_scrapping(locations="", topics="", geo=""):
 
     for tweet in streamer:
 
+        print(tweet)
+
         if not "id" in tweet:
             continue
 
         t_id = str(tweet["id"])
+
+
+
         try:
             with open("../bulk/" + t_id + ".json", 'w') as t_file:
                 t_file.write(Serializer.dumps(tweet))
