@@ -5,6 +5,8 @@ import os
 
 from twitter import *
 
+WHOLE_WORLD_CORDINATES = "-180.0,-90.0, 180.0, 90.0"
+
 
 class TweetsFetcher():
     def __init__(self, locations=[], topics=[], geo=""):
@@ -29,10 +31,12 @@ class TweetsFetcher():
 
         location_string = self.get_location_string()
 
-        if self.topics:
+        if self.topics and location_string:
             self.tweet_stream = twitter_stream.statuses.filter(locations=location_string, track=self.topics)
+        elif self.topics and not location_string:
+            self.tweet_stream = twitter_stream.statuses.filter(track=self.topics)
         else:
-            self.tweet_stream = twitter_stream.statuses.filter(locations=location_string)
+            self.tweet_stream = twitter_stream.statuses.filter(locations=WHOLE_WORLD_CORDINATES)
 
     def get_location_string(self):
         boundaries = []
@@ -40,8 +44,6 @@ class TweetsFetcher():
             boundaries = self.get_boundaries_list(self.locations)
         if self.geo:
             boundaries.append(self.geo)
-        if not boundaries:
-            boundaries = ["-180.0,-90.0, 180.0, 90.0"]
         location_string = ",".join(boundaries)
         return location_string
 
