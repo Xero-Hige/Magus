@@ -17,6 +17,8 @@ def do_scrapping(locations="", topics="", geo=""):
     locations = [s.lower() for s in locations.split(",")]
     topics = [s.lower() for s in topics.split(",")]
 
+    print("DEBUG",location,topics)
+
     streamer = tweet_fetcher.TweetsFetcher(locations=locations,
                                            topics=topics,
                                            geo=geo)
