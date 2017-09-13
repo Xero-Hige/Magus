@@ -55,10 +55,12 @@ class TweetsFetcher():
 
             for country in reader:
 
-                print(country["country"].lower(), locations, country["country"].lower() in locations)
+                #print(country["country"].lower(), locations, country["country"].lower() in locations)
 
                 if not country["country"].lower() in locations:
                     continue
+
+                print (locations)
 
                 geo = "{},{},{},{}".format(country["longmin"],
                                            country["latmin"],
