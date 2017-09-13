@@ -9,6 +9,10 @@ from tweet_process import censor_urls, anonymize_usernames
 from tweets_db import *
 from tweets_db import DB_Handler
 
+import libs
+import libs.tweet_parser
+from libs.tweet_parser import TweetParser
+
 NONE = "none"
 SAD = "sad"
 ANGRY = "angry"
