@@ -71,7 +71,7 @@ if (typeof jQuery === 'undefined') {
     /**
      * --------------------------------------------------------------------------
      * Bootstrap (v4.0.0-alpha.6): util.js
- * Licensed under MIT (https://github.com/twbs/bootstrap/blob/master/LICENSE)
+     * Licensed under MIT (https://github.com/twbs/bootstrap/blob/master/LICENSE)
      * --------------------------------------------------------------------------
      */
 
@@ -220,12 +220,12 @@ if (typeof jQuery === 'undefined') {
         setTransitionEndSupport();
 
         return Util;
-}(jQuery);
+    }(jQuery);
 
     /**
      * --------------------------------------------------------------------------
      * Bootstrap (v4.0.0-alpha.6): alert.js
- * Licensed under MIT (https://github.com/twbs/bootstrap/blob/master/LICENSE)
+     * Licensed under MIT (https://github.com/twbs/bootstrap/blob/master/LICENSE)
      * --------------------------------------------------------------------------
      */
 
@@ -311,7 +311,7 @@ if (typeof jQuery === 'undefined') {
                 }
 
                 return parent;
-    };
+            };
 
             Alert.prototype._triggerCloseEvent = function _triggerCloseEvent(element) {
                 var closeEvent = $.Event(Event.CLOSE);
@@ -365,7 +365,7 @@ if (typeof jQuery === 'undefined') {
 
                     alertInstance.close(this);
                 };
-    };
+            };
 
             _createClass(Alert, null, [{
                 key: 'VERSION',
@@ -399,12 +399,12 @@ if (typeof jQuery === 'undefined') {
         };
 
         return Alert;
-}(jQuery);
+    }(jQuery);
 
     /**
      * --------------------------------------------------------------------------
      * Bootstrap (v4.0.0-alpha.6): button.js
- * Licensed under MIT (https://github.com/twbs/bootstrap/blob/master/LICENSE)
+     * Licensed under MIT (https://github.com/twbs/bootstrap/blob/master/LICENSE)
      * --------------------------------------------------------------------------
      */
 
@@ -490,7 +490,7 @@ if (typeof jQuery === 'undefined') {
 
                         input.focus();
                         addAriaPressed = false;
-        }
+                    }
                 }
 
                 if (addAriaPressed) {
@@ -500,7 +500,7 @@ if (typeof jQuery === 'undefined') {
                 if (triggerChangeEvent) {
                     $(this._element).toggleClass(ClassName.ACTIVE);
                 }
-    };
+            };
 
             Button.prototype.dispose = function dispose() {
                 $.removeData(this._element, DATA_KEY);
@@ -522,7 +522,7 @@ if (typeof jQuery === 'undefined') {
                         data[config]();
                     }
                 });
-    };
+            };
 
             _createClass(Button, null, [{
                 key: 'VERSION',
@@ -569,12 +569,12 @@ if (typeof jQuery === 'undefined') {
         };
 
         return Button;
-}(jQuery);
+    }(jQuery);
 
     /**
      * --------------------------------------------------------------------------
      * Bootstrap (v4.0.0-alpha.6): carousel.js
- * Licensed under MIT (https://github.com/twbs/bootstrap/blob/master/LICENSE)
+     * Licensed under MIT (https://github.com/twbs/bootstrap/blob/master/LICENSE)
      * --------------------------------------------------------------------------
      */
 
@@ -839,7 +839,7 @@ if (typeof jQuery === 'undefined') {
             Carousel.prototype._getItemIndex = function _getItemIndex(element) {
                 this._items = $.makeArray($(element).parent().find(Selector.ITEM));
                 return this._items.indexOf(element);
-    };
+            };
 
             Carousel.prototype._getItemByDirection = function _getItemByDirection(direction, activeElement) {
                 var isNextDirection = direction === Direction.NEXT;
@@ -856,7 +856,7 @@ if (typeof jQuery === 'undefined') {
                 var itemIndex = (activeIndex + delta) % this._items.length;
 
                 return itemIndex === -1 ? this._items[this._items.length - 1] : this._items[itemIndex];
-    };
+            };
 
             Carousel.prototype._triggerSlideEvent = function _triggerSlideEvent(relatedTarget, eventDirectionName) {
                 var targetIndex = this._getItemIndex(relatedTarget);
@@ -881,7 +881,7 @@ if (typeof jQuery === 'undefined') {
 
                     if (nextIndicator) {
                         $(nextIndicator).addClass(ClassName.ACTIVE);
-        }
+                    }
                 }
             };
 
@@ -969,7 +969,7 @@ if (typeof jQuery === 'undefined') {
                 if (isCycling) {
                     this.cycle();
                 }
-    };
+            };
 
             // static
 
@@ -1001,7 +1001,7 @@ if (typeof jQuery === 'undefined') {
                         data.cycle();
                     }
                 });
-    };
+            };
 
             Carousel._dataApiClickHandler = function _dataApiClickHandler(event) {
                 var selector = Util.getSelectorFromElement(this);
@@ -1030,7 +1030,7 @@ if (typeof jQuery === 'undefined') {
                 }
 
                 event.preventDefault();
-    };
+            };
 
             _createClass(Carousel, null, [{
                 key: 'VERSION',
@@ -1076,12 +1076,12 @@ if (typeof jQuery === 'undefined') {
         };
 
         return Carousel;
-}(jQuery);
+    }(jQuery);
 
     /**
      * --------------------------------------------------------------------------
      * Bootstrap (v4.0.0-alpha.6): collapse.js
- * Licensed under MIT (https://github.com/twbs/bootstrap/blob/master/LICENSE)
+     * Licensed under MIT (https://github.com/twbs/bootstrap/blob/master/LICENSE)
      * --------------------------------------------------------------------------
      */
 
@@ -1252,7 +1252,7 @@ if (typeof jQuery === 'undefined') {
                 $(this._element).one(Util.TRANSITION_END, complete).emulateTransitionEnd(TRANSITION_DURATION);
 
                 this._element.style[dimension] = this._element[scrollSize] + 'px';
-    };
+            };
 
             Collapse.prototype.hide = function hide() {
                 var _this7 = this;
@@ -1303,7 +1303,7 @@ if (typeof jQuery === 'undefined') {
                 }
 
                 $(this._element).one(Util.TRANSITION_END, complete).emulateTransitionEnd(TRANSITION_DURATION);
-    };
+            };
 
             Collapse.prototype.setTransitioning = function setTransitioning(isTransitioning) {
                 this._isTransitioning = isTransitioning;
@@ -1317,7 +1317,7 @@ if (typeof jQuery === 'undefined') {
                 this._element = null;
                 this._triggerArray = null;
                 this._isTransitioning = null;
-    };
+            };
 
             // private
 
@@ -1326,12 +1326,12 @@ if (typeof jQuery === 'undefined') {
                 config.toggle = Boolean(config.toggle); // coerce string values
                 Util.typeCheckConfig(NAME, config, DefaultType);
                 return config;
-    };
+            };
 
             Collapse.prototype._getDimension = function _getDimension() {
                 var hasWidth = $(this._element).hasClass(Dimension.WIDTH);
                 return hasWidth ? Dimension.WIDTH : Dimension.HEIGHT;
-    };
+            };
 
             Collapse.prototype._getParent = function _getParent() {
                 var _this8 = this;
@@ -1344,7 +1344,7 @@ if (typeof jQuery === 'undefined') {
                 });
 
                 return parent;
-    };
+            };
 
             Collapse.prototype._addAriaAndCollapsedClass = function _addAriaAndCollapsedClass(element, triggerArray) {
                 if (element) {
@@ -1385,7 +1385,7 @@ if (typeof jQuery === 'undefined') {
                         data[config]();
                     }
                 });
-    };
+            };
 
             _createClass(Collapse, null, [{
                 key: 'VERSION',
@@ -1437,14 +1437,14 @@ if (typeof jQuery === 'undefined') {
         };
 
         return Collapse;
-}(jQuery);
+    }(jQuery);
 
     /* global Popper */
 
     /**
      * --------------------------------------------------------------------------
      * Bootstrap (v4.0.0-alpha.6): dropdown.js
- * Licensed under MIT (https://github.com/twbs/bootstrap/blob/master/LICENSE)
+     * Licensed under MIT (https://github.com/twbs/bootstrap/blob/master/LICENSE)
      * --------------------------------------------------------------------------
      */
 
@@ -1577,7 +1577,7 @@ if (typeof jQuery === 'undefined') {
                 if ($(parent).hasClass(ClassName.DROPUP)) {
                     if ($(this._menu).hasClass(ClassName.MENULEFT) || $(this._menu).hasClass(ClassName.MENURIGHT)) {
                         element = parent;
-        }
+                    }
                 }
                 this._popper = new Popper(element, this._menu, this._getPopperConfig());
 
@@ -1594,7 +1594,7 @@ if (typeof jQuery === 'undefined') {
 
                 $(this._menu).toggleClass(ClassName.SHOW);
                 $(parent).toggleClass(ClassName.SHOW).trigger($.Event(Event.SHOWN, relatedTarget));
-    };
+            };
 
             Dropdown.prototype.dispose = function dispose() {
                 $.removeData(this._element, DATA_KEY);
@@ -1801,12 +1801,12 @@ if (typeof jQuery === 'undefined') {
                 var index = items.indexOf(event.target);
 
                 if (event.which === ARROW_UP_KEYCODE && index > 0) {
-        // up
+                    // up
                     index--;
                 }
 
                 if (event.which === ARROW_DOWN_KEYCODE && index < items.length - 1) {
-        // down
+                    // down
                     index++;
                 }
 
@@ -1815,7 +1815,7 @@ if (typeof jQuery === 'undefined') {
                 }
 
                 items[index].focus();
-    };
+            };
 
             _createClass(Dropdown, null, [{
                 key: 'VERSION',
@@ -1865,12 +1865,12 @@ if (typeof jQuery === 'undefined') {
         };
 
         return Dropdown;
-}(jQuery);
+    }(jQuery);
 
     /**
      * --------------------------------------------------------------------------
      * Bootstrap (v4.0.0-alpha.6): modal.js
- * Licensed under MIT (https://github.com/twbs/bootstrap/blob/master/LICENSE)
+     * Licensed under MIT (https://github.com/twbs/bootstrap/blob/master/LICENSE)
      * --------------------------------------------------------------------------
      */
 
@@ -1963,7 +1963,7 @@ if (typeof jQuery === 'undefined') {
 
             Modal.prototype.toggle = function toggle(relatedTarget) {
                 return this._isShown ? this.hide() : this.show(relatedTarget);
-    };
+            };
 
             Modal.prototype.show = function show(relatedTarget) {
                 var _this10 = this;
@@ -2128,7 +2128,7 @@ if (typeof jQuery === 'undefined') {
                 } else {
                     transitionComplete();
                 }
-    };
+            };
 
             Modal.prototype._enforceFocus = function _enforceFocus() {
                 var _this13 = this;
@@ -2139,7 +2139,7 @@ if (typeof jQuery === 'undefined') {
                             _this13._element.focus();
                         }
                     });
-    };
+            };
 
             Modal.prototype._setEscapeEvent = function _setEscapeEvent() {
                 var _this14 = this;
@@ -2154,7 +2154,7 @@ if (typeof jQuery === 'undefined') {
                 } else if (!this._isShown) {
                     $(this._element).off(Event.KEYDOWN_DISMISS);
                 }
-    };
+            };
 
             Modal.prototype._setResizeEvent = function _setResizeEvent() {
                 var _this15 = this;
@@ -2255,7 +2255,7 @@ if (typeof jQuery === 'undefined') {
                 } else if (callback) {
                     callback();
                 }
-    };
+            };
 
             // ----------------------------------------------------------------------
             // the following methods are used to handle overflowing modals
@@ -2272,17 +2272,17 @@ if (typeof jQuery === 'undefined') {
                 if (this._isBodyOverflowing && !isModalOverflowing) {
                     this._element.style.paddingRight = this._scrollbarWidth + 'px';
                 }
-    };
+            };
 
             Modal.prototype._resetAdjustments = function _resetAdjustments() {
                 this._element.style.paddingLeft = '';
                 this._element.style.paddingRight = '';
-    };
+            };
 
             Modal.prototype._checkScrollbar = function _checkScrollbar() {
                 this._isBodyOverflowing = document.body.clientWidth < window.innerWidth;
                 this._scrollbarWidth = this._getScrollbarWidth();
-    };
+            };
 
             Modal.prototype._setScrollbar = function _setScrollbar() {
                 var _this18 = this;
@@ -2310,7 +2310,7 @@ if (typeof jQuery === 'undefined') {
                     var calculatedPadding = $('body').css('padding-right');
                     $('body').data('padding-right', actualPadding).css('padding-right', parseFloat(calculatedPadding) + this._scrollbarWidth + 'px');
                 }
-    };
+            };
 
             Modal.prototype._resetScrollbar = function _resetScrollbar() {
                 // Restore fixed content padding
@@ -2334,7 +2334,7 @@ if (typeof jQuery === 'undefined') {
                 if (typeof padding !== 'undefined') {
                     $('body').css('padding-right', padding).removeData('padding-right');
                 }
-    };
+            };
 
             Modal.prototype._getScrollbarWidth = function _getScrollbarWidth() {
                 // thx d.walsh
@@ -2344,7 +2344,7 @@ if (typeof jQuery === 'undefined') {
                 var scrollbarWidth = scrollDiv.getBoundingClientRect().width - scrollDiv.clientWidth;
                 document.body.removeChild(scrollDiv);
                 return scrollbarWidth;
-    };
+            };
 
             // static
 
@@ -2367,7 +2367,7 @@ if (typeof jQuery === 'undefined') {
                         data.show(relatedTarget);
                     }
                 });
-    };
+            };
 
             _createClass(Modal, null, [{
                 key: 'VERSION',
@@ -2436,12 +2436,12 @@ if (typeof jQuery === 'undefined') {
         };
 
         return Modal;
-}(jQuery);
+    }(jQuery);
 
     /**
      * --------------------------------------------------------------------------
      * Bootstrap (v4.0.0-alpha.6): scrollspy.js
- * Licensed under MIT (https://github.com/twbs/bootstrap/blob/master/LICENSE)
+     * Licensed under MIT (https://github.com/twbs/bootstrap/blob/master/LICENSE)
      * --------------------------------------------------------------------------
      */
 
@@ -3139,11 +3139,11 @@ if (typeof jQuery === 'undefined') {
 
             Tooltip.prototype.enable = function enable() {
                 this._isEnabled = true;
-    };
+            };
 
             Tooltip.prototype.disable = function disable() {
                 this._isEnabled = false;
-    };
+            };
 
             Tooltip.prototype.toggleEnabled = function toggleEnabled() {
                 this._isEnabled = !this._isEnabled;
@@ -3157,7 +3157,7 @@ if (typeof jQuery === 'undefined') {
                     if (!context) {
                         context = new this.constructor(event.currentTarget, this._getDelegateConfig());
                         $(event.currentTarget).data(dataKey, context);
-        }
+                    }
 
                     context._activeTrigger.click = !context._activeTrigger.click;
 
@@ -3165,17 +3165,17 @@ if (typeof jQuery === 'undefined') {
                         context._enter(null, context);
                     } else {
                         context._leave(null, context);
-        }
+                    }
                 } else {
 
                     if ($(this.getTipElement()).hasClass(ClassName.SHOW)) {
                         this._leave(null, this);
                         return;
-        }
+                    }
 
                     this._enter(null, this);
                 }
-    };
+            };
 
             Tooltip.prototype.dispose = function dispose() {
                 clearTimeout(this._timeout);
@@ -3201,7 +3201,7 @@ if (typeof jQuery === 'undefined') {
                 this.element = null;
                 this.config = null;
                 this.tip = null;
-    };
+            };
 
             Tooltip.prototype.show = function show() {
                 var _this24 = this;
@@ -3218,7 +3218,7 @@ if (typeof jQuery === 'undefined') {
 
                     if (showEvent.isDefaultPrevented() || !isInTheDom) {
                         return;
-        }
+                    }
 
                     var tip = this.getTipElement();
                     var tipId = Util.getUID(this.constructor.NAME);
@@ -3243,7 +3243,7 @@ if (typeof jQuery === 'undefined') {
 
                     if (!$.contains(this.element.ownerDocument.documentElement, this.tip)) {
                         $(tip).appendTo(container);
-        }
+                    }
 
                     $(this.element).trigger(this.constructor.Event.INSERTED);
 
@@ -3258,7 +3258,7 @@ if (typeof jQuery === 'undefined') {
                             },
                             arrow: {
                                 element: Selector.ARROW
-            }
+                            }
                         },
                         onCreate: function onCreate(data) {
                             if (data.originalPlacement !== data.placement) {
@@ -3298,9 +3298,9 @@ if (typeof jQuery === 'undefined') {
                         $(this.tip).one(Util.TRANSITION_END, complete).emulateTransitionEnd(Tooltip._TRANSITION_DURATION);
                     } else {
                         complete();
-        }
+                    }
                 }
-    };
+            };
 
             Tooltip.prototype.hide = function hide(callback) {
                 var _this25 = this;
@@ -3350,33 +3350,33 @@ if (typeof jQuery === 'undefined') {
                 }
 
                 this._hoverState = '';
-    };
+            };
 
             Tooltip.prototype.update = function update() {
                 if (this._popper !== null) {
                     this._popper.scheduleUpdate();
                 }
-    };
+            };
 
             // protected
 
             Tooltip.prototype.isWithContent = function isWithContent() {
                 return Boolean(this.getTitle());
-    };
+            };
 
             Tooltip.prototype.addAttachmentClass = function addAttachmentClass(attachment) {
                 $(this.getTipElement()).addClass(CLASS_PREFIX + '-' + attachment);
-    };
+            };
 
             Tooltip.prototype.getTipElement = function getTipElement() {
                 return this.tip = this.tip || $(this.config.template)[0];
-    };
+            };
 
             Tooltip.prototype.setContent = function setContent() {
                 var $tip = $(this.getTipElement());
                 this.setElementContent($tip.find(Selector.TOOLTIP_INNER), this.getTitle());
                 $tip.removeClass(ClassName.FADE + ' ' + ClassName.SHOW);
-    };
+            };
 
             Tooltip.prototype.setElementContent = function setElementContent($element, content) {
                 var html = this.config.html;
@@ -3386,13 +3386,13 @@ if (typeof jQuery === 'undefined') {
                         if (!$(content).parent().is($element)) {
                             $element.empty().append(content);
                         }
-        } else {
+                    } else {
                         $element.text($(content).text());
-        }
+                    }
                 } else {
                     $element[html ? 'html' : 'text'](content);
                 }
-    };
+            };
 
             Tooltip.prototype.getTitle = function getTitle() {
                 var title = this.element.getAttribute('data-original-title');
@@ -3402,7 +3402,7 @@ if (typeof jQuery === 'undefined') {
                 }
 
                 return title;
-    };
+            };
 
             // private
 
@@ -3675,12 +3675,12 @@ if (typeof jQuery === 'undefined') {
         };
 
         return Tooltip;
-}(jQuery);
+    }(jQuery);
 
     /**
      * --------------------------------------------------------------------------
      * Bootstrap (v4.0.0-alpha.6): popover.js
- * Licensed under MIT (https://github.com/twbs/bootstrap/blob/master/LICENSE)
+     * Licensed under MIT (https://github.com/twbs/bootstrap/blob/master/LICENSE)
      * --------------------------------------------------------------------------
      */
 
@@ -3753,11 +3753,11 @@ if (typeof jQuery === 'undefined') {
 
             Popover.prototype.isWithContent = function isWithContent() {
                 return this.getTitle() || this._getContent();
-    };
+            };
 
             Popover.prototype.addAttachmentClass = function addAttachmentClass(attachment) {
                 $(this.getTipElement()).addClass(CLASS_PREFIX + '-' + attachment);
-    };
+            };
 
             Popover.prototype.getTipElement = function getTipElement() {
                 return this.tip = this.tip || $(this.config.template)[0];
@@ -3870,7 +3870,7 @@ if (typeof jQuery === 'undefined') {
         };
 
         return Popover;
-}(jQuery);
+    }(jQuery);
 
 
 })();

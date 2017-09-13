@@ -1925,8 +1925,8 @@ pre code {
 
 @media (max-width: 991px) {
     .table-responsive {
-    display: block;
-    width: 100%;
+        display: block;
+        width: 100%;
         overflow-x: auto;
         -ms-overflow-style: -ms-autohiding-scrollbar;
     }
@@ -2307,6 +2307,7 @@ select.form-control-lg:not([size]):not([multiple]), .input-group-lg > select.for
         justify-content: center;
         margin-bottom: 0;
     }
+
     .form-inline .form-group {
         display: -webkit-box;
         display: -webkit-flex;
@@ -2327,6 +2328,7 @@ select.form-control-lg:not([size]):not([multiple]), .input-group-lg > select.for
         align-items: center;
         margin-bottom: 0;
     }
+
     .form-inline .form-control {
         display: inline-block;
         width: auto;
@@ -2336,6 +2338,7 @@ select.form-control-lg:not([size]):not([multiple]), .input-group-lg > select.for
     .form-inline .form-control-plaintext {
         display: inline-block;
     }
+
     .form-inline .input-group {
         width: auto;
     }

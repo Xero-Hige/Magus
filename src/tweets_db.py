@@ -38,6 +38,7 @@ try:
 except:
     pass
 
+
 class DB_Handler:
     def __init__(self):
         self.session = Session()

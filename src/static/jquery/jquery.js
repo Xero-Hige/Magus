@@ -7039,11 +7039,11 @@
 
     jQuery.speed = function (speed, easing, fn) {
         var opt = speed && typeof speed === "object" ? jQuery.extend({}, speed) : {
-                complete: fn || !fn && easing ||
-                jQuery.isFunction(speed) && speed,
-                duration: speed,
-                easing: fn && easing || easing && !jQuery.isFunction(easing) && easing
-            };
+            complete: fn || !fn && easing ||
+            jQuery.isFunction(speed) && speed,
+            duration: speed,
+            easing: fn && easing || easing && !jQuery.isFunction(easing) && easing
+        };
 
         // Go to the end state if fx are off or if document is hidden
         if (jQuery.fx.off || document.hidden) {
