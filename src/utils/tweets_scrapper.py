@@ -21,12 +21,14 @@ def do_scrapping(locations="", topics="", geo=""):
                                            topics=topics,
                                            geo=geo)
 
+    print (streamer)
+
     count = 0
     start_time = time.time()
 
     for tweet in streamer:
 
-        print(tweet)    
+        print(tweet)
 
         if not "id" in tweet:
             continue
