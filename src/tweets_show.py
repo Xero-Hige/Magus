@@ -175,7 +175,7 @@ def scrapp():
 
     child = os.fork()
     if child == 0:
-        do_scrapping()
+        do_scrapping(locations, topics, geo)
         name = "{}.zip".format(time.time())
 
         zipf = zipfile.ZipFile(name, 'w', zipfile.ZIP_DEFLATED)
