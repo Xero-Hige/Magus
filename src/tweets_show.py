@@ -173,8 +173,6 @@ def scrapp():
     topics = request.args.get('topics', "")
     geo = request.args.get('geo', "")
 
-    print ("DEBUG ", locations, topics, geo)
-
     child = os.fork()
     if child == 0:
         do_scrapping()
@@ -367,7 +365,6 @@ def get_emotions_list(_tweet):
 
 def tweet_add_sentiments(tweet):
     with DB_Handler() as handler:
-        print(tweet)
         _tweet = handler.get_tagged(tweet['tweet_id'])
 
         emotions = get_emotions_list(_tweet)
