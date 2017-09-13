@@ -26,7 +26,7 @@ def do_scrapping(locations="", topics="", geo=""):
 
     for tweet in streamer:
 
-        print(tweet)
+        print(tweet)    
 
         if not "id" in tweet:
             continue
