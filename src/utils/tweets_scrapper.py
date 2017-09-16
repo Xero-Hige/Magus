@@ -13,8 +13,15 @@ MAX_SCRAPPING = 10
 SCRAP_TIME = 10
 
 
-def main():
-    streamer = tweet_fetcher.TweetsFetcher(locations=['argentina'])  # ,topics="feel")
+def do_scrapping(locations=(), topics=(), geo=""):
+    if locations:
+        locations = [s.lower() for s in locations.split(",")]
+    if topics:
+        topics = [s.lower() for s in topics.split(",")]
+
+    streamer = tweet_fetcher.TweetsFetcher(locations=locations,
+                                           topics=topics,
+                                           geo=geo)
 
     count = 0
     start_time = time.time()
@@ -25,6 +32,7 @@ def main():
             continue
 
         t_id = str(tweet["id"])
+
         try:
             with open("../bulk/" + t_id + ".json", 'w') as t_file:
                 t_file.write(Serializer.dumps(tweet))
@@ -37,4 +45,4 @@ def main():
 
 
 if __name__ == '__main__':
-    main()
+    do_scrapping()
