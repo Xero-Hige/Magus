@@ -176,6 +176,26 @@ def scrapp():
     if child == 0:
         do_scrapping(locations, topics, geo)
 
+        p = Popen(["git", "init"],
+                  stdout=PIPE, stdin=PIPE, stderr=PIPE, cwd='./utils')
+        p.communicate(input=b'\n')
+
+        p = Popen(["git", "remote", "add", "origin", "https://github.com/Xero-Hige/Magus.git"],
+                  stdout=PIPE, stdin=PIPE, stderr=PIPE, cwd='./utils')
+        p.communicate(input=b'\n')
+
+        p = Popen(["git", "fetch"],
+                  stdout=PIPE, stdin=PIPE, stderr=PIPE, cwd='./utils')
+        p.communicate(input=b'\n')
+
+        p = Popen(["git", "checkout", "tweets"],
+                  stdout=PIPE, stdin=PIPE, stderr=PIPE, cwd='./utils')
+        p.communicate(input=b'\n')
+
+        p = Popen(["git", "pull"],
+                  stdout=PIPE, stdin=PIPE, stderr=PIPE, cwd='./utils')
+        p.communicate(input=b'\n')
+
         p = Popen(["git", "add", "../bulk"],
                   stdout=PIPE, stdin=PIPE, stderr=PIPE)
         p.communicate(input=b'\n')
