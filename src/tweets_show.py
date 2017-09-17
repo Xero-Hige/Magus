@@ -97,7 +97,8 @@ def get_emotions(sentiment):
 
 @app.route('/classify', methods=["GET"])
 def classify_get():
-    tweets = os.listdir("../tweets")
+    tweets = ["../tweets/{}".format(x) for x in os.listdir("../tweets")] \
+             + ["../bulk/{}".format(x) for x in os.listdir("../bulk")]
 
     tweet = load_tweet(random.choice(tweets))
 
@@ -107,12 +108,15 @@ def classify_get():
 @app.route('/classify/<int:tweet_id>', methods=["GET"])
 def classify_exact_get(tweet_id):
     tweet_id = "{}.json".format(tweet_id)
-    tweets = os.listdir("../tweets")
+    demo_tweets = os.listdir("../tweets")
+    bulk_tweets = os.listdir("../bulk")
 
-    if str(tweet_id) not in tweets:
+    if str(tweet_id) in demo_tweets:
+        tweet = load_tweet("../tweets/{}".format(tweet_id))
+    elif str(tweet_id) in bulk_tweets:
+        tweet = load_tweet("../bulk/{}".format(tweet_id))
+    else:
         return redirect("/add")
-
-    tweet = load_tweet(tweet_id)
 
     return render_template("tweet_catalog.html", tweet=tweet, max=max)
 
@@ -308,12 +312,7 @@ def get_tweets(files):
 
 
 def load_tweet(tweet_file_name):
-    # with open("../tweets/" + tweet_file_name) as tweet_file:
-    #    tweet_dump = tweet_file.read()
-    #
-    # loaded_tweet = json.loads(tweet_dump, encoding="utf-8")
-
-    tweet = TweetParser.parse_from_json_file("../tweets/" + tweet_file_name)
+    tweet = TweetParser.parse_from_json_file(tweet_file_name)
 
     tweet["tweet_text"] = anonymize_usernames(censor_urls(tweet.get(TweetParser.TWEET_TEXT, "")))
     tweet["tweet_text"] = re.sub(EMOJIS, r'\<span class="emoji" data-emoji="\g<0>"\>\</span\>', tweet["tweet_text"])
