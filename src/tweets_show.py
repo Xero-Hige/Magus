@@ -203,6 +203,10 @@ def scrapp():
                   stdout=PIPE, stdin=PIPE, stderr=PIPE, cwd='./upload')
         p.communicate(input=b'\n')
 
+        p = Popen(["git", "pull", "origin", "tweets"],
+                  stdout=PIPE, stdin=PIPE, stderr=PIPE, cwd='./upload')
+        p.communicate(input=b'\n')
+
         p = Popen(["git", "push", "--set-upstream", "origin", "tweets"],
                   stdout=PIPE, stdin=PIPE, stderr=PIPE, cwd='./upload')
         stdout_data = p.communicate(
