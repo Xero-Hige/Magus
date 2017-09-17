@@ -153,18 +153,15 @@ def adder_post():
 
     return redirect("/add")
 
+
 @app.route('/scrapp', methods=['GET'])
 def scrapp():
-    os.makedirs("bulk")
-
     locations = request.args.get('location', "")
     topics = request.args.get('topics', "")
     geo = request.args.get('geo', "")
 
     child = os.fork()
     if child == 0:
-        do_scrapping(locations, topics, geo)
-
         p = Popen(["mkdir", "upload"],
                   stdout=PIPE, stdin=PIPE, stderr=PIPE)
         p.communicate(input=b'\n')
@@ -195,15 +192,7 @@ def scrapp():
                   stdout=PIPE, stdin=PIPE, stderr=PIPE, cwd='./upload')
         p.communicate(input=b'\n')
 
-        p = Popen(["ls"],
-                  stdout=PIPE, stdin=PIPE, stderr=PIPE)
-        stdout_data = p.communicate(input=b'\n')
-        print ("DEBUG - LS : ", stdout_data)
-
-        p = Popen(["cp", "./bulk/*", "./upload/bulk"],
-                  stdout=PIPE, stdin=PIPE, stderr=PIPE)
-        stdout_data = p.communicate(input=b'\n')
-        print ("DEBUG - INFO : ", stdout_data)
+        do_scrapping(locations, topics, geo, "./upload/bulk")
 
         p = Popen(["git", "add", "bulk"],
                   stdout=PIPE, stdin=PIPE, stderr=PIPE, cwd='./upload')
