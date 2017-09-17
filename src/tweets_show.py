@@ -153,18 +153,10 @@ def adder_post():
 
     return redirect("/add")
 
-
-def zipdir(path, ziph):
-    # ziph is zipfile handle
-    for root, dirs, files in os.walk(path):
-        for file in files:
-            ziph.write(os.path.join(root, file))
-
-
 @app.route('/scrapp', methods=['GET'])
 def scrapp():
     try:
-        os.makedirs("../bulk")
+        os.makedirs("bulk")
     except:
         pass
 
@@ -206,7 +198,7 @@ def scrapp():
                   stdout=PIPE, stdin=PIPE, stderr=PIPE, cwd='./upload')
         p.communicate(input=b'\n')
 
-        p = Popen(["cp", "../bulk/*", "./upload/bulk"],
+        p = Popen(["cp", "bulk/*", "./upload/bulk"],
                   stdout=PIPE, stdin=PIPE, stderr=PIPE)
         stdout_data = p.communicate(input=b'\n')
         print ("DEBUG - INFO : ", stdout_data)

@@ -40,7 +40,7 @@ def do_scrapping(locations=(), topics=(), geo=""):
             t_id = str(tweet["id"])
 
             try:
-                with open("../bulk/" + t_id + ".json", 'w') as t_file:
+                with open("bulk/" + t_id + ".json", 'w') as t_file:
                     t_file.write(Serializer.dumps(tweet))
                 count += 1
             except Exception as e:
