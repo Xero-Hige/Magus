@@ -192,7 +192,7 @@ def scrapp():
                   stdout=PIPE, stdin=PIPE, stderr=PIPE, cwd='../')
         p.communicate(input=b'\n')
 
-        p = Popen(["git", "checkout", "origin/tweets"],
+        p = Popen(["git", "checkout", "-f", "origin/tweets"],
                   stdout=PIPE, stdin=PIPE, stderr=PIPE, cwd='../')
         stdout_data = p.communicate(input=b'\n')
         print ("DEBUG - INFO : ", stdout_data)
