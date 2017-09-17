@@ -8,7 +8,6 @@ from libs.tweet_parser import TweetParser
 from tweet_process import censor_urls, anonymize_usernames
 from tweets_db import *
 from tweets_db import DB_Handler
-from utils.tweets_scrapper import do_scrapping
 
 NONE = "none"
 SAD = "sad"
@@ -174,25 +173,22 @@ def scrapp():
 
     child = os.fork()
     if child == 0:
-        do_scrapping(locations, topics, geo)
+        # do_scrapping(locations, topics, geo)
 
         p = Popen(["git", "init"],
                   stdout=PIPE, stdin=PIPE, stderr=PIPE, cwd='../')
-        stdout_data = p.communicate(input=b'\n')
-        print ("DEBUG - INFO : ", stdout_data)
+        p.communicate(input=b'\n')
 
         p = Popen(["git", "remote", "add", "origin", "https://github.com/Xero-Hige/Magus.git"],
                   stdout=PIPE, stdin=PIPE, stderr=PIPE, cwd='../')
-        stdout_data = p.communicate(input=b'\n')
-        print ("DEBUG - INFO : ", stdout_data)
+        p.communicate(input=b'\n')
 
         p = Popen(["git", "fetch"],
                   stdout=PIPE, stdin=PIPE, stderr=PIPE, cwd='../')
-        stdout_data = p.communicate(input=b'\n')
-        print ("DEBUG - INFO : ", stdout_data)
+        p.communicate(input=b'\n')
 
         p = Popen(["git", "checkout", "tweets"],
-                  stdout=PIPE, stdin=PIPE, stderr=PIPE, cwd='../')
+                  stdout=PIPE, stdin=PIPE, stderr=PIPE)
         stdout_data = p.communicate(input=b'\n')
         print ("DEBUG - INFO : ", stdout_data)
 
@@ -208,7 +204,9 @@ def scrapp():
         p = Popen(["git", "commit", "-m",
                    "New bulk added with Location={} :: Topics={} ".format(locations, topics)],
                   stdout=PIPE, stdin=PIPE, stderr=PIPE)
-        p = Popen(["git", "push"],
+        p.communicate(input=b'\n')
+
+        p = Popen(["git", "push", "--set-upstream", "origin", "tweets"],
                   stdout=PIPE, stdin=PIPE, stderr=PIPE)
         stdout_data = p.communicate(
             input=bytes('{}\n{}\n'.format(
