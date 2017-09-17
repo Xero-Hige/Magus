@@ -196,16 +196,19 @@ def scrapp():
 
         p = Popen(["git", "add", "bulk"],
                   stdout=PIPE, stdin=PIPE, stderr=PIPE, cwd='./upload')
-        p.communicate(input=b'\n')
+        stdout_data = p.communicate(input=b'\n')
+        print ("DEBUG - INFO : ", stdout_data)
 
         p = Popen(["git", "commit", "-m",
                    "New bulk added with Location={} :: Topics={} ".format(locations, topics)],
                   stdout=PIPE, stdin=PIPE, stderr=PIPE, cwd='./upload')
-        p.communicate(input=b'\n')
+        stdout_data = p.communicate(input=b'\n')
+        print ("DEBUG - INFO : ", stdout_data)
 
         p = Popen(["git", "pull", "origin", "tweets"],
                   stdout=PIPE, stdin=PIPE, stderr=PIPE, cwd='./upload')
-        p.communicate(input=b'\n')
+        stdout_data = p.communicate(input=b'\n')
+        print ("DEBUG - INFO : ", stdout_data)
 
         p = Popen(["git", "push", "--set-upstream", "origin", "tweets"],
                   stdout=PIPE, stdin=PIPE, stderr=PIPE, cwd='./upload')
