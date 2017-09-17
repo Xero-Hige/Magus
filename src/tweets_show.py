@@ -1,6 +1,5 @@
 import random
 import re
-import time
 from subprocess import Popen, PIPE
 
 from flask import Flask, render_template, request, redirect
@@ -140,7 +139,7 @@ def adder_post():
     p = Popen(["python3", "tweets_downloader.py"], stdout=PIPE, stdin=PIPE, stderr=PIPE, cwd='./utils')
     stdout_data = p.communicate(input=str.encode('{}\n'.format(tweet_id)))
 
-    if "err" in str(stdout_data[0]).lower():
+    if "err" in str(stdout_data).lower():
         print ("DEBUG - Script Error: ", stdout_data)
 
     p = Popen(["ruby", "uploader.rb", "tweets/{}.json".format(tweet_id), "../tweets/{}.json".format(tweet_id)],
@@ -153,9 +152,6 @@ def adder_post():
     classify_tweet()
 
     return redirect("/add")
-
-
-import zipfile
 
 
 def zipdir(path, ziph):
@@ -179,15 +175,22 @@ def scrapp():
     child = os.fork()
     if child == 0:
         do_scrapping(locations, topics, geo)
-        name = "{}.zip".format(time.time())
 
-        zipf = zipfile.ZipFile(name, 'w', zipfile.ZIP_DEFLATED)
-        zipdir("../bulk", zipf)
-        zipf.close()
-
-        p = Popen(["ruby", "uploader.rb", name, name],
+        p = Popen(["git", "add", "../bulk"],
                   stdout=PIPE, stdin=PIPE, stderr=PIPE)
         p.communicate(input=b'\n')
+        p = Popen(["git", "commit", "-m",
+                   "New bulk added with Location={} :: Topics={} ".format(locations, topics)],
+                  stdout=PIPE, stdin=PIPE, stderr=PIPE)
+        p = Popen(["git", "push"],
+                  stdout=PIPE, stdin=PIPE, stderr=PIPE)
+        stdout_data = p.communicate(
+            input=bytes('{}\n{}\n'.format(
+                os.environ.get('GITHUB_USER', ""),
+                os.environ.get('GITHUB_PASS', "")),
+                'utf-8'))
+
+        print ("DEBUG - INFO : ", stdout_data)
 
         exit(0)
     else:
