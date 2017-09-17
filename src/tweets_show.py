@@ -193,7 +193,6 @@ def scrapp():
         p = Popen(["git", "remote", "update"],
                   stdout=PIPE, stdin=PIPE, stderr=PIPE, cwd='./upload')
         stdout_data = p.communicate(input=b'\n')
-        print ("DEBUG - INFO : ", stdout_data)
 
         p = Popen(["git", "fetch"],
                   stdout=PIPE, stdin=PIPE, stderr=PIPE, cwd='./upload')
@@ -201,17 +200,16 @@ def scrapp():
 
         p = Popen(["git", "checkout", "tweets"],
                   stdout=PIPE, stdin=PIPE, stderr=PIPE, cwd='./upload')
-        stdout_data = p.communicate(input=b'\n')
-        print ("DEBUG - INFO : ", stdout_data)
+        p.communicate(input=b'\n')
 
         p = Popen(["git", "pull", "origin", "tweets"],
                   stdout=PIPE, stdin=PIPE, stderr=PIPE, cwd='./upload')
-        stdout_data = p.communicate(input=b'\n')
-        print ("DEBUG - INFO : ", stdout_data)
+        p.communicate(input=b'\n')
 
         p = Popen(["cp", "../bulk/*", "./upload/bulk"],
                   stdout=PIPE, stdin=PIPE, stderr=PIPE)
-        p.communicate(input=b'\n')
+        stdout_data = p.communicate(input=b'\n')
+        print ("DEBUG - INFO : ", stdout_data)
 
         p = Popen(["git", "add", "bulk"],
                   stdout=PIPE, stdin=PIPE, stderr=PIPE, cwd='./upload')
