@@ -8,6 +8,8 @@ import os
 
 import tweepy
 
+TWEETS_DIR = "../../tweets/"
+
 
 class TweetsDownloader():
     def __init__(self):
@@ -48,12 +50,12 @@ def main():
     t_id = input("id: ")
     downloader = TweetsDownloader()
     while t_id:
-        if os.path.exists("tweets/" + t_id + ".json"):
+        if os.path.exists(TWEETS_DIR + t_id + ".json"):
             t_id = input("id: ")
             continue
 
         try:
-            with open("tweets/" + t_id + ".json", 'w') as t_file:
+            with open(TWEETS_DIR + t_id + ".json", 'w') as t_file:
                 tweet = downloader.get_tweet(t_id)
                 t_file.write(Serializer.dumps(tweet._json))
         except Exception as e:

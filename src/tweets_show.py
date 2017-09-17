@@ -137,15 +137,19 @@ def adder_post():
 
     tweet_id = request.form["tweet_id"]
 
-    p = Popen(["python3", "tweets_downloader.py"], stdout=PIPE, stdin=PIPE, stderr=PIPE, cwd='../')
+    p = Popen(["python3", "tweets_downloader.py"], stdout=PIPE, stdin=PIPE, stderr=PIPE, cwd='./utils')
     stdout_data = p.communicate(input=str.encode('{}\n'.format(tweet_id)))
+
+    print (stdout_data)
 
     if "Error" in str(stdout_data[0]):
         return redirect("/add")
 
     p = Popen(["ruby", "uploader.rb", "tweets/{}.json".format(tweet_id), "../tweets/{}.json".format(tweet_id)],
               stdout=PIPE, stdin=PIPE, stderr=PIPE)
-    p.communicate(input=b'\n')
+
+    stdout_data = p.communicate(input=b'\n')
+    print (stdout_data)
 
     classify_tweet()
 
