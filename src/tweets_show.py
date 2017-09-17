@@ -8,6 +8,7 @@ from libs.tweet_parser import TweetParser
 from tweet_process import censor_urls, anonymize_usernames
 from tweets_db import *
 from tweets_db import DB_Handler
+from utils.tweets_scrapper import do_scrapping
 
 NONE = "none"
 SAD = "sad"
@@ -173,7 +174,7 @@ def scrapp():
 
     child = os.fork()
     if child == 0:
-        # do_scrapping(locations, topics, geo)
+        do_scrapping(locations, topics, geo)
 
         p = Popen(["mkdir", "upload"],
                   stdout=PIPE, stdin=PIPE, stderr=PIPE)
