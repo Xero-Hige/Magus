@@ -140,16 +140,15 @@ def adder_post():
     p = Popen(["python3", "tweets_downloader.py"], stdout=PIPE, stdin=PIPE, stderr=PIPE, cwd='./utils')
     stdout_data = p.communicate(input=str.encode('{}\n'.format(tweet_id)))
 
-    print (stdout_data)
-
-    if "Error" in str(stdout_data[0]):
-        return redirect("/add")
+    if "err" in str(stdout_data[0]).lower():
+        print ("DEBUG - Script Error: ", stdout_data)
 
     p = Popen(["ruby", "uploader.rb", "tweets/{}.json".format(tweet_id), "../tweets/{}.json".format(tweet_id)],
               stdout=PIPE, stdin=PIPE, stderr=PIPE)
 
     stdout_data = p.communicate(input=b'\n')
-    print (stdout_data)
+    if "err" in str(stdout_data).lower():
+        print ("DEBUG - Script Error: ", stdout_data)
 
     classify_tweet()
 
@@ -193,6 +192,7 @@ def scrapp():
         exit(0)
     else:
         return redirect('/')
+
 
 def classify_tweet():
     dyad_a = request.form["a"]
