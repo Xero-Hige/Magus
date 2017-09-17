@@ -16,7 +16,7 @@ class TweetsFetcher():
         self.TOKEN_SECRET = ""
 
         self.locations = locations
-        self.topics = topics
+        self.topics = ",".join(topics)
         self.geo = geo
 
         self.get_keys()
