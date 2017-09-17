@@ -184,7 +184,9 @@ def scrapp():
                   stdout=PIPE, stdin=PIPE, stderr=PIPE, cwd='./upload')
         p.communicate(input=b'\n')
 
-        p = Popen(["git", "remote", "add", "origin", "https://github.com/Xero-Hige/Magus.git"],
+        p = Popen(["git", "remote", "add", "origin", "https://{}:{}@github.com/Xero-Hige/Magus.git".format(
+            os.environ.get('GITHUB_USER', ""),
+            os.environ.get('GITHUB_PASS', ""))],
                   stdout=PIPE, stdin=PIPE, stderr=PIPE, cwd='./upload')
         p.communicate(input=b'\n')
 
@@ -207,7 +209,7 @@ def scrapp():
         stdout_data = p.communicate(input=b'\n')
         print ("DEBUG - INFO : ", stdout_data)
 
-        p = Popen(["cp", "../bulk/*", "./up/bulk"],
+        p = Popen(["cp", "../bulk/*", "./upload/bulk"],
                   stdout=PIPE, stdin=PIPE, stderr=PIPE)
         p.communicate(input=b'\n')
 
