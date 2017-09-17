@@ -175,44 +175,52 @@ def scrapp():
     if child == 0:
         # do_scrapping(locations, topics, geo)
 
+        p = Popen(["mkdir", "upload"],
+                  stdout=PIPE, stdin=PIPE, stderr=PIPE)
+        p.communicate(input=b'\n')
+
         p = Popen(["git", "init"],
-                  stdout=PIPE, stdin=PIPE, stderr=PIPE, cwd='../')
+                  stdout=PIPE, stdin=PIPE, stderr=PIPE, cwd='./upload')
         p.communicate(input=b'\n')
 
         p = Popen(["git", "remote", "add", "origin", "https://github.com/Xero-Hige/Magus.git"],
-                  stdout=PIPE, stdin=PIPE, stderr=PIPE, cwd='../')
+                  stdout=PIPE, stdin=PIPE, stderr=PIPE, cwd='./upload')
         p.communicate(input=b'\n')
 
         p = Popen(["git", "remote", "update"],
-                  stdout=PIPE, stdin=PIPE, stderr=PIPE, cwd='../')
+                  stdout=PIPE, stdin=PIPE, stderr=PIPE, cwd='./upload')
         stdout_data = p.communicate(input=b'\n')
         print ("DEBUG - INFO : ", stdout_data)
 
         p = Popen(["git", "fetch"],
-                  stdout=PIPE, stdin=PIPE, stderr=PIPE, cwd='../')
+                  stdout=PIPE, stdin=PIPE, stderr=PIPE, cwd='./upload')
         p.communicate(input=b'\n')
 
-        p = Popen(["git", "checkout", "-f", "origin/tweets"],
-                  stdout=PIPE, stdin=PIPE, stderr=PIPE, cwd='../')
+        p = Popen(["git", "checkout", "tweets"],
+                  stdout=PIPE, stdin=PIPE, stderr=PIPE, cwd='./upload')
         stdout_data = p.communicate(input=b'\n')
         print ("DEBUG - INFO : ", stdout_data)
 
-        p = Popen(["git", "pull"],
-                  stdout=PIPE, stdin=PIPE, stderr=PIPE, cwd='../')
+        p = Popen(["git", "pull", "origin", "tweets"],
+                  stdout=PIPE, stdin=PIPE, stderr=PIPE, cwd='./upload')
         stdout_data = p.communicate(input=b'\n')
         print ("DEBUG - INFO : ", stdout_data)
+
+        p = Popen(["cp", "../bulk/*", "./up/bulk"],
+                  stdout=PIPE, stdin=PIPE, stderr=PIPE)
+        p.communicate(input=b'\n')
 
         p = Popen(["git", "add", "bulk"],
-                  stdout=PIPE, stdin=PIPE, stderr=PIPE, cwd='../')
+                  stdout=PIPE, stdin=PIPE, stderr=PIPE, cwd='./upload')
         p.communicate(input=b'\n')
 
         p = Popen(["git", "commit", "-m",
                    "New bulk added with Location={} :: Topics={} ".format(locations, topics)],
-                  stdout=PIPE, stdin=PIPE, stderr=PIPE, cwd='../')
+                  stdout=PIPE, stdin=PIPE, stderr=PIPE, cwd='./upload')
         p.communicate(input=b'\n')
 
         p = Popen(["git", "push", "--set-upstream", "origin", "tweets"],
-                  stdout=PIPE, stdin=PIPE, stderr=PIPE, cwd='../')
+                  stdout=PIPE, stdin=PIPE, stderr=PIPE, cwd='./upload')
         stdout_data = p.communicate(
             input=bytes('{}\n{}\n'.format(
                 os.environ.get('GITHUB_USER', ""),
