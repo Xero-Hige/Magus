@@ -155,10 +155,7 @@ def adder_post():
 
 @app.route('/scrapp', methods=['GET'])
 def scrapp():
-    try:
-        os.makedirs("bulk")
-    except:
-        pass
+    os.makedirs("bulk")
 
     locations = request.args.get('location', "")
     topics = request.args.get('topics', "")
@@ -198,7 +195,12 @@ def scrapp():
                   stdout=PIPE, stdin=PIPE, stderr=PIPE, cwd='./upload')
         p.communicate(input=b'\n')
 
-        p = Popen(["cp", "bulk/*", "./upload/bulk"],
+        p = Popen(["ls"],
+                  stdout=PIPE, stdin=PIPE, stderr=PIPE)
+        stdout_data = p.communicate(input=b'\n')
+        print ("DEBUG - LS : ", stdout_data)
+
+        p = Popen(["cp", "./bulk/*", "./upload/bulk"],
                   stdout=PIPE, stdin=PIPE, stderr=PIPE)
         stdout_data = p.communicate(input=b'\n')
         print ("DEBUG - INFO : ", stdout_data)
