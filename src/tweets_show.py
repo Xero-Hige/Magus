@@ -178,27 +178,33 @@ def scrapp():
 
         p = Popen(["git", "init"],
                   stdout=PIPE, stdin=PIPE, stderr=PIPE, cwd='./utils')
-        p.communicate(input=b'\n')
+        stdout_data = p.communicate(input=b'\n')
+        print ("DEBUG - INFO : ", stdout_data)
 
         p = Popen(["git", "remote", "add", "origin", "https://github.com/Xero-Hige/Magus.git"],
                   stdout=PIPE, stdin=PIPE, stderr=PIPE, cwd='./utils')
-        p.communicate(input=b'\n')
+        stdout_data = p.communicate(input=b'\n')
+        print ("DEBUG - INFO : ", stdout_data)
 
         p = Popen(["git", "fetch"],
                   stdout=PIPE, stdin=PIPE, stderr=PIPE, cwd='./utils')
-        p.communicate(input=b'\n')
+        stdout_data = p.communicate(input=b'\n')
+        print ("DEBUG - INFO : ", stdout_data)
 
         p = Popen(["git", "checkout", "tweets"],
                   stdout=PIPE, stdin=PIPE, stderr=PIPE, cwd='./utils')
-        p.communicate(input=b'\n')
+        stdout_data = p.communicate(input=b'\n')
+        print ("DEBUG - INFO : ", stdout_data)
 
         p = Popen(["git", "pull"],
                   stdout=PIPE, stdin=PIPE, stderr=PIPE, cwd='./utils')
-        p.communicate(input=b'\n')
+        stdout_data = p.communicate(input=b'\n')
+        print ("DEBUG - INFO : ", stdout_data)
 
         p = Popen(["git", "add", "../bulk"],
                   stdout=PIPE, stdin=PIPE, stderr=PIPE)
         p.communicate(input=b'\n')
+
         p = Popen(["git", "commit", "-m",
                    "New bulk added with Location={} :: Topics={} ".format(locations, topics)],
                   stdout=PIPE, stdin=PIPE, stderr=PIPE)
