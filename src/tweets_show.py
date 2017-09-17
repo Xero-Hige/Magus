@@ -183,12 +183,17 @@ def scrapp():
                   stdout=PIPE, stdin=PIPE, stderr=PIPE, cwd='../')
         p.communicate(input=b'\n')
 
+        p = Popen(["git", "remote", "update"],
+                  stdout=PIPE, stdin=PIPE, stderr=PIPE, cwd='../')
+        stdout_data = p.communicate(input=b'\n')
+        print ("DEBUG - INFO : ", stdout_data)
+
         p = Popen(["git", "fetch"],
                   stdout=PIPE, stdin=PIPE, stderr=PIPE, cwd='../')
         p.communicate(input=b'\n')
 
-        p = Popen(["git", "checkout", "tweets"],
-                  stdout=PIPE, stdin=PIPE, stderr=PIPE)
+        p = Popen(["git", "checkout", "origin/tweets"],
+                  stdout=PIPE, stdin=PIPE, stderr=PIPE, cwd='../')
         stdout_data = p.communicate(input=b'\n')
         print ("DEBUG - INFO : ", stdout_data)
 
@@ -197,17 +202,17 @@ def scrapp():
         stdout_data = p.communicate(input=b'\n')
         print ("DEBUG - INFO : ", stdout_data)
 
-        p = Popen(["git", "add", "../bulk"],
-                  stdout=PIPE, stdin=PIPE, stderr=PIPE)
+        p = Popen(["git", "add", "bulk"],
+                  stdout=PIPE, stdin=PIPE, stderr=PIPE, cwd='../')
         p.communicate(input=b'\n')
 
         p = Popen(["git", "commit", "-m",
                    "New bulk added with Location={} :: Topics={} ".format(locations, topics)],
-                  stdout=PIPE, stdin=PIPE, stderr=PIPE)
+                  stdout=PIPE, stdin=PIPE, stderr=PIPE, cwd='../')
         p.communicate(input=b'\n')
 
         p = Popen(["git", "push", "--set-upstream", "origin", "tweets"],
-                  stdout=PIPE, stdin=PIPE, stderr=PIPE)
+                  stdout=PIPE, stdin=PIPE, stderr=PIPE, cwd='../')
         stdout_data = p.communicate(
             input=bytes('{}\n{}\n'.format(
                 os.environ.get('GITHUB_USER', ""),
