@@ -201,7 +201,7 @@ def scrapp():
 
         do_scrapping(locations, topics, geo, "./upload/bulk")
 
-        p = Popen(["git", "add", "bulk"],
+        p = Popen(["git", "add", "bulk/*"],
                   stdout=PIPE, stdin=PIPE, stderr=PIPE, cwd='./upload')
         stdout_data = p.communicate(input=b'\n')
         print ("DEBUG - INFO : ", stdout_data)
