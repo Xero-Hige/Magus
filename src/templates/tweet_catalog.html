@@ -12,7 +12,7 @@
 
                         <div class="row" style="padding: 1em 1em 0;background-color: #0091ea">
 
-                            <div class="col-md-11 text-justify" style="padding: 0 0 0">
+                            <div id="tweet_text" class="col-md-11 text-justify" style="padding: 0 0 0">
                                 {% for line in tweet["tweet_text"].replace("&amp;","&").split("\n")%}
                                 <p>{{line}}</p>
                                 {% endfor%}

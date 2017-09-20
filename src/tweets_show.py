@@ -315,7 +315,7 @@ def load_tweet(tweet_file_name):
     tweet = TweetParser.parse_from_json_file(tweet_file_name)
 
     tweet["tweet_text"] = anonymize_usernames(censor_urls(tweet.get(TweetParser.TWEET_TEXT, "")))
-    tweet["tweet_text"] = re.sub(EMOJIS, r'\<span class="emoji" data-emoji="\g<0>"\>\</span\>', tweet["tweet_text"])
+    # tweet["tweet_text"] = re.sub(EMOJIS, r'\<span class="emoji" data-emoji="\g<0>"\>\</span\>', tweet["tweet_text"])
 
     sentiments = tweet_add_sentiments(tweet)
 
