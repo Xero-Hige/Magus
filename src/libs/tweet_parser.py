@@ -81,9 +81,12 @@ class TweetParser:
             tweet_dict["tweet_mentions"] += 1
 
         tweet_dict["tweet_media"] = {}
-        if tweet.get("extended_entities"):
-            media = tweet.get("extended_entities", {}).get("media", [])
-            for m in media:
-                tweet_dict["tweet_media"][m["type"]] = tweet["tweet_media"].get(m["type"], 0) + 1
+        try:
+            if tweet.get("extended_entities"):
+                media = tweet.get("extended_entities", {}).get("media", [])
+                for m in media:
+                    tweet_dict["tweet_media"][m["type"]] = tweet["tweet_media"].get(m["type"], 0) + 1
+        except:
+            pass
 
         return tweet_dict
