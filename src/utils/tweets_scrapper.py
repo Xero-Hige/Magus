@@ -15,7 +15,7 @@ MAX_SCRAPPING = 200
 SCRAP_TIME = 200
 
 
-def do_scrapping(locations=(), topics=(), geo="", folder=BULK_FOLDER):
+def do_scrapping(locations="", topics="", geo="", folder=BULK_FOLDER):
     if locations:
         locations = [s.lower() for s in locations.split(",")]
     if topics:
