@@ -338,10 +338,19 @@ def get_tweets_status():
     totals_emotions = {}
     totals_groups = {}
 
+    demo_tweets = os.listdir("../tweets")
+    bulk_tweets = os.listdir("../bulk")
+
     with DB_Handler() as handler:
         _tweets = handler.get_all_tagged()
 
         for _tweet in _tweets:
+
+            tweet_id = "{}.json".format(_tweet.id)
+
+            if not str(tweet_id) in demo_tweets and str(tweet_id) in bulk_tweets:
+                continue
+
             emotions = get_emotions_list(_tweet)
 
             results = [(get_sentiment(emotions[i], emotions[j]), (emotions[i][0] + emotions[j][0]) / 2)
