@@ -161,7 +161,7 @@ def adder_post():
 @app.route('/scrapp', methods=['GET'])
 def scrapp():
     locations = request.args.get('location', "")
-    topics = request.args.get('topics', "")
+    topics = request.args.get('topics', "").split(",")
     geo = request.args.get('geo', "")
 
     child = os.fork()
