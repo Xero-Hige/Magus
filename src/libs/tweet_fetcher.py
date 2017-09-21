@@ -5,16 +5,18 @@ import os
 
 from twitter import *
 
+WHOLE_WORLD_CORDINATES = "-180.0,-90.0, 180.0, 90.0"
+
 
 class TweetsFetcher():
-    def __init__(self, locations=[], topics=[], geo=""):
+    def __init__(self, locations=(), topics=(), geo=""):
         self.CONSUMER_KEY = ""
         self.CONSUMER_SECRET = ""
         self.TOKEN_KEY = ""
         self.TOKEN_SECRET = ""
 
         self.locations = locations
-        self.topics = topics
+        self.topics = ",".join(topics)
         self.geo = geo
 
         self.get_keys()
@@ -29,10 +31,14 @@ class TweetsFetcher():
 
         location_string = self.get_location_string()
 
-        if self.topics:
+        if self.topics and location_string:
             self.tweet_stream = twitter_stream.statuses.filter(locations=location_string, track=self.topics)
-        else:
+        elif self.topics and not location_string:
+            self.tweet_stream = twitter_stream.statuses.filter(track=self.topics)
+        elif not self.topics and location_string:
             self.tweet_stream = twitter_stream.statuses.filter(locations=location_string)
+        else:
+            self.tweet_stream = twitter_stream.statuses.filter(locations=WHOLE_WORLD_CORDINATES)
 
     def get_location_string(self):
         boundaries = []
@@ -40,8 +46,6 @@ class TweetsFetcher():
             boundaries = self.get_boundaries_list(self.locations)
         if self.geo:
             boundaries.append(self.geo)
-        if not boundaries:
-            boundaries = ["-180.0,-90.0, 180.0, 90.0"]
         location_string = ",".join(boundaries)
         return location_string
 
@@ -52,8 +56,6 @@ class TweetsFetcher():
             reader = csv.DictReader(_file)
 
             for country in reader:
-
-                print(country["country"].lower(), locations, country["country"].lower() in locations)
 
                 if not country["country"].lower() in locations:
                     continue
