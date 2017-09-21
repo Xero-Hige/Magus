@@ -4,6 +4,7 @@
 from __future__ import absolute_import, print_function, unicode_literals
 
 import json as Serializer
+import os
 import signal
 
 import libs.tweet_fetcher as tweet_fetcher
@@ -41,6 +42,12 @@ def do_scrapping(locations="", topics="", geo="", folder=BULK_FOLDER):
 
             t_id = str(tweet["id"])
 
+            if "retweeted_status" in tweet:
+                t_id = tweet["retweeted_status"]["id"]
+
+            if os.path.exists("../bulk/" + t_id + ".json"):
+                continue
+
             try:
                 with open(folder + "/" + t_id + ".json", 'w') as t_file:
                     t_file.write(Serializer.dumps(tweet))
@@ -53,6 +60,7 @@ def do_scrapping(locations="", topics="", geo="", folder=BULK_FOLDER):
 
     except StopIteration:
         print("DEBUG - INFO: Scrapping time out")
+
 
 if __name__ == '__main__':
     do_scrapping()
