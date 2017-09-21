@@ -9,12 +9,14 @@ import signal
 
 import libs.tweet_fetcher as tweet_fetcher
 
+BULK_FOLDER = "bulk"
+
 MAX_SCRAPPING = 200
 
 SCRAP_TIME = 200
 
 
-def do_scrapping(locations=(), topics=(), geo=""):
+def do_scrapping(locations="", topics="", geo="", folder=BULK_FOLDER):
     if locations:
         locations = [s.lower() for s in locations.split(",")]
     if topics:
@@ -41,13 +43,13 @@ def do_scrapping(locations=(), topics=(), geo=""):
             t_id = str(tweet["id"])
 
             if "retweeted_status" in tweet:
-                t_id = tweet["retweeted_status"]["id"]
+                t_id = str(tweet["retweeted_status"]["id"])
 
             if os.path.exists("../bulk/" + t_id + ".json"):
                 continue
 
             try:
-                with open("../bulk/" + t_id + ".json", 'w') as t_file:
+                with open(folder + "/" + t_id + ".json", 'w') as t_file:
                     t_file.write(Serializer.dumps(tweet))
                 count += 1
             except Exception as e:
