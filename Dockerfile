@@ -13,9 +13,6 @@ RUN apt-get update && \
         locales \
         python3-pip \
 		python3-setuptools && \
-    echo 'deb http://www.rabbitmq.com/debian/ testing main' | tee /etc/apt/sources.list.d/rabbitmq.list && \
-    wget -O- https://www.rabbitmq.com/rabbitmq-release-signing-key.asc | apt-key add - && \
-    aptitude update && aptitude install rabbitmq-server -y && \
     rm -rf /var/lib/apt/lists/* && \
     aptitude clean
 
