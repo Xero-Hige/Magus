@@ -6,7 +6,7 @@
     "output_queue": "fetcher_output"
   },
   "parser_core": {
-    "tag": "fetcher",
+    "tag": "parser",
     "replicas": 3,
     "input_queue": null,
     "output_queue": "fetcher_output"
