@@ -348,7 +348,7 @@ def get_tweets_status():
 
             tweet_id = "{}.json".format(_tweet.id)
 
-            if not str(tweet_id) in demo_tweets and str(tweet_id) in bulk_tweets:
+            if not str(tweet_id) in demo_tweets and not str(tweet_id) in bulk_tweets:
                 continue
 
             emotions = get_emotions_list(_tweet)
