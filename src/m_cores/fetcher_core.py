@@ -3,14 +3,14 @@
 
 from __future__ import absolute_import, print_function, unicode_literals
 
-import pickle as Serializer
+import json as Serializer
 import sys
 
 from libs.tweet_fetcher import TweetsFetcher
 from to_check.RabbitHandler import *
 
 
-def main(argv=[]):
+def main(argv=()):
     tweets_stream = TweetsFetcher()
     handler = RabbitHandler("tweets_input")
 
