@@ -8,7 +8,7 @@ import os
 
 import tweepy
 
-TWEETS_DIR = "../../tweets/"
+TWEETS_DIR = "../../gittweets/"
 
 
 class TweetsDownloader():

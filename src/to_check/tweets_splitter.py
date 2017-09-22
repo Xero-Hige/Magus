@@ -5,9 +5,8 @@ from __future__ import absolute_import, print_function, unicode_literals
 import pickle as Serializer
 import sys
 
-from RabbitHandler import *
-
 import tweet_keys_constants as tkeys
+from RabbitHandler import *
 
 
 class TweetSplitter():
