@@ -1,0 +1,14 @@
+{
+  "fetcher_core": {
+    "tag": "fetcher",
+    "replicas": 1,
+    "input_queue": null,
+    "output_queue": "fetcher_output"
+  },
+  "parser_core": {
+    "tag": "fetcher",
+    "replicas": 3,
+    "input_queue": null,
+    "output_queue": "fetcher_output"
+  }
+}

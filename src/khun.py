@@ -1,18 +1,20 @@
+import json
 import os
 import signal
 
-from m_cores import fetcher_core
+from m_cores import fetcher_core, parser_core
 
 CORES = {
-    "fectcher": fetcher_core.main
+    "fetcher": fetcher_core.main,
+    "parser": parser_core.main
 }
 
 
 class DetachedCore():
-    def __init__(self, main_function):
+    def __init__(self, main_function, tag, worker_number, in_queue, out_queue):
         pid = os.fork()
         if pid == 0:
-            result = main_function()
+            result = main_function(tag, worker_number, in_queue, out_queue)
             exit(result)
         else:
             self.pid = pid
@@ -29,9 +31,22 @@ class DetachedCore():
 def main():
     cores = []
 
-    for _ in range(1):
-        core = DetachedCore(CORES["fectcher"])
-        cores.append(core)
+    structure = {}
+
+    with open("pipeline_struct.json") as reader_file:
+        structure = json.loads(reader_file.read())
+
+    for definition_name in structure:
+        core_def = structure[definition_name]
+
+        core_tag = core_def["tag"]
+        core_replicas = core_def["replicas"]
+        core_inqueue = core_def["input_queue"]
+        core_outqueue = core_def["output_queue"]
+
+        for worker_number in range(1, core_replicas + 1):
+            core = DetachedCore(CORES[core_tag], core_tag, worker_number, core_inqueue, core_outqueue)
+            cores.append(core)
 
     def handler(signum, frame):
         print ("handling: ", signum)
