@@ -1,4 +1,4 @@
-version: '2'
+version: '3'
 
 services:
   rabbitmq:
@@ -11,11 +11,14 @@ services:
 
   magus:
     build: .
-    links:
+
+    depends_on:
       - rabbitmq
 
     env_file:
       - twitter.env
+
+    stop_signal: SIGINT
 
     ports:
       - "8000:8000"
