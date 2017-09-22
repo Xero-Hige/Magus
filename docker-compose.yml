@@ -1,0 +1,21 @@
+version: '2'
+
+services:
+  rabbitmq:
+    image: rabbitmq
+
+    ports:
+      - "8080:15672"
+      - "5672:5672"
+      - "5671:5671"
+
+  magus:
+    build: .
+    links:
+      - rabbitmq
+
+    env_file:
+      - twitter.env
+
+    ports:
+      - "8000:8000"

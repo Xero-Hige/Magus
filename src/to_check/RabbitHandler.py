@@ -4,7 +4,7 @@ import pika
 class RabbitHandler(object):
     ''' '''
 
-    def __init__(self, queue, durable=False, host="localhost"):
+    def __init__(self, queue, durable=False, host="rabbitmq"):
         self.queue = queue
         self.connection = pika.BlockingConnection(pika.ConnectionParameters(host=host))
         self.channel = self.connection.channel()

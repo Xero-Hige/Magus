@@ -1,7 +1,4 @@
 #!/usr/bin/env bash
-rabbitmq-server &
-sleep 4
-rabbitmqctl start_app
 export PYTHONIOENCODING=utf-8
 sleep 5
 python3 khun.py
