@@ -1,9 +1,9 @@
 import os
 
-from m_cores import tweets_fetcher
+from m_cores import fetcher_core
 
 CORES = {
-    "fectcher": tweets_fetcher.main
+    "fectcher": fetcher_core.main
 }
 
 
