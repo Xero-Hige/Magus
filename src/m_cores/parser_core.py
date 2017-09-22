@@ -3,20 +3,20 @@
 from __future__ import absolute_import, print_function, unicode_literals
 
 import pickle as Serializer
-import sys
 
 from libs.tweet_parser import TweetParser
+from to_check.RabbitHandler import *
 
-from src.to_check.RabbitHandler import *
 
-
-def main(argv=()):
-    reader = RabbitHandler("tweets_input")
-    writer = RabbitHandler("parsed_tweets")
+def main(tag="", worker_number=0, input_queue="tweets_input", output_queue="parsed_tweets"):
+    reader = RabbitHandler(input_queue)
+    writer = RabbitHandler(output_queue)
 
     def callback(tweet_string):
         if not tweet_string:
             return
+
+        print("[{}::{}] Debug: incoming tweet".format(tag, worker_number))
 
         tweet = TweetParser.parse_from_json_string(tweet_string)
 
@@ -29,4 +29,4 @@ def main(argv=()):
 
 
 if __name__ == '__main__':
-    main(sys.argv)
+    main()

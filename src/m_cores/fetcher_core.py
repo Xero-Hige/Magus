@@ -10,9 +10,9 @@ from libs.tweet_fetcher import TweetsFetcher
 from to_check.RabbitHandler import *
 
 
-def main(argv=()):
+def main(tag="", worker_number=0, input_queue="", output_queue="tweets_input"):
     tweets_stream = TweetsFetcher()
-    handler = RabbitHandler("tweets_input")
+    handler = RabbitHandler(output_queue)
 
     for tweet in tweets_stream:
         handler.send_message(Serializer.dumps(tweet))
