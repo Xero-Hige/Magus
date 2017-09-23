@@ -8,7 +8,7 @@
   "parser_core": {
     "tag": "parser",
     "replicas": 3,
-    "input_queue": null,
-    "output_queue": "fetcher_output"
+    "input_queue": "fetcher_output",
+    "output_queue": "parser_output"
   }
 }
