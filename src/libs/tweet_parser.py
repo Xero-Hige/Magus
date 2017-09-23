@@ -12,8 +12,11 @@ class TweetParser:
     @staticmethod
     def parse_from_json_string(json_string):
         tweet = Serializer.loads(json_string)
+        return TweetParser.parse_from_dict(tweet)
 
-        if not "user" in tweet:
+    @staticmethod
+    def parse_from_dict(tweet):
+        if "user" not in tweet:
             return None
 
         tweet_dict = {}
@@ -81,14 +84,17 @@ class TweetParser:
         tweet_dict["tweet_user_lang"] = tweet.get("user", {}).get("lang", "")
 
         tweet_dict["tweet_hashtags"] = []
+
         for hashtag in tweet.get("entities", {}).get("hashtags", []):
             tweet_dict["tweet_hashtags"].append(hashtag.get("text", ""))
 
         tweet_dict["tweet_mentions"] = 0
+
         for _ in tweet.get("entities", {}).get("user_mentions", []):
             tweet_dict["tweet_mentions"] += 1
 
         tweet_dict["tweet_media"] = {}
+
         try:
             if tweet.get("extended_entities"):
                 media = tweet.get("extended_entities", {}).get("media", [])
