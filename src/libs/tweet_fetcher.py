@@ -5,7 +5,7 @@ import os
 
 from twitter import *
 
-WHOLE_AMERICA_CORDINATES = "-60, -27.14, 179.0, 84.0"
+WHOLE_AMERICA_COORDINATES = "-60, -27.14, 179.0, 84.0"
 
 
 class TweetsFetcher():
@@ -38,7 +38,7 @@ class TweetsFetcher():
         elif not self.topics and location_string:
             self.tweet_stream = twitter_stream.statuses.filter(locations=location_string)
         else:
-            self.tweet_stream = twitter_stream.statuses.filter(locations=WHOLE_AMERICA_CORDINATES)
+            self.tweet_stream = twitter_stream.statuses.filter(locations=WHOLE_AMERICA_COORDINATES)
 
     def get_location_string(self):
         boundaries = []
