@@ -3,6 +3,7 @@
 from __future__ import absolute_import, print_function, unicode_literals
 
 import pickle as Serializer
+from sys import stdout
 
 from libs.tweet_parser import TweetParser
 from to_check.RabbitHandler import *
@@ -17,8 +18,11 @@ def main(tag="", worker_number=0, input_queue="tweets_input", output_queue="pars
             return
 
         print("[{}::{}] Debug: incoming tweet".format(tag, worker_number))
+        stdout.flush()
 
-        tweet = TweetParser.parse_from_json_string(tweet_string)
+        tweet_dict = Serializer.loads(tweet_string)
+
+        tweet = TweetParser.parse_from_dict(tweet_dict)
 
         if not tweet:
             return
