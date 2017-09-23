@@ -5,7 +5,7 @@ import os
 
 from twitter import *
 
-WHOLE_WORLD_CORDINATES = "-180.0,-90.0, 180.0, 90.0"
+WHOLE_AMERICA_CORDINATES = "-60, -27.14, 179.0, 84.0"
 
 
 class TweetsFetcher():
@@ -38,7 +38,7 @@ class TweetsFetcher():
         elif not self.topics and location_string:
             self.tweet_stream = twitter_stream.statuses.filter(locations=location_string)
         else:
-            self.tweet_stream = twitter_stream.statuses.filter(locations=WHOLE_WORLD_CORDINATES)
+            self.tweet_stream = twitter_stream.statuses.filter(locations=WHOLE_AMERICA_CORDINATES)
 
     def get_location_string(self):
         boundaries = []
@@ -52,7 +52,7 @@ class TweetsFetcher():
     @staticmethod
     def get_boundaries_list(locations):
         bounds = []
-        with open("./libs/country_bounds.csv", 'r') as _file:
+        with open("libs/country_bounds.csv", 'r') as _file:
             reader = csv.DictReader(_file)
 
             for country in reader:
