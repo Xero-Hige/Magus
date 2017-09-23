@@ -1,13 +1,13 @@
 {
   "fetcher_core": {
-    "tag": "fetcher",
+    "tag": "producer",
     "replicas": 1,
     "input_queue": null,
     "output_queue": "fetcher_output"
   },
   "parser_core": {
     "tag": "parser",
-    "replicas": 3,
+    "replicas": 4,
     "input_queue": "fetcher_output",
     "output_queue": "parser_output"
   }
