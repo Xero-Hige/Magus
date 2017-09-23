@@ -11,8 +11,8 @@ from to_check.RabbitHandler import *
 
 
 def main(tag="", worker_number=0, input_queue="", output_queue="tweets_input"):
-    tweets = ["../tweets/{}".format(x) for x in os.listdir("../tweets")] \
-             + ["../bulk/{}".format(x) for x in os.listdir("../bulk")]
+    tweets = ["../tweets/{}".format(x) for x in os.listdir("/training")]  # \
+    #           + ["../bulk/{}".format(x) for x in os.listdir("../bulk")]
 
     handler = RabbitHandler(output_queue)
 
