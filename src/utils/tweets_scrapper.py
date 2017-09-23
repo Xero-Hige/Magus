@@ -45,7 +45,7 @@ def do_scrapping(locations="", topics="", geo="", folder=BULK_FOLDER):
             if "retweeted_status" in tweet:
                 t_id = str(tweet["retweeted_status"]["id"])
 
-            if os.path.exists("../bulk/" + t_id + ".json"):
+            if os.path.exists(folder + "/" + t_id + ".json"):
                 continue
 
             try:
