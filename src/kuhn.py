@@ -2,11 +2,12 @@ import json
 import os
 import signal
 
-from m_cores import fetcher_core, parser_core
+from m_cores import fetcher_core, parser_core, producer_core
 
 CORES = {
     "fetcher": fetcher_core.main,
-    "parser": parser_core.main
+    "parser": parser_core.main,
+    "producer": producer_core.main
 }
 
 
