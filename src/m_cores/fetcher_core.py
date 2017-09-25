@@ -6,8 +6,8 @@ from __future__ import absolute_import, print_function, unicode_literals
 import pickle as Serializer
 import sys
 
+from core_utils.rabbit_handler import *
 from libs.tweet_fetcher import TweetsFetcher
-from to_check.RabbitHandler import *
 
 
 def main(tag="", worker_number=0, input_queue="", output_queue="tweets_input"):
