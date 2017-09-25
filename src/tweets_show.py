@@ -299,8 +299,14 @@ def classify():
 
 @app.route('/status', methods=["GET"])
 def status():
-    totals_emotions, totals_groups = get_tweets_status()
+    totals_emotions, totals_groups, _ = get_tweets_status()
     return render_template("DB_status.html", emotions=totals_emotions, groups=totals_groups)
+
+
+@app.route('/emp_status', methods=["GET"])
+def status():
+    _, _, _status = get_tweets_status()
+    return _status
 
 
 def get_tweets(files):
@@ -344,6 +350,8 @@ def get_tweets_status():
     with DB_Handler() as handler:
         _tweets = handler.get_all_tagged()
 
+        debug_result = []
+
         for _tweet in _tweets:
 
             tweet_id = "{}.json".format(_tweet.id)
@@ -379,7 +387,9 @@ def get_tweets_status():
             for group in groups[:1]:
                 totals_groups[group[1]] = totals_groups.get(group[1], 0) + 1
 
-    return totals_emotions, totals_groups
+            debug_result.append([_tweet["tweet_text"], groups[0], emotions])
+
+    return totals_emotions, totals_groups, debug_result
 
 
 def get_emotions_list(_tweet):
