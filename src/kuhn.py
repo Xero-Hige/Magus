@@ -3,12 +3,13 @@ import os
 import signal
 from sys import stdout
 
-from m_cores import fetcher_core, parser_core, producer_core
+from m_cores import fetcher_core, parser_core, producer_core, cleaner_core
 
 CORES = {
     "fetcher": fetcher_core.main,
     "parser": parser_core.main,
-    "producer": producer_core.main
+    "producer": producer_core.main,
+    "cleaner": cleaner_core.main
 }
 
 
