@@ -1,1 +1,117 @@
-{"created_at": "Mon Sep 25 01:16:41 +0000 2017", "id": 912123660751839235, "id_str": "912123660751839235", "text": "https://t.co/VFHYnZWf5G", "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>", "truncated": false, "in_reply_to_status_id": null, "in_reply_to_status_id_str": null, "in_reply_to_user_id": null, "in_reply_to_user_id_str": null, "in_reply_to_screen_name": null, "user": {"id": 911445085140774912, "id_str": "911445085140774912", "name": "Mikkel", "screen_name": "mikkelwara21300", "location": null, "url": null, "description": null, "translator_type": "none", "protected": false, "verified": false, "followers_count": 5, "friends_count": 415, "listed_count": 0, "favourites_count": 29, "statuses_count": 84, "created_at": "Sat Sep 23 04:20:16 +0000 2017", "utc_offset": 7200, "time_zone": "Berlin", "geo_enabled": true, "lang": "no", "contributors_enabled": false, "is_translator": false, "profile_background_color": "F5F8FA", "profile_background_image_url": "", "profile_background_image_url_https": "", "profile_background_tile": false, "profile_link_color": "1DA1F2", "profile_sidebar_border_color": "C0DEED", "profile_sidebar_fill_color": "DDEEF6", "profile_text_color": "333333", "profile_use_background_image": true, "profile_image_url": "http://pbs.twimg.com/profile_images/912116726946521088/5LRqfYyE_normal.jpg", "profile_image_url_https": "https://pbs.twimg.com/profile_images/912116726946521088/5LRqfYyE_normal.jpg", "profile_banner_url": "https://pbs.twimg.com/profile_banners/911445085140774912/1506142020", "default_profile": true, "default_profile_image": false, "following": null, "follow_request_sent": null, "notifications": null}, "geo": null, "coordinates": null, "place": {"id": "2852a6c059601e45", "url": "https://api.twitter.com/1.1/geo/id/2852a6c059601e45.json", "place_type": "city", "name": "Kristiansund", "full_name": "Kristiansund, Norge", "country_code": "NO", "country": "Norge", "bounding_box": {"type": "Polygon", "coordinates": [[[7.427666, 63.011117], [7.427666, 63.249591], [7.935999, 63.249591], [7.935999, 63.011117]]]}, "attributes": {}}, "contributors": null, "is_quote_status": false, "quote_count": 0, "reply_count": 0, "retweet_count": 0, "favorite_count": 0, "entities": {"hashtags": [], "urls": [{"url": "https://t.co/VFHYnZWf5G", "expanded_url": "https://twitter.com/MitteDerAFD", "display_url": "twitter.com/MitteDerAFD", "indices": [0, 23]}], "user_mentions": [], "symbols": []}, "favorited": false, "retweeted": false, "possibly_sensitive": false, "filter_level": "low", "lang": "und", "timestamp_ms": "1506302201818"}
+{
+  "created_at": "Mon Sep 25 01:16:41 +0000 2017",
+  "id": 912123660751839235,
+  "id_str": "912123660751839235",
+  "text": "https://t.co/VFHYnZWf5G",
+  "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 911445085140774912,
+    "id_str": "911445085140774912",
+    "name": "Mikkel",
+    "screen_name": "mikkelwara21300",
+    "location": null,
+    "url": null,
+    "description": null,
+    "translator_type": "none",
+    "protected": false,
+    "verified": false,
+    "followers_count": 5,
+    "friends_count": 415,
+    "listed_count": 0,
+    "favourites_count": 29,
+    "statuses_count": 84,
+    "created_at": "Sat Sep 23 04:20:16 +0000 2017",
+    "utc_offset": 7200,
+    "time_zone": "Berlin",
+    "geo_enabled": true,
+    "lang": "no",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "F5F8FA",
+    "profile_background_image_url": "",
+    "profile_background_image_url_https": "",
+    "profile_background_tile": false,
+    "profile_link_color": "1DA1F2",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/912116726946521088/5LRqfYyE_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/912116726946521088/5LRqfYyE_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/911445085140774912/1506142020",
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": null,
+    "follow_request_sent": null,
+    "notifications": null
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": {
+    "id": "2852a6c059601e45",
+    "url": "https://api.twitter.com/1.1/geo/id/2852a6c059601e45.json",
+    "place_type": "city",
+    "name": "Kristiansund",
+    "full_name": "Kristiansund, Norge",
+    "country_code": "NO",
+    "country": "Norge",
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            7.427666,
+            63.011117
+          ],
+          [
+            7.427666,
+            63.249591
+          ],
+          [
+            7.935999,
+            63.249591
+          ],
+          [
+            7.935999,
+            63.011117
+          ]
+        ]
+      ]
+    },
+    "attributes": {}
+  },
+  "contributors": null,
+  "is_quote_status": false,
+  "quote_count": 0,
+  "reply_count": 0,
+  "retweet_count": 0,
+  "favorite_count": 0,
+  "entities": {
+    "hashtags": [],
+    "urls": [
+      {
+        "url": "https://t.co/VFHYnZWf5G",
+        "expanded_url": "https://twitter.com/MitteDerAFD",
+        "display_url": "twitter.com/MitteDerAFD",
+        "indices": [
+          0,
+          23
+        ]
+      }
+    ],
+    "user_mentions": [],
+    "symbols": []
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false,
+  "filter_level": "low",
+  "lang": "und",
+  "timestamp_ms": "1506302201818"
+}

@@ -1,1 +1,106 @@
-{"created_at": "Mon Sep 25 01:16:38 +0000 2017", "id": 912123648831614976, "id_str": "912123648831614976", "text": "\u0418\u0434\u0443 \u0432\u043e \u0432\u0442\u043e\u0440\u0443\u0445\u0443 \u0440\u0430\u0434\u0438 \u043f\u0438\u0446\u0446\u044b", "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>", "truncated": false, "in_reply_to_status_id": null, "in_reply_to_status_id_str": null, "in_reply_to_user_id": null, "in_reply_to_user_id_str": null, "in_reply_to_screen_name": null, "user": {"id": 608760883, "id_str": "608760883", "name": "\u0421\u043c\u043e\u043b\u0430", "screen_name": "smoleychuchka", "location": "\u0414\u0430\u043b\u044c\u043d\u0435\u0440\u0435\u0447\u0435\u043d\u0441\u043a", "url": "http://vk.com/smoleychuchka", "description": "\u0434\u0435\u0432\u0443\u0448\u043a\u0430 - \u043a\u043e\u0441\u044f\u043a\ud83e\udd23", "translator_type": "none", "protected": false, "verified": false, "followers_count": 154, "friends_count": 76, "listed_count": 0, "favourites_count": 4176, "statuses_count": 784, "created_at": "Fri Jun 15 04:08:10 +0000 2012", "utc_offset": -25200, "time_zone": "Pacific Time (US & Canada)", "geo_enabled": true, "lang": "ru", "contributors_enabled": false, "is_translator": false, "profile_background_color": "000000", "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png", "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", "profile_background_tile": false, "profile_link_color": "11BB99", "profile_sidebar_border_color": "000000", "profile_sidebar_fill_color": "000000", "profile_text_color": "000000", "profile_use_background_image": false, "profile_image_url": "http://pbs.twimg.com/profile_images/898171787497926656/nEHY1-sc_normal.jpg", "profile_image_url_https": "https://pbs.twimg.com/profile_images/898171787497926656/nEHY1-sc_normal.jpg", "profile_banner_url": "https://pbs.twimg.com/profile_banners/608760883/1497851520", "default_profile": false, "default_profile_image": false, "following": null, "follow_request_sent": null, "notifications": null}, "geo": null, "coordinates": null, "place": {"id": "a022dd7329057b59", "url": "https://api.twitter.com/1.1/geo/id/a022dd7329057b59.json", "place_type": "city", "name": "\u0414\u0430\u043b\u044c\u043d\u0435\u0440\u0435\u0447\u0435\u043d\u0441\u043a", "full_name": "\u0414\u0430\u043b\u044c\u043d\u0435\u0440\u0435\u0447\u0435\u043d\u0441\u043a, \u0420\u043e\u0441\u0441\u0438\u044f", "country_code": "RU", "country": "\u0420\u043e\u0441\u0441\u0438\u044f", "bounding_box": {"type": "Polygon", "coordinates": [[[133.596707, 45.846176], [133.596707, 45.970217], [133.84413, 45.970217], [133.84413, 45.846176]]]}, "attributes": {}}, "contributors": null, "is_quote_status": false, "quote_count": 0, "reply_count": 0, "retweet_count": 0, "favorite_count": 0, "entities": {"hashtags": [], "urls": [], "user_mentions": [], "symbols": []}, "favorited": false, "retweeted": false, "filter_level": "low", "lang": "ru", "timestamp_ms": "1506302198976"}
+{
+  "created_at": "Mon Sep 25 01:16:38 +0000 2017",
+  "id": 912123648831614976,
+  "id_str": "912123648831614976",
+  "text": "\u0418\u0434\u0443 \u0432\u043e \u0432\u0442\u043e\u0440\u0443\u0445\u0443 \u0440\u0430\u0434\u0438 \u043f\u0438\u0446\u0446\u044b",
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 608760883,
+    "id_str": "608760883",
+    "name": "\u0421\u043c\u043e\u043b\u0430",
+    "screen_name": "smoleychuchka",
+    "location": "\u0414\u0430\u043b\u044c\u043d\u0435\u0440\u0435\u0447\u0435\u043d\u0441\u043a",
+    "url": "http://vk.com/smoleychuchka",
+    "description": "\u0434\u0435\u0432\u0443\u0448\u043a\u0430 - \u043a\u043e\u0441\u044f\u043a\ud83e\udd23",
+    "translator_type": "none",
+    "protected": false,
+    "verified": false,
+    "followers_count": 154,
+    "friends_count": 76,
+    "listed_count": 0,
+    "favourites_count": 4176,
+    "statuses_count": 784,
+    "created_at": "Fri Jun 15 04:08:10 +0000 2012",
+    "utc_offset": -25200,
+    "time_zone": "Pacific Time (US & Canada)",
+    "geo_enabled": true,
+    "lang": "ru",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "000000",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": false,
+    "profile_link_color": "11BB99",
+    "profile_sidebar_border_color": "000000",
+    "profile_sidebar_fill_color": "000000",
+    "profile_text_color": "000000",
+    "profile_use_background_image": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/898171787497926656/nEHY1-sc_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/898171787497926656/nEHY1-sc_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/608760883/1497851520",
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": null,
+    "follow_request_sent": null,
+    "notifications": null
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": {
+    "id": "a022dd7329057b59",
+    "url": "https://api.twitter.com/1.1/geo/id/a022dd7329057b59.json",
+    "place_type": "city",
+    "name": "\u0414\u0430\u043b\u044c\u043d\u0435\u0440\u0435\u0447\u0435\u043d\u0441\u043a",
+    "full_name": "\u0414\u0430\u043b\u044c\u043d\u0435\u0440\u0435\u0447\u0435\u043d\u0441\u043a, \u0420\u043e\u0441\u0441\u0438\u044f",
+    "country_code": "RU",
+    "country": "\u0420\u043e\u0441\u0441\u0438\u044f",
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            133.596707,
+            45.846176
+          ],
+          [
+            133.596707,
+            45.970217
+          ],
+          [
+            133.84413,
+            45.970217
+          ],
+          [
+            133.84413,
+            45.846176
+          ]
+        ]
+      ]
+    },
+    "attributes": {}
+  },
+  "contributors": null,
+  "is_quote_status": false,
+  "quote_count": 0,
+  "reply_count": 0,
+  "retweet_count": 0,
+  "favorite_count": 0,
+  "entities": {
+    "hashtags": [],
+    "urls": [],
+    "user_mentions": [],
+    "symbols": []
+  },
+  "favorited": false,
+  "retweeted": false,
+  "filter_level": "low",
+  "lang": "ru",
+  "timestamp_ms": "1506302198976"
+}
