@@ -5,6 +5,7 @@ from __future__ import absolute_import, print_function, unicode_literals
 import pickle as Serializer
 
 from core_utils.debugger import debug_core_print_d
+from libs.tweet_anonymize import full_anonymize_tweet
 from to_check.RabbitHandler import *
 
 
@@ -22,6 +23,8 @@ def main(tag, worker_number, input_queue, output_queue):
             return
 
         debug_core_print_d(tag, worker_number, "Cleaning tweet")
+
+        tweet['tweet_text'] = full_anonymize_tweet(tweet['tweet_text'])
 
         writer.send_message(Serializer.dumps(tweet))
 
