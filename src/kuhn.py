@@ -26,9 +26,9 @@ class DetachedCore():
         if self.pid != 0:
             os.kill(self.pid, signal.SIGTERM)
 
-    def dispatch_signal(self, signal):
+    def dispatch_signal(self, signum):
         if self.pid != 0:
-            os.kill(self.pid, signal.SIGTERM)
+            os.kill(self.pid, signum)
 
 
 def main():
