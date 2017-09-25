@@ -15,7 +15,7 @@ class RabbitHandler(object):
                                    routing_key=self.queue,
                                    body=message,
                                    properties=pika.BasicProperties(
-                                       delivery_mode=2,  # make message persistent
+                                           delivery_mode=2,  # make message persistent
                                    ))
 
     def receive_messages(self, callback):
