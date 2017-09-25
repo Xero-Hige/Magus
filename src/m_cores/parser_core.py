@@ -3,8 +3,8 @@
 from __future__ import absolute_import, print_function, unicode_literals
 
 import pickle as Serializer
-from sys import stdout
 
+from core_utils.debugger import debug_core_print_d
 from libs.tweet_parser import TweetParser
 from to_check.RabbitHandler import *
 
@@ -17,8 +17,7 @@ def main(tag="", worker_number=0, input_queue="tweets_input", output_queue="pars
         if not tweet_string:
             return
 
-        print("[{}::{}] Debug: incoming tweet".format(tag, worker_number))
-        stdout.flush()
+        debug_core_print_d(tag, worker_number, "incoming tweet")
 
         tweet_dict = Serializer.loads(tweet_string)
 

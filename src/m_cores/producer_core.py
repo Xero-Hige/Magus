@@ -7,9 +7,8 @@ import json
 import os
 import pickle as Serializer
 import signal
-import time
-from sys import stdout
 
+from core_utils.debugger import debug_core_print_d
 from to_check.RabbitHandler import *
 
 
@@ -32,12 +31,7 @@ def main(tag="", worker_number=0, input_queue="", output_queue="tweets_input"):
             tweet_dict = json.loads(tweet_file.read())
             handler.send_message(Serializer.dumps(tweet_dict))
 
-        print("[{}::{}] Debug: sent {} via {}".format(tag.capitalize(), worker_number, tweets[i % len(tweets)],
-                                                      output_queue))
-        stdout.flush()
-
-        i += 1
-        time.sleep(0.05)
+        debug_core_print_d(tag, worker_number, "sent {} via {}".format(tweets[i % len(tweets)], output_queue))
 
 
 if __name__ == '__main__':

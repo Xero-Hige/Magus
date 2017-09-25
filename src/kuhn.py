@@ -1,6 +1,7 @@
 import json
 import os
 import signal
+from sys import stdout
 
 from m_cores import fetcher_core, parser_core, producer_core
 
@@ -50,7 +51,9 @@ def main():
             cores.append(core)
 
     def handler(signum, frame):
-        print ("handling: ", signum)
+        print ("[Kuhn] Debug: Handling ", signum)
+        stdout.flush()
+
         for _core in cores:
             _core.stop()
 
@@ -59,8 +62,6 @@ def main():
 
     for _ in range(len(cores)):
         os.wait()
-
-    print ("Ended")
 
 
 if __name__ == '__main__':
