@@ -304,7 +304,7 @@ def status():
 
 
 @app.route('/emp_status', methods=["GET"])
-def status():
+def raw_status():
     _, _, _status = get_tweets_status()
     return _status
 
