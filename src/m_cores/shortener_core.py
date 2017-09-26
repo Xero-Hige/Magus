@@ -59,7 +59,7 @@ def main(tag, worker_number, input_queue, output_queue):
         if not tweet:
             return
 
-        debug_core_print_d(tag, worker_number, "Cleaning tweet")
+        debug_core_print_d(tag, worker_number, "Shortening tweet")
 
         tweet['tweet_text'] = shorten_repetitions(tweet['tweet_text'])
 
