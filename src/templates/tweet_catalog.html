@@ -4,7 +4,7 @@
     <!--Main layout-->
     <div class="container-fluid">
 
-        <div class="row">
+        <div class="row background">
 
             <div class="card" style="width: 100%;padding: 1em">
                 <form method="post" action="/classify">
@@ -12,13 +12,13 @@
 
                         <div class="row" style="padding: 1em 1em 0;background-color: #0091ea">
 
-                            <div id="tweet_text" class="col-md-11 text-justify" style="padding: 0 0 0">
+                            <div id="tweet_text" class="col-md-11 text-justify tweet_text" style="padding: 0 0 0">
                                 {% for line in tweet["tweet_text"].replace("&amp;","&").split("\n")%}
                                 <p>{{line}}</p>
                                 {% endfor%}
                             </div>
 
-                            <div class="col-md-1" style="text-align: right;margin-bottom: 1em">
+                            <div class="col-md-1 " style="text-align: right;margin-bottom: 1em">
                                 <div class="row">
                                     Translate this
                                 </div>
