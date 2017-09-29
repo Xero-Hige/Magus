@@ -10,7 +10,7 @@
                 <form method="post" action="/classify">
                     <div class="col-md-12" style="width: 100%">
 
-                        <div class="row" style="padding: 1em 1em 0;background-color: #0091ea">
+                        <div class="row" style="padding: 1em 1em 0">
 
                             <div id="tweet_text" class="col-md-11 text-justify tweet_text" style="padding: 0 0 0">
                                 {% for line in tweet["tweet_text"].replace("&amp;","&").split("\n")%}
@@ -18,7 +18,7 @@
                                 {% endfor%}
                             </div>
 
-                            <div class="col-md-1 " style="text-align: right;margin-bottom: 1em">
+                            <div class="col-md-1 div_header" style="text-align: right;margin-bottom: 1em">
                                 <div class="row">
                                     Translate this
                                 </div>
@@ -45,15 +45,15 @@
 
                             <div class="col-md-8">
                                 <div class="row">
-                                    <div class="col-md-12" style="text-align: center;background-color: #6200ea">Extra
+                                    <div class="col-md-12 div_header" style="text-align: center">Extra
                                         Data
                                     </div>
                                 </div>
 
                                 <div class="row">
-                                    <div class="col-md-6" style="text-align: center;background-color: #651fff">Stats
+                                    <div class="col-md-6" style="text-align: center">Stats
                                     </div>
-                                    <div class="col-md-6" style="text-align: center;background-color: #7c4dff">Tweet
+                                    <div class="col-md-6 div_header" style="text-align: center">Tweet
                                         Info
                                     </div>
                                 </div>
