@@ -11,13 +11,20 @@
 
 .background {
     background-color: #BDBDBD;
+    margin: 0;
 }
 
 .tweet_text {
     background-color: #4dd0e1;
+    margin-top: 2px;
+    border-left: solid white 1px;
+    padding-top: 1em;
+
 }
 
 .translate_div {
+    padding-top: 1em;
+    padding-left: 1em;
     border-left: solid white;
 }
 
@@ -26,7 +33,7 @@
     text-align: center;
     border-left: solid white 1px;
     border-right: solid white 1px;
-
+    margin-top: 2px;
 }
 
 .div_happy_header {
@@ -123,4 +130,15 @@
     border-left: white dashed 1px;
     border-right: white dashed 1px;
 
+}
+
+.acordion_heads {
+    color: #333;
+    background-color: #f5f5f5;
+    border-color: #ddd;
+    margin-top: 0;
+    margin-bottom: 0;
+    font-size: 16px;
+    text-align: center;
+    width: 100%;
 }
