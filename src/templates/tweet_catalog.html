@@ -53,8 +53,12 @@
                                         <ul>
                                             <li>Tweet lang: {{tweet["tweet_lang"]}}</li>
                                             <li>Tweet user lang: {{tweet["tweet_user_lang"]}}</li>
-                                            <li>Tweet place: {{tweet["tweet_place"]}}</li>
-                                            <li>Tweet lang: {{tweet["tweet_mentions"]}}</li>
+                                            <li>Tweet country: {{tweet["country"]}}</li>
+                                            <li>Tweet Location: <a
+                                                    href="http://maps.google.com/?q={{tweet['latitude']}},{{tweet['longitude']}}"
+                                                    target="_blank">Lat: {{tweet["latitude"]}} ; Lon:
+                                                {{tweet["longitude"]}}</a></li>
+                                            <li>Tweet mentions: {{tweet["tweet_mentions"]}}</li>
                                             <li>Tweet Hashtags:
                                                 <ul>
                                                     {% for hashtag in tweet["tweet_hashtags"]%}

@@ -59,10 +59,13 @@ class TweetParser:
                 tweet_dict["longitude"] += tweet["place"]["bounding_box"]["coordinates"][0][2][0]
                 tweet_dict["longitude"] += tweet["place"]["bounding_box"]["coordinates"][0][3][0]
                 tweet_dict["longitude"] /= 4
+            else:
+                tweet_dict["latitude"] = 0
+                tweet_dict["longitude"] = 0
 
         except Exception as e:
-            tweet_dict["latitude"] = "0"
-            tweet_dict["longitude"] = "0"
+            tweet_dict["latitude"] = 0
+            tweet_dict["longitude"] = 0
 
         if "place" in tweet and tweet["place"]:
             tweet_dict["country"] = tweet["place"]["country"]
