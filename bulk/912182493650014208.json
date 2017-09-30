@@ -1,1 +1,106 @@
-{"created_at": "Mon Sep 25 05:10:28 +0000 2017", "id": 912182493650014208, "id_str": "912182493650014208", "text": "Boa p qm fica, vou dormir", "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>", "truncated": false, "in_reply_to_status_id": null, "in_reply_to_status_id_str": null, "in_reply_to_user_id": null, "in_reply_to_user_id_str": null, "in_reply_to_screen_name": null, "user": {"id": 305161351, "id_str": "305161351", "name": "Lavi$", "screen_name": "lahguimaraes_", "location": "S\u00e3o Paulo, Brasil", "url": "http://www.instagram.com/laviniaguimaraes_", "description": "Afetada s\u00f3 por brisa", "translator_type": "none", "protected": false, "verified": false, "followers_count": 1005, "friends_count": 1309, "listed_count": 4, "favourites_count": 10231, "statuses_count": 37060, "created_at": "Wed May 25 19:06:08 +0000 2011", "utc_offset": -10800, "time_zone": "Santiago", "geo_enabled": true, "lang": "pt", "contributors_enabled": false, "is_translator": false, "profile_background_color": "E81C4F", "profile_background_image_url": "http://abs.twimg.com/images/themes/theme17/bg.gif", "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme17/bg.gif", "profile_background_tile": false, "profile_link_color": "F58EA8", "profile_sidebar_border_color": "000000", "profile_sidebar_fill_color": "000000", "profile_text_color": "000000", "profile_use_background_image": true, "profile_image_url": "http://pbs.twimg.com/profile_images/912138628347899904/1hyeo050_normal.jpg", "profile_image_url_https": "https://pbs.twimg.com/profile_images/912138628347899904/1hyeo050_normal.jpg", "profile_banner_url": "https://pbs.twimg.com/profile_banners/305161351/1506195026", "default_profile": false, "default_profile_image": false, "following": null, "follow_request_sent": null, "notifications": null}, "geo": null, "coordinates": null, "place": {"id": "1355fdec1bc623f4", "url": "https://api.twitter.com/1.1/geo/id/1355fdec1bc623f4.json", "place_type": "city", "name": "Caraguatatuba", "full_name": "Caraguatatuba, Brasil", "country_code": "BR", "country": "Brasil", "bounding_box": {"type": "Polygon", "coordinates": [[[-45.71972, -23.759094], [-45.71972, -23.482907], [-45.260456, -23.482907], [-45.260456, -23.759094]]]}, "attributes": {}}, "contributors": null, "is_quote_status": false, "quote_count": 0, "reply_count": 0, "retweet_count": 0, "favorite_count": 0, "entities": {"hashtags": [], "urls": [], "user_mentions": [], "symbols": []}, "favorited": false, "retweeted": false, "filter_level": "low", "lang": "pt", "timestamp_ms": "1506316228674"}
+{
+  "created_at": "Mon Sep 25 05:10:28 +0000 2017",
+  "id": 912182493650014208,
+  "id_str": "912182493650014208",
+  "text": "Boa p qm fica, vou dormir",
+  "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 305161351,
+    "id_str": "305161351",
+    "name": "Lavi$",
+    "screen_name": "lahguimaraes_",
+    "location": "S\u00e3o Paulo, Brasil",
+    "url": "http://www.instagram.com/laviniaguimaraes_",
+    "description": "Afetada s\u00f3 por brisa",
+    "translator_type": "none",
+    "protected": false,
+    "verified": false,
+    "followers_count": 1005,
+    "friends_count": 1309,
+    "listed_count": 4,
+    "favourites_count": 10231,
+    "statuses_count": 37060,
+    "created_at": "Wed May 25 19:06:08 +0000 2011",
+    "utc_offset": -10800,
+    "time_zone": "Santiago",
+    "geo_enabled": true,
+    "lang": "pt",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "E81C4F",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme17/bg.gif",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme17/bg.gif",
+    "profile_background_tile": false,
+    "profile_link_color": "F58EA8",
+    "profile_sidebar_border_color": "000000",
+    "profile_sidebar_fill_color": "000000",
+    "profile_text_color": "000000",
+    "profile_use_background_image": true,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/912138628347899904/1hyeo050_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/912138628347899904/1hyeo050_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/305161351/1506195026",
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": null,
+    "follow_request_sent": null,
+    "notifications": null
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": {
+    "id": "1355fdec1bc623f4",
+    "url": "https://api.twitter.com/1.1/geo/id/1355fdec1bc623f4.json",
+    "place_type": "city",
+    "name": "Caraguatatuba",
+    "full_name": "Caraguatatuba, Brasil",
+    "country_code": "BR",
+    "country": "Brasil",
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            -45.71972,
+            -23.759094
+          ],
+          [
+            -45.71972,
+            -23.482907
+          ],
+          [
+            -45.260456,
+            -23.482907
+          ],
+          [
+            -45.260456,
+            -23.759094
+          ]
+        ]
+      ]
+    },
+    "attributes": {}
+  },
+  "contributors": null,
+  "is_quote_status": false,
+  "quote_count": 0,
+  "reply_count": 0,
+  "retweet_count": 0,
+  "favorite_count": 0,
+  "entities": {
+    "hashtags": [],
+    "urls": [],
+    "user_mentions": [],
+    "symbols": []
+  },
+  "favorited": false,
+  "retweeted": false,
+  "filter_level": "low",
+  "lang": "pt",
+  "timestamp_ms": "1506316228674"
+}

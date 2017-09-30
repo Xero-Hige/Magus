@@ -1,1 +1,117 @@
-{"created_at": "Sat Sep 30 06:16:05 +0000 2017", "id": 914010946007429120, "id_str": "914010946007429120", "text": "Wind 5 km/h NE. Barometer 1007,7 hPa, Falling. Temperature 15,5 \u00b0C. Rain today 0,0 mm. Humidity 92%", "source": "<a href=\"http://sandaysoft.com/\" rel=\"nofollow\">Sandaysoft Cumulus</a>", "truncated": false, "in_reply_to_status_id": null, "in_reply_to_status_id_str": null, "in_reply_to_user_id": null, "in_reply_to_user_id_str": null, "in_reply_to_screen_name": null, "user": {"id": 514414879, "id_str": "514414879", "name": "LU8DO Ituzaing\u00f3 BsAs", "screen_name": "LU8DO", "location": "Ituzaing\u00f3, Bs. As. GF05qi", "url": "http://www.wunderground.com/swf/Rapid_Fire.swf?units=metric&station=IBUENOSA84", "description": "Datos emitidos autom\u00e1ticamente por estaci\u00f3n meteorol\u00f3gica en Ituzaing\u00f3, Bs. As. Argentina. Pablo D. Polti, LU8DO, Radioaficionado,", "translator_type": "none", "protected": false, "verified": false, "followers_count": 257, "friends_count": 89, "listed_count": 20, "favourites_count": 15, "statuses_count": 140424, "created_at": "Sun Mar 04 14:43:48 +0000 2012", "utc_offset": -10800, "time_zone": "Buenos Aires", "geo_enabled": true, "lang": "es", "contributors_enabled": false, "is_translator": false, "profile_background_color": "C0DEED", "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png", "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", "profile_background_tile": false, "profile_link_color": "1DA1F2", "profile_sidebar_border_color": "C0DEED", "profile_sidebar_fill_color": "DDEEF6", "profile_text_color": "333333", "profile_use_background_image": true, "profile_image_url": "http://pbs.twimg.com/profile_images/3423882865/ee1776b2693d2f64c79504d3bf91dc7c_normal.jpeg", "profile_image_url_https": "https://pbs.twimg.com/profile_images/3423882865/ee1776b2693d2f64c79504d3bf91dc7c_normal.jpeg", "default_profile": true, "default_profile_image": false, "following": null, "follow_request_sent": null, "notifications": null}, "geo": {"type": "Point", "coordinates": [-34.64972222, -58.66083333]}, "coordinates": {"type": "Point", "coordinates": [-58.66083333, -34.64972222]}, "place": {"id": "012a97e00aba1e81", "url": "https://api.twitter.com/1.1/geo/id/012a97e00aba1e81.json", "place_type": "city", "name": "Ituzaing\u00f3 Centro", "full_name": "Ituzaing\u00f3 Centro, Argentina", "country_code": "AR", "country": "Argentina", "bounding_box": {"type": "Polygon", "coordinates": [[[-58.729283, -34.685879], [-58.729283, -34.594417], [-58.653444, -34.594417], [-58.653444, -34.685879]]]}, "attributes": {}}, "contributors": null, "is_quote_status": false, "quote_count": 0, "reply_count": 0, "retweet_count": 0, "favorite_count": 0, "entities": {"hashtags": [], "urls": [], "user_mentions": [], "symbols": []}, "favorited": false, "retweeted": false, "filter_level": "low", "lang": "en", "timestamp_ms": "1506752165687"}
+{
+  "created_at": "Sat Sep 30 06:16:05 +0000 2017",
+  "id": 914010946007429120,
+  "id_str": "914010946007429120",
+  "text": "Wind 5 km/h NE. Barometer 1007,7 hPa, Falling. Temperature 15,5 \u00b0C. Rain today 0,0 mm. Humidity 92%",
+  "source": "<a href=\"http://sandaysoft.com/\" rel=\"nofollow\">Sandaysoft Cumulus</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 514414879,
+    "id_str": "514414879",
+    "name": "LU8DO Ituzaing\u00f3 BsAs",
+    "screen_name": "LU8DO",
+    "location": "Ituzaing\u00f3, Bs. As. GF05qi",
+    "url": "http://www.wunderground.com/swf/Rapid_Fire.swf?units=metric&station=IBUENOSA84",
+    "description": "Datos emitidos autom\u00e1ticamente por estaci\u00f3n meteorol\u00f3gica en Ituzaing\u00f3, Bs. As. Argentina. Pablo D. Polti, LU8DO, Radioaficionado,",
+    "translator_type": "none",
+    "protected": false,
+    "verified": false,
+    "followers_count": 257,
+    "friends_count": 89,
+    "listed_count": 20,
+    "favourites_count": 15,
+    "statuses_count": 140424,
+    "created_at": "Sun Mar 04 14:43:48 +0000 2012",
+    "utc_offset": -10800,
+    "time_zone": "Buenos Aires",
+    "geo_enabled": true,
+    "lang": "es",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "C0DEED",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": false,
+    "profile_link_color": "1DA1F2",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/3423882865/ee1776b2693d2f64c79504d3bf91dc7c_normal.jpeg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/3423882865/ee1776b2693d2f64c79504d3bf91dc7c_normal.jpeg",
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": null,
+    "follow_request_sent": null,
+    "notifications": null
+  },
+  "geo": {
+    "type": "Point",
+    "coordinates": [
+      -34.64972222,
+      -58.66083333
+    ]
+  },
+  "coordinates": {
+    "type": "Point",
+    "coordinates": [
+      -58.66083333,
+      -34.64972222
+    ]
+  },
+  "place": {
+    "id": "012a97e00aba1e81",
+    "url": "https://api.twitter.com/1.1/geo/id/012a97e00aba1e81.json",
+    "place_type": "city",
+    "name": "Ituzaing\u00f3 Centro",
+    "full_name": "Ituzaing\u00f3 Centro, Argentina",
+    "country_code": "AR",
+    "country": "Argentina",
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            -58.729283,
+            -34.685879
+          ],
+          [
+            -58.729283,
+            -34.594417
+          ],
+          [
+            -58.653444,
+            -34.594417
+          ],
+          [
+            -58.653444,
+            -34.685879
+          ]
+        ]
+      ]
+    },
+    "attributes": {}
+  },
+  "contributors": null,
+  "is_quote_status": false,
+  "quote_count": 0,
+  "reply_count": 0,
+  "retweet_count": 0,
+  "favorite_count": 0,
+  "entities": {
+    "hashtags": [],
+    "urls": [],
+    "user_mentions": [],
+    "symbols": []
+  },
+  "favorited": false,
+  "retweeted": false,
+  "filter_level": "low",
+  "lang": "en",
+  "timestamp_ms": "1506752165687"
+}
