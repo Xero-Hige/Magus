@@ -10,35 +10,38 @@
                 <form method="post" action="/classify">
                     <div class="col-md-12" style="width: 100%">
 
-                        <div class="row" style="padding: 1em 1em 0">
+                        <div class="row">
 
-                            <div id="tweet_text" class="col-md-11 text-justify tweet_text" style="padding: 0 0 0">
+                            <div id="tweet_text" class="col-md-10 text-justify tweet_text">
                                 {% for line in tweet["tweet_text"].replace("&amp;","&").split("\n")%}
                                 <p>{{line}}</p>
                                 {% endfor%}
                             </div>
 
-                            <div class="col-md-1 div_header" style="text-align: right;margin-bottom: 1em">
+                            <div class="col-md-2 div_header translate_div">
                                 <div class="row">
-                                    Translate this
+                                    Translate to
                                 </div>
                                 <div class="row">
                                     <a href="https://translate.google.com/#auto/es/{{tweet['tweet_text']}}"
                                        target="_blank">
                                         <img src="http://www.ligaportal.at/international/images/wm2014/flaggen/256/Spanien.png"
                                              height="25em" width="25em" attributes="#" \>
-                                    </a>
+                                        Spanish</a>
+                                </div>
+
+                                <div class="row">
 
                                     <a href="https://translate.google.com/#auto/en/{{tweet['tweet_text']}}"
                                        target="_blank">
-                                        <img src="https://rlv.zcache.co.uk/great_britain_flag_round_sticker-ra10ab1f0ca084de28068cce8dfbdbc9e_v9wth_8byvr_324.jpg"
-                                             height="25em" width="25em" attributes="#" \>
-                                    </a>
+                                        <img src="http://img.freeflagicons.com/thumb/round_icon/united_kingdom/united_kingdom_640.png"
+                                             height="25em" width="35em" attributes="#" \>
+                                        English</a>
                                 </div>
                             </div>
                         </div>
 
-                        <div class="row" style="margin-top: 1em">
+                        <div class="row">
                             <div class="col-md-4">
                                 {% include 'emotions.html' %}
                             </div>

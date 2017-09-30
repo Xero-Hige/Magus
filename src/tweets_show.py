@@ -1,8 +1,8 @@
 import random
 import re
-from subprocess import Popen, PIPE
+from subprocess import PIPE, Popen
 
-from flask import Flask, render_template, request, redirect
+from flask import Flask, redirect, render_template, request
 
 from libs.tweet_anonymize import full_anonymize_tweet
 from libs.tweet_parser import TweetParser
@@ -16,6 +16,7 @@ ANGRY = "angry"
 HAPPY = "happy"
 
 app = Flask(__name__)
+app.config['TEMPLATES_AUTO_RELOAD'] = True
 
 EMOJIS = re.compile(u"\\ud83d", flags=re.UNICODE)
 
