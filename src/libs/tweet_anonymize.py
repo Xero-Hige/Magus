@@ -12,7 +12,7 @@ def censor_urls(text):
 
 def anonymize_usernames(text):
     for word in text.split():
-        if len(word) > 1 and word[0] == '@' and word[1:].isalpha():
+        if len(word) > 1 and word[0] == '@':
             text = text.replace(word, USER_TAG)
     return text
 
