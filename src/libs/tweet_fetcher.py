@@ -5,7 +5,7 @@ import os
 
 from twitter import *
 
-WHOLE_AMERICA_COORDINATES = "-60, -27.14, 179.0, 84.0"
+WHOLE_AMERICA_COORDINATES = "-178, -60, -21, 84.0"
 
 
 class TweetsFetcher():
