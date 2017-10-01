@@ -1,1 +1,106 @@
-{"created_at": "Sat Sep 30 16:22:27 +0000 2017", "id": 914163540356997121, "id_str": "914163540356997121", "text": "quer brincar, brinca direito", "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>", "truncated": false, "in_reply_to_status_id": null, "in_reply_to_status_id_str": null, "in_reply_to_user_id": null, "in_reply_to_user_id_str": null, "in_reply_to_screen_name": null, "user": {"id": 2391273247, "id_str": "2391273247", "name": "Milena", "screen_name": "milenaalopess", "location": "t\u00f4 nem a\u00ed ", "url": null, "description": "\u2764\ud83c\udf7b", "translator_type": "none", "protected": false, "verified": false, "followers_count": 665, "friends_count": 159, "listed_count": 0, "favourites_count": 8832, "statuses_count": 9820, "created_at": "Sat Mar 15 16:07:57 +0000 2014", "utc_offset": -10800, "time_zone": "Brasilia", "geo_enabled": true, "lang": "pt", "contributors_enabled": false, "is_translator": false, "profile_background_color": "000000", "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/445285265104326656/gQ1AWjMU.jpeg", "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/445285265104326656/gQ1AWjMU.jpeg", "profile_background_tile": true, "profile_link_color": "111166", "profile_sidebar_border_color": "000000", "profile_sidebar_fill_color": "DDEEF6", "profile_text_color": "333333", "profile_use_background_image": true, "profile_image_url": "http://pbs.twimg.com/profile_images/913141986139545603/V_5ylBoA_normal.jpg", "profile_image_url_https": "https://pbs.twimg.com/profile_images/913141986139545603/V_5ylBoA_normal.jpg", "profile_banner_url": "https://pbs.twimg.com/profile_banners/2391273247/1505834463", "default_profile": false, "default_profile_image": false, "following": null, "follow_request_sent": null, "notifications": null}, "geo": null, "coordinates": null, "place": {"id": "810fad420d6917c8", "url": "https://api.twitter.com/1.1/geo/id/810fad420d6917c8.json", "place_type": "city", "name": "Tramanda\u00ed", "full_name": "Tramanda\u00ed, Brasil", "country_code": "BR", "country": "Brasil", "bounding_box": {"type": "Polygon", "coordinates": [[[-50.348518, -30.098566], [-50.348518, -29.967853], [-50.118866, -29.967853], [-50.118866, -30.098566]]]}, "attributes": {}}, "contributors": null, "is_quote_status": false, "quote_count": 0, "reply_count": 0, "retweet_count": 0, "favorite_count": 0, "entities": {"hashtags": [], "urls": [], "user_mentions": [], "symbols": []}, "favorited": false, "retweeted": false, "filter_level": "low", "lang": "pt", "timestamp_ms": "1506788547015"}
+{
+  "created_at": "Sat Sep 30 16:22:27 +0000 2017",
+  "id": 914163540356997121,
+  "id_str": "914163540356997121",
+  "text": "quer brincar, brinca direito",
+  "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 2391273247,
+    "id_str": "2391273247",
+    "name": "Milena",
+    "screen_name": "milenaalopess",
+    "location": "t\u00f4 nem a\u00ed ",
+    "url": null,
+    "description": "\u2764\ud83c\udf7b",
+    "translator_type": "none",
+    "protected": false,
+    "verified": false,
+    "followers_count": 665,
+    "friends_count": 159,
+    "listed_count": 0,
+    "favourites_count": 8832,
+    "statuses_count": 9820,
+    "created_at": "Sat Mar 15 16:07:57 +0000 2014",
+    "utc_offset": -10800,
+    "time_zone": "Brasilia",
+    "geo_enabled": true,
+    "lang": "pt",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "000000",
+    "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/445285265104326656/gQ1AWjMU.jpeg",
+    "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/445285265104326656/gQ1AWjMU.jpeg",
+    "profile_background_tile": true,
+    "profile_link_color": "111166",
+    "profile_sidebar_border_color": "000000",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/913141986139545603/V_5ylBoA_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/913141986139545603/V_5ylBoA_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/2391273247/1505834463",
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": null,
+    "follow_request_sent": null,
+    "notifications": null
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": {
+    "id": "810fad420d6917c8",
+    "url": "https://api.twitter.com/1.1/geo/id/810fad420d6917c8.json",
+    "place_type": "city",
+    "name": "Tramanda\u00ed",
+    "full_name": "Tramanda\u00ed, Brasil",
+    "country_code": "BR",
+    "country": "Brasil",
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            -50.348518,
+            -30.098566
+          ],
+          [
+            -50.348518,
+            -29.967853
+          ],
+          [
+            -50.118866,
+            -29.967853
+          ],
+          [
+            -50.118866,
+            -30.098566
+          ]
+        ]
+      ]
+    },
+    "attributes": {}
+  },
+  "contributors": null,
+  "is_quote_status": false,
+  "quote_count": 0,
+  "reply_count": 0,
+  "retweet_count": 0,
+  "favorite_count": 0,
+  "entities": {
+    "hashtags": [],
+    "urls": [],
+    "user_mentions": [],
+    "symbols": []
+  },
+  "favorited": false,
+  "retweeted": false,
+  "filter_level": "low",
+  "lang": "pt",
+  "timestamp_ms": "1506788547015"
+}

@@ -1,1 +1,105 @@
-{"created_at": "Sat Sep 30 16:22:25 +0000 2017", "id": 914163535810265089, "id_str": "914163535810265089", "text": "'el cuerno andante' JAJAJAJ\ud83d\ude02", "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>", "truncated": false, "in_reply_to_status_id": null, "in_reply_to_status_id_str": null, "in_reply_to_user_id": null, "in_reply_to_user_id_str": null, "in_reply_to_screen_name": null, "user": {"id": 1018023523, "id_str": "1018023523", "name": "VICKU\ud83c\udf39", "screen_name": "VicctoriaSnchz_", "location": "Buenos Aires, Argentina.", "url": null, "description": "18.\ud83d\udcab| N O P R O M I S E S.", "translator_type": "none", "protected": false, "verified": false, "followers_count": 1324, "friends_count": 955, "listed_count": 0, "favourites_count": 7151, "statuses_count": 33035, "created_at": "Mon Dec 17 18:15:01 +0000 2012", "utc_offset": -10800, "time_zone": "Brasilia", "geo_enabled": true, "lang": "es", "contributors_enabled": false, "is_translator": false, "profile_background_color": "000000", "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/648477023183208448/8hgJjeZC.png", "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/648477023183208448/8hgJjeZC.png", "profile_background_tile": true, "profile_link_color": "E81C4F", "profile_sidebar_border_color": "000000", "profile_sidebar_fill_color": "000000", "profile_text_color": "000000", "profile_use_background_image": true, "profile_image_url": "http://pbs.twimg.com/profile_images/913841414034874368/HFzYmg1Q_normal.jpg", "profile_image_url_https": "https://pbs.twimg.com/profile_images/913841414034874368/HFzYmg1Q_normal.jpg", "default_profile": false, "default_profile_image": false, "following": null, "follow_request_sent": null, "notifications": null}, "geo": null, "coordinates": null, "place": {"id": "014c3ff137d87084", "url": "https://api.twitter.com/1.1/geo/id/014c3ff137d87084.json", "place_type": "city", "name": "Almirante Brown", "full_name": "Almirante Brown, Argentina", "country_code": "AR", "country": "Argentina", "bounding_box": {"type": "Polygon", "coordinates": [[[-58.447767, -34.90991], [-58.447767, -34.754352], [-58.30982, -34.754352], [-58.30982, -34.90991]]]}, "attributes": {}}, "contributors": null, "is_quote_status": false, "quote_count": 0, "reply_count": 0, "retweet_count": 0, "favorite_count": 0, "entities": {"hashtags": [], "urls": [], "user_mentions": [], "symbols": []}, "favorited": false, "retweeted": false, "filter_level": "low", "lang": "es", "timestamp_ms": "1506788545931"}
+{
+  "created_at": "Sat Sep 30 16:22:25 +0000 2017",
+  "id": 914163535810265089,
+  "id_str": "914163535810265089",
+  "text": "'el cuerno andante' JAJAJAJ\ud83d\ude02",
+  "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 1018023523,
+    "id_str": "1018023523",
+    "name": "VICKU\ud83c\udf39",
+    "screen_name": "VicctoriaSnchz_",
+    "location": "Buenos Aires, Argentina.",
+    "url": null,
+    "description": "18.\ud83d\udcab| N O P R O M I S E S.",
+    "translator_type": "none",
+    "protected": false,
+    "verified": false,
+    "followers_count": 1324,
+    "friends_count": 955,
+    "listed_count": 0,
+    "favourites_count": 7151,
+    "statuses_count": 33035,
+    "created_at": "Mon Dec 17 18:15:01 +0000 2012",
+    "utc_offset": -10800,
+    "time_zone": "Brasilia",
+    "geo_enabled": true,
+    "lang": "es",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "000000",
+    "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/648477023183208448/8hgJjeZC.png",
+    "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/648477023183208448/8hgJjeZC.png",
+    "profile_background_tile": true,
+    "profile_link_color": "E81C4F",
+    "profile_sidebar_border_color": "000000",
+    "profile_sidebar_fill_color": "000000",
+    "profile_text_color": "000000",
+    "profile_use_background_image": true,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/913841414034874368/HFzYmg1Q_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/913841414034874368/HFzYmg1Q_normal.jpg",
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": null,
+    "follow_request_sent": null,
+    "notifications": null
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": {
+    "id": "014c3ff137d87084",
+    "url": "https://api.twitter.com/1.1/geo/id/014c3ff137d87084.json",
+    "place_type": "city",
+    "name": "Almirante Brown",
+    "full_name": "Almirante Brown, Argentina",
+    "country_code": "AR",
+    "country": "Argentina",
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            -58.447767,
+            -34.90991
+          ],
+          [
+            -58.447767,
+            -34.754352
+          ],
+          [
+            -58.30982,
+            -34.754352
+          ],
+          [
+            -58.30982,
+            -34.90991
+          ]
+        ]
+      ]
+    },
+    "attributes": {}
+  },
+  "contributors": null,
+  "is_quote_status": false,
+  "quote_count": 0,
+  "reply_count": 0,
+  "retweet_count": 0,
+  "favorite_count": 0,
+  "entities": {
+    "hashtags": [],
+    "urls": [],
+    "user_mentions": [],
+    "symbols": []
+  },
+  "favorited": false,
+  "retweeted": false,
+  "filter_level": "low",
+  "lang": "es",
+  "timestamp_ms": "1506788545931"
+}

@@ -1,1 +1,204 @@
-{"created_at": "Sun Oct 01 00:09:19 +0000 2017", "id": 914281031435513861, "id_str": "914281031435513861", "text": "6\u20e3!\n\n#GoArmy #AHF https://t.co/Rpru2YXQrP", "display_text_range": [0, 17], "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>", "truncated": false, "in_reply_to_status_id": null, "in_reply_to_status_id_str": null, "in_reply_to_user_id": null, "in_reply_to_user_id_str": null, "in_reply_to_screen_name": null, "user": {"id": 370683759, "id_str": "370683759", "name": "Army WP Hockey", "screen_name": "ArmyWP_Hockey", "location": "West Point, NY", "url": "http://www.goarmywestpoint.com", "description": "The Official Twitter account of @GoArmyWestPoint Hockey. #GoArmy", "translator_type": "none", "protected": false, "verified": false, "followers_count": 4663, "friends_count": 278, "listed_count": 101, "favourites_count": 998, "statuses_count": 8974, "created_at": "Fri Sep 09 13:09:59 +0000 2011", "utc_offset": -14400, "time_zone": "Eastern Time (US & Canada)", "geo_enabled": true, "lang": "en", "contributors_enabled": false, "is_translator": false, "profile_background_color": "131516", "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/587753841170321409/uzv-bWHq.jpg", "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/587753841170321409/uzv-bWHq.jpg", "profile_background_tile": false, "profile_link_color": "009999", "profile_sidebar_border_color": "FFFFFF", "profile_sidebar_fill_color": "F3F3F3", "profile_text_color": "333333", "profile_use_background_image": true, "profile_image_url": "http://pbs.twimg.com/profile_images/875420082054234114/jZHE0w6j_normal.jpg", "profile_image_url_https": "https://pbs.twimg.com/profile_images/875420082054234114/jZHE0w6j_normal.jpg", "profile_banner_url": "https://pbs.twimg.com/profile_banners/370683759/1485891911", "default_profile": false, "default_profile_image": false, "following": null, "follow_request_sent": null, "notifications": null}, "geo": null, "coordinates": null, "place": {"id": "94965b2c45386f87", "url": "https://api.twitter.com/1.1/geo/id/94965b2c45386f87.json", "place_type": "admin", "name": "New York", "full_name": "New York, USA", "country_code": "US", "country": "United States", "bounding_box": {"type": "Polygon", "coordinates": [[[-79.76259, 40.477383], [-79.76259, 45.015851], [-71.777492, 45.015851], [-71.777492, 40.477383]]]}, "attributes": {}}, "contributors": null, "is_quote_status": false, "quote_count": 0, "reply_count": 0, "retweet_count": 0, "favorite_count": 0, "entities": {"hashtags": [{"text": "GoArmy", "indices": [5, 12]}, {"text": "AHF", "indices": [13, 17]}], "urls": [], "user_mentions": [], "symbols": [], "media": [{"id": 914281015903895552, "id_str": "914281015903895552", "indices": [18, 41], "media_url": "http://pbs.twimg.com/media/DLAtvWnVwAARuvQ.jpg", "media_url_https": "https://pbs.twimg.com/media/DLAtvWnVwAARuvQ.jpg", "url": "https://t.co/Rpru2YXQrP", "display_url": "pic.twitter.com/Rpru2YXQrP", "expanded_url": "https://twitter.com/ArmyWP_Hockey/status/914281031435513861/photo/1", "type": "photo", "sizes": {"small": {"w": 680, "h": 383, "resize": "fit"}, "medium": {"w": 1200, "h": 675, "resize": "fit"}, "large": {"w": 1280, "h": 720, "resize": "fit"}, "thumb": {"w": 150, "h": 150, "resize": "crop"}}}]}, "extended_entities": {"media": [{"id": 914281015903895552, "id_str": "914281015903895552", "indices": [18, 41], "media_url": "http://pbs.twimg.com/media/DLAtvWnVwAARuvQ.jpg", "media_url_https": "https://pbs.twimg.com/media/DLAtvWnVwAARuvQ.jpg", "url": "https://t.co/Rpru2YXQrP", "display_url": "pic.twitter.com/Rpru2YXQrP", "expanded_url": "https://twitter.com/ArmyWP_Hockey/status/914281031435513861/photo/1", "type": "photo", "sizes": {"small": {"w": 680, "h": 383, "resize": "fit"}, "medium": {"w": 1200, "h": 675, "resize": "fit"}, "large": {"w": 1280, "h": 720, "resize": "fit"}, "thumb": {"w": 150, "h": 150, "resize": "crop"}}}]}, "favorited": false, "retweeted": false, "possibly_sensitive": false, "filter_level": "low", "lang": "und", "timestamp_ms": "1506816559071"}
+{
+  "created_at": "Sun Oct 01 00:09:19 +0000 2017",
+  "id": 914281031435513861,
+  "id_str": "914281031435513861",
+  "text": "6\u20e3!\n\n#GoArmy #AHF https://t.co/Rpru2YXQrP",
+  "display_text_range": [
+    0,
+    17
+  ],
+  "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 370683759,
+    "id_str": "370683759",
+    "name": "Army WP Hockey",
+    "screen_name": "ArmyWP_Hockey",
+    "location": "West Point, NY",
+    "url": "http://www.goarmywestpoint.com",
+    "description": "The Official Twitter account of @GoArmyWestPoint Hockey. #GoArmy",
+    "translator_type": "none",
+    "protected": false,
+    "verified": false,
+    "followers_count": 4663,
+    "friends_count": 278,
+    "listed_count": 101,
+    "favourites_count": 998,
+    "statuses_count": 8974,
+    "created_at": "Fri Sep 09 13:09:59 +0000 2011",
+    "utc_offset": -14400,
+    "time_zone": "Eastern Time (US & Canada)",
+    "geo_enabled": true,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "131516",
+    "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/587753841170321409/uzv-bWHq.jpg",
+    "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/587753841170321409/uzv-bWHq.jpg",
+    "profile_background_tile": false,
+    "profile_link_color": "009999",
+    "profile_sidebar_border_color": "FFFFFF",
+    "profile_sidebar_fill_color": "F3F3F3",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/875420082054234114/jZHE0w6j_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/875420082054234114/jZHE0w6j_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/370683759/1485891911",
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": null,
+    "follow_request_sent": null,
+    "notifications": null
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": {
+    "id": "94965b2c45386f87",
+    "url": "https://api.twitter.com/1.1/geo/id/94965b2c45386f87.json",
+    "place_type": "admin",
+    "name": "New York",
+    "full_name": "New York, USA",
+    "country_code": "US",
+    "country": "United States",
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            -79.76259,
+            40.477383
+          ],
+          [
+            -79.76259,
+            45.015851
+          ],
+          [
+            -71.777492,
+            45.015851
+          ],
+          [
+            -71.777492,
+            40.477383
+          ]
+        ]
+      ]
+    },
+    "attributes": {}
+  },
+  "contributors": null,
+  "is_quote_status": false,
+  "quote_count": 0,
+  "reply_count": 0,
+  "retweet_count": 0,
+  "favorite_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "GoArmy",
+        "indices": [
+          5,
+          12
+        ]
+      },
+      {
+        "text": "AHF",
+        "indices": [
+          13,
+          17
+        ]
+      }
+    ],
+    "urls": [],
+    "user_mentions": [],
+    "symbols": [],
+    "media": [
+      {
+        "id": 914281015903895552,
+        "id_str": "914281015903895552",
+        "indices": [
+          18,
+          41
+        ],
+        "media_url": "http://pbs.twimg.com/media/DLAtvWnVwAARuvQ.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/DLAtvWnVwAARuvQ.jpg",
+        "url": "https://t.co/Rpru2YXQrP",
+        "display_url": "pic.twitter.com/Rpru2YXQrP",
+        "expanded_url": "https://twitter.com/ArmyWP_Hockey/status/914281031435513861/photo/1",
+        "type": "photo",
+        "sizes": {
+          "small": {
+            "w": 680,
+            "h": 383,
+            "resize": "fit"
+          },
+          "medium": {
+            "w": 1200,
+            "h": 675,
+            "resize": "fit"
+          },
+          "large": {
+            "w": 1280,
+            "h": 720,
+            "resize": "fit"
+          },
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          }
+        }
+      }
+    ]
+  },
+  "extended_entities": {
+    "media": [
+      {
+        "id": 914281015903895552,
+        "id_str": "914281015903895552",
+        "indices": [
+          18,
+          41
+        ],
+        "media_url": "http://pbs.twimg.com/media/DLAtvWnVwAARuvQ.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/DLAtvWnVwAARuvQ.jpg",
+        "url": "https://t.co/Rpru2YXQrP",
+        "display_url": "pic.twitter.com/Rpru2YXQrP",
+        "expanded_url": "https://twitter.com/ArmyWP_Hockey/status/914281031435513861/photo/1",
+        "type": "photo",
+        "sizes": {
+          "small": {
+            "w": 680,
+            "h": 383,
+            "resize": "fit"
+          },
+          "medium": {
+            "w": 1200,
+            "h": 675,
+            "resize": "fit"
+          },
+          "large": {
+            "w": 1280,
+            "h": 720,
+            "resize": "fit"
+          },
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          }
+        }
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false,
+  "filter_level": "low",
+  "lang": "und",
+  "timestamp_ms": "1506816559071"
+}

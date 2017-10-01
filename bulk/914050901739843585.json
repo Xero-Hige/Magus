@@ -1,1 +1,106 @@
-{"created_at": "Sat Sep 30 08:54:51 +0000 2017", "id": 914050901739843585, "id_str": "914050901739843585", "text": "hahah this is fun", "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>", "truncated": false, "in_reply_to_status_id": null, "in_reply_to_status_id_str": null, "in_reply_to_user_id": null, "in_reply_to_user_id_str": null, "in_reply_to_screen_name": null, "user": {"id": 230562362, "id_str": "230562362", "name": "Angelica\u2728", "screen_name": "angieolivaresss", "location": null, "url": null, "description": "sweetest Aquarius you'll ever meet", "translator_type": "none", "protected": false, "verified": false, "followers_count": 1443, "friends_count": 781, "listed_count": 1, "favourites_count": 19800, "statuses_count": 43046, "created_at": "Sun Dec 26 00:11:48 +0000 2010", "utc_offset": -25200, "time_zone": "Arizona", "geo_enabled": true, "lang": "en", "contributors_enabled": false, "is_translator": false, "profile_background_color": "C0DEED", "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000167959887/LA1M3o7q.jpeg", "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000167959887/LA1M3o7q.jpeg", "profile_background_tile": true, "profile_link_color": "0084B4", "profile_sidebar_border_color": "FFFFFF", "profile_sidebar_fill_color": "DDEEF6", "profile_text_color": "333333", "profile_use_background_image": true, "profile_image_url": "http://pbs.twimg.com/profile_images/909325403780554753/6bRW_IW-_normal.jpg", "profile_image_url_https": "https://pbs.twimg.com/profile_images/909325403780554753/6bRW_IW-_normal.jpg", "profile_banner_url": "https://pbs.twimg.com/profile_banners/230562362/1500798892", "default_profile": false, "default_profile_image": false, "following": null, "follow_request_sent": null, "notifications": null}, "geo": null, "coordinates": null, "place": {"id": "07dccb89e8f25a8f", "url": "https://api.twitter.com/1.1/geo/id/07dccb89e8f25a8f.json", "place_type": "city", "name": "Downey", "full_name": "Downey, CA", "country_code": "US", "country": "United States", "bounding_box": {"type": "Polygon", "coordinates": [[[-118.170429, 33.90245], [-118.170429, 33.972897], [-118.090423, 33.972897], [-118.090423, 33.90245]]]}, "attributes": {}}, "contributors": null, "is_quote_status": false, "quote_count": 0, "reply_count": 0, "retweet_count": 0, "favorite_count": 0, "entities": {"hashtags": [], "urls": [], "user_mentions": [], "symbols": []}, "favorited": false, "retweeted": false, "filter_level": "low", "lang": "en", "timestamp_ms": "1506761691876"}
+{
+  "created_at": "Sat Sep 30 08:54:51 +0000 2017",
+  "id": 914050901739843585,
+  "id_str": "914050901739843585",
+  "text": "hahah this is fun",
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 230562362,
+    "id_str": "230562362",
+    "name": "Angelica\u2728",
+    "screen_name": "angieolivaresss",
+    "location": null,
+    "url": null,
+    "description": "sweetest Aquarius you'll ever meet",
+    "translator_type": "none",
+    "protected": false,
+    "verified": false,
+    "followers_count": 1443,
+    "friends_count": 781,
+    "listed_count": 1,
+    "favourites_count": 19800,
+    "statuses_count": 43046,
+    "created_at": "Sun Dec 26 00:11:48 +0000 2010",
+    "utc_offset": -25200,
+    "time_zone": "Arizona",
+    "geo_enabled": true,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "C0DEED",
+    "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000167959887/LA1M3o7q.jpeg",
+    "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000167959887/LA1M3o7q.jpeg",
+    "profile_background_tile": true,
+    "profile_link_color": "0084B4",
+    "profile_sidebar_border_color": "FFFFFF",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/909325403780554753/6bRW_IW-_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/909325403780554753/6bRW_IW-_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/230562362/1500798892",
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": null,
+    "follow_request_sent": null,
+    "notifications": null
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": {
+    "id": "07dccb89e8f25a8f",
+    "url": "https://api.twitter.com/1.1/geo/id/07dccb89e8f25a8f.json",
+    "place_type": "city",
+    "name": "Downey",
+    "full_name": "Downey, CA",
+    "country_code": "US",
+    "country": "United States",
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            -118.170429,
+            33.90245
+          ],
+          [
+            -118.170429,
+            33.972897
+          ],
+          [
+            -118.090423,
+            33.972897
+          ],
+          [
+            -118.090423,
+            33.90245
+          ]
+        ]
+      ]
+    },
+    "attributes": {}
+  },
+  "contributors": null,
+  "is_quote_status": false,
+  "quote_count": 0,
+  "reply_count": 0,
+  "retweet_count": 0,
+  "favorite_count": 0,
+  "entities": {
+    "hashtags": [],
+    "urls": [],
+    "user_mentions": [],
+    "symbols": []
+  },
+  "favorited": false,
+  "retweeted": false,
+  "filter_level": "low",
+  "lang": "en",
+  "timestamp_ms": "1506761691876"
+}

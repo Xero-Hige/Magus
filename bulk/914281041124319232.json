@@ -1,1 +1,117 @@
-{"created_at": "Sun Oct 01 00:09:21 +0000 2017", "id": 914281041124319232, "id_str": "914281041124319232", "text": "Manda pra mim https://t.co/hnKL9QVwXk", "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>", "truncated": false, "in_reply_to_status_id": null, "in_reply_to_status_id_str": null, "in_reply_to_user_id": null, "in_reply_to_user_id_str": null, "in_reply_to_screen_name": null, "user": {"id": 2217910026, "id_str": "2217910026", "name": "Lui$", "screen_name": "BennertzLuis", "location": "Nao interessa comedia", "url": null, "description": "y14//  EGO", "translator_type": "none", "protected": false, "verified": false, "followers_count": 196, "friends_count": 126, "listed_count": 0, "favourites_count": 3800, "statuses_count": 6600, "created_at": "Wed Nov 27 14:44:04 +0000 2013", "utc_offset": null, "time_zone": null, "geo_enabled": true, "lang": "pt", "contributors_enabled": false, "is_translator": false, "profile_background_color": "000000", "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png", "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", "profile_background_tile": false, "profile_link_color": "7FDBB6", "profile_sidebar_border_color": "000000", "profile_sidebar_fill_color": "000000", "profile_text_color": "000000", "profile_use_background_image": false, "profile_image_url": "http://pbs.twimg.com/profile_images/912069800423301121/y7BQn8CE_normal.jpg", "profile_image_url_https": "https://pbs.twimg.com/profile_images/912069800423301121/y7BQn8CE_normal.jpg", "profile_banner_url": "https://pbs.twimg.com/profile_banners/2217910026/1505587509", "default_profile": false, "default_profile_image": false, "following": null, "follow_request_sent": null, "notifications": null}, "geo": null, "coordinates": null, "place": {"id": "63968ec77ab62d12", "url": "https://api.twitter.com/1.1/geo/id/63968ec77ab62d12.json", "place_type": "city", "name": "Blumenau", "full_name": "Blumenau, Brasil", "country_code": "BR", "country": "Brasil", "bounding_box": {"type": "Polygon", "coordinates": [[[-49.206993, -27.132536], [-49.206993, -26.613085], [-49.01226, -26.613085], [-49.01226, -27.132536]]]}, "attributes": {}}, "contributors": null, "is_quote_status": false, "quote_count": 0, "reply_count": 0, "retweet_count": 0, "favorite_count": 0, "entities": {"hashtags": [], "urls": [{"url": "https://t.co/hnKL9QVwXk", "expanded_url": "https://curiouscat.me/Bennertz", "display_url": "curiouscat.me/Bennertz", "indices": [14, 37]}], "user_mentions": [], "symbols": []}, "favorited": false, "retweeted": false, "possibly_sensitive": false, "filter_level": "low", "lang": "pt", "timestamp_ms": "1506816561381"}
+{
+  "created_at": "Sun Oct 01 00:09:21 +0000 2017",
+  "id": 914281041124319232,
+  "id_str": "914281041124319232",
+  "text": "Manda pra mim https://t.co/hnKL9QVwXk",
+  "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 2217910026,
+    "id_str": "2217910026",
+    "name": "Lui$",
+    "screen_name": "BennertzLuis",
+    "location": "Nao interessa comedia",
+    "url": null,
+    "description": "y14//  EGO",
+    "translator_type": "none",
+    "protected": false,
+    "verified": false,
+    "followers_count": 196,
+    "friends_count": 126,
+    "listed_count": 0,
+    "favourites_count": 3800,
+    "statuses_count": 6600,
+    "created_at": "Wed Nov 27 14:44:04 +0000 2013",
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": true,
+    "lang": "pt",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "000000",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": false,
+    "profile_link_color": "7FDBB6",
+    "profile_sidebar_border_color": "000000",
+    "profile_sidebar_fill_color": "000000",
+    "profile_text_color": "000000",
+    "profile_use_background_image": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/912069800423301121/y7BQn8CE_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/912069800423301121/y7BQn8CE_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/2217910026/1505587509",
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": null,
+    "follow_request_sent": null,
+    "notifications": null
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": {
+    "id": "63968ec77ab62d12",
+    "url": "https://api.twitter.com/1.1/geo/id/63968ec77ab62d12.json",
+    "place_type": "city",
+    "name": "Blumenau",
+    "full_name": "Blumenau, Brasil",
+    "country_code": "BR",
+    "country": "Brasil",
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            -49.206993,
+            -27.132536
+          ],
+          [
+            -49.206993,
+            -26.613085
+          ],
+          [
+            -49.01226,
+            -26.613085
+          ],
+          [
+            -49.01226,
+            -27.132536
+          ]
+        ]
+      ]
+    },
+    "attributes": {}
+  },
+  "contributors": null,
+  "is_quote_status": false,
+  "quote_count": 0,
+  "reply_count": 0,
+  "retweet_count": 0,
+  "favorite_count": 0,
+  "entities": {
+    "hashtags": [],
+    "urls": [
+      {
+        "url": "https://t.co/hnKL9QVwXk",
+        "expanded_url": "https://curiouscat.me/Bennertz",
+        "display_url": "curiouscat.me/Bennertz",
+        "indices": [
+          14,
+          37
+        ]
+      }
+    ],
+    "user_mentions": [],
+    "symbols": []
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false,
+  "filter_level": "low",
+  "lang": "pt",
+  "timestamp_ms": "1506816561381"
+}

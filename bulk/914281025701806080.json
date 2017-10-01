@@ -1,1 +1,117 @@
-{"created_at": "Sun Oct 01 00:09:17 +0000 2017", "id": 914281025701806080, "id_str": "914281025701806080", "text": "@edmcrf  linda \u2764\ufe0f", "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>", "truncated": false, "in_reply_to_status_id": 914095759322214401, "in_reply_to_status_id_str": "914095759322214401", "in_reply_to_user_id": 3300750964, "in_reply_to_user_id_str": "3300750964", "in_reply_to_screen_name": "22Orlandojr22", "user": {"id": 3300750964, "id_str": "3300750964", "name": "Leroy San\u00e9", "screen_name": "22Orlandojr22", "location": "Rj, Engenheiro Pedreira Japeri", "url": null, "description": "\ud83d\udd95", "translator_type": "none", "protected": false, "verified": false, "followers_count": 2815, "friends_count": 3194, "listed_count": 5, "favourites_count": 34848, "statuses_count": 47325, "created_at": "Wed May 27 18:08:17 +0000 2015", "utc_offset": null, "time_zone": null, "geo_enabled": true, "lang": "pt", "contributors_enabled": false, "is_translator": false, "profile_background_color": "C0DEED", "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png", "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", "profile_background_tile": false, "profile_link_color": "1DA1F2", "profile_sidebar_border_color": "C0DEED", "profile_sidebar_fill_color": "DDEEF6", "profile_text_color": "333333", "profile_use_background_image": true, "profile_image_url": "http://pbs.twimg.com/profile_images/897042637294886912/ZERwgdkc_normal.jpg", "profile_image_url_https": "https://pbs.twimg.com/profile_images/897042637294886912/ZERwgdkc_normal.jpg", "profile_banner_url": "https://pbs.twimg.com/profile_banners/3300750964/1506659851", "default_profile": true, "default_profile_image": false, "following": null, "follow_request_sent": null, "notifications": null}, "geo": null, "coordinates": null, "place": {"id": "299be9e48d05ecaf", "url": "https://api.twitter.com/1.1/geo/id/299be9e48d05ecaf.json", "place_type": "city", "name": "Japeri", "full_name": "Japeri, Brasil", "country_code": "BR", "country": "Brasil", "bounding_box": {"type": "Polygon", "coordinates": [[[-43.671283, -22.722685], [-43.671283, -22.612245], [-43.53394, -22.612245], [-43.53394, -22.722685]]]}, "attributes": {}}, "contributors": null, "is_quote_status": false, "quote_count": 0, "reply_count": 0, "retweet_count": 0, "favorite_count": 0, "entities": {"hashtags": [], "urls": [], "user_mentions": [{"screen_name": "edmcrf", "name": "emily", "id": 773149832986894336, "id_str": "773149832986894336", "indices": [0, 7]}], "symbols": []}, "favorited": false, "retweeted": false, "filter_level": "low", "lang": "pt", "timestamp_ms": "1506816557704"}
+{
+  "created_at": "Sun Oct 01 00:09:17 +0000 2017",
+  "id": 914281025701806080,
+  "id_str": "914281025701806080",
+  "text": "@edmcrf  linda \u2764\ufe0f",
+  "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+  "truncated": false,
+  "in_reply_to_status_id": 914095759322214401,
+  "in_reply_to_status_id_str": "914095759322214401",
+  "in_reply_to_user_id": 3300750964,
+  "in_reply_to_user_id_str": "3300750964",
+  "in_reply_to_screen_name": "22Orlandojr22",
+  "user": {
+    "id": 3300750964,
+    "id_str": "3300750964",
+    "name": "Leroy San\u00e9",
+    "screen_name": "22Orlandojr22",
+    "location": "Rj, Engenheiro Pedreira Japeri",
+    "url": null,
+    "description": "\ud83d\udd95",
+    "translator_type": "none",
+    "protected": false,
+    "verified": false,
+    "followers_count": 2815,
+    "friends_count": 3194,
+    "listed_count": 5,
+    "favourites_count": 34848,
+    "statuses_count": 47325,
+    "created_at": "Wed May 27 18:08:17 +0000 2015",
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": true,
+    "lang": "pt",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "C0DEED",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": false,
+    "profile_link_color": "1DA1F2",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/897042637294886912/ZERwgdkc_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/897042637294886912/ZERwgdkc_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/3300750964/1506659851",
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": null,
+    "follow_request_sent": null,
+    "notifications": null
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": {
+    "id": "299be9e48d05ecaf",
+    "url": "https://api.twitter.com/1.1/geo/id/299be9e48d05ecaf.json",
+    "place_type": "city",
+    "name": "Japeri",
+    "full_name": "Japeri, Brasil",
+    "country_code": "BR",
+    "country": "Brasil",
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            -43.671283,
+            -22.722685
+          ],
+          [
+            -43.671283,
+            -22.612245
+          ],
+          [
+            -43.53394,
+            -22.612245
+          ],
+          [
+            -43.53394,
+            -22.722685
+          ]
+        ]
+      ]
+    },
+    "attributes": {}
+  },
+  "contributors": null,
+  "is_quote_status": false,
+  "quote_count": 0,
+  "reply_count": 0,
+  "retweet_count": 0,
+  "favorite_count": 0,
+  "entities": {
+    "hashtags": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "screen_name": "edmcrf",
+        "name": "emily",
+        "id": 773149832986894336,
+        "id_str": "773149832986894336",
+        "indices": [
+          0,
+          7
+        ]
+      }
+    ],
+    "symbols": []
+  },
+  "favorited": false,
+  "retweeted": false,
+  "filter_level": "low",
+  "lang": "pt",
+  "timestamp_ms": "1506816557704"
+}
