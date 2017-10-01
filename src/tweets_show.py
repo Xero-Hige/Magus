@@ -351,6 +351,9 @@ def get_tweets_status():
             if not str(tweet_id) in demo_tweets and not str(tweet_id) in bulk_tweets:
                 continue
 
+            if _tweet.totals < 3:
+                continue
+
             emotions = get_emotions_list(_tweet)
 
             results = [(get_sentiment(emotions[i], emotions[j]), (emotions[i][0] + emotions[j][0]) / 2)
