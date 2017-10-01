@@ -1,3 +1,9 @@
+# Groups
+SAD = "sad"
+ANGRY = "angry"
+HAPPY = "happy"
+
+# Sentiments
 CONFLICT_SA = "conflict_sa"
 CONFLICT_FA = "conflict_fa"
 CONFLICT_TD = "conflict_td"
@@ -24,6 +30,8 @@ REMORSE = "remorse"
 DISAPPOINTMENT = "disappointment"
 ALARM = "alarm"
 SUBMISSION = "submission"
+
+# Emotions
 NONE = "none"
 ANTICIPATION = "anticipation"
 ANGER = "anger"
@@ -64,6 +72,41 @@ DYADS = {
     (FEAR, ANGER): CONFLICT_FA,
     (SURPRISE, ANTICIPATION): CONFLICT_SA,
     (NONE, NONE): NONE
+}
+
+GROUPS = {
+    LOVE: HAPPY,
+    OPTIMISM: HAPPY,
+    PRIDE: HAPPY,
+    DELIGHT: HAPPY,
+
+    ALARM: ANGRY,
+    CONTEMPT: ANGRY,
+    AGGRESSION: ANGRY,
+    ENVY: ANGRY,
+    CYNISM: ANGRY,
+    OUTRAGE: ANGRY,
+    ANXIETY: ANGRY,
+
+    DISAPPOINTMENT: SAD,
+    REMORSE: SAD,
+    GUILT: SAD,
+    DESPAIR: SAD,
+    FATALISM: SAD,
+    SENTIMENTALITY: SAD,
+    SHAME: SAD,
+    PESSIMISM: SAD,
+
+    CONFLICT_SA: NONE,
+    CONFLICT_FA: NONE,
+    CONFLICT_TD: NONE,
+    CONFLICT_JS: NONE,
+    DOMINANCE: NONE,
+    MORBIDNESS: NONE,
+    SUBMISSION: NONE,
+    CURIOSITY: NONE,
+
+    NONE: NONE
 }
 
 
