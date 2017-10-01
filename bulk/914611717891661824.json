@@ -1,1 +1,117 @@
-{"created_at": "Sun Oct 01 22:03:20 +0000 2017", "id": 914611717891661824, "id_str": "914611717891661824", "text": "Salina KS Sun Oct 1st PM Forecast: TONIGHT Chance Of T-Storm Lo 69 MONDAY Chance Of T-Storm Hi 89", "source": "<a href=\"http://towntweet.com/\" rel=\"nofollow\">TownTweet</a>", "truncated": false, "in_reply_to_status_id": null, "in_reply_to_status_id_str": null, "in_reply_to_user_id": null, "in_reply_to_user_id_str": null, "in_reply_to_screen_name": null, "user": {"id": 338095916, "id_str": "338095916", "name": "Salina, Kansas", "screen_name": "Salina_Kansas", "location": "Salina, KS", "url": "http://countykansas.com/saline/salina/", "description": "Follow us for the latest news, weather, events and emergency notices for Salina, KS", "translator_type": "none", "protected": false, "verified": false, "followers_count": 146, "friends_count": 0, "listed_count": 3, "favourites_count": 0, "statuses_count": 2035, "created_at": "Tue Jul 19 02:30:42 +0000 2011", "utc_offset": -18000, "time_zone": "Central Time (US & Canada)", "geo_enabled": true, "lang": "en", "contributors_enabled": false, "is_translator": false, "profile_background_color": "C0DEED", "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png", "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", "profile_background_tile": false, "profile_link_color": "1DA1F2", "profile_sidebar_border_color": "C0DEED", "profile_sidebar_fill_color": "DDEEF6", "profile_text_color": "333333", "profile_use_background_image": true, "profile_image_url": "http://pbs.twimg.com/profile_images/1476753260/countykansas.com_normal.jpg", "profile_image_url_https": "https://pbs.twimg.com/profile_images/1476753260/countykansas.com_normal.jpg", "default_profile": true, "default_profile_image": false, "following": null, "follow_request_sent": null, "notifications": null}, "geo": {"type": "Point", "coordinates": [38.8424, -97.6193]}, "coordinates": {"type": "Point", "coordinates": [-97.6193, 38.8424]}, "place": {"id": "e7bae49f1ac7f22e", "url": "https://api.twitter.com/1.1/geo/id/e7bae49f1ac7f22e.json", "place_type": "city", "name": "Salina", "full_name": "Salina, KS", "country_code": "US", "country": "United States", "bounding_box": {"type": "Polygon", "coordinates": [[[-97.676631, 38.768801], [-97.676631, 38.885242], [-97.557719, 38.885242], [-97.557719, 38.768801]]]}, "attributes": {}}, "contributors": null, "is_quote_status": false, "quote_count": 0, "reply_count": 0, "retweet_count": 0, "favorite_count": 0, "entities": {"hashtags": [], "urls": [], "user_mentions": [], "symbols": []}, "favorited": false, "retweeted": false, "filter_level": "low", "lang": "en", "timestamp_ms": "1506895400866"}
+{
+  "created_at": "Sun Oct 01 22:03:20 +0000 2017",
+  "id": 914611717891661824,
+  "id_str": "914611717891661824",
+  "text": "Salina KS Sun Oct 1st PM Forecast: TONIGHT Chance Of T-Storm Lo 69 MONDAY Chance Of T-Storm Hi 89",
+  "source": "<a href=\"http://towntweet.com/\" rel=\"nofollow\">TownTweet</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 338095916,
+    "id_str": "338095916",
+    "name": "Salina, Kansas",
+    "screen_name": "Salina_Kansas",
+    "location": "Salina, KS",
+    "url": "http://countykansas.com/saline/salina/",
+    "description": "Follow us for the latest news, weather, events and emergency notices for Salina, KS",
+    "translator_type": "none",
+    "protected": false,
+    "verified": false,
+    "followers_count": 146,
+    "friends_count": 0,
+    "listed_count": 3,
+    "favourites_count": 0,
+    "statuses_count": 2035,
+    "created_at": "Tue Jul 19 02:30:42 +0000 2011",
+    "utc_offset": -18000,
+    "time_zone": "Central Time (US & Canada)",
+    "geo_enabled": true,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "C0DEED",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": false,
+    "profile_link_color": "1DA1F2",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1476753260/countykansas.com_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1476753260/countykansas.com_normal.jpg",
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": null,
+    "follow_request_sent": null,
+    "notifications": null
+  },
+  "geo": {
+    "type": "Point",
+    "coordinates": [
+      38.8424,
+      -97.6193
+    ]
+  },
+  "coordinates": {
+    "type": "Point",
+    "coordinates": [
+      -97.6193,
+      38.8424
+    ]
+  },
+  "place": {
+    "id": "e7bae49f1ac7f22e",
+    "url": "https://api.twitter.com/1.1/geo/id/e7bae49f1ac7f22e.json",
+    "place_type": "city",
+    "name": "Salina",
+    "full_name": "Salina, KS",
+    "country_code": "US",
+    "country": "United States",
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            -97.676631,
+            38.768801
+          ],
+          [
+            -97.676631,
+            38.885242
+          ],
+          [
+            -97.557719,
+            38.885242
+          ],
+          [
+            -97.557719,
+            38.768801
+          ]
+        ]
+      ]
+    },
+    "attributes": {}
+  },
+  "contributors": null,
+  "is_quote_status": false,
+  "quote_count": 0,
+  "reply_count": 0,
+  "retweet_count": 0,
+  "favorite_count": 0,
+  "entities": {
+    "hashtags": [],
+    "urls": [],
+    "user_mentions": [],
+    "symbols": []
+  },
+  "favorited": false,
+  "retweeted": false,
+  "filter_level": "low",
+  "lang": "en",
+  "timestamp_ms": "1506895400866"
+}

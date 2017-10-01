@@ -1,1 +1,189 @@
-{"created_at": "Sun Oct 01 01:13:22 +0000 2017", "id": 914297151290855424, "id_str": "914297151290855424", "text": "hey https://t.co/5BYuS1iNOg", "display_text_range": [0, 3], "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>", "truncated": false, "in_reply_to_status_id": null, "in_reply_to_status_id_str": null, "in_reply_to_user_id": null, "in_reply_to_user_id_str": null, "in_reply_to_screen_name": null, "user": {"id": 1054469005, "id_str": "1054469005", "name": "\u00dfaby\u01e5i\u22c6\ud83d\udd4a", "screen_name": "giannaazzaretto", "location": "insta @ giannaazzaretto", "url": null, "description": "\u2022dougie's girl\u2022 @sebastiandoug8", "translator_type": "none", "protected": false, "verified": false, "followers_count": 730, "friends_count": 435, "listed_count": 2, "favourites_count": 10933, "statuses_count": 11247, "created_at": "Wed Jan 02 07:34:44 +0000 2013", "utc_offset": -14400, "time_zone": "Eastern Time (US & Canada)", "geo_enabled": true, "lang": "en", "contributors_enabled": false, "is_translator": false, "profile_background_color": "FCEBB6", "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/477208131861098496/F7a3JVC0.jpeg", "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/477208131861098496/F7a3JVC0.jpeg", "profile_background_tile": true, "profile_link_color": "9266CC", "profile_sidebar_border_color": "FFFFFF", "profile_sidebar_fill_color": "78C0A8", "profile_text_color": "7C149E", "profile_use_background_image": true, "profile_image_url": "http://pbs.twimg.com/profile_images/911786612962594817/3cHW7yXV_normal.jpg", "profile_image_url_https": "https://pbs.twimg.com/profile_images/911786612962594817/3cHW7yXV_normal.jpg", "profile_banner_url": "https://pbs.twimg.com/profile_banners/1054469005/1506058485", "default_profile": false, "default_profile_image": false, "following": null, "follow_request_sent": null, "notifications": null}, "geo": null, "coordinates": null, "place": {"id": "5e80ee08ea361155", "url": "https://api.twitter.com/1.1/geo/id/5e80ee08ea361155.json", "place_type": "city", "name": "Roselle", "full_name": "Roselle, IL", "country_code": "US", "country": "United States", "bounding_box": {"type": "Polygon", "coordinates": [[[-88.124996, 41.949557], [-88.124996, 42.000647], [-88.031515, 42.000647], [-88.031515, 41.949557]]]}, "attributes": {}}, "contributors": null, "is_quote_status": false, "quote_count": 0, "reply_count": 0, "retweet_count": 0, "favorite_count": 0, "entities": {"hashtags": [], "urls": [], "user_mentions": [], "symbols": [], "media": [{"id": 914297124283543552, "id_str": "914297124283543552", "indices": [4, 27], "media_url": "http://pbs.twimg.com/media/DLA8Y_AU8AAW4pv.jpg", "media_url_https": "https://pbs.twimg.com/media/DLA8Y_AU8AAW4pv.jpg", "url": "https://t.co/5BYuS1iNOg", "display_url": "pic.twitter.com/5BYuS1iNOg", "expanded_url": "https://twitter.com/giannaazzaretto/status/914297151290855424/photo/1", "type": "photo", "sizes": {"large": {"w": 749, "h": 1064, "resize": "fit"}, "thumb": {"w": 150, "h": 150, "resize": "crop"}, "small": {"w": 479, "h": 680, "resize": "fit"}, "medium": {"w": 749, "h": 1064, "resize": "fit"}}}]}, "extended_entities": {"media": [{"id": 914297124283543552, "id_str": "914297124283543552", "indices": [4, 27], "media_url": "http://pbs.twimg.com/media/DLA8Y_AU8AAW4pv.jpg", "media_url_https": "https://pbs.twimg.com/media/DLA8Y_AU8AAW4pv.jpg", "url": "https://t.co/5BYuS1iNOg", "display_url": "pic.twitter.com/5BYuS1iNOg", "expanded_url": "https://twitter.com/giannaazzaretto/status/914297151290855424/photo/1", "type": "photo", "sizes": {"large": {"w": 749, "h": 1064, "resize": "fit"}, "thumb": {"w": 150, "h": 150, "resize": "crop"}, "small": {"w": 479, "h": 680, "resize": "fit"}, "medium": {"w": 749, "h": 1064, "resize": "fit"}}}]}, "favorited": false, "retweeted": false, "possibly_sensitive": false, "filter_level": "low", "lang": "und", "timestamp_ms": "1506820402344"}
+{
+  "created_at": "Sun Oct 01 01:13:22 +0000 2017",
+  "id": 914297151290855424,
+  "id_str": "914297151290855424",
+  "text": "hey https://t.co/5BYuS1iNOg",
+  "display_text_range": [
+    0,
+    3
+  ],
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 1054469005,
+    "id_str": "1054469005",
+    "name": "\u00dfaby\u01e5i\u22c6\ud83d\udd4a",
+    "screen_name": "giannaazzaretto",
+    "location": "insta @ giannaazzaretto",
+    "url": null,
+    "description": "\u2022dougie's girl\u2022 @sebastiandoug8",
+    "translator_type": "none",
+    "protected": false,
+    "verified": false,
+    "followers_count": 730,
+    "friends_count": 435,
+    "listed_count": 2,
+    "favourites_count": 10933,
+    "statuses_count": 11247,
+    "created_at": "Wed Jan 02 07:34:44 +0000 2013",
+    "utc_offset": -14400,
+    "time_zone": "Eastern Time (US & Canada)",
+    "geo_enabled": true,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "FCEBB6",
+    "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/477208131861098496/F7a3JVC0.jpeg",
+    "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/477208131861098496/F7a3JVC0.jpeg",
+    "profile_background_tile": true,
+    "profile_link_color": "9266CC",
+    "profile_sidebar_border_color": "FFFFFF",
+    "profile_sidebar_fill_color": "78C0A8",
+    "profile_text_color": "7C149E",
+    "profile_use_background_image": true,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/911786612962594817/3cHW7yXV_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/911786612962594817/3cHW7yXV_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1054469005/1506058485",
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": null,
+    "follow_request_sent": null,
+    "notifications": null
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": {
+    "id": "5e80ee08ea361155",
+    "url": "https://api.twitter.com/1.1/geo/id/5e80ee08ea361155.json",
+    "place_type": "city",
+    "name": "Roselle",
+    "full_name": "Roselle, IL",
+    "country_code": "US",
+    "country": "United States",
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            -88.124996,
+            41.949557
+          ],
+          [
+            -88.124996,
+            42.000647
+          ],
+          [
+            -88.031515,
+            42.000647
+          ],
+          [
+            -88.031515,
+            41.949557
+          ]
+        ]
+      ]
+    },
+    "attributes": {}
+  },
+  "contributors": null,
+  "is_quote_status": false,
+  "quote_count": 0,
+  "reply_count": 0,
+  "retweet_count": 0,
+  "favorite_count": 0,
+  "entities": {
+    "hashtags": [],
+    "urls": [],
+    "user_mentions": [],
+    "symbols": [],
+    "media": [
+      {
+        "id": 914297124283543552,
+        "id_str": "914297124283543552",
+        "indices": [
+          4,
+          27
+        ],
+        "media_url": "http://pbs.twimg.com/media/DLA8Y_AU8AAW4pv.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/DLA8Y_AU8AAW4pv.jpg",
+        "url": "https://t.co/5BYuS1iNOg",
+        "display_url": "pic.twitter.com/5BYuS1iNOg",
+        "expanded_url": "https://twitter.com/giannaazzaretto/status/914297151290855424/photo/1",
+        "type": "photo",
+        "sizes": {
+          "large": {
+            "w": 749,
+            "h": 1064,
+            "resize": "fit"
+          },
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "small": {
+            "w": 479,
+            "h": 680,
+            "resize": "fit"
+          },
+          "medium": {
+            "w": 749,
+            "h": 1064,
+            "resize": "fit"
+          }
+        }
+      }
+    ]
+  },
+  "extended_entities": {
+    "media": [
+      {
+        "id": 914297124283543552,
+        "id_str": "914297124283543552",
+        "indices": [
+          4,
+          27
+        ],
+        "media_url": "http://pbs.twimg.com/media/DLA8Y_AU8AAW4pv.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/DLA8Y_AU8AAW4pv.jpg",
+        "url": "https://t.co/5BYuS1iNOg",
+        "display_url": "pic.twitter.com/5BYuS1iNOg",
+        "expanded_url": "https://twitter.com/giannaazzaretto/status/914297151290855424/photo/1",
+        "type": "photo",
+        "sizes": {
+          "large": {
+            "w": 749,
+            "h": 1064,
+            "resize": "fit"
+          },
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "small": {
+            "w": 479,
+            "h": 680,
+            "resize": "fit"
+          },
+          "medium": {
+            "w": 749,
+            "h": 1064,
+            "resize": "fit"
+          }
+        }
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false,
+  "filter_level": "low",
+  "lang": "und",
+  "timestamp_ms": "1506820402344"
+}

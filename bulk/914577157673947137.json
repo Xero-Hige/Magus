@@ -1,1 +1,150 @@
-{"created_at": "Sun Oct 01 19:46:01 +0000 2017", "id": 914577157673947137, "id_str": "914577157673947137", "text": "Relax (@ Viento in \u0130zmir w/ @bahadrgl5 @srdrgkhn) https://t.co/Ka2VYGXn2y", "source": "<a href=\"http://foursquare.com\" rel=\"nofollow\">Foursquare</a>", "truncated": false, "in_reply_to_status_id": null, "in_reply_to_status_id_str": null, "in_reply_to_user_id": null, "in_reply_to_user_id_str": null, "in_reply_to_screen_name": null, "user": {"id": 506341358, "id_str": "506341358", "name": "Ahmetcan Basaran", "screen_name": "basaranahmetcan", "location": "\u0130zmir, T\u00fcrkiye", "url": null, "description": "Okuz Beach Club // DJ \ud83c\udfa7 Celal Bayar University - GALATASARAY !", "translator_type": "none", "protected": false, "verified": false, "followers_count": 317, "friends_count": 189, "listed_count": 0, "favourites_count": 7219, "statuses_count": 17243, "created_at": "Mon Feb 27 20:15:44 +0000 2012", "utc_offset": 10800, "time_zone": "Istanbul", "geo_enabled": true, "lang": "tr", "contributors_enabled": false, "is_translator": false, "profile_background_color": "9B450A", "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000110700198/f2127dffb1c28e88319fc55bf165b9dc.jpeg", "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000110700198/f2127dffb1c28e88319fc55bf165b9dc.jpeg", "profile_background_tile": false, "profile_link_color": "3B94D9", "profile_sidebar_border_color": "000000", "profile_sidebar_fill_color": "EFEFEF", "profile_text_color": "333333", "profile_use_background_image": true, "profile_image_url": "http://pbs.twimg.com/profile_images/868923386600312832/YSpIHBkB_normal.jpg", "profile_image_url_https": "https://pbs.twimg.com/profile_images/868923386600312832/YSpIHBkB_normal.jpg", "profile_banner_url": "https://pbs.twimg.com/profile_banners/506341358/1425119260", "default_profile": false, "default_profile_image": false, "following": null, "follow_request_sent": null, "notifications": null}, "geo": {"type": "Point", "coordinates": [38.43715037, 27.14292899]}, "coordinates": {"type": "Point", "coordinates": [27.14292899, 38.43715037]}, "place": {"id": "0184147101a98fcf", "url": "https://api.twitter.com/1.1/geo/id/0184147101a98fcf.json", "place_type": "city", "name": "\u0130zmir", "full_name": "\u0130zmir, T\u00fcrkiye", "country_code": "TR", "country": "T\u00fcrkiye", "bounding_box": {"type": "Polygon", "coordinates": [[[26.723167, 38.283203], [26.723167, 38.532658], [27.289855, 38.532658], [27.289855, 38.283203]]]}, "attributes": {}}, "contributors": null, "is_quote_status": false, "quote_count": 0, "reply_count": 0, "retweet_count": 0, "favorite_count": 0, "entities": {"hashtags": [], "urls": [{"url": "https://t.co/Ka2VYGXn2y", "expanded_url": "https://www.swarmapp.com/c/0AQZKzcohub", "display_url": "swarmapp.com/c/0AQZKzcohub", "indices": [50, 73]}], "user_mentions": [{"screen_name": "Bahadrgl5", "name": "Bahad\u0131r g\u00fcl", "id": 1301416572, "id_str": "1301416572", "indices": [28, 38]}, {"screen_name": "srdrgkhn", "name": "serdar g\u00f6khn \u00f6zdilek", "id": 288490994, "id_str": "288490994", "indices": [39, 48]}], "symbols": []}, "favorited": false, "retweeted": false, "possibly_sensitive": false, "filter_level": "low", "lang": "lv", "timestamp_ms": "1506887161068"}
+{
+  "created_at": "Sun Oct 01 19:46:01 +0000 2017",
+  "id": 914577157673947137,
+  "id_str": "914577157673947137",
+  "text": "Relax (@ Viento in \u0130zmir w/ @bahadrgl5 @srdrgkhn) https://t.co/Ka2VYGXn2y",
+  "source": "<a href=\"http://foursquare.com\" rel=\"nofollow\">Foursquare</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 506341358,
+    "id_str": "506341358",
+    "name": "Ahmetcan Basaran",
+    "screen_name": "basaranahmetcan",
+    "location": "\u0130zmir, T\u00fcrkiye",
+    "url": null,
+    "description": "Okuz Beach Club // DJ \ud83c\udfa7 Celal Bayar University - GALATASARAY !",
+    "translator_type": "none",
+    "protected": false,
+    "verified": false,
+    "followers_count": 317,
+    "friends_count": 189,
+    "listed_count": 0,
+    "favourites_count": 7219,
+    "statuses_count": 17243,
+    "created_at": "Mon Feb 27 20:15:44 +0000 2012",
+    "utc_offset": 10800,
+    "time_zone": "Istanbul",
+    "geo_enabled": true,
+    "lang": "tr",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "9B450A",
+    "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000110700198/f2127dffb1c28e88319fc55bf165b9dc.jpeg",
+    "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000110700198/f2127dffb1c28e88319fc55bf165b9dc.jpeg",
+    "profile_background_tile": false,
+    "profile_link_color": "3B94D9",
+    "profile_sidebar_border_color": "000000",
+    "profile_sidebar_fill_color": "EFEFEF",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/868923386600312832/YSpIHBkB_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/868923386600312832/YSpIHBkB_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/506341358/1425119260",
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": null,
+    "follow_request_sent": null,
+    "notifications": null
+  },
+  "geo": {
+    "type": "Point",
+    "coordinates": [
+      38.43715037,
+      27.14292899
+    ]
+  },
+  "coordinates": {
+    "type": "Point",
+    "coordinates": [
+      27.14292899,
+      38.43715037
+    ]
+  },
+  "place": {
+    "id": "0184147101a98fcf",
+    "url": "https://api.twitter.com/1.1/geo/id/0184147101a98fcf.json",
+    "place_type": "city",
+    "name": "\u0130zmir",
+    "full_name": "\u0130zmir, T\u00fcrkiye",
+    "country_code": "TR",
+    "country": "T\u00fcrkiye",
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            26.723167,
+            38.283203
+          ],
+          [
+            26.723167,
+            38.532658
+          ],
+          [
+            27.289855,
+            38.532658
+          ],
+          [
+            27.289855,
+            38.283203
+          ]
+        ]
+      ]
+    },
+    "attributes": {}
+  },
+  "contributors": null,
+  "is_quote_status": false,
+  "quote_count": 0,
+  "reply_count": 0,
+  "retweet_count": 0,
+  "favorite_count": 0,
+  "entities": {
+    "hashtags": [],
+    "urls": [
+      {
+        "url": "https://t.co/Ka2VYGXn2y",
+        "expanded_url": "https://www.swarmapp.com/c/0AQZKzcohub",
+        "display_url": "swarmapp.com/c/0AQZKzcohub",
+        "indices": [
+          50,
+          73
+        ]
+      }
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "Bahadrgl5",
+        "name": "Bahad\u0131r g\u00fcl",
+        "id": 1301416572,
+        "id_str": "1301416572",
+        "indices": [
+          28,
+          38
+        ]
+      },
+      {
+        "screen_name": "srdrgkhn",
+        "name": "serdar g\u00f6khn \u00f6zdilek",
+        "id": 288490994,
+        "id_str": "288490994",
+        "indices": [
+          39,
+          48
+        ]
+      }
+    ],
+    "symbols": []
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false,
+  "filter_level": "low",
+  "lang": "lv",
+  "timestamp_ms": "1506887161068"
+}

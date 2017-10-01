@@ -1,1 +1,128 @@
-{"created_at": "Sun Oct 01 01:13:23 +0000 2017", "id": 914297156785332224, "id_str": "914297156785332224", "text": "Just posted a photo @ Ross&amp;Hall Kitchen &amp; Beer Garten https://t.co/WVu6qngsOa", "source": "<a href=\"http://instagram.com\" rel=\"nofollow\">Instagram</a>", "truncated": false, "in_reply_to_status_id": null, "in_reply_to_status_id_str": null, "in_reply_to_user_id": null, "in_reply_to_user_id_str": null, "in_reply_to_screen_name": null, "user": {"id": 41188141, "id_str": "41188141", "name": "William Rogers", "screen_name": "willr2k", "location": "Dallas, Tx", "url": null, "description": "Live it to the fullest", "translator_type": "none", "protected": false, "verified": false, "followers_count": 411, "friends_count": 976, "listed_count": 29, "favourites_count": 221, "statuses_count": 7653, "created_at": "Tue May 19 19:27:07 +0000 2009", "utc_offset": -18000, "time_zone": "Central Time (US & Canada)", "geo_enabled": true, "lang": "en", "contributors_enabled": false, "is_translator": false, "profile_background_color": "000000", "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif", "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif", "profile_background_tile": false, "profile_link_color": "3B94D9", "profile_sidebar_border_color": "000000", "profile_sidebar_fill_color": "000000", "profile_text_color": "000000", "profile_use_background_image": false, "profile_image_url": "http://pbs.twimg.com/profile_images/1428218813/image_normal.jpg", "profile_image_url_https": "https://pbs.twimg.com/profile_images/1428218813/image_normal.jpg", "default_profile": false, "default_profile_image": false, "following": null, "follow_request_sent": null, "notifications": null}, "geo": {"type": "Point", "coordinates": [32.79535, -96.78869]}, "coordinates": {"type": "Point", "coordinates": [-96.78869, 32.79535]}, "place": {"id": "18810aa5b43e76c7", "url": "https://api.twitter.com/1.1/geo/id/18810aa5b43e76c7.json", "place_type": "city", "name": "Dallas", "full_name": "Dallas, TX", "country_code": "US", "country": "United States", "bounding_box": {"type": "Polygon", "coordinates": [[[-96.977527, 32.620678], [-96.977527, 33.019039], [-96.54598, 33.019039], [-96.54598, 32.620678]]]}, "attributes": {}}, "contributors": null, "is_quote_status": false, "quote_count": 0, "reply_count": 0, "retweet_count": 0, "favorite_count": 0, "entities": {"hashtags": [], "urls": [{"url": "https://t.co/WVu6qngsOa", "expanded_url": "https://www.instagram.com/p/BZr8Dyoh2sj/", "display_url": "instagram.com/p/BZr8Dyoh2sj/", "indices": [62, 85]}], "user_mentions": [], "symbols": []}, "favorited": false, "retweeted": false, "possibly_sensitive": false, "filter_level": "low", "lang": "en", "timestamp_ms": "1506820403654"}
+{
+  "created_at": "Sun Oct 01 01:13:23 +0000 2017",
+  "id": 914297156785332224,
+  "id_str": "914297156785332224",
+  "text": "Just posted a photo @ Ross&amp;Hall Kitchen &amp; Beer Garten https://t.co/WVu6qngsOa",
+  "source": "<a href=\"http://instagram.com\" rel=\"nofollow\">Instagram</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 41188141,
+    "id_str": "41188141",
+    "name": "William Rogers",
+    "screen_name": "willr2k",
+    "location": "Dallas, Tx",
+    "url": null,
+    "description": "Live it to the fullest",
+    "translator_type": "none",
+    "protected": false,
+    "verified": false,
+    "followers_count": 411,
+    "friends_count": 976,
+    "listed_count": 29,
+    "favourites_count": 221,
+    "statuses_count": 7653,
+    "created_at": "Tue May 19 19:27:07 +0000 2009",
+    "utc_offset": -18000,
+    "time_zone": "Central Time (US & Canada)",
+    "geo_enabled": true,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "000000",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+    "profile_background_tile": false,
+    "profile_link_color": "3B94D9",
+    "profile_sidebar_border_color": "000000",
+    "profile_sidebar_fill_color": "000000",
+    "profile_text_color": "000000",
+    "profile_use_background_image": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1428218813/image_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1428218813/image_normal.jpg",
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": null,
+    "follow_request_sent": null,
+    "notifications": null
+  },
+  "geo": {
+    "type": "Point",
+    "coordinates": [
+      32.79535,
+      -96.78869
+    ]
+  },
+  "coordinates": {
+    "type": "Point",
+    "coordinates": [
+      -96.78869,
+      32.79535
+    ]
+  },
+  "place": {
+    "id": "18810aa5b43e76c7",
+    "url": "https://api.twitter.com/1.1/geo/id/18810aa5b43e76c7.json",
+    "place_type": "city",
+    "name": "Dallas",
+    "full_name": "Dallas, TX",
+    "country_code": "US",
+    "country": "United States",
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            -96.977527,
+            32.620678
+          ],
+          [
+            -96.977527,
+            33.019039
+          ],
+          [
+            -96.54598,
+            33.019039
+          ],
+          [
+            -96.54598,
+            32.620678
+          ]
+        ]
+      ]
+    },
+    "attributes": {}
+  },
+  "contributors": null,
+  "is_quote_status": false,
+  "quote_count": 0,
+  "reply_count": 0,
+  "retweet_count": 0,
+  "favorite_count": 0,
+  "entities": {
+    "hashtags": [],
+    "urls": [
+      {
+        "url": "https://t.co/WVu6qngsOa",
+        "expanded_url": "https://www.instagram.com/p/BZr8Dyoh2sj/",
+        "display_url": "instagram.com/p/BZr8Dyoh2sj/",
+        "indices": [
+          62,
+          85
+        ]
+      }
+    ],
+    "user_mentions": [],
+    "symbols": []
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false,
+  "filter_level": "low",
+  "lang": "en",
+  "timestamp_ms": "1506820403654"
+}

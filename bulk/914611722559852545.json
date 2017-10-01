@@ -1,1 +1,106 @@
-{"created_at": "Sun Oct 01 22:03:21 +0000 2017", "id": 914611722559852545, "id_str": "914611722559852545", "text": "\u3059\u3044\u307e\u305b\u3093\u3002\u5f53\u65b9\u3053\u308c\u307e\u3067\u300c\u30a2\u30e1\u30ea\u30ab\u6599\u7406\u306f\u5225\u306b\u307e\u305a\u304f\u306a\u3044\u6d3e\u300d\u3067\u3057\u305f\u304c\u3001\u304a\u8a6b\u3073\u3068\u3068\u3082\u306b\u300c\u30a2\u30e1\u30ea\u30ab\u6599\u7406\u306f\u5225\u306b\u307e\u305a\u304f\u306a\u3044\u304c\u5357\u90e8\u6599\u7406\u306f\u4e00\u8003\u3092\u8981\u3059\u6d3e\u300d\u306b\u8ee2\u6821\u3055\u305b\u3066\u304f\u3060\u3055\u3044\u3002", "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>", "truncated": false, "in_reply_to_status_id": null, "in_reply_to_status_id_str": null, "in_reply_to_user_id": null, "in_reply_to_user_id_str": null, "in_reply_to_screen_name": null, "user": {"id": 93835826, "id_str": "93835826", "name": "OGAWA Kandai", "screen_name": "grossherzigkeit", "location": "\u6771\u4eac\u90fd\u6c5f\u6238\u5ddd\u533a", "url": null, "description": "\u30a4\u30a8\u30ed\u30fc\u30b8\u30e3\u30fc\u30ca\u30ea\u30b9\u30c8\u3002\u4ed6\u4eba\u306e\u4e0d\u5e78\u3092\u871c\u306e\u5473\u306b\u52a0\u5de5\u3059\u308b\u3060\u3051\u306e\u3001\u7c21\u5358\u306a\u304a\u4ed5\u4e8b\u306b\u5f93\u4e8b\u3002", "translator_type": "none", "protected": false, "verified": false, "followers_count": 15566, "friends_count": 3443, "listed_count": 742, "favourites_count": 0, "statuses_count": 19954, "created_at": "Tue Dec 01 10:50:30 +0000 2009", "utc_offset": 32400, "time_zone": "Tokyo", "geo_enabled": true, "lang": "ja", "contributors_enabled": false, "is_translator": false, "profile_background_color": "C0DEED", "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png", "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", "profile_background_tile": false, "profile_link_color": "1DA1F2", "profile_sidebar_border_color": "C0DEED", "profile_sidebar_fill_color": "DDEEF6", "profile_text_color": "333333", "profile_use_background_image": true, "profile_image_url": "http://pbs.twimg.com/profile_images/654332333/taza_normal.jpg", "profile_image_url_https": "https://pbs.twimg.com/profile_images/654332333/taza_normal.jpg", "profile_banner_url": "https://pbs.twimg.com/profile_banners/93835826/1349233686", "default_profile": true, "default_profile_image": false, "following": null, "follow_request_sent": null, "notifications": null}, "geo": null, "coordinates": null, "place": {"id": "8173485c72e78ca5", "url": "https://api.twitter.com/1.1/geo/id/8173485c72e78ca5.json", "place_type": "city", "name": "Atlanta", "full_name": "Atlanta, GA", "country_code": "US", "country": "United States", "bounding_box": {"type": "Polygon", "coordinates": [[[-84.576827, 33.647503], [-84.576827, 33.886886], [-84.289385, 33.886886], [-84.289385, 33.647503]]]}, "attributes": {}}, "contributors": null, "is_quote_status": false, "quote_count": 0, "reply_count": 0, "retweet_count": 0, "favorite_count": 0, "entities": {"hashtags": [], "urls": [], "user_mentions": [], "symbols": []}, "favorited": false, "retweeted": false, "filter_level": "low", "lang": "ja", "timestamp_ms": "1506895401979"}
+{
+  "created_at": "Sun Oct 01 22:03:21 +0000 2017",
+  "id": 914611722559852545,
+  "id_str": "914611722559852545",
+  "text": "\u3059\u3044\u307e\u305b\u3093\u3002\u5f53\u65b9\u3053\u308c\u307e\u3067\u300c\u30a2\u30e1\u30ea\u30ab\u6599\u7406\u306f\u5225\u306b\u307e\u305a\u304f\u306a\u3044\u6d3e\u300d\u3067\u3057\u305f\u304c\u3001\u304a\u8a6b\u3073\u3068\u3068\u3082\u306b\u300c\u30a2\u30e1\u30ea\u30ab\u6599\u7406\u306f\u5225\u306b\u307e\u305a\u304f\u306a\u3044\u304c\u5357\u90e8\u6599\u7406\u306f\u4e00\u8003\u3092\u8981\u3059\u6d3e\u300d\u306b\u8ee2\u6821\u3055\u305b\u3066\u304f\u3060\u3055\u3044\u3002",
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 93835826,
+    "id_str": "93835826",
+    "name": "OGAWA Kandai",
+    "screen_name": "grossherzigkeit",
+    "location": "\u6771\u4eac\u90fd\u6c5f\u6238\u5ddd\u533a",
+    "url": null,
+    "description": "\u30a4\u30a8\u30ed\u30fc\u30b8\u30e3\u30fc\u30ca\u30ea\u30b9\u30c8\u3002\u4ed6\u4eba\u306e\u4e0d\u5e78\u3092\u871c\u306e\u5473\u306b\u52a0\u5de5\u3059\u308b\u3060\u3051\u306e\u3001\u7c21\u5358\u306a\u304a\u4ed5\u4e8b\u306b\u5f93\u4e8b\u3002",
+    "translator_type": "none",
+    "protected": false,
+    "verified": false,
+    "followers_count": 15566,
+    "friends_count": 3443,
+    "listed_count": 742,
+    "favourites_count": 0,
+    "statuses_count": 19954,
+    "created_at": "Tue Dec 01 10:50:30 +0000 2009",
+    "utc_offset": 32400,
+    "time_zone": "Tokyo",
+    "geo_enabled": true,
+    "lang": "ja",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "C0DEED",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": false,
+    "profile_link_color": "1DA1F2",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/654332333/taza_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/654332333/taza_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/93835826/1349233686",
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": null,
+    "follow_request_sent": null,
+    "notifications": null
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": {
+    "id": "8173485c72e78ca5",
+    "url": "https://api.twitter.com/1.1/geo/id/8173485c72e78ca5.json",
+    "place_type": "city",
+    "name": "Atlanta",
+    "full_name": "Atlanta, GA",
+    "country_code": "US",
+    "country": "United States",
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            -84.576827,
+            33.647503
+          ],
+          [
+            -84.576827,
+            33.886886
+          ],
+          [
+            -84.289385,
+            33.886886
+          ],
+          [
+            -84.289385,
+            33.647503
+          ]
+        ]
+      ]
+    },
+    "attributes": {}
+  },
+  "contributors": null,
+  "is_quote_status": false,
+  "quote_count": 0,
+  "reply_count": 0,
+  "retweet_count": 0,
+  "favorite_count": 0,
+  "entities": {
+    "hashtags": [],
+    "urls": [],
+    "user_mentions": [],
+    "symbols": []
+  },
+  "favorited": false,
+  "retweeted": false,
+  "filter_level": "low",
+  "lang": "ja",
+  "timestamp_ms": "1506895401979"
+}

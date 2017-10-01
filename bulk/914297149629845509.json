@@ -1,1 +1,106 @@
-{"created_at": "Sun Oct 01 01:13:21 +0000 2017", "id": 914297149629845509, "id_str": "914297149629845509", "text": "san chasco clavamos", "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>", "truncated": false, "in_reply_to_status_id": null, "in_reply_to_status_id_str": null, "in_reply_to_user_id": null, "in_reply_to_user_id_str": null, "in_reply_to_screen_name": null, "user": {"id": 1414314888, "id_str": "1414314888", "name": "Tadeo Mudallel", "screen_name": "TadeoMudallel", "location": null, "url": null, "description": "Nadie nota tus l\u00e1grimas. Nadie nota tu dolor. Pero todos notan tus errores.", "translator_type": "none", "protected": false, "verified": false, "followers_count": 327, "friends_count": 292, "listed_count": 0, "favourites_count": 1966, "statuses_count": 14168, "created_at": "Thu May 09 02:14:07 +0000 2013", "utc_offset": null, "time_zone": null, "geo_enabled": true, "lang": "es", "contributors_enabled": false, "is_translator": false, "profile_background_color": "131516", "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif", "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif", "profile_background_tile": true, "profile_link_color": "009999", "profile_sidebar_border_color": "EEEEEE", "profile_sidebar_fill_color": "EFEFEF", "profile_text_color": "333333", "profile_use_background_image": true, "profile_image_url": "http://pbs.twimg.com/profile_images/674559614264999936/CziZ1r65_normal.jpg", "profile_image_url_https": "https://pbs.twimg.com/profile_images/674559614264999936/CziZ1r65_normal.jpg", "profile_banner_url": "https://pbs.twimg.com/profile_banners/1414314888/1440808455", "default_profile": false, "default_profile_image": false, "following": null, "follow_request_sent": null, "notifications": null}, "geo": null, "coordinates": null, "place": {"id": "01b40b49265b126c", "url": "https://api.twitter.com/1.1/geo/id/01b40b49265b126c.json", "place_type": "city", "name": "Santa F\u00e9", "full_name": "Santa F\u00e9, Argentina", "country_code": "AR", "country": "Argentina", "bounding_box": {"type": "Polygon", "coordinates": [[[-60.764198, -31.684295], [-60.764198, -31.553978], [-60.585606, -31.553978], [-60.585606, -31.684295]]]}, "attributes": {}}, "contributors": null, "is_quote_status": false, "quote_count": 0, "reply_count": 0, "retweet_count": 0, "favorite_count": 0, "entities": {"hashtags": [], "urls": [], "user_mentions": [], "symbols": []}, "favorited": false, "retweeted": false, "filter_level": "low", "lang": "es", "timestamp_ms": "1506820401948"}
+{
+  "created_at": "Sun Oct 01 01:13:21 +0000 2017",
+  "id": 914297149629845509,
+  "id_str": "914297149629845509",
+  "text": "san chasco clavamos",
+  "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 1414314888,
+    "id_str": "1414314888",
+    "name": "Tadeo Mudallel",
+    "screen_name": "TadeoMudallel",
+    "location": null,
+    "url": null,
+    "description": "Nadie nota tus l\u00e1grimas. Nadie nota tu dolor. Pero todos notan tus errores.",
+    "translator_type": "none",
+    "protected": false,
+    "verified": false,
+    "followers_count": 327,
+    "friends_count": 292,
+    "listed_count": 0,
+    "favourites_count": 1966,
+    "statuses_count": 14168,
+    "created_at": "Thu May 09 02:14:07 +0000 2013",
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": true,
+    "lang": "es",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "131516",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+    "profile_background_tile": true,
+    "profile_link_color": "009999",
+    "profile_sidebar_border_color": "EEEEEE",
+    "profile_sidebar_fill_color": "EFEFEF",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/674559614264999936/CziZ1r65_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/674559614264999936/CziZ1r65_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1414314888/1440808455",
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": null,
+    "follow_request_sent": null,
+    "notifications": null
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": {
+    "id": "01b40b49265b126c",
+    "url": "https://api.twitter.com/1.1/geo/id/01b40b49265b126c.json",
+    "place_type": "city",
+    "name": "Santa F\u00e9",
+    "full_name": "Santa F\u00e9, Argentina",
+    "country_code": "AR",
+    "country": "Argentina",
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            -60.764198,
+            -31.684295
+          ],
+          [
+            -60.764198,
+            -31.553978
+          ],
+          [
+            -60.585606,
+            -31.553978
+          ],
+          [
+            -60.585606,
+            -31.684295
+          ]
+        ]
+      ]
+    },
+    "attributes": {}
+  },
+  "contributors": null,
+  "is_quote_status": false,
+  "quote_count": 0,
+  "reply_count": 0,
+  "retweet_count": 0,
+  "favorite_count": 0,
+  "entities": {
+    "hashtags": [],
+    "urls": [],
+    "user_mentions": [],
+    "symbols": []
+  },
+  "favorited": false,
+  "retweeted": false,
+  "filter_level": "low",
+  "lang": "es",
+  "timestamp_ms": "1506820401948"
+}

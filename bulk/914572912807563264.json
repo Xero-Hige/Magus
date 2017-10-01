@@ -1,1 +1,153 @@
-{"created_at": "Sun Oct 01 19:29:09 +0000 2017", "id": 914572912807563264, "id_str": "914572912807563264", "text": "@Lina_La_Cheung @MarriottRewards #MembersGetIt #RewardsPoints #InternationalCoffeeDay", "display_text_range": [33, 85], "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>", "truncated": false, "in_reply_to_status_id": 914523040028925952, "in_reply_to_status_id_str": "914523040028925952", "in_reply_to_user_id": 905627710755442688, "in_reply_to_user_id_str": "905627710755442688", "in_reply_to_screen_name": "Lina_La_Cheung", "user": {"id": 906046440065163264, "id_str": "906046440065163264", "name": "\ud83c\uddec\ud83c\udde7\ud83d\udece\u23f0\ud83d\udcf1\ud83d\udcbe\ud83d\udce1\ud83d\udcb0\ud83c\udff7\ud83d\udcb3", "screen_name": "MembersGetIt", "location": "Denver, CO, 80202", "url": null, "description": "#DENStartupWeek\nAvid churner! \ud83d\udcb9\ud83d\udcb3\ud83d\udcb6\ud83c\udff7\ud83d\udd16\ud83d\udcb0\ud83d\udce1\ud83d\udcf7\ud83d\udcbe\ud83d\udcf1\u23f0\ud83d\udece\ud83c\uddec\ud83c\udde7\ud83c\udfd9\ud83c\udf4c #RewardPoints #MembersGetIt #AmExOffers", "translator_type": "none", "protected": false, "verified": false, "followers_count": 37, "friends_count": 49, "listed_count": 0, "favourites_count": 157, "statuses_count": 231, "created_at": "Fri Sep 08 06:47:59 +0000 2017", "utc_offset": null, "time_zone": null, "geo_enabled": true, "lang": "en", "contributors_enabled": false, "is_translator": false, "profile_background_color": "F5F8FA", "profile_background_image_url": "", "profile_background_image_url_https": "", "profile_background_tile": false, "profile_link_color": "1DA1F2", "profile_sidebar_border_color": "C0DEED", "profile_sidebar_fill_color": "DDEEF6", "profile_text_color": "333333", "profile_use_background_image": true, "profile_image_url": "http://pbs.twimg.com/profile_images/906362879582130176/-X4DlnYh_normal.jpg", "profile_image_url_https": "https://pbs.twimg.com/profile_images/906362879582130176/-X4DlnYh_normal.jpg", "profile_banner_url": "https://pbs.twimg.com/profile_banners/906046440065163264/1504928728", "default_profile": true, "default_profile_image": false, "following": null, "follow_request_sent": null, "notifications": null}, "geo": null, "coordinates": null, "place": {"id": "b49b3053b5c25bf5", "url": "https://api.twitter.com/1.1/geo/id/b49b3053b5c25bf5.json", "place_type": "city", "name": "Denver", "full_name": "Denver, CO", "country_code": "US", "country": "United States", "bounding_box": {"type": "Polygon", "coordinates": [[[-105.109815, 39.614151], [-105.109815, 39.812975], [-104.734372, 39.812975], [-104.734372, 39.614151]]]}, "attributes": {}}, "contributors": null, "is_quote_status": false, "quote_count": 0, "reply_count": 0, "retweet_count": 0, "favorite_count": 0, "entities": {"hashtags": [{"text": "MembersGetIt", "indices": [33, 46]}, {"text": "RewardsPoints", "indices": [47, 61]}, {"text": "InternationalCoffeeDay", "indices": [62, 85]}], "urls": [], "user_mentions": [{"screen_name": "Lina_La_Cheung", "name": "Lina Lam", "id": 905627710755442688, "id_str": "905627710755442688", "indices": [0, 15]}, {"screen_name": "MarriottRewards", "name": "Marriott Rewards", "id": 41582924, "id_str": "41582924", "indices": [16, 32]}], "symbols": []}, "favorited": false, "retweeted": false, "filter_level": "low", "lang": "und", "timestamp_ms": "1506886149013"}
+{
+  "created_at": "Sun Oct 01 19:29:09 +0000 2017",
+  "id": 914572912807563264,
+  "id_str": "914572912807563264",
+  "text": "@Lina_La_Cheung @MarriottRewards #MembersGetIt #RewardsPoints #InternationalCoffeeDay",
+  "display_text_range": [
+    33,
+    85
+  ],
+  "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+  "truncated": false,
+  "in_reply_to_status_id": 914523040028925952,
+  "in_reply_to_status_id_str": "914523040028925952",
+  "in_reply_to_user_id": 905627710755442688,
+  "in_reply_to_user_id_str": "905627710755442688",
+  "in_reply_to_screen_name": "Lina_La_Cheung",
+  "user": {
+    "id": 906046440065163264,
+    "id_str": "906046440065163264",
+    "name": "\ud83c\uddec\ud83c\udde7\ud83d\udece\u23f0\ud83d\udcf1\ud83d\udcbe\ud83d\udce1\ud83d\udcb0\ud83c\udff7\ud83d\udcb3",
+    "screen_name": "MembersGetIt",
+    "location": "Denver, CO, 80202",
+    "url": null,
+    "description": "#DENStartupWeek\nAvid churner! \ud83d\udcb9\ud83d\udcb3\ud83d\udcb6\ud83c\udff7\ud83d\udd16\ud83d\udcb0\ud83d\udce1\ud83d\udcf7\ud83d\udcbe\ud83d\udcf1\u23f0\ud83d\udece\ud83c\uddec\ud83c\udde7\ud83c\udfd9\ud83c\udf4c #RewardPoints #MembersGetIt #AmExOffers",
+    "translator_type": "none",
+    "protected": false,
+    "verified": false,
+    "followers_count": 37,
+    "friends_count": 49,
+    "listed_count": 0,
+    "favourites_count": 157,
+    "statuses_count": 231,
+    "created_at": "Fri Sep 08 06:47:59 +0000 2017",
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": true,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "F5F8FA",
+    "profile_background_image_url": "",
+    "profile_background_image_url_https": "",
+    "profile_background_tile": false,
+    "profile_link_color": "1DA1F2",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/906362879582130176/-X4DlnYh_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/906362879582130176/-X4DlnYh_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/906046440065163264/1504928728",
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": null,
+    "follow_request_sent": null,
+    "notifications": null
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": {
+    "id": "b49b3053b5c25bf5",
+    "url": "https://api.twitter.com/1.1/geo/id/b49b3053b5c25bf5.json",
+    "place_type": "city",
+    "name": "Denver",
+    "full_name": "Denver, CO",
+    "country_code": "US",
+    "country": "United States",
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            -105.109815,
+            39.614151
+          ],
+          [
+            -105.109815,
+            39.812975
+          ],
+          [
+            -104.734372,
+            39.812975
+          ],
+          [
+            -104.734372,
+            39.614151
+          ]
+        ]
+      ]
+    },
+    "attributes": {}
+  },
+  "contributors": null,
+  "is_quote_status": false,
+  "quote_count": 0,
+  "reply_count": 0,
+  "retweet_count": 0,
+  "favorite_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "MembersGetIt",
+        "indices": [
+          33,
+          46
+        ]
+      },
+      {
+        "text": "RewardsPoints",
+        "indices": [
+          47,
+          61
+        ]
+      },
+      {
+        "text": "InternationalCoffeeDay",
+        "indices": [
+          62,
+          85
+        ]
+      }
+    ],
+    "urls": [],
+    "user_mentions": [
+      {
+        "screen_name": "Lina_La_Cheung",
+        "name": "Lina Lam",
+        "id": 905627710755442688,
+        "id_str": "905627710755442688",
+        "indices": [
+          0,
+          15
+        ]
+      },
+      {
+        "screen_name": "MarriottRewards",
+        "name": "Marriott Rewards",
+        "id": 41582924,
+        "id_str": "41582924",
+        "indices": [
+          16,
+          32
+        ]
+      }
+    ],
+    "symbols": []
+  },
+  "favorited": false,
+  "retweeted": false,
+  "filter_level": "low",
+  "lang": "und",
+  "timestamp_ms": "1506886149013"
+}

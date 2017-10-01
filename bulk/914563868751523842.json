@@ -1,1 +1,129 @@
-{"created_at": "Sun Oct 01 18:53:12 +0000 2017", "id": 914563868751523842, "id_str": "914563868751523842", "text": "Union Square @ San Francisco, California https://t.co/rXwNww7XTx", "source": "<a href=\"http://instagram.com\" rel=\"nofollow\">Instagram</a>", "truncated": false, "in_reply_to_status_id": null, "in_reply_to_status_id_str": null, "in_reply_to_user_id": null, "in_reply_to_user_id_str": null, "in_reply_to_screen_name": null, "user": {"id": 232740523, "id_str": "232740523", "name": "Gustavo Solima", "screen_name": "gsolima", "location": "Argentina, Buenos Aires", "url": null, "description": null, "translator_type": "none", "protected": false, "verified": false, "followers_count": 184, "friends_count": 233, "listed_count": 15, "favourites_count": 942, "statuses_count": 1229, "created_at": "Sat Jan 01 04:25:34 +0000 2011", "utc_offset": -10800, "time_zone": "Buenos Aires", "geo_enabled": true, "lang": "es", "contributors_enabled": false, "is_translator": false, "profile_background_color": "C0DEED", "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png", "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", "profile_background_tile": false, "profile_link_color": "1DA1F2", "profile_sidebar_border_color": "C0DEED", "profile_sidebar_fill_color": "DDEEF6", "profile_text_color": "333333", "profile_use_background_image": true, "profile_image_url": "http://pbs.twimg.com/profile_images/2743910159/1a01af4d04c28119ccee82176c1d348e_normal.jpeg", "profile_image_url_https": "https://pbs.twimg.com/profile_images/2743910159/1a01af4d04c28119ccee82176c1d348e_normal.jpeg", "profile_banner_url": "https://pbs.twimg.com/profile_banners/232740523/1436937525", "default_profile": true, "default_profile_image": false, "following": null, "follow_request_sent": null, "notifications": null}, "geo": {"type": "Point", "coordinates": [37.775, -122.418]}, "coordinates": {"type": "Point", "coordinates": [-122.418, 37.775]}, "place": {"id": "5a110d312052166f", "url": "https://api.twitter.com/1.1/geo/id/5a110d312052166f.json", "place_type": "city", "name": "San Francisco", "full_name": "San Francisco, CA", "country_code": "US", "country": "Estados Unidos", "bounding_box": {"type": "Polygon", "coordinates": [[[-122.514926, 37.708075], [-122.514926, 37.833238], [-122.357031, 37.833238], [-122.357031, 37.708075]]]}, "attributes": {}}, "contributors": null, "is_quote_status": false, "quote_count": 0, "reply_count": 0, "retweet_count": 0, "favorite_count": 0, "entities": {"hashtags": [], "urls": [{"url": "https://t.co/rXwNww7XTx", "expanded_url": "https://www.instagram.com/p/BZt1Wu1lfK6/", "display_url": "instagram.com/p/BZt1Wu1lfK6/", "indices": [41, 64]}], "user_mentions": [], "symbols": []}, "favorited": false, "retweeted": false, "possibly_sensitive": false, "filter_level": "low", "lang": "it", "timestamp_ms": "1506883992742"}
+{
+  "created_at": "Sun Oct 01 18:53:12 +0000 2017",
+  "id": 914563868751523842,
+  "id_str": "914563868751523842",
+  "text": "Union Square @ San Francisco, California https://t.co/rXwNww7XTx",
+  "source": "<a href=\"http://instagram.com\" rel=\"nofollow\">Instagram</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 232740523,
+    "id_str": "232740523",
+    "name": "Gustavo Solima",
+    "screen_name": "gsolima",
+    "location": "Argentina, Buenos Aires",
+    "url": null,
+    "description": null,
+    "translator_type": "none",
+    "protected": false,
+    "verified": false,
+    "followers_count": 184,
+    "friends_count": 233,
+    "listed_count": 15,
+    "favourites_count": 942,
+    "statuses_count": 1229,
+    "created_at": "Sat Jan 01 04:25:34 +0000 2011",
+    "utc_offset": -10800,
+    "time_zone": "Buenos Aires",
+    "geo_enabled": true,
+    "lang": "es",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "C0DEED",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": false,
+    "profile_link_color": "1DA1F2",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/2743910159/1a01af4d04c28119ccee82176c1d348e_normal.jpeg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/2743910159/1a01af4d04c28119ccee82176c1d348e_normal.jpeg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/232740523/1436937525",
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": null,
+    "follow_request_sent": null,
+    "notifications": null
+  },
+  "geo": {
+    "type": "Point",
+    "coordinates": [
+      37.775,
+      -122.418
+    ]
+  },
+  "coordinates": {
+    "type": "Point",
+    "coordinates": [
+      -122.418,
+      37.775
+    ]
+  },
+  "place": {
+    "id": "5a110d312052166f",
+    "url": "https://api.twitter.com/1.1/geo/id/5a110d312052166f.json",
+    "place_type": "city",
+    "name": "San Francisco",
+    "full_name": "San Francisco, CA",
+    "country_code": "US",
+    "country": "Estados Unidos",
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            -122.514926,
+            37.708075
+          ],
+          [
+            -122.514926,
+            37.833238
+          ],
+          [
+            -122.357031,
+            37.833238
+          ],
+          [
+            -122.357031,
+            37.708075
+          ]
+        ]
+      ]
+    },
+    "attributes": {}
+  },
+  "contributors": null,
+  "is_quote_status": false,
+  "quote_count": 0,
+  "reply_count": 0,
+  "retweet_count": 0,
+  "favorite_count": 0,
+  "entities": {
+    "hashtags": [],
+    "urls": [
+      {
+        "url": "https://t.co/rXwNww7XTx",
+        "expanded_url": "https://www.instagram.com/p/BZt1Wu1lfK6/",
+        "display_url": "instagram.com/p/BZt1Wu1lfK6/",
+        "indices": [
+          41,
+          64
+        ]
+      }
+    ],
+    "user_mentions": [],
+    "symbols": []
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false,
+  "filter_level": "low",
+  "lang": "it",
+  "timestamp_ms": "1506883992742"
+}

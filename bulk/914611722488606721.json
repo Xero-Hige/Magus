@@ -1,1 +1,132 @@
-{"created_at": "Sun Oct 01 22:03:21 +0000 2017", "id": 914611722488606721, "id_str": "914611722488606721", "text": "@buzz I assume you\u2019ve been following Monteiro\u2019s ongoing crusade against Jack and Biz?", "display_text_range": [6, 85], "source": "<a href=\"http://twitterrific.com\" rel=\"nofollow\">Twitterrific</a>", "truncated": false, "in_reply_to_status_id": 914610766698782720, "in_reply_to_status_id_str": "914610766698782720", "in_reply_to_user_id": 528, "in_reply_to_user_id_str": "528", "in_reply_to_screen_name": "buzz", "user": {"id": 4110091, "id_str": "4110091", "name": "Jordan Friedman", "screen_name": "jmf", "location": "Park Slizope.", "url": null, "description": "Talkin' revolution and singin' the blues.", "translator_type": "none", "protected": false, "verified": false, "followers_count": 322, "friends_count": 323, "listed_count": 22, "favourites_count": 578, "statuses_count": 7796, "created_at": "Wed Apr 11 02:25:32 +0000 2007", "utc_offset": -14400, "time_zone": "Eastern Time (US & Canada)", "geo_enabled": true, "lang": "en", "contributors_enabled": false, "is_translator": false, "profile_background_color": "C6C6C6", "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png", "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", "profile_background_tile": false, "profile_link_color": "0000FF", "profile_sidebar_border_color": "87BC44", "profile_sidebar_fill_color": "E0FF92", "profile_text_color": "000000", "profile_use_background_image": false, "profile_image_url": "http://pbs.twimg.com/profile_images/14834862/milqtoast_normal.png", "profile_image_url_https": "https://pbs.twimg.com/profile_images/14834862/milqtoast_normal.png", "default_profile": false, "default_profile_image": false, "following": null, "follow_request_sent": null, "notifications": null}, "geo": {"type": "Point", "coordinates": [40.68155061, -73.97400443]}, "coordinates": {"type": "Point", "coordinates": [-73.97400443, 40.68155061]}, "place": {"id": "011add077f4d2da3", "url": "https://api.twitter.com/1.1/geo/id/011add077f4d2da3.json", "place_type": "city", "name": "Brooklyn", "full_name": "Brooklyn, NY", "country_code": "US", "country": "United States", "bounding_box": {"type": "Polygon", "coordinates": [[[-74.041878, 40.570842], [-74.041878, 40.739434], [-73.855673, 40.739434], [-73.855673, 40.570842]]]}, "attributes": {}}, "contributors": null, "is_quote_status": false, "quote_count": 0, "reply_count": 0, "retweet_count": 0, "favorite_count": 0, "entities": {"hashtags": [], "urls": [], "user_mentions": [{"screen_name": "buzz", "name": "Buzz Andersen", "id": 528, "id_str": "528", "indices": [0, 5]}], "symbols": []}, "favorited": false, "retweeted": false, "filter_level": "low", "lang": "en", "timestamp_ms": "1506895401962"}
+{
+  "created_at": "Sun Oct 01 22:03:21 +0000 2017",
+  "id": 914611722488606721,
+  "id_str": "914611722488606721",
+  "text": "@buzz I assume you\u2019ve been following Monteiro\u2019s ongoing crusade against Jack and Biz?",
+  "display_text_range": [
+    6,
+    85
+  ],
+  "source": "<a href=\"http://twitterrific.com\" rel=\"nofollow\">Twitterrific</a>",
+  "truncated": false,
+  "in_reply_to_status_id": 914610766698782720,
+  "in_reply_to_status_id_str": "914610766698782720",
+  "in_reply_to_user_id": 528,
+  "in_reply_to_user_id_str": "528",
+  "in_reply_to_screen_name": "buzz",
+  "user": {
+    "id": 4110091,
+    "id_str": "4110091",
+    "name": "Jordan Friedman",
+    "screen_name": "jmf",
+    "location": "Park Slizope.",
+    "url": null,
+    "description": "Talkin' revolution and singin' the blues.",
+    "translator_type": "none",
+    "protected": false,
+    "verified": false,
+    "followers_count": 322,
+    "friends_count": 323,
+    "listed_count": 22,
+    "favourites_count": 578,
+    "statuses_count": 7796,
+    "created_at": "Wed Apr 11 02:25:32 +0000 2007",
+    "utc_offset": -14400,
+    "time_zone": "Eastern Time (US & Canada)",
+    "geo_enabled": true,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "C6C6C6",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": false,
+    "profile_link_color": "0000FF",
+    "profile_sidebar_border_color": "87BC44",
+    "profile_sidebar_fill_color": "E0FF92",
+    "profile_text_color": "000000",
+    "profile_use_background_image": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/14834862/milqtoast_normal.png",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/14834862/milqtoast_normal.png",
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": null,
+    "follow_request_sent": null,
+    "notifications": null
+  },
+  "geo": {
+    "type": "Point",
+    "coordinates": [
+      40.68155061,
+      -73.97400443
+    ]
+  },
+  "coordinates": {
+    "type": "Point",
+    "coordinates": [
+      -73.97400443,
+      40.68155061
+    ]
+  },
+  "place": {
+    "id": "011add077f4d2da3",
+    "url": "https://api.twitter.com/1.1/geo/id/011add077f4d2da3.json",
+    "place_type": "city",
+    "name": "Brooklyn",
+    "full_name": "Brooklyn, NY",
+    "country_code": "US",
+    "country": "United States",
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            -74.041878,
+            40.570842
+          ],
+          [
+            -74.041878,
+            40.739434
+          ],
+          [
+            -73.855673,
+            40.739434
+          ],
+          [
+            -73.855673,
+            40.570842
+          ]
+        ]
+      ]
+    },
+    "attributes": {}
+  },
+  "contributors": null,
+  "is_quote_status": false,
+  "quote_count": 0,
+  "reply_count": 0,
+  "retweet_count": 0,
+  "favorite_count": 0,
+  "entities": {
+    "hashtags": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "screen_name": "buzz",
+        "name": "Buzz Andersen",
+        "id": 528,
+        "id_str": "528",
+        "indices": [
+          0,
+          5
+        ]
+      }
+    ],
+    "symbols": []
+  },
+  "favorited": false,
+  "retweeted": false,
+  "filter_level": "low",
+  "lang": "en",
+  "timestamp_ms": "1506895401962"
+}
