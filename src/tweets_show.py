@@ -1,13 +1,14 @@
+import os
 import random
 import re
 from subprocess import PIPE, Popen
 
 from flask import Flask, redirect, render_template, request
 
+from libs.db_tweet import DB_Handler
+from libs.sentiments_handling import DYADS, GROUPS
 from libs.tweet_anonymize import full_anonymize_tweet
 from libs.tweet_parser import TweetParser
-from tweets_db import *
-from tweets_db import DB_Handler
 from utils.tweets_scrapper import do_scrapping
 
 NONE = "none"
@@ -19,57 +20,6 @@ app = Flask(__name__)
 app.config['TEMPLATES_AUTO_RELOAD'] = True
 
 EMOJIS = re.compile(u"\\ud83d", flags=re.UNICODE)
-
-DYADS = {
-    ("joy", "trust"): "love",
-    ("trust", "fear"): "submission",
-    ("fear", "surprise"): "alarm",
-    ("surprise", "sadness"): "disappointment",
-    ("sadness", "disgust"): "remorse",
-    ("disgust", "anger"): "contempt",
-    ("anger", "anticipation"): "aggression",
-    ("anticipation", "joy"): "optimism",
-    ("joy", "fear"): "guilt",
-    ("trust", "surprise"): "curiosity",
-    ("fear", "sadness"): "despair",
-    ("sadness", "anger"): "envy",
-    ("disgust", "anticipation"): "cynism",
-    ("joy", "anger"): "pride",
-    ("trust", "anticipation"): "fatalism",
-    ("joy", "surprise"): "delight",
-    ("trust", "sadness"): "sentimentality",
-    ("fear", "disgust"): "shame",
-    ("surprise", "anger"): "outrage",
-    ("sadness", "anticipation"): "pessimism",
-    ("joy", "disgust"): "morbidness",
-    ("trust", "anger"): "dominance",
-    ("fear", "anticipation"): "anxiety",
-    (NONE, NONE): NONE
-}
-
-GROUPS = {
-    "love": HAPPY,
-    "optimism": HAPPY,
-    "pride": HAPPY,
-    "delight": HAPPY,
-    "alarm": ANGRY,
-    "contempt": ANGRY,
-    "aggression": ANGRY,
-    "envy": ANGRY,
-    "cynism": ANGRY,
-    "outrage": ANGRY,
-    "anxiety": ANGRY,
-    "disappointment": SAD,
-    "remorse": SAD,
-    "guilt": SAD,
-    "despair": SAD,
-    "fatalism": SAD,
-    "sentimentality": SAD,
-    "shame": SAD,
-    "pessimism": SAD,
-    NONE: NONE
-}
-
 
 def totalize_groups(sentiments):
     total = {HAPPY: 0, SAD: 0, ANGRY: 0, NONE: 0}
