@@ -5,8 +5,8 @@ from subprocess import PIPE, Popen
 
 from flask import Flask, redirect, render_template, request
 
-from libs.db_tweet import DB_Handler
-from libs.sentiments_handling import DYADS, GROUPS
+from libs.db_tweet import DB_Handler, get_sentiment_emotions
+from libs.sentiments_handling import DYADS
 from libs.tweet_anonymize import full_anonymize_tweet
 from libs.tweet_parser import TweetParser
 from utils.tweets_scrapper import do_scrapping
@@ -20,30 +20,6 @@ app = Flask(__name__)
 app.config['TEMPLATES_AUTO_RELOAD'] = True
 
 EMOJIS = re.compile(u"\\ud83d", flags=re.UNICODE)
-
-def totalize_groups(sentiments):
-    total = {HAPPY: 0, SAD: 0, ANGRY: 0, NONE: 0}
-    acum = 0
-
-    for sentiment in sentiments:
-        total[GROUPS.get(sentiment[0], NONE)] += sentiment[1]
-        acum += sentiment[1]
-
-    if acum == 0:
-        return total
-
-    for sentiment in total:
-        total[sentiment] /= acum
-        total[sentiment] *= 100
-
-    return total
-
-
-def get_emotions(sentiment):
-    for emotions, stored_sentiment in DYADS.items():
-        if stored_sentiment == sentiment:
-            return emotions
-    return []
 
 
 @app.route('/classify', methods=["GET"])
@@ -133,8 +109,8 @@ def scrapp():
         p.communicate(input=b'\n')
 
         p = Popen(["git", "remote", "add", "origin", "https://{}:{}@github.com/Xero-Hige/Magus.git".format(
-            os.environ.get('GITHUB_USER', ""),
-            os.environ.get('GITHUB_PASS', ""))],
+                os.environ.get('GITHUB_USER', ""),
+                os.environ.get('GITHUB_PASS', ""))],
                   stdout=PIPE, stdin=PIPE, stderr=PIPE, cwd='./upload')
         p.communicate(input=b'\n')
 
@@ -175,10 +151,10 @@ def scrapp():
         p = Popen(["git", "push", "--set-upstream", "origin", "tweets"],
                   stdout=PIPE, stdin=PIPE, stderr=PIPE, cwd='./upload')
         stdout_data = p.communicate(
-            input=bytes('{}\n{}\n'.format(
-                os.environ.get('GITHUB_USER', ""),
-                os.environ.get('GITHUB_PASS', "")),
-                'utf-8'))
+                input=bytes('{}\n{}\n'.format(
+                        os.environ.get('GITHUB_USER', ""),
+                        os.environ.get('GITHUB_PASS', "")),
+                        'utf-8'))
 
         print ("DEBUG - INFO : ", stdout_data)
 
@@ -219,7 +195,7 @@ def classify_tweet():
         if sentiment == NONE:
             tweet.none += 1
         else:
-            emotions = get_emotions(sentiment)
+            emotions = get_sentiment_emotions(sentiment)
 
             tweet.joy += 2 if 'joy' in emotions else 0
             tweet.sadness += 2 if 'sadness' in emotions else 0
@@ -304,20 +280,7 @@ def get_tweets_status():
             if _tweet.totals < 3:
                 continue
 
-            emotions = get_emotions_list(_tweet)
-
-            results = [(get_sentiment(emotions[i], emotions[j]), (emotions[i][0] + emotions[j][0]) / 2)
-                       for i in range(len(emotions))
-                       for j in range(i + 1, len(emotions))
-                       if get_sentiment(emotions[i], emotions[j]) != "conflict"
-                       if emotions[i][0] != 0 and emotions[j][0] != 0
-                       ] + [("-", 0)] * 5
-
-            results.sort(reverse=True, key=lambda x: x[1])
-
-            groups = totalize_groups(results)
-
-            emotions.sort(reverse=True)
+            emotions = _tweet.get_emotions_list()
             emotions = [emotion[1]
                         for emotion in emotions
                         if emotion[0] > 0
@@ -326,11 +289,8 @@ def get_tweets_status():
             for emotion in emotions:
                 totals_emotions[emotion] = totals_emotions.get(emotion, 0) + 1
 
-            groups = [(groups[group], group) for group in groups]
-            groups.sort(reverse=True)
-
-            for group in groups[:1]:
-                totals_groups[group[1]] = totals_groups.get(group[1], 0) + 1
+            group = _tweet.get_tweet_group()
+            totals_groups[group] = totals_groups.get(group, 0) + 1
 
     return totals_emotions, totals_groups
 
