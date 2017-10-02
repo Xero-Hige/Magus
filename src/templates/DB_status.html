@@ -139,5 +139,23 @@
 
         <div class="col-md-3"></div>
     </div>
+    {% for group in samples %}
+    <div class="row" style="padding: 1em 1em 0;background-color: #0091ea">
+        <div class="col-md-3"></div>
+
+        <div class="col-md-6 tweet_text" style="height: 15em">
+            <h4>{{group}}</h4>
+            <ul>
+                {% for sample in samples[group]%}
+                <li>Id: <a href="https://twitter.com/statuses/{{ sample[0] }}" target="_blank">{{ sample[0] }}</a> -- {{
+                    sample[1] }}
+                </li>
+                {% endfor %}
+            </ul>
+        </div>
+
+        <div class="col-md-3"></div>
+    </div>
+    {% endfor %}
 </main>
 {% include 'foot.html' %}

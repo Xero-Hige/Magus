@@ -1,1 +1,121 @@
-{"created_at": "Mon Sep 25 05:10:19 +0000 2017", "id": 912182455582441472, "id_str": "912182455582441472", "text": "@t_y0007 \u3054\u3081\u3093\u306a\u3055\u3044\uff01\ud83d\ude4f", "display_text_range": [9, 17], "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>", "truncated": false, "in_reply_to_status_id": 912145027995856896, "in_reply_to_status_id_str": "912145027995856896", "in_reply_to_user_id": 701071402959392769, "in_reply_to_user_id_str": "701071402959392769", "in_reply_to_screen_name": "t_y0007", "user": {"id": 704146212287438848, "id_str": "704146212287438848", "name": "\u524d\u7530 \u6717\u5927", "screen_name": "WoF_maeken", "location": "\u7b51\u7d2b\u91ce\u21c6\u98ef\u585a", "url": null, "description": "\u30c7\u30df\u30aaDE 5\u901fMT \n\n\u8fd1\u757f\u5927\u5b66 \u7523\u696d\u7406\u5de5\u5b66\u90e8 \u5efa\u7bc9\u30fb\u30c7\u30b6\u30a4\u30f3\u5b66\u79d1 '16\u5e74\u5ea6\u751f", "translator_type": "none", "protected": false, "verified": false, "followers_count": 171, "friends_count": 127, "listed_count": 0, "favourites_count": 11791, "statuses_count": 2745, "created_at": "Mon Feb 29 03:28:34 +0000 2016", "utc_offset": null, "time_zone": null, "geo_enabled": true, "lang": "ja", "contributors_enabled": false, "is_translator": false, "profile_background_color": "F5F8FA", "profile_background_image_url": "", "profile_background_image_url_https": "", "profile_background_tile": false, "profile_link_color": "1DA1F2", "profile_sidebar_border_color": "C0DEED", "profile_sidebar_fill_color": "DDEEF6", "profile_text_color": "333333", "profile_use_background_image": true, "profile_image_url": "http://pbs.twimg.com/profile_images/882928464801615872/b05eb5hw_normal.jpg", "profile_image_url_https": "https://pbs.twimg.com/profile_images/882928464801615872/b05eb5hw_normal.jpg", "profile_banner_url": "https://pbs.twimg.com/profile_banners/704146212287438848/1499341549", "default_profile": true, "default_profile_image": false, "following": null, "follow_request_sent": null, "notifications": null}, "geo": null, "coordinates": null, "place": {"id": "8d59909b600e0352", "url": "https://api.twitter.com/1.1/geo/id/8d59909b600e0352.json", "place_type": "city", "name": "\u98ef\u585a\u5e02", "full_name": "\u798f\u5ca1 \u98ef\u585a\u5e02", "country_code": "JP", "country": "\u65e5\u672c", "bounding_box": {"type": "Polygon", "coordinates": [[[130.557905, 33.50393], [130.557905, 33.707073], [130.77614, 33.707073], [130.77614, 33.50393]]]}, "attributes": {}}, "contributors": null, "is_quote_status": false, "quote_count": 0, "reply_count": 0, "retweet_count": 0, "favorite_count": 0, "entities": {"hashtags": [], "urls": [], "user_mentions": [{"screen_name": "t_y0007", "name": "\u3086\u304b", "id": 701071402959392769, "id_str": "701071402959392769", "indices": [0, 8]}], "symbols": []}, "favorited": false, "retweeted": false, "filter_level": "low", "lang": "ja", "timestamp_ms": "1506316219598"}
+{
+  "created_at": "Mon Sep 25 05:10:19 +0000 2017",
+  "id": 912182455582441472,
+  "id_str": "912182455582441472",
+  "text": "@t_y0007 \u3054\u3081\u3093\u306a\u3055\u3044\uff01\ud83d\ude4f",
+  "display_text_range": [
+    9,
+    17
+  ],
+  "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+  "truncated": false,
+  "in_reply_to_status_id": 912145027995856896,
+  "in_reply_to_status_id_str": "912145027995856896",
+  "in_reply_to_user_id": 701071402959392769,
+  "in_reply_to_user_id_str": "701071402959392769",
+  "in_reply_to_screen_name": "t_y0007",
+  "user": {
+    "id": 704146212287438848,
+    "id_str": "704146212287438848",
+    "name": "\u524d\u7530 \u6717\u5927",
+    "screen_name": "WoF_maeken",
+    "location": "\u7b51\u7d2b\u91ce\u21c6\u98ef\u585a",
+    "url": null,
+    "description": "\u30c7\u30df\u30aaDE 5\u901fMT \n\n\u8fd1\u757f\u5927\u5b66 \u7523\u696d\u7406\u5de5\u5b66\u90e8 \u5efa\u7bc9\u30fb\u30c7\u30b6\u30a4\u30f3\u5b66\u79d1 '16\u5e74\u5ea6\u751f",
+    "translator_type": "none",
+    "protected": false,
+    "verified": false,
+    "followers_count": 171,
+    "friends_count": 127,
+    "listed_count": 0,
+    "favourites_count": 11791,
+    "statuses_count": 2745,
+    "created_at": "Mon Feb 29 03:28:34 +0000 2016",
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": true,
+    "lang": "ja",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "F5F8FA",
+    "profile_background_image_url": "",
+    "profile_background_image_url_https": "",
+    "profile_background_tile": false,
+    "profile_link_color": "1DA1F2",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/882928464801615872/b05eb5hw_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/882928464801615872/b05eb5hw_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/704146212287438848/1499341549",
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": null,
+    "follow_request_sent": null,
+    "notifications": null
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": {
+    "id": "8d59909b600e0352",
+    "url": "https://api.twitter.com/1.1/geo/id/8d59909b600e0352.json",
+    "place_type": "city",
+    "name": "\u98ef\u585a\u5e02",
+    "full_name": "\u798f\u5ca1 \u98ef\u585a\u5e02",
+    "country_code": "JP",
+    "country": "\u65e5\u672c",
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            130.557905,
+            33.50393
+          ],
+          [
+            130.557905,
+            33.707073
+          ],
+          [
+            130.77614,
+            33.707073
+          ],
+          [
+            130.77614,
+            33.50393
+          ]
+        ]
+      ]
+    },
+    "attributes": {}
+  },
+  "contributors": null,
+  "is_quote_status": false,
+  "quote_count": 0,
+  "reply_count": 0,
+  "retweet_count": 0,
+  "favorite_count": 0,
+  "entities": {
+    "hashtags": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "screen_name": "t_y0007",
+        "name": "\u3086\u304b",
+        "id": 701071402959392769,
+        "id_str": "701071402959392769",
+        "indices": [
+          0,
+          8
+        ]
+      }
+    ],
+    "symbols": []
+  },
+  "favorited": false,
+  "retweeted": false,
+  "filter_level": "low",
+  "lang": "ja",
+  "timestamp_ms": "1506316219598"
+}

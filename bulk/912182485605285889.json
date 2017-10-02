@@ -1,1 +1,221 @@
-{"created_at": "Mon Sep 25 05:10:26 +0000 2017", "id": 912182485605285889, "id_str": "912182485605285889", "text": "#BuenosDias @DJPerianez https://t.co/j6fgkQiMff", "display_text_range": [0, 23], "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>", "truncated": false, "in_reply_to_status_id": null, "in_reply_to_status_id_str": null, "in_reply_to_user_id": null, "in_reply_to_user_id_str": null, "in_reply_to_screen_name": null, "user": {"id": 2403101091, "id_str": "2403101091", "name": "LA DAMA", "screen_name": "ladamanegra1978", "location": "Salamanca, Espa\u00f1a", "url": null, "description": "La conducta es el espejo que muestra \na las personas su verdadera imagen,\nSolo paso por aqu\u00ed ....mientras estoy viviendo", "translator_type": "none", "protected": false, "verified": false, "followers_count": 2216, "friends_count": 2078, "listed_count": 22, "favourites_count": 23881, "statuses_count": 26915, "created_at": "Tue Mar 11 20:54:16 +0000 2014", "utc_offset": null, "time_zone": null, "geo_enabled": true, "lang": "es", "contributors_enabled": false, "is_translator": false, "profile_background_color": "C0DEED", "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png", "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", "profile_background_tile": false, "profile_link_color": "1DA1F2", "profile_sidebar_border_color": "C0DEED", "profile_sidebar_fill_color": "DDEEF6", "profile_text_color": "333333", "profile_use_background_image": true, "profile_image_url": "http://pbs.twimg.com/profile_images/903515435441774592/lsS7VMSw_normal.jpg", "profile_image_url_https": "https://pbs.twimg.com/profile_images/903515435441774592/lsS7VMSw_normal.jpg", "profile_banner_url": "https://pbs.twimg.com/profile_banners/2403101091/1503051523", "default_profile": true, "default_profile_image": false, "following": null, "follow_request_sent": null, "notifications": null}, "geo": null, "coordinates": null, "place": {"id": "37e754d0754260ac", "url": "https://api.twitter.com/1.1/geo/id/37e754d0754260ac.json", "place_type": "city", "name": "Salamanca", "full_name": "Salamanca, Espa\u00f1a", "country_code": "ES", "country": "Espa\u00f1a", "bounding_box": {"type": "Polygon", "coordinates": [[[-5.735855, 40.914417], [-5.735855, 40.994337], [-5.622439, 40.994337], [-5.622439, 40.914417]]]}, "attributes": {}}, "contributors": null, "is_quote_status": false, "quote_count": 0, "reply_count": 0, "retweet_count": 0, "favorite_count": 0, "entities": {"hashtags": [{"text": "BuenosDias", "indices": [0, 11]}], "urls": [], "user_mentions": [{"screen_name": "DJPerianez", "name": "D. J.", "id": 1206126907, "id_str": "1206126907", "indices": [12, 23]}], "symbols": [], "media": [{"id": 912182475606118400, "id_str": "912182475606118400", "indices": [24, 47], "media_url": "http://pbs.twimg.com/tweet_video_thumb/DKi5IOzW0AAiQML.jpg", "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/DKi5IOzW0AAiQML.jpg", "url": "https://t.co/j6fgkQiMff", "display_url": "pic.twitter.com/j6fgkQiMff", "expanded_url": "https://twitter.com/ladamanegra1978/status/912182485605285889/photo/1", "type": "photo", "sizes": {"medium": {"w": 176, "h": 214, "resize": "fit"}, "small": {"w": 176, "h": 214, "resize": "fit"}, "thumb": {"w": 150, "h": 150, "resize": "crop"}, "large": {"w": 176, "h": 214, "resize": "fit"}}}]}, "extended_entities": {"media": [{"id": 912182475606118400, "id_str": "912182475606118400", "indices": [24, 47], "media_url": "http://pbs.twimg.com/tweet_video_thumb/DKi5IOzW0AAiQML.jpg", "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/DKi5IOzW0AAiQML.jpg", "url": "https://t.co/j6fgkQiMff", "display_url": "pic.twitter.com/j6fgkQiMff", "expanded_url": "https://twitter.com/ladamanegra1978/status/912182485605285889/photo/1", "type": "animated_gif", "sizes": {"medium": {"w": 176, "h": 214, "resize": "fit"}, "small": {"w": 176, "h": 214, "resize": "fit"}, "thumb": {"w": 150, "h": 150, "resize": "crop"}, "large": {"w": 176, "h": 214, "resize": "fit"}}, "video_info": {"aspect_ratio": [88, 107], "variants": [{"bitrate": 0, "content_type": "video/mp4", "url": "https://video.twimg.com/tweet_video/DKi5IOzW0AAiQML.mp4"}]}}]}, "favorited": false, "retweeted": false, "possibly_sensitive": false, "filter_level": "low", "lang": "und", "timestamp_ms": "1506316226756"}
+{
+  "created_at": "Mon Sep 25 05:10:26 +0000 2017",
+  "id": 912182485605285889,
+  "id_str": "912182485605285889",
+  "text": "#BuenosDias @DJPerianez https://t.co/j6fgkQiMff",
+  "display_text_range": [
+    0,
+    23
+  ],
+  "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 2403101091,
+    "id_str": "2403101091",
+    "name": "LA DAMA",
+    "screen_name": "ladamanegra1978",
+    "location": "Salamanca, Espa\u00f1a",
+    "url": null,
+    "description": "La conducta es el espejo que muestra \na las personas su verdadera imagen,\nSolo paso por aqu\u00ed ....mientras estoy viviendo",
+    "translator_type": "none",
+    "protected": false,
+    "verified": false,
+    "followers_count": 2216,
+    "friends_count": 2078,
+    "listed_count": 22,
+    "favourites_count": 23881,
+    "statuses_count": 26915,
+    "created_at": "Tue Mar 11 20:54:16 +0000 2014",
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": true,
+    "lang": "es",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "C0DEED",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": false,
+    "profile_link_color": "1DA1F2",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/903515435441774592/lsS7VMSw_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/903515435441774592/lsS7VMSw_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/2403101091/1503051523",
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": null,
+    "follow_request_sent": null,
+    "notifications": null
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": {
+    "id": "37e754d0754260ac",
+    "url": "https://api.twitter.com/1.1/geo/id/37e754d0754260ac.json",
+    "place_type": "city",
+    "name": "Salamanca",
+    "full_name": "Salamanca, Espa\u00f1a",
+    "country_code": "ES",
+    "country": "Espa\u00f1a",
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            -5.735855,
+            40.914417
+          ],
+          [
+            -5.735855,
+            40.994337
+          ],
+          [
+            -5.622439,
+            40.994337
+          ],
+          [
+            -5.622439,
+            40.914417
+          ]
+        ]
+      ]
+    },
+    "attributes": {}
+  },
+  "contributors": null,
+  "is_quote_status": false,
+  "quote_count": 0,
+  "reply_count": 0,
+  "retweet_count": 0,
+  "favorite_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "BuenosDias",
+        "indices": [
+          0,
+          11
+        ]
+      }
+    ],
+    "urls": [],
+    "user_mentions": [
+      {
+        "screen_name": "DJPerianez",
+        "name": "D. J.",
+        "id": 1206126907,
+        "id_str": "1206126907",
+        "indices": [
+          12,
+          23
+        ]
+      }
+    ],
+    "symbols": [],
+    "media": [
+      {
+        "id": 912182475606118400,
+        "id_str": "912182475606118400",
+        "indices": [
+          24,
+          47
+        ],
+        "media_url": "http://pbs.twimg.com/tweet_video_thumb/DKi5IOzW0AAiQML.jpg",
+        "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/DKi5IOzW0AAiQML.jpg",
+        "url": "https://t.co/j6fgkQiMff",
+        "display_url": "pic.twitter.com/j6fgkQiMff",
+        "expanded_url": "https://twitter.com/ladamanegra1978/status/912182485605285889/photo/1",
+        "type": "photo",
+        "sizes": {
+          "medium": {
+            "w": 176,
+            "h": 214,
+            "resize": "fit"
+          },
+          "small": {
+            "w": 176,
+            "h": 214,
+            "resize": "fit"
+          },
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "large": {
+            "w": 176,
+            "h": 214,
+            "resize": "fit"
+          }
+        }
+      }
+    ]
+  },
+  "extended_entities": {
+    "media": [
+      {
+        "id": 912182475606118400,
+        "id_str": "912182475606118400",
+        "indices": [
+          24,
+          47
+        ],
+        "media_url": "http://pbs.twimg.com/tweet_video_thumb/DKi5IOzW0AAiQML.jpg",
+        "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/DKi5IOzW0AAiQML.jpg",
+        "url": "https://t.co/j6fgkQiMff",
+        "display_url": "pic.twitter.com/j6fgkQiMff",
+        "expanded_url": "https://twitter.com/ladamanegra1978/status/912182485605285889/photo/1",
+        "type": "animated_gif",
+        "sizes": {
+          "medium": {
+            "w": 176,
+            "h": 214,
+            "resize": "fit"
+          },
+          "small": {
+            "w": 176,
+            "h": 214,
+            "resize": "fit"
+          },
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "large": {
+            "w": 176,
+            "h": 214,
+            "resize": "fit"
+          }
+        },
+        "video_info": {
+          "aspect_ratio": [
+            88,
+            107
+          ],
+          "variants": [
+            {
+              "bitrate": 0,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/tweet_video/DKi5IOzW0AAiQML.mp4"
+            }
+          ]
+        }
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false,
+  "filter_level": "low",
+  "lang": "und",
+  "timestamp_ms": "1506316226756"
+}

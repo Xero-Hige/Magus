@@ -1,0 +1,200 @@
+{
+  "created_at": "Sun Oct 01 00:09:18 +0000 2017",
+  "id": 914281029401219072,
+  "id_str": "914281029401219072",
+  "text": "@bratmix Looks like a run to Home Depot is needed. https://t.co/aQSstB8EZX",
+  "display_text_range": [
+    9,
+    50
+  ],
+  "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+  "truncated": false,
+  "in_reply_to_status_id": 914266577322876928,
+  "in_reply_to_status_id_str": "914266577322876928",
+  "in_reply_to_user_id": 19609623,
+  "in_reply_to_user_id_str": "19609623",
+  "in_reply_to_screen_name": "bratmix",
+  "user": {
+    "id": 3070490349,
+    "id_str": "3070490349",
+    "name": "Tin Soldier",
+    "screen_name": "TinSoldiere",
+    "location": "Manhattan, NY",
+    "url": "http://erasure.wikia.com",
+    "description": "Leave off the last e for...err, something starting with E...gotta think about this.",
+    "translator_type": "none",
+    "protected": false,
+    "verified": false,
+    "followers_count": 243,
+    "friends_count": 793,
+    "listed_count": 2,
+    "favourites_count": 6253,
+    "statuses_count": 2680,
+    "created_at": "Wed Mar 04 18:47:55 +0000 2015",
+    "utc_offset": -14400,
+    "time_zone": "Eastern Time (US & Canada)",
+    "geo_enabled": true,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "000000",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": false,
+    "profile_link_color": "CF120E",
+    "profile_sidebar_border_color": "000000",
+    "profile_sidebar_fill_color": "000000",
+    "profile_text_color": "000000",
+    "profile_use_background_image": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/573193647102951424/Enfuvc-f_normal.png",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/573193647102951424/Enfuvc-f_normal.png",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/3070490349/1505486469",
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": null,
+    "follow_request_sent": null,
+    "notifications": null
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": {
+    "id": "01a9a39529b27f36",
+    "url": "https://api.twitter.com/1.1/geo/id/01a9a39529b27f36.json",
+    "place_type": "city",
+    "name": "Manhattan",
+    "full_name": "Manhattan, NY",
+    "country_code": "US",
+    "country": "United States",
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            -74.026675,
+            40.683935
+          ],
+          [
+            -74.026675,
+            40.877483
+          ],
+          [
+            -73.910408,
+            40.877483
+          ],
+          [
+            -73.910408,
+            40.683935
+          ]
+        ]
+      ]
+    },
+    "attributes": {}
+  },
+  "contributors": null,
+  "is_quote_status": false,
+  "quote_count": 0,
+  "reply_count": 0,
+  "retweet_count": 0,
+  "favorite_count": 0,
+  "entities": {
+    "hashtags": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "screen_name": "bratmix",
+        "name": "Daniel Barassi",
+        "id": 19609623,
+        "id_str": "19609623",
+        "indices": [
+          0,
+          8
+        ]
+      }
+    ],
+    "symbols": [],
+    "media": [
+      {
+        "id": 914280874383953920,
+        "id_str": "914280874383953920",
+        "indices": [
+          51,
+          74
+        ],
+        "media_url": "http://pbs.twimg.com/media/DLAtnHaW0AADjpa.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/DLAtnHaW0AADjpa.jpg",
+        "url": "https://t.co/aQSstB8EZX",
+        "display_url": "pic.twitter.com/aQSstB8EZX",
+        "expanded_url": "https://twitter.com/TinSoldiere/status/914281029401219072/photo/1",
+        "type": "photo",
+        "sizes": {
+          "medium": {
+            "w": 900,
+            "h": 900,
+            "resize": "fit"
+          },
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "small": {
+            "w": 680,
+            "h": 680,
+            "resize": "fit"
+          },
+          "large": {
+            "w": 900,
+            "h": 900,
+            "resize": "fit"
+          }
+        }
+      }
+    ]
+  },
+  "extended_entities": {
+    "media": [
+      {
+        "id": 914280874383953920,
+        "id_str": "914280874383953920",
+        "indices": [
+          51,
+          74
+        ],
+        "media_url": "http://pbs.twimg.com/media/DLAtnHaW0AADjpa.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/DLAtnHaW0AADjpa.jpg",
+        "url": "https://t.co/aQSstB8EZX",
+        "display_url": "pic.twitter.com/aQSstB8EZX",
+        "expanded_url": "https://twitter.com/TinSoldiere/status/914281029401219072/photo/1",
+        "type": "photo",
+        "sizes": {
+          "medium": {
+            "w": 900,
+            "h": 900,
+            "resize": "fit"
+          },
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "small": {
+            "w": 680,
+            "h": 680,
+            "resize": "fit"
+          },
+          "large": {
+            "w": 900,
+            "h": 900,
+            "resize": "fit"
+          }
+        }
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false,
+  "filter_level": "low",
+  "lang": "en",
+  "timestamp_ms": "1506816558586"
+}

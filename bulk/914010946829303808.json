@@ -1,0 +1,129 @@
+{
+  "created_at": "Sat Sep 30 06:16:05 +0000 2017",
+  "id": 914010946829303808,
+  "id_str": "914010946829303808",
+  "text": "@BleacherReport Didn't #CougIt?!",
+  "display_text_range": [
+    16,
+    32
+  ],
+  "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+  "truncated": false,
+  "in_reply_to_status_id": 914009669164703744,
+  "in_reply_to_status_id_str": "914009669164703744",
+  "in_reply_to_user_id": 890891,
+  "in_reply_to_user_id_str": "890891",
+  "in_reply_to_screen_name": "BleacherReport",
+  "user": {
+    "id": 880576548067172353,
+    "id_str": "880576548067172353",
+    "name": "Will Duenkel",
+    "screen_name": "dubdunk",
+    "location": "Portland, OR",
+    "url": "http://www.instagram.com/dubdunk",
+    "description": "My favorite color is EQT green. /// \ud83d\udc5f Seattle-made. Alpinist & Preservationist. \u00c4, \u00eb, \u00ef, \u00f6, \u00fc, and sometimes a \u00df. Footwear Demand @adidasOriginals",
+    "translator_type": "none",
+    "protected": false,
+    "verified": false,
+    "followers_count": 84,
+    "friends_count": 167,
+    "listed_count": 0,
+    "favourites_count": 361,
+    "statuses_count": 80,
+    "created_at": "Thu Jun 29 23:59:44 +0000 2017",
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": true,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "000000",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": false,
+    "profile_link_color": "0A7C62",
+    "profile_sidebar_border_color": "000000",
+    "profile_sidebar_fill_color": "000000",
+    "profile_text_color": "000000",
+    "profile_use_background_image": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/880581696353185792/K1J-NNzw_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/880581696353185792/K1J-NNzw_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/880576548067172353/1499385299",
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": null,
+    "follow_request_sent": null,
+    "notifications": null
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": {
+    "id": "ac88a4f17a51c7fc",
+    "url": "https://api.twitter.com/1.1/geo/id/ac88a4f17a51c7fc.json",
+    "place_type": "city",
+    "name": "Portland",
+    "full_name": "Portland, OR",
+    "country_code": "US",
+    "country": "United States",
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            -122.790065,
+            45.421863
+          ],
+          [
+            -122.790065,
+            45.650941
+          ],
+          [
+            -122.471751,
+            45.650941
+          ],
+          [
+            -122.471751,
+            45.421863
+          ]
+        ]
+      ]
+    },
+    "attributes": {}
+  },
+  "contributors": null,
+  "is_quote_status": false,
+  "quote_count": 0,
+  "reply_count": 0,
+  "retweet_count": 0,
+  "favorite_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "CougIt",
+        "indices": [
+          23,
+          30
+        ]
+      }
+    ],
+    "urls": [],
+    "user_mentions": [
+      {
+        "screen_name": "BleacherReport",
+        "name": "Bleacher Report",
+        "id": 890891,
+        "id_str": "890891",
+        "indices": [
+          0,
+          15
+        ]
+      }
+    ],
+    "symbols": []
+  },
+  "favorited": false,
+  "retweeted": false,
+  "filter_level": "low",
+  "lang": "en",
+  "timestamp_ms": "1506752165883"
+}
