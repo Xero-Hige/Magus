@@ -257,9 +257,9 @@ def get_tweets_status():
 
         for _tweet in _tweets:
 
-            tweet_id = "{}.json".format(_tweet.id)
+            tweet_filename = "{}.json".format(_tweet.id)
 
-            if not str(tweet_id) in demo_tweets and not str(tweet_id) in bulk_tweets:
+            if tweet_filename not in demo_tweets and tweet_filename not in bulk_tweets:
                 continue
 
             if _tweet.totals < 3:
@@ -277,7 +277,7 @@ def get_tweets_status():
             group = _tweet.get_tweet_group()
             totals_groups[group] = totals_groups.get(group, 0) + 1
 
-    return totals_emotions, totals_groups
+    return totals_emotions, totals_groups, samples
 
 
 def tweet_dict_add_emotions(tweet, emotions):
