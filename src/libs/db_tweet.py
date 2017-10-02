@@ -99,7 +99,7 @@ class TaggedTweet(Base):
     def get_tweet_sentiment(self):
         """Returns the most representative sentiment of the tweet"""
         sentiment_list = self.get_sentiment_list()
-        return sentiment_list[0][0]
+        return sentiment_list[0][1]
 
     def get_tweet_group(self):
         """Returns the most representative group of the tweet"""
