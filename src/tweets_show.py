@@ -5,8 +5,9 @@ from subprocess import PIPE, Popen
 
 from flask import Flask, redirect, render_template, request
 
-from libs.db_tweet import DB_Handler, get_sentiment_emotions
-from libs.sentiments_handling import ANGER, ANTICIPATION, DISGUST, DYADS, FEAR, JOY, NONE, SADNESS, SURPRISE, TRUST
+from libs.db_tweet import DB_Handler, UNCLASIFIED, get_sentiment_emotions
+from libs.sentiments_handling import ANGER, ANGRY, ANTICIPATION, DISGUST, DYADS, FEAR, HAPPY, JOY, NONE, SAD, SADNESS, \
+    SURPRISE, TRUST
 from libs.tweet_anonymize import full_anonymize_tweet
 from libs.tweet_parser import TweetParser
 from utils.tweets_scrapper import do_scrapping
@@ -221,8 +222,8 @@ def classify():
 
 @app.route('/status', methods=["GET"])
 def status():
-    totals_emotions, totals_groups = get_tweets_status()
-    return render_template("DB_status.html", emotions=totals_emotions, groups=totals_groups)
+    totals_emotions, totals_groups, samples = get_tweets_status()
+    return render_template("DB_status.html", emotions=totals_emotions, groups=totals_groups, samples=samples)
 
 
 def load_tweet(tweet_file_name):
@@ -252,6 +253,8 @@ def get_tweets_status():
     demo_tweets = os.listdir("../tweets")
     bulk_tweets = os.listdir("../bulk")
 
+    samples = {HAPPY: [], SAD: [], ANGRY: [], NONE: [], UNCLASIFIED: []}
+
     with DB_Handler() as handler:
         _tweets = handler.get_all_tagged()
 
@@ -259,10 +262,10 @@ def get_tweets_status():
 
             tweet_filename = "{}.json".format(_tweet.id)
 
-            if tweet_filename not in demo_tweets and tweet_filename not in bulk_tweets:
+            if _tweet.totals < 3:
                 continue
 
-            if _tweet.totals < 3:
+            if tweet_filename not in demo_tweets and tweet_filename not in bulk_tweets:
                 continue
 
             emotions = _tweet.get_emotions_list()
@@ -276,6 +279,12 @@ def get_tweets_status():
 
             group = _tweet.get_tweet_group()
             totals_groups[group] = totals_groups.get(group, 0) + 1
+
+            samples[group].append((_tweet.id, _tweet.get_tweet_sentiment()))
+
+            samples_collected = len(samples[group])
+            if samples_collected > 10:
+                samples[group].pop(random.choice([0, samples_collected - 1]))
 
     return totals_emotions, totals_groups, samples
 
