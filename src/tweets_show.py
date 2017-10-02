@@ -230,19 +230,17 @@ def load_tweet(tweet_file_name):
 
     tweet["tweet_text"] = full_anonymize_tweet(tweet.get(TweetParser.TWEET_TEXT, ""))
 
-    sentiments = tweet_add_sentiments(tweet)
+    with DB_Handler() as handler:
+        _tweet = handler.get_tagged(tweet["tweet_id"])
 
-    results = [(get_sentiment(sentiments[i], sentiments[j]), (sentiments[i][0] + sentiments[j][0]) / 2)
-               for i in range(len(sentiments))
-               for j in range(i + 1, len(sentiments))
-               if get_sentiment(sentiments[i], sentiments[j]) != "conflict"
-               if sentiments[i][0] != 0 and sentiments[j][0] != 0
-               ] + [("-", 0)] * 5
+        groups = _tweet.get_groups_percent()
+        sentiments = _tweet.get_sentiment_list()
+        emotions = _tweet.get_emotions_list()
 
-    results.sort(reverse=True, key=lambda x: x[1])
+    tweet_dict_add_emotions(tweet, emotions)
 
-    tweet["sentiments"] = results[:5]
-    #    tweet["groups"] = totalize_groups(results)
+    tweet["sentiments"] = sentiments
+    tweet["groups"] = groups
 
     return tweet
 
@@ -282,47 +280,9 @@ def get_tweets_status():
     return totals_emotions, totals_groups
 
 
-def get_emotions_list(_tweet):
-    emotions = [[_tweet.joy / _tweet.totals, "joy"],
-                [_tweet.trust / _tweet.totals, "trust"],
-                [_tweet.fear / _tweet.totals, "fear"],
-                [_tweet.surprise / _tweet.totals, "surprise"],
-                [_tweet.sadness / _tweet.totals, "sadness"],
-                [_tweet.disgust / _tweet.totals, "disgust"],
-                [_tweet.anger / _tweet.totals, "anger"],
-                [_tweet.anticipation / _tweet.totals, "anticipation"],
-                [_tweet.none / _tweet.totals, "none"],
-                [_tweet.none / _tweet.totals, "none"]]
-
-    emotions.sort(reverse=True)
-
-    value = len(emotions)
-    for i, emotion in enumerate(emotions):
-        if emotion[0] == 0:
-            value = 0
-
-        must_reduce = i < len(emotions) - 1 and emotions[i][0] != emotions[i + 1][0]
-
-        emotion[0] = value
-
-        if must_reduce:
-            value = len(emotions) - (i + 1)
-
-        emotions[i] = tuple(emotion)
-
-    return emotions
-
-
-def tweet_add_sentiments(tweet):
-    with DB_Handler() as handler:
-        _tweet = handler.get_tagged(tweet['tweet_id'])
-
-        emotions = get_emotions_list(_tweet)
-
+def tweet_dict_add_emotions(tweet, emotions):
     for emotion in emotions:
         tweet[emotion[1]] = emotion[0]
-
-    return emotions
 
 
 def get_sentiment(emotion_a, emotion_b):
