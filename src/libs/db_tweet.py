@@ -6,6 +6,8 @@ from libs.sentiments_handling import *
 
 Base = declarative_base()
 
+UNCLASIFIED = "-"
+
 
 class TaggedTweet(Base):
     __tablename__ = "tweets"
@@ -25,7 +27,7 @@ class TaggedTweet(Base):
     totals = Column(Integer, nullable=False)
 
     def get_emotions_list(self):
-        """Retuns a list of the emotions in the tweet as a tuple with the format
+        """Returns a list of the emotions in the tweet as a tuple with the format
         (<percentage>,<emotion name>)"""
         emotions = [[self.joy / self.totals, JOY],
                     [self.trust / self.totals, TRUST],
@@ -57,35 +59,51 @@ class TaggedTweet(Base):
         return emotions
 
     def get_sentiment_list(self):
-
+        """Returns the list of sentiments asociated to the tweet as a list of tuples
+        with the format (<percentage>,<sentiment name>)"""
         emotions = self.get_emotions_list()
 
-        results = [(get_sentiment(emotions[i], emotions[j]), (emotions[i][0] + emotions[j][0]) / 2)
+        results = [(get_sentiment(emotions[i][1], emotions[j][1]), (emotions[i][0] + emotions[j][0]) / 2)
                    for i in range(len(emotions))
                    for j in range(i + 1, len(emotions))
-                   if get_sentiment(emotions[i], emotions[j])
                    if emotions[i][0] != 0 and emotions[j][0] != 0
+                   if get_sentiment(emotions[i][1], emotions[j][1])
                    # Padding at the end
-                   ] + [("-", 0)] * 5
+                   ] + [(UNCLASIFIED, 0)] * 5
 
         results.sort(reverse=True, key=lambda x: x[1])
 
+        return [(sentiment_name, percentage) for percentage, sentiment_name in results]
+
     def get_groups_percent(self):
+        """Returns a dictionary with the format <group>:<percent>"""
         total = {HAPPY: 0, SAD: 0, ANGRY: 0, NONE: 0}
-        acum = 0
+        accumulated_percent = 0
 
-        for sentiment in:
-            total[GROUPS.get(sentiment[0], NONE)] += sentiment[1]
-            acum += sentiment[1]
+        for sentiment, sentiment_percent in self.get_sentiment_list():
+            if sentiment not in GROUPS:
+                continue
 
-        if acum == 0:
+            total[GROUPS[sentiment]] += sentiment_percent
+            accumulated_percent += sentiment_percent
+
+        if accumulated_percent == 0:
             return total
 
         for sentiment in total:
-            total[sentiment] /= acum
+            total[sentiment] /= accumulated_percent
             total[sentiment] *= 100
 
         return total
+
+    def get_tweet_sentiment(self):
+        """Returns the most representative sentiment of the tweet"""
+        sentiment_list = self.get_sentiment_list()
+        return sentiment_list[0][0]
+
+    def get_tweet_group(self):
+        """Returns the most representative group of the tweet"""
+        return GROUPS.get(self.get_tweet_sentiment(), UNCLASIFIED)
 
 
 import os
