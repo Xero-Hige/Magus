@@ -12,10 +12,12 @@
 
                         <div class="row">
 
-                            <div id="tweet_text" class="col-md-10 text-justify tweet_text">
+                            <blockquote  class="col-md-10 text-justify twitter-tweet">
+                              <p class="Tweet-text e-entry-title" dir="ltr" lang="en">
                                 {% for line in tweet["tweet_text"].replace("&amp;","&").split("\n")%}
-                                <p>{{line}}</p>
+                                  {{line}}
                                 {% endfor%}
+                              </p>
                             </div>
 
                             <div class="col-md-2 div_header translate_div">
