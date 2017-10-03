@@ -29,7 +29,7 @@ def classify_get():
 
 
 @app.route('/classify2', methods=["GET"])
-def classify_get():
+def classify_get20():
     tweets = ["../tweets/{}".format(x) for x in os.listdir("../tweets")] \
              + ["../bulk/{}".format(x) for x in os.listdir("../bulk")]
 
