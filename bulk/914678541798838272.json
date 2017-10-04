@@ -1,1 +1,106 @@
-{"created_at": "Mon Oct 02 02:28:52 +0000 2017", "id": 914678541798838272, "id_str": "914678541798838272", "text": "eu tenho d\u00f3 de quem conversa comigo", "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>", "truncated": false, "in_reply_to_status_id": null, "in_reply_to_status_id_str": null, "in_reply_to_user_id": null, "in_reply_to_user_id_str": null, "in_reply_to_screen_name": null, "user": {"id": 3264686525, "id_str": "3264686525", "name": "zabella", "screen_name": "isabellaokuyama", "location": null, "url": null, "description": "minha mente \u00e9 m\u00f3 confus\u00e3o", "translator_type": "none", "protected": false, "verified": false, "followers_count": 290, "friends_count": 224, "listed_count": 0, "favourites_count": 14605, "statuses_count": 9487, "created_at": "Sun May 17 03:16:13 +0000 2015", "utc_offset": null, "time_zone": null, "geo_enabled": true, "lang": "pt", "contributors_enabled": false, "is_translator": false, "profile_background_color": "C0DEED", "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png", "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", "profile_background_tile": false, "profile_link_color": "1DA1F2", "profile_sidebar_border_color": "C0DEED", "profile_sidebar_fill_color": "DDEEF6", "profile_text_color": "333333", "profile_use_background_image": true, "profile_image_url": "http://pbs.twimg.com/profile_images/906707292820836359/_5AJ0SqK_normal.jpg", "profile_image_url_https": "https://pbs.twimg.com/profile_images/906707292820836359/_5AJ0SqK_normal.jpg", "profile_banner_url": "https://pbs.twimg.com/profile_banners/3264686525/1501370441", "default_profile": true, "default_profile_image": false, "following": null, "follow_request_sent": null, "notifications": null}, "geo": null, "coordinates": null, "place": {"id": "86e95544e795e190", "url": "https://api.twitter.com/1.1/geo/id/86e95544e795e190.json", "place_type": "city", "name": "Taubat\u00e9", "full_name": "Taubat\u00e9, Brasil", "country_code": "BR", "country": "Brasil", "bounding_box": {"type": "Polygon", "coordinates": [[[-45.723444, -23.22441], [-45.723444, -22.947623], [-45.289866, -22.947623], [-45.289866, -23.22441]]]}, "attributes": {}}, "contributors": null, "is_quote_status": false, "quote_count": 0, "reply_count": 0, "retweet_count": 0, "favorite_count": 0, "entities": {"hashtags": [], "urls": [], "user_mentions": [], "symbols": []}, "favorited": false, "retweeted": false, "filter_level": "low", "lang": "pt", "timestamp_ms": "1506911332927"}
+{
+  "created_at": "Mon Oct 02 02:28:52 +0000 2017",
+  "id": 914678541798838272,
+  "id_str": "914678541798838272",
+  "text": "eu tenho d\u00f3 de quem conversa comigo",
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 3264686525,
+    "id_str": "3264686525",
+    "name": "zabella",
+    "screen_name": "isabellaokuyama",
+    "location": null,
+    "url": null,
+    "description": "minha mente \u00e9 m\u00f3 confus\u00e3o",
+    "translator_type": "none",
+    "protected": false,
+    "verified": false,
+    "followers_count": 290,
+    "friends_count": 224,
+    "listed_count": 0,
+    "favourites_count": 14605,
+    "statuses_count": 9487,
+    "created_at": "Sun May 17 03:16:13 +0000 2015",
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": true,
+    "lang": "pt",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "C0DEED",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": false,
+    "profile_link_color": "1DA1F2",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/906707292820836359/_5AJ0SqK_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/906707292820836359/_5AJ0SqK_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/3264686525/1501370441",
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": null,
+    "follow_request_sent": null,
+    "notifications": null
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": {
+    "id": "86e95544e795e190",
+    "url": "https://api.twitter.com/1.1/geo/id/86e95544e795e190.json",
+    "place_type": "city",
+    "name": "Taubat\u00e9",
+    "full_name": "Taubat\u00e9, Brasil",
+    "country_code": "BR",
+    "country": "Brasil",
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            -45.723444,
+            -23.22441
+          ],
+          [
+            -45.723444,
+            -22.947623
+          ],
+          [
+            -45.289866,
+            -22.947623
+          ],
+          [
+            -45.289866,
+            -23.22441
+          ]
+        ]
+      ]
+    },
+    "attributes": {}
+  },
+  "contributors": null,
+  "is_quote_status": false,
+  "quote_count": 0,
+  "reply_count": 0,
+  "retweet_count": 0,
+  "favorite_count": 0,
+  "entities": {
+    "hashtags": [],
+    "urls": [],
+    "user_mentions": [],
+    "symbols": []
+  },
+  "favorited": false,
+  "retweeted": false,
+  "filter_level": "low",
+  "lang": "pt",
+  "timestamp_ms": "1506911332927"
+}

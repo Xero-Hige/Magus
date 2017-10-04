@@ -1,1 +1,131 @@
-{"created_at": "Mon Oct 02 17:55:52 +0000 2017", "id": 914911829100498944, "id_str": "914911829100498944", "text": "@ddl_andrel @portallovato h\u00e3?n\u00e3o entendei", "display_text_range": [26, 41], "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>", "truncated": false, "in_reply_to_status_id": 914911420172656640, "in_reply_to_status_id_str": "914911420172656640", "in_reply_to_user_id": 4025584222, "in_reply_to_user_id_str": "4025584222", "in_reply_to_screen_name": "ddl_andrel", "user": {"id": 976143631, "id_str": "976143631", "name": "demienick", "screen_name": "MarciaD00907568", "location": null, "url": null, "description": "Destinada a sofre por DEMI LOVATO e uma quedinha por nick jonas", "translator_type": "none", "protected": false, "verified": false, "followers_count": 2352, "friends_count": 2312, "listed_count": 23, "favourites_count": 2583, "statuses_count": 52376, "created_at": "Wed Nov 28 13:33:14 +0000 2012", "utc_offset": null, "time_zone": null, "geo_enabled": true, "lang": "pt", "contributors_enabled": false, "is_translator": false, "profile_background_color": "000000", "profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif", "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif", "profile_background_tile": false, "profile_link_color": "DD2E44", "profile_sidebar_border_color": "000000", "profile_sidebar_fill_color": "000000", "profile_text_color": "000000", "profile_use_background_image": false, "profile_image_url": "http://pbs.twimg.com/profile_images/913927165477101569/NK82sZQy_normal.jpg", "profile_image_url_https": "https://pbs.twimg.com/profile_images/913927165477101569/NK82sZQy_normal.jpg", "profile_banner_url": "https://pbs.twimg.com/profile_banners/976143631/1505483900", "default_profile": false, "default_profile_image": false, "following": null, "follow_request_sent": null, "notifications": null}, "geo": null, "coordinates": null, "place": {"id": "1b107df3ccc0aaa1", "url": "https://api.twitter.com/1.1/geo/id/1b107df3ccc0aaa1.json", "place_type": "country", "name": "Brasil", "full_name": "Brasil", "country_code": "BR", "country": "Brasil", "bounding_box": {"type": "Polygon", "coordinates": [[[-73.991482, -33.751051], [-73.991482, 5.27192], [-32.378186, 5.27192], [-32.378186, -33.751051]]]}, "attributes": {}}, "contributors": null, "is_quote_status": false, "quote_count": 0, "reply_count": 0, "retweet_count": 0, "favorite_count": 0, "entities": {"hashtags": [], "urls": [], "user_mentions": [{"screen_name": "ddl_andrel", "name": "andr\u00e9 loves demi", "id": 4025584222, "id_str": "4025584222", "indices": [0, 11]}, {"screen_name": "portallovato", "name": "Portal Lovato", "id": 118485945, "id_str": "118485945", "indices": [12, 25]}], "symbols": []}, "favorited": false, "retweeted": false, "filter_level": "low", "lang": "pt", "timestamp_ms": "1506966952954"}
+{
+  "created_at": "Mon Oct 02 17:55:52 +0000 2017",
+  "id": 914911829100498944,
+  "id_str": "914911829100498944",
+  "text": "@ddl_andrel @portallovato h\u00e3?n\u00e3o entendei",
+  "display_text_range": [
+    26,
+    41
+  ],
+  "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+  "truncated": false,
+  "in_reply_to_status_id": 914911420172656640,
+  "in_reply_to_status_id_str": "914911420172656640",
+  "in_reply_to_user_id": 4025584222,
+  "in_reply_to_user_id_str": "4025584222",
+  "in_reply_to_screen_name": "ddl_andrel",
+  "user": {
+    "id": 976143631,
+    "id_str": "976143631",
+    "name": "demienick",
+    "screen_name": "MarciaD00907568",
+    "location": null,
+    "url": null,
+    "description": "Destinada a sofre por DEMI LOVATO e uma quedinha por nick jonas",
+    "translator_type": "none",
+    "protected": false,
+    "verified": false,
+    "followers_count": 2352,
+    "friends_count": 2312,
+    "listed_count": 23,
+    "favourites_count": 2583,
+    "statuses_count": 52376,
+    "created_at": "Wed Nov 28 13:33:14 +0000 2012",
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": true,
+    "lang": "pt",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "000000",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+    "profile_background_tile": false,
+    "profile_link_color": "DD2E44",
+    "profile_sidebar_border_color": "000000",
+    "profile_sidebar_fill_color": "000000",
+    "profile_text_color": "000000",
+    "profile_use_background_image": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/913927165477101569/NK82sZQy_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/913927165477101569/NK82sZQy_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/976143631/1505483900",
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": null,
+    "follow_request_sent": null,
+    "notifications": null
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": {
+    "id": "1b107df3ccc0aaa1",
+    "url": "https://api.twitter.com/1.1/geo/id/1b107df3ccc0aaa1.json",
+    "place_type": "country",
+    "name": "Brasil",
+    "full_name": "Brasil",
+    "country_code": "BR",
+    "country": "Brasil",
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            -73.991482,
+            -33.751051
+          ],
+          [
+            -73.991482,
+            5.27192
+          ],
+          [
+            -32.378186,
+            5.27192
+          ],
+          [
+            -32.378186,
+            -33.751051
+          ]
+        ]
+      ]
+    },
+    "attributes": {}
+  },
+  "contributors": null,
+  "is_quote_status": false,
+  "quote_count": 0,
+  "reply_count": 0,
+  "retweet_count": 0,
+  "favorite_count": 0,
+  "entities": {
+    "hashtags": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "screen_name": "ddl_andrel",
+        "name": "andr\u00e9 loves demi",
+        "id": 4025584222,
+        "id_str": "4025584222",
+        "indices": [
+          0,
+          11
+        ]
+      },
+      {
+        "screen_name": "portallovato",
+        "name": "Portal Lovato",
+        "id": 118485945,
+        "id_str": "118485945",
+        "indices": [
+          12,
+          25
+        ]
+      }
+    ],
+    "symbols": []
+  },
+  "favorited": false,
+  "retweeted": false,
+  "filter_level": "low",
+  "lang": "pt",
+  "timestamp_ms": "1506966952954"
+}

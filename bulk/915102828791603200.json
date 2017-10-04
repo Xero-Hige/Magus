@@ -1,1 +1,197 @@
-{"created_at": "Tue Oct 03 06:34:50 +0000 2017", "id": 915102828791603200, "id_str": "915102828791603200", "text": "Aaaaand this is how I greet my rides to grab me from the airport hehe \ud83e\udd37\u200d\u2640\ufe0f\ud83e\udd17 #honesttruththo https://t.co/tugZtKXQ39", "display_text_range": [0, 91], "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>", "truncated": false, "in_reply_to_status_id": null, "in_reply_to_status_id_str": null, "in_reply_to_user_id": null, "in_reply_to_user_id_str": null, "in_reply_to_screen_name": null, "user": {"id": 2529393920, "id_str": "2529393920", "name": "Kimmie Carpio", "screen_name": "kimmmiecarpio", "location": "MAUI \u2765", "url": null, "description": null, "translator_type": "none", "protected": false, "verified": false, "followers_count": 220, "friends_count": 529, "listed_count": 4, "favourites_count": 6284, "statuses_count": 3882, "created_at": "Wed May 28 07:52:22 +0000 2014", "utc_offset": -36000, "time_zone": "Hawaii", "geo_enabled": true, "lang": "en", "contributors_enabled": false, "is_translator": false, "profile_background_color": "B2DFDA", "profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif", "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif", "profile_background_tile": false, "profile_link_color": "93A644", "profile_sidebar_border_color": "EEEEEE", "profile_sidebar_fill_color": "FFFFFF", "profile_text_color": "333333", "profile_use_background_image": true, "profile_image_url": "http://pbs.twimg.com/profile_images/902395440259141632/mjFFfSYP_normal.jpg", "profile_image_url_https": "https://pbs.twimg.com/profile_images/902395440259141632/mjFFfSYP_normal.jpg", "profile_banner_url": "https://pbs.twimg.com/profile_banners/2529393920/1503345812", "default_profile": false, "default_profile_image": false, "following": null, "follow_request_sent": null, "notifications": null}, "geo": null, "coordinates": null, "place": {"id": "c8b06a459cc8f78a", "url": "https://api.twitter.com/1.1/geo/id/c8b06a459cc8f78a.json", "place_type": "city", "name": "SeaTac", "full_name": "SeaTac, WA", "country_code": "US", "country": "United States", "bounding_box": {"type": "Polygon", "coordinates": [[[-122.326102, 47.396426], [-122.326102, 47.48874], [-122.266875, 47.48874], [-122.266875, 47.396426]]]}, "attributes": {}}, "contributors": null, "is_quote_status": false, "quote_count": 0, "reply_count": 0, "retweet_count": 0, "favorite_count": 0, "entities": {"hashtags": [{"text": "honesttruththo", "indices": [76, 91]}], "urls": [], "user_mentions": [], "symbols": [], "media": [{"id": 915102805232250880, "id_str": "915102805232250880", "indices": [92, 115], "media_url": "http://pbs.twimg.com/media/DLMZJybU8AAY5rd.jpg", "media_url_https": "https://pbs.twimg.com/media/DLMZJybU8AAY5rd.jpg", "url": "https://t.co/tugZtKXQ39", "display_url": "pic.twitter.com/tugZtKXQ39", "expanded_url": "https://twitter.com/kimmmiecarpio/status/915102828791603200/photo/1", "type": "photo", "sizes": {"large": {"w": 1152, "h": 2048, "resize": "fit"}, "thumb": {"w": 150, "h": 150, "resize": "crop"}, "small": {"w": 383, "h": 680, "resize": "fit"}, "medium": {"w": 675, "h": 1200, "resize": "fit"}}}]}, "extended_entities": {"media": [{"id": 915102805232250880, "id_str": "915102805232250880", "indices": [92, 115], "media_url": "http://pbs.twimg.com/media/DLMZJybU8AAY5rd.jpg", "media_url_https": "https://pbs.twimg.com/media/DLMZJybU8AAY5rd.jpg", "url": "https://t.co/tugZtKXQ39", "display_url": "pic.twitter.com/tugZtKXQ39", "expanded_url": "https://twitter.com/kimmmiecarpio/status/915102828791603200/photo/1", "type": "photo", "sizes": {"large": {"w": 1152, "h": 2048, "resize": "fit"}, "thumb": {"w": 150, "h": 150, "resize": "crop"}, "small": {"w": 383, "h": 680, "resize": "fit"}, "medium": {"w": 675, "h": 1200, "resize": "fit"}}}]}, "favorited": false, "retweeted": false, "possibly_sensitive": false, "filter_level": "low", "lang": "en", "timestamp_ms": "1507012490829"}
+{
+  "created_at": "Tue Oct 03 06:34:50 +0000 2017",
+  "id": 915102828791603200,
+  "id_str": "915102828791603200",
+  "text": "Aaaaand this is how I greet my rides to grab me from the airport hehe \ud83e\udd37\u200d\u2640\ufe0f\ud83e\udd17 #honesttruththo https://t.co/tugZtKXQ39",
+  "display_text_range": [
+    0,
+    91
+  ],
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 2529393920,
+    "id_str": "2529393920",
+    "name": "Kimmie Carpio",
+    "screen_name": "kimmmiecarpio",
+    "location": "MAUI \u2765",
+    "url": null,
+    "description": null,
+    "translator_type": "none",
+    "protected": false,
+    "verified": false,
+    "followers_count": 220,
+    "friends_count": 529,
+    "listed_count": 4,
+    "favourites_count": 6284,
+    "statuses_count": 3882,
+    "created_at": "Wed May 28 07:52:22 +0000 2014",
+    "utc_offset": -36000,
+    "time_zone": "Hawaii",
+    "geo_enabled": true,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "B2DFDA",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+    "profile_background_tile": false,
+    "profile_link_color": "93A644",
+    "profile_sidebar_border_color": "EEEEEE",
+    "profile_sidebar_fill_color": "FFFFFF",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/902395440259141632/mjFFfSYP_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/902395440259141632/mjFFfSYP_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/2529393920/1503345812",
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": null,
+    "follow_request_sent": null,
+    "notifications": null
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": {
+    "id": "c8b06a459cc8f78a",
+    "url": "https://api.twitter.com/1.1/geo/id/c8b06a459cc8f78a.json",
+    "place_type": "city",
+    "name": "SeaTac",
+    "full_name": "SeaTac, WA",
+    "country_code": "US",
+    "country": "United States",
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            -122.326102,
+            47.396426
+          ],
+          [
+            -122.326102,
+            47.48874
+          ],
+          [
+            -122.266875,
+            47.48874
+          ],
+          [
+            -122.266875,
+            47.396426
+          ]
+        ]
+      ]
+    },
+    "attributes": {}
+  },
+  "contributors": null,
+  "is_quote_status": false,
+  "quote_count": 0,
+  "reply_count": 0,
+  "retweet_count": 0,
+  "favorite_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "honesttruththo",
+        "indices": [
+          76,
+          91
+        ]
+      }
+    ],
+    "urls": [],
+    "user_mentions": [],
+    "symbols": [],
+    "media": [
+      {
+        "id": 915102805232250880,
+        "id_str": "915102805232250880",
+        "indices": [
+          92,
+          115
+        ],
+        "media_url": "http://pbs.twimg.com/media/DLMZJybU8AAY5rd.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/DLMZJybU8AAY5rd.jpg",
+        "url": "https://t.co/tugZtKXQ39",
+        "display_url": "pic.twitter.com/tugZtKXQ39",
+        "expanded_url": "https://twitter.com/kimmmiecarpio/status/915102828791603200/photo/1",
+        "type": "photo",
+        "sizes": {
+          "large": {
+            "w": 1152,
+            "h": 2048,
+            "resize": "fit"
+          },
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "small": {
+            "w": 383,
+            "h": 680,
+            "resize": "fit"
+          },
+          "medium": {
+            "w": 675,
+            "h": 1200,
+            "resize": "fit"
+          }
+        }
+      }
+    ]
+  },
+  "extended_entities": {
+    "media": [
+      {
+        "id": 915102805232250880,
+        "id_str": "915102805232250880",
+        "indices": [
+          92,
+          115
+        ],
+        "media_url": "http://pbs.twimg.com/media/DLMZJybU8AAY5rd.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/DLMZJybU8AAY5rd.jpg",
+        "url": "https://t.co/tugZtKXQ39",
+        "display_url": "pic.twitter.com/tugZtKXQ39",
+        "expanded_url": "https://twitter.com/kimmmiecarpio/status/915102828791603200/photo/1",
+        "type": "photo",
+        "sizes": {
+          "large": {
+            "w": 1152,
+            "h": 2048,
+            "resize": "fit"
+          },
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "small": {
+            "w": 383,
+            "h": 680,
+            "resize": "fit"
+          },
+          "medium": {
+            "w": 675,
+            "h": 1200,
+            "resize": "fit"
+          }
+        }
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false,
+  "filter_level": "low",
+  "lang": "en",
+  "timestamp_ms": "1507012490829"
+}
