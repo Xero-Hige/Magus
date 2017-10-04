@@ -12,15 +12,15 @@
 
                         <div class="row">
 
-                          <div class="col-md-10 twitter-tweet">
-                            <blockquote  class="text-justify twitter-tweet">
-                              <p class="Tweet-text e-entry-title" dir="ltr" lang="en">
-                                {% for line in tweet["tweet_text"].replace("&amp;","&").split("\n")%}
-                                  {{line}}
-                                {% endfor%}
-                              </p>
+                            <div class="col-md-10 twitter-tweet" style="width: 100%">
+                                <blockquote class="twitter-tweet" style="width: 100%">
+                                    <p class="Tweet-text e-entry-title" dir="ltr" lang="en">
+                                        {% for line in tweet["tweet_text"].replace("&amp;","&").split("\n")%}
+                                        {{line}}
+                                        {% endfor%}
+                                    </p>
+                                </blockquote>
                             </div>
-
                             <div class="col-md-2 div_header translate_div">
                                 <div class="row">
                                     Translate to
@@ -89,7 +89,8 @@
 
                             <div class="col-md-12">
                                 <div class="row">
-                                    <div class="col-md-12 div_header" style="text-align: center"> Tweet Classification
+                                    <div class="col-md-12 div_header" style="text-align: center"> Tweet
+                                        Classification
                                         Status
                                     </div>
                                 </div>
@@ -225,7 +226,8 @@
                                                             fusioncharts.render();
                                                         });
                                                     </script>
-                                                    <div id="radar2_{{tweet['tweet_id']}}" class="col-md-12 margin=0"
+                                                    <div id="radar2_{{tweet['tweet_id']}}"
+                                                         class="col-md-12 margin=0"
                                                          style="height: 30em"></div>
                                                 </div>
                                             </div>
@@ -324,7 +326,8 @@
                             <div class="col-md-6">
                                 <button type="submit" class="btn btn-success" name="action" value="finish">Finish
                                 </button>
-                                <button type="submit" class="btn btn-success" name="action" value="next">Next</button>
+                                <button type="submit" class="btn btn-success" name="action" value="next">Next
+                                </button>
                                 <button type="submit" class="btn btn-success" name="action" value="skip">Skip >>
                                 </button>
                             </div>

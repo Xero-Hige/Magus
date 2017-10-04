@@ -28,14 +28,14 @@ def classify_get():
     return render_template("tweet_catalog.html", tweet=tweet, max=max)
 
 
-@app.route('/classify2', methods=["GET"])
-def classify_get20():
+@app.route('/classify_old', methods=["GET"])
+def classify_get_old():
     tweets = ["../tweets/{}".format(x) for x in os.listdir("../tweets")] \
              + ["../bulk/{}".format(x) for x in os.listdir("../bulk")]
 
     tweet = load_tweet(random.choice(tweets))
 
-    return render_template("tweet_catalog2.html", tweet=tweet, max=max)
+    return render_template("tweet_catalog_old.html", tweet=tweet, max=max)
 
 
 @app.route('/classify/<int:tweet_id>', methods=["GET"])
