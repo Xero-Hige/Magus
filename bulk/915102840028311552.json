@@ -1,1 +1,139 @@
-{"created_at": "Tue Oct 03 06:34:53 +0000 2017", "id": 915102840028311552, "id_str": "915102840028311552", "text": "Drinking a Hipp O Lantern Imperial Pumpkin Ale by @RiverHorseBrew @ Our House \u2014 https://t.co/PBUxaJ4xkE", "source": "<a href=\"https://untappd.com\" rel=\"nofollow\">Untappd</a>", "truncated": false, "in_reply_to_status_id": null, "in_reply_to_status_id_str": null, "in_reply_to_user_id": null, "in_reply_to_user_id_str": null, "in_reply_to_screen_name": null, "user": {"id": 15641200, "id_str": "15641200", "name": "ronwanner", "screen_name": "ronwanner", "location": "Philadelphia,PA", "url": null, "description": "I'm weird untappd: jrwanner", "translator_type": "none", "protected": false, "verified": false, "followers_count": 35, "friends_count": 176, "listed_count": 0, "favourites_count": 56, "statuses_count": 1650, "created_at": "Tue Jul 29 02:48:01 +0000 2008", "utc_offset": -14400, "time_zone": "Eastern Time (US & Canada)", "geo_enabled": true, "lang": "en", "contributors_enabled": false, "is_translator": false, "profile_background_color": "0099B9", "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png", "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", "profile_background_tile": false, "profile_link_color": "0099B9", "profile_sidebar_border_color": "5ED4DC", "profile_sidebar_fill_color": "95E8EC", "profile_text_color": "442173", "profile_use_background_image": true, "profile_image_url": "http://pbs.twimg.com/profile_images/61114853/100_1686_normal.JPG", "profile_image_url_https": "https://pbs.twimg.com/profile_images/61114853/100_1686_normal.JPG", "default_profile": false, "default_profile_image": false, "following": null, "follow_request_sent": null, "notifications": null}, "geo": {"type": "Point", "coordinates": [40.0895, -75.2771]}, "coordinates": {"type": "Point", "coordinates": [-75.2771, 40.0895]}, "place": {"id": "dd9c503d6c35364b", "url": "https://api.twitter.com/1.1/geo/id/dd9c503d6c35364b.json", "place_type": "admin", "name": "Pennsylvania", "full_name": "Pennsylvania, USA", "country_code": "US", "country": "United States", "bounding_box": {"type": "Polygon", "coordinates": [[[-80.519851, 39.719801], [-80.519851, 42.516072], [-74.689517, 42.516072], [-74.689517, 39.719801]]]}, "attributes": {}}, "contributors": null, "is_quote_status": false, "quote_count": 0, "reply_count": 0, "retweet_count": 0, "favorite_count": 0, "entities": {"hashtags": [], "urls": [{"url": "https://t.co/PBUxaJ4xkE", "expanded_url": "http://untp.beer/s/c510938028", "display_url": "untp.beer/s/c510938028", "indices": [80, 103]}], "user_mentions": [{"screen_name": "RiverHorseBrew", "name": "RiverHorseBrewingCo.", "id": 121128972, "id_str": "121128972", "indices": [50, 65]}], "symbols": []}, "favorited": false, "retweeted": false, "possibly_sensitive": false, "filter_level": "low", "lang": "en", "timestamp_ms": "1507012493508"}
+{
+  "created_at": "Tue Oct 03 06:34:53 +0000 2017",
+  "id": 915102840028311552,
+  "id_str": "915102840028311552",
+  "text": "Drinking a Hipp O Lantern Imperial Pumpkin Ale by @RiverHorseBrew @ Our House \u2014 https://t.co/PBUxaJ4xkE",
+  "source": "<a href=\"https://untappd.com\" rel=\"nofollow\">Untappd</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 15641200,
+    "id_str": "15641200",
+    "name": "ronwanner",
+    "screen_name": "ronwanner",
+    "location": "Philadelphia,PA",
+    "url": null,
+    "description": "I'm weird untappd: jrwanner",
+    "translator_type": "none",
+    "protected": false,
+    "verified": false,
+    "followers_count": 35,
+    "friends_count": 176,
+    "listed_count": 0,
+    "favourites_count": 56,
+    "statuses_count": 1650,
+    "created_at": "Tue Jul 29 02:48:01 +0000 2008",
+    "utc_offset": -14400,
+    "time_zone": "Eastern Time (US & Canada)",
+    "geo_enabled": true,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "0099B9",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": false,
+    "profile_link_color": "0099B9",
+    "profile_sidebar_border_color": "5ED4DC",
+    "profile_sidebar_fill_color": "95E8EC",
+    "profile_text_color": "442173",
+    "profile_use_background_image": true,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/61114853/100_1686_normal.JPG",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/61114853/100_1686_normal.JPG",
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": null,
+    "follow_request_sent": null,
+    "notifications": null
+  },
+  "geo": {
+    "type": "Point",
+    "coordinates": [
+      40.0895,
+      -75.2771
+    ]
+  },
+  "coordinates": {
+    "type": "Point",
+    "coordinates": [
+      -75.2771,
+      40.0895
+    ]
+  },
+  "place": {
+    "id": "dd9c503d6c35364b",
+    "url": "https://api.twitter.com/1.1/geo/id/dd9c503d6c35364b.json",
+    "place_type": "admin",
+    "name": "Pennsylvania",
+    "full_name": "Pennsylvania, USA",
+    "country_code": "US",
+    "country": "United States",
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            -80.519851,
+            39.719801
+          ],
+          [
+            -80.519851,
+            42.516072
+          ],
+          [
+            -74.689517,
+            42.516072
+          ],
+          [
+            -74.689517,
+            39.719801
+          ]
+        ]
+      ]
+    },
+    "attributes": {}
+  },
+  "contributors": null,
+  "is_quote_status": false,
+  "quote_count": 0,
+  "reply_count": 0,
+  "retweet_count": 0,
+  "favorite_count": 0,
+  "entities": {
+    "hashtags": [],
+    "urls": [
+      {
+        "url": "https://t.co/PBUxaJ4xkE",
+        "expanded_url": "http://untp.beer/s/c510938028",
+        "display_url": "untp.beer/s/c510938028",
+        "indices": [
+          80,
+          103
+        ]
+      }
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "RiverHorseBrew",
+        "name": "RiverHorseBrewingCo.",
+        "id": 121128972,
+        "id_str": "121128972",
+        "indices": [
+          50,
+          65
+        ]
+      }
+    ],
+    "symbols": []
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false,
+  "filter_level": "low",
+  "lang": "en",
+  "timestamp_ms": "1507012493508"
+}

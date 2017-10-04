@@ -1,1 +1,121 @@
-{"created_at": "Mon Oct 02 03:12:03 +0000 2017", "id": 914689408590327809, "id_str": "914689408590327809", "text": "@taylorswift13 I love you! :) You're beautiful! :)", "display_text_range": [15, 50], "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>", "truncated": false, "in_reply_to_status_id": 913774451862450182, "in_reply_to_status_id_str": "913774451862450182", "in_reply_to_user_id": 17919972, "in_reply_to_user_id_str": "17919972", "in_reply_to_screen_name": "taylorswift13", "user": {"id": 518954029, "id_str": "518954029", "name": "\u2605\u2605\u2605Stephen Nix\u2605\u2605\u2605", "screen_name": "grandcelestial8", "location": "OH", "url": null, "description": "Hello there. 28. Gamer. @KingJames is also my cousin I swear. Twittering away the days. What are you up to?", "translator_type": "regular", "protected": false, "verified": false, "followers_count": 1738, "friends_count": 5001, "listed_count": 49, "favourites_count": 120773, "statuses_count": 249591, "created_at": "Thu Mar 08 22:41:41 +0000 2012", "utc_offset": -14400, "time_zone": "Eastern Time (US & Canada)", "geo_enabled": true, "lang": "en", "contributors_enabled": false, "is_translator": false, "profile_background_color": "DBE9ED", "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/456923962417479680/M6TFK3qD.jpeg", "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/456923962417479680/M6TFK3qD.jpeg", "profile_background_tile": true, "profile_link_color": "333333", "profile_sidebar_border_color": "FFFFFF", "profile_sidebar_fill_color": "DDEEF6", "profile_text_color": "333333", "profile_use_background_image": true, "profile_image_url": "http://pbs.twimg.com/profile_images/876998312204931072/ZoJbsy2b_normal.jpg", "profile_image_url_https": "https://pbs.twimg.com/profile_images/876998312204931072/ZoJbsy2b_normal.jpg", "profile_banner_url": "https://pbs.twimg.com/profile_banners/518954029/1414554168", "default_profile": false, "default_profile_image": false, "following": null, "follow_request_sent": null, "notifications": null}, "geo": null, "coordinates": null, "place": {"id": "de599025180e2ee7", "url": "https://api.twitter.com/1.1/geo/id/de599025180e2ee7.json", "place_type": "admin", "name": "Ohio", "full_name": "Ohio, USA", "country_code": "US", "country": "United States", "bounding_box": {"type": "Polygon", "coordinates": [[[-84.820309, 38.403186], [-84.820309, 42.327133], [-80.518626, 42.327133], [-80.518626, 38.403186]]]}, "attributes": {}}, "contributors": null, "is_quote_status": false, "quote_count": 0, "reply_count": 0, "retweet_count": 0, "favorite_count": 0, "entities": {"hashtags": [], "urls": [], "user_mentions": [{"screen_name": "taylorswift13", "name": "Taylor Swift", "id": 17919972, "id_str": "17919972", "indices": [0, 14]}], "symbols": []}, "favorited": false, "retweeted": false, "filter_level": "low", "lang": "en", "timestamp_ms": "1506913923772"}
+{
+  "created_at": "Mon Oct 02 03:12:03 +0000 2017",
+  "id": 914689408590327809,
+  "id_str": "914689408590327809",
+  "text": "@taylorswift13 I love you! :) You're beautiful! :)",
+  "display_text_range": [
+    15,
+    50
+  ],
+  "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+  "truncated": false,
+  "in_reply_to_status_id": 913774451862450182,
+  "in_reply_to_status_id_str": "913774451862450182",
+  "in_reply_to_user_id": 17919972,
+  "in_reply_to_user_id_str": "17919972",
+  "in_reply_to_screen_name": "taylorswift13",
+  "user": {
+    "id": 518954029,
+    "id_str": "518954029",
+    "name": "\u2605\u2605\u2605Stephen Nix\u2605\u2605\u2605",
+    "screen_name": "grandcelestial8",
+    "location": "OH",
+    "url": null,
+    "description": "Hello there. 28. Gamer. @KingJames is also my cousin I swear. Twittering away the days. What are you up to?",
+    "translator_type": "regular",
+    "protected": false,
+    "verified": false,
+    "followers_count": 1738,
+    "friends_count": 5001,
+    "listed_count": 49,
+    "favourites_count": 120773,
+    "statuses_count": 249591,
+    "created_at": "Thu Mar 08 22:41:41 +0000 2012",
+    "utc_offset": -14400,
+    "time_zone": "Eastern Time (US & Canada)",
+    "geo_enabled": true,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "DBE9ED",
+    "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/456923962417479680/M6TFK3qD.jpeg",
+    "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/456923962417479680/M6TFK3qD.jpeg",
+    "profile_background_tile": true,
+    "profile_link_color": "333333",
+    "profile_sidebar_border_color": "FFFFFF",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/876998312204931072/ZoJbsy2b_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/876998312204931072/ZoJbsy2b_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/518954029/1414554168",
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": null,
+    "follow_request_sent": null,
+    "notifications": null
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": {
+    "id": "de599025180e2ee7",
+    "url": "https://api.twitter.com/1.1/geo/id/de599025180e2ee7.json",
+    "place_type": "admin",
+    "name": "Ohio",
+    "full_name": "Ohio, USA",
+    "country_code": "US",
+    "country": "United States",
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            -84.820309,
+            38.403186
+          ],
+          [
+            -84.820309,
+            42.327133
+          ],
+          [
+            -80.518626,
+            42.327133
+          ],
+          [
+            -80.518626,
+            38.403186
+          ]
+        ]
+      ]
+    },
+    "attributes": {}
+  },
+  "contributors": null,
+  "is_quote_status": false,
+  "quote_count": 0,
+  "reply_count": 0,
+  "retweet_count": 0,
+  "favorite_count": 0,
+  "entities": {
+    "hashtags": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "screen_name": "taylorswift13",
+        "name": "Taylor Swift",
+        "id": 17919972,
+        "id_str": "17919972",
+        "indices": [
+          0,
+          14
+        ]
+      }
+    ],
+    "symbols": []
+  },
+  "favorited": false,
+  "retweeted": false,
+  "filter_level": "low",
+  "lang": "en",
+  "timestamp_ms": "1506913923772"
+}

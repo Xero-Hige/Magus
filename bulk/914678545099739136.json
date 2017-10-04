@@ -1,1 +1,121 @@
-{"created_at": "Mon Oct 02 02:28:53 +0000 2017", "id": 914678545099739136, "id_str": "914678545099739136", "text": "@grudging1 Just pay shipping and handling!", "display_text_range": [11, 42], "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>", "truncated": false, "in_reply_to_status_id": 914673860703916032, "in_reply_to_status_id_str": "914673860703916032", "in_reply_to_user_id": 186501062, "in_reply_to_user_id_str": "186501062", "in_reply_to_screen_name": "grudging1", "user": {"id": 113725914, "id_str": "113725914", "name": "Ryan Costello", "screen_name": "MaestroCostello", "location": "Enid, OK", "url": "http://enidpublicschools.org", "description": "Pretty good English teacher. Probably way better video game hockey player. #oklaed", "translator_type": "none", "protected": false, "verified": false, "followers_count": 535, "friends_count": 509, "listed_count": 15, "favourites_count": 1050, "statuses_count": 4497, "created_at": "Fri Feb 12 20:46:25 +0000 2010", "utc_offset": -18000, "time_zone": "Central Time (US & Canada)", "geo_enabled": true, "lang": "en", "contributors_enabled": false, "is_translator": false, "profile_background_color": "022330", "profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png", "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png", "profile_background_tile": false, "profile_link_color": "0084B4", "profile_sidebar_border_color": "A8C7F7", "profile_sidebar_fill_color": "C0DFEC", "profile_text_color": "333333", "profile_use_background_image": true, "profile_image_url": "http://pbs.twimg.com/profile_images/888198675226394624/k7_Vpthq_normal.jpg", "profile_image_url_https": "https://pbs.twimg.com/profile_images/888198675226394624/k7_Vpthq_normal.jpg", "profile_banner_url": "https://pbs.twimg.com/profile_banners/113725914/1428727101", "default_profile": false, "default_profile_image": false, "following": null, "follow_request_sent": null, "notifications": null}, "geo": null, "coordinates": null, "place": {"id": "4ba5405c68ac4670", "url": "https://api.twitter.com/1.1/geo/id/4ba5405c68ac4670.json", "place_type": "city", "name": "Enid", "full_name": "Enid, OK", "country_code": "US", "country": "United States", "bounding_box": {"type": "Polygon", "coordinates": [[[-97.981671, 36.335631], [-97.981671, 36.448929], [-97.818889, 36.448929], [-97.818889, 36.335631]]]}, "attributes": {}}, "contributors": null, "is_quote_status": false, "quote_count": 0, "reply_count": 0, "retweet_count": 0, "favorite_count": 0, "entities": {"hashtags": [], "urls": [], "user_mentions": [{"screen_name": "grudging1", "name": "Grudge", "id": 186501062, "id_str": "186501062", "indices": [0, 10]}], "symbols": []}, "favorited": false, "retweeted": false, "filter_level": "low", "lang": "en", "timestamp_ms": "1506911333714"}
+{
+  "created_at": "Mon Oct 02 02:28:53 +0000 2017",
+  "id": 914678545099739136,
+  "id_str": "914678545099739136",
+  "text": "@grudging1 Just pay shipping and handling!",
+  "display_text_range": [
+    11,
+    42
+  ],
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "in_reply_to_status_id": 914673860703916032,
+  "in_reply_to_status_id_str": "914673860703916032",
+  "in_reply_to_user_id": 186501062,
+  "in_reply_to_user_id_str": "186501062",
+  "in_reply_to_screen_name": "grudging1",
+  "user": {
+    "id": 113725914,
+    "id_str": "113725914",
+    "name": "Ryan Costello",
+    "screen_name": "MaestroCostello",
+    "location": "Enid, OK",
+    "url": "http://enidpublicschools.org",
+    "description": "Pretty good English teacher. Probably way better video game hockey player. #oklaed",
+    "translator_type": "none",
+    "protected": false,
+    "verified": false,
+    "followers_count": 535,
+    "friends_count": 509,
+    "listed_count": 15,
+    "favourites_count": 1050,
+    "statuses_count": 4497,
+    "created_at": "Fri Feb 12 20:46:25 +0000 2010",
+    "utc_offset": -18000,
+    "time_zone": "Central Time (US & Canada)",
+    "geo_enabled": true,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "022330",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+    "profile_background_tile": false,
+    "profile_link_color": "0084B4",
+    "profile_sidebar_border_color": "A8C7F7",
+    "profile_sidebar_fill_color": "C0DFEC",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/888198675226394624/k7_Vpthq_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/888198675226394624/k7_Vpthq_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/113725914/1428727101",
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": null,
+    "follow_request_sent": null,
+    "notifications": null
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": {
+    "id": "4ba5405c68ac4670",
+    "url": "https://api.twitter.com/1.1/geo/id/4ba5405c68ac4670.json",
+    "place_type": "city",
+    "name": "Enid",
+    "full_name": "Enid, OK",
+    "country_code": "US",
+    "country": "United States",
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            -97.981671,
+            36.335631
+          ],
+          [
+            -97.981671,
+            36.448929
+          ],
+          [
+            -97.818889,
+            36.448929
+          ],
+          [
+            -97.818889,
+            36.335631
+          ]
+        ]
+      ]
+    },
+    "attributes": {}
+  },
+  "contributors": null,
+  "is_quote_status": false,
+  "quote_count": 0,
+  "reply_count": 0,
+  "retweet_count": 0,
+  "favorite_count": 0,
+  "entities": {
+    "hashtags": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "screen_name": "grudging1",
+        "name": "Grudge",
+        "id": 186501062,
+        "id_str": "186501062",
+        "indices": [
+          0,
+          10
+        ]
+      }
+    ],
+    "symbols": []
+  },
+  "favorited": false,
+  "retweeted": false,
+  "filter_level": "low",
+  "lang": "en",
+  "timestamp_ms": "1506911333714"
+}
