@@ -27,7 +27,7 @@ def main(tag, worker_number, input_queue, output_queue):
 
         tweet_id, dumper = msg
 
-        if tweet_id not in
+        if tweet_id not in lookup:
             lookup[tweet_id] = {dumper: True}
             return
 

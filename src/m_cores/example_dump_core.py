@@ -2,6 +2,7 @@
 
 from __future__ import absolute_import, print_function, unicode_literals
 
+import csv
 import pickle as Serializer
 
 from core_utils.debugger import debug_core_print_d
@@ -28,7 +29,7 @@ def main(tag, worker_number, input_queue, output_queue):
         word_embedings = {w.lower(): [1 if str(unichr(x)) in w else 0 for x in range(256)] for w in
                           tweet["tweet_text"].split() if w}
 
-        embeding = [word_embedings.get(w, [0] * 256) w in tweet["tweet_text"].split()]
+        embeding = [word_embedings.get(w, [0] * 256) for w in tweet["tweet_text"].split()]
 
         with open("/embedings/EXMPL_{}.csv".format(tweet["tweet_id"]), 'w') as _file:
             csv_writer = csv.writer(_file)
