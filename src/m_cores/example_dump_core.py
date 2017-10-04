@@ -11,11 +11,12 @@ from core_utils.rabbit_handler import *
 from gensim.models.keyedvectors import KeyedVectors
 
 VECTORS_MODEL_FILE = "/models/base_model.w2v"
-OUTPUT_VECTOR_FOLDER = "/vectors/"
+OUTPUT_VECTOR_FOLDER = "/vectors"
 
 JOINER_QUEUE = "joiner_notify"
 
 W2V_VECTORS_LENGHT = 256
+NULL_VECTOR = [ 0 for _ in range(W2V_VECTORS_LENGHT) ]
 
 DUMPER_TAG = "EXMPL"
 
@@ -25,6 +26,9 @@ def main(tag, worker_number, input_queue, output_queue):
     notifier_writer = RabbitHandler(JOINER_QUEUE)
 
     model = Word2Vec.load(VECTORS_MODEL_FILE) #TODO: Check if compressing is needed
+    vectors = model.wv
+
+    vectors = {}
 
     def callback(tweet_string):
         if not tweet_string:
@@ -39,12 +43,9 @@ def main(tag, worker_number, input_queue, output_queue):
 
         debug_core_print_d(tag, worker_number, "Getting trained tweets W2V")
 
-        word_embedings = {w.lower(): [1 if str(unichr(x)) in w else 0 for x in range(W2V_VECTORS_LENGHT)] for w in
-                          tweet["tweet_text"].split() if w}
+        embeding = [word_embedings.get(token, NULL_VECTOR) for token in tokenizer.tokenize(tweet)]
 
-        embeding = [word_embedings.get(w, [0] * 256) for w in tweet["tweet_text"].split()]
-
-        with open(OUTPUT_VECTOR_FOLDER + "/EXMPL_{}.csv".format(tweet["tweet_id"]), 'w') as _file:
+        with open(OUTPUT_VECTOR_FOLDER + "/{}_{}.csv".format(DUMPER_TAG,tweet["tweet_id"]), 'w') as _file:
             csv_writer = csv.writer(_file)
             csv_writer.writerows(embeding)
 
