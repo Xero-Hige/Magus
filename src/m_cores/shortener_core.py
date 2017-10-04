@@ -6,10 +6,9 @@ import pickle as Serializer
 
 from core_utils.debugger import debug_core_print_d
 from core_utils.rabbit_handler import *
-from libs.tweet_anonymize import full_anonymize_tweet
-
 
 REP_SIZE = 3
+
 
 def shorten_repetitions(text):
     """ """
@@ -45,6 +44,7 @@ def shorten_repetitions(text):
         right = left + REP_SIZE
 
     return "".join(acum)
+
 
 def main(tag, worker_number, input_queue, output_queue):
     reader = RabbitHandler(input_queue)

@@ -6,7 +6,7 @@ import pickle as Serializer
 
 from core_utils.debugger import debug_core_print_d
 from core_utils.rabbit_handler import *
-from libs.tweet_anonymize import full_anonymize_tweet
+
 
 def main(tag, worker_number, input_queue, output_queue):
     reader = RabbitHandler(input_queue)
@@ -25,11 +25,12 @@ def main(tag, worker_number, input_queue, output_queue):
 
         debug_core_print_d(tag, worker_number, "Shortening tweet")
 
-        word_embedings = { w.lower() : [ 1 if str(unichr(x)) in w else 0 for x in range(256) ] for w in tweet["tweet_text"].split() if w }
+        word_embedings = {w.lower(): [1 if str(unichr(x)) in w else 0 for x in range(256)] for w in
+                          tweet["tweet_text"].split() if w}
 
-        embeding = [ word_embedings.get(w,[0]*256) w in tweet["tweet_text"].split() ]
+        embeding = [word_embedings.get(w, [0] * 256) w in tweet["tweet_text"].split()]
 
-        with open("/embedings/EXMPL_{}.csv".format(tweet["tweet_id"]),'w') as _file :
+        with open("/embedings/EXMPL_{}.csv".format(tweet["tweet_id"]), 'w') as _file:
             csv_writer = csv.writer(_file)
             csv_writer.writerows(embeding)
 
