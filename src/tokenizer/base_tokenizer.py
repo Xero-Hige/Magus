@@ -1,4 +1,3 @@
-
 class Tokenizer():
     """Defines a tokenizer class to parse tweets"""
 
