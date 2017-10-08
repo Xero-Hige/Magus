@@ -1,1 +1,106 @@
-{"created_at": "Sat Oct 07 19:38:49 +0000 2017", "id": 916749676371677184, "id_str": "916749676371677184", "text": "Que dor no pesco\u00e7o", "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>", "truncated": false, "in_reply_to_status_id": null, "in_reply_to_status_id_str": null, "in_reply_to_user_id": null, "in_reply_to_user_id_str": null, "in_reply_to_screen_name": null, "user": {"id": 754045093913518080, "id_str": "754045093913518080", "name": "\ud83d\udc31", "screen_name": "leilamabile", "location": "Rio Grande do Sul, Brasil", "url": null, "description": "A realidade \u00e9 um saco...\ud83c\udf0e", "translator_type": "none", "protected": false, "verified": false, "followers_count": 92, "friends_count": 357, "listed_count": 1, "favourites_count": 665, "statuses_count": 1744, "created_at": "Fri Jul 15 20:08:54 +0000 2016", "utc_offset": null, "time_zone": null, "geo_enabled": true, "lang": "pt", "contributors_enabled": false, "is_translator": false, "profile_background_color": "000000", "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png", "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", "profile_background_tile": false, "profile_link_color": "110000", "profile_sidebar_border_color": "000000", "profile_sidebar_fill_color": "000000", "profile_text_color": "000000", "profile_use_background_image": false, "profile_image_url": "http://pbs.twimg.com/profile_images/916710427500990465/iiMXOhjR_normal.jpg", "profile_image_url_https": "https://pbs.twimg.com/profile_images/916710427500990465/iiMXOhjR_normal.jpg", "profile_banner_url": "https://pbs.twimg.com/profile_banners/754045093913518080/1507398979", "default_profile": false, "default_profile_image": false, "following": null, "follow_request_sent": null, "notifications": null}, "geo": null, "coordinates": null, "place": {"id": "1b107df3ccc0aaa1", "url": "https://api.twitter.com/1.1/geo/id/1b107df3ccc0aaa1.json", "place_type": "country", "name": "Brasil", "full_name": "Brasil", "country_code": "BR", "country": "Brasil", "bounding_box": {"type": "Polygon", "coordinates": [[[-73.991482, -33.751051], [-73.991482, 5.27192], [-32.378186, 5.27192], [-32.378186, -33.751051]]]}, "attributes": {}}, "contributors": null, "is_quote_status": false, "quote_count": 0, "reply_count": 0, "retweet_count": 0, "favorite_count": 0, "entities": {"hashtags": [], "urls": [], "user_mentions": [], "symbols": []}, "favorited": false, "retweeted": false, "filter_level": "low", "lang": "pt", "timestamp_ms": "1507405129889"}
+{
+  "created_at": "Sat Oct 07 19:38:49 +0000 2017",
+  "id": 916749676371677184,
+  "id_str": "916749676371677184",
+  "text": "Que dor no pesco\u00e7o",
+  "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 754045093913518080,
+    "id_str": "754045093913518080",
+    "name": "\ud83d\udc31",
+    "screen_name": "leilamabile",
+    "location": "Rio Grande do Sul, Brasil",
+    "url": null,
+    "description": "A realidade \u00e9 um saco...\ud83c\udf0e",
+    "translator_type": "none",
+    "protected": false,
+    "verified": false,
+    "followers_count": 92,
+    "friends_count": 357,
+    "listed_count": 1,
+    "favourites_count": 665,
+    "statuses_count": 1744,
+    "created_at": "Fri Jul 15 20:08:54 +0000 2016",
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": true,
+    "lang": "pt",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "000000",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": false,
+    "profile_link_color": "110000",
+    "profile_sidebar_border_color": "000000",
+    "profile_sidebar_fill_color": "000000",
+    "profile_text_color": "000000",
+    "profile_use_background_image": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/916710427500990465/iiMXOhjR_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/916710427500990465/iiMXOhjR_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/754045093913518080/1507398979",
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": null,
+    "follow_request_sent": null,
+    "notifications": null
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": {
+    "id": "1b107df3ccc0aaa1",
+    "url": "https://api.twitter.com/1.1/geo/id/1b107df3ccc0aaa1.json",
+    "place_type": "country",
+    "name": "Brasil",
+    "full_name": "Brasil",
+    "country_code": "BR",
+    "country": "Brasil",
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            -73.991482,
+            -33.751051
+          ],
+          [
+            -73.991482,
+            5.27192
+          ],
+          [
+            -32.378186,
+            5.27192
+          ],
+          [
+            -32.378186,
+            -33.751051
+          ]
+        ]
+      ]
+    },
+    "attributes": {}
+  },
+  "contributors": null,
+  "is_quote_status": false,
+  "quote_count": 0,
+  "reply_count": 0,
+  "retweet_count": 0,
+  "favorite_count": 0,
+  "entities": {
+    "hashtags": [],
+    "urls": [],
+    "user_mentions": [],
+    "symbols": []
+  },
+  "favorited": false,
+  "retweeted": false,
+  "filter_level": "low",
+  "lang": "pt",
+  "timestamp_ms": "1507405129889"
+}

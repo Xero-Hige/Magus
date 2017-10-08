@@ -1,1 +1,133 @@
-{"created_at": "Sat Oct 07 16:25:21 +0000 2017", "id": 916700988244885504, "id_str": "916700988244885504", "text": "@tayziken it takes me hours to put them in and every time my eyes hate me so much afterwards, just super irritated", "display_text_range": [10, 114], "source": "<a href=\"https://github.com/mariotaku/twidere/\" rel=\"nofollow\">Twidere for Android #7</a>", "truncated": false, "in_reply_to_status_id": 916634378704445440, "in_reply_to_status_id_str": "916634378704445440", "in_reply_to_user_id": 2864822347, "in_reply_to_user_id_str": "2864822347", "in_reply_to_screen_name": "tayziken", "user": {"id": 173217879, "id_str": "173217879", "name": "Only One Animelo Cab", "screen_name": "hipsterfont", "location": null, "url": "http://twpf.jp/hipsterfont", "description": "Gwen/helvetica \u2640 \u2606 I reverse engineer dumb shit like arcades \u2606 x86 asm is a girl's best friend \u30df\u2606 @SnowPhoenixSPX \u30df\u2606", "translator_type": "none", "protected": false, "verified": false, "followers_count": 223, "friends_count": 379, "listed_count": 6, "favourites_count": 10436, "statuses_count": 13786, "created_at": "Sat Jul 31 19:28:20 +0000 2010", "utc_offset": -14400, "time_zone": "Eastern Time (US & Canada)", "geo_enabled": true, "lang": "en", "contributors_enabled": false, "is_translator": false, "profile_background_color": "FEF7E5", "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/480219773846835200/LFxxYHc9.jpeg", "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/480219773846835200/LFxxYHc9.jpeg", "profile_background_tile": false, "profile_link_color": "F58EA8", "profile_sidebar_border_color": "FFFFFF", "profile_sidebar_fill_color": "252429", "profile_text_color": "666666", "profile_use_background_image": true, "profile_image_url": "http://pbs.twimg.com/profile_images/849827031034548225/JAGP_ut3_normal.jpg", "profile_image_url_https": "https://pbs.twimg.com/profile_images/849827031034548225/JAGP_ut3_normal.jpg", "profile_banner_url": "https://pbs.twimg.com/profile_banners/173217879/1489872777", "default_profile": false, "default_profile_image": false, "following": null, "follow_request_sent": null, "notifications": null}, "geo": {"type": "Point", "coordinates": [39.9960859, -82.99655016]}, "coordinates": {"type": "Point", "coordinates": [-82.99655016, 39.9960859]}, "place": {"id": "3df0e3eb1e91170b", "url": "https://api.twitter.com/1.1/geo/id/3df0e3eb1e91170b.json", "place_type": "city", "name": "Columbus", "full_name": "Columbus, OH", "country_code": "US", "country": "United States", "bounding_box": {"type": "Polygon", "coordinates": [[[-83.200169, 39.832013], [-83.200169, 40.157354], [-82.771375, 40.157354], [-82.771375, 39.832013]]]}, "attributes": {}}, "contributors": null, "is_quote_status": false, "quote_count": 0, "reply_count": 0, "retweet_count": 0, "favorite_count": 0, "entities": {"hashtags": [], "urls": [], "user_mentions": [{"screen_name": "tayziken", "name": "kors tay", "id": 2864822347, "id_str": "2864822347", "indices": [0, 9]}], "symbols": []}, "favorited": false, "retweeted": false, "filter_level": "low", "lang": "en", "timestamp_ms": "1507393521735"}
+{
+  "created_at": "Sat Oct 07 16:25:21 +0000 2017",
+  "id": 916700988244885504,
+  "id_str": "916700988244885504",
+  "text": "@tayziken it takes me hours to put them in and every time my eyes hate me so much afterwards, just super irritated",
+  "display_text_range": [
+    10,
+    114
+  ],
+  "source": "<a href=\"https://github.com/mariotaku/twidere/\" rel=\"nofollow\">Twidere for Android #7</a>",
+  "truncated": false,
+  "in_reply_to_status_id": 916634378704445440,
+  "in_reply_to_status_id_str": "916634378704445440",
+  "in_reply_to_user_id": 2864822347,
+  "in_reply_to_user_id_str": "2864822347",
+  "in_reply_to_screen_name": "tayziken",
+  "user": {
+    "id": 173217879,
+    "id_str": "173217879",
+    "name": "Only One Animelo Cab",
+    "screen_name": "hipsterfont",
+    "location": null,
+    "url": "http://twpf.jp/hipsterfont",
+    "description": "Gwen/helvetica \u2640 \u2606 I reverse engineer dumb shit like arcades \u2606 x86 asm is a girl's best friend \u30df\u2606 @SnowPhoenixSPX \u30df\u2606",
+    "translator_type": "none",
+    "protected": false,
+    "verified": false,
+    "followers_count": 223,
+    "friends_count": 379,
+    "listed_count": 6,
+    "favourites_count": 10436,
+    "statuses_count": 13786,
+    "created_at": "Sat Jul 31 19:28:20 +0000 2010",
+    "utc_offset": -14400,
+    "time_zone": "Eastern Time (US & Canada)",
+    "geo_enabled": true,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "FEF7E5",
+    "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/480219773846835200/LFxxYHc9.jpeg",
+    "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/480219773846835200/LFxxYHc9.jpeg",
+    "profile_background_tile": false,
+    "profile_link_color": "F58EA8",
+    "profile_sidebar_border_color": "FFFFFF",
+    "profile_sidebar_fill_color": "252429",
+    "profile_text_color": "666666",
+    "profile_use_background_image": true,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/849827031034548225/JAGP_ut3_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/849827031034548225/JAGP_ut3_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/173217879/1489872777",
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": null,
+    "follow_request_sent": null,
+    "notifications": null
+  },
+  "geo": {
+    "type": "Point",
+    "coordinates": [
+      39.9960859,
+      -82.99655016
+    ]
+  },
+  "coordinates": {
+    "type": "Point",
+    "coordinates": [
+      -82.99655016,
+      39.9960859
+    ]
+  },
+  "place": {
+    "id": "3df0e3eb1e91170b",
+    "url": "https://api.twitter.com/1.1/geo/id/3df0e3eb1e91170b.json",
+    "place_type": "city",
+    "name": "Columbus",
+    "full_name": "Columbus, OH",
+    "country_code": "US",
+    "country": "United States",
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            -83.200169,
+            39.832013
+          ],
+          [
+            -83.200169,
+            40.157354
+          ],
+          [
+            -82.771375,
+            40.157354
+          ],
+          [
+            -82.771375,
+            39.832013
+          ]
+        ]
+      ]
+    },
+    "attributes": {}
+  },
+  "contributors": null,
+  "is_quote_status": false,
+  "quote_count": 0,
+  "reply_count": 0,
+  "retweet_count": 0,
+  "favorite_count": 0,
+  "entities": {
+    "hashtags": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "screen_name": "tayziken",
+        "name": "kors tay",
+        "id": 2864822347,
+        "id_str": "2864822347",
+        "indices": [
+          0,
+          9
+        ]
+      }
+    ],
+    "symbols": []
+  },
+  "favorited": false,
+  "retweeted": false,
+  "filter_level": "low",
+  "lang": "en",
+  "timestamp_ms": "1507393521735"
+}

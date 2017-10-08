@@ -1,1 +1,202 @@
-{"created_at": "Sat Oct 07 19:38:49 +0000 2017", "id": 916749674127679488, "id_str": "916749674127679488", "text": "Kyle Kempt https://t.co/b2a6zZvDXY", "display_text_range": [0, 10], "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>", "truncated": false, "in_reply_to_status_id": null, "in_reply_to_status_id_str": null, "in_reply_to_user_id": null, "in_reply_to_user_id_str": null, "in_reply_to_screen_name": null, "user": {"id": 386593102, "id_str": "386593102", "name": "Adam \"Andy\" Klein", "screen_name": "CarmeloSanDiego", "location": "Underwood, IA", "url": null, "description": "Cancer survivor. SWIA. I have many alter egos. Adam. Carmelo. Tuff. #fuckcancer #beersforthecure", "translator_type": "none", "protected": false, "verified": false, "followers_count": 178, "friends_count": 572, "listed_count": 2, "favourites_count": 1323, "statuses_count": 7332, "created_at": "Fri Oct 07 15:06:50 +0000 2011", "utc_offset": -18000, "time_zone": "Central Time (US & Canada)", "geo_enabled": true, "lang": "en", "contributors_enabled": false, "is_translator": false, "profile_background_color": "C0DEED", "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png", "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", "profile_background_tile": false, "profile_link_color": "1DA1F2", "profile_sidebar_border_color": "C0DEED", "profile_sidebar_fill_color": "DDEEF6", "profile_text_color": "333333", "profile_use_background_image": true, "profile_image_url": "http://pbs.twimg.com/profile_images/378800000635273548/a6b9b288ddad8dcd11ef06f6c3453ea9_normal.jpeg", "profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000635273548/a6b9b288ddad8dcd11ef06f6c3453ea9_normal.jpeg", "profile_banner_url": "https://pbs.twimg.com/profile_banners/386593102/1354135397", "default_profile": true, "default_profile_image": false, "following": null, "follow_request_sent": null, "notifications": null}, "geo": null, "coordinates": null, "place": {"id": "3cd4c18d3615bbc9", "url": "https://api.twitter.com/1.1/geo/id/3cd4c18d3615bbc9.json", "place_type": "admin", "name": "Iowa", "full_name": "Iowa, USA", "country_code": "US", "country": "United States", "bounding_box": {"type": "Polygon", "coordinates": [[[-96.639667, 40.375437], [-96.639667, 43.50102], [-90.140061, 43.50102], [-90.140061, 40.375437]]]}, "attributes": {}}, "contributors": null, "is_quote_status": false, "quote_count": 0, "reply_count": 0, "retweet_count": 0, "favorite_count": 0, "entities": {"hashtags": [], "urls": [], "user_mentions": [], "symbols": [], "media": [{"id": 916749655827812352, "id_str": "916749655827812352", "indices": [11, 34], "media_url": "http://pbs.twimg.com/tweet_video_thumb/DLjy9G-UEAAK8TN.jpg", "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/DLjy9G-UEAAK8TN.jpg", "url": "https://t.co/b2a6zZvDXY", "display_url": "pic.twitter.com/b2a6zZvDXY", "expanded_url": "https://twitter.com/CarmeloSanDiego/status/916749674127679488/photo/1", "type": "photo", "sizes": {"small": {"w": 340, "h": 255, "resize": "fit"}, "medium": {"w": 400, "h": 300, "resize": "fit"}, "thumb": {"w": 150, "h": 150, "resize": "crop"}, "large": {"w": 400, "h": 300, "resize": "fit"}}}]}, "extended_entities": {"media": [{"id": 916749655827812352, "id_str": "916749655827812352", "indices": [11, 34], "media_url": "http://pbs.twimg.com/tweet_video_thumb/DLjy9G-UEAAK8TN.jpg", "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/DLjy9G-UEAAK8TN.jpg", "url": "https://t.co/b2a6zZvDXY", "display_url": "pic.twitter.com/b2a6zZvDXY", "expanded_url": "https://twitter.com/CarmeloSanDiego/status/916749674127679488/photo/1", "type": "animated_gif", "sizes": {"small": {"w": 340, "h": 255, "resize": "fit"}, "medium": {"w": 400, "h": 300, "resize": "fit"}, "thumb": {"w": 150, "h": 150, "resize": "crop"}, "large": {"w": 400, "h": 300, "resize": "fit"}}, "video_info": {"aspect_ratio": [4, 3], "variants": [{"bitrate": 0, "content_type": "video/mp4", "url": "https://video.twimg.com/tweet_video/DLjy9G-UEAAK8TN.mp4"}]}}]}, "favorited": false, "retweeted": false, "possibly_sensitive": false, "filter_level": "low", "lang": "et", "timestamp_ms": "1507405129354"}
+{
+  "created_at": "Sat Oct 07 19:38:49 +0000 2017",
+  "id": 916749674127679488,
+  "id_str": "916749674127679488",
+  "text": "Kyle Kempt https://t.co/b2a6zZvDXY",
+  "display_text_range": [
+    0,
+    10
+  ],
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 386593102,
+    "id_str": "386593102",
+    "name": "Adam \"Andy\" Klein",
+    "screen_name": "CarmeloSanDiego",
+    "location": "Underwood, IA",
+    "url": null,
+    "description": "Cancer survivor. SWIA. I have many alter egos. Adam. Carmelo. Tuff. #fuckcancer #beersforthecure",
+    "translator_type": "none",
+    "protected": false,
+    "verified": false,
+    "followers_count": 178,
+    "friends_count": 572,
+    "listed_count": 2,
+    "favourites_count": 1323,
+    "statuses_count": 7332,
+    "created_at": "Fri Oct 07 15:06:50 +0000 2011",
+    "utc_offset": -18000,
+    "time_zone": "Central Time (US & Canada)",
+    "geo_enabled": true,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "C0DEED",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": false,
+    "profile_link_color": "1DA1F2",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/378800000635273548/a6b9b288ddad8dcd11ef06f6c3453ea9_normal.jpeg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000635273548/a6b9b288ddad8dcd11ef06f6c3453ea9_normal.jpeg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/386593102/1354135397",
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": null,
+    "follow_request_sent": null,
+    "notifications": null
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": {
+    "id": "3cd4c18d3615bbc9",
+    "url": "https://api.twitter.com/1.1/geo/id/3cd4c18d3615bbc9.json",
+    "place_type": "admin",
+    "name": "Iowa",
+    "full_name": "Iowa, USA",
+    "country_code": "US",
+    "country": "United States",
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            -96.639667,
+            40.375437
+          ],
+          [
+            -96.639667,
+            43.50102
+          ],
+          [
+            -90.140061,
+            43.50102
+          ],
+          [
+            -90.140061,
+            40.375437
+          ]
+        ]
+      ]
+    },
+    "attributes": {}
+  },
+  "contributors": null,
+  "is_quote_status": false,
+  "quote_count": 0,
+  "reply_count": 0,
+  "retweet_count": 0,
+  "favorite_count": 0,
+  "entities": {
+    "hashtags": [],
+    "urls": [],
+    "user_mentions": [],
+    "symbols": [],
+    "media": [
+      {
+        "id": 916749655827812352,
+        "id_str": "916749655827812352",
+        "indices": [
+          11,
+          34
+        ],
+        "media_url": "http://pbs.twimg.com/tweet_video_thumb/DLjy9G-UEAAK8TN.jpg",
+        "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/DLjy9G-UEAAK8TN.jpg",
+        "url": "https://t.co/b2a6zZvDXY",
+        "display_url": "pic.twitter.com/b2a6zZvDXY",
+        "expanded_url": "https://twitter.com/CarmeloSanDiego/status/916749674127679488/photo/1",
+        "type": "photo",
+        "sizes": {
+          "small": {
+            "w": 340,
+            "h": 255,
+            "resize": "fit"
+          },
+          "medium": {
+            "w": 400,
+            "h": 300,
+            "resize": "fit"
+          },
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "large": {
+            "w": 400,
+            "h": 300,
+            "resize": "fit"
+          }
+        }
+      }
+    ]
+  },
+  "extended_entities": {
+    "media": [
+      {
+        "id": 916749655827812352,
+        "id_str": "916749655827812352",
+        "indices": [
+          11,
+          34
+        ],
+        "media_url": "http://pbs.twimg.com/tweet_video_thumb/DLjy9G-UEAAK8TN.jpg",
+        "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/DLjy9G-UEAAK8TN.jpg",
+        "url": "https://t.co/b2a6zZvDXY",
+        "display_url": "pic.twitter.com/b2a6zZvDXY",
+        "expanded_url": "https://twitter.com/CarmeloSanDiego/status/916749674127679488/photo/1",
+        "type": "animated_gif",
+        "sizes": {
+          "small": {
+            "w": 340,
+            "h": 255,
+            "resize": "fit"
+          },
+          "medium": {
+            "w": 400,
+            "h": 300,
+            "resize": "fit"
+          },
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "large": {
+            "w": 400,
+            "h": 300,
+            "resize": "fit"
+          }
+        },
+        "video_info": {
+          "aspect_ratio": [
+            4,
+            3
+          ],
+          "variants": [
+            {
+              "bitrate": 0,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/tweet_video/DLjy9G-UEAAK8TN.mp4"
+            }
+          ]
+        }
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false,
+  "filter_level": "low",
+  "lang": "et",
+  "timestamp_ms": "1507405129354"
+}

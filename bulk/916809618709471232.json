@@ -1,1 +1,189 @@
-{"created_at": "Sat Oct 07 23:37:01 +0000 2017", "id": 916809618709471232, "id_str": "916809618709471232", "text": "Jughead and the Pussycats https://t.co/6u4aCH9v8N", "display_text_range": [0, 25], "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>", "truncated": false, "in_reply_to_status_id": null, "in_reply_to_status_id_str": null, "in_reply_to_user_id": null, "in_reply_to_user_id_str": null, "in_reply_to_screen_name": null, "user": {"id": 840888156, "id_str": "840888156", "name": "Jonathan Cuevas", "screen_name": "JonathanCuevas_", "location": null, "url": "https://itun.es/us/k50Udb", "description": "MY NEW EP LONER BY NATURE IS OUT NOW!", "translator_type": "none", "protected": false, "verified": false, "followers_count": 274, "friends_count": 461, "listed_count": 2, "favourites_count": 17780, "statuses_count": 982, "created_at": "Sun Sep 23 03:02:49 +0000 2012", "utc_offset": null, "time_zone": null, "geo_enabled": true, "lang": "en", "contributors_enabled": false, "is_translator": false, "profile_background_color": "C0DEED", "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png", "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", "profile_background_tile": false, "profile_link_color": "1DA1F2", "profile_sidebar_border_color": "C0DEED", "profile_sidebar_fill_color": "DDEEF6", "profile_text_color": "333333", "profile_use_background_image": true, "profile_image_url": "http://pbs.twimg.com/profile_images/916065195994288128/c6cK7Y0f_normal.jpg", "profile_image_url_https": "https://pbs.twimg.com/profile_images/916065195994288128/c6cK7Y0f_normal.jpg", "profile_banner_url": "https://pbs.twimg.com/profile_banners/840888156/1507242424", "default_profile": true, "default_profile_image": false, "following": null, "follow_request_sent": null, "notifications": null}, "geo": null, "coordinates": null, "place": {"id": "07d9dbdcabc85001", "url": "https://api.twitter.com/1.1/geo/id/07d9dbdcabc85001.json", "place_type": "poi", "name": "New York Comic Con", "full_name": "New York Comic Con", "country_code": "US", "country": "United States", "bounding_box": {"type": "Polygon", "coordinates": [[[-74.002533, 40.757108], [-74.002533, 40.757108], [-74.002533, 40.757108], [-74.002533, 40.757108]]]}, "attributes": {}}, "contributors": null, "is_quote_status": false, "quote_count": 0, "reply_count": 0, "retweet_count": 0, "favorite_count": 0, "entities": {"hashtags": [], "urls": [], "user_mentions": [], "symbols": [], "media": [{"id": 916809615056269312, "id_str": "916809615056269312", "indices": [26, 49], "media_url": "http://pbs.twimg.com/media/DLkpfMgXcAAUSuv.jpg", "media_url_https": "https://pbs.twimg.com/media/DLkpfMgXcAAUSuv.jpg", "url": "https://t.co/6u4aCH9v8N", "display_url": "pic.twitter.com/6u4aCH9v8N", "expanded_url": "https://twitter.com/JonathanCuevas_/status/916809618709471232/photo/1", "type": "photo", "sizes": {"medium": {"w": 900, "h": 1200, "resize": "fit"}, "thumb": {"w": 150, "h": 150, "resize": "crop"}, "small": {"w": 510, "h": 680, "resize": "fit"}, "large": {"w": 1536, "h": 2048, "resize": "fit"}}}]}, "extended_entities": {"media": [{"id": 916809615056269312, "id_str": "916809615056269312", "indices": [26, 49], "media_url": "http://pbs.twimg.com/media/DLkpfMgXcAAUSuv.jpg", "media_url_https": "https://pbs.twimg.com/media/DLkpfMgXcAAUSuv.jpg", "url": "https://t.co/6u4aCH9v8N", "display_url": "pic.twitter.com/6u4aCH9v8N", "expanded_url": "https://twitter.com/JonathanCuevas_/status/916809618709471232/photo/1", "type": "photo", "sizes": {"medium": {"w": 900, "h": 1200, "resize": "fit"}, "thumb": {"w": 150, "h": 150, "resize": "crop"}, "small": {"w": 510, "h": 680, "resize": "fit"}, "large": {"w": 1536, "h": 2048, "resize": "fit"}}}]}, "favorited": false, "retweeted": false, "possibly_sensitive": false, "filter_level": "low", "lang": "en", "timestamp_ms": "1507419421256"}
+{
+  "created_at": "Sat Oct 07 23:37:01 +0000 2017",
+  "id": 916809618709471232,
+  "id_str": "916809618709471232",
+  "text": "Jughead and the Pussycats https://t.co/6u4aCH9v8N",
+  "display_text_range": [
+    0,
+    25
+  ],
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 840888156,
+    "id_str": "840888156",
+    "name": "Jonathan Cuevas",
+    "screen_name": "JonathanCuevas_",
+    "location": null,
+    "url": "https://itun.es/us/k50Udb",
+    "description": "MY NEW EP LONER BY NATURE IS OUT NOW!",
+    "translator_type": "none",
+    "protected": false,
+    "verified": false,
+    "followers_count": 274,
+    "friends_count": 461,
+    "listed_count": 2,
+    "favourites_count": 17780,
+    "statuses_count": 982,
+    "created_at": "Sun Sep 23 03:02:49 +0000 2012",
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": true,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "C0DEED",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": false,
+    "profile_link_color": "1DA1F2",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/916065195994288128/c6cK7Y0f_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/916065195994288128/c6cK7Y0f_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/840888156/1507242424",
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": null,
+    "follow_request_sent": null,
+    "notifications": null
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": {
+    "id": "07d9dbdcabc85001",
+    "url": "https://api.twitter.com/1.1/geo/id/07d9dbdcabc85001.json",
+    "place_type": "poi",
+    "name": "New York Comic Con",
+    "full_name": "New York Comic Con",
+    "country_code": "US",
+    "country": "United States",
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            -74.002533,
+            40.757108
+          ],
+          [
+            -74.002533,
+            40.757108
+          ],
+          [
+            -74.002533,
+            40.757108
+          ],
+          [
+            -74.002533,
+            40.757108
+          ]
+        ]
+      ]
+    },
+    "attributes": {}
+  },
+  "contributors": null,
+  "is_quote_status": false,
+  "quote_count": 0,
+  "reply_count": 0,
+  "retweet_count": 0,
+  "favorite_count": 0,
+  "entities": {
+    "hashtags": [],
+    "urls": [],
+    "user_mentions": [],
+    "symbols": [],
+    "media": [
+      {
+        "id": 916809615056269312,
+        "id_str": "916809615056269312",
+        "indices": [
+          26,
+          49
+        ],
+        "media_url": "http://pbs.twimg.com/media/DLkpfMgXcAAUSuv.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/DLkpfMgXcAAUSuv.jpg",
+        "url": "https://t.co/6u4aCH9v8N",
+        "display_url": "pic.twitter.com/6u4aCH9v8N",
+        "expanded_url": "https://twitter.com/JonathanCuevas_/status/916809618709471232/photo/1",
+        "type": "photo",
+        "sizes": {
+          "medium": {
+            "w": 900,
+            "h": 1200,
+            "resize": "fit"
+          },
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "small": {
+            "w": 510,
+            "h": 680,
+            "resize": "fit"
+          },
+          "large": {
+            "w": 1536,
+            "h": 2048,
+            "resize": "fit"
+          }
+        }
+      }
+    ]
+  },
+  "extended_entities": {
+    "media": [
+      {
+        "id": 916809615056269312,
+        "id_str": "916809615056269312",
+        "indices": [
+          26,
+          49
+        ],
+        "media_url": "http://pbs.twimg.com/media/DLkpfMgXcAAUSuv.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/DLkpfMgXcAAUSuv.jpg",
+        "url": "https://t.co/6u4aCH9v8N",
+        "display_url": "pic.twitter.com/6u4aCH9v8N",
+        "expanded_url": "https://twitter.com/JonathanCuevas_/status/916809618709471232/photo/1",
+        "type": "photo",
+        "sizes": {
+          "medium": {
+            "w": 900,
+            "h": 1200,
+            "resize": "fit"
+          },
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "small": {
+            "w": 510,
+            "h": 680,
+            "resize": "fit"
+          },
+          "large": {
+            "w": 1536,
+            "h": 2048,
+            "resize": "fit"
+          }
+        }
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false,
+  "filter_level": "low",
+  "lang": "en",
+  "timestamp_ms": "1507419421256"
+}

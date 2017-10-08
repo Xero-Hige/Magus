@@ -1,1 +1,170 @@
-{"created_at": "Sat Oct 07 16:25:20 +0000 2017", "id": 916700983027216385, "id_str": "916700983027216385", "text": "I'm at Feira Livre - Rua Serra de Jair\u00e9 in S\u00e3o Paulo, SP w/ @ronaldgalo @daisousa8 @abenaiassanttos @thereza_assis https://t.co/Og4Tiw1uIu", "source": "<a href=\"http://foursquare.com\" rel=\"nofollow\">Foursquare</a>", "truncated": false, "in_reply_to_status_id": null, "in_reply_to_status_id_str": null, "in_reply_to_user_id": null, "in_reply_to_user_id_str": null, "in_reply_to_screen_name": null, "user": {"id": 417273139, "id_str": "417273139", "name": "Dadah #timbeta", "screen_name": "dadahassis", "location": "S\u00e3o Paulo", "url": "http://facebook.com/dadah.assis", "description": null, "translator_type": "none", "protected": false, "verified": false, "followers_count": 478, "friends_count": 813, "listed_count": 4, "favourites_count": 25, "statuses_count": 5988, "created_at": "Sun Nov 20 18:52:36 +0000 2011", "utc_offset": -10800, "time_zone": "Brasilia", "geo_enabled": true, "lang": "pt", "contributors_enabled": false, "is_translator": false, "profile_background_color": "C0DEED", "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png", "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", "profile_background_tile": false, "profile_link_color": "1DA1F2", "profile_sidebar_border_color": "C0DEED", "profile_sidebar_fill_color": "DDEEF6", "profile_text_color": "333333", "profile_use_background_image": true, "profile_image_url": "http://pbs.twimg.com/profile_images/378800000377619717/fa9a088464a9fe7049eec2e8bb407275_normal.jpeg", "profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000377619717/fa9a088464a9fe7049eec2e8bb407275_normal.jpeg", "profile_banner_url": "https://pbs.twimg.com/profile_banners/417273139/1365050425", "default_profile": true, "default_profile_image": false, "following": null, "follow_request_sent": null, "notifications": null}, "geo": {"type": "Point", "coordinates": [-23.55245429, -46.58307916]}, "coordinates": {"type": "Point", "coordinates": [-46.58307916, -23.55245429]}, "place": {"id": "68e019afec7d0ba5", "url": "https://api.twitter.com/1.1/geo/id/68e019afec7d0ba5.json", "place_type": "city", "name": "S\u00e3o Paulo", "full_name": "S\u00e3o Paulo, Brasil", "country_code": "BR", "country": "Brasil", "bounding_box": {"type": "Polygon", "coordinates": [[[-46.826039, -24.008814], [-46.826039, -23.356792], [-46.365052, -23.356792], [-46.365052, -24.008814]]]}, "attributes": {}}, "contributors": null, "is_quote_status": false, "quote_count": 0, "reply_count": 0, "retweet_count": 0, "favorite_count": 0, "entities": {"hashtags": [], "urls": [{"url": "https://t.co/Og4Tiw1uIu", "expanded_url": "https://www.swarmapp.com/c/9sXw9Bz30PJ", "display_url": "swarmapp.com/c/9sXw9Bz30PJ", "indices": [115, 138]}], "user_mentions": [{"screen_name": "RonaldGalo", "name": "Ronald Tim beta", "id": 58782904, "id_str": "58782904", "indices": [60, 71]}, {"screen_name": "daisousa8", "name": "Daiane Sousa", "id": 2788200582, "id_str": "2788200582", "indices": [72, 82]}, {"screen_name": "abenaiassanttos", "name": "abenaias Ferraz", "id": 2162321985, "id_str": "2162321985", "indices": [83, 99]}, {"screen_name": "thereza_assis", "name": "Thereza Assis", "id": 3018870327, "id_str": "3018870327", "indices": [100, 114]}], "symbols": []}, "favorited": false, "retweeted": false, "possibly_sensitive": false, "filter_level": "low", "lang": "pt", "timestamp_ms": "1507393520491"}
+{
+  "created_at": "Sat Oct 07 16:25:20 +0000 2017",
+  "id": 916700983027216385,
+  "id_str": "916700983027216385",
+  "text": "I'm at Feira Livre - Rua Serra de Jair\u00e9 in S\u00e3o Paulo, SP w/ @ronaldgalo @daisousa8 @abenaiassanttos @thereza_assis https://t.co/Og4Tiw1uIu",
+  "source": "<a href=\"http://foursquare.com\" rel=\"nofollow\">Foursquare</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 417273139,
+    "id_str": "417273139",
+    "name": "Dadah #timbeta",
+    "screen_name": "dadahassis",
+    "location": "S\u00e3o Paulo",
+    "url": "http://facebook.com/dadah.assis",
+    "description": null,
+    "translator_type": "none",
+    "protected": false,
+    "verified": false,
+    "followers_count": 478,
+    "friends_count": 813,
+    "listed_count": 4,
+    "favourites_count": 25,
+    "statuses_count": 5988,
+    "created_at": "Sun Nov 20 18:52:36 +0000 2011",
+    "utc_offset": -10800,
+    "time_zone": "Brasilia",
+    "geo_enabled": true,
+    "lang": "pt",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "C0DEED",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": false,
+    "profile_link_color": "1DA1F2",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/378800000377619717/fa9a088464a9fe7049eec2e8bb407275_normal.jpeg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000377619717/fa9a088464a9fe7049eec2e8bb407275_normal.jpeg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/417273139/1365050425",
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": null,
+    "follow_request_sent": null,
+    "notifications": null
+  },
+  "geo": {
+    "type": "Point",
+    "coordinates": [
+      -23.55245429,
+      -46.58307916
+    ]
+  },
+  "coordinates": {
+    "type": "Point",
+    "coordinates": [
+      -46.58307916,
+      -23.55245429
+    ]
+  },
+  "place": {
+    "id": "68e019afec7d0ba5",
+    "url": "https://api.twitter.com/1.1/geo/id/68e019afec7d0ba5.json",
+    "place_type": "city",
+    "name": "S\u00e3o Paulo",
+    "full_name": "S\u00e3o Paulo, Brasil",
+    "country_code": "BR",
+    "country": "Brasil",
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            -46.826039,
+            -24.008814
+          ],
+          [
+            -46.826039,
+            -23.356792
+          ],
+          [
+            -46.365052,
+            -23.356792
+          ],
+          [
+            -46.365052,
+            -24.008814
+          ]
+        ]
+      ]
+    },
+    "attributes": {}
+  },
+  "contributors": null,
+  "is_quote_status": false,
+  "quote_count": 0,
+  "reply_count": 0,
+  "retweet_count": 0,
+  "favorite_count": 0,
+  "entities": {
+    "hashtags": [],
+    "urls": [
+      {
+        "url": "https://t.co/Og4Tiw1uIu",
+        "expanded_url": "https://www.swarmapp.com/c/9sXw9Bz30PJ",
+        "display_url": "swarmapp.com/c/9sXw9Bz30PJ",
+        "indices": [
+          115,
+          138
+        ]
+      }
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "RonaldGalo",
+        "name": "Ronald Tim beta",
+        "id": 58782904,
+        "id_str": "58782904",
+        "indices": [
+          60,
+          71
+        ]
+      },
+      {
+        "screen_name": "daisousa8",
+        "name": "Daiane Sousa",
+        "id": 2788200582,
+        "id_str": "2788200582",
+        "indices": [
+          72,
+          82
+        ]
+      },
+      {
+        "screen_name": "abenaiassanttos",
+        "name": "abenaias Ferraz",
+        "id": 2162321985,
+        "id_str": "2162321985",
+        "indices": [
+          83,
+          99
+        ]
+      },
+      {
+        "screen_name": "thereza_assis",
+        "name": "Thereza Assis",
+        "id": 3018870327,
+        "id_str": "3018870327",
+        "indices": [
+          100,
+          114
+        ]
+      }
+    ],
+    "symbols": []
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false,
+  "filter_level": "low",
+  "lang": "pt",
+  "timestamp_ms": "1507393520491"
+}

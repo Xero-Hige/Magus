@@ -1,1 +1,106 @@
-{"created_at": "Sat Oct 07 23:36:59 +0000 2017", "id": 916809612367712256, "id_str": "916809612367712256", "text": "En la marat\u00f3n stilo de 10km quien llega primero", "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>", "truncated": false, "in_reply_to_status_id": null, "in_reply_to_status_id_str": null, "in_reply_to_user_id": null, "in_reply_to_user_id_str": null, "in_reply_to_screen_name": null, "user": {"id": 146246574, "id_str": "146246574", "name": "Gabriel Correa", "screen_name": "Rulocorrea", "location": "Viedma", "url": "http://www.facebook.com/rulocorrea90", "description": "Maratonista", "translator_type": "none", "protected": false, "verified": false, "followers_count": 340, "friends_count": 287, "listed_count": 1, "favourites_count": 935, "statuses_count": 9340, "created_at": "Thu May 20 23:51:01 +0000 2010", "utc_offset": -10800, "time_zone": "Buenos Aires", "geo_enabled": true, "lang": "es", "contributors_enabled": false, "is_translator": false, "profile_background_color": "131516", "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/278444224/wpg101024x768.jpg", "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/278444224/wpg101024x768.jpg", "profile_background_tile": true, "profile_link_color": "009999", "profile_sidebar_border_color": "EEEEEE", "profile_sidebar_fill_color": "EFEFEF", "profile_text_color": "333333", "profile_use_background_image": true, "profile_image_url": "http://pbs.twimg.com/profile_images/695663379160109056/JvrlIPM9_normal.jpg", "profile_image_url_https": "https://pbs.twimg.com/profile_images/695663379160109056/JvrlIPM9_normal.jpg", "profile_banner_url": "https://pbs.twimg.com/profile_banners/146246574/1393375834", "default_profile": false, "default_profile_image": false, "following": null, "follow_request_sent": null, "notifications": null}, "geo": null, "coordinates": null, "place": {"id": "0021712c0bd7eec1", "url": "https://api.twitter.com/1.1/geo/id/0021712c0bd7eec1.json", "place_type": "city", "name": "San Miguel de Tucum\u00e1n", "full_name": "San Miguel de Tucum\u00e1n, Argentina", "country_code": "AR", "country": "Argentina", "bounding_box": {"type": "Polygon", "coordinates": [[[-65.280702, -26.892137], [-65.280702, -26.79606], [-65.165573, -26.79606], [-65.165573, -26.892137]]]}, "attributes": {}}, "contributors": null, "is_quote_status": false, "quote_count": 0, "reply_count": 0, "retweet_count": 0, "favorite_count": 0, "entities": {"hashtags": [], "urls": [], "user_mentions": [], "symbols": []}, "favorited": false, "retweeted": false, "filter_level": "low", "lang": "es", "timestamp_ms": "1507419419744"}
+{
+  "created_at": "Sat Oct 07 23:36:59 +0000 2017",
+  "id": 916809612367712256,
+  "id_str": "916809612367712256",
+  "text": "En la marat\u00f3n stilo de 10km quien llega primero",
+  "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 146246574,
+    "id_str": "146246574",
+    "name": "Gabriel Correa",
+    "screen_name": "Rulocorrea",
+    "location": "Viedma",
+    "url": "http://www.facebook.com/rulocorrea90",
+    "description": "Maratonista",
+    "translator_type": "none",
+    "protected": false,
+    "verified": false,
+    "followers_count": 340,
+    "friends_count": 287,
+    "listed_count": 1,
+    "favourites_count": 935,
+    "statuses_count": 9340,
+    "created_at": "Thu May 20 23:51:01 +0000 2010",
+    "utc_offset": -10800,
+    "time_zone": "Buenos Aires",
+    "geo_enabled": true,
+    "lang": "es",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "131516",
+    "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/278444224/wpg101024x768.jpg",
+    "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/278444224/wpg101024x768.jpg",
+    "profile_background_tile": true,
+    "profile_link_color": "009999",
+    "profile_sidebar_border_color": "EEEEEE",
+    "profile_sidebar_fill_color": "EFEFEF",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/695663379160109056/JvrlIPM9_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/695663379160109056/JvrlIPM9_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/146246574/1393375834",
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": null,
+    "follow_request_sent": null,
+    "notifications": null
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": {
+    "id": "0021712c0bd7eec1",
+    "url": "https://api.twitter.com/1.1/geo/id/0021712c0bd7eec1.json",
+    "place_type": "city",
+    "name": "San Miguel de Tucum\u00e1n",
+    "full_name": "San Miguel de Tucum\u00e1n, Argentina",
+    "country_code": "AR",
+    "country": "Argentina",
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            -65.280702,
+            -26.892137
+          ],
+          [
+            -65.280702,
+            -26.79606
+          ],
+          [
+            -65.165573,
+            -26.79606
+          ],
+          [
+            -65.165573,
+            -26.892137
+          ]
+        ]
+      ]
+    },
+    "attributes": {}
+  },
+  "contributors": null,
+  "is_quote_status": false,
+  "quote_count": 0,
+  "reply_count": 0,
+  "retweet_count": 0,
+  "favorite_count": 0,
+  "entities": {
+    "hashtags": [],
+    "urls": [],
+    "user_mentions": [],
+    "symbols": []
+  },
+  "favorited": false,
+  "retweeted": false,
+  "filter_level": "low",
+  "lang": "es",
+  "timestamp_ms": "1507419419744"
+}
