@@ -1,0 +1,131 @@
+{
+  "created_at": "Mon Oct 02 02:28:56 +0000 2017",
+  "id": 914678556436856832,
+  "id_str": "914678556436856832",
+  "text": "@CSNPhilly @SmittyBarstool get these on the site",
+  "display_text_range": [
+    11,
+    48
+  ],
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "in_reply_to_status_id": 914648757437788161,
+  "in_reply_to_status_id_str": "914648757437788161",
+  "in_reply_to_user_id": 17799205,
+  "in_reply_to_user_id_str": "17799205",
+  "in_reply_to_screen_name": "CSNPhilly",
+  "user": {
+    "id": 25456282,
+    "id_str": "25456282",
+    "name": "George Fisfis",
+    "screen_name": "G_Fisfis",
+    "location": "Philadelphia",
+    "url": "https://www.twitter.com/GeorgeFisfis",
+    "description": "Tough Times Don't Last, Tough People Do",
+    "translator_type": "none",
+    "protected": false,
+    "verified": false,
+    "followers_count": 390,
+    "friends_count": 410,
+    "listed_count": 4,
+    "favourites_count": 2410,
+    "statuses_count": 7239,
+    "created_at": "Fri Mar 20 04:00:57 +0000 2009",
+    "utc_offset": -14400,
+    "time_zone": "Eastern Time (US & Canada)",
+    "geo_enabled": true,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "131516",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+    "profile_background_tile": false,
+    "profile_link_color": "009999",
+    "profile_sidebar_border_color": "EEEEEE",
+    "profile_sidebar_fill_color": "EFEFEF",
+    "profile_text_color": "333333",
+    "profile_use_background_image": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/484777608673263617/yUlNqcxI_normal.jpeg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/484777608673263617/yUlNqcxI_normal.jpeg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/25456282/1404414963",
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": null,
+    "follow_request_sent": null,
+    "notifications": null
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": {
+    "id": "df062364379ad7e3",
+    "url": "https://api.twitter.com/1.1/geo/id/df062364379ad7e3.json",
+    "place_type": "city",
+    "name": "Richboro",
+    "full_name": "Richboro, PA",
+    "country_code": "US",
+    "country": "United States",
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            -75.027364,
+            40.207561
+          ],
+          [
+            -75.027364,
+            40.252041
+          ],
+          [
+            -74.979358,
+            40.252041
+          ],
+          [
+            -74.979358,
+            40.207561
+          ]
+        ]
+      ]
+    },
+    "attributes": {}
+  },
+  "contributors": null,
+  "is_quote_status": false,
+  "quote_count": 0,
+  "reply_count": 0,
+  "retweet_count": 0,
+  "favorite_count": 0,
+  "entities": {
+    "hashtags": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "screen_name": "CSNPhilly",
+        "name": "CSN Philly",
+        "id": 17799205,
+        "id_str": "17799205",
+        "indices": [
+          0,
+          10
+        ]
+      },
+      {
+        "screen_name": "SmittyBarstool",
+        "name": "Smitty",
+        "id": 239765585,
+        "id_str": "239765585",
+        "indices": [
+          11,
+          26
+        ]
+      }
+    ],
+    "symbols": []
+  },
+  "favorited": false,
+  "retweeted": false,
+  "filter_level": "low",
+  "lang": "en",
+  "timestamp_ms": "1506911336417"
+}

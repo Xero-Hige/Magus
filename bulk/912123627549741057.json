@@ -1,0 +1,233 @@
+{
+  "created_at": "Mon Sep 25 01:16:33 +0000 2017",
+  "id": 912123627549741057,
+  "id_str": "912123627549741057",
+  "text": "Fast food. #RT https://t.co/BL329tu45n",
+  "display_text_range": [
+    0,
+    14
+  ],
+  "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 128260941,
+    "id_str": "128260941",
+    "name": "#AnistiaCaixa2NAO",
+    "screen_name": "paulormcabello",
+    "location": "Bauru, Brasil",
+    "url": null,
+    "description": "N\u00e3o se trata uma obra fict\u00edcia, mas sou um nato provocador. Mais importante do que falar sobre mim, \u00e9 escrever o que for necess\u00e1rio para obter e avaliar rea\u00e7\u00f5es",
+    "translator_type": "none",
+    "protected": false,
+    "verified": false,
+    "followers_count": 850,
+    "friends_count": 935,
+    "listed_count": 24,
+    "favourites_count": 9840,
+    "statuses_count": 35275,
+    "created_at": "Wed Mar 31 16:09:22 +0000 2010",
+    "utc_offset": -10800,
+    "time_zone": "Brasilia",
+    "geo_enabled": true,
+    "lang": "pt",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "C0DEED",
+    "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/145444781/OgAAAKcFWLV7mZrCKikzWM5gJsxXqLEpjpZHXHOGtzMoX4Z7zo71uHMo9O449d78angqRCLXLPJ4bK-awRCeQHXX1JAAm1T1UKng3IxWSjSMA-msC_mzN4JrX-rG.jpg",
+    "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/145444781/OgAAAKcFWLV7mZrCKikzWM5gJsxXqLEpjpZHXHOGtzMoX4Z7zo71uHMo9O449d78angqRCLXLPJ4bK-awRCeQHXX1JAAm1T1UKng3IxWSjSMA-msC_mzN4JrX-rG.jpg",
+    "profile_background_tile": false,
+    "profile_link_color": "0084B4",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/739601591498645504/Uh8dOp1a_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/739601591498645504/Uh8dOp1a_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/128260941/1442463601",
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": null,
+    "follow_request_sent": null,
+    "notifications": null
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": {
+    "id": "d5e969e37914d8ff",
+    "url": "https://api.twitter.com/1.1/geo/id/d5e969e37914d8ff.json",
+    "place_type": "city",
+    "name": "Agudos",
+    "full_name": "Agudos, Brasil",
+    "country_code": "BR",
+    "country": "Brasil",
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            -49.385689,
+            -22.784272
+          ],
+          [
+            -49.385689,
+            -22.336998
+          ],
+          [
+            -48.849798,
+            -22.336998
+          ],
+          [
+            -48.849798,
+            -22.784272
+          ]
+        ]
+      ]
+    },
+    "attributes": {}
+  },
+  "contributors": null,
+  "is_quote_status": false,
+  "quote_count": 0,
+  "reply_count": 0,
+  "retweet_count": 0,
+  "favorite_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "RT",
+        "indices": [
+          11,
+          14
+        ]
+      }
+    ],
+    "urls": [],
+    "user_mentions": [],
+    "symbols": [],
+    "media": [
+      {
+        "id": 912123253669482498,
+        "id_str": "912123253669482498",
+        "indices": [
+          15,
+          38
+        ],
+        "media_url": "http://pbs.twimg.com/media/DKiDRD5X0AI4LKO.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/DKiDRD5X0AI4LKO.jpg",
+        "url": "https://t.co/BL329tu45n",
+        "display_url": "pic.twitter.com/BL329tu45n",
+        "expanded_url": "https://twitter.com/paulormcabello/status/912123627549741057/photo/1",
+        "type": "photo",
+        "sizes": {
+          "small": {
+            "w": 382,
+            "h": 680,
+            "resize": "fit"
+          },
+          "large": {
+            "w": 539,
+            "h": 960,
+            "resize": "fit"
+          },
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "medium": {
+            "w": 539,
+            "h": 960,
+            "resize": "fit"
+          }
+        }
+      }
+    ]
+  },
+  "extended_entities": {
+    "media": [
+      {
+        "id": 912123253669482498,
+        "id_str": "912123253669482498",
+        "indices": [
+          15,
+          38
+        ],
+        "media_url": "http://pbs.twimg.com/media/DKiDRD5X0AI4LKO.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/DKiDRD5X0AI4LKO.jpg",
+        "url": "https://t.co/BL329tu45n",
+        "display_url": "pic.twitter.com/BL329tu45n",
+        "expanded_url": "https://twitter.com/paulormcabello/status/912123627549741057/photo/1",
+        "type": "photo",
+        "sizes": {
+          "small": {
+            "w": 382,
+            "h": 680,
+            "resize": "fit"
+          },
+          "large": {
+            "w": 539,
+            "h": 960,
+            "resize": "fit"
+          },
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "medium": {
+            "w": 539,
+            "h": 960,
+            "resize": "fit"
+          }
+        }
+      },
+      {
+        "id": 912123351786717185,
+        "id_str": "912123351786717185",
+        "indices": [
+          15,
+          38
+        ],
+        "media_url": "http://pbs.twimg.com/media/DKiDWxaWAAEZjjH.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/DKiDWxaWAAEZjjH.jpg",
+        "url": "https://t.co/BL329tu45n",
+        "display_url": "pic.twitter.com/BL329tu45n",
+        "expanded_url": "https://twitter.com/paulormcabello/status/912123627549741057/photo/1",
+        "type": "photo",
+        "sizes": {
+          "small": {
+            "w": 382,
+            "h": 680,
+            "resize": "fit"
+          },
+          "large": {
+            "w": 539,
+            "h": 960,
+            "resize": "fit"
+          },
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "medium": {
+            "w": 539,
+            "h": 960,
+            "resize": "fit"
+          }
+        }
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false,
+  "filter_level": "low",
+  "lang": "en",
+  "timestamp_ms": "1506302193902"
+}

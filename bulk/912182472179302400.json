@@ -1,0 +1,117 @@
+{
+  "created_at": "Mon Sep 25 05:10:23 +0000 2017",
+  "id": 912182472179302400,
+  "id_str": "912182472179302400",
+  "text": "smoke -&gt; clear sky\ntemperature up 15\u00b0C -&gt; 23\u00b0C\nhumidity down 30% -&gt; 13%\nwind 2kmh -&gt; 1kmh",
+  "source": "<a href=\"http://twitter.com/WorldCities/cities\" rel=\"nofollow\">World Cities</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 107315355,
+    "id_str": "107315355",
+    "name": "Kabul Weather",
+    "screen_name": "KabulAF",
+    "location": "Kabul, Afghanistan",
+    "url": null,
+    "description": "Weather updates, forecast, warnings and information for Kabul, Afghanistan. Sources: http://OpenWeatherMap.org, USGS.",
+    "translator_type": "none",
+    "protected": false,
+    "verified": false,
+    "followers_count": 752,
+    "friends_count": 3,
+    "listed_count": 23,
+    "favourites_count": 0,
+    "statuses_count": 31402,
+    "created_at": "Fri Jan 22 04:56:14 +0000 2010",
+    "utc_offset": -25200,
+    "time_zone": "Pacific Time (US & Canada)",
+    "geo_enabled": true,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "C0DEED",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": false,
+    "profile_link_color": "0084B4",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/912182437060386816/pwiANdEe_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/912182437060386816/pwiANdEe_normal.jpg",
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": null,
+    "follow_request_sent": null,
+    "notifications": null
+  },
+  "geo": {
+    "type": "Point",
+    "coordinates": [
+      34.53,
+      69.14
+    ]
+  },
+  "coordinates": {
+    "type": "Point",
+    "coordinates": [
+      69.14,
+      34.53
+    ]
+  },
+  "place": {
+    "id": "9ac7aa903ba29bd1",
+    "url": "https://api.twitter.com/1.1/geo/id/9ac7aa903ba29bd1.json",
+    "place_type": "country",
+    "name": "Afghanistan",
+    "full_name": "Afghanistan",
+    "country_code": "AF",
+    "country": "Afghanistan",
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            60.478443,
+            29.377472
+          ],
+          [
+            60.478443,
+            38.483418
+          ],
+          [
+            74.879448,
+            38.483418
+          ],
+          [
+            74.879448,
+            29.377472
+          ]
+        ]
+      ]
+    },
+    "attributes": {}
+  },
+  "contributors": null,
+  "is_quote_status": false,
+  "quote_count": 0,
+  "reply_count": 0,
+  "retweet_count": 0,
+  "favorite_count": 0,
+  "entities": {
+    "hashtags": [],
+    "urls": [],
+    "user_mentions": [],
+    "symbols": []
+  },
+  "favorited": false,
+  "retweeted": false,
+  "filter_level": "low",
+  "lang": "en",
+  "timestamp_ms": "1506316223555"
+}

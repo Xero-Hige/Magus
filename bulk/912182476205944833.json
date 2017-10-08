@@ -1,0 +1,189 @@
+{
+  "created_at": "Mon Sep 25 05:10:24 +0000 2017",
+  "id": 912182476205944833,
+  "id_str": "912182476205944833",
+  "text": "\u0412\u0441\u0451, \u0447\u0442\u043e \u0432\u0430\u043c \u043d\u0443\u0436\u043d\u043e \u0437\u043d\u0430\u0442\u044c \u043f\u0440\u043e \u043c\u0435\u043d\u044f. https://t.co/erLugSnfsF",
+  "display_text_range": [
+    0,
+    34
+  ],
+  "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 68647480,
+    "id_str": "68647480",
+    "name": "\u0422\u043e\u0442 \u0441\u0430\u043c\u044b\u0439 \u0422\u0430\u0439",
+    "screen_name": "tailaria",
+    "location": "\u041a\u0430\u0437\u0430\u0445\u0441\u0442\u0430\u043d, \u041a\u0430\u0440\u0430\u0433\u0430\u043d\u0434\u0430",
+    "url": "http://vk.com/tailaria",
+    "description": "\u041a\u043e\u0442\u0438\u043a, \u043a\u043e\u0442\u043e\u0440\u044b\u0439 \u0434\u0443\u043c\u0430\u0435\u0442, \u0447\u0442\u043e \u043e\u043d \u0434\u0435\u0432\u043e\u0447\u043a\u0430-\u0434\u0438\u0437\u0430\u0439\u043d\u0435\u0440",
+    "translator_type": "none",
+    "protected": false,
+    "verified": false,
+    "followers_count": 679,
+    "friends_count": 258,
+    "listed_count": 33,
+    "favourites_count": 4346,
+    "statuses_count": 47879,
+    "created_at": "Tue Aug 25 08:54:01 +0000 2009",
+    "utc_offset": -10800,
+    "time_zone": "Santiago",
+    "geo_enabled": true,
+    "lang": "ru",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "000000",
+    "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/702085263447580673/xnzchz65.jpg",
+    "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/702085263447580673/xnzchz65.jpg",
+    "profile_background_tile": true,
+    "profile_link_color": "981CEB",
+    "profile_sidebar_border_color": "000000",
+    "profile_sidebar_fill_color": "E8F5D5",
+    "profile_text_color": "000000",
+    "profile_use_background_image": true,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/458813540820738048/aJy1qgkL_normal.jpeg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/458813540820738048/aJy1qgkL_normal.jpeg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/68647480/1474085959",
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": null,
+    "follow_request_sent": null,
+    "notifications": null
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": {
+    "id": "6d73a696edc5306f",
+    "url": "https://api.twitter.com/1.1/geo/id/6d73a696edc5306f.json",
+    "place_type": "country",
+    "name": "Kazakhstan",
+    "full_name": "Kazakhstan",
+    "country_code": "KZ",
+    "country": "Kazakhstan",
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            46.492543,
+            40.936333
+          ],
+          [
+            46.492543,
+            55.442572
+          ],
+          [
+            87.315213,
+            55.442572
+          ],
+          [
+            87.315213,
+            40.936333
+          ]
+        ]
+      ]
+    },
+    "attributes": {}
+  },
+  "contributors": null,
+  "is_quote_status": false,
+  "quote_count": 0,
+  "reply_count": 0,
+  "retweet_count": 0,
+  "favorite_count": 0,
+  "entities": {
+    "hashtags": [],
+    "urls": [],
+    "user_mentions": [],
+    "symbols": [],
+    "media": [
+      {
+        "id": 912182435684716544,
+        "id_str": "912182435684716544",
+        "indices": [
+          35,
+          58
+        ],
+        "media_url": "http://pbs.twimg.com/media/DKi5F6FWkAA_egw.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/DKi5F6FWkAA_egw.jpg",
+        "url": "https://t.co/erLugSnfsF",
+        "display_url": "pic.twitter.com/erLugSnfsF",
+        "expanded_url": "https://twitter.com/tailaria/status/912182476205944833/photo/1",
+        "type": "photo",
+        "sizes": {
+          "medium": {
+            "w": 321,
+            "h": 114,
+            "resize": "fit"
+          },
+          "thumb": {
+            "w": 114,
+            "h": 114,
+            "resize": "crop"
+          },
+          "small": {
+            "w": 321,
+            "h": 114,
+            "resize": "fit"
+          },
+          "large": {
+            "w": 321,
+            "h": 114,
+            "resize": "fit"
+          }
+        }
+      }
+    ]
+  },
+  "extended_entities": {
+    "media": [
+      {
+        "id": 912182435684716544,
+        "id_str": "912182435684716544",
+        "indices": [
+          35,
+          58
+        ],
+        "media_url": "http://pbs.twimg.com/media/DKi5F6FWkAA_egw.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/DKi5F6FWkAA_egw.jpg",
+        "url": "https://t.co/erLugSnfsF",
+        "display_url": "pic.twitter.com/erLugSnfsF",
+        "expanded_url": "https://twitter.com/tailaria/status/912182476205944833/photo/1",
+        "type": "photo",
+        "sizes": {
+          "medium": {
+            "w": 321,
+            "h": 114,
+            "resize": "fit"
+          },
+          "thumb": {
+            "w": 114,
+            "h": 114,
+            "resize": "crop"
+          },
+          "small": {
+            "w": 321,
+            "h": 114,
+            "resize": "fit"
+          },
+          "large": {
+            "w": 321,
+            "h": 114,
+            "resize": "fit"
+          }
+        }
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false,
+  "filter_level": "low",
+  "lang": "ru",
+  "timestamp_ms": "1506316224515"
+}
