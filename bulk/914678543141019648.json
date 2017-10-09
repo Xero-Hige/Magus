@@ -1,1 +1,106 @@
-{"created_at": "Mon Oct 02 02:28:53 +0000 2017", "id": 914678543141019648, "id_str": "914678543141019648", "text": "Sabes bien que yo te adoro, recibe esto aunque sea poco", "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>", "truncated": false, "in_reply_to_status_id": null, "in_reply_to_status_id_str": null, "in_reply_to_user_id": null, "in_reply_to_user_id_str": null, "in_reply_to_screen_name": null, "user": {"id": 421304776, "id_str": "421304776", "name": "A\ud83c\udf34", "screen_name": "Soy_andreaf", "location": "Barranquilla, Colombia", "url": null, "description": "Mi amor bonito, due\u00f1o de mis sonrisas @MCelemin25 \ud83d\udc97", "translator_type": "none", "protected": false, "verified": false, "followers_count": 1709, "friends_count": 812, "listed_count": 3, "favourites_count": 4114, "statuses_count": 93332, "created_at": "Fri Nov 25 19:37:57 +0000 2011", "utc_offset": -14400, "time_zone": "Eastern Time (US & Canada)", "geo_enabled": true, "lang": "es", "contributors_enabled": false, "is_translator": false, "profile_background_color": "EBEBEB", "profile_background_image_url": "http://abs.twimg.com/images/themes/theme7/bg.gif", "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme7/bg.gif", "profile_background_tile": false, "profile_link_color": "F58EA8", "profile_sidebar_border_color": "DFDFDF", "profile_sidebar_fill_color": "F3F3F3", "profile_text_color": "333333", "profile_use_background_image": true, "profile_image_url": "http://pbs.twimg.com/profile_images/914184621226692610/TFYabt2d_normal.jpg", "profile_image_url_https": "https://pbs.twimg.com/profile_images/914184621226692610/TFYabt2d_normal.jpg", "profile_banner_url": "https://pbs.twimg.com/profile_banners/421304776/1506619416", "default_profile": false, "default_profile_image": false, "following": null, "follow_request_sent": null, "notifications": null}, "geo": null, "coordinates": null, "place": {"id": "0105a80417c159b4", "url": "https://api.twitter.com/1.1/geo/id/0105a80417c159b4.json", "place_type": "city", "name": "Barranquilla", "full_name": "Barranquilla, Colombia", "country_code": "CO", "country": "Colombia", "bounding_box": {"type": "Polygon", "coordinates": [[[-74.925765, 10.869528], [-74.925765, 11.046618], [-74.774101, 11.046618], [-74.774101, 10.869528]]]}, "attributes": {}}, "contributors": null, "is_quote_status": false, "quote_count": 0, "reply_count": 0, "retweet_count": 0, "favorite_count": 0, "entities": {"hashtags": [], "urls": [], "user_mentions": [], "symbols": []}, "favorited": false, "retweeted": false, "filter_level": "low", "lang": "es", "timestamp_ms": "1506911333247"}
+{
+  "created_at": "Mon Oct 02 02:28:53 +0000 2017",
+  "id": 914678543141019648,
+  "id_str": "914678543141019648",
+  "text": "Sabes bien que yo te adoro, recibe esto aunque sea poco",
+  "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 421304776,
+    "id_str": "421304776",
+    "name": "A\ud83c\udf34",
+    "screen_name": "Soy_andreaf",
+    "location": "Barranquilla, Colombia",
+    "url": null,
+    "description": "Mi amor bonito, due\u00f1o de mis sonrisas @MCelemin25 \ud83d\udc97",
+    "translator_type": "none",
+    "protected": false,
+    "verified": false,
+    "followers_count": 1709,
+    "friends_count": 812,
+    "listed_count": 3,
+    "favourites_count": 4114,
+    "statuses_count": 93332,
+    "created_at": "Fri Nov 25 19:37:57 +0000 2011",
+    "utc_offset": -14400,
+    "time_zone": "Eastern Time (US & Canada)",
+    "geo_enabled": true,
+    "lang": "es",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "EBEBEB",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme7/bg.gif",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme7/bg.gif",
+    "profile_background_tile": false,
+    "profile_link_color": "F58EA8",
+    "profile_sidebar_border_color": "DFDFDF",
+    "profile_sidebar_fill_color": "F3F3F3",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/914184621226692610/TFYabt2d_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/914184621226692610/TFYabt2d_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/421304776/1506619416",
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": null,
+    "follow_request_sent": null,
+    "notifications": null
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": {
+    "id": "0105a80417c159b4",
+    "url": "https://api.twitter.com/1.1/geo/id/0105a80417c159b4.json",
+    "place_type": "city",
+    "name": "Barranquilla",
+    "full_name": "Barranquilla, Colombia",
+    "country_code": "CO",
+    "country": "Colombia",
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            -74.925765,
+            10.869528
+          ],
+          [
+            -74.925765,
+            11.046618
+          ],
+          [
+            -74.774101,
+            11.046618
+          ],
+          [
+            -74.774101,
+            10.869528
+          ]
+        ]
+      ]
+    },
+    "attributes": {}
+  },
+  "contributors": null,
+  "is_quote_status": false,
+  "quote_count": 0,
+  "reply_count": 0,
+  "retweet_count": 0,
+  "favorite_count": 0,
+  "entities": {
+    "hashtags": [],
+    "urls": [],
+    "user_mentions": [],
+    "symbols": []
+  },
+  "favorited": false,
+  "retweeted": false,
+  "filter_level": "low",
+  "lang": "es",
+  "timestamp_ms": "1506911333247"
+}

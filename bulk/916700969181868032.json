@@ -1,0 +1,140 @@
+{
+  "created_at": "Sat Oct 07 16:25:17 +0000 2017",
+  "id": 916700969181868032,
+  "id_str": "916700969181868032",
+  "text": "I'm at McCarran International Airport - @lasairport in Las Vegas, NV https://t.co/6K1kYnxZWR",
+  "source": "<a href=\"http://foursquare.com\" rel=\"nofollow\">Foursquare</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 18004114,
+    "id_str": "18004114",
+    "name": "Gregg Prince",
+    "screen_name": "princeo",
+    "location": "Buffalo, NY",
+    "url": "http://www.marillion.com",
+    "description": "If you're following me for some unknown reason, my bio obviously isn't that important ;-)",
+    "translator_type": "none",
+    "protected": false,
+    "verified": false,
+    "followers_count": 400,
+    "friends_count": 1121,
+    "listed_count": 18,
+    "favourites_count": 2600,
+    "statuses_count": 12220,
+    "created_at": "Tue Dec 09 22:05:39 +0000 2008",
+    "utc_offset": -14400,
+    "time_zone": "Eastern Time (US & Canada)",
+    "geo_enabled": true,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "709397",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+    "profile_background_tile": false,
+    "profile_link_color": "FF3300",
+    "profile_sidebar_border_color": "86A4A6",
+    "profile_sidebar_fill_color": "A0C5C7",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/779752060283711489/OSibjJwC_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/779752060283711489/OSibjJwC_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/18004114/1474742302",
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": null,
+    "follow_request_sent": null,
+    "notifications": null
+  },
+  "geo": {
+    "type": "Point",
+    "coordinates": [
+      36.08368788,
+      -115.14743363
+    ]
+  },
+  "coordinates": {
+    "type": "Point",
+    "coordinates": [
+      -115.14743363,
+      36.08368788
+    ]
+  },
+  "place": {
+    "id": "8fa6d7a33b83ef26",
+    "url": "https://api.twitter.com/1.1/geo/id/8fa6d7a33b83ef26.json",
+    "place_type": "city",
+    "name": "Paradise",
+    "full_name": "Paradise, NV",
+    "country_code": "US",
+    "country": "United States",
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            -115.209254,
+            35.984784
+          ],
+          [
+            -115.209254,
+            36.137145
+          ],
+          [
+            -115.061076,
+            36.137145
+          ],
+          [
+            -115.061076,
+            35.984784
+          ]
+        ]
+      ]
+    },
+    "attributes": {}
+  },
+  "contributors": null,
+  "is_quote_status": false,
+  "quote_count": 0,
+  "reply_count": 0,
+  "retweet_count": 0,
+  "favorite_count": 0,
+  "entities": {
+    "hashtags": [],
+    "urls": [
+      {
+        "url": "https://t.co/6K1kYnxZWR",
+        "expanded_url": "https://www.swarmapp.com/c/31qTZ6EB2aq",
+        "display_url": "swarmapp.com/c/31qTZ6EB2aq",
+        "indices": [
+          69,
+          92
+        ]
+      }
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "LASairport",
+        "name": "McCarran Airport",
+        "id": 97540285,
+        "id_str": "97540285",
+        "indices": [
+          40,
+          51
+        ]
+      }
+    ],
+    "symbols": []
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false,
+  "filter_level": "low",
+  "lang": "en",
+  "timestamp_ms": "1507393517190"
+}
