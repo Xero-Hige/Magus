@@ -29,12 +29,14 @@ class TweetParser:
 
         if "truncated" in tweet and "extended_tweet" in tweet:
             tweet_dict[TweetParser.TWEET_TEXT] = tweet["extended_tweet"]["full_text"].encode("utf-8", 'replace').decode(
-                "utf-8")
+                    "utf-8")
         elif "retweeted_status" in tweet and "extended_tweet" in tweet["retweeted_status"]:
-            tweet_dict[TweetParser.TWEET_TEXT] = tweet["retweeted_status"]["extended_tweet"]["full_text"].encode("utf-8", 'replace').decode(
-                "utf-8")
+            tweet_dict[TweetParser.TWEET_TEXT] = tweet["retweeted_status"]["extended_tweet"]["full_text"].encode(
+                    "utf-8", 'replace').decode(
+                    "utf-8")
         elif "retweeted_status" in tweet and "text" in tweet["retweeted_status"]:
-            tweet_dict[TweetParser.TWEET_TEXT] = tweet["retweeted_status"]["text"].encode("utf-8", 'replace').decode(                "utf-8")
+            tweet_dict[TweetParser.TWEET_TEXT] = tweet["retweeted_status"]["text"].encode("utf-8", 'replace').decode(
+                    "utf-8")
         else:
             tweet_dict[TweetParser.TWEET_TEXT] = tweet["text"].encode("utf-8", 'replace').decode("utf-8")
 
