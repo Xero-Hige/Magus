@@ -1,9 +1,16 @@
-WINDOW_SIZE = 3
+from tokenizer.base_tokenizer import Tokenizer
 
-from base_tokenizer import Tokenizer
+from libs.tweet_anonymize import full_anonymize_tweet
+
+WINDOW_SIZE = 3
 
 
 class CharTokenizer(Tokenizer):
+    @staticmethod
+    def preprocess(tweet):
+        tweet["tweet_text"] = tweet["tweet_text"].lower()
+        tweet["tweet_text"] = full_anonymize_tweet(tweet["tweet_text"])
+
     @staticmethod
     def tokenize(tweet):
         result = []
