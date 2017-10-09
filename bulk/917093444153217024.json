@@ -1,1 +1,211 @@
-{"created_at": "Sun Oct 08 18:24:50 +0000 2017", "id": 917093444153217024, "id_str": "917093444153217024", "text": "I'm at Coopertown Air Boat in Everglades, FL https://t.co/5FQAEPn5NA https://t.co/T3YRoQcVUK", "display_text_range": [0, 68], "source": "<a href=\"http://foursquare.com\" rel=\"nofollow\">Foursquare</a>", "truncated": false, "in_reply_to_status_id": null, "in_reply_to_status_id_str": null, "in_reply_to_user_id": null, "in_reply_to_user_id_str": null, "in_reply_to_screen_name": null, "user": {"id": 98921882, "id_str": "98921882", "name": "Kristi Farinelli", "screen_name": "kristifarinelli", "location": "Philadelphia, PA", "url": "http://kristifarinelli.com/", "description": "Advanced cognitive solutions @IBMWatson, tech, tinkering, shopping, rock shows, cooking, brews, travel, animals", "translator_type": "none", "protected": false, "verified": false, "followers_count": 425, "friends_count": 73, "listed_count": 38, "favourites_count": 3065, "statuses_count": 5757, "created_at": "Wed Dec 23 17:18:27 +0000 2009", "utc_offset": -14400, "time_zone": "Eastern Time (US & Canada)", "geo_enabled": true, "lang": "en", "contributors_enabled": false, "is_translator": false, "profile_background_color": "131516", "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000169460773/aaSxIFye.jpeg", "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000169460773/aaSxIFye.jpeg", "profile_background_tile": false, "profile_link_color": "000000", "profile_sidebar_border_color": "FFFFFF", "profile_sidebar_fill_color": "EBC4A9", "profile_text_color": "3E3742", "profile_use_background_image": true, "profile_image_url": "http://pbs.twimg.com/profile_images/912682465646579712/J6AMH3Rn_normal.jpg", "profile_image_url_https": "https://pbs.twimg.com/profile_images/912682465646579712/J6AMH3Rn_normal.jpg", "profile_banner_url": "https://pbs.twimg.com/profile_banners/98921882/1506435461", "default_profile": false, "default_profile_image": false, "following": null, "follow_request_sent": null, "notifications": null}, "geo": {"type": "Point", "coordinates": [25.7607422, -80.56124989]}, "coordinates": {"type": "Point", "coordinates": [-80.56124989, 25.7607422]}, "place": {"id": "4ec01c9dbc693497", "url": "https://api.twitter.com/1.1/geo/id/4ec01c9dbc693497.json", "place_type": "admin", "name": "Florida", "full_name": "Florida, USA", "country_code": "US", "country": "United States", "bounding_box": {"type": "Polygon", "coordinates": [[[-87.634643, 24.396308], [-87.634643, 31.001056], [-79.974307, 31.001056], [-79.974307, 24.396308]]]}, "attributes": {}}, "contributors": null, "is_quote_status": false, "quote_count": 0, "reply_count": 0, "retweet_count": 0, "favorite_count": 0, "entities": {"hashtags": [], "urls": [{"url": "https://t.co/5FQAEPn5NA", "expanded_url": "https://www.swarmapp.com/c/ah7JU2sqmoG", "display_url": "swarmapp.com/c/ah7JU2sqmoG", "indices": [45, 68]}], "user_mentions": [], "symbols": [], "media": [{"id": 917093441586319360, "id_str": "917093441586319360", "indices": [69, 92], "media_url": "http://pbs.twimg.com/media/DLoroEuX0AASCUp.jpg", "media_url_https": "https://pbs.twimg.com/media/DLoroEuX0AASCUp.jpg", "url": "https://t.co/T3YRoQcVUK", "display_url": "pic.twitter.com/T3YRoQcVUK", "expanded_url": "https://twitter.com/kristifarinelli/status/917093444153217024/photo/1", "type": "photo", "sizes": {"large": {"w": 1440, "h": 1920, "resize": "fit"}, "medium": {"w": 900, "h": 1200, "resize": "fit"}, "thumb": {"w": 150, "h": 150, "resize": "crop"}, "small": {"w": 510, "h": 680, "resize": "fit"}}}]}, "extended_entities": {"media": [{"id": 917093441586319360, "id_str": "917093441586319360", "indices": [69, 92], "media_url": "http://pbs.twimg.com/media/DLoroEuX0AASCUp.jpg", "media_url_https": "https://pbs.twimg.com/media/DLoroEuX0AASCUp.jpg", "url": "https://t.co/T3YRoQcVUK", "display_url": "pic.twitter.com/T3YRoQcVUK", "expanded_url": "https://twitter.com/kristifarinelli/status/917093444153217024/photo/1", "type": "photo", "sizes": {"large": {"w": 1440, "h": 1920, "resize": "fit"}, "medium": {"w": 900, "h": 1200, "resize": "fit"}, "thumb": {"w": 150, "h": 150, "resize": "crop"}, "small": {"w": 510, "h": 680, "resize": "fit"}}}]}, "favorited": false, "retweeted": false, "possibly_sensitive": false, "filter_level": "low", "lang": "en", "timestamp_ms": "1507487090515"}
+{
+  "created_at": "Sun Oct 08 18:24:50 +0000 2017",
+  "id": 917093444153217024,
+  "id_str": "917093444153217024",
+  "text": "I'm at Coopertown Air Boat in Everglades, FL https://t.co/5FQAEPn5NA https://t.co/T3YRoQcVUK",
+  "display_text_range": [
+    0,
+    68
+  ],
+  "source": "<a href=\"http://foursquare.com\" rel=\"nofollow\">Foursquare</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 98921882,
+    "id_str": "98921882",
+    "name": "Kristi Farinelli",
+    "screen_name": "kristifarinelli",
+    "location": "Philadelphia, PA",
+    "url": "http://kristifarinelli.com/",
+    "description": "Advanced cognitive solutions @IBMWatson, tech, tinkering, shopping, rock shows, cooking, brews, travel, animals",
+    "translator_type": "none",
+    "protected": false,
+    "verified": false,
+    "followers_count": 425,
+    "friends_count": 73,
+    "listed_count": 38,
+    "favourites_count": 3065,
+    "statuses_count": 5757,
+    "created_at": "Wed Dec 23 17:18:27 +0000 2009",
+    "utc_offset": -14400,
+    "time_zone": "Eastern Time (US & Canada)",
+    "geo_enabled": true,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "131516",
+    "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000169460773/aaSxIFye.jpeg",
+    "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000169460773/aaSxIFye.jpeg",
+    "profile_background_tile": false,
+    "profile_link_color": "000000",
+    "profile_sidebar_border_color": "FFFFFF",
+    "profile_sidebar_fill_color": "EBC4A9",
+    "profile_text_color": "3E3742",
+    "profile_use_background_image": true,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/912682465646579712/J6AMH3Rn_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/912682465646579712/J6AMH3Rn_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/98921882/1506435461",
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": null,
+    "follow_request_sent": null,
+    "notifications": null
+  },
+  "geo": {
+    "type": "Point",
+    "coordinates": [
+      25.7607422,
+      -80.56124989
+    ]
+  },
+  "coordinates": {
+    "type": "Point",
+    "coordinates": [
+      -80.56124989,
+      25.7607422
+    ]
+  },
+  "place": {
+    "id": "4ec01c9dbc693497",
+    "url": "https://api.twitter.com/1.1/geo/id/4ec01c9dbc693497.json",
+    "place_type": "admin",
+    "name": "Florida",
+    "full_name": "Florida, USA",
+    "country_code": "US",
+    "country": "United States",
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            -87.634643,
+            24.396308
+          ],
+          [
+            -87.634643,
+            31.001056
+          ],
+          [
+            -79.974307,
+            31.001056
+          ],
+          [
+            -79.974307,
+            24.396308
+          ]
+        ]
+      ]
+    },
+    "attributes": {}
+  },
+  "contributors": null,
+  "is_quote_status": false,
+  "quote_count": 0,
+  "reply_count": 0,
+  "retweet_count": 0,
+  "favorite_count": 0,
+  "entities": {
+    "hashtags": [],
+    "urls": [
+      {
+        "url": "https://t.co/5FQAEPn5NA",
+        "expanded_url": "https://www.swarmapp.com/c/ah7JU2sqmoG",
+        "display_url": "swarmapp.com/c/ah7JU2sqmoG",
+        "indices": [
+          45,
+          68
+        ]
+      }
+    ],
+    "user_mentions": [],
+    "symbols": [],
+    "media": [
+      {
+        "id": 917093441586319360,
+        "id_str": "917093441586319360",
+        "indices": [
+          69,
+          92
+        ],
+        "media_url": "http://pbs.twimg.com/media/DLoroEuX0AASCUp.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/DLoroEuX0AASCUp.jpg",
+        "url": "https://t.co/T3YRoQcVUK",
+        "display_url": "pic.twitter.com/T3YRoQcVUK",
+        "expanded_url": "https://twitter.com/kristifarinelli/status/917093444153217024/photo/1",
+        "type": "photo",
+        "sizes": {
+          "large": {
+            "w": 1440,
+            "h": 1920,
+            "resize": "fit"
+          },
+          "medium": {
+            "w": 900,
+            "h": 1200,
+            "resize": "fit"
+          },
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "small": {
+            "w": 510,
+            "h": 680,
+            "resize": "fit"
+          }
+        }
+      }
+    ]
+  },
+  "extended_entities": {
+    "media": [
+      {
+        "id": 917093441586319360,
+        "id_str": "917093441586319360",
+        "indices": [
+          69,
+          92
+        ],
+        "media_url": "http://pbs.twimg.com/media/DLoroEuX0AASCUp.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/DLoroEuX0AASCUp.jpg",
+        "url": "https://t.co/T3YRoQcVUK",
+        "display_url": "pic.twitter.com/T3YRoQcVUK",
+        "expanded_url": "https://twitter.com/kristifarinelli/status/917093444153217024/photo/1",
+        "type": "photo",
+        "sizes": {
+          "large": {
+            "w": 1440,
+            "h": 1920,
+            "resize": "fit"
+          },
+          "medium": {
+            "w": 900,
+            "h": 1200,
+            "resize": "fit"
+          },
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "small": {
+            "w": 510,
+            "h": 680,
+            "resize": "fit"
+          }
+        }
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false,
+  "filter_level": "low",
+  "lang": "en",
+  "timestamp_ms": "1507487090515"
+}

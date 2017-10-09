@@ -1,1 +1,121 @@
-{"created_at": "Sun Oct 08 07:54:45 +0000 2017", "id": 916934876833738752, "id_str": "916934876833738752", "text": "@luagza L", "display_text_range": [8, 9], "source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for i\u039fS</a>", "truncated": false, "in_reply_to_status_id": 916934823947702272, "in_reply_to_status_id_str": "916934823947702272", "in_reply_to_user_id": 154989312, "in_reply_to_user_id_str": "154989312", "in_reply_to_screen_name": "luagza", "user": {"id": 47037465, "id_str": "47037465", "name": "Jorge \ud83c\udf83", "screen_name": "Jorge_Fimbres", "location": "Hermosillo, Sonora", "url": "http://Instagram.com/Jorge_Fimbres", "description": "Resilient \ud83c\uddf2\ud83c\uddfd\ud83c\udff3\ufe0f\u200d\ud83c\udf08", "translator_type": "regular", "protected": false, "verified": false, "followers_count": 584, "friends_count": 338, "listed_count": 40, "favourites_count": 222, "statuses_count": 75023, "created_at": "Sun Jun 14 05:04:27 +0000 2009", "utc_offset": -25200, "time_zone": "Arizona", "geo_enabled": true, "lang": "es", "contributors_enabled": false, "is_translator": false, "profile_background_color": "ABB8C2", "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/460844118642417664/EbXk2goO.jpeg", "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/460844118642417664/EbXk2goO.jpeg", "profile_background_tile": true, "profile_link_color": "000000", "profile_sidebar_border_color": "000000", "profile_sidebar_fill_color": "EFEFEF", "profile_text_color": "333333", "profile_use_background_image": false, "profile_image_url": "http://pbs.twimg.com/profile_images/861366862449455104/CT-b8so2_normal.jpg", "profile_image_url_https": "https://pbs.twimg.com/profile_images/861366862449455104/CT-b8so2_normal.jpg", "profile_banner_url": "https://pbs.twimg.com/profile_banners/47037465/1507137550", "default_profile": false, "default_profile_image": false, "following": null, "follow_request_sent": null, "notifications": null}, "geo": null, "coordinates": null, "place": {"id": "50077d25ffcc44ad", "url": "https://api.twitter.com/1.1/geo/id/50077d25ffcc44ad.json", "place_type": "neighborhood", "name": "Centro", "full_name": "Centro, Hermosillo", "country_code": "MX", "country": "M\u00e9xico", "bounding_box": {"type": "Polygon", "coordinates": [[[-110.958795, 29.070223], [-110.958795, 29.097646], [-110.937252, 29.097646], [-110.937252, 29.070223]]]}, "attributes": {}}, "contributors": null, "is_quote_status": false, "quote_count": 0, "reply_count": 0, "retweet_count": 0, "favorite_count": 0, "entities": {"hashtags": [], "urls": [], "user_mentions": [{"screen_name": "luagza", "name": "Luis", "id": 154989312, "id_str": "154989312", "indices": [0, 7]}], "symbols": []}, "favorited": false, "retweeted": false, "filter_level": "low", "lang": "und", "timestamp_ms": "1507449285120"}
+{
+  "created_at": "Sun Oct 08 07:54:45 +0000 2017",
+  "id": 916934876833738752,
+  "id_str": "916934876833738752",
+  "text": "@luagza L",
+  "display_text_range": [
+    8,
+    9
+  ],
+  "source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for i\u039fS</a>",
+  "truncated": false,
+  "in_reply_to_status_id": 916934823947702272,
+  "in_reply_to_status_id_str": "916934823947702272",
+  "in_reply_to_user_id": 154989312,
+  "in_reply_to_user_id_str": "154989312",
+  "in_reply_to_screen_name": "luagza",
+  "user": {
+    "id": 47037465,
+    "id_str": "47037465",
+    "name": "Jorge \ud83c\udf83",
+    "screen_name": "Jorge_Fimbres",
+    "location": "Hermosillo, Sonora",
+    "url": "http://Instagram.com/Jorge_Fimbres",
+    "description": "Resilient \ud83c\uddf2\ud83c\uddfd\ud83c\udff3\ufe0f\u200d\ud83c\udf08",
+    "translator_type": "regular",
+    "protected": false,
+    "verified": false,
+    "followers_count": 584,
+    "friends_count": 338,
+    "listed_count": 40,
+    "favourites_count": 222,
+    "statuses_count": 75023,
+    "created_at": "Sun Jun 14 05:04:27 +0000 2009",
+    "utc_offset": -25200,
+    "time_zone": "Arizona",
+    "geo_enabled": true,
+    "lang": "es",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "ABB8C2",
+    "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/460844118642417664/EbXk2goO.jpeg",
+    "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/460844118642417664/EbXk2goO.jpeg",
+    "profile_background_tile": true,
+    "profile_link_color": "000000",
+    "profile_sidebar_border_color": "000000",
+    "profile_sidebar_fill_color": "EFEFEF",
+    "profile_text_color": "333333",
+    "profile_use_background_image": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/861366862449455104/CT-b8so2_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/861366862449455104/CT-b8so2_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/47037465/1507137550",
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": null,
+    "follow_request_sent": null,
+    "notifications": null
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": {
+    "id": "50077d25ffcc44ad",
+    "url": "https://api.twitter.com/1.1/geo/id/50077d25ffcc44ad.json",
+    "place_type": "neighborhood",
+    "name": "Centro",
+    "full_name": "Centro, Hermosillo",
+    "country_code": "MX",
+    "country": "M\u00e9xico",
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            -110.958795,
+            29.070223
+          ],
+          [
+            -110.958795,
+            29.097646
+          ],
+          [
+            -110.937252,
+            29.097646
+          ],
+          [
+            -110.937252,
+            29.070223
+          ]
+        ]
+      ]
+    },
+    "attributes": {}
+  },
+  "contributors": null,
+  "is_quote_status": false,
+  "quote_count": 0,
+  "reply_count": 0,
+  "retweet_count": 0,
+  "favorite_count": 0,
+  "entities": {
+    "hashtags": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "screen_name": "luagza",
+        "name": "Luis",
+        "id": 154989312,
+        "id_str": "154989312",
+        "indices": [
+          0,
+          7
+        ]
+      }
+    ],
+    "symbols": []
+  },
+  "favorited": false,
+  "retweeted": false,
+  "filter_level": "low",
+  "lang": "und",
+  "timestamp_ms": "1507449285120"
+}

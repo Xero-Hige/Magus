@@ -1,1 +1,105 @@
-{"created_at": "Sun Oct 08 08:04:44 +0000 2017", "id": 916937389825679362, "id_str": "916937389825679362", "text": "TEST_PLACE: 2e164551-6bd3-44da-9330-6060c83ab5d6", "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">GeoScrubApp</a>", "truncated": false, "in_reply_to_status_id": null, "in_reply_to_status_id_str": null, "in_reply_to_user_id": null, "in_reply_to_user_id_str": null, "in_reply_to_screen_name": null, "user": {"id": 758415480881164288, "id_str": "758415480881164288", "name": "Test Account2", "screen_name": "test5geo1798", "location": null, "url": null, "description": null, "translator_type": "none", "protected": false, "verified": false, "followers_count": 15, "friends_count": 0, "listed_count": 24, "favourites_count": 0, "statuses_count": 350621, "created_at": "Wed Jul 27 21:35:16 +0000 2016", "utc_offset": null, "time_zone": null, "geo_enabled": true, "lang": "en", "contributors_enabled": false, "is_translator": false, "profile_background_color": "F5F8FA", "profile_background_image_url": "", "profile_background_image_url_https": "", "profile_background_tile": false, "profile_link_color": "1DA1F2", "profile_sidebar_border_color": "C0DEED", "profile_sidebar_fill_color": "DDEEF6", "profile_text_color": "333333", "profile_use_background_image": true, "profile_image_url": "http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png", "profile_image_url_https": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png", "default_profile": true, "default_profile_image": false, "following": null, "follow_request_sent": null, "notifications": null}, "geo": null, "coordinates": null, "place": {"id": "07d9cd6afd884001", "url": "https://api.twitter.com/1.1/geo/id/07d9cd6afd884001.json", "place_type": "poi", "name": "Twitter HQ", "full_name": "Twitter HQ", "country_code": "US", "country": "United States", "bounding_box": {"type": "Polygon", "coordinates": [[[-122.416799, 37.776888], [-122.416799, 37.776888], [-122.416799, 37.776888], [-122.416799, 37.776888]]]}, "attributes": {}}, "contributors": null, "is_quote_status": false, "quote_count": 0, "reply_count": 0, "retweet_count": 0, "favorite_count": 0, "entities": {"hashtags": [], "urls": [], "user_mentions": [], "symbols": []}, "favorited": false, "retweeted": false, "filter_level": "low", "lang": "en", "timestamp_ms": "1507449884264"}
+{
+  "created_at": "Sun Oct 08 08:04:44 +0000 2017",
+  "id": 916937389825679362,
+  "id_str": "916937389825679362",
+  "text": "TEST_PLACE: 2e164551-6bd3-44da-9330-6060c83ab5d6",
+  "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">GeoScrubApp</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 758415480881164288,
+    "id_str": "758415480881164288",
+    "name": "Test Account2",
+    "screen_name": "test5geo1798",
+    "location": null,
+    "url": null,
+    "description": null,
+    "translator_type": "none",
+    "protected": false,
+    "verified": false,
+    "followers_count": 15,
+    "friends_count": 0,
+    "listed_count": 24,
+    "favourites_count": 0,
+    "statuses_count": 350621,
+    "created_at": "Wed Jul 27 21:35:16 +0000 2016",
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": true,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "F5F8FA",
+    "profile_background_image_url": "",
+    "profile_background_image_url_https": "",
+    "profile_background_tile": false,
+    "profile_link_color": "1DA1F2",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "profile_image_url": "http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+    "profile_image_url_https": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": null,
+    "follow_request_sent": null,
+    "notifications": null
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": {
+    "id": "07d9cd6afd884001",
+    "url": "https://api.twitter.com/1.1/geo/id/07d9cd6afd884001.json",
+    "place_type": "poi",
+    "name": "Twitter HQ",
+    "full_name": "Twitter HQ",
+    "country_code": "US",
+    "country": "United States",
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            -122.416799,
+            37.776888
+          ],
+          [
+            -122.416799,
+            37.776888
+          ],
+          [
+            -122.416799,
+            37.776888
+          ],
+          [
+            -122.416799,
+            37.776888
+          ]
+        ]
+      ]
+    },
+    "attributes": {}
+  },
+  "contributors": null,
+  "is_quote_status": false,
+  "quote_count": 0,
+  "reply_count": 0,
+  "retweet_count": 0,
+  "favorite_count": 0,
+  "entities": {
+    "hashtags": [],
+    "urls": [],
+    "user_mentions": [],
+    "symbols": []
+  },
+  "favorited": false,
+  "retweeted": false,
+  "filter_level": "low",
+  "lang": "en",
+  "timestamp_ms": "1507449884264"
+}

@@ -1,1 +1,106 @@
-{"created_at": "Sun Oct 08 07:54:32 +0000 2017", "id": 916934823293390848, "id_str": "916934823293390848", "text": "Aquela crise existencial de lei", "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>", "truncated": false, "in_reply_to_status_id": null, "in_reply_to_status_id_str": null, "in_reply_to_user_id": null, "in_reply_to_user_id_str": null, "in_reply_to_screen_name": null, "user": {"id": 481747762, "id_str": "481747762", "name": "\ud83c\udfad", "screen_name": "kakacm_", "location": null, "url": "http://mindserene.tumblr.com/", "description": "O carrocel nunca para de girar. \ud83c\udfa0", "translator_type": "none", "protected": false, "verified": false, "followers_count": 736, "friends_count": 160, "listed_count": 1, "favourites_count": 5896, "statuses_count": 49661, "created_at": "Fri Feb 03 04:05:08 +0000 2012", "utc_offset": -7200, "time_zone": "Mid-Atlantic", "geo_enabled": true, "lang": "pt", "contributors_enabled": false, "is_translator": false, "profile_background_color": "C0DEED", "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/598977361267200000/fhkslGxb.jpg", "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/598977361267200000/fhkslGxb.jpg", "profile_background_tile": true, "profile_link_color": "ABB8C2", "profile_sidebar_border_color": "FFFFFF", "profile_sidebar_fill_color": "DDEEF6", "profile_text_color": "333333", "profile_use_background_image": true, "profile_image_url": "http://pbs.twimg.com/profile_images/916805501375131648/BjGoSTev_normal.jpg", "profile_image_url_https": "https://pbs.twimg.com/profile_images/916805501375131648/BjGoSTev_normal.jpg", "profile_banner_url": "https://pbs.twimg.com/profile_banners/481747762/1496812249", "default_profile": false, "default_profile_image": false, "following": null, "follow_request_sent": null, "notifications": null}, "geo": null, "coordinates": null, "place": {"id": "3c465ed3fc434def", "url": "https://api.twitter.com/1.1/geo/id/3c465ed3fc434def.json", "place_type": "city", "name": "Rio Grande", "full_name": "Rio Grande, Brasil", "country_code": "BR", "country": "Brasil", "bounding_box": {"type": "Polygon", "coordinates": [[[-53.533272, -33.618473], [-53.533272, -31.7735], [-52.064113, -31.7735], [-52.064113, -33.618473]]]}, "attributes": {}}, "contributors": null, "is_quote_status": false, "quote_count": 0, "reply_count": 0, "retweet_count": 0, "favorite_count": 0, "entities": {"hashtags": [], "urls": [], "user_mentions": [], "symbols": []}, "favorited": false, "retweeted": false, "filter_level": "low", "lang": "pt", "timestamp_ms": "1507449272355"}
+{
+  "created_at": "Sun Oct 08 07:54:32 +0000 2017",
+  "id": 916934823293390848,
+  "id_str": "916934823293390848",
+  "text": "Aquela crise existencial de lei",
+  "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 481747762,
+    "id_str": "481747762",
+    "name": "\ud83c\udfad",
+    "screen_name": "kakacm_",
+    "location": null,
+    "url": "http://mindserene.tumblr.com/",
+    "description": "O carrocel nunca para de girar. \ud83c\udfa0",
+    "translator_type": "none",
+    "protected": false,
+    "verified": false,
+    "followers_count": 736,
+    "friends_count": 160,
+    "listed_count": 1,
+    "favourites_count": 5896,
+    "statuses_count": 49661,
+    "created_at": "Fri Feb 03 04:05:08 +0000 2012",
+    "utc_offset": -7200,
+    "time_zone": "Mid-Atlantic",
+    "geo_enabled": true,
+    "lang": "pt",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "C0DEED",
+    "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/598977361267200000/fhkslGxb.jpg",
+    "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/598977361267200000/fhkslGxb.jpg",
+    "profile_background_tile": true,
+    "profile_link_color": "ABB8C2",
+    "profile_sidebar_border_color": "FFFFFF",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/916805501375131648/BjGoSTev_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/916805501375131648/BjGoSTev_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/481747762/1496812249",
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": null,
+    "follow_request_sent": null,
+    "notifications": null
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": {
+    "id": "3c465ed3fc434def",
+    "url": "https://api.twitter.com/1.1/geo/id/3c465ed3fc434def.json",
+    "place_type": "city",
+    "name": "Rio Grande",
+    "full_name": "Rio Grande, Brasil",
+    "country_code": "BR",
+    "country": "Brasil",
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            -53.533272,
+            -33.618473
+          ],
+          [
+            -53.533272,
+            -31.7735
+          ],
+          [
+            -52.064113,
+            -31.7735
+          ],
+          [
+            -52.064113,
+            -33.618473
+          ]
+        ]
+      ]
+    },
+    "attributes": {}
+  },
+  "contributors": null,
+  "is_quote_status": false,
+  "quote_count": 0,
+  "reply_count": 0,
+  "retweet_count": 0,
+  "favorite_count": 0,
+  "entities": {
+    "hashtags": [],
+    "urls": [],
+    "user_mentions": [],
+    "symbols": []
+  },
+  "favorited": false,
+  "retweeted": false,
+  "filter_level": "low",
+  "lang": "pt",
+  "timestamp_ms": "1507449272355"
+}

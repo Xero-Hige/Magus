@@ -1,1 +1,136 @@
-{"created_at": "Sun Oct 08 08:04:37 +0000 2017", "id": 916937361820475393, "id_str": "916937361820475393", "text": "Incident on #I278 WB at Shore Parkway; Belt System - Shore Parkway https://t.co/TPq7Hw4VWj", "source": "<a href=\"https://511ny.org\" rel=\"nofollow\">NYRegions</a>", "truncated": false, "in_reply_to_status_id": null, "in_reply_to_status_id_str": null, "in_reply_to_user_id": null, "in_reply_to_user_id_str": null, "in_reply_to_screen_name": null, "user": {"id": 52272942, "id_str": "52272942", "name": "511 NYC Area", "screen_name": "511NYC", "location": "New York City", "url": "http://twitter.511ny.org", "description": "Traffic & transit updates for the New York City area provided by New York State 511. Visit the website for more feeds.", "translator_type": "none", "protected": false, "verified": false, "followers_count": 2439, "friends_count": 5, "listed_count": 345, "favourites_count": 0, "statuses_count": 1029688, "created_at": "Tue Jun 30 02:23:15 +0000 2009", "utc_offset": -14400, "time_zone": "Eastern Time (US & Canada)", "geo_enabled": true, "lang": "en", "contributors_enabled": false, "is_translator": false, "profile_background_color": "63CECA", "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png", "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", "profile_background_tile": false, "profile_link_color": "0051BA", "profile_sidebar_border_color": "333333", "profile_sidebar_fill_color": "0099C3", "profile_text_color": "333333", "profile_use_background_image": false, "profile_image_url": "http://pbs.twimg.com/profile_images/292173972/511twitlogo_normal.png", "profile_image_url_https": "https://pbs.twimg.com/profile_images/292173972/511twitlogo_normal.png", "default_profile": false, "default_profile_image": false, "following": null, "follow_request_sent": null, "notifications": null}, "geo": {"type": "Point", "coordinates": [40.6096, -74.035003]}, "coordinates": {"type": "Point", "coordinates": [-74.035003, 40.6096]}, "place": {"id": "011add077f4d2da3", "url": "https://api.twitter.com/1.1/geo/id/011add077f4d2da3.json", "place_type": "city", "name": "Brooklyn", "full_name": "Brooklyn, NY", "country_code": "US", "country": "United States", "bounding_box": {"type": "Polygon", "coordinates": [[[-74.041878, 40.570842], [-74.041878, 40.739434], [-73.855673, 40.739434], [-73.855673, 40.570842]]]}, "attributes": {}}, "contributors": null, "is_quote_status": false, "quote_count": 0, "reply_count": 0, "retweet_count": 0, "favorite_count": 0, "entities": {"hashtags": [{"text": "I278", "indices": [12, 17]}], "urls": [{"url": "https://t.co/TPq7Hw4VWj", "expanded_url": "http://511ny.org/EventDetails/TRANSCOM/ORI165754011", "display_url": "511ny.org/EventDetails/T\u2026", "indices": [67, 90]}], "user_mentions": [], "symbols": []}, "favorited": false, "retweeted": false, "possibly_sensitive": false, "filter_level": "low", "lang": "en", "timestamp_ms": "1507449877587"}
+{
+  "created_at": "Sun Oct 08 08:04:37 +0000 2017",
+  "id": 916937361820475393,
+  "id_str": "916937361820475393",
+  "text": "Incident on #I278 WB at Shore Parkway; Belt System - Shore Parkway https://t.co/TPq7Hw4VWj",
+  "source": "<a href=\"https://511ny.org\" rel=\"nofollow\">NYRegions</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 52272942,
+    "id_str": "52272942",
+    "name": "511 NYC Area",
+    "screen_name": "511NYC",
+    "location": "New York City",
+    "url": "http://twitter.511ny.org",
+    "description": "Traffic & transit updates for the New York City area provided by New York State 511. Visit the website for more feeds.",
+    "translator_type": "none",
+    "protected": false,
+    "verified": false,
+    "followers_count": 2439,
+    "friends_count": 5,
+    "listed_count": 345,
+    "favourites_count": 0,
+    "statuses_count": 1029688,
+    "created_at": "Tue Jun 30 02:23:15 +0000 2009",
+    "utc_offset": -14400,
+    "time_zone": "Eastern Time (US & Canada)",
+    "geo_enabled": true,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "63CECA",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": false,
+    "profile_link_color": "0051BA",
+    "profile_sidebar_border_color": "333333",
+    "profile_sidebar_fill_color": "0099C3",
+    "profile_text_color": "333333",
+    "profile_use_background_image": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/292173972/511twitlogo_normal.png",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/292173972/511twitlogo_normal.png",
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": null,
+    "follow_request_sent": null,
+    "notifications": null
+  },
+  "geo": {
+    "type": "Point",
+    "coordinates": [
+      40.6096,
+      -74.035003
+    ]
+  },
+  "coordinates": {
+    "type": "Point",
+    "coordinates": [
+      -74.035003,
+      40.6096
+    ]
+  },
+  "place": {
+    "id": "011add077f4d2da3",
+    "url": "https://api.twitter.com/1.1/geo/id/011add077f4d2da3.json",
+    "place_type": "city",
+    "name": "Brooklyn",
+    "full_name": "Brooklyn, NY",
+    "country_code": "US",
+    "country": "United States",
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            -74.041878,
+            40.570842
+          ],
+          [
+            -74.041878,
+            40.739434
+          ],
+          [
+            -73.855673,
+            40.739434
+          ],
+          [
+            -73.855673,
+            40.570842
+          ]
+        ]
+      ]
+    },
+    "attributes": {}
+  },
+  "contributors": null,
+  "is_quote_status": false,
+  "quote_count": 0,
+  "reply_count": 0,
+  "retweet_count": 0,
+  "favorite_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "I278",
+        "indices": [
+          12,
+          17
+        ]
+      }
+    ],
+    "urls": [
+      {
+        "url": "https://t.co/TPq7Hw4VWj",
+        "expanded_url": "http://511ny.org/EventDetails/TRANSCOM/ORI165754011",
+        "display_url": "511ny.org/EventDetails/T\u2026",
+        "indices": [
+          67,
+          90
+        ]
+      }
+    ],
+    "user_mentions": [],
+    "symbols": []
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false,
+  "filter_level": "low",
+  "lang": "en",
+  "timestamp_ms": "1507449877587"
+}

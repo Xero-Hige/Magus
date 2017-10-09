@@ -1,1 +1,121 @@
-{"created_at": "Sun Oct 08 18:24:52 +0000 2017", "id": 917093453544214528, "id_str": "917093453544214528", "text": "@oe_nath e voc\u00ea \u00e9 bb?", "display_text_range": [9, 21], "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>", "truncated": false, "in_reply_to_status_id": 917093131165814784, "in_reply_to_status_id_str": "917093131165814784", "in_reply_to_user_id": 2741608653, "in_reply_to_user_id_str": "2741608653", "in_reply_to_screen_name": "oe_nath", "user": {"id": 1030762964, "id_str": "1030762964", "name": "angel", "screen_name": "opsrayray", "location": "RJ", "url": "https://www.instagram.com/rayteixxeira/", "description": "A mente \u00e9 tudo. O que voc\u00ea pensa, voc\u00ea se torna.", "translator_type": "none", "protected": false, "verified": false, "followers_count": 204, "friends_count": 100, "listed_count": 1, "favourites_count": 1044, "statuses_count": 15795, "created_at": "Sun Dec 23 15:17:50 +0000 2012", "utc_offset": -10800, "time_zone": "Brasilia", "geo_enabled": true, "lang": "pt", "contributors_enabled": false, "is_translator": false, "profile_background_color": "FFFFFF", "profile_background_image_url": "http://abs.twimg.com/images/themes/theme7/bg.gif", "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme7/bg.gif", "profile_background_tile": false, "profile_link_color": "070202", "profile_sidebar_border_color": "DFDFDF", "profile_sidebar_fill_color": "F3F3F3", "profile_text_color": "333333", "profile_use_background_image": false, "profile_image_url": "http://pbs.twimg.com/profile_images/914861273858404352/E6PD_xz6_normal.jpg", "profile_image_url_https": "https://pbs.twimg.com/profile_images/914861273858404352/E6PD_xz6_normal.jpg", "profile_banner_url": "https://pbs.twimg.com/profile_banners/1030762964/1506955223", "default_profile": false, "default_profile_image": false, "following": null, "follow_request_sent": null, "notifications": null}, "geo": null, "coordinates": null, "place": {"id": "97bcdfca1a2dca59", "url": "https://api.twitter.com/1.1/geo/id/97bcdfca1a2dca59.json", "place_type": "city", "name": "Rio de Janeiro", "full_name": "Rio de Janeiro, Brasil", "country_code": "BR", "country": "Brasil", "bounding_box": {"type": "Polygon", "coordinates": [[[-43.795449, -23.08302], [-43.795449, -22.739823], [-43.087707, -22.739823], [-43.087707, -23.08302]]]}, "attributes": {}}, "contributors": null, "is_quote_status": false, "quote_count": 0, "reply_count": 0, "retweet_count": 0, "favorite_count": 0, "entities": {"hashtags": [], "urls": [], "user_mentions": [{"screen_name": "oe_nath", "name": "Nath", "id": 2741608653, "id_str": "2741608653", "indices": [0, 8]}], "symbols": []}, "favorited": false, "retweeted": false, "filter_level": "low", "lang": "pt", "timestamp_ms": "1507487092754"}
+{
+  "created_at": "Sun Oct 08 18:24:52 +0000 2017",
+  "id": 917093453544214528,
+  "id_str": "917093453544214528",
+  "text": "@oe_nath e voc\u00ea \u00e9 bb?",
+  "display_text_range": [
+    9,
+    21
+  ],
+  "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+  "truncated": false,
+  "in_reply_to_status_id": 917093131165814784,
+  "in_reply_to_status_id_str": "917093131165814784",
+  "in_reply_to_user_id": 2741608653,
+  "in_reply_to_user_id_str": "2741608653",
+  "in_reply_to_screen_name": "oe_nath",
+  "user": {
+    "id": 1030762964,
+    "id_str": "1030762964",
+    "name": "angel",
+    "screen_name": "opsrayray",
+    "location": "RJ",
+    "url": "https://www.instagram.com/rayteixxeira/",
+    "description": "A mente \u00e9 tudo. O que voc\u00ea pensa, voc\u00ea se torna.",
+    "translator_type": "none",
+    "protected": false,
+    "verified": false,
+    "followers_count": 204,
+    "friends_count": 100,
+    "listed_count": 1,
+    "favourites_count": 1044,
+    "statuses_count": 15795,
+    "created_at": "Sun Dec 23 15:17:50 +0000 2012",
+    "utc_offset": -10800,
+    "time_zone": "Brasilia",
+    "geo_enabled": true,
+    "lang": "pt",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "FFFFFF",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme7/bg.gif",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme7/bg.gif",
+    "profile_background_tile": false,
+    "profile_link_color": "070202",
+    "profile_sidebar_border_color": "DFDFDF",
+    "profile_sidebar_fill_color": "F3F3F3",
+    "profile_text_color": "333333",
+    "profile_use_background_image": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/914861273858404352/E6PD_xz6_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/914861273858404352/E6PD_xz6_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1030762964/1506955223",
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": null,
+    "follow_request_sent": null,
+    "notifications": null
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": {
+    "id": "97bcdfca1a2dca59",
+    "url": "https://api.twitter.com/1.1/geo/id/97bcdfca1a2dca59.json",
+    "place_type": "city",
+    "name": "Rio de Janeiro",
+    "full_name": "Rio de Janeiro, Brasil",
+    "country_code": "BR",
+    "country": "Brasil",
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            -43.795449,
+            -23.08302
+          ],
+          [
+            -43.795449,
+            -22.739823
+          ],
+          [
+            -43.087707,
+            -22.739823
+          ],
+          [
+            -43.087707,
+            -23.08302
+          ]
+        ]
+      ]
+    },
+    "attributes": {}
+  },
+  "contributors": null,
+  "is_quote_status": false,
+  "quote_count": 0,
+  "reply_count": 0,
+  "retweet_count": 0,
+  "favorite_count": 0,
+  "entities": {
+    "hashtags": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "screen_name": "oe_nath",
+        "name": "Nath",
+        "id": 2741608653,
+        "id_str": "2741608653",
+        "indices": [
+          0,
+          8
+        ]
+      }
+    ],
+    "symbols": []
+  },
+  "favorited": false,
+  "retweeted": false,
+  "filter_level": "low",
+  "lang": "pt",
+  "timestamp_ms": "1507487092754"
+}

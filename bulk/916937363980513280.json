@@ -1,1 +1,117 @@
-{"created_at": "Sun Oct 08 08:04:38 +0000 2017", "id": 916937363980513280, "id_str": "916937363980513280", "text": "It's 3am and I'm thinking about @froynextdoor .... not a surprise", "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>", "truncated": false, "in_reply_to_status_id": null, "in_reply_to_status_id_str": null, "in_reply_to_user_id": null, "in_reply_to_user_id_str": null, "in_reply_to_screen_name": null, "user": {"id": 2195354058, "id_str": "2195354058", "name": "Briana \ud83c\udf0c", "screen_name": "BrianasYouth", "location": "San Antonio, TX", "url": "http://instagram.com/froydansyouth", "description": "The Ocean and the Night  \ud83c\udf0a\ud83c\udf0c", "translator_type": "none", "protected": false, "verified": false, "followers_count": 368, "friends_count": 202, "listed_count": 6, "favourites_count": 2230, "statuses_count": 28565, "created_at": "Fri Nov 15 04:28:11 +0000 2013", "utc_offset": -18000, "time_zone": "Central Time (US & Canada)", "geo_enabled": true, "lang": "en", "contributors_enabled": false, "is_translator": false, "profile_background_color": "000000", "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png", "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", "profile_background_tile": false, "profile_link_color": "3B94D9", "profile_sidebar_border_color": "000000", "profile_sidebar_fill_color": "000000", "profile_text_color": "000000", "profile_use_background_image": false, "profile_image_url": "http://pbs.twimg.com/profile_images/916903473555361792/G5WzcEHQ_normal.jpg", "profile_image_url_https": "https://pbs.twimg.com/profile_images/916903473555361792/G5WzcEHQ_normal.jpg", "profile_banner_url": "https://pbs.twimg.com/profile_banners/2195354058/1506836235", "default_profile": false, "default_profile_image": false, "following": null, "follow_request_sent": null, "notifications": null}, "geo": null, "coordinates": null, "place": {"id": "e0060cda70f5f341", "url": "https://api.twitter.com/1.1/geo/id/e0060cda70f5f341.json", "place_type": "admin", "name": "Texas", "full_name": "Texas, USA", "country_code": "US", "country": "United States", "bounding_box": {"type": "Polygon", "coordinates": [[[-106.645646, 25.837092], [-106.645646, 36.500695], [-93.508131, 36.500695], [-93.508131, 25.837092]]]}, "attributes": {}}, "contributors": null, "is_quote_status": false, "quote_count": 0, "reply_count": 0, "retweet_count": 0, "favorite_count": 0, "entities": {"hashtags": [], "urls": [], "user_mentions": [{"screen_name": "froynextdoor", "name": "froy", "id": 2271762927, "id_str": "2271762927", "indices": [32, 45]}], "symbols": []}, "favorited": false, "retweeted": false, "filter_level": "low", "lang": "en", "timestamp_ms": "1507449878102"}
+{
+  "created_at": "Sun Oct 08 08:04:38 +0000 2017",
+  "id": 916937363980513280,
+  "id_str": "916937363980513280",
+  "text": "It's 3am and I'm thinking about @froynextdoor .... not a surprise",
+  "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 2195354058,
+    "id_str": "2195354058",
+    "name": "Briana \ud83c\udf0c",
+    "screen_name": "BrianasYouth",
+    "location": "San Antonio, TX",
+    "url": "http://instagram.com/froydansyouth",
+    "description": "The Ocean and the Night  \ud83c\udf0a\ud83c\udf0c",
+    "translator_type": "none",
+    "protected": false,
+    "verified": false,
+    "followers_count": 368,
+    "friends_count": 202,
+    "listed_count": 6,
+    "favourites_count": 2230,
+    "statuses_count": 28565,
+    "created_at": "Fri Nov 15 04:28:11 +0000 2013",
+    "utc_offset": -18000,
+    "time_zone": "Central Time (US & Canada)",
+    "geo_enabled": true,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "000000",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": false,
+    "profile_link_color": "3B94D9",
+    "profile_sidebar_border_color": "000000",
+    "profile_sidebar_fill_color": "000000",
+    "profile_text_color": "000000",
+    "profile_use_background_image": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/916903473555361792/G5WzcEHQ_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/916903473555361792/G5WzcEHQ_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/2195354058/1506836235",
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": null,
+    "follow_request_sent": null,
+    "notifications": null
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": {
+    "id": "e0060cda70f5f341",
+    "url": "https://api.twitter.com/1.1/geo/id/e0060cda70f5f341.json",
+    "place_type": "admin",
+    "name": "Texas",
+    "full_name": "Texas, USA",
+    "country_code": "US",
+    "country": "United States",
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            -106.645646,
+            25.837092
+          ],
+          [
+            -106.645646,
+            36.500695
+          ],
+          [
+            -93.508131,
+            36.500695
+          ],
+          [
+            -93.508131,
+            25.837092
+          ]
+        ]
+      ]
+    },
+    "attributes": {}
+  },
+  "contributors": null,
+  "is_quote_status": false,
+  "quote_count": 0,
+  "reply_count": 0,
+  "retweet_count": 0,
+  "favorite_count": 0,
+  "entities": {
+    "hashtags": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "screen_name": "froynextdoor",
+        "name": "froy",
+        "id": 2271762927,
+        "id_str": "2271762927",
+        "indices": [
+          32,
+          45
+        ]
+      }
+    ],
+    "symbols": []
+  },
+  "favorited": false,
+  "retweeted": false,
+  "filter_level": "low",
+  "lang": "en",
+  "timestamp_ms": "1507449878102"
+}
