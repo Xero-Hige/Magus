@@ -1,4 +1,5 @@
-from base_tokenizer import Tokenizer
+from tokenizer.base_tokenizer import Tokenizer
+
 from libs.tweet_anonymize import full_anonymize_tweet
 
 
