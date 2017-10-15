@@ -1,6 +1,5 @@
 from __future__ import absolute_import, print_function, unicode_literals
 
-import csv
 import os
 
 from twitter import *
@@ -41,7 +40,7 @@ class TweetsFetcher():
         elif not self.topics and location_string:
             self.tweet_stream = twitter_stream.statuses.filter(locations=location_string)
         else:
-            self.tweet_stream = twitter_stream.statuses.filter(locations=WHOLE_WORLD_CORDINATES)
+            self.tweet_stream = twitter_stream.statuses.filter(locations=WHOLE_AMERICA_COORDINATES)
 
     def get_location_string(self):
         boundaries = []
