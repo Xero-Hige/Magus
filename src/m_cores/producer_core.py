@@ -9,7 +9,7 @@ import pickle as Serializer
 import signal
 
 from core_utils.debugger import debug_core_print_d
-from core_utils.rabbit_handler import *
+from libs.rabbit_handler import *
 
 
 def main(tag="", worker_number=0, input_queue="", output_queue="tweets_input"):

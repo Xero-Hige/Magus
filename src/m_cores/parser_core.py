@@ -5,7 +5,7 @@ from __future__ import absolute_import, print_function, unicode_literals
 import pickle as Serializer
 
 from core_utils.debugger import debug_core_print_d
-from core_utils.rabbit_handler import *
+from libs.rabbit_handler import *
 from libs.tweet_parser import TweetParser
 
 

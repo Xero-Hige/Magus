@@ -6,7 +6,7 @@ import csv
 import pickle as Serializer
 
 from core_utils.debugger import debug_core_print_d
-from core_utils.rabbit_handler import *
+from libs.rabbit_handler import *
 
 VECTORS_MODEL_FILE = "/models/base_model.w2v"
 OUTPUT_VECTOR_FOLDER = "/vectors"

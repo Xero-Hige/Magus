@@ -6,7 +6,7 @@ from __future__ import absolute_import, print_function, unicode_literals
 import pickle as Serializer
 import sys
 
-from core_utils.rabbit_handler import *
+from libs.rabbit_handler import *
 from libs.tweet_fetcher import TweetsFetcher
 
 
