@@ -29,8 +29,8 @@ class GmapsRectangle:
             'bounds': {
                 'north': self.north_bound,
                 'south': self.south_bound,
-                'east': self.west_bound,
-                'west': self.east_bound
+                'east': self.east_bound,
+                'west': self.west_bound
             }
         }
 
