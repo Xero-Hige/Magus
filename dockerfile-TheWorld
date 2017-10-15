@@ -25,4 +25,4 @@ COPY /src /TheWorld
 
 WORKDIR /TheWorld
 
-CMD ["gunicorn","the_world:app"]
+CMD ["gunicorn","the_world:app","-b", "0.0.0.0:8000"]
