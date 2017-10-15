@@ -6,7 +6,7 @@ from libs.rabbit_handler import RabbitHandler
 from libs.sentiments_handling import ANGRY, HAPPY, NONE, SAD
 
 
-class MapGrid():
+class MapGrid:
     GRID_SIZE = 100
 
     LOOKUP_CLASSIFICATION = {HAPPY: GridRegion.HAPPY,
