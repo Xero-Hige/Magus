@@ -43,6 +43,9 @@ class GridRegion:
 
     def get(self):
         with self.lock:
+            if self.statics[-1] == 0:
+                return self.INDIFERENT, 1
+
             max_index = 0
             for i in range(len(self.statics) - 1):
                 if self.statics[i] >= self.statics[max_index]:
