@@ -5,6 +5,9 @@ import os
 
 from twitter import *
 
+from libs.locations import get_coordinates_from_country
+
+WHOLE_WORLD_CORDINATES = "-180.0,-90.0, 180.0, 90.0"
 WHOLE_AMERICA_COORDINATES = "-178, -60, -21, 84.0"
 
 
@@ -38,7 +41,7 @@ class TweetsFetcher():
         elif not self.topics and location_string:
             self.tweet_stream = twitter_stream.statuses.filter(locations=location_string)
         else:
-            self.tweet_stream = twitter_stream.statuses.filter(locations=WHOLE_AMERICA_COORDINATES)
+            self.tweet_stream = twitter_stream.statuses.filter(locations=WHOLE_WORLD_CORDINATES)
 
     def get_location_string(self):
         boundaries = []
@@ -52,49 +55,50 @@ class TweetsFetcher():
     @staticmethod
     def get_boundaries_list(locations):
         bounds = []
-        with open("libs/country_bounds.csv", 'r') as _file:
-            reader = csv.DictReader(_file)
+        for country in locations:
+            b_box = get_coordinates_from_country(country)
 
-            for country in reader:
+            if not b_box:
+                continue
 
-                if not country["country"].lower() in locations:
-                    continue
+            W, S, E, N = b_box
 
-                geo = "{},{},{},{}".format(country["longmin"],
-                                           country["latmin"],
-                                           country["longmax"],
-                                           country["latmax"])
+            geo = "{},{},{},{}".format(W, S, E, N)
 
-                bounds.append(geo)
+            bounds.append(geo)
 
         return bounds
 
-    def get_keys(self):
-        self.CONSUMER_KEY = os.environ.get('CONSUMER_KEY', None)
-        self.CONSUMER_SECRET = os.environ.get('CONSUMER_SECRET', None)
-        self.TOKEN_KEY = os.environ.get('TOKEN_KEY', None)
-        self.TOKEN_SECRET = os.environ.get('TOKEN_SECRET', None)
 
-        if self.CONSUMER_KEY:
-            return
+def get_keys(self):
+    self.CONSUMER_KEY = os.environ.get('CONSUMER_KEY', None)
+    self.CONSUMER_SECRET = os.environ.get('CONSUMER_SECRET', None)
+    self.TOKEN_KEY = os.environ.get('TOKEN_KEY', None)
+    self.TOKEN_SECRET = os.environ.get('TOKEN_SECRET', None)
 
-        with open("src/keys.rsa", "r") as f:
-            self.CONSUMER_KEY = f.readline().rstrip('\n')
-            self.CONSUMER_SECRET = f.readline().rstrip('\n')
-            self.TOKEN_KEY = f.readline().rstrip('\n')
-            self.TOKEN_SECRET = f.readline().rstrip('\n')
+    if self.CONSUMER_KEY:
+        return
 
-    def next(self):
-        self.__next__()
+    with open("src/keys.rsa", "r") as f:
+        self.CONSUMER_KEY = f.readline().rstrip('\n')
+        self.CONSUMER_SECRET = f.readline().rstrip('\n')
+        self.TOKEN_KEY = f.readline().rstrip('\n')
+        self.TOKEN_SECRET = f.readline().rstrip('\n')
 
-    def __next__(self):
-        while True:
-            try:
-                return next(self.tweet_stream)
 
-            except Exception as e:
-                raise e  # FIXME
-                self.generate_tweet_pool()
+def next(self):
+    self.__next__()
 
-    def __iter__(self):
-        return self
+
+def __next__(self):
+    while True:
+        try:
+            return next(self.tweet_stream)
+
+        except Exception as e:
+            raise e  # FIXME
+            self.generate_tweet_pool()
+
+
+def __iter__(self):
+    return self
