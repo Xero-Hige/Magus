@@ -1,0 +1,121 @@
+{
+  "created_at": "Sat Sep 23 18:35:11 +0000 2017",
+  "id": 911660232098553856,
+  "id_str": "911660232098553856",
+  "text": "@studio_gal Gonna start calling you \"Flash!\"",
+  "display_text_range": [
+    12,
+    44
+  ],
+  "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+  "truncated": false,
+  "in_reply_to_status_id": 911659633009352705,
+  "in_reply_to_status_id_str": "911659633009352705",
+  "in_reply_to_user_id": 17003566,
+  "in_reply_to_user_id_str": "17003566",
+  "in_reply_to_screen_name": "studio_gal",
+  "user": {
+    "id": 43918584,
+    "id_str": "43918584",
+    "name": "Charlee Hutton",
+    "screen_name": "ellagreeneyes",
+    "location": "Long Beach, CA",
+    "url": null,
+    "description": "I'm just ol' Charlee, nothing to get excited about. My avatar is Mad Margaret from Ruddigore. I am but a slave to Eartha Kitty and to the memory of Ella.",
+    "translator_type": "none",
+    "protected": false,
+    "verified": false,
+    "followers_count": 581,
+    "friends_count": 683,
+    "listed_count": 38,
+    "favourites_count": 7275,
+    "statuses_count": 37669,
+    "created_at": "Mon Jun 01 16:48:12 +0000 2009",
+    "utc_offset": -25200,
+    "time_zone": "Pacific Time (US & Canada)",
+    "geo_enabled": true,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "EDECE9",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme3/bg.gif",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme3/bg.gif",
+    "profile_background_tile": false,
+    "profile_link_color": "088253",
+    "profile_sidebar_border_color": "D3D2CF",
+    "profile_sidebar_fill_color": "E3E2DE",
+    "profile_text_color": "634047",
+    "profile_use_background_image": true,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/674433048755068928/VTlCdZHw_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/674433048755068928/VTlCdZHw_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/43918584/1463356099",
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": null,
+    "follow_request_sent": null,
+    "notifications": null
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": {
+    "id": "6f24e28976abe656",
+    "url": "https://api.twitter.com/1.1/geo/id/6f24e28976abe656.json",
+    "place_type": "city",
+    "name": "Pomona",
+    "full_name": "Pomona, CA",
+    "country_code": "US",
+    "country": "United States",
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            -117.834663,
+            34.018283
+          ],
+          [
+            -117.834663,
+            34.112618
+          ],
+          [
+            -117.711171,
+            34.112618
+          ],
+          [
+            -117.711171,
+            34.018283
+          ]
+        ]
+      ]
+    },
+    "attributes": {}
+  },
+  "contributors": null,
+  "is_quote_status": false,
+  "quote_count": 0,
+  "reply_count": 0,
+  "retweet_count": 0,
+  "favorite_count": 0,
+  "entities": {
+    "hashtags": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "screen_name": "studio_gal",
+        "name": "Betsy",
+        "id": 17003566,
+        "id_str": "17003566",
+        "indices": [
+          0,
+          11
+        ]
+      }
+    ],
+    "symbols": []
+  },
+  "favorited": false,
+  "retweeted": false,
+  "filter_level": "low",
+  "lang": "en",
+  "timestamp_ms": "1506191711817"
+}

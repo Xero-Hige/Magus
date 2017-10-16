@@ -1,0 +1,208 @@
+{
+  "created_at": "Sat Oct 07 23:36:59 +0000 2017",
+  "id": 916809612321591296,
+  "id_str": "916809612321591296",
+  "text": "These are a few of my favorite things @Vikings #SKOL https://t.co/cpS9KZsiWX",
+  "display_text_range": [
+    0,
+    52
+  ],
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 723157818,
+    "id_str": "723157818",
+    "name": "Johnny Bravo",
+    "screen_name": "notoriousAMC",
+    "location": "New York, USA",
+    "url": null,
+    "description": "Tryna look like one of those rap guys girlfriends #skol",
+    "translator_type": "none",
+    "protected": false,
+    "verified": false,
+    "followers_count": 106,
+    "friends_count": 80,
+    "listed_count": 0,
+    "favourites_count": 1186,
+    "statuses_count": 4745,
+    "created_at": "Sun Jul 29 01:43:44 +0000 2012",
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": true,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "E5DA8B",
+    "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/617192162/x5c506a5eba4eb58c3e2fc2d2fa8aa8e.png",
+    "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/617192162/x5c506a5eba4eb58c3e2fc2d2fa8aa8e.png",
+    "profile_background_tile": true,
+    "profile_link_color": "99B57A",
+    "profile_sidebar_border_color": "C47F70",
+    "profile_sidebar_fill_color": "58333B",
+    "profile_text_color": "628F58",
+    "profile_use_background_image": true,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/913242660491710465/AfyjJO7u_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/913242660491710465/AfyjJO7u_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/723157818/1459088730",
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": null,
+    "follow_request_sent": null,
+    "notifications": null
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": {
+    "id": "010e41410e4a4798",
+    "url": "https://api.twitter.com/1.1/geo/id/010e41410e4a4798.json",
+    "place_type": "city",
+    "name": "East Syracuse",
+    "full_name": "East Syracuse, NY",
+    "country_code": "US",
+    "country": "United States",
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            -76.0906,
+            43.055548
+          ],
+          [
+            -76.0906,
+            43.094681
+          ],
+          [
+            -76.051569,
+            43.094681
+          ],
+          [
+            -76.051569,
+            43.055548
+          ]
+        ]
+      ]
+    },
+    "attributes": {}
+  },
+  "contributors": null,
+  "is_quote_status": false,
+  "quote_count": 0,
+  "reply_count": 0,
+  "retweet_count": 0,
+  "favorite_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "SKOL",
+        "indices": [
+          47,
+          52
+        ]
+      }
+    ],
+    "urls": [],
+    "user_mentions": [
+      {
+        "screen_name": "Vikings",
+        "name": "Minnesota Vikings",
+        "id": 25545388,
+        "id_str": "25545388",
+        "indices": [
+          38,
+          46
+        ]
+      }
+    ],
+    "symbols": [],
+    "media": [
+      {
+        "id": 916809609586860032,
+        "id_str": "916809609586860032",
+        "indices": [
+          53,
+          76
+        ],
+        "media_url": "http://pbs.twimg.com/media/DLkpe4IW4AACLzT.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/DLkpe4IW4AACLzT.jpg",
+        "url": "https://t.co/cpS9KZsiWX",
+        "display_url": "pic.twitter.com/cpS9KZsiWX",
+        "expanded_url": "https://twitter.com/notoriousAMC/status/916809612321591296/photo/1",
+        "type": "photo",
+        "sizes": {
+          "medium": {
+            "w": 720,
+            "h": 949,
+            "resize": "fit"
+          },
+          "small": {
+            "w": 516,
+            "h": 680,
+            "resize": "fit"
+          },
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "large": {
+            "w": 720,
+            "h": 949,
+            "resize": "fit"
+          }
+        }
+      }
+    ]
+  },
+  "extended_entities": {
+    "media": [
+      {
+        "id": 916809609586860032,
+        "id_str": "916809609586860032",
+        "indices": [
+          53,
+          76
+        ],
+        "media_url": "http://pbs.twimg.com/media/DLkpe4IW4AACLzT.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/DLkpe4IW4AACLzT.jpg",
+        "url": "https://t.co/cpS9KZsiWX",
+        "display_url": "pic.twitter.com/cpS9KZsiWX",
+        "expanded_url": "https://twitter.com/notoriousAMC/status/916809612321591296/photo/1",
+        "type": "photo",
+        "sizes": {
+          "medium": {
+            "w": 720,
+            "h": 949,
+            "resize": "fit"
+          },
+          "small": {
+            "w": 516,
+            "h": 680,
+            "resize": "fit"
+          },
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "large": {
+            "w": 720,
+            "h": 949,
+            "resize": "fit"
+          }
+        }
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false,
+  "filter_level": "low",
+  "lang": "en",
+  "timestamp_ms": "1507419419733"
+}

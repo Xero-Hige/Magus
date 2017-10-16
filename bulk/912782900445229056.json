@@ -1,0 +1,118 @@
+{
+  "created_at": "Tue Sep 26 20:56:16 +0000 2017",
+  "id": 912782900445229056,
+  "id_str": "912782900445229056",
+  "text": "21:32 BST: Temperature: 12.8\u00b0C, Wind: S, 0 mph (ave), 0 mph (gust), Humidity: 90%, Rain (hourly) 0.0 mm, Pressure: 1016 hPa, falling slowly",
+  "source": "<a href=\"https://github.com/jim-easterbrook/pywws\" rel=\"nofollow\">pywws</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 1484740038,
+    "id_str": "1484740038",
+    "name": "Pen-Y-Renglyn",
+    "screen_name": "PenYRenglyn",
+    "location": "Ynyswen Rhondda Cynon Taff",
+    "url": "https://rctmoodle.org/penyrenglyncompri/",
+    "description": null,
+    "translator_type": "none",
+    "protected": false,
+    "verified": false,
+    "followers_count": 34,
+    "friends_count": 14,
+    "listed_count": 20,
+    "favourites_count": 13,
+    "statuses_count": 1505011,
+    "created_at": "Wed Jun 05 11:19:31 +0000 2013",
+    "utc_offset": 3600,
+    "time_zone": "London",
+    "geo_enabled": true,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "C0DEED",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": false,
+    "profile_link_color": "1DA1F2",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/3758389968/328354115ec633e49452f1e7952e9e8b_normal.png",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/3758389968/328354115ec633e49452f1e7952e9e8b_normal.png",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1484740038/1370431711",
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": null,
+    "follow_request_sent": null,
+    "notifications": null
+  },
+  "geo": {
+    "type": "Point",
+    "coordinates": [
+      51.676323,
+      -3.542993
+    ]
+  },
+  "coordinates": {
+    "type": "Point",
+    "coordinates": [
+      -3.542993,
+      51.676323
+    ]
+  },
+  "place": {
+    "id": "2cb76bd297753fb1",
+    "url": "https://api.twitter.com/1.1/geo/id/2cb76bd297753fb1.json",
+    "place_type": "city",
+    "name": "Treherbert",
+    "full_name": "Treherbert, Wales",
+    "country_code": "GB",
+    "country": "United Kingdom",
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            -3.567434,
+            51.668998
+          ],
+          [
+            -3.567434,
+            51.689622
+          ],
+          [
+            -3.523901,
+            51.689622
+          ],
+          [
+            -3.523901,
+            51.668998
+          ]
+        ]
+      ]
+    },
+    "attributes": {}
+  },
+  "contributors": null,
+  "is_quote_status": false,
+  "quote_count": 0,
+  "reply_count": 0,
+  "retweet_count": 0,
+  "favorite_count": 0,
+  "entities": {
+    "hashtags": [],
+    "urls": [],
+    "user_mentions": [],
+    "symbols": []
+  },
+  "favorited": false,
+  "retweeted": false,
+  "filter_level": "low",
+  "lang": "en",
+  "timestamp_ms": "1506459376809"
+}

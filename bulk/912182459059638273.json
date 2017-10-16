@@ -1,0 +1,129 @@
+{
+  "created_at": "Mon Sep 25 05:10:20 +0000 2017",
+  "id": 912182459059638273,
+  "id_str": "912182459059638273",
+  "text": "I'm at \u5e83\u5cf6\u99c5 in \u5e83\u5cf6\u5e02, \u5e83\u5cf6\u770c https://t.co/jeDKUnE0rO",
+  "source": "<a href=\"http://foursquare.com\" rel=\"nofollow\">Foursquare</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 612487735,
+    "id_str": "612487735",
+    "name": "\u3086\u30a2\u30ea\u301c\u30ce@\u5e83\u5cf6\u9060\u5f81",
+    "screen_name": "color_diary",
+    "location": "\u3068\u3046\u304d\u3087\u3046\u3061\u307b\u30fc",
+    "url": null,
+    "description": "\u5199\u771f\u3068\u65c5\u884c\u304c\u8da3\u5473\u3067\u8272\u3005\u306a\u3061\u307b\u30fc\u3078\u98db\u3073\u307e\u304f\u3063\u3066\u3044\u308b\u3051\u3082\u30d5\u30ec\u597d\u304d\u306e\u30d2\u30c8\u3002 \u6700\u8fd1\u306f\u3051\u3082\u30d5\u30ec\u306e\u52d5\u7269\u7d39\u4ecb\u3067\u51fa\u3066\u304d\u305f\u52d5\u7269\u5712\u3084\u6c34\u65cf\u9928\u3092\u5de1\u3063\u3066\u3044\u308b\u3002 \u307e\u305f\u540c\u4eba\u5373\u58f2\u4f1a\u306b\u3082\u3001\u305f\u307e\u306b\u51fa\u6ca1\u3057\u3066\u307e\u3059\uff01",
+    "translator_type": "none",
+    "protected": false,
+    "verified": false,
+    "followers_count": 768,
+    "friends_count": 245,
+    "listed_count": 63,
+    "favourites_count": 11803,
+    "statuses_count": 154775,
+    "created_at": "Tue Jun 19 11:32:19 +0000 2012",
+    "utc_offset": -36000,
+    "time_zone": "Hawaii",
+    "geo_enabled": true,
+    "lang": "ja",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "C6E2EE",
+    "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/628946247093653506/WyV7Dpig.jpg",
+    "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/628946247093653506/WyV7Dpig.jpg",
+    "profile_background_tile": false,
+    "profile_link_color": "1F98C7",
+    "profile_sidebar_border_color": "FFFFFF",
+    "profile_sidebar_fill_color": "DAECF4",
+    "profile_text_color": "663B12",
+    "profile_use_background_image": true,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/841972714868895744/U_3SvtlU_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/841972714868895744/U_3SvtlU_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/612487735/1502727012",
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": null,
+    "follow_request_sent": null,
+    "notifications": null
+  },
+  "geo": {
+    "type": "Point",
+    "coordinates": [
+      34.39766173,
+      132.47520771
+    ]
+  },
+  "coordinates": {
+    "type": "Point",
+    "coordinates": [
+      132.47520771,
+      34.39766173
+    ]
+  },
+  "place": {
+    "id": "b637b5cf28656648",
+    "url": "https://api.twitter.com/1.1/geo/id/b637b5cf28656648.json",
+    "place_type": "city",
+    "name": "\u5e83\u5cf6\u5e02 \u5357\u533a",
+    "full_name": "\u5e83\u5cf6 \u5e83\u5cf6\u5e02 \u5357\u533a",
+    "country_code": "JP",
+    "country": "\u65e5\u672c",
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            132.41417,
+            34.296444
+          ],
+          [
+            132.41417,
+            34.406427
+          ],
+          [
+            132.561093,
+            34.406427
+          ],
+          [
+            132.561093,
+            34.296444
+          ]
+        ]
+      ]
+    },
+    "attributes": {}
+  },
+  "contributors": null,
+  "is_quote_status": false,
+  "quote_count": 0,
+  "reply_count": 0,
+  "retweet_count": 0,
+  "favorite_count": 0,
+  "entities": {
+    "hashtags": [],
+    "urls": [
+      {
+        "url": "https://t.co/jeDKUnE0rO",
+        "expanded_url": "https://www.swarmapp.com/c/46POFJNAiMF",
+        "display_url": "swarmapp.com/c/46POFJNAiMF",
+        "indices": [
+          23,
+          46
+        ]
+      }
+    ],
+    "user_mentions": [],
+    "symbols": []
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": true,
+  "filter_level": "low",
+  "lang": "ja",
+  "timestamp_ms": "1506316220427"
+}
