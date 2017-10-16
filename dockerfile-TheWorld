@@ -25,4 +25,4 @@ COPY /src /TheWorld
 
 WORKDIR /TheWorld
 
-CMD ["bash",",/StartTheWorld.sh"]
+CMD ["bash","./StartTheWorld.sh"]
