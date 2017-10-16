@@ -2,32 +2,40 @@
 
 from __future__ import absolute_import, print_function, unicode_literals
 
+import csv
 import pickle as Serializer
 
-from core_utils.debugger import debug_core_print_d
-from libs.rabbit_handler import *
+from libs.neural_classifier import NeuralClassifier
+from libs.rabbit_handler import RabbitHandler
+from libs.sentiments_handling import NONE
 
 NUMBER_OF_DUMPERS = 1
+DUMPERS_LIST = []
 
 
 def main(tag, worker_number, input_queue, output_queue):
     reader = RabbitHandler(input_queue)
     writer = RabbitHandler(output_queue)
 
+    classifier = NeuralClassifier()
+
     def callback(incoming_msg):
         if not incoming_msg:
             return
 
-        msg = Serializer.loads(incoming_msg)
+        tweet = Serializer.loads(incoming_msg)
 
-        if not msg:
+        if not tweet:
             return
 
-        tweet_id = msg
+        tweet_id = tweet["tweet_id"]
+        latitude = tweet["latitude"]
+        longitude = tweet["longitude"]
 
         matrix = []
 
         for dumper in sorted(DUMPERS_LIST):
+            # TODO: Migrate to a nonsql db
             file_path = "/vectors/{}_{}.csv".format(dumper, tweet_id)
 
             with open(file_path) as _file:
@@ -35,11 +43,14 @@ def main(tag, worker_number, input_queue, output_queue):
                 for line in csv_reader:
                     matrix.append([float(x) for x in line])
 
-        predictions = classifier.classify(matrix)
+                    # TODO: Delete after read
 
-        writer.send_message(Serializer.dumps({"tweet_id": tweet_id, "predictions": predictions}))
+        prediction = classifier.classify(matrix)
 
-        debug_core_print_d(tag, worker_number, "Emited prediction{}".format(tweet_id))
+        if prediction == NONE:
+            return
+
+        writer.send_message(Serializer.dumps(((latitude, longitude), prediction)))
 
     reader.receive_messages(callback)
 
