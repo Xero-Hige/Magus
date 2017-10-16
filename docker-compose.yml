@@ -10,7 +10,9 @@ services:
       - "5671:5671"
 
   magus:
-    build: .
+    build:
+      context: .
+      dockerfile: dockerfile-Magus
 
     depends_on:
       - rabbitmq
