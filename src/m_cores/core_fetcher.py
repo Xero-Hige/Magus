@@ -19,3 +19,4 @@ class FetcherCore(MagusCore):
             self._log("Tweet sent")
 
         self.out_queue.close()
+        return 0
