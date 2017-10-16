@@ -25,3 +25,17 @@ services:
       - ./models:/models
 
     stop_signal: SIGINT
+
+  the_world:
+    build:
+      context: .
+      dockerfile: dockerfile-TheWorld
+
+    depends_on:
+      - rabbitmq
+      - magus
+
+    ports:
+      - "8000:8000"
+
+    stop_signal: SIGINT
