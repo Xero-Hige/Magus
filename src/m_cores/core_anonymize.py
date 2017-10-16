@@ -7,7 +7,7 @@ from m_cores.magus_core import MagusCore
 
 
 class AnonymizeCore(MagusCore):
-    def __init__(self, input_queue, output_queue, tag="Fetcher", worker_number=0):
+    def __init__(self, input_queue, output_queue, tag="Anonymize", worker_number=0):
         MagusCore.__init__(self, tag, worker_number, input_queue, output_queue)
 
     def run_core(self):
