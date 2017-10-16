@@ -12,15 +12,15 @@
     "output_queue": "parser_output"
   },
   "cleaner_core": {
-    "tag": "cleaner",
+    "tag": "anonymize",
     "replicas": 2,
     "input_queue": "parser_output",
-    "output_queue": "cleaner_output"
+    "output_queue": "anonymize_output"
   },
   "emitter_core": {
     "tag": "emitter",
     "replicas": 1,
-    "input_queue": "cleaner_output",
+    "input_queue": "anonymize_output",
     "output_queue": "output"
   }
 }
