@@ -33,7 +33,6 @@ services:
 
     depends_on:
       - rabbitmq
-      - magus
 
     ports:
       - "8000:8000"
