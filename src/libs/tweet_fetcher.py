@@ -68,36 +68,32 @@ class TweetsFetcher():
 
         return bounds
 
+    def get_keys(self):
+        self.CONSUMER_KEY = os.environ.get('CONSUMER_KEY', None)
+        self.CONSUMER_SECRET = os.environ.get('CONSUMER_SECRET', None)
+        self.TOKEN_KEY = os.environ.get('TOKEN_KEY', None)
+        self.TOKEN_SECRET = os.environ.get('TOKEN_SECRET', None)
 
-def get_keys(self):
-    self.CONSUMER_KEY = os.environ.get('CONSUMER_KEY', None)
-    self.CONSUMER_SECRET = os.environ.get('CONSUMER_SECRET', None)
-    self.TOKEN_KEY = os.environ.get('TOKEN_KEY', None)
-    self.TOKEN_SECRET = os.environ.get('TOKEN_SECRET', None)
+        if self.CONSUMER_KEY:
+            return
 
-    if self.CONSUMER_KEY:
-        return
+        with open("src/keys.rsa", "r") as f:
+            self.CONSUMER_KEY = f.readline().rstrip('\n')
+            self.CONSUMER_SECRET = f.readline().rstrip('\n')
+            self.TOKEN_KEY = f.readline().rstrip('\n')
+            self.TOKEN_SECRET = f.readline().rstrip('\n')
 
-    with open("src/keys.rsa", "r") as f:
-        self.CONSUMER_KEY = f.readline().rstrip('\n')
-        self.CONSUMER_SECRET = f.readline().rstrip('\n')
-        self.TOKEN_KEY = f.readline().rstrip('\n')
-        self.TOKEN_SECRET = f.readline().rstrip('\n')
+    def next(self):
+        self.__next__()
 
+    def __next__(self):
+        while True:
+            try:
+                return next(self.tweet_stream)
 
-def next(self):
-    self.__next__()
+            except Exception as e:
+                raise e  # FIXME
+                self.generate_tweet_pool()
 
-
-def __next__(self):
-    while True:
-        try:
-            return next(self.tweet_stream)
-
-        except Exception as e:
-            raise e  # FIXME
-            self.generate_tweet_pool()
-
-
-def __iter__(self):
-    return self
+    def __iter__(self):
+        return self
