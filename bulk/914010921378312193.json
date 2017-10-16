@@ -1,0 +1,208 @@
+{
+  "created_at": "Sat Sep 30 06:15:59 +0000 2017",
+  "id": 914010921378312193,
+  "id_str": "914010921378312193",
+  "text": "I don\u2019t know about you, @bcplace, but I say you make the balloons a permanent fixture... #ColdplayVancouver https://t.co/oDOp0y3cpA",
+  "display_text_range": [
+    0,
+    107
+  ],
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 19448409,
+    "id_str": "19448409",
+    "name": "Rachel",
+    "screen_name": "rachelharper63",
+    "location": "Vancouver, British Columbia",
+    "url": null,
+    "description": "\u201cLa parfaite valeur est de faire sans t\u00e9moin ce qu\u2019on serait capable de faire devant tout le monde\u201d",
+    "translator_type": "none",
+    "protected": false,
+    "verified": false,
+    "followers_count": 312,
+    "friends_count": 196,
+    "listed_count": 18,
+    "favourites_count": 6658,
+    "statuses_count": 11634,
+    "created_at": "Sat Jan 24 14:46:07 +0000 2009",
+    "utc_offset": 3600,
+    "time_zone": "London",
+    "geo_enabled": true,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "EDECE9",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme3/bg.gif",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme3/bg.gif",
+    "profile_background_tile": false,
+    "profile_link_color": "088253",
+    "profile_sidebar_border_color": "D3D2CF",
+    "profile_sidebar_fill_color": "E3E2DE",
+    "profile_text_color": "634047",
+    "profile_use_background_image": true,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/908211875736805376/VAanSugt_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/908211875736805376/VAanSugt_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/19448409/1504679733",
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": null,
+    "follow_request_sent": null,
+    "notifications": null
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": {
+    "id": "1e5cb4d0509db554",
+    "url": "https://api.twitter.com/1.1/geo/id/1e5cb4d0509db554.json",
+    "place_type": "city",
+    "name": "Vancouver",
+    "full_name": "Vancouver, British Columbia",
+    "country_code": "CA",
+    "country": "Canada",
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            -123.224215,
+            49.19854
+          ],
+          [
+            -123.224215,
+            49.316738
+          ],
+          [
+            -123.022947,
+            49.316738
+          ],
+          [
+            -123.022947,
+            49.19854
+          ]
+        ]
+      ]
+    },
+    "attributes": {}
+  },
+  "contributors": null,
+  "is_quote_status": false,
+  "quote_count": 0,
+  "reply_count": 0,
+  "retweet_count": 0,
+  "favorite_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "ColdplayVancouver",
+        "indices": [
+          89,
+          107
+        ]
+      }
+    ],
+    "urls": [],
+    "user_mentions": [
+      {
+        "screen_name": "bcplace",
+        "name": "BC Place",
+        "id": 102204132,
+        "id_str": "102204132",
+        "indices": [
+          24,
+          32
+        ]
+      }
+    ],
+    "symbols": [],
+    "media": [
+      {
+        "id": 914010584567341056,
+        "id_str": "914010584567341056",
+        "indices": [
+          108,
+          131
+        ],
+        "media_url": "http://pbs.twimg.com/media/DK83yLYVYAAzniC.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/DK83yLYVYAAzniC.jpg",
+        "url": "https://t.co/oDOp0y3cpA",
+        "display_url": "pic.twitter.com/oDOp0y3cpA",
+        "expanded_url": "https://twitter.com/rachelharper63/status/914010921378312193/photo/1",
+        "type": "photo",
+        "sizes": {
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "large": {
+            "w": 2048,
+            "h": 1536,
+            "resize": "fit"
+          },
+          "medium": {
+            "w": 1200,
+            "h": 900,
+            "resize": "fit"
+          },
+          "small": {
+            "w": 680,
+            "h": 510,
+            "resize": "fit"
+          }
+        }
+      }
+    ]
+  },
+  "extended_entities": {
+    "media": [
+      {
+        "id": 914010584567341056,
+        "id_str": "914010584567341056",
+        "indices": [
+          108,
+          131
+        ],
+        "media_url": "http://pbs.twimg.com/media/DK83yLYVYAAzniC.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/DK83yLYVYAAzniC.jpg",
+        "url": "https://t.co/oDOp0y3cpA",
+        "display_url": "pic.twitter.com/oDOp0y3cpA",
+        "expanded_url": "https://twitter.com/rachelharper63/status/914010921378312193/photo/1",
+        "type": "photo",
+        "sizes": {
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "large": {
+            "w": 2048,
+            "h": 1536,
+            "resize": "fit"
+          },
+          "medium": {
+            "w": 1200,
+            "h": 900,
+            "resize": "fit"
+          },
+          "small": {
+            "w": 680,
+            "h": 510,
+            "resize": "fit"
+          }
+        }
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false,
+  "filter_level": "low",
+  "lang": "en",
+  "timestamp_ms": "1506752159815"
+}

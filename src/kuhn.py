@@ -3,14 +3,15 @@ import os
 import signal
 from sys import stdout
 
-from m_cores import cleaner_core, emitter_core, fetcher_core, parser_core, producer_core
+from m_cores import anonymize_core, classifier_core, emitter_core, fetcher_core, parser_core, producer_core
 
 CORES = {
-    "cleaner": cleaner_core.main,
+    "anonymize": anonymize_core.main,
     "fetcher": fetcher_core.main,
     "parser": parser_core.main,
     "producer": producer_core.main,
-    "emitter": emitter_core.main
+    "emitter": emitter_core.main,
+    "classifier": classifier_core.main
 }
 
 

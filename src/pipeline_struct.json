@@ -1,6 +1,6 @@
 {
   "fetcher_core": {
-    "tag": "fetcher",
+    "tag": "producer",
     "replicas": 1,
     "input_queue": null,
     "output_queue": "fetcher_output"
@@ -12,15 +12,21 @@
     "output_queue": "parser_output"
   },
   "cleaner_core": {
-    "tag": "cleaner",
+    "tag": "anonymize",
     "replicas": 2,
     "input_queue": "parser_output",
-    "output_queue": "cleaner_output"
+    "output_queue": "anonymize_output"
+  },
+  "classifier_core": {
+    "tag": "classifier",
+    "replicas": 4,
+    "input_queue": "anonymize_output",
+    "output_queue": "emitter_input"
   },
   "emitter_core": {
     "tag": "emitter",
-    "replicas": 1,
-    "input_queue": "cleaner_output",
+    "replicas": 2,
+    "input_queue": "emitter_input",
     "output_queue": "output"
   }
 }

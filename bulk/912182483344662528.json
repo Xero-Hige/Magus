@@ -1,0 +1,117 @@
+{
+  "created_at": "Mon Sep 25 05:10:26 +0000 2017",
+  "id": 912182483344662528,
+  "id_str": "912182483344662528",
+  "text": "@RERD_SNCF 7h du matin et d\u00e9j\u00e0 des trains supprim\u00e9s. Le conducteur ne s\u2019est pas r\u00e9veill\u00e9 ou bien ?",
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": 330229937,
+  "in_reply_to_user_id_str": "330229937",
+  "in_reply_to_screen_name": "RERD_SNCF",
+  "user": {
+    "id": 22963248,
+    "id_str": "22963248",
+    "name": "Vincent C",
+    "screen_name": "vincenthird",
+    "location": "Vigneux-sur-Seine, France",
+    "url": "http://www.vincentcapelle.com",
+    "description": "Chef de projet en Data Management dans la recherche clinique",
+    "translator_type": "none",
+    "protected": false,
+    "verified": false,
+    "followers_count": 49,
+    "friends_count": 79,
+    "listed_count": 0,
+    "favourites_count": 34,
+    "statuses_count": 893,
+    "created_at": "Thu Mar 05 19:21:50 +0000 2009",
+    "utc_offset": 7200,
+    "time_zone": "Paris",
+    "geo_enabled": true,
+    "lang": "fr",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "FFF04D",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme19/bg.gif",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme19/bg.gif",
+    "profile_background_tile": false,
+    "profile_link_color": "0099CC",
+    "profile_sidebar_border_color": "FFF8AD",
+    "profile_sidebar_fill_color": "F6FFD1",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/910373380234280962/NPRk0sl1_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/910373380234280962/NPRk0sl1_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/22963248/1505885017",
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": null,
+    "follow_request_sent": null,
+    "notifications": null
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": {
+    "id": "5c49969f0276e95d",
+    "url": "https://api.twitter.com/1.1/geo/id/5c49969f0276e95d.json",
+    "place_type": "city",
+    "name": "Montgeron",
+    "full_name": "Montgeron, France",
+    "country_code": "FR",
+    "country": "France",
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            2.434544,
+            48.670321
+          ],
+          [
+            2.434544,
+            48.720615
+          ],
+          [
+            2.493208,
+            48.720615
+          ],
+          [
+            2.493208,
+            48.670321
+          ]
+        ]
+      ]
+    },
+    "attributes": {}
+  },
+  "contributors": null,
+  "is_quote_status": false,
+  "quote_count": 0,
+  "reply_count": 0,
+  "retweet_count": 0,
+  "favorite_count": 0,
+  "entities": {
+    "hashtags": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "screen_name": "RERD_SNCF",
+        "name": "RER D TRANSILIEN",
+        "id": 330229937,
+        "id_str": "330229937",
+        "indices": [
+          0,
+          10
+        ]
+      }
+    ],
+    "symbols": []
+  },
+  "favorited": false,
+  "retweeted": false,
+  "filter_level": "low",
+  "lang": "fr",
+  "timestamp_ms": "1506316226217"
+}

@@ -23,6 +23,7 @@ services:
     volumes:
       - ./vectors:/vectors
       - ./models:/models
+      - ./bulk:/training
 
     stop_signal: SIGINT
 
