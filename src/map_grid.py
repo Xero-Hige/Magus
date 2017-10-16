@@ -1,4 +1,5 @@
 import pickle as Serializer
+from threading import Thread
 
 from gmaps_rectangle import GmapsRectangle
 from grid_region import GridRegion
@@ -19,10 +20,6 @@ class MapGrid:
         self.grid_columns = grid_columns
         self.grid = [[GridRegion() for _ in range(grid_columns)] for _ in range(grid_rows)]
 
-        reader = RabbitHandler("output")
-
-        reader.receive_messages(self.__update)
-
         self.north = north
         self.south = south
         self.west = west
@@ -30,6 +27,14 @@ class MapGrid:
 
         self.row_size = (self.south - self.north) / self.grid_rows
         self.col_size = (self.west - self.east) / self.grid_columns
+
+        self.thread = None
+        self.reader = RabbitHandler("output")
+        self.start_async_update()
+
+    def start_async_update(self):
+        self.thread = Thread(target=self.reader.receive_messages, args=(self.__update,))
+        self.thread.start()
 
     def get_status(self):
         result = []
