@@ -3,12 +3,14 @@ import os
 import signal
 from sys import stdout
 
+from m_cores.core_anonymize import AnonymizeCore
 from m_cores.core_fetcher import FetcherCore
 from m_cores.core_parser import ParserCore
 
 CORES = {
     "fetcher": FetcherCore,
-    "parser": ParserCore
+    "parser": ParserCore,
+    "anonymize": AnonymizeCore
 }
 
 
