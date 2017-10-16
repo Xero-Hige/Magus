@@ -18,7 +18,7 @@
     "output_queue": "cleaner_output"
   },
   "emitter_core": {
-    "tag": "emiter",
+    "tag": "emitter",
     "replicas": 1,
     "input_queue": "cleaner_output",
     "output_queue": "output"
