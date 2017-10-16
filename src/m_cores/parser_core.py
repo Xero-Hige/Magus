@@ -2,34 +2,28 @@
 
 from __future__ import absolute_import, print_function, unicode_literals
 
-import pickle as Serializer
-
-from core_utils.debugger import debug_core_print_d
-from libs.rabbit_handler import *
 from libs.tweet_parser import TweetParser
+from m_cores.magus_core import MagusCore
 
 
-def main(tag="", worker_number=0, input_queue="tweets_input", output_queue="parsed_tweets"):
-    reader = RabbitHandler(input_queue)
-    writer = RabbitHandler(output_queue)
+class ParserCore(MagusCore):
+    def __init__(self, input_queue, output_queue, tag="Fetcher", worker_number=0):
+        MagusCore.__init__(self, tag, worker_number, input_queue, output_queue)
 
-    def callback(tweet_string):
-        if not tweet_string:
-            return
+    def run_core(self):
 
-        debug_core_print_d(tag, worker_number, "incoming tweet")
+        def callback(tweet_string):
+            if not tweet_string:
+                return
 
-        tweet_dict = Serializer.loads(tweet_string)
+            self._log("Incoming tweet")
+            full_tweet = self.serializer.loads(tweet_string)
 
-        tweet = TweetParser.parse_from_dict(tweet_dict)
+            tweet = TweetParser.parse_from_dict(full_tweet)
+            if not tweet:
+                self._log("Can't parse tweet")
+                return
 
-        if not tweet:
-            return
+            self.out_queue.send_message(self.serializer.dumps(tweet))
 
-        writer.send_message(Serializer.dumps(tweet))
-
-    reader.receive_messages(callback)
-
-
-if __name__ == '__main__':
-    main()
+        self.in_queue.receive_messages(callback)
