@@ -1,6 +1,6 @@
 {
   "fetcher_core": {
-    "tag": "fetcher",
+    "tag": "producer",
     "replicas": 1,
     "input_queue": null,
     "output_queue": "fetcher_output"
