@@ -11,7 +11,7 @@ from libs.tweet_fetcher import TweetsFetcher
 
 
 def main(tag="", worker_number=0, input_queue="", output_queue="tweets_input"):
-    tweets_stream = TweetsFetcher()
+    tweets_stream = TweetsFetcher(locations=("Argentina",))
     handler = RabbitHandler(output_queue)
 
     for tweet in tweets_stream:
