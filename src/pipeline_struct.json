@@ -3,38 +3,24 @@
     "tag": "producer",
     "replicas": 1,
     "input_queue": null,
-    "output_queue": [
-      "fetcher_output"
-    ]
+    "output_queue": "fetcher_output"
   },
   "parser_core": {
     "tag": "parser",
     "replicas": 4,
-    "input_queue": [
-      "fetcher_output"
-    ],
-    "output_queue": [
-      "parser_output"
-    ]
+    "input_queue": "fetcher_output",
+    "output_queue": "parser_output"
   },
   "cleaner_core": {
     "tag": "cleaner",
     "replicas": 2,
-    "input_queue": [
-      "parser_output"
-    ],
-    "output_queue": [
-      "cleaner_output"
-    ]
+    "input_queue": "parser_output",
+    "output_queue": "cleaner_output"
   },
   "emitter_core": {
     "tag": "emiter",
     "replicas": 1,
-    "input_queue": [
-      "cleaner_output"
-    ],
-    "output_queue": [
-      "output"
-    ]
+    "input_queue": "cleaner_output",
+    "output_queue": "output"
   }
 }
