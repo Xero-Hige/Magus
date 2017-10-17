@@ -4,32 +4,30 @@ from __future__ import absolute_import, print_function, unicode_literals
 
 import pickle as Serializer
 
-from libs.rabbit_handler import *
 from libs.sentiments_handling import HAPPY
+from m_cores.magus_core import MagusCore
 
 
-def main(tag, worker_number, input_queue, output_queue):
-    reader = RabbitHandler(input_queue)
-    writer = RabbitHandler(output_queue)
+class EmitterCore(MagusCore):
+    def __init__(self, input_queue, output_queue, tag="Parser", worker_number=0):
+        MagusCore.__init__(self, tag, worker_number, input_queue, output_queue)
 
-    def callback(tweet_string):
-        if not tweet_string:
-            return
+    def run_core(self):
 
-        tweet = Serializer.loads(tweet_string)
+        def callback(tweet_string):
+            if not tweet_string:
+                return
 
-        if not tweet:
-            return
+            tweet = Serializer.loads(tweet_string)
 
-        latitude, longitude = tweet["latitude"], tweet["longitude"]
+            if not tweet:
+                return
 
-        coordinates = (latitude, longitude)
-        message = (coordinates, HAPPY)
+            latitude, longitude = tweet["latitude"], tweet["longitude"]
 
-        writer.send_message(Serializer.dumps(message))
+            coordinates = (latitude, longitude)
+            message = (coordinates, HAPPY)
 
-    reader.receive_messages(callback)
+            self.out_queue.send_message(Serializer.dumps(message))
 
-
-if __name__ == '__main__':
-    main()
+        self.in_queue.receive_messages(callback)
