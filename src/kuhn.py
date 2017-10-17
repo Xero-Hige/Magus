@@ -3,23 +3,33 @@ import os
 import signal
 from sys import stdout
 
-from m_cores import anonymize_core, classifier_core, emitter_core, fetcher_core, parser_core, producer_core
+from m_cores.core_anonymize import AnonymizeCore
+from m_cores.core_fetcher import FetcherCore
+from m_cores.core_hashtags_process import HashtagSplitterCore
+from m_cores.core_parser import ParserCore
+from m_cores.core_word_lower import WordLowerCore
+from m_cores.core_word_shortener import WordShortenerCore
+from m_cores.core_word_splitter import WordSplitterCore
+from m_cores.emitter_core import EmitterCore
 
 CORES = {
-    "anonymize": anonymize_core.main,
-    "fetcher": fetcher_core.main,
-    "parser": parser_core.main,
-    "producer": producer_core.main,
-    "emitter": emitter_core.main,
-    "classifier": classifier_core.main
+    "fetcher": FetcherCore,
+    "parser": ParserCore,
+    "anonymize": AnonymizeCore,
+    "w_splitter": WordSplitterCore,
+    "w_shortener": WordShortenerCore,
+    "htag_splitter": HashtagSplitterCore,
+    "w_lower": WordLowerCore,
+    "emitter": EmitterCore
 }
 
 
-class DetachedCore():
-    def __init__(self, main_function, tag, worker_number, in_queue, out_queue):
+class DetachedCore:
+    def __init__(self, core_class, tag, worker_number, in_queue, out_queue):
         pid = os.fork()
         if pid == 0:
-            result = main_function(tag, worker_number, in_queue, out_queue)
+            core = core_class(tag, worker_number, in_queue, out_queue)
+            result = core.run()
             exit(result)
         else:
             self.pid = pid
@@ -35,8 +45,6 @@ class DetachedCore():
 
 def main():
     cores = []
-
-    structure = {}
 
     with open("pipeline_struct.json") as reader_file:
         structure = json.loads(reader_file.read())
