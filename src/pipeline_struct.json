@@ -1,6 +1,6 @@
 {
   "fetcher_core": {
-    "tag": "producer",
+    "tag": "fetcher",
     "replicas": 1,
     "input_queue": null,
     "output_queue": "fetcher_output"
@@ -17,10 +17,34 @@
     "input_queue": "parser_output",
     "output_queue": "anonymize_output"
   },
-  "classifier_core": {
-    "tag": "classifier",
-    "replicas": 4,
+  "word_splitter_core": {
+    "tag": "w_splitter",
+    "replicas": 2,
     "input_queue": "anonymize_output",
+    "output_queue": "splitter_output"
+  },
+  "word_shortener_core": {
+    "tag": "w_shortener",
+    "replicas": 2,
+    "input_queue": "splitter_output",
+    "output_queue": "shortener_1_output"
+  },
+  "htag_splitter_core": {
+    "tag": "htag_splitter",
+    "replicas": 2,
+    "input_queue": "shortener_1_output",
+    "output_queue": "htag_output"
+  },
+  "w_lower_core": {
+    "tag": "w_lower",
+    "replicas": 2,
+    "input_queue": "htag_output",
+    "output_queue": "lower_output"
+  },
+  "word2_shortener_core": {
+    "tag": "w_shortener",
+    "replicas": 2,
+    "input_queue": "lower_output",
     "output_queue": "emitter_input"
   },
   "emitter_core": {
