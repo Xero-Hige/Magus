@@ -28,7 +28,7 @@ class DetachedCore:
     def __init__(self, core_class, tag, worker_number, in_queue, out_queue):
         pid = os.fork()
         if pid == 0:
-            core = core_class(tag, worker_number, in_queue, out_queue)
+            core = core_class(in_queue, out_queue, tag, worker_number)
             result = core.run_core()
             exit(result)
         else:
