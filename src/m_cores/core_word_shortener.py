@@ -24,7 +24,7 @@ class WordShortenerCore(MagusCore):
 
             self._log("Splitting tweet")
             for i in range(len(tweet["words"])):
-                tweet['words'][i] = word_shorten(tweet['words'][i])
+                tweet['words'][i] = tweet['words'][i]  # FIXME word_shorten(tweet['words'][i])
             self._log("Splited tweet")
 
             self.out_queue.send_message(self.serializer.dumps(tweet))
