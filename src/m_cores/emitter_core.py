@@ -4,7 +4,7 @@ from __future__ import absolute_import, print_function, unicode_literals
 
 import pickle as Serializer
 
-from libs.sentiments_handling import HAPPY
+from libs.neural_classifier import NeuralClassifier
 from m_cores.magus_core import MagusCore
 
 
@@ -26,7 +26,7 @@ class EmitterCore(MagusCore):
             latitude, longitude = tweet["latitude"], tweet["longitude"]
 
             coordinates = (latitude, longitude)
-            message = (coordinates, HAPPY)
+            message = (coordinates, NeuralClassifier().classify([]))
 
             self.out_queue.send_message(Serializer.dumps(message))
 
