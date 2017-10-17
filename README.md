@@ -2,7 +2,7 @@
 
 # [Como colaborar](https://github.com/Xero-Hige/Magus/wiki/Como-colaborar)
 
-# [Screenshoots]
+# Screenshoots
 
 ### Ejemplo del mapa generado
 
