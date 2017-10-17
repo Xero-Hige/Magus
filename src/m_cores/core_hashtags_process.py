@@ -7,8 +7,8 @@ from m_cores.magus_core import MagusCore
 REP_SIZE = 3
 
 
-class WordShortenerCore(MagusCore):
-    def __init__(self, input_queue, output_queue, tag="Word Shortener", worker_number=0):
+class HashtagSplitterCore(MagusCore):
+    def __init__(self, input_queue, output_queue, tag="Hashtag Splitter", worker_number=0):
         MagusCore.__init__(self, tag, worker_number, input_queue, output_queue)
 
     def run_core(self):
