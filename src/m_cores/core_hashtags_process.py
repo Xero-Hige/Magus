@@ -50,7 +50,7 @@ class WordShortenerCore(MagusCore):
 
 
 def split_htag(htag):
-    if len(htag) < 3:
+    if len(htag) < 2:
         return htag
 
     splitted_htag = []
