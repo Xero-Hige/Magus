@@ -10,6 +10,7 @@ from m_cores.core_parser import ParserCore
 from m_cores.core_word_lower import WordLowerCore
 from m_cores.core_word_shortener import WordShortenerCore
 from m_cores.core_word_splitter import WordSplitterCore
+from m_cores.emitter_core import EmitterCore
 
 CORES = {
     "fetcher": FetcherCore,
@@ -18,7 +19,8 @@ CORES = {
     "w_splitter": WordSplitterCore,
     "w_shortener": WordShortenerCore,
     "htag_splitter": HashtagSplitterCore,
-    "w_lower": WordLowerCore
+    "w_lower": WordLowerCore,
+    "emitter": EmitterCore
 }
 
 
