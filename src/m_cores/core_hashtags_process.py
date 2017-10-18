@@ -55,10 +55,10 @@ def split_htag(htag):
 
     splitted_htag = []
 
-    for i in range(1, len(htag) - 1):
-        if htag[i].islower() and not htag[i - 1].islower():
+    for i in range(len(htag) - 1):
+        splitted_htag.append(htag[i])
+        if htag[i].isupper() and htag[i + 1].islower():
             splitted_htag.append(" ")
-        splitted_htag.append(htag[i - 1])
 
     splitted_htag.append(htag[-1])
 
