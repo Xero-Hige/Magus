@@ -6,7 +6,9 @@ class RabbitHandler(object):
 
     def __init__(self, queue, durable=False, host="rabbitmq"):
         self.queue = queue
-        self.connection = pika.BlockingConnection(pika.ConnectionParameters(host=host,connection_attempts=6,retry_delay=10))        self.channel = self.connection.channel()
+        self.connection = pika.BlockingConnection(
+                pika.ConnectionParameters(host=host, connection_attempts=6, retry_delay=10))
+        self.channel = self.connection.channel()
         self.channel.queue_declare(queue=queue, durable=durable)
 
     def send_message(self, message):
