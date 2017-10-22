@@ -16,7 +16,7 @@ MAX_SCRAPPING = 200
 SCRAP_TIME = 200
 
 
-def do_scrapping(locations="", topics="", geo="", folder=BULK_FOLDER):
+def do_scrapping(locations="", topics="", geo="", folder=BULK_FOLDER, scrap_time=SCRAP_TIME, scrap_count=MAX_SCRAPPING):
     if locations:
         locations = [s.lower() for s in locations.split(",")]
     if topics:
@@ -30,7 +30,8 @@ def do_scrapping(locations="", topics="", geo="", folder=BULK_FOLDER):
         raise StopIteration
 
     signal.signal(signal.SIGALRM, stop)
-    signal.alarm(SCRAP_TIME)
+    if scrap_time > 0:
+        signal.alarm(SCRAP_TIME)
 
     count = 0
 
@@ -55,7 +56,7 @@ def do_scrapping(locations="", topics="", geo="", folder=BULK_FOLDER):
             except Exception as e:
                 print("Error ", str(e))
 
-            if count > MAX_SCRAPPING:
+            if count > scrap_count:
                 break
 
     except StopIteration:
