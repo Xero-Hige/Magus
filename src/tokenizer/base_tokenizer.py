@@ -1,6 +1,12 @@
-
 class Tokenizer():
     """Defines a tokenizer class to parse tweets"""
+
+    @staticmethod
+    def preprocess(tweet):
+        """Preprocess the tweet to be in the format to use the tokenizer. It
+        only should be used in the trainer."""
+
+        raise NotImplementedError
 
     @staticmethod
     def tokenize(tweet):
