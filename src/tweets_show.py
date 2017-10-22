@@ -28,6 +28,16 @@ def classify_get():
     return render_template("tweet_catalog.html", tweet=tweet, max=max)
 
 
+@app.route('/classifyEsp', methods=["GET"])
+def classify_get():
+    tweets = ["../tweets/{}".format(x) for x in os.listdir("../tweets")] \
+             + ["../bulk/{}".format(x) for x in os.listdir("../bulk")]
+
+    tweet = load_tweet(random.choice(tweets))
+
+    return render_template("tweet_catalog_esp.html", tweet=tweet, max=max)
+
+
 @app.route('/classify_old', methods=["GET"])
 def classify_get_old():
     tweets = ["../tweets/{}".format(x) for x in os.listdir("../tweets")] \
@@ -77,14 +87,14 @@ def adder_post():
     stdout_data = p.communicate(input=str.encode('{}\n'.format(tweet_id)))
 
     if "err" in str(stdout_data).lower():
-        print ("DEBUG - Script Error: ", stdout_data)
+        print("DEBUG - Script Error: ", stdout_data)
 
     p = Popen(["ruby", "uploader.rb", "tweets/{}.json".format(tweet_id), "../tweets/{}.json".format(tweet_id)],
               stdout=PIPE, stdin=PIPE, stderr=PIPE)
 
     stdout_data = p.communicate(input=b'\n')
     if "err" in str(stdout_data).lower():
-        print ("DEBUG - Script Error: ", stdout_data)
+        print("DEBUG - Script Error: ", stdout_data)
 
     classify_tweet()
 
@@ -141,18 +151,18 @@ def scrapp():
         p = Popen(["git", "add", "bulk/*"],
                   stdout=PIPE, stdin=PIPE, stderr=PIPE, cwd='./upload')
         stdout_data = p.communicate(input=b'\n')
-        print ("DEBUG - INFO : ", stdout_data)
+        print("DEBUG - INFO : ", stdout_data)
 
         p = Popen(["git", "commit", "-m",
                    "New bulk added with Location={} :: Topics={} ".format(locations, topics)],
                   stdout=PIPE, stdin=PIPE, stderr=PIPE, cwd='./upload')
         stdout_data = p.communicate(input=b'\n')
-        print ("DEBUG - INFO : ", stdout_data)
+        print("DEBUG - INFO : ", stdout_data)
 
         p = Popen(["git", "pull", "origin", "tweets"],
                   stdout=PIPE, stdin=PIPE, stderr=PIPE, cwd='./upload')
         stdout_data = p.communicate(input=b'\n')
-        print ("DEBUG - INFO : ", stdout_data)
+        print("DEBUG - INFO : ", stdout_data)
 
         p = Popen(["git", "push", "--set-upstream", "origin", "tweets"],
                   stdout=PIPE, stdin=PIPE, stderr=PIPE, cwd='./upload')
@@ -162,7 +172,7 @@ def scrapp():
                         os.environ.get('GITHUB_PASS', "")),
                         'utf-8'))
 
-        print ("DEBUG - INFO : ", stdout_data)
+        print("DEBUG - INFO : ", stdout_data)
 
         exit(0)
     else:
@@ -228,6 +238,18 @@ def classify():
     classify_tweet()
 
     return redirect("/classify")
+
+
+@app.route('/classifyEsp', methods=["POST"])
+def classify():
+    action = request.form["action"]
+
+    if action == 'skip':
+        return redirect("/classifyEsp")
+
+    classify_tweet()
+
+    return redirect("/classifyEsp")
 
 
 @app.route('/status', methods=["GET"])
