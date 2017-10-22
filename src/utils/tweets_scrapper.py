@@ -56,7 +56,7 @@ def do_scrapping(locations="", topics="", geo="", folder=BULK_FOLDER, scrap_time
             except Exception as e:
                 print("Error ", str(e))
 
-            if count > scrap_count:
+            if 0 < scrap_count < count:
                 break
 
     except StopIteration:
