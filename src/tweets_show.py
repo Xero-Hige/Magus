@@ -29,7 +29,7 @@ def classify_get():
 
 
 @app.route('/classifyEsp', methods=["GET"])
-def classify_get():
+def classify_esp_get():
     tweets = ["../tweets/{}".format(x) for x in os.listdir("../tweets")] \
              + ["../bulk/{}".format(x) for x in os.listdir("../bulk")]
 
@@ -229,7 +229,7 @@ def classify_tweet():
 
 
 @app.route('/classify', methods=["POST"])
-def classify():
+def classify_post():
     action = request.form["action"]
 
     if action == 'skip':
@@ -241,7 +241,7 @@ def classify():
 
 
 @app.route('/classifyEsp', methods=["POST"])
-def classify():
+def classify_esp_post():
     action = request.form["action"]
 
     if action == 'skip':
