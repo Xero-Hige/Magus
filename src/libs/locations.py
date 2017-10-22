@@ -180,7 +180,7 @@ country_bounding_boxes = {
 
 def get_coordinates_from_country(country_name):
     for country, b_box in country_bounding_boxes.values():
-        if country == country_name:
+        if country_name == country.lower():
             return b_box
     return None
 
