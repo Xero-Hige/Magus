@@ -27,6 +27,8 @@ class TweetParser:
         tweet_dict["user_image"] = tweet["user"]["profile_image_url"].replace("_normal.jpg", ".jpg")
         tweet_dict["user_back"] = tweet["user"].get("profile_banner_url", " ")
 
+        tweet_dict["publish_date"] = tweet["created_at"].split()[1:4]
+
         if "truncated" in tweet and "extended_tweet" in tweet:
             tweet_dict[TweetParser.TWEET_TEXT] = tweet["extended_tweet"]["full_text"].encode("utf-8", 'replace').decode(
                     "utf-8")
