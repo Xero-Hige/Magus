@@ -21,7 +21,6 @@ from random import random
 
 import numpy as np
 import tensorflow as tf
-from gensim.models import KeyedVectors
 
 from libs.db_tweet import DB_Handler
 from libs.tweet_parser import TweetParser
@@ -165,8 +164,8 @@ def train_model(model, train_data, train_labels):
 
 
 def get_input_data():
-    word_vectors = KeyedVectors.load('./mymodel.mdl')
-
+    #word_vectors = KeyedVectors.load('./mymodel.mdl')
+    missing = []
     with DB_Handler() as handler:
         tagged_tweets = handler.get_all_tagged()
 
@@ -174,10 +173,15 @@ def get_input_data():
             try:
                 tweet = TweetParser.parse_from_json_file("../bulk/{}.json".format(tweet_data.id))
             except IOError:
-                tweet = TweetParser.parse_from_json_file("../tweets/{}.json".format(tweet_data.id))
-
+                try:
+                    tweet = TweetParser.parse_from_json_file("../tweets/{}.json".format(tweet_data.id))
+                except IOError:
+                    missing.append(tweet_data.id)
+                    continue
             print(tweet_data.get_tweet_sentiment(), tweet[TweetParser.TWEET_TEXT])
 
+    for missi in missing:
+        print(missi)
     input()
 
     words = ["macri", "gato", "cris", "externocleidomastoideo"]
