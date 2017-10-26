@@ -21,17 +21,20 @@ from random import random
 
 import numpy as np
 import tensorflow as tf
+from gensim.models import KeyedVectors
+
+from libs.db_tweet import DB_Handler
+from libs.tweet_parser import TweetParser
 
 tf.logging.set_verbosity(tf.logging.INFO)
 
 ROWS = 70
 COLUMNS = 300
-TRAIN_STEPS = 600
+TRAIN_STEPS = 20000
 
 
 def cnn_model_creation(features, labels, mode):
     """Model function for CNN."""
-
     input_layer = tf.reshape(features["x"], [-1, COLUMNS, ROWS, 1])
 
     padding = 'same'
@@ -53,19 +56,21 @@ def cnn_model_creation(features, labels, mode):
         "classes": tf.argmax(input=logits, axis=1),
         # Add `softmax_tensor` to the graph. It is used for PREDICT and by the
         # `logging_hook`.
-        "probabilities": tf.nn.softmax(logits, name="softmax_tensor")
+        "probabilities": tf.nn.sigmoid(logits, name="softmax_tensor")
     }
 
-    print(predictions)
-    input()
+    print(logits)
 
     if mode == tf.estimator.ModeKeys.PREDICT:
         return tf.estimator.EstimatorSpec(mode=mode, predictions=predictions)
 
     # Calculate Loss (for both TRAIN and EVAL modes)
-    onehot_labels = tf.one_hot(indices=tf.cast(labels, tf.int32), depth=10)
-    loss = tf.losses.softmax_cross_entropy(
-            onehot_labels=onehot_labels, logits=logits)
+    # onehot_labels = tf.one_hot(indices=tf.cast(labels, tf.int32), depth=10)
+    print(logits)
+    print(labels)
+    loss = tf.losses.absolute_difference(labels, logits)
+    # .softmax_cross_entropy(
+    #       onehot_labels=labels, logits=logits)
 
     # Configure the Training Op (for TRAIN mode)
     if mode == tf.estimator.ModeKeys.TRAIN:
@@ -78,7 +83,7 @@ def cnn_model_creation(features, labels, mode):
     # Add evaluation metrics (for EVAL mode)
     eval_metric_ops = {
         "accuracy": tf.metrics.accuracy(
-                labels=labels, predictions=predictions["classes"])}
+                labels=tf.argmax(labels, 1), predictions=tf.argmax(logits, 1))}
     return tf.estimator.EstimatorSpec(
             mode=mode, loss=loss, eval_metric_ops=eval_metric_ops)
 
@@ -89,6 +94,7 @@ def get_convolutional_layer(input_layer, output_width, padding):
     filters.append(create_filter_layer(16, input_layer, 3, output_width, padding, 3))
     filters.append(create_filter_layer(16, input_layer, 5, output_width, padding, 2))
     filters.append(create_filter_layer(16, input_layer, 7, output_width, padding, 3))
+    print(filters)
     conv = tf.concat(filters, 2)
 
     return conv
@@ -102,7 +108,7 @@ def create_filter_layer(kernel_filters, input_layer, kernel_height, output_width
             activation=tf.nn.tanh,
             strides=(COLUMNS // output_width, stride_step),
             padding=padding)  # TODO: add padding
-
+    print(conv_filter)
     max_pool = tf.layers.max_pooling2d(inputs=conv_filter,
                                        pool_size=[1, ROWS // stride_step],
                                        strides=[1, ROWS // stride_step])
@@ -122,8 +128,16 @@ def main(_):
 
     train_model(mnist_classifier, train_data, train_labels)
 
-    eval_results = eval_model(eval_data, eval_labels, mnist_classifier)
+    eval_results = eval_model(train_data, train_labels, mnist_classifier)
     print(eval_results)
+    input("--->")
+    predict_input_fn = tf.estimator.inputs.numpy_input_fn(
+            x={"x": train_data},
+            num_epochs=1,
+            shuffle=False)
+    predictions = mnist_classifier.predict(input_fn=predict_input_fn)
+    for i, p in enumerate(predictions):
+        print("Prediction %s: %s" % (i + 1, p))
 
 
 def eval_model(eval_data, eval_labels, mnist_classifier):
@@ -131,7 +145,7 @@ def eval_model(eval_data, eval_labels, mnist_classifier):
     eval_input_fn = tf.estimator.inputs.numpy_input_fn(
             x={"x": eval_data},
             y=eval_labels,
-            num_epochs=1,
+            num_epochs=25,
             shuffle=False)
     eval_results = mnist_classifier.evaluate(input_fn=eval_input_fn)
     return eval_results
@@ -142,8 +156,8 @@ def train_model(model, train_data, train_labels):
     train_input_fn = tf.estimator.inputs.numpy_input_fn(
             x={"x": train_data},
             y=train_labels,
-            batch_size=50,
-            num_epochs=25,
+            batch_size=1,
+            num_epochs=2500,
             shuffle=True)
     model.train(
             input_fn=train_input_fn,
@@ -151,16 +165,48 @@ def train_model(model, train_data, train_labels):
 
 
 def get_input_data():
-    train_data = np.asarray(
-            [[0] * (ROWS * COLUMNS), [0] * (ROWS * COLUMNS), [1] * (ROWS * COLUMNS), [2] * (ROWS * COLUMNS),
-             [2] * (ROWS * COLUMNS),
-             [4] * (ROWS * COLUMNS)],
-            dtype=np.float32)
-    # train_labels = np.asarray(mnist.train.labels, dtype=np.int32)
-    train_labels = np.asarray([0, 1, 2, 2, 3, 4], dtype=np.int32)
+    word_vectors = KeyedVectors.load('./mymodel.mdl')
+
+    with DB_Handler() as handler:
+        tagged_tweets = handler.get_all_tagged()
+
+        for tweet_data in tagged_tweets:
+            try:
+                tweet = TweetParser.parse_from_json_file("../bulk/{}.json".format(tweet_data.id))
+            except IOError:
+                tweet = TweetParser.parse_from_json_file("../tweets/{}.json".format(tweet_data.id))
+
+            print(tweet_data.get_tweet_sentiment(), tweet[TweetParser.TWEET_TEXT])
+
+    input()
+
+    words = ["macri", "gato", "cris", "externocleidomastoideo"]
+    vectors = []
+    for word in words:
+        vectors.append(get_word_vector(word, word_vectors))
+
+    while len(vectors) < ROWS:
+        vectors.append(np.asarray([0] * COLUMNS))
+
+    vectors = np.append([], vectors)
+
+    print(len(vectors))
+
+    train_data = np.asarray([vectors, vectors, vectors], dtype=np.float32)
+    train_data = np.asarray([[0] * (ROWS * COLUMNS), [1] * (ROWS * COLUMNS), [2] * (ROWS * COLUMNS)], dtype=np.float32)
+
+    train_labels = np.asarray([[1 / 10] * 10] + [[2 / 10] * 10] + [[3 / 10] * 10], dtype=np.int32)
     eval_data = np.asarray([[1] * (ROWS * COLUMNS), [2] * (ROWS * COLUMNS)], dtype=np.float32)
     eval_labels = np.asarray([1, 4], dtype=np.int32)
     return eval_data, eval_labels, train_data, train_labels
+
+
+def get_word_vector(word, word_vectors):
+    if word in word_vectors:
+        word_vector = word_vectors[word]
+    else:
+        word_vector = np.asarray([0] * COLUMNS)
+    return word_vector
 
 
 if __name__ == "__main__":
