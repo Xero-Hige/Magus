@@ -1,0 +1,140 @@
+{
+  "created_at": "Tue Oct 10 13:00:48 +0000 2017",
+  "id": 917736673181622273,
+  "id_str": "917736673181622273",
+  "text": "@FoxNews @brookefoxnews @realDonaldTrump  Moron trump is a lying con artist",
+  "display_text_range": [
+    24,
+    75
+  ],
+  "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+  "truncated": false,
+  "in_reply_to_status_id": 917735619899613185,
+  "in_reply_to_status_id_str": "917735619899613185",
+  "in_reply_to_user_id": 1367531,
+  "in_reply_to_user_id_str": "1367531",
+  "in_reply_to_screen_name": "FoxNews",
+  "user": {
+    "id": 835431188,
+    "id_str": "835431188",
+    "name": "DooWahDiddyDon",
+    "screen_name": "dackerma1",
+    "location": null,
+    "url": null,
+    "description": null,
+    "translator_type": "none",
+    "protected": false,
+    "verified": false,
+    "followers_count": 48,
+    "friends_count": 84,
+    "listed_count": 14,
+    "favourites_count": 1245,
+    "statuses_count": 6022,
+    "created_at": "Thu Sep 20 12:09:00 +0000 2012",
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": true,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "000000",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": false,
+    "profile_link_color": "FAB81E",
+    "profile_sidebar_border_color": "000000",
+    "profile_sidebar_fill_color": "000000",
+    "profile_text_color": "000000",
+    "profile_use_background_image": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/786929749805436928/jN5jcrkO_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/786929749805436928/jN5jcrkO_normal.jpg",
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": null,
+    "follow_request_sent": null,
+    "notifications": null
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": {
+    "id": "e4a0d228eb6be76b",
+    "url": "https://api.twitter.com/1.1/geo/id/e4a0d228eb6be76b.json",
+    "place_type": "city",
+    "name": "Philadelphia",
+    "full_name": "Philadelphia, PA",
+    "country_code": "US",
+    "country": "United States",
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            -75.280284,
+            39.871811
+          ],
+          [
+            -75.280284,
+            40.13792
+          ],
+          [
+            -74.955712,
+            40.13792
+          ],
+          [
+            -74.955712,
+            39.871811
+          ]
+        ]
+      ]
+    },
+    "attributes": {}
+  },
+  "contributors": null,
+  "is_quote_status": false,
+  "quote_count": 0,
+  "reply_count": 0,
+  "retweet_count": 0,
+  "favorite_count": 0,
+  "entities": {
+    "hashtags": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "screen_name": "FoxNews",
+        "name": "Fox News",
+        "id": 1367531,
+        "id_str": "1367531",
+        "indices": [
+          0,
+          8
+        ]
+      },
+      {
+        "screen_name": "brookefoxnews",
+        "name": "Brooke Singman",
+        "id": 1098615836,
+        "id_str": "1098615836",
+        "indices": [
+          9,
+          23
+        ]
+      },
+      {
+        "screen_name": "realDonaldTrump",
+        "name": "Donald J. Trump",
+        "id": 25073877,
+        "id_str": "25073877",
+        "indices": [
+          24,
+          40
+        ]
+      }
+    ],
+    "symbols": []
+  },
+  "favorited": false,
+  "retweeted": false,
+  "filter_level": "low",
+  "lang": "en",
+  "timestamp_ms": "1507640448266"
+}

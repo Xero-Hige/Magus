@@ -1,0 +1,620 @@
+{
+  "created_at": "Tue Oct 10 13:00:49 +0000 2017",
+  "id": 917736677656981506,
+  "id_str": "917736677656981506",
+  "text": "@SGarciaSoto @aguilarcamin @ESEMEJIA @DeniseMaerker @hdemauleon @CarlosLoret @mariocampos @CiroGomezL\u2026 https://t.co/y6QvnUIWWA",
+  "display_text_range": [
+    0,
+    140
+  ],
+  "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+  "truncated": true,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": 84352783,
+  "in_reply_to_user_id_str": "84352783",
+  "in_reply_to_screen_name": "SGarciaSoto",
+  "user": {
+    "id": 183866725,
+    "id_str": "183866725",
+    "name": "jimmyfaro",
+    "screen_name": "jimmyfaro",
+    "location": "M\u00e9xico, D.F",
+    "url": null,
+    "description": "UNAM-Puma",
+    "translator_type": "regular",
+    "protected": false,
+    "verified": false,
+    "followers_count": 337,
+    "friends_count": 3,
+    "listed_count": 12,
+    "favourites_count": 63,
+    "statuses_count": 47017,
+    "created_at": "Sat Aug 28 02:35:05 +0000 2010",
+    "utc_offset": -18000,
+    "time_zone": "Mexico City",
+    "geo_enabled": true,
+    "lang": "es",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "3B94D9",
+    "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/654013063591411712/vOQhmWmu.jpg",
+    "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/654013063591411712/vOQhmWmu.jpg",
+    "profile_background_tile": true,
+    "profile_link_color": "3B94D9",
+    "profile_sidebar_border_color": "EEEEEE",
+    "profile_sidebar_fill_color": "F6F6F6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/2271789322/6rrh00lntre4c16bmnlj_normal.jpeg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/2271789322/6rrh00lntre4c16bmnlj_normal.jpeg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/183866725/1398946097",
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": null,
+    "follow_request_sent": null,
+    "notifications": null
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": {
+    "id": "6eb95eddb81a6b4b",
+    "url": "https://api.twitter.com/1.1/geo/id/6eb95eddb81a6b4b.json",
+    "place_type": "city",
+    "name": "Benito Ju\u00e1rez",
+    "full_name": "Benito Ju\u00e1rez, Quintana Roo",
+    "country_code": "MX",
+    "country": "M\u00e9xico",
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            -87.322724,
+            20.734206
+          ],
+          [
+            -87.322724,
+            21.363232
+          ],
+          [
+            -86.740605,
+            21.363232
+          ],
+          [
+            -86.740605,
+            20.734206
+          ]
+        ]
+      ]
+    },
+    "attributes": {}
+  },
+  "contributors": null,
+  "is_quote_status": false,
+  "extended_tweet": {
+    "full_text": "@SGarciaSoto @aguilarcamin @ESEMEJIA @DeniseMaerker @hdemauleon @CarlosLoret @mariocampos @CiroGomezL @LuisCardenasMx @PedroFerriz @PPmerino https://t.co/nsVOphgpsd",
+    "display_text_range": [
+      0,
+      140
+    ],
+    "entities": {
+      "hashtags": [],
+      "urls": [],
+      "user_mentions": [
+        {
+          "screen_name": "SGarciaSoto",
+          "name": "Salvador Garc\u00eda Soto",
+          "id": 84352783,
+          "id_str": "84352783",
+          "indices": [
+            0,
+            12
+          ]
+        },
+        {
+          "screen_name": "aguilarcamin",
+          "name": "H\u00e9ctor Aguilar Cam\u00edn",
+          "id": 112515706,
+          "id_str": "112515706",
+          "indices": [
+            13,
+            26
+          ]
+        },
+        {
+          "screen_name": "ESEMEJIA",
+          "name": "MEJ\u00cdA, Salvador",
+          "id": 117524213,
+          "id_str": "117524213",
+          "indices": [
+            27,
+            36
+          ]
+        },
+        {
+          "screen_name": "DeniseMaerker",
+          "name": "Denise Maerker",
+          "id": 195933066,
+          "id_str": "195933066",
+          "indices": [
+            37,
+            51
+          ]
+        },
+        {
+          "screen_name": "hdemauleon",
+          "name": "H\u00e9ctor de Maule\u00f3n",
+          "id": 390356716,
+          "id_str": "390356716",
+          "indices": [
+            52,
+            63
+          ]
+        },
+        {
+          "screen_name": "CarlosLoret",
+          "name": "Carlos Loret de Mola",
+          "id": 68844197,
+          "id_str": "68844197",
+          "indices": [
+            64,
+            76
+          ]
+        },
+        {
+          "screen_name": "mariocampos",
+          "name": "Mario Campos",
+          "id": 19068156,
+          "id_str": "19068156",
+          "indices": [
+            77,
+            89
+          ]
+        },
+        {
+          "screen_name": "CiroGomezL",
+          "name": "Ciro G\u00f3mez Leyva",
+          "id": 1935742783,
+          "id_str": "1935742783",
+          "indices": [
+            90,
+            101
+          ]
+        },
+        {
+          "screen_name": "LuisCardenasMx",
+          "name": "Luis C\u00e1rdenas",
+          "id": 69334913,
+          "id_str": "69334913",
+          "indices": [
+            102,
+            117
+          ]
+        },
+        {
+          "screen_name": "PedroFerriz",
+          "name": "Pedro Ferriz de Con",
+          "id": 70390438,
+          "id_str": "70390438",
+          "indices": [
+            118,
+            130
+          ]
+        },
+        {
+          "screen_name": "PPmerino",
+          "name": "Jos\u00e9 Merino",
+          "id": 18430394,
+          "id_str": "18430394",
+          "indices": [
+            131,
+            140
+          ]
+        }
+      ],
+      "symbols": [],
+      "media": [
+        {
+          "id": 917736509343596544,
+          "id_str": "917736509343596544",
+          "indices": [
+            141,
+            164
+          ],
+          "media_url": "http://pbs.twimg.com/media/DLx0fizVAAAdYKp.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/DLx0fizVAAAdYKp.jpg",
+          "url": "https://t.co/nsVOphgpsd",
+          "display_url": "pic.twitter.com/nsVOphgpsd",
+          "expanded_url": "https://twitter.com/jimmyfaro/status/917736677656981506/photo/1",
+          "type": "photo",
+          "sizes": {
+            "large": {
+              "w": 342,
+              "h": 530,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 342,
+              "h": 530,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 342,
+              "h": 530,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            }
+          }
+        },
+        {
+          "id": 917736548233121792,
+          "id_str": "917736548233121792",
+          "indices": [
+            141,
+            164
+          ],
+          "media_url": "http://pbs.twimg.com/media/DLx0hzrUEAA_fb3.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/DLx0hzrUEAA_fb3.jpg",
+          "url": "https://t.co/nsVOphgpsd",
+          "display_url": "pic.twitter.com/nsVOphgpsd",
+          "expanded_url": "https://twitter.com/jimmyfaro/status/917736677656981506/photo/1",
+          "type": "photo",
+          "sizes": {
+            "large": {
+              "w": 338,
+              "h": 500,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 338,
+              "h": 500,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 338,
+              "h": 500,
+              "resize": "fit"
+            }
+          }
+        },
+        {
+          "id": 917736565413109761,
+          "id_str": "917736565413109761",
+          "indices": [
+            141,
+            164
+          ],
+          "media_url": "http://pbs.twimg.com/media/DLx0izrV4AEtXRF.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/DLx0izrV4AEtXRF.jpg",
+          "url": "https://t.co/nsVOphgpsd",
+          "display_url": "pic.twitter.com/nsVOphgpsd",
+          "expanded_url": "https://twitter.com/jimmyfaro/status/917736677656981506/photo/1",
+          "type": "photo",
+          "sizes": {
+            "medium": {
+              "w": 500,
+              "h": 279,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 500,
+              "h": 279,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 500,
+              "h": 279,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            }
+          }
+        },
+        {
+          "id": 917736583784103936,
+          "id_str": "917736583784103936",
+          "indices": [
+            141,
+            164
+          ],
+          "media_url": "http://pbs.twimg.com/media/DLx0j4HVAAAM05A.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/DLx0j4HVAAAM05A.jpg",
+          "url": "https://t.co/nsVOphgpsd",
+          "display_url": "pic.twitter.com/nsVOphgpsd",
+          "expanded_url": "https://twitter.com/jimmyfaro/status/917736677656981506/photo/1",
+          "type": "photo",
+          "sizes": {
+            "medium": {
+              "w": 315,
+              "h": 500,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 315,
+              "h": 500,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 315,
+              "h": 500,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 917736509343596544,
+          "id_str": "917736509343596544",
+          "indices": [
+            141,
+            164
+          ],
+          "media_url": "http://pbs.twimg.com/media/DLx0fizVAAAdYKp.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/DLx0fizVAAAdYKp.jpg",
+          "url": "https://t.co/nsVOphgpsd",
+          "display_url": "pic.twitter.com/nsVOphgpsd",
+          "expanded_url": "https://twitter.com/jimmyfaro/status/917736677656981506/photo/1",
+          "type": "photo",
+          "sizes": {
+            "large": {
+              "w": 342,
+              "h": 530,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 342,
+              "h": 530,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 342,
+              "h": 530,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            }
+          }
+        },
+        {
+          "id": 917736548233121792,
+          "id_str": "917736548233121792",
+          "indices": [
+            141,
+            164
+          ],
+          "media_url": "http://pbs.twimg.com/media/DLx0hzrUEAA_fb3.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/DLx0hzrUEAA_fb3.jpg",
+          "url": "https://t.co/nsVOphgpsd",
+          "display_url": "pic.twitter.com/nsVOphgpsd",
+          "expanded_url": "https://twitter.com/jimmyfaro/status/917736677656981506/photo/1",
+          "type": "photo",
+          "sizes": {
+            "large": {
+              "w": 338,
+              "h": 500,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 338,
+              "h": 500,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 338,
+              "h": 500,
+              "resize": "fit"
+            }
+          }
+        },
+        {
+          "id": 917736565413109761,
+          "id_str": "917736565413109761",
+          "indices": [
+            141,
+            164
+          ],
+          "media_url": "http://pbs.twimg.com/media/DLx0izrV4AEtXRF.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/DLx0izrV4AEtXRF.jpg",
+          "url": "https://t.co/nsVOphgpsd",
+          "display_url": "pic.twitter.com/nsVOphgpsd",
+          "expanded_url": "https://twitter.com/jimmyfaro/status/917736677656981506/photo/1",
+          "type": "photo",
+          "sizes": {
+            "medium": {
+              "w": 500,
+              "h": 279,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 500,
+              "h": 279,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 500,
+              "h": 279,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            }
+          }
+        },
+        {
+          "id": 917736583784103936,
+          "id_str": "917736583784103936",
+          "indices": [
+            141,
+            164
+          ],
+          "media_url": "http://pbs.twimg.com/media/DLx0j4HVAAAM05A.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/DLx0j4HVAAAM05A.jpg",
+          "url": "https://t.co/nsVOphgpsd",
+          "display_url": "pic.twitter.com/nsVOphgpsd",
+          "expanded_url": "https://twitter.com/jimmyfaro/status/917736677656981506/photo/1",
+          "type": "photo",
+          "sizes": {
+            "medium": {
+              "w": 315,
+              "h": 500,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 315,
+              "h": 500,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 315,
+              "h": 500,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    }
+  },
+  "quote_count": 0,
+  "reply_count": 0,
+  "retweet_count": 0,
+  "favorite_count": 0,
+  "entities": {
+    "hashtags": [],
+    "urls": [
+      {
+        "url": "https://t.co/y6QvnUIWWA",
+        "expanded_url": "https://twitter.com/i/web/status/917736677656981506",
+        "display_url": "twitter.com/i/web/status/9\u2026",
+        "indices": [
+          103,
+          126
+        ]
+      }
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "SGarciaSoto",
+        "name": "Salvador Garc\u00eda Soto",
+        "id": 84352783,
+        "id_str": "84352783",
+        "indices": [
+          0,
+          12
+        ]
+      },
+      {
+        "screen_name": "aguilarcamin",
+        "name": "H\u00e9ctor Aguilar Cam\u00edn",
+        "id": 112515706,
+        "id_str": "112515706",
+        "indices": [
+          13,
+          26
+        ]
+      },
+      {
+        "screen_name": "ESEMEJIA",
+        "name": "MEJ\u00cdA, Salvador",
+        "id": 117524213,
+        "id_str": "117524213",
+        "indices": [
+          27,
+          36
+        ]
+      },
+      {
+        "screen_name": "DeniseMaerker",
+        "name": "Denise Maerker",
+        "id": 195933066,
+        "id_str": "195933066",
+        "indices": [
+          37,
+          51
+        ]
+      },
+      {
+        "screen_name": "hdemauleon",
+        "name": "H\u00e9ctor de Maule\u00f3n",
+        "id": 390356716,
+        "id_str": "390356716",
+        "indices": [
+          52,
+          63
+        ]
+      },
+      {
+        "screen_name": "CarlosLoret",
+        "name": "Carlos Loret de Mola",
+        "id": 68844197,
+        "id_str": "68844197",
+        "indices": [
+          64,
+          76
+        ]
+      },
+      {
+        "screen_name": "mariocampos",
+        "name": "Mario Campos",
+        "id": 19068156,
+        "id_str": "19068156",
+        "indices": [
+          77,
+          89
+        ]
+      },
+      {
+        "screen_name": "CiroGomezL",
+        "name": "Ciro G\u00f3mez Leyva",
+        "id": 1935742783,
+        "id_str": "1935742783",
+        "indices": [
+          90,
+          101
+        ]
+      }
+    ],
+    "symbols": []
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false,
+  "filter_level": "low",
+  "lang": "und",
+  "timestamp_ms": "1507640449333"
+}

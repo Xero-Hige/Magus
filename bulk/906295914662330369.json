@@ -1,0 +1,307 @@
+{
+  "in_reply_to_status_id": null,
+  "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+  "place": {
+    "full_name": "San Carlos de Bariloche, Argentina",
+    "place_type": "city",
+    "attributes": {},
+    "country_code": "AR",
+    "url": "https://api.twitter.com/1.1/geo/id/011abdad7dddec83.json",
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            -71.476571,
+            -41.173798
+          ],
+          [
+            -71.476571,
+            -41.087088
+          ],
+          [
+            -71.167834,
+            -41.087088
+          ],
+          [
+            -71.167834,
+            -41.173798
+          ]
+        ]
+      ]
+    },
+    "name": "San Carlos de Bariloche",
+    "country": "Argentina",
+    "id": "011abdad7dddec83"
+  },
+  "lang": "es",
+  "favorite_count": 0,
+  "quoted_status_id_str": "906271398997352448",
+  "id_str": "906295914662330369",
+  "filter_level": "low",
+  "contributors": null,
+  "in_reply_to_user_id": null,
+  "display_text_range": [
+    0,
+    25
+  ],
+  "quote_count": 0,
+  "quoted_status_id": 906271398997352448,
+  "in_reply_to_user_id_str": null,
+  "geo": null,
+  "favorited": false,
+  "truncated": false,
+  "retweeted": false,
+  "entities": {
+    "hashtags": [],
+    "user_mentions": [],
+    "symbols": [],
+    "urls": [
+      {
+        "display_url": "twitter.com/zaynmalik/stat\u2026",
+        "expanded_url": "https://twitter.com/zaynmalik/status/906271398997352448",
+        "indices": [
+          26,
+          49
+        ],
+        "url": "https://t.co/vDFq77WzSo"
+      }
+    ]
+  },
+  "timestamp_ms": "1504912758876",
+  "coordinates": null,
+  "quoted_status": {
+    "in_reply_to_status_id": null,
+    "source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Media Studio</a>",
+    "place": null,
+    "coordinates": null,
+    "favorite_count": 44321,
+    "id_str": "906271398997352448",
+    "filter_level": "low",
+    "contributors": null,
+    "text": "\ud83d\udde3 https://t.co/S09nu3OCbp",
+    "is_quote_status": false,
+    "reply_count": 5992,
+    "in_reply_to_user_id": null,
+    "id": 906271398997352448,
+    "display_text_range": [
+      0,
+      1
+    ],
+    "retweet_count": 21946,
+    "quote_count": 6956,
+    "user": {
+      "profile_background_color": "1A1B1F",
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_link_color": "000000",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/176566242/1504286837",
+      "favourites_count": 323,
+      "lang": "en",
+      "url": "http://inzayn.com",
+      "notifications": null,
+      "id_str": "176566242",
+      "screen_name": "zaynmalik",
+      "name": "zayn",
+      "translator_type": "regular",
+      "default_profile_image": false,
+      "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/760185625/ad26f0770cfef4c27b72a72593c03c9b.jpeg",
+      "profile_use_background_image": true,
+      "listed_count": 126104,
+      "description": "pathetically aesthetic\ud83c\udf4a #DuskTillDawn http://zayn.at/DTDV",
+      "location": "LA",
+      "follow_request_sent": null,
+      "time_zone": "Hawaii",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/903620229548224513/yRngHH9D_normal.jpg",
+      "protected": false,
+      "id": 176566242,
+      "verified": true,
+      "profile_background_tile": true,
+      "utc_offset": -36000,
+      "following": null,
+      "followers_count": 23509184,
+      "is_translator": false,
+      "friends_count": 2274,
+      "geo_enabled": false,
+      "contributors_enabled": false,
+      "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/760185625/ad26f0770cfef4c27b72a72593c03c9b.jpeg",
+      "profile_text_color": "666666",
+      "default_profile": false,
+      "profile_sidebar_fill_color": "252429",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/903620229548224513/yRngHH9D_normal.jpg",
+      "created_at": "Mon Aug 09 21:54:10 +0000 2010",
+      "statuses_count": 3363
+    },
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "extended_entities": {
+      "media": [
+        {
+          "sizes": {
+            "small": {
+              "resize": "fit",
+              "h": 604,
+              "w": 340
+            },
+            "large": {
+              "resize": "fit",
+              "h": 1280,
+              "w": 720
+            },
+            "thumb": {
+              "resize": "crop",
+              "h": 150,
+              "w": 150
+            },
+            "medium": {
+              "resize": "fit",
+              "h": 1067,
+              "w": 600
+            }
+          },
+          "type": "video",
+          "expanded_url": "https://twitter.com/zaynmalik/status/906271398997352448/video/1",
+          "media_url": "http://pbs.twimg.com/amplify_video_thumb/906269879958814721/img/kcXR_X3eEVGzp0I_.jpg",
+          "url": "https://t.co/S09nu3OCbp",
+          "id_str": "906269879958814721",
+          "display_url": "pic.twitter.com/S09nu3OCbp",
+          "id": 906269879958814721,
+          "video_info": {
+            "aspect_ratio": [
+              9,
+              16
+            ],
+            "duration_millis": 59542,
+            "variants": [
+              {
+                "content_type": "application/x-mpegURL",
+                "url": "https://video.twimg.com/amplify_video/906269879958814721/pl/LNNE1--z88vrdP4Y.m3u8"
+              },
+              {
+                "content_type": "video/mp4",
+                "bitrate": 832000,
+                "url": "https://video.twimg.com/amplify_video/906269879958814721/vid/360x640/8LxV8gPZPOO1M_Hc.mp4"
+              },
+              {
+                "content_type": "video/mp4",
+                "bitrate": 320000,
+                "url": "https://video.twimg.com/amplify_video/906269879958814721/vid/180x320/-TiRrs7ysybw1fj7.mp4"
+              },
+              {
+                "content_type": "video/mp4",
+                "bitrate": 2176000,
+                "url": "https://video.twimg.com/amplify_video/906269879958814721/vid/720x1280/TG5sF55yDJzH9xIf.mp4"
+              }
+            ]
+          },
+          "media_url_https": "https://pbs.twimg.com/amplify_video_thumb/906269879958814721/img/kcXR_X3eEVGzp0I_.jpg",
+          "indices": [
+            2,
+            25
+          ]
+        }
+      ]
+    },
+    "possibly_sensitive": false,
+    "lang": "und",
+    "in_reply_to_user_id_str": null,
+    "geo": null,
+    "favorited": false,
+    "truncated": false,
+    "retweeted": false,
+    "created_at": "Fri Sep 08 21:41:53 +0000 2017",
+    "entities": {
+      "hashtags": [],
+      "user_mentions": [],
+      "symbols": [],
+      "media": [
+        {
+          "sizes": {
+            "small": {
+              "resize": "fit",
+              "h": 604,
+              "w": 340
+            },
+            "large": {
+              "resize": "fit",
+              "h": 1280,
+              "w": 720
+            },
+            "thumb": {
+              "resize": "crop",
+              "h": 150,
+              "w": 150
+            },
+            "medium": {
+              "resize": "fit",
+              "h": 1067,
+              "w": 600
+            }
+          },
+          "type": "photo",
+          "expanded_url": "https://twitter.com/zaynmalik/status/906271398997352448/video/1",
+          "media_url": "http://pbs.twimg.com/amplify_video_thumb/906269879958814721/img/kcXR_X3eEVGzp0I_.jpg",
+          "url": "https://t.co/S09nu3OCbp",
+          "id_str": "906269879958814721",
+          "display_url": "pic.twitter.com/S09nu3OCbp",
+          "id": 906269879958814721,
+          "media_url_https": "https://pbs.twimg.com/amplify_video_thumb/906269879958814721/img/kcXR_X3eEVGzp0I_.jpg",
+          "indices": [
+            2,
+            25
+          ]
+        }
+      ],
+      "urls": []
+    }
+  },
+  "text": "sos de otro planeta flaco https://t.co/vDFq77WzSo",
+  "is_quote_status": true,
+  "reply_count": 0,
+  "id": 906295914662330369,
+  "user": {
+    "profile_background_color": "FF0099",
+    "profile_sidebar_border_color": "FFFFFF",
+    "profile_link_color": "2BF0A8",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1921902391/1479692834",
+    "favourites_count": 3842,
+    "lang": "es",
+    "url": null,
+    "notifications": null,
+    "id_str": "1921902391",
+    "screen_name": "MorenoAlen_",
+    "name": "al\u00e9n",
+    "translator_type": "regular",
+    "default_profile_image": false,
+    "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/611742063206514692/2QLccnzR.jpg",
+    "profile_use_background_image": true,
+    "listed_count": 2,
+    "description": "voley",
+    "location": "San Carlos de Bariloche, Argen",
+    "follow_request_sent": null,
+    "time_zone": "Buenos Aires",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/834219527680491520/h_gInL-P_normal.jpg",
+    "protected": false,
+    "id": 1921902391,
+    "verified": false,
+    "profile_background_tile": true,
+    "utc_offset": -10800,
+    "following": null,
+    "followers_count": 1078,
+    "is_translator": false,
+    "friends_count": 797,
+    "geo_enabled": true,
+    "contributors_enabled": false,
+    "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/611742063206514692/2QLccnzR.jpg",
+    "profile_text_color": "333333",
+    "default_profile": false,
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/834219527680491520/h_gInL-P_normal.jpg",
+    "created_at": "Tue Oct 01 01:37:45 +0000 2013",
+    "statuses_count": 12560
+  },
+  "retweet_count": 0,
+  "in_reply_to_screen_name": null,
+  "possibly_sensitive": false,
+  "in_reply_to_status_id_str": null,
+  "created_at": "Fri Sep 08 23:19:18 +0000 2017"
+}

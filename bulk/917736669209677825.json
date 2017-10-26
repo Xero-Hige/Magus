@@ -1,0 +1,133 @@
+{
+  "created_at": "Tue Oct 10 13:00:47 +0000 2017",
+  "id": 917736669209677825,
+  "id_str": "917736669209677825",
+  "text": "@iMiguelZazueta buenos d\u00edas feliz martes \ud83d\ude18",
+  "display_text_range": [
+    16,
+    42
+  ],
+  "source": "<a href=\"http://www.twitter.com\" rel=\"nofollow\">Twitter for Windows Phone</a>",
+  "truncated": false,
+  "in_reply_to_status_id": 917733009331068928,
+  "in_reply_to_status_id_str": "917733009331068928",
+  "in_reply_to_user_id": 69572573,
+  "in_reply_to_user_id_str": "69572573",
+  "in_reply_to_screen_name": "iMiguelZazueta",
+  "user": {
+    "id": 240764577,
+    "id_str": "240764577",
+    "name": "veronica ontivero",
+    "screen_name": "veronicaontiver",
+    "location": "Cordoba Argentina",
+    "url": "https://www.facebook.com/veronica.ontivero.94",
+    "description": "\"Si es con amor todo va bien\"\ud83d\ude18  @AxelOficial @Ivanwitteveen y @FeerCarrillo",
+    "translator_type": "none",
+    "protected": false,
+    "verified": false,
+    "followers_count": 1250,
+    "friends_count": 2153,
+    "listed_count": 9,
+    "favourites_count": 35769,
+    "statuses_count": 30971,
+    "created_at": "Thu Jan 20 17:55:35 +0000 2011",
+    "utc_offset": -10800,
+    "time_zone": "Buenos Aires",
+    "geo_enabled": true,
+    "lang": "es",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "DD2E44",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+    "profile_background_tile": false,
+    "profile_link_color": "F58EA8",
+    "profile_sidebar_border_color": "000000",
+    "profile_sidebar_fill_color": "000000",
+    "profile_text_color": "000000",
+    "profile_use_background_image": true,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/917441679594000384/4NiJJHPo_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/917441679594000384/4NiJJHPo_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/240764577/1507571874",
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": null,
+    "follow_request_sent": null,
+    "notifications": null
+  },
+  "geo": {
+    "type": "Point",
+    "coordinates": [
+      -31.45258853,
+      -64.13879008
+    ]
+  },
+  "coordinates": {
+    "type": "Point",
+    "coordinates": [
+      -64.13879008,
+      -31.45258853
+    ]
+  },
+  "place": {
+    "id": "00f84d414936f28e",
+    "url": "https://api.twitter.com/1.1/geo/id/00f84d414936f28e.json",
+    "place_type": "city",
+    "name": "C\u00f3rdoba",
+    "full_name": "C\u00f3rdoba, Argentina",
+    "country_code": "AR",
+    "country": "Argentina",
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            -64.3195,
+            -31.523576
+          ],
+          [
+            -64.3195,
+            -31.307337
+          ],
+          [
+            -64.076551,
+            -31.307337
+          ],
+          [
+            -64.076551,
+            -31.523576
+          ]
+        ]
+      ]
+    },
+    "attributes": {}
+  },
+  "contributors": null,
+  "is_quote_status": false,
+  "quote_count": 0,
+  "reply_count": 0,
+  "retweet_count": 0,
+  "favorite_count": 0,
+  "entities": {
+    "hashtags": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "screen_name": "iMiguelZazueta",
+        "name": "Mike Zazueta",
+        "id": 69572573,
+        "id_str": "69572573",
+        "indices": [
+          0,
+          15
+        ]
+      }
+    ],
+    "symbols": []
+  },
+  "favorited": false,
+  "retweeted": false,
+  "filter_level": "low",
+  "lang": "es",
+  "timestamp_ms": "1507640447319"
+}

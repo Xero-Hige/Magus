@@ -1,0 +1,140 @@
+{
+  "created_at": "Tue Oct 10 13:00:46 +0000 2017",
+  "id": 917736664222576641,
+  "id_str": "917736664222576641",
+  "text": "I'm at Metr\u00f4Rio - Esta\u00e7\u00e3o Jardim Oce\u00e2nico - @metro_rio in Rio de Janeiro, RJ https://t.co/kJZv4HWIje",
+  "source": "<a href=\"http://foursquare.com\" rel=\"nofollow\">Foursquare</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 18531786,
+    "id_str": "18531786",
+    "name": "Felipe Rog\u00e9rio",
+    "screen_name": "feliperogerio",
+    "location": "Brasil",
+    "url": null,
+    "description": null,
+    "translator_type": "none",
+    "protected": false,
+    "verified": false,
+    "followers_count": 153,
+    "friends_count": 370,
+    "listed_count": 11,
+    "favourites_count": 787,
+    "statuses_count": 2197,
+    "created_at": "Thu Jan 01 17:47:55 +0000 2009",
+    "utc_offset": -10800,
+    "time_zone": "Brasilia",
+    "geo_enabled": true,
+    "lang": "pt",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "000000",
+    "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/724364182234255360/EdE5FP4y.jpg",
+    "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/724364182234255360/EdE5FP4y.jpg",
+    "profile_background_tile": false,
+    "profile_link_color": "FAB81E",
+    "profile_sidebar_border_color": "000000",
+    "profile_sidebar_fill_color": "000000",
+    "profile_text_color": "000000",
+    "profile_use_background_image": true,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/792190987401584640/y3E5v2JF_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/792190987401584640/y3E5v2JF_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/18531786/1488682086",
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": null,
+    "follow_request_sent": null,
+    "notifications": null
+  },
+  "geo": {
+    "type": "Point",
+    "coordinates": [
+      -23.007423,
+      -43.307955
+    ]
+  },
+  "coordinates": {
+    "type": "Point",
+    "coordinates": [
+      -43.307955,
+      -23.007423
+    ]
+  },
+  "place": {
+    "id": "97bcdfca1a2dca59",
+    "url": "https://api.twitter.com/1.1/geo/id/97bcdfca1a2dca59.json",
+    "place_type": "city",
+    "name": "Rio de Janeiro",
+    "full_name": "Rio de Janeiro, Brasil",
+    "country_code": "BR",
+    "country": "Brasil",
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            -43.795449,
+            -23.08302
+          ],
+          [
+            -43.795449,
+            -22.739823
+          ],
+          [
+            -43.087707,
+            -22.739823
+          ],
+          [
+            -43.087707,
+            -23.08302
+          ]
+        ]
+      ]
+    },
+    "attributes": {}
+  },
+  "contributors": null,
+  "is_quote_status": false,
+  "quote_count": 0,
+  "reply_count": 0,
+  "retweet_count": 0,
+  "favorite_count": 0,
+  "entities": {
+    "hashtags": [],
+    "urls": [
+      {
+        "url": "https://t.co/kJZv4HWIje",
+        "expanded_url": "https://www.swarmapp.com/c/fdGA0gqsX4O",
+        "display_url": "swarmapp.com/c/fdGA0gqsX4O",
+        "indices": [
+          77,
+          100
+        ]
+      }
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "metro_rio",
+        "name": "Metr\u00f4Rio",
+        "id": 49759770,
+        "id_str": "49759770",
+        "indices": [
+          44,
+          54
+        ]
+      }
+    ],
+    "symbols": []
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false,
+  "filter_level": "low",
+  "lang": "pt",
+  "timestamp_ms": "1507640446130"
+}
