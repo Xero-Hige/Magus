@@ -1,1 +1,117 @@
-{"timestamp_ms": "1504912757109", "in_reply_to_status_id": null, "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>", "place": {"full_name": "Antofagasta, Chile", "place_type": "city", "attributes": {}, "country_code": "CL", "url": "https://api.twitter.com/1.1/geo/id/002442586af0948e.json", "bounding_box": {"type": "Polygon", "coordinates": [[[-70.628327, -25.402127], [-70.628327, -23.054512], [-68.067941, -23.054512], [-68.067941, -25.402127]]]}, "name": "Antofagasta", "country": "Chile", "id": "002442586af0948e"}, "coordinates": null, "favorite_count": 0, "id_str": "906295907251101696", "geo": null, "filter_level": "low", "contributors": null, "text": "He usado Shazam para descubrir Heathens, de Twenty One Pilots https://t.co/oVuKwDqKJB\nHappy weekend!\ud83d\ude01\ud83c\udf3c\ud83c\udf3b\ud83c\udf38\ud83c\udf37", "is_quote_status": false, "reply_count": 0, "in_reply_to_user_id": null, "id": 906295907251101696, "quote_count": 0, "user": {"profile_background_color": "B2DFDA", "profile_sidebar_border_color": "EEEEEE", "profile_link_color": "93A644", "profile_banner_url": "https://pbs.twimg.com/profile_banners/52239622/1489111334", "favourites_count": 909, "lang": "es", "url": null, "notifications": null, "id_str": "52239622", "screen_name": "lazana2", "name": "XIMENA", "translator_type": "none", "default_profile_image": false, "profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif", "profile_use_background_image": true, "listed_count": 0, "description": "Profesora de Artes Visuales, Licenciada, Diplomada y Master en Ciencias de la Educaci\u00f2n", "location": "Antofagasta-Chile", "follow_request_sent": null, "time_zone": "Quito", "profile_image_url_https": "https://pbs.twimg.com/profile_images/861623176073281536/T7PHm8Lp_normal.jpg", "protected": false, "id": 52239622, "verified": false, "profile_background_tile": false, "utc_offset": -18000, "following": null, "followers_count": 116, "is_translator": false, "friends_count": 213, "geo_enabled": true, "contributors_enabled": false, "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif", "profile_text_color": "333333", "default_profile": false, "profile_sidebar_fill_color": "FFFFFF", "profile_image_url": "http://pbs.twimg.com/profile_images/861623176073281536/T7PHm8Lp_normal.jpg", "created_at": "Tue Jun 30 00:11:47 +0000 2009", "statuses_count": 1220}, "retweet_count": 0, "in_reply_to_screen_name": null, "possibly_sensitive": false, "lang": "en", "in_reply_to_user_id_str": null, "in_reply_to_status_id_str": null, "favorited": false, "truncated": false, "retweeted": false, "created_at": "Fri Sep 08 23:19:17 +0000 2017", "entities": {"hashtags": [], "user_mentions": [], "symbols": [], "urls": [{"display_url": "shz.am/t32185908", "expanded_url": "https://shz.am/t32185908", "indices": [62, 85], "url": "https://t.co/oVuKwDqKJB"}]}}
+{
+  "timestamp_ms": "1504912757109",
+  "in_reply_to_status_id": null,
+  "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+  "place": {
+    "full_name": "Antofagasta, Chile",
+    "place_type": "city",
+    "attributes": {},
+    "country_code": "CL",
+    "url": "https://api.twitter.com/1.1/geo/id/002442586af0948e.json",
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            -70.628327,
+            -25.402127
+          ],
+          [
+            -70.628327,
+            -23.054512
+          ],
+          [
+            -68.067941,
+            -23.054512
+          ],
+          [
+            -68.067941,
+            -25.402127
+          ]
+        ]
+      ]
+    },
+    "name": "Antofagasta",
+    "country": "Chile",
+    "id": "002442586af0948e"
+  },
+  "coordinates": null,
+  "favorite_count": 0,
+  "id_str": "906295907251101696",
+  "geo": null,
+  "filter_level": "low",
+  "contributors": null,
+  "text": "He usado Shazam para descubrir Heathens, de Twenty One Pilots https://t.co/oVuKwDqKJB\nHappy weekend!\ud83d\ude01\ud83c\udf3c\ud83c\udf3b\ud83c\udf38\ud83c\udf37",
+  "is_quote_status": false,
+  "reply_count": 0,
+  "in_reply_to_user_id": null,
+  "id": 906295907251101696,
+  "quote_count": 0,
+  "user": {
+    "profile_background_color": "B2DFDA",
+    "profile_sidebar_border_color": "EEEEEE",
+    "profile_link_color": "93A644",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/52239622/1489111334",
+    "favourites_count": 909,
+    "lang": "es",
+    "url": null,
+    "notifications": null,
+    "id_str": "52239622",
+    "screen_name": "lazana2",
+    "name": "XIMENA",
+    "translator_type": "none",
+    "default_profile_image": false,
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+    "profile_use_background_image": true,
+    "listed_count": 0,
+    "description": "Profesora de Artes Visuales, Licenciada, Diplomada y Master en Ciencias de la Educaci\u00f2n",
+    "location": "Antofagasta-Chile",
+    "follow_request_sent": null,
+    "time_zone": "Quito",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/861623176073281536/T7PHm8Lp_normal.jpg",
+    "protected": false,
+    "id": 52239622,
+    "verified": false,
+    "profile_background_tile": false,
+    "utc_offset": -18000,
+    "following": null,
+    "followers_count": 116,
+    "is_translator": false,
+    "friends_count": 213,
+    "geo_enabled": true,
+    "contributors_enabled": false,
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+    "profile_text_color": "333333",
+    "default_profile": false,
+    "profile_sidebar_fill_color": "FFFFFF",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/861623176073281536/T7PHm8Lp_normal.jpg",
+    "created_at": "Tue Jun 30 00:11:47 +0000 2009",
+    "statuses_count": 1220
+  },
+  "retweet_count": 0,
+  "in_reply_to_screen_name": null,
+  "possibly_sensitive": false,
+  "lang": "en",
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_status_id_str": null,
+  "favorited": false,
+  "truncated": false,
+  "retweeted": false,
+  "created_at": "Fri Sep 08 23:19:17 +0000 2017",
+  "entities": {
+    "hashtags": [],
+    "user_mentions": [],
+    "symbols": [],
+    "urls": [
+      {
+        "display_url": "shz.am/t32185908",
+        "expanded_url": "https://shz.am/t32185908",
+        "indices": [
+          62,
+          85
+        ],
+        "url": "https://t.co/oVuKwDqKJB"
+      }
+    ]
+  }
+}

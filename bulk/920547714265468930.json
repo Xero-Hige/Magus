@@ -1,1 +1,189 @@
-{"created_at": "Wed Oct 18 07:10:52 +0000 2017", "id": 920547714265468930, "id_str": "920547714265468930", "text": "E elas s\u00f3 crescem... https://t.co/qrOSAePMtP", "display_text_range": [0, 20], "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>", "truncated": false, "in_reply_to_status_id": null, "in_reply_to_status_id_str": null, "in_reply_to_user_id": null, "in_reply_to_user_id_str": null, "in_reply_to_screen_name": null, "user": {"id": 2791131334, "id_str": "2791131334", "name": "J\u00falia Castro \ud83c\udf43", "screen_name": "JuliaProlixa", "location": "Evetta", "url": "http://curiouscat.me/juliaprolixa", "description": "O que at\u00e9 \u00e0quela \u00e9poca tinha visto como defeitos irremedi\u00e1veis revelavam-se qualidades - eu era palha\u00e7a!", "translator_type": "none", "protected": false, "verified": false, "followers_count": 665, "friends_count": 1867, "listed_count": 3, "favourites_count": 10045, "statuses_count": 13346, "created_at": "Mon Sep 29 09:48:35 +0000 2014", "utc_offset": -10800, "time_zone": "Santiago", "geo_enabled": true, "lang": "pt", "contributors_enabled": false, "is_translator": false, "profile_background_color": "022330", "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/649661502295789568/px-mP_iY.jpg", "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/649661502295789568/px-mP_iY.jpg", "profile_background_tile": true, "profile_link_color": "E81C4F", "profile_sidebar_border_color": "000000", "profile_sidebar_fill_color": "000000", "profile_text_color": "000000", "profile_use_background_image": true, "profile_image_url": "http://pbs.twimg.com/profile_images/911446325853638656/75flY3G0_normal.jpg", "profile_image_url_https": "https://pbs.twimg.com/profile_images/911446325853638656/75flY3G0_normal.jpg", "profile_banner_url": "https://pbs.twimg.com/profile_banners/2791131334/1505147789", "default_profile": false, "default_profile_image": false, "following": null, "follow_request_sent": null, "notifications": null}, "geo": null, "coordinates": null, "place": {"id": "f3587bc643e7d7b8", "url": "https://api.twitter.com/1.1/geo/id/f3587bc643e7d7b8.json", "place_type": "city", "name": "Bel\u00e9m", "full_name": "Bel\u00e9m, Brasil", "country_code": "BR", "country": "Brasil", "bounding_box": {"type": "Polygon", "coordinates": [[[-48.623684, -1.526453], [-48.623684, -1.019406], [-48.295911, -1.019406], [-48.295911, -1.526453]]]}, "attributes": {}}, "contributors": null, "is_quote_status": false, "quote_count": 0, "reply_count": 0, "retweet_count": 0, "favorite_count": 0, "entities": {"hashtags": [], "urls": [], "user_mentions": [], "symbols": [], "media": [{"id": 920547693549834240, "id_str": "920547693549834240", "indices": [21, 44], "media_url": "http://pbs.twimg.com/media/DMZxQADX0AA9mjZ.jpg", "media_url_https": "https://pbs.twimg.com/media/DMZxQADX0AA9mjZ.jpg", "url": "https://t.co/qrOSAePMtP", "display_url": "pic.twitter.com/qrOSAePMtP", "expanded_url": "https://twitter.com/JuliaProlixa/status/920547714265468930/photo/1", "type": "photo", "sizes": {"medium": {"w": 1140, "h": 651, "resize": "fit"}, "thumb": {"w": 150, "h": 150, "resize": "crop"}, "small": {"w": 680, "h": 388, "resize": "fit"}, "large": {"w": 1140, "h": 651, "resize": "fit"}}}]}, "extended_entities": {"media": [{"id": 920547693549834240, "id_str": "920547693549834240", "indices": [21, 44], "media_url": "http://pbs.twimg.com/media/DMZxQADX0AA9mjZ.jpg", "media_url_https": "https://pbs.twimg.com/media/DMZxQADX0AA9mjZ.jpg", "url": "https://t.co/qrOSAePMtP", "display_url": "pic.twitter.com/qrOSAePMtP", "expanded_url": "https://twitter.com/JuliaProlixa/status/920547714265468930/photo/1", "type": "photo", "sizes": {"medium": {"w": 1140, "h": 651, "resize": "fit"}, "thumb": {"w": 150, "h": 150, "resize": "crop"}, "small": {"w": 680, "h": 388, "resize": "fit"}, "large": {"w": 1140, "h": 651, "resize": "fit"}}}]}, "favorited": false, "retweeted": false, "possibly_sensitive": false, "filter_level": "low", "lang": "pt", "timestamp_ms": "1508310652687"}
+{
+  "created_at": "Wed Oct 18 07:10:52 +0000 2017",
+  "id": 920547714265468930,
+  "id_str": "920547714265468930",
+  "text": "E elas s\u00f3 crescem... https://t.co/qrOSAePMtP",
+  "display_text_range": [
+    0,
+    20
+  ],
+  "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 2791131334,
+    "id_str": "2791131334",
+    "name": "J\u00falia Castro \ud83c\udf43",
+    "screen_name": "JuliaProlixa",
+    "location": "Evetta",
+    "url": "http://curiouscat.me/juliaprolixa",
+    "description": "O que at\u00e9 \u00e0quela \u00e9poca tinha visto como defeitos irremedi\u00e1veis revelavam-se qualidades - eu era palha\u00e7a!",
+    "translator_type": "none",
+    "protected": false,
+    "verified": false,
+    "followers_count": 665,
+    "friends_count": 1867,
+    "listed_count": 3,
+    "favourites_count": 10045,
+    "statuses_count": 13346,
+    "created_at": "Mon Sep 29 09:48:35 +0000 2014",
+    "utc_offset": -10800,
+    "time_zone": "Santiago",
+    "geo_enabled": true,
+    "lang": "pt",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "022330",
+    "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/649661502295789568/px-mP_iY.jpg",
+    "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/649661502295789568/px-mP_iY.jpg",
+    "profile_background_tile": true,
+    "profile_link_color": "E81C4F",
+    "profile_sidebar_border_color": "000000",
+    "profile_sidebar_fill_color": "000000",
+    "profile_text_color": "000000",
+    "profile_use_background_image": true,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/911446325853638656/75flY3G0_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/911446325853638656/75flY3G0_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/2791131334/1505147789",
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": null,
+    "follow_request_sent": null,
+    "notifications": null
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": {
+    "id": "f3587bc643e7d7b8",
+    "url": "https://api.twitter.com/1.1/geo/id/f3587bc643e7d7b8.json",
+    "place_type": "city",
+    "name": "Bel\u00e9m",
+    "full_name": "Bel\u00e9m, Brasil",
+    "country_code": "BR",
+    "country": "Brasil",
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            -48.623684,
+            -1.526453
+          ],
+          [
+            -48.623684,
+            -1.019406
+          ],
+          [
+            -48.295911,
+            -1.019406
+          ],
+          [
+            -48.295911,
+            -1.526453
+          ]
+        ]
+      ]
+    },
+    "attributes": {}
+  },
+  "contributors": null,
+  "is_quote_status": false,
+  "quote_count": 0,
+  "reply_count": 0,
+  "retweet_count": 0,
+  "favorite_count": 0,
+  "entities": {
+    "hashtags": [],
+    "urls": [],
+    "user_mentions": [],
+    "symbols": [],
+    "media": [
+      {
+        "id": 920547693549834240,
+        "id_str": "920547693549834240",
+        "indices": [
+          21,
+          44
+        ],
+        "media_url": "http://pbs.twimg.com/media/DMZxQADX0AA9mjZ.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/DMZxQADX0AA9mjZ.jpg",
+        "url": "https://t.co/qrOSAePMtP",
+        "display_url": "pic.twitter.com/qrOSAePMtP",
+        "expanded_url": "https://twitter.com/JuliaProlixa/status/920547714265468930/photo/1",
+        "type": "photo",
+        "sizes": {
+          "medium": {
+            "w": 1140,
+            "h": 651,
+            "resize": "fit"
+          },
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "small": {
+            "w": 680,
+            "h": 388,
+            "resize": "fit"
+          },
+          "large": {
+            "w": 1140,
+            "h": 651,
+            "resize": "fit"
+          }
+        }
+      }
+    ]
+  },
+  "extended_entities": {
+    "media": [
+      {
+        "id": 920547693549834240,
+        "id_str": "920547693549834240",
+        "indices": [
+          21,
+          44
+        ],
+        "media_url": "http://pbs.twimg.com/media/DMZxQADX0AA9mjZ.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/DMZxQADX0AA9mjZ.jpg",
+        "url": "https://t.co/qrOSAePMtP",
+        "display_url": "pic.twitter.com/qrOSAePMtP",
+        "expanded_url": "https://twitter.com/JuliaProlixa/status/920547714265468930/photo/1",
+        "type": "photo",
+        "sizes": {
+          "medium": {
+            "w": 1140,
+            "h": 651,
+            "resize": "fit"
+          },
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "small": {
+            "w": 680,
+            "h": 388,
+            "resize": "fit"
+          },
+          "large": {
+            "w": 1140,
+            "h": 651,
+            "resize": "fit"
+          }
+        }
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false,
+  "filter_level": "low",
+  "lang": "pt",
+  "timestamp_ms": "1508310652687"
+}

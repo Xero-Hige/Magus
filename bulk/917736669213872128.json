@@ -1,1 +1,202 @@
-{"created_at": "Tue Oct 10 13:00:47 +0000 2017", "id": 917736669213872128, "id_str": "917736669213872128", "text": "Explaining Star Wars to the guy I work with who\u2019s never seen any of them https://t.co/CbMrBSPIzC", "display_text_range": [0, 72], "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>", "truncated": false, "in_reply_to_status_id": null, "in_reply_to_status_id_str": null, "in_reply_to_user_id": null, "in_reply_to_user_id_str": null, "in_reply_to_screen_name": null, "user": {"id": 701825755722846208, "id_str": "701825755722846208", "name": "Gib", "screen_name": "gibbbbs_", "location": "Williamstown, NJ", "url": "http://vsco.co/gibuonpastore", "description": "She took the midnight train goin\u2019 anywhere", "translator_type": "none", "protected": false, "verified": false, "followers_count": 289, "friends_count": 277, "listed_count": 5, "favourites_count": 8732, "statuses_count": 8526, "created_at": "Mon Feb 22 17:47:54 +0000 2016", "utc_offset": null, "time_zone": null, "geo_enabled": true, "lang": "en", "contributors_enabled": false, "is_translator": false, "profile_background_color": "F5F8FA", "profile_background_image_url": "", "profile_background_image_url_https": "", "profile_background_tile": false, "profile_link_color": "1DA1F2", "profile_sidebar_border_color": "C0DEED", "profile_sidebar_fill_color": "DDEEF6", "profile_text_color": "333333", "profile_use_background_image": true, "profile_image_url": "http://pbs.twimg.com/profile_images/915054167617568768/XY0VqRL2_normal.jpg", "profile_image_url_https": "https://pbs.twimg.com/profile_images/915054167617568768/XY0VqRL2_normal.jpg", "profile_banner_url": "https://pbs.twimg.com/profile_banners/701825755722846208/1507000752", "default_profile": true, "default_profile_image": false, "following": null, "follow_request_sent": null, "notifications": null}, "geo": null, "coordinates": null, "place": {"id": "00077b717cda9edf", "url": "https://api.twitter.com/1.1/geo/id/00077b717cda9edf.json", "place_type": "city", "name": "Barclay", "full_name": "Barclay, NJ", "country_code": "US", "country": "United States", "bounding_box": {"type": "Polygon", "coordinates": [[[-75.017153, 39.873108], [-75.017153, 39.929985], [-74.927195, 39.929985], [-74.927195, 39.873108]]]}, "attributes": {}}, "contributors": null, "is_quote_status": false, "quote_count": 0, "reply_count": 0, "retweet_count": 0, "favorite_count": 0, "entities": {"hashtags": [], "urls": [], "user_mentions": [], "symbols": [], "media": [{"id": 917736657352355840, "id_str": "917736657352355840", "indices": [73, 96], "media_url": "http://pbs.twimg.com/tweet_video_thumb/DLx0oKLXcAAQGTA.jpg", "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/DLx0oKLXcAAQGTA.jpg", "url": "https://t.co/CbMrBSPIzC", "display_url": "pic.twitter.com/CbMrBSPIzC", "expanded_url": "https://twitter.com/gibbbbs_/status/917736669213872128/photo/1", "type": "photo", "sizes": {"small": {"w": 340, "h": 158, "resize": "fit"}, "medium": {"w": 434, "h": 202, "resize": "fit"}, "thumb": {"w": 150, "h": 150, "resize": "crop"}, "large": {"w": 434, "h": 202, "resize": "fit"}}}]}, "extended_entities": {"media": [{"id": 917736657352355840, "id_str": "917736657352355840", "indices": [73, 96], "media_url": "http://pbs.twimg.com/tweet_video_thumb/DLx0oKLXcAAQGTA.jpg", "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/DLx0oKLXcAAQGTA.jpg", "url": "https://t.co/CbMrBSPIzC", "display_url": "pic.twitter.com/CbMrBSPIzC", "expanded_url": "https://twitter.com/gibbbbs_/status/917736669213872128/photo/1", "type": "animated_gif", "sizes": {"small": {"w": 340, "h": 158, "resize": "fit"}, "medium": {"w": 434, "h": 202, "resize": "fit"}, "thumb": {"w": 150, "h": 150, "resize": "crop"}, "large": {"w": 434, "h": 202, "resize": "fit"}}, "video_info": {"aspect_ratio": [217, 101], "variants": [{"bitrate": 0, "content_type": "video/mp4", "url": "https://video.twimg.com/tweet_video/DLx0oKLXcAAQGTA.mp4"}]}}]}, "favorited": false, "retweeted": false, "possibly_sensitive": false, "filter_level": "low", "lang": "en", "timestamp_ms": "1507640447320"}
+{
+  "created_at": "Tue Oct 10 13:00:47 +0000 2017",
+  "id": 917736669213872128,
+  "id_str": "917736669213872128",
+  "text": "Explaining Star Wars to the guy I work with who\u2019s never seen any of them https://t.co/CbMrBSPIzC",
+  "display_text_range": [
+    0,
+    72
+  ],
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 701825755722846208,
+    "id_str": "701825755722846208",
+    "name": "Gib",
+    "screen_name": "gibbbbs_",
+    "location": "Williamstown, NJ",
+    "url": "http://vsco.co/gibuonpastore",
+    "description": "She took the midnight train goin\u2019 anywhere",
+    "translator_type": "none",
+    "protected": false,
+    "verified": false,
+    "followers_count": 289,
+    "friends_count": 277,
+    "listed_count": 5,
+    "favourites_count": 8732,
+    "statuses_count": 8526,
+    "created_at": "Mon Feb 22 17:47:54 +0000 2016",
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": true,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "F5F8FA",
+    "profile_background_image_url": "",
+    "profile_background_image_url_https": "",
+    "profile_background_tile": false,
+    "profile_link_color": "1DA1F2",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/915054167617568768/XY0VqRL2_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/915054167617568768/XY0VqRL2_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/701825755722846208/1507000752",
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": null,
+    "follow_request_sent": null,
+    "notifications": null
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": {
+    "id": "00077b717cda9edf",
+    "url": "https://api.twitter.com/1.1/geo/id/00077b717cda9edf.json",
+    "place_type": "city",
+    "name": "Barclay",
+    "full_name": "Barclay, NJ",
+    "country_code": "US",
+    "country": "United States",
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            -75.017153,
+            39.873108
+          ],
+          [
+            -75.017153,
+            39.929985
+          ],
+          [
+            -74.927195,
+            39.929985
+          ],
+          [
+            -74.927195,
+            39.873108
+          ]
+        ]
+      ]
+    },
+    "attributes": {}
+  },
+  "contributors": null,
+  "is_quote_status": false,
+  "quote_count": 0,
+  "reply_count": 0,
+  "retweet_count": 0,
+  "favorite_count": 0,
+  "entities": {
+    "hashtags": [],
+    "urls": [],
+    "user_mentions": [],
+    "symbols": [],
+    "media": [
+      {
+        "id": 917736657352355840,
+        "id_str": "917736657352355840",
+        "indices": [
+          73,
+          96
+        ],
+        "media_url": "http://pbs.twimg.com/tweet_video_thumb/DLx0oKLXcAAQGTA.jpg",
+        "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/DLx0oKLXcAAQGTA.jpg",
+        "url": "https://t.co/CbMrBSPIzC",
+        "display_url": "pic.twitter.com/CbMrBSPIzC",
+        "expanded_url": "https://twitter.com/gibbbbs_/status/917736669213872128/photo/1",
+        "type": "photo",
+        "sizes": {
+          "small": {
+            "w": 340,
+            "h": 158,
+            "resize": "fit"
+          },
+          "medium": {
+            "w": 434,
+            "h": 202,
+            "resize": "fit"
+          },
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "large": {
+            "w": 434,
+            "h": 202,
+            "resize": "fit"
+          }
+        }
+      }
+    ]
+  },
+  "extended_entities": {
+    "media": [
+      {
+        "id": 917736657352355840,
+        "id_str": "917736657352355840",
+        "indices": [
+          73,
+          96
+        ],
+        "media_url": "http://pbs.twimg.com/tweet_video_thumb/DLx0oKLXcAAQGTA.jpg",
+        "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/DLx0oKLXcAAQGTA.jpg",
+        "url": "https://t.co/CbMrBSPIzC",
+        "display_url": "pic.twitter.com/CbMrBSPIzC",
+        "expanded_url": "https://twitter.com/gibbbbs_/status/917736669213872128/photo/1",
+        "type": "animated_gif",
+        "sizes": {
+          "small": {
+            "w": 340,
+            "h": 158,
+            "resize": "fit"
+          },
+          "medium": {
+            "w": 434,
+            "h": 202,
+            "resize": "fit"
+          },
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "large": {
+            "w": 434,
+            "h": 202,
+            "resize": "fit"
+          }
+        },
+        "video_info": {
+          "aspect_ratio": [
+            217,
+            101
+          ],
+          "variants": [
+            {
+              "bitrate": 0,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/tweet_video/DLx0oKLXcAAQGTA.mp4"
+            }
+          ]
+        }
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false,
+  "filter_level": "low",
+  "lang": "en",
+  "timestamp_ms": "1507640447320"
+}

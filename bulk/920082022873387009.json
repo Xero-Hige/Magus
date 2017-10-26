@@ -1,1 +1,183 @@
-{"created_at": "Tue Oct 17 00:20:23 +0000 2017", "id": 920082022873387009, "id_str": "920082022873387009", "text": "\ud83c\udfa5@RyderGentley #cashmere #cashmereskatepark #skatepark #skatethat #washington #pnw\u2026 https://t.co/yN6sJ8v6vr", "source": "<a href=\"http://instagram.com\" rel=\"nofollow\">Instagram</a>", "truncated": false, "in_reply_to_status_id": null, "in_reply_to_status_id_str": null, "in_reply_to_user_id": null, "in_reply_to_user_id_str": null, "in_reply_to_screen_name": null, "user": {"id": 3531177192, "id_str": "3531177192", "name": "Ted Wetzel", "screen_name": "Ted_Wetzel", "location": "Bellingham, WA", "url": "https://www.facebook.com/tedfwetzel?fref=ts", "description": "Skateboard, Pit Bulls, Punk Rock, Aliens... \u2620\ufe0fPappi Chulo Skateboards\ud83d\uddff", "translator_type": "none", "protected": false, "verified": false, "followers_count": 255, "friends_count": 3385, "listed_count": 21, "favourites_count": 5025, "statuses_count": 3159, "created_at": "Fri Sep 11 22:21:37 +0000 2015", "utc_offset": -25200, "time_zone": "Pacific Time (US & Canada)", "geo_enabled": true, "lang": "en", "contributors_enabled": false, "is_translator": false, "profile_background_color": "000000", "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png", "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", "profile_background_tile": false, "profile_link_color": "E81C4F", "profile_sidebar_border_color": "000000", "profile_sidebar_fill_color": "000000", "profile_text_color": "000000", "profile_use_background_image": false, "profile_image_url": "http://pbs.twimg.com/profile_images/839151021641195520/Iy6VSUzN_normal.jpg", "profile_image_url_https": "https://pbs.twimg.com/profile_images/839151021641195520/Iy6VSUzN_normal.jpg", "profile_banner_url": "https://pbs.twimg.com/profile_banners/3531177192/1474057795", "default_profile": false, "default_profile_image": false, "following": null, "follow_request_sent": null, "notifications": null}, "geo": {"type": "Point", "coordinates": [47.5195, -120.469]}, "coordinates": {"type": "Point", "coordinates": [-120.469, 47.5195]}, "place": {"id": "c521aaf29bb8d902", "url": "https://api.twitter.com/1.1/geo/id/c521aaf29bb8d902.json", "place_type": "city", "name": "Cashmere", "full_name": "Cashmere, WA", "country_code": "US", "country": "United States", "bounding_box": {"type": "Polygon", "coordinates": [[[-120.539933, 47.489656], [-120.539933, 47.534208], [-120.446285, 47.534208], [-120.446285, 47.489656]]]}, "attributes": {}}, "contributors": null, "is_quote_status": false, "quote_count": 0, "reply_count": 0, "retweet_count": 0, "favorite_count": 0, "entities": {"hashtags": [{"text": "cashmere", "indices": [15, 24]}, {"text": "cashmereskatepark", "indices": [25, 43]}, {"text": "skatepark", "indices": [44, 54]}, {"text": "skatethat", "indices": [55, 65]}, {"text": "washington", "indices": [66, 77]}, {"text": "pnw", "indices": [78, 82]}], "urls": [{"url": "https://t.co/yN6sJ8v6vr", "expanded_url": "https://www.instagram.com/p/BaVCuA9nDtj/", "display_url": "instagram.com/p/BaVCuA9nDtj/", "indices": [84, 107]}], "user_mentions": [{"screen_name": "RyderGentley", "name": "Ryder Gentley #97", "id": 85677515, "id_str": "85677515", "indices": [1, 14]}], "symbols": []}, "favorited": false, "retweeted": false, "possibly_sensitive": false, "filter_level": "low", "lang": "und", "timestamp_ms": "1508199623207"}
+{
+  "created_at": "Tue Oct 17 00:20:23 +0000 2017",
+  "id": 920082022873387009,
+  "id_str": "920082022873387009",
+  "text": "\ud83c\udfa5@RyderGentley #cashmere #cashmereskatepark #skatepark #skatethat #washington #pnw\u2026 https://t.co/yN6sJ8v6vr",
+  "source": "<a href=\"http://instagram.com\" rel=\"nofollow\">Instagram</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 3531177192,
+    "id_str": "3531177192",
+    "name": "Ted Wetzel",
+    "screen_name": "Ted_Wetzel",
+    "location": "Bellingham, WA",
+    "url": "https://www.facebook.com/tedfwetzel?fref=ts",
+    "description": "Skateboard, Pit Bulls, Punk Rock, Aliens... \u2620\ufe0fPappi Chulo Skateboards\ud83d\uddff",
+    "translator_type": "none",
+    "protected": false,
+    "verified": false,
+    "followers_count": 255,
+    "friends_count": 3385,
+    "listed_count": 21,
+    "favourites_count": 5025,
+    "statuses_count": 3159,
+    "created_at": "Fri Sep 11 22:21:37 +0000 2015",
+    "utc_offset": -25200,
+    "time_zone": "Pacific Time (US & Canada)",
+    "geo_enabled": true,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "000000",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": false,
+    "profile_link_color": "E81C4F",
+    "profile_sidebar_border_color": "000000",
+    "profile_sidebar_fill_color": "000000",
+    "profile_text_color": "000000",
+    "profile_use_background_image": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/839151021641195520/Iy6VSUzN_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/839151021641195520/Iy6VSUzN_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/3531177192/1474057795",
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": null,
+    "follow_request_sent": null,
+    "notifications": null
+  },
+  "geo": {
+    "type": "Point",
+    "coordinates": [
+      47.5195,
+      -120.469
+    ]
+  },
+  "coordinates": {
+    "type": "Point",
+    "coordinates": [
+      -120.469,
+      47.5195
+    ]
+  },
+  "place": {
+    "id": "c521aaf29bb8d902",
+    "url": "https://api.twitter.com/1.1/geo/id/c521aaf29bb8d902.json",
+    "place_type": "city",
+    "name": "Cashmere",
+    "full_name": "Cashmere, WA",
+    "country_code": "US",
+    "country": "United States",
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            -120.539933,
+            47.489656
+          ],
+          [
+            -120.539933,
+            47.534208
+          ],
+          [
+            -120.446285,
+            47.534208
+          ],
+          [
+            -120.446285,
+            47.489656
+          ]
+        ]
+      ]
+    },
+    "attributes": {}
+  },
+  "contributors": null,
+  "is_quote_status": false,
+  "quote_count": 0,
+  "reply_count": 0,
+  "retweet_count": 0,
+  "favorite_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "cashmere",
+        "indices": [
+          15,
+          24
+        ]
+      },
+      {
+        "text": "cashmereskatepark",
+        "indices": [
+          25,
+          43
+        ]
+      },
+      {
+        "text": "skatepark",
+        "indices": [
+          44,
+          54
+        ]
+      },
+      {
+        "text": "skatethat",
+        "indices": [
+          55,
+          65
+        ]
+      },
+      {
+        "text": "washington",
+        "indices": [
+          66,
+          77
+        ]
+      },
+      {
+        "text": "pnw",
+        "indices": [
+          78,
+          82
+        ]
+      }
+    ],
+    "urls": [
+      {
+        "url": "https://t.co/yN6sJ8v6vr",
+        "expanded_url": "https://www.instagram.com/p/BaVCuA9nDtj/",
+        "display_url": "instagram.com/p/BaVCuA9nDtj/",
+        "indices": [
+          84,
+          107
+        ]
+      }
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "RyderGentley",
+        "name": "Ryder Gentley #97",
+        "id": 85677515,
+        "id_str": "85677515",
+        "indices": [
+          1,
+          14
+        ]
+      }
+    ],
+    "symbols": []
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false,
+  "filter_level": "low",
+  "lang": "und",
+  "timestamp_ms": "1508199623207"
+}

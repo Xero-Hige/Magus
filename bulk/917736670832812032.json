@@ -1,1 +1,143 @@
-{"created_at": "Tue Oct 10 13:00:47 +0000 2017", "id": 917736670832812032, "id_str": "917736670832812032", "text": "Accident ---- traffic down to one lane in #Phoenix on I - 17 SB south of Northern Ave --- Exit 206 #PHXtraffic https://t.co/hUIi7YWVvM", "source": "<a href=\"http://www.sigalert.com/Map.asp?region=Phoenix\" rel=\"nofollow\">TTN PHX traffic</a>", "truncated": false, "in_reply_to_status_id": null, "in_reply_to_status_id_str": null, "in_reply_to_user_id": null, "in_reply_to_user_id_str": null, "in_reply_to_screen_name": null, "user": {"id": 249856377, "id_str": "249856377", "name": "TTN Phoenix", "screen_name": "TotalTrafficPHX", "location": "Phoenix, AZ", "url": "http://TTWnetwork.com", "description": "Call in your Traffic Problems - 602-374-6300", "translator_type": "none", "protected": false, "verified": false, "followers_count": 1716, "friends_count": 190, "listed_count": 116, "favourites_count": 29, "statuses_count": 97333, "created_at": "Wed Feb 09 22:48:40 +0000 2011", "utc_offset": -25200, "time_zone": "Arizona", "geo_enabled": true, "lang": "en", "contributors_enabled": false, "is_translator": false, "profile_background_color": "C0DEED", "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/633891484/iv94j9ee17pdeo4y54ra.jpeg", "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/633891484/iv94j9ee17pdeo4y54ra.jpeg", "profile_background_tile": true, "profile_link_color": "0084B4", "profile_sidebar_border_color": "C0DEED", "profile_sidebar_fill_color": "DDEEF6", "profile_text_color": "333333", "profile_use_background_image": true, "profile_image_url": "http://pbs.twimg.com/profile_images/439098732013838337/8q9ZLgpa_normal.png", "profile_image_url_https": "https://pbs.twimg.com/profile_images/439098732013838337/8q9ZLgpa_normal.png", "default_profile": false, "default_profile_image": false, "following": null, "follow_request_sent": null, "notifications": null}, "geo": {"type": "Point", "coordinates": [33.55303, -112.1123]}, "coordinates": {"type": "Point", "coordinates": [-112.1123, 33.55303]}, "place": {"id": "5c62ffb0f0f3479d", "url": "https://api.twitter.com/1.1/geo/id/5c62ffb0f0f3479d.json", "place_type": "city", "name": "Phoenix", "full_name": "Phoenix, AZ", "country_code": "US", "country": "United States", "bounding_box": {"type": "Polygon", "coordinates": [[[-112.323914, 33.29026], [-112.323914, 33.815465], [-111.925439, 33.815465], [-111.925439, 33.29026]]]}, "attributes": {}}, "contributors": null, "is_quote_status": false, "quote_count": 0, "reply_count": 0, "retweet_count": 0, "favorite_count": 0, "entities": {"hashtags": [{"text": "Phoenix", "indices": [42, 50]}, {"text": "PHXtraffic", "indices": [99, 110]}], "urls": [{"url": "https://t.co/hUIi7YWVvM", "expanded_url": "http://bit.ly/17hvnJU", "display_url": "bit.ly/17hvnJU", "indices": [111, 134]}], "user_mentions": [], "symbols": []}, "favorited": false, "retweeted": false, "possibly_sensitive": false, "filter_level": "low", "lang": "en", "timestamp_ms": "1507640447706"}
+{
+  "created_at": "Tue Oct 10 13:00:47 +0000 2017",
+  "id": 917736670832812032,
+  "id_str": "917736670832812032",
+  "text": "Accident ---- traffic down to one lane in #Phoenix on I - 17 SB south of Northern Ave --- Exit 206 #PHXtraffic https://t.co/hUIi7YWVvM",
+  "source": "<a href=\"http://www.sigalert.com/Map.asp?region=Phoenix\" rel=\"nofollow\">TTN PHX traffic</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 249856377,
+    "id_str": "249856377",
+    "name": "TTN Phoenix",
+    "screen_name": "TotalTrafficPHX",
+    "location": "Phoenix, AZ",
+    "url": "http://TTWnetwork.com",
+    "description": "Call in your Traffic Problems - 602-374-6300",
+    "translator_type": "none",
+    "protected": false,
+    "verified": false,
+    "followers_count": 1716,
+    "friends_count": 190,
+    "listed_count": 116,
+    "favourites_count": 29,
+    "statuses_count": 97333,
+    "created_at": "Wed Feb 09 22:48:40 +0000 2011",
+    "utc_offset": -25200,
+    "time_zone": "Arizona",
+    "geo_enabled": true,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "C0DEED",
+    "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/633891484/iv94j9ee17pdeo4y54ra.jpeg",
+    "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/633891484/iv94j9ee17pdeo4y54ra.jpeg",
+    "profile_background_tile": true,
+    "profile_link_color": "0084B4",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/439098732013838337/8q9ZLgpa_normal.png",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/439098732013838337/8q9ZLgpa_normal.png",
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": null,
+    "follow_request_sent": null,
+    "notifications": null
+  },
+  "geo": {
+    "type": "Point",
+    "coordinates": [
+      33.55303,
+      -112.1123
+    ]
+  },
+  "coordinates": {
+    "type": "Point",
+    "coordinates": [
+      -112.1123,
+      33.55303
+    ]
+  },
+  "place": {
+    "id": "5c62ffb0f0f3479d",
+    "url": "https://api.twitter.com/1.1/geo/id/5c62ffb0f0f3479d.json",
+    "place_type": "city",
+    "name": "Phoenix",
+    "full_name": "Phoenix, AZ",
+    "country_code": "US",
+    "country": "United States",
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            -112.323914,
+            33.29026
+          ],
+          [
+            -112.323914,
+            33.815465
+          ],
+          [
+            -111.925439,
+            33.815465
+          ],
+          [
+            -111.925439,
+            33.29026
+          ]
+        ]
+      ]
+    },
+    "attributes": {}
+  },
+  "contributors": null,
+  "is_quote_status": false,
+  "quote_count": 0,
+  "reply_count": 0,
+  "retweet_count": 0,
+  "favorite_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "Phoenix",
+        "indices": [
+          42,
+          50
+        ]
+      },
+      {
+        "text": "PHXtraffic",
+        "indices": [
+          99,
+          110
+        ]
+      }
+    ],
+    "urls": [
+      {
+        "url": "https://t.co/hUIi7YWVvM",
+        "expanded_url": "http://bit.ly/17hvnJU",
+        "display_url": "bit.ly/17hvnJU",
+        "indices": [
+          111,
+          134
+        ]
+      }
+    ],
+    "user_mentions": [],
+    "symbols": []
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false,
+  "filter_level": "low",
+  "lang": "en",
+  "timestamp_ms": "1507640447706"
+}
