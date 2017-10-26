@@ -1,1 +1,121 @@
-{"created_at": "Tue Oct 17 20:07:00 +0000 2017", "id": 920380645947445248, "id_str": "920380645947445248", "text": "@zstracener32 \ud83d\ude02\ud83d\ude02", "display_text_range": [14, 16], "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>", "truncated": false, "in_reply_to_status_id": 920380478082945026, "in_reply_to_status_id_str": "920380478082945026", "in_reply_to_user_id": 935403602, "in_reply_to_user_id_str": "935403602", "in_reply_to_screen_name": "zstracener32", "user": {"id": 18443299, "id_str": "18443299", "name": "Connor Miller", "screen_name": "Connor_Miller6", "location": "United States", "url": null, "description": null, "translator_type": "none", "protected": false, "verified": false, "followers_count": 888, "friends_count": 469, "listed_count": 1, "favourites_count": 2873, "statuses_count": 7882, "created_at": "Mon Dec 29 05:17:53 +0000 2008", "utc_offset": -14400, "time_zone": "Eastern Time (US & Canada)", "geo_enabled": true, "lang": "en", "contributors_enabled": false, "is_translator": false, "profile_background_color": "C0DEED", "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/877402010/e50fc628b4e88dfbf59c2670648f6c1c.jpeg", "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/877402010/e50fc628b4e88dfbf59c2670648f6c1c.jpeg", "profile_background_tile": false, "profile_link_color": "0084B4", "profile_sidebar_border_color": "C0DEED", "profile_sidebar_fill_color": "DDEEF6", "profile_text_color": "333333", "profile_use_background_image": true, "profile_image_url": "http://pbs.twimg.com/profile_images/919958939881656321/4OWe9GXF_normal.jpg", "profile_image_url_https": "https://pbs.twimg.com/profile_images/919958939881656321/4OWe9GXF_normal.jpg", "profile_banner_url": "https://pbs.twimg.com/profile_banners/18443299/1507905904", "default_profile": false, "default_profile_image": false, "following": null, "follow_request_sent": null, "notifications": null}, "geo": null, "coordinates": null, "place": {"id": "1c73ebb264e145ee", "url": "https://api.twitter.com/1.1/geo/id/1c73ebb264e145ee.json", "place_type": "admin", "name": "Louisiana", "full_name": "Louisiana, USA", "country_code": "US", "country": "United States", "bounding_box": {"type": "Polygon", "coordinates": [[[-94.043628, 28.855128], [-94.043628, 33.019544], [-88.758389, 33.019544], [-88.758389, 28.855128]]]}, "attributes": {}}, "contributors": null, "is_quote_status": false, "quote_count": 0, "reply_count": 0, "retweet_count": 0, "favorite_count": 0, "entities": {"hashtags": [], "urls": [], "user_mentions": [{"screen_name": "zstracener32", "name": "Zac", "id": 935403602, "id_str": "935403602", "indices": [0, 13]}], "symbols": []}, "favorited": false, "retweeted": false, "filter_level": "low", "lang": "und", "timestamp_ms": "1508270820496"}
+{
+  "created_at": "Tue Oct 17 20:07:00 +0000 2017",
+  "id": 920380645947445248,
+  "id_str": "920380645947445248",
+  "text": "@zstracener32 \ud83d\ude02\ud83d\ude02",
+  "display_text_range": [
+    14,
+    16
+  ],
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "in_reply_to_status_id": 920380478082945026,
+  "in_reply_to_status_id_str": "920380478082945026",
+  "in_reply_to_user_id": 935403602,
+  "in_reply_to_user_id_str": "935403602",
+  "in_reply_to_screen_name": "zstracener32",
+  "user": {
+    "id": 18443299,
+    "id_str": "18443299",
+    "name": "Connor Miller",
+    "screen_name": "Connor_Miller6",
+    "location": "United States",
+    "url": null,
+    "description": null,
+    "translator_type": "none",
+    "protected": false,
+    "verified": false,
+    "followers_count": 888,
+    "friends_count": 469,
+    "listed_count": 1,
+    "favourites_count": 2873,
+    "statuses_count": 7882,
+    "created_at": "Mon Dec 29 05:17:53 +0000 2008",
+    "utc_offset": -14400,
+    "time_zone": "Eastern Time (US & Canada)",
+    "geo_enabled": true,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "C0DEED",
+    "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/877402010/e50fc628b4e88dfbf59c2670648f6c1c.jpeg",
+    "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/877402010/e50fc628b4e88dfbf59c2670648f6c1c.jpeg",
+    "profile_background_tile": false,
+    "profile_link_color": "0084B4",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/919958939881656321/4OWe9GXF_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/919958939881656321/4OWe9GXF_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/18443299/1507905904",
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": null,
+    "follow_request_sent": null,
+    "notifications": null
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": {
+    "id": "1c73ebb264e145ee",
+    "url": "https://api.twitter.com/1.1/geo/id/1c73ebb264e145ee.json",
+    "place_type": "admin",
+    "name": "Louisiana",
+    "full_name": "Louisiana, USA",
+    "country_code": "US",
+    "country": "United States",
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            -94.043628,
+            28.855128
+          ],
+          [
+            -94.043628,
+            33.019544
+          ],
+          [
+            -88.758389,
+            33.019544
+          ],
+          [
+            -88.758389,
+            28.855128
+          ]
+        ]
+      ]
+    },
+    "attributes": {}
+  },
+  "contributors": null,
+  "is_quote_status": false,
+  "quote_count": 0,
+  "reply_count": 0,
+  "retweet_count": 0,
+  "favorite_count": 0,
+  "entities": {
+    "hashtags": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "screen_name": "zstracener32",
+        "name": "Zac",
+        "id": 935403602,
+        "id_str": "935403602",
+        "indices": [
+          0,
+          13
+        ]
+      }
+    ],
+    "symbols": []
+  },
+  "favorited": false,
+  "retweeted": false,
+  "filter_level": "low",
+  "lang": "und",
+  "timestamp_ms": "1508270820496"
+}

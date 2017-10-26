@@ -1,1 +1,189 @@
-{"created_at": "Wed Oct 18 07:10:46 +0000 2017", "id": 920547689238093824, "id_str": "920547689238093824", "text": "Yo menos.. https://t.co/YnIiYG5J6U", "display_text_range": [0, 10], "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>", "truncated": false, "in_reply_to_status_id": null, "in_reply_to_status_id_str": null, "in_reply_to_user_id": null, "in_reply_to_user_id_str": null, "in_reply_to_screen_name": null, "user": {"id": 596879891, "id_str": "596879891", "name": "Black Sheep .", "screen_name": "NiicoZaracho", "location": "Asuncion", "url": null, "description": "Afortunado aqu\u00e9l que tiene algo que perder.", "translator_type": "none", "protected": false, "verified": false, "followers_count": 539, "friends_count": 417, "listed_count": 2, "favourites_count": 1991, "statuses_count": 17586, "created_at": "Fri Jun 01 23:05:19 +0000 2012", "utc_offset": -10800, "time_zone": "Atlantic Time (Canada)", "geo_enabled": true, "lang": "es", "contributors_enabled": false, "is_translator": false, "profile_background_color": "C0DEED", "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/569633393/d52yashg01yxetd21lmk.jpeg", "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/569633393/d52yashg01yxetd21lmk.jpeg", "profile_background_tile": false, "profile_link_color": "0084B4", "profile_sidebar_border_color": "C0DEED", "profile_sidebar_fill_color": "DDEEF6", "profile_text_color": "333333", "profile_use_background_image": true, "profile_image_url": "http://pbs.twimg.com/profile_images/727388176579338241/lXN4mkaq_normal.jpg", "profile_image_url_https": "https://pbs.twimg.com/profile_images/727388176579338241/lXN4mkaq_normal.jpg", "profile_banner_url": "https://pbs.twimg.com/profile_banners/596879891/1371680250", "default_profile": false, "default_profile_image": false, "following": null, "follow_request_sent": null, "notifications": null}, "geo": null, "coordinates": null, "place": {"id": "010fa1372501688d", "url": "https://api.twitter.com/1.1/geo/id/010fa1372501688d.json", "place_type": "city", "name": "Caaguazu", "full_name": "Caaguazu, Paraguay", "country_code": "PY", "country": "Paraguay", "bounding_box": {"type": "Polygon", "coordinates": [[[-56.034794, -25.483515], [-56.034794, -25.447702], [-56.002049, -25.447702], [-56.002049, -25.483515]]]}, "attributes": {}}, "contributors": null, "is_quote_status": false, "quote_count": 0, "reply_count": 0, "retweet_count": 0, "favorite_count": 0, "entities": {"hashtags": [], "urls": [], "user_mentions": [], "symbols": [], "media": [{"id": 920547670187536385, "id_str": "920547670187536385", "indices": [11, 34], "media_url": "http://pbs.twimg.com/media/DMZxOpBXcAE2JTZ.jpg", "media_url_https": "https://pbs.twimg.com/media/DMZxOpBXcAE2JTZ.jpg", "url": "https://t.co/YnIiYG5J6U", "display_url": "pic.twitter.com/YnIiYG5J6U", "expanded_url": "https://twitter.com/NiicoZaracho/status/920547689238093824/photo/1", "type": "photo", "sizes": {"thumb": {"w": 150, "h": 150, "resize": "crop"}, "small": {"w": 383, "h": 680, "resize": "fit"}, "large": {"w": 1080, "h": 1920, "resize": "fit"}, "medium": {"w": 675, "h": 1200, "resize": "fit"}}}]}, "extended_entities": {"media": [{"id": 920547670187536385, "id_str": "920547670187536385", "indices": [11, 34], "media_url": "http://pbs.twimg.com/media/DMZxOpBXcAE2JTZ.jpg", "media_url_https": "https://pbs.twimg.com/media/DMZxOpBXcAE2JTZ.jpg", "url": "https://t.co/YnIiYG5J6U", "display_url": "pic.twitter.com/YnIiYG5J6U", "expanded_url": "https://twitter.com/NiicoZaracho/status/920547689238093824/photo/1", "type": "photo", "sizes": {"thumb": {"w": 150, "h": 150, "resize": "crop"}, "small": {"w": 383, "h": 680, "resize": "fit"}, "large": {"w": 1080, "h": 1920, "resize": "fit"}, "medium": {"w": 675, "h": 1200, "resize": "fit"}}}]}, "favorited": false, "retweeted": false, "possibly_sensitive": false, "filter_level": "low", "lang": "es", "timestamp_ms": "1508310646720"}
+{
+  "created_at": "Wed Oct 18 07:10:46 +0000 2017",
+  "id": 920547689238093824,
+  "id_str": "920547689238093824",
+  "text": "Yo menos.. https://t.co/YnIiYG5J6U",
+  "display_text_range": [
+    0,
+    10
+  ],
+  "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 596879891,
+    "id_str": "596879891",
+    "name": "Black Sheep .",
+    "screen_name": "NiicoZaracho",
+    "location": "Asuncion",
+    "url": null,
+    "description": "Afortunado aqu\u00e9l que tiene algo que perder.",
+    "translator_type": "none",
+    "protected": false,
+    "verified": false,
+    "followers_count": 539,
+    "friends_count": 417,
+    "listed_count": 2,
+    "favourites_count": 1991,
+    "statuses_count": 17586,
+    "created_at": "Fri Jun 01 23:05:19 +0000 2012",
+    "utc_offset": -10800,
+    "time_zone": "Atlantic Time (Canada)",
+    "geo_enabled": true,
+    "lang": "es",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "C0DEED",
+    "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/569633393/d52yashg01yxetd21lmk.jpeg",
+    "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/569633393/d52yashg01yxetd21lmk.jpeg",
+    "profile_background_tile": false,
+    "profile_link_color": "0084B4",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/727388176579338241/lXN4mkaq_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/727388176579338241/lXN4mkaq_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/596879891/1371680250",
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": null,
+    "follow_request_sent": null,
+    "notifications": null
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": {
+    "id": "010fa1372501688d",
+    "url": "https://api.twitter.com/1.1/geo/id/010fa1372501688d.json",
+    "place_type": "city",
+    "name": "Caaguazu",
+    "full_name": "Caaguazu, Paraguay",
+    "country_code": "PY",
+    "country": "Paraguay",
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            -56.034794,
+            -25.483515
+          ],
+          [
+            -56.034794,
+            -25.447702
+          ],
+          [
+            -56.002049,
+            -25.447702
+          ],
+          [
+            -56.002049,
+            -25.483515
+          ]
+        ]
+      ]
+    },
+    "attributes": {}
+  },
+  "contributors": null,
+  "is_quote_status": false,
+  "quote_count": 0,
+  "reply_count": 0,
+  "retweet_count": 0,
+  "favorite_count": 0,
+  "entities": {
+    "hashtags": [],
+    "urls": [],
+    "user_mentions": [],
+    "symbols": [],
+    "media": [
+      {
+        "id": 920547670187536385,
+        "id_str": "920547670187536385",
+        "indices": [
+          11,
+          34
+        ],
+        "media_url": "http://pbs.twimg.com/media/DMZxOpBXcAE2JTZ.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/DMZxOpBXcAE2JTZ.jpg",
+        "url": "https://t.co/YnIiYG5J6U",
+        "display_url": "pic.twitter.com/YnIiYG5J6U",
+        "expanded_url": "https://twitter.com/NiicoZaracho/status/920547689238093824/photo/1",
+        "type": "photo",
+        "sizes": {
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "small": {
+            "w": 383,
+            "h": 680,
+            "resize": "fit"
+          },
+          "large": {
+            "w": 1080,
+            "h": 1920,
+            "resize": "fit"
+          },
+          "medium": {
+            "w": 675,
+            "h": 1200,
+            "resize": "fit"
+          }
+        }
+      }
+    ]
+  },
+  "extended_entities": {
+    "media": [
+      {
+        "id": 920547670187536385,
+        "id_str": "920547670187536385",
+        "indices": [
+          11,
+          34
+        ],
+        "media_url": "http://pbs.twimg.com/media/DMZxOpBXcAE2JTZ.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/DMZxOpBXcAE2JTZ.jpg",
+        "url": "https://t.co/YnIiYG5J6U",
+        "display_url": "pic.twitter.com/YnIiYG5J6U",
+        "expanded_url": "https://twitter.com/NiicoZaracho/status/920547689238093824/photo/1",
+        "type": "photo",
+        "sizes": {
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "small": {
+            "w": 383,
+            "h": 680,
+            "resize": "fit"
+          },
+          "large": {
+            "w": 1080,
+            "h": 1920,
+            "resize": "fit"
+          },
+          "medium": {
+            "w": 675,
+            "h": 1200,
+            "resize": "fit"
+          }
+        }
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false,
+  "filter_level": "low",
+  "lang": "es",
+  "timestamp_ms": "1508310646720"
+}

@@ -1,1 +1,114 @@
-{"timestamp_ms": "1504912756034", "in_reply_to_status_id": null, "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>", "place": {"full_name": "San Pedro de La Paz, Chile", "place_type": "city", "attributes": {}, "country_code": "CL", "url": "https://api.twitter.com/1.1/geo/id/001e10dc18ccf1a4.json", "bounding_box": {"type": "Polygon", "coordinates": [[[-73.154859, -36.972076], [-73.154859, -36.825068], [-73.032339, -36.825068], [-73.032339, -36.972076]]]}, "name": "San Pedro de La Paz", "country": "Chile", "id": "001e10dc18ccf1a4"}, "coordinates": null, "favorite_count": 0, "id_str": "906295902742208512", "geo": null, "filter_level": "low", "contributors": null, "text": "#1TipParaConquistar Lavarse los dientes!!", "is_quote_status": false, "reply_count": 0, "in_reply_to_user_id": null, "id": 906295902742208512, "quote_count": 0, "user": {"profile_background_color": "ACDED6", "profile_sidebar_border_color": "000000", "profile_link_color": "E81C4F", "profile_banner_url": "https://pbs.twimg.com/profile_banners/2227568883/1478477700", "favourites_count": 27066, "lang": "es", "url": null, "notifications": null, "id_str": "2227568883", "screen_name": "RiffoMario", "name": "\ud83c\uddf2 \ud83c\udde6 \ud83c\uddf7 \ud83c\uddee \ud83c\uddf4", "translator_type": "none", "default_profile_image": false, "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/434711225792856064/03rKqO-z.jpeg", "profile_use_background_image": true, "listed_count": 24, "description": "Profe de  Educ. F\u00edsica UdeC - Magister en Direcci\u00f3n y Gesti\u00f3n Educacional - Amo a mi hija Catalina - Vialino, Zurdo y Chileno de coraz\u00f3n", "location": "Concepci\u00f3n. Chile", "follow_request_sent": null, "time_zone": null, "profile_image_url_https": "https://pbs.twimg.com/profile_images/905548142153740289/DA08-vkx_normal.jpg", "protected": false, "id": 2227568883, "verified": false, "profile_background_tile": true, "utc_offset": null, "following": null, "followers_count": 4170, "is_translator": false, "friends_count": 4965, "geo_enabled": true, "contributors_enabled": false, "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/434711225792856064/03rKqO-z.jpeg", "profile_text_color": "AA642E", "default_profile": false, "profile_sidebar_fill_color": "1D130D", "profile_image_url": "http://pbs.twimg.com/profile_images/905548142153740289/DA08-vkx_normal.jpg", "created_at": "Sun Dec 15 20:06:45 +0000 2013", "statuses_count": 12832}, "retweet_count": 0, "in_reply_to_screen_name": null, "lang": "es", "in_reply_to_user_id_str": null, "in_reply_to_status_id_str": null, "favorited": false, "truncated": false, "retweeted": false, "created_at": "Fri Sep 08 23:19:16 +0000 2017", "entities": {"hashtags": [{"text": "1TipParaConquistar", "indices": [0, 19]}], "user_mentions": [], "symbols": [], "urls": []}}
+{
+  "timestamp_ms": "1504912756034",
+  "in_reply_to_status_id": null,
+  "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+  "place": {
+    "full_name": "San Pedro de La Paz, Chile",
+    "place_type": "city",
+    "attributes": {},
+    "country_code": "CL",
+    "url": "https://api.twitter.com/1.1/geo/id/001e10dc18ccf1a4.json",
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            -73.154859,
+            -36.972076
+          ],
+          [
+            -73.154859,
+            -36.825068
+          ],
+          [
+            -73.032339,
+            -36.825068
+          ],
+          [
+            -73.032339,
+            -36.972076
+          ]
+        ]
+      ]
+    },
+    "name": "San Pedro de La Paz",
+    "country": "Chile",
+    "id": "001e10dc18ccf1a4"
+  },
+  "coordinates": null,
+  "favorite_count": 0,
+  "id_str": "906295902742208512",
+  "geo": null,
+  "filter_level": "low",
+  "contributors": null,
+  "text": "#1TipParaConquistar Lavarse los dientes!!",
+  "is_quote_status": false,
+  "reply_count": 0,
+  "in_reply_to_user_id": null,
+  "id": 906295902742208512,
+  "quote_count": 0,
+  "user": {
+    "profile_background_color": "ACDED6",
+    "profile_sidebar_border_color": "000000",
+    "profile_link_color": "E81C4F",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/2227568883/1478477700",
+    "favourites_count": 27066,
+    "lang": "es",
+    "url": null,
+    "notifications": null,
+    "id_str": "2227568883",
+    "screen_name": "RiffoMario",
+    "name": "\ud83c\uddf2 \ud83c\udde6 \ud83c\uddf7 \ud83c\uddee \ud83c\uddf4",
+    "translator_type": "none",
+    "default_profile_image": false,
+    "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/434711225792856064/03rKqO-z.jpeg",
+    "profile_use_background_image": true,
+    "listed_count": 24,
+    "description": "Profe de  Educ. F\u00edsica UdeC - Magister en Direcci\u00f3n y Gesti\u00f3n Educacional - Amo a mi hija Catalina - Vialino, Zurdo y Chileno de coraz\u00f3n",
+    "location": "Concepci\u00f3n. Chile",
+    "follow_request_sent": null,
+    "time_zone": null,
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/905548142153740289/DA08-vkx_normal.jpg",
+    "protected": false,
+    "id": 2227568883,
+    "verified": false,
+    "profile_background_tile": true,
+    "utc_offset": null,
+    "following": null,
+    "followers_count": 4170,
+    "is_translator": false,
+    "friends_count": 4965,
+    "geo_enabled": true,
+    "contributors_enabled": false,
+    "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/434711225792856064/03rKqO-z.jpeg",
+    "profile_text_color": "AA642E",
+    "default_profile": false,
+    "profile_sidebar_fill_color": "1D130D",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/905548142153740289/DA08-vkx_normal.jpg",
+    "created_at": "Sun Dec 15 20:06:45 +0000 2013",
+    "statuses_count": 12832
+  },
+  "retweet_count": 0,
+  "in_reply_to_screen_name": null,
+  "lang": "es",
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_status_id_str": null,
+  "favorited": false,
+  "truncated": false,
+  "retweeted": false,
+  "created_at": "Fri Sep 08 23:19:16 +0000 2017",
+  "entities": {
+    "hashtags": [
+      {
+        "text": "1TipParaConquistar",
+        "indices": [
+          0,
+          19
+        ]
+      }
+    ],
+    "user_mentions": [],
+    "symbols": [],
+    "urls": []
+  }
+}

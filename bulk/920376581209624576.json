@@ -1,1 +1,143 @@
-{"created_at": "Tue Oct 17 19:50:51 +0000 2017", "id": 920376581209624576, "id_str": "920376581209624576", "text": "Learn to code this winter at @lighthouse_labs! Check out our student demo day on November 2nd! https://t.co/0NZYXMPBfe #toronto #tech", "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>", "truncated": false, "in_reply_to_status_id": null, "in_reply_to_status_id_str": null, "in_reply_to_user_id": null, "in_reply_to_user_id_str": null, "in_reply_to_screen_name": null, "user": {"id": 1683397802, "id_str": "1683397802", "name": "Lighthouse Labs", "screen_name": "lighthouse_labs", "location": "Vancouver, Toronto", "url": "http://www.lighthouselabs.ca", "description": "Lighthouse Labs will take you from coding hobbyist to professional developer and will launch you into your first developer role.", "translator_type": "regular", "protected": false, "verified": true, "followers_count": 6231, "friends_count": 828, "listed_count": 375, "favourites_count": 6767, "statuses_count": 8695, "created_at": "Mon Aug 19 14:24:24 +0000 2013", "utc_offset": -10800, "time_zone": "Atlantic Time (Canada)", "geo_enabled": true, "lang": "en", "contributors_enabled": false, "is_translator": false, "profile_background_color": "C0DEED", "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png", "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", "profile_background_tile": false, "profile_link_color": "1DA1F2", "profile_sidebar_border_color": "C0DEED", "profile_sidebar_fill_color": "DDEEF6", "profile_text_color": "333333", "profile_use_background_image": true, "profile_image_url": "http://pbs.twimg.com/profile_images/378800000328970347/40e96c650dad499b060a4f24ddc68c6e_normal.png", "profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000328970347/40e96c650dad499b060a4f24ddc68c6e_normal.png", "profile_banner_url": "https://pbs.twimg.com/profile_banners/1683397802/1461378364", "default_profile": true, "default_profile_image": false, "following": null, "follow_request_sent": null, "notifications": null}, "geo": null, "coordinates": null, "place": {"id": "3797791ff9c0e4c6", "url": "https://api.twitter.com/1.1/geo/id/3797791ff9c0e4c6.json", "place_type": "city", "name": "Toronto", "full_name": "Toronto, Ontario", "country_code": "CA", "country": "Canada", "bounding_box": {"type": "Polygon", "coordinates": [[[-79.639319, 43.403221], [-79.639319, 43.855401], [-78.90582, 43.855401], [-78.90582, 43.403221]]]}, "attributes": {}}, "contributors": null, "is_quote_status": false, "quote_count": 0, "reply_count": 0, "retweet_count": 0, "favorite_count": 0, "entities": {"hashtags": [{"text": "toronto", "indices": [119, 127]}, {"text": "tech", "indices": [128, 133]}], "urls": [{"url": "https://t.co/0NZYXMPBfe", "expanded_url": "http://bit.ly/2yqA7m4", "display_url": "bit.ly/2yqA7m4", "indices": [95, 118]}], "user_mentions": [{"screen_name": "lighthouse_labs", "name": "Lighthouse Labs", "id": 1683397802, "id_str": "1683397802", "indices": [29, 45]}], "symbols": []}, "favorited": false, "retweeted": false, "possibly_sensitive": false, "filter_level": "low", "lang": "en", "timestamp_ms": "1508269851387"}
+{
+  "created_at": "Tue Oct 17 19:50:51 +0000 2017",
+  "id": 920376581209624576,
+  "id_str": "920376581209624576",
+  "text": "Learn to code this winter at @lighthouse_labs! Check out our student demo day on November 2nd! https://t.co/0NZYXMPBfe #toronto #tech",
+  "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 1683397802,
+    "id_str": "1683397802",
+    "name": "Lighthouse Labs",
+    "screen_name": "lighthouse_labs",
+    "location": "Vancouver, Toronto",
+    "url": "http://www.lighthouselabs.ca",
+    "description": "Lighthouse Labs will take you from coding hobbyist to professional developer and will launch you into your first developer role.",
+    "translator_type": "regular",
+    "protected": false,
+    "verified": true,
+    "followers_count": 6231,
+    "friends_count": 828,
+    "listed_count": 375,
+    "favourites_count": 6767,
+    "statuses_count": 8695,
+    "created_at": "Mon Aug 19 14:24:24 +0000 2013",
+    "utc_offset": -10800,
+    "time_zone": "Atlantic Time (Canada)",
+    "geo_enabled": true,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "C0DEED",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": false,
+    "profile_link_color": "1DA1F2",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/378800000328970347/40e96c650dad499b060a4f24ddc68c6e_normal.png",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000328970347/40e96c650dad499b060a4f24ddc68c6e_normal.png",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1683397802/1461378364",
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": null,
+    "follow_request_sent": null,
+    "notifications": null
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": {
+    "id": "3797791ff9c0e4c6",
+    "url": "https://api.twitter.com/1.1/geo/id/3797791ff9c0e4c6.json",
+    "place_type": "city",
+    "name": "Toronto",
+    "full_name": "Toronto, Ontario",
+    "country_code": "CA",
+    "country": "Canada",
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            -79.639319,
+            43.403221
+          ],
+          [
+            -79.639319,
+            43.855401
+          ],
+          [
+            -78.90582,
+            43.855401
+          ],
+          [
+            -78.90582,
+            43.403221
+          ]
+        ]
+      ]
+    },
+    "attributes": {}
+  },
+  "contributors": null,
+  "is_quote_status": false,
+  "quote_count": 0,
+  "reply_count": 0,
+  "retweet_count": 0,
+  "favorite_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "toronto",
+        "indices": [
+          119,
+          127
+        ]
+      },
+      {
+        "text": "tech",
+        "indices": [
+          128,
+          133
+        ]
+      }
+    ],
+    "urls": [
+      {
+        "url": "https://t.co/0NZYXMPBfe",
+        "expanded_url": "http://bit.ly/2yqA7m4",
+        "display_url": "bit.ly/2yqA7m4",
+        "indices": [
+          95,
+          118
+        ]
+      }
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "lighthouse_labs",
+        "name": "Lighthouse Labs",
+        "id": 1683397802,
+        "id_str": "1683397802",
+        "indices": [
+          29,
+          45
+        ]
+      }
+    ],
+    "symbols": []
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false,
+  "filter_level": "low",
+  "lang": "en",
+  "timestamp_ms": "1508269851387"
+}
