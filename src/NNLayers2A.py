@@ -12,6 +12,8 @@ class TextCNN(object):
             embedding_size, filter_sizes, num_filters, l2_reg_lambda=0.0):
         # Placeholders for input, output and dropout
         input_features, input_labels = self.create_input_layer(num_classes, sequence_length)
+        dropout_keep_prob = tf.placeholder(tf.float32, name="dropout_keep_prob")
+        l2_loss = tf.constant(0.0)
 
         self.input_x = input_features
         self.input_y = input_labels
@@ -23,9 +25,11 @@ class TextCNN(object):
                                                                                 num_filters,
                                                                                 vocab_size)
 
-        dropout_layer_output = self.create_dropout_layer(convolution_layer_output)
+        dropout_layer_output = self.create_dropout_layer(convolution_layer_output,
+                                                         dropout_prob=dropout_keep_prob)
 
-        scores, predictions, l2_loss = self.create_output_layer(dropout_layer_output, output_channels, num_classes)
+        scores, predictions, l2_loss = self.create_output_layer(dropout_layer_output, output_channels, num_classes,
+                                                                l2_loss=l2_loss)
 
         self.loss = self.get_loss(self.input_y, l2_loss, l2_reg_lambda, scores)
         self.accuracy = self.get_accuracy(self.input_y, predictions)
