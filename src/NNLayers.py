@@ -21,9 +21,11 @@ from random import random
 
 import numpy as np
 import tensorflow as tf
+from gensim.models import KeyedVectors
 
 from libs.db_tweet import DB_Handler
 from libs.tweet_parser import TweetParser
+from tokenizer.word_tokenizer import WordTokenizer
 
 tf.logging.set_verbosity(tf.logging.INFO)
 
@@ -31,6 +33,35 @@ ROWS = 70
 COLUMNS = 300
 TRAIN_STEPS = 20000
 
+lookup = {"love": 1,
+          "pride": 1,
+          "optimism": 1,
+          "delight": 1,
+
+          "anxiety": 2,
+          "alarm": 2,
+          "outrage": 2,
+          "envy": 2,
+          "contempt": 2,
+          "cynism": 2,
+          "aggression": 2,
+
+          "guilt": 3,
+          "sentimentality": 3,
+          "despair": 3,
+          "shame": 3,
+          "disappointment": 3,
+          "remorse": 3,
+          "pessimism": 3,
+          "fatalism": 3,
+
+          "dominance": 0,
+          "morbidness": 0,
+          "curiosity": 0,
+          "submission": 0,
+          "none": 0}
+
+OUTPUT_LABELS = 4
 
 def cnn_model_creation(features, labels, mode):
     """Model function for CNN."""
@@ -41,21 +72,21 @@ def cnn_model_creation(features, labels, mode):
 
     conv = get_convolutional_layer(input_layer, output_width, padding)
 
-    flatten = tf.reshape(conv, [-1, 3 * 4 * 16])
+    flatten = tf.reshape(conv, [-1, output_width * 4 * 16])
 
-    dense = tf.layers.dense(inputs=flatten, units=100, activation=tf.nn.relu)
+    dense = tf.layers.dense(inputs=flatten, units=100, activation=tf.nn.tanh)
 
     dropout = tf.layers.dropout(
             inputs=dense, rate=0.5, training=mode == tf.estimator.ModeKeys.TRAIN)
 
-    logits = tf.layers.dense(inputs=dropout, units=10)
+    logits = tf.layers.dense(inputs=dropout, units=OUTPUT_LABELS)
 
     predictions = {
         # Generate predictions (for PREDICT and EVAL mode)
         "classes": tf.argmax(input=logits, axis=1),
         # Add `softmax_tensor` to the graph. It is used for PREDICT and by the
         # `logging_hook`.
-        "probabilities": tf.nn.sigmoid(logits, name="softmax_tensor")
+        "probabilities": tf.nn.softmax(logits, name="softmax_tensor")
     }
 
     print(logits)
@@ -64,12 +95,11 @@ def cnn_model_creation(features, labels, mode):
         return tf.estimator.EstimatorSpec(mode=mode, predictions=predictions)
 
     # Calculate Loss (for both TRAIN and EVAL modes)
-    # onehot_labels = tf.one_hot(indices=tf.cast(labels, tf.int32), depth=10)
+    onehot_labels = tf.one_hot(indices=tf.cast(labels, tf.int32), depth=OUTPUT_LABELS)
     print(logits)
     print(labels)
-    loss = tf.losses.absolute_difference(labels, logits)
-    # .softmax_cross_entropy(
-    #       onehot_labels=labels, logits=logits)
+
+    loss = tf.losses.softmax_cross_entropy(onehot_labels=onehot_labels, logits=logits)
 
     # Configure the Training Op (for TRAIN mode)
     if mode == tf.estimator.ModeKeys.TRAIN:
@@ -81,8 +111,7 @@ def cnn_model_creation(features, labels, mode):
 
     # Add evaluation metrics (for EVAL mode)
     eval_metric_ops = {
-        "accuracy": tf.metrics.accuracy(
-                labels=tf.argmax(labels, 1), predictions=tf.argmax(logits, 1))}
+        "accuracy": tf.metrics.accuracy(labels=labels, predictions=predictions["classes"])}
     return tf.estimator.EstimatorSpec(
             mode=mode, loss=loss, eval_metric_ops=eval_metric_ops)
 
@@ -155,8 +184,8 @@ def train_model(model, train_data, train_labels):
     train_input_fn = tf.estimator.inputs.numpy_input_fn(
             x={"x": train_data},
             y=train_labels,
-            batch_size=1,
-            num_epochs=2500,
+            batch_size=50,
+            num_epochs=25,
             shuffle=True)
     model.train(
             input_fn=train_input_fn,
@@ -164,12 +193,16 @@ def train_model(model, train_data, train_labels):
 
 
 def get_input_data():
-    # word_vectors = KeyedVectors.load('./mymodel.mdl')
+    word_vectors = KeyedVectors.load('./mymodel.mdl')
     missing = []
+    data = []
     with DB_Handler() as handler:
         tagged_tweets = handler.get_all_tagged()
 
         for tweet_data in tagged_tweets:
+            if tweet_data.get_tweet_sentiment() == "-":
+                continue
+
             try:
                 tweet = TweetParser.parse_from_json_file("../bulk/{}.json".format(tweet_data.id))
             except IOError:
@@ -179,29 +212,37 @@ def get_input_data():
                     missing.append(tweet_data.id)
                     continue
 
-            print("[", tweet_data.get_tweet_sentiment(), "] ", tweet[TweetParser.TWEET_TEXT])
-            print("( https://magus-catalog.herokuapp.com/classify/{} )".format(tweet_data.id))
+            data.append((tweet, tweet_data.get_tweet_sentiment()))
 
-    for missi in missing:
-        print(missi)
-    input()
+            # print("[", tweet_data.get_tweet_sentiment(), "] ", tweet[TweetParser.TWEET_TEXT])
+            # print("( https://magus-catalog.herokuapp.com/classify/{} )".format(tweet_data.id))
 
-    words = ["macri", "gato", "cris", "externocleidomastoideo"]
-    vectors = []
-    for word in words:
-        vectors.append(get_word_vector(word, word_vectors))
+    features = []
+    labels = []
 
-    while len(vectors) < ROWS:
-        vectors.append(np.asarray([0] * COLUMNS))
+    for tweet, tag in data:
+        tweet_vectors = []
+        tokens = WordTokenizer.tokenize_raw(tweet)
 
-    vectors = np.append([], vectors)
+        for word in tokens:
+            tweet_vectors.append(get_word_vector(word, word_vectors))
 
-    print(len(vectors))
+        while len(tweet_vectors) < ROWS:
+            tweet_vectors.append(np.asarray([0] * COLUMNS))
 
-    train_data = np.asarray([vectors, vectors, vectors], dtype=np.float32)
-    train_data = np.asarray([[0] * (ROWS * COLUMNS), [1] * (ROWS * COLUMNS), [2] * (ROWS * COLUMNS)], dtype=np.float32)
+        tweet_vector = np.append([], tweet_vectors)
 
-    train_labels = np.asarray([[1 / 10] * 10] + [[2 / 10] * 10] + [[3 / 10] * 10], dtype=np.int32)
+        features.append(tweet_vector)
+        labels.append(lookup.get(tag, 0))
+
+    # print(len(tweet_vectors))
+
+    train_data = np.asarray(features, dtype=np.float32)
+    train_labels = np.asarray(labels, dtype=np.int32)
+
+    print(train_data)
+    print(train_labels)
+
     eval_data = np.asarray([[1] * (ROWS * COLUMNS), [2] * (ROWS * COLUMNS)], dtype=np.float32)
     eval_labels = np.asarray([1, 4], dtype=np.int32)
     return eval_data, eval_labels, train_data, train_labels
