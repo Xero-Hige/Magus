@@ -1,6 +1,7 @@
 import re
 
 import numpy as np
+import tensorflow
 
 
 def clean_str(string):
@@ -30,24 +31,31 @@ def load_data_and_labels(positive_data_file, negative_data_file):
     Returns split sentences and labels.
     """
     # Load data from files
-    positive_examples = list(open(positive_data_file, "r").readlines())
-    positive_examples = [s.strip() for s in positive_examples]
-    negative_examples = list(open(negative_data_file, "r").readlines())
-    negative_examples = [s.strip() for s in negative_examples]
+    # positive_examples = list(open(positive_data_file, "r").readlines())
+    positive_examples = [tensorflow.reshape([1] * (300 * 70), [-1, 300, 70, 1]) for _ in range(20)]
+
+    # negative_examples = list(open(negative_data_file, "r").readlines())
+    negative_examples = [tensorflow.reshape([0] * (300 * 70), [-1, 300, 70, 1]) for _ in range(20)]
+
     # Split by words
-    x_text = positive_examples + negative_examples
-    x_text = [clean_str(sent) for sent in x_text]
+    # x_text = positive_examples + negative_examples
+    # x_text = [clean_str(sent) for sent in x_text]
+
     # Generate labels
-    positive_labels = [[0, 1] for _ in positive_examples]
-    negative_labels = [[1, 0] for _ in negative_examples]
+    positive_labels = [[0, 1] for _ in range(20)]
+    negative_labels = [[1, 0] for _ in range(20)]
+
+    x = np.concatenate([positive_examples, negative_examples], 0)
     y = np.concatenate([positive_labels, negative_labels], 0)
-    return [x_text, y]
+
+    return [x, y]
 
 
 def batch_iter(data, batch_size, num_epochs, shuffle=True):
     """
     Generates a batch iterator for a dataset.
     """
+    print("--->", data)
     data = np.array(data)
     data_size = len(data)
     num_batches_per_epoch = int((len(data) - 1) / batch_size) + 1
