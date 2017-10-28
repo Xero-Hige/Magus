@@ -11,48 +11,65 @@ class TextCNN(object):
             self, sequence_length, num_classes, vocab_size,
             embedding_size, filter_sizes, num_filters, l2_reg_lambda=0.0):
         # Placeholders for input, output and dropout
-        self.create_input_layer(num_classes, sequence_length)
+        input_features, input_labels = self.create_input_layer(num_classes, sequence_length)
 
-        self.dropout_keep_prob = tf.placeholder(tf.float32, name="dropout_keep_prob")
+        # TODO: Check
+        convolution_layer_output, output_channels = self.create_conv_pool_layer(input_features,
+                                                                                embedding_size,
+                                                                                filter_sizes,
+                                                                                num_filters,
+                                                                                sequence_length)
 
-        # Keeping track of l2 regularization loss (optional)
-        l2_loss = tf.constant(0.0)
+        dropout_layer_output = self.create_dropout_layer(convolution_layer_output)
 
-        pooled_outputs = self.create_conv_pool_layer(self.input_x,
-                                                     embedding_size,
-                                                     filter_sizes,
-                                                     num_filters,
-                                                     sequence_length)  # Combine all the pooled features
+        scores, predictions, l2_loss = self.create_output_layer(dropout_layer_output, output_channels, num_classes)
 
-        num_filters_total = num_filters * len(filter_sizes)
-        self.h_pool = tf.concat(pooled_outputs, 3)
-        self.h_pool_flat = tf.reshape(self.h_pool, [-1, num_filters_total])
+        loss = self.get_loss(input_labels, l2_loss, l2_reg_lambda, scores)
 
-        # Add dropout
-        with tf.name_scope("dropout"):
-            self.h_drop = tf.nn.dropout(self.h_pool_flat, self.dropout_keep_prob)
+        acuracy = self.get_accuracy(input_labels, predictions)
 
-        # Final (unnormalized) scores and predictions
-        with tf.name_scope("output"):
-            W = tf.get_variable(
-                    "W",
-                    shape=[num_filters_total, num_classes],
-                    initializer=tf.contrib.layers.xavier_initializer())
-            b = tf.Variable(tf.constant(0.1, shape=[num_classes]), name="b")
-            l2_loss += tf.nn.l2_loss(W)
-            l2_loss += tf.nn.l2_loss(b)
-            self.scores = tf.nn.xw_plus_b(self.h_drop, W, b, name="scores")
-            self.predictions = tf.argmax(self.scores, 1, name="predictions")
-
-        # Calculate mean cross-entropy loss
-        with tf.name_scope("loss"):
-            losses = tf.nn.softmax_cross_entropy_with_logits(logits=self.scores, labels=self.input_y)
-            self.loss = tf.reduce_mean(losses) + l2_reg_lambda * l2_loss
-
+    @staticmethod
+    def get_accuracy(input_labels, predictions):
         # Accuracy
         with tf.name_scope("accuracy"):
-            correct_predictions = tf.equal(self.predictions, tf.argmax(self.input_y, 1))
-            self.accuracy = tf.reduce_mean(tf.cast(correct_predictions, "float"), name="accuracy")
+            correct_predictions = tf.equal(predictions, tf.argmax(input_labels, 1))
+            return tf.reduce_mean(tf.cast(correct_predictions, "float"), name="accuracy")
+
+    @staticmethod
+    def get_loss(input_labels, l2_loss, l2_reg_lambda, scores):
+        # Calculate mean cross-entropy loss
+        with tf.name_scope("loss"):
+            losses = tf.nn.softmax_cross_entropy_with_logits(logits=scores, labels=input_labels)
+            return tf.reduce_mean(losses) + l2_reg_lambda * l2_loss
+
+    def create_output_layer(self, input_layer, input_size, num_classes,
+                            l2_loss=tf.constant(0.0),
+                            bias=0.1):
+        # Final (unnormalized) scores and predictions
+
+        with tf.name_scope("output-layer"):
+            W = tf.get_variable(
+                    name="W",
+                    shape=[input_size, num_classes],
+                    initializer=tf.contrib.layers.xavier_initializer())
+
+            b = tf.Variable(tf.constant(bias, shape=[num_classes]), name="b")
+
+            l2_loss += tf.nn.l2_loss(W)
+            l2_loss += tf.nn.l2_loss(b)
+
+            scores = tf.nn.xw_plus_b(input_layer, W, b, name="scores")
+            predictions = tf.argmax(scores, 1, name="predictions")
+
+        return scores, predictions, l2_loss
+
+    @staticmethod
+    def create_dropout_layer(input_layer,
+                             dropout_prob=tf.placeholder(tf.float32, name="dropout_keep_prob-X"),
+                             layer_number=0):
+        # Add dropout
+        with tf.name_scope("dropout-{}".format(layer_number)):
+            return tf.nn.dropout(input_layer, dropout_prob)
 
     @staticmethod
     def create_conv_pool_layer(input_layer, embedding_size, filter_sizes, num_filters, sequence_length,
@@ -67,7 +84,9 @@ class TextCNN(object):
                 max_pooling_layer = TextCNN.create_max_pooling(convolution_layer, filter_size, sequence_length)
                 layer_outputs.append(max_pooling_layer)
 
-        return layer_outputs
+        num_filters_total = num_filters * len(filter_sizes)
+
+        return tf.reshape(tf.concat(layer_outputs, 3), [-1, num_filters_total]), num_filters_total
 
     @staticmethod
     def create_max_pooling(input_layer, filter_height, sequence_length,
