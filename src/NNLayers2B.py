@@ -10,8 +10,10 @@ from tensorflow.contrib import learn
 
 # Parameters
 # ==================================================
-
 # Data loading params
+from NNLayers2A import TextCNN
+from NNLayers2C import batch_iter, load_data_and_labels
+
 tf.flags.DEFINE_float("dev_sample_percentage", .1, "Percentage of the training data to use for validation")
 tf.flags.DEFINE_string("positive_data_file", "./data/rt-polaritydata/rt-polarity.pos",
                        "Data source for the positive data.")
@@ -75,7 +77,9 @@ with tf.Graph().as_default():
     session_conf = tf.ConfigProto(
             allow_soft_placement=FLAGS.allow_soft_placement,
             log_device_placement=FLAGS.log_device_placement)
+
     sess = tf.Session(config=session_conf)
+
     with sess.as_default():
         cnn = TextCNN(
                 sequence_length=x_train.shape[1],
