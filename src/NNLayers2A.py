@@ -13,8 +13,11 @@ class TextCNN(object):
         # Placeholders for input, output and dropout
         input_features, input_labels = self.create_input_layer(num_classes, sequence_length)
 
+        self.input_x = input_features
+        self.input_y = input_labels
+
         # TODO: Check
-        convolution_layer_output, output_channels = self.create_conv_pool_layer(input_features,
+        convolution_layer_output, output_channels = self.create_conv_pool_layer(self.input_x,
                                                                                 embedding_size,
                                                                                 filter_sizes,
                                                                                 num_filters,
@@ -24,9 +27,8 @@ class TextCNN(object):
 
         scores, predictions, l2_loss = self.create_output_layer(dropout_layer_output, output_channels, num_classes)
 
-        loss = self.get_loss(input_labels, l2_loss, l2_reg_lambda, scores)
-
-        acuracy = self.get_accuracy(input_labels, predictions)
+        self.loss = self.get_loss(self.input_y, l2_loss, l2_reg_lambda, scores)
+        self.accuracy = self.get_accuracy(self.input_y, predictions)
 
     @staticmethod
     def get_accuracy(input_labels, predictions):
@@ -42,7 +44,8 @@ class TextCNN(object):
             losses = tf.nn.softmax_cross_entropy_with_logits(logits=scores, labels=input_labels)
             return tf.reduce_mean(losses) + l2_reg_lambda * l2_loss
 
-    def create_output_layer(self, input_layer, input_size, num_classes,
+    @staticmethod
+    def create_output_layer(input_layer, input_size, num_classes,
                             l2_loss=tf.constant(0.0),
                             bias=0.1):
         # Final (unnormalized) scores and predictions
@@ -126,6 +129,9 @@ class TextCNN(object):
         filter_layers = activation(tf.nn.bias_add(convolution_layer, filters_bias), name="activation")
         return filter_layers
 
-    def create_input_layer(self, num_classes, sequence_length):
-        self.input_x = tf.placeholder(tf.int32, [None, sequence_length], name="input_x")
-        self.input_y = tf.placeholder(tf.float32, [None, num_classes], name="input_y")
+    @staticmethod
+    def create_input_layer(num_classes, sequence_length):
+        input_x = tf.placeholder(tf.int32, [None, sequence_length], name="input_x")
+        input_y = tf.placeholder(tf.float32, [None, num_classes], name="input_y")
+
+        return input_x, input_y
