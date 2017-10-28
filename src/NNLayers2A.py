@@ -21,7 +21,7 @@ class TextCNN(object):
                                                                                 embedding_size,
                                                                                 filter_sizes,
                                                                                 num_filters,
-                                                                                sequence_length)
+                                                                                vocab_size)
 
         dropout_layer_output = self.create_dropout_layer(convolution_layer_output)
 
@@ -75,16 +75,16 @@ class TextCNN(object):
             return tf.nn.dropout(input_layer, dropout_prob)
 
     @staticmethod
-    def create_conv_pool_layer(input_layer, embedding_size, filter_sizes, num_filters, sequence_length,
+    def create_conv_pool_layer(input_layer, embedding_size, filter_sizes, num_filters, sequence_height,
                                layer_number=0):
         """Creates a convolution plus a maxpool layer for each filter size"""
 
         layer_outputs = []
 
-        for i, filter_size in enumerate(filter_sizes):
-            with tf.name_scope("conv-maxpool-{}-{}".format(layer_number, filter_size)):
-                convolution_layer = TextCNN.create_filter(input_layer, filter_size, embedding_size, num_filters)
-                max_pooling_layer = TextCNN.create_max_pooling(convolution_layer, filter_size, sequence_length)
+        for i, filter_height in enumerate(filter_sizes):
+            with tf.name_scope("conv-maxpool-{}-{}".format(layer_number, filter_height)):
+                convolution_layer = TextCNN.create_filter(input_layer, filter_height, embedding_size, num_filters)
+                max_pooling_layer = TextCNN.create_max_pooling(convolution_layer, filter_height, sequence_height)
                 layer_outputs.append(max_pooling_layer)
 
         num_filters_total = num_filters * len(filter_sizes)
@@ -96,6 +96,12 @@ class TextCNN(object):
                            strides=(1, 1, 1, 1),
                            padding="VALID"):
         # Maxpooling over the outputs
+
+        print(input_layer)
+        print(sequence_length)
+        print(filter_height)
+        print()
+
         pooled = tf.nn.max_pool(
                 input_layer,
                 ksize=[1, sequence_length - filter_height + 1, 1, 1],
@@ -107,7 +113,7 @@ class TextCNN(object):
     @staticmethod
     def create_filter(input_layer, filter_height, filter_width,
                       number_of_filters=32,
-                      strides=(1, 1, 1, 1),
+                      strides=(1, 1, 12, 1),
                       padding="VALID",
                       bias=0.1,
                       stddev=0.1,
@@ -131,7 +137,9 @@ class TextCNN(object):
 
     @staticmethod
     def create_input_layer(num_classes, sequence_length):
-        input_x = tf.placeholder(tf.int32, [None, sequence_length], name="input_x")
-        input_y = tf.placeholder(tf.float32, [None, num_classes], name="input_y")
+        # shape of input = [batch, in_height, in_width, in_channels]
+
+        input_x = tf.placeholder(tf.float32, [1, 70, 300, 1], name="input_x")
+        input_y = tf.placeholder(tf.int32, [None, num_classes], name="input_y")
 
         return input_x, input_y
