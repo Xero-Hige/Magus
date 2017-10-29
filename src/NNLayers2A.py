@@ -12,7 +12,7 @@ class TextCNN(object):
             embedding_size, filter_sizes, num_filters, l2_reg_lambda=0.0):
         # Placeholders for input, output and dropout
         input_features, input_labels = self.create_input_layer(num_classes, sequence_length)
-        dropout_keep_prob = tf.placeholder(tf.float32, name="dropout_keep_prob")
+        self.dropout_keep_prob = tf.placeholder(tf.float32, name="dropout_keep_prob")
         l2_loss = tf.constant(0.0)
 
         self.input_x = input_features
@@ -26,7 +26,7 @@ class TextCNN(object):
                                                                                 vocab_size)
 
         dropout_layer_output = self.create_dropout_layer(convolution_layer_output,
-                                                         dropout_prob=dropout_keep_prob)
+                                                         dropout_prob=self.dropout_keep_prob)
 
         scores, predictions, l2_loss = self.create_output_layer(dropout_layer_output, output_channels, num_classes,
                                                                 l2_loss=l2_loss)
@@ -99,13 +99,8 @@ class TextCNN(object):
     def create_max_pooling(input_layer, filter_height, sequence_length,
                            strides=(1, 1, 1, 1),
                            padding="VALID"):
+
         # Maxpooling over the outputs
-
-        print(input_layer)
-        print(sequence_length)
-        print(filter_height)
-        print()
-
         pooled = tf.nn.max_pool(
                 input_layer,
                 ksize=[1, sequence_length - filter_height + 1, 1, 1],
@@ -143,7 +138,7 @@ class TextCNN(object):
     def create_input_layer(num_classes, sequence_length):
         # shape of input = [batch, in_height, in_width, in_channels]
 
-        input_x = tf.placeholder(tf.float32, [1, 70, 300, 1], name="input_x")
+        input_x = tf.placeholder(tf.float32, [None, 70, 300, 1], name="input_x")
         input_y = tf.placeholder(tf.int32, [None, num_classes], name="input_y")
 
         return input_x, input_y

@@ -132,7 +132,7 @@ with tf.Graph().as_default():
         saver = tf.train.Saver(tf.global_variables(), max_to_keep=FLAGS.num_checkpoints)
 
         # Write vocabulary
-        #vocab_processor.save(os.path.join(out_dir, "vocab"))
+        # vocab_processor.save(os.path.join(out_dir, "vocab"))
 
         # Initialize all variables
         sess.run(tf.global_variables_initializer())
@@ -142,8 +142,9 @@ with tf.Graph().as_default():
             """
             A single training step
             """
+
             feed_dict = {
-                cnn.input_x: x_batch,
+                cnn.input_x: x_batch,  # [ [[[1]]*300]*70 ],#x_batch,
                 cnn.input_y: y_batch,
                 cnn.dropout_keep_prob: FLAGS.dropout_keep_prob
             }
@@ -174,11 +175,12 @@ with tf.Graph().as_default():
 
 
         # Generate batches
-        batches = batch_iter(
-                list(zip(x_train, y_train)), FLAGS.batch_size, FLAGS.num_epochs)
+        batches = batch_iter(x_train, y_train, FLAGS.batch_size, FLAGS.num_epochs)
         # Training loop. For each batch...
         for batch in batches:
-            x_batch, y_batch = zip(*batch)
+
+            x_batch, y_batch = batch
+
             train_step(x_batch, y_batch)
             current_step = tf.train.global_step(sess, global_step)
             if current_step % FLAGS.evaluate_every == 0:

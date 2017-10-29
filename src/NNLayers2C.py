@@ -33,9 +33,11 @@ def load_data_and_labels(positive_data_file, negative_data_file):
     # Load data from files
     # positive_examples = list(open(positive_data_file, "r").readlines())
     positive_examples = [tensorflow.reshape([1] * (300 * 70), [-1, 300, 70, 1]) for _ in range(20)]
+    positive_examples = [[[[0]] * 300] * 70 for _ in range(20)]
 
     # negative_examples = list(open(negative_data_file, "r").readlines())
     negative_examples = [tensorflow.reshape([0] * (300 * 70), [-1, 300, 70, 1]) for _ in range(20)]
+    negative_examples = [[[[0]] * 300] * 70 for _ in range(20)]
 
     # Split by words
     # x_text = positive_examples + negative_examples
@@ -51,22 +53,33 @@ def load_data_and_labels(positive_data_file, negative_data_file):
     return [x, y]
 
 
-def batch_iter(data, batch_size, num_epochs, shuffle=True):
+def batch_iter(x, y, batch_size, num_epochs, shuffle=True):
     """
     Generates a batch iterator for a dataset.
     """
-    print("--->", data)
-    data = np.array(data)
-    data_size = len(data)
-    num_batches_per_epoch = int((len(data) - 1) / batch_size) + 1
+
+    data_size = len(x)
+
+    data = np.array(list(zip(x, y)))
+
+    num_batches_per_epoch = int((len(x) - 1) / batch_size) + 1
     for epoch in range(num_epochs):
+
         # Shuffle the data at each epoch
         if shuffle:
             shuffle_indices = np.random.permutation(np.arange(data_size))
             shuffled_data = data[shuffle_indices]
         else:
             shuffled_data = data
+
         for batch_num in range(num_batches_per_epoch):
             start_index = batch_num * batch_size
             end_index = min((batch_num + 1) * batch_size, data_size)
-            yield shuffled_data[start_index:end_index]
+
+            x_list = []
+            y_list = []
+            for i in range(start_index, end_index):
+                x_list.append(shuffled_data[i][0])
+                y_list.append(shuffled_data[i][1])
+
+            yield x_list, y_list
