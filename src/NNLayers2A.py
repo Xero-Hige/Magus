@@ -138,7 +138,7 @@ class TextCNN(object):
     def create_input_layer(num_classes, sequence_length):
         # shape of input = [batch, in_height, in_width, in_channels]
 
-        input_x = tf.placeholder(tf.float32, [None, 70, 300, 1], name="input_x")
+        input_x = tf.placeholder(tf.float32, [None, None, 300, 1], name="input_x")
         input_y = tf.placeholder(tf.int32, [None, num_classes], name="input_y")
 
         return input_x, input_y

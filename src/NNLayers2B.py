@@ -11,7 +11,7 @@ import tensorflow as tf
 # ==================================================
 # Data loading params
 from NNLayers2A import TextCNN
-from NNLayers2C import batch_iter, load_data_and_labels
+from NNLayers2C import batch_iter, get_input_data
 
 tf.flags.DEFINE_float("dev_sample_percentage", .1, "Percentage of the training data to use for validation")
 tf.flags.DEFINE_string("positive_data_file", "../data/rt-polaritydata/rt-polarity.pos",
@@ -48,7 +48,7 @@ print("")
 
 # Load data
 print("Loading data...")
-x_text, y = load_data_and_labels(FLAGS.positive_data_file, FLAGS.negative_data_file)
+x_text, y = get_input_data()  # load_data_and_labels(FLAGS.positive_data_file, FLAGS.negative_data_file)
 
 # Build vocabulary
 max_document_length = 300  # max([len(x.split(" ")) for x in x_text])
@@ -81,8 +81,8 @@ with tf.Graph().as_default():
 
     with sess.as_default():
         cnn = TextCNN(
-                sequence_length=300,  # x_train.shape[1],
-                num_classes=2,  # y_train.shape[1],
+                sequence_length=x_train.shape[1],
+                num_classes=y_train.shape[1],
                 vocab_size=70,
                 embedding_size=FLAGS.embedding_dim,
                 filter_sizes=list(map(int, FLAGS.filter_sizes.split(","))),

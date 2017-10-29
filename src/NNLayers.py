@@ -63,6 +63,7 @@ lookup = {"love": 1,
 
 OUTPUT_LABELS = 4
 
+
 def cnn_model_creation(features, labels, mode):
     """Model function for CNN."""
     input_layer = tf.reshape(features["x"], [-1, COLUMNS, ROWS, 1])
@@ -250,9 +251,9 @@ def get_input_data():
 
 def get_word_vector(word, word_vectors):
     if word in word_vectors:
-        word_vector = word_vectors[word]
+        word_vector = [[x] for x in word_vectors[word]]
     else:
-        word_vector = np.asarray([0] * COLUMNS)
+        word_vector = np.asarray([[0]] * COLUMNS)
     return word_vector
 
 
