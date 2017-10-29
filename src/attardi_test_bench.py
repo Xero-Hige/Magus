@@ -10,14 +10,9 @@ import tensorflow as tf
 # Parameters
 # ==================================================
 # Data loading params
-from NNLayers2A import TextCNN
-from NNLayers2C import batch_iter, get_input_data
+from attardi_network import AttardiCNN
 
 tf.flags.DEFINE_float("dev_sample_percentage", .1, "Percentage of the training data to use for validation")
-tf.flags.DEFINE_string("positive_data_file", "../data/rt-polaritydata/rt-polarity.pos",
-                       "Data source for the positive data.")
-tf.flags.DEFINE_string("negative_data_file", "../data/rt-polaritydata/rt-polarity.neg",
-                       "Data source for the negative data.")
 
 # Model Hyperparameters
 tf.flags.DEFINE_integer("embedding_dim", 300, "Dimensionality of character embedding (default: 128)")
@@ -29,9 +24,10 @@ tf.flags.DEFINE_float("l2_reg_lambda", 0.0, "L2 regularization lambda (default: 
 # Training parameters
 tf.flags.DEFINE_integer("batch_size", 64, "Batch Size (default: 64)")
 tf.flags.DEFINE_integer("num_epochs", 200, "Number of training epochs (default: 200)")
-tf.flags.DEFINE_integer("evaluate_every", 100, "Evaluate model on dev set after this many steps (default: 100)")
-tf.flags.DEFINE_integer("checkpoint_every", 100, "Save model after this many steps (default: 100)")
+tf.flags.DEFINE_integer("evaluate_every", 200, "Evaluate model on dev set after this many steps (default: 100)")
+tf.flags.DEFINE_integer("checkpoint_every", 1000, "Save model after this many steps (default: 100)")
 tf.flags.DEFINE_integer("num_checkpoints", 5, "Number of checkpoints to store (default: 5)")
+
 # Misc Parameters
 tf.flags.DEFINE_boolean("allow_soft_placement", True, "Allow device soft device placement")
 tf.flags.DEFINE_boolean("log_device_placement", False, "Log placement of ops on devices")
@@ -48,7 +44,7 @@ print("")
 
 # Load data
 print("Loading data...")
-x_text, y = get_input_data()  # load_data_and_labels(FLAGS.positive_data_file, FLAGS.negative_data_file)
+x_text, y = AttardiCNN.get_input_data()  # load_data_and_labels(FLAGS.positive_data_file, FLAGS.negative_data_file)
 
 # Build vocabulary
 max_document_length = 300  # max([len(x.split(" ")) for x in x_text])
@@ -64,10 +60,42 @@ y_shuffled = y[shuffle_indices]
 # Split train/test set
 # TODO: This is very crude, should use cross-validation
 dev_sample_index = -1 * int(FLAGS.dev_sample_percentage * float(len(y)))
-x_train, x_dev = x_shuffled[:dev_sample_index], x_shuffled[dev_sample_index:]
-y_train, y_dev = y_shuffled[:dev_sample_index], y_shuffled[dev_sample_index:]
+x_train, x_dev = x_shuffled, x_shuffled  # x_shuffled[:dev_sample_index], x_shuffled[dev_sample_index:]
+y_train, y_dev = y_shuffled, y_shuffled  # y_shuffled[:dev_sample_index], y_shuffled[dev_sample_index:]
 print("Vocabulary Size: {:d}".format(70))
 print("Train/Dev split: {:d}/{:d}".format(len(x_train), len(x_dev)))
+
+
+def batch_iter(x, y, batch_size, num_epochs, shuffle=True):
+    """
+    Generates a batch iterator for a dataset.
+    """
+
+    data_size = len(x)
+
+    data = np.array(list(zip(x, y)))
+
+    num_batches_per_epoch = int((len(x) - 1) / batch_size) + 1
+    for epoch in range(num_epochs):
+
+        # Shuffle the data at each epoch
+        if shuffle:
+            shuffle_indices = np.random.permutation(np.arange(data_size))
+            shuffled_data = data[shuffle_indices]
+        else:
+            shuffled_data = data
+
+        for batch_num in range(num_batches_per_epoch):
+            start_index = batch_num * batch_size
+            end_index = min((batch_num + 1) * batch_size, data_size)
+
+            x_list = []
+            y_list = []
+            for i in range(start_index, end_index):
+                x_list.append(shuffled_data[i][0])
+                y_list.append(shuffled_data[i][1])
+
+            yield x_list, y_list
 
 # Training
 # ==================================================
@@ -80,7 +108,7 @@ with tf.Graph().as_default():
     sess = tf.Session(config=session_conf)
 
     with sess.as_default():
-        cnn = TextCNN(
+        cnn = AttardiCNN(
                 sequence_length=x_train.shape[1],
                 num_classes=y_train.shape[1],
                 vocab_size=70,
@@ -144,7 +172,7 @@ with tf.Graph().as_default():
             """
 
             feed_dict = {
-                cnn.input_x: x_batch,  # [ [[[1]]*300]*70 ],#x_batch,
+                cnn.input_x: x_batch,
                 cnn.input_y: y_batch,
                 cnn.dropout_keep_prob: FLAGS.dropout_keep_prob
             }
