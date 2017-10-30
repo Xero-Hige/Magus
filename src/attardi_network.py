@@ -3,7 +3,7 @@ import tensorflow as tf
 from gensim.models import KeyedVectors
 
 from NNLayers import get_word_vector
-from cnn_network import CNNetwork
+from cnn_network import CNNSchema
 from libs.db_tweet import DB_Handler
 from libs.sentiments_handling import ANGER, ANGRY, ANTICIPATION, DISGUST, FEAR, HAPPY, JOY, NONE, SAD, SADNESS, \
     SURPRISE, TRUST
@@ -30,7 +30,7 @@ GROUP_LOOKUP = {
 }
 
 
-class AttardiCNN(CNNetwork):
+class AttardiCNNSchema(CNNSchema):
     """
     A CNN for text classification.
     Uses an embedding layer, followed by a convolutional, max-pooling and softmax layer.
