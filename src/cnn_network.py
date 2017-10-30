@@ -1,7 +1,7 @@
 import tensorflow as tf
 
 
-class CNNetwork(object):
+class CNNSchema(object):
     """
     A CNN for text classification.
     Uses an embedding layer, followed by a convolutional, max-pooling and softmax layer.
@@ -29,7 +29,9 @@ class CNNetwork(object):
     @staticmethod
     def create_output_layer(input_layer, input_size, num_classes,
                             l2_loss=tf.constant(0.0),
-                            bias=0.1):
+                            bias=0.1,
+                            score_normalization=lambda x: x,
+                            prediction_f=lambda x: tf.argmax(x, 1)):
         # Final (unnormalized) scores and predictions
 
         with tf.name_scope("output-layer"):
@@ -43,8 +45,8 @@ class CNNetwork(object):
             l2_loss += tf.nn.l2_loss(W)
             l2_loss += tf.nn.l2_loss(b)
 
-            scores = tf.nn.xw_plus_b(input_layer, W, b, name="scores")
-            predictions = tf.argmax(scores, 1, name="predictions")
+            scores = score_normalization(tf.nn.xw_plus_b(input_layer, W, b, name="scores"))
+            predictions = prediction_f(scores)
 
         return scores, predictions, l2_loss
 
@@ -65,8 +67,8 @@ class CNNetwork(object):
 
         for i, filter_height in enumerate(filter_sizes):
             with tf.name_scope("conv-maxpool-{}-{}".format(layer_number, filter_height)):
-                convolution_layer = CNNetwork.create_filter(input_layer, filter_height, embedding_size, num_filters)
-                max_pooling_layer = CNNetwork.create_max_pooling(convolution_layer, filter_height, sequence_height)
+                convolution_layer = CNNSchema.create_filter(input_layer, filter_height, embedding_size, num_filters)
+                max_pooling_layer = CNNSchema.create_max_pooling(convolution_layer, filter_height, sequence_height)
                 layer_outputs.append(max_pooling_layer)
 
         num_filters_total = num_filters * len(filter_sizes)
