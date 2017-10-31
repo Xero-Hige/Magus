@@ -10,7 +10,7 @@ import tensorflow as tf
 # Parameters
 # ==================================================
 # Data loading params
-from attardi_network import AttardiCNNSchema
+from attardi_cnn_schema import AttardiCNNSchema
 
 tf.flags.DEFINE_float("dev_sample_percentage", .1, "Percentage of the training data to use for validation")
 
