@@ -1,1 +1,215 @@
-{"created_at": "Thu Oct 26 22:36:04 +0000 2017", "id": 923679650064289792, "id_str": "923679650064289792", "text": "@DoctorNarigon @EduSantachita @Apuntes_ @VDRconLaNacion Por no hablar de alguien con un t\u00edtulo o un curso de Social\u2026 https://t.co/LmfMAH7GZT", "display_text_range": [56, 140], "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>", "truncated": true, "in_reply_to_status_id": 923678935854043136, "in_reply_to_status_id_str": "923678935854043136", "in_reply_to_user_id": 803397346751119360, "in_reply_to_user_id_str": "803397346751119360", "in_reply_to_screen_name": "ESiravegna", "user": {"id": 803397346751119360, "id_str": "803397346751119360", "name": "Esteban Siravegna", "screen_name": "ESiravegna", "location": "C\u00f3rdoba, Argentina", "url": null, "description": "Dad. Data Science and ML.Thinking in sync with @endohime since 1998. Fluent in sarcasm, native proficiency in irony.", "translator_type": "none", "protected": false, "verified": false, "followers_count": 230, "friends_count": 98, "listed_count": 20, "favourites_count": 21628, "statuses_count": 19080, "created_at": "Tue Nov 29 00:37:08 +0000 2016", "utc_offset": null, "time_zone": null, "geo_enabled": true, "lang": "es", "contributors_enabled": false, "is_translator": false, "profile_background_color": "F5F8FA", "profile_background_image_url": "", "profile_background_image_url_https": "", "profile_background_tile": false, "profile_link_color": "1DA1F2", "profile_sidebar_border_color": "C0DEED", "profile_sidebar_fill_color": "DDEEF6", "profile_text_color": "333333", "profile_use_background_image": true, "profile_image_url": "http://pbs.twimg.com/profile_images/854790807286501376/nDCBBAV4_normal.jpg", "profile_image_url_https": "https://pbs.twimg.com/profile_images/854790807286501376/nDCBBAV4_normal.jpg", "profile_banner_url": "https://pbs.twimg.com/profile_banners/803397346751119360/1492632881", "default_profile": true, "default_profile_image": false, "following": null, "follow_request_sent": null, "notifications": null}, "geo": null, "coordinates": null, "place": {"id": "00f84d414936f28e", "url": "https://api.twitter.com/1.1/geo/id/00f84d414936f28e.json", "place_type": "city", "name": "C\u00f3rdoba", "full_name": "C\u00f3rdoba, Argentina", "country_code": "AR", "country": "Argentina", "bounding_box": {"type": "Polygon", "coordinates": [[[-64.3195, -31.523576], [-64.3195, -31.307337], [-64.076551, -31.307337], [-64.076551, -31.523576]]]}, "attributes": {}}, "contributors": null, "is_quote_status": false, "extended_tweet": {"full_text": "@DoctorNarigon @EduSantachita @Apuntes_ @VDRconLaNacion Por no hablar de alguien con un t\u00edtulo o un curso de Social Network Math o Analytics. Es decir: Humo.", "display_text_range": [56, 157], "entities": {"hashtags": [], "urls": [], "user_mentions": [{"screen_name": "DoctorNarigon", "name": "Doctor Bilardo", "id": 356278812, "id_str": "356278812", "indices": [0, 14]}, {"screen_name": "EduSantachita", "name": "Edu Santachita", "id": 187062128, "id_str": "187062128", "indices": [15, 29]}, {"screen_name": "Apuntes_", "name": "Apu \ud83c\udf31\ud83d\udd2c", "id": 166790278, "id_str": "166790278", "indices": [30, 39]}, {"screen_name": "VDRconLaNacion", "name": "VDRconLaNacion", "id": 260869881, "id_str": "260869881", "indices": [40, 55]}], "symbols": []}}, "quote_count": 0, "reply_count": 0, "retweet_count": 0, "favorite_count": 0, "entities": {"hashtags": [], "urls": [{"url": "https://t.co/LmfMAH7GZT", "expanded_url": "https://twitter.com/i/web/status/923679650064289792", "display_url": "twitter.com/i/web/status/9\u2026", "indices": [117, 140]}], "user_mentions": [{"screen_name": "DoctorNarigon", "name": "Doctor Bilardo", "id": 356278812, "id_str": "356278812", "indices": [0, 14]}, {"screen_name": "EduSantachita", "name": "Edu Santachita", "id": 187062128, "id_str": "187062128", "indices": [15, 29]}, {"screen_name": "Apuntes_", "name": "Apu \ud83c\udf31\ud83d\udd2c", "id": 166790278, "id_str": "166790278", "indices": [30, 39]}, {"screen_name": "VDRconLaNacion", "name": "VDRconLaNacion", "id": 260869881, "id_str": "260869881", "indices": [40, 55]}], "symbols": []}, "favorited": false, "retweeted": false, "filter_level": "low", "lang": "es", "timestamp_ms": "1509057364370"}
+{
+  "created_at": "Thu Oct 26 22:36:04 +0000 2017",
+  "id": 923679650064289792,
+  "id_str": "923679650064289792",
+  "text": "@DoctorNarigon @EduSantachita @Apuntes_ @VDRconLaNacion Por no hablar de alguien con un t\u00edtulo o un curso de Social\u2026 https://t.co/LmfMAH7GZT",
+  "display_text_range": [
+    56,
+    140
+  ],
+  "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+  "truncated": true,
+  "in_reply_to_status_id": 923678935854043136,
+  "in_reply_to_status_id_str": "923678935854043136",
+  "in_reply_to_user_id": 803397346751119360,
+  "in_reply_to_user_id_str": "803397346751119360",
+  "in_reply_to_screen_name": "ESiravegna",
+  "user": {
+    "id": 803397346751119360,
+    "id_str": "803397346751119360",
+    "name": "Esteban Siravegna",
+    "screen_name": "ESiravegna",
+    "location": "C\u00f3rdoba, Argentina",
+    "url": null,
+    "description": "Dad. Data Science and ML.Thinking in sync with @endohime since 1998. Fluent in sarcasm, native proficiency in irony.",
+    "translator_type": "none",
+    "protected": false,
+    "verified": false,
+    "followers_count": 230,
+    "friends_count": 98,
+    "listed_count": 20,
+    "favourites_count": 21628,
+    "statuses_count": 19080,
+    "created_at": "Tue Nov 29 00:37:08 +0000 2016",
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": true,
+    "lang": "es",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "F5F8FA",
+    "profile_background_image_url": "",
+    "profile_background_image_url_https": "",
+    "profile_background_tile": false,
+    "profile_link_color": "1DA1F2",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/854790807286501376/nDCBBAV4_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/854790807286501376/nDCBBAV4_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/803397346751119360/1492632881",
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": null,
+    "follow_request_sent": null,
+    "notifications": null
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": {
+    "id": "00f84d414936f28e",
+    "url": "https://api.twitter.com/1.1/geo/id/00f84d414936f28e.json",
+    "place_type": "city",
+    "name": "C\u00f3rdoba",
+    "full_name": "C\u00f3rdoba, Argentina",
+    "country_code": "AR",
+    "country": "Argentina",
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            -64.3195,
+            -31.523576
+          ],
+          [
+            -64.3195,
+            -31.307337
+          ],
+          [
+            -64.076551,
+            -31.307337
+          ],
+          [
+            -64.076551,
+            -31.523576
+          ]
+        ]
+      ]
+    },
+    "attributes": {}
+  },
+  "contributors": null,
+  "is_quote_status": false,
+  "extended_tweet": {
+    "full_text": "@DoctorNarigon @EduSantachita @Apuntes_ @VDRconLaNacion Por no hablar de alguien con un t\u00edtulo o un curso de Social Network Math o Analytics. Es decir: Humo.",
+    "display_text_range": [
+      56,
+      157
+    ],
+    "entities": {
+      "hashtags": [],
+      "urls": [],
+      "user_mentions": [
+        {
+          "screen_name": "DoctorNarigon",
+          "name": "Doctor Bilardo",
+          "id": 356278812,
+          "id_str": "356278812",
+          "indices": [
+            0,
+            14
+          ]
+        },
+        {
+          "screen_name": "EduSantachita",
+          "name": "Edu Santachita",
+          "id": 187062128,
+          "id_str": "187062128",
+          "indices": [
+            15,
+            29
+          ]
+        },
+        {
+          "screen_name": "Apuntes_",
+          "name": "Apu \ud83c\udf31\ud83d\udd2c",
+          "id": 166790278,
+          "id_str": "166790278",
+          "indices": [
+            30,
+            39
+          ]
+        },
+        {
+          "screen_name": "VDRconLaNacion",
+          "name": "VDRconLaNacion",
+          "id": 260869881,
+          "id_str": "260869881",
+          "indices": [
+            40,
+            55
+          ]
+        }
+      ],
+      "symbols": []
+    }
+  },
+  "quote_count": 0,
+  "reply_count": 0,
+  "retweet_count": 0,
+  "favorite_count": 0,
+  "entities": {
+    "hashtags": [],
+    "urls": [
+      {
+        "url": "https://t.co/LmfMAH7GZT",
+        "expanded_url": "https://twitter.com/i/web/status/923679650064289792",
+        "display_url": "twitter.com/i/web/status/9\u2026",
+        "indices": [
+          117,
+          140
+        ]
+      }
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "DoctorNarigon",
+        "name": "Doctor Bilardo",
+        "id": 356278812,
+        "id_str": "356278812",
+        "indices": [
+          0,
+          14
+        ]
+      },
+      {
+        "screen_name": "EduSantachita",
+        "name": "Edu Santachita",
+        "id": 187062128,
+        "id_str": "187062128",
+        "indices": [
+          15,
+          29
+        ]
+      },
+      {
+        "screen_name": "Apuntes_",
+        "name": "Apu \ud83c\udf31\ud83d\udd2c",
+        "id": 166790278,
+        "id_str": "166790278",
+        "indices": [
+          30,
+          39
+        ]
+      },
+      {
+        "screen_name": "VDRconLaNacion",
+        "name": "VDRconLaNacion",
+        "id": 260869881,
+        "id_str": "260869881",
+        "indices": [
+          40,
+          55
+        ]
+      }
+    ],
+    "symbols": []
+  },
+  "favorited": false,
+  "retweeted": false,
+  "filter_level": "low",
+  "lang": "es",
+  "timestamp_ms": "1509057364370"
+}
