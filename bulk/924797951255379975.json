@@ -1,1 +1,106 @@
-{"created_at": "Mon Oct 30 00:39:48 +0000 2017", "id": 924797951255379975, "id_str": "924797951255379975", "text": "Acabei de queimar minha perna\ud83d\ude14\ud83d\ude14\ud83d\ude14", "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>", "truncated": false, "in_reply_to_status_id": null, "in_reply_to_status_id_str": null, "in_reply_to_user_id": null, "in_reply_to_user_id_str": null, "in_reply_to_screen_name": null, "user": {"id": 922998696593195013, "id_str": "922998696593195013", "name": "Rosana \u2764", "screen_name": "CarolCastilhoD1", "location": "Santa Rosa, Niter\u00f3i", "url": null, "description": "No tempo certo, tudo dar\u00e1 certo. \ud83e\udd17", "translator_type": "none", "protected": false, "verified": false, "followers_count": 63, "friends_count": 159, "listed_count": 0, "favourites_count": 156, "statuses_count": 111, "created_at": "Wed Oct 25 01:30:12 +0000 2017", "utc_offset": null, "time_zone": null, "geo_enabled": true, "lang": "pt", "contributors_enabled": false, "is_translator": false, "profile_background_color": "F5F8FA", "profile_background_image_url": "", "profile_background_image_url_https": "", "profile_background_tile": false, "profile_link_color": "1DA1F2", "profile_sidebar_border_color": "C0DEED", "profile_sidebar_fill_color": "DDEEF6", "profile_text_color": "333333", "profile_use_background_image": true, "profile_image_url": "http://pbs.twimg.com/profile_images/922999913868390400/kQv2pT67_normal.jpg", "profile_image_url_https": "https://pbs.twimg.com/profile_images/922999913868390400/kQv2pT67_normal.jpg", "profile_banner_url": "https://pbs.twimg.com/profile_banners/922998696593195013/1509020067", "default_profile": true, "default_profile_image": false, "following": null, "follow_request_sent": null, "notifications": null}, "geo": null, "coordinates": null, "place": {"id": "59373f0a295160e4", "url": "https://api.twitter.com/1.1/geo/id/59373f0a295160e4.json", "place_type": "city", "name": "Niter\u00f3i", "full_name": "Niter\u00f3i, Brasil", "country_code": "BR", "country": "Brasil", "bounding_box": {"type": "Polygon", "coordinates": [[[-43.164811, -22.98297], [-43.164811, -22.826128], [-42.954408, -22.826128], [-42.954408, -22.98297]]]}, "attributes": {}}, "contributors": null, "is_quote_status": false, "quote_count": 0, "reply_count": 0, "retweet_count": 0, "favorite_count": 0, "entities": {"hashtags": [], "urls": [], "user_mentions": [], "symbols": []}, "favorited": false, "retweeted": false, "filter_level": "low", "lang": "pt", "timestamp_ms": "1509323988151"}
+{
+  "created_at": "Mon Oct 30 00:39:48 +0000 2017",
+  "id": 924797951255379975,
+  "id_str": "924797951255379975",
+  "text": "Acabei de queimar minha perna\ud83d\ude14\ud83d\ude14\ud83d\ude14",
+  "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 922998696593195013,
+    "id_str": "922998696593195013",
+    "name": "Rosana \u2764",
+    "screen_name": "CarolCastilhoD1",
+    "location": "Santa Rosa, Niter\u00f3i",
+    "url": null,
+    "description": "No tempo certo, tudo dar\u00e1 certo. \ud83e\udd17",
+    "translator_type": "none",
+    "protected": false,
+    "verified": false,
+    "followers_count": 63,
+    "friends_count": 159,
+    "listed_count": 0,
+    "favourites_count": 156,
+    "statuses_count": 111,
+    "created_at": "Wed Oct 25 01:30:12 +0000 2017",
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": true,
+    "lang": "pt",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "F5F8FA",
+    "profile_background_image_url": "",
+    "profile_background_image_url_https": "",
+    "profile_background_tile": false,
+    "profile_link_color": "1DA1F2",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/922999913868390400/kQv2pT67_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/922999913868390400/kQv2pT67_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/922998696593195013/1509020067",
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": null,
+    "follow_request_sent": null,
+    "notifications": null
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": {
+    "id": "59373f0a295160e4",
+    "url": "https://api.twitter.com/1.1/geo/id/59373f0a295160e4.json",
+    "place_type": "city",
+    "name": "Niter\u00f3i",
+    "full_name": "Niter\u00f3i, Brasil",
+    "country_code": "BR",
+    "country": "Brasil",
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            -43.164811,
+            -22.98297
+          ],
+          [
+            -43.164811,
+            -22.826128
+          ],
+          [
+            -42.954408,
+            -22.826128
+          ],
+          [
+            -42.954408,
+            -22.98297
+          ]
+        ]
+      ]
+    },
+    "attributes": {}
+  },
+  "contributors": null,
+  "is_quote_status": false,
+  "quote_count": 0,
+  "reply_count": 0,
+  "retweet_count": 0,
+  "favorite_count": 0,
+  "entities": {
+    "hashtags": [],
+    "urls": [],
+    "user_mentions": [],
+    "symbols": []
+  },
+  "favorited": false,
+  "retweeted": false,
+  "filter_level": "low",
+  "lang": "pt",
+  "timestamp_ms": "1509323988151"
+}

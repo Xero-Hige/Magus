@@ -1,1 +1,131 @@
-{"created_at": "Mon Oct 30 00:39:48 +0000 2017", "id": 924797953663004673, "id_str": "924797953663004673", "text": "@diogenes_dp @Twittou_Ingrata Ai que bom cheguei a toma um susto AHHSSHSH", "display_text_range": [30, 73], "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>", "truncated": false, "in_reply_to_status_id": 924797692122927104, "in_reply_to_status_id_str": "924797692122927104", "in_reply_to_user_id": 750691468893908992, "in_reply_to_user_id_str": "750691468893908992", "in_reply_to_screen_name": "diogenes_dp", "user": {"id": 535845083, "id_str": "535845083", "name": "Pimentel\u2712", "screen_name": "_belmot77", "location": "Cruz Alta", "url": null, "description": "#descubra \n\ud83d\udc7bjpimentel455", "translator_type": "none", "protected": false, "verified": false, "followers_count": 533, "friends_count": 361, "listed_count": 0, "favourites_count": 7377, "statuses_count": 3156, "created_at": "Sun Mar 25 00:26:51 +0000 2012", "utc_offset": null, "time_zone": null, "geo_enabled": true, "lang": "pt", "contributors_enabled": false, "is_translator": false, "profile_background_color": "1A1B1F", "profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif", "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif", "profile_background_tile": false, "profile_link_color": "2FC2EF", "profile_sidebar_border_color": "181A1E", "profile_sidebar_fill_color": "252429", "profile_text_color": "666666", "profile_use_background_image": true, "profile_image_url": "http://pbs.twimg.com/profile_images/919618312182648834/eOcgtfk9_normal.jpg", "profile_image_url_https": "https://pbs.twimg.com/profile_images/919618312182648834/eOcgtfk9_normal.jpg", "profile_banner_url": "https://pbs.twimg.com/profile_banners/535845083/1509050945", "default_profile": false, "default_profile_image": false, "following": null, "follow_request_sent": null, "notifications": null}, "geo": null, "coordinates": null, "place": {"id": "e3f916ebd378be16", "url": "https://api.twitter.com/1.1/geo/id/e3f916ebd378be16.json", "place_type": "city", "name": "Cruz Alta", "full_name": "Cruz Alta, Brasil", "country_code": "BR", "country": "Brasil", "bounding_box": {"type": "Polygon", "coordinates": [[[-53.797282, -28.952424], [-53.797282, -28.481968], [-53.241105, -28.481968], [-53.241105, -28.952424]]]}, "attributes": {}}, "contributors": null, "is_quote_status": false, "quote_count": 0, "reply_count": 0, "retweet_count": 0, "favorite_count": 0, "entities": {"hashtags": [], "urls": [], "user_mentions": [{"screen_name": "diogenes_dp", "name": "Di\u00f3genes de Paula", "id": 750691468893908992, "id_str": "750691468893908992", "indices": [0, 12]}, {"screen_name": "Twittou_Ingrata", "name": "Renata", "id": 3409632580, "id_str": "3409632580", "indices": [13, 29]}], "symbols": []}, "favorited": false, "retweeted": false, "filter_level": "low", "lang": "pt", "timestamp_ms": "1509323988725"}
+{
+  "created_at": "Mon Oct 30 00:39:48 +0000 2017",
+  "id": 924797953663004673,
+  "id_str": "924797953663004673",
+  "text": "@diogenes_dp @Twittou_Ingrata Ai que bom cheguei a toma um susto AHHSSHSH",
+  "display_text_range": [
+    30,
+    73
+  ],
+  "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+  "truncated": false,
+  "in_reply_to_status_id": 924797692122927104,
+  "in_reply_to_status_id_str": "924797692122927104",
+  "in_reply_to_user_id": 750691468893908992,
+  "in_reply_to_user_id_str": "750691468893908992",
+  "in_reply_to_screen_name": "diogenes_dp",
+  "user": {
+    "id": 535845083,
+    "id_str": "535845083",
+    "name": "Pimentel\u2712",
+    "screen_name": "_belmot77",
+    "location": "Cruz Alta",
+    "url": null,
+    "description": "#descubra \n\ud83d\udc7bjpimentel455",
+    "translator_type": "none",
+    "protected": false,
+    "verified": false,
+    "followers_count": 533,
+    "friends_count": 361,
+    "listed_count": 0,
+    "favourites_count": 7377,
+    "statuses_count": 3156,
+    "created_at": "Sun Mar 25 00:26:51 +0000 2012",
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": true,
+    "lang": "pt",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "1A1B1F",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+    "profile_background_tile": false,
+    "profile_link_color": "2FC2EF",
+    "profile_sidebar_border_color": "181A1E",
+    "profile_sidebar_fill_color": "252429",
+    "profile_text_color": "666666",
+    "profile_use_background_image": true,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/919618312182648834/eOcgtfk9_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/919618312182648834/eOcgtfk9_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/535845083/1509050945",
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": null,
+    "follow_request_sent": null,
+    "notifications": null
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": {
+    "id": "e3f916ebd378be16",
+    "url": "https://api.twitter.com/1.1/geo/id/e3f916ebd378be16.json",
+    "place_type": "city",
+    "name": "Cruz Alta",
+    "full_name": "Cruz Alta, Brasil",
+    "country_code": "BR",
+    "country": "Brasil",
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            -53.797282,
+            -28.952424
+          ],
+          [
+            -53.797282,
+            -28.481968
+          ],
+          [
+            -53.241105,
+            -28.481968
+          ],
+          [
+            -53.241105,
+            -28.952424
+          ]
+        ]
+      ]
+    },
+    "attributes": {}
+  },
+  "contributors": null,
+  "is_quote_status": false,
+  "quote_count": 0,
+  "reply_count": 0,
+  "retweet_count": 0,
+  "favorite_count": 0,
+  "entities": {
+    "hashtags": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "screen_name": "diogenes_dp",
+        "name": "Di\u00f3genes de Paula",
+        "id": 750691468893908992,
+        "id_str": "750691468893908992",
+        "indices": [
+          0,
+          12
+        ]
+      },
+      {
+        "screen_name": "Twittou_Ingrata",
+        "name": "Renata",
+        "id": 3409632580,
+        "id_str": "3409632580",
+        "indices": [
+          13,
+          29
+        ]
+      }
+    ],
+    "symbols": []
+  },
+  "favorited": false,
+  "retweeted": false,
+  "filter_level": "low",
+  "lang": "pt",
+  "timestamp_ms": "1509323988725"
+}

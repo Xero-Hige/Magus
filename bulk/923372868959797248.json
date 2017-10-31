@@ -1,1 +1,106 @@
-{"created_at": "Thu Oct 26 02:17:02 +0000 2017", "id": 923372868959797248, "id_str": "923372868959797248", "text": "Ok, so let\u2019s start making Dodger Parade plans!", "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>", "truncated": false, "in_reply_to_status_id": null, "in_reply_to_status_id_str": null, "in_reply_to_user_id": null, "in_reply_to_user_id_str": null, "in_reply_to_screen_name": null, "user": {"id": 131745343, "id_str": "131745343", "name": "vivian", "screen_name": "_poosycat", "location": "LosAngeles", "url": null, "description": null, "translator_type": "none", "protected": false, "verified": false, "followers_count": 450, "friends_count": 330, "listed_count": 5, "favourites_count": 7987, "statuses_count": 13919, "created_at": "Sun Apr 11 05:48:58 +0000 2010", "utc_offset": -25200, "time_zone": "Pacific Time (US & Canada)", "geo_enabled": true, "lang": "en", "contributors_enabled": false, "is_translator": false, "profile_background_color": "141413", "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/222528648/bloodyheart-1.jpg", "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/222528648/bloodyheart-1.jpg", "profile_background_tile": true, "profile_link_color": "F58EA8", "profile_sidebar_border_color": "FFFFFF", "profile_sidebar_fill_color": "0A0A09", "profile_text_color": "BF0B0B", "profile_use_background_image": true, "profile_image_url": "http://pbs.twimg.com/profile_images/872011131065319424/TC0i2JQG_normal.jpg", "profile_image_url_https": "https://pbs.twimg.com/profile_images/872011131065319424/TC0i2JQG_normal.jpg", "profile_banner_url": "https://pbs.twimg.com/profile_banners/131745343/1426227228", "default_profile": false, "default_profile_image": false, "following": null, "follow_request_sent": null, "notifications": null}, "geo": null, "coordinates": null, "place": {"id": "47dbb2e661aa176c", "url": "https://api.twitter.com/1.1/geo/id/47dbb2e661aa176c.json", "place_type": "city", "name": "Hacienda Heights", "full_name": "Hacienda Heights, CA", "country_code": "US", "country": "United States", "bounding_box": {"type": "Polygon", "coordinates": [[[-118.037546, 33.973234], [-118.037546, 34.031527], [-117.927186, 34.031527], [-117.927186, 33.973234]]]}, "attributes": {}}, "contributors": null, "is_quote_status": false, "quote_count": 0, "reply_count": 0, "retweet_count": 0, "favorite_count": 0, "entities": {"hashtags": [], "urls": [], "user_mentions": [], "symbols": []}, "favorited": false, "retweeted": false, "filter_level": "low", "lang": "en", "timestamp_ms": "1508984222055"}
+{
+  "created_at": "Thu Oct 26 02:17:02 +0000 2017",
+  "id": 923372868959797248,
+  "id_str": "923372868959797248",
+  "text": "Ok, so let\u2019s start making Dodger Parade plans!",
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 131745343,
+    "id_str": "131745343",
+    "name": "vivian",
+    "screen_name": "_poosycat",
+    "location": "LosAngeles",
+    "url": null,
+    "description": null,
+    "translator_type": "none",
+    "protected": false,
+    "verified": false,
+    "followers_count": 450,
+    "friends_count": 330,
+    "listed_count": 5,
+    "favourites_count": 7987,
+    "statuses_count": 13919,
+    "created_at": "Sun Apr 11 05:48:58 +0000 2010",
+    "utc_offset": -25200,
+    "time_zone": "Pacific Time (US & Canada)",
+    "geo_enabled": true,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "141413",
+    "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/222528648/bloodyheart-1.jpg",
+    "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/222528648/bloodyheart-1.jpg",
+    "profile_background_tile": true,
+    "profile_link_color": "F58EA8",
+    "profile_sidebar_border_color": "FFFFFF",
+    "profile_sidebar_fill_color": "0A0A09",
+    "profile_text_color": "BF0B0B",
+    "profile_use_background_image": true,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/872011131065319424/TC0i2JQG_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/872011131065319424/TC0i2JQG_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/131745343/1426227228",
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": null,
+    "follow_request_sent": null,
+    "notifications": null
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": {
+    "id": "47dbb2e661aa176c",
+    "url": "https://api.twitter.com/1.1/geo/id/47dbb2e661aa176c.json",
+    "place_type": "city",
+    "name": "Hacienda Heights",
+    "full_name": "Hacienda Heights, CA",
+    "country_code": "US",
+    "country": "United States",
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            -118.037546,
+            33.973234
+          ],
+          [
+            -118.037546,
+            34.031527
+          ],
+          [
+            -117.927186,
+            34.031527
+          ],
+          [
+            -117.927186,
+            33.973234
+          ]
+        ]
+      ]
+    },
+    "attributes": {}
+  },
+  "contributors": null,
+  "is_quote_status": false,
+  "quote_count": 0,
+  "reply_count": 0,
+  "retweet_count": 0,
+  "favorite_count": 0,
+  "entities": {
+    "hashtags": [],
+    "urls": [],
+    "user_mentions": [],
+    "symbols": []
+  },
+  "favorited": false,
+  "retweeted": false,
+  "filter_level": "low",
+  "lang": "en",
+  "timestamp_ms": "1508984222055"
+}

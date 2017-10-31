@@ -1,1 +1,114 @@
-{"created_at": "Sun Oct 29 03:20:11 +0000 2017", "id": 924475926410178562, "id_str": "924475926410178562", "text": "It's 4:20 in #Niue. Boot the gong.", "source": "<a href=\"https://twitter.com\" rel=\"nofollow\">420somewherebot</a>", "truncated": false, "in_reply_to_status_id": null, "in_reply_to_status_id_str": null, "in_reply_to_user_id": null, "in_reply_to_user_id_str": null, "in_reply_to_screen_name": null, "user": {"id": 816892296679436288, "id_str": "816892296679436288", "name": "420somewherebot", "screen_name": "420somewherebot", "location": "Somewhere", "url": null, "description": "It's 4:20 Somewhere", "translator_type": "none", "protected": false, "verified": false, "followers_count": 165, "friends_count": 39, "listed_count": 24, "favourites_count": 1, "statuses_count": 18919, "created_at": "Thu Jan 05 06:21:15 +0000 2017", "utc_offset": -25200, "time_zone": "Pacific Time (US & Canada)", "geo_enabled": true, "lang": "en", "contributors_enabled": false, "is_translator": false, "profile_background_color": "000000", "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png", "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", "profile_background_tile": false, "profile_link_color": "19CF86", "profile_sidebar_border_color": "000000", "profile_sidebar_fill_color": "000000", "profile_text_color": "000000", "profile_use_background_image": false, "profile_image_url": "http://pbs.twimg.com/profile_images/817532365048119296/5nD1F9n9_normal.jpg", "profile_image_url_https": "https://pbs.twimg.com/profile_images/817532365048119296/5nD1F9n9_normal.jpg", "profile_banner_url": "https://pbs.twimg.com/profile_banners/816892296679436288/1483749956", "default_profile": false, "default_profile_image": false, "following": null, "follow_request_sent": null, "notifications": null}, "geo": null, "coordinates": null, "place": {"id": "0560f64d7b342583", "url": "https://api.twitter.com/1.1/geo/id/0560f64d7b342583.json", "place_type": "country", "name": "Niue", "full_name": "Niue", "country_code": "NU", "country": "Niue", "bounding_box": {"type": "Polygon", "coordinates": [[[-169.949293, -19.155875], [-169.949293, -18.951924], [-169.774024, -18.951924], [-169.774024, -19.155875]]]}, "attributes": {}}, "contributors": null, "is_quote_status": false, "quote_count": 0, "reply_count": 0, "retweet_count": 0, "favorite_count": 0, "entities": {"hashtags": [{"text": "Niue", "indices": [13, 18]}], "urls": [], "user_mentions": [], "symbols": []}, "favorited": false, "retweeted": false, "filter_level": "low", "lang": "en", "timestamp_ms": "1509247211445"}
+{
+  "created_at": "Sun Oct 29 03:20:11 +0000 2017",
+  "id": 924475926410178562,
+  "id_str": "924475926410178562",
+  "text": "It's 4:20 in #Niue. Boot the gong.",
+  "source": "<a href=\"https://twitter.com\" rel=\"nofollow\">420somewherebot</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 816892296679436288,
+    "id_str": "816892296679436288",
+    "name": "420somewherebot",
+    "screen_name": "420somewherebot",
+    "location": "Somewhere",
+    "url": null,
+    "description": "It's 4:20 Somewhere",
+    "translator_type": "none",
+    "protected": false,
+    "verified": false,
+    "followers_count": 165,
+    "friends_count": 39,
+    "listed_count": 24,
+    "favourites_count": 1,
+    "statuses_count": 18919,
+    "created_at": "Thu Jan 05 06:21:15 +0000 2017",
+    "utc_offset": -25200,
+    "time_zone": "Pacific Time (US & Canada)",
+    "geo_enabled": true,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "000000",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": false,
+    "profile_link_color": "19CF86",
+    "profile_sidebar_border_color": "000000",
+    "profile_sidebar_fill_color": "000000",
+    "profile_text_color": "000000",
+    "profile_use_background_image": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/817532365048119296/5nD1F9n9_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/817532365048119296/5nD1F9n9_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/816892296679436288/1483749956",
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": null,
+    "follow_request_sent": null,
+    "notifications": null
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": {
+    "id": "0560f64d7b342583",
+    "url": "https://api.twitter.com/1.1/geo/id/0560f64d7b342583.json",
+    "place_type": "country",
+    "name": "Niue",
+    "full_name": "Niue",
+    "country_code": "NU",
+    "country": "Niue",
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            -169.949293,
+            -19.155875
+          ],
+          [
+            -169.949293,
+            -18.951924
+          ],
+          [
+            -169.774024,
+            -18.951924
+          ],
+          [
+            -169.774024,
+            -19.155875
+          ]
+        ]
+      ]
+    },
+    "attributes": {}
+  },
+  "contributors": null,
+  "is_quote_status": false,
+  "quote_count": 0,
+  "reply_count": 0,
+  "retweet_count": 0,
+  "favorite_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "Niue",
+        "indices": [
+          13,
+          18
+        ]
+      }
+    ],
+    "urls": [],
+    "user_mentions": [],
+    "symbols": []
+  },
+  "favorited": false,
+  "retweeted": false,
+  "filter_level": "low",
+  "lang": "en",
+  "timestamp_ms": "1509247211445"
+}

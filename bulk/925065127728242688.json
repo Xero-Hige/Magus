@@ -1,1 +1,106 @@
-{"created_at": "Mon Oct 30 18:21:27 +0000 2017", "id": 925065127728242688, "id_str": "925065127728242688", "text": "Janeiro eu come\u00e7o sedeusquiser \ud83d\ude4f", "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>", "truncated": false, "in_reply_to_status_id": null, "in_reply_to_status_id_str": null, "in_reply_to_user_id": null, "in_reply_to_user_id_str": null, "in_reply_to_screen_name": null, "user": {"id": 3054727715, "id_str": "3054727715", "name": "\u2620 malOAKLEYro \u2620", "screen_name": "jordanlost13", "location": "Guaruj\u00e1, Brasil", "url": null, "description": "\ud83d\udc80\u2764", "translator_type": "none", "protected": false, "verified": false, "followers_count": 311, "friends_count": 282, "listed_count": 1, "favourites_count": 1646, "statuses_count": 3810, "created_at": "Mon Feb 23 03:22:16 +0000 2015", "utc_offset": null, "time_zone": null, "geo_enabled": true, "lang": "pt", "contributors_enabled": false, "is_translator": false, "profile_background_color": "C0DEED", "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png", "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", "profile_background_tile": false, "profile_link_color": "1DA1F2", "profile_sidebar_border_color": "C0DEED", "profile_sidebar_fill_color": "DDEEF6", "profile_text_color": "333333", "profile_use_background_image": true, "profile_image_url": "http://pbs.twimg.com/profile_images/920498104322940928/P18P2iNa_normal.jpg", "profile_image_url_https": "https://pbs.twimg.com/profile_images/920498104322940928/P18P2iNa_normal.jpg", "profile_banner_url": "https://pbs.twimg.com/profile_banners/3054727715/1485252258", "default_profile": true, "default_profile_image": false, "following": null, "follow_request_sent": null, "notifications": null}, "geo": null, "coordinates": null, "place": {"id": "1d02cffb95f762c0", "url": "https://api.twitter.com/1.1/geo/id/1d02cffb95f762c0.json", "place_type": "city", "name": "Guaruj\u00e1", "full_name": "Guaruj\u00e1, Brasil", "country_code": "BR", "country": "Brasil", "bounding_box": {"type": "Polygon", "coordinates": [[[-46.325637, -24.053566], [-46.325637, -23.856067], [-46.125785, -23.856067], [-46.125785, -24.053566]]]}, "attributes": {}}, "contributors": null, "is_quote_status": false, "quote_count": 0, "reply_count": 0, "retweet_count": 0, "favorite_count": 0, "entities": {"hashtags": [], "urls": [], "user_mentions": [], "symbols": []}, "favorited": false, "retweeted": false, "filter_level": "low", "lang": "pt", "timestamp_ms": "1509387687986"}
+{
+  "created_at": "Mon Oct 30 18:21:27 +0000 2017",
+  "id": 925065127728242688,
+  "id_str": "925065127728242688",
+  "text": "Janeiro eu come\u00e7o sedeusquiser \ud83d\ude4f",
+  "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 3054727715,
+    "id_str": "3054727715",
+    "name": "\u2620 malOAKLEYro \u2620",
+    "screen_name": "jordanlost13",
+    "location": "Guaruj\u00e1, Brasil",
+    "url": null,
+    "description": "\ud83d\udc80\u2764",
+    "translator_type": "none",
+    "protected": false,
+    "verified": false,
+    "followers_count": 311,
+    "friends_count": 282,
+    "listed_count": 1,
+    "favourites_count": 1646,
+    "statuses_count": 3810,
+    "created_at": "Mon Feb 23 03:22:16 +0000 2015",
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": true,
+    "lang": "pt",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "C0DEED",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": false,
+    "profile_link_color": "1DA1F2",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/920498104322940928/P18P2iNa_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/920498104322940928/P18P2iNa_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/3054727715/1485252258",
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": null,
+    "follow_request_sent": null,
+    "notifications": null
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": {
+    "id": "1d02cffb95f762c0",
+    "url": "https://api.twitter.com/1.1/geo/id/1d02cffb95f762c0.json",
+    "place_type": "city",
+    "name": "Guaruj\u00e1",
+    "full_name": "Guaruj\u00e1, Brasil",
+    "country_code": "BR",
+    "country": "Brasil",
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            -46.325637,
+            -24.053566
+          ],
+          [
+            -46.325637,
+            -23.856067
+          ],
+          [
+            -46.125785,
+            -23.856067
+          ],
+          [
+            -46.125785,
+            -24.053566
+          ]
+        ]
+      ]
+    },
+    "attributes": {}
+  },
+  "contributors": null,
+  "is_quote_status": false,
+  "quote_count": 0,
+  "reply_count": 0,
+  "retweet_count": 0,
+  "favorite_count": 0,
+  "entities": {
+    "hashtags": [],
+    "urls": [],
+    "user_mentions": [],
+    "symbols": []
+  },
+  "favorited": false,
+  "retweeted": false,
+  "filter_level": "low",
+  "lang": "pt",
+  "timestamp_ms": "1509387687986"
+}
