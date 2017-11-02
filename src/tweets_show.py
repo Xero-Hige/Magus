@@ -48,6 +48,16 @@ def classify_get_old():
     return render_template("tweet_catalog_old.html", tweet=tweet, max=max)
 
 
+@app.route('/classify_new', methods=["GET"])
+def classify_get_new():
+    tweets = ["../tweets/{}".format(x) for x in os.listdir("../tweets")] \
+             + ["../bulk/{}".format(x) for x in os.listdir("../bulk")]
+
+    tweet = load_tweet(random.choice(tweets))
+
+    return render_template("catalog_alternative.html", tweet=tweet, max=max)
+
+
 @app.route('/classify/<int:tweet_id>', methods=["GET"])
 def classify_exact_get(tweet_id):
     tweet_id = "{}.json".format(tweet_id)
