@@ -1,0 +1,170 @@
+{% include 'head.html' %}
+
+<main>
+    <!--Main layout-->
+    <div class="container-fluid" style="padding: 0">
+
+        <div class="row background">
+
+            <div class="card" style="width: 100%;padding: 1em">
+                <form method="post" action="{{ app_route }}/validate">
+                    <div class="col-md-12" style="width: 100%">
+
+                        <div class="row">
+                            <div class="col-md-10 twitter-tweet" style="width: 100%">
+                                <blockquote class="twitter-tweet" style="width: 100%">
+                                    <p class="Tweet-text e-entry-title" dir="ltr" lang="en">
+                                        {% for line in tweet["tweet_text"].replace("&amp;","&").split("\n") %}
+                                            {{ line }}
+                                        {% endfor %}
+                                    </p>
+                                </blockquote>
+                            </div>
+                            <div class="col-md-2 div_header translate_div">
+                                <div class="row">
+                                    Translate to
+                                </div>
+                                <div class="row">
+                                    <a href="https://translate.google.com/#auto/es/{{ tweet['tweet_text'] }}"
+                                       target="_blank">
+                                        <img src="http://www.ligaportal.at/international/images/wm2014/flaggen/256/Spanien.png"
+                                             height="25em" width="25em" attributes="#" \>
+                                        Spanish</a>
+                                </div>
+
+                                <div class="row">
+
+                                    <a href="https://translate.google.com/#auto/en/{{ tweet['tweet_text'] }}"
+                                       target="_blank">
+                                        <img src="http://img.freeflagicons.com/thumb/round_icon/united_kingdom/united_kingdom_640.png"
+                                             height="25em" width="35em" attributes="#" \>
+                                        English</a>
+                                </div>
+                            </div>
+                        </div>
+
+                        <div class="row">
+                            {{ clasification }}
+
+                            <br><br><br><br><br>
+
+                            {{ auto }}
+                        </div>
+
+                        <div class="row">
+                            <div class="col-md-4"></div>
+                            <div class="col-md-6">
+                                <button type="submit" class="btn btn-success" name="validation" value="yes">Yes
+                                </button>
+                                <button type="submit" class="btn btn-success" name="validation" value="no">No
+                                </button>
+                                <button type="submit" class="btn btn-success" name="validation" value="skip">Don't know
+                                </button>
+                            </div>
+                        </div>
+
+                        <div class="row">
+                            <div class="col-md-12">
+                                <div class="row">
+                                    <div class="col-md-12 div_header" style="text-align: center"> Tweet
+                                        Classification
+                                        Status
+                                    </div>
+                                </div>
+
+                                <div class="row">
+                                    <div class="panel-group" id="accordion" style="width: 100%">
+                                        <div class="panel panel-default">
+                                            <div class="acordion_heads">
+                                                <div class="panel-title">
+                                                    <a data-toggle="collapse" data-parent="#accordion"
+                                                       href="#collapse1">
+                                                        Emotions Status</a>
+                                                </div>
+                                            </div>
+                                            <div id="collapse1" class="panel-collapse collapse">
+                                                <div class="panel-body">
+                                                    <script type="text/javascript">
+                                                        FusionCharts.ready(function () {
+                                                            var fusioncharts = new FusionCharts({
+                                                                    type: 'radar',
+                                                                    renderAt: "radar_{{tweet['tweet_id']|safe}}",
+                                                                    width: '100%',
+                                                                    height: '100%',
+                                                                    dataFormat: 'json',
+                                                                    dataSource: {
+                                                                        "chart": {
+                                                                            "theme": "fint",
+                                                                            "radarfillcolor": "#ffffff",
+                                                                        },
+                                                                        "categories": [{
+                                                                            "category": [{
+                                                                                "label": "Joy"
+                                                                            }, {
+                                                                                "label": "Trust"
+                                                                            }, {
+                                                                                "label": "Fear"
+                                                                            }, {
+                                                                                "label": "Surprise"
+                                                                            }, {
+                                                                                "label": "None"
+                                                                            }, {
+                                                                                "label": "Sadness"
+                                                                            }, {
+                                                                                "label": "Disgust"
+                                                                            }, {
+                                                                                "label": "Anger"
+                                                                            }, {
+                                                                                "label": "Anticipation"
+                                                                            }]
+                                                                        }],
+                                                                        "dataset": [{
+                                                                            "seriesname": "Classification",
+                                                                            "data": [{
+                                                                                "value": "{{max(0.5,tweet['joy'])}}"
+                                                                            }, {
+                                                                                "value": "{{max(0.5,tweet['trust'])}}"
+                                                                            }, {
+                                                                                "value": "{{max(0.5,tweet['fear'])}}"
+                                                                            }, {
+                                                                                "value": "{{max(0.5,tweet['surprise'])}}"
+                                                                            }, {
+                                                                                "value": "{{max(0.5,tweet['none'])}}"
+                                                                            }, {
+                                                                                "value": "{{max(0.5,tweet['sadness'])}}"
+                                                                            }, {
+                                                                                "value": "{{max(0.5,tweet['disgust'])}}"
+                                                                            }, {
+                                                                                "value": "{{max(0.5,tweet['anger'])}}"
+                                                                            }, {
+                                                                                "value": "{{max(0.5,tweet['anticipation'])}}"
+                                                                            }]
+                                                                        }]
+                                                                    }
+                                                                }
+                                                            );
+                                                            fusioncharts.render();
+                                                        });
+                                                    </script>
+                                                    <div id="radar_{{ tweet['tweet_id'] }}" class="col-md-12 margin=0"
+                                                         style="height: 30em"></div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                    <input type="hidden" name="lang" value="en">
+                    <input type="hidden" name="tweet_id" value="{{ tweet['tweet_id'] }}">
+                    <input type="hidden" name="classification" value="{{ classification }}">
+                </form>
+            </div>
+
+        </div>
+    </div>
+
+</main>
+{% include 'foot.html' %}
