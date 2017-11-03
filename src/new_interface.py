@@ -47,7 +47,7 @@ def validate_tag_get():
 
 
 @new_interface.route(APP_ROUTE + '/validate', methods=["POST"])
-def validate_tag_get():
+def validate_tag_post():
     validation = request.form["validation"]
 
     if validation == "skip":
