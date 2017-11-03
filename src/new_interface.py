@@ -23,7 +23,7 @@ def classify_get():
     return render_template("catalog_alternative.html", tweet=tweet, max=max, app_route=APP_ROUTE)
 
 
-@new_interface.route(APP_ROUTE + '/add_classification/<int:id>', methods=["GET"])
+@new_interface.route(APP_ROUTE + '/add_classification/<int:tweet_id>', methods=["GET"])
 def classify_tweet(tweet_id):
     tweet_class = request.args.get('class')
 
