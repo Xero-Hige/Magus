@@ -10,9 +10,12 @@ from libs.sentiments_handling import ANGER, ANGRY, ANTICIPATION, DISGUST, DYADS,
     SURPRISE, TRUST
 from libs.tweet_anonymize import full_anonymize_tweet
 from libs.tweet_parser import TweetParser
+from new_interface import new_interface
 from utils.tweets_scrapper import do_scrapping
 
 app = Flask(__name__)
+app.register_blueprint(new_interface)
+
 app.config['TEMPLATES_AUTO_RELOAD'] = True
 
 EMOJIS = re.compile(u"\\ud83d", flags=re.UNICODE)
