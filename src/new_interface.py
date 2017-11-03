@@ -27,7 +27,7 @@ def classify_get():
 def classify_tweet(tweet_id):
     tweet_class = request.args.get('class')
 
-    classify_tweet_db(tweet_id, tweet_class)
+    classify_tweet_db(str(tweet_id), tweet_class)
 
     return redirect(APP_ROUTE + '/classify')
 
