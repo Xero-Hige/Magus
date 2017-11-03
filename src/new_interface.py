@@ -4,7 +4,8 @@ import random
 from flask import Blueprint, redirect, render_template, request
 
 from libs.db_tweet import DB_Handler
-from tweets_show import load_tweet
+from libs.tweet_anonymize import full_anonymize_tweet
+from libs.tweet_parser import TweetParser
 
 APP_ROUTE = '/en'
 
@@ -55,3 +56,23 @@ def classify_tweet_db(tweet_id, tweet_class, add_value=3):
 
         tweet.totals += abs(add_value) if tweet.totals != 1 else abs(add_value) - 1
         # TODO: LOCK RELEASE
+
+
+def load_tweet(tweet_file_name):
+    tweet = TweetParser.parse_from_json_file(tweet_file_name)
+
+    tweet["tweet_text"] = full_anonymize_tweet(tweet.get(TweetParser.TWEET_TEXT, ""))
+
+    with DB_Handler() as handler:
+        _tweet = handler.get_tagged(tweet["tweet_id"])
+
+        emotions = _tweet.get_emotions_list()
+
+    tweet_dict_add_emotions(tweet, emotions)
+
+    return tweet
+
+
+def tweet_dict_add_emotions(tweet, emotions):
+    for emotion in emotions:
+        tweet[emotion[1]] = emotion[0]
