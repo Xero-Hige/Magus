@@ -2,7 +2,8 @@ import sqlalchemy
 from sqlalchemy import Column, Integer, String
 from sqlalchemy.ext.declarative import declarative_base
 
-from libs.sentiments_handling import *
+from libs.sentiments_handling import ANGER, ANGRY, ANTICIPATION, DISGUST, FEAR, GROUPS, HAPPY, JOY, NEUTRAL, NONE, SAD, \
+    SADNESS, SURPRISE, TRUST, get_sentiment
 
 Base = declarative_base()
 
@@ -25,6 +26,8 @@ class TaggedTweet(Base):
     ironic = Column(Integer, default=0)
 
     totals = Column(Integer, nullable=False)
+
+    THRESHOLD = 0.40
 
     def get_emotions_list(self):
         """Returns a list of the emotions in the tweet as a tuple with the format
@@ -57,6 +60,30 @@ class TaggedTweet(Base):
             emotions[i] = tuple(emotion)
 
         return emotions
+
+    def get_emotions_dict(self):
+        """Returns a list of the emotions in the tweet as a tuple with the format
+        (<percentage>,<emotion name>)"""  # TODO: Change
+
+        emotions = {JOY: 1 if self.joy / self.totals > self.THRESHOLD else 0,
+                    TRUST: 1 if self.trust / self.totals > self.THRESHOLD else 0,
+                    FEAR: 1 if self.fear / self.totals > self.THRESHOLD else 0,
+                    SURPRISE: 1 if self.surprise / self.totals > self.THRESHOLD else 0,
+                    DISGUST: 1 if self.disgust / self.totals > self.THRESHOLD else 0,
+                    ANGER: 1 if self.anger / self.totals > self.THRESHOLD else 0,
+                    ANTICIPATION: 1 if self.anticipation / self.totals > self.THRESHOLD else 0,
+                    SADNESS: 1 if self.sadness / self.totals > self.THRESHOLD else 0}
+
+        return emotions
+
+    def get_tweet_emotion(self):
+        emotions = self.get_emotions_dict()
+
+        for emotion, enabled in emotions.items():
+            if enabled:
+                return emotion
+
+        return NEUTRAL
 
     def get_sentiment_list(self):
         """Returns the list of sentiments asociated to the tweet as a list of tuples
