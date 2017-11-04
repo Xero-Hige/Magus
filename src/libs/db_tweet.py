@@ -7,7 +7,7 @@ from libs.sentiments_handling import ANGER, ANGRY, ANTICIPATION, DISGUST, FEAR, 
 
 Base = declarative_base()
 
-UNCLASIFIED = "-"
+UNCLASIFIED = "unclassified"
 
 
 class TaggedTweet(Base):
@@ -43,22 +43,6 @@ class TaggedTweet(Base):
                     [self.none / self.totals, NONE],
                     [self.none / self.totals, NONE]]
 
-        emotions.sort(reverse=True)
-
-        normalized_value = len(emotions)
-        for i, emotion in enumerate(emotions):
-            if emotion[0] == 0:
-                normalized_value = 0
-
-            must_reduce = i < len(emotions) - 1 and emotions[i][0] != emotions[i + 1][0]
-
-            emotion[0] = normalized_value
-
-            if must_reduce:
-                normalized_value = len(emotions) - (i + 1)
-
-            emotions[i] = tuple(emotion)
-
         return emotions
 
     def get_emotions_dict(self):
@@ -77,6 +61,9 @@ class TaggedTweet(Base):
         return emotions
 
     def get_tweet_emotion(self):
+        if self.totals < 3:
+            return UNCLASIFIED
+
         emotions = self.get_emotions_dict()
 
         for emotion, enabled in emotions.items():
