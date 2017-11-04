@@ -3,7 +3,7 @@ import random
 
 from flask import Blueprint, redirect, render_template, request
 
-from libs.db_tweet import DB_Handler
+from libs.db_tweet import DB_Handler, UNCLASIFIED
 from libs.lexicon import Lexicon
 from libs.tweet_anonymize import full_anonymize_tweet
 from libs.tweet_parser import TweetParser
@@ -14,9 +14,6 @@ new_interface = Blueprint('new_interface', __name__,
                           template_folder='templates')
 
 LEXICONS = [Lexicon("./lexicons/en_lexicon.lxc", lang="en")]
-
-UNCLASSIFIED = "unclassified"
-
 
 @new_interface.route(APP_ROUTE + '/classify', methods=["GET"])
 def classify_get():
@@ -41,7 +38,7 @@ def validate_tag_get():
     else:
         classification = LEXICONS[0].auto_tag_sentence(tweet["tweet_text"]) if LEXICONS[0].get_associated_lang() in \
                                                                                tweet[
-                                                                                   "tweet_user_lang"].lower() else UNCLASSIFIED
+                                                                                   "tweet_user_lang"].lower() else UNCLASIFIED
         auto = "LEXICON " + LEXICONS[0].get_associated_lang()
 
     return render_template("tag_validator.html", tweet=tweet, max=max, app_route=APP_ROUTE,
