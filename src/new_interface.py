@@ -15,6 +15,8 @@ new_interface = Blueprint('new_interface', __name__,
 
 LEXICONS = [Lexicon("./lexicons/en_lexicon.lxc", lang="en")]
 
+UNCLASSIFIED = "unclassified"
+
 
 @new_interface.route(APP_ROUTE + '/classify', methods=["GET"])
 def classify_get():
@@ -34,12 +36,12 @@ def validate_tag_get():
     tweet = load_tweet(random.choice(tweets))
 
     if tweet["totals"] > 1:
-        classification = tweet["max_emotion"]
+        classification = tweet["tweet_emotion"]
         auto = "BD"
     else:
         classification = LEXICONS[0].auto_tag_sentence(tweet["tweet_text"]) if LEXICONS[0].get_associated_lang() in \
                                                                                tweet[
-                                                                                   "tweet_user_lang"].lower() else "neutral"
+                                                                                   "tweet_user_lang"].lower() else UNCLASSIFIED
         auto = "LEXICON " + LEXICONS[0].get_associated_lang()
 
     return render_template("tag_validator.html", tweet=tweet, max=max, app_route=APP_ROUTE,
@@ -108,21 +110,15 @@ def load_tweet(tweet_file_name):
 
         emotions = _tweet.get_emotions_list()
         totals = _tweet.totals
+        emotion = _tweet.get_tweet_emotion()
 
     tweet_dict_add_emotions(tweet, emotions)
     tweet["totals"] = totals
+    tweet["tweet_emotion"] = emotion
 
     return tweet
 
 
 def tweet_dict_add_emotions(tweet, emotions):
-    max_value = -1
-    max_emotion = None
     for emotion in emotions:
         tweet[emotion[1]] = emotion[0]
-
-        if max_value < emotion[0]:
-            max_value = emotion[0]
-            max_emotion = emotion[1]
-
-    tweet["max_emotion"] = max_emotion

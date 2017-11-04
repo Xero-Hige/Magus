@@ -44,11 +44,15 @@
                         </div>
 
                         <div class="row">
-                            {{ classification }}
+                            {{ classification.title() }}
 
                             <br><br><br><br><br>
+                            {% if classification=="unclassified" %}
+                                {{ classification.title() }}
+                            {% else %}
+                                {{ auto.title() }}
+                            {% endif %}
 
-                            {{ auto }}
                         </div>
 
                         <div class="row">
