@@ -15,6 +15,7 @@ new_interface = Blueprint('new_interface', __name__,
 
 LEXICONS = [Lexicon("./lexicons/en_lexicon.lxc", lang="en")]
 
+
 @new_interface.route(APP_ROUTE + '/classify', methods=["GET"])
 def classify_get():
     tweets = ["../tweets/{}".format(x) for x in os.listdir("../tweets")] \
