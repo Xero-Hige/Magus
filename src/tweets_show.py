@@ -5,9 +5,9 @@ from subprocess import PIPE, Popen
 
 from flask import Flask, redirect, render_template, request
 
-from libs.db_tweet import DB_Handler, get_sentiment_emotions
+from libs.db_tweet import DB_Handler
 from libs.sentiments_handling import ANGER, ANTICIPATION, DISGUST, DYADS, FEAR, JOY, NEUTRAL, NONE, SADNESS, SURPRISE, \
-    TRUST
+    TRUST, get_sentiment_emotions
 from libs.tweet_anonymize import full_anonymize_tweet
 from libs.tweet_parser import TweetParser
 from new_interface import new_interface
