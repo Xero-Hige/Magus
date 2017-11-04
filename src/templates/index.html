@@ -5,10 +5,18 @@
         <button type="submit" class="btn btn-success">Add Tweet</button>
     </form>
 
-    <form action="/en/classify" method="get">
-        <button type="submit" class="btn btn-success">Classify Tweets</button>
-    </form>
+    <div>
+        <div class="row">English Frontend</div>
+        <div class="row">
+            <form action="/en/classify" method="get">
+                <button type="submit" class="btn btn-success">Classify Tweets</button>
+            </form>
 
+            <form action="/en/validate" method="get">
+                <button type="submit" class="btn btn-success">Validate Tweets</button>
+            </form>
+        </div>
+    </div>
     <form action="/classifyEsp" method="get">
         <button type="submit" class="btn btn-success">Clasificar Tweets (Español)</button>
     </form>
