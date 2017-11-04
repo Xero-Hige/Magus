@@ -5,9 +5,9 @@ from subprocess import PIPE, Popen
 
 from flask import Flask, redirect, render_template, request
 
-from libs.db_tweet import DB_Handler, UNCLASIFIED, get_sentiment_emotions
-from libs.sentiments_handling import ANGER, ANGRY, ANTICIPATION, DISGUST, DYADS, FEAR, HAPPY, JOY, NONE, SAD, SADNESS, \
-    SURPRISE, TRUST
+from libs.db_tweet import DB_Handler, get_sentiment_emotions
+from libs.sentiments_handling import ANGER, ANTICIPATION, DISGUST, DYADS, FEAR, JOY, NEUTRAL, NONE, SADNESS, SURPRISE, \
+    TRUST
 from libs.tweet_anonymize import full_anonymize_tweet
 from libs.tweet_parser import TweetParser
 from new_interface import new_interface
@@ -267,8 +267,8 @@ def classify_esp_post():
 
 @app.route('/status', methods=["GET"])
 def status():
-    totals_emotions, totals_groups, samples = get_tweets_status()
-    return render_template("DB_status.html", emotions=totals_emotions, groups=totals_groups, samples=samples)
+    totals_emotions, samples = get_tweets_status()
+    return render_template("DB_status.html", emotions=totals_emotions, samples=samples)
 
 
 def load_tweet(tweet_file_name):
@@ -293,12 +293,21 @@ def load_tweet(tweet_file_name):
 
 def get_tweets_status():
     totals_emotions = {}
-    totals_groups = {}
 
     demo_tweets = os.listdir("../tweets")
     bulk_tweets = os.listdir("../bulk")
 
-    samples = {HAPPY: [], SAD: [], ANGRY: [], NONE: [], UNCLASIFIED: []}
+    samples = {
+        JOY: [],
+        TRUST: [],
+        FEAR: [],
+        SURPRISE: [],
+        DISGUST: [],
+        ANGER: [],
+        ANTICIPATION: [],
+        SADNESS: [],
+        NEUTRAL: []
+    }
 
     with DB_Handler() as handler:
         _tweets = handler.get_all_tagged()
@@ -313,25 +322,17 @@ def get_tweets_status():
             if tweet_filename not in demo_tweets and tweet_filename not in bulk_tweets:
                 continue
 
-            emotions = _tweet.get_emotions_list()
-            emotions = [emotion[1]
-                        for emotion in emotions
-                        if emotion[0] > 0
-                        ][:2]
+            tweet_emotion = _tweet.get_tweet_emotion()
 
-            for emotion in emotions:
-                totals_emotions[emotion] = totals_emotions.get(emotion, 0) + 1
+            totals_emotions[tweet_emotion] = totals_emotions.get(tweet_emotion, 0) + 1
 
-            group = _tweet.get_tweet_group()
-            totals_groups[group] = totals_groups.get(group, 0) + 1
+            samples[tweet_emotion].append((_tweet.id, tweet_emotion))
 
-            samples[group].append((_tweet.id, _tweet.get_tweet_sentiment()))
-
-            samples_collected = len(samples[group])
+            samples_collected = len(samples[tweet_emotion])
             if samples_collected > 10:
-                samples[group].pop(random.choice([0, samples_collected - 1]))
+                samples[tweet_emotion].pop(random.choice([0, samples_collected - 1]))
 
-    return totals_emotions, totals_groups, samples
+    return totals_emotions, samples
 
 
 def tweet_dict_add_emotions(tweet, emotions):
