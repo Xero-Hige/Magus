@@ -42,6 +42,7 @@ FEAR = "fear"
 LOVE = "love"
 TRUST = "trust"
 JOY = "joy"
+NEUTRAL = "neutral"
 
 DYADS = {
     (JOY, TRUST): LOVE,
