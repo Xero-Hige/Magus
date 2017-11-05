@@ -2,7 +2,6 @@ import numpy as np
 import tensorflow as tf
 from gensim.models import KeyedVectors
 
-from NNLayers import get_word_vector
 from cnn_schema import CNNSchema
 from libs.db_tweet import DB_Handler
 from libs.sentiments_handling import ANGER, ANTICIPATION, DISGUST, FEAR, JOY, NEUTRAL, SADNESS, SURPRISE, TRUST
@@ -29,13 +28,13 @@ class AttardiCNNSchema(CNNSchema):
     Uses an embedding layer, followed by a convolutional, max-pooling and softmax layer.
     """
 
-    def __init__(self, sequence_length, num_classes, vocab_size, embedding_size, filter_sizes, num_filters,
+    def __init__(self, sequence_length, num_classes, vocab_size, embedding_size, filter_sizes, num_filters, batch_size,
                  l2_reg_lambda=0.0):
 
         # Placeholders for input, output and dropout
         super().__init__(sequence_length, num_classes, vocab_size, embedding_size, filter_sizes, num_filters,
                          l2_reg_lambda)
-        input_features, input_labels = self.create_input_layer(num_classes, embedding_size)
+        input_features, input_labels = self.create_input_layer(batch_size, num_classes, embedding_size)
         self.dropout_keep_prob = tf.placeholder(tf.float32, name="dropout_keep_prob")
         l2_loss = tf.constant(0.0)
 
@@ -59,7 +58,7 @@ class AttardiCNNSchema(CNNSchema):
         self.accuracy = self.get_accuracy(self.input_y, predictions)
 
     @staticmethod
-    def get_input_data():
+    def get_input_data(embedding_size=300):
         word_vectors = KeyedVectors.load('./mymodel.mdl')
 
         data = []
@@ -89,7 +88,7 @@ class AttardiCNNSchema(CNNSchema):
             tokens = WordTokenizer.tokenize_raw(tweet)
 
             for word in tokens:
-                tweet_vectors.append(get_word_vector(word, word_vectors))
+                tweet_vectors.append(get_word_vector(word, word_vectors, embedding_size))
 
             while len(tweet_vectors) < MAX_WORDS:
                 tweet_vectors.append([[0]] * 300)
@@ -110,3 +109,10 @@ class AttardiCNNSchema(CNNSchema):
         labels = np.asarray(labels, dtype=np.float32)
 
         return features, labels
+
+
+def get_word_vector(word, word_vectors, embedding_size):
+    if word in word_vectors:
+        return [[x] for x in word_vectors[word]]
+
+    return [[0]] * embedding_size

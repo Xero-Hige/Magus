@@ -22,7 +22,7 @@ tf.flags.DEFINE_float("dropout_keep_prob", 0.5, "Dropout keep probability (defau
 tf.flags.DEFINE_float("l2_reg_lambda", 0.0, "L2 regularization lambda (default: 0.0)")
 
 # Training parameters
-tf.flags.DEFINE_integer("batch_size", 50, "Batch Size (default: 64)")
+tf.flags.DEFINE_integer("batch_size", 2, "Batch Size (default: 64)")
 tf.flags.DEFINE_integer("num_epochs", 25, "Number of training epochs (default: 200)")
 tf.flags.DEFINE_integer("evaluate_every", 100, "Evaluate model on dev set after this many steps (default: 100)")
 tf.flags.DEFINE_integer("checkpoint_every", 100, "Save model after this many steps (default: 100)")
@@ -44,7 +44,8 @@ print("")
 
 # Load data
 print("Loading data...")
-x_text, y = AttardiCNNSchema.get_input_data()  # load_data_and_labels(FLAGS.positive_data_file, FLAGS.negative_data_file)
+x_text, y = AttardiCNNSchema.get_input_data(
+        300)  # load_data_and_labels(FLAGS.positive_data_file, FLAGS.negative_data_file)
 
 # Build vocabulary
 max_document_length = 300  # max([len(x.split(" ")) for x in x_text])
@@ -116,7 +117,8 @@ with tf.Graph().as_default():
                 embedding_size=FLAGS.embedding_dim,
                 filter_sizes=list(map(int, FLAGS.filter_sizes.split(","))),
                 num_filters=FLAGS.num_filters,
-                l2_reg_lambda=FLAGS.l2_reg_lambda)
+                l2_reg_lambda=FLAGS.l2_reg_lambda,
+                batch_size=2)
 
         # Define Training procedure
         global_step = tf.Variable(0, name="global_step", trainable=False)

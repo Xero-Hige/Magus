@@ -114,14 +114,14 @@ class CNNSchema(object):
         return filter_layers
 
     @staticmethod
-    def create_input_layer(num_classes, embeddings_length):
+    def create_input_layer(batch, num_classes, embeddings_length):
         # shape of input = [batch, in_height, in_width, in_channels]
 
-        input_x = tf.placeholder(tf.float32, [None, None, embeddings_length, 1], name="input_x")
-        input_y = tf.placeholder(tf.int32, [None, num_classes], name="input_y")
+        input_x = tf.placeholder(tf.float32, [batch, None, embeddings_length, 1], name="input_x")
+        input_y = tf.placeholder(tf.int32, [batch, num_classes], name="input_y")
 
         return input_x, input_y
 
     @staticmethod
-    def get_input_data():
+    def get_input_data(embedding_size):
         raise NotImplementedError
