@@ -88,7 +88,7 @@ class AttardiCNNSchema(CNNSchema):
             tokens = WordTokenizer.tokenize_raw(tweet)
 
             for word in tokens:
-                tweet_vectors.append(get_word_vector(word, word_vectors, embedding_size))
+                tweet_vectors.append(AttardiCNNSchema._get_word_vector(word, word_vectors, embedding_size))
 
             while len(tweet_vectors) < MAX_WORDS:
                 tweet_vectors.append([[0]] * 300)
@@ -109,10 +109,3 @@ class AttardiCNNSchema(CNNSchema):
         labels = np.asarray(labels, dtype=np.float32)
 
         return features, labels
-
-
-def get_word_vector(word, word_vectors, embedding_size):
-    if word in word_vectors:
-        return [[x] for x in word_vectors[word]]
-
-    return [[0]] * embedding_size

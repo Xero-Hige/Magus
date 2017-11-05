@@ -125,3 +125,10 @@ class CNNSchema(object):
     @staticmethod
     def get_input_data(embedding_size):
         raise NotImplementedError
+
+    @staticmethod
+    def _get_word_vector(word, embedding_lookup, embedding_size):
+        if word in embedding_lookup:
+            return [[x] for x in embedding_lookup[word]]
+
+        return [[0]] * embedding_size
