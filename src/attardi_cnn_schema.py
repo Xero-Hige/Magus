@@ -5,28 +5,21 @@ from gensim.models import KeyedVectors
 from NNLayers import get_word_vector
 from cnn_schema import CNNSchema
 from libs.db_tweet import DB_Handler
-from libs.sentiments_handling import ANGER, ANGRY, ANTICIPATION, DISGUST, FEAR, HAPPY, JOY, NONE, SAD, SADNESS, \
-    SURPRISE, TRUST
+from libs.sentiments_handling import ANGER, ANTICIPATION, DISGUST, FEAR, JOY, NEUTRAL, SADNESS, SURPRISE, TRUST
 from libs.tweet_parser import TweetParser
 from tokenizer.word_tokenizer import WordTokenizer
 
-EMOTION_LOOKUP = {
-    JOY: 1,
-    TRUST: 2,
-    FEAR: 3,
-    SURPRISE: 4,
-    SADNESS: 5,
-    DISGUST: 6,
-    ANGER: 7,
-    ANTICIPATION: 8,
-    NONE: 9
-}
+MAX_WORDS = 80
 
-GROUP_LOOKUP = {
-    HAPPY: EMOTION_LOOKUP[NONE] + 1,
-    SAD: EMOTION_LOOKUP[NONE] + 2,
-    ANGRY: EMOTION_LOOKUP[NONE] + 2,
-    NONE: EMOTION_LOOKUP[NONE] + 4,
+EMOTION_LOOKUP = {
+    JOY: 0,
+    TRUST: 1,
+    FEAR: 2,
+    SURPRISE: 3,
+    SADNESS: 4,
+    DISGUST: 5,
+    ANGER: 6,
+    ANTICIPATION: 7
 }
 
 
@@ -83,30 +76,35 @@ class AttardiCNNSchema(CNNSchema):
                         print("Missing tweet id: ", tweet_data.id)
                         continue
 
-                data.append((tweet, tweet_data.get_emotions_list(), tweet_data.get_tweet_group()))
+                data.append((tweet, tweet_data.get_emotions_list(), tweet_data.get_tweet_emotion()))
 
         features = []
         labels = []
 
         for tweet, emotions, tag in data:
+            if tag not in EMOTION_LOOKUP and tag != NEUTRAL:
+                continue
+
             tweet_vectors = []
             tokens = WordTokenizer.tokenize_raw(tweet)
 
             for word in tokens:
                 tweet_vectors.append(get_word_vector(word, word_vectors))
 
-            while len(tweet_vectors) < 70:
-                tweet_vectors.append(np.asarray([[0]] * 300))
+            while len(tweet_vectors) < MAX_WORDS:
+                tweet_vectors.append([[0]] * 300)
+
+            if len(tweet_vectors) > MAX_WORDS:
+                print(tweet["tweet_id"])
 
             features.append(tweet_vectors)
 
-            label = [0] * 14
-            label[GROUP_LOOKUP[tag]] = 1
+            label = [0] * len(EMOTION_LOOKUP)
 
-            # for emotion_value, emotion_tag in emotions:
-            #    label[EMOTION_LOOKUP[emotion_tag]] = emotion_value / 10
+            if tag != NEUTRAL:
+                label[EMOTION_LOOKUP[tag]] = 1
 
-            labels.append(label[10:12])
+            labels.append(label)
 
         features = np.asarray(features, dtype=np.float32)
         labels = np.asarray(labels, dtype=np.float32)
