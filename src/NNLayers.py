@@ -249,13 +249,5 @@ def get_input_data():
     return eval_data, eval_labels, train_data, train_labels
 
 
-def get_word_vector(word, word_vectors):
-    if word in word_vectors:
-        word_vector = [[x] for x in word_vectors[word]]
-    else:
-        word_vector = np.asarray([[0]] * COLUMNS)
-    return word_vector
-
-
 if __name__ == "__main__":
     tf.app.run()

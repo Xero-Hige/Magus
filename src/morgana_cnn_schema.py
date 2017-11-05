@@ -2,7 +2,6 @@ import numpy as np
 import tensorflow as tf
 from gensim.models import KeyedVectors
 
-from NNLayers import get_word_vector
 from cnn_schema import CNNSchema
 from libs.db_tweet import DB_Handler
 from libs.sentiments_handling import ANGER, ANGRY, ANTICIPATION, DISGUST, FEAR, HAPPY, JOY, NONE, SAD, SADNESS, \
