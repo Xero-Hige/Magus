@@ -1,0 +1,100 @@
+{
+  "created_at": "Fri May 29 14:52:41 +0000 2009",
+  "is_quote_status": false,
+  "in_reply_to_user_id": 952941,
+  "in_reply_to_status_id_str": "1957096306",
+  "in_reply_to_user_id_str": "952941",
+  "id": 1960383540,
+  "contributors": null,
+  "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+  "entities": {
+    "urls": [],
+    "symbols": [],
+    "user_mentions": [
+      {
+        "name": "Daniel Rhodes",
+        "screen_name": "danielrhodes",
+        "indices": [
+          0,
+          13
+        ],
+        "id": 952941,
+        "id_str": "952941"
+      }
+    ],
+    "hashtags": []
+  },
+  "user": {
+    "created_at": "Thu Dec 11 04:07:08 +0000 2008",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "follow_request_sent": false,
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/3668342258/f404f7c7a89a9a1319e15b574215343e_normal.jpeg",
+    "utc_offset": -25200,
+    "time_zone": "Pacific Time (US & Canada)",
+    "is_translator": false,
+    "name": "Chris Burkhart",
+    "is_translation_enabled": false,
+    "default_profile_image": false,
+    "has_extended_profile": false,
+    "notifications": false,
+    "following": false,
+    "description": "Tweets and opinions are not my own, but blatantly stolen from whomever is near me at the moment. Technical Lead @blizzard_ent",
+    "screen_name": "ctide",
+    "contributors_enabled": false,
+    "protected": false,
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "expanded_url": "http://www.github.com/ctide",
+            "url": "https://t.co/qI16jDfesP",
+            "indices": [
+              0,
+              23
+            ],
+            "display_url": "github.com/ctide"
+          }
+        ]
+      },
+      "description": {
+        "urls": []
+      }
+    },
+    "default_profile": true,
+    "profile_background_color": "C0DEED",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_link_color": "1DA1F2",
+    "url": "https://t.co/qI16jDfesP",
+    "favourites_count": 489,
+    "translator_type": "none",
+    "profile_use_background_image": true,
+    "profile_background_tile": false,
+    "verified": false,
+    "id": 18040294,
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "statuses_count": 2526,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/3668342258/f404f7c7a89a9a1319e15b574215343e_normal.jpeg",
+    "listed_count": 38,
+    "followers_count": 428,
+    "friends_count": 427,
+    "location": "Irvine, CA",
+    "geo_enabled": true,
+    "lang": "en",
+    "profile_text_color": "333333",
+    "id_str": "18040294"
+  },
+  "coordinates": null,
+  "retweeted": false,
+  "truncated": false,
+  "favorited": false,
+  "in_reply_to_status_id": 1957096306,
+  "geo": null,
+  "retweet_count": 0,
+  "favorite_count": 0,
+  "in_reply_to_screen_name": "danielrhodes",
+  "id_str": "1960383540",
+  "place": null,
+  "lang": "en",
+  "text": "@danielrhodes I worked on the precursor to bing at msft. They canned our project :("
+}
