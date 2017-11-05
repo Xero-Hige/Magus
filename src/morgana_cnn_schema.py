@@ -102,7 +102,7 @@ class MorganaCNNSchema(CNNSchema):
             tokens = WordTokenizer.tokenize_raw(tweet)
 
             for word in tokens:
-                tweet_vectors.append(get_word_vector(word, word_vectors))
+                tweet_vectors.append(MorganaCNNSchema._get_word_vector(word, word_vectors, 300))
 
             while len(tweet_vectors) < 70:
                 tweet_vectors.append(np.asarray([[0]] * 300))
