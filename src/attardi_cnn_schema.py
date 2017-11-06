@@ -28,13 +28,14 @@ class AttardiCNNSchema(CNNSchema):
     Uses an embedding layer, followed by a convolutional, max-pooling and softmax layer.
     """
 
-    def __init__(self, sequence_length, num_classes, vocab_size, embedding_size, filter_sizes, num_filters, batch_size,
+    def __init__(self, sequence_length, num_classes, vocab_size, embedding_size, filter_sizes, num_filters,
                  l2_reg_lambda=0.0):
 
         # Placeholders for input, output and dropout
         super().__init__(sequence_length, num_classes, vocab_size, embedding_size, filter_sizes, num_filters,
                          l2_reg_lambda)
-        input_features, input_labels = self.create_input_layer(batch_size, num_classes, embedding_size)
+        input_features, input_labels = self.create_input_layer(num_classes, embedding_size)
+
         self.dropout_keep_prob = tf.placeholder(tf.float32, name="dropout_keep_prob")
         l2_loss = tf.constant(0.0)
 
@@ -50,7 +51,6 @@ class AttardiCNNSchema(CNNSchema):
 
         dropout_layer_output = self.create_dropout_layer(convolution_layer_output,
                                                          dropout_prob=self.dropout_keep_prob)
-
         scores, predictions, l2_loss = self.create_output_layer(dropout_layer_output, output_channels, num_classes,
                                                                 l2_loss=l2_loss)
 
