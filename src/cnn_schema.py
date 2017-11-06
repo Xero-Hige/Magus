@@ -14,6 +14,9 @@ class CNNSchema(object):
 
     @staticmethod
     def get_accuracy(input_labels, predictions):
+        print(input_labels)
+        print(predictions)
+        predictions = tf.Print(predictions, [predictions])
         # Accuracy
         with tf.name_scope("accuracy"):
             correct_predictions = tf.equal(predictions, tf.argmax(input_labels, 1))
@@ -82,7 +85,7 @@ class CNNSchema(object):
         # Maxpooling over the outputs
         pooled = tf.nn.max_pool(
                 input_layer,
-                ksize=[1, sequence_length - filter_height + 1, 1, 1],
+                ksize=(1, sequence_length - filter_height + 1, 1, 1),
                 strides=strides,
                 padding=padding,
                 name="pooling-layer")
@@ -129,6 +132,6 @@ class CNNSchema(object):
     @staticmethod
     def _get_word_vector(word, embedding_lookup, embedding_size):
         if word in embedding_lookup:
-            return [[x] for x in embedding_lookup[word]]
+            return [(x,) for x in embedding_lookup[word]]
 
-        return [[0]] * embedding_size
+        return [(0,)] * embedding_size
