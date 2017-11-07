@@ -18,7 +18,8 @@ EMOTION_LOOKUP = {
     SADNESS: 4,
     DISGUST: 5,
     ANGER: 6,
-    ANTICIPATION: 7
+    ANTICIPATION: 7,
+    NEUTRAL: 8
 }
 
 
@@ -51,7 +52,7 @@ class AttardiCNNSchema(CNNSchema):
 
         dropout_layer_output = self.create_dropout_layer(convolution_layer_output,
                                                          dropout_prob=self.dropout_keep_prob)
-        scores, predictions, l2_loss = self.create_output_layer(dropout_layer_output, output_channels, num_classes,
+        scores, predictions, l2_loss = self.create_output_layer(convolution_layer_output, output_channels, num_classes,
                                                                 l2_loss=l2_loss)
 
         self.loss = self.get_loss(self.input_y, l2_loss, l2_reg_lambda, scores)
@@ -81,7 +82,7 @@ class AttardiCNNSchema(CNNSchema):
         labels = []
 
         for tweet, emotions, tag in data:
-            if tag not in EMOTION_LOOKUP and tag != NEUTRAL:
+            if tag not in EMOTION_LOOKUP:
                 continue
 
             tweet_vectors = []
@@ -100,8 +101,7 @@ class AttardiCNNSchema(CNNSchema):
 
             label = [0] * len(EMOTION_LOOKUP)
 
-            if tag != NEUTRAL:
-                label[EMOTION_LOOKUP[tag]] = 1
+            label[EMOTION_LOOKUP[tag]] = 1
 
             labels.append(label)
 
