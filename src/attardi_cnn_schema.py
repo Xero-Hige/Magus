@@ -76,12 +76,12 @@ class AttardiCNNSchema(CNNSchema):
                         print("Missing tweet id: ", tweet_data.id)
                         continue
 
-                data.append((tweet, tweet_data.get_emotions_list(), tweet_data.get_tweet_emotion()))
+                data.append((tweet, tweet_data.get_tweet_emotion()))
 
         features = []
         labels = []
 
-        for tweet, emotions, tag in data:
+        for tweet, tag in data:
             if tag not in EMOTION_LOOKUP:
                 continue
 
