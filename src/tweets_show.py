@@ -5,16 +5,18 @@ from subprocess import PIPE, Popen
 
 from flask import Flask, redirect, render_template, request
 
+from english_classify import english_classify
 from libs.db_tweet import DB_Handler
 from libs.sentiments_handling import ANGER, ANTICIPATION, DISGUST, DYADS, FEAR, JOY, NEUTRAL, NONE, SADNESS, SURPRISE, \
     TRUST, get_sentiment_emotions
 from libs.tweet_anonymize import full_anonymize_tweet
 from libs.tweet_parser import TweetParser
-from new_interface import new_interface
+from spanish_classify import spanish_classify
 from utils.tweets_scrapper import do_scrapping
 
 app = Flask(__name__)
-app.register_blueprint(new_interface)
+app.register_blueprint(english_classify)
+app.register_blueprint(spanish_classify)
 
 app.config['TEMPLATES_AUTO_RELOAD'] = True
 
