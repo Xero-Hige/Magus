@@ -13,13 +13,9 @@ import tensorflow as tf
 from attardi_cnn_schema import AttardiCNNSchema
 
 VOCAB_SIZE = 80
-
 EPOCHS = 25
-
 BATCH_SIZE = 50
-
 NUMBER_OF_FILTERS = 200
-
 EMBEDINGS_SIZE = 300
 
 tf.flags.DEFINE_float("dev_sample_percentage", .1, "Percentage of the training data to use for validation")
