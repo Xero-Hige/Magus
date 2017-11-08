@@ -10,13 +10,13 @@ from libs.tweet_parser import TweetParser
 
 APP_ROUTE = '/en'
 
-new_interface = Blueprint('new_interface', __name__,
-                          template_folder='templates')
+english_classify = Blueprint('english_classify', __name__,
+                             template_folder='templates')
 
 LEXICONS = [Lexicon("./lexicons/en_lexicon.lxc", lang="en")]
 
 
-@new_interface.route(APP_ROUTE + '/classify', methods=["GET"])
+@english_classify.route(APP_ROUTE + '/classify', methods=["GET"])
 def classify_get():
     tweets = ["../tweets/{}".format(x) for x in os.listdir("../tweets")] \
              + ["../bulk/{}".format(x) for x in os.listdir("../bulk")]
@@ -26,7 +26,7 @@ def classify_get():
     return render_template("catalog_alternative.html", tweet=tweet, max=max, app_route=APP_ROUTE, lang='en')
 
 
-@new_interface.route(APP_ROUTE + '/validate', methods=["GET"])
+@english_classify.route(APP_ROUTE + '/validate', methods=["GET"])
 def validate_tag_get():
     tweets = ["../tweets/{}".format(x) for x in os.listdir("../tweets")] \
              + ["../bulk/{}".format(x) for x in os.listdir("../bulk")]
@@ -46,7 +46,7 @@ def validate_tag_get():
                            classification=classification, auto=auto)
 
 
-@new_interface.route(APP_ROUTE + '/validate', methods=["POST"])
+@english_classify.route(APP_ROUTE + '/validate', methods=["POST"])
 def validate_tag_post():
     validation = request.form["validation"]
 
@@ -63,7 +63,7 @@ def validate_tag_post():
     return redirect(APP_ROUTE + "/validate")
 
 
-@new_interface.route(APP_ROUTE + '/add_classification/<int:tweet_id>', methods=["GET"])
+@english_classify.route(APP_ROUTE + '/add_classification/<int:tweet_id>', methods=["GET"])
 def classify_tweet(tweet_id):
     tweet_class = request.args.get('class')
 
