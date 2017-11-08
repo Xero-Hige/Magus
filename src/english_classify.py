@@ -62,10 +62,10 @@ def validate_tag_post():
     return redirect(APP_ROUTE + "/validate")
 
 
-@english_classify.route(APP_ROUTE + '/add_classification/<int:tweet_id>', methods=["GET"])
+@english_classify.route(APP_ROUTE + '/add_classification/<string:tweet_id>', methods=["GET"])
 def classify_tweet(tweet_id):
     tweet_class = request.args.get('class')
 
-    classify_tweet_db(str(tweet_id), tweet_class)
+    classify_tweet_db(tweet_id, tweet_class)
 
     return redirect(APP_ROUTE + '/classify')
