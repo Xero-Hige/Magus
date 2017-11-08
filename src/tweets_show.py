@@ -214,28 +214,25 @@ def classify_tweet():
         if dyad_a == dyad_b and dyad_b == dyad_c and dyad_c == dyad_d and dyad_d == NONE:
             tweet.none += 1
         else:
-            tweet.joy += 1 if dyad_a == JOY else 0
-            tweet.sadness += 1 if dyad_a == SADNESS else 0
-            tweet.trust += 1 if dyad_b == TRUST else 0
-            tweet.disgust += 1 if dyad_b == DISGUST else 0
-            tweet.fear += 1 if dyad_c == FEAR else 0
-            tweet.anger += 1 if dyad_c == ANGER else 0
-            tweet.surprise += 1 if dyad_d == SURPRISE else 0
-            tweet.anticipation += 1 if dyad_d == ANTICIPATION else 0
+            tweet.joy = tweet.joy + (3 if dyad_a == JOY else 0)
+            tweet.sadness = tweet.sadness + (3 if dyad_a == SADNESS else 0)
+            tweet.trust = tweet.trust + (3 if dyad_b == TRUST else 0)
+            tweet.disgust = tweet.disgust + (3 if dyad_b == DISGUST else 0)
+            tweet.fear = tweet.fear + (3 if dyad_c == FEAR else 0)
+            tweet.anger = tweet.anger + (3 if dyad_c == ANGER else 0)
+            tweet.surprise = tweet.surprise + (3 if dyad_d == SURPRISE else 0)
+            tweet.anticipation = tweet.anticipation + (3 if dyad_d == ANTICIPATION else 0)
 
-        if sentiment == NONE:
-            tweet.none += 1
-        else:
-            emotions = get_sentiment_emotions(sentiment)
+        emotions = get_sentiment_emotions(sentiment)
 
-            tweet.joy += 2 if JOY in emotions else 0
-            tweet.sadness += 2 if SADNESS in emotions else 0
-            tweet.trust += 2 if TRUST in emotions else 0
-            tweet.disgust += 2 if DISGUST in emotions else 0
-            tweet.fear += 2 if FEAR in emotions else 0
-            tweet.anger += 2 if ANGER in emotions else 0
-            tweet.surprise += 2 if SURPRISE in emotions else 0
-            tweet.anticipation += 2 if ANTICIPATION in emotions else 0
+        tweet.joy += 2 if JOY in emotions else 0
+        tweet.sadness += 2 if SADNESS in emotions else 0
+        tweet.trust += 2 if TRUST in emotions else 0
+        tweet.disgust += 2 if DISGUST in emotions else 0
+        tweet.fear += 2 if FEAR in emotions else 0
+        tweet.anger += 2 if ANGER in emotions else 0
+        tweet.surprise += 2 if SURPRISE in emotions else 0
+        tweet.anticipation += 2 if ANTICIPATION in emotions else 0
 
         tweet.ironic += 3 if is_ironic else 0
 
