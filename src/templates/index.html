@@ -17,9 +17,17 @@
             </form>
         </div>
     </div>
-    <form action="/classifyEsp" method="get">
-        <button type="submit" class="btn btn-success">Clasificar Tweets (Español)</button>
-    </form>
+    <div>
+        <div class="row">Interfaz en Español</div>
+        <div class="row">
+            <form action="/es/classify" method="get">
+                <button type="submit" class="btn btn-success">Clasificar Tweets</button>
+            </form>
 
+            <form action="/es/validate" method="get">
+                <button type="submit" class="btn btn-success">Validar Tweets</button>
+            </form>
+        </div>
+    </div>
 </main>
 {% include 'foot.html' %}
