@@ -12,18 +12,28 @@ import tensorflow as tf
 # Data loading params
 from attardi_cnn_schema import AttardiCNNSchema
 
+VOCAB_SIZE = 80
+
+EPOCHS = 25
+
+BATCH_SIZE = 50
+
+NUMBER_OF_FILTERS = 200
+
+EMBEDINGS_SIZE = 300
+
 tf.flags.DEFINE_float("dev_sample_percentage", .1, "Percentage of the training data to use for validation")
 
 # Model Hyperparameters
-tf.flags.DEFINE_integer("embedding_dim", 300, "Dimensionality of character embedding (default: 128)")
+tf.flags.DEFINE_integer("embedding_dim", EMBEDINGS_SIZE, "Dimensionality of character embedding (default: 128)")
 tf.flags.DEFINE_string("filter_sizes", "7,7,7", "Comma-separated filter sizes (default: '3,4,5')")
-tf.flags.DEFINE_integer("num_filters", 200, "Number of filters per filter size (default: 128)")
+tf.flags.DEFINE_integer("num_filters", NUMBER_OF_FILTERS, "Number of filters per filter size (default: 128)")
 tf.flags.DEFINE_float("dropout_keep_prob", 0.5, "Dropout keep probability (default: 0.5)")
 tf.flags.DEFINE_float("l2_reg_lambda", 0, "L2 regularization lambda (default: 0.0)")
 
 # Training parameters
-tf.flags.DEFINE_integer("batch_size", 50, "Batch Size (default: 64)")
-tf.flags.DEFINE_integer("num_epochs", 25, "Number of training epochs (default: 200)")
+tf.flags.DEFINE_integer("batch_size", BATCH_SIZE, "Batch Size (default: 64)")
+tf.flags.DEFINE_integer("num_epochs", EPOCHS, "Number of training epochs (default: 200)")
 tf.flags.DEFINE_integer("evaluate_every", 100, "Evaluate model on dev set after this many steps (default: 100)")
 tf.flags.DEFINE_integer("checkpoint_every", 100, "Save model after this many steps (default: 100)")
 tf.flags.DEFINE_integer("num_checkpoints", 2, "Number of checkpoints to store (default: 5)")
@@ -47,7 +57,7 @@ print("Loading data...")
 x_text, y = AttardiCNNSchema.get_input_data()  # load_data_and_labels(FLAGS.positive_data_file, FLAGS.negative_data_file)
 
 # Build vocabulary
-max_document_length = 300  # max([len(x.split(" ")) for x in x_text])
+max_document_length = EMBEDINGS_SIZE  # max([len(x.split(" ")) for x in x_text])
 # vocab_processor = learn.preprocessing.VocabularyProcessor(max_document_length)
 x = x_text  # np.array(list(vocab_processor.fit_transform(x_text)))
 
@@ -112,7 +122,7 @@ with tf.Graph().as_default():
         cnn = AttardiCNNSchema(
                 sequence_length=x_train.shape[1],
                 num_classes=y_train.shape[1],
-                vocab_size=80,
+                vocab_size=VOCAB_SIZE,
                 embedding_size=FLAGS.embedding_dim,
                 filter_sizes=list(map(int, FLAGS.filter_sizes.split(","))),
                 num_filters=FLAGS.num_filters,
@@ -120,8 +130,7 @@ with tf.Graph().as_default():
 
         # Define Training procedure
         global_step = tf.Variable(0, name="global_step", trainable=False)
-        optimizer = tf.train.AdadeltaOptimizer(0.5,
-                                               epsilon=1e-6)  # tf.train.AdamOptimizer(learning_rate=0.3, beta1=0.9, beta2=0.999, epsilon=0.1)
+        optimizer = tf.train.AdamOptimizer(1e-3)
         grads_and_vars = optimizer.compute_gradients(cnn.loss)
         train_op = optimizer.apply_gradients(grads_and_vars, global_step=global_step)
 
