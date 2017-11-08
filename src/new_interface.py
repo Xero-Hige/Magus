@@ -23,7 +23,7 @@ def classify_get():
 
     tweet = load_tweet(random.choice(tweets))
 
-    return render_template("catalog_alternative.html", tweet=tweet, max=max, app_route=APP_ROUTE)
+    return render_template("catalog_alternative.html", tweet=tweet, max=max, app_route=APP_ROUTE, lang='en')
 
 
 @new_interface.route(APP_ROUTE + '/validate', methods=["GET"])
