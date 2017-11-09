@@ -23,7 +23,7 @@ app.config['TEMPLATES_AUTO_RELOAD'] = True
 EMOJIS = re.compile(u"\\ud83d", flags=re.UNICODE)
 
 
-@app.route('/classify', methods=["GET"])
+@app.route('/dep/classify', methods=["GET"])
 def classify_get():
     tweets = ["../tweets/{}".format(x) for x in os.listdir("../tweets")] \
              + ["../bulk/{}".format(x) for x in os.listdir("../bulk")]
@@ -33,7 +33,7 @@ def classify_get():
     return render_template("tweet_catalog.html", tweet=tweet, max=max)
 
 
-@app.route('/classifyEsp', methods=["GET"])
+@app.route('/dep/classifyEsp', methods=["GET"])
 def classify_esp_get():
     tweets = ["../tweets/{}".format(x) for x in os.listdir("../tweets")] \
              + ["../bulk/{}".format(x) for x in os.listdir("../bulk")]
@@ -43,7 +43,7 @@ def classify_esp_get():
     return render_template("tweet_catalog_esp.html", tweet=tweet, max=max)
 
 
-@app.route('/classify_old', methods=["GET"])
+@app.route('/dep/classify_old', methods=["GET"])
 def classify_get_old():
     tweets = ["../tweets/{}".format(x) for x in os.listdir("../tweets")] \
              + ["../bulk/{}".format(x) for x in os.listdir("../bulk")]
@@ -53,7 +53,7 @@ def classify_get_old():
     return render_template("tweet_catalog_old.html", tweet=tweet, max=max)
 
 
-@app.route('/classify_new', methods=["GET"])
+@app.route('/dep/classify_new', methods=["GET"])
 def classify_get_new():
     tweets = ["../tweets/{}".format(x) for x in os.listdir("../tweets")] \
              + ["../bulk/{}".format(x) for x in os.listdir("../bulk")]
@@ -63,7 +63,7 @@ def classify_get_new():
     return render_template("catalog_alternative.html", tweet=tweet, max=max)
 
 
-@app.route('/classify/<int:tweet_id>', methods=["GET"])
+@app.route('/dep/classify/<int:tweet_id>', methods=["GET"])
 def classify_exact_get(tweet_id):
     tweet_id = "{}.json".format(tweet_id)
     demo_tweets = os.listdir("../tweets")
@@ -240,28 +240,28 @@ def classify_tweet():
         # TODO: LOCK RELEASE
 
 
-@app.route('/classify', methods=["POST"])
+@app.route('/dep/classify', methods=["POST"])
 def classify_post():
     action = request.form["action"]
 
     if action == 'skip':
-        return redirect("/classify")
+        return redirect("/dep/classify")
 
     classify_tweet()
 
-    return redirect("/classify")
+    return redirect("/dep/classify")
 
 
-@app.route('/classifyEsp', methods=["POST"])
+@app.route('/dep/classifyEsp', methods=["POST"])
 def classify_esp_post():
     action = request.form["action"]
 
     if action == 'skip':
-        return redirect("/classifyEsp")
+        return redirect("/dep/classifyEsp")
 
     classify_tweet()
 
-    return redirect("/classifyEsp")
+    return redirect("/dep/classifyEsp")
 
 
 @app.route('/status', methods=["GET"])
