@@ -13,7 +13,7 @@ import tensorflow as tf
 from attardi_cnn_schema import AttardiCNNSchema
 
 VOCAB_SIZE = 80
-EPOCHS = 25
+EPOCHS = 1
 BATCH_SIZE = 50
 NUMBER_OF_FILTERS = 200
 EMBEDINGS_SIZE = 300
@@ -107,7 +107,10 @@ def batch_iter(x, y, batch_size, num_epochs, shuffle=True):
 # Training
 # ==================================================
 
-with tf.Graph().as_default():
+graph = tf.Graph()
+builder = tf.saved_model.builder.SavedModelBuilder("./CNN_MODEL")
+
+with graph.as_default():
     session_conf = tf.ConfigProto(
             allow_soft_placement=FLAGS.allow_soft_placement,
             log_device_placement=FLAGS.log_device_placement)
@@ -130,16 +133,6 @@ with tf.Graph().as_default():
         grads_and_vars = optimizer.compute_gradients(cnn.loss)
         train_op = optimizer.apply_gradients(grads_and_vars, global_step=global_step)
 
-        # Keep track of gradient values and sparsity (optional)
-        grad_summaries = []
-        for g, v in grads_and_vars:
-            if g is not None:
-                grad_hist_summary = tf.summary.histogram("{}/grad/hist".format(v.name), g)
-                sparsity_summary = tf.summary.scalar("{}/grad/sparsity".format(v.name), tf.nn.zero_fraction(g))
-                grad_summaries.append(grad_hist_summary)
-                grad_summaries.append(sparsity_summary)
-        grad_summaries_merged = tf.summary.merge(grad_summaries)
-
         # Output directory for models and summaries
         timestamp = str(int(time.time()))
         out_dir = os.path.abspath(os.path.join(os.path.curdir, "runs", timestamp))
@@ -150,7 +143,7 @@ with tf.Graph().as_default():
         acc_summary = tf.summary.scalar("accuracy", cnn.accuracy)
 
         # Train Summaries
-        train_summary_op = tf.summary.merge([loss_summary, acc_summary, grad_summaries_merged])
+        train_summary_op = tf.summary.merge([loss_summary, acc_summary])
         train_summary_dir = os.path.join(out_dir, "summaries", "train")
         train_summary_writer = tf.summary.FileWriter(train_summary_dir, sess.graph)
 
@@ -225,3 +218,36 @@ with tf.Graph().as_default():
             if current_step % FLAGS.checkpoint_every == 0:
                 path = saver.save(sess, checkpoint_prefix, global_step=current_step)
                 print("Saved model checkpoint to {}\n".format(path))
+
+                ########################################################################################################################
+
+        classification_inputs = tf.saved_model.utils.build_tensor_info(cnn.input_x)
+        classification_outputs_classes = tf.saved_model.utils.build_tensor_info(cnn.input_y)
+
+        classification_signature = tf.saved_model.signature_def_utils.build_signature_def(
+                inputs={tf.saved_model.signature_constants.CLASSIFY_INPUTS: classification_inputs},
+                outputs={
+                    tf.saved_model.signature_constants.CLASSIFY_OUTPUT_CLASSES: classification_outputs_classes,
+                    tf.saved_model.signature_constants.CLASSIFY_OUTPUT_SCORES: classification_outputs_classes
+                },
+                method_name=tf.saved_model.signature_constants.CLASSIFY_METHOD_NAME)
+
+        tensor_info_x = tf.saved_model.utils.build_tensor_info(cnn.input_x)
+        tensor_info_y = tf.saved_model.utils.build_tensor_info(cnn.input_y)
+
+        prediction_signature = tf.saved_model.signature_def_utils.build_signature_def(
+                inputs={'tweets': tensor_info_x},
+                outputs={'scores': tensor_info_y},
+                method_name=tf.saved_model.signature_constants.PREDICT_METHOD_NAME)
+
+        legacy_init_op = tf.group(tf.tables_initializer(), name='legacy_init_op')
+        builder.add_meta_graph_and_variables(sess,
+                                             [tf.saved_model.tag_constants.TRAINING],
+                                             signature_def_map={
+                                                 'predict_tweet': prediction_signature,
+                                                 tf.saved_model.signature_constants.DEFAULT_SERVING_SIGNATURE_DEF_KEY:
+                                                     classification_signature
+                                             },
+                                             legacy_init_op=legacy_init_op)
+
+    builder.save()
