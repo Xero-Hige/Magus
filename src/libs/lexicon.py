@@ -1,10 +1,13 @@
+import csv
+from libs.string_generalizer import strip_accents
+
 class Lexicon():
     ANGER = "anger"
     ANTICIPATION = "anticipation"
     DISGUST = "disgust"
     FEAR = "fear"
     JOY = "joy"
-    SADNESS = "sadness"
+    SADNESS = "sadnes"
     SURPRISE = "surprise"
     TRUST = "trust"
     NEUTRAL = "neutral"
@@ -31,21 +34,31 @@ class Lexicon():
         self.lang = lang
 
         with open(lexicon_file) as _file:
-            for line in _file:
-                word, tag, value = line.rstrip().split()
+            reader = csv.reader(_file,delimiter=" ")
+            for line in reader:
+                word, tag, value = line
+
+                word = strip_accents(word)
 
                 tag_list = self.lexicon.get(word, [0] * 10)
                 tag_list[Lexicon.EMOTIONS[tag]] = int(value)
                 self.lexicon[word] = tag_list
 
     def auto_tag_sentence(self, sentence):
-        cleaned = ("".join([x.lower() if x.isalpha() else " " for x in sentence])).split()
+        cleaned = "".join([x.lower() if x.isalpha() else " " for x in sentence])
+        cleaned = strip_accents(cleaned)
 
         found = 0
         total = [0] * 10
 
-        for word in cleaned:
-            if word not in self.lexicon:
+        for word in self.lexicon:
+            #if word in cleaned:
+                #print(word,"--------",cleaned)
+                #print(word in cleaned)
+
+                #print(total)
+
+            if word not in cleaned:
                 continue
 
             tag_list = self.lexicon[word]
@@ -53,10 +66,14 @@ class Lexicon():
             for i in range(len(tag_list)):
                 total[i] += tag_list[i]
 
+            found += 1
+
         if found == 0:
             return self.UNDETERMINED
 
-        max_value, max_list = self._get_max_index(tag_list)
+        max_value, max_list = self._get_max_index(total)
+
+        print(max_value,max_list)
 
         if max_value == 0:
             if tag_list[self.EMOTIONS[self._POSITIVE]] > 0:
@@ -67,7 +84,7 @@ class Lexicon():
 
         for k, v in self.EMOTIONS.items():
             if v == max_list[0]:
-                return k
+                return (k,v)
 
 
     def _get_max_index(self, tag_list):
