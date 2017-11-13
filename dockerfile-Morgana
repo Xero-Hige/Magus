@@ -29,4 +29,4 @@ COPY /src-morgana /Morgana
 
 WORKDIR /Morgana
 
-CMD ["bash","tensorflow_model_server --port=9000 --model_name=Morgana --model_base_path=/MorganaModel"]
+CMD ["tensorflow_model_server","--port=9000","--model_name=Morgana","--model_base_path=/MorganaModel"]
