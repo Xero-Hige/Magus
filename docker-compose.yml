@@ -39,3 +39,16 @@ services:
       - "8000:8000"
 
     stop_signal: SIGINT
+
+  morgana:
+    build:
+      context: .
+      dockerfile: dockerfile-Morgana
+
+    ports:
+      - "9000:9000"
+
+    volumes:
+      - ./cnn_model:/MorganaModel
+
+    stop_signal: SIGINT
