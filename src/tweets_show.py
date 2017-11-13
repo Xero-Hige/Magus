@@ -5,20 +5,25 @@ from subprocess import PIPE, Popen
 
 from flask import Flask, redirect, render_template, request
 
-from libs.db_tweet import DB_Handler, UNCLASIFIED, get_sentiment_emotions
-from libs.sentiments_handling import ANGER, ANGRY, ANTICIPATION, DISGUST, DYADS, FEAR, HAPPY, JOY, NONE, SAD, SADNESS, \
-    SURPRISE, TRUST
+from english_classify import english_classify
+from libs.db_tweet import DB_Handler
+from libs.sentiments_handling import ANGER, ANTICIPATION, DISGUST, DYADS, FEAR, JOY, NEUTRAL, NONE, SADNESS, SURPRISE, \
+    TRUST, get_sentiment_emotions
 from libs.tweet_anonymize import full_anonymize_tweet
 from libs.tweet_parser import TweetParser
+from spanish_classify import spanish_classify
 from utils.tweets_scrapper import do_scrapping
 
 app = Flask(__name__)
+app.register_blueprint(english_classify)
+app.register_blueprint(spanish_classify)
+
 app.config['TEMPLATES_AUTO_RELOAD'] = True
 
 EMOJIS = re.compile(u"\\ud83d", flags=re.UNICODE)
 
 
-@app.route('/classify', methods=["GET"])
+@app.route('/dep/classify', methods=["GET"])
 def classify_get():
     tweets = ["../tweets/{}".format(x) for x in os.listdir("../tweets")] \
              + ["../bulk/{}".format(x) for x in os.listdir("../bulk")]
@@ -28,7 +33,7 @@ def classify_get():
     return render_template("tweet_catalog.html", tweet=tweet, max=max)
 
 
-@app.route('/classifyEsp', methods=["GET"])
+@app.route('/dep/classifyEsp', methods=["GET"])
 def classify_esp_get():
     tweets = ["../tweets/{}".format(x) for x in os.listdir("../tweets")] \
              + ["../bulk/{}".format(x) for x in os.listdir("../bulk")]
@@ -38,7 +43,7 @@ def classify_esp_get():
     return render_template("tweet_catalog_esp.html", tweet=tweet, max=max)
 
 
-@app.route('/classify_old', methods=["GET"])
+@app.route('/dep/classify_old', methods=["GET"])
 def classify_get_old():
     tweets = ["../tweets/{}".format(x) for x in os.listdir("../tweets")] \
              + ["../bulk/{}".format(x) for x in os.listdir("../bulk")]
@@ -48,7 +53,17 @@ def classify_get_old():
     return render_template("tweet_catalog_old.html", tweet=tweet, max=max)
 
 
-@app.route('/classify/<int:tweet_id>', methods=["GET"])
+@app.route('/dep/classify_new', methods=["GET"])
+def classify_get_new():
+    tweets = ["../tweets/{}".format(x) for x in os.listdir("../tweets")] \
+             + ["../bulk/{}".format(x) for x in os.listdir("../bulk")]
+
+    tweet = load_tweet(random.choice(tweets))
+
+    return render_template("catalog_alternative.html", tweet=tweet, max=max)
+
+
+@app.route('/dep/classify/<int:tweet_id>', methods=["GET"])
 def classify_exact_get(tweet_id):
     tweet_id = "{}.json".format(tweet_id)
     demo_tweets = os.listdir("../tweets")
@@ -199,28 +214,25 @@ def classify_tweet():
         if dyad_a == dyad_b and dyad_b == dyad_c and dyad_c == dyad_d and dyad_d == NONE:
             tweet.none += 1
         else:
-            tweet.joy += 1 if dyad_a == JOY else 0
-            tweet.sadness += 1 if dyad_a == SADNESS else 0
-            tweet.trust += 1 if dyad_b == TRUST else 0
-            tweet.disgust += 1 if dyad_b == DISGUST else 0
-            tweet.fear += 1 if dyad_c == FEAR else 0
-            tweet.anger += 1 if dyad_c == ANGER else 0
-            tweet.surprise += 1 if dyad_d == SURPRISE else 0
-            tweet.anticipation += 1 if dyad_d == ANTICIPATION else 0
+            tweet.joy = tweet.joy + (3 if dyad_a == JOY else 0)
+            tweet.sadness = tweet.sadness + (3 if dyad_a == SADNESS else 0)
+            tweet.trust = tweet.trust + (3 if dyad_b == TRUST else 0)
+            tweet.disgust = tweet.disgust + (3 if dyad_b == DISGUST else 0)
+            tweet.fear = tweet.fear + (3 if dyad_c == FEAR else 0)
+            tweet.anger = tweet.anger + (3 if dyad_c == ANGER else 0)
+            tweet.surprise = tweet.surprise + (3 if dyad_d == SURPRISE else 0)
+            tweet.anticipation = tweet.anticipation + (3 if dyad_d == ANTICIPATION else 0)
 
-        if sentiment == NONE:
-            tweet.none += 1
-        else:
-            emotions = get_sentiment_emotions(sentiment)
+        emotions = get_sentiment_emotions(sentiment)
 
-            tweet.joy += 2 if JOY in emotions else 0
-            tweet.sadness += 2 if SADNESS in emotions else 0
-            tweet.trust += 2 if TRUST in emotions else 0
-            tweet.disgust += 2 if DISGUST in emotions else 0
-            tweet.fear += 2 if FEAR in emotions else 0
-            tweet.anger += 2 if ANGER in emotions else 0
-            tweet.surprise += 2 if SURPRISE in emotions else 0
-            tweet.anticipation += 2 if ANTICIPATION in emotions else 0
+        tweet.joy += 2 if JOY in emotions else 0
+        tweet.sadness += 2 if SADNESS in emotions else 0
+        tweet.trust += 2 if TRUST in emotions else 0
+        tweet.disgust += 2 if DISGUST in emotions else 0
+        tweet.fear += 2 if FEAR in emotions else 0
+        tweet.anger += 2 if ANGER in emotions else 0
+        tweet.surprise += 2 if SURPRISE in emotions else 0
+        tweet.anticipation += 2 if ANTICIPATION in emotions else 0
 
         tweet.ironic += 3 if is_ironic else 0
 
@@ -228,34 +240,34 @@ def classify_tweet():
         # TODO: LOCK RELEASE
 
 
-@app.route('/classify', methods=["POST"])
+@app.route('/dep/classify', methods=["POST"])
 def classify_post():
     action = request.form["action"]
 
     if action == 'skip':
-        return redirect("/classify")
+        return redirect("/dep/classify")
 
     classify_tweet()
 
-    return redirect("/classify")
+    return redirect("/dep/classify")
 
 
-@app.route('/classifyEsp', methods=["POST"])
+@app.route('/dep/classifyEsp', methods=["POST"])
 def classify_esp_post():
     action = request.form["action"]
 
     if action == 'skip':
-        return redirect("/classifyEsp")
+        return redirect("/dep/classifyEsp")
 
     classify_tweet()
 
-    return redirect("/classifyEsp")
+    return redirect("/dep/classifyEsp")
 
 
 @app.route('/status', methods=["GET"])
 def status():
-    totals_emotions, totals_groups, samples = get_tweets_status()
-    return render_template("DB_status.html", emotions=totals_emotions, groups=totals_groups, samples=samples)
+    totals_emotions, samples = get_tweets_status()
+    return render_template("DB_status.html", emotions=totals_emotions, samples=samples)
 
 
 def load_tweet(tweet_file_name):
@@ -280,12 +292,21 @@ def load_tweet(tweet_file_name):
 
 def get_tweets_status():
     totals_emotions = {}
-    totals_groups = {}
 
     demo_tweets = os.listdir("../tweets")
     bulk_tweets = os.listdir("../bulk")
 
-    samples = {HAPPY: [], SAD: [], ANGRY: [], NONE: [], UNCLASIFIED: []}
+    samples = {
+        JOY: [],
+        TRUST: [],
+        FEAR: [],
+        SURPRISE: [],
+        DISGUST: [],
+        ANGER: [],
+        ANTICIPATION: [],
+        SADNESS: [],
+        NEUTRAL: []
+    }
 
     with DB_Handler() as handler:
         _tweets = handler.get_all_tagged()
@@ -300,25 +321,17 @@ def get_tweets_status():
             if tweet_filename not in demo_tweets and tweet_filename not in bulk_tweets:
                 continue
 
-            emotions = _tweet.get_emotions_list()
-            emotions = [emotion[1]
-                        for emotion in emotions
-                        if emotion[0] > 0
-                        ][:2]
+            tweet_emotion = _tweet.get_tweet_emotion()
 
-            for emotion in emotions:
-                totals_emotions[emotion] = totals_emotions.get(emotion, 0) + 1
+            totals_emotions[tweet_emotion] = totals_emotions.get(tweet_emotion, 0) + 1
 
-            group = _tweet.get_tweet_group()
-            totals_groups[group] = totals_groups.get(group, 0) + 1
+            samples[tweet_emotion].append((_tweet.id, tweet_emotion))
 
-            samples[group].append((_tweet.id, _tweet.get_tweet_sentiment()))
-
-            samples_collected = len(samples[group])
+            samples_collected = len(samples[tweet_emotion])
             if samples_collected > 10:
-                samples[group].pop(random.choice([0, samples_collected - 1]))
+                samples[tweet_emotion].pop(random.choice([0, samples_collected - 1]))
 
-    return totals_emotions, totals_groups, samples
+    return totals_emotions, samples
 
 
 def tweet_dict_add_emotions(tweet, emotions):

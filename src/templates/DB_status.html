@@ -5,68 +5,6 @@
         FusionCharts.ready(function () {
             var fusioncharts = new FusionCharts({
                     type: 'bar2d',
-                    renderAt: "groups_bars",
-                    width: '100%',
-                    height: '100%',
-                    dataFormat: 'json',
-                    dataSource: {
-                        "chart": {
-                            "caption": "Totals",
-                            "paletteColors": "#0075c2",
-                            "bgColor": "#ffffff",
-                            "showBorder": "0",
-                            "showCanvasBorder": "0",
-                            "usePlotGradientColor": "0",
-                            "plotBorderAlpha": "10",
-                            "placeValuesInside": "1",
-                            "valueFontColor": "#ffffff",
-                            "showAxisLines": "1",
-                            "axisLineAlpha": "25",
-                            "divLineAlpha": "10",
-                            "alignCaptionWithCanvas": "0",
-                            "showAlternateVGridColor": "0",
-                            "captionFontSize": "14",
-                            "subcaptionFontSize": "14",
-                            "subcaptionFontBold": "0",
-                            "toolTipColor": "#ffffff",
-                            "toolTipBorderThickness": "0",
-                            "toolTipBgColor": "#000000",
-                            "toolTipBgAlpha": "80",
-                            "toolTipBorderRadius": "2",
-                            "toolTipPadding": "5"
-                        },
-
-                        "data": [{
-                            "label": "Happy",
-                            "value": "{{groups['happy']}}"
-                        }, {
-                            "label": "Sad",
-                            "value": "{{groups['sad']}}"
-                        }, {
-                            "label": "Angry",
-                            "value": "{{groups['angry']}}"
-                        }, {
-                            "label": "None",
-                            "value": "{{groups['none']}}"
-                        }]
-                    }
-                }
-            );
-            fusioncharts.render();
-        });
-    </script>
-    <div class="row" style="padding: 1em 1em 0;background-color: #0091ea">
-        <div class="col-md-3"></div>
-
-        <div id="groups_bars" class="col-md-6" style="height: 15em"></div>
-
-        <div class="col-md-3"></div>
-    </div>
-
-    <script type="text/javascript">
-        FusionCharts.ready(function () {
-            var fusioncharts = new FusionCharts({
-                    type: 'bar2d',
                     renderAt: "emotions_bars",
                     width: '100%',
                     height: '100%',
@@ -123,8 +61,8 @@
                             "label": "Trust",
                             "value": "{{emotions['trust']}}"
                         }, {
-                            "label": "None",
-                            "value": "{{emotions['none']}}"
+                            "label": "Neutral",
+                            "value": "{{emotions['neutral']}}"
                         }]
                     }
                 }
@@ -139,23 +77,23 @@
 
         <div class="col-md-3"></div>
     </div>
-    {% for group in samples %}
-    <div class="row" style="padding: 1em 1em 0;background-color: #0091ea">
-        <div class="col-md-3"></div>
+    {% for emotion in samples %}
+        <div class="row" style="padding: 1em 1em 0;background-color: #0091ea">
+            <div class="col-md-3"></div>
 
-        <div class="col-md-6 tweet_text" style="height: 15em">
-            <h4>{{group}}</h4>
-            <ul>
-                {% for sample in samples[group]%}
-                <li>Id: <a href="https://twitter.com/statuses/{{ sample[0] }}" target="_blank">{{ sample[0] }}</a> -- {{
-                    sample[1] }}
-                </li>
-                {% endfor %}
-            </ul>
+            <div class="col-md-6 tweet_text">
+                <h4>{{ emotion }}</h4>
+                <ul>
+                    {% for sample in samples[emotion] %}
+                        <li>Id: <a href="https://twitter.com/statuses/{{ sample[0] }}"
+                                   target="_blank">{{ sample[0] }}</a> -- {{ sample[1] }}
+                        </li>
+                    {% endfor %}
+                </ul>
+            </div>
+
+            <div class="col-md-3"></div>
         </div>
-
-        <div class="col-md-3"></div>
-    </div>
     {% endfor %}
 </main>
 {% include 'foot.html' %}
