@@ -12,7 +12,9 @@ APP_ROUTE = '/en'
 english_classify = Blueprint('english_classify', __name__,
                              template_folder='templates')
 
-LEXICONS = [Lexicon("./lexicons/en_lexicon.lxc", lang="en")]
+LEXICONS = [Lexicon("./lexicons/en_lexicon.lx", lang="en"),
+            Lexicon("./lexicons/es_lexicon.lx", lang="es"),
+            Lexicon("./lexicons/pt_lexicon.lx", lang="pt")]
 
 
 @english_classify.route(APP_ROUTE + '/classify', methods=["GET"])
@@ -36,10 +38,16 @@ def validate_tag_get():
         classification = tweet["tweet_emotion"]
         auto = "BD"
     else:
-        classification = LEXICONS[0].auto_tag_sentence(tweet["tweet_text"]) if LEXICONS[0].get_associated_lang() in \
-                                                                               tweet[
-                                                                                   "tweet_user_lang"].lower() else UNCLASIFIED
-        auto = "LEXICON " + LEXICONS[0].get_associated_lang()
+        classification = UNCLASIFIED
+        auto = "UNCLASS"
+        for lexicon in LEXICONS:
+            if lexicon.get_associated_lang() in tweet["tweet_user_lang"].lower():
+                classification,level = lexicon.auto_tag_sentence(tweet["tweet_text"])
+                auto = "LEXICON {} with level ({})".format(lexicon.get_associated_lang(),level)
+                break
+
+    if classification == SADNESS:
+        classification += 's' #FIXME
 
     return render_template("tag_validator.html", tweet=tweet, max=max, app_route=APP_ROUTE,
                            classification=classification, auto=auto)
