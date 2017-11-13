@@ -52,12 +52,6 @@ class Lexicon():
         total = [0] * 10
 
         for word in self.lexicon:
-            #if word in cleaned:
-                #print(word,"--------",cleaned)
-                #print(word in cleaned)
-
-                #print(total)
-
             if word not in cleaned:
                 continue
 
@@ -69,22 +63,20 @@ class Lexicon():
             found += 1
 
         if found == 0:
-            return self.UNDETERMINED
+            return (self.UNDETERMINED,0)
 
         max_value, max_list = self._get_max_index(total)
 
-        print(max_value,max_list)
-
         if max_value == 0:
             if tag_list[self.EMOTIONS[self._POSITIVE]] > 0:
-                return self.UNDETERMINED
+                return (self.UNDETERMINED,0)
             if tag_list[self.EMOTIONS[self._NEGATIVE]] > 0:
-                return self.UNDETERMINED
-            return self.NEUTRAL
+                return (self.UNDETERMINED,0)
+            return (self.NEUTRAL,found)
 
         for k, v in self.EMOTIONS.items():
             if v == max_list[0]:
-                return (k,v)
+                return (k,total[v])
 
 
     def _get_max_index(self, tag_list):
