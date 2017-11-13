@@ -1,0 +1,25 @@
+FROM debian:testing
+
+MAINTAINER Xero-Hige <Gaston.martinez.90@gmail.com>
+WORKDIR /
+
+RUN echo "deb http://mirrors.dcarsat.com.ar/debian/ testing main contrib non-free \
+          \ndeb-src http://mirrors.dcarsat.com.ar/debian/ testing main contrib non-free" > /etc/apt/sources.list
+
+run echo "deb [arch=amd64] http://storage.googleapis.com/tensorflow-serving-apt stable tensorflow-model-server tensorflow-model-server-universal" | sudo tee /etc/apt/sources.list.d/tensorflow-serving.list && \
+    curl https://storage.googleapis.com/tensorflow-serving-apt/tensorflow-serving.release.pub.gpg | sudo apt-key add -
+
+RUN apt-get update && \
+    apt-get install -y --no-install-recommends aptitude && \
+    aptitude install -y \
+        wget \
+        locales \
+		tensorflow-model-server && \
+    rm -rf /var/lib/apt/lists/* && \
+    aptitude clean
+
+COPY /src-morgana /Morgana
+
+WORKDIR /Morgana
+
+CMD ["bash","tensorflow_model_server --port=9000 --model_name=Morgana --model_base_path=/MorganaModel"]
