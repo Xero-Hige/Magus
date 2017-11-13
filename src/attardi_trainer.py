@@ -242,7 +242,7 @@ with graph.as_default():
 
         legacy_init_op = tf.group(tf.tables_initializer(), name='legacy_init_op')
         builder.add_meta_graph_and_variables(sess,
-                                             [tf.saved_model.tag_constants.TRAINING],
+                                             [tf.saved_model.tag_constants.SERVING],
                                              signature_def_map={
                                                  'predict_tweet': prediction_signature,
                                                  tf.saved_model.signature_constants.DEFAULT_SERVING_SIGNATURE_DEF_KEY:
