@@ -1,0 +1,128 @@
+{
+  "created_at": "Sun Oct 29 03:20:14 +0000 2017",
+  "id": 924475941090361344,
+  "id_str": "924475941090361344",
+  "text": "I'm at Peppy Grill in Indianapolis, IN https://t.co/DFE7vMDk2D",
+  "source": "<a href=\"http://foursquare.com\" rel=\"nofollow\">Foursquare</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 124952672,
+    "id_str": "124952672",
+    "name": "Romily B",
+    "screen_name": "RomilyB_Art",
+    "location": "Indiana",
+    "url": "http://www.facebook.com/pages/Romily-B/136233492213",
+    "description": null,
+    "translator_type": "none",
+    "protected": false,
+    "verified": false,
+    "followers_count": 131,
+    "friends_count": 237,
+    "listed_count": 0,
+    "favourites_count": 463,
+    "statuses_count": 1992,
+    "created_at": "Sun Mar 21 04:46:45 +0000 2010",
+    "utc_offset": -10800,
+    "time_zone": "Atlantic Time (Canada)",
+    "geo_enabled": true,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "EBEBEB",
+    "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/257937566/early_bloom-wallpaper-1440x900.jpg",
+    "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/257937566/early_bloom-wallpaper-1440x900.jpg",
+    "profile_background_tile": false,
+    "profile_link_color": "990000",
+    "profile_sidebar_border_color": "DFDFDF",
+    "profile_sidebar_fill_color": "F3F3F3",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/378800000312094465/a0ff30c113aa3c45ff46a87afb42cab3_normal.jpeg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000312094465/a0ff30c113aa3c45ff46a87afb42cab3_normal.jpeg",
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": null,
+    "follow_request_sent": null,
+    "notifications": null
+  },
+  "geo": {
+    "type": "Point",
+    "coordinates": [
+      39.75397345,
+      -86.14161913
+    ]
+  },
+  "coordinates": {
+    "type": "Point",
+    "coordinates": [
+      -86.14161913,
+      39.75397345
+    ]
+  },
+  "place": {
+    "id": "018929347840059e",
+    "url": "https://api.twitter.com/1.1/geo/id/018929347840059e.json",
+    "place_type": "city",
+    "name": "Indianapolis",
+    "full_name": "Indianapolis, IN",
+    "country_code": "US",
+    "country": "United States",
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            -86.348441,
+            39.631677
+          ],
+          [
+            -86.348441,
+            39.927448
+          ],
+          [
+            -85.937404,
+            39.927448
+          ],
+          [
+            -85.937404,
+            39.631677
+          ]
+        ]
+      ]
+    },
+    "attributes": {}
+  },
+  "contributors": null,
+  "is_quote_status": false,
+  "quote_count": 0,
+  "reply_count": 0,
+  "retweet_count": 0,
+  "favorite_count": 0,
+  "entities": {
+    "hashtags": [],
+    "urls": [
+      {
+        "url": "https://t.co/DFE7vMDk2D",
+        "expanded_url": "https://www.swarmapp.com/c/flYsYsxrFXd",
+        "display_url": "swarmapp.com/c/flYsYsxrFXd",
+        "indices": [
+          39,
+          62
+        ]
+      }
+    ],
+    "user_mentions": [],
+    "symbols": []
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false,
+  "filter_level": "low",
+  "lang": "en",
+  "timestamp_ms": "1509247214945"
+}

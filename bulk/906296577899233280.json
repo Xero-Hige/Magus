@@ -1,1 +1,232 @@
-{"text": "\u224836 km (intensidad 5/10, \u00e1rea 0.5/10) - https://t.co/h4pfU0iolH\n(8/09/17 20:21) #BuenosAires https://t.co/VTpkaH5zJM", "in_reply_to_user_id": null, "contributors": null, "in_reply_to_status_id": null, "reply_count": 0, "extended_entities": {"media": [{"indices": [93, 116], "sizes": {"large": {"h": 480, "resize": "fit", "w": 480}, "medium": {"h": 480, "resize": "fit", "w": 480}, "thumb": {"h": 150, "resize": "crop", "w": 150}, "small": {"h": 340, "resize": "fit", "w": 340}}, "id_str": "906296575844110336", "type": "animated_gif", "expanded_url": "https://twitter.com/lluviaBuenosAir/status/906296577899233280/photo/1", "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/DJPP7xhXUAAnhys.jpg", "url": "https://t.co/VTpkaH5zJM", "display_url": "pic.twitter.com/VTpkaH5zJM", "video_info": {"aspect_ratio": [1, 1], "variants": [{"content_type": "video/mp4", "bitrate": 0, "url": "https://video.twimg.com/tweet_video/DJPP7xhXUAAnhys.mp4"}]}, "media_url": "http://pbs.twimg.com/tweet_video_thumb/DJPP7xhXUAAnhys.jpg", "id": 906296575844110336}]}, "display_text_range": [0, 92], "in_reply_to_user_id_str": null, "user": {"default_profile_image": false, "profile_sidebar_fill_color": "000000", "profile_image_url_https": "https://pbs.twimg.com/profile_images/883386033127215104/MmWN5Inp_normal.jpg", "notifications": null, "default_profile": false, "followers_count": 75, "listed_count": 2, "follow_request_sent": null, "contributors_enabled": false, "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", "friends_count": 2, "is_translator": false, "location": "Buenos Aires", "profile_sidebar_border_color": "000000", "geo_enabled": true, "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png", "profile_use_background_image": false, "profile_text_color": "000000", "protected": false, "id_str": "2834187225", "description": "Indica a qu\u00e9 distancia se encuentran las precipitaciones en estos momentos. Indica adem\u00e1s la intensidad y el \u00e1rea en valores de 1 a 10.", "statuses_count": 2199, "lang": "es", "profile_image_url": "http://pbs.twimg.com/profile_images/883386033127215104/MmWN5Inp_normal.jpg", "screen_name": "lluviaBuenosAir", "utc_offset": -10800, "created_at": "Thu Oct 16 15:08:42 +0000 2014", "id": 2834187225, "following": null, "profile_link_color": "003399", "verified": false, "translator_type": "none", "profile_background_color": "000000", "profile_banner_url": "https://pbs.twimg.com/profile_banners/2834187225/1499450713", "url": "http://www.alarma-de-lluvia.com/", "time_zone": "Buenos Aires", "name": "Lluvia Buenos Aires", "profile_background_tile": false, "favourites_count": 0}, "filter_level": "low", "timestamp_ms": "1504912917004", "geo": {"type": "Point", "coordinates": [-34.604903, -58.370041]}, "in_reply_to_screen_name": null, "favorite_count": 0, "retweeted": false, "truncated": false, "retweet_count": 0, "quote_count": 0, "id_str": "906296577899233280", "in_reply_to_status_id_str": null, "lang": "es", "source": "<a href=\"http://www.rain-alarm.com\" rel=\"nofollow\">Rain Alarm</a>", "created_at": "Fri Sep 08 23:21:57 +0000 2017", "id": 906296577899233280, "place": {"full_name": "Ciudad Aut\u00f3noma de Buenos Aires, Argentina", "country_code": "AR", "place_type": "city", "bounding_box": {"type": "Polygon", "coordinates": [[[-58.531792, -34.674453], [-58.531792, -34.534177], [-58.353494, -34.534177], [-58.353494, -34.674453]]]}, "country": "Argentina", "url": "https://api.twitter.com/1.1/geo/id/018f1cde6bad9747.json", "name": "Ciudad Aut\u00f3noma de Buenos Aires", "id": "018f1cde6bad9747", "attributes": {}}, "entities": {"media": [{"indices": [93, 116], "sizes": {"large": {"h": 480, "resize": "fit", "w": 480}, "medium": {"h": 480, "resize": "fit", "w": 480}, "thumb": {"h": 150, "resize": "crop", "w": 150}, "small": {"h": 340, "resize": "fit", "w": 340}}, "id_str": "906296575844110336", "type": "photo", "expanded_url": "https://twitter.com/lluviaBuenosAir/status/906296577899233280/photo/1", "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/DJPP7xhXUAAnhys.jpg", "url": "https://t.co/VTpkaH5zJM", "display_url": "pic.twitter.com/VTpkaH5zJM", "media_url": "http://pbs.twimg.com/tweet_video_thumb/DJPP7xhXUAAnhys.jpg", "id": 906296575844110336}], "urls": [{"indices": [40, 63], "display_url": "rain-alarm.com", "expanded_url": "http://www.rain-alarm.com", "url": "https://t.co/h4pfU0iolH"}], "hashtags": [{"text": "BuenosAires", "indices": [80, 92]}], "symbols": [], "user_mentions": []}, "possibly_sensitive": false, "coordinates": {"type": "Point", "coordinates": [-58.370041, -34.604903]}, "is_quote_status": false, "favorited": false}
+{
+  "text": "\u224836 km (intensidad 5/10, \u00e1rea 0.5/10) - https://t.co/h4pfU0iolH\n(8/09/17 20:21) #BuenosAires https://t.co/VTpkaH5zJM",
+  "in_reply_to_user_id": null,
+  "contributors": null,
+  "in_reply_to_status_id": null,
+  "reply_count": 0,
+  "extended_entities": {
+    "media": [
+      {
+        "indices": [
+          93,
+          116
+        ],
+        "sizes": {
+          "large": {
+            "h": 480,
+            "resize": "fit",
+            "w": 480
+          },
+          "medium": {
+            "h": 480,
+            "resize": "fit",
+            "w": 480
+          },
+          "thumb": {
+            "h": 150,
+            "resize": "crop",
+            "w": 150
+          },
+          "small": {
+            "h": 340,
+            "resize": "fit",
+            "w": 340
+          }
+        },
+        "id_str": "906296575844110336",
+        "type": "animated_gif",
+        "expanded_url": "https://twitter.com/lluviaBuenosAir/status/906296577899233280/photo/1",
+        "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/DJPP7xhXUAAnhys.jpg",
+        "url": "https://t.co/VTpkaH5zJM",
+        "display_url": "pic.twitter.com/VTpkaH5zJM",
+        "video_info": {
+          "aspect_ratio": [
+            1,
+            1
+          ],
+          "variants": [
+            {
+              "content_type": "video/mp4",
+              "bitrate": 0,
+              "url": "https://video.twimg.com/tweet_video/DJPP7xhXUAAnhys.mp4"
+            }
+          ]
+        },
+        "media_url": "http://pbs.twimg.com/tweet_video_thumb/DJPP7xhXUAAnhys.jpg",
+        "id": 906296575844110336
+      }
+    ]
+  },
+  "display_text_range": [
+    0,
+    92
+  ],
+  "in_reply_to_user_id_str": null,
+  "user": {
+    "default_profile_image": false,
+    "profile_sidebar_fill_color": "000000",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/883386033127215104/MmWN5Inp_normal.jpg",
+    "notifications": null,
+    "default_profile": false,
+    "followers_count": 75,
+    "listed_count": 2,
+    "follow_request_sent": null,
+    "contributors_enabled": false,
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "friends_count": 2,
+    "is_translator": false,
+    "location": "Buenos Aires",
+    "profile_sidebar_border_color": "000000",
+    "geo_enabled": true,
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_use_background_image": false,
+    "profile_text_color": "000000",
+    "protected": false,
+    "id_str": "2834187225",
+    "description": "Indica a qu\u00e9 distancia se encuentran las precipitaciones en estos momentos. Indica adem\u00e1s la intensidad y el \u00e1rea en valores de 1 a 10.",
+    "statuses_count": 2199,
+    "lang": "es",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/883386033127215104/MmWN5Inp_normal.jpg",
+    "screen_name": "lluviaBuenosAir",
+    "utc_offset": -10800,
+    "created_at": "Thu Oct 16 15:08:42 +0000 2014",
+    "id": 2834187225,
+    "following": null,
+    "profile_link_color": "003399",
+    "verified": false,
+    "translator_type": "none",
+    "profile_background_color": "000000",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/2834187225/1499450713",
+    "url": "http://www.alarma-de-lluvia.com/",
+    "time_zone": "Buenos Aires",
+    "name": "Lluvia Buenos Aires",
+    "profile_background_tile": false,
+    "favourites_count": 0
+  },
+  "filter_level": "low",
+  "timestamp_ms": "1504912917004",
+  "geo": {
+    "type": "Point",
+    "coordinates": [
+      -34.604903,
+      -58.370041
+    ]
+  },
+  "in_reply_to_screen_name": null,
+  "favorite_count": 0,
+  "retweeted": false,
+  "truncated": false,
+  "retweet_count": 0,
+  "quote_count": 0,
+  "id_str": "906296577899233280",
+  "in_reply_to_status_id_str": null,
+  "lang": "es",
+  "source": "<a href=\"http://www.rain-alarm.com\" rel=\"nofollow\">Rain Alarm</a>",
+  "created_at": "Fri Sep 08 23:21:57 +0000 2017",
+  "id": 906296577899233280,
+  "place": {
+    "full_name": "Ciudad Aut\u00f3noma de Buenos Aires, Argentina",
+    "country_code": "AR",
+    "place_type": "city",
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            -58.531792,
+            -34.674453
+          ],
+          [
+            -58.531792,
+            -34.534177
+          ],
+          [
+            -58.353494,
+            -34.534177
+          ],
+          [
+            -58.353494,
+            -34.674453
+          ]
+        ]
+      ]
+    },
+    "country": "Argentina",
+    "url": "https://api.twitter.com/1.1/geo/id/018f1cde6bad9747.json",
+    "name": "Ciudad Aut\u00f3noma de Buenos Aires",
+    "id": "018f1cde6bad9747",
+    "attributes": {}
+  },
+  "entities": {
+    "media": [
+      {
+        "indices": [
+          93,
+          116
+        ],
+        "sizes": {
+          "large": {
+            "h": 480,
+            "resize": "fit",
+            "w": 480
+          },
+          "medium": {
+            "h": 480,
+            "resize": "fit",
+            "w": 480
+          },
+          "thumb": {
+            "h": 150,
+            "resize": "crop",
+            "w": 150
+          },
+          "small": {
+            "h": 340,
+            "resize": "fit",
+            "w": 340
+          }
+        },
+        "id_str": "906296575844110336",
+        "type": "photo",
+        "expanded_url": "https://twitter.com/lluviaBuenosAir/status/906296577899233280/photo/1",
+        "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/DJPP7xhXUAAnhys.jpg",
+        "url": "https://t.co/VTpkaH5zJM",
+        "display_url": "pic.twitter.com/VTpkaH5zJM",
+        "media_url": "http://pbs.twimg.com/tweet_video_thumb/DJPP7xhXUAAnhys.jpg",
+        "id": 906296575844110336
+      }
+    ],
+    "urls": [
+      {
+        "indices": [
+          40,
+          63
+        ],
+        "display_url": "rain-alarm.com",
+        "expanded_url": "http://www.rain-alarm.com",
+        "url": "https://t.co/h4pfU0iolH"
+      }
+    ],
+    "hashtags": [
+      {
+        "text": "BuenosAires",
+        "indices": [
+          80,
+          92
+        ]
+      }
+    ],
+    "symbols": [],
+    "user_mentions": []
+  },
+  "possibly_sensitive": false,
+  "coordinates": {
+    "type": "Point",
+    "coordinates": [
+      -58.370041,
+      -34.604903
+    ]
+  },
+  "is_quote_status": false,
+  "favorited": false
+}

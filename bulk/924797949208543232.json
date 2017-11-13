@@ -1,0 +1,131 @@
+{
+  "created_at": "Mon Oct 30 00:39:47 +0000 2017",
+  "id": 924797949208543232,
+  "id_str": "924797949208543232",
+  "text": "@VioTCZ @UberEATS What kind of delivery personnel gets mad at being paid",
+  "display_text_range": [
+    18,
+    72
+  ],
+  "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+  "truncated": false,
+  "in_reply_to_status_id": 924796004687167488,
+  "in_reply_to_status_id_str": "924796004687167488",
+  "in_reply_to_user_id": 3095708939,
+  "in_reply_to_user_id_str": "3095708939",
+  "in_reply_to_screen_name": "VioTCZ",
+  "user": {
+    "id": 808840,
+    "id_str": "808840",
+    "name": "fire",
+    "screen_name": "fire",
+    "location": "San Francisco, CA",
+    "url": "http://twitch.tv/fire",
+    "description": "I fix things, make things, break things.  Product & Engineering: @Twitch \u2014 Technical Lead: @TwitchSupport ( ^DA ) \u2014 Owner: @IncendiaryMedia",
+    "translator_type": "none",
+    "protected": false,
+    "verified": false,
+    "followers_count": 10398,
+    "friends_count": 1017,
+    "listed_count": 117,
+    "favourites_count": 1864,
+    "statuses_count": 7162,
+    "created_at": "Sat Mar 03 19:21:33 +0000 2007",
+    "utc_offset": -25200,
+    "time_zone": "Pacific Time (US & Canada)",
+    "geo_enabled": true,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "000000",
+    "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/405770729/nvfaceinthefire.br.jpg",
+    "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/405770729/nvfaceinthefire.br.jpg",
+    "profile_background_tile": false,
+    "profile_link_color": "900000",
+    "profile_sidebar_border_color": "000000",
+    "profile_sidebar_fill_color": "E06B00",
+    "profile_text_color": "000000",
+    "profile_use_background_image": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/918318719821946880/QyzvP_IR_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/918318719821946880/QyzvP_IR_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/808840/1495516349",
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": null,
+    "follow_request_sent": null,
+    "notifications": null
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": {
+    "id": "5a110d312052166f",
+    "url": "https://api.twitter.com/1.1/geo/id/5a110d312052166f.json",
+    "place_type": "city",
+    "name": "San Francisco",
+    "full_name": "San Francisco, CA",
+    "country_code": "US",
+    "country": "United States",
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            -122.514926,
+            37.708075
+          ],
+          [
+            -122.514926,
+            37.833238
+          ],
+          [
+            -122.357031,
+            37.833238
+          ],
+          [
+            -122.357031,
+            37.708075
+          ]
+        ]
+      ]
+    },
+    "attributes": {}
+  },
+  "contributors": null,
+  "is_quote_status": false,
+  "quote_count": 0,
+  "reply_count": 0,
+  "retweet_count": 0,
+  "favorite_count": 0,
+  "entities": {
+    "hashtags": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "screen_name": "VioTCZ",
+        "name": "Vio @ North Pole \ud83d\udc27",
+        "id": 3095708939,
+        "id_str": "3095708939",
+        "indices": [
+          0,
+          7
+        ]
+      },
+      {
+        "screen_name": "UberEATS",
+        "name": "UberEATS",
+        "id": 3100005042,
+        "id_str": "3100005042",
+        "indices": [
+          8,
+          17
+        ]
+      }
+    ],
+    "symbols": []
+  },
+  "favorited": false,
+  "retweeted": false,
+  "filter_level": "low",
+  "lang": "en",
+  "timestamp_ms": "1509323987663"
+}

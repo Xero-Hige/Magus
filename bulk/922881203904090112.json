@@ -1,0 +1,120 @@
+{
+  "created_at": "Tue Oct 24 17:43:19 +0000 2017",
+  "id": 922881203904090112,
+  "id_str": "922881203904090112",
+  "text": "@vanphoenix No est\u00e1n en Welcu u.u",
+  "display_text_range": [
+    12,
+    33
+  ],
+  "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+  "truncated": false,
+  "in_reply_to_status_id": 922880971850027008,
+  "in_reply_to_status_id_str": "922880971850027008",
+  "in_reply_to_user_id": 180446907,
+  "in_reply_to_user_id_str": "180446907",
+  "in_reply_to_screen_name": "vanphoenix",
+  "user": {
+    "id": 797258179646210048,
+    "id_str": "797258179646210048",
+    "name": "Abel O'Rian \ud83c\udf40",
+    "screen_name": "AbelORian",
+    "location": "Providencia, Chile",
+    "url": "http://instagr.am/a.orian",
+    "description": "29. Ing. en Computaci\u00f3n. \ud83d\udeb4\ud83c\udffb . Vegetariano \ud83e\udd52 Me gusta la pol\u00edtica. Trabajo en @welcu",
+    "translator_type": "none",
+    "protected": false,
+    "verified": false,
+    "followers_count": 207,
+    "friends_count": 216,
+    "listed_count": 2,
+    "favourites_count": 14522,
+    "statuses_count": 4369,
+    "created_at": "Sat Nov 12 02:02:17 +0000 2016",
+    "utc_offset": -25200,
+    "time_zone": "Pacific Time (US & Canada)",
+    "geo_enabled": true,
+    "lang": "es",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "000000",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": false,
+    "profile_link_color": "990909",
+    "profile_sidebar_border_color": "000000",
+    "profile_sidebar_fill_color": "000000",
+    "profile_text_color": "000000",
+    "profile_use_background_image": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/845412051296178177/75fI1UEQ_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/845412051296178177/75fI1UEQ_normal.jpg",
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": null,
+    "follow_request_sent": null,
+    "notifications": null
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": {
+    "id": "01d461fd3da860bd",
+    "url": "https://api.twitter.com/1.1/geo/id/01d461fd3da860bd.json",
+    "place_type": "city",
+    "name": "Providencia",
+    "full_name": "Providencia, Chile",
+    "country_code": "CL",
+    "country": "Chile",
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            -70.637692,
+            -33.449973
+          ],
+          [
+            -70.637692,
+            -33.408997
+          ],
+          [
+            -70.583826,
+            -33.408997
+          ],
+          [
+            -70.583826,
+            -33.449973
+          ]
+        ]
+      ]
+    },
+    "attributes": {}
+  },
+  "contributors": null,
+  "is_quote_status": false,
+  "quote_count": 0,
+  "reply_count": 0,
+  "retweet_count": 0,
+  "favorite_count": 0,
+  "entities": {
+    "hashtags": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "screen_name": "vanphoenix",
+        "name": "Anxiety.",
+        "id": 180446907,
+        "id_str": "180446907",
+        "indices": [
+          0,
+          11
+        ]
+      }
+    ],
+    "symbols": []
+  },
+  "favorited": false,
+  "retweeted": false,
+  "filter_level": "low",
+  "lang": "es",
+  "timestamp_ms": "1508866999971"
+}

@@ -1,0 +1,150 @@
+{
+  "created_at": "Thu Oct 26 22:35:31 +0000 2017",
+  "id": 923679513950720000,
+  "id_str": "923679513950720000",
+  "text": "Thor Ragnarok \ud83d\ude0d (@ IMAX @CineHoyts Plaza Ega\u00f1a in La Reina, Santiago Metropolitan w/ @karensonia) https://t.co/BLqf68PYTz",
+  "source": "<a href=\"http://foursquare.com\" rel=\"nofollow\">Foursquare</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 53538570,
+    "id_str": "53538570",
+    "name": "Bruno D\u00edaz",
+    "screen_name": "bruce104_",
+    "location": "Santiago, Chile",
+    "url": "http://instagram.com/bruce104",
+    "description": "Vive peligrosamente",
+    "translator_type": "none",
+    "protected": false,
+    "verified": false,
+    "followers_count": 716,
+    "friends_count": 1667,
+    "listed_count": 9,
+    "favourites_count": 2717,
+    "statuses_count": 37293,
+    "created_at": "Fri Jul 03 23:57:46 +0000 2009",
+    "utc_offset": -10800,
+    "time_zone": "Santiago",
+    "geo_enabled": true,
+    "lang": "es",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "000000",
+    "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/679418848/a925aa75661d74aeb38d13e557900961.jpeg",
+    "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/679418848/a925aa75661d74aeb38d13e557900961.jpeg",
+    "profile_background_tile": false,
+    "profile_link_color": "4A913C",
+    "profile_sidebar_border_color": "FFFFFF",
+    "profile_sidebar_fill_color": "EFEFEF",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/797291796720156672/fUD6MYmq_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/797291796720156672/fUD6MYmq_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/53538570/1478924154",
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": null,
+    "follow_request_sent": null,
+    "notifications": null
+  },
+  "geo": {
+    "type": "Point",
+    "coordinates": [
+      -33.45221886,
+      -70.56972993
+    ]
+  },
+  "coordinates": {
+    "type": "Point",
+    "coordinates": [
+      -70.56972993,
+      -33.45221886
+    ]
+  },
+  "place": {
+    "id": "01f12d127b3175d6",
+    "url": "https://api.twitter.com/1.1/geo/id/01f12d127b3175d6.json",
+    "place_type": "city",
+    "name": "La Reina",
+    "full_name": "La Reina, Chile",
+    "country_code": "CL",
+    "country": "Chile",
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            -70.586068,
+            -33.46555
+          ],
+          [
+            -70.586068,
+            -33.428727
+          ],
+          [
+            -70.487313,
+            -33.428727
+          ],
+          [
+            -70.487313,
+            -33.46555
+          ]
+        ]
+      ]
+    },
+    "attributes": {}
+  },
+  "contributors": null,
+  "is_quote_status": false,
+  "quote_count": 0,
+  "reply_count": 0,
+  "retweet_count": 0,
+  "favorite_count": 0,
+  "entities": {
+    "hashtags": [],
+    "urls": [
+      {
+        "url": "https://t.co/BLqf68PYTz",
+        "expanded_url": "https://www.swarmapp.com/c/8tAfpKuzv1F",
+        "display_url": "swarmapp.com/c/8tAfpKuzv1F",
+        "indices": [
+          98,
+          121
+        ]
+      }
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "cinehoyts",
+        "name": "uno6",
+        "id": 67464821,
+        "id_str": "67464821",
+        "indices": [
+          24,
+          34
+        ]
+      },
+      {
+        "screen_name": "karensonia",
+        "name": "Karen Arancibia",
+        "id": 14421361,
+        "id_str": "14421361",
+        "indices": [
+          85,
+          96
+        ]
+      }
+    ],
+    "symbols": []
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false,
+  "filter_level": "low",
+  "lang": "es",
+  "timestamp_ms": "1509057331918"
+}
