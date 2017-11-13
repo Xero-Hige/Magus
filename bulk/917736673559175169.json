@@ -1,1 +1,136 @@
-{"created_at": "Tue Oct 10 13:00:48 +0000 2017", "id": 917736673559175169, "id_str": "917736673559175169", "text": "Construction on #508554Bus at Main Street https://t.co/hRBRuLmzzM", "source": "<a href=\"https://511ny.org\" rel=\"nofollow\">NYRegions</a>", "truncated": false, "in_reply_to_status_id": null, "in_reply_to_status_id_str": null, "in_reply_to_user_id": null, "in_reply_to_user_id_str": null, "in_reply_to_screen_name": null, "user": {"id": 51149096, "id_str": "51149096", "name": "511NY - New Jersey", "screen_name": "511nyNJ", "location": "New Jersey", "url": "http://twitter.511ny.org/", "description": "Traffic & transit updates for the New Jersey area provided by New York State 511. Visit the website for more feeds.", "translator_type": "none", "protected": false, "verified": false, "followers_count": 1737, "friends_count": 1, "listed_count": 195, "favourites_count": 0, "statuses_count": 1206493, "created_at": "Fri Jun 26 17:40:57 +0000 2009", "utc_offset": -14400, "time_zone": "Eastern Time (US & Canada)", "geo_enabled": true, "lang": "en", "contributors_enabled": false, "is_translator": false, "profile_background_color": "9AE4E8", "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png", "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", "profile_background_tile": false, "profile_link_color": "0051BA", "profile_sidebar_border_color": "333333", "profile_sidebar_fill_color": "0099C3", "profile_text_color": "333333", "profile_use_background_image": true, "profile_image_url": "http://pbs.twimg.com/profile_images/307181105/511twitlogo_normal.png", "profile_image_url_https": "https://pbs.twimg.com/profile_images/307181105/511twitlogo_normal.png", "default_profile": false, "default_profile_image": false, "following": null, "follow_request_sent": null, "notifications": null}, "geo": {"type": "Point", "coordinates": [40.173233, -74.651412]}, "coordinates": {"type": "Point", "coordinates": [-74.651412, 40.173233]}, "place": {"id": "004909eb62a03a88", "url": "https://api.twitter.com/1.1/geo/id/004909eb62a03a88.json", "place_type": "city", "name": "Groveville", "full_name": "Groveville, NJ", "country_code": "US", "country": "United States", "bounding_box": {"type": "Polygon", "coordinates": [[[-74.6825, 40.152835], [-74.6825, 40.173255], [-74.646266, 40.173255], [-74.646266, 40.152835]]]}, "attributes": {}}, "contributors": null, "is_quote_status": false, "quote_count": 0, "reply_count": 0, "retweet_count": 0, "favorite_count": 0, "entities": {"hashtags": [{"text": "508554Bus", "indices": [16, 26]}], "urls": [{"url": "https://t.co/hRBRuLmzzM", "expanded_url": "http://511ny.org/EventDetails/TRANSCOM/ORT25703007", "display_url": "511ny.org/EventDetails/T\u2026", "indices": [42, 65]}], "user_mentions": [], "symbols": []}, "favorited": false, "retweeted": false, "possibly_sensitive": false, "filter_level": "low", "lang": "en", "timestamp_ms": "1507640448356"}
+{
+  "created_at": "Tue Oct 10 13:00:48 +0000 2017",
+  "id": 917736673559175169,
+  "id_str": "917736673559175169",
+  "text": "Construction on #508554Bus at Main Street https://t.co/hRBRuLmzzM",
+  "source": "<a href=\"https://511ny.org\" rel=\"nofollow\">NYRegions</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 51149096,
+    "id_str": "51149096",
+    "name": "511NY - New Jersey",
+    "screen_name": "511nyNJ",
+    "location": "New Jersey",
+    "url": "http://twitter.511ny.org/",
+    "description": "Traffic & transit updates for the New Jersey area provided by New York State 511. Visit the website for more feeds.",
+    "translator_type": "none",
+    "protected": false,
+    "verified": false,
+    "followers_count": 1737,
+    "friends_count": 1,
+    "listed_count": 195,
+    "favourites_count": 0,
+    "statuses_count": 1206493,
+    "created_at": "Fri Jun 26 17:40:57 +0000 2009",
+    "utc_offset": -14400,
+    "time_zone": "Eastern Time (US & Canada)",
+    "geo_enabled": true,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "9AE4E8",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": false,
+    "profile_link_color": "0051BA",
+    "profile_sidebar_border_color": "333333",
+    "profile_sidebar_fill_color": "0099C3",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/307181105/511twitlogo_normal.png",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/307181105/511twitlogo_normal.png",
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": null,
+    "follow_request_sent": null,
+    "notifications": null
+  },
+  "geo": {
+    "type": "Point",
+    "coordinates": [
+      40.173233,
+      -74.651412
+    ]
+  },
+  "coordinates": {
+    "type": "Point",
+    "coordinates": [
+      -74.651412,
+      40.173233
+    ]
+  },
+  "place": {
+    "id": "004909eb62a03a88",
+    "url": "https://api.twitter.com/1.1/geo/id/004909eb62a03a88.json",
+    "place_type": "city",
+    "name": "Groveville",
+    "full_name": "Groveville, NJ",
+    "country_code": "US",
+    "country": "United States",
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            -74.6825,
+            40.152835
+          ],
+          [
+            -74.6825,
+            40.173255
+          ],
+          [
+            -74.646266,
+            40.173255
+          ],
+          [
+            -74.646266,
+            40.152835
+          ]
+        ]
+      ]
+    },
+    "attributes": {}
+  },
+  "contributors": null,
+  "is_quote_status": false,
+  "quote_count": 0,
+  "reply_count": 0,
+  "retweet_count": 0,
+  "favorite_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "508554Bus",
+        "indices": [
+          16,
+          26
+        ]
+      }
+    ],
+    "urls": [
+      {
+        "url": "https://t.co/hRBRuLmzzM",
+        "expanded_url": "http://511ny.org/EventDetails/TRANSCOM/ORT25703007",
+        "display_url": "511ny.org/EventDetails/T\u2026",
+        "indices": [
+          42,
+          65
+        ]
+      }
+    ],
+    "user_mentions": [],
+    "symbols": []
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false,
+  "filter_level": "low",
+  "lang": "en",
+  "timestamp_ms": "1507640448356"
+}

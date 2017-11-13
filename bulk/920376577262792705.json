@@ -1,0 +1,197 @@
+{
+  "created_at": "Tue Oct 17 19:50:50 +0000 2017",
+  "id": 920376577262792705,
+  "id_str": "920376577262792705",
+  "text": "Tuesday afternoon at #TXST \ud83d\ude3b https://t.co/ekmlxiTchg",
+  "display_text_range": [
+    0,
+    28
+  ],
+  "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 64826699,
+    "id_str": "64826699",
+    "name": "Texas State",
+    "screen_name": "txst",
+    "location": "San Marcos, TX",
+    "url": "http://txstate.edu",
+    "description": "The official Twitter account for Texas State University. A member of The Texas State University System. #beabobcat #TXST #EatEmUpCats",
+    "translator_type": "regular",
+    "protected": false,
+    "verified": true,
+    "followers_count": 81062,
+    "friends_count": 162,
+    "listed_count": 586,
+    "favourites_count": 13845,
+    "statuses_count": 30451,
+    "created_at": "Tue Aug 11 21:19:45 +0000 2009",
+    "utc_offset": -18000,
+    "time_zone": "Central Time (US & Canada)",
+    "geo_enabled": true,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "8C734A",
+    "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/31603338/txstate_star_copy.png",
+    "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/31603338/txstate_star_copy.png",
+    "profile_background_tile": false,
+    "profile_link_color": "6A5638",
+    "profile_sidebar_border_color": "541E26",
+    "profile_sidebar_fill_color": "CFCFCF",
+    "profile_text_color": "52262E",
+    "profile_use_background_image": true,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/892807688307986432/P3bv9wGE_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/892807688307986432/P3bv9wGE_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/64826699/1452888771",
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": null,
+    "follow_request_sent": null,
+    "notifications": null
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": {
+    "id": "f95ca607d76de8c6",
+    "url": "https://api.twitter.com/1.1/geo/id/f95ca607d76de8c6.json",
+    "place_type": "city",
+    "name": "San Marcos",
+    "full_name": "San Marcos, TX",
+    "country_code": "US",
+    "country": "United States",
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            -97.993537,
+            29.840708
+          ],
+          [
+            -97.993537,
+            29.950505
+          ],
+          [
+            -97.876846,
+            29.950505
+          ],
+          [
+            -97.876846,
+            29.840708
+          ]
+        ]
+      ]
+    },
+    "attributes": {}
+  },
+  "contributors": null,
+  "is_quote_status": false,
+  "quote_count": 0,
+  "reply_count": 0,
+  "retweet_count": 0,
+  "favorite_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "TXST",
+        "indices": [
+          21,
+          26
+        ]
+      }
+    ],
+    "urls": [],
+    "user_mentions": [],
+    "symbols": [],
+    "media": [
+      {
+        "id": 920376549806714880,
+        "id_str": "920376549806714880",
+        "indices": [
+          29,
+          52
+        ],
+        "media_url": "http://pbs.twimg.com/media/DMXVmH7UMAAOkAG.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/DMXVmH7UMAAOkAG.jpg",
+        "url": "https://t.co/ekmlxiTchg",
+        "display_url": "pic.twitter.com/ekmlxiTchg",
+        "expanded_url": "https://twitter.com/txst/status/920376577262792705/photo/1",
+        "type": "photo",
+        "sizes": {
+          "medium": {
+            "w": 1200,
+            "h": 801,
+            "resize": "fit"
+          },
+          "small": {
+            "w": 680,
+            "h": 454,
+            "resize": "fit"
+          },
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "large": {
+            "w": 2048,
+            "h": 1367,
+            "resize": "fit"
+          }
+        }
+      }
+    ]
+  },
+  "extended_entities": {
+    "media": [
+      {
+        "id": 920376549806714880,
+        "id_str": "920376549806714880",
+        "indices": [
+          29,
+          52
+        ],
+        "media_url": "http://pbs.twimg.com/media/DMXVmH7UMAAOkAG.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/DMXVmH7UMAAOkAG.jpg",
+        "url": "https://t.co/ekmlxiTchg",
+        "display_url": "pic.twitter.com/ekmlxiTchg",
+        "expanded_url": "https://twitter.com/txst/status/920376577262792705/photo/1",
+        "type": "photo",
+        "sizes": {
+          "medium": {
+            "w": 1200,
+            "h": 801,
+            "resize": "fit"
+          },
+          "small": {
+            "w": 680,
+            "h": 454,
+            "resize": "fit"
+          },
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "large": {
+            "w": 2048,
+            "h": 1367,
+            "resize": "fit"
+          }
+        }
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false,
+  "filter_level": "low",
+  "lang": "en",
+  "timestamp_ms": "1508269850446"
+}

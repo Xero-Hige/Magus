@@ -1,0 +1,121 @@
+{
+  "created_at": "Wed Oct 25 16:01:26 +0000 2017",
+  "id": 923217949657362437,
+  "id_str": "923217949657362437",
+  "text": "@MartinHell75 Me pasa igual, solo que no se me ocurren algunas cosas",
+  "display_text_range": [
+    14,
+    68
+  ],
+  "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+  "truncated": false,
+  "in_reply_to_status_id": 923217447473307649,
+  "in_reply_to_status_id_str": "923217447473307649",
+  "in_reply_to_user_id": 1692314130,
+  "in_reply_to_user_id_str": "1692314130",
+  "in_reply_to_screen_name": "MartinHell75",
+  "user": {
+    "id": 738445695892459520,
+    "id_str": "738445695892459520",
+    "name": "Paz \u270c",
+    "screen_name": "PacitArandu",
+    "location": "Buenos Aires, Argentina",
+    "url": null,
+    "description": "Re\u00edrme con vos, es tocar el cielo.",
+    "translator_type": "none",
+    "protected": false,
+    "verified": false,
+    "followers_count": 1168,
+    "friends_count": 956,
+    "listed_count": 1,
+    "favourites_count": 20969,
+    "statuses_count": 13790,
+    "created_at": "Thu Jun 02 19:02:28 +0000 2016",
+    "utc_offset": -10800,
+    "time_zone": "Buenos Aires",
+    "geo_enabled": true,
+    "lang": "es",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "000000",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": false,
+    "profile_link_color": "E81C4F",
+    "profile_sidebar_border_color": "000000",
+    "profile_sidebar_fill_color": "000000",
+    "profile_text_color": "000000",
+    "profile_use_background_image": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/919966668226428928/H_4Z5ncT_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/919966668226428928/H_4Z5ncT_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/738445695892459520/1502850187",
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": null,
+    "follow_request_sent": null,
+    "notifications": null
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": {
+    "id": "4afa2757051c5192",
+    "url": "https://api.twitter.com/1.1/geo/id/4afa2757051c5192.json",
+    "place_type": "admin",
+    "name": "Buenos Aires",
+    "full_name": "Buenos Aires, Argentina",
+    "country_code": "AR",
+    "country": "Argentina",
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            -63.39386,
+            -41.035009
+          ],
+          [
+            -63.39386,
+            -33.260144
+          ],
+          [
+            -56.665836,
+            -33.260144
+          ],
+          [
+            -56.665836,
+            -41.035009
+          ]
+        ]
+      ]
+    },
+    "attributes": {}
+  },
+  "contributors": null,
+  "is_quote_status": false,
+  "quote_count": 0,
+  "reply_count": 0,
+  "retweet_count": 0,
+  "favorite_count": 0,
+  "entities": {
+    "hashtags": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "screen_name": "MartinHell75",
+        "name": "Border",
+        "id": 1692314130,
+        "id_str": "1692314130",
+        "indices": [
+          0,
+          13
+        ]
+      }
+    ],
+    "symbols": []
+  },
+  "favorited": false,
+  "retweeted": false,
+  "filter_level": "low",
+  "lang": "es",
+  "timestamp_ms": "1508947286415"
+}
