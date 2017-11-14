@@ -1,4 +1,5 @@
 import csv
+import re
 
 from libs.string_generalizer import strip_accents
 
@@ -59,10 +60,12 @@ class Lexicon():
 
             tag_list = self.lexicon[word]
 
-            for i in range(len(tag_list)):
-                total[i] += tag_list[i]
+            mod = re.finditer(word, cleaned)
 
-            found += 1
+            for i in range(len(tag_list)):
+                total[i] += tag_list[i] * mod
+
+            found += mod
 
         if found == 0:
             return self.UNDETERMINED, 0
