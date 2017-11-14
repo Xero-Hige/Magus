@@ -46,9 +46,6 @@ def validate_tag_get():
                 auto = "LEXICON {} with level ({})".format(lexicon.get_associated_lang(),level)
                 break
 
-    if classification == SADNESS:
-        classification += 's' #FIXME
-
     return render_template("tag_validator.html", tweet=tweet, max=max, app_route=APP_ROUTE,
                            classification=classification, auto=auto)
 
