@@ -12,7 +12,9 @@ APP_ROUTE = '/es'
 spanish_classify = Blueprint('spanish_classify', __name__,
                              template_folder='templates')
 
-LEXICONS = [Lexicon("./lexicons/en_lexicon.lxc", lang="en")]
+LEXICONS = [Lexicon("./lexicons/en_lexicon.lx", lang="en"),
+            Lexicon("./lexicons/es_lexicon.lx", lang="es"),
+            Lexicon("./lexicons/pt_lexicon.lx", lang="pt")]
 
 
 @spanish_classify.route(APP_ROUTE + '/classify', methods=["GET"])
