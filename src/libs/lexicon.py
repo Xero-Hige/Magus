@@ -36,7 +36,7 @@ class Lexicon():
         self.lang = lang
 
         with open(lexicon_file) as _file:
-            reader = csv.reader(_file,delimiter=" ")
+            reader = csv.reader(_file, delimiter=" ")
             for line in reader:
                 word, tag, value = line
 
@@ -65,23 +65,23 @@ class Lexicon():
             found += 1
 
         if found == 0:
-            return (self.UNDETERMINED,0)
+            return self.UNDETERMINED, 0
 
         max_value, max_list = self._get_max_index(total)
 
         if max_value == 0:
             if tag_list[self.EMOTIONS[self._POSITIVE]] > 0:
-                return (self.UNDETERMINED,0)
+                return self.UNDETERMINED, 0
             if tag_list[self.EMOTIONS[self._NEGATIVE]] > 0:
-                return (self.UNDETERMINED,0)
-            return (self.NEUTRAL,found)
+                return self.UNDETERMINED, 0
+            return self.NEUTRAL, found
 
         for k, v in self.EMOTIONS.items():
             if v == max_list[0]:
-                return (k,total[v])
+                return k, total[v]
 
-
-    def _get_max_index(self, tag_list):
+    @staticmethod
+    def _get_max_index(tag_list):
 
         max_value = 0
         max_list = []
