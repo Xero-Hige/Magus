@@ -1,5 +1,7 @@
 import csv
+
 from libs.string_generalizer import strip_accents
+
 
 class Lexicon():
     ANGER = "anger"
@@ -7,7 +9,7 @@ class Lexicon():
     DISGUST = "disgust"
     FEAR = "fear"
     JOY = "joy"
-    SADNESS = "sadnes"
+    SADNESS = "sadness"
     SURPRISE = "surprise"
     TRUST = "trust"
     NEUTRAL = "neutral"
