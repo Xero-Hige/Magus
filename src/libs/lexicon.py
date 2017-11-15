@@ -21,11 +21,11 @@ class Lexicon():
 
     EMOTIONS = {
         ANGER: 0,
-        ANTICIPATION: 1,
+        ANTICIPATION: 4,
         DISGUST: 2,
-        FEAR: 3,
-        JOY: 4,
-        SADNESS: 5,
+        FEAR: 5,
+        JOY: 1,
+        SADNESS: 3,
         SURPRISE: 6,
         TRUST: 7,
         _NEGATIVE: 8,
@@ -60,7 +60,7 @@ class Lexicon():
 
             tag_list = self.lexicon[word]
 
-            mod = re.finditer(word, cleaned)
+            mod = len(list(re.finditer(word, cleaned)))
 
             for i in range(len(tag_list)):
                 total[i] += tag_list[i] * mod
