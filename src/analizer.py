@@ -1,3 +1,4 @@
+import json
 import os
 import random
 
@@ -6,39 +7,49 @@ from libs.tweet_parser import TweetParser
 
 lexicon = Lexicon("lexicons/es_lexicon.lx", "es")
 
-for folder, _, files in os.walk("./tweets_bashfull_old"):
-    random.shuffle(files)
+MAX_PER_ITERATION = 20
 
-    emotion = folder.split("/")[-1]
-    print("Validate --> {}".format(emotion))
+for batch in range(1, 4):
+    for folder, _, files in os.walk("./tweets_bashfull_{}".format(batch)):
+        random.shuffle(files)
 
-    batch = 1
+        emotion = folder.split("/")[-1]
+        print("Validate --> {}".format(emotion))
 
-    for _file in files[:10]:
-        tweet_id = _file.split(".")[0]
-        output_dir = os.path.join(".", "results", "batch{}".format(batch))
+        added = 0
+        for _file in files:
+            if added > MAX_PER_ITERATION:
+                break
 
-        tweet = TweetParser.parse_from_json_file(os.path.join(folder, _file))
+            tweet_id = _file.split(".")[0]
+            output_dir = os.path.join(".", "results", "batch{}".format(batch), emotion)
 
-        key_pressed = input("{}: {}  Y/N".format(tweet_id, tweet[TweetParser.TWEET_TEXT]))
+            with open(os.path.join(folder, _file)) as input_file:
+                raw_tweet = json.loads(input_file.read())
 
-        if key_pressed == "y":
-            output_dir = os.path.join(output_dir, "good")
-            try:
-                os.makedirs(output_dir)
-            except:
-                pass
-            print(output_dir + "{}.json".format(tweet_id))
+            tweet = TweetParser.parse_from_dict(raw_tweet)
 
-        elif key_pressed == "n":
-            output_dir = os.path.join(output_dir, "bad")
-            try:
-                os.makedirs(output_dir)
-            except:
-                pass
-            print(output_dir + "{}.json".format(tweet_id))
+            key_pressed = ""
+            while key_pressed not in ["y", "n", "s"]:
+                key_pressed = input("{}: {}  Y/N".format(tweet_id, tweet[TweetParser.TWEET_TEXT]))
 
-        else:
-            print("BOBO")
+            if key_pressed == "y":
+                output_dir = os.path.join(output_dir, "good")
+                try:
+                    os.makedirs(output_dir)
+                except:
+                    pass
 
-        print("<<{}>> {}".format(emotion, tweet_id))
+            elif key_pressed == "n":
+                output_dir = os.path.join(output_dir, "bad")
+                try:
+                    os.makedirs(output_dir)
+                except:
+                    pass
+
+            else:
+                continue
+
+            out_path = os.path.join(output_dir, "{}.json".format(tweet_id))
+            with open(out_path, 'w') as out_file:
+                out_file.write(json.dumps(tweet))
