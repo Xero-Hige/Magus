@@ -1,0 +1,121 @@
+{
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "id": 930342710250295296,
+  "in_reply_to_user_id": null,
+  "coordinates": null,
+  "reply_count": 0,
+  "timestamp_ms": "1510645961712",
+  "geo": null,
+  "quote_count": 0,
+  "retweet_count": 0,
+  "is_quote_status": false,
+  "created_at": "Tue Nov 14 07:52:41 +0000 2017",
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "favorite_count": 0,
+  "in_reply_to_screen_name": null,
+  "text": "Buenos d\u00edas mundo \ud83c\udf0e \"el esfuerzo, la constancia y la humildad  son el \u00fanico camino hacia el verdadero \u00e9xito\". #AporLaSemana #FelizMartes",
+  "in_reply_to_status_id_str": null,
+  "place": {
+    "country": "Espa\u00f1a",
+    "name": "Sevilla",
+    "id": "8c86b8b4cb716103",
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            -6.02843,
+            37.313613
+          ],
+          [
+            -6.02843,
+            37.452783
+          ],
+          [
+            -5.81866,
+            37.452783
+          ],
+          [
+            -5.81866,
+            37.313613
+          ]
+        ]
+      ]
+    },
+    "country_code": "ES",
+    "place_type": "city",
+    "url": "https://api.twitter.com/1.1/geo/id/8c86b8b4cb716103.json",
+    "attributes": {},
+    "full_name": "Sevilla, Espa\u00f1a"
+  },
+  "contributors": null,
+  "entities": {
+    "hashtags": [
+      {
+        "indices": [
+          110,
+          123
+        ],
+        "text": "AporLaSemana"
+      },
+      {
+        "indices": [
+          124,
+          136
+        ],
+        "text": "FelizMartes"
+      }
+    ],
+    "urls": [],
+    "user_mentions": [],
+    "symbols": []
+  },
+  "retweeted": false,
+  "id_str": "930342710250295296",
+  "user": {
+    "time_zone": null,
+    "follow_request_sent": null,
+    "id": 244666058,
+    "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/689354155/8e195f753d588637d71881216fccb04f.jpeg",
+    "translator_type": "none",
+    "screen_name": "mustasevilla",
+    "profile_link_color": "0084B4",
+    "url": "https://www.linkedin.com/in/musta-m-t-1225ab83",
+    "utc_offset": null,
+    "location": "Sevilla, Espa\u00f1a",
+    "name": "Mustafa M.T Ortega",
+    "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/689354155/8e195f753d588637d71881216fccb04f.jpeg",
+    "description": "#Abogado/#Lawyer/#\u0627\u0644\u0645\u062d\u0627\u0645\u064a. Mi territorio de trabajo:el #mundo/#My jurisdiction:the #world.  #Contacto/#contact: (+34) 722-730-668 mustafaortegamolina@gmail.com",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/244666058/1463334544",
+    "created_at": "Sat Jan 29 21:08:57 +0000 2011",
+    "protected": false,
+    "is_translator": false,
+    "listed_count": 6,
+    "statuses_count": 3176,
+    "profile_sidebar_border_color": "FFFFFF",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "default_profile": false,
+    "default_profile_image": false,
+    "verified": false,
+    "notifications": null,
+    "friends_count": 993,
+    "profile_background_color": "C1EBD7",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/731903250773999616/Sx1ZiG_I_normal.jpg",
+    "following": null,
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/731903250773999616/Sx1ZiG_I_normal.jpg",
+    "geo_enabled": true,
+    "profile_use_background_image": true,
+    "contributors_enabled": false,
+    "id_str": "244666058",
+    "profile_text_color": "333333",
+    "followers_count": 697,
+    "favourites_count": 1491,
+    "lang": "es",
+    "profile_background_tile": false
+  },
+  "filter_level": "low",
+  "in_reply_to_user_id_str": null,
+  "favorited": false,
+  "lang": "es"
+}

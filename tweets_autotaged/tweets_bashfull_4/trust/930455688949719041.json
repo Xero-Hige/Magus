@@ -1,0 +1,235 @@
+{
+  "id": 930455688949719041,
+  "lang": "es",
+  "in_reply_to_status_id_str": null,
+  "truncated": true,
+  "place": {
+    "id": "1c69a67ad480e1b1",
+    "country": "United States",
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            -95.823268,
+            29.522325
+          ],
+          [
+            -95.823268,
+            30.154665
+          ],
+          [
+            -95.069705,
+            30.154665
+          ],
+          [
+            -95.069705,
+            29.522325
+          ]
+        ]
+      ]
+    },
+    "url": "https://api.twitter.com/1.1/geo/id/1c69a67ad480e1b1.json",
+    "full_name": "Houston, TX",
+    "attributes": {},
+    "name": "Houston",
+    "place_type": "city",
+    "country_code": "US"
+  },
+  "favorite_count": 0,
+  "retweeted": false,
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "is_quote_status": false,
+  "possibly_sensitive": false,
+  "geo": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_status_id": null,
+  "retweet_count": 0,
+  "quote_count": 0,
+  "timestamp_ms": "1510672897933",
+  "favorited": false,
+  "coordinates": null,
+  "filter_level": "low",
+  "entities": {
+    "urls": [
+      {
+        "indices": [
+          117,
+          140
+        ],
+        "display_url": "twitter.com/i/web/status/9\u2026",
+        "url": "https://t.co/W1YEnjdOZx",
+        "expanded_url": "https://twitter.com/i/web/status/930455688949719041"
+      }
+    ],
+    "symbols": [],
+    "user_mentions": [],
+    "hashtags": [
+      {
+        "text": "F1",
+        "indices": [
+          109,
+          112
+        ]
+      }
+    ]
+  },
+  "reply_count": 0,
+  "in_reply_to_screen_name": null,
+  "display_text_range": [
+    0,
+    140
+  ],
+  "text": "Despues de lo \u201cgris\u201d que vi a Bottas en Brasil dudo que a pesar del apoyo de Mercedes logre el Subcampeonato #F1 en\u2026 https://t.co/W1YEnjdOZx",
+  "extended_tweet": {
+    "display_text_range": [
+      0,
+      172
+    ],
+    "extended_entities": {
+      "media": [
+        {
+          "id": 930455674185768961,
+          "display_url": "pic.twitter.com/2EJNptYBgj",
+          "id_str": "930455674185768961",
+          "indices": [
+            173,
+            196
+          ],
+          "expanded_url": "https://twitter.com/omarketingf1/status/930455688949719041/photo/1",
+          "type": "photo",
+          "url": "https://t.co/2EJNptYBgj",
+          "media_url_https": "https://pbs.twimg.com/media/DOmkgYMW4AEpr51.jpg",
+          "media_url": "http://pbs.twimg.com/media/DOmkgYMW4AEpr51.jpg",
+          "sizes": {
+            "small": {
+              "w": 680,
+              "h": 680,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 2048,
+              "h": 2048,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 1200,
+              "h": 1200,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "entities": {
+      "media": [
+        {
+          "id": 930455674185768961,
+          "display_url": "pic.twitter.com/2EJNptYBgj",
+          "id_str": "930455674185768961",
+          "indices": [
+            173,
+            196
+          ],
+          "expanded_url": "https://twitter.com/omarketingf1/status/930455688949719041/photo/1",
+          "type": "photo",
+          "url": "https://t.co/2EJNptYBgj",
+          "media_url_https": "https://pbs.twimg.com/media/DOmkgYMW4AEpr51.jpg",
+          "media_url": "http://pbs.twimg.com/media/DOmkgYMW4AEpr51.jpg",
+          "sizes": {
+            "small": {
+              "w": 680,
+              "h": 680,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 2048,
+              "h": 2048,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 1200,
+              "h": 1200,
+              "resize": "fit"
+            }
+          }
+        }
+      ],
+      "urls": [],
+      "symbols": [],
+      "user_mentions": [],
+      "hashtags": [
+        {
+          "text": "F1",
+          "indices": [
+            109,
+            112
+          ]
+        },
+        {
+          "text": "AbuDhabiGP",
+          "indices": [
+            116,
+            127
+          ]
+        }
+      ]
+    },
+    "full_text": "Despues de lo \u201cgris\u201d que vi a Bottas en Brasil dudo que a pesar del apoyo de Mercedes logre el Subcampeonato #F1 en #AbuDhabiGP 22 unidades lo separan de Vettel que opinan? https://t.co/2EJNptYBgj"
+  },
+  "user": {
+    "statuses_count": 6378,
+    "id": 53481009,
+    "default_profile": false,
+    "favourites_count": 9648,
+    "url": "http://graining.es",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "verified": false,
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/841805318912901121/7BDkK70G_normal.jpg",
+    "translator_type": "none",
+    "location": "United States",
+    "geo_enabled": true,
+    "utc_offset": -18000,
+    "notifications": null,
+    "profile_background_tile": false,
+    "friends_count": 459,
+    "is_translator": false,
+    "follow_request_sent": null,
+    "default_profile_image": false,
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_color": "000000",
+    "profile_link_color": "1B95E0",
+    "profile_use_background_image": false,
+    "time_zone": "Eastern Time (US & Canada)",
+    "name": "Omar \u00c1lvarez",
+    "profile_text_color": "000000",
+    "profile_sidebar_border_color": "000000",
+    "screen_name": "omarketingf1",
+    "lang": "en",
+    "following": null,
+    "listed_count": 25,
+    "protected": false,
+    "profile_sidebar_fill_color": "000000",
+    "followers_count": 545,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/841805318912901121/7BDkK70G_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/53481009/1502572765",
+    "contributors_enabled": false,
+    "created_at": "Fri Jul 03 19:53:14 +0000 2009",
+    "id_str": "53481009",
+    "description": "OMARKETING Champion - Cubriendo el Campeonato Mundial de #F1 Acreditado por FIA S\u00edguenos en @graining_es y http://lopezdoriga.com #Formula1 #F1 #enlomio"
+  },
+  "created_at": "Tue Nov 14 15:21:37 +0000 2017",
+  "id_str": "930455688949719041",
+  "in_reply_to_user_id": null,
+  "contributors": null
+}

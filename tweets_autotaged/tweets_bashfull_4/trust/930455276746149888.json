@@ -1,0 +1,480 @@
+{
+  "id": 930455276746149888,
+  "lang": "es",
+  "in_reply_to_status_id_str": null,
+  "truncated": true,
+  "place": {
+    "id": "a87ad701b9cd8f8a",
+    "country": "Espa\u00f1a",
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            -5.631302,
+            42.547162
+          ],
+          [
+            -5.631302,
+            42.640132
+          ],
+          [
+            -5.533773,
+            42.640132
+          ],
+          [
+            -5.533773,
+            42.547162
+          ]
+        ]
+      ]
+    },
+    "url": "https://api.twitter.com/1.1/geo/id/a87ad701b9cd8f8a.json",
+    "full_name": "Le\u00f3n, Espa\u00f1a",
+    "attributes": {},
+    "name": "Le\u00f3n",
+    "place_type": "city",
+    "country_code": "ES"
+  },
+  "favorite_count": 0,
+  "retweeted": false,
+  "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+  "is_quote_status": false,
+  "possibly_sensitive": false,
+  "geo": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_status_id": null,
+  "retweet_count": 0,
+  "quote_count": 0,
+  "timestamp_ms": "1510672799656",
+  "favorited": false,
+  "coordinates": null,
+  "filter_level": "low",
+  "entities": {
+    "urls": [
+      {
+        "indices": [
+          117,
+          140
+        ],
+        "display_url": "twitter.com/i/web/status/9\u2026",
+        "url": "https://t.co/PksjBwHO6Z",
+        "expanded_url": "https://twitter.com/i/web/status/930455276746149888"
+      }
+    ],
+    "symbols": [],
+    "user_mentions": [
+      {
+        "screen_name": "ALJOCARauto",
+        "id": 2805896118,
+        "name": "ALJOCAR Autorecambio",
+        "indices": [
+          40,
+          52
+        ],
+        "id_str": "2805896118"
+      }
+    ],
+    "hashtags": [
+      {
+        "text": "NEUM\u00c1TICOS",
+        "indices": [
+          4,
+          15
+        ]
+      },
+      {
+        "text": "leonesp",
+        "indices": [
+          53,
+          61
+        ]
+      }
+    ]
+  },
+  "reply_count": 0,
+  "in_reply_to_screen_name": null,
+  "display_text_range": [
+    0,
+    140
+  ],
+  "text": "Tus #NEUM\u00c1TICOS con MONTAJE INCLUIDO en @ALJOCARauto #leonesp Ll\u00e1manos al 987.347.859 y nuestros profesionales te d\u2026 https://t.co/PksjBwHO6Z",
+  "extended_tweet": {
+    "display_text_range": [
+      0,
+      250
+    ],
+    "extended_entities": {
+      "media": [
+        {
+          "id": 930455025373122565,
+          "display_url": "pic.twitter.com/7r9x09GLkc",
+          "id_str": "930455025373122565",
+          "indices": [
+            251,
+            274
+          ],
+          "expanded_url": "https://twitter.com/ALJOCARauto/status/930455276746149888/photo/1",
+          "type": "photo",
+          "url": "https://t.co/7r9x09GLkc",
+          "media_url_https": "https://pbs.twimg.com/media/DOmj6nLXkAUEuKW.jpg",
+          "media_url": "http://pbs.twimg.com/media/DOmj6nLXkAUEuKW.jpg",
+          "sizes": {
+            "small": {
+              "w": 620,
+              "h": 300,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 620,
+              "h": 300,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 620,
+              "h": 300,
+              "resize": "fit"
+            }
+          }
+        },
+        {
+          "id": 930455070679986176,
+          "display_url": "pic.twitter.com/7r9x09GLkc",
+          "id_str": "930455070679986176",
+          "indices": [
+            251,
+            274
+          ],
+          "expanded_url": "https://twitter.com/ALJOCARauto/status/930455276746149888/photo/1",
+          "type": "photo",
+          "url": "https://t.co/7r9x09GLkc",
+          "media_url_https": "https://pbs.twimg.com/media/DOmj9P9XcAA7dGO.jpg",
+          "media_url": "http://pbs.twimg.com/media/DOmj9P9XcAA7dGO.jpg",
+          "sizes": {
+            "small": {
+              "w": 631,
+              "h": 289,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 631,
+              "h": 289,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 631,
+              "h": 289,
+              "resize": "fit"
+            }
+          }
+        },
+        {
+          "id": 930455070667427841,
+          "display_url": "pic.twitter.com/7r9x09GLkc",
+          "id_str": "930455070667427841",
+          "indices": [
+            251,
+            274
+          ],
+          "expanded_url": "https://twitter.com/ALJOCARauto/status/930455276746149888/photo/1",
+          "type": "photo",
+          "url": "https://t.co/7r9x09GLkc",
+          "media_url_https": "https://pbs.twimg.com/media/DOmj9P6X0AEUs_o.jpg",
+          "media_url": "http://pbs.twimg.com/media/DOmj9P6X0AEUs_o.jpg",
+          "sizes": {
+            "small": {
+              "w": 680,
+              "h": 516,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 1400,
+              "h": 1063,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 1200,
+              "h": 911,
+              "resize": "fit"
+            }
+          }
+        },
+        {
+          "id": 930455070675734528,
+          "display_url": "pic.twitter.com/7r9x09GLkc",
+          "id_str": "930455070675734528",
+          "indices": [
+            251,
+            274
+          ],
+          "expanded_url": "https://twitter.com/ALJOCARauto/status/930455276746149888/photo/1",
+          "type": "photo",
+          "url": "https://t.co/7r9x09GLkc",
+          "media_url_https": "https://pbs.twimg.com/media/DOmj9P8WkAADWm8.jpg",
+          "media_url": "http://pbs.twimg.com/media/DOmj9P8WkAADWm8.jpg",
+          "sizes": {
+            "small": {
+              "w": 600,
+              "h": 352,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 600,
+              "h": 352,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 600,
+              "h": 352,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "entities": {
+      "media": [
+        {
+          "id": 930455025373122565,
+          "display_url": "pic.twitter.com/7r9x09GLkc",
+          "id_str": "930455025373122565",
+          "indices": [
+            251,
+            274
+          ],
+          "expanded_url": "https://twitter.com/ALJOCARauto/status/930455276746149888/photo/1",
+          "type": "photo",
+          "url": "https://t.co/7r9x09GLkc",
+          "media_url_https": "https://pbs.twimg.com/media/DOmj6nLXkAUEuKW.jpg",
+          "media_url": "http://pbs.twimg.com/media/DOmj6nLXkAUEuKW.jpg",
+          "sizes": {
+            "small": {
+              "w": 620,
+              "h": 300,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 620,
+              "h": 300,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 620,
+              "h": 300,
+              "resize": "fit"
+            }
+          }
+        },
+        {
+          "id": 930455070679986176,
+          "display_url": "pic.twitter.com/7r9x09GLkc",
+          "id_str": "930455070679986176",
+          "indices": [
+            251,
+            274
+          ],
+          "expanded_url": "https://twitter.com/ALJOCARauto/status/930455276746149888/photo/1",
+          "type": "photo",
+          "url": "https://t.co/7r9x09GLkc",
+          "media_url_https": "https://pbs.twimg.com/media/DOmj9P9XcAA7dGO.jpg",
+          "media_url": "http://pbs.twimg.com/media/DOmj9P9XcAA7dGO.jpg",
+          "sizes": {
+            "small": {
+              "w": 631,
+              "h": 289,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 631,
+              "h": 289,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 631,
+              "h": 289,
+              "resize": "fit"
+            }
+          }
+        },
+        {
+          "id": 930455070667427841,
+          "display_url": "pic.twitter.com/7r9x09GLkc",
+          "id_str": "930455070667427841",
+          "indices": [
+            251,
+            274
+          ],
+          "expanded_url": "https://twitter.com/ALJOCARauto/status/930455276746149888/photo/1",
+          "type": "photo",
+          "url": "https://t.co/7r9x09GLkc",
+          "media_url_https": "https://pbs.twimg.com/media/DOmj9P6X0AEUs_o.jpg",
+          "media_url": "http://pbs.twimg.com/media/DOmj9P6X0AEUs_o.jpg",
+          "sizes": {
+            "small": {
+              "w": 680,
+              "h": 516,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 1400,
+              "h": 1063,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 1200,
+              "h": 911,
+              "resize": "fit"
+            }
+          }
+        },
+        {
+          "id": 930455070675734528,
+          "display_url": "pic.twitter.com/7r9x09GLkc",
+          "id_str": "930455070675734528",
+          "indices": [
+            251,
+            274
+          ],
+          "expanded_url": "https://twitter.com/ALJOCARauto/status/930455276746149888/photo/1",
+          "type": "photo",
+          "url": "https://t.co/7r9x09GLkc",
+          "media_url_https": "https://pbs.twimg.com/media/DOmj9P8WkAADWm8.jpg",
+          "media_url": "http://pbs.twimg.com/media/DOmj9P8WkAADWm8.jpg",
+          "sizes": {
+            "small": {
+              "w": 600,
+              "h": 352,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 600,
+              "h": 352,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 600,
+              "h": 352,
+              "resize": "fit"
+            }
+          }
+        }
+      ],
+      "urls": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "screen_name": "ALJOCARauto",
+          "id": 2805896118,
+          "name": "ALJOCAR Autorecambio",
+          "indices": [
+            40,
+            52
+          ],
+          "id_str": "2805896118"
+        }
+      ],
+      "hashtags": [
+        {
+          "text": "NEUM\u00c1TICOS",
+          "indices": [
+            4,
+            15
+          ]
+        },
+        {
+          "text": "leonesp",
+          "indices": [
+            53,
+            61
+          ]
+        }
+      ]
+    },
+    "full_text": "Tus #NEUM\u00c1TICOS con MONTAJE INCLUIDO en @ALJOCARauto #leonesp Ll\u00e1manos al 987.347.859 y nuestros profesionales te dar\u00e1n presupuesto sin compromiso.\nEn invierno, las condiciones de la carretera son impredecibles y pueden empeorar en cuesti\u00f3n de horas. https://t.co/7r9x09GLkc"
+  },
+  "user": {
+    "statuses_count": 885,
+    "id": 2805896118,
+    "default_profile": false,
+    "favourites_count": 498,
+    "url": "http://aljocar.com/",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+    "verified": false,
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/828576339041083392/ksH68EwD_normal.jpg",
+    "translator_type": "none",
+    "location": "C/ Vegamian, 15 - 24007, Leon",
+    "geo_enabled": true,
+    "utc_offset": -28800,
+    "notifications": null,
+    "profile_background_tile": false,
+    "friends_count": 1075,
+    "is_translator": false,
+    "follow_request_sent": null,
+    "default_profile_image": false,
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+    "profile_background_color": "000000",
+    "profile_link_color": "1B95E0",
+    "profile_use_background_image": false,
+    "time_zone": "Pacific Time (US & Canada)",
+    "name": "ALJOCAR Autorecambio",
+    "profile_text_color": "000000",
+    "profile_sidebar_border_color": "000000",
+    "screen_name": "ALJOCARauto",
+    "lang": "es",
+    "following": null,
+    "listed_count": 15,
+    "protected": false,
+    "profile_sidebar_fill_color": "000000",
+    "followers_count": 1098,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/828576339041083392/ksH68EwD_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/2805896118/1503423628",
+    "contributors_enabled": false,
+    "created_at": "Fri Sep 12 17:37:36 +0000 2014",
+    "id_str": "2805896118",
+    "description": "Telef: 987347859 #TalleresStar Socio #ASERAutomotive - Distribuidor: #GECOR #Varta #IcerBrakes #Castrol #Luk #SKF #LUCAS #RTS #IADA #SACHS #PHILIPS - #leonesp"
+  },
+  "created_at": "Tue Nov 14 15:19:59 +0000 2017",
+  "id_str": "930455276746149888",
+  "in_reply_to_user_id": null,
+  "contributors": null
+}

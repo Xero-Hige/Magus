@@ -1,0 +1,269 @@
+{
+  "id": 930453892940394498,
+  "lang": "es",
+  "in_reply_to_status_id_str": null,
+  "truncated": true,
+  "place": {
+    "id": "00698bbe577bad5b",
+    "country": "Colombia",
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            -75.731653,
+            6.166059
+          ],
+          [
+            -75.731653,
+            6.375707
+          ],
+          [
+            -75.506773,
+            6.375707
+          ],
+          [
+            -75.506773,
+            6.166059
+          ]
+        ]
+      ]
+    },
+    "url": "https://api.twitter.com/1.1/geo/id/00698bbe577bad5b.json",
+    "full_name": "Medell\u00edn, Colombia",
+    "attributes": {},
+    "name": "Medell\u00edn",
+    "place_type": "city",
+    "country_code": "CO"
+  },
+  "favorite_count": 0,
+  "retweeted": false,
+  "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+  "is_quote_status": false,
+  "possibly_sensitive": false,
+  "geo": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_status_id": null,
+  "retweet_count": 0,
+  "quote_count": 0,
+  "timestamp_ms": "1510672469731",
+  "favorited": false,
+  "coordinates": null,
+  "filter_level": "low",
+  "entities": {
+    "urls": [
+      {
+        "indices": [
+          117,
+          140
+        ],
+        "display_url": "twitter.com/i/web/status/9\u2026",
+        "url": "https://t.co/79OYID9pRC",
+        "expanded_url": "https://twitter.com/i/web/status/930453892940394498"
+      }
+    ],
+    "symbols": [],
+    "user_mentions": [],
+    "hashtags": [
+      {
+        "text": "todosytodas",
+        "indices": [
+          0,
+          12
+        ]
+      }
+    ]
+  },
+  "reply_count": 0,
+  "in_reply_to_screen_name": null,
+  "display_text_range": [
+    0,
+    140
+  ],
+  "text": "#todosytodas | En Santa Fe de Antioquia se vive la celebraci\u00f3n de la Fiesta del Campesino en la Vereda La Aldea |S\u00e1\u2026 https://t.co/79OYID9pRC",
+  "extended_tweet": {
+    "display_text_range": [
+      0,
+      209
+    ],
+    "extended_entities": {
+      "media": [
+        {
+          "id": 930453449409486848,
+          "display_url": "pic.twitter.com/sEtPQsO73o",
+          "id_str": "930453449409486848",
+          "indices": [
+            210,
+            233
+          ],
+          "expanded_url": "https://twitter.com/AlcaldiaStaFe/status/930453892940394498/photo/1",
+          "type": "photo",
+          "url": "https://t.co/sEtPQsO73o",
+          "media_url_https": "https://pbs.twimg.com/media/DOmie4QW4AAOITz.jpg",
+          "media_url": "http://pbs.twimg.com/media/DOmie4QW4AAOITz.jpg",
+          "sizes": {
+            "small": {
+              "w": 440,
+              "h": 680,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 621,
+              "h": 960,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 621,
+              "h": 960,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "entities": {
+      "media": [
+        {
+          "id": 930453449409486848,
+          "display_url": "pic.twitter.com/sEtPQsO73o",
+          "id_str": "930453449409486848",
+          "indices": [
+            210,
+            233
+          ],
+          "expanded_url": "https://twitter.com/AlcaldiaStaFe/status/930453892940394498/photo/1",
+          "type": "photo",
+          "url": "https://t.co/sEtPQsO73o",
+          "media_url_https": "https://pbs.twimg.com/media/DOmie4QW4AAOITz.jpg",
+          "media_url": "http://pbs.twimg.com/media/DOmie4QW4AAOITz.jpg",
+          "sizes": {
+            "small": {
+              "w": 440,
+              "h": 680,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 621,
+              "h": 960,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 621,
+              "h": 960,
+              "resize": "fit"
+            }
+          }
+        }
+      ],
+      "urls": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "screen_name": "Santafedeant1",
+          "id": 533462889,
+          "name": "SantaFedeAntioquia",
+          "indices": [
+            152,
+            166
+          ],
+          "id_str": "533462889"
+        },
+        {
+          "screen_name": "SParticipacion",
+          "id": 1325415709,
+          "name": "Secretar\u00eda Particip.",
+          "indices": [
+            167,
+            182
+          ],
+          "id_str": "1325415709"
+        },
+        {
+          "screen_name": "GobAntioquia",
+          "id": 145774770,
+          "name": "Gobernaci\u00f3n",
+          "indices": [
+            183,
+            196
+          ],
+          "id_str": "145774770"
+        },
+        {
+          "screen_name": "genteconvos",
+          "id": 77875062,
+          "name": "PensandoEnAntioquia",
+          "indices": [
+            197,
+            209
+          ],
+          "id_str": "77875062"
+        }
+      ],
+      "hashtags": [
+        {
+          "text": "todosytodas",
+          "indices": [
+            0,
+            12
+          ]
+        }
+      ]
+    },
+    "full_text": "#todosytodas | En Santa Fe de Antioquia se vive la celebraci\u00f3n de la Fiesta del Campesino en la Vereda La Aldea |S\u00e1bado 18 de Noviembre desde las 10 am @Santafedeant1 @SParticipacion @GobAntioquia @genteconvos https://t.co/sEtPQsO73o"
+  },
+  "user": {
+    "statuses_count": 4520,
+    "id": 817608894,
+    "default_profile": false,
+    "favourites_count": 1531,
+    "url": "http://santafedeantioquia-antioquia.gov.co",
+    "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/629354148031528960/hJ8GPcfO.jpg",
+    "verified": false,
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/897520653615722497/JFkdvHTH_normal.jpg",
+    "translator_type": "none",
+    "location": "Santaf\u00e9 de Antioquia",
+    "geo_enabled": true,
+    "utc_offset": -18000,
+    "notifications": null,
+    "profile_background_tile": true,
+    "friends_count": 1191,
+    "is_translator": false,
+    "follow_request_sent": null,
+    "default_profile_image": false,
+    "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/629354148031528960/hJ8GPcfO.jpg",
+    "profile_background_color": "C0DEED",
+    "profile_link_color": "4A913C",
+    "profile_use_background_image": true,
+    "time_zone": "Bogota",
+    "name": "Alcald\u00eda Santa Fe",
+    "profile_text_color": "333333",
+    "profile_sidebar_border_color": "C0DEED",
+    "screen_name": "AlcaldiaStaFe",
+    "lang": "es",
+    "following": null,
+    "listed_count": 31,
+    "protected": false,
+    "profile_sidebar_fill_color": "DDEEF6",
+    "followers_count": 3595,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/897520653615722497/JFkdvHTH_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/817608894/1510413682",
+    "contributors_enabled": false,
+    "created_at": "Tue Sep 11 15:14:11 +0000 2012",
+    "id_str": "817608894",
+    "description": "Cuenta Oficial de la Alcald\u00eda Municipal de Santa Fe de Antioquia. Alcalde Saulo Armando Rivera Fern\u00e1ndez. Encuentra toda la informaci\u00f3n de nuestro Municipio."
+  },
+  "created_at": "Tue Nov 14 15:14:29 +0000 2017",
+  "id_str": "930453892940394498",
+  "in_reply_to_user_id": null,
+  "contributors": null
+}

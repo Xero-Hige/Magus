@@ -1,0 +1,242 @@
+{
+  "id": 930450685090586625,
+  "lang": "es",
+  "in_reply_to_status_id_str": null,
+  "truncated": true,
+  "place": {
+    "id": "015e326879ba207f",
+    "country": "Chile",
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            -69.188885,
+            -23.138962
+          ],
+          [
+            -69.188885,
+            -21.064306
+          ],
+          [
+            -67.915651,
+            -21.064306
+          ],
+          [
+            -67.915651,
+            -23.138962
+          ]
+        ]
+      ]
+    },
+    "url": "https://api.twitter.com/1.1/geo/id/015e326879ba207f.json",
+    "full_name": "Calama, Chile",
+    "attributes": {},
+    "name": "Calama",
+    "place_type": "city",
+    "country_code": "CL"
+  },
+  "favorite_count": 0,
+  "retweeted": false,
+  "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+  "is_quote_status": false,
+  "possibly_sensitive": false,
+  "geo": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_status_id": null,
+  "retweet_count": 0,
+  "quote_count": 0,
+  "timestamp_ms": "1510671704920",
+  "favorited": false,
+  "coordinates": null,
+  "filter_level": "low",
+  "entities": {
+    "urls": [
+      {
+        "indices": [
+          113,
+          136
+        ],
+        "display_url": "twitter.com/i/web/status/9\u2026",
+        "url": "https://t.co/Z9RlagqTTK",
+        "expanded_url": "https://twitter.com/i/web/status/930450685090586625"
+      }
+    ],
+    "symbols": [],
+    "user_mentions": [],
+    "hashtags": [
+      {
+        "text": "Calama",
+        "indices": [
+          104,
+          111
+        ]
+      }
+    ]
+  },
+  "reply_count": 0,
+  "in_reply_to_screen_name": null,
+  "display_text_range": [
+    0,
+    140
+  ],
+  "text": "Hicimos campa\u00f1a con propuestas no solo fotos, queremos hacer cambios para aprovechar potencial regional #Calama\u2026 https://t.co/Z9RlagqTTK",
+  "extended_tweet": {
+    "display_text_range": [
+      0,
+      147
+    ],
+    "extended_entities": {
+      "media": [
+        {
+          "id": 930450626240184320,
+          "display_url": "pic.twitter.com/ywtYMj4Mau",
+          "id_str": "930450626240184320",
+          "indices": [
+            148,
+            171
+          ],
+          "expanded_url": "https://twitter.com/LuisCaprioglioR/status/930450685090586625/photo/1",
+          "type": "photo",
+          "url": "https://t.co/ywtYMj4Mau",
+          "media_url_https": "https://pbs.twimg.com/media/DOmf6jIWAAAnGfZ.jpg",
+          "media_url": "http://pbs.twimg.com/media/DOmf6jIWAAAnGfZ.jpg",
+          "sizes": {
+            "small": {
+              "w": 680,
+              "h": 649,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 1024,
+              "h": 978,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 1024,
+              "h": 978,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "entities": {
+      "media": [
+        {
+          "id": 930450626240184320,
+          "display_url": "pic.twitter.com/ywtYMj4Mau",
+          "id_str": "930450626240184320",
+          "indices": [
+            148,
+            171
+          ],
+          "expanded_url": "https://twitter.com/LuisCaprioglioR/status/930450685090586625/photo/1",
+          "type": "photo",
+          "url": "https://t.co/ywtYMj4Mau",
+          "media_url_https": "https://pbs.twimg.com/media/DOmf6jIWAAAnGfZ.jpg",
+          "media_url": "http://pbs.twimg.com/media/DOmf6jIWAAAnGfZ.jpg",
+          "sizes": {
+            "small": {
+              "w": 680,
+              "h": 649,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 1024,
+              "h": 978,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 1024,
+              "h": 978,
+              "resize": "fit"
+            }
+          }
+        }
+      ],
+      "urls": [],
+      "symbols": [],
+      "user_mentions": [],
+      "hashtags": [
+        {
+          "text": "Calama",
+          "indices": [
+            104,
+            111
+          ]
+        },
+        {
+          "text": "Antofagasta",
+          "indices": [
+            112,
+            124
+          ]
+        },
+        {
+          "text": "lafuerzadelnorte",
+          "indices": [
+            130,
+            147
+          ]
+        }
+      ]
+    },
+    "full_text": "Hicimos campa\u00f1a con propuestas no solo fotos, queremos hacer cambios para aprovechar potencial regional #Calama #Antofagasta N-77 #lafuerzadelnorte https://t.co/ywtYMj4Mau"
+  },
+  "user": {
+    "statuses_count": 1406,
+    "id": 1570872440,
+    "default_profile": false,
+    "favourites_count": 590,
+    "url": "http://www.luiscaprioglio.cl",
+    "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000071938129/57918014ff4da75177ab720156be2e9b.jpeg",
+    "verified": false,
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/924698754351058944/ESnAL0TR_normal.jpg",
+    "translator_type": "none",
+    "location": "Antofagasta, Chile",
+    "geo_enabled": true,
+    "utc_offset": null,
+    "notifications": null,
+    "profile_background_tile": false,
+    "friends_count": 1849,
+    "is_translator": false,
+    "follow_request_sent": null,
+    "default_profile_image": false,
+    "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000071938129/57918014ff4da75177ab720156be2e9b.jpeg",
+    "profile_background_color": "FFFFFF",
+    "profile_link_color": "9D582E",
+    "profile_use_background_image": true,
+    "time_zone": null,
+    "name": "Luis Caprioglio N-77",
+    "profile_text_color": "333333",
+    "profile_sidebar_border_color": "FFFFFF",
+    "screen_name": "LuisCaprioglioR",
+    "lang": "es",
+    "following": null,
+    "listed_count": 4,
+    "protected": false,
+    "profile_sidebar_fill_color": "DDEEF6",
+    "followers_count": 1369,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/924698754351058944/ESnAL0TR_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1570872440/1506537688",
+    "contributors_enabled": false,
+    "created_at": "Fri Jul 05 16:29:17 +0000 2013",
+    "id_str": "1570872440",
+    "description": "Ex Consejero Regional (CORE) de Antofagasta, Mejillones, Sierra Gorda y Taltal. Militante del PS, Candidato a Diputado por la Regi\u00f3n de Antofagasta. Vota N-77"
+  },
+  "created_at": "Tue Nov 14 15:01:44 +0000 2017",
+  "id_str": "930450685090586625",
+  "in_reply_to_user_id": null,
+  "contributors": null
+}

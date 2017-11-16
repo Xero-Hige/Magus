@@ -1,0 +1,131 @@
+{
+  "truncated": false,
+  "in_reply_to_status_id": 930199479311101959,
+  "id": 930379541197000705,
+  "in_reply_to_user_id": 123955962,
+  "coordinates": null,
+  "reply_count": 0,
+  "timestamp_ms": "1510654742894",
+  "geo": null,
+  "quote_count": 0,
+  "retweet_count": 0,
+  "is_quote_status": false,
+  "created_at": "Tue Nov 14 10:19:02 +0000 2017",
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "favorite_count": 0,
+  "text": "@joseantoniokast @RodrigoMardone3 No hay adversarios loco, plis aprendan a hacer pol\u00edtica en conjunto",
+  "in_reply_to_screen_name": "joseantoniokast",
+  "in_reply_to_status_id_str": "930199479311101959",
+  "place": {
+    "country": "Chile",
+    "name": "Las Condes",
+    "id": "00c4b64e7affea25",
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            -70.608694,
+            -33.486182
+          ],
+          [
+            -70.608694,
+            -33.364619
+          ],
+          [
+            -70.429141,
+            -33.364619
+          ],
+          [
+            -70.429141,
+            -33.486182
+          ]
+        ]
+      ]
+    },
+    "country_code": "CL",
+    "place_type": "city",
+    "url": "https://api.twitter.com/1.1/geo/id/00c4b64e7affea25.json",
+    "attributes": {},
+    "full_name": "Las Condes, Chile"
+  },
+  "contributors": null,
+  "entities": {
+    "hashtags": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "screen_name": "joseantoniokast",
+        "name": "Jos\u00e9 Antonio Kast \u270c",
+        "id": 123955962,
+        "id_str": "123955962",
+        "indices": [
+          0,
+          16
+        ]
+      },
+      {
+        "screen_name": "RodrigoMardone3",
+        "name": "Rodrigo Mardones",
+        "id": 448043682,
+        "id_str": "448043682",
+        "indices": [
+          17,
+          33
+        ]
+      }
+    ],
+    "symbols": []
+  },
+  "display_text_range": [
+    34,
+    101
+  ],
+  "retweeted": false,
+  "id_str": "930379541197000705",
+  "user": {
+    "time_zone": "Santiago",
+    "follow_request_sent": null,
+    "id": 172083181,
+    "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000179159738/sYLSMJR0.jpeg",
+    "translator_type": "none",
+    "screen_name": "isibil5",
+    "profile_link_color": "B40B43",
+    "url": null,
+    "utc_offset": -10800,
+    "location": "Santiago de Chile",
+    "name": "Isidora",
+    "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000179159738/sYLSMJR0.jpeg",
+    "description": "Secretamente, entre la sombra y el alma",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/172083181/1506316790",
+    "created_at": "Wed Jul 28 21:41:58 +0000 2010",
+    "protected": false,
+    "is_translator": false,
+    "listed_count": 3,
+    "statuses_count": 24452,
+    "profile_sidebar_border_color": "000000",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "default_profile": false,
+    "default_profile_image": false,
+    "verified": false,
+    "notifications": null,
+    "friends_count": 361,
+    "profile_background_color": "FF6699",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/930273888277270528/d3kdlnQP_normal.jpg",
+    "following": null,
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/930273888277270528/d3kdlnQP_normal.jpg",
+    "geo_enabled": true,
+    "profile_use_background_image": true,
+    "contributors_enabled": false,
+    "id_str": "172083181",
+    "profile_text_color": "333333",
+    "followers_count": 398,
+    "favourites_count": 2840,
+    "lang": "es",
+    "profile_background_tile": true
+  },
+  "filter_level": "low",
+  "in_reply_to_user_id_str": "123955962",
+  "favorited": false,
+  "lang": "es"
+}

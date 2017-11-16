@@ -1,0 +1,121 @@
+{
+  "truncated": false,
+  "in_reply_to_status_id": 930359212630331392,
+  "id": 930370812233814016,
+  "in_reply_to_user_id": 266641960,
+  "coordinates": null,
+  "reply_count": 0,
+  "timestamp_ms": "1510652661747",
+  "geo": null,
+  "quote_count": 0,
+  "retweet_count": 0,
+  "is_quote_status": false,
+  "created_at": "Tue Nov 14 09:44:21 +0000 2017",
+  "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+  "favorite_count": 0,
+  "text": "@cristina_pardo A los pol\u00edticos nacionalistas,\nque deber\u00edan estar inhabilitados por mentir\nD\u00f3nde hay que firmar?",
+  "in_reply_to_screen_name": "cristina_pardo",
+  "in_reply_to_status_id_str": "930359212630331392",
+  "place": {
+    "country": "Espa\u00f1a",
+    "name": "Alcal\u00e1 de Henares",
+    "id": "ec2ead284df00347",
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            -3.44735,
+            40.446007
+          ],
+          [
+            -3.44735,
+            40.546039
+          ],
+          [
+            -3.283896,
+            40.546039
+          ],
+          [
+            -3.283896,
+            40.446007
+          ]
+        ]
+      ]
+    },
+    "country_code": "ES",
+    "place_type": "city",
+    "url": "https://api.twitter.com/1.1/geo/id/ec2ead284df00347.json",
+    "attributes": {},
+    "full_name": "Alcal\u00e1 de Henares, Espa\u00f1a"
+  },
+  "contributors": null,
+  "entities": {
+    "hashtags": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "screen_name": "cristina_pardo",
+        "name": "Cristina Pardo",
+        "id": 266641960,
+        "id_str": "266641960",
+        "indices": [
+          0,
+          15
+        ]
+      }
+    ],
+    "symbols": []
+  },
+  "display_text_range": [
+    16,
+    112
+  ],
+  "retweeted": false,
+  "id_str": "930370812233814016",
+  "user": {
+    "time_zone": "Amsterdam",
+    "follow_request_sent": null,
+    "id": 333036081,
+    "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/745912799/25a7bac68fe0bce490d57c8bda57bd1e.jpeg",
+    "translator_type": "none",
+    "screen_name": "edelmiroz",
+    "profile_link_color": "0084B4",
+    "url": null,
+    "utc_offset": 3600,
+    "location": null,
+    "name": "Edeandertal",
+    "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/745912799/25a7bac68fe0bce490d57c8bda57bd1e.jpeg",
+    "description": "Coraje para vivir, generosidad para convivir, prudencia para sobrevivir. F.S.  \ud83c\uddea\ud83c\uddfa",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/333036081/1400110926",
+    "created_at": "Sun Jul 10 21:33:09 +0000 2011",
+    "protected": false,
+    "is_translator": false,
+    "listed_count": 16,
+    "statuses_count": 16066,
+    "profile_sidebar_border_color": "000000",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "default_profile": false,
+    "default_profile_image": false,
+    "verified": false,
+    "notifications": null,
+    "friends_count": 898,
+    "profile_background_color": "C0DEED",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/928302849582346240/qnGTCI1O_normal.jpg",
+    "following": null,
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/928302849582346240/qnGTCI1O_normal.jpg",
+    "geo_enabled": true,
+    "profile_use_background_image": true,
+    "contributors_enabled": false,
+    "id_str": "333036081",
+    "profile_text_color": "333333",
+    "followers_count": 361,
+    "favourites_count": 56,
+    "lang": "es",
+    "profile_background_tile": false
+  },
+  "filter_level": "low",
+  "in_reply_to_user_id_str": "266641960",
+  "favorited": false,
+  "lang": "es"
+}

@@ -1,0 +1,267 @@
+{
+  "id": 930449805419122688,
+  "lang": "es",
+  "in_reply_to_status_id_str": null,
+  "truncated": true,
+  "place": {
+    "id": "00698bbe577bad5b",
+    "country": "Colombia",
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            -75.731653,
+            6.166059
+          ],
+          [
+            -75.731653,
+            6.375707
+          ],
+          [
+            -75.506773,
+            6.375707
+          ],
+          [
+            -75.506773,
+            6.166059
+          ]
+        ]
+      ]
+    },
+    "url": "https://api.twitter.com/1.1/geo/id/00698bbe577bad5b.json",
+    "full_name": "Medell\u00edn, Colombia",
+    "attributes": {},
+    "name": "Medell\u00edn",
+    "place_type": "city",
+    "country_code": "CO"
+  },
+  "favorite_count": 0,
+  "retweeted": false,
+  "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+  "is_quote_status": false,
+  "possibly_sensitive": false,
+  "geo": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_status_id": null,
+  "retweet_count": 0,
+  "quote_count": 0,
+  "timestamp_ms": "1510671495190",
+  "favorited": false,
+  "coordinates": null,
+  "filter_level": "low",
+  "entities": {
+    "urls": [
+      {
+        "indices": [
+          117,
+          140
+        ],
+        "display_url": "twitter.com/i/web/status/9\u2026",
+        "url": "https://t.co/a2ucLFS5ym",
+        "expanded_url": "https://twitter.com/i/web/status/930449805419122688"
+      }
+    ],
+    "symbols": [],
+    "user_mentions": [],
+    "hashtags": [
+      {
+        "text": "SoyOrgullosamenteUPB",
+        "indices": [
+          0,
+          21
+        ]
+      },
+      {
+        "text": "ColegioUPB",
+        "indices": [
+          47,
+          58
+        ]
+      }
+    ]
+  },
+  "reply_count": 0,
+  "in_reply_to_screen_name": null,
+  "display_text_range": [
+    0,
+    140
+  ],
+  "text": "#SoyOrgullosamenteUPB\nLa estudiante de nuestro #ColegioUPB, Ellen Mej\u00eda Jim\u00e9nez, fue la ganadora del II Concurso de\u2026 https://t.co/a2ucLFS5ym",
+  "extended_tweet": {
+    "display_text_range": [
+      0,
+      178
+    ],
+    "extended_entities": {
+      "media": [
+        {
+          "id": 930449661978128385,
+          "display_url": "pic.twitter.com/ZwtP674HYx",
+          "id_str": "930449661978128385",
+          "indices": [
+            179,
+            202
+          ],
+          "expanded_url": "https://twitter.com/upbcolombia/status/930449805419122688/photo/1",
+          "type": "photo",
+          "url": "https://t.co/ZwtP674HYx",
+          "media_url_https": "https://pbs.twimg.com/media/DOmfCa-WsAErSi0.jpg",
+          "media_url": "http://pbs.twimg.com/media/DOmfCa-WsAErSi0.jpg",
+          "sizes": {
+            "small": {
+              "w": 407,
+              "h": 269,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 407,
+              "h": 269,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 407,
+              "h": 269,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "entities": {
+      "media": [
+        {
+          "id": 930449661978128385,
+          "display_url": "pic.twitter.com/ZwtP674HYx",
+          "id_str": "930449661978128385",
+          "indices": [
+            179,
+            202
+          ],
+          "expanded_url": "https://twitter.com/upbcolombia/status/930449805419122688/photo/1",
+          "type": "photo",
+          "url": "https://t.co/ZwtP674HYx",
+          "media_url_https": "https://pbs.twimg.com/media/DOmfCa-WsAErSi0.jpg",
+          "media_url": "http://pbs.twimg.com/media/DOmfCa-WsAErSi0.jpg",
+          "sizes": {
+            "small": {
+              "w": 407,
+              "h": 269,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 407,
+              "h": 269,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 407,
+              "h": 269,
+              "resize": "fit"
+            }
+          }
+        }
+      ],
+      "urls": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "screen_name": "AlcaldiadeMed",
+          "id": 497511506,
+          "name": "Alcald\u00eda de Medell\u00edn",
+          "indices": [
+            163,
+            177
+          ],
+          "id_str": "497511506"
+        }
+      ],
+      "hashtags": [
+        {
+          "text": "SoyOrgullosamenteUPB",
+          "indices": [
+            0,
+            21
+          ]
+        },
+        {
+          "text": "ColegioUPB",
+          "indices": [
+            47,
+            58
+          ]
+        },
+        {
+          "text": "Cuento",
+          "indices": [
+            116,
+            123
+          ]
+        },
+        {
+          "text": "MovilidadSostenible",
+          "indices": [
+            136,
+            156
+          ]
+        }
+      ]
+    },
+    "full_text": "#SoyOrgullosamenteUPB\nLa estudiante de nuestro #ColegioUPB, Ellen Mej\u00eda Jim\u00e9nez, fue la ganadora del II Concurso de #Cuento Infantil de #MovilidadSostenible de la @AlcaldiadeMed. https://t.co/ZwtP674HYx"
+  },
+  "user": {
+    "statuses_count": 32307,
+    "id": 94112527,
+    "default_profile": false,
+    "favourites_count": 7485,
+    "url": "http://www.upb.edu.co",
+    "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/847230321/2d0b9532352467a5eaaf536c75d9a515.gif",
+    "verified": false,
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/806151401231491072/qsbaMUV0_normal.jpg",
+    "translator_type": "none",
+    "location": "Medell\u00edn, Colombia",
+    "geo_enabled": true,
+    "utc_offset": -18000,
+    "notifications": null,
+    "profile_background_tile": true,
+    "friends_count": 851,
+    "is_translator": false,
+    "follow_request_sent": null,
+    "default_profile_image": false,
+    "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/847230321/2d0b9532352467a5eaaf536c75d9a515.gif",
+    "profile_background_color": "1A1B1F",
+    "profile_link_color": "C9161F",
+    "profile_use_background_image": true,
+    "time_zone": "Bogota",
+    "name": "UPB",
+    "profile_text_color": "F4FC12",
+    "profile_sidebar_border_color": "FFFFFF",
+    "screen_name": "upbcolombia",
+    "lang": "es",
+    "following": null,
+    "listed_count": 383,
+    "protected": false,
+    "profile_sidebar_fill_color": "050505",
+    "followers_count": 48660,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/806151401231491072/qsbaMUV0_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/94112527/1509132978",
+    "contributors_enabled": false,
+    "created_at": "Wed Dec 02 15:36:27 +0000 2009",
+    "id_str": "94112527",
+    "description": "Universidad Pontificia Bolivariana.  UPB,  formaci\u00f3n integral para la transformaci\u00f3n social y humana."
+  },
+  "created_at": "Tue Nov 14 14:58:15 +0000 2017",
+  "id_str": "930449805419122688",
+  "in_reply_to_user_id": null,
+  "contributors": null
+}

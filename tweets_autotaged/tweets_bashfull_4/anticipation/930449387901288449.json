@@ -1,0 +1,242 @@
+{
+  "id": 930449387901288449,
+  "lang": "es",
+  "in_reply_to_status_id_str": null,
+  "truncated": true,
+  "place": {
+    "id": "13d479b108707983",
+    "country": "Guatemala",
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            -92.227387,
+            13.72873
+          ],
+          [
+            -92.227387,
+            17.816205
+          ],
+          [
+            -88.221055,
+            17.816205
+          ],
+          [
+            -88.221055,
+            13.72873
+          ]
+        ]
+      ]
+    },
+    "url": "https://api.twitter.com/1.1/geo/id/13d479b108707983.json",
+    "full_name": "Guatemala",
+    "attributes": {},
+    "name": "Guatemala",
+    "place_type": "country",
+    "country_code": "GT"
+  },
+  "favorite_count": 0,
+  "retweeted": false,
+  "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+  "is_quote_status": false,
+  "possibly_sensitive": false,
+  "geo": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_status_id": null,
+  "retweet_count": 0,
+  "quote_count": 0,
+  "timestamp_ms": "1510671395646",
+  "favorited": false,
+  "coordinates": null,
+  "filter_level": "low",
+  "entities": {
+    "urls": [
+      {
+        "indices": [
+          116,
+          139
+        ],
+        "display_url": "twitter.com/i/web/status/9\u2026",
+        "url": "https://t.co/Zb6vnchMI1",
+        "expanded_url": "https://twitter.com/i/web/status/930449387901288449"
+      }
+    ],
+    "symbols": [],
+    "user_mentions": [
+      {
+        "screen_name": "SATGT",
+        "id": 509041284,
+        "name": "SATGT",
+        "indices": [
+          56,
+          62
+        ],
+        "id_str": "509041284"
+      }
+    ],
+    "hashtags": []
+  },
+  "reply_count": 0,
+  "in_reply_to_screen_name": null,
+  "display_text_range": [
+    0,
+    140
+  ],
+  "text": "SAN CRIST\u00d3BAL VERAPAZ | Tras operativo realizado por la @SATGT, Juzgado Municipal y PNC, clausuran negocio ubicado\u2026 https://t.co/Zb6vnchMI1",
+  "extended_tweet": {
+    "display_text_range": [
+      0,
+      183
+    ],
+    "extended_entities": {
+      "media": [
+        {
+          "id": 930449307291004928,
+          "display_url": "pic.twitter.com/MhQ4LZLCoO",
+          "id_str": "930449307291004928",
+          "indices": [
+            184,
+            207
+          ],
+          "expanded_url": "https://twitter.com/EliuNuila/status/930449387901288449/photo/1",
+          "type": "photo",
+          "url": "https://t.co/MhQ4LZLCoO",
+          "media_url_https": "https://pbs.twimg.com/media/DOmetxqWsAAiIz1.jpg",
+          "media_url": "http://pbs.twimg.com/media/DOmetxqWsAAiIz1.jpg",
+          "sizes": {
+            "small": {
+              "w": 680,
+              "h": 409,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 800,
+              "h": 481,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 800,
+              "h": 481,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "entities": {
+      "media": [
+        {
+          "id": 930449307291004928,
+          "display_url": "pic.twitter.com/MhQ4LZLCoO",
+          "id_str": "930449307291004928",
+          "indices": [
+            184,
+            207
+          ],
+          "expanded_url": "https://twitter.com/EliuNuila/status/930449387901288449/photo/1",
+          "type": "photo",
+          "url": "https://t.co/MhQ4LZLCoO",
+          "media_url_https": "https://pbs.twimg.com/media/DOmetxqWsAAiIz1.jpg",
+          "media_url": "http://pbs.twimg.com/media/DOmetxqWsAAiIz1.jpg",
+          "sizes": {
+            "small": {
+              "w": 680,
+              "h": 409,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 800,
+              "h": 481,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 800,
+              "h": 481,
+              "resize": "fit"
+            }
+          }
+        }
+      ],
+      "urls": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "screen_name": "SATGT",
+          "id": 509041284,
+          "name": "SATGT",
+          "indices": [
+            56,
+            62
+          ],
+          "id_str": "509041284"
+        }
+      ],
+      "hashtags": [
+        {
+          "text": "CRNNoticias",
+          "indices": [
+            171,
+            183
+          ]
+        }
+      ]
+    },
+    "full_text": "SAN CRIST\u00d3BAL VERAPAZ | Tras operativo realizado por la @SATGT, Juzgado Municipal y PNC, clausuran negocio ubicado en el Barrio San Felipe, por vender productos vencidos. #CRNNoticias https://t.co/MhQ4LZLCoO"
+  },
+  "user": {
+    "statuses_count": 25501,
+    "id": 146520279,
+    "default_profile": false,
+    "favourites_count": 212,
+    "url": "http://crnnoticias.com",
+    "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/563186983250317312/J1zuygQ4.jpeg",
+    "verified": false,
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/908217686601158656/uQnJrtkv_normal.jpg",
+    "translator_type": "none",
+    "location": "Guatemala",
+    "geo_enabled": true,
+    "utc_offset": -21600,
+    "notifications": null,
+    "profile_background_tile": true,
+    "friends_count": 172,
+    "is_translator": false,
+    "follow_request_sent": null,
+    "default_profile_image": false,
+    "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/563186983250317312/J1zuygQ4.jpeg",
+    "profile_background_color": "DD2E44",
+    "profile_link_color": "E81C4F",
+    "profile_use_background_image": true,
+    "time_zone": "Central America",
+    "name": "Eliu Nuila",
+    "profile_text_color": "999999",
+    "profile_sidebar_border_color": "FFFFFF",
+    "screen_name": "EliuNuila",
+    "lang": "es",
+    "following": null,
+    "listed_count": 23,
+    "protected": false,
+    "profile_sidebar_fill_color": "000000",
+    "followers_count": 3332,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/908217686601158656/uQnJrtkv_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/146520279/1504795869",
+    "contributors_enabled": false,
+    "created_at": "Fri May 21 16:53:55 +0000 2010",
+    "id_str": "146520279",
+    "description": "Director de @CRN_Noticias - Columnista en @brujulagt - Locutor de @stereohits967 - Defensor de la Democracia y la Libertad de Expresi\u00f3n. 100% guatemalteco de \ud83d\udc99"
+  },
+  "created_at": "Tue Nov 14 14:56:35 +0000 2017",
+  "id_str": "930449387901288449",
+  "in_reply_to_user_id": null,
+  "contributors": null
+}

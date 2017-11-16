@@ -1,0 +1,215 @@
+{
+  "id": 930449284360802305,
+  "lang": "es",
+  "in_reply_to_status_id_str": "930448390760075265",
+  "truncated": true,
+  "place": {
+    "id": "43bf7210cd175772",
+    "country": "El Salvador",
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            -90.128663,
+            13.149692
+          ],
+          [
+            -90.128663,
+            14.450551
+          ],
+          [
+            -87.683181,
+            14.450551
+          ],
+          [
+            -87.683181,
+            13.149692
+          ]
+        ]
+      ]
+    },
+    "url": "https://api.twitter.com/1.1/geo/id/43bf7210cd175772.json",
+    "full_name": "El Salvador",
+    "attributes": {},
+    "name": "El Salvador",
+    "place_type": "country",
+    "country_code": "SV"
+  },
+  "favorite_count": 0,
+  "retweeted": false,
+  "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+  "is_quote_status": false,
+  "in_reply_to_status_id": 930448390760075265,
+  "in_reply_to_user_id_str": "762345164",
+  "in_reply_to_screen_name": "AsambleaSV",
+  "retweet_count": 0,
+  "quote_count": 0,
+  "timestamp_ms": "1510671370960",
+  "favorited": false,
+  "coordinates": null,
+  "filter_level": "low",
+  "entities": {
+    "urls": [
+      {
+        "indices": [
+          116,
+          139
+        ],
+        "display_url": "twitter.com/i/web/status/9\u2026",
+        "url": "https://t.co/bclQ0iZFCj",
+        "expanded_url": "https://twitter.com/i/web/status/930449284360802305"
+      }
+    ],
+    "symbols": [],
+    "user_mentions": [
+      {
+        "screen_name": "GGallegos24",
+        "id": 342955543,
+        "name": "Guillermo Gallegos",
+        "indices": [
+          0,
+          12
+        ],
+        "id_str": "342955543"
+      },
+      {
+        "screen_name": "SalaCnalSV",
+        "id": 1020494264,
+        "name": "Sala de lo Cnal.",
+        "indices": [
+          13,
+          24
+        ],
+        "id_str": "1020494264"
+      },
+      {
+        "screen_name": "GGallegos24",
+        "id": 342955543,
+        "name": "Guillermo Gallegos",
+        "indices": [
+          31,
+          43
+        ],
+        "id_str": "342955543"
+      },
+      {
+        "screen_name": "SalaCnalSV",
+        "id": 1020494264,
+        "name": "Sala de lo Cnal.",
+        "indices": [
+          98,
+          109
+        ],
+        "id_str": "1020494264"
+      }
+    ],
+    "hashtags": []
+  },
+  "reply_count": 0,
+  "geo": null,
+  "display_text_range": [
+    25,
+    140
+  ],
+  "text": "@GGallegos24 @SalaCnalSV Pdte. @GGallegos24: Vamos a garantizar que en la pr\u00f3xima elecci\u00f3n  de la @SalaCnalSV sean\u2026 https://t.co/bclQ0iZFCj",
+  "extended_tweet": {
+    "display_text_range": [
+      25,
+      252
+    ],
+    "entities": {
+      "urls": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "screen_name": "GGallegos24",
+          "id": 342955543,
+          "name": "Guillermo Gallegos",
+          "indices": [
+            0,
+            12
+          ],
+          "id_str": "342955543"
+        },
+        {
+          "screen_name": "SalaCnalSV",
+          "id": 1020494264,
+          "name": "Sala de lo Cnal.",
+          "indices": [
+            13,
+            24
+          ],
+          "id_str": "1020494264"
+        },
+        {
+          "screen_name": "GGallegos24",
+          "id": 342955543,
+          "name": "Guillermo Gallegos",
+          "indices": [
+            31,
+            43
+          ],
+          "id_str": "342955543"
+        },
+        {
+          "screen_name": "SalaCnalSV",
+          "id": 1020494264,
+          "name": "Sala de lo Cnal.",
+          "indices": [
+            98,
+            109
+          ],
+          "id_str": "1020494264"
+        }
+      ],
+      "hashtags": []
+    },
+    "full_text": "@GGallegos24 @SalaCnalSV Pdte. @GGallegos24: Vamos a garantizar que en la pr\u00f3xima elecci\u00f3n  de la @SalaCnalSV sean electos hombres y mujeres profesionales, que tendr\u00e1n que suplir los actuales magistrados. Han tenido algunos aciertos en su resoluciones."
+  },
+  "user": {
+    "statuses_count": 104236,
+    "id": 762345164,
+    "default_profile": false,
+    "favourites_count": 1394,
+    "url": "http://www.asamblea.gob.sv",
+    "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000163582651/-fpfk0Z9.jpeg",
+    "verified": true,
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/895704920476839937/HntBrMpu_normal.jpg",
+    "translator_type": "none",
+    "location": "El Salvador",
+    "geo_enabled": true,
+    "utc_offset": -21600,
+    "notifications": null,
+    "profile_background_tile": false,
+    "friends_count": 2349,
+    "is_translator": false,
+    "follow_request_sent": null,
+    "default_profile_image": false,
+    "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000163582651/-fpfk0Z9.jpeg",
+    "profile_background_color": "0D6EF6",
+    "profile_link_color": "0D6EF7",
+    "profile_use_background_image": true,
+    "time_zone": "Central Time (US & Canada)",
+    "name": "Asamblea Legislativa",
+    "profile_text_color": "333333",
+    "profile_sidebar_border_color": "FFFFFF",
+    "screen_name": "AsambleaSV",
+    "lang": "es",
+    "following": null,
+    "listed_count": 242,
+    "protected": false,
+    "profile_sidebar_fill_color": "DDEEF6",
+    "followers_count": 75845,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/895704920476839937/HntBrMpu_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/762345164/1508278415",
+    "contributors_enabled": false,
+    "created_at": "Thu Aug 16 21:15:26 +0000 2012",
+    "id_str": "762345164",
+    "description": "La Asamblea Legislativa es un cuerpo colegiado compuesto por 84 diputados elegidos democr\u00e1ticamente, y le compete fundamentalmente la atribuci\u00f3n de legislar."
+  },
+  "created_at": "Tue Nov 14 14:56:10 +0000 2017",
+  "id_str": "930449284360802305",
+  "in_reply_to_user_id": 762345164,
+  "contributors": null
+}

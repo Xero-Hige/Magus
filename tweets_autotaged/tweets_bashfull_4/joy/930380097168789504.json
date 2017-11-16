@@ -1,0 +1,204 @@
+{
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "id": 930380097168789504,
+  "in_reply_to_user_id": null,
+  "coordinates": null,
+  "possibly_sensitive": false,
+  "reply_count": 0,
+  "timestamp_ms": "1510654875448",
+  "geo": null,
+  "quote_count": 0,
+  "retweet_count": 0,
+  "is_quote_status": false,
+  "created_at": "Tue Nov 14 10:21:15 +0000 2017",
+  "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+  "favorite_count": 0,
+  "text": "Los \u00c1ngeles nos ofrecen sus claves...siguelas. #FelizMartes #ClaveAngelical https://t.co/rNBX7yu4Wb",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id_str": null,
+  "place": {
+    "country": "Espa\u00f1a",
+    "name": "Santa Cruz de Tenerife",
+    "id": "7974acce42d034d5",
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            -16.343595,
+            28.409769
+          ],
+          [
+            -16.343595,
+            28.589393
+          ],
+          [
+            -16.119363,
+            28.589393
+          ],
+          [
+            -16.119363,
+            28.409769
+          ]
+        ]
+      ]
+    },
+    "country_code": "ES",
+    "place_type": "city",
+    "url": "https://api.twitter.com/1.1/geo/id/7974acce42d034d5.json",
+    "attributes": {},
+    "full_name": "Santa Cruz de Tenerife, Espa\u00f1a"
+  },
+  "contributors": null,
+  "entities": {
+    "media": [
+      {
+        "type": "photo",
+        "url": "https://t.co/rNBX7yu4Wb",
+        "display_url": "pic.twitter.com/rNBX7yu4Wb",
+        "media_url_https": "https://pbs.twimg.com/media/DOlfw9HWAAAA3ml.jpg",
+        "id": 930380092672442368,
+        "sizes": {
+          "large": {
+            "w": 1024,
+            "resize": "fit",
+            "h": 512
+          },
+          "thumb": {
+            "w": 150,
+            "resize": "crop",
+            "h": 150
+          },
+          "small": {
+            "w": 680,
+            "resize": "fit",
+            "h": 340
+          },
+          "medium": {
+            "w": 1024,
+            "resize": "fit",
+            "h": 512
+          }
+        },
+        "expanded_url": "https://twitter.com/yariamor/status/930380097168789504/photo/1",
+        "id_str": "930380092672442368",
+        "indices": [
+          76,
+          99
+        ],
+        "media_url": "http://pbs.twimg.com/media/DOlfw9HWAAAA3ml.jpg"
+      }
+    ],
+    "hashtags": [
+      {
+        "indices": [
+          47,
+          59
+        ],
+        "text": "FelizMartes"
+      },
+      {
+        "indices": [
+          60,
+          75
+        ],
+        "text": "ClaveAngelical"
+      }
+    ],
+    "urls": [],
+    "user_mentions": [],
+    "symbols": []
+  },
+  "display_text_range": [
+    0,
+    75
+  ],
+  "retweeted": false,
+  "id_str": "930380097168789504",
+  "user": {
+    "time_zone": null,
+    "follow_request_sent": null,
+    "id": 302750316,
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "translator_type": "none",
+    "screen_name": "yariamor",
+    "profile_link_color": "1DA1F2",
+    "url": null,
+    "utc_offset": null,
+    "location": "Santa Cruz de Tenerife, Espa\u00f1a",
+    "name": "Yaritza Amor Guevara",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "description": "Tarot, Reiki, Numerolog\u00eda, Constelaciones Familiares",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/302750316/1510089422",
+    "created_at": "Sat May 21 17:57:03 +0000 2011",
+    "protected": false,
+    "is_translator": false,
+    "listed_count": 0,
+    "statuses_count": 91,
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "default_profile": true,
+    "default_profile_image": false,
+    "verified": false,
+    "notifications": null,
+    "friends_count": 103,
+    "profile_background_color": "C0DEED",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/928412250918014979/zw3wPhtv_normal.jpg",
+    "following": null,
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/928412250918014979/zw3wPhtv_normal.jpg",
+    "geo_enabled": true,
+    "profile_use_background_image": true,
+    "contributors_enabled": false,
+    "id_str": "302750316",
+    "profile_text_color": "333333",
+    "followers_count": 68,
+    "favourites_count": 7,
+    "lang": "es",
+    "profile_background_tile": false
+  },
+  "extended_entities": {
+    "media": [
+      {
+        "type": "photo",
+        "url": "https://t.co/rNBX7yu4Wb",
+        "display_url": "pic.twitter.com/rNBX7yu4Wb",
+        "media_url_https": "https://pbs.twimg.com/media/DOlfw9HWAAAA3ml.jpg",
+        "id": 930380092672442368,
+        "sizes": {
+          "large": {
+            "w": 1024,
+            "resize": "fit",
+            "h": 512
+          },
+          "thumb": {
+            "w": 150,
+            "resize": "crop",
+            "h": 150
+          },
+          "small": {
+            "w": 680,
+            "resize": "fit",
+            "h": 340
+          },
+          "medium": {
+            "w": 1024,
+            "resize": "fit",
+            "h": 512
+          }
+        },
+        "expanded_url": "https://twitter.com/yariamor/status/930380097168789504/photo/1",
+        "id_str": "930380092672442368",
+        "indices": [
+          76,
+          99
+        ],
+        "media_url": "http://pbs.twimg.com/media/DOlfw9HWAAAA3ml.jpg"
+      }
+    ]
+  },
+  "filter_level": "low",
+  "in_reply_to_user_id_str": null,
+  "favorited": false,
+  "lang": "es"
+}

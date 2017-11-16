@@ -1,0 +1,320 @@
+{
+  "id": 930451526472040450,
+  "lang": "es",
+  "in_reply_to_status_id_str": null,
+  "truncated": true,
+  "place": {
+    "id": "00e76fbf0a273ce5",
+    "country": "Chile",
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            -73.411399,
+            -40.029857
+          ],
+          [
+            -73.411399,
+            -39.637104
+          ],
+          [
+            -72.922392,
+            -39.637104
+          ],
+          [
+            -72.922392,
+            -40.029857
+          ]
+        ]
+      ]
+    },
+    "url": "https://api.twitter.com/1.1/geo/id/00e76fbf0a273ce5.json",
+    "full_name": "Valdivia, Chile",
+    "attributes": {},
+    "name": "Valdivia",
+    "place_type": "city",
+    "country_code": "CL"
+  },
+  "favorite_count": 0,
+  "retweeted": false,
+  "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+  "is_quote_status": false,
+  "possibly_sensitive": false,
+  "geo": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_status_id": null,
+  "retweet_count": 0,
+  "quote_count": 0,
+  "timestamp_ms": "1510671905521",
+  "favorited": false,
+  "coordinates": null,
+  "filter_level": "low",
+  "entities": {
+    "urls": [
+      {
+        "indices": [
+          117,
+          140
+        ],
+        "display_url": "twitter.com/i/web/status/9\u2026",
+        "url": "https://t.co/DfWxwyG6Y9",
+        "expanded_url": "https://twitter.com/i/web/status/930451526472040450"
+      }
+    ],
+    "symbols": [],
+    "user_mentions": [],
+    "hashtags": [
+      {
+        "text": "HechosNoPalabras",
+        "indices": [
+          88,
+          105
+        ]
+      }
+    ]
+  },
+  "reply_count": 0,
+  "in_reply_to_screen_name": null,
+  "display_text_range": [
+    0,
+    140
+  ],
+  "text": "Este domingo no te pierdas \u00a1tu apoyo es importante! P-77 Bernardo Berger 100% Regional. #HechosNoPalabras \u00a1vota gan\u2026 https://t.co/DfWxwyG6Y9",
+  "extended_tweet": {
+    "display_text_range": [
+      0,
+      245
+    ],
+    "extended_entities": {
+      "media": [
+        {
+          "id": 930449159995449344,
+          "display_url": "pic.twitter.com/WA0LjZ8eLS",
+          "id_str": "930449159995449344",
+          "indices": [
+            246,
+            269
+          ],
+          "expanded_url": "https://twitter.com/DiputadoBerger/status/930451526472040450/photo/1",
+          "type": "photo",
+          "url": "https://t.co/WA0LjZ8eLS",
+          "media_url_https": "https://pbs.twimg.com/media/DOmelM8W4AAjNRr.jpg",
+          "media_url": "http://pbs.twimg.com/media/DOmelM8W4AAjNRr.jpg",
+          "sizes": {
+            "small": {
+              "w": 479,
+              "h": 680,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 799,
+              "h": 1135,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 799,
+              "h": 1135,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "entities": {
+      "media": [
+        {
+          "id": 930449159995449344,
+          "display_url": "pic.twitter.com/WA0LjZ8eLS",
+          "id_str": "930449159995449344",
+          "indices": [
+            246,
+            269
+          ],
+          "expanded_url": "https://twitter.com/DiputadoBerger/status/930451526472040450/photo/1",
+          "type": "photo",
+          "url": "https://t.co/WA0LjZ8eLS",
+          "media_url_https": "https://pbs.twimg.com/media/DOmelM8W4AAjNRr.jpg",
+          "media_url": "http://pbs.twimg.com/media/DOmelM8W4AAjNRr.jpg",
+          "sizes": {
+            "small": {
+              "w": 479,
+              "h": 680,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 799,
+              "h": 1135,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 799,
+              "h": 1135,
+              "resize": "fit"
+            }
+          }
+        }
+      ],
+      "urls": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "screen_name": "RNchile",
+          "id": 7769652,
+          "name": "Renovaci\u00f3n Nacional",
+          "indices": [
+            164,
+            172
+          ],
+          "id_str": "7769652"
+        },
+        {
+          "screen_name": "DiputadosRN",
+          "id": 164426316,
+          "name": "Diputados RN",
+          "indices": [
+            173,
+            185
+          ],
+          "id_str": "164426316"
+        },
+        {
+          "screen_name": "RnValdivia",
+          "id": 785953033649651712,
+          "name": "RnLosRios",
+          "indices": [
+            186,
+            197
+          ],
+          "id_str": "785953033649651712"
+        },
+        {
+          "screen_name": "sbellemof",
+          "id": 90675001,
+          "name": "Salvatore Bellemo",
+          "indices": [
+            198,
+            208
+          ],
+          "id_str": "90675001"
+        },
+        {
+          "screen_name": "SurActual",
+          "id": 3304336384,
+          "name": "Sur Actual",
+          "indices": [
+            209,
+            219
+          ],
+          "id_str": "3304336384"
+        },
+        {
+          "screen_name": "fdsimic",
+          "id": 1040606436,
+          "name": "Fe\u0111a \u0160imi\u0107",
+          "indices": [
+            220,
+            228
+          ],
+          "id_str": "1040606436"
+        },
+        {
+          "screen_name": "austral_losrios",
+          "id": 71575142,
+          "name": "Diario Austral",
+          "indices": [
+            229,
+            245
+          ],
+          "id_str": "71575142"
+        }
+      ],
+      "hashtags": [
+        {
+          "text": "HechosNoPalabras",
+          "indices": [
+            88,
+            105
+          ]
+        },
+        {
+          "text": "Valdiviacl",
+          "indices": [
+            134,
+            145
+          ]
+        },
+        {
+          "text": "ElRanco",
+          "indices": [
+            146,
+            154
+          ]
+        },
+        {
+          "text": "LosR\u00edos",
+          "indices": [
+            155,
+            163
+          ]
+        }
+      ]
+    },
+    "full_text": "Este domingo no te pierdas \u00a1tu apoyo es importante! P-77 Bernardo Berger 100% Regional. #HechosNoPalabras \u00a1vota ganador! \u00a1vota local! #Valdiviacl #ElRanco #LosR\u00edos @RNchile @DiputadosRN @RnValdivia @sbellemof @SurActual @fdsimic @austral_losrios https://t.co/WA0LjZ8eLS"
+  },
+  "user": {
+    "statuses_count": 10033,
+    "id": 2409119084,
+    "default_profile": false,
+    "favourites_count": 6407,
+    "url": "http://www.bernardoberger.cl",
+    "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/579504570302230528/KR2bljgn.jpg",
+    "verified": false,
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/555450284743200769/9mwzmIHX_normal.jpeg",
+    "translator_type": "none",
+    "location": "#ValdiviaCL - CHILE",
+    "geo_enabled": true,
+    "utc_offset": -10800,
+    "notifications": null,
+    "profile_background_tile": true,
+    "friends_count": 1986,
+    "is_translator": false,
+    "follow_request_sent": null,
+    "default_profile_image": false,
+    "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/579504570302230528/KR2bljgn.jpg",
+    "profile_background_color": "3B94D9",
+    "profile_link_color": "0084B4",
+    "profile_use_background_image": true,
+    "time_zone": "Santiago",
+    "name": "Diputado Berger",
+    "profile_text_color": "333333",
+    "profile_sidebar_border_color": "C0DEED",
+    "screen_name": "DiputadoBerger",
+    "lang": "es",
+    "following": null,
+    "listed_count": 43,
+    "protected": false,
+    "profile_sidebar_fill_color": "DDEEF6",
+    "followers_count": 2841,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/555450284743200769/9mwzmIHX_normal.jpeg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/2409119084/1509364226",
+    "contributors_enabled": false,
+    "created_at": "Mon Mar 24 14:48:07 +0000 2014",
+    "id_str": "2409119084",
+    "description": "Diputado Regi\u00f3n de Los R\u00edos Distrito 53: Valdivia - Lanco - Corral - Mariquina - M\u00e1fil http://www.facebook.com/bernardoberger"
+  },
+  "created_at": "Tue Nov 14 15:05:05 +0000 2017",
+  "id_str": "930451526472040450",
+  "in_reply_to_user_id": null,
+  "contributors": null
+}

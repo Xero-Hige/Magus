@@ -1,0 +1,283 @@
+{
+  "id": 930451375795982336,
+  "lang": "es",
+  "in_reply_to_status_id_str": null,
+  "truncated": true,
+  "place": {
+    "id": "0150459b5095a59f",
+    "country": "Chile",
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            -73.091398,
+            -36.923936
+          ],
+          [
+            -73.091398,
+            -36.760435
+          ],
+          [
+            -72.845604,
+            -36.760435
+          ],
+          [
+            -72.845604,
+            -36.923936
+          ]
+        ]
+      ]
+    },
+    "url": "https://api.twitter.com/1.1/geo/id/0150459b5095a59f.json",
+    "full_name": "Concepci\u00f3n, Chile",
+    "attributes": {},
+    "name": "Concepci\u00f3n",
+    "place_type": "city",
+    "country_code": "CL"
+  },
+  "favorite_count": 0,
+  "retweeted": false,
+  "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+  "is_quote_status": false,
+  "possibly_sensitive": false,
+  "geo": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_status_id": null,
+  "retweet_count": 0,
+  "quote_count": 0,
+  "timestamp_ms": "1510671869597",
+  "favorited": false,
+  "coordinates": null,
+  "filter_level": "low",
+  "entities": {
+    "urls": [
+      {
+        "indices": [
+          117,
+          140
+        ],
+        "display_url": "twitter.com/i/web/status/9\u2026",
+        "url": "https://t.co/OM6tE1uwtH",
+        "expanded_url": "https://twitter.com/i/web/status/930451375795982336"
+      }
+    ],
+    "symbols": [],
+    "user_mentions": [],
+    "hashtags": []
+  },
+  "reply_count": 0,
+  "in_reply_to_screen_name": null,
+  "display_text_range": [
+    0,
+    140
+  ],
+  "text": "Las sospechas socialistas x narcos en San Ram\u00f3n. (independiente del delito) tendr\u00eda otra arista, pasada de cuenta d\u2026 https://t.co/OM6tE1uwtH",
+  "extended_tweet": {
+    "display_text_range": [
+      0,
+      219
+    ],
+    "extended_entities": {
+      "media": [
+        {
+          "id": 930449929914540032,
+          "display_url": "pic.twitter.com/1MXVvObjjF",
+          "id_str": "930449929914540032",
+          "indices": [
+            220,
+            243
+          ],
+          "expanded_url": "https://twitter.com/magallanicoo/status/930451375795982336/photo/1",
+          "type": "photo",
+          "url": "https://t.co/1MXVvObjjF",
+          "media_url_https": "https://pbs.twimg.com/media/DOmfSBHX4AAbzN8.jpg",
+          "media_url": "http://pbs.twimg.com/media/DOmfSBHX4AAbzN8.jpg",
+          "sizes": {
+            "small": {
+              "w": 260,
+              "h": 194,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 260,
+              "h": 194,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 260,
+              "h": 194,
+              "resize": "fit"
+            }
+          }
+        },
+        {
+          "id": 930449996004118530,
+          "display_url": "pic.twitter.com/1MXVvObjjF",
+          "id_str": "930449996004118530",
+          "indices": [
+            220,
+            243
+          ],
+          "expanded_url": "https://twitter.com/magallanicoo/status/930451375795982336/photo/1",
+          "type": "photo",
+          "url": "https://t.co/1MXVvObjjF",
+          "media_url_https": "https://pbs.twimg.com/media/DOmfV3UW0AIxG2Z.jpg",
+          "media_url": "http://pbs.twimg.com/media/DOmfV3UW0AIxG2Z.jpg",
+          "sizes": {
+            "small": {
+              "w": 300,
+              "h": 168,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 300,
+              "h": 168,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 300,
+              "h": 168,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "entities": {
+      "media": [
+        {
+          "id": 930449929914540032,
+          "display_url": "pic.twitter.com/1MXVvObjjF",
+          "id_str": "930449929914540032",
+          "indices": [
+            220,
+            243
+          ],
+          "expanded_url": "https://twitter.com/magallanicoo/status/930451375795982336/photo/1",
+          "type": "photo",
+          "url": "https://t.co/1MXVvObjjF",
+          "media_url_https": "https://pbs.twimg.com/media/DOmfSBHX4AAbzN8.jpg",
+          "media_url": "http://pbs.twimg.com/media/DOmfSBHX4AAbzN8.jpg",
+          "sizes": {
+            "small": {
+              "w": 260,
+              "h": 194,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 260,
+              "h": 194,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 260,
+              "h": 194,
+              "resize": "fit"
+            }
+          }
+        },
+        {
+          "id": 930449996004118530,
+          "display_url": "pic.twitter.com/1MXVvObjjF",
+          "id_str": "930449996004118530",
+          "indices": [
+            220,
+            243
+          ],
+          "expanded_url": "https://twitter.com/magallanicoo/status/930451375795982336/photo/1",
+          "type": "photo",
+          "url": "https://t.co/1MXVvObjjF",
+          "media_url_https": "https://pbs.twimg.com/media/DOmfV3UW0AIxG2Z.jpg",
+          "media_url": "http://pbs.twimg.com/media/DOmfV3UW0AIxG2Z.jpg",
+          "sizes": {
+            "small": {
+              "w": 300,
+              "h": 168,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 300,
+              "h": 168,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 300,
+              "h": 168,
+              "resize": "fit"
+            }
+          }
+        }
+      ],
+      "urls": [],
+      "symbols": [],
+      "user_mentions": [],
+      "hashtags": []
+    },
+    "full_text": "Las sospechas socialistas x narcos en San Ram\u00f3n. (independiente del delito) tendr\u00eda otra arista, pasada de cuenta de sectores disidentes, esto se habr\u00eda fraguado en TVN. Recordar q este canal le da 0 apoyo a gesti\u00f3n MB. https://t.co/1MXVvObjjF"
+  },
+  "user": {
+    "statuses_count": 19303,
+    "id": 303324396,
+    "default_profile": false,
+    "favourites_count": 1597,
+    "url": null,
+    "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/689448269/1299b352cf037ed3faef55c167465829.png",
+    "verified": false,
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/551126337952309249/8NHSyw65_normal.png",
+    "translator_type": "regular",
+    "location": "VIIIa. Region",
+    "geo_enabled": true,
+    "utc_offset": -18000,
+    "notifications": null,
+    "profile_background_tile": true,
+    "friends_count": 3158,
+    "is_translator": false,
+    "follow_request_sent": null,
+    "default_profile_image": false,
+    "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/689448269/1299b352cf037ed3faef55c167465829.png",
+    "profile_background_color": "E0E1DB",
+    "profile_link_color": "C22E33",
+    "profile_use_background_image": true,
+    "time_zone": "Quito",
+    "name": "francisco",
+    "profile_text_color": "1E1F19",
+    "profile_sidebar_border_color": "E7E3DA",
+    "screen_name": "magallanicoo",
+    "lang": "es",
+    "following": null,
+    "listed_count": 23,
+    "protected": false,
+    "profile_sidebar_fill_color": "0C0D07",
+    "followers_count": 3506,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/551126337952309249/8NHSyw65_normal.png",
+    "contributors_enabled": false,
+    "created_at": "Sun May 22 17:37:27 +0000 2011",
+    "id_str": "303324396",
+    "description": "Chuncho x siempre,izquierda.Profesor,, N.Mayoria.Magall\u00e1nico al cubo.Card.Silva,Clotario Blest,Marcelo Salas,Nacha Guevara,Cabral,Serrat.Michelle mis referentes"
+  },
+  "created_at": "Tue Nov 14 15:04:29 +0000 2017",
+  "id_str": "930451375795982336",
+  "in_reply_to_user_id": null,
+  "contributors": null
+}

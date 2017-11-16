@@ -1,0 +1,244 @@
+{
+  "id": 930454942493667328,
+  "lang": "es",
+  "in_reply_to_status_id_str": null,
+  "truncated": true,
+  "place": {
+    "id": "de599025180e2ee7",
+    "country": "Estados Unidos",
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            -84.820309,
+            38.403186
+          ],
+          [
+            -84.820309,
+            42.327133
+          ],
+          [
+            -80.518626,
+            42.327133
+          ],
+          [
+            -80.518626,
+            38.403186
+          ]
+        ]
+      ]
+    },
+    "url": "https://api.twitter.com/1.1/geo/id/de599025180e2ee7.json",
+    "full_name": "Ohio, USA",
+    "attributes": {},
+    "name": "Ohio",
+    "place_type": "admin",
+    "country_code": "US"
+  },
+  "favorite_count": 0,
+  "retweeted": false,
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "is_quote_status": false,
+  "possibly_sensitive": false,
+  "geo": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_status_id": null,
+  "retweet_count": 0,
+  "quote_count": 0,
+  "timestamp_ms": "1510672719964",
+  "favorited": false,
+  "coordinates": null,
+  "filter_level": "low",
+  "entities": {
+    "urls": [
+      {
+        "indices": [
+          117,
+          140
+        ],
+        "display_url": "twitter.com/i/web/status/9\u2026",
+        "url": "https://t.co/tmJYbgBSgZ",
+        "expanded_url": "https://twitter.com/i/web/status/930454942493667328"
+      }
+    ],
+    "symbols": [],
+    "user_mentions": [
+      {
+        "screen_name": "Rayados",
+        "id": 86437426,
+        "name": "Rayados",
+        "indices": [
+          46,
+          54
+        ],
+        "id_str": "86437426"
+      }
+    ],
+    "hashtags": []
+  },
+  "reply_count": 0,
+  "in_reply_to_screen_name": null,
+  "display_text_range": [
+    0,
+    140
+  ],
+  "text": "-Mami, entonces ya puedo entrar al estadio de @Rayados con mi cochinada de playera?\n-Si hijito, ya podr\u00e1s, lo \u00fanico\u2026 https://t.co/tmJYbgBSgZ",
+  "extended_tweet": {
+    "display_text_range": [
+      0,
+      233
+    ],
+    "extended_entities": {
+      "media": [
+        {
+          "id": 930454852865593344,
+          "display_url": "pic.twitter.com/VgenIrshas",
+          "id_str": "930454852865593344",
+          "indices": [
+            234,
+            257
+          ],
+          "expanded_url": "https://twitter.com/limon2389/status/930454942493667328/photo/1",
+          "type": "photo",
+          "url": "https://t.co/VgenIrshas",
+          "media_url_https": "https://pbs.twimg.com/media/DOmjwkiXkAAuPBl.jpg",
+          "media_url": "http://pbs.twimg.com/media/DOmjwkiXkAAuPBl.jpg",
+          "sizes": {
+            "small": {
+              "w": 543,
+              "h": 680,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 1242,
+              "h": 1554,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 959,
+              "h": 1200,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "entities": {
+      "media": [
+        {
+          "id": 930454852865593344,
+          "display_url": "pic.twitter.com/VgenIrshas",
+          "id_str": "930454852865593344",
+          "indices": [
+            234,
+            257
+          ],
+          "expanded_url": "https://twitter.com/limon2389/status/930454942493667328/photo/1",
+          "type": "photo",
+          "url": "https://t.co/VgenIrshas",
+          "media_url_https": "https://pbs.twimg.com/media/DOmjwkiXkAAuPBl.jpg",
+          "media_url": "http://pbs.twimg.com/media/DOmjwkiXkAAuPBl.jpg",
+          "sizes": {
+            "small": {
+              "w": 543,
+              "h": 680,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 1242,
+              "h": 1554,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 959,
+              "h": 1200,
+              "resize": "fit"
+            }
+          }
+        }
+      ],
+      "urls": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "screen_name": "Rayados",
+          "id": 86437426,
+          "name": "Rayados",
+          "indices": [
+            46,
+            54
+          ],
+          "id_str": "86437426"
+        },
+        {
+          "screen_name": "castillejos_m",
+          "id": 26436473,
+          "name": "mario castillejos",
+          "indices": [
+            212,
+            226
+          ],
+          "id_str": "26436473"
+        }
+      ],
+      "hashtags": []
+    },
+    "full_text": "-Mami, entonces ya puedo entrar al estadio de @Rayados con mi cochinada de playera?\n-Si hijito, ya podr\u00e1s, lo \u00fanico es que t\u00fa papi no se podr\u00e1 poner hasta el culo en \u00e9l partido y tratar de golpear gente\n\nTIEMBLA @castillejos_m !!!!!! https://t.co/VgenIrshas"
+  },
+  "user": {
+    "statuses_count": 1968,
+    "id": 733954123,
+    "default_profile": true,
+    "favourites_count": 664,
+    "url": "http://www.chingatumadre.com",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "verified": false,
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/529288261689438210/zQeMM6fF_normal.jpeg",
+    "translator_type": "none",
+    "location": "Ohio, USA",
+    "geo_enabled": true,
+    "utc_offset": null,
+    "notifications": null,
+    "profile_background_tile": false,
+    "friends_count": 135,
+    "is_translator": false,
+    "follow_request_sent": null,
+    "default_profile_image": false,
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_color": "C0DEED",
+    "profile_link_color": "1DA1F2",
+    "profile_use_background_image": true,
+    "time_zone": null,
+    "name": "Don Pitotes",
+    "profile_text_color": "333333",
+    "profile_sidebar_border_color": "C0DEED",
+    "screen_name": "limon2389",
+    "lang": "es",
+    "following": null,
+    "listed_count": 0,
+    "protected": false,
+    "profile_sidebar_fill_color": "DDEEF6",
+    "followers_count": 26,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/529288261689438210/zQeMM6fF_normal.jpeg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/733954123/1496783793",
+    "contributors_enabled": false,
+    "created_at": "Fri Aug 03 02:07:16 +0000 2012",
+    "id_str": "733954123",
+    "description": "Ingeniero\ud83d\udc77\ud83c\udffdTapat\u00edo\ud83c\uddf2\ud83c\uddfdSportslover:\u26bd\ufe0f@chivas \u26be\ufe0f@BlueJays & @charrosbeisbol \ud83c\udfc8@Seahawks,\ud83c\udfcb\ud83c\udffdRetiredCrossFitter. Probablemente no tenga nada bueno que Twittear."
+  },
+  "created_at": "Tue Nov 14 15:18:39 +0000 2017",
+  "id_str": "930454942493667328",
+  "in_reply_to_user_id": null,
+  "contributors": null
+}

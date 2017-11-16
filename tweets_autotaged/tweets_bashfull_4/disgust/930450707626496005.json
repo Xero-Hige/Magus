@@ -1,0 +1,151 @@
+{
+  "id": 930450707626496005,
+  "lang": "es",
+  "in_reply_to_status_id_str": null,
+  "truncated": true,
+  "place": {
+    "id": "4afa2757051c5192",
+    "country": "Argentina",
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            -63.39386,
+            -41.035009
+          ],
+          [
+            -63.39386,
+            -33.260144
+          ],
+          [
+            -56.665836,
+            -33.260144
+          ],
+          [
+            -56.665836,
+            -41.035009
+          ]
+        ]
+      ]
+    },
+    "url": "https://api.twitter.com/1.1/geo/id/4afa2757051c5192.json",
+    "full_name": "Buenos Aires, Argentina",
+    "attributes": {},
+    "name": "Buenos Aires",
+    "place_type": "admin",
+    "country_code": "AR"
+  },
+  "favorite_count": 0,
+  "retweeted": false,
+  "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+  "is_quote_status": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_user_id_str": "76794344",
+  "in_reply_to_screen_name": "nsalvarrey",
+  "retweet_count": 0,
+  "quote_count": 0,
+  "timestamp_ms": "1510671710293",
+  "favorited": false,
+  "coordinates": null,
+  "text": "@nsalvarrey los aparatos electr\u00f3nicos est\u00e1n caros porque hay una mafia que maneja la importaci\u00f3n no por los impuest\u2026 https://t.co/yB6zFNYVly",
+  "entities": {
+    "urls": [
+      {
+        "indices": [
+          117,
+          140
+        ],
+        "display_url": "twitter.com/i/web/status/9\u2026",
+        "url": "https://t.co/yB6zFNYVly",
+        "expanded_url": "https://twitter.com/i/web/status/930450707626496005"
+      }
+    ],
+    "symbols": [],
+    "user_mentions": [
+      {
+        "screen_name": "nsalvarrey",
+        "id": 76794344,
+        "name": "Harry \ud83d\udcfb\ud83c\udf7a",
+        "indices": [
+          0,
+          11
+        ],
+        "id_str": "76794344"
+      }
+    ],
+    "hashtags": []
+  },
+  "reply_count": 0,
+  "geo": null,
+  "filter_level": "low",
+  "extended_tweet": {
+    "display_text_range": [
+      0,
+      142
+    ],
+    "entities": {
+      "urls": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "screen_name": "nsalvarrey",
+          "id": 76794344,
+          "name": "Harry \ud83d\udcfb\ud83c\udf7a",
+          "indices": [
+            0,
+            11
+          ],
+          "id_str": "76794344"
+        }
+      ],
+      "hashtags": []
+    },
+    "full_text": "@nsalvarrey los aparatos electr\u00f3nicos est\u00e1n caros porque hay una mafia que maneja la importaci\u00f3n no por los impuestos ni por tierra del fuego."
+  },
+  "user": {
+    "statuses_count": 6337,
+    "id": 14084259,
+    "default_profile": false,
+    "favourites_count": 4358,
+    "url": null,
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+    "verified": false,
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/907979355321769984/lqpjbQeX_normal.jpg",
+    "translator_type": "none",
+    "location": "C\u00f3rdoba, Argentina (CBA)",
+    "geo_enabled": true,
+    "utc_offset": -10800,
+    "notifications": null,
+    "profile_background_tile": false,
+    "friends_count": 673,
+    "is_translator": false,
+    "follow_request_sent": null,
+    "default_profile_image": false,
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+    "profile_background_color": "1A1B1F",
+    "profile_link_color": "2FC2EF",
+    "profile_use_background_image": true,
+    "time_zone": "Buenos Aires",
+    "name": "PDA",
+    "profile_text_color": "666666",
+    "profile_sidebar_border_color": "181A1E",
+    "screen_name": "arkatPDA",
+    "lang": "en",
+    "following": null,
+    "listed_count": 28,
+    "protected": false,
+    "profile_sidebar_fill_color": "252429",
+    "followers_count": 624,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/907979355321769984/lqpjbQeX_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/14084259/1349671144",
+    "contributors_enabled": false,
+    "created_at": "Wed Mar 05 18:06:50 +0000 2008",
+    "id_str": "14084259",
+    "description": null
+  },
+  "created_at": "Tue Nov 14 15:01:50 +0000 2017",
+  "id_str": "930450707626496005",
+  "in_reply_to_user_id": 76794344,
+  "contributors": null
+}

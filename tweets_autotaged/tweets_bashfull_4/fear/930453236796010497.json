@@ -1,0 +1,234 @@
+{
+  "id": 930453236796010497,
+  "lang": "es",
+  "in_reply_to_status_id_str": "930412500985581568",
+  "truncated": true,
+  "place": {
+    "id": "043383f8b2b79918",
+    "country": "Venezuela",
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            -73.354073,
+            0.648837
+          ],
+          [
+            -73.354073,
+            12.196802
+          ],
+          [
+            -59.80378,
+            12.196802
+          ],
+          [
+            -59.80378,
+            0.648837
+          ]
+        ]
+      ]
+    },
+    "url": "https://api.twitter.com/1.1/geo/id/043383f8b2b79918.json",
+    "full_name": "Venezuela",
+    "attributes": {},
+    "name": "Venezuela",
+    "place_type": "country",
+    "country_code": "VE"
+  },
+  "favorite_count": 0,
+  "retweeted": false,
+  "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+  "is_quote_status": false,
+  "possibly_sensitive": false,
+  "geo": null,
+  "in_reply_to_user_id_str": "1089186715",
+  "in_reply_to_status_id": 930412500985581568,
+  "retweet_count": 0,
+  "quote_count": 0,
+  "timestamp_ms": "1510672313294",
+  "favorited": false,
+  "coordinates": null,
+  "filter_level": "low",
+  "entities": {
+    "urls": [
+      {
+        "indices": [
+          117,
+          140
+        ],
+        "display_url": "twitter.com/i/web/status/9\u2026",
+        "url": "https://t.co/ncAwPt7GBf",
+        "expanded_url": "https://twitter.com/i/web/status/930453236796010497"
+      }
+    ],
+    "symbols": [],
+    "user_mentions": [
+      {
+        "screen_name": "bcodeltesoro",
+        "id": 1089186715,
+        "name": "Banco del Tesoro",
+        "indices": [
+          0,
+          13
+        ],
+        "id_str": "1089186715"
+      }
+    ],
+    "hashtags": []
+  },
+  "reply_count": 0,
+  "in_reply_to_screen_name": "bcodeltesoro",
+  "display_text_range": [
+    14,
+    140
+  ],
+  "text": "@bcodeltesoro 2-BOD/BANCO ORINOCO terroristas que secuestran impunemente recursos tenedores de bonos de Pdvsa  en s\u2026 https://t.co/ncAwPt7GBf",
+  "extended_tweet": {
+    "display_text_range": [
+      14,
+      256
+    ],
+    "extended_entities": {
+      "media": [
+        {
+          "id": 930453220832563201,
+          "display_url": "pic.twitter.com/SxbNzDQwNX",
+          "id_str": "930453220832563201",
+          "indices": [
+            257,
+            280
+          ],
+          "expanded_url": "https://twitter.com/ZuazMorales/status/930453236796010497/photo/1",
+          "type": "photo",
+          "url": "https://t.co/SxbNzDQwNX",
+          "media_url_https": "https://pbs.twimg.com/media/DOmiRkvX0AEi7Gk.jpg",
+          "media_url": "http://pbs.twimg.com/media/DOmiRkvX0AEi7Gk.jpg",
+          "sizes": {
+            "small": {
+              "w": 571,
+              "h": 414,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 571,
+              "h": 414,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 571,
+              "h": 414,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "entities": {
+      "media": [
+        {
+          "id": 930453220832563201,
+          "display_url": "pic.twitter.com/SxbNzDQwNX",
+          "id_str": "930453220832563201",
+          "indices": [
+            257,
+            280
+          ],
+          "expanded_url": "https://twitter.com/ZuazMorales/status/930453236796010497/photo/1",
+          "type": "photo",
+          "url": "https://t.co/SxbNzDQwNX",
+          "media_url_https": "https://pbs.twimg.com/media/DOmiRkvX0AEi7Gk.jpg",
+          "media_url": "http://pbs.twimg.com/media/DOmiRkvX0AEi7Gk.jpg",
+          "sizes": {
+            "small": {
+              "w": 571,
+              "h": 414,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 571,
+              "h": 414,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 571,
+              "h": 414,
+              "resize": "fit"
+            }
+          }
+        }
+      ],
+      "urls": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "screen_name": "bcodeltesoro",
+          "id": 1089186715,
+          "name": "Banco del Tesoro",
+          "indices": [
+            0,
+            13
+          ],
+          "id_str": "1089186715"
+        }
+      ],
+      "hashtags": []
+    },
+    "full_text": "@bcodeltesoro 2-BOD/BANCO ORINOCO terroristas que secuestran impunemente recursos tenedores de bonos de Pdvsa  en sus cuentas y ni Sudeban ni gobierno act\u00faan a nuestro favor a pesar de las m\u00faltiples denuncias realizadas \u00bfD\u00f3nde est\u00e1 el defensor y el fiscal? https://t.co/SxbNzDQwNX"
+  },
+  "user": {
+    "statuses_count": 5163,
+    "id": 1386878088,
+    "default_profile": true,
+    "favourites_count": 35,
+    "url": null,
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "verified": false,
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/3585679224/a9c85ddbe1b3893337bf281927cd6106_normal.png",
+    "translator_type": "none",
+    "location": null,
+    "geo_enabled": true,
+    "utc_offset": -14400,
+    "notifications": null,
+    "profile_background_tile": false,
+    "friends_count": 2163,
+    "is_translator": false,
+    "follow_request_sent": null,
+    "default_profile_image": false,
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_color": "C0DEED",
+    "profile_link_color": "1DA1F2",
+    "profile_use_background_image": true,
+    "time_zone": "Atlantic Time (Canada)",
+    "name": "Ismael Zuazn\u00e1bar",
+    "profile_text_color": "333333",
+    "profile_sidebar_border_color": "C0DEED",
+    "screen_name": "ZuazMorales",
+    "lang": "es",
+    "following": null,
+    "listed_count": 1,
+    "protected": false,
+    "profile_sidebar_fill_color": "DDEEF6",
+    "followers_count": 810,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/3585679224/a9c85ddbe1b3893337bf281927cd6106_normal.png",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1386878088/1370402840",
+    "contributors_enabled": false,
+    "created_at": "Sun Apr 28 12:52:21 +0000 2013",
+    "id_str": "1386878088",
+    "description": null
+  },
+  "created_at": "Tue Nov 14 15:11:53 +0000 2017",
+  "id_str": "930453236796010497",
+  "in_reply_to_user_id": 1089186715,
+  "contributors": null
+}

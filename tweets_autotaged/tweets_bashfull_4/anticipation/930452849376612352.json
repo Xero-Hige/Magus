@@ -1,0 +1,241 @@
+{
+  "id": 930452849376612352,
+  "lang": "es",
+  "in_reply_to_status_id_str": null,
+  "truncated": true,
+  "place": {
+    "id": "d1272bba8714df3d",
+    "country": "Espa\u00f1a",
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            -6.0201,
+            43.278867
+          ],
+          [
+            -6.0201,
+            43.427428
+          ],
+          [
+            -5.7423,
+            43.427428
+          ],
+          [
+            -5.7423,
+            43.278867
+          ]
+        ]
+      ]
+    },
+    "url": "https://api.twitter.com/1.1/geo/id/d1272bba8714df3d.json",
+    "full_name": "Oviedo, Espa\u00f1a",
+    "attributes": {},
+    "name": "Oviedo",
+    "place_type": "city",
+    "country_code": "ES"
+  },
+  "favorite_count": 0,
+  "retweeted": false,
+  "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+  "is_quote_status": false,
+  "possibly_sensitive": false,
+  "geo": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_status_id": null,
+  "retweet_count": 0,
+  "quote_count": 0,
+  "timestamp_ms": "1510672220926",
+  "favorited": false,
+  "coordinates": null,
+  "filter_level": "low",
+  "entities": {
+    "urls": [
+      {
+        "indices": [
+          117,
+          140
+        ],
+        "display_url": "twitter.com/i/web/status/9\u2026",
+        "url": "https://t.co/9GvpBFBUyG",
+        "expanded_url": "https://twitter.com/i/web/status/930452849376612352"
+      }
+    ],
+    "symbols": [],
+    "user_mentions": [],
+    "hashtags": []
+  },
+  "reply_count": 0,
+  "in_reply_to_screen_name": null,
+  "display_text_range": [
+    0,
+    140
+  ],
+  "text": "Alguna vez te hiciste esta pregunta? Pues si es as\u00ed, nosotr@s tenemos la respuesta, ven a vernos y te diremos que r\u2026 https://t.co/9GvpBFBUyG",
+  "extended_tweet": {
+    "display_text_range": [
+      0,
+      202
+    ],
+    "extended_entities": {
+      "media": [
+        {
+          "id": 930452806766616578,
+          "display_url": "pic.twitter.com/j11eAwrjhy",
+          "id_str": "930452806766616578",
+          "indices": [
+            203,
+            226
+          ],
+          "expanded_url": "https://twitter.com/FarmaciaAnaDiaz/status/930452849376612352/photo/1",
+          "type": "photo",
+          "url": "https://t.co/j11eAwrjhy",
+          "media_url_https": "https://pbs.twimg.com/media/DOmh5eOW4AImgJj.jpg",
+          "media_url": "http://pbs.twimg.com/media/DOmh5eOW4AImgJj.jpg",
+          "sizes": {
+            "small": {
+              "w": 680,
+              "h": 670,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 2048,
+              "h": 2018,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 1200,
+              "h": 1182,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "entities": {
+      "media": [
+        {
+          "id": 930452806766616578,
+          "display_url": "pic.twitter.com/j11eAwrjhy",
+          "id_str": "930452806766616578",
+          "indices": [
+            203,
+            226
+          ],
+          "expanded_url": "https://twitter.com/FarmaciaAnaDiaz/status/930452849376612352/photo/1",
+          "type": "photo",
+          "url": "https://t.co/j11eAwrjhy",
+          "media_url_https": "https://pbs.twimg.com/media/DOmh5eOW4AImgJj.jpg",
+          "media_url": "http://pbs.twimg.com/media/DOmh5eOW4AImgJj.jpg",
+          "sizes": {
+            "small": {
+              "w": 680,
+              "h": 670,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 2048,
+              "h": 2018,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 1200,
+              "h": 1182,
+              "resize": "fit"
+            }
+          }
+        }
+      ],
+      "urls": [],
+      "symbols": [],
+      "user_mentions": [],
+      "hashtags": [
+        {
+          "text": "DiaMundialDeLaDiabetes",
+          "indices": [
+            142,
+            165
+          ]
+        },
+        {
+          "text": "DiabetesDay",
+          "indices": [
+            166,
+            178
+          ]
+        },
+        {
+          "text": "diabetESP",
+          "indices": [
+            179,
+            189
+          ]
+        },
+        {
+          "text": "FelizMartes",
+          "indices": [
+            190,
+            202
+          ]
+        }
+      ]
+    },
+    "full_text": "Alguna vez te hiciste esta pregunta? Pues si es as\u00ed, nosotr@s tenemos la respuesta, ven a vernos y te diremos que riesgo de padecerla tienes. #DiaMundialDeLaDiabetes #DiabetesDay #diabetESP #FelizMartes https://t.co/j11eAwrjhy"
+  },
+  "user": {
+    "statuses_count": 84,
+    "id": 806120187753824256,
+    "default_profile": true,
+    "favourites_count": 40,
+    "url": "http://www.farmaciaanadiaz.com",
+    "profile_background_image_url_https": "",
+    "verified": false,
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/912987175301545985/9i6-d8vs_normal.jpg",
+    "translator_type": "none",
+    "location": "Oviedo, Espa\u00f1a",
+    "geo_enabled": true,
+    "utc_offset": null,
+    "notifications": null,
+    "profile_background_tile": false,
+    "friends_count": 41,
+    "is_translator": false,
+    "follow_request_sent": null,
+    "default_profile_image": false,
+    "profile_background_image_url": "",
+    "profile_background_color": "F5F8FA",
+    "profile_link_color": "1DA1F2",
+    "profile_use_background_image": true,
+    "time_zone": null,
+    "name": "Farmacia Ana D\u00edaz",
+    "profile_text_color": "333333",
+    "profile_sidebar_border_color": "C0DEED",
+    "screen_name": "FarmaciaAnaDiaz",
+    "lang": "es",
+    "following": null,
+    "listed_count": 0,
+    "protected": false,
+    "profile_sidebar_fill_color": "DDEEF6",
+    "followers_count": 39,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/912987175301545985/9i6-d8vs_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/806120187753824256/1507542624",
+    "contributors_enabled": false,
+    "created_at": "Tue Dec 06 12:56:44 +0000 2016",
+    "id_str": "806120187753824256",
+    "description": null
+  },
+  "created_at": "Tue Nov 14 15:10:20 +0000 2017",
+  "id_str": "930452849376612352",
+  "in_reply_to_user_id": null,
+  "contributors": null
+}

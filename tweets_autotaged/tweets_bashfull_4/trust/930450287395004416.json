@@ -1,0 +1,550 @@
+{
+  "id": 930450287395004416,
+  "lang": "es",
+  "in_reply_to_status_id_str": null,
+  "truncated": true,
+  "place": {
+    "id": "d16c1b8ae1635978",
+    "country": "Espa\u00f1a",
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            -8.471284,
+            43.301377
+          ],
+          [
+            -8.471284,
+            43.389945
+          ],
+          [
+            -8.374342,
+            43.389945
+          ],
+          [
+            -8.374342,
+            43.301377
+          ]
+        ]
+      ]
+    },
+    "url": "https://api.twitter.com/1.1/geo/id/d16c1b8ae1635978.json",
+    "full_name": "A Coru\u00f1a, Espa\u00f1a",
+    "attributes": {},
+    "name": "A Coru\u00f1a",
+    "place_type": "city",
+    "country_code": "ES"
+  },
+  "favorite_count": 0,
+  "retweeted": false,
+  "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+  "is_quote_status": false,
+  "possibly_sensitive": false,
+  "geo": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_status_id": null,
+  "retweet_count": 0,
+  "quote_count": 0,
+  "timestamp_ms": "1510671610102",
+  "favorited": false,
+  "coordinates": null,
+  "filter_level": "low",
+  "entities": {
+    "urls": [
+      {
+        "indices": [
+          110,
+          133
+        ],
+        "display_url": "twitter.com/i/web/status/9\u2026",
+        "url": "https://t.co/ghSM0y852z",
+        "expanded_url": "https://twitter.com/i/web/status/930450287395004416"
+      }
+    ],
+    "symbols": [],
+    "user_mentions": [
+      {
+        "screen_name": "hotelescristal",
+        "id": 2861610575,
+        "name": "Hoteles Cristal",
+        "indices": [
+          1,
+          16
+        ],
+        "id_str": "2861610575"
+      }
+    ],
+    "hashtags": [
+      {
+        "text": "GilbertoSantaRosa",
+        "indices": [
+          52,
+          70
+        ]
+      },
+      {
+        "text": "SalaPel\u00edcano",
+        "indices": [
+          91,
+          104
+        ]
+      }
+    ]
+  },
+  "reply_count": 0,
+  "in_reply_to_screen_name": null,
+  "display_text_range": [
+    0,
+    140
+  ],
+  "text": ".@hotelescristal recomienda:\n\nEl s\u00e1bado 18/11/17 a  #GilbertoSantaRosa en concierto  en la #SalaPel\u00edcano, la\u2026 https://t.co/ghSM0y852z",
+  "extended_tweet": {
+    "display_text_range": [
+      0,
+      279
+    ],
+    "extended_entities": {
+      "media": [
+        {
+          "id": 930450191546830848,
+          "display_url": "pic.twitter.com/1R4UG5Xing",
+          "id_str": "930450191546830848",
+          "indices": [
+            280,
+            303
+          ],
+          "expanded_url": "https://twitter.com/VirtudCardinal/status/930450287395004416/photo/1",
+          "type": "photo",
+          "url": "https://t.co/1R4UG5Xing",
+          "media_url_https": "https://pbs.twimg.com/media/DOmfhPxX0AAGhTQ.jpg",
+          "media_url": "http://pbs.twimg.com/media/DOmfhPxX0AAGhTQ.jpg",
+          "sizes": {
+            "small": {
+              "w": 481,
+              "h": 680,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 842,
+              "h": 1191,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 842,
+              "h": 1191,
+              "resize": "fit"
+            }
+          }
+        },
+        {
+          "id": 930450205434105862,
+          "display_url": "pic.twitter.com/1R4UG5Xing",
+          "id_str": "930450205434105862",
+          "indices": [
+            280,
+            303
+          ],
+          "expanded_url": "https://twitter.com/VirtudCardinal/status/930450287395004416/photo/1",
+          "type": "photo",
+          "url": "https://t.co/1R4UG5Xing",
+          "media_url_https": "https://pbs.twimg.com/media/DOmfiDgW0AYh_U5.jpg",
+          "media_url": "http://pbs.twimg.com/media/DOmfiDgW0AYh_U5.jpg",
+          "sizes": {
+            "small": {
+              "w": 368,
+              "h": 221,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 368,
+              "h": 221,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 368,
+              "h": 221,
+              "resize": "fit"
+            }
+          }
+        },
+        {
+          "id": 930450211511693313,
+          "display_url": "pic.twitter.com/1R4UG5Xing",
+          "id_str": "930450211511693313",
+          "indices": [
+            280,
+            303
+          ],
+          "expanded_url": "https://twitter.com/VirtudCardinal/status/930450287395004416/photo/1",
+          "type": "photo",
+          "url": "https://t.co/1R4UG5Xing",
+          "media_url_https": "https://pbs.twimg.com/media/DOmfiaJXcAE2I59.jpg",
+          "media_url": "http://pbs.twimg.com/media/DOmfiaJXcAE2I59.jpg",
+          "sizes": {
+            "small": {
+              "w": 680,
+              "h": 510,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 2048,
+              "h": 1536,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 1200,
+              "h": 900,
+              "resize": "fit"
+            }
+          }
+        },
+        {
+          "id": 930450252007657473,
+          "display_url": "pic.twitter.com/1R4UG5Xing",
+          "id_str": "930450252007657473",
+          "indices": [
+            280,
+            303
+          ],
+          "expanded_url": "https://twitter.com/VirtudCardinal/status/930450287395004416/photo/1",
+          "type": "photo",
+          "url": "https://t.co/1R4UG5Xing",
+          "media_url_https": "https://pbs.twimg.com/media/DOmfkxAW0AE5rTR.jpg",
+          "media_url": "http://pbs.twimg.com/media/DOmfkxAW0AE5rTR.jpg",
+          "sizes": {
+            "small": {
+              "w": 680,
+              "h": 566,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 2048,
+              "h": 1706,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 1200,
+              "h": 1000,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "entities": {
+      "media": [
+        {
+          "id": 930450191546830848,
+          "display_url": "pic.twitter.com/1R4UG5Xing",
+          "id_str": "930450191546830848",
+          "indices": [
+            280,
+            303
+          ],
+          "expanded_url": "https://twitter.com/VirtudCardinal/status/930450287395004416/photo/1",
+          "type": "photo",
+          "url": "https://t.co/1R4UG5Xing",
+          "media_url_https": "https://pbs.twimg.com/media/DOmfhPxX0AAGhTQ.jpg",
+          "media_url": "http://pbs.twimg.com/media/DOmfhPxX0AAGhTQ.jpg",
+          "sizes": {
+            "small": {
+              "w": 481,
+              "h": 680,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 842,
+              "h": 1191,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 842,
+              "h": 1191,
+              "resize": "fit"
+            }
+          }
+        },
+        {
+          "id": 930450205434105862,
+          "display_url": "pic.twitter.com/1R4UG5Xing",
+          "id_str": "930450205434105862",
+          "indices": [
+            280,
+            303
+          ],
+          "expanded_url": "https://twitter.com/VirtudCardinal/status/930450287395004416/photo/1",
+          "type": "photo",
+          "url": "https://t.co/1R4UG5Xing",
+          "media_url_https": "https://pbs.twimg.com/media/DOmfiDgW0AYh_U5.jpg",
+          "media_url": "http://pbs.twimg.com/media/DOmfiDgW0AYh_U5.jpg",
+          "sizes": {
+            "small": {
+              "w": 368,
+              "h": 221,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 368,
+              "h": 221,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 368,
+              "h": 221,
+              "resize": "fit"
+            }
+          }
+        },
+        {
+          "id": 930450211511693313,
+          "display_url": "pic.twitter.com/1R4UG5Xing",
+          "id_str": "930450211511693313",
+          "indices": [
+            280,
+            303
+          ],
+          "expanded_url": "https://twitter.com/VirtudCardinal/status/930450287395004416/photo/1",
+          "type": "photo",
+          "url": "https://t.co/1R4UG5Xing",
+          "media_url_https": "https://pbs.twimg.com/media/DOmfiaJXcAE2I59.jpg",
+          "media_url": "http://pbs.twimg.com/media/DOmfiaJXcAE2I59.jpg",
+          "sizes": {
+            "small": {
+              "w": 680,
+              "h": 510,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 2048,
+              "h": 1536,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 1200,
+              "h": 900,
+              "resize": "fit"
+            }
+          }
+        },
+        {
+          "id": 930450252007657473,
+          "display_url": "pic.twitter.com/1R4UG5Xing",
+          "id_str": "930450252007657473",
+          "indices": [
+            280,
+            303
+          ],
+          "expanded_url": "https://twitter.com/VirtudCardinal/status/930450287395004416/photo/1",
+          "type": "photo",
+          "url": "https://t.co/1R4UG5Xing",
+          "media_url_https": "https://pbs.twimg.com/media/DOmfkxAW0AE5rTR.jpg",
+          "media_url": "http://pbs.twimg.com/media/DOmfkxAW0AE5rTR.jpg",
+          "sizes": {
+            "small": {
+              "w": 680,
+              "h": 566,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 2048,
+              "h": 1706,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 1200,
+              "h": 1000,
+              "resize": "fit"
+            }
+          }
+        }
+      ],
+      "urls": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "screen_name": "hotelescristal",
+          "id": 2861610575,
+          "name": "Hoteles Cristal",
+          "indices": [
+            1,
+            16
+          ],
+          "id_str": "2861610575"
+        }
+      ],
+      "hashtags": [
+        {
+          "text": "GilbertoSantaRosa",
+          "indices": [
+            52,
+            70
+          ]
+        },
+        {
+          "text": "SalaPel\u00edcano",
+          "indices": [
+            91,
+            104
+          ]
+        },
+        {
+          "text": "Coru\u00f1a",
+          "indices": [
+            109,
+            116
+          ]
+        },
+        {
+          "text": "Galicia",
+          "indices": [
+            117,
+            125
+          ]
+        },
+        {
+          "text": "Espa\u00f1a",
+          "indices": [
+            127,
+            134
+          ]
+        },
+        {
+          "text": "Calidade",
+          "indices": [
+            136,
+            145
+          ]
+        },
+        {
+          "text": "FelizMartes",
+          "indices": [
+            196,
+            208
+          ]
+        },
+        {
+          "text": "OTDirecto14N",
+          "indices": [
+            209,
+            222
+          ]
+        },
+        {
+          "text": "OTGala3",
+          "indices": [
+            223,
+            231
+          ]
+        },
+        {
+          "text": "DiaMundialDeLaDiabetes",
+          "indices": [
+            232,
+            255
+          ]
+        },
+        {
+          "text": "MonstaX1stWin",
+          "indices": [
+            256,
+            270
+          ]
+        },
+        {
+          "text": "SCEWC17",
+          "indices": [
+            271,
+            279
+          ]
+        }
+      ]
+    },
+    "full_text": ".@hotelescristal recomienda:\n\nEl s\u00e1bado 18/11/17 a  #GilbertoSantaRosa en concierto  en la #SalaPel\u00edcano, la #Coru\u00f1a #Galicia, #Espa\u00f1a. #Calidade!\n\nY disfruta de una CCAA segura.  Te esperamos !\n\n#FelizMartes #OTDirecto14N #OTGala3 #DiaMundialDeLaDiabetes #MonstaX1stWin #SCEWC17 https://t.co/1R4UG5Xing"
+  },
+  "user": {
+    "statuses_count": 18851,
+    "id": 1345654015,
+    "default_profile": false,
+    "favourites_count": 4880,
+    "url": "http://ciudadanodeestaaldeaglobal.blogspot.com.es",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+    "verified": false,
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/559407310729392130/-2qBWnUe_normal.jpeg",
+    "translator_type": "none",
+    "location": "Coru\u00f1a, Espa\u00f1a ",
+    "geo_enabled": true,
+    "utc_offset": 3600,
+    "notifications": null,
+    "profile_background_tile": false,
+    "friends_count": 2510,
+    "is_translator": false,
+    "follow_request_sent": null,
+    "default_profile_image": false,
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+    "profile_background_color": "1B95E0",
+    "profile_link_color": "FF691F",
+    "profile_use_background_image": true,
+    "time_zone": "Madrid",
+    "name": "Jose Barbeira",
+    "profile_text_color": "666666",
+    "profile_sidebar_border_color": "000000",
+    "screen_name": "VirtudCardinal",
+    "lang": "es",
+    "following": null,
+    "listed_count": 185,
+    "protected": false,
+    "profile_sidebar_fill_color": "252429",
+    "followers_count": 2457,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/559407310729392130/-2qBWnUe_normal.jpeg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1345654015/1429007552",
+    "contributors_enabled": false,
+    "created_at": "Fri Apr 12 00:52:07 +0000 2013",
+    "id_str": "1345654015",
+    "description": "Ich habe vor euch Meine Meinung zu sagen: Con #transparencia e #instituciones se erradicar\u00e1 la #corrupci\u00f3n y la estafa pol\u00edtica en #Venezuela."
+  },
+  "created_at": "Tue Nov 14 15:00:10 +0000 2017",
+  "id_str": "930450287395004416",
+  "in_reply_to_user_id": null,
+  "contributors": null
+}

@@ -1,0 +1,197 @@
+{
+  "id": 930455955820679168,
+  "in_reply_to_status_id_str": null,
+  "truncated": false,
+  "place": {
+    "id": "0198c6f108778b40",
+    "country": "Venezuela",
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            -67.67456,
+            10.202531
+          ],
+          [
+            -67.67456,
+            10.328137
+          ],
+          [
+            -67.542106,
+            10.328137
+          ],
+          [
+            -67.542106,
+            10.202531
+          ]
+        ]
+      ]
+    },
+    "url": "https://api.twitter.com/1.1/geo/id/0198c6f108778b40.json",
+    "full_name": "Maracay, Venezuela",
+    "attributes": {},
+    "name": "Maracay",
+    "place_type": "city",
+    "country_code": "VE"
+  },
+  "favorite_count": 0,
+  "retweeted": false,
+  "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+  "is_quote_status": false,
+  "possibly_sensitive": false,
+  "geo": null,
+  "coordinates": null,
+  "in_reply_to_status_id": null,
+  "retweet_count": 0,
+  "quote_count": 0,
+  "timestamp_ms": "1510672961560",
+  "favorited": false,
+  "in_reply_to_user_id_str": null,
+  "filter_level": "low",
+  "entities": {
+    "media": [
+      {
+        "id": 930455916960460800,
+        "display_url": "pic.twitter.com/0N6WX9fIJx",
+        "id_str": "930455916960460800",
+        "indices": [
+          114,
+          137
+        ],
+        "expanded_url": "https://twitter.com/DecoPaleta/status/930455955820679168/photo/1",
+        "type": "photo",
+        "url": "https://t.co/0N6WX9fIJx",
+        "media_url_https": "https://pbs.twimg.com/media/DOmkugmWsAA1p62.jpg",
+        "media_url": "http://pbs.twimg.com/media/DOmkugmWsAA1p62.jpg",
+        "sizes": {
+          "small": {
+            "w": 680,
+            "h": 680,
+            "resize": "fit"
+          },
+          "large": {
+            "w": 800,
+            "h": 800,
+            "resize": "fit"
+          },
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "medium": {
+            "w": 800,
+            "h": 800,
+            "resize": "fit"
+          }
+        }
+      }
+    ],
+    "urls": [],
+    "symbols": [],
+    "user_mentions": [],
+    "hashtags": [
+      {
+        "text": "FelizMartes",
+        "indices": [
+          0,
+          12
+        ]
+      }
+    ]
+  },
+  "reply_count": 0,
+  "in_reply_to_screen_name": null,
+  "display_text_range": [
+    0,
+    113
+  ],
+  "extended_entities": {
+    "media": [
+      {
+        "id": 930455916960460800,
+        "display_url": "pic.twitter.com/0N6WX9fIJx",
+        "id_str": "930455916960460800",
+        "indices": [
+          114,
+          137
+        ],
+        "expanded_url": "https://twitter.com/DecoPaleta/status/930455955820679168/photo/1",
+        "type": "photo",
+        "url": "https://t.co/0N6WX9fIJx",
+        "media_url_https": "https://pbs.twimg.com/media/DOmkugmWsAA1p62.jpg",
+        "media_url": "http://pbs.twimg.com/media/DOmkugmWsAA1p62.jpg",
+        "sizes": {
+          "small": {
+            "w": 680,
+            "h": 680,
+            "resize": "fit"
+          },
+          "large": {
+            "w": 800,
+            "h": 800,
+            "resize": "fit"
+          },
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "medium": {
+            "w": 800,
+            "h": 800,
+            "resize": "fit"
+          }
+        }
+      }
+    ]
+  },
+  "text": "#FelizMartes \"Si supiera que el mundo se acaba ma\u00f1ana, yo, hoy todav\u00eda, plantar\u00eda un \u00e1rbol.\" Martin Luther King \ud83c\udf84 https://t.co/0N6WX9fIJx",
+  "lang": "es",
+  "user": {
+    "statuses_count": 139,
+    "id": 866730330123841537,
+    "default_profile": true,
+    "favourites_count": 16,
+    "url": null,
+    "profile_background_image_url_https": "",
+    "verified": false,
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/888508010011795456/r6EjgAvq_normal.jpg",
+    "translator_type": "none",
+    "location": null,
+    "geo_enabled": true,
+    "utc_offset": -28800,
+    "notifications": null,
+    "profile_background_tile": false,
+    "friends_count": 14,
+    "is_translator": false,
+    "follow_request_sent": null,
+    "default_profile_image": false,
+    "profile_background_image_url": "",
+    "profile_background_color": "F5F8FA",
+    "profile_link_color": "1DA1F2",
+    "profile_use_background_image": true,
+    "time_zone": "Pacific Time (US & Canada)",
+    "name": "DecoPaleta",
+    "profile_text_color": "333333",
+    "profile_sidebar_border_color": "C0DEED",
+    "screen_name": "DecoPaleta",
+    "lang": "es",
+    "following": null,
+    "listed_count": 0,
+    "protected": false,
+    "profile_sidebar_fill_color": "DDEEF6",
+    "followers_count": 29,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/888508010011795456/r6EjgAvq_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/866730330123841537/1500671939",
+    "contributors_enabled": false,
+    "created_at": "Mon May 22 18:59:48 +0000 2017",
+    "id_str": "866730330123841537",
+    "description": null
+  },
+  "created_at": "Tue Nov 14 15:22:41 +0000 2017",
+  "id_str": "930455955820679168",
+  "in_reply_to_user_id": null,
+  "contributors": null
+}

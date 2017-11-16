@@ -1,0 +1,215 @@
+{
+  "id": 930450975147679776,
+  "in_reply_to_status_id_str": null,
+  "truncated": false,
+  "place": {
+    "id": "c4320f726d222937",
+    "country": "Bolivia",
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            -69.640762,
+            -22.897682
+          ],
+          [
+            -69.640762,
+            -9.669105
+          ],
+          [
+            -57.453894,
+            -9.669105
+          ],
+          [
+            -57.453894,
+            -22.897682
+          ]
+        ]
+      ]
+    },
+    "url": "https://api.twitter.com/1.1/geo/id/c4320f726d222937.json",
+    "full_name": "Bolivia",
+    "attributes": {},
+    "name": "Bolivia",
+    "place_type": "country",
+    "country_code": "BO"
+  },
+  "favorite_count": 0,
+  "retweeted": false,
+  "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+  "is_quote_status": false,
+  "possibly_sensitive": false,
+  "geo": null,
+  "coordinates": null,
+  "in_reply_to_status_id": null,
+  "retweet_count": 0,
+  "quote_count": 0,
+  "timestamp_ms": "1510671774075",
+  "favorited": false,
+  "in_reply_to_user_id_str": null,
+  "filter_level": "low",
+  "entities": {
+    "media": [
+      {
+        "id": 930450952565477376,
+        "display_url": "pic.twitter.com/yDljTutXfC",
+        "id_str": "930450952565477376",
+        "indices": [
+          113,
+          136
+        ],
+        "expanded_url": "https://twitter.com/rposbolivia/status/930450975147679776/photo/1",
+        "type": "photo",
+        "url": "https://t.co/yDljTutXfC",
+        "media_url_https": "https://pbs.twimg.com/media/DOmgNiyW0AA6JRV.jpg",
+        "media_url": "http://pbs.twimg.com/media/DOmgNiyW0AA6JRV.jpg",
+        "sizes": {
+          "small": {
+            "w": 680,
+            "h": 510,
+            "resize": "fit"
+          },
+          "large": {
+            "w": 1280,
+            "h": 960,
+            "resize": "fit"
+          },
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "medium": {
+            "w": 1200,
+            "h": 900,
+            "resize": "fit"
+          }
+        }
+      }
+    ],
+    "urls": [],
+    "symbols": [],
+    "user_mentions": [
+      {
+        "screen_name": "giselalopez68",
+        "id": 349274212,
+        "name": "Gisela L\u00f3pez Rivas",
+        "indices": [
+          32,
+          46
+        ],
+        "id_str": "349274212"
+      }
+    ],
+    "hashtags": [
+      {
+        "text": "AHORA",
+        "indices": [
+          0,
+          6
+        ]
+      },
+      {
+        "text": "LaPaz",
+        "indices": [
+          106,
+          112
+        ]
+      }
+    ]
+  },
+  "reply_count": 0,
+  "in_reply_to_screen_name": null,
+  "display_text_range": [
+    0,
+    112
+  ],
+  "extended_entities": {
+    "media": [
+      {
+        "id": 930450952565477376,
+        "display_url": "pic.twitter.com/yDljTutXfC",
+        "id_str": "930450952565477376",
+        "indices": [
+          113,
+          136
+        ],
+        "expanded_url": "https://twitter.com/rposbolivia/status/930450975147679776/photo/1",
+        "type": "photo",
+        "url": "https://t.co/yDljTutXfC",
+        "media_url_https": "https://pbs.twimg.com/media/DOmgNiyW0AA6JRV.jpg",
+        "media_url": "http://pbs.twimg.com/media/DOmgNiyW0AA6JRV.jpg",
+        "sizes": {
+          "small": {
+            "w": 680,
+            "h": 510,
+            "resize": "fit"
+          },
+          "large": {
+            "w": 1280,
+            "h": 960,
+            "resize": "fit"
+          },
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "medium": {
+            "w": 1200,
+            "h": 900,
+            "resize": "fit"
+          }
+        }
+      }
+    ]
+  },
+  "text": "#AHORA Ministra de Comunicaci\u00f3n @giselalopez68  en conferencia de prensa \"Pagina Siete no dice la verdad\" #LaPaz https://t.co/yDljTutXfC",
+  "lang": "es",
+  "user": {
+    "statuses_count": 5398,
+    "id": 760673543164157952,
+    "default_profile": true,
+    "favourites_count": 1699,
+    "url": "http://www.rpo.bo",
+    "profile_background_image_url_https": "",
+    "verified": false,
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/892167824529121288/MGPmTghE_normal.jpg",
+    "translator_type": "none",
+    "location": null,
+    "geo_enabled": true,
+    "utc_offset": null,
+    "notifications": null,
+    "profile_background_tile": false,
+    "friends_count": 330,
+    "is_translator": false,
+    "follow_request_sent": null,
+    "default_profile_image": false,
+    "profile_background_image_url": "",
+    "profile_background_color": "F5F8FA",
+    "profile_link_color": "1DA1F2",
+    "profile_use_background_image": true,
+    "time_zone": null,
+    "name": "Rpo's Bolivia",
+    "profile_text_color": "333333",
+    "profile_sidebar_border_color": "C0DEED",
+    "screen_name": "rposbolivia",
+    "lang": "es",
+    "following": null,
+    "listed_count": 0,
+    "protected": false,
+    "profile_sidebar_fill_color": "DDEEF6",
+    "followers_count": 268,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/892167824529121288/MGPmTghE_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/760673543164157952/1510579045",
+    "contributors_enabled": false,
+    "created_at": "Wed Aug 03 03:08:00 +0000 2016",
+    "id_str": "760673543164157952",
+    "description": null
+  },
+  "created_at": "Tue Nov 14 15:02:54 +0000 2017",
+  "id_str": "930450975147679776",
+  "in_reply_to_user_id": null,
+  "contributors": null
+}

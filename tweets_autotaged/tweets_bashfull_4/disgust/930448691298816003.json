@@ -1,0 +1,235 @@
+{
+  "id": 930448691298816003,
+  "lang": "es",
+  "in_reply_to_status_id_str": null,
+  "truncated": true,
+  "place": {
+    "id": "0079bbc151fa56d2",
+    "country": "Argentina",
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            -60.781306,
+            -33.033993
+          ],
+          [
+            -60.781306,
+            -32.869238
+          ],
+          [
+            -60.613506,
+            -32.869238
+          ],
+          [
+            -60.613506,
+            -33.033993
+          ]
+        ]
+      ]
+    },
+    "url": "https://api.twitter.com/1.1/geo/id/0079bbc151fa56d2.json",
+    "full_name": "Rosario, Argentina",
+    "attributes": {},
+    "name": "Rosario",
+    "place_type": "city",
+    "country_code": "AR"
+  },
+  "favorite_count": 0,
+  "retweeted": false,
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "is_quote_status": false,
+  "possibly_sensitive": false,
+  "geo": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_status_id": null,
+  "retweet_count": 0,
+  "quote_count": 0,
+  "timestamp_ms": "1510671229563",
+  "favorited": false,
+  "coordinates": null,
+  "filter_level": "low",
+  "entities": {
+    "urls": [
+      {
+        "indices": [
+          111,
+          134
+        ],
+        "display_url": "twitter.com/i/web/status/9\u2026",
+        "url": "https://t.co/dx7RhEribz",
+        "expanded_url": "https://twitter.com/i/web/status/930448691298816003"
+      }
+    ],
+    "symbols": [],
+    "user_mentions": [],
+    "hashtags": [
+      {
+        "text": "BauenPilay",
+        "indices": [
+          98,
+          109
+        ]
+      }
+    ]
+  },
+  "reply_count": 0,
+  "in_reply_to_screen_name": null,
+  "display_text_range": [
+    0,
+    140
+  ],
+  "text": "AUDIENCIA CONCILIATORIA EN TRIBUNALES. Jueves 23/11 a las 10. Convocamos a todos los interesados. #BauenPilay\u2026 https://t.co/dx7RhEribz",
+  "extended_tweet": {
+    "display_text_range": [
+      0,
+      127
+    ],
+    "extended_entities": {
+      "media": [
+        {
+          "id": 930448682528464897,
+          "display_url": "pic.twitter.com/82oEsByt2g",
+          "id_str": "930448682528464897",
+          "indices": [
+            128,
+            151
+          ],
+          "expanded_url": "https://twitter.com/OperativoBauen/status/930448691298816003/photo/1",
+          "type": "photo",
+          "url": "https://t.co/82oEsByt2g",
+          "media_url_https": "https://pbs.twimg.com/media/DOmeJaPW4AEVQiM.jpg",
+          "media_url": "http://pbs.twimg.com/media/DOmeJaPW4AEVQiM.jpg",
+          "sizes": {
+            "small": {
+              "w": 680,
+              "h": 413,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 750,
+              "h": 455,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 750,
+              "h": 455,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "entities": {
+      "media": [
+        {
+          "id": 930448682528464897,
+          "display_url": "pic.twitter.com/82oEsByt2g",
+          "id_str": "930448682528464897",
+          "indices": [
+            128,
+            151
+          ],
+          "expanded_url": "https://twitter.com/OperativoBauen/status/930448691298816003/photo/1",
+          "type": "photo",
+          "url": "https://t.co/82oEsByt2g",
+          "media_url_https": "https://pbs.twimg.com/media/DOmeJaPW4AEVQiM.jpg",
+          "media_url": "http://pbs.twimg.com/media/DOmeJaPW4AEVQiM.jpg",
+          "sizes": {
+            "small": {
+              "w": 680,
+              "h": 413,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 750,
+              "h": 455,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 750,
+              "h": 455,
+              "resize": "fit"
+            }
+          }
+        }
+      ],
+      "urls": [],
+      "symbols": [],
+      "user_mentions": [],
+      "hashtags": [
+        {
+          "text": "BauenPilay",
+          "indices": [
+            98,
+            109
+          ]
+        },
+        {
+          "text": "AumentosAbusivos",
+          "indices": [
+            110,
+            127
+          ]
+        }
+      ]
+    },
+    "full_text": "AUDIENCIA CONCILIATORIA EN TRIBUNALES. Jueves 23/11 a las 10. Convocamos a todos los interesados. #BauenPilay #AumentosAbusivos https://t.co/82oEsByt2g"
+  },
+  "user": {
+    "statuses_count": 413,
+    "id": 883334901629628418,
+    "default_profile": false,
+    "favourites_count": 178,
+    "url": "https://www.facebook.com/OperativoBauen",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "verified": false,
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/883359828067962880/WbrkTyCW_normal.jpg",
+    "translator_type": "none",
+    "location": "Rosario, Argentina",
+    "geo_enabled": true,
+    "utc_offset": -10800,
+    "notifications": null,
+    "profile_background_tile": false,
+    "friends_count": 258,
+    "is_translator": false,
+    "follow_request_sent": null,
+    "default_profile_image": false,
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_color": "000000",
+    "profile_link_color": "7FDBB6",
+    "profile_use_background_image": false,
+    "time_zone": "Buenos Aires",
+    "name": "Operativo Bauen",
+    "profile_text_color": "000000",
+    "profile_sidebar_border_color": "000000",
+    "screen_name": "OperativoBauen",
+    "lang": "es",
+    "following": null,
+    "listed_count": 0,
+    "protected": false,
+    "profile_sidebar_fill_color": "000000",
+    "followers_count": 213,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/883359828067962880/WbrkTyCW_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/883334901629628418/1501524711",
+    "contributors_enabled": false,
+    "created_at": "Fri Jul 07 14:40:26 +0000 2017",
+    "id_str": "883334901629628418",
+    "description": "NO ES UNA CUENTA DE BAUEN PILAY. Somos suscritos a Bauen Pilay (tanto cuotas espera como posesi\u00f3n) que reclamamos por los #AumentosAbusivos en las cuotas."
+  },
+  "created_at": "Tue Nov 14 14:53:49 +0000 2017",
+  "id_str": "930448691298816003",
+  "in_reply_to_user_id": null,
+  "contributors": null
+}

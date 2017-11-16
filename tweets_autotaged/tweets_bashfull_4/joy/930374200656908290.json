@@ -1,0 +1,244 @@
+{
+  "truncated": true,
+  "in_reply_to_status_id": null,
+  "id": 930374200656908290,
+  "in_reply_to_user_id": null,
+  "coordinates": null,
+  "possibly_sensitive": false,
+  "reply_count": 0,
+  "extended_tweet": {
+    "full_text": "Nuestra CEO @Itxydl: \"\u00a1No ha podido ser! Pero me siento ganadora igualmente porque solo el hecho de ser seleccionada ya es un premio, por lo que quiero agradecer a @Jovempa que haya contado conmigo y felicitar a mis compa\u00f1eros finalistas, en especial a Beatriz S\u00e1nchez, ganadora\" https://t.co/3rsSqdZUQJ",
+    "extended_entities": {
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://t.co/3rsSqdZUQJ",
+          "display_url": "pic.twitter.com/3rsSqdZUQJ",
+          "media_url_https": "https://pbs.twimg.com/media/DOlaTA9XkAA2wA4.jpg",
+          "id": 930374080750129152,
+          "sizes": {
+            "large": {
+              "w": 624,
+              "resize": "fit",
+              "h": 415
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "small": {
+              "w": 624,
+              "resize": "fit",
+              "h": 415
+            },
+            "medium": {
+              "w": 624,
+              "resize": "fit",
+              "h": 415
+            }
+          },
+          "expanded_url": "https://twitter.com/Dual_Link/status/930374200656908290/photo/1",
+          "id_str": "930374080750129152",
+          "indices": [
+            280,
+            303
+          ],
+          "media_url": "http://pbs.twimg.com/media/DOlaTA9XkAA2wA4.jpg"
+        }
+      ]
+    },
+    "display_text_range": [
+      0,
+      279
+    ],
+    "entities": {
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://t.co/3rsSqdZUQJ",
+          "display_url": "pic.twitter.com/3rsSqdZUQJ",
+          "media_url_https": "https://pbs.twimg.com/media/DOlaTA9XkAA2wA4.jpg",
+          "id": 930374080750129152,
+          "sizes": {
+            "large": {
+              "w": 624,
+              "resize": "fit",
+              "h": 415
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "small": {
+              "w": 624,
+              "resize": "fit",
+              "h": 415
+            },
+            "medium": {
+              "w": 624,
+              "resize": "fit",
+              "h": 415
+            }
+          },
+          "expanded_url": "https://twitter.com/Dual_Link/status/930374200656908290/photo/1",
+          "id_str": "930374080750129152",
+          "indices": [
+            280,
+            303
+          ],
+          "media_url": "http://pbs.twimg.com/media/DOlaTA9XkAA2wA4.jpg"
+        }
+      ],
+      "hashtags": [],
+      "urls": [],
+      "user_mentions": [
+        {
+          "screen_name": "Itxydl",
+          "name": "Itziar Perez Lopez",
+          "id": 723432585406222336,
+          "id_str": "723432585406222336",
+          "indices": [
+            12,
+            19
+          ]
+        },
+        {
+          "screen_name": "Jovempa",
+          "name": "Jovempa",
+          "id": 97178097,
+          "id_str": "97178097",
+          "indices": [
+            164,
+            172
+          ]
+        }
+      ],
+      "symbols": []
+    }
+  },
+  "timestamp_ms": "1510653469610",
+  "geo": null,
+  "quote_count": 0,
+  "retweet_count": 0,
+  "is_quote_status": false,
+  "created_at": "Tue Nov 14 09:57:49 +0000 2017",
+  "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+  "favorite_count": 0,
+  "text": "Nuestra CEO @Itxydl: \"\u00a1No ha podido ser! Pero me siento ganadora igualmente porque solo el hecho de ser seleccionad\u2026 https://t.co/ynA4c539K8",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id_str": null,
+  "place": {
+    "country": "Espa\u00f1a",
+    "name": "San Javier",
+    "id": "d9f87c00ed1f0c69",
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            -0.912358,
+            37.668178
+          ],
+          [
+            -0.912358,
+            37.881413
+          ],
+          [
+            -0.704384,
+            37.881413
+          ],
+          [
+            -0.704384,
+            37.668178
+          ]
+        ]
+      ]
+    },
+    "country_code": "ES",
+    "place_type": "city",
+    "url": "https://api.twitter.com/1.1/geo/id/d9f87c00ed1f0c69.json",
+    "attributes": {},
+    "full_name": "San Javier, Espa\u00f1a"
+  },
+  "contributors": null,
+  "entities": {
+    "hashtags": [],
+    "urls": [
+      {
+        "expanded_url": "https://twitter.com/i/web/status/930374200656908290",
+        "display_url": "twitter.com/i/web/status/9\u2026",
+        "indices": [
+          117,
+          140
+        ],
+        "url": "https://t.co/ynA4c539K8"
+      }
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "Itxydl",
+        "name": "Itziar Perez Lopez",
+        "id": 723432585406222336,
+        "id_str": "723432585406222336",
+        "indices": [
+          12,
+          19
+        ]
+      }
+    ],
+    "symbols": []
+  },
+  "display_text_range": [
+    0,
+    140
+  ],
+  "retweeted": false,
+  "id_str": "930374200656908290",
+  "user": {
+    "time_zone": "Madrid",
+    "follow_request_sent": null,
+    "id": 2497071368,
+    "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/661847355042476032/vAJoZ_Iz.jpg",
+    "translator_type": "none",
+    "screen_name": "Dual_Link",
+    "profile_link_color": "7ABA9A",
+    "url": "http://www.dual-link.es",
+    "utc_offset": 3600,
+    "location": "Espa\u00f1a",
+    "name": "Dual Link",
+    "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/661847355042476032/vAJoZ_Iz.jpg",
+    "description": "Descubre el #TVP y #Apps definitivos para bar&restaurante. Controla cada aspecto de tu negocio con un solo dedo.",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/2497071368/1484935157",
+    "created_at": "Thu May 15 20:10:04 +0000 2014",
+    "protected": false,
+    "is_translator": false,
+    "listed_count": 19,
+    "statuses_count": 1408,
+    "profile_sidebar_border_color": "000000",
+    "profile_sidebar_fill_color": "000000",
+    "default_profile": false,
+    "default_profile_image": false,
+    "verified": false,
+    "notifications": null,
+    "friends_count": 915,
+    "profile_background_color": "646569",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/691543412693164032/3mtMJKv8_normal.jpg",
+    "following": null,
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/691543412693164032/3mtMJKv8_normal.jpg",
+    "geo_enabled": true,
+    "profile_use_background_image": true,
+    "contributors_enabled": false,
+    "id_str": "2497071368",
+    "profile_text_color": "000000",
+    "followers_count": 369,
+    "favourites_count": 3476,
+    "lang": "es",
+    "profile_background_tile": true
+  },
+  "filter_level": "low",
+  "in_reply_to_user_id_str": null,
+  "favorited": false,
+  "lang": "es"
+}

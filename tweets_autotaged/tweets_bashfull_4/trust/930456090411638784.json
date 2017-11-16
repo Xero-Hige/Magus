@@ -1,0 +1,284 @@
+{
+  "id": 930456090411638784,
+  "lang": "es",
+  "in_reply_to_status_id_str": null,
+  "truncated": true,
+  "place": {
+    "id": "a0536fb1dd01b8d5",
+    "country": "M\u00e9xico",
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            -93.248341,
+            17.7035
+          ],
+          [
+            -93.248341,
+            18.340419
+          ],
+          [
+            -92.584658,
+            18.340419
+          ],
+          [
+            -92.584658,
+            17.7035
+          ]
+        ]
+      ]
+    },
+    "url": "https://api.twitter.com/1.1/geo/id/a0536fb1dd01b8d5.json",
+    "full_name": "Centro, Tabasco",
+    "attributes": {},
+    "name": "Centro",
+    "place_type": "city",
+    "country_code": "MX"
+  },
+  "favorite_count": 0,
+  "retweeted": false,
+  "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+  "is_quote_status": false,
+  "possibly_sensitive": false,
+  "geo": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_status_id": null,
+  "retweet_count": 0,
+  "quote_count": 0,
+  "timestamp_ms": "1510672993649",
+  "favorited": false,
+  "coordinates": null,
+  "filter_level": "low",
+  "entities": {
+    "urls": [
+      {
+        "indices": [
+          117,
+          140
+        ],
+        "display_url": "twitter.com/i/web/status/9\u2026",
+        "url": "https://t.co/Tg9pjtqjZU",
+        "expanded_url": "https://twitter.com/i/web/status/930456090411638784"
+      }
+    ],
+    "symbols": [],
+    "user_mentions": [
+      {
+        "screen_name": "gerardogaudiano",
+        "id": 226710786,
+        "name": "Gerardo Gaudiano R.",
+        "indices": [
+          21,
+          37
+        ],
+        "id_str": "226710786"
+      },
+      {
+        "screen_name": "deltatabasco",
+        "id": 307929778,
+        "name": "Delta Tabasco",
+        "indices": [
+          66,
+          79
+        ],
+        "id_str": "307929778"
+      },
+      {
+        "screen_name": "DavidGustavoRR",
+        "id": 105983111,
+        "name": "David Gustavo",
+        "indices": [
+          81,
+          96
+        ],
+        "id_str": "105983111"
+      }
+    ],
+    "hashtags": []
+  },
+  "reply_count": 0,
+  "in_reply_to_screen_name": null,
+  "display_text_range": [
+    0,
+    140
+  ],
+  "text": "El alcalde de Centro @gerardogaudiano  y el Director del Proyecto @deltatabasco, @DavidGustavoRR se re\u00fanen para hab\u2026 https://t.co/Tg9pjtqjZU",
+  "extended_tweet": {
+    "display_text_range": [
+      0,
+      175
+    ],
+    "extended_entities": {
+      "media": [
+        {
+          "id": 930455932596826112,
+          "display_url": "pic.twitter.com/yh2RdH7CeW",
+          "id_str": "930455932596826112",
+          "indices": [
+            176,
+            199
+          ],
+          "expanded_url": "https://twitter.com/XHVXTabasco/status/930456090411638784/photo/1",
+          "type": "photo",
+          "url": "https://t.co/yh2RdH7CeW",
+          "media_url_https": "https://pbs.twimg.com/media/DOmkva2WsAA70nT.jpg",
+          "media_url": "http://pbs.twimg.com/media/DOmkva2WsAA70nT.jpg",
+          "sizes": {
+            "small": {
+              "w": 680,
+              "h": 510,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 1280,
+              "h": 960,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 1200,
+              "h": 900,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "entities": {
+      "media": [
+        {
+          "id": 930455932596826112,
+          "display_url": "pic.twitter.com/yh2RdH7CeW",
+          "id_str": "930455932596826112",
+          "indices": [
+            176,
+            199
+          ],
+          "expanded_url": "https://twitter.com/XHVXTabasco/status/930456090411638784/photo/1",
+          "type": "photo",
+          "url": "https://t.co/yh2RdH7CeW",
+          "media_url_https": "https://pbs.twimg.com/media/DOmkva2WsAA70nT.jpg",
+          "media_url": "http://pbs.twimg.com/media/DOmkva2WsAA70nT.jpg",
+          "sizes": {
+            "small": {
+              "w": 680,
+              "h": 510,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 1280,
+              "h": 960,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 1200,
+              "h": 900,
+              "resize": "fit"
+            }
+          }
+        }
+      ],
+      "urls": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "screen_name": "gerardogaudiano",
+          "id": 226710786,
+          "name": "Gerardo Gaudiano R.",
+          "indices": [
+            21,
+            37
+          ],
+          "id_str": "226710786"
+        },
+        {
+          "screen_name": "deltatabasco",
+          "id": 307929778,
+          "name": "Delta Tabasco",
+          "indices": [
+            66,
+            79
+          ],
+          "id_str": "307929778"
+        },
+        {
+          "screen_name": "DavidGustavoRR",
+          "id": 105983111,
+          "name": "David Gustavo",
+          "indices": [
+            81,
+            96
+          ],
+          "id_str": "105983111"
+        },
+        {
+          "screen_name": "OficialCentro",
+          "id": 1049333071,
+          "name": "Ayto. Centro",
+          "indices": [
+            161,
+            175
+          ],
+          "id_str": "1049333071"
+        }
+      ],
+      "hashtags": []
+    },
+    "full_text": "El alcalde de Centro @gerardogaudiano  y el Director del Proyecto @deltatabasco, @DavidGustavoRR se re\u00fanen para hablar de un festival gastron\u00f3mico que realizar\u00e1 @OficialCentro https://t.co/yh2RdH7CeW"
+  },
+  "user": {
+    "statuses_count": 35091,
+    "id": 303933758,
+    "default_profile": false,
+    "favourites_count": 237,
+    "url": "http://www.grupovx.com/",
+    "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/413701986/poder_twitter2.jpg",
+    "verified": false,
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/927530184860823552/f6DRrD2R_normal.jpg",
+    "translator_type": "none",
+    "location": "Tabasco, Mexico",
+    "geo_enabled": true,
+    "utc_offset": -21600,
+    "notifications": null,
+    "profile_background_tile": false,
+    "friends_count": 243,
+    "is_translator": false,
+    "follow_request_sent": null,
+    "default_profile_image": false,
+    "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/413701986/poder_twitter2.jpg",
+    "profile_background_color": "261DA3",
+    "profile_link_color": "E81C4F",
+    "profile_use_background_image": true,
+    "time_zone": "Mexico City",
+    "name": "Grupo VX",
+    "profile_text_color": "D3DBE8",
+    "profile_sidebar_border_color": "133E87",
+    "screen_name": "XHVXTabasco",
+    "lang": "es",
+    "following": null,
+    "listed_count": 36,
+    "protected": false,
+    "profile_sidebar_fill_color": "57A0C2",
+    "followers_count": 5217,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/927530184860823552/f6DRrD2R_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/303933758/1509975606",
+    "contributors_enabled": false,
+    "created_at": "Mon May 23 17:17:17 +0000 2011",
+    "id_str": "303933758",
+    "description": "La Grande de Tabasco por el 89.7 FM XHVX \ud83d\udcfb @canal10Cablesur \ud83d\udcfa y http://www.grupovx.com \ud83d\udcbb \n Telefonos: 3-15-86-00 y 3-15-62-23"
+  },
+  "created_at": "Tue Nov 14 15:23:13 +0000 2017",
+  "id_str": "930456090411638784",
+  "in_reply_to_user_id": null,
+  "contributors": null
+}

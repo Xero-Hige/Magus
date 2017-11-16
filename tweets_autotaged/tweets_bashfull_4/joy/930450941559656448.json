@@ -1,0 +1,127 @@
+{
+  "id": 930450941559656448,
+  "in_reply_to_status_id_str": null,
+  "truncated": false,
+  "place": {
+    "id": "000af2920fcd0d30",
+    "country": "Chile",
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            -72.82102,
+            -38.789293
+          ],
+          [
+            -72.82102,
+            -38.557142
+          ],
+          [
+            -72.466614,
+            -38.557142
+          ],
+          [
+            -72.466614,
+            -38.789293
+          ]
+        ]
+      ]
+    },
+    "url": "https://api.twitter.com/1.1/geo/id/000af2920fcd0d30.json",
+    "full_name": "Temuco, Chile",
+    "attributes": {},
+    "name": "Temuco",
+    "place_type": "city",
+    "country_code": "CL"
+  },
+  "favorite_count": 0,
+  "retweeted": false,
+  "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+  "is_quote_status": false,
+  "in_reply_to_status_id": null,
+  "coordinates": null,
+  "in_reply_to_screen_name": "MaiteOrsini",
+  "retweet_count": 0,
+  "quote_count": 0,
+  "timestamp_ms": "1510671766067",
+  "favorited": false,
+  "in_reply_to_user_id_str": "118455518",
+  "text": "@MaiteOrsini me encant\u00f3 tu discurso apasionado en @adnradiochile cuentas con mi admiraci\u00f3n y mi respeto.",
+  "entities": {
+    "urls": [],
+    "symbols": [],
+    "user_mentions": [
+      {
+        "screen_name": "MaiteOrsini",
+        "id": 118455518,
+        "name": "Maite Orsini Pascal",
+        "indices": [
+          0,
+          12
+        ],
+        "id_str": "118455518"
+      },
+      {
+        "screen_name": "adnradiochile",
+        "id": 201493641,
+        "name": "Radio ADN",
+        "indices": [
+          50,
+          64
+        ],
+        "id_str": "201493641"
+      }
+    ],
+    "hashtags": []
+  },
+  "reply_count": 0,
+  "geo": null,
+  "filter_level": "low",
+  "lang": "es",
+  "user": {
+    "statuses_count": 3938,
+    "id": 200604841,
+    "default_profile": false,
+    "favourites_count": 1859,
+    "url": null,
+    "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/721120445/d45a0c56a80d5327c62958acd75e1caa.jpeg",
+    "verified": false,
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/879091166834302976/m4J4R8eU_normal.jpg",
+    "translator_type": "none",
+    "location": null,
+    "geo_enabled": true,
+    "utc_offset": -21600,
+    "notifications": null,
+    "profile_background_tile": true,
+    "friends_count": 1122,
+    "is_translator": false,
+    "follow_request_sent": null,
+    "default_profile_image": false,
+    "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/721120445/d45a0c56a80d5327c62958acd75e1caa.jpeg",
+    "profile_background_color": "C0DEED",
+    "profile_link_color": "0084B4",
+    "profile_use_background_image": true,
+    "time_zone": "Central Time (US & Canada)",
+    "name": "ivan saez",
+    "profile_text_color": "333333",
+    "profile_sidebar_border_color": "FFFFFF",
+    "screen_name": "maturete",
+    "lang": "es",
+    "following": null,
+    "listed_count": 6,
+    "protected": false,
+    "profile_sidebar_fill_color": "DDEEF6",
+    "followers_count": 460,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/879091166834302976/m4J4R8eU_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/200604841/1454188253",
+    "contributors_enabled": false,
+    "created_at": "Sat Oct 09 18:49:01 +0000 2010",
+    "id_str": "200604841",
+    "description": "Amante del Jazz,Rock progresivo,Bossa,Violeta,Victor Jara, hincha de la \"U\" y de Temuco."
+  },
+  "created_at": "Tue Nov 14 15:02:46 +0000 2017",
+  "id_str": "930450941559656448",
+  "in_reply_to_user_id": 118455518,
+  "contributors": null
+}

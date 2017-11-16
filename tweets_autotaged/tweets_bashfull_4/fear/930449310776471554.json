@@ -1,0 +1,398 @@
+{
+  "id": 930449310776471554,
+  "lang": "es",
+  "in_reply_to_status_id_str": null,
+  "truncated": true,
+  "place": {
+    "id": "00fe503e330c0489",
+    "country": "Colombia",
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            -75.616827,
+            4.228622
+          ],
+          [
+            -75.616827,
+            4.668724
+          ],
+          [
+            -75.014328,
+            4.668724
+          ],
+          [
+            -75.014328,
+            4.228622
+          ]
+        ]
+      ]
+    },
+    "url": "https://api.twitter.com/1.1/geo/id/00fe503e330c0489.json",
+    "full_name": "Ibagu\u00e9, Colombia",
+    "attributes": {},
+    "name": "Ibagu\u00e9",
+    "place_type": "city",
+    "country_code": "CO"
+  },
+  "favorite_count": 0,
+  "retweeted": false,
+  "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+  "is_quote_status": false,
+  "possibly_sensitive": false,
+  "geo": null,
+  "in_reply_to_user_id_str": "732760584169619458",
+  "in_reply_to_status_id": null,
+  "retweet_count": 0,
+  "quote_count": 0,
+  "timestamp_ms": "1510671377258",
+  "favorited": false,
+  "coordinates": null,
+  "filter_level": "low",
+  "entities": {
+    "urls": [
+      {
+        "indices": [
+          117,
+          140
+        ],
+        "display_url": "twitter.com/i/web/status/9\u2026",
+        "url": "https://t.co/kJVUI3ci6h",
+        "expanded_url": "https://twitter.com/i/web/status/930449310776471554"
+      }
+    ],
+    "symbols": [],
+    "user_mentions": [
+      {
+        "screen_name": "CBatam9",
+        "id": 732760584169619458,
+        "name": "BATAM9",
+        "indices": [
+          0,
+          8
+        ],
+        "id_str": "732760584169619458"
+      },
+      {
+        "screen_name": "Ejercito_BR9",
+        "id": 715685116849291264,
+        "name": "Novena Brigada",
+        "indices": [
+          21,
+          34
+        ],
+        "id_str": "715685116849291264"
+      }
+    ],
+    "hashtags": []
+  },
+  "reply_count": 0,
+  "in_reply_to_screen_name": "CBatam9",
+  "display_text_range": [
+    0,
+    140
+  ],
+  "text": "@CBatam9 org\u00e1nico de @Ejercito_BR9  particip\u00f3 en las actividades programas en el municipio de Algeciras para conmem\u2026 https://t.co/kJVUI3ci6h",
+  "extended_tweet": {
+    "display_text_range": [
+      0,
+      208
+    ],
+    "extended_entities": {
+      "media": [
+        {
+          "id": 930449223249735681,
+          "display_url": "pic.twitter.com/rpduyvxGew",
+          "id_str": "930449223249735681",
+          "indices": [
+            209,
+            232
+          ],
+          "expanded_url": "https://twitter.com/Ejercito_Div5/status/930449310776471554/photo/1",
+          "type": "photo",
+          "url": "https://t.co/rpduyvxGew",
+          "media_url_https": "https://pbs.twimg.com/media/DOmeo4lWsAE4LW0.jpg",
+          "media_url": "http://pbs.twimg.com/media/DOmeo4lWsAE4LW0.jpg",
+          "sizes": {
+            "small": {
+              "w": 680,
+              "h": 510,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 1032,
+              "h": 774,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 1032,
+              "h": 774,
+              "resize": "fit"
+            }
+          }
+        },
+        {
+          "id": 930449235346149377,
+          "display_url": "pic.twitter.com/rpduyvxGew",
+          "id_str": "930449235346149377",
+          "indices": [
+            209,
+            232
+          ],
+          "expanded_url": "https://twitter.com/Ejercito_Div5/status/930449310776471554/photo/1",
+          "type": "photo",
+          "url": "https://t.co/rpduyvxGew",
+          "media_url_https": "https://pbs.twimg.com/media/DOmeplpXUAENumn.jpg",
+          "media_url": "http://pbs.twimg.com/media/DOmeplpXUAENumn.jpg",
+          "sizes": {
+            "small": {
+              "w": 680,
+              "h": 384,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 1280,
+              "h": 722,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 1200,
+              "h": 677,
+              "resize": "fit"
+            }
+          }
+        },
+        {
+          "id": 930449245102108673,
+          "display_url": "pic.twitter.com/rpduyvxGew",
+          "id_str": "930449245102108673",
+          "indices": [
+            209,
+            232
+          ],
+          "expanded_url": "https://twitter.com/Ejercito_Div5/status/930449310776471554/photo/1",
+          "type": "photo",
+          "url": "https://t.co/rpduyvxGew",
+          "media_url_https": "https://pbs.twimg.com/media/DOmeqJ_XcAExRyf.jpg",
+          "media_url": "http://pbs.twimg.com/media/DOmeqJ_XcAExRyf.jpg",
+          "sizes": {
+            "small": {
+              "w": 680,
+              "h": 510,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 1032,
+              "h": 774,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 1032,
+              "h": 774,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "entities": {
+      "media": [
+        {
+          "id": 930449223249735681,
+          "display_url": "pic.twitter.com/rpduyvxGew",
+          "id_str": "930449223249735681",
+          "indices": [
+            209,
+            232
+          ],
+          "expanded_url": "https://twitter.com/Ejercito_Div5/status/930449310776471554/photo/1",
+          "type": "photo",
+          "url": "https://t.co/rpduyvxGew",
+          "media_url_https": "https://pbs.twimg.com/media/DOmeo4lWsAE4LW0.jpg",
+          "media_url": "http://pbs.twimg.com/media/DOmeo4lWsAE4LW0.jpg",
+          "sizes": {
+            "small": {
+              "w": 680,
+              "h": 510,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 1032,
+              "h": 774,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 1032,
+              "h": 774,
+              "resize": "fit"
+            }
+          }
+        },
+        {
+          "id": 930449235346149377,
+          "display_url": "pic.twitter.com/rpduyvxGew",
+          "id_str": "930449235346149377",
+          "indices": [
+            209,
+            232
+          ],
+          "expanded_url": "https://twitter.com/Ejercito_Div5/status/930449310776471554/photo/1",
+          "type": "photo",
+          "url": "https://t.co/rpduyvxGew",
+          "media_url_https": "https://pbs.twimg.com/media/DOmeplpXUAENumn.jpg",
+          "media_url": "http://pbs.twimg.com/media/DOmeplpXUAENumn.jpg",
+          "sizes": {
+            "small": {
+              "w": 680,
+              "h": 384,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 1280,
+              "h": 722,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 1200,
+              "h": 677,
+              "resize": "fit"
+            }
+          }
+        },
+        {
+          "id": 930449245102108673,
+          "display_url": "pic.twitter.com/rpduyvxGew",
+          "id_str": "930449245102108673",
+          "indices": [
+            209,
+            232
+          ],
+          "expanded_url": "https://twitter.com/Ejercito_Div5/status/930449310776471554/photo/1",
+          "type": "photo",
+          "url": "https://t.co/rpduyvxGew",
+          "media_url_https": "https://pbs.twimg.com/media/DOmeqJ_XcAExRyf.jpg",
+          "media_url": "http://pbs.twimg.com/media/DOmeqJ_XcAExRyf.jpg",
+          "sizes": {
+            "small": {
+              "w": 680,
+              "h": 510,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 1032,
+              "h": 774,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 1032,
+              "h": 774,
+              "resize": "fit"
+            }
+          }
+        }
+      ],
+      "urls": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "screen_name": "CBatam9",
+          "id": 732760584169619458,
+          "name": "BATAM9",
+          "indices": [
+            0,
+            8
+          ],
+          "id_str": "732760584169619458"
+        },
+        {
+          "screen_name": "Ejercito_BR9",
+          "id": 715685116849291264,
+          "name": "Novena Brigada",
+          "indices": [
+            21,
+            34
+          ],
+          "id_str": "715685116849291264"
+        }
+      ],
+      "hashtags": []
+    },
+    "full_text": "@CBatam9 org\u00e1nico de @Ejercito_BR9  particip\u00f3 en las actividades programas en el municipio de Algeciras para conmemorar los 27 a\u00f1os del asesinato de los patrulleritos c\u00edvicos juveniles de la Polic\u00eda Nacional. https://t.co/rpduyvxGew"
+  },
+  "user": {
+    "statuses_count": 9140,
+    "id": 3387579465,
+    "default_profile": true,
+    "favourites_count": 1456,
+    "url": "http://www.quintadivision.mil.co",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "verified": false,
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/761563700524449793/Egp-C9zn_normal.jpg",
+    "translator_type": "none",
+    "location": "Ibagu\u00e9, Tolima",
+    "geo_enabled": true,
+    "utc_offset": -28800,
+    "notifications": null,
+    "profile_background_tile": false,
+    "friends_count": 2061,
+    "is_translator": false,
+    "follow_request_sent": null,
+    "default_profile_image": false,
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_color": "C0DEED",
+    "profile_link_color": "1DA1F2",
+    "profile_use_background_image": true,
+    "time_zone": "Pacific Time (US & Canada)",
+    "name": "Ej\u00e9rcito_Div5",
+    "profile_text_color": "333333",
+    "profile_sidebar_border_color": "C0DEED",
+    "screen_name": "Ejercito_Div5",
+    "lang": "es",
+    "following": null,
+    "listed_count": 26,
+    "protected": false,
+    "profile_sidebar_fill_color": "DDEEF6",
+    "followers_count": 7323,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/761563700524449793/Egp-C9zn_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/3387579465/1504318372",
+    "contributors_enabled": false,
+    "created_at": "Wed Jul 22 17:08:08 +0000 2015",
+    "id_str": "3387579465",
+    "description": "Somos un grupo de 25.000 Hombres y Mujeres revestidos de honor comprometidos con la seguridad y desarrollo en C/marca, Huila,Tolima,Quind\u00edo,Risaralda y Caldas"
+  },
+  "created_at": "Tue Nov 14 14:56:17 +0000 2017",
+  "id_str": "930449310776471554",
+  "in_reply_to_user_id": 732760584169619458,
+  "contributors": null
+}

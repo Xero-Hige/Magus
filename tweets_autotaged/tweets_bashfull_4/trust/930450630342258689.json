@@ -1,0 +1,428 @@
+{
+  "id": 930450630342258689,
+  "lang": "es",
+  "in_reply_to_status_id_str": null,
+  "truncated": true,
+  "place": {
+    "id": "0010b4cb51ca93d8",
+    "country": "Chile",
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            -70.692959,
+            -33.478574
+          ],
+          [
+            -70.692959,
+            -33.425749
+          ],
+          [
+            -70.626272,
+            -33.425749
+          ],
+          [
+            -70.626272,
+            -33.478574
+          ]
+        ]
+      ]
+    },
+    "url": "https://api.twitter.com/1.1/geo/id/0010b4cb51ca93d8.json",
+    "full_name": "Santiago, Chile",
+    "attributes": {},
+    "name": "Santiago",
+    "place_type": "city",
+    "country_code": "CL"
+  },
+  "favorite_count": 0,
+  "retweeted": false,
+  "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+  "is_quote_status": false,
+  "possibly_sensitive": false,
+  "geo": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_status_id": null,
+  "retweet_count": 0,
+  "quote_count": 0,
+  "timestamp_ms": "1510671691867",
+  "favorited": false,
+  "coordinates": null,
+  "filter_level": "low",
+  "entities": {
+    "urls": [
+      {
+        "indices": [
+          117,
+          140
+        ],
+        "display_url": "twitter.com/i/web/status/9\u2026",
+        "url": "https://t.co/pD9UnCabzn",
+        "expanded_url": "https://twitter.com/i/web/status/930450630342258689"
+      }
+    ],
+    "symbols": [],
+    "user_mentions": [],
+    "hashtags": []
+  },
+  "reply_count": 0,
+  "in_reply_to_screen_name": null,
+  "display_text_range": [
+    0,
+    140
+  ],
+  "text": "\"Haber emprendido la tarea del Fomento de las Cooperativas, es tremendamente virtuoso y nos hace entender que vamos\u2026 https://t.co/pD9UnCabzn",
+  "extended_tweet": {
+    "display_text_range": [
+      0,
+      217
+    ],
+    "extended_entities": {
+      "media": [
+        {
+          "id": 930450550939967488,
+          "display_url": "pic.twitter.com/zeWXTWP54a",
+          "id_str": "930450550939967488",
+          "indices": [
+            218,
+            241
+          ],
+          "expanded_url": "https://twitter.com/EconomiaSubse/status/930450630342258689/photo/1",
+          "type": "photo",
+          "url": "https://t.co/zeWXTWP54a",
+          "media_url_https": "https://pbs.twimg.com/media/DOmf2KnX4AA6xUM.jpg",
+          "media_url": "http://pbs.twimg.com/media/DOmf2KnX4AA6xUM.jpg",
+          "sizes": {
+            "small": {
+              "w": 680,
+              "h": 510,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 2048,
+              "h": 1536,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 1200,
+              "h": 900,
+              "resize": "fit"
+            }
+          }
+        },
+        {
+          "id": 930450574448963590,
+          "display_url": "pic.twitter.com/zeWXTWP54a",
+          "id_str": "930450574448963590",
+          "indices": [
+            218,
+            241
+          ],
+          "expanded_url": "https://twitter.com/EconomiaSubse/status/930450630342258689/photo/1",
+          "type": "photo",
+          "url": "https://t.co/zeWXTWP54a",
+          "media_url_https": "https://pbs.twimg.com/media/DOmf3iMWsAYqcaO.jpg",
+          "media_url": "http://pbs.twimg.com/media/DOmf3iMWsAYqcaO.jpg",
+          "sizes": {
+            "small": {
+              "w": 680,
+              "h": 384,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 2048,
+              "h": 1156,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 1200,
+              "h": 677,
+              "resize": "fit"
+            }
+          }
+        },
+        {
+          "id": 930450595403718661,
+          "display_url": "pic.twitter.com/zeWXTWP54a",
+          "id_str": "930450595403718661",
+          "indices": [
+            218,
+            241
+          ],
+          "expanded_url": "https://twitter.com/EconomiaSubse/status/930450630342258689/photo/1",
+          "type": "photo",
+          "url": "https://t.co/zeWXTWP54a",
+          "media_url_https": "https://pbs.twimg.com/media/DOmf4wQW4AUICN0.jpg",
+          "media_url": "http://pbs.twimg.com/media/DOmf4wQW4AUICN0.jpg",
+          "sizes": {
+            "small": {
+              "w": 680,
+              "h": 384,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 2048,
+              "h": 1156,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 1200,
+              "h": 677,
+              "resize": "fit"
+            }
+          }
+        },
+        {
+          "id": 930450613502119938,
+          "display_url": "pic.twitter.com/zeWXTWP54a",
+          "id_str": "930450613502119938",
+          "indices": [
+            218,
+            241
+          ],
+          "expanded_url": "https://twitter.com/EconomiaSubse/status/930450630342258689/photo/1",
+          "type": "photo",
+          "url": "https://t.co/zeWXTWP54a",
+          "media_url_https": "https://pbs.twimg.com/media/DOmf5zrWkAIsRnF.jpg",
+          "media_url": "http://pbs.twimg.com/media/DOmf5zrWkAIsRnF.jpg",
+          "sizes": {
+            "small": {
+              "w": 680,
+              "h": 384,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 2048,
+              "h": 1156,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 1200,
+              "h": 677,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "entities": {
+      "media": [
+        {
+          "id": 930450550939967488,
+          "display_url": "pic.twitter.com/zeWXTWP54a",
+          "id_str": "930450550939967488",
+          "indices": [
+            218,
+            241
+          ],
+          "expanded_url": "https://twitter.com/EconomiaSubse/status/930450630342258689/photo/1",
+          "type": "photo",
+          "url": "https://t.co/zeWXTWP54a",
+          "media_url_https": "https://pbs.twimg.com/media/DOmf2KnX4AA6xUM.jpg",
+          "media_url": "http://pbs.twimg.com/media/DOmf2KnX4AA6xUM.jpg",
+          "sizes": {
+            "small": {
+              "w": 680,
+              "h": 510,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 2048,
+              "h": 1536,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 1200,
+              "h": 900,
+              "resize": "fit"
+            }
+          }
+        },
+        {
+          "id": 930450574448963590,
+          "display_url": "pic.twitter.com/zeWXTWP54a",
+          "id_str": "930450574448963590",
+          "indices": [
+            218,
+            241
+          ],
+          "expanded_url": "https://twitter.com/EconomiaSubse/status/930450630342258689/photo/1",
+          "type": "photo",
+          "url": "https://t.co/zeWXTWP54a",
+          "media_url_https": "https://pbs.twimg.com/media/DOmf3iMWsAYqcaO.jpg",
+          "media_url": "http://pbs.twimg.com/media/DOmf3iMWsAYqcaO.jpg",
+          "sizes": {
+            "small": {
+              "w": 680,
+              "h": 384,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 2048,
+              "h": 1156,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 1200,
+              "h": 677,
+              "resize": "fit"
+            }
+          }
+        },
+        {
+          "id": 930450595403718661,
+          "display_url": "pic.twitter.com/zeWXTWP54a",
+          "id_str": "930450595403718661",
+          "indices": [
+            218,
+            241
+          ],
+          "expanded_url": "https://twitter.com/EconomiaSubse/status/930450630342258689/photo/1",
+          "type": "photo",
+          "url": "https://t.co/zeWXTWP54a",
+          "media_url_https": "https://pbs.twimg.com/media/DOmf4wQW4AUICN0.jpg",
+          "media_url": "http://pbs.twimg.com/media/DOmf4wQW4AUICN0.jpg",
+          "sizes": {
+            "small": {
+              "w": 680,
+              "h": 384,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 2048,
+              "h": 1156,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 1200,
+              "h": 677,
+              "resize": "fit"
+            }
+          }
+        },
+        {
+          "id": 930450613502119938,
+          "display_url": "pic.twitter.com/zeWXTWP54a",
+          "id_str": "930450613502119938",
+          "indices": [
+            218,
+            241
+          ],
+          "expanded_url": "https://twitter.com/EconomiaSubse/status/930450630342258689/photo/1",
+          "type": "photo",
+          "url": "https://t.co/zeWXTWP54a",
+          "media_url_https": "https://pbs.twimg.com/media/DOmf5zrWkAIsRnF.jpg",
+          "media_url": "http://pbs.twimg.com/media/DOmf5zrWkAIsRnF.jpg",
+          "sizes": {
+            "small": {
+              "w": 680,
+              "h": 384,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 2048,
+              "h": 1156,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 1200,
+              "h": 677,
+              "resize": "fit"
+            }
+          }
+        }
+      ],
+      "urls": [],
+      "symbols": [],
+      "user_mentions": [],
+      "hashtags": []
+    },
+    "full_text": "\"Haber emprendido la tarea del Fomento de las Cooperativas, es tremendamente virtuoso y nos hace entender que vamos por el camino correcto\"  Subsecretaria  Piergentili  en Consejo P\u00fablico Privado de la Econom\u00eda Social https://t.co/zeWXTWP54a"
+  },
+  "user": {
+    "statuses_count": 3120,
+    "id": 718424298034241536,
+    "default_profile": true,
+    "favourites_count": 2560,
+    "url": "http://www.economia.gob.cl/subsecretarias/economia",
+    "profile_background_image_url_https": "",
+    "verified": false,
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/718428914901741568/BCdsAKt5_normal.jpg",
+    "translator_type": "none",
+    "location": "Santiago, Chile",
+    "geo_enabled": true,
+    "utc_offset": -28800,
+    "notifications": null,
+    "profile_background_tile": false,
+    "friends_count": 582,
+    "is_translator": false,
+    "follow_request_sent": null,
+    "default_profile_image": false,
+    "profile_background_image_url": "",
+    "profile_background_color": "F5F8FA",
+    "profile_link_color": "1DA1F2",
+    "profile_use_background_image": true,
+    "time_zone": "Pacific Time (US & Canada)",
+    "name": "Subse. Econom\u00eda",
+    "profile_text_color": "333333",
+    "profile_sidebar_border_color": "C0DEED",
+    "screen_name": "EconomiaSubse",
+    "lang": "es",
+    "following": null,
+    "listed_count": 29,
+    "protected": false,
+    "profile_sidebar_fill_color": "DDEEF6",
+    "followers_count": 1848,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/718428914901741568/BCdsAKt5_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/718424298034241536/1505916610",
+    "contributors_enabled": false,
+    "created_at": "Fri Apr 08 13:04:35 +0000 2016",
+    "id_str": "718424298034241536",
+    "description": "Subsecretar\u00eda de Econom\u00eda y Empresas de Menor Tama\u00f1o (EMT) - Gobierno de Chile"
+  },
+  "created_at": "Tue Nov 14 15:01:31 +0000 2017",
+  "id_str": "930450630342258689",
+  "in_reply_to_user_id": null,
+  "contributors": null
+}

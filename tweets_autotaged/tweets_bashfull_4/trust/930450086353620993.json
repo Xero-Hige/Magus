@@ -1,0 +1,258 @@
+{
+  "id": 930450086353620993,
+  "lang": "es",
+  "in_reply_to_status_id_str": null,
+  "truncated": true,
+  "place": {
+    "id": "b19e24ce42ccd6aa",
+    "country": "M\u00e9xico",
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            -100.421037,
+            25.480538
+          ],
+          [
+            -100.421037,
+            25.802899
+          ],
+          [
+            -100.166146,
+            25.802899
+          ],
+          [
+            -100.166146,
+            25.480538
+          ]
+        ]
+      ]
+    },
+    "url": "https://api.twitter.com/1.1/geo/id/b19e24ce42ccd6aa.json",
+    "full_name": "Monterrey, Nuevo Le\u00f3n",
+    "attributes": {},
+    "name": "Monterrey",
+    "place_type": "city",
+    "country_code": "MX"
+  },
+  "favorite_count": 0,
+  "retweeted": false,
+  "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+  "is_quote_status": false,
+  "possibly_sensitive": false,
+  "geo": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_status_id": null,
+  "retweet_count": 0,
+  "quote_count": 0,
+  "timestamp_ms": "1510671562170",
+  "favorited": false,
+  "coordinates": null,
+  "filter_level": "low",
+  "entities": {
+    "urls": [
+      {
+        "indices": [
+          117,
+          140
+        ],
+        "display_url": "twitter.com/i/web/status/9\u2026",
+        "url": "https://t.co/XRUJZ7QJd0",
+        "expanded_url": "https://twitter.com/i/web/status/930450086353620993"
+      }
+    ],
+    "symbols": [],
+    "user_mentions": [],
+    "hashtags": []
+  },
+  "reply_count": 0,
+  "in_reply_to_screen_name": null,
+  "display_text_range": [
+    0,
+    140
+  ],
+  "text": "Cuando el mando est\u00e1 podrido, \u00bfQu\u00e9 puedes esperar de los subalternos? Ese equipo de Sinergia Deportiva, donde sus r\u2026 https://t.co/XRUJZ7QJd0",
+  "extended_tweet": {
+    "display_text_range": [
+      0,
+      201
+    ],
+    "extended_entities": {
+      "media": [
+        {
+          "id": 930449124612337664,
+          "display_url": "pic.twitter.com/ZRmPxUZq3x",
+          "id_str": "930449124612337664",
+          "indices": [
+            202,
+            225
+          ],
+          "expanded_url": "https://twitter.com/AlexxVerastegui/status/930450086353620993/video/1",
+          "type": "video",
+          "url": "https://t.co/ZRmPxUZq3x",
+          "video_info": {
+            "duration_millis": 107066,
+            "aspect_ratio": [
+              16,
+              9
+            ],
+            "variants": [
+              {
+                "url": "https://video.twimg.com/ext_tw_video/930449124612337664/pu/vid/640x360/zGuEedAbMtdp8jKb.mp4",
+                "bitrate": 832000,
+                "content_type": "video/mp4"
+              },
+              {
+                "url": "https://video.twimg.com/ext_tw_video/930449124612337664/pu/vid/320x180/GVVr4mdqBKfq_J1y.mp4",
+                "bitrate": 320000,
+                "content_type": "video/mp4"
+              },
+              {
+                "url": "https://video.twimg.com/ext_tw_video/930449124612337664/pu/pl/BE_lRpwAHTUR7IHK.m3u8",
+                "content_type": "application/x-mpegURL"
+              }
+            ]
+          },
+          "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/930449124612337664/pu/img/fc-eap0sLkuXOSjS.jpg",
+          "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/930449124612337664/pu/img/fc-eap0sLkuXOSjS.jpg",
+          "sizes": {
+            "small": {
+              "w": 340,
+              "h": 191,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 640,
+              "h": 360,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 600,
+              "h": 338,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "entities": {
+      "media": [
+        {
+          "id": 930449124612337664,
+          "display_url": "pic.twitter.com/ZRmPxUZq3x",
+          "id_str": "930449124612337664",
+          "indices": [
+            202,
+            225
+          ],
+          "expanded_url": "https://twitter.com/AlexxVerastegui/status/930450086353620993/video/1",
+          "type": "video",
+          "url": "https://t.co/ZRmPxUZq3x",
+          "video_info": {
+            "duration_millis": 107066,
+            "aspect_ratio": [
+              16,
+              9
+            ],
+            "variants": [
+              {
+                "url": "https://video.twimg.com/ext_tw_video/930449124612337664/pu/vid/640x360/zGuEedAbMtdp8jKb.mp4",
+                "bitrate": 832000,
+                "content_type": "video/mp4"
+              },
+              {
+                "url": "https://video.twimg.com/ext_tw_video/930449124612337664/pu/vid/320x180/GVVr4mdqBKfq_J1y.mp4",
+                "bitrate": 320000,
+                "content_type": "video/mp4"
+              },
+              {
+                "url": "https://video.twimg.com/ext_tw_video/930449124612337664/pu/pl/BE_lRpwAHTUR7IHK.m3u8",
+                "content_type": "application/x-mpegURL"
+              }
+            ]
+          },
+          "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/930449124612337664/pu/img/fc-eap0sLkuXOSjS.jpg",
+          "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/930449124612337664/pu/img/fc-eap0sLkuXOSjS.jpg",
+          "sizes": {
+            "small": {
+              "w": 340,
+              "h": 191,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 640,
+              "h": 360,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 600,
+              "h": 338,
+              "resize": "fit"
+            }
+          }
+        }
+      ],
+      "urls": [],
+      "symbols": [],
+      "user_mentions": [],
+      "hashtags": []
+    },
+    "full_text": "Cuando el mando est\u00e1 podrido, \u00bfQu\u00e9 puedes esperar de los subalternos? Ese equipo de Sinergia Deportiva, donde sus referentes son provocadores, mala leche y llorones; tiran la piedra y esconden la mano. https://t.co/ZRmPxUZq3x"
+  },
+  "user": {
+    "statuses_count": 10795,
+    "id": 53684994,
+    "default_profile": false,
+    "favourites_count": 5340,
+    "url": null,
+    "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/79015238/imagemagic.php.png",
+    "verified": false,
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/901479402806157315/ajX1R-XC_normal.jpg",
+    "translator_type": "none",
+    "location": "Monterrey, Nuevo Le\u00f3n",
+    "geo_enabled": true,
+    "utc_offset": -21600,
+    "notifications": null,
+    "profile_background_tile": false,
+    "friends_count": 2597,
+    "is_translator": false,
+    "follow_request_sent": null,
+    "default_profile_image": false,
+    "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/79015238/imagemagic.php.png",
+    "profile_background_color": "333EB8",
+    "profile_link_color": "F0089B",
+    "profile_use_background_image": true,
+    "time_zone": "Monterrey",
+    "name": "Alejandro.",
+    "profile_text_color": "0A0909",
+    "profile_sidebar_border_color": "FFFFFF",
+    "screen_name": "AlexxVerastegui",
+    "lang": "es",
+    "following": null,
+    "listed_count": 9,
+    "protected": false,
+    "profile_sidebar_fill_color": "D4DEE6",
+    "followers_count": 395,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/901479402806157315/ajX1R-XC_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/53684994/1501919136",
+    "contributors_enabled": false,
+    "created_at": "Sat Jul 04 14:56:47 +0000 2009",
+    "id_str": "53684994",
+    "description": "Regiomontano del Pte. de Monterrey, Nuevo Reino de Le\u00f3n. Mi patria Norestense. #Pandillero #Vidaurrista #GottMitUns"
+  },
+  "created_at": "Tue Nov 14 14:59:22 +0000 2017",
+  "id_str": "930450086353620993",
+  "in_reply_to_user_id": null,
+  "contributors": null
+}

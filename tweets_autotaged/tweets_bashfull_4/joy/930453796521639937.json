@@ -1,0 +1,154 @@
+{
+  "id": 930453796521639937,
+  "lang": "es",
+  "in_reply_to_status_id_str": "930442228455141382",
+  "truncated": true,
+  "place": {
+    "id": "00c4b64e7affea25",
+    "country": "Chile",
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            -70.608694,
+            -33.486182
+          ],
+          [
+            -70.608694,
+            -33.364619
+          ],
+          [
+            -70.429141,
+            -33.364619
+          ],
+          [
+            -70.429141,
+            -33.486182
+          ]
+        ]
+      ]
+    },
+    "url": "https://api.twitter.com/1.1/geo/id/00c4b64e7affea25.json",
+    "full_name": "Las Condes, Chile",
+    "attributes": {},
+    "name": "Las Condes",
+    "place_type": "city",
+    "country_code": "CL"
+  },
+  "favorite_count": 0,
+  "retweeted": false,
+  "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+  "is_quote_status": false,
+  "in_reply_to_status_id": 930442228455141382,
+  "in_reply_to_user_id_str": "2476089685",
+  "in_reply_to_screen_name": "Traucodag",
+  "retweet_count": 0,
+  "quote_count": 0,
+  "timestamp_ms": "1510672446743",
+  "favorited": false,
+  "coordinates": null,
+  "filter_level": "low",
+  "entities": {
+    "urls": [
+      {
+        "indices": [
+          117,
+          140
+        ],
+        "display_url": "twitter.com/i/web/status/9\u2026",
+        "url": "https://t.co/MaQRQifvYl",
+        "expanded_url": "https://twitter.com/i/web/status/930453796521639937"
+      }
+    ],
+    "symbols": [],
+    "user_mentions": [
+      {
+        "screen_name": "Traucodag",
+        "id": 2476089685,
+        "name": "Danilo Alvarado G",
+        "indices": [
+          0,
+          10
+        ],
+        "id_str": "2476089685"
+      }
+    ],
+    "hashtags": []
+  },
+  "reply_count": 0,
+  "geo": null,
+  "display_text_range": [
+    11,
+    140
+  ],
+  "text": "@Traucodag gracias tan bella no creo solo me defiendo pero so\u00f1ar no cuesta nada y eso hace bien dani te agradezco t\u2026 https://t.co/MaQRQifvYl",
+  "extended_tweet": {
+    "display_text_range": [
+      11,
+      189
+    ],
+    "entities": {
+      "urls": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "screen_name": "Traucodag",
+          "id": 2476089685,
+          "name": "Danilo Alvarado G",
+          "indices": [
+            0,
+            10
+          ],
+          "id_str": "2476089685"
+        }
+      ],
+      "hashtags": []
+    },
+    "full_text": "@Traucodag gracias tan bella no creo solo me defiendo pero so\u00f1ar no cuesta nada y eso hace bien dani te agradezco tus lindos cuadros y flores eres muy amable chao que te encuentres muy bien"
+  },
+  "user": {
+    "statuses_count": 12264,
+    "id": 2894626421,
+    "default_profile": true,
+    "favourites_count": 16,
+    "url": null,
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "verified": false,
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/823256606578245633/hggvyIG1_normal.jpg",
+    "translator_type": "none",
+    "location": null,
+    "geo_enabled": true,
+    "utc_offset": -28800,
+    "notifications": null,
+    "profile_background_tile": false,
+    "friends_count": 1740,
+    "is_translator": false,
+    "follow_request_sent": null,
+    "default_profile_image": false,
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_color": "C0DEED",
+    "profile_link_color": "1DA1F2",
+    "profile_use_background_image": true,
+    "time_zone": "Pacific Time (US & Canada)",
+    "name": "Cleopatra",
+    "profile_text_color": "333333",
+    "profile_sidebar_border_color": "C0DEED",
+    "screen_name": "Paty1550",
+    "lang": "es",
+    "following": null,
+    "listed_count": 3,
+    "protected": false,
+    "profile_sidebar_fill_color": "DDEEF6",
+    "followers_count": 882,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/823256606578245633/hggvyIG1_normal.jpg",
+    "contributors_enabled": false,
+    "created_at": "Thu Nov 27 13:45:06 +0000 2014",
+    "id_str": "2894626421",
+    "description": null
+  },
+  "created_at": "Tue Nov 14 15:14:06 +0000 2017",
+  "id_str": "930453796521639937",
+  "in_reply_to_user_id": 2476089685,
+  "contributors": null
+}
