@@ -23,8 +23,13 @@ from __future__ import print_function
 import tensorflow as tf
 # This is a placeholder for a Google-internal import.
 from grpc.beta import implementations
+from tensorflow.python.framework import tensor_util
 from tensorflow_serving.apis import predict_pb2
 from tensorflow_serving.apis import prediction_service_pb2
+
+from libs.sentiments_handling import ANGER, ANTICIPATION, DISGUST, FEAR, JOY, NEUTRAL, SADNESS, SURPRISE, TRUST
+
+EMOTION_LOOKUP = [JOY, TRUST, FEAR, SURPRISE, SADNESS, DISGUST, ANGER, ANTICIPATION, NEUTRAL]
 
 tf.app.flags.DEFINE_string('server', 'localhost:9000',
                            'PredictionService host:port')
@@ -37,16 +42,19 @@ def main(_):
     channel = implementations.insecure_channel(host, int(port))
     stub = prediction_service_pb2.beta_create_PredictionService_stub(channel)
     # Send request
-    with open(FLAGS.image, 'rb') as f:
-        # See prediction_service.proto for gRPC request/response details.
-        data = f.read()
-        request = predict_pb2.PredictRequest()
-        request.model_spec.name = 'morgana_base'
-        request.model_spec.signature_name = 'predict_tweets'
-        request.inputs['tweet_features'].CopyFrom(
-                tf.contrib.util.make_tensor_proto([[0 for _ in range(80)] for _ in range(300)], shape=[1, 300, 80, 1]))
-        result = stub.Predict(request, 10.0)  # 10 secs timeout
-        print(result)
+    # See prediction_service.proto for gRPC request/response details.
+    request = predict_pb2.PredictRequest()
+    request.model_spec.name = 'morgana'
+    request.model_spec.signature_name = 'predict_tweets'
+
+    # x_text, y = AttardiCNNSchema.get_input_data()
+
+    request.inputs['tweet_features'].CopyFrom(
+            tf.contrib.util.make_tensor_proto([[0.1 for _ in range(80)] for _ in range(300)], shape=[1, 80, 300, 1]))
+    result = stub.Predict(request, 10.0)  # 10 secs timeout
+    result = tensor_util.MakeNdarray(result.outputs["scores"])[0]
+    for i in range(len(result)):
+        print(EMOTION_LOOKUP[i], ":", result[i])
 
 
 if __name__ == '__main__':
