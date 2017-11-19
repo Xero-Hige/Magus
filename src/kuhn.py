@@ -1,6 +1,7 @@
 import json
 import os
 import signal
+import sys
 from sys import stdout
 
 from m_cores.core_anonymize import AnonymizeCore
@@ -44,9 +45,15 @@ class DetachedCore:
 
 
 def main():
+    print("Starting Kuhn")
     cores = []
 
-    with open("pipeline_struct.json") as reader_file:
+    if len(sys.argv) > 1:
+        struct_file = sys.argv[1]
+    else:
+        struct_file = "pipeline_struct.json"
+
+    with open(struct_file) as reader_file:
         structure = json.loads(reader_file.read())
 
     for definition_name in structure:

@@ -21,6 +21,17 @@ RUN pip3 install twitter --no-cache-dir && \
     pip3 install Cython --no-cache-dir && \
     pip3 install word2vec --no-cache-dir
 
+RUN apt-get update && \
+    aptitude install -y \
+        python-pip \
+		python-setuptools && \
+    rm -rf /var/lib/apt/lists/* && \
+    aptitude clean
+
+RUN pip install pika --no-cache-dir && \
+    pip install tensorflow-serving-api --no-cache-dir && \
+    pip install Cython --no-cache-dir
+
 COPY /src /Magus
 
 WORKDIR /Magus
