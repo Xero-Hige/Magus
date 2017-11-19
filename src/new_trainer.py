@@ -115,9 +115,9 @@ def main(_):
 
     # train the model
     prediction_classes = y_train.shape[1]
-    for it in range(2):  # FLAGS.training_iteration):
+    for it in range(30):  # FLAGS.training_iteration):
         print("Iteration ", it)
-        for batch in batch_iter(x_train, y_train, 50, 2):
+        for batch in batch_iter(x_train, y_train, 50):
             train_step.run(feed_dict={cnn.input_x: batch[0], cnn.input_y: batch[1]})
 
         feed_dict = {
@@ -178,11 +178,12 @@ def main(_):
             method_name=signature_constants.CLASSIFY_METHOD_NAME)
 
     tensor_info_x = utils.build_tensor_info(cnn.input_x)
-    tensor_info_y = utils.build_tensor_info(cnn.scores)
+    tensor_info_scores = utils.build_tensor_info(cnn.scores)
+    tensor_info_predictions = utils.build_tensor_info(cnn.predictions)
 
     prediction_signature = signature_def_utils.build_signature_def(
             inputs={'tweet_features': tensor_info_x},
-            outputs={'scores': tensor_info_y},
+            outputs={'scores': tensor_info_scores, 'predictions': tensor_info_predictions},
             method_name=signature_constants.PREDICT_METHOD_NAME)
 
     legacy_init_op = tf.group(tf.tables_initializer(), name='legacy_init_op')
