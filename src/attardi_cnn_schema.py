@@ -55,6 +55,8 @@ class AttardiCNNSchema(CNNSchema):
         scores, predictions, l2_loss = self.create_output_layer(convolution_layer_output, output_channels, num_classes,
                                                                 l2_loss=l2_loss)
 
+        self.scores = scores
+
         self.loss = self.get_loss(self.input_y, l2_loss, l2_reg_lambda, scores)
         self.accuracy = self.get_accuracy(self.input_y, predictions)
 
