@@ -9,12 +9,17 @@ lexicon = Lexicon("lexicons/es_lexicon.lx", "es")
 
 MAX_PER_ITERATION = 20
 
-for batch in range(1, 4):
-    for folder, _, files in os.walk("./tweets_bashfull_{}".format(batch)):
+for batch in range(2, 5):
+    for folder, _, files in os.walk("../tweets_autotaged/tweets_bashfull_{}".format(batch)):
+
         random.shuffle(files)
 
         emotion = folder.split("/")[-1]
-        print("Validate --> {}".format(emotion))
+        if batch == 2 and emotion == "joy":
+            continue
+
+
+        print("\n\nValidate --> {}\n\n".format(emotion))
 
         added = 0
         for _file in files:
@@ -31,7 +36,7 @@ for batch in range(1, 4):
 
             key_pressed = ""
             while key_pressed not in ["y", "n", "s"]:
-                key_pressed = input("{}: {}  Y/N".format(tweet_id, tweet[TweetParser.TWEET_TEXT]))
+                key_pressed = input("\n\t<{}>:\n{}\n\nY/N".format(emotion, tweet[TweetParser.TWEET_TEXT]))
 
             if key_pressed == "y":
                 output_dir = os.path.join(output_dir, "good")
@@ -53,3 +58,6 @@ for batch in range(1, 4):
             out_path = os.path.join(output_dir, "{}.json".format(tweet_id))
             with open(out_path, 'w') as out_file:
                 out_file.write(json.dumps(tweet))
+
+            os.remove(os.path.join(folder, _file))
+            added +=1
