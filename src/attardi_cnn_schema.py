@@ -48,7 +48,8 @@ class AttardiCNNSchema(CNNSchema):
                                                                                 embedding_size,
                                                                                 filter_sizes,
                                                                                 num_filters,
-                                                                                vocab_size)
+                                                                                vocab_size,
+                                                                                activation=tf.nn.tanh)
 
         dropout_layer_output = self.create_dropout_layer(convolution_layer_output,
                                                          dropout_prob=self.dropout_keep_prob)
@@ -56,6 +57,7 @@ class AttardiCNNSchema(CNNSchema):
                                                                 l2_loss=l2_loss)
 
         self.scores = scores
+        self.predictions = predictions
 
         self.loss = self.get_loss(self.input_y, l2_loss, l2_reg_lambda, scores)
         self.accuracy = self.get_accuracy(self.input_y, predictions)

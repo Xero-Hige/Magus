@@ -30,10 +30,9 @@ class CNNSchema(object):
     def create_output_layer(input_layer, input_size, num_classes,
                             l2_loss=tf.constant(0.0),
                             bias=0.1,
-                            score_normalization=lambda x: x,
                             prediction_f=lambda x: tf.argmax(x, 1)):
-        # Final (unnormalized) scores and predictions
 
+        # Final (unnormalized) scores and predictions
         with tf.name_scope("output-layer"):
             W = tf.get_variable(
                     name="W",
@@ -45,7 +44,7 @@ class CNNSchema(object):
             l2_loss += tf.nn.l2_loss(W)
             l2_loss += tf.nn.l2_loss(b)
 
-            scores = score_normalization(tf.nn.xw_plus_b(input_layer, W, b, name="scores"))
+            scores = tf.nn.xw_plus_b(input_layer, W, b, name="scores")
             predictions = prediction_f(scores)
 
         return scores, predictions, l2_loss
@@ -60,14 +59,16 @@ class CNNSchema(object):
 
     @staticmethod
     def create_conv_pool_layer(input_layer, embedding_size, filter_sizes, num_filters, sequence_height,
-                               layer_number=0):
+                               layer_number=0, activation=tf.nn.relu):
         """Creates a convolution plus a maxpool layer for each filter size"""
 
         layer_outputs = []
 
         for i, filter_height in enumerate(filter_sizes):
             with tf.name_scope("conv-maxpool-{}-{}".format(layer_number, filter_height)):
-                convolution_layer = CNNSchema.create_filter(input_layer, filter_height, embedding_size, num_filters)
+                convolution_layer = CNNSchema.create_filter(input_layer, filter_height, embedding_size,
+                                                            number_of_filters=num_filters,
+                                                            activation=activation)
                 max_pooling_layer = CNNSchema.create_max_pooling(convolution_layer, filter_height, sequence_height)
                 layer_outputs.append(max_pooling_layer)
 
@@ -90,12 +91,12 @@ class CNNSchema(object):
 
     @staticmethod
     def create_filter(input_layer, filter_height, filter_width,
+                      activation,
                       number_of_filters=32,
                       strides=(1, 1, 12, 1),
                       padding="VALID",
                       bias=0.1,
-                      stddev=0.1,
-                      activation=tf.nn.relu):
+                      stddev=0.1):
         # Convolution Layer
         filter_shape = [filter_height, filter_width, 1, number_of_filters]
 
