@@ -178,11 +178,11 @@ def main(_):
             method_name=signature_constants.CLASSIFY_METHOD_NAME)
 
     tensor_info_x = utils.build_tensor_info(cnn.input_x)
-    tensor_info_y = utils.build_tensor_info(cnn.input_y)
+    tensor_info_y = utils.build_tensor_info(cnn.scores)
 
     prediction_signature = signature_def_utils.build_signature_def(
-            inputs={'features': tensor_info_x},
-            outputs={'labels': tensor_info_y},
+            inputs={'tweet_features': tensor_info_x},
+            outputs={'scores': tensor_info_y},
             method_name=signature_constants.PREDICT_METHOD_NAME)
 
     legacy_init_op = tf.group(tf.tables_initializer(), name='legacy_init_op')
@@ -191,7 +191,7 @@ def main(_):
     builder.add_meta_graph_and_variables(
             sess, [tag_constants.SERVING],
             signature_def_map={
-                'predict_images':
+                'predict_tweets':
                     prediction_signature,
                 signature_constants.DEFAULT_SERVING_SIGNATURE_DEF_KEY:
                     classification_signature,
