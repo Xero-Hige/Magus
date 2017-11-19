@@ -1,0 +1,158 @@
+{
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "id": 930331747245441024,
+  "in_reply_to_user_id": null,
+  "coordinates": {
+    "type": "Point",
+    "coordinates": [
+      -0.19089331,
+      40.6679039
+    ]
+  },
+  "possibly_sensitive": false,
+  "reply_count": 0,
+  "timestamp_ms": "1510643347928",
+  "geo": {
+    "type": "Point",
+    "coordinates": [
+      40.6679039,
+      -0.19089331
+    ]
+  },
+  "quote_count": 0,
+  "retweet_count": 0,
+  "is_quote_status": false,
+  "created_at": "Tue Nov 14 07:09:07 +0000 2017",
+  "source": "<a href=\"http://www.dgt.es\" rel=\"nofollow\">D.G.T.</a>",
+  "favorite_count": 0,
+  "in_reply_to_screen_name": null,
+  "text": "#OBRAS nivel AMARILLO en CARRETERA AUTON\u00d3MICA #CV14 (pk 11.8 al 12.5 ambos sent.) FORCALL #DGTCastell\u00f3n #DGT https://t.co/0L7xloLN0e",
+  "in_reply_to_status_id_str": null,
+  "place": {
+    "country": "Espa\u00f1a",
+    "name": "Forcall",
+    "id": "a41b6616b773b2f9",
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            -0.266196,
+            40.614489
+          ],
+          [
+            -0.266196,
+            40.697333
+          ],
+          [
+            -0.151247,
+            40.697333
+          ],
+          [
+            -0.151247,
+            40.614489
+          ]
+        ]
+      ]
+    },
+    "country_code": "ES",
+    "place_type": "city",
+    "url": "https://api.twitter.com/1.1/geo/id/a41b6616b773b2f9.json",
+    "attributes": {},
+    "full_name": "Forcall, Espa\u00f1a"
+  },
+  "contributors": null,
+  "entities": {
+    "hashtags": [
+      {
+        "indices": [
+          0,
+          6
+        ],
+        "text": "OBRAS"
+      },
+      {
+        "indices": [
+          46,
+          51
+        ],
+        "text": "CV14"
+      },
+      {
+        "indices": [
+          90,
+          103
+        ],
+        "text": "DGTCastell\u00f3n"
+      },
+      {
+        "indices": [
+          104,
+          108
+        ],
+        "text": "DGT"
+      }
+    ],
+    "urls": [
+      {
+        "expanded_url": "http://infocar.dgt.es/movil/?lat=40.667904&lng=-0.1908933&zoom=12",
+        "display_url": "infocar.dgt.es/movil/?lat=40.\u2026",
+        "indices": [
+          109,
+          132
+        ],
+        "url": "https://t.co/0L7xloLN0e"
+      }
+    ],
+    "user_mentions": [],
+    "symbols": []
+  },
+  "retweeted": false,
+  "id_str": "930331747245441024",
+  "user": {
+    "time_zone": "Amsterdam",
+    "follow_request_sent": null,
+    "id": 974022020,
+    "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000021891451/a8e08d1d04269abbc0eb1b8d4a33f148.jpeg",
+    "translator_type": "none",
+    "screen_name": "InformacionDGT",
+    "profile_link_color": "0084B4",
+    "url": "http://www.dgt.es",
+    "utc_offset": 3600,
+    "location": null,
+    "name": "D.G.T.",
+    "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000021891451/a8e08d1d04269abbc0eb1b8d4a33f148.jpeg",
+    "description": "Informaci\u00f3n actualizada y oficial de la DGT sobre el estado de la circulaci\u00f3n en carretera. Para otros contenidos, nos tienes en @DGTes",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/974022020/1485270814",
+    "created_at": "Tue Nov 27 14:43:20 +0000 2012",
+    "protected": false,
+    "is_translator": false,
+    "listed_count": 648,
+    "statuses_count": 469650,
+    "profile_sidebar_border_color": "FFFFFF",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "default_profile": false,
+    "default_profile_image": false,
+    "verified": true,
+    "notifications": null,
+    "friends_count": 72,
+    "profile_background_color": "C0DEED",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/378800000123673015/dd63e0829ac4ccdbaf8fe6ada47b4cf1_normal.jpeg",
+    "following": null,
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000123673015/dd63e0829ac4ccdbaf8fe6ada47b4cf1_normal.jpeg",
+    "geo_enabled": true,
+    "profile_use_background_image": true,
+    "contributors_enabled": false,
+    "id_str": "974022020",
+    "profile_text_color": "333333",
+    "followers_count": 69815,
+    "favourites_count": 4,
+    "lang": "es",
+    "profile_background_tile": false
+  },
+  "filter_level": "low",
+  "in_reply_to_user_id_str": null,
+  "favorited": false,
+  "lang": "es"
+}

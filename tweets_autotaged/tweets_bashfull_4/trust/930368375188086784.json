@@ -1,0 +1,125 @@
+{
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "id": 930368375188086784,
+  "in_reply_to_user_id": null,
+  "coordinates": null,
+  "possibly_sensitive": false,
+  "reply_count": 0,
+  "timestamp_ms": "1510652080710",
+  "geo": null,
+  "quote_count": 0,
+  "retweet_count": 0,
+  "is_quote_status": false,
+  "created_at": "Tue Nov 14 09:34:40 +0000 2017",
+  "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+  "favorite_count": 0,
+  "in_reply_to_screen_name": null,
+  "text": "Llega al Palacio de Justicia de Navarra la joven que denunci\u00f3 la violaci\u00f3n grupal en sanfermines https://t.co/4n8oAKbmEI #tribunales",
+  "in_reply_to_status_id_str": null,
+  "place": {
+    "country": "Espa\u00f1a",
+    "name": "Sevilla",
+    "id": "8c86b8b4cb716103",
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            -6.02843,
+            37.313613
+          ],
+          [
+            -6.02843,
+            37.452783
+          ],
+          [
+            -5.81866,
+            37.452783
+          ],
+          [
+            -5.81866,
+            37.313613
+          ]
+        ]
+      ]
+    },
+    "country_code": "ES",
+    "place_type": "city",
+    "url": "https://api.twitter.com/1.1/geo/id/8c86b8b4cb716103.json",
+    "attributes": {},
+    "full_name": "Sevilla, Espa\u00f1a"
+  },
+  "contributors": null,
+  "entities": {
+    "hashtags": [
+      {
+        "indices": [
+          121,
+          132
+        ],
+        "text": "tribunales"
+      }
+    ],
+    "urls": [
+      {
+        "expanded_url": "http://cadenaser.com/emisora/2017/11/14/radio_pamplona/1510650671_314868.html",
+        "display_url": "cadenaser.com/emisora/2017/1\u2026",
+        "indices": [
+          97,
+          120
+        ],
+        "url": "https://t.co/4n8oAKbmEI"
+      }
+    ],
+    "user_mentions": [],
+    "symbols": []
+  },
+  "retweeted": false,
+  "id_str": "930368375188086784",
+  "user": {
+    "time_zone": "Madrid",
+    "follow_request_sent": null,
+    "id": 282632564,
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+    "translator_type": "none",
+    "screen_name": "RadioSevilla",
+    "profile_link_color": "009999",
+    "url": "http://www.cadenaser.com/emisora/sevilla/radio-sevilla",
+    "utc_offset": 3600,
+    "location": "Sevilla",
+    "name": "Radio Sevilla",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+    "description": "Twitter oficial de Radio Sevilla - Cadena SER",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/282632564/1509346420",
+    "created_at": "Fri Apr 15 15:52:43 +0000 2011",
+    "protected": false,
+    "is_translator": false,
+    "listed_count": 371,
+    "statuses_count": 18801,
+    "profile_sidebar_border_color": "EEEEEE",
+    "profile_sidebar_fill_color": "EFEFEF",
+    "default_profile": false,
+    "default_profile_image": false,
+    "verified": false,
+    "notifications": null,
+    "friends_count": 861,
+    "profile_background_color": "131516",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/912348790404915204/l_pigDgT_normal.jpg",
+    "following": null,
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/912348790404915204/l_pigDgT_normal.jpg",
+    "geo_enabled": true,
+    "profile_use_background_image": true,
+    "contributors_enabled": false,
+    "id_str": "282632564",
+    "profile_text_color": "333333",
+    "followers_count": 20121,
+    "favourites_count": 342,
+    "lang": "es",
+    "profile_background_tile": true
+  },
+  "filter_level": "low",
+  "in_reply_to_user_id_str": null,
+  "favorited": false,
+  "lang": "es"
+}

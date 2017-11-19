@@ -1,0 +1,234 @@
+{
+  "id": 930448658222469120,
+  "lang": "es",
+  "in_reply_to_status_id_str": null,
+  "truncated": true,
+  "place": {
+    "id": "c4320f726d222937",
+    "country": "Bolivia",
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            -69.640762,
+            -22.897682
+          ],
+          [
+            -69.640762,
+            -9.669105
+          ],
+          [
+            -57.453894,
+            -9.669105
+          ],
+          [
+            -57.453894,
+            -22.897682
+          ]
+        ]
+      ]
+    },
+    "url": "https://api.twitter.com/1.1/geo/id/c4320f726d222937.json",
+    "full_name": "Bolivia",
+    "attributes": {},
+    "name": "Bolivia",
+    "place_type": "country",
+    "country_code": "BO"
+  },
+  "favorite_count": 0,
+  "retweeted": false,
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "is_quote_status": false,
+  "possibly_sensitive": false,
+  "geo": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_status_id": null,
+  "retweet_count": 0,
+  "quote_count": 0,
+  "timestamp_ms": "1510671221677",
+  "favorited": false,
+  "coordinates": null,
+  "filter_level": "low",
+  "entities": {
+    "urls": [
+      {
+        "indices": [
+          117,
+          140
+        ],
+        "display_url": "twitter.com/i/web/status/9\u2026",
+        "url": "https://t.co/EnpNJT6oiQ",
+        "expanded_url": "https://twitter.com/i/web/status/930448658222469120"
+      }
+    ],
+    "symbols": [],
+    "user_mentions": [
+      {
+        "screen_name": "chunta",
+        "id": 12352122,
+        "name": "Chunta Aragonesista",
+        "indices": [
+          31,
+          38
+        ],
+        "id_str": "12352122"
+      }
+    ],
+    "hashtags": []
+  },
+  "reply_count": 0,
+  "in_reply_to_screen_name": null,
+  "display_text_range": [
+    0,
+    140
+  ],
+  "text": "Agradecemos a la militancia de @chunta que haya decidido conceder su ayuda de Cooperaci\u00f3n al Desarollo de 2017 a nu\u2026 https://t.co/EnpNJT6oiQ",
+  "extended_tweet": {
+    "display_text_range": [
+      0,
+      216
+    ],
+    "extended_entities": {
+      "media": [
+        {
+          "id": 930448645593489409,
+          "display_url": "pic.twitter.com/rDT1LzpVQx",
+          "id_str": "930448645593489409",
+          "indices": [
+            217,
+            240
+          ],
+          "expanded_url": "https://twitter.com/misevi_es/status/930448658222469120/photo/1",
+          "type": "photo",
+          "url": "https://t.co/rDT1LzpVQx",
+          "media_url_https": "https://pbs.twimg.com/media/DOmeHQpX4AEi1Th.jpg",
+          "media_url": "http://pbs.twimg.com/media/DOmeHQpX4AEi1Th.jpg",
+          "sizes": {
+            "small": {
+              "w": 680,
+              "h": 453,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 2048,
+              "h": 1365,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 1200,
+              "h": 800,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "entities": {
+      "media": [
+        {
+          "id": 930448645593489409,
+          "display_url": "pic.twitter.com/rDT1LzpVQx",
+          "id_str": "930448645593489409",
+          "indices": [
+            217,
+            240
+          ],
+          "expanded_url": "https://twitter.com/misevi_es/status/930448658222469120/photo/1",
+          "type": "photo",
+          "url": "https://t.co/rDT1LzpVQx",
+          "media_url_https": "https://pbs.twimg.com/media/DOmeHQpX4AEi1Th.jpg",
+          "media_url": "http://pbs.twimg.com/media/DOmeHQpX4AEi1Th.jpg",
+          "sizes": {
+            "small": {
+              "w": 680,
+              "h": 453,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 2048,
+              "h": 1365,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 1200,
+              "h": 800,
+              "resize": "fit"
+            }
+          }
+        }
+      ],
+      "urls": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "screen_name": "chunta",
+          "id": 12352122,
+          "name": "Chunta Aragonesista",
+          "indices": [
+            31,
+            38
+          ],
+          "id_str": "12352122"
+        }
+      ],
+      "hashtags": []
+    },
+    "full_text": "Agradecemos a la militancia de @chunta que haya decidido conceder su ayuda de Cooperaci\u00f3n al Desarollo de 2017 a nuestro proyecto, dirigido a infancia v\u00edctima de violencia de g\u00e9nero, en la ciudad boliviana de Sacaba. https://t.co/rDT1LzpVQx"
+  },
+  "user": {
+    "statuses_count": 720,
+    "id": 783635588981354498,
+    "default_profile": true,
+    "favourites_count": 314,
+    "url": "http://www.misevi.es",
+    "profile_background_image_url_https": "",
+    "verified": false,
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/842300202690174976/RfF_9C8S_normal.jpg",
+    "translator_type": "none",
+    "location": "Espa\u00f1a, Africa y \u00c1merica",
+    "geo_enabled": true,
+    "utc_offset": null,
+    "notifications": null,
+    "profile_background_tile": false,
+    "friends_count": 49,
+    "is_translator": false,
+    "follow_request_sent": null,
+    "default_profile_image": false,
+    "profile_background_image_url": "",
+    "profile_background_color": "F5F8FA",
+    "profile_link_color": "1DA1F2",
+    "profile_use_background_image": true,
+    "time_zone": null,
+    "name": "Misevi Espa\u00f1a",
+    "profile_text_color": "333333",
+    "profile_sidebar_border_color": "C0DEED",
+    "screen_name": "misevi_es",
+    "lang": "es",
+    "following": null,
+    "listed_count": 5,
+    "protected": false,
+    "profile_sidebar_fill_color": "DDEEF6",
+    "followers_count": 235,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/842300202690174976/RfF_9C8S_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/783635588981354498/1489655598",
+    "contributors_enabled": false,
+    "created_at": "Wed Oct 05 11:50:58 +0000 2016",
+    "id_str": "783635588981354498",
+    "description": "Misioneros Seglares Vicencianos. Somos una ONGD que trabaja por la promoci\u00f3n de los m\u00e1s d\u00e9biles y empobrecidos. Luchamos contra la desigualdad #misioneroslaicos"
+  },
+  "created_at": "Tue Nov 14 14:53:41 +0000 2017",
+  "id_str": "930448658222469120",
+  "in_reply_to_user_id": null,
+  "contributors": null
+}

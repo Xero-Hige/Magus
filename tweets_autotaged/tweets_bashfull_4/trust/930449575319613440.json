@@ -1,0 +1,225 @@
+{
+  "id": 930449575319613440,
+  "lang": "es",
+  "in_reply_to_status_id_str": null,
+  "truncated": true,
+  "place": {
+    "id": "ea520f3528c9b3e4",
+    "country": "Espa\u00f1a",
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            -4.579175,
+            39.884537
+          ],
+          [
+            -4.579175,
+            41.164911
+          ],
+          [
+            -3.053132,
+            41.164911
+          ],
+          [
+            -3.053132,
+            39.884537
+          ]
+        ]
+      ]
+    },
+    "url": "https://api.twitter.com/1.1/geo/id/ea520f3528c9b3e4.json",
+    "full_name": "Madrid, Comunidad de Madrid",
+    "attributes": {},
+    "name": "Madrid",
+    "place_type": "admin",
+    "country_code": "ES"
+  },
+  "favorite_count": 0,
+  "retweeted": false,
+  "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+  "is_quote_status": false,
+  "possibly_sensitive": false,
+  "geo": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_status_id": null,
+  "retweet_count": 0,
+  "quote_count": 0,
+  "timestamp_ms": "1510671440330",
+  "favorited": false,
+  "coordinates": null,
+  "text": "Somos uno de los premiados por la Asociaci\u00f3n de #BusinessAngels @bigbanangels junto a @habitissimo y @carlosdomingo\u2026 https://t.co/TJ7bNZHs7m",
+  "entities": {
+    "urls": [
+      {
+        "indices": [
+          117,
+          140
+        ],
+        "display_url": "twitter.com/i/web/status/9\u2026",
+        "url": "https://t.co/TJ7bNZHs7m",
+        "expanded_url": "https://twitter.com/i/web/status/930449575319613440"
+      }
+    ],
+    "symbols": [],
+    "user_mentions": [
+      {
+        "screen_name": "bigbanangels",
+        "id": 211903160,
+        "name": "Big Ban angels",
+        "indices": [
+          64,
+          77
+        ],
+        "id_str": "211903160"
+      },
+      {
+        "screen_name": "habitissimo",
+        "id": 22600664,
+        "name": "Habitissimo",
+        "indices": [
+          86,
+          98
+        ],
+        "id_str": "22600664"
+      },
+      {
+        "screen_name": "carlosdomingo",
+        "id": 8280592,
+        "name": "Carlos Domingo",
+        "indices": [
+          101,
+          115
+        ],
+        "id_str": "8280592"
+      }
+    ],
+    "hashtags": [
+      {
+        "text": "BusinessAngels",
+        "indices": [
+          48,
+          63
+        ]
+      }
+    ]
+  },
+  "reply_count": 0,
+  "in_reply_to_screen_name": null,
+  "filter_level": "low",
+  "extended_tweet": {
+    "display_text_range": [
+      0,
+      238
+    ],
+    "entities": {
+      "urls": [
+        {
+          "indices": [
+            198,
+            221
+          ],
+          "display_url": "levante-emv.com/economia/2017/\u2026",
+          "url": "https://t.co/VePpX2rsRd",
+          "expanded_url": "http://www.levante-emv.com/economia/2017/11/14/big-ban-premia-carlos-domingo/1641449.html"
+        }
+      ],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "screen_name": "bigbanangels",
+          "id": 211903160,
+          "name": "Big Ban angels",
+          "indices": [
+            64,
+            77
+          ],
+          "id_str": "211903160"
+        },
+        {
+          "screen_name": "habitissimo",
+          "id": 22600664,
+          "name": "Habitissimo",
+          "indices": [
+            86,
+            98
+          ],
+          "id_str": "22600664"
+        },
+        {
+          "screen_name": "carlosdomingo",
+          "id": 8280592,
+          "name": "Carlos Domingo",
+          "indices": [
+            101,
+            115
+          ],
+          "id_str": "8280592"
+        }
+      ],
+      "hashtags": [
+        {
+          "text": "BusinessAngels",
+          "indices": [
+            48,
+            63
+          ]
+        },
+        {
+          "text": "elbuz\u00f3nhamuerto",
+          "indices": [
+            222,
+            238
+          ]
+        }
+      ]
+    },
+    "full_text": "Somos uno de los premiados por la Asociaci\u00f3n de #BusinessAngels @bigbanangels junto a @habitissimo y @carlosdomingo. Much\u00edsimas gracias por este premio del que todo el equipo estamos tan orgullosos https://t.co/VePpX2rsRd #elbuz\u00f3nhamuerto"
+  },
+  "user": {
+    "statuses_count": 598,
+    "id": 3233782533,
+    "default_profile": false,
+    "favourites_count": 737,
+    "url": "http://www.citibox.com",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "verified": false,
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/805815681715421184/KsJxHGrG_normal.jpg",
+    "translator_type": "none",
+    "location": "Espa\u00f1a",
+    "geo_enabled": true,
+    "utc_offset": 3600,
+    "notifications": null,
+    "profile_background_tile": false,
+    "friends_count": 191,
+    "is_translator": false,
+    "follow_request_sent": null,
+    "default_profile_image": false,
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_color": "71FFFD",
+    "profile_link_color": "0084B4",
+    "profile_use_background_image": false,
+    "time_zone": "Madrid",
+    "name": "CITIBOX",
+    "profile_text_color": "000000",
+    "profile_sidebar_border_color": "000000",
+    "screen_name": "citiboxES",
+    "lang": "es",
+    "following": null,
+    "listed_count": 32,
+    "protected": false,
+    "profile_sidebar_fill_color": "000000",
+    "followers_count": 1433,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/805815681715421184/KsJxHGrG_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/3233782533/1476112691",
+    "contributors_enabled": false,
+    "created_at": "Mon May 04 17:08:27 +0000 2015",
+    "id_str": "3233782533",
+    "description": "Con CITIBOX puedes recibir todas tus compras online aunque no est\u00e9s en casa"
+  },
+  "created_at": "Tue Nov 14 14:57:20 +0000 2017",
+  "id_str": "930449575319613440",
+  "in_reply_to_user_id": null,
+  "contributors": null
+}

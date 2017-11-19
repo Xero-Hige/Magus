@@ -1,0 +1,277 @@
+{
+  "id": 930451798619578368,
+  "lang": "es",
+  "in_reply_to_status_id_str": null,
+  "truncated": true,
+  "place": {
+    "id": "0161be1b3f98d6c3",
+    "country": "Colombia",
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            -74.483289,
+            3.717432
+          ],
+          [
+            -74.483289,
+            4.807135
+          ],
+          [
+            -74.004053,
+            4.807135
+          ],
+          [
+            -74.004053,
+            3.717432
+          ]
+        ]
+      ]
+    },
+    "url": "https://api.twitter.com/1.1/geo/id/0161be1b3f98d6c3.json",
+    "full_name": "Bogot\u00e1, D.C., Colombia",
+    "attributes": {},
+    "name": "Bogot\u00e1, D.C.",
+    "place_type": "city",
+    "country_code": "CO"
+  },
+  "favorite_count": 0,
+  "retweeted": false,
+  "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+  "is_quote_status": false,
+  "possibly_sensitive": false,
+  "geo": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_status_id": null,
+  "retweet_count": 0,
+  "quote_count": 0,
+  "timestamp_ms": "1510671970406",
+  "favorited": false,
+  "coordinates": null,
+  "filter_level": "low",
+  "entities": {
+    "urls": [
+      {
+        "indices": [
+          105,
+          128
+        ],
+        "display_url": "twitter.com/i/web/status/9\u2026",
+        "url": "https://t.co/WRTRchSCxr",
+        "expanded_url": "https://twitter.com/i/web/status/930451798619578368"
+      }
+    ],
+    "symbols": [],
+    "user_mentions": [],
+    "hashtags": [
+      {
+        "text": "FelizMartes",
+        "indices": [
+          71,
+          83
+        ]
+      },
+      {
+        "text": "Finanzas",
+        "indices": [
+          84,
+          93
+        ]
+      },
+      {
+        "text": "Negocios",
+        "indices": [
+          94,
+          103
+        ]
+      }
+    ]
+  },
+  "reply_count": 0,
+  "in_reply_to_screen_name": null,
+  "display_text_range": [
+    0,
+    140
+  ],
+  "text": "Comparto la portada de la cartilla, resultado de nuestra investigaci\u00f3n #FelizMartes #Finanzas #Negocios\u2026 https://t.co/WRTRchSCxr",
+  "extended_tweet": {
+    "display_text_range": [
+      0,
+      146
+    ],
+    "extended_entities": {
+      "media": [
+        {
+          "id": 930451778147180545,
+          "display_url": "pic.twitter.com/ojhdPyOMbw",
+          "id_str": "930451778147180545",
+          "indices": [
+            147,
+            170
+          ],
+          "expanded_url": "https://twitter.com/soytoro_e/status/930451798619578368/photo/1",
+          "type": "photo",
+          "url": "https://t.co/ojhdPyOMbw",
+          "media_url_https": "https://pbs.twimg.com/media/DOmg9mUX4AEYyf7.jpg",
+          "media_url": "http://pbs.twimg.com/media/DOmg9mUX4AEYyf7.jpg",
+          "sizes": {
+            "small": {
+              "w": 480,
+              "h": 680,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 1066,
+              "h": 1509,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 848,
+              "h": 1200,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "entities": {
+      "media": [
+        {
+          "id": 930451778147180545,
+          "display_url": "pic.twitter.com/ojhdPyOMbw",
+          "id_str": "930451778147180545",
+          "indices": [
+            147,
+            170
+          ],
+          "expanded_url": "https://twitter.com/soytoro_e/status/930451798619578368/photo/1",
+          "type": "photo",
+          "url": "https://t.co/ojhdPyOMbw",
+          "media_url_https": "https://pbs.twimg.com/media/DOmg9mUX4AEYyf7.jpg",
+          "media_url": "http://pbs.twimg.com/media/DOmg9mUX4AEYyf7.jpg",
+          "sizes": {
+            "small": {
+              "w": 480,
+              "h": 680,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 1066,
+              "h": 1509,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 848,
+              "h": 1200,
+              "resize": "fit"
+            }
+          }
+        }
+      ],
+      "urls": [],
+      "symbols": [],
+      "user_mentions": [],
+      "hashtags": [
+        {
+          "text": "FelizMartes",
+          "indices": [
+            71,
+            83
+          ]
+        },
+        {
+          "text": "Finanzas",
+          "indices": [
+            84,
+            93
+          ]
+        },
+        {
+          "text": "Negocios",
+          "indices": [
+            94,
+            103
+          ]
+        },
+        {
+          "text": "negociosInternacionales",
+          "indices": [
+            104,
+            128
+          ]
+        },
+        {
+          "text": "Bogota",
+          "indices": [
+            129,
+            136
+          ]
+        },
+        {
+          "text": "Colombia",
+          "indices": [
+            137,
+            146
+          ]
+        }
+      ]
+    },
+    "full_text": "Comparto la portada de la cartilla, resultado de nuestra investigaci\u00f3n #FelizMartes #Finanzas #Negocios #negociosInternacionales #Bogota #Colombia https://t.co/ojhdPyOMbw"
+  },
+  "user": {
+    "statuses_count": 26,
+    "id": 850558673541885953,
+    "default_profile": true,
+    "favourites_count": 57,
+    "url": null,
+    "profile_background_image_url_https": "",
+    "verified": false,
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/928460105007468544/JOY4d0Bp_normal.jpg",
+    "translator_type": "none",
+    "location": "Bogot\u00e1, D.C., Colombia",
+    "geo_enabled": true,
+    "utc_offset": null,
+    "notifications": null,
+    "profile_background_tile": false,
+    "friends_count": 26,
+    "is_translator": false,
+    "follow_request_sent": null,
+    "default_profile_image": false,
+    "profile_background_image_url": "",
+    "profile_background_color": "F5F8FA",
+    "profile_link_color": "1DA1F2",
+    "profile_use_background_image": true,
+    "time_zone": null,
+    "name": "Edilberto Toro",
+    "profile_text_color": "333333",
+    "profile_sidebar_border_color": "C0DEED",
+    "screen_name": "soytoro_e",
+    "lang": "es",
+    "following": null,
+    "listed_count": 0,
+    "protected": false,
+    "profile_sidebar_fill_color": "DDEEF6",
+    "followers_count": 12,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/928460105007468544/JOY4d0Bp_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/850558673541885953/1510197232",
+    "contributors_enabled": false,
+    "created_at": "Sat Apr 08 03:59:25 +0000 2017",
+    "id_str": "850558673541885953",
+    "description": "Financial and international business\nhttp://instagram.com/soytoro.e"
+  },
+  "created_at": "Tue Nov 14 15:06:10 +0000 2017",
+  "id_str": "930451798619578368",
+  "in_reply_to_user_id": null,
+  "contributors": null
+}

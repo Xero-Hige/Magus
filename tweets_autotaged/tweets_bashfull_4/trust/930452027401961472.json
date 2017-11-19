@@ -1,0 +1,230 @@
+{
+  "id": 930452027401961472,
+  "lang": "es",
+  "in_reply_to_status_id_str": null,
+  "truncated": true,
+  "place": {
+    "id": "0161be1b3f98d6c3",
+    "country": "Colombia",
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            -74.483289,
+            3.717432
+          ],
+          [
+            -74.483289,
+            4.807135
+          ],
+          [
+            -74.004053,
+            4.807135
+          ],
+          [
+            -74.004053,
+            3.717432
+          ]
+        ]
+      ]
+    },
+    "url": "https://api.twitter.com/1.1/geo/id/0161be1b3f98d6c3.json",
+    "full_name": "Bogot\u00e1, D.C., Colombia",
+    "attributes": {},
+    "name": "Bogot\u00e1, D.C.",
+    "place_type": "city",
+    "country_code": "CO"
+  },
+  "favorite_count": 0,
+  "retweeted": false,
+  "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+  "is_quote_status": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "retweet_count": 0,
+  "quote_count": 0,
+  "timestamp_ms": "1510672024952",
+  "favorited": false,
+  "coordinates": null,
+  "text": "#FelizMartes #Hoy Comienza un nuevo programa en tu emisora favorita @radioliderve As\u00ed que #sintoniza y no te pierda\u2026 https://t.co/EFXmyYDS0Q",
+  "entities": {
+    "urls": [
+      {
+        "indices": [
+          117,
+          140
+        ],
+        "display_url": "twitter.com/i/web/status/9\u2026",
+        "url": "https://t.co/EFXmyYDS0Q",
+        "expanded_url": "https://twitter.com/i/web/status/930452027401961472"
+      }
+    ],
+    "symbols": [],
+    "user_mentions": [
+      {
+        "screen_name": "radioliderve",
+        "id": 881338169244999680,
+        "name": "radioliderweb",
+        "indices": [
+          68,
+          81
+        ],
+        "id_str": "881338169244999680"
+      }
+    ],
+    "hashtags": [
+      {
+        "text": "FelizMartes",
+        "indices": [
+          0,
+          12
+        ]
+      },
+      {
+        "text": "Hoy",
+        "indices": [
+          13,
+          17
+        ]
+      },
+      {
+        "text": "sintoniza",
+        "indices": [
+          90,
+          100
+        ]
+      }
+    ]
+  },
+  "reply_count": 0,
+  "geo": null,
+  "filter_level": "low",
+  "extended_tweet": {
+    "display_text_range": [
+      0,
+      218
+    ],
+    "entities": {
+      "urls": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "screen_name": "radioliderve",
+          "id": 881338169244999680,
+          "name": "radioliderweb",
+          "indices": [
+            68,
+            81
+          ],
+          "id_str": "881338169244999680"
+        }
+      ],
+      "hashtags": [
+        {
+          "text": "FelizMartes",
+          "indices": [
+            0,
+            12
+          ]
+        },
+        {
+          "text": "Hoy",
+          "indices": [
+            13,
+            17
+          ]
+        },
+        {
+          "text": "sintoniza",
+          "indices": [
+            90,
+            100
+          ]
+        },
+        {
+          "text": "14Nov",
+          "indices": [
+            157,
+            163
+          ]
+        },
+        {
+          "text": "AlAire",
+          "indices": [
+            164,
+            171
+          ]
+        },
+        {
+          "text": "SomosLaRadioDelFuturo",
+          "indices": [
+            172,
+            194
+          ]
+        },
+        {
+          "text": "YoSoyRadioLider",
+          "indices": [
+            195,
+            211
+          ]
+        },
+        {
+          "text": "Lider",
+          "indices": [
+            212,
+            218
+          ]
+        }
+      ]
+    },
+    "full_text": "#FelizMartes #Hoy Comienza un nuevo programa en tu emisora favorita @radioliderve As\u00ed que #sintoniza y no te pierdas todas las sorpresas que tenemos para ti #14Nov #AlAire #SomosLaRadioDelFuturo #YoSoyRadioLider #Lider"
+  },
+  "user": {
+    "statuses_count": 156,
+    "id": 881338169244999680,
+    "default_profile": false,
+    "favourites_count": 67,
+    "url": "http://radiolider.com.ve/",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "verified": false,
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/881344066893602817/nm1k68H-_normal.jpg",
+    "translator_type": "none",
+    "location": "Bogot\u00e1, D.C., Colombia",
+    "geo_enabled": true,
+    "utc_offset": null,
+    "notifications": null,
+    "profile_background_tile": false,
+    "friends_count": 98,
+    "is_translator": false,
+    "follow_request_sent": null,
+    "default_profile_image": false,
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_color": "000000",
+    "profile_link_color": "E81C4F",
+    "profile_use_background_image": false,
+    "time_zone": null,
+    "name": "radioliderweb",
+    "profile_text_color": "000000",
+    "profile_sidebar_border_color": "000000",
+    "screen_name": "radioliderve",
+    "lang": "es",
+    "following": null,
+    "listed_count": 0,
+    "protected": false,
+    "profile_sidebar_fill_color": "000000",
+    "followers_count": 19,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/881344066893602817/nm1k68H-_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/881338169244999680/1509329249",
+    "contributors_enabled": false,
+    "created_at": "Sun Jul 02 02:26:08 +0000 2017",
+    "id_str": "881338169244999680",
+    "description": "Somos La radio del Futuro! RadioLider De #Colombia para Todo el #mundo   \ud83c\udfa7\ud83c\udfa4"
+  },
+  "created_at": "Tue Nov 14 15:07:04 +0000 2017",
+  "id_str": "930452027401961472",
+  "in_reply_to_user_id": null,
+  "contributors": null
+}

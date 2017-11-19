@@ -1,0 +1,275 @@
+{
+  "id": 930453510654656512,
+  "lang": "es",
+  "in_reply_to_status_id_str": null,
+  "truncated": true,
+  "place": {
+    "id": "2afe3164f39d1b83",
+    "country": "Espa\u00f1a",
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            -4.928146,
+            41.523108
+          ],
+          [
+            -4.928146,
+            41.815553
+          ],
+          [
+            -4.630882,
+            41.815553
+          ],
+          [
+            -4.630882,
+            41.523108
+          ]
+        ]
+      ]
+    },
+    "url": "https://api.twitter.com/1.1/geo/id/2afe3164f39d1b83.json",
+    "full_name": "Valladolid, Espa\u00f1a",
+    "attributes": {},
+    "name": "Valladolid",
+    "place_type": "city",
+    "country_code": "ES"
+  },
+  "favorite_count": 0,
+  "retweeted": false,
+  "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+  "is_quote_status": false,
+  "possibly_sensitive": false,
+  "geo": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_status_id": null,
+  "retweet_count": 0,
+  "quote_count": 0,
+  "timestamp_ms": "1510672378587",
+  "favorited": false,
+  "coordinates": null,
+  "filter_level": "low",
+  "entities": {
+    "urls": [
+      {
+        "indices": [
+          72,
+          95
+        ],
+        "display_url": "ellasbuscan.com",
+        "url": "https://t.co/PjlXrtTHCx",
+        "expanded_url": "http://www.ellasbuscan.com"
+      },
+      {
+        "indices": [
+          117,
+          140
+        ],
+        "display_url": "twitter.com/i/web/status/9\u2026",
+        "url": "https://t.co/r6iplOiaw6",
+        "expanded_url": "https://twitter.com/i/web/status/930453510654656512"
+      }
+    ],
+    "symbols": [],
+    "user_mentions": [],
+    "hashtags": [
+      {
+        "text": "mujeres",
+        "indices": [
+          15,
+          23
+        ]
+      },
+      {
+        "text": "quedar",
+        "indices": [
+          29,
+          36
+        ]
+      },
+      {
+        "text": "polvazo",
+        "indices": [
+          53,
+          61
+        ]
+      }
+    ]
+  },
+  "reply_count": 0,
+  "in_reply_to_screen_name": null,
+  "display_text_range": [
+    0,
+    140
+  ],
+  "text": "Estas buscando #mujeres para #quedar y echar un buen #polvazo?\nEntra en https://t.co/PjlXrtTHCx y encontraras vicio\u2026 https://t.co/r6iplOiaw6",
+  "extended_tweet": {
+    "display_text_range": [
+      0,
+      167
+    ],
+    "extended_entities": {
+      "media": [
+        {
+          "id": 930453495647473665,
+          "display_url": "pic.twitter.com/JId2ayKHIx",
+          "id_str": "930453495647473665",
+          "indices": [
+            168,
+            191
+          ],
+          "expanded_url": "https://twitter.com/Morena95natural/status/930453510654656512/photo/1",
+          "type": "photo",
+          "url": "https://t.co/JId2ayKHIx",
+          "media_url_https": "https://pbs.twimg.com/media/DOmihkgWkAEvvif.jpg",
+          "media_url": "http://pbs.twimg.com/media/DOmihkgWkAEvvif.jpg",
+          "sizes": {
+            "small": {
+              "w": 225,
+              "h": 225,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 225,
+              "h": 225,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 225,
+              "h": 225,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "entities": {
+      "media": [
+        {
+          "id": 930453495647473665,
+          "display_url": "pic.twitter.com/JId2ayKHIx",
+          "id_str": "930453495647473665",
+          "indices": [
+            168,
+            191
+          ],
+          "expanded_url": "https://twitter.com/Morena95natural/status/930453510654656512/photo/1",
+          "type": "photo",
+          "url": "https://t.co/JId2ayKHIx",
+          "media_url_https": "https://pbs.twimg.com/media/DOmihkgWkAEvvif.jpg",
+          "media_url": "http://pbs.twimg.com/media/DOmihkgWkAEvvif.jpg",
+          "sizes": {
+            "small": {
+              "w": 225,
+              "h": 225,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 225,
+              "h": 225,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 225,
+              "h": 225,
+              "resize": "fit"
+            }
+          }
+        }
+      ],
+      "urls": [
+        {
+          "indices": [
+            72,
+            95
+          ],
+          "display_url": "ellasbuscan.com",
+          "url": "https://t.co/PjlXrtTHCx",
+          "expanded_url": "http://www.ellasbuscan.com"
+        }
+      ],
+      "symbols": [],
+      "user_mentions": [],
+      "hashtags": [
+        {
+          "text": "mujeres",
+          "indices": [
+            15,
+            23
+          ]
+        },
+        {
+          "text": "quedar",
+          "indices": [
+            29,
+            36
+          ]
+        },
+        {
+          "text": "polvazo",
+          "indices": [
+            53,
+            61
+          ]
+        }
+      ]
+    },
+    "full_text": "Estas buscando #mujeres para #quedar y echar un buen #polvazo?\nEntra en https://t.co/PjlXrtTHCx y encontraras viciosas de tu ciudad!!!\nAsi de c\u00f3modo, r\u00e1pido y f\u00e1cil!!! https://t.co/JId2ayKHIx"
+  },
+  "user": {
+    "statuses_count": 5339,
+    "id": 921885529,
+    "default_profile": false,
+    "favourites_count": 817,
+    "url": "http://morena95natural.blogspot.com.es",
+    "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/537833864312287232/Sb0or1wW.jpeg",
+    "verified": false,
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/921150993932476416/GxzecSaq_normal.jpg",
+    "translator_type": "none",
+    "location": "Skype: Morenaza95natural",
+    "geo_enabled": true,
+    "utc_offset": 3600,
+    "notifications": null,
+    "profile_background_tile": true,
+    "friends_count": 15,
+    "is_translator": false,
+    "follow_request_sent": null,
+    "default_profile_image": false,
+    "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/537833864312287232/Sb0or1wW.jpeg",
+    "profile_background_color": "1A1B1F",
+    "profile_link_color": "F20E0E",
+    "profile_use_background_image": true,
+    "time_zone": "Madrid",
+    "name": "Morenaza95natural+18",
+    "profile_text_color": "333333",
+    "profile_sidebar_border_color": "000000",
+    "screen_name": "Morena95natural",
+    "lang": "es",
+    "following": null,
+    "listed_count": 20,
+    "protected": false,
+    "profile_sidebar_fill_color": "C0DFEC",
+    "followers_count": 2255,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/921150993932476416/GxzecSaq_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/921885529/1489622232",
+    "contributors_enabled": false,
+    "created_at": "Fri Nov 02 22:05:01 +0000 2012",
+    "id_str": "921885529",
+    "description": "Webcamer independiente  y c\u00f3mplice de fantasias fetichistas!!! Seremos complices del vicio y del morbo!!!  #ShowCam #Burusera #Fetish #CamShow #BragasUsadas"
+  },
+  "created_at": "Tue Nov 14 15:12:58 +0000 2017",
+  "id_str": "930453510654656512",
+  "in_reply_to_user_id": null,
+  "contributors": null
+}

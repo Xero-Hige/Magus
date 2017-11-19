@@ -1,0 +1,238 @@
+{
+  "id": 930453993729470466,
+  "lang": "es",
+  "in_reply_to_status_id_str": null,
+  "truncated": true,
+  "place": {
+    "id": "008be613029d4ca5",
+    "country": "Chile",
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            -71.589833,
+            -33.104552
+          ],
+          [
+            -71.589833,
+            -32.948163
+          ],
+          [
+            -71.441459,
+            -32.948163
+          ],
+          [
+            -71.441459,
+            -33.104552
+          ]
+        ]
+      ]
+    },
+    "url": "https://api.twitter.com/1.1/geo/id/008be613029d4ca5.json",
+    "full_name": "Vi\u00f1a del Mar, Chile",
+    "attributes": {},
+    "name": "Vi\u00f1a del Mar",
+    "place_type": "city",
+    "country_code": "CL"
+  },
+  "favorite_count": 0,
+  "retweeted": false,
+  "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+  "is_quote_status": false,
+  "possibly_sensitive": false,
+  "geo": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_status_id": null,
+  "retweet_count": 0,
+  "quote_count": 0,
+  "timestamp_ms": "1510672493761",
+  "favorited": false,
+  "coordinates": null,
+  "filter_level": "low",
+  "entities": {
+    "urls": [
+      {
+        "indices": [
+          117,
+          140
+        ],
+        "display_url": "twitter.com/i/web/status/9\u2026",
+        "url": "https://t.co/Xoo9UAOiXt",
+        "expanded_url": "https://twitter.com/i/web/status/930453993729470466"
+      }
+    ],
+    "symbols": [],
+    "user_mentions": [],
+    "hashtags": [
+      {
+        "text": "Derecho",
+        "indices": [
+          44,
+          52
+        ]
+      }
+    ]
+  },
+  "reply_count": 0,
+  "in_reply_to_screen_name": null,
+  "display_text_range": [
+    0,
+    140
+  ],
+  "text": "Especialistas y acad\u00e9micos de la Escuela de #Derecho UST Vi\u00f1a del Mar analizan virtudes y defectos del programa fam\u2026 https://t.co/Xoo9UAOiXt",
+  "extended_tweet": {
+    "display_text_range": [
+      0,
+      166
+    ],
+    "extended_entities": {
+      "media": [
+        {
+          "id": 930453978101542912,
+          "display_url": "pic.twitter.com/AOXa1wCh43",
+          "id_str": "930453978101542912",
+          "indices": [
+            167,
+            190
+          ],
+          "expanded_url": "https://twitter.com/DerechoUST/status/930453993729470466/photo/1",
+          "type": "photo",
+          "url": "https://t.co/AOXa1wCh43",
+          "media_url_https": "https://pbs.twimg.com/media/DOmi9pyXcAAyoe1.jpg",
+          "media_url": "http://pbs.twimg.com/media/DOmi9pyXcAAyoe1.jpg",
+          "sizes": {
+            "small": {
+              "w": 680,
+              "h": 510,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 800,
+              "h": 600,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 800,
+              "h": 600,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "entities": {
+      "media": [
+        {
+          "id": 930453978101542912,
+          "display_url": "pic.twitter.com/AOXa1wCh43",
+          "id_str": "930453978101542912",
+          "indices": [
+            167,
+            190
+          ],
+          "expanded_url": "https://twitter.com/DerechoUST/status/930453993729470466/photo/1",
+          "type": "photo",
+          "url": "https://t.co/AOXa1wCh43",
+          "media_url_https": "https://pbs.twimg.com/media/DOmi9pyXcAAyoe1.jpg",
+          "media_url": "http://pbs.twimg.com/media/DOmi9pyXcAAyoe1.jpg",
+          "sizes": {
+            "small": {
+              "w": 680,
+              "h": 510,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 800,
+              "h": 600,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 800,
+              "h": 600,
+              "resize": "fit"
+            }
+          }
+        }
+      ],
+      "urls": [
+        {
+          "indices": [
+            143,
+            166
+          ],
+          "display_url": "enlinea.santotomas.cl/actualidad-ins\u2026",
+          "url": "https://t.co/Aau91dfHbC",
+          "expanded_url": "http://enlinea.santotomas.cl/actualidad-institucional/mundo-santo-tomas/analizan-las-virtudes-y-defectos-del-programa-de-familias-de-acogida-de-sename/79128/"
+        }
+      ],
+      "symbols": [],
+      "user_mentions": [],
+      "hashtags": [
+        {
+          "text": "Derecho",
+          "indices": [
+            44,
+            52
+          ]
+        }
+      ]
+    },
+    "full_text": "Especialistas y acad\u00e9micos de la Escuela de #Derecho UST Vi\u00f1a del Mar analizan virtudes y defectos del programa familias de acogida del SENAME https://t.co/Aau91dfHbC https://t.co/AOXa1wCh43"
+  },
+  "user": {
+    "statuses_count": 178,
+    "id": 840050516294021120,
+    "default_profile": true,
+    "favourites_count": 40,
+    "url": "http://www.ust.cl/facultades/facultad-de-derecho/",
+    "profile_background_image_url_https": "",
+    "verified": false,
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/880255356714221570/iJJG1ott_normal.jpg",
+    "translator_type": "none",
+    "location": "Vi\u00f1a del Mar, Chile",
+    "geo_enabled": true,
+    "utc_offset": null,
+    "notifications": null,
+    "profile_background_tile": false,
+    "friends_count": 1803,
+    "is_translator": false,
+    "follow_request_sent": null,
+    "default_profile_image": false,
+    "profile_background_image_url": "",
+    "profile_background_color": "F5F8FA",
+    "profile_link_color": "1DA1F2",
+    "profile_use_background_image": true,
+    "time_zone": null,
+    "name": "Derecho UST",
+    "profile_text_color": "333333",
+    "profile_sidebar_border_color": "C0DEED",
+    "screen_name": "DerechoUST",
+    "lang": "es",
+    "following": null,
+    "listed_count": 1,
+    "protected": false,
+    "profile_sidebar_fill_color": "DDEEF6",
+    "followers_count": 239,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/880255356714221570/iJJG1ott_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/840050516294021120/1510601631",
+    "contributors_enabled": false,
+    "created_at": "Fri Mar 10 04:03:45 +0000 2017",
+    "id_str": "840050516294021120",
+    "description": "[Carrera y Universidad Acreditada] Alumnos sede Vi\u00f1a del Mar, contribuyendo a la difusi\u00f3n del quehacer docente, de investigaci\u00f3n y social de nuestra Facultad."
+  },
+  "created_at": "Tue Nov 14 15:14:53 +0000 2017",
+  "id_str": "930453993729470466",
+  "in_reply_to_user_id": null,
+  "contributors": null
+}

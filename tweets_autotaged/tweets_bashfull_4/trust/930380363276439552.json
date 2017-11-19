@@ -1,0 +1,125 @@
+{
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "id": 930380363276439552,
+  "in_reply_to_user_id": 1340280930,
+  "coordinates": null,
+  "reply_count": 0,
+  "timestamp_ms": "1510654938893",
+  "geo": null,
+  "quote_count": 0,
+  "retweet_count": 0,
+  "is_quote_status": false,
+  "created_at": "Tue Nov 14 10:22:18 +0000 2017",
+  "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+  "favorite_count": 0,
+  "in_reply_to_screen_name": "6AMLaManana",
+  "text": "@6AMLaManana Tribunal impone un a\u00f1o de prisi\u00f3n a joven que mat\u00f3 a machetazos a su madre #NCDN",
+  "in_reply_to_status_id_str": null,
+  "place": {
+    "country": "Dominican Republic",
+    "name": "Dominican Republic",
+    "id": "695f560eb8922977",
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            -72.007302,
+            17.470156
+          ],
+          [
+            -72.007302,
+            19.932314
+          ],
+          [
+            -68.322785,
+            19.932314
+          ],
+          [
+            -68.322785,
+            17.470156
+          ]
+        ]
+      ]
+    },
+    "country_code": "DO",
+    "place_type": "country",
+    "url": "https://api.twitter.com/1.1/geo/id/695f560eb8922977.json",
+    "attributes": {},
+    "full_name": "Dominican Republic"
+  },
+  "contributors": null,
+  "entities": {
+    "hashtags": [
+      {
+        "indices": [
+          88,
+          93
+        ],
+        "text": "NCDN"
+      }
+    ],
+    "urls": [],
+    "user_mentions": [
+      {
+        "screen_name": "6AMLaManana",
+        "name": "6AM LaMa\u00f1ana",
+        "id": 1340280930,
+        "id_str": "1340280930",
+        "indices": [
+          0,
+          12
+        ]
+      }
+    ],
+    "symbols": []
+  },
+  "retweeted": false,
+  "id_str": "930380363276439552",
+  "user": {
+    "time_zone": "Eastern Time (US & Canada)",
+    "follow_request_sent": null,
+    "id": 145802745,
+    "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/474682197371150336/dVRAEqBA.jpeg",
+    "translator_type": "none",
+    "screen_name": "CDN37",
+    "profile_link_color": "990000",
+    "url": "http://www.cdn.com.do",
+    "utc_offset": -18000,
+    "location": "Rep\u00fablica Dominicana",
+    "name": "CDN 37",
+    "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/474682197371150336/dVRAEqBA.jpeg",
+    "description": "CDN 37, Pasi\u00f3n por darte m\u00e1s que noticias. http://www.cdn.com.do y http://cdn.com.do/movil    #NoticiasCDNNews",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/145802745/1506112562",
+    "created_at": "Wed May 19 22:46:30 +0000 2010",
+    "protected": false,
+    "is_translator": false,
+    "listed_count": 2539,
+    "statuses_count": 538227,
+    "profile_sidebar_border_color": "FFFFFF",
+    "profile_sidebar_fill_color": "C0DFEC",
+    "default_profile": false,
+    "default_profile_image": false,
+    "verified": true,
+    "notifications": null,
+    "friends_count": 1188,
+    "profile_background_color": "EBEBEB",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/795705608523710464/QjD7Ktfu_normal.jpg",
+    "following": null,
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/795705608523710464/QjD7Ktfu_normal.jpg",
+    "geo_enabled": true,
+    "profile_use_background_image": true,
+    "contributors_enabled": false,
+    "id_str": "145802745",
+    "profile_text_color": "333333",
+    "followers_count": 847940,
+    "favourites_count": 18704,
+    "lang": "es",
+    "profile_background_tile": true
+  },
+  "filter_level": "low",
+  "in_reply_to_user_id_str": "1340280930",
+  "favorited": false,
+  "lang": "es"
+}

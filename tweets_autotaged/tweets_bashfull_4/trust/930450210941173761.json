@@ -1,0 +1,276 @@
+{
+  "id": 930450210941173761,
+  "lang": "es",
+  "in_reply_to_status_id_str": null,
+  "truncated": true,
+  "place": {
+    "id": "00c4b64e7affea25",
+    "country": "Chile",
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            -70.608694,
+            -33.486182
+          ],
+          [
+            -70.608694,
+            -33.364619
+          ],
+          [
+            -70.429141,
+            -33.364619
+          ],
+          [
+            -70.429141,
+            -33.486182
+          ]
+        ]
+      ]
+    },
+    "url": "https://api.twitter.com/1.1/geo/id/00c4b64e7affea25.json",
+    "full_name": "Las Condes, Chile",
+    "attributes": {},
+    "name": "Las Condes",
+    "place_type": "city",
+    "country_code": "CL"
+  },
+  "favorite_count": 0,
+  "retweeted": false,
+  "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+  "is_quote_status": false,
+  "possibly_sensitive": false,
+  "geo": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_status_id": null,
+  "retweet_count": 0,
+  "quote_count": 0,
+  "timestamp_ms": "1510671591874",
+  "favorited": false,
+  "coordinates": null,
+  "filter_level": "low",
+  "entities": {
+    "urls": [
+      {
+        "indices": [
+          81,
+          104
+        ],
+        "display_url": "goo.gl/1BYwBx",
+        "url": "https://t.co/Mqzk6cAGZM",
+        "expanded_url": "https://goo.gl/1BYwBx"
+      },
+      {
+        "indices": [
+          108,
+          131
+        ],
+        "display_url": "twitter.com/i/web/status/9\u2026",
+        "url": "https://t.co/T08AtzkX63",
+        "expanded_url": "https://twitter.com/i/web/status/930450210941173761"
+      }
+    ],
+    "symbols": [],
+    "user_mentions": [
+      {
+        "screen_name": "Alexis_Sanchez",
+        "id": 1610646036,
+        "name": "Alexis S\u00e1nchez",
+        "indices": [
+          30,
+          45
+        ],
+        "id_str": "1610646036"
+      }
+    ],
+    "hashtags": [
+      {
+        "text": "AmigoSecretoHuawei",
+        "indices": [
+          7,
+          26
+        ]
+      }
+    ]
+  },
+  "reply_count": 0,
+  "in_reply_to_screen_name": null,
+  "display_text_range": [
+    0,
+    140
+  ],
+  "text": "\u00a1S\u00e9 el #AmigoSecretoHuawei de @Alexis_Sanchez y viaja +1 a Europa! \ud83d\ude31 Ent\u00e9rate en https://t.co/Mqzk6cAGZM \ud83d\ude4c\u2026 https://t.co/T08AtzkX63",
+  "extended_tweet": {
+    "display_text_range": [
+      0,
+      119
+    ],
+    "extended_entities": {
+      "media": [
+        {
+          "id": 930450174526283776,
+          "display_url": "pic.twitter.com/lhS3Pr9ftG",
+          "id_str": "930450174526283776",
+          "indices": [
+            120,
+            143
+          ],
+          "expanded_url": "https://twitter.com/HuaweiMobileCL/status/930450210941173761/photo/1",
+          "type": "photo",
+          "url": "https://t.co/lhS3Pr9ftG",
+          "media_url_https": "https://pbs.twimg.com/media/DOmfgQXW4AAxhWZ.jpg",
+          "media_url": "http://pbs.twimg.com/media/DOmfgQXW4AAxhWZ.jpg",
+          "sizes": {
+            "small": {
+              "w": 680,
+              "h": 385,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 1024,
+              "h": 580,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 1024,
+              "h": 580,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "entities": {
+      "media": [
+        {
+          "id": 930450174526283776,
+          "display_url": "pic.twitter.com/lhS3Pr9ftG",
+          "id_str": "930450174526283776",
+          "indices": [
+            120,
+            143
+          ],
+          "expanded_url": "https://twitter.com/HuaweiMobileCL/status/930450210941173761/photo/1",
+          "type": "photo",
+          "url": "https://t.co/lhS3Pr9ftG",
+          "media_url_https": "https://pbs.twimg.com/media/DOmfgQXW4AAxhWZ.jpg",
+          "media_url": "http://pbs.twimg.com/media/DOmfgQXW4AAxhWZ.jpg",
+          "sizes": {
+            "small": {
+              "w": 680,
+              "h": 385,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 1024,
+              "h": 580,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 1024,
+              "h": 580,
+              "resize": "fit"
+            }
+          }
+        }
+      ],
+      "urls": [
+        {
+          "indices": [
+            81,
+            104
+          ],
+          "display_url": "goo.gl/1BYwBx",
+          "url": "https://t.co/Mqzk6cAGZM",
+          "expanded_url": "https://goo.gl/1BYwBx"
+        }
+      ],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "screen_name": "Alexis_Sanchez",
+          "id": 1610646036,
+          "name": "Alexis S\u00e1nchez",
+          "indices": [
+            30,
+            45
+          ],
+          "id_str": "1610646036"
+        }
+      ],
+      "hashtags": [
+        {
+          "text": "AmigoSecretoHuawei",
+          "indices": [
+            7,
+            26
+          ]
+        },
+        {
+          "text": "FelizMartes",
+          "indices": [
+            107,
+            119
+          ]
+        }
+      ]
+    },
+    "full_text": "\u00a1S\u00e9 el #AmigoSecretoHuawei de @Alexis_Sanchez y viaja +1 a Europa! \ud83d\ude31 Ent\u00e9rate en https://t.co/Mqzk6cAGZM \ud83d\ude4c #FelizMartes https://t.co/lhS3Pr9ftG"
+  },
+  "user": {
+    "statuses_count": 13261,
+    "id": 1560985724,
+    "default_profile": false,
+    "favourites_count": 5167,
+    "url": "http://consumer.huawei.com/cl",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+    "verified": false,
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/629810517411000320/Wb3dkMRG_normal.png",
+    "translator_type": "none",
+    "location": "Chile",
+    "geo_enabled": true,
+    "utc_offset": -14400,
+    "notifications": null,
+    "profile_background_tile": true,
+    "friends_count": 3542,
+    "is_translator": false,
+    "follow_request_sent": null,
+    "default_profile_image": false,
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+    "profile_background_color": "131516",
+    "profile_link_color": "ABB8C2",
+    "profile_use_background_image": true,
+    "time_zone": "Atlantic Time (Canada)",
+    "name": "Huawei Mobile Chile",
+    "profile_text_color": "333333",
+    "profile_sidebar_border_color": "FFFFFF",
+    "screen_name": "HuaweiMobileCL",
+    "lang": "es",
+    "following": null,
+    "listed_count": 46,
+    "protected": false,
+    "profile_sidebar_fill_color": "EFEFEF",
+    "followers_count": 85703,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/629810517411000320/Wb3dkMRG_normal.png",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1560985724/1510670842",
+    "contributors_enabled": false,
+    "created_at": "Mon Jul 01 16:55:05 +0000 2013",
+    "id_str": "1560985724",
+    "description": "Bienvenidos a la p\u00e1gina oficial en Twitter de Huawei Chile.\n\n\nTel\u00e9fono: 800201335\n\nContacto: mobile.cl@huawei.com"
+  },
+  "created_at": "Tue Nov 14 14:59:51 +0000 2017",
+  "id_str": "930450210941173761",
+  "in_reply_to_user_id": null,
+  "contributors": null
+}

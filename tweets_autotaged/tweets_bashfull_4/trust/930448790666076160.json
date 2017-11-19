@@ -1,0 +1,284 @@
+{
+  "id": 930448790666076160,
+  "lang": "es",
+  "in_reply_to_status_id_str": null,
+  "truncated": true,
+  "place": {
+    "id": "2a193b4e553f821c",
+    "country": "Espa\u00f1a",
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            -0.300609,
+            40.47375
+          ],
+          [
+            -0.300609,
+            40.600846
+          ],
+          [
+            -0.225781,
+            40.600846
+          ],
+          [
+            -0.225781,
+            40.47375
+          ]
+        ]
+      ]
+    },
+    "url": "https://api.twitter.com/1.1/geo/id/2a193b4e553f821c.json",
+    "full_name": "Portell de Morella, Espa\u00f1a",
+    "attributes": {},
+    "name": "Portell de Morella",
+    "place_type": "city",
+    "country_code": "ES"
+  },
+  "favorite_count": 0,
+  "retweeted": false,
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "is_quote_status": false,
+  "possibly_sensitive": false,
+  "geo": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_status_id": null,
+  "retweet_count": 0,
+  "quote_count": 0,
+  "timestamp_ms": "1510671253254",
+  "favorited": false,
+  "coordinates": null,
+  "filter_level": "low",
+  "entities": {
+    "urls": [
+      {
+        "indices": [
+          116,
+          139
+        ],
+        "display_url": "twitter.com/i/web/status/9\u2026",
+        "url": "https://t.co/WYvPap8PHw",
+        "expanded_url": "https://twitter.com/i/web/status/930448790666076160"
+      }
+    ],
+    "symbols": [],
+    "user_mentions": [],
+    "hashtags": []
+  },
+  "reply_count": 0,
+  "in_reply_to_screen_name": null,
+  "display_text_range": [
+    0,
+    140
+  ],
+  "text": "Un honor dejar testimonio de mi paso por l\u2019Ajuntament de Portell. Un privilegio conocer de primera mano el trabajo\u2026 https://t.co/WYvPap8PHw",
+  "extended_tweet": {
+    "display_text_range": [
+      0,
+      280
+    ],
+    "extended_entities": {
+      "media": [
+        {
+          "id": 930448776539639810,
+          "display_url": "pic.twitter.com/gP7IWp5pKa",
+          "id_str": "930448776539639810",
+          "indices": [
+            281,
+            304
+          ],
+          "expanded_url": "https://twitter.com/DavidBarelles/status/930448790666076160/photo/1",
+          "type": "photo",
+          "url": "https://t.co/gP7IWp5pKa",
+          "media_url_https": "https://pbs.twimg.com/media/DOmeO4dXkAIQHIe.jpg",
+          "media_url": "http://pbs.twimg.com/media/DOmeO4dXkAIQHIe.jpg",
+          "sizes": {
+            "small": {
+              "w": 680,
+              "h": 510,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 2048,
+              "h": 1536,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 1200,
+              "h": 900,
+              "resize": "fit"
+            }
+          }
+        },
+        {
+          "id": 930448776514473984,
+          "display_url": "pic.twitter.com/gP7IWp5pKa",
+          "id_str": "930448776514473984",
+          "indices": [
+            281,
+            304
+          ],
+          "expanded_url": "https://twitter.com/DavidBarelles/status/930448790666076160/photo/1",
+          "type": "photo",
+          "url": "https://t.co/gP7IWp5pKa",
+          "media_url_https": "https://pbs.twimg.com/media/DOmeO4XXkAAtU4K.jpg",
+          "media_url": "http://pbs.twimg.com/media/DOmeO4XXkAAtU4K.jpg",
+          "sizes": {
+            "small": {
+              "w": 680,
+              "h": 510,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 2048,
+              "h": 1536,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 1200,
+              "h": 900,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "entities": {
+      "media": [
+        {
+          "id": 930448776539639810,
+          "display_url": "pic.twitter.com/gP7IWp5pKa",
+          "id_str": "930448776539639810",
+          "indices": [
+            281,
+            304
+          ],
+          "expanded_url": "https://twitter.com/DavidBarelles/status/930448790666076160/photo/1",
+          "type": "photo",
+          "url": "https://t.co/gP7IWp5pKa",
+          "media_url_https": "https://pbs.twimg.com/media/DOmeO4dXkAIQHIe.jpg",
+          "media_url": "http://pbs.twimg.com/media/DOmeO4dXkAIQHIe.jpg",
+          "sizes": {
+            "small": {
+              "w": 680,
+              "h": 510,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 2048,
+              "h": 1536,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 1200,
+              "h": 900,
+              "resize": "fit"
+            }
+          }
+        },
+        {
+          "id": 930448776514473984,
+          "display_url": "pic.twitter.com/gP7IWp5pKa",
+          "id_str": "930448776514473984",
+          "indices": [
+            281,
+            304
+          ],
+          "expanded_url": "https://twitter.com/DavidBarelles/status/930448790666076160/photo/1",
+          "type": "photo",
+          "url": "https://t.co/gP7IWp5pKa",
+          "media_url_https": "https://pbs.twimg.com/media/DOmeO4XXkAAtU4K.jpg",
+          "media_url": "http://pbs.twimg.com/media/DOmeO4XXkAAtU4K.jpg",
+          "sizes": {
+            "small": {
+              "w": 680,
+              "h": 510,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 2048,
+              "h": 1536,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 1200,
+              "h": 900,
+              "resize": "fit"
+            }
+          }
+        }
+      ],
+      "urls": [],
+      "symbols": [],
+      "user_mentions": [],
+      "hashtags": []
+    },
+    "full_text": "Un honor dejar testimonio de mi paso por l\u2019Ajuntament de Portell. Un privilegio conocer de primera mano el trabajo del pueblo por defender sus ra\u00edces sin renunciar a la apuesta por las energ\u00edas renovables y los proyectos m\u00e1s avanzados Gracias \u00c1lvaro, por ser el perfecto anfitri\u00f3n https://t.co/gP7IWp5pKa"
+  },
+  "user": {
+    "statuses_count": 556,
+    "id": 878922728006459392,
+    "default_profile": false,
+    "favourites_count": 576,
+    "url": null,
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "verified": false,
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/904811446487445504/vGO5u_Ca_normal.jpg",
+    "translator_type": "none",
+    "location": "Castell\u00f3n de la Plana, Espa\u00f1a",
+    "geo_enabled": true,
+    "utc_offset": null,
+    "notifications": null,
+    "profile_background_tile": false,
+    "friends_count": 161,
+    "is_translator": false,
+    "follow_request_sent": null,
+    "default_profile_image": false,
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_color": "000000",
+    "profile_link_color": "1B95E0",
+    "profile_use_background_image": false,
+    "time_zone": null,
+    "name": "David Barelles",
+    "profile_text_color": "000000",
+    "profile_sidebar_border_color": "000000",
+    "screen_name": "DavidBarelles",
+    "lang": "es",
+    "following": null,
+    "listed_count": 0,
+    "protected": false,
+    "profile_sidebar_fill_color": "000000",
+    "followers_count": 118,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/904811446487445504/vGO5u_Ca_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/878922728006459392/1503354302",
+    "contributors_enabled": false,
+    "created_at": "Sun Jun 25 10:28:02 +0000 2017",
+    "id_str": "878922728006459392",
+    "description": "Subdelegado del Gobierno en Castell\u00f3n"
+  },
+  "created_at": "Tue Nov 14 14:54:13 +0000 2017",
+  "id_str": "930448790666076160",
+  "in_reply_to_user_id": null,
+  "contributors": null
+}

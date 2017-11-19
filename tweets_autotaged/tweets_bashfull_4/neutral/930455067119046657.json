@@ -1,0 +1,121 @@
+{
+  "id": 930455067119046657,
+  "in_reply_to_status_id_str": "930454607603564545",
+  "truncated": false,
+  "place": {
+    "id": "3afc29d1fe76301f",
+    "country": "Espa\u00f1a",
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            -1.174093,
+            41.451835
+          ],
+          [
+            -1.174093,
+            41.931438
+          ],
+          [
+            -0.680572,
+            41.931438
+          ],
+          [
+            -0.680572,
+            41.451835
+          ]
+        ]
+      ]
+    },
+    "url": "https://api.twitter.com/1.1/geo/id/3afc29d1fe76301f.json",
+    "full_name": "Zaragoza, Espa\u00f1a",
+    "attributes": {},
+    "name": "Zaragoza",
+    "place_type": "city",
+    "country_code": "ES"
+  },
+  "favorite_count": 0,
+  "retweeted": false,
+  "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+  "is_quote_status": false,
+  "in_reply_to_status_id": 930454607603564545,
+  "coordinates": null,
+  "in_reply_to_screen_name": "CentroPokemon",
+  "retweet_count": 0,
+  "quote_count": 0,
+  "timestamp_ms": "1510672749677",
+  "favorited": false,
+  "in_reply_to_user_id_str": "67544145",
+  "filter_level": "low",
+  "entities": {
+    "urls": [],
+    "symbols": [],
+    "user_mentions": [
+      {
+        "screen_name": "CentroPokemon",
+        "id": 67544145,
+        "name": "Centro Pok\u00e9mon",
+        "indices": [
+          0,
+          14
+        ],
+        "id_str": "67544145"
+      }
+    ],
+    "hashtags": []
+  },
+  "reply_count": 0,
+  "geo": null,
+  "display_text_range": [
+    15,
+    113
+  ],
+  "text": "@CentroPokemon \u00bfLo de que la historia iba a ser el doble de larga y el post-game mucho m\u00e1s extenso, al final qu\u00e9?",
+  "lang": "es",
+  "user": {
+    "statuses_count": 166398,
+    "id": 349199786,
+    "default_profile": false,
+    "favourites_count": 14921,
+    "url": null,
+    "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/543399571/Serious_Business.jpg",
+    "verified": false,
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/930232058068262917/23v4_sg__normal.jpg",
+    "translator_type": "none",
+    "location": "Metro Nueva Numancia",
+    "geo_enabled": true,
+    "utc_offset": -10800,
+    "notifications": null,
+    "profile_background_tile": true,
+    "friends_count": 901,
+    "is_translator": false,
+    "follow_request_sent": null,
+    "default_profile_image": false,
+    "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/543399571/Serious_Business.jpg",
+    "profile_background_color": "C0DEED",
+    "profile_link_color": "0084B4",
+    "profile_use_background_image": true,
+    "time_zone": "Greenland",
+    "name": "Pablo",
+    "profile_text_color": "333333",
+    "profile_sidebar_border_color": "FFFFFF",
+    "screen_name": "RageAwakened",
+    "lang": "es",
+    "following": null,
+    "listed_count": 23,
+    "protected": false,
+    "profile_sidebar_fill_color": "DDEEF6",
+    "followers_count": 859,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/930232058068262917/23v4_sg__normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/349199786/1494348938",
+    "contributors_enabled": false,
+    "created_at": "Fri Aug 05 18:34:23 +0000 2011",
+    "id_str": "349199786",
+    "description": "No os aseguro que funcione, pero seguro les sorprender\u00e1."
+  },
+  "created_at": "Tue Nov 14 15:19:09 +0000 2017",
+  "id_str": "930455067119046657",
+  "in_reply_to_user_id": 67544145,
+  "contributors": null
+}

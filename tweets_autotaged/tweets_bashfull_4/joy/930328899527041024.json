@@ -1,0 +1,125 @@
+{
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "id": 930328899527041024,
+  "in_reply_to_user_id": null,
+  "coordinates": null,
+  "possibly_sensitive": false,
+  "reply_count": 0,
+  "timestamp_ms": "1510642668979",
+  "geo": null,
+  "quote_count": 0,
+  "retweet_count": 0,
+  "is_quote_status": false,
+  "created_at": "Tue Nov 14 06:57:48 +0000 2017",
+  "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+  "favorite_count": 0,
+  "in_reply_to_screen_name": null,
+  "text": "Pasar tiempo cerca de \u00e1rboles mejora la salud f\u00edsica y mental https://t.co/VFBHDvqxv1 #FelizMartes",
+  "in_reply_to_status_id_str": null,
+  "place": {
+    "country": "Espa\u00f1a",
+    "name": "Albacete",
+    "id": "56933d34eb0f964a",
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            -2.181299,
+            38.672083
+          ],
+          [
+            -2.181299,
+            39.186567
+          ],
+          [
+            -1.62259,
+            39.186567
+          ],
+          [
+            -1.62259,
+            38.672083
+          ]
+        ]
+      ]
+    },
+    "country_code": "ES",
+    "place_type": "city",
+    "url": "https://api.twitter.com/1.1/geo/id/56933d34eb0f964a.json",
+    "attributes": {},
+    "full_name": "Albacete, Espa\u00f1a"
+  },
+  "contributors": null,
+  "entities": {
+    "hashtags": [
+      {
+        "indices": [
+          86,
+          98
+        ],
+        "text": "FelizMartes"
+      }
+    ],
+    "urls": [
+      {
+        "expanded_url": "http://elasombrario.com/cerca-arboles-mejora-salud/",
+        "display_url": "elasombrario.com/cerca-arboles-\u2026",
+        "indices": [
+          62,
+          85
+        ],
+        "url": "https://t.co/VFBHDvqxv1"
+      }
+    ],
+    "user_mentions": [],
+    "symbols": []
+  },
+  "retweeted": false,
+  "id_str": "930328899527041024",
+  "user": {
+    "time_zone": "Madrid",
+    "follow_request_sent": null,
+    "id": 2808808030,
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "translator_type": "none",
+    "screen_name": "DejandoHuellaAB",
+    "profile_link_color": "1DA1F2",
+    "url": "http://www.albacetedejandohuella.org",
+    "utc_offset": 3600,
+    "location": "Albacete",
+    "name": "Dejando Huella AB",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "description": "No hay vida que merezca ser vivida si no atendemos las vidas de los que nos rodean, sean de la especie que sean. info@albacetedejandohuella.org",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/2808808030/1413112832",
+    "created_at": "Sun Oct 05 18:46:28 +0000 2014",
+    "protected": false,
+    "is_translator": false,
+    "listed_count": 95,
+    "statuses_count": 28004,
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "default_profile": true,
+    "default_profile_image": false,
+    "verified": false,
+    "notifications": null,
+    "friends_count": 4190,
+    "profile_background_color": "C0DEED",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/521259163112857600/aG4NRUHB_normal.png",
+    "following": null,
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/521259163112857600/aG4NRUHB_normal.png",
+    "geo_enabled": true,
+    "profile_use_background_image": true,
+    "contributors_enabled": false,
+    "id_str": "2808808030",
+    "profile_text_color": "333333",
+    "followers_count": 5054,
+    "favourites_count": 32946,
+    "lang": "es",
+    "profile_background_tile": false
+  },
+  "filter_level": "low",
+  "in_reply_to_user_id_str": null,
+  "favorited": false,
+  "lang": "es"
+}

@@ -1,0 +1,175 @@
+{
+  "id": 930451087563415552,
+  "lang": "es",
+  "in_reply_to_status_id_str": "928606849519247360",
+  "truncated": true,
+  "place": {
+    "id": "018f1cde6bad9747",
+    "country": "Argentina",
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            -58.531792,
+            -34.674453
+          ],
+          [
+            -58.531792,
+            -34.534177
+          ],
+          [
+            -58.353494,
+            -34.534177
+          ],
+          [
+            -58.353494,
+            -34.674453
+          ]
+        ]
+      ]
+    },
+    "url": "https://api.twitter.com/1.1/geo/id/018f1cde6bad9747.json",
+    "full_name": "Ciudad Aut\u00f3noma de Buenos Aires, Argentina",
+    "attributes": {},
+    "name": "Ciudad Aut\u00f3noma de Buenos Aires",
+    "place_type": "city",
+    "country_code": "AR"
+  },
+  "favorite_count": 0,
+  "retweeted": false,
+  "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+  "is_quote_status": false,
+  "in_reply_to_status_id": 928606849519247360,
+  "in_reply_to_user_id_str": "372042321",
+  "in_reply_to_screen_name": "Ale_Torres60",
+  "retweet_count": 0,
+  "quote_count": 0,
+  "timestamp_ms": "1510671800877",
+  "favorited": false,
+  "coordinates": null,
+  "filter_level": "low",
+  "entities": {
+    "urls": [
+      {
+        "indices": [
+          117,
+          140
+        ],
+        "display_url": "twitter.com/i/web/status/9\u2026",
+        "url": "https://t.co/2Y9CQ9mqsr",
+        "expanded_url": "https://twitter.com/i/web/status/930451087563415552"
+      }
+    ],
+    "symbols": [],
+    "user_mentions": [
+      {
+        "screen_name": "Ale_Torres60",
+        "id": 372042321,
+        "name": "Alejandra Torres",
+        "indices": [
+          0,
+          13
+        ],
+        "id_str": "372042321"
+      },
+      {
+        "screen_name": "msalnacion",
+        "id": 144929758,
+        "name": "Ministerio de Salud",
+        "indices": [
+          14,
+          25
+        ],
+        "id_str": "144929758"
+      }
+    ],
+    "hashtags": []
+  },
+  "reply_count": 0,
+  "geo": null,
+  "display_text_range": [
+    14,
+    140
+  ],
+  "text": "@Ale_Torres60 @msalnacion Excelente! tuve oportunidad de conocer a quien hab\u00eda sido directora del Hospital Neuo-Psi\u2026 https://t.co/2Y9CQ9mqsr",
+  "extended_tweet": {
+    "display_text_range": [
+      14,
+      280
+    ],
+    "entities": {
+      "urls": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "screen_name": "Ale_Torres60",
+          "id": 372042321,
+          "name": "Alejandra Torres",
+          "indices": [
+            0,
+            13
+          ],
+          "id_str": "372042321"
+        },
+        {
+          "screen_name": "msalnacion",
+          "id": 144929758,
+          "name": "Ministerio de Salud",
+          "indices": [
+            14,
+            25
+          ],
+          "id_str": "144929758"
+        }
+      ],
+      "hashtags": []
+    },
+    "full_text": "@Ale_Torres60 @msalnacion Excelente! tuve oportunidad de conocer a quien hab\u00eda sido directora del Hospital Neuo-Psiqui\u00e1trico! excelente profesional, con propuestas de cambio y mejoras permanentes.Buen equipo para salud mental pero faltan accesorios como tratamientos legales, etc."
+  },
+  "user": {
+    "statuses_count": 5649,
+    "id": 695256798459199488,
+    "default_profile": true,
+    "favourites_count": 42,
+    "url": null,
+    "profile_background_image_url_https": "",
+    "verified": false,
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/695263755081535488/hIiuilDh_normal.jpg",
+    "translator_type": "none",
+    "location": null,
+    "geo_enabled": true,
+    "utc_offset": null,
+    "notifications": null,
+    "profile_background_tile": false,
+    "friends_count": 86,
+    "is_translator": false,
+    "follow_request_sent": null,
+    "default_profile_image": false,
+    "profile_background_image_url": "",
+    "profile_background_color": "F5F8FA",
+    "profile_link_color": "1DA1F2",
+    "profile_use_background_image": true,
+    "time_zone": null,
+    "name": "Alberto P.",
+    "profile_text_color": "333333",
+    "profile_sidebar_border_color": "C0DEED",
+    "screen_name": "Alberto260162",
+    "lang": "es",
+    "following": null,
+    "listed_count": 3,
+    "protected": false,
+    "profile_sidebar_fill_color": "DDEEF6",
+    "followers_count": 67,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/695263755081535488/hIiuilDh_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/695256798459199488/1457539317",
+    "contributors_enabled": false,
+    "created_at": "Thu Feb 04 14:45:12 +0000 2016",
+    "id_str": "695256798459199488",
+    "description": "Hombre Argentino, me gustan las mejoras, la precisi\u00f3n, el automovilismo, los aviones, la tecnolog\u00eda,y ayudar a que las cosas buenas, ocurran."
+  },
+  "created_at": "Tue Nov 14 15:03:20 +0000 2017",
+  "id_str": "930451087563415552",
+  "in_reply_to_user_id": 372042321,
+  "contributors": null
+}

@@ -1,0 +1,116 @@
+{
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "id": 930382045385240577,
+  "in_reply_to_user_id": null,
+  "coordinates": null,
+  "possibly_sensitive": false,
+  "reply_count": 0,
+  "timestamp_ms": "1510655339939",
+  "geo": null,
+  "quote_count": 0,
+  "retweet_count": 0,
+  "is_quote_status": false,
+  "created_at": "Tue Nov 14 10:28:59 +0000 2017",
+  "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+  "favorite_count": 0,
+  "in_reply_to_screen_name": null,
+  "text": "Una votaci\u00f3 parlamentaria que se salta todas las reglas para proclamar una independencia \"sin efectos jur\u00eddicos\".  https://t.co/ahSzvZtFeC",
+  "in_reply_to_status_id_str": null,
+  "place": {
+    "country": "Espa\u00f1a",
+    "name": "Barcelona",
+    "id": "1a27537478dd8e38",
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            2.052477,
+            41.317048
+          ],
+          [
+            2.052477,
+            41.468266
+          ],
+          [
+            2.229978,
+            41.468266
+          ],
+          [
+            2.229978,
+            41.317048
+          ]
+        ]
+      ]
+    },
+    "country_code": "ES",
+    "place_type": "city",
+    "url": "https://api.twitter.com/1.1/geo/id/1a27537478dd8e38.json",
+    "attributes": {},
+    "full_name": "Barcelona, Espa\u00f1a"
+  },
+  "contributors": null,
+  "entities": {
+    "hashtags": [],
+    "urls": [
+      {
+        "expanded_url": "http://www.lavanguardia.com/politica/20171113/432863700226/mesa-parlament-dui-independencia-efectos-juridicos.html",
+        "display_url": "lavanguardia.com/politica/20171\u2026",
+        "indices": [
+          115,
+          138
+        ],
+        "url": "https://t.co/ahSzvZtFeC"
+      }
+    ],
+    "user_mentions": [],
+    "symbols": []
+  },
+  "retweeted": false,
+  "id_str": "930382045385240577",
+  "user": {
+    "time_zone": null,
+    "follow_request_sent": null,
+    "id": 569235216,
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "translator_type": "none",
+    "screen_name": "MilagrosPrezOli",
+    "profile_link_color": "1DA1F2",
+    "url": null,
+    "utc_offset": null,
+    "location": null,
+    "name": "Milagros P\u00e9rez Oliva",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "description": "Periodista",
+    "created_at": "Wed May 02 14:36:36 +0000 2012",
+    "protected": false,
+    "is_translator": false,
+    "listed_count": 302,
+    "statuses_count": 8077,
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "default_profile": true,
+    "default_profile_image": false,
+    "verified": false,
+    "notifications": null,
+    "friends_count": 512,
+    "profile_background_color": "C0DEED",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/746733605293015040/4ZxyJ-dK_normal.jpg",
+    "following": null,
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/746733605293015040/4ZxyJ-dK_normal.jpg",
+    "geo_enabled": true,
+    "profile_use_background_image": true,
+    "contributors_enabled": false,
+    "id_str": "569235216",
+    "profile_text_color": "333333",
+    "followers_count": 7885,
+    "favourites_count": 125,
+    "lang": "es",
+    "profile_background_tile": false
+  },
+  "filter_level": "low",
+  "in_reply_to_user_id_str": null,
+  "favorited": false,
+  "lang": "es"
+}

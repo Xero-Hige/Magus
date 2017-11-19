@@ -1,0 +1,125 @@
+{
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "id": 930319982440927233,
+  "in_reply_to_user_id": 121471258,
+  "coordinates": null,
+  "reply_count": 0,
+  "timestamp_ms": "1510640542980",
+  "geo": null,
+  "quote_count": 0,
+  "retweet_count": 0,
+  "is_quote_status": false,
+  "created_at": "Tue Nov 14 06:22:22 +0000 2017",
+  "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+  "favorite_count": 0,
+  "in_reply_to_screen_name": "JavierRamirezE",
+  "text": "@JavierRamirezE ame verte hoy \ud83d\ude0d a muchos metros de distancia \ud83d\ude02 #FiestasdeIndependenciadeCartagena2017",
+  "in_reply_to_status_id_str": null,
+  "place": {
+    "country": "Colombia",
+    "name": "Cartagena",
+    "id": "010fd77520d2d48a",
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            -75.7964,
+            10.084247
+          ],
+          [
+            -75.7964,
+            10.69665
+          ],
+          [
+            -75.302871,
+            10.69665
+          ],
+          [
+            -75.302871,
+            10.084247
+          ]
+        ]
+      ]
+    },
+    "country_code": "CO",
+    "place_type": "city",
+    "url": "https://api.twitter.com/1.1/geo/id/010fd77520d2d48a.json",
+    "attributes": {},
+    "full_name": "Cartagena, Colombia"
+  },
+  "contributors": null,
+  "entities": {
+    "hashtags": [
+      {
+        "indices": [
+          63,
+          101
+        ],
+        "text": "FiestasdeIndependenciadeCartagena2017"
+      }
+    ],
+    "urls": [],
+    "user_mentions": [
+      {
+        "screen_name": "JavierRamirezE",
+        "name": "Javier Ramirez",
+        "id": 121471258,
+        "id_str": "121471258",
+        "indices": [
+          0,
+          15
+        ]
+      }
+    ],
+    "symbols": []
+  },
+  "retweeted": false,
+  "id_str": "930319982440927233",
+  "user": {
+    "time_zone": null,
+    "follow_request_sent": null,
+    "id": 897137184427450368,
+    "profile_background_image_url": "",
+    "translator_type": "none",
+    "screen_name": "Jessicamargo0",
+    "profile_link_color": "1DA1F2",
+    "url": null,
+    "utc_offset": null,
+    "location": "Cartagena, Colombia",
+    "name": "Jessica patricia\ud83d\udc30",
+    "profile_background_image_url_https": "",
+    "description": "\ud83d\udcda\ud83d\udcd6",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/897137184427450368/1509582264",
+    "created_at": "Mon Aug 14 16:45:47 +0000 2017",
+    "protected": false,
+    "is_translator": false,
+    "listed_count": 0,
+    "statuses_count": 140,
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "default_profile": true,
+    "default_profile_image": false,
+    "verified": false,
+    "notifications": null,
+    "friends_count": 81,
+    "profile_background_color": "F5F8FA",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/929885044394659840/Hc1QvHRS_normal.jpg",
+    "following": null,
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/929885044394659840/Hc1QvHRS_normal.jpg",
+    "geo_enabled": true,
+    "profile_use_background_image": true,
+    "contributors_enabled": false,
+    "id_str": "897137184427450368",
+    "profile_text_color": "333333",
+    "followers_count": 24,
+    "favourites_count": 1952,
+    "lang": "es",
+    "profile_background_tile": false
+  },
+  "filter_level": "low",
+  "in_reply_to_user_id_str": "121471258",
+  "favorited": false,
+  "lang": "es"
+}

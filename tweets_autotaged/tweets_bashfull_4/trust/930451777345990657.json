@@ -1,0 +1,155 @@
+{
+  "id": 930451777345990657,
+  "lang": "es",
+  "in_reply_to_status_id_str": "930443536079634433",
+  "truncated": true,
+  "place": {
+    "id": "1a27537478dd8e38",
+    "country": "Espa\u00f1a",
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            2.052477,
+            41.317048
+          ],
+          [
+            2.052477,
+            41.468266
+          ],
+          [
+            2.229978,
+            41.468266
+          ],
+          [
+            2.229978,
+            41.317048
+          ]
+        ]
+      ]
+    },
+    "url": "https://api.twitter.com/1.1/geo/id/1a27537478dd8e38.json",
+    "full_name": "Barcelona, Espa\u00f1a",
+    "attributes": {},
+    "name": "Barcelona",
+    "place_type": "city",
+    "country_code": "ES"
+  },
+  "favorite_count": 0,
+  "retweeted": false,
+  "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+  "is_quote_status": false,
+  "in_reply_to_status_id": 930443536079634433,
+  "in_reply_to_user_id_str": "74453123",
+  "in_reply_to_screen_name": "LaVanguardia",
+  "retweet_count": 0,
+  "quote_count": 0,
+  "timestamp_ms": "1510671965334",
+  "favorited": false,
+  "coordinates": null,
+  "filter_level": "low",
+  "entities": {
+    "urls": [
+      {
+        "indices": [
+          117,
+          140
+        ],
+        "display_url": "twitter.com/i/web/status/9\u2026",
+        "url": "https://t.co/CMQvMJlRho",
+        "expanded_url": "https://twitter.com/i/web/status/930451777345990657"
+      }
+    ],
+    "symbols": [],
+    "user_mentions": [
+      {
+        "screen_name": "LaVanguardia",
+        "id": 74453123,
+        "name": "La Vanguardia",
+        "indices": [
+          0,
+          13
+        ],
+        "id_str": "74453123"
+      }
+    ],
+    "hashtags": []
+  },
+  "reply_count": 0,
+  "geo": null,
+  "display_text_range": [
+    14,
+    140
+  ],
+  "text": "@LaVanguardia Entiendo que la noticia presta a confusi\u00f3n. El domicilio fiscal lo marca donde radique la direcci\u00f3n e\u2026 https://t.co/CMQvMJlRho",
+  "extended_tweet": {
+    "display_text_range": [
+      14,
+      242
+    ],
+    "entities": {
+      "urls": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "screen_name": "LaVanguardia",
+          "id": 74453123,
+          "name": "La Vanguardia",
+          "indices": [
+            0,
+            13
+          ],
+          "id_str": "74453123"
+        }
+      ],
+      "hashtags": []
+    },
+    "full_text": "@LaVanguardia Entiendo que la noticia presta a confusi\u00f3n. El domicilio fiscal lo marca donde radique la direcci\u00f3n efectiva de la empresa, es decir direcci\u00f3n y Administraci\u00f3n. Si esta no se traslada la sede fiscal seguir\u00e1 estando en Catalunya."
+  },
+  "user": {
+    "statuses_count": 1157,
+    "id": 306222915,
+    "default_profile": false,
+    "favourites_count": 37,
+    "url": null,
+    "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/440892354325540864/a3pu0M_-.jpeg",
+    "verified": false,
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/461197830246248448/5gyJPIfc_normal.jpeg",
+    "translator_type": "none",
+    "location": "Catalunya",
+    "geo_enabled": true,
+    "utc_offset": 7200,
+    "notifications": null,
+    "profile_background_tile": false,
+    "friends_count": 44,
+    "is_translator": false,
+    "follow_request_sent": null,
+    "default_profile_image": false,
+    "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/440892354325540864/a3pu0M_-.jpeg",
+    "profile_background_color": "022330",
+    "profile_link_color": "276C85",
+    "profile_use_background_image": true,
+    "time_zone": "Athens",
+    "name": "Mario Ezquerra",
+    "profile_text_color": "333333",
+    "profile_sidebar_border_color": "FFFFFF",
+    "screen_name": "MarioEzquerra1",
+    "lang": "es",
+    "following": null,
+    "listed_count": 0,
+    "protected": false,
+    "profile_sidebar_fill_color": "DDEEF6",
+    "followers_count": 25,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/461197830246248448/5gyJPIfc_normal.jpeg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/306222915/1398792909",
+    "contributors_enabled": false,
+    "created_at": "Fri May 27 14:13:45 +0000 2011",
+    "id_str": "306222915",
+    "description": "Nunca te equivocar\u00e1s al hacer lo correcto.\nEconomista, catal\u00e1n y barcelonista, superviviente de la clase pol\u00edtica de este pa\u00eds."
+  },
+  "created_at": "Tue Nov 14 15:06:05 +0000 2017",
+  "id_str": "930451777345990657",
+  "in_reply_to_user_id": 74453123,
+  "contributors": null
+}

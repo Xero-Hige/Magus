@@ -1,0 +1,116 @@
+{
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "id": 930384677382352896,
+  "in_reply_to_user_id": 1585417488,
+  "coordinates": null,
+  "reply_count": 0,
+  "timestamp_ms": "1510655967456",
+  "geo": null,
+  "quote_count": 0,
+  "retweet_count": 0,
+  "is_quote_status": false,
+  "created_at": "Tue Nov 14 10:39:27 +0000 2017",
+  "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+  "favorite_count": 0,
+  "in_reply_to_screen_name": "eltiempotpa",
+  "text": "@eltiempotpa Cielos casi completamente despejados en toda la comarca de Avil\u00e9s. Algo de brisa y fresco. Todo un lujo en estas fechas.",
+  "in_reply_to_status_id_str": null,
+  "place": {
+    "country": "Espa\u00f1a",
+    "name": "Castrill\u00f3n",
+    "id": "c58f58a5186304da",
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            -6.053261,
+            43.498199
+          ],
+          [
+            -6.053261,
+            43.593766
+          ],
+          [
+            -5.927613,
+            43.593766
+          ],
+          [
+            -5.927613,
+            43.498199
+          ]
+        ]
+      ]
+    },
+    "country_code": "ES",
+    "place_type": "city",
+    "url": "https://api.twitter.com/1.1/geo/id/c58f58a5186304da.json",
+    "attributes": {},
+    "full_name": "Castrill\u00f3n, Espa\u00f1a"
+  },
+  "contributors": null,
+  "entities": {
+    "hashtags": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "screen_name": "eltiempotpa",
+        "name": "El tiempo TPA",
+        "id": 1585417488,
+        "id_str": "1585417488",
+        "indices": [
+          0,
+          12
+        ]
+      }
+    ],
+    "symbols": []
+  },
+  "retweeted": false,
+  "id_str": "930384677382352896",
+  "user": {
+    "time_zone": "Amsterdam",
+    "follow_request_sent": null,
+    "id": 184456786,
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "translator_type": "none",
+    "screen_name": "tramoxago",
+    "profile_link_color": "1DA1F2",
+    "url": null,
+    "utc_offset": 3600,
+    "location": null,
+    "name": "juan garcia",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "description": null,
+    "created_at": "Sun Aug 29 16:16:11 +0000 2010",
+    "protected": false,
+    "is_translator": false,
+    "listed_count": 0,
+    "statuses_count": 1199,
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "default_profile": true,
+    "default_profile_image": false,
+    "verified": false,
+    "notifications": null,
+    "friends_count": 453,
+    "profile_background_color": "C0DEED",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/2328066743/QxUn3sq9_normal",
+    "following": null,
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/2328066743/QxUn3sq9_normal",
+    "geo_enabled": true,
+    "profile_use_background_image": true,
+    "contributors_enabled": false,
+    "id_str": "184456786",
+    "profile_text_color": "333333",
+    "followers_count": 113,
+    "favourites_count": 507,
+    "lang": "es",
+    "profile_background_tile": false
+  },
+  "filter_level": "low",
+  "in_reply_to_user_id_str": "1585417488",
+  "favorited": false,
+  "lang": "es"
+}

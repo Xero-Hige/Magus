@@ -1,0 +1,234 @@
+{
+  "id": 930449531224850432,
+  "lang": "es",
+  "in_reply_to_status_id_str": null,
+  "truncated": true,
+  "place": {
+    "id": "00aecc853a5cea98",
+    "country": "Argentina",
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            -65.380571,
+            -43.279256
+          ],
+          [
+            -65.380571,
+            -43.232858
+          ],
+          [
+            -65.274193,
+            -43.232858
+          ],
+          [
+            -65.274193,
+            -43.279256
+          ]
+        ]
+      ]
+    },
+    "url": "https://api.twitter.com/1.1/geo/id/00aecc853a5cea98.json",
+    "full_name": "Trelew, Argentina",
+    "attributes": {},
+    "name": "Trelew",
+    "place_type": "city",
+    "country_code": "AR"
+  },
+  "favorite_count": 0,
+  "retweeted": false,
+  "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+  "is_quote_status": false,
+  "possibly_sensitive": false,
+  "geo": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_status_id": null,
+  "retweet_count": 0,
+  "quote_count": 0,
+  "timestamp_ms": "1510671429817",
+  "favorited": false,
+  "coordinates": null,
+  "filter_level": "low",
+  "entities": {
+    "urls": [
+      {
+        "indices": [
+          116,
+          139
+        ],
+        "display_url": "twitter.com/i/web/status/9\u2026",
+        "url": "https://t.co/JiIf6lvFim",
+        "expanded_url": "https://twitter.com/i/web/status/930449531224850432"
+      }
+    ],
+    "symbols": [],
+    "user_mentions": [],
+    "hashtags": []
+  },
+  "reply_count": 0,
+  "in_reply_to_screen_name": null,
+  "display_text_range": [
+    0,
+    140
+  ],
+  "text": "TANQUES DE RESERVA / El 5% de nuestros socios no tiene tanque de reserva. Alrededor de 1500 familias se queden sin\u2026 https://t.co/JiIf6lvFim",
+  "extended_tweet": {
+    "display_text_range": [
+      0,
+      275
+    ],
+    "extended_entities": {
+      "media": [
+        {
+          "id": 930449450509721600,
+          "display_url": "pic.twitter.com/jaVneU9z0h",
+          "id_str": "930449450509721600",
+          "indices": [
+            276,
+            299
+          ],
+          "expanded_url": "https://twitter.com/CoopTrelew/status/930449531224850432/photo/1",
+          "type": "photo",
+          "url": "https://t.co/jaVneU9z0h",
+          "media_url_https": "https://pbs.twimg.com/media/DOme2HMW4AAu0xf.jpg",
+          "media_url": "http://pbs.twimg.com/media/DOme2HMW4AAu0xf.jpg",
+          "sizes": {
+            "small": {
+              "w": 554,
+              "h": 680,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 1043,
+              "h": 1280,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 978,
+              "h": 1200,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "entities": {
+      "media": [
+        {
+          "id": 930449450509721600,
+          "display_url": "pic.twitter.com/jaVneU9z0h",
+          "id_str": "930449450509721600",
+          "indices": [
+            276,
+            299
+          ],
+          "expanded_url": "https://twitter.com/CoopTrelew/status/930449531224850432/photo/1",
+          "type": "photo",
+          "url": "https://t.co/jaVneU9z0h",
+          "media_url_https": "https://pbs.twimg.com/media/DOme2HMW4AAu0xf.jpg",
+          "media_url": "http://pbs.twimg.com/media/DOme2HMW4AAu0xf.jpg",
+          "sizes": {
+            "small": {
+              "w": 554,
+              "h": 680,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 1043,
+              "h": 1280,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 978,
+              "h": 1200,
+              "resize": "fit"
+            }
+          }
+        }
+      ],
+      "urls": [],
+      "symbols": [],
+      "user_mentions": [],
+      "hashtags": [
+        {
+          "text": "transparencia",
+          "indices": [
+            241,
+            255
+          ]
+        },
+        {
+          "text": "prevenci\u00f3n",
+          "indices": [
+            256,
+            267
+          ]
+        },
+        {
+          "text": "Trelew",
+          "indices": [
+            268,
+            275
+          ]
+        }
+      ]
+    },
+    "full_text": "TANQUES DE RESERVA / El 5% de nuestros socios no tiene tanque de reserva. Alrededor de 1500 familias se queden sin agua de forma inmediata ante cualquier imprevisto. Evitate molestias, instala tu tanque y mantene tu reserva de agua potable. #transparencia #prevenci\u00f3n #Trelew https://t.co/jaVneU9z0h"
+  },
+  "user": {
+    "statuses_count": 4471,
+    "id": 2746421881,
+    "default_profile": false,
+    "favourites_count": 380,
+    "url": "http://cooperativatrelew.com.ar",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+    "verified": false,
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/914869845434470401/vdPZMbpR_normal.jpg",
+    "translator_type": "none",
+    "location": "9 de Julio 403 - Horario de Atenci\u00f3n: 7:30 a 13:00 Hs.",
+    "geo_enabled": true,
+    "utc_offset": -28800,
+    "notifications": null,
+    "profile_background_tile": false,
+    "friends_count": 159,
+    "is_translator": false,
+    "follow_request_sent": null,
+    "default_profile_image": false,
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+    "profile_background_color": "0099B9",
+    "profile_link_color": "0099B9",
+    "profile_use_background_image": false,
+    "time_zone": "Pacific Time (US & Canada)",
+    "name": "Cooperativa Trelew",
+    "profile_text_color": "333333",
+    "profile_sidebar_border_color": "C0DEED",
+    "screen_name": "CoopTrelew",
+    "lang": "es",
+    "following": null,
+    "listed_count": 11,
+    "protected": false,
+    "profile_sidebar_fill_color": "DDEEF6",
+    "followers_count": 2178,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/914869845434470401/vdPZMbpR_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/2746421881/1508415199",
+    "contributors_enabled": false,
+    "created_at": "Tue Aug 19 19:52:30 +0000 2014",
+    "id_str": "2746421881",
+    "description": "Cooperativa El\u00e9ctrica de Consumo y Vivienda Limitada de Trelew\nhttp://cooperativatrelew.com.ar"
+  },
+  "created_at": "Tue Nov 14 14:57:09 +0000 2017",
+  "id_str": "930449531224850432",
+  "in_reply_to_user_id": null,
+  "contributors": null
+}

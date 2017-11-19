@@ -1,0 +1,388 @@
+{
+  "id": 930454928610512896,
+  "lang": "es",
+  "in_reply_to_status_id_str": null,
+  "truncated": true,
+  "place": {
+    "id": "b8779fa4f42b81de",
+    "country": "M\u00e9xico",
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            -99.42842,
+            23.389556
+          ],
+          [
+            -99.42842,
+            23.982312
+          ],
+          [
+            -98.947388,
+            23.982312
+          ],
+          [
+            -98.947388,
+            23.389556
+          ]
+        ]
+      ]
+    },
+    "url": "https://api.twitter.com/1.1/geo/id/b8779fa4f42b81de.json",
+    "full_name": "Victoria, Tamaulipas",
+    "attributes": {},
+    "name": "Victoria",
+    "place_type": "city",
+    "country_code": "MX"
+  },
+  "favorite_count": 0,
+  "retweeted": false,
+  "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+  "is_quote_status": false,
+  "possibly_sensitive": false,
+  "geo": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_status_id": null,
+  "retweet_count": 0,
+  "quote_count": 0,
+  "timestamp_ms": "1510672716654",
+  "favorited": false,
+  "coordinates": null,
+  "filter_level": "low",
+  "entities": {
+    "urls": [
+      {
+        "indices": [
+          76,
+          99
+        ],
+        "display_url": "norestedigital.net/?p=62542",
+        "url": "https://t.co/MSMcdPTbzO",
+        "expanded_url": "http://norestedigital.net/?p=62542"
+      },
+      {
+        "indices": [
+          114,
+          137
+        ],
+        "display_url": "twitter.com/i/web/status/9\u2026",
+        "url": "https://t.co/WLKSOfWCKA",
+        "expanded_url": "https://twitter.com/i/web/status/930454928610512896"
+      }
+    ],
+    "symbols": [],
+    "user_mentions": [
+      {
+        "screen_name": "EDUCATAM",
+        "id": 820255194,
+        "name": "Educaci\u00f3n Tamaulipas",
+        "indices": [
+          1,
+          10
+        ],
+        "id_str": "820255194"
+      }
+    ],
+    "hashtags": [
+      {
+        "text": "NuevoLaredo",
+        "indices": [
+          100,
+          112
+        ]
+      }
+    ]
+  },
+  "reply_count": 0,
+  "in_reply_to_screen_name": null,
+  "display_text_range": [
+    0,
+    140
+  ],
+  "text": ".@EDUCATAM:\nInvitan al Concurso \u201cL\u00edderes Ambientales de la Comunidad 2017\u201d\n\nhttps://t.co/MSMcdPTbzO\n#NuevoLaredo\u2026 https://t.co/WLKSOfWCKA",
+  "extended_tweet": {
+    "display_text_range": [
+      0,
+      280
+    ],
+    "extended_entities": {
+      "media": [
+        {
+          "id": 930454667389259778,
+          "display_url": "pic.twitter.com/eoBa8aiwai",
+          "id_str": "930454667389259778",
+          "indices": [
+            281,
+            304
+          ],
+          "expanded_url": "https://twitter.com/NoresteDigital/status/930454928610512896/photo/1",
+          "type": "photo",
+          "url": "https://t.co/eoBa8aiwai",
+          "media_url_https": "https://pbs.twimg.com/media/DOmjlxlXUAIRssR.jpg",
+          "media_url": "http://pbs.twimg.com/media/DOmjlxlXUAIRssR.jpg",
+          "sizes": {
+            "small": {
+              "w": 520,
+              "h": 517,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 520,
+              "h": 517,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 520,
+              "h": 517,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "entities": {
+      "media": [
+        {
+          "id": 930454667389259778,
+          "display_url": "pic.twitter.com/eoBa8aiwai",
+          "id_str": "930454667389259778",
+          "indices": [
+            281,
+            304
+          ],
+          "expanded_url": "https://twitter.com/NoresteDigital/status/930454928610512896/photo/1",
+          "type": "photo",
+          "url": "https://t.co/eoBa8aiwai",
+          "media_url_https": "https://pbs.twimg.com/media/DOmjlxlXUAIRssR.jpg",
+          "media_url": "http://pbs.twimg.com/media/DOmjlxlXUAIRssR.jpg",
+          "sizes": {
+            "small": {
+              "w": 520,
+              "h": 517,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 520,
+              "h": 517,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 520,
+              "h": 517,
+              "resize": "fit"
+            }
+          }
+        }
+      ],
+      "urls": [
+        {
+          "indices": [
+            76,
+            99
+          ],
+          "display_url": "norestedigital.net/?p=62542",
+          "url": "https://t.co/MSMcdPTbzO",
+          "expanded_url": "http://norestedigital.net/?p=62542"
+        }
+      ],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "screen_name": "EDUCATAM",
+          "id": 820255194,
+          "name": "Educaci\u00f3n Tamaulipas",
+          "indices": [
+            1,
+            10
+          ],
+          "id_str": "820255194"
+        }
+      ],
+      "hashtags": [
+        {
+          "text": "NuevoLaredo",
+          "indices": [
+            100,
+            112
+          ]
+        },
+        {
+          "text": "NLD",
+          "indices": [
+            113,
+            117
+          ]
+        },
+        {
+          "text": "Reynosa",
+          "indices": [
+            118,
+            126
+          ]
+        },
+        {
+          "text": "DiazOrdaz",
+          "indices": [
+            127,
+            137
+          ]
+        },
+        {
+          "text": "Matamoros",
+          "indices": [
+            138,
+            148
+          ]
+        },
+        {
+          "text": "Tampico",
+          "indices": [
+            149,
+            157
+          ]
+        },
+        {
+          "text": "Madero",
+          "indices": [
+            158,
+            165
+          ]
+        },
+        {
+          "text": "Altamira",
+          "indices": [
+            166,
+            175
+          ]
+        },
+        {
+          "text": "Edomex",
+          "indices": [
+            176,
+            183
+          ]
+        },
+        {
+          "text": "CdVictoria",
+          "indices": [
+            184,
+            195
+          ]
+        },
+        {
+          "text": "Monterrey",
+          "indices": [
+            196,
+            206
+          ]
+        },
+        {
+          "text": "NuevoLeon",
+          "indices": [
+            207,
+            217
+          ]
+        },
+        {
+          "text": "FelizMartes",
+          "indices": [
+            218,
+            230
+          ]
+        },
+        {
+          "text": "Queretaro",
+          "indices": [
+            231,
+            241
+          ]
+        },
+        {
+          "text": "Sonora",
+          "indices": [
+            242,
+            249
+          ]
+        },
+        {
+          "text": "Veracruz",
+          "indices": [
+            250,
+            259
+          ]
+        },
+        {
+          "text": "Yucatan",
+          "indices": [
+            260,
+            268
+          ]
+        },
+        {
+          "text": "Tamaulipas",
+          "indices": [
+            269,
+            280
+          ]
+        }
+      ]
+    },
+    "full_text": ".@EDUCATAM:\nInvitan al Concurso \u201cL\u00edderes Ambientales de la Comunidad 2017\u201d\n\nhttps://t.co/MSMcdPTbzO\n#NuevoLaredo #NLD #Reynosa #DiazOrdaz #Matamoros #Tampico #Madero #Altamira #Edomex #CdVictoria #Monterrey #NuevoLeon #FelizMartes #Queretaro #Sonora #Veracruz #Yucatan #Tamaulipas https://t.co/eoBa8aiwai"
+  },
+  "user": {
+    "statuses_count": 22207,
+    "id": 2417046050,
+    "default_profile": false,
+    "favourites_count": 6166,
+    "url": "http://www.norestedigital.com",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+    "verified": false,
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/545416142680895489/tJIS3zk9_normal.jpeg",
+    "translator_type": "none",
+    "location": "#NuevoLe\u00f3n, #SLP #Veracruz",
+    "geo_enabled": true,
+    "utc_offset": -18000,
+    "notifications": null,
+    "profile_background_tile": false,
+    "friends_count": 4305,
+    "is_translator": false,
+    "follow_request_sent": null,
+    "default_profile_image": false,
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+    "profile_background_color": "000000",
+    "profile_link_color": "FA743E",
+    "profile_use_background_image": false,
+    "time_zone": "Eastern Time (US & Canada)",
+    "name": "Noreste Digital",
+    "profile_text_color": "000000",
+    "profile_sidebar_border_color": "000000",
+    "screen_name": "NoresteDigital",
+    "lang": "es",
+    "following": null,
+    "listed_count": 64,
+    "protected": false,
+    "profile_sidebar_fill_color": "000000",
+    "followers_count": 7118,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/545416142680895489/tJIS3zk9_normal.jpeg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/2417046050/1501978006",
+    "contributors_enabled": false,
+    "created_at": "Sat Mar 29 06:25:19 +0000 2014",
+    "id_str": "2417046050",
+    "description": "Noticias de Actualidad, siempre comprometidos con la verdad,            #CdVictoria, #Tamaulipas @angelrios777"
+  },
+  "created_at": "Tue Nov 14 15:18:36 +0000 2017",
+  "id_str": "930454928610512896",
+  "in_reply_to_user_id": null,
+  "contributors": null
+}
