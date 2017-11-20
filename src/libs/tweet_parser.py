@@ -35,6 +35,8 @@ class TweetParser:
 
         tweet_dict["publish_date"] = tweet["created_at"].split()[1:4]
 
+        tweet_dict["publish_date"] = tweet["created_at"].split()[1:4]
+
         if "truncated" in tweet and "extended_tweet" in tweet:
             tweet_dict[TweetParser.TWEET_TEXT] = tweet["extended_tweet"]["full_text"].encode("utf-8", 'replace').decode(
                     "utf-8")
@@ -69,10 +71,13 @@ class TweetParser:
                 tweet_dict["longitude"] += tweet["place"]["bounding_box"]["coordinates"][0][2][0]
                 tweet_dict["longitude"] += tweet["place"]["bounding_box"]["coordinates"][0][3][0]
                 tweet_dict["longitude"] /= 4
+            else:
+                tweet_dict["latitude"] = 0
+                tweet_dict["longitude"] = 0
 
         except Exception as e:
-            tweet_dict["latitude"] = "0"
-            tweet_dict["longitude"] = "0"
+            tweet_dict["latitude"] = 0
+            tweet_dict["longitude"] = 0
 
         if "place" in tweet and tweet["place"]:
             tweet_dict["country"] = tweet["place"]["country"]
