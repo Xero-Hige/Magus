@@ -20,7 +20,7 @@ class MagusCore:
 
     def _log(self, message):
         if DEBUG:
-            debug_core_print_d(self.__class__, self.worker_number, message)
+            debug_core_print_d(self.tag, self.worker_number, message)
 
     def run_core(self):
         raise NotImplementedError

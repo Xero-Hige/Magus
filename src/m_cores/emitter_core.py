@@ -25,6 +25,8 @@ class EmitterCore(MagusCore):
             coordinates = (latitude, longitude)
             message = (coordinates, classification)
 
+            self._log("Sent {}".format(message))
+
             self.out_queue.send_message(self.serializer.dumps(message))
 
         self.in_queue.receive_messages(callback)
