@@ -4,14 +4,19 @@ from grid_region import GridRegion
 class GmapsRectangle:
     BASE_OPACITY = 0.75
     COLORS = {
-        GridRegion.HAPPY: '#81C784',
-        GridRegion.ANGRY: '#E57373',
-        GridRegion.SAD: '#4FC3F7',
-        GridRegion.INDIFERENT: '#90A4AE'
+        GridRegion.JOY:          '#81C784',
+        GridRegion.TRUST:        '#E57373',
+        GridRegion.SURPRISE:     '#4FC3F7',
+        GridRegion.SADNESS:      '#81C784',
+        GridRegion.FEAR:         '#E57373',
+        GridRegion.DISGUST:      '#4FC3F7',
+        GridRegion.ANTICIPATION: '#81C784',
+        GridRegion.ANGER:        '#E57373',
+        GridRegion.NEUTRAL:      '#90A4AE'
     }
 
     def __init__(self, north, south, west, east):
-        self.color = self.COLORS[GridRegion.INDIFERENT]
+        self.color = self.COLORS[GridRegion.NEUTRAL]
         self.opacity = self.BASE_OPACITY
 
         self.north_bound = north
@@ -21,16 +26,16 @@ class GmapsRectangle:
 
     def get_renderable_info(self):
         rectangle = {
-            'stroke_color': 'self.color',
+            'stroke_color':   'self.color',
             'stroke_opacity': self.opacity,
-            'stroke_weight': 0,
-            'fill_color': self.color,
-            'fill_opacity': self.opacity,
-            'bounds': {
+            'stroke_weight':  0,
+            'fill_color':     self.color,
+            'fill_opacity':   self.opacity,
+            'bounds':         {
                 'north': self.north_bound,
                 'south': self.south_bound,
-                'east': self.east_bound,
-                'west': self.west_bound
+                'east':  self.east_bound,
+                'west':  self.west_bound
             }
         }
 

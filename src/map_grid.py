@@ -1,19 +1,25 @@
-import pickle as Serializer
+import json as Serializer
 from threading import Thread
 
 from gmaps_rectangle import GmapsRectangle
 from grid_region import GridRegion
 from libs.rabbit_handler import RabbitHandler
-from libs.sentiments_handling import ANGRY, HAPPY, NONE, SAD
+from libs.sentiments_handling import ANGER, ANTICIPATION, DISGUST, FEAR, JOY, LOVE, NEUTRAL, SADNESS, SURPRISE, TRUST
 
 
 class MapGrid:
     GRID_SIZE = 100
 
-    LOOKUP_CLASSIFICATION = {HAPPY: GridRegion.HAPPY,
-                             SAD: GridRegion.SAD,
-                             ANGRY: GridRegion.ANGRY,
-                             NONE: GridRegion.INDIFERENT}
+    LOOKUP_CLASSIFICATION = {ANTICIPATION: "anticipation",
+                             ANGER:        "anger",
+                             DISGUST:      "disgust",
+                             SADNESS:      "sadness",
+                             SURPRISE:     "surprise",
+                             FEAR:         "fear",
+                             LOVE:         "love",
+                             TRUST:        "trust",
+                             JOY:          "joy",
+                             NEUTRAL:      "neutral"}
 
     def __init__(self, north, south, west, east, grid_rows=10, grid_columns=10):
         self.grid_rows = grid_rows
@@ -75,7 +81,7 @@ class MapGrid:
         try:
             coordinates, classification = Serializer.loads(message)
         except Exception as e:
-            print (e.message)
+            print(e.message)
             return
 
         classification = self.LOOKUP_CLASSIFICATION[classification]
