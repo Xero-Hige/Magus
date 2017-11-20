@@ -1,15 +1,13 @@
 #!/usr/bin/python
 # -*- coding: utf-8 -*-
 
-from __future__ import absolute_import, print_function, unicode_literals
-from __future__ import print_function
+from __future__ import absolute_import, print_function, print_function, unicode_literals
 
 import tensorflow as tf
 # This is a placeholder for a Google-internal import.
 from grpc.beta import implementations
 from tensorflow.python.framework import tensor_util
-from tensorflow_serving.apis import predict_pb2
-from tensorflow_serving.apis import prediction_service_pb2
+from tensorflow_serving.apis import predict_pb2, prediction_service_pb2
 
 from libs.sentiments_handling import ANGER, ANTICIPATION, DISGUST, FEAR, JOY, NEUTRAL, SADNESS, SURPRISE, TRUST
 from libs.tweet_parser import TweetParser
@@ -53,7 +51,7 @@ class ClassifierCore(MagusCore):
                           "tweet_lon": tweet["longitude"]
                           }
 
-            self.out_queue.send_message(self.serializer.dumps(tweet))
+            self.out_queue.send_message(self.serializer.dumps(tweet_info))
 
         self.in_queue.receive_messages(callback)
 

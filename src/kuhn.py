@@ -4,25 +4,32 @@ import signal
 import sys
 from sys import stdout
 
-from m_cores.core_anonymize import AnonymizeCore
-from m_cores.core_fetcher import FetcherCore
-from m_cores.core_hashtags_process import HashtagSplitterCore
-from m_cores.core_parser import ParserCore
-from m_cores.core_word_lower import WordLowerCore
-from m_cores.core_word_shortener import WordShortenerCore
-from m_cores.core_word_splitter import WordSplitterCore
-from m_cores.emitter_core import EmitterCore
+if sys.version_info.major == 3:
+    from m_cores.core_anonymize import AnonymizeCore
+    from m_cores.core_fetcher import FetcherCore
+    from m_cores.core_hashtags_process import HashtagSplitterCore
+    from m_cores.core_parser import ParserCore
+    from m_cores.core_word_lower import WordLowerCore
+    from m_cores.core_word_shortener import WordShortenerCore
+    from m_cores.core_word_splitter import WordSplitterCore
+    from m_cores.emitter_core import EmitterCore
 
-CORES = {
-    "fetcher": FetcherCore,
-    "parser": ParserCore,
-    "anonymize": AnonymizeCore,
-    "w_splitter": WordSplitterCore,
-    "w_shortener": WordShortenerCore,
-    "htag_splitter": HashtagSplitterCore,
-    "w_lower": WordLowerCore,
-    "emitter": EmitterCore
-}
+    CORES = {
+        "fetcher":       FetcherCore,
+        "parser":        ParserCore,
+        "anonymize":     AnonymizeCore,
+        "w_splitter":    WordSplitterCore,
+        "w_shortener":   WordShortenerCore,
+        "htag_splitter": HashtagSplitterCore,
+        "w_lower":       WordLowerCore,
+        "emitter":       EmitterCore
+    }
+else:
+    from m_cores.core_classifier import ClassifierCore
+
+    CORES = {
+        "classifier": ClassifierCore
+    }
 
 
 class DetachedCore:
@@ -69,7 +76,7 @@ def main():
             cores.append(core)
 
     def handler(signum, frame):
-        print ("[Kuhn] Debug: Handling ", signum)
+        print("[Kuhn] Debug: Handling ", signum)
         stdout.flush()
 
         for _core in cores:
