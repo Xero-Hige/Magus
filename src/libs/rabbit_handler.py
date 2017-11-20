@@ -21,7 +21,7 @@ class RabbitHandler(object):
 
     def receive_messages(self, callback):
         def _callback(ch, method, properties, message):
-            callback(message)
+            callback(message.decode('utf-8'))
             ch.basic_ack(delivery_tag=method.delivery_tag)
 
         self.channel.basic_qos(prefetch_count=1)

@@ -5,11 +5,17 @@ CLASSES = 4
 
 
 class GridRegion:
-    HAPPY = 0
-    SAD = 1
-    ANGRY = 2
-    INDIFERENT = 3
-    __ACUMULATED = 4
+    ANTICIPATION = 0
+    ANGER = 1
+    DISGUST = 2
+    SADNESS = 3
+    SURPRISE = 4
+    FEAR = 5
+    TRUST = 6
+    JOY = 7
+    NEUTRAL = 8
+
+    __ACUMULATED = 9
 
     TIME_SLICE = 60
     DEFAULT_TIME_SLICES = 60
@@ -18,9 +24,9 @@ class GridRegion:
         self.slice_size = slice_size
         self.lock = Lock()
 
-        self.statics = [0, 0, 0, 0, 0]
-        self.queue = [[0, 0, 0, 0, 0] for _ in range(slices_history)]
-        self.actual = [0, 0, 0, 0, 0]
+        self.statics = [0 for _ in range(self.__ACUMULATED + 1)]
+        self.queue = [[0 for _ in range(self.__ACUMULATED + 1)] for _ in range(slices_history)]
+        self.actual = [0 for _ in range(self.__ACUMULATED + 1)]
         self.timestamp = time.time()
 
     def add(self, classification):
@@ -39,12 +45,12 @@ class GridRegion:
         for i in range(len(self.actual)):
             self.statics[i] -= removed[i]
 
-        self.actual = [0, 0, 0, 0, 0]
+        self.actual = [0 for _ in range(self.__ACUMULATED + 1)]
 
     def get(self):
         with self.lock:
             if self.statics[-1] == 0:
-                return self.INDIFERENT, 1
+                return self.NEUTRAL, 1
 
             max_index = 0
             for i in range(len(self.statics) - 1):

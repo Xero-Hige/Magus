@@ -1,4 +1,4 @@
-import pickle
+import json
 
 from core_utils.debugger import debug_core_print_d
 from libs.rabbit_handler import RabbitHandler
@@ -11,7 +11,7 @@ class MagusCore:
         self.tag = tag
         self.worker_number = worker_number
         self.args = []
-        self.serializer = pickle
+        self.serializer = json
 
         if input_queue:
             self.in_queue = RabbitHandler(input_queue)

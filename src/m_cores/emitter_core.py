@@ -2,8 +2,6 @@
 
 from __future__ import absolute_import, print_function, unicode_literals
 
-import pickle as Serializer
-
 from m_cores.magus_core import MagusCore
 
 
@@ -17,7 +15,7 @@ class EmitterCore(MagusCore):
             if not tweet_string:
                 return
 
-            tweet = Serializer.loads(tweet_string)
+            tweet = self.serializer.loads(tweet_string)
 
             if not tweet:
                 return
@@ -27,6 +25,6 @@ class EmitterCore(MagusCore):
             coordinates = (latitude, longitude)
             message = (coordinates, classification)
 
-            self.out_queue.send_message(Serializer.dumps(message))
+            self.out_queue.send_message(self.serializer.dumps(message))
 
         self.in_queue.receive_messages(callback)

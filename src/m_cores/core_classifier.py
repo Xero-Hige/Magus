@@ -1,5 +1,5 @@
 #!/usr/bin/python
-# -*- coding: utf-8 -*-
+# encoding=utf8
 
 from __future__ import absolute_import, print_function, print_function, unicode_literals
 
@@ -34,7 +34,7 @@ class ClassifierCore(MagusCore):
             if not tweet_string:
                 return
 
-            tweet = self.serializer.loads(tweet_string)
+            tweet = self.serializer.loads(tweet_string, encoding="latin1")
 
             if not tweet:
                 self._log("Can't deserialize tweet")
@@ -45,10 +45,10 @@ class ClassifierCore(MagusCore):
             result = self.make_request(features_map)
             self._log("Lowered tweet")
 
-            tweet_info = {"classification": result,
+            tweet_info = {"classification":          result,
                           TweetParser.TWEET_ID: tweet[TweetParser.TWEET_ID],
-                          "tweet_lat": tweet["latitude"],
-                          "tweet_lon": tweet["longitude"]
+                          "tweet_lat": tweet         ["latitude"],
+                          "tweet_lon": tweet         ["longitude"]
                           }
 
             self.out_queue.send_message(self.serializer.dumps(tweet_info))
@@ -68,5 +68,5 @@ class ClassifierCore(MagusCore):
                                                   shape=[1, 80, 300, 1]))
 
         result = self.stub.Predict(request, 1)  # 1 secs timeout
-        result = tensor_util.MakeNdarray(result.outputs["predictions"])[0]
+        result = int(tensor_util.MakeNdarray(result.outputs["predictions"])[0][0])
         return result
