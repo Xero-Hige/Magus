@@ -1,0 +1,167 @@
+{
+  "id": 930453168659542017,
+  "lang": "es",
+  "in_reply_to_status_id_str": null,
+  "truncated": true,
+  "place": {
+    "id": "00c4b64e7affea25",
+    "country": "Chile",
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            -70.608694,
+            -33.486182
+          ],
+          [
+            -70.608694,
+            -33.364619
+          ],
+          [
+            -70.429141,
+            -33.364619
+          ],
+          [
+            -70.429141,
+            -33.486182
+          ]
+        ]
+      ]
+    },
+    "url": "https://api.twitter.com/1.1/geo/id/00c4b64e7affea25.json",
+    "full_name": "Las Condes, Chile",
+    "attributes": {},
+    "name": "Las Condes",
+    "place_type": "city",
+    "country_code": "CL"
+  },
+  "favorite_count": 0,
+  "retweeted": false,
+  "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+  "is_quote_status": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_user_id_str": "201493641",
+  "in_reply_to_screen_name": "adnradiochile",
+  "retweet_count": 0,
+  "quote_count": 0,
+  "timestamp_ms": "1510672297049",
+  "favorited": false,
+  "coordinates": null,
+  "text": "@adnradiochile #MediodiaEnADN \u00bfser\u00e1 posible incluir alg\u00fan ramo de \"humildad\" para los futuros doctores o la arrogan\u2026 https://t.co/abWzACAWGu",
+  "entities": {
+    "urls": [
+      {
+        "indices": [
+          117,
+          140
+        ],
+        "display_url": "twitter.com/i/web/status/9\u2026",
+        "url": "https://t.co/abWzACAWGu",
+        "expanded_url": "https://twitter.com/i/web/status/930453168659542017"
+      }
+    ],
+    "symbols": [],
+    "user_mentions": [
+      {
+        "screen_name": "adnradiochile",
+        "id": 201493641,
+        "name": "Radio ADN",
+        "indices": [
+          0,
+          14
+        ],
+        "id_str": "201493641"
+      }
+    ],
+    "hashtags": [
+      {
+        "text": "MediodiaEnADN",
+        "indices": [
+          15,
+          29
+        ]
+      }
+    ]
+  },
+  "reply_count": 0,
+  "geo": null,
+  "filter_level": "low",
+  "extended_tweet": {
+    "display_text_range": [
+      0,
+      198
+    ],
+    "entities": {
+      "urls": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "screen_name": "adnradiochile",
+          "id": 201493641,
+          "name": "Radio ADN",
+          "indices": [
+            0,
+            14
+          ],
+          "id_str": "201493641"
+        }
+      ],
+      "hashtags": [
+        {
+          "text": "MediodiaEnADN",
+          "indices": [
+            15,
+            29
+          ]
+        }
+      ]
+    },
+    "full_text": "@adnradiochile #MediodiaEnADN \u00bfser\u00e1 posible incluir alg\u00fan ramo de \"humildad\" para los futuros doctores o la arrogancia es parte de la deformaci\u00f3n profesional?. \u00a1Anda a cuestionarles un diagn\u00f3stico!."
+  },
+  "user": {
+    "statuses_count": 38617,
+    "id": 88285622,
+    "default_profile": false,
+    "favourites_count": 1318,
+    "url": null,
+    "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/505435224604303360/XSJBdcBB.jpeg",
+    "verified": false,
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/857042705725235201/AphKFokS_normal.jpg",
+    "translator_type": "none",
+    "location": "Transilvania... a la izquierda",
+    "geo_enabled": true,
+    "utc_offset": -10800,
+    "notifications": null,
+    "profile_background_tile": true,
+    "friends_count": 625,
+    "is_translator": false,
+    "follow_request_sent": null,
+    "default_profile_image": false,
+    "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/505435224604303360/XSJBdcBB.jpeg",
+    "profile_background_color": "F5F8FA",
+    "profile_link_color": "0084B4",
+    "profile_use_background_image": true,
+    "time_zone": "Santiago",
+    "name": "Vlad Tepes",
+    "profile_text_color": "333333",
+    "profile_sidebar_border_color": "FFFFFF",
+    "screen_name": "VladTerpel",
+    "lang": "es",
+    "following": null,
+    "listed_count": 19,
+    "protected": false,
+    "profile_sidebar_fill_color": "DDEEF6",
+    "followers_count": 635,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/857042705725235201/AphKFokS_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/88285622/1409339447",
+    "contributors_enabled": false,
+    "created_at": "Sat Nov 07 22:20:02 +0000 2009",
+    "id_str": "88285622",
+    "description": "Una vez guarde un colch\u00f3n inflable nuevamente en su caja. Mi TOC me impide perder calcetines en la lavadora."
+  },
+  "created_at": "Tue Nov 14 15:11:37 +0000 2017",
+  "id_str": "930453168659542017",
+  "in_reply_to_user_id": 201493641,
+  "contributors": null
+}

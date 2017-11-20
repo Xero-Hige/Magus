@@ -1,0 +1,212 @@
+{
+  "id": 930455510997970947,
+  "lang": "es",
+  "in_reply_to_status_id_str": null,
+  "truncated": true,
+  "place": {
+    "id": "00d56adc79da66a3",
+    "country": "Argentina",
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            -68.56829,
+            -31.559809
+          ],
+          [
+            -68.56829,
+            -31.50302
+          ],
+          [
+            -68.497409,
+            -31.50302
+          ],
+          [
+            -68.497409,
+            -31.559809
+          ]
+        ]
+      ]
+    },
+    "url": "https://api.twitter.com/1.1/geo/id/00d56adc79da66a3.json",
+    "full_name": "San Juan, Argentina",
+    "attributes": {},
+    "name": "San Juan",
+    "place_type": "city",
+    "country_code": "AR"
+  },
+  "favorite_count": 0,
+  "retweeted": false,
+  "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+  "is_quote_status": false,
+  "possibly_sensitive": false,
+  "geo": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_status_id": null,
+  "retweet_count": 0,
+  "quote_count": 0,
+  "timestamp_ms": "1510672855506",
+  "favorited": false,
+  "coordinates": null,
+  "filter_level": "low",
+  "entities": {
+    "urls": [
+      {
+        "indices": [
+          117,
+          140
+        ],
+        "display_url": "twitter.com/i/web/status/9\u2026",
+        "url": "https://t.co/ir0gO7mxZJ",
+        "expanded_url": "https://twitter.com/i/web/status/930455510997970947"
+      }
+    ],
+    "symbols": [],
+    "user_mentions": [],
+    "hashtags": []
+  },
+  "reply_count": 0,
+  "in_reply_to_screen_name": null,
+  "display_text_range": [
+    0,
+    140
+  ],
+  "text": "Hoy nace Chimbas Somos Todos, un espacio pol\u00edtico plural y democr\u00e1tico, que convoca a todos los que, con afiliaci\u00f3n\u2026 https://t.co/ir0gO7mxZJ",
+  "extended_tweet": {
+    "display_text_range": [
+      0,
+      214
+    ],
+    "extended_entities": {
+      "media": [
+        {
+          "id": 930455506606526466,
+          "display_url": "pic.twitter.com/oYY7wEqeFq",
+          "id_str": "930455506606526466",
+          "indices": [
+            215,
+            238
+          ],
+          "expanded_url": "https://twitter.com/carlosmae2013/status/930455510997970947/photo/1",
+          "type": "photo",
+          "url": "https://t.co/oYY7wEqeFq",
+          "media_url_https": "https://pbs.twimg.com/media/DOmkWn6WkAIpdru.jpg",
+          "media_url": "http://pbs.twimg.com/media/DOmkWn6WkAIpdru.jpg",
+          "sizes": {
+            "small": {
+              "w": 480,
+              "h": 469,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 480,
+              "h": 469,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 480,
+              "h": 469,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "entities": {
+      "media": [
+        {
+          "id": 930455506606526466,
+          "display_url": "pic.twitter.com/oYY7wEqeFq",
+          "id_str": "930455506606526466",
+          "indices": [
+            215,
+            238
+          ],
+          "expanded_url": "https://twitter.com/carlosmae2013/status/930455510997970947/photo/1",
+          "type": "photo",
+          "url": "https://t.co/oYY7wEqeFq",
+          "media_url_https": "https://pbs.twimg.com/media/DOmkWn6WkAIpdru.jpg",
+          "media_url": "http://pbs.twimg.com/media/DOmkWn6WkAIpdru.jpg",
+          "sizes": {
+            "small": {
+              "w": 480,
+              "h": 469,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 480,
+              "h": 469,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 480,
+              "h": 469,
+              "resize": "fit"
+            }
+          }
+        }
+      ],
+      "urls": [],
+      "symbols": [],
+      "user_mentions": [],
+      "hashtags": []
+    },
+    "full_text": "Hoy nace Chimbas Somos Todos, un espacio pol\u00edtico plural y democr\u00e1tico, que convoca a todos los que, con afiliaci\u00f3n partidaria o no, deseen aportar ideas y acciones para mejorar la calidad de vida de los chimberos. https://t.co/oYY7wEqeFq"
+  },
+  "user": {
+    "statuses_count": 396,
+    "id": 1444159171,
+    "default_profile": false,
+    "favourites_count": 608,
+    "url": null,
+    "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/444108204503334912/wmv4XQxG.jpeg",
+    "verified": false,
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/928615450044522496/8vwsCaP0_normal.jpg",
+    "translator_type": "none",
+    "location": "Chimbas, San Juan, Argentina",
+    "geo_enabled": true,
+    "utc_offset": -10800,
+    "notifications": null,
+    "profile_background_tile": true,
+    "friends_count": 590,
+    "is_translator": false,
+    "follow_request_sent": null,
+    "default_profile_image": false,
+    "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/444108204503334912/wmv4XQxG.jpeg",
+    "profile_background_color": "C1C8EB",
+    "profile_link_color": "FF691F",
+    "profile_use_background_image": true,
+    "time_zone": "America/Argentina/Buenos_Aires",
+    "name": "Carlos Javier Ma\u00f1\u00e9",
+    "profile_text_color": "333333",
+    "profile_sidebar_border_color": "000000",
+    "screen_name": "carlosmae2013",
+    "lang": "es",
+    "following": null,
+    "listed_count": 4,
+    "protected": false,
+    "profile_sidebar_fill_color": "DDEEF6",
+    "followers_count": 398,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/928615450044522496/8vwsCaP0_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1444159171/1510234195",
+    "contributors_enabled": false,
+    "created_at": "Mon May 20 16:02:50 +0000 2013",
+    "id_str": "1444159171",
+    "description": "Chimbas Somos Todos. Apasionado de las transformaciones profundas que hagan grande a Chimbas, San Juan y Argentina."
+  },
+  "created_at": "Tue Nov 14 15:20:55 +0000 2017",
+  "id_str": "930455510997970947",
+  "in_reply_to_user_id": null,
+  "contributors": null
+}

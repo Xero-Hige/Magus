@@ -1,0 +1,125 @@
+{
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "id": 930374409214455809,
+  "in_reply_to_user_id": null,
+  "coordinates": null,
+  "possibly_sensitive": false,
+  "reply_count": 0,
+  "timestamp_ms": "1510653519334",
+  "geo": null,
+  "quote_count": 0,
+  "retweet_count": 0,
+  "is_quote_status": false,
+  "created_at": "Tue Nov 14 09:58:39 +0000 2017",
+  "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+  "favorite_count": 0,
+  "in_reply_to_screen_name": null,
+  "text": "noche de llanto, de tristezas y nostalgias......\n#SilvaYVillalba\n\nhttps://t.co/F2Z1u0SKR1",
+  "in_reply_to_status_id_str": null,
+  "place": {
+    "country": "Colombia",
+    "name": "Medell\u00edn",
+    "id": "00698bbe577bad5b",
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            -75.731653,
+            6.166059
+          ],
+          [
+            -75.731653,
+            6.375707
+          ],
+          [
+            -75.506773,
+            6.375707
+          ],
+          [
+            -75.506773,
+            6.166059
+          ]
+        ]
+      ]
+    },
+    "country_code": "CO",
+    "place_type": "city",
+    "url": "https://api.twitter.com/1.1/geo/id/00698bbe577bad5b.json",
+    "attributes": {},
+    "full_name": "Medell\u00edn, Colombia"
+  },
+  "contributors": null,
+  "entities": {
+    "hashtags": [
+      {
+        "indices": [
+          49,
+          64
+        ],
+        "text": "SilvaYVillalba"
+      }
+    ],
+    "urls": [
+      {
+        "expanded_url": "https://www.youtube.com/watch?v=4v-JrB3u2RY",
+        "display_url": "youtube.com/watch?v=4v-JrB\u2026",
+        "indices": [
+          66,
+          89
+        ],
+        "url": "https://t.co/F2Z1u0SKR1"
+      }
+    ],
+    "user_mentions": [],
+    "symbols": []
+  },
+  "retweeted": false,
+  "id_str": "930374409214455809",
+  "user": {
+    "time_zone": "Eastern Time (US & Canada)",
+    "follow_request_sent": null,
+    "id": 270493523,
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "translator_type": "none",
+    "screen_name": "alsidero",
+    "profile_link_color": "1DA1F2",
+    "url": null,
+    "utc_offset": -18000,
+    "location": "Bogot\u00e1 - Colombia",
+    "name": "\u00c4lvar\u00f6 Sierra Devia",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "description": "Administrador de Empresas / Docente / Pedagogo / ABP / PBL /",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/270493523/1491042581",
+    "created_at": "Tue Mar 22 18:32:27 +0000 2011",
+    "protected": false,
+    "is_translator": false,
+    "listed_count": 12,
+    "statuses_count": 28102,
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "default_profile": true,
+    "default_profile_image": false,
+    "verified": false,
+    "notifications": null,
+    "friends_count": 220,
+    "profile_background_color": "C0DEED",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/834240759675179009/UVtdNBA7_normal.jpg",
+    "following": null,
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/834240759675179009/UVtdNBA7_normal.jpg",
+    "geo_enabled": true,
+    "profile_use_background_image": true,
+    "contributors_enabled": false,
+    "id_str": "270493523",
+    "profile_text_color": "333333",
+    "followers_count": 409,
+    "favourites_count": 9340,
+    "lang": "es",
+    "profile_background_tile": false
+  },
+  "filter_level": "low",
+  "in_reply_to_user_id_str": null,
+  "favorited": false,
+  "lang": "es"
+}

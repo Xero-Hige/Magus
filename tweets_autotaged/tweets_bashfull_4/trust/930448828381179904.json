@@ -1,0 +1,222 @@
+{
+  "id": 930448828381179904,
+  "lang": "es",
+  "in_reply_to_status_id_str": null,
+  "truncated": true,
+  "place": {
+    "id": "018f1cde6bad9747",
+    "country": "Argentina",
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            -58.531792,
+            -34.674453
+          ],
+          [
+            -58.531792,
+            -34.534177
+          ],
+          [
+            -58.353494,
+            -34.534177
+          ],
+          [
+            -58.353494,
+            -34.674453
+          ]
+        ]
+      ]
+    },
+    "url": "https://api.twitter.com/1.1/geo/id/018f1cde6bad9747.json",
+    "full_name": "Ciudad Aut\u00f3noma de Buenos Aires, Argentina",
+    "attributes": {},
+    "name": "Ciudad Aut\u00f3noma de Buenos Aires",
+    "place_type": "city",
+    "country_code": "AR"
+  },
+  "favorite_count": 0,
+  "retweeted": false,
+  "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+  "is_quote_status": false,
+  "possibly_sensitive": false,
+  "geo": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_status_id": null,
+  "retweet_count": 0,
+  "quote_count": 0,
+  "timestamp_ms": "1510671262246",
+  "favorited": false,
+  "coordinates": null,
+  "filter_level": "low",
+  "entities": {
+    "urls": [
+      {
+        "indices": [
+          117,
+          140
+        ],
+        "display_url": "twitter.com/i/web/status/9\u2026",
+        "url": "https://t.co/se8uVNw7mr",
+        "expanded_url": "https://twitter.com/i/web/status/930448828381179904"
+      }
+    ],
+    "symbols": [],
+    "user_mentions": [],
+    "hashtags": []
+  },
+  "reply_count": 0,
+  "in_reply_to_screen_name": null,
+  "display_text_range": [
+    0,
+    140
+  ],
+  "text": "Hoy Piti  ( las pastillas del abuelo) cumple a\u00f1os. Amigo hermano supo en estos a\u00f1os a traves de La musica desplegar\u2026 https://t.co/se8uVNw7mr",
+  "extended_tweet": {
+    "display_text_range": [
+      0,
+      279
+    ],
+    "extended_entities": {
+      "media": [
+        {
+          "id": 930448544435195904,
+          "display_url": "pic.twitter.com/jLXnoPe3tQ",
+          "id_str": "930448544435195904",
+          "indices": [
+            280,
+            303
+          ],
+          "expanded_url": "https://twitter.com/todalavidaradio/status/930448828381179904/photo/1",
+          "type": "photo",
+          "url": "https://t.co/jLXnoPe3tQ",
+          "media_url_https": "https://pbs.twimg.com/media/DOmeBXzW0AAwyAL.jpg",
+          "media_url": "http://pbs.twimg.com/media/DOmeBXzW0AAwyAL.jpg",
+          "sizes": {
+            "small": {
+              "w": 680,
+              "h": 425,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 2048,
+              "h": 1280,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 1200,
+              "h": 750,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "entities": {
+      "media": [
+        {
+          "id": 930448544435195904,
+          "display_url": "pic.twitter.com/jLXnoPe3tQ",
+          "id_str": "930448544435195904",
+          "indices": [
+            280,
+            303
+          ],
+          "expanded_url": "https://twitter.com/todalavidaradio/status/930448828381179904/photo/1",
+          "type": "photo",
+          "url": "https://t.co/jLXnoPe3tQ",
+          "media_url_https": "https://pbs.twimg.com/media/DOmeBXzW0AAwyAL.jpg",
+          "media_url": "http://pbs.twimg.com/media/DOmeBXzW0AAwyAL.jpg",
+          "sizes": {
+            "small": {
+              "w": 680,
+              "h": 425,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 2048,
+              "h": 1280,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 1200,
+              "h": 750,
+              "resize": "fit"
+            }
+          }
+        }
+      ],
+      "urls": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "screen_name": "PitiRockOk",
+          "id": 774979596290813952,
+          "name": "Piti Fern\u00e1ndez.",
+          "indices": [
+            268,
+            279
+          ],
+          "id_str": "774979596290813952"
+        }
+      ],
+      "hashtags": []
+    },
+    "full_text": "Hoy Piti  ( las pastillas del abuelo) cumple a\u00f1os. Amigo hermano supo en estos a\u00f1os a traves de La musica desplegar todo su virtuosismo, altruismo y su filantropia para poder creer mas que nunca, que otro mundo es posible y lo mejor esta por venir. FELIZ CUMPLE AMIGO @PitiRockOk https://t.co/jLXnoPe3tQ"
+  },
+  "user": {
+    "statuses_count": 10578,
+    "id": 93917515,
+    "default_profile": false,
+    "favourites_count": 496,
+    "url": "http://www.todalavidaradio.com.ar",
+    "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/800461324/0db57daba4f361646eb879e17b0657d8.jpeg",
+    "verified": false,
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1336165805/carlos_radio_hablando_normal.jpg",
+    "translator_type": "none",
+    "location": "Argentina",
+    "geo_enabled": true,
+    "utc_offset": -10800,
+    "notifications": null,
+    "profile_background_tile": true,
+    "friends_count": 330,
+    "is_translator": false,
+    "follow_request_sent": null,
+    "default_profile_image": false,
+    "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/800461324/0db57daba4f361646eb879e17b0657d8.jpeg",
+    "profile_background_color": "C0DEED",
+    "profile_link_color": "0084B4",
+    "profile_use_background_image": true,
+    "time_zone": "Santiago",
+    "name": "Toda La Vida Es Ahor",
+    "profile_text_color": "333333",
+    "profile_sidebar_border_color": "FFFFFF",
+    "screen_name": "todalavidaradio",
+    "lang": "es",
+    "following": null,
+    "listed_count": 0,
+    "protected": false,
+    "profile_sidebar_fill_color": "DDEEF6",
+    "followers_count": 707,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1336165805/carlos_radio_hablando_normal.jpg",
+    "contributors_enabled": false,
+    "created_at": "Tue Dec 01 18:46:46 +0000 2009",
+    "id_str": "93917515",
+    "description": "Programa radial de actualidad cultural donde la invitada de honor es la m\u00fasica .Los jueves de 22 a 24 hs. (de Argentina) por http://www.arinfo.com.ar"
+  },
+  "created_at": "Tue Nov 14 14:54:22 +0000 2017",
+  "id_str": "930448828381179904",
+  "in_reply_to_user_id": null,
+  "contributors": null
+}

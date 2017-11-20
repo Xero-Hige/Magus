@@ -1,0 +1,121 @@
+{
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "id": 930381444387569664,
+  "in_reply_to_user_id": null,
+  "coordinates": null,
+  "reply_count": 0,
+  "timestamp_ms": "1510655196650",
+  "geo": null,
+  "quote_count": 0,
+  "retweet_count": 0,
+  "is_quote_status": false,
+  "created_at": "Tue Nov 14 10:26:36 +0000 2017",
+  "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+  "favorite_count": 0,
+  "in_reply_to_screen_name": null,
+  "text": "#Caaguaz\u00fa \"Veo que la gente se est\u00e1 animando m\u00e1s a denuncias\", Fiscala Norma Ort\u00edz s/ casos de violencia intrafamiliar. #730AM",
+  "in_reply_to_status_id_str": null,
+  "place": {
+    "country": "Paraguay",
+    "name": "Paraguay",
+    "id": "6cf2fd60a82329fc",
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            -62.64512,
+            -27.594325
+          ],
+          [
+            -62.64512,
+            -19.294041
+          ],
+          [
+            -54.258291,
+            -19.294041
+          ],
+          [
+            -54.258291,
+            -27.594325
+          ]
+        ]
+      ]
+    },
+    "country_code": "PY",
+    "place_type": "country",
+    "url": "https://api.twitter.com/1.1/geo/id/6cf2fd60a82329fc.json",
+    "attributes": {},
+    "full_name": "Paraguay"
+  },
+  "contributors": null,
+  "entities": {
+    "hashtags": [
+      {
+        "indices": [
+          0,
+          9
+        ],
+        "text": "Caaguaz\u00fa"
+      },
+      {
+        "indices": [
+          120,
+          126
+        ],
+        "text": "730AM"
+      }
+    ],
+    "urls": [],
+    "user_mentions": [],
+    "symbols": []
+  },
+  "retweeted": false,
+  "id_str": "930381444387569664",
+  "user": {
+    "time_zone": "Santiago",
+    "follow_request_sent": null,
+    "id": 218488955,
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme19/bg.gif",
+    "translator_type": "none",
+    "screen_name": "ABCCardinal",
+    "profile_link_color": "ABB8C2",
+    "url": "http://abc.com.py/730am",
+    "utc_offset": -10800,
+    "location": "Paraguay",
+    "name": "ABC Cardinal 730 AM",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme19/bg.gif",
+    "description": "ABC Cardinal, la radio m\u00e1s potente del pa\u00eds. Noticias, deportes, debates, econom\u00eda, agro, espect\u00e1culos y m\u00e1s. En el aire desde 1991 \u260e 41 51 730 / (0972)730 730",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/218488955/1507835576",
+    "created_at": "Mon Nov 22 13:52:05 +0000 2010",
+    "protected": false,
+    "is_translator": false,
+    "listed_count": 434,
+    "statuses_count": 211644,
+    "profile_sidebar_border_color": "000000",
+    "profile_sidebar_fill_color": "000000",
+    "default_profile": false,
+    "default_profile_image": false,
+    "verified": true,
+    "notifications": null,
+    "friends_count": 886,
+    "profile_background_color": "000000",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/903656719271813121/PwDYvXZD_normal.jpg",
+    "following": null,
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/903656719271813121/PwDYvXZD_normal.jpg",
+    "geo_enabled": true,
+    "profile_use_background_image": false,
+    "contributors_enabled": false,
+    "id_str": "218488955",
+    "profile_text_color": "000000",
+    "followers_count": 179817,
+    "favourites_count": 1782,
+    "lang": "es",
+    "profile_background_tile": false
+  },
+  "filter_level": "low",
+  "in_reply_to_user_id_str": null,
+  "favorited": false,
+  "lang": "es"
+}

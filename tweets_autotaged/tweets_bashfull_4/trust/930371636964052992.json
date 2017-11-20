@@ -1,0 +1,116 @@
+{
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "id": 930371636964052992,
+  "in_reply_to_user_id": 264368198,
+  "coordinates": null,
+  "reply_count": 0,
+  "timestamp_ms": "1510652858378",
+  "geo": null,
+  "quote_count": 0,
+  "retweet_count": 0,
+  "is_quote_status": false,
+  "created_at": "Tue Nov 14 09:47:38 +0000 2017",
+  "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+  "favorite_count": 0,
+  "in_reply_to_screen_name": "radiocarab",
+  "text": "@radiocarab Semaforo apagado en Sn Ignacio con Caupolican (caletera de autopista Los Libertadores",
+  "in_reply_to_status_id_str": null,
+  "place": {
+    "country": "Chile",
+    "name": "Quilicura",
+    "id": "006a80833658c159",
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            -70.804376,
+            -33.392983
+          ],
+          [
+            -70.804376,
+            -33.317974
+          ],
+          [
+            -70.681052,
+            -33.317974
+          ],
+          [
+            -70.681052,
+            -33.392983
+          ]
+        ]
+      ]
+    },
+    "country_code": "CL",
+    "place_type": "city",
+    "url": "https://api.twitter.com/1.1/geo/id/006a80833658c159.json",
+    "attributes": {},
+    "full_name": "Quilicura, Chile"
+  },
+  "contributors": null,
+  "entities": {
+    "hashtags": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "screen_name": "radiocarab",
+        "name": "Carabineros Radio",
+        "id": 264368198,
+        "id_str": "264368198",
+        "indices": [
+          0,
+          11
+        ]
+      }
+    ],
+    "symbols": []
+  },
+  "retweeted": false,
+  "id_str": "930371636964052992",
+  "user": {
+    "time_zone": null,
+    "follow_request_sent": null,
+    "id": 855490639919816704,
+    "profile_background_image_url": "",
+    "translator_type": "none",
+    "screen_name": "CristianGrebec1",
+    "profile_link_color": "1DA1F2",
+    "url": null,
+    "utc_offset": null,
+    "location": null,
+    "name": "Cristian@Grebe.com",
+    "profile_background_image_url_https": "",
+    "description": "Trabajolico con 4 hijos responsable en el trabajo ,conductor de profesion , buen cocinero casero ; para 2 de mis hijos .Me preocupa el futuro cercano .",
+    "created_at": "Fri Apr 21 18:37:17 +0000 2017",
+    "protected": false,
+    "is_translator": false,
+    "listed_count": 0,
+    "statuses_count": 22,
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "default_profile": true,
+    "default_profile_image": false,
+    "verified": false,
+    "notifications": null,
+    "friends_count": 32,
+    "profile_background_color": "F5F8FA",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/926901878834810880/EU43q6no_normal.jpg",
+    "following": null,
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/926901878834810880/EU43q6no_normal.jpg",
+    "geo_enabled": true,
+    "profile_use_background_image": true,
+    "contributors_enabled": false,
+    "id_str": "855490639919816704",
+    "profile_text_color": "333333",
+    "followers_count": 2,
+    "favourites_count": 49,
+    "lang": "es",
+    "profile_background_tile": false
+  },
+  "filter_level": "low",
+  "in_reply_to_user_id_str": "264368198",
+  "favorited": false,
+  "lang": "es"
+}

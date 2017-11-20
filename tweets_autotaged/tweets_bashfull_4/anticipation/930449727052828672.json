@@ -1,0 +1,200 @@
+{
+  "id": 930449727052828672,
+  "in_reply_to_status_id_str": "930428026483068930",
+  "truncated": false,
+  "place": {
+    "id": "018f1cde6bad9747",
+    "country": "Argentina",
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            -58.531792,
+            -34.674453
+          ],
+          [
+            -58.531792,
+            -34.534177
+          ],
+          [
+            -58.353494,
+            -34.534177
+          ],
+          [
+            -58.353494,
+            -34.674453
+          ]
+        ]
+      ]
+    },
+    "url": "https://api.twitter.com/1.1/geo/id/018f1cde6bad9747.json",
+    "full_name": "Ciudad Aut\u00f3noma de Buenos Aires, Argentina",
+    "attributes": {},
+    "name": "Ciudad Aut\u00f3noma de Buenos Aires",
+    "place_type": "city",
+    "country_code": "AR"
+  },
+  "favorite_count": 0,
+  "retweeted": false,
+  "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+  "is_quote_status": false,
+  "possibly_sensitive": false,
+  "geo": null,
+  "coordinates": null,
+  "in_reply_to_status_id": 930428026483068930,
+  "retweet_count": 0,
+  "quote_count": 0,
+  "timestamp_ms": "1510671476506",
+  "favorited": false,
+  "in_reply_to_user_id_str": "710105060462739456",
+  "filter_level": "low",
+  "entities": {
+    "media": [
+      {
+        "id": 930449717796003841,
+        "display_url": "pic.twitter.com/qX8BBahIea",
+        "id_str": "930449717796003841",
+        "indices": [
+          87,
+          110
+        ],
+        "expanded_url": "https://twitter.com/ElybetCa/status/930449727052828672/photo/1",
+        "type": "photo",
+        "url": "https://t.co/qX8BBahIea",
+        "media_url_https": "https://pbs.twimg.com/media/DOmfFq6X4AE-LQH.jpg",
+        "media_url": "http://pbs.twimg.com/media/DOmfFq6X4AE-LQH.jpg",
+        "sizes": {
+          "small": {
+            "w": 680,
+            "h": 450,
+            "resize": "fit"
+          },
+          "large": {
+            "w": 700,
+            "h": 463,
+            "resize": "fit"
+          },
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "medium": {
+            "w": 700,
+            "h": 463,
+            "resize": "fit"
+          }
+        }
+      }
+    ],
+    "urls": [],
+    "symbols": [],
+    "user_mentions": [
+      {
+        "screen_name": "NO75200671",
+        "id": 710105060462739456,
+        "name": "eujucas@hotmail.com",
+        "indices": [
+          0,
+          11
+        ],
+        "id_str": "710105060462739456"
+      }
+    ],
+    "hashtags": []
+  },
+  "reply_count": 0,
+  "in_reply_to_screen_name": "NO75200671",
+  "display_text_range": [
+    12,
+    86
+  ],
+  "extended_entities": {
+    "media": [
+      {
+        "id": 930449717796003841,
+        "display_url": "pic.twitter.com/qX8BBahIea",
+        "id_str": "930449717796003841",
+        "indices": [
+          87,
+          110
+        ],
+        "expanded_url": "https://twitter.com/ElybetCa/status/930449727052828672/photo/1",
+        "type": "photo",
+        "url": "https://t.co/qX8BBahIea",
+        "media_url_https": "https://pbs.twimg.com/media/DOmfFq6X4AE-LQH.jpg",
+        "media_url": "http://pbs.twimg.com/media/DOmfFq6X4AE-LQH.jpg",
+        "sizes": {
+          "small": {
+            "w": 680,
+            "h": 450,
+            "resize": "fit"
+          },
+          "large": {
+            "w": 700,
+            "h": 463,
+            "resize": "fit"
+          },
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "medium": {
+            "w": 700,
+            "h": 463,
+            "resize": "fit"
+          }
+        }
+      }
+    ]
+  },
+  "text": "@NO75200671 Feliz martes Eugenia q lo disfrutes , anticipo de verano en CABA , besotes https://t.co/qX8BBahIea",
+  "lang": "es",
+  "user": {
+    "statuses_count": 354148,
+    "id": 1861063610,
+    "default_profile": true,
+    "favourites_count": 15581,
+    "url": null,
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "verified": false,
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000452110267/dc48f052f26f1cda68d2349ab456b730_normal.jpeg",
+    "translator_type": "none",
+    "location": "Ciudad Aut\u00f3noma de Buenos Aire",
+    "geo_enabled": true,
+    "utc_offset": null,
+    "notifications": null,
+    "profile_background_tile": false,
+    "friends_count": 2482,
+    "is_translator": false,
+    "follow_request_sent": null,
+    "default_profile_image": false,
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_color": "C0DEED",
+    "profile_link_color": "1DA1F2",
+    "profile_use_background_image": true,
+    "time_zone": null,
+    "name": "Elybet",
+    "profile_text_color": "333333",
+    "profile_sidebar_border_color": "C0DEED",
+    "screen_name": "ElybetCa",
+    "lang": "es",
+    "following": null,
+    "listed_count": 101,
+    "protected": false,
+    "profile_sidebar_fill_color": "DDEEF6",
+    "followers_count": 3455,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/378800000452110267/dc48f052f26f1cda68d2349ab456b730_normal.jpeg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1861063610/1379089346",
+    "contributors_enabled": false,
+    "created_at": "Fri Sep 13 16:19:51 +0000 2013",
+    "id_str": "1861063610",
+    "description": "Amante de la vida ,la pintura y la musica x sobre todo la paz"
+  },
+  "created_at": "Tue Nov 14 14:57:56 +0000 2017",
+  "id_str": "930449727052828672",
+  "in_reply_to_user_id": 710105060462739456,
+  "contributors": null
+}

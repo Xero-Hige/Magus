@@ -1,0 +1,256 @@
+{
+  "id": 930455426323361792,
+  "lang": "es",
+  "in_reply_to_status_id_str": null,
+  "truncated": true,
+  "place": {
+    "id": "206c436ce43a43a3",
+    "country": "Espa\u00f1a",
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            -3.889005,
+            40.312071
+          ],
+          [
+            -3.889005,
+            40.643518
+          ],
+          [
+            -3.51801,
+            40.643518
+          ],
+          [
+            -3.51801,
+            40.312071
+          ]
+        ]
+      ]
+    },
+    "url": "https://api.twitter.com/1.1/geo/id/206c436ce43a43a3.json",
+    "full_name": "Madrid, Espa\u00f1a",
+    "attributes": {},
+    "name": "Madrid",
+    "place_type": "city",
+    "country_code": "ES"
+  },
+  "favorite_count": 0,
+  "retweeted": false,
+  "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+  "is_quote_status": false,
+  "possibly_sensitive": false,
+  "geo": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_status_id": null,
+  "retweet_count": 0,
+  "quote_count": 0,
+  "timestamp_ms": "1510672835318",
+  "favorited": false,
+  "coordinates": null,
+  "filter_level": "low",
+  "entities": {
+    "urls": [
+      {
+        "indices": [
+          117,
+          140
+        ],
+        "display_url": "twitter.com/i/web/status/9\u2026",
+        "url": "https://t.co/jGsZayWcqM",
+        "expanded_url": "https://twitter.com/i/web/status/930455426323361792"
+      }
+    ],
+    "symbols": [],
+    "user_mentions": [],
+    "hashtags": [
+      {
+        "text": "OTGala4",
+        "indices": [
+          44,
+          52
+        ]
+      },
+      {
+        "text": "OTDirecto14N",
+        "indices": [
+          65,
+          78
+        ]
+      }
+    ]
+  },
+  "reply_count": 0,
+  "in_reply_to_screen_name": null,
+  "display_text_range": [
+    0,
+    140
+  ],
+  "text": "\u00a1Ya tenemos el listado de canciones para la #OTGala4! Parece que #OTDirecto14N ha escuchado nuestra plegaria del do\u2026 https://t.co/jGsZayWcqM",
+  "extended_tweet": {
+    "display_text_range": [
+      0,
+      174
+    ],
+    "extended_entities": {
+      "media": [
+        {
+          "id": 930454929822683136,
+          "display_url": "pic.twitter.com/mpe6ctxt14",
+          "id_str": "930454929822683136",
+          "indices": [
+            175,
+            198
+          ],
+          "expanded_url": "https://twitter.com/ATronchalomos/status/930455426323361792/photo/1",
+          "type": "photo",
+          "url": "https://t.co/mpe6ctxt14",
+          "media_url_https": "https://pbs.twimg.com/media/DOmj1DOXkAApWv4.jpg",
+          "media_url": "http://pbs.twimg.com/media/DOmj1DOXkAApWv4.jpg",
+          "sizes": {
+            "small": {
+              "w": 637,
+              "h": 424,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 637,
+              "h": 424,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 637,
+              "h": 424,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "entities": {
+      "media": [
+        {
+          "id": 930454929822683136,
+          "display_url": "pic.twitter.com/mpe6ctxt14",
+          "id_str": "930454929822683136",
+          "indices": [
+            175,
+            198
+          ],
+          "expanded_url": "https://twitter.com/ATronchalomos/status/930455426323361792/photo/1",
+          "type": "photo",
+          "url": "https://t.co/mpe6ctxt14",
+          "media_url_https": "https://pbs.twimg.com/media/DOmj1DOXkAApWv4.jpg",
+          "media_url": "http://pbs.twimg.com/media/DOmj1DOXkAApWv4.jpg",
+          "sizes": {
+            "small": {
+              "w": 637,
+              "h": 424,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 637,
+              "h": 424,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 637,
+              "h": 424,
+              "resize": "fit"
+            }
+          }
+        }
+      ],
+      "urls": [],
+      "symbols": [],
+      "user_mentions": [],
+      "hashtags": [
+        {
+          "text": "OTGala4",
+          "indices": [
+            44,
+            52
+          ]
+        },
+        {
+          "text": "OTDirecto14N",
+          "indices": [
+            65,
+            78
+          ]
+        },
+        {
+          "text": "Cachi\u00f1os",
+          "indices": [
+            148,
+            157
+          ]
+        },
+        {
+          "text": "AOTronchalomos",
+          "indices": [
+            159,
+            174
+          ]
+        }
+      ]
+    },
+    "full_text": "\u00a1Ya tenemos el listado de canciones para la #OTGala4! Parece que #OTDirecto14N ha escuchado nuestra plegaria del domingo a prop\u00f3sito de Mocedades y #Cachi\u00f1os. #AOTronchalomos https://t.co/mpe6ctxt14"
+  },
+  "user": {
+    "statuses_count": 426,
+    "id": 3706511173,
+    "default_profile": false,
+    "favourites_count": 191,
+    "url": "https://atronchalomos.wordpress.com/",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "verified": false,
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/648252417264484352/SQf2MMgP_normal.png",
+    "translator_type": "none",
+    "location": "La Mancha / Madrid / Hollywood",
+    "geo_enabled": true,
+    "utc_offset": 3600,
+    "notifications": null,
+    "profile_background_tile": false,
+    "friends_count": 90,
+    "is_translator": false,
+    "follow_request_sent": null,
+    "default_profile_image": false,
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_color": "000000",
+    "profile_link_color": "E81C4F",
+    "profile_use_background_image": false,
+    "time_zone": "Madrid",
+    "name": "A Tronchalomos",
+    "profile_text_color": "000000",
+    "profile_sidebar_border_color": "000000",
+    "screen_name": "ATronchalomos",
+    "lang": "es",
+    "following": null,
+    "listed_count": 5,
+    "protected": false,
+    "profile_sidebar_fill_color": "000000",
+    "followers_count": 50,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/648252417264484352/SQf2MMgP_normal.png",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/3706511173/1443390416",
+    "contributors_enabled": false,
+    "created_at": "Sun Sep 27 18:43:54 +0000 2015",
+    "id_str": "3706511173",
+    "description": "Cuenta oficial del #Podcast Conversaciones #ATronchalomos por @spidercla y @lola_garlochi \ud83d\udc83\ud83c\udffb\ud83c\udf99\ufe0f\ud83d\udc83\ud83c\udffe"
+  },
+  "created_at": "Tue Nov 14 15:20:35 +0000 2017",
+  "id_str": "930455426323361792",
+  "in_reply_to_user_id": null,
+  "contributors": null
+}

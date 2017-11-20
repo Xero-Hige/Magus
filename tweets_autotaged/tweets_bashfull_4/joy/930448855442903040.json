@@ -1,0 +1,466 @@
+{
+  "id": 930448855442903040,
+  "lang": "es",
+  "in_reply_to_status_id_str": null,
+  "truncated": true,
+  "place": {
+    "id": "008677a973531707",
+    "country": "Colombia",
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            -72.97944,
+            5.568415
+          ],
+          [
+            -72.97944,
+            5.745889
+          ],
+          [
+            -72.801795,
+            5.745889
+          ],
+          [
+            -72.801795,
+            5.568415
+          ]
+        ]
+      ]
+    },
+    "url": "https://api.twitter.com/1.1/geo/id/008677a973531707.json",
+    "full_name": "Sogamoso, Colombia",
+    "attributes": {},
+    "name": "Sogamoso",
+    "place_type": "city",
+    "country_code": "CO"
+  },
+  "favorite_count": 0,
+  "retweeted": false,
+  "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+  "is_quote_status": false,
+  "possibly_sensitive": false,
+  "geo": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_status_id": null,
+  "retweet_count": 0,
+  "quote_count": 0,
+  "timestamp_ms": "1510671268698",
+  "favorited": false,
+  "coordinates": null,
+  "filter_level": "low",
+  "entities": {
+    "urls": [
+      {
+        "indices": [
+          117,
+          140
+        ],
+        "display_url": "twitter.com/i/web/status/9\u2026",
+        "url": "https://t.co/dT5RfqquFk",
+        "expanded_url": "https://twitter.com/i/web/status/930448855442903040"
+      }
+    ],
+    "symbols": [],
+    "user_mentions": [
+      {
+        "screen_name": "ConcejoSogamoso",
+        "id": 1964877871,
+        "name": "Concejo de Sogamoso",
+        "indices": [
+          11,
+          27
+        ],
+        "id_str": "1964877871"
+      }
+    ],
+    "hashtags": [
+      {
+        "text": "aestahora",
+        "indices": [
+          0,
+          10
+        ]
+      }
+    ]
+  },
+  "reply_count": 0,
+  "in_reply_to_screen_name": null,
+  "display_text_range": [
+    0,
+    140
+  ],
+  "text": "#aestahora @ConcejoSogamoso escucha atentamente solicitudes  de poblaci\u00f3n vulnerable - ni\u00f1os con discapacidad - mad\u2026 https://t.co/dT5RfqquFk",
+  "extended_tweet": {
+    "display_text_range": [
+      0,
+      174
+    ],
+    "extended_entities": {
+      "media": [
+        {
+          "id": 930448743844982784,
+          "display_url": "pic.twitter.com/075wxSNDie",
+          "id_str": "930448743844982784",
+          "indices": [
+            175,
+            198
+          ],
+          "expanded_url": "https://twitter.com/ConcejoSogamoso/status/930448855442903040/photo/1",
+          "type": "photo",
+          "url": "https://t.co/075wxSNDie",
+          "media_url_https": "https://pbs.twimg.com/media/DOmeM-qWsAA24ow.jpg",
+          "media_url": "http://pbs.twimg.com/media/DOmeM-qWsAA24ow.jpg",
+          "sizes": {
+            "small": {
+              "w": 680,
+              "h": 510,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 2048,
+              "h": 1536,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 1200,
+              "h": 900,
+              "resize": "fit"
+            }
+          }
+        },
+        {
+          "id": 930448778682863616,
+          "display_url": "pic.twitter.com/075wxSNDie",
+          "id_str": "930448778682863616",
+          "indices": [
+            175,
+            198
+          ],
+          "expanded_url": "https://twitter.com/ConcejoSogamoso/status/930448855442903040/photo/1",
+          "type": "photo",
+          "url": "https://t.co/075wxSNDie",
+          "media_url_https": "https://pbs.twimg.com/media/DOmePAcWkAAbcYu.jpg",
+          "media_url": "http://pbs.twimg.com/media/DOmePAcWkAAbcYu.jpg",
+          "sizes": {
+            "small": {
+              "w": 680,
+              "h": 510,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 2048,
+              "h": 1536,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 1200,
+              "h": 900,
+              "resize": "fit"
+            }
+          }
+        },
+        {
+          "id": 930448801541877762,
+          "display_url": "pic.twitter.com/075wxSNDie",
+          "id_str": "930448801541877762",
+          "indices": [
+            175,
+            198
+          ],
+          "expanded_url": "https://twitter.com/ConcejoSogamoso/status/930448855442903040/photo/1",
+          "type": "photo",
+          "url": "https://t.co/075wxSNDie",
+          "media_url_https": "https://pbs.twimg.com/media/DOmeQVmXcAIpVFT.jpg",
+          "media_url": "http://pbs.twimg.com/media/DOmeQVmXcAIpVFT.jpg",
+          "sizes": {
+            "small": {
+              "w": 680,
+              "h": 383,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 2048,
+              "h": 1152,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 1200,
+              "h": 675,
+              "resize": "fit"
+            }
+          }
+        },
+        {
+          "id": 930448835717029889,
+          "display_url": "pic.twitter.com/075wxSNDie",
+          "id_str": "930448835717029889",
+          "indices": [
+            175,
+            198
+          ],
+          "expanded_url": "https://twitter.com/ConcejoSogamoso/status/930448855442903040/photo/1",
+          "type": "photo",
+          "url": "https://t.co/075wxSNDie",
+          "media_url_https": "https://pbs.twimg.com/media/DOmeSU6W4AEeHRD.jpg",
+          "media_url": "http://pbs.twimg.com/media/DOmeSU6W4AEeHRD.jpg",
+          "sizes": {
+            "small": {
+              "w": 680,
+              "h": 383,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 2048,
+              "h": 1152,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 1200,
+              "h": 675,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "entities": {
+      "media": [
+        {
+          "id": 930448743844982784,
+          "display_url": "pic.twitter.com/075wxSNDie",
+          "id_str": "930448743844982784",
+          "indices": [
+            175,
+            198
+          ],
+          "expanded_url": "https://twitter.com/ConcejoSogamoso/status/930448855442903040/photo/1",
+          "type": "photo",
+          "url": "https://t.co/075wxSNDie",
+          "media_url_https": "https://pbs.twimg.com/media/DOmeM-qWsAA24ow.jpg",
+          "media_url": "http://pbs.twimg.com/media/DOmeM-qWsAA24ow.jpg",
+          "sizes": {
+            "small": {
+              "w": 680,
+              "h": 510,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 2048,
+              "h": 1536,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 1200,
+              "h": 900,
+              "resize": "fit"
+            }
+          }
+        },
+        {
+          "id": 930448778682863616,
+          "display_url": "pic.twitter.com/075wxSNDie",
+          "id_str": "930448778682863616",
+          "indices": [
+            175,
+            198
+          ],
+          "expanded_url": "https://twitter.com/ConcejoSogamoso/status/930448855442903040/photo/1",
+          "type": "photo",
+          "url": "https://t.co/075wxSNDie",
+          "media_url_https": "https://pbs.twimg.com/media/DOmePAcWkAAbcYu.jpg",
+          "media_url": "http://pbs.twimg.com/media/DOmePAcWkAAbcYu.jpg",
+          "sizes": {
+            "small": {
+              "w": 680,
+              "h": 510,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 2048,
+              "h": 1536,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 1200,
+              "h": 900,
+              "resize": "fit"
+            }
+          }
+        },
+        {
+          "id": 930448801541877762,
+          "display_url": "pic.twitter.com/075wxSNDie",
+          "id_str": "930448801541877762",
+          "indices": [
+            175,
+            198
+          ],
+          "expanded_url": "https://twitter.com/ConcejoSogamoso/status/930448855442903040/photo/1",
+          "type": "photo",
+          "url": "https://t.co/075wxSNDie",
+          "media_url_https": "https://pbs.twimg.com/media/DOmeQVmXcAIpVFT.jpg",
+          "media_url": "http://pbs.twimg.com/media/DOmeQVmXcAIpVFT.jpg",
+          "sizes": {
+            "small": {
+              "w": 680,
+              "h": 383,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 2048,
+              "h": 1152,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 1200,
+              "h": 675,
+              "resize": "fit"
+            }
+          }
+        },
+        {
+          "id": 930448835717029889,
+          "display_url": "pic.twitter.com/075wxSNDie",
+          "id_str": "930448835717029889",
+          "indices": [
+            175,
+            198
+          ],
+          "expanded_url": "https://twitter.com/ConcejoSogamoso/status/930448855442903040/photo/1",
+          "type": "photo",
+          "url": "https://t.co/075wxSNDie",
+          "media_url_https": "https://pbs.twimg.com/media/DOmeSU6W4AEeHRD.jpg",
+          "media_url": "http://pbs.twimg.com/media/DOmeSU6W4AEeHRD.jpg",
+          "sizes": {
+            "small": {
+              "w": 680,
+              "h": 383,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 2048,
+              "h": 1152,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 1200,
+              "h": 675,
+              "resize": "fit"
+            }
+          }
+        }
+      ],
+      "urls": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "screen_name": "ConcejoSogamoso",
+          "id": 1964877871,
+          "name": "Concejo de Sogamoso",
+          "indices": [
+            11,
+            27
+          ],
+          "id_str": "1964877871"
+        }
+      ],
+      "hashtags": [
+        {
+          "text": "aestahora",
+          "indices": [
+            0,
+            10
+          ]
+        }
+      ]
+    },
+    "full_text": "#aestahora @ConcejoSogamoso escucha atentamente solicitudes  de poblaci\u00f3n vulnerable - ni\u00f1os con discapacidad - madres que exigen el cumplimiento de los derechos de sus hijos https://t.co/075wxSNDie"
+  },
+  "user": {
+    "statuses_count": 2287,
+    "id": 1964877871,
+    "default_profile": false,
+    "favourites_count": 128,
+    "url": "http://www.concejo-sogamoso-boyaca.gov.co/",
+    "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/588497078566801408/I1g0Q4ec.jpg",
+    "verified": false,
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/451451478092156928/Dn2hQJAB_normal.jpeg",
+    "translator_type": "none",
+    "location": "Sogamoso-Boyac\u00e1-Colombia",
+    "geo_enabled": true,
+    "utc_offset": -18000,
+    "notifications": null,
+    "profile_background_tile": false,
+    "friends_count": 900,
+    "is_translator": false,
+    "follow_request_sent": null,
+    "default_profile_image": false,
+    "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/588497078566801408/I1g0Q4ec.jpg",
+    "profile_background_color": "000000",
+    "profile_link_color": "1B95E0",
+    "profile_use_background_image": true,
+    "time_zone": "Bogota",
+    "name": "Concejo de Sogamoso",
+    "profile_text_color": "000000",
+    "profile_sidebar_border_color": "000000",
+    "screen_name": "ConcejoSogamoso",
+    "lang": "es",
+    "following": null,
+    "listed_count": 10,
+    "protected": false,
+    "profile_sidebar_fill_color": "000000",
+    "followers_count": 1934,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/451451478092156928/Dn2hQJAB_normal.jpeg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1964877871/1429060838",
+    "contributors_enabled": false,
+    "created_at": "Wed Oct 16 14:03:15 +0000 2013",
+    "id_str": "1964877871",
+    "description": "Cuenta Oficial del Honorable Concejo Municipal de Sogamoso-Boyac\u00e1"
+  },
+  "created_at": "Tue Nov 14 14:54:28 +0000 2017",
+  "id_str": "930448855442903040",
+  "in_reply_to_user_id": null,
+  "contributors": null
+}

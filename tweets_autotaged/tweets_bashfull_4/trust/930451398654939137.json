@@ -1,0 +1,270 @@
+{
+  "id": 930451398654939137,
+  "lang": "es",
+  "in_reply_to_status_id_str": null,
+  "truncated": true,
+  "place": {
+    "id": "4afa2757051c5192",
+    "country": "Argentina",
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            -63.39386,
+            -41.035009
+          ],
+          [
+            -63.39386,
+            -33.260144
+          ],
+          [
+            -56.665836,
+            -33.260144
+          ],
+          [
+            -56.665836,
+            -41.035009
+          ]
+        ]
+      ]
+    },
+    "url": "https://api.twitter.com/1.1/geo/id/4afa2757051c5192.json",
+    "full_name": "Buenos Aires, Argentina",
+    "attributes": {},
+    "name": "Buenos Aires",
+    "place_type": "admin",
+    "country_code": "AR"
+  },
+  "favorite_count": 0,
+  "retweeted": false,
+  "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+  "is_quote_status": false,
+  "possibly_sensitive": false,
+  "geo": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_status_id": null,
+  "retweet_count": 0,
+  "quote_count": 0,
+  "timestamp_ms": "1510671875047",
+  "favorited": false,
+  "coordinates": null,
+  "filter_level": "low",
+  "entities": {
+    "urls": [
+      {
+        "indices": [
+          107,
+          130
+        ],
+        "display_url": "twitter.com/i/web/status/9\u2026",
+        "url": "https://t.co/cGHIHpyAVQ",
+        "expanded_url": "https://twitter.com/i/web/status/930451398654939137"
+      }
+    ],
+    "symbols": [],
+    "user_mentions": [
+      {
+        "screen_name": "PicoDelucchi",
+        "id": 150921424,
+        "name": "Juan Manuel Delucchi",
+        "indices": [
+          92,
+          105
+        ],
+        "id_str": "150921424"
+      }
+    ],
+    "hashtags": [
+      {
+        "text": "RioSanto",
+        "indices": [
+          0,
+          9
+        ]
+      }
+    ]
+  },
+  "reply_count": 0,
+  "in_reply_to_screen_name": null,
+  "display_text_range": [
+    0,
+    140
+  ],
+  "text": "#RioSanto # RockEnVivo\nLos esperamos el 24/11 23:00hrs. en San Telmo; Tabaco Bar (EEUU 265)\n@PicoDelucchi\u2026 https://t.co/cGHIHpyAVQ",
+  "extended_tweet": {
+    "display_text_range": [
+      0,
+      134
+    ],
+    "extended_entities": {
+      "media": [
+        {
+          "id": 930451383924482048,
+          "display_url": "pic.twitter.com/Ns3i2wDjUE",
+          "id_str": "930451383924482048",
+          "indices": [
+            135,
+            158
+          ],
+          "expanded_url": "https://twitter.com/RioSantoOficial/status/930451398654939137/photo/1",
+          "type": "photo",
+          "url": "https://t.co/Ns3i2wDjUE",
+          "media_url_https": "https://pbs.twimg.com/media/DOmgmpuW4AAcgZi.jpg",
+          "media_url": "http://pbs.twimg.com/media/DOmgmpuW4AAcgZi.jpg",
+          "sizes": {
+            "small": {
+              "w": 680,
+              "h": 453,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 2048,
+              "h": 1365,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 1200,
+              "h": 800,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "entities": {
+      "media": [
+        {
+          "id": 930451383924482048,
+          "display_url": "pic.twitter.com/Ns3i2wDjUE",
+          "id_str": "930451383924482048",
+          "indices": [
+            135,
+            158
+          ],
+          "expanded_url": "https://twitter.com/RioSantoOficial/status/930451398654939137/photo/1",
+          "type": "photo",
+          "url": "https://t.co/Ns3i2wDjUE",
+          "media_url_https": "https://pbs.twimg.com/media/DOmgmpuW4AAcgZi.jpg",
+          "media_url": "http://pbs.twimg.com/media/DOmgmpuW4AAcgZi.jpg",
+          "sizes": {
+            "small": {
+              "w": 680,
+              "h": 453,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 2048,
+              "h": 1365,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 1200,
+              "h": 800,
+              "resize": "fit"
+            }
+          }
+        }
+      ],
+      "urls": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "screen_name": "PicoDelucchi",
+          "id": 150921424,
+          "name": "Juan Manuel Delucchi",
+          "indices": [
+            92,
+            105
+          ],
+          "id_str": "150921424"
+        },
+        {
+          "screen_name": "fedecarreta",
+          "id": 257129332,
+          "name": "Carreta",
+          "indices": [
+            106,
+            118
+          ],
+          "id_str": "257129332"
+        },
+        {
+          "screen_name": "FabianaCantilo",
+          "id": 69341032,
+          "name": "FABIANA CANTILO",
+          "indices": [
+            119,
+            134
+          ],
+          "id_str": "69341032"
+        }
+      ],
+      "hashtags": [
+        {
+          "text": "RioSanto",
+          "indices": [
+            0,
+            9
+          ]
+        }
+      ]
+    },
+    "full_text": "#RioSanto # RockEnVivo\nLos esperamos el 24/11 23:00hrs. en San Telmo; Tabaco Bar (EEUU 265)\n@PicoDelucchi @fedecarreta @FabianaCantilo https://t.co/Ns3i2wDjUE"
+  },
+  "user": {
+    "statuses_count": 196,
+    "id": 3238902412,
+    "default_profile": true,
+    "favourites_count": 30,
+    "url": null,
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "verified": false,
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/927745959920009217/MYZJ6YE0_normal.jpg",
+    "translator_type": "none",
+    "location": "Tigre, Argentina",
+    "geo_enabled": true,
+    "utc_offset": null,
+    "notifications": null,
+    "profile_background_tile": false,
+    "friends_count": 102,
+    "is_translator": false,
+    "follow_request_sent": null,
+    "default_profile_image": false,
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_color": "C0DEED",
+    "profile_link_color": "1DA1F2",
+    "profile_use_background_image": true,
+    "time_zone": null,
+    "name": "RioSanto",
+    "profile_text_color": "333333",
+    "profile_sidebar_border_color": "C0DEED",
+    "screen_name": "RioSantoOficial",
+    "lang": "es",
+    "following": null,
+    "listed_count": 4,
+    "protected": false,
+    "profile_sidebar_fill_color": "DDEEF6",
+    "followers_count": 45,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/927745959920009217/MYZJ6YE0_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/3238902412/1510026849",
+    "contributors_enabled": false,
+    "created_at": "Wed May 06 12:56:14 +0000 2015",
+    "id_str": "3238902412",
+    "description": "Banda de rock"
+  },
+  "created_at": "Tue Nov 14 15:04:35 +0000 2017",
+  "id_str": "930451398654939137",
+  "in_reply_to_user_id": null,
+  "contributors": null
+}

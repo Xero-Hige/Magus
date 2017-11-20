@@ -1,0 +1,121 @@
+{
+  "id": 930448722462494721,
+  "in_reply_to_status_id_str": "930441450982117376",
+  "truncated": false,
+  "place": {
+    "id": "ea520f3528c9b3e4",
+    "country": "Espa\u00f1a",
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            -4.579175,
+            39.884537
+          ],
+          [
+            -4.579175,
+            41.164911
+          ],
+          [
+            -3.053132,
+            41.164911
+          ],
+          [
+            -3.053132,
+            39.884537
+          ]
+        ]
+      ]
+    },
+    "url": "https://api.twitter.com/1.1/geo/id/ea520f3528c9b3e4.json",
+    "full_name": "Madrid, Comunidad de Madrid",
+    "attributes": {},
+    "name": "Madrid",
+    "place_type": "admin",
+    "country_code": "ES"
+  },
+  "favorite_count": 0,
+  "retweeted": false,
+  "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+  "is_quote_status": false,
+  "in_reply_to_status_id": 930441450982117376,
+  "coordinates": null,
+  "in_reply_to_screen_name": "mrDrooth",
+  "retweet_count": 0,
+  "quote_count": 0,
+  "timestamp_ms": "1510671236993",
+  "favorited": false,
+  "in_reply_to_user_id_str": "1278508140",
+  "filter_level": "low",
+  "entities": {
+    "urls": [],
+    "symbols": [],
+    "user_mentions": [
+      {
+        "screen_name": "mrDrooth",
+        "id": 1278508140,
+        "name": "Alberto",
+        "indices": [
+          0,
+          9
+        ],
+        "id_str": "1278508140"
+      }
+    ],
+    "hashtags": []
+  },
+  "reply_count": 0,
+  "geo": null,
+  "display_text_range": [
+    10,
+    107
+  ],
+  "text": "@mrDrooth Ya, tienes razon... \nOjala no sea as\u00ed y salga el lunes. Thalia da mucho juego y se adapta a todo.",
+  "lang": "es",
+  "user": {
+    "statuses_count": 89673,
+    "id": 273816258,
+    "default_profile": false,
+    "favourites_count": 48484,
+    "url": "https://www.instagram.com/untalneno/",
+    "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/686192139/74ae7ce1306874b643eec4be1321f249.jpeg",
+    "verified": false,
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/915246294607761409/mRADWuDI_normal.jpg",
+    "translator_type": "none",
+    "location": "Madriz!",
+    "geo_enabled": true,
+    "utc_offset": 3600,
+    "notifications": null,
+    "profile_background_tile": false,
+    "friends_count": 1505,
+    "is_translator": false,
+    "follow_request_sent": null,
+    "default_profile_image": false,
+    "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/686192139/74ae7ce1306874b643eec4be1321f249.jpeg",
+    "profile_background_color": "ACDED6",
+    "profile_link_color": "0C6970",
+    "profile_use_background_image": true,
+    "time_zone": "Madrid",
+    "name": "UnTalNeno!",
+    "profile_text_color": "333333",
+    "profile_sidebar_border_color": "FFFFFF",
+    "screen_name": "NenoAluXe",
+    "lang": "es",
+    "following": null,
+    "listed_count": 57,
+    "protected": false,
+    "profile_sidebar_fill_color": "E5CCFF",
+    "followers_count": 4930,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/915246294607761409/mRADWuDI_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/273816258/1495709971",
+    "contributors_enabled": false,
+    "created_at": "Tue Mar 29 06:41:04 +0000 2011",
+    "id_str": "273816258",
+    "description": "31. Gato Madrile\u00f1o. Apasionado de la musica y los viajes. Fundador de Nenovision .\u0391\u03b3\u03ce\u03bd\u03b1\u03c2 \u03b3\u03b9\u03b1 \u03c4\u03b1 \u03cc\u03bd\u03b5\u03b9\u03c1\u03ac \u03c3\u03b1\u03c2 #Eurofan Im Not Afraid to Move On!"
+  },
+  "created_at": "Tue Nov 14 14:53:56 +0000 2017",
+  "id_str": "930448722462494721",
+  "in_reply_to_user_id": 1278508140,
+  "contributors": null
+}

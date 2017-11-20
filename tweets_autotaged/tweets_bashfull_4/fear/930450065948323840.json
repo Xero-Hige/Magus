@@ -1,0 +1,396 @@
+{
+  "id": 930450065948323840,
+  "lang": "es",
+  "in_reply_to_status_id_str": null,
+  "truncated": true,
+  "place": {
+    "id": "01f12d127b3175d6",
+    "country": "Chile",
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            -70.586068,
+            -33.46555
+          ],
+          [
+            -70.586068,
+            -33.428727
+          ],
+          [
+            -70.487313,
+            -33.428727
+          ],
+          [
+            -70.487313,
+            -33.46555
+          ]
+        ]
+      ]
+    },
+    "url": "https://api.twitter.com/1.1/geo/id/01f12d127b3175d6.json",
+    "full_name": "La Reina, Chile",
+    "attributes": {},
+    "name": "La Reina",
+    "place_type": "city",
+    "country_code": "CL"
+  },
+  "favorite_count": 0,
+  "retweeted": false,
+  "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+  "is_quote_status": false,
+  "possibly_sensitive": false,
+  "geo": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_status_id": null,
+  "retweet_count": 0,
+  "quote_count": 0,
+  "timestamp_ms": "1510671557305",
+  "favorited": false,
+  "coordinates": null,
+  "filter_level": "low",
+  "entities": {
+    "urls": [
+      {
+        "indices": [
+          117,
+          140
+        ],
+        "display_url": "twitter.com/i/web/status/9\u2026",
+        "url": "https://t.co/TrFrMhLejp",
+        "expanded_url": "https://twitter.com/i/web/status/930450065948323840"
+      }
+    ],
+    "symbols": [],
+    "user_mentions": [
+      {
+        "screen_name": "Carabdechile",
+        "id": 118784585,
+        "name": "Carabineros de Chile",
+        "indices": [
+          25,
+          38
+        ],
+        "id_str": "118784585"
+      }
+    ],
+    "hashtags": []
+  },
+  "reply_count": 0,
+  "in_reply_to_screen_name": null,
+  "display_text_range": [
+    0,
+    140
+  ],
+  "text": "\ud83d\udcf7FOTOS I Funcionarios de @Carabdechile realizan amplio operativo en el sector de Tobalaba con Francisco Villagra, t\u2026 https://t.co/TrFrMhLejp",
+  "extended_tweet": {
+    "display_text_range": [
+      0,
+      237
+    ],
+    "extended_entities": {
+      "media": [
+        {
+          "id": 930449786238590977,
+          "display_url": "pic.twitter.com/Cse7uN9adW",
+          "id_str": "930449786238590977",
+          "indices": [
+            238,
+            261
+          ],
+          "expanded_url": "https://twitter.com/agenciaunochile/status/930450065948323840/photo/1",
+          "type": "photo",
+          "url": "https://t.co/Cse7uN9adW",
+          "media_url_https": "https://pbs.twimg.com/media/DOmfJp4W4AEwd4v.jpg",
+          "media_url": "http://pbs.twimg.com/media/DOmfJp4W4AEwd4v.jpg",
+          "sizes": {
+            "small": {
+              "w": 640,
+              "h": 397,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 640,
+              "h": 397,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 640,
+              "h": 397,
+              "resize": "fit"
+            }
+          }
+        },
+        {
+          "id": 930449786251153409,
+          "display_url": "pic.twitter.com/Cse7uN9adW",
+          "id_str": "930449786251153409",
+          "indices": [
+            238,
+            261
+          ],
+          "expanded_url": "https://twitter.com/agenciaunochile/status/930450065948323840/photo/1",
+          "type": "photo",
+          "url": "https://t.co/Cse7uN9adW",
+          "media_url_https": "https://pbs.twimg.com/media/DOmfJp7WkAE6fiI.jpg",
+          "media_url": "http://pbs.twimg.com/media/DOmfJp7WkAE6fiI.jpg",
+          "sizes": {
+            "small": {
+              "w": 640,
+              "h": 397,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 640,
+              "h": 397,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 640,
+              "h": 397,
+              "resize": "fit"
+            }
+          }
+        },
+        {
+          "id": 930449786247041024,
+          "display_url": "pic.twitter.com/Cse7uN9adW",
+          "id_str": "930449786247041024",
+          "indices": [
+            238,
+            261
+          ],
+          "expanded_url": "https://twitter.com/agenciaunochile/status/930450065948323840/photo/1",
+          "type": "photo",
+          "url": "https://t.co/Cse7uN9adW",
+          "media_url_https": "https://pbs.twimg.com/media/DOmfJp6X0AAD8rv.jpg",
+          "media_url": "http://pbs.twimg.com/media/DOmfJp6X0AAD8rv.jpg",
+          "sizes": {
+            "small": {
+              "w": 640,
+              "h": 397,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 640,
+              "h": 397,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 640,
+              "h": 397,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "entities": {
+      "media": [
+        {
+          "id": 930449786238590977,
+          "display_url": "pic.twitter.com/Cse7uN9adW",
+          "id_str": "930449786238590977",
+          "indices": [
+            238,
+            261
+          ],
+          "expanded_url": "https://twitter.com/agenciaunochile/status/930450065948323840/photo/1",
+          "type": "photo",
+          "url": "https://t.co/Cse7uN9adW",
+          "media_url_https": "https://pbs.twimg.com/media/DOmfJp4W4AEwd4v.jpg",
+          "media_url": "http://pbs.twimg.com/media/DOmfJp4W4AEwd4v.jpg",
+          "sizes": {
+            "small": {
+              "w": 640,
+              "h": 397,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 640,
+              "h": 397,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 640,
+              "h": 397,
+              "resize": "fit"
+            }
+          }
+        },
+        {
+          "id": 930449786251153409,
+          "display_url": "pic.twitter.com/Cse7uN9adW",
+          "id_str": "930449786251153409",
+          "indices": [
+            238,
+            261
+          ],
+          "expanded_url": "https://twitter.com/agenciaunochile/status/930450065948323840/photo/1",
+          "type": "photo",
+          "url": "https://t.co/Cse7uN9adW",
+          "media_url_https": "https://pbs.twimg.com/media/DOmfJp7WkAE6fiI.jpg",
+          "media_url": "http://pbs.twimg.com/media/DOmfJp7WkAE6fiI.jpg",
+          "sizes": {
+            "small": {
+              "w": 640,
+              "h": 397,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 640,
+              "h": 397,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 640,
+              "h": 397,
+              "resize": "fit"
+            }
+          }
+        },
+        {
+          "id": 930449786247041024,
+          "display_url": "pic.twitter.com/Cse7uN9adW",
+          "id_str": "930449786247041024",
+          "indices": [
+            238,
+            261
+          ],
+          "expanded_url": "https://twitter.com/agenciaunochile/status/930450065948323840/photo/1",
+          "type": "photo",
+          "url": "https://t.co/Cse7uN9adW",
+          "media_url_https": "https://pbs.twimg.com/media/DOmfJp6X0AAD8rv.jpg",
+          "media_url": "http://pbs.twimg.com/media/DOmfJp6X0AAD8rv.jpg",
+          "sizes": {
+            "small": {
+              "w": 640,
+              "h": 397,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 640,
+              "h": 397,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 640,
+              "h": 397,
+              "resize": "fit"
+            }
+          }
+        }
+      ],
+      "urls": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "screen_name": "Carabdechile",
+          "id": 118784585,
+          "name": "Carabineros de Chile",
+          "indices": [
+            25,
+            38
+          ],
+          "id_str": "118784585"
+        },
+        {
+          "screen_name": "BancoEstado",
+          "id": 266151224,
+          "name": "BancoEstado",
+          "indices": [
+            188,
+            200
+          ],
+          "id_str": "266151224"
+        }
+      ],
+      "hashtags": [
+        {
+          "text": "LaReina",
+          "indices": [
+            204,
+            212
+          ]
+        }
+      ]
+    },
+    "full_text": "\ud83d\udcf7FOTOS I Funcionarios de @Carabdechile realizan amplio operativo en el sector de Tobalaba con Francisco Villagra, todo para dar con uno de los asaltantes que intento robar una sucursal de @BancoEstado en #LaReina . \u00a1Hay dos detenidos! \ud83d\ude93\ud83d\udc6e https://t.co/Cse7uN9adW"
+  },
+  "user": {
+    "statuses_count": 2795,
+    "id": 253076999,
+    "default_profile": false,
+    "favourites_count": 208,
+    "url": "http://www.agenciauno.cl",
+    "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/206630434/LOGO_FONDO_1.jpg",
+    "verified": false,
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/738515591359782912/4KOVDxg4_normal.jpg",
+    "translator_type": "none",
+    "location": "Santiago de Chile",
+    "geo_enabled": true,
+    "utc_offset": -7200,
+    "notifications": null,
+    "profile_background_tile": false,
+    "friends_count": 728,
+    "is_translator": false,
+    "follow_request_sent": null,
+    "default_profile_image": false,
+    "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/206630434/LOGO_FONDO_1.jpg",
+    "profile_background_color": "FFFFFF",
+    "profile_link_color": "B30000",
+    "profile_use_background_image": false,
+    "time_zone": "Brasilia",
+    "name": "AgenciaUno",
+    "profile_text_color": "333333",
+    "profile_sidebar_border_color": "C0DEED",
+    "screen_name": "agenciaunochile",
+    "lang": "es",
+    "following": null,
+    "listed_count": 61,
+    "protected": false,
+    "profile_sidebar_fill_color": "DDEEF6",
+    "followers_count": 4479,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/738515591359782912/4KOVDxg4_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/253076999/1476588026",
+    "contributors_enabled": false,
+    "created_at": "Wed Feb 16 14:18:15 +0000 2011",
+    "id_str": "253076999",
+    "description": "Agencia chilena de fotoperiodismo y multimedia presentes en todo el pa\u00eds y en los principales medios de comunicaci\u00f3n. http://www.facebook.com/AgenciaUnoSCL"
+  },
+  "created_at": "Tue Nov 14 14:59:17 +0000 2017",
+  "id_str": "930450065948323840",
+  "in_reply_to_user_id": null,
+  "contributors": null
+}

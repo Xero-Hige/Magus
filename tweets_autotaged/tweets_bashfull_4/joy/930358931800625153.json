@@ -1,0 +1,127 @@
+{
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "id": 930358931800625153,
+  "in_reply_to_user_id": null,
+  "coordinates": null,
+  "reply_count": 0,
+  "timestamp_ms": "1510649829231",
+  "geo": null,
+  "quote_count": 0,
+  "retweet_count": 0,
+  "is_quote_status": false,
+  "created_at": "Tue Nov 14 08:57:09 +0000 2017",
+  "source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+  "favorite_count": 0,
+  "in_reply_to_screen_name": null,
+  "text": "Hoy es nuestro d\u00eda 1. Comencemos a innovar y mejorar. Verdaderamente genial la presentaci\u00f3n de @TheGrok en @smxlmilan",
+  "in_reply_to_status_id_str": null,
+  "place": {
+    "country": "Italia",
+    "name": "Mil\u00e1n",
+    "id": "1ea588c12abd39d7",
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            9.040628,
+            45.386726
+          ],
+          [
+            9.040628,
+            45.535964
+          ],
+          [
+            9.278045,
+            45.535964
+          ],
+          [
+            9.278045,
+            45.386726
+          ]
+        ]
+      ]
+    },
+    "country_code": "IT",
+    "place_type": "city",
+    "url": "https://api.twitter.com/1.1/geo/id/1ea588c12abd39d7.json",
+    "attributes": {},
+    "full_name": "Mil\u00e1n, Lombard\u00eda"
+  },
+  "contributors": null,
+  "entities": {
+    "hashtags": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "screen_name": "TheGrok",
+        "name": "Bryan Eisenberg",
+        "id": 3709051,
+        "id_str": "3709051",
+        "indices": [
+          95,
+          103
+        ]
+      },
+      {
+        "screen_name": "smxlmilan",
+        "name": "SMXL Milan",
+        "id": 735553220383248384,
+        "id_str": "735553220383248384",
+        "indices": [
+          107,
+          117
+        ]
+      }
+    ],
+    "symbols": []
+  },
+  "retweeted": false,
+  "id_str": "930358931800625153",
+  "user": {
+    "time_zone": "Madrid",
+    "follow_request_sent": null,
+    "id": 16168296,
+    "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/440751235537178625/Eif76Qul.jpeg",
+    "translator_type": "none",
+    "screen_name": "fernandomacia",
+    "profile_link_color": "A01C1F",
+    "url": "http://www.humanlevel.com",
+    "utc_offset": 3600,
+    "location": "Espa\u00f1a",
+    "name": "Fernando Maci\u00e1",
+    "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/440751235537178625/Eif76Qul.jpeg",
+    "description": "Director en @humanlevel. Autor de libros sobre SEO y marketing online. International speaker. \nLibros: http://amzn.to/2n88NnC\nBio: http://bit.ly/2murmki",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/16168296/1478769758",
+    "created_at": "Sun Sep 07 11:36:37 +0000 2008",
+    "protected": false,
+    "is_translator": false,
+    "listed_count": 1963,
+    "statuses_count": 26028,
+    "profile_sidebar_border_color": "FFFFFF",
+    "profile_sidebar_fill_color": "E8EBFC",
+    "default_profile": false,
+    "default_profile_image": false,
+    "verified": true,
+    "notifications": null,
+    "friends_count": 2456,
+    "profile_background_color": "DBE9ED",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/796642981218545664/aOwlz9A9_normal.jpg",
+    "following": null,
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/796642981218545664/aOwlz9A9_normal.jpg",
+    "geo_enabled": true,
+    "profile_use_background_image": true,
+    "contributors_enabled": false,
+    "id_str": "16168296",
+    "profile_text_color": "111311",
+    "followers_count": 19569,
+    "favourites_count": 12383,
+    "lang": "es",
+    "profile_background_tile": false
+  },
+  "filter_level": "low",
+  "in_reply_to_user_id_str": null,
+  "favorited": false,
+  "lang": "es"
+}

@@ -1,0 +1,125 @@
+{
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "id": 930332254919725056,
+  "in_reply_to_user_id": null,
+  "coordinates": null,
+  "reply_count": 0,
+  "timestamp_ms": "1510643468967",
+  "geo": null,
+  "quote_count": 0,
+  "retweet_count": 0,
+  "is_quote_status": false,
+  "created_at": "Tue Nov 14 07:11:08 +0000 2017",
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "favorite_count": 0,
+  "in_reply_to_screen_name": null,
+  "text": "Tarde pero seguro, Feliz cumplea\u00f1os Diputada @VeroDelgadilloG \ud83c\udf82 \u203c\ufe0f que se la siga pasando de lo mejor, saludos desde #Xalapa",
+  "in_reply_to_status_id_str": null,
+  "place": {
+    "country": "M\u00e9xico",
+    "name": "Xalapa",
+    "id": "8b16d56e258b0278",
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            -96.971524,
+            19.48425
+          ],
+          [
+            -96.971524,
+            19.599858
+          ],
+          [
+            -96.800642,
+            19.599858
+          ],
+          [
+            -96.800642,
+            19.48425
+          ]
+        ]
+      ]
+    },
+    "country_code": "MX",
+    "place_type": "city",
+    "url": "https://api.twitter.com/1.1/geo/id/8b16d56e258b0278.json",
+    "attributes": {},
+    "full_name": "Xalapa, Veracruz de Ignacio de la Llave"
+  },
+  "contributors": null,
+  "entities": {
+    "hashtags": [
+      {
+        "indices": [
+          117,
+          124
+        ],
+        "text": "Xalapa"
+      }
+    ],
+    "urls": [],
+    "user_mentions": [
+      {
+        "screen_name": "VeroDelgadilloG",
+        "name": "Ver\u00f3nica Delgadillo",
+        "id": 134187654,
+        "id_str": "134187654",
+        "indices": [
+          45,
+          61
+        ]
+      }
+    ],
+    "symbols": []
+  },
+  "retweeted": false,
+  "id_str": "930332254919725056",
+  "user": {
+    "time_zone": "Mexico City",
+    "follow_request_sent": null,
+    "id": 42511516,
+    "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/758064513/23d0b87d25464ce6ff88f687d434e67a.jpeg",
+    "translator_type": "regular",
+    "screen_name": "galolemadec",
+    "profile_link_color": "FA743E",
+    "url": null,
+    "utc_offset": -21600,
+    "location": "Xalapa \ud83c\uddf2\ud83c\uddfd",
+    "name": "Galo Le Madec Bv",
+    "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/758064513/23d0b87d25464ce6ff88f687d434e67a.jpeg",
+    "description": "Ma\u00eetrise en Estudios Latinoamericanos y en Estudios Europeos por la Universidad de Par\u00eds III, Lic. en Derecho por la UV y pasante de CPyAP \ud83c\uddeb\ud83c\uddf7 \ud83c\uddf2\ud83c\uddfd",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/42511516/1380165963",
+    "created_at": "Mon May 25 23:20:58 +0000 2009",
+    "protected": false,
+    "is_translator": false,
+    "listed_count": 27,
+    "statuses_count": 16621,
+    "profile_sidebar_border_color": "000000",
+    "profile_sidebar_fill_color": "A0C5C7",
+    "default_profile": false,
+    "default_profile_image": false,
+    "verified": false,
+    "notifications": null,
+    "friends_count": 1985,
+    "profile_background_color": "709397",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/3079571001/73d6548c69f491a2895958e1483cd80a_normal.jpeg",
+    "following": null,
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/3079571001/73d6548c69f491a2895958e1483cd80a_normal.jpeg",
+    "geo_enabled": true,
+    "profile_use_background_image": true,
+    "contributors_enabled": false,
+    "id_str": "42511516",
+    "profile_text_color": "333333",
+    "followers_count": 1147,
+    "favourites_count": 3021,
+    "lang": "es",
+    "profile_background_tile": false
+  },
+  "filter_level": "low",
+  "in_reply_to_user_id_str": null,
+  "favorited": false,
+  "lang": "es"
+}

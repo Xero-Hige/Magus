@@ -1,0 +1,422 @@
+{
+  "id": 930452919400521732,
+  "in_reply_to_status_id_str": null,
+  "filter_level": "low",
+  "retweeted": false,
+  "is_quote_status": true,
+  "possibly_sensitive": false,
+  "coordinates": null,
+  "quoted_status_id_str": "930407335427747840",
+  "retweet_count": 0,
+  "quoted_status": {
+    "id": 930407335427747840,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id_str": null,
+    "truncated": true,
+    "place": {
+      "id": "13d479b108707983",
+      "country": "Guatemala",
+      "bounding_box": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -92.227387,
+              13.72873
+            ],
+            [
+              -92.227387,
+              17.816205
+            ],
+            [
+              -88.221055,
+              17.816205
+            ],
+            [
+              -88.221055,
+              13.72873
+            ]
+          ]
+        ]
+      },
+      "url": "https://api.twitter.com/1.1/geo/id/13d479b108707983.json",
+      "full_name": "Guatemala",
+      "attributes": {},
+      "name": "Guatemala",
+      "place_type": "country",
+      "country_code": "GT"
+    },
+    "entities": {
+      "urls": [
+        {
+          "indices": [
+            117,
+            140
+          ],
+          "display_url": "twitter.com/i/web/status/9\u2026",
+          "url": "https://t.co/gqCMsr3zw3",
+          "expanded_url": "https://twitter.com/i/web/status/930407335427747840"
+        }
+      ],
+      "symbols": [],
+      "user_mentions": [],
+      "hashtags": [
+        {
+          "text": "ReporteroNocturno",
+          "indices": [
+            0,
+            18
+          ]
+        }
+      ]
+    },
+    "possibly_sensitive": false,
+    "retweeted": false,
+    "reply_count": 1,
+    "is_quote_status": false,
+    "in_reply_to_status_id": null,
+    "coordinates": null,
+    "in_reply_to_screen_name": null,
+    "retweet_count": 4,
+    "quote_count": 0,
+    "favorited": false,
+    "extended_tweet": {
+      "display_text_range": [
+        0,
+        155
+      ],
+      "extended_entities": {
+        "media": [
+          {
+            "id": 930314466834767872,
+            "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/930314466834767872/pu/img/09Fh3q_ymyhaYWdR.jpg",
+            "url": "https://t.co/Z7gONIsmUd",
+            "expanded_url": "https://twitter.com/O_Calderon_100/status/930315743018868736/video/1",
+            "source_user_id": 2970233003,
+            "video_info": {
+              "duration_millis": 52402,
+              "aspect_ratio": [
+                11,
+                20
+              ],
+              "variants": [
+                {
+                  "url": "https://video.twimg.com/ext_tw_video/930314466834767872/pu/vid/352x640/P3LFGiuYzb5dK7XO.mp4",
+                  "bitrate": 832000,
+                  "content_type": "video/mp4"
+                },
+                {
+                  "url": "https://video.twimg.com/ext_tw_video/930314466834767872/pu/vid/176x320/G2eddDaMtkVzjv-H.mp4",
+                  "bitrate": 320000,
+                  "content_type": "video/mp4"
+                },
+                {
+                  "url": "https://video.twimg.com/ext_tw_video/930314466834767872/pu/pl/3ICwI8cs4YDuZbqb.m3u8",
+                  "content_type": "application/x-mpegURL"
+                }
+              ]
+            },
+            "display_url": "pic.twitter.com/Z7gONIsmUd",
+            "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/930314466834767872/pu/img/09Fh3q_ymyhaYWdR.jpg",
+            "source_status_id": 930315743018868736,
+            "source_user_id_str": "2970233003",
+            "sizes": {
+              "small": {
+                "w": 340,
+                "h": 618,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 352,
+                "h": 640,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "medium": {
+                "w": 352,
+                "h": 640,
+                "resize": "fit"
+              }
+            },
+            "source_status_id_str": "930315743018868736",
+            "indices": [
+              132,
+              155
+            ],
+            "type": "video",
+            "id_str": "930314466834767872"
+          }
+        ]
+      },
+      "entities": {
+        "media": [
+          {
+            "id": 930314466834767872,
+            "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/930314466834767872/pu/img/09Fh3q_ymyhaYWdR.jpg",
+            "url": "https://t.co/Z7gONIsmUd",
+            "expanded_url": "https://twitter.com/O_Calderon_100/status/930315743018868736/video/1",
+            "source_user_id": 2970233003,
+            "video_info": {
+              "duration_millis": 52402,
+              "aspect_ratio": [
+                11,
+                20
+              ],
+              "variants": [
+                {
+                  "url": "https://video.twimg.com/ext_tw_video/930314466834767872/pu/vid/352x640/P3LFGiuYzb5dK7XO.mp4",
+                  "bitrate": 832000,
+                  "content_type": "video/mp4"
+                },
+                {
+                  "url": "https://video.twimg.com/ext_tw_video/930314466834767872/pu/vid/176x320/G2eddDaMtkVzjv-H.mp4",
+                  "bitrate": 320000,
+                  "content_type": "video/mp4"
+                },
+                {
+                  "url": "https://video.twimg.com/ext_tw_video/930314466834767872/pu/pl/3ICwI8cs4YDuZbqb.m3u8",
+                  "content_type": "application/x-mpegURL"
+                }
+              ]
+            },
+            "display_url": "pic.twitter.com/Z7gONIsmUd",
+            "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/930314466834767872/pu/img/09Fh3q_ymyhaYWdR.jpg",
+            "source_status_id": 930315743018868736,
+            "source_user_id_str": "2970233003",
+            "sizes": {
+              "small": {
+                "w": 340,
+                "h": 618,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 352,
+                "h": 640,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "medium": {
+                "w": 352,
+                "h": 640,
+                "resize": "fit"
+              }
+            },
+            "source_status_id_str": "930315743018868736",
+            "indices": [
+              132,
+              155
+            ],
+            "type": "video",
+            "id_str": "930314466834767872"
+          }
+        ],
+        "urls": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "ErickColop",
+            "id": 116981202,
+            "name": "Erick Colop 100",
+            "indices": [
+              120,
+              131
+            ],
+            "id_str": "116981202"
+          }
+        ],
+        "hashtags": [
+          {
+            "text": "ReporteroNocturno",
+            "indices": [
+              0,
+              18
+            ]
+          }
+        ]
+      },
+      "full_text": "#ReporteroNocturno hasta el momento se desconocen los motivos del porque el funcionario p\u00fablico reaccion\u00f3 de esa manera @ErickColop https://t.co/Z7gONIsmUd"
+    },
+    "text": "#ReporteroNocturno hasta el momento se desconocen los motivos del porque el funcionario p\u00fablico reaccion\u00f3 de esa ma\u2026 https://t.co/gqCMsr3zw3",
+    "favorite_count": 0,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "geo": null,
+    "filter_level": "low",
+    "lang": "es",
+    "user": {
+      "statuses_count": 134853,
+      "id": 149595717,
+      "default_profile": false,
+      "favourites_count": 751,
+      "url": "http://www.stereo100.com.gt",
+      "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000161918673/HotgvofB.jpeg",
+      "verified": true,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/925513041076043776/NmDAN3v__normal.jpg",
+      "translator_type": "none",
+      "location": "Quetzaltenango, Guatemala",
+      "geo_enabled": true,
+      "utc_offset": -21600,
+      "notifications": null,
+      "profile_background_tile": true,
+      "friends_count": 768,
+      "is_translator": false,
+      "follow_request_sent": null,
+      "default_profile_image": false,
+      "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000161918673/HotgvofB.jpeg",
+      "profile_background_color": "C0DEED",
+      "profile_link_color": "0084B4",
+      "profile_use_background_image": true,
+      "time_zone": "Central America",
+      "name": "Stereo100Noticias",
+      "profile_text_color": "333333",
+      "profile_sidebar_border_color": "FFFFFF",
+      "screen_name": "stereo100xela",
+      "lang": "es",
+      "following": null,
+      "listed_count": 123,
+      "protected": false,
+      "profile_sidebar_fill_color": "DDEEF6",
+      "followers_count": 38305,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/925513041076043776/NmDAN3v__normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/149595717/1509494499",
+      "contributors_enabled": false,
+      "created_at": "Sat May 29 17:59:03 +0000 2010",
+      "id_str": "149595717",
+      "description": "Stereo 100 es la emisora n\u00famero uno del Suroccidente de Guatemala. Haciendo radio desde 1982. Nos escuchamos al 100 por 100."
+    },
+    "created_at": "Tue Nov 14 12:09:29 +0000 2017",
+    "id_str": "930407335427747840",
+    "in_reply_to_user_id": null,
+    "contributors": null
+  },
+  "quote_count": 0,
+  "in_reply_to_user_id_str": null,
+  "entities": {
+    "urls": [
+      {
+        "indices": [
+          117,
+          140
+        ],
+        "display_url": "twitter.com/stereo100xela/\u2026",
+        "url": "https://t.co/YbK4LFqzNt",
+        "expanded_url": "https://twitter.com/stereo100xela/status/930407335427747840"
+      }
+    ],
+    "symbols": [],
+    "user_mentions": [
+      {
+        "screen_name": "Munixelaorg",
+        "id": 708086209159909377,
+        "name": "Muni Xela",
+        "indices": [
+          104,
+          116
+        ],
+        "id_str": "708086209159909377"
+      }
+    ],
+    "hashtags": []
+  },
+  "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+  "display_text_range": [
+    0,
+    116
+  ],
+  "created_at": "Tue Nov 14 15:10:37 +0000 2017",
+  "id_str": "930452919400521732",
+  "in_reply_to_user_id": null,
+  "timestamp_ms": "1510672237621",
+  "truncated": false,
+  "place": {
+    "id": "13d479b108707983",
+    "country": "Guatemala",
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            -92.227387,
+            13.72873
+          ],
+          [
+            -92.227387,
+            17.816205
+          ],
+          [
+            -88.221055,
+            17.816205
+          ],
+          [
+            -88.221055,
+            13.72873
+          ]
+        ]
+      ]
+    },
+    "url": "https://api.twitter.com/1.1/geo/id/13d479b108707983.json",
+    "full_name": "Guatemala",
+    "attributes": {},
+    "name": "Guatemala",
+    "place_type": "country",
+    "country_code": "GT"
+  },
+  "in_reply_to_status_id": null,
+  "in_reply_to_screen_name": null,
+  "quoted_status_id": 930407335427747840,
+  "favorited": false,
+  "text": "Verg\u00fcenza, indignaci\u00f3n y hasta asco de la inutilidad y prepotencia de nuestras autoridades municipales. @Munixelaorg https://t.co/YbK4LFqzNt",
+  "favorite_count": 0,
+  "reply_count": 0,
+  "geo": null,
+  "lang": "es",
+  "user": {
+    "statuses_count": 66112,
+    "id": 109742162,
+    "default_profile": false,
+    "favourites_count": 539,
+    "url": "https://www.facebook.com/steve.vivas.7",
+    "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/435400069/JOHNNY_BRAVO2.jpg",
+    "verified": false,
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/899861932278112257/bSCMwL1g_normal.jpg",
+    "translator_type": "none",
+    "location": "Xela- Coban- Zacapa. Guatemala",
+    "geo_enabled": true,
+    "utc_offset": -25200,
+    "notifications": null,
+    "profile_background_tile": false,
+    "friends_count": 373,
+    "is_translator": false,
+    "follow_request_sent": null,
+    "default_profile_image": false,
+    "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/435400069/JOHNNY_BRAVO2.jpg",
+    "profile_background_color": "131516",
+    "profile_link_color": "009999",
+    "profile_use_background_image": true,
+    "time_zone": "Mountain Time (US & Canada)",
+    "name": "Steve Vivas",
+    "profile_text_color": "663D66",
+    "profile_sidebar_border_color": "EEEEEE",
+    "screen_name": "stevevivas",
+    "lang": "en",
+    "following": null,
+    "listed_count": 4,
+    "protected": false,
+    "profile_sidebar_fill_color": "EFEFEF",
+    "followers_count": 496,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/899861932278112257/bSCMwL1g_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/109742162/1486615242",
+    "contributors_enabled": false,
+    "created_at": "Sat Jan 30 03:08:19 +0000 2010",
+    "id_str": "109742162",
+    "description": "Estudiante de Relaciones Internacionales y Ciencia Pol\u00edtica. F1, Tauromaquia, familia, caf\u00e9 y pol\u00edtica. Dem\u00f3crata, Humanista y Conservador.  #GuateSomosTodos."
+  },
+  "contributors": null
+}

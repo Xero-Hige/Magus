@@ -1,0 +1,204 @@
+{
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "id": 930323119092445184,
+  "in_reply_to_user_id": null,
+  "coordinates": null,
+  "possibly_sensitive": false,
+  "reply_count": 0,
+  "timestamp_ms": "1510641290816",
+  "geo": null,
+  "quote_count": 0,
+  "retweet_count": 0,
+  "is_quote_status": false,
+  "created_at": "Tue Nov 14 06:34:50 +0000 2017",
+  "source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+  "favorite_count": 0,
+  "text": "\ud83d\udcc6\ud83d\udd06Buenos d\u00edas! Agenda de la Consejer\u00eda de #Presidencia y #Fomento para hoy martes https://t.co/L6XNeQXqpT",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id_str": null,
+  "place": {
+    "country": "Espa\u00f1a",
+    "name": "Murcia",
+    "id": "cbdb0e7018443220",
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            -1.385233,
+            37.715968
+          ],
+          [
+            -1.385233,
+            38.117714
+          ],
+          [
+            -0.850358,
+            38.117714
+          ],
+          [
+            -0.850358,
+            37.715968
+          ]
+        ]
+      ]
+    },
+    "country_code": "ES",
+    "place_type": "city",
+    "url": "https://api.twitter.com/1.1/geo/id/cbdb0e7018443220.json",
+    "attributes": {},
+    "full_name": "Murcia, Espa\u00f1a"
+  },
+  "contributors": null,
+  "entities": {
+    "media": [
+      {
+        "type": "photo",
+        "url": "https://t.co/L6XNeQXqpT",
+        "display_url": "pic.twitter.com/L6XNeQXqpT",
+        "media_url_https": "https://pbs.twimg.com/media/DOkr8RWX4AAMq6_.jpg",
+        "id": 930323112478105600,
+        "sizes": {
+          "large": {
+            "w": 913,
+            "resize": "fit",
+            "h": 414
+          },
+          "thumb": {
+            "w": 150,
+            "resize": "crop",
+            "h": 150
+          },
+          "small": {
+            "w": 680,
+            "resize": "fit",
+            "h": 308
+          },
+          "medium": {
+            "w": 913,
+            "resize": "fit",
+            "h": 414
+          }
+        },
+        "expanded_url": "https://twitter.com/RM_Presidencia/status/930323119092445184/photo/1",
+        "id_str": "930323112478105600",
+        "indices": [
+          82,
+          105
+        ],
+        "media_url": "http://pbs.twimg.com/media/DOkr8RWX4AAMq6_.jpg"
+      }
+    ],
+    "hashtags": [
+      {
+        "indices": [
+          42,
+          54
+        ],
+        "text": "Presidencia"
+      },
+      {
+        "indices": [
+          57,
+          65
+        ],
+        "text": "Fomento"
+      }
+    ],
+    "urls": [],
+    "user_mentions": [],
+    "symbols": []
+  },
+  "display_text_range": [
+    0,
+    81
+  ],
+  "retweeted": false,
+  "id_str": "930323119092445184",
+  "user": {
+    "time_zone": "Pacific Time (US & Canada)",
+    "follow_request_sent": null,
+    "id": 796295798749364224,
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "translator_type": "none",
+    "screen_name": "RM_Presidencia",
+    "profile_link_color": "E81C4F",
+    "url": "http://www.carm.es",
+    "utc_offset": -28800,
+    "location": "Murcia, Espa\u00f1a",
+    "name": "PresidenciaRM",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "description": "Consejer\u00eda de Presidencia y Fomento del Gobierno de la Regi\u00f3n de Murcia",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/796295798749364224/1504887616",
+    "created_at": "Wed Nov 09 10:18:07 +0000 2016",
+    "protected": false,
+    "is_translator": false,
+    "listed_count": 20,
+    "statuses_count": 2692,
+    "profile_sidebar_border_color": "000000",
+    "profile_sidebar_fill_color": "000000",
+    "default_profile": false,
+    "default_profile_image": false,
+    "verified": false,
+    "notifications": null,
+    "friends_count": 258,
+    "profile_background_color": "000000",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/906196201971822593/bPXAH_md_normal.jpg",
+    "following": null,
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/906196201971822593/bPXAH_md_normal.jpg",
+    "geo_enabled": true,
+    "profile_use_background_image": false,
+    "contributors_enabled": false,
+    "id_str": "796295798749364224",
+    "profile_text_color": "000000",
+    "followers_count": 1050,
+    "favourites_count": 2508,
+    "lang": "es",
+    "profile_background_tile": false
+  },
+  "extended_entities": {
+    "media": [
+      {
+        "type": "photo",
+        "url": "https://t.co/L6XNeQXqpT",
+        "display_url": "pic.twitter.com/L6XNeQXqpT",
+        "media_url_https": "https://pbs.twimg.com/media/DOkr8RWX4AAMq6_.jpg",
+        "id": 930323112478105600,
+        "sizes": {
+          "large": {
+            "w": 913,
+            "resize": "fit",
+            "h": 414
+          },
+          "thumb": {
+            "w": 150,
+            "resize": "crop",
+            "h": 150
+          },
+          "small": {
+            "w": 680,
+            "resize": "fit",
+            "h": 308
+          },
+          "medium": {
+            "w": 913,
+            "resize": "fit",
+            "h": 414
+          }
+        },
+        "expanded_url": "https://twitter.com/RM_Presidencia/status/930323119092445184/photo/1",
+        "id_str": "930323112478105600",
+        "indices": [
+          82,
+          105
+        ],
+        "media_url": "http://pbs.twimg.com/media/DOkr8RWX4AAMq6_.jpg"
+      }
+    ]
+  },
+  "filter_level": "low",
+  "in_reply_to_user_id_str": null,
+  "favorited": false,
+  "lang": "es"
+}

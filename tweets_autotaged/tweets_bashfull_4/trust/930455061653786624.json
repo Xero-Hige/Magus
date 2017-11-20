@@ -1,0 +1,151 @@
+{
+  "id": 930455061653786624,
+  "lang": "es",
+  "in_reply_to_status_id_str": null,
+  "truncated": true,
+  "place": {
+    "id": "6cf2fd60a82329fc",
+    "country": "Paraguay",
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            -62.64512,
+            -27.594325
+          ],
+          [
+            -62.64512,
+            -19.294041
+          ],
+          [
+            -54.258291,
+            -19.294041
+          ],
+          [
+            -54.258291,
+            -27.594325
+          ]
+        ]
+      ]
+    },
+    "url": "https://api.twitter.com/1.1/geo/id/6cf2fd60a82329fc.json",
+    "full_name": "Paraguay",
+    "attributes": {},
+    "name": "Paraguay",
+    "place_type": "country",
+    "country_code": "PY"
+  },
+  "favorite_count": 0,
+  "retweeted": false,
+  "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+  "is_quote_status": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "retweet_count": 0,
+  "quote_count": 0,
+  "timestamp_ms": "1510672748374",
+  "favorited": false,
+  "coordinates": null,
+  "text": "\"Un pabell\u00f3n es de salud sexual y preventiva. Otro pabell\u00f3n es cordinado por el @minmujerpy, de atenci\u00f3n a victimas\u2026 https://t.co/JUol6DC6ch",
+  "entities": {
+    "urls": [
+      {
+        "indices": [
+          117,
+          140
+        ],
+        "display_url": "twitter.com/i/web/status/9\u2026",
+        "url": "https://t.co/JUol6DC6ch",
+        "expanded_url": "https://twitter.com/i/web/status/930455061653786624"
+      }
+    ],
+    "symbols": [],
+    "user_mentions": [
+      {
+        "screen_name": "minmujerpy",
+        "id": 166201076,
+        "name": "Min. de la Mujer",
+        "indices": [
+          80,
+          91
+        ],
+        "id_str": "166201076"
+      }
+    ],
+    "hashtags": []
+  },
+  "reply_count": 0,
+  "geo": null,
+  "filter_level": "low",
+  "extended_tweet": {
+    "display_text_range": [
+      0,
+      280
+    ],
+    "entities": {
+      "urls": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "screen_name": "minmujerpy",
+          "id": 166201076,
+          "name": "Min. de la Mujer",
+          "indices": [
+            80,
+            91
+          ],
+          "id_str": "166201076"
+        }
+      ],
+      "hashtags": []
+    },
+    "full_text": "\"Un pabell\u00f3n es de salud sexual y preventiva. Otro pabell\u00f3n es cordinado por el @minmujerpy, de atenci\u00f3n a victimas de la violencia y prevenci\u00f3n a la violencia. Es un pabell\u00f3n donde est\u00e1n incluidas otras intituioens como Polic\u00eda, Fiscal\u00eda y Defensa P\u00fablica\", min Ana Mar\u00eda Baiardi"
+  },
+  "user": {
+    "statuses_count": 33907,
+    "id": 1490622026,
+    "default_profile": false,
+    "favourites_count": 140,
+    "url": "http://radio.diputados.gov.py",
+    "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000026917037/48a9efd3be864272279b8109fe20c878.jpeg",
+    "verified": false,
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/925683945567608832/CfOXmmJj_normal.jpg",
+    "translator_type": "none",
+    "location": "Asunci\u00f3n - Paraguay",
+    "geo_enabled": true,
+    "utc_offset": -14400,
+    "notifications": null,
+    "profile_background_tile": true,
+    "friends_count": 593,
+    "is_translator": false,
+    "follow_request_sent": null,
+    "default_profile_image": false,
+    "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000026917037/48a9efd3be864272279b8109fe20c878.jpeg",
+    "profile_background_color": "C1E5EB",
+    "profile_link_color": "3CAFD9",
+    "profile_use_background_image": true,
+    "time_zone": "Atlantic Time (Canada)",
+    "name": "Radio C\u00e1mara Py",
+    "profile_text_color": "333333",
+    "profile_sidebar_border_color": "000000",
+    "screen_name": "Radiocamarapy",
+    "lang": "es",
+    "following": null,
+    "listed_count": 42,
+    "protected": false,
+    "profile_sidebar_fill_color": "DDEEF6",
+    "followers_count": 4958,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/925683945567608832/CfOXmmJj_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1490622026/1493900512",
+    "contributors_enabled": false,
+    "created_at": "Fri Jun 07 15:14:50 +0000 2013",
+    "id_str": "1490622026",
+    "description": "Emisora Oficial de la  C\u00e1mara de Diputados de Paraguay - Contacto al (021) 414 4447 -  Facebook: Radio C\u00e1mara Py"
+  },
+  "created_at": "Tue Nov 14 15:19:08 +0000 2017",
+  "id_str": "930455061653786624",
+  "in_reply_to_user_id": null,
+  "contributors": null
+}

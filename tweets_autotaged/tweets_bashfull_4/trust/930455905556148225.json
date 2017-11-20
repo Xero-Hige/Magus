@@ -1,0 +1,244 @@
+{
+  "id": 930455905556148225,
+  "lang": "es",
+  "in_reply_to_status_id_str": null,
+  "truncated": true,
+  "place": {
+    "id": "001a090f0374bd47",
+    "country": "Colombia",
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            -75.735339,
+            4.44414
+          ],
+          [
+            -75.735339,
+            4.690035
+          ],
+          [
+            -75.468944,
+            4.690035
+          ],
+          [
+            -75.468944,
+            4.44414
+          ]
+        ]
+      ]
+    },
+    "url": "https://api.twitter.com/1.1/geo/id/001a090f0374bd47.json",
+    "full_name": "Salento, Colombia",
+    "attributes": {},
+    "name": "Salento",
+    "place_type": "city",
+    "country_code": "CO"
+  },
+  "favorite_count": 0,
+  "retweeted": false,
+  "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+  "is_quote_status": false,
+  "possibly_sensitive": false,
+  "geo": null,
+  "in_reply_to_user_id_str": "22600664",
+  "in_reply_to_status_id": null,
+  "retweet_count": 0,
+  "quote_count": 0,
+  "timestamp_ms": "1510672949576",
+  "favorited": false,
+  "coordinates": null,
+  "filter_level": "low",
+  "entities": {
+    "urls": [
+      {
+        "indices": [
+          116,
+          139
+        ],
+        "display_url": "twitter.com/i/web/status/9\u2026",
+        "url": "https://t.co/kO7tumibrl",
+        "expanded_url": "https://twitter.com/i/web/status/930455905556148225"
+      }
+    ],
+    "symbols": [],
+    "user_mentions": [
+      {
+        "screen_name": "habitissimo",
+        "id": 22600664,
+        "name": "Habitissimo",
+        "indices": [
+          0,
+          12
+        ],
+        "id_str": "22600664"
+      }
+    ],
+    "hashtags": []
+  },
+  "reply_count": 0,
+  "in_reply_to_screen_name": "habitissimo",
+  "display_text_range": [
+    0,
+    140
+  ],
+  "text": "@habitissimo la plataforma que ayuda a los propietarios de viviendas en las mejoras del hogar fue galardonada como\u2026 https://t.co/kO7tumibrl",
+  "extended_tweet": {
+    "display_text_range": [
+      0,
+      176
+    ],
+    "extended_entities": {
+      "media": [
+        {
+          "id": 930455797112496128,
+          "display_url": "pic.twitter.com/LIGS5Bggap",
+          "id_str": "930455797112496128",
+          "indices": [
+            177,
+            200
+          ],
+          "expanded_url": "https://twitter.com/UpBizor/status/930455905556148225/photo/1",
+          "type": "photo",
+          "url": "https://t.co/LIGS5Bggap",
+          "media_url_https": "https://pbs.twimg.com/media/DOmkniIX4AAinTA.png",
+          "media_url": "http://pbs.twimg.com/media/DOmkniIX4AAinTA.png",
+          "sizes": {
+            "small": {
+              "w": 680,
+              "h": 340,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 1024,
+              "h": 512,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 1024,
+              "h": 512,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "entities": {
+      "media": [
+        {
+          "id": 930455797112496128,
+          "display_url": "pic.twitter.com/LIGS5Bggap",
+          "id_str": "930455797112496128",
+          "indices": [
+            177,
+            200
+          ],
+          "expanded_url": "https://twitter.com/UpBizor/status/930455905556148225/photo/1",
+          "type": "photo",
+          "url": "https://t.co/LIGS5Bggap",
+          "media_url_https": "https://pbs.twimg.com/media/DOmkniIX4AAinTA.png",
+          "media_url": "http://pbs.twimg.com/media/DOmkniIX4AAinTA.png",
+          "sizes": {
+            "small": {
+              "w": 680,
+              "h": 340,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 1024,
+              "h": 512,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 1024,
+              "h": 512,
+              "resize": "fit"
+            }
+          }
+        }
+      ],
+      "urls": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "screen_name": "habitissimo",
+          "id": 22600664,
+          "name": "Habitissimo",
+          "indices": [
+            0,
+            12
+          ],
+          "id_str": "22600664"
+        },
+        {
+          "screen_name": "bigbanangels",
+          "id": 211903160,
+          "name": "Big Ban angels",
+          "indices": [
+            150,
+            163
+          ],
+          "id_str": "211903160"
+        }
+      ],
+      "hashtags": []
+    },
+    "full_text": "@habitissimo la plataforma que ayuda a los propietarios de viviendas en las mejoras del hogar fue galardonada como mejor desinversi\u00f3n en los premios  @bigbanangels Felicidades! https://t.co/LIGS5Bggap"
+  },
+  "user": {
+    "statuses_count": 370,
+    "id": 3173745381,
+    "default_profile": false,
+    "favourites_count": 27,
+    "url": "http://www.upbizor.com/",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "verified": false,
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/588779826724659200/Q-6IRAtg_normal.png",
+    "translator_type": "none",
+    "location": "Barcelona / London",
+    "geo_enabled": true,
+    "utc_offset": 3600,
+    "notifications": null,
+    "profile_background_tile": false,
+    "friends_count": 1248,
+    "is_translator": false,
+    "follow_request_sent": null,
+    "default_profile_image": false,
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_color": "000000",
+    "profile_link_color": "FF691F",
+    "profile_use_background_image": false,
+    "time_zone": "Madrid",
+    "name": "UpBizor",
+    "profile_text_color": "000000",
+    "profile_sidebar_border_color": "000000",
+    "screen_name": "UpBizor",
+    "lang": "en",
+    "following": null,
+    "listed_count": 5,
+    "protected": false,
+    "profile_sidebar_fill_color": "000000",
+    "followers_count": 794,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/588779826724659200/Q-6IRAtg_normal.png",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/3173745381/1491770815",
+    "contributors_enabled": false,
+    "created_at": "Thu Apr 16 19:01:53 +0000 2015",
+    "id_str": "3173745381",
+    "description": "Strategy & Capital to grow. Expertos en #financiaci\u00f3n de #Startups y #PYMES innovadoras de Espa\u00f1a. Presencia internacional. #Inversores y #emprendedores"
+  },
+  "created_at": "Tue Nov 14 15:22:29 +0000 2017",
+  "id_str": "930455905556148225",
+  "in_reply_to_user_id": 22600664,
+  "contributors": null
+}
