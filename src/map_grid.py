@@ -1,25 +1,25 @@
-import json as Serializer
+import json as serializer
+import sys
 from threading import Thread
 
+import libs.sentiments_handling as sentiments
 from gmaps_rectangle import GmapsRectangle
 from grid_region import GridRegion
 from libs.rabbit_handler import RabbitHandler
-from libs.sentiments_handling import ANGER, ANTICIPATION, DISGUST, FEAR, JOY, LOVE, NEUTRAL, SADNESS, SURPRISE, TRUST
 
 
 class MapGrid:
     GRID_SIZE = 100
 
-    LOOKUP_CLASSIFICATION = {ANTICIPATION: "anticipation",
-                             ANGER:        "anger",
-                             DISGUST:      "disgust",
-                             SADNESS:      "sadness",
-                             SURPRISE:     "surprise",
-                             FEAR:         "fear",
-                             LOVE:         "love",
-                             TRUST:        "trust",
-                             JOY:          "joy",
-                             NEUTRAL:      "neutral"}
+    LOOKUP_CLASSIFICATION = {sentiments.ANTICIPATION: GridRegion.ANTICIPATION,
+                             sentiments.ANGER:        GridRegion.ANGER,
+                             sentiments.DISGUST:      GridRegion.DISGUST,
+                             sentiments.SADNESS:      GridRegion.SADNESS,
+                             sentiments.SURPRISE:     GridRegion.SURPRISE,
+                             sentiments.FEAR:         GridRegion.FEAR,
+                             sentiments.TRUST:        GridRegion.TRUST,
+                             sentiments.JOY:          GridRegion.JOY,
+                             sentiments.NEUTRAL:      GridRegion.NEUTRAL}
 
     def __init__(self, north, south, west, east, grid_rows=10, grid_columns=10):
         self.grid_rows = grid_rows
@@ -79,9 +79,10 @@ class MapGrid:
 
     def __update(self, message):
         try:
-            coordinates, classification = Serializer.loads(message)
+            coordinates, classification = serializer.loads(message)
         except Exception as e:
-            print(e.message)
+            print(e.__cause__)
+            sys.stdout.flush()
             return
 
         classification = self.LOOKUP_CLASSIFICATION[classification]

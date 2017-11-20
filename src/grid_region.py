@@ -1,8 +1,6 @@
 import time
 from threading import Lock
 
-CLASSES = 4
-
 
 class GridRegion:
     ANTICIPATION = 0
