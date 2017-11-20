@@ -12,11 +12,13 @@ from tensorflow_serving.apis import predict_pb2
 from tensorflow_serving.apis import prediction_service_pb2
 
 from libs.sentiments_handling import ANGER, ANTICIPATION, DISGUST, FEAR, JOY, NEUTRAL, SADNESS, SURPRISE, TRUST
+from libs.tweet_parser import TweetParser
 from m_cores.magus_core import MagusCore
 
 EMOTION_LOOKUP = [JOY, TRUST, FEAR, SURPRISE, SADNESS, DISGUST, ANGER, ANTICIPATION, NEUTRAL]
 
-tf.app.flags.DEFINE_string('server', 'localhost:9000',
+tf.app.flags.DEFINE_string('server',
+                           'morgana:9000',
                            'PredictionService host:port')
 FLAGS = tf.app.flags.FLAGS
 
@@ -30,24 +32,43 @@ class ClassifierCore(MagusCore):
         self.stub = prediction_service_pb2.beta_create_PredictionService_stub(channel)
 
     def run_core(self):
-        for tweet in self.tweets_stream:
-            self._log("Tweet received")
+        def callback(tweet_string):
+            if not tweet_string:
+                return
+
+            tweet = self.serializer.loads(tweet_string)
+
+            if not tweet:
+                self._log("Can't deserialize tweet")
+                return
+
+            self._log("Classify tweet")
+            features_map = self.load_features_map(tweet[TweetParser.TWEET_ID])
+            result = self.make_request(features_map)
+            self._log("Lowered tweet")
+
+            tweet_info = {"classification": result,
+                          TweetParser.TWEET_ID: tweet[TweetParser.TWEET_ID],
+                          "tweet_lat": tweet["latitude"],
+                          "tweet_lon": tweet["longitude"]
+                          }
+
             self.out_queue.send_message(self.serializer.dumps(tweet))
-            self._log("Tweet sent")
 
-        self.out_queue.close()
-        return 0
+        self.in_queue.receive_messages(callback)
 
-    def make_request(self):
+    def load_features_map(self, tweet_id):
+        return [[0.1 for _ in range(80)] for _ in range(300)]
+
+    def make_request(self, features_map):
         request = predict_pb2.PredictRequest()
         request.model_spec.name = 'morgana'
         request.model_spec.signature_name = 'predict_tweets'
 
         request.inputs['tweet_features'].CopyFrom(
-                tf.contrib.util.make_tensor_proto([[0.1 for _ in range(80)] for _ in range(300)],
+                tf.contrib.util.make_tensor_proto(features_map,
                                                   shape=[1, 80, 300, 1]))
 
-        result = self.stub.Predict(request, 10.0)  # 10 secs timeout
-        result = tensor_util.MakeNdarray(result.outputs["scores"])[0]
-        for i in range(len(result)):
-            print(EMOTION_LOOKUP[i], ":", result[i])
+        result = self.stub.Predict(request, 1)  # 1 secs timeout
+        result = tensor_util.MakeNdarray(result.outputs["predictions"])[0]
+        return result
