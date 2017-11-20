@@ -49,14 +49,14 @@ class TaggedTweet(Base):
         """Returns a list of the emotions in the tweet as a tuple with the format
         (<percentage>,<emotion name>)"""  # TODO: Change
 
-        emotions = {JOY: 1 if self.joy / self.totals > self.THRESHOLD else 0,
-                    TRUST: 1 if self.trust / self.totals > self.THRESHOLD else 0,
-                    FEAR: 1 if self.fear / self.totals > self.THRESHOLD else 0,
-                    SURPRISE: 1 if self.surprise / self.totals > self.THRESHOLD else 0,
-                    DISGUST: 1 if self.disgust / self.totals > self.THRESHOLD else 0,
-                    ANGER: 1 if self.anger / self.totals > self.THRESHOLD else 0,
+        emotions = {JOY:          1 if self.joy / self.totals > self.THRESHOLD else 0,
+                    TRUST:        1 if self.trust / self.totals > self.THRESHOLD else 0,
+                    FEAR:         1 if self.fear / self.totals > self.THRESHOLD else 0,
+                    SURPRISE:     1 if self.surprise / self.totals > self.THRESHOLD else 0,
+                    DISGUST:      1 if self.disgust / self.totals > self.THRESHOLD else 0,
+                    ANGER:        1 if self.anger / self.totals > self.THRESHOLD else 0,
                     ANTICIPATION: 1 if self.anticipation / self.totals > self.THRESHOLD else 0,
-                    SADNESS: 1 if self.sadness / self.totals > self.THRESHOLD else 0}
+                    SADNESS:      1 if self.sadness / self.totals > self.THRESHOLD else 0}
 
         return emotions
 

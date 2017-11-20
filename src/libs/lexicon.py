@@ -20,16 +20,16 @@ class Lexicon():
     _NEGATIVE = "negative"
 
     EMOTIONS = {
-        ANGER: 0,
+        ANGER:        0,
         ANTICIPATION: 1,
-        DISGUST: 2,
-        FEAR: 3,
-        JOY: 4,
-        SADNESS: 5,
-        SURPRISE: 6,
-        TRUST: 7,
-        _NEGATIVE: 8,
-        _POSITIVE: 9
+        DISGUST:      2,
+        FEAR:         3,
+        JOY:          4,
+        SADNESS:      5,
+        SURPRISE:     6,
+        TRUST:        7,
+        _NEGATIVE:    8,
+        _POSITIVE:    9
     }
 
     def __init__(self, lexicon_file, lang):
