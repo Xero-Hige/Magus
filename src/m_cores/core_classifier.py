@@ -68,5 +68,5 @@ class ClassifierCore(MagusCore):
                                                   shape=[1, 80, 300, 1]))
 
         result = self.stub.Predict(request, 1)  # 1 secs timeout
-        result = int(tensor_util.MakeNdarray(result.outputs["predictions"])[0][0])
-        return result
+        prediction_index = int(tensor_util.MakeNdarray(result.outputs["predictions"])[0])
+        return EMOTION_LOOKUP[prediction_index]
