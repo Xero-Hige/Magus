@@ -15,13 +15,13 @@ class EmitterCore(MagusCore):
             if not tweet_string:
                 return
 
-            tweet = self.serializer.loads(tweet_string)
+            tweet_info = self.serializer.loads(tweet_string)
 
-            if not tweet:
+            if not tweet_info:
                 return
 
-            latitude, longitude = tweet["latitude"], tweet["longitude"]
-            classification = tweet["classification"]
+            latitude, longitude = tweet_info["tweet_lat"], tweet_info["tweet_lon"]
+            classification = tweet_info["classification"]
             coordinates = (latitude, longitude)
             message = (coordinates, classification)
 
