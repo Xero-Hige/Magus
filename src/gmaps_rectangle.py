@@ -4,14 +4,14 @@ from grid_region import GridRegion
 class GmapsRectangle:
     BASE_OPACITY = 0.75
     COLORS = {
-        GridRegion.JOY:          '#81C784',
-        GridRegion.TRUST:        '#E57373',
-        GridRegion.SURPRISE:     '#4FC3F7',
-        GridRegion.SADNESS:      '#81C784',
-        GridRegion.FEAR:         '#E57373',
-        GridRegion.DISGUST:      '#4FC3F7',
-        GridRegion.ANTICIPATION: '#81C784',
-        GridRegion.ANGER:        '#E57373',
+        GridRegion.JOY:          '#F5EB20',
+        GridRegion.TRUST:        '#CDDD24',
+        GridRegion.SURPRISE:     '#5CC585',
+        GridRegion.SADNESS:      '#35C2F0',
+        GridRegion.FEAR:         '#A0CD36',
+        GridRegion.DISGUST:      '#914795',
+        GridRegion.ANTICIPATION: '#FAA827',
+        GridRegion.ANGER:        '#E10E7F',
         GridRegion.NEUTRAL:      '#90A4AE'
     }
 
@@ -27,7 +27,7 @@ class GmapsRectangle:
     def get_renderable_info(self):
         rectangle = {
             'stroke_color':   'self.color',
-            'stroke_opacity': self.opacity,
+            'stroke_opacity': .40,  # self.opacity,
             'stroke_weight':  0,
             'fill_color':     self.color,
             'fill_opacity':   self.opacity,
