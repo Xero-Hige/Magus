@@ -16,6 +16,7 @@ services:
 
     depends_on:
       - rabbitmq
+      - morgana
 
     env_file:
       - twitter.env
@@ -49,6 +50,6 @@ services:
       - "9000:9000"
 
     volumes:
-      - ./cnn_model:/MorganaModel
+      - ./BaseMorgana:/MorganaModel
 
     stop_signal: SIGINT

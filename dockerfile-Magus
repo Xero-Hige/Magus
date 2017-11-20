@@ -30,7 +30,7 @@ RUN apt-get update && \
 
 RUN pip install pika --no-cache-dir && \
     pip install tensorflow-serving-api --no-cache-dir && \
-    pip install Cython --no-cache-dir
+    pip install twitter --no-cache-dir
 
 COPY /src /Magus
 
