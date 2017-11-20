@@ -45,12 +45,12 @@
     "tag": "w_shortener",
     "replicas": 2,
     "input_queue": "lower_output",
-    "output_queue": "emitter_input"
+    "output_queue": "classifier_input"
   },
   "emitter_core": {
     "tag": "emitter",
     "replicas": 2,
-    "input_queue": "emitter_input",
+    "input_queue": "classifier_output",
     "output_queue": "output"
   }
 }
