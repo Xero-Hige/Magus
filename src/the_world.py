@@ -1,8 +1,7 @@
 import re
 
 from flask import Flask, render_template
-from flask_googlemaps import GoogleMaps
-from flask_googlemaps import Map
+from flask_googlemaps import GoogleMaps, Map
 
 from libs.locations import get_coordinates_from_code
 from map_grid import MapGrid
