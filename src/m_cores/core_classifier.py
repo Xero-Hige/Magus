@@ -1,5 +1,5 @@
-#!/usr/bin/python
-# encoding=utf8
+#!/usr/bin/env python
+# -*- coding: utf-8 -*-
 
 from __future__ import absolute_import, print_function, print_function, unicode_literals
 
@@ -34,16 +34,16 @@ class ClassifierCore(MagusCore):
             if not tweet_string:
                 return
 
-            tweet = self.serializer.loads(tweet_string, encoding="latin1")
+            tweet = self.serializer.loads(tweet_string, encoding="utf-8")
 
             if not tweet:
                 self._log("Can't deserialize tweet")
                 return
 
-            self._log("Classify tweet")
+            self._log("Classify new tweet")
             features_map = self.load_features_map(tweet[TweetParser.TWEET_ID])
             result = self.make_request(features_map)
-            self._log("Lowered tweet")
+            self._log("Classified new tweet: {}".format(result))
 
             tweet_info = {"classification":          result,
                           TweetParser.TWEET_ID: tweet[TweetParser.TWEET_ID],
@@ -67,6 +67,6 @@ class ClassifierCore(MagusCore):
                 tf.contrib.util.make_tensor_proto(features_map,
                                                   shape=[1, 80, 300, 1]))
 
-        result = self.stub.Predict(request, 1)  # 1 secs timeout
+        result = self.stub.Predict(request, 2)  # 1 secs timeout
         prediction_index = int(tensor_util.MakeNdarray(result.outputs["predictions"])[0])
         return EMOTION_LOOKUP[prediction_index]
