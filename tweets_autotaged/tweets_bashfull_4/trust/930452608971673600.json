@@ -1,0 +1,269 @@
+{
+  "id": 930452608971673600,
+  "lang": "es",
+  "in_reply_to_status_id_str": null,
+  "truncated": true,
+  "place": {
+    "id": "206c436ce43a43a3",
+    "country": "Espa\u00f1a",
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            -3.889005,
+            40.312071
+          ],
+          [
+            -3.889005,
+            40.643518
+          ],
+          [
+            -3.51801,
+            40.643518
+          ],
+          [
+            -3.51801,
+            40.312071
+          ]
+        ]
+      ]
+    },
+    "url": "https://api.twitter.com/1.1/geo/id/206c436ce43a43a3.json",
+    "full_name": "Madrid, Espa\u00f1a",
+    "attributes": {},
+    "name": "Madrid",
+    "place_type": "city",
+    "country_code": "ES"
+  },
+  "favorite_count": 0,
+  "retweeted": false,
+  "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+  "is_quote_status": false,
+  "possibly_sensitive": false,
+  "geo": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_status_id": null,
+  "retweet_count": 0,
+  "quote_count": 0,
+  "timestamp_ms": "1510672163609",
+  "favorited": false,
+  "coordinates": null,
+  "filter_level": "low",
+  "entities": {
+    "urls": [
+      {
+        "indices": [
+          117,
+          140
+        ],
+        "display_url": "twitter.com/i/web/status/9\u2026",
+        "url": "https://t.co/4nsrhuJGPc",
+        "expanded_url": "https://twitter.com/i/web/status/930452608971673600"
+      }
+    ],
+    "symbols": [],
+    "user_mentions": [
+      {
+        "screen_name": "EvaMariaCarret1",
+        "id": 814893757946613760,
+        "name": "Eva_UtopiaAsz",
+        "indices": [
+          14,
+          30
+        ],
+        "id_str": "814893757946613760"
+      }
+    ],
+    "hashtags": []
+  },
+  "reply_count": 0,
+  "in_reply_to_screen_name": null,
+  "display_text_range": [
+    0,
+    140
+  ],
+  "text": "Lleg\u00f3 el d\u00eda! @EvaMariaCarret1 parte hacia Pamplona con nervios, ilusi\u00f3n y esperanza, pero sobre todo con la valent\u2026 https://t.co/4nsrhuJGPc",
+  "extended_tweet": {
+    "display_text_range": [
+      0,
+      268
+    ],
+    "extended_entities": {
+      "media": [
+        {
+          "id": 930452586867634177,
+          "display_url": "pic.twitter.com/EDO3azhTJK",
+          "id_str": "930452586867634177",
+          "indices": [
+            269,
+            292
+          ],
+          "expanded_url": "https://twitter.com/Masalu3M/status/930452608971673600/photo/1",
+          "type": "photo",
+          "url": "https://t.co/EDO3azhTJK",
+          "media_url_https": "https://pbs.twimg.com/media/DOmhsrCWsAE-nRY.jpg",
+          "media_url": "http://pbs.twimg.com/media/DOmhsrCWsAE-nRY.jpg",
+          "sizes": {
+            "small": {
+              "w": 680,
+              "h": 677,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 1080,
+              "h": 1075,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 1080,
+              "h": 1075,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "entities": {
+      "media": [
+        {
+          "id": 930452586867634177,
+          "display_url": "pic.twitter.com/EDO3azhTJK",
+          "id_str": "930452586867634177",
+          "indices": [
+            269,
+            292
+          ],
+          "expanded_url": "https://twitter.com/Masalu3M/status/930452608971673600/photo/1",
+          "type": "photo",
+          "url": "https://t.co/EDO3azhTJK",
+          "media_url_https": "https://pbs.twimg.com/media/DOmhsrCWsAE-nRY.jpg",
+          "media_url": "http://pbs.twimg.com/media/DOmhsrCWsAE-nRY.jpg",
+          "sizes": {
+            "small": {
+              "w": 680,
+              "h": 677,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 1080,
+              "h": 1075,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 1080,
+              "h": 1075,
+              "resize": "fit"
+            }
+          }
+        }
+      ],
+      "urls": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "screen_name": "EvaMariaCarret1",
+          "id": 814893757946613760,
+          "name": "Eva_UtopiaAsz",
+          "indices": [
+            14,
+            30
+          ],
+          "id_str": "814893757946613760"
+        },
+        {
+          "screen_name": "AlejandroSanz",
+          "id": 43152482,
+          "name": "Alejandro Sanz",
+          "indices": [
+            239,
+            253
+          ],
+          "id_str": "43152482"
+        },
+        {
+          "screen_name": "ClubMeSumerjo",
+          "id": 1350059767,
+          "name": "Me Sumerjo Oficial",
+          "indices": [
+            254,
+            268
+          ],
+          "id_str": "1350059767"
+        }
+      ],
+      "hashtags": [
+        {
+          "text": "PorEva",
+          "indices": [
+            225,
+            232
+          ]
+        },
+        {
+          "text": "Vive",
+          "indices": [
+            233,
+            238
+          ]
+        }
+      ]
+    },
+    "full_text": "Lleg\u00f3 el d\u00eda! @EvaMariaCarret1 parte hacia Pamplona con nervios, ilusi\u00f3n y esperanza, pero sobre todo con la valent\u00eda que la caracteriza. Todo va a salir bien! Mientras ella lucha all\u00ed, nosotros debemos colaborar desde aqui. #PorEva #Vive @AlejandroSanz @ClubMeSumerjo https://t.co/EDO3azhTJK"
+  },
+  "user": {
+    "statuses_count": 30371,
+    "id": 731576000547553280,
+    "default_profile": true,
+    "favourites_count": 19068,
+    "url": null,
+    "profile_background_image_url_https": "",
+    "verified": false,
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/924766652792803329/L6ebtr9D_normal.jpg",
+    "translator_type": "none",
+    "location": null,
+    "geo_enabled": true,
+    "utc_offset": null,
+    "notifications": null,
+    "profile_background_tile": false,
+    "friends_count": 379,
+    "is_translator": false,
+    "follow_request_sent": null,
+    "default_profile_image": false,
+    "profile_background_image_url": "",
+    "profile_background_color": "F5F8FA",
+    "profile_link_color": "1DA1F2",
+    "profile_use_background_image": true,
+    "time_zone": null,
+    "name": "M. \u00c1ngeles\ud83d\ude07#VIVE\ud83d\udcab",
+    "profile_text_color": "333333",
+    "profile_sidebar_border_color": "C0DEED",
+    "screen_name": "Masalu3M",
+    "lang": "es",
+    "following": null,
+    "listed_count": 0,
+    "protected": false,
+    "profile_sidebar_fill_color": "DDEEF6",
+    "followers_count": 384,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/924766652792803329/L6ebtr9D_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/731576000547553280/1506605019",
+    "contributors_enabled": false,
+    "created_at": "Sat May 14 20:04:45 +0000 2016",
+    "id_str": "731576000547553280",
+    "description": "Mis dos hijas, mi motor. Amo el mar y la m\u00fasica que he mamado desde chica. Que Dios guarde a la m\u00fasica en su inmensidad... @alejandrosanz"
+  },
+  "created_at": "Tue Nov 14 15:09:23 +0000 2017",
+  "id_str": "930452608971673600",
+  "in_reply_to_user_id": null,
+  "contributors": null
+}

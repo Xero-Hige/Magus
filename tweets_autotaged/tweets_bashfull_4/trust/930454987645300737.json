@@ -1,0 +1,332 @@
+{
+  "id": 930454987645300737,
+  "lang": "es",
+  "in_reply_to_status_id_str": null,
+  "truncated": true,
+  "place": {
+    "id": "87430062a57866bb",
+    "country": "Espa\u00f1a",
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            -3.567057,
+            36.693395
+          ],
+          [
+            -3.567057,
+            36.791861
+          ],
+          [
+            -3.409851,
+            36.791861
+          ],
+          [
+            -3.409851,
+            36.693395
+          ]
+        ]
+      ]
+    },
+    "url": "https://api.twitter.com/1.1/geo/id/87430062a57866bb.json",
+    "full_name": "Motril, Espa\u00f1a",
+    "attributes": {},
+    "name": "Motril",
+    "place_type": "city",
+    "country_code": "ES"
+  },
+  "favorite_count": 0,
+  "retweeted": false,
+  "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+  "is_quote_status": false,
+  "possibly_sensitive": false,
+  "geo": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_status_id": null,
+  "retweet_count": 0,
+  "quote_count": 0,
+  "timestamp_ms": "1510672730729",
+  "favorited": false,
+  "coordinates": null,
+  "filter_level": "low",
+  "entities": {
+    "urls": [
+      {
+        "indices": [
+          117,
+          140
+        ],
+        "display_url": "twitter.com/i/web/status/9\u2026",
+        "url": "https://t.co/oCSHdH2xOW",
+        "expanded_url": "https://twitter.com/i/web/status/930454987645300737"
+      }
+    ],
+    "symbols": [],
+    "user_mentions": [
+      {
+        "screen_name": "aytomotril",
+        "id": 408465051,
+        "name": "Ayuntamiento Motril",
+        "indices": [
+          9,
+          20
+        ],
+        "id_str": "408465051"
+      }
+    ],
+    "hashtags": [
+      {
+        "text": "Motril",
+        "indices": [
+          0,
+          7
+        ]
+      }
+    ]
+  },
+  "reply_count": 0,
+  "in_reply_to_screen_name": null,
+  "display_text_range": [
+    0,
+    140
+  ],
+  "text": "#Motril/ @aytomotril y Conservatorio Profesional de M\u00fasica \u2018Antonio Lorenzo\u2019 firman un convenio para la cesi\u00f3n de i\u2026 https://t.co/oCSHdH2xOW",
+  "extended_tweet": {
+    "display_text_range": [
+      0,
+      211
+    ],
+    "extended_entities": {
+      "media": [
+        {
+          "id": 930454952312541184,
+          "display_url": "pic.twitter.com/iwu70dhDGn",
+          "id_str": "930454952312541184",
+          "indices": [
+            212,
+            235
+          ],
+          "expanded_url": "https://twitter.com/tropicaleurope/status/930454987645300737/photo/1",
+          "type": "photo",
+          "url": "https://t.co/iwu70dhDGn",
+          "media_url_https": "https://pbs.twimg.com/media/DOmj2XAXkAA0qM1.jpg",
+          "media_url": "http://pbs.twimg.com/media/DOmj2XAXkAA0qM1.jpg",
+          "sizes": {
+            "small": {
+              "w": 680,
+              "h": 357,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 2048,
+              "h": 1076,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 1200,
+              "h": 630,
+              "resize": "fit"
+            }
+          }
+        },
+        {
+          "id": 930454952258007040,
+          "display_url": "pic.twitter.com/iwu70dhDGn",
+          "id_str": "930454952258007040",
+          "indices": [
+            212,
+            235
+          ],
+          "expanded_url": "https://twitter.com/tropicaleurope/status/930454987645300737/photo/1",
+          "type": "photo",
+          "url": "https://t.co/iwu70dhDGn",
+          "media_url_https": "https://pbs.twimg.com/media/DOmj2WzXcAASGqa.jpg",
+          "media_url": "http://pbs.twimg.com/media/DOmj2WzXcAASGqa.jpg",
+          "sizes": {
+            "small": {
+              "w": 680,
+              "h": 396,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 2048,
+              "h": 1193,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 1200,
+              "h": 699,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "entities": {
+      "media": [
+        {
+          "id": 930454952312541184,
+          "display_url": "pic.twitter.com/iwu70dhDGn",
+          "id_str": "930454952312541184",
+          "indices": [
+            212,
+            235
+          ],
+          "expanded_url": "https://twitter.com/tropicaleurope/status/930454987645300737/photo/1",
+          "type": "photo",
+          "url": "https://t.co/iwu70dhDGn",
+          "media_url_https": "https://pbs.twimg.com/media/DOmj2XAXkAA0qM1.jpg",
+          "media_url": "http://pbs.twimg.com/media/DOmj2XAXkAA0qM1.jpg",
+          "sizes": {
+            "small": {
+              "w": 680,
+              "h": 357,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 2048,
+              "h": 1076,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 1200,
+              "h": 630,
+              "resize": "fit"
+            }
+          }
+        },
+        {
+          "id": 930454952258007040,
+          "display_url": "pic.twitter.com/iwu70dhDGn",
+          "id_str": "930454952258007040",
+          "indices": [
+            212,
+            235
+          ],
+          "expanded_url": "https://twitter.com/tropicaleurope/status/930454987645300737/photo/1",
+          "type": "photo",
+          "url": "https://t.co/iwu70dhDGn",
+          "media_url_https": "https://pbs.twimg.com/media/DOmj2WzXcAASGqa.jpg",
+          "media_url": "http://pbs.twimg.com/media/DOmj2WzXcAASGqa.jpg",
+          "sizes": {
+            "small": {
+              "w": 680,
+              "h": 396,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 2048,
+              "h": 1193,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 1200,
+              "h": 699,
+              "resize": "fit"
+            }
+          }
+        }
+      ],
+      "urls": [
+        {
+          "indices": [
+            188,
+            211
+          ],
+          "display_url": "europatropical.net/2017/11/14/ces\u2026",
+          "url": "https://t.co/FyjLlGgVxI",
+          "expanded_url": "https://europatropical.net/2017/11/14/cesion-de-instrumentos-de-propiedad-municipal-para-ensayos-y-conciertos-del-centro-antonio-lorenzo/"
+        }
+      ],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "screen_name": "aytomotril",
+          "id": 408465051,
+          "name": "Ayuntamiento Motril",
+          "indices": [
+            9,
+            20
+          ],
+          "id_str": "408465051"
+        }
+      ],
+      "hashtags": [
+        {
+          "text": "Motril",
+          "indices": [
+            0,
+            7
+          ]
+        }
+      ]
+    },
+    "full_text": "#Motril/ @aytomotril y Conservatorio Profesional de M\u00fasica \u2018Antonio Lorenzo\u2019 firman un convenio para la cesi\u00f3n de instrumentos de propiedad municipal para ensayos y conciertos del Centro. https://t.co/FyjLlGgVxI https://t.co/iwu70dhDGn"
+  },
+  "user": {
+    "statuses_count": 16856,
+    "id": 423723002,
+    "default_profile": false,
+    "favourites_count": 11757,
+    "url": "http://europatropical.net",
+    "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/675449210783797248/UJ4InKpg.png",
+    "verified": false,
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/631543296989511680/vM-yMw7N_normal.jpg",
+    "translator_type": "none",
+    "location": "Espa\u00f1a",
+    "geo_enabled": true,
+    "utc_offset": 3600,
+    "notifications": null,
+    "profile_background_tile": false,
+    "friends_count": 10430,
+    "is_translator": false,
+    "follow_request_sent": null,
+    "default_profile_image": false,
+    "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/675449210783797248/UJ4InKpg.png",
+    "profile_background_color": "F2F2F2",
+    "profile_link_color": "0489B1",
+    "profile_use_background_image": false,
+    "time_zone": "Madrid",
+    "name": "Europatropical",
+    "profile_text_color": "333333",
+    "profile_sidebar_border_color": "FFFFFF",
+    "screen_name": "tropicaleurope",
+    "lang": "es",
+    "following": null,
+    "listed_count": 130,
+    "protected": false,
+    "profile_sidebar_fill_color": "DDEEF6",
+    "followers_count": 10481,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/631543296989511680/vM-yMw7N_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/423723002/1478350661",
+    "contributors_enabled": false,
+    "created_at": "Mon Nov 28 21:21:44 +0000 2011",
+    "id_str": "423723002",
+    "description": "Informaci\u00f3n y noticias sobre #Almu\u00f1\u00e9car #Salobre\u00f1a #Motril y la #CostaTropical de #Granada (#News #Tourism #Travel)"
+  },
+  "created_at": "Tue Nov 14 15:18:50 +0000 2017",
+  "id_str": "930454987645300737",
+  "in_reply_to_user_id": null,
+  "contributors": null
+}

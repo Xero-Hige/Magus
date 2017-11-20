@@ -1,0 +1,234 @@
+{
+  "id": 930454302828781568,
+  "lang": "es",
+  "in_reply_to_status_id_str": "929129045790470144",
+  "truncated": true,
+  "place": {
+    "id": "09f6a7707f18e0b1",
+    "country": "France",
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            2.224101,
+            48.815521
+          ],
+          [
+            2.224101,
+            48.902146
+          ],
+          [
+            2.469905,
+            48.902146
+          ],
+          [
+            2.469905,
+            48.815521
+          ]
+        ]
+      ]
+    },
+    "url": "https://api.twitter.com/1.1/geo/id/09f6a7707f18e0b1.json",
+    "full_name": "Paris, France",
+    "attributes": {},
+    "name": "Paris",
+    "place_type": "city",
+    "country_code": "FR"
+  },
+  "favorite_count": 0,
+  "retweeted": false,
+  "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+  "is_quote_status": false,
+  "possibly_sensitive": false,
+  "geo": null,
+  "in_reply_to_user_id_str": "244218738",
+  "in_reply_to_status_id": 929129045790470144,
+  "retweet_count": 0,
+  "quote_count": 0,
+  "timestamp_ms": "1510672567456",
+  "favorited": false,
+  "coordinates": null,
+  "filter_level": "low",
+  "entities": {
+    "urls": [
+      {
+        "indices": [
+          117,
+          140
+        ],
+        "display_url": "twitter.com/i/web/status/9\u2026",
+        "url": "https://t.co/QBPbxmGKwZ",
+        "expanded_url": "https://twitter.com/i/web/status/930454302828781568"
+      }
+    ],
+    "symbols": [],
+    "user_mentions": [
+      {
+        "screen_name": "SinEmbargoMX",
+        "id": 244218738,
+        "name": "Sin Embargo MX",
+        "indices": [
+          0,
+          13
+        ],
+        "id_str": "244218738"
+      }
+    ],
+    "hashtags": []
+  },
+  "reply_count": 0,
+  "in_reply_to_screen_name": "SinEmbargoMX",
+  "display_text_range": [
+    14,
+    140
+  ],
+  "text": "@SinEmbargoMX Sistema capitalista mort\u00edfero, que expande pobreza y sufrimiento en todo el mundo.\nCu\u00e1ntos ni\u00f1os sufr\u2026 https://t.co/QBPbxmGKwZ",
+  "extended_tweet": {
+    "display_text_range": [
+      14,
+      277
+    ],
+    "extended_entities": {
+      "media": [
+        {
+          "id": 930454284600250368,
+          "display_url": "pic.twitter.com/yCNFxbdyJt",
+          "id_str": "930454284600250368",
+          "indices": [
+            278,
+            301
+          ],
+          "expanded_url": "https://twitter.com/MirthaAyala13/status/930454302828781568/photo/1",
+          "type": "photo",
+          "url": "https://t.co/yCNFxbdyJt",
+          "media_url_https": "https://pbs.twimg.com/media/DOmjPflWkAA1Nnj.jpg",
+          "media_url": "http://pbs.twimg.com/media/DOmjPflWkAA1Nnj.jpg",
+          "sizes": {
+            "small": {
+              "w": 382,
+              "h": 680,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 898,
+              "h": 1600,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 674,
+              "h": 1200,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "entities": {
+      "media": [
+        {
+          "id": 930454284600250368,
+          "display_url": "pic.twitter.com/yCNFxbdyJt",
+          "id_str": "930454284600250368",
+          "indices": [
+            278,
+            301
+          ],
+          "expanded_url": "https://twitter.com/MirthaAyala13/status/930454302828781568/photo/1",
+          "type": "photo",
+          "url": "https://t.co/yCNFxbdyJt",
+          "media_url_https": "https://pbs.twimg.com/media/DOmjPflWkAA1Nnj.jpg",
+          "media_url": "http://pbs.twimg.com/media/DOmjPflWkAA1Nnj.jpg",
+          "sizes": {
+            "small": {
+              "w": 382,
+              "h": 680,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 898,
+              "h": 1600,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 674,
+              "h": 1200,
+              "resize": "fit"
+            }
+          }
+        }
+      ],
+      "urls": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "screen_name": "SinEmbargoMX",
+          "id": 244218738,
+          "name": "Sin Embargo MX",
+          "indices": [
+            0,
+            13
+          ],
+          "id_str": "244218738"
+        }
+      ],
+      "hashtags": []
+    },
+    "full_text": "@SinEmbargoMX Sistema capitalista mort\u00edfero, que expande pobreza y sufrimiento en todo el mundo.\nCu\u00e1ntos ni\u00f1os sufriendo privaciones para que una minor\u00eda de sinverg\u00fcenzas se llene los bolsillos. Todos los ciudadanos conscientes luchemos por una sociedad justa, libre y soberana https://t.co/yCNFxbdyJt"
+  },
+  "user": {
+    "statuses_count": 2686,
+    "id": 851803818979405825,
+    "default_profile": true,
+    "favourites_count": 5207,
+    "url": null,
+    "profile_background_image_url_https": "",
+    "verified": false,
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/854437353808646144/L68KNZOD_normal.jpg",
+    "translator_type": "none",
+    "location": "France",
+    "geo_enabled": true,
+    "utc_offset": null,
+    "notifications": null,
+    "profile_background_tile": false,
+    "friends_count": 1118,
+    "is_translator": false,
+    "follow_request_sent": null,
+    "default_profile_image": false,
+    "profile_background_image_url": "",
+    "profile_background_color": "F5F8FA",
+    "profile_link_color": "1DA1F2",
+    "profile_use_background_image": true,
+    "time_zone": null,
+    "name": "MirthaAYALA",
+    "profile_text_color": "333333",
+    "profile_sidebar_border_color": "C0DEED",
+    "screen_name": "MirthaAyala13",
+    "lang": "fr",
+    "following": null,
+    "listed_count": 4,
+    "protected": false,
+    "profile_sidebar_fill_color": "DDEEF6",
+    "followers_count": 159,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/854437353808646144/L68KNZOD_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/851803818979405825/1492499202",
+    "contributors_enabled": false,
+    "created_at": "Tue Apr 11 14:27:11 +0000 2017",
+    "id_str": "851803818979405825",
+    "description": "Rescap\u00e9e des nazis de l'Am\u00e9rique du Sud. Militante de la vie heureuse, dans un monde sans fronti\u00e8res, en paix et fraternit\u00e9."
+  },
+  "created_at": "Tue Nov 14 15:16:07 +0000 2017",
+  "id_str": "930454302828781568",
+  "in_reply_to_user_id": 244218738,
+  "contributors": null
+}

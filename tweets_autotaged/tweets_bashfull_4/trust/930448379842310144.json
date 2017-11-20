@@ -1,0 +1,155 @@
+{
+  "id": 930448379842310144,
+  "lang": "es",
+  "in_reply_to_status_id_str": "930261926164205569",
+  "truncated": true,
+  "place": {
+    "id": "043383f8b2b79918",
+    "country": "Venezuela",
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            -73.354073,
+            0.648837
+          ],
+          [
+            -73.354073,
+            12.196802
+          ],
+          [
+            -59.80378,
+            12.196802
+          ],
+          [
+            -59.80378,
+            0.648837
+          ]
+        ]
+      ]
+    },
+    "url": "https://api.twitter.com/1.1/geo/id/043383f8b2b79918.json",
+    "full_name": "Venezuela",
+    "attributes": {},
+    "name": "Venezuela",
+    "place_type": "country",
+    "country_code": "VE"
+  },
+  "favorite_count": 0,
+  "retweeted": false,
+  "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+  "is_quote_status": false,
+  "in_reply_to_status_id": 930261926164205569,
+  "in_reply_to_user_id_str": "59312310",
+  "in_reply_to_screen_name": "mjferreiro",
+  "retweet_count": 0,
+  "quote_count": 0,
+  "timestamp_ms": "1510671155306",
+  "favorited": false,
+  "coordinates": null,
+  "filter_level": "low",
+  "entities": {
+    "urls": [
+      {
+        "indices": [
+          117,
+          140
+        ],
+        "display_url": "twitter.com/i/web/status/9\u2026",
+        "url": "https://t.co/4hPxp9KwmB",
+        "expanded_url": "https://twitter.com/i/web/status/930448379842310144"
+      }
+    ],
+    "symbols": [],
+    "user_mentions": [
+      {
+        "screen_name": "mjferreiro",
+        "id": 59312310,
+        "name": "Maria Jos\u00e9 Ferreiro",
+        "indices": [
+          0,
+          11
+        ],
+        "id_str": "59312310"
+      }
+    ],
+    "hashtags": []
+  },
+  "reply_count": 0,
+  "geo": null,
+  "display_text_range": [
+    12,
+    140
+  ],
+  "text": "@mjferreiro Ya las organizaciones internacionales est\u00e1n al tanto de que la MUD no es una verdadera oposici\u00f3n. \u00bfNo h\u2026 https://t.co/4hPxp9KwmB",
+  "extended_tweet": {
+    "display_text_range": [
+      12,
+      231
+    ],
+    "entities": {
+      "urls": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "screen_name": "mjferreiro",
+          "id": 59312310,
+          "name": "Maria Jos\u00e9 Ferreiro",
+          "indices": [
+            0,
+            11
+          ],
+          "id_str": "59312310"
+        }
+      ],
+      "hashtags": []
+    },
+    "full_text": "@mjferreiro Ya las organizaciones internacionales est\u00e1n al tanto de que la MUD no es una verdadera oposici\u00f3n. \u00bfNo ha escuchado a Almagro llam\u00e1ndoles la atenci\u00f3n? Y el resto la respalda porque son progres socialistas igual q la MUD."
+  },
+  "user": {
+    "statuses_count": 53797,
+    "id": 1259679193,
+    "default_profile": false,
+    "favourites_count": 1952,
+    "url": null,
+    "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000048972696/d4fa241c2ccaea66f1fed3011c1b4721.jpeg",
+    "verified": false,
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/3368657362/c14eefab1347d41bbad8f8455f402625_normal.jpeg",
+    "translator_type": "none",
+    "location": "\u00e1ngeles que me atan a la vida.",
+    "geo_enabled": true,
+    "utc_offset": null,
+    "notifications": null,
+    "profile_background_tile": false,
+    "friends_count": 1592,
+    "is_translator": false,
+    "follow_request_sent": null,
+    "default_profile_image": false,
+    "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000048972696/d4fa241c2ccaea66f1fed3011c1b4721.jpeg",
+    "profile_background_color": "C0DEED",
+    "profile_link_color": "0084B4",
+    "profile_use_background_image": true,
+    "time_zone": null,
+    "name": "maria romero",
+    "profile_text_color": "333333",
+    "profile_sidebar_border_color": "FFFFFF",
+    "screen_name": "amaromero79",
+    "lang": "es",
+    "following": null,
+    "listed_count": 10,
+    "protected": false,
+    "profile_sidebar_fill_color": "DDEEF6",
+    "followers_count": 1528,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/3368657362/c14eefab1347d41bbad8f8455f402625_normal.jpeg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1259679193/1366603907",
+    "contributors_enabled": false,
+    "created_at": "Mon Mar 11 15:03:09 +0000 2013",
+    "id_str": "1259679193",
+    "description": "No se trata de un triunfo definitivo, sino de una lucha sin fin.Hija, de un \u00e1ngel que esta en el Cielo, esposa, de un \u00e1ngel que esta en la Tierra, madre de dos"
+  },
+  "created_at": "Tue Nov 14 14:52:35 +0000 2017",
+  "id_str": "930448379842310144",
+  "in_reply_to_user_id": 59312310,
+  "contributors": null
+}

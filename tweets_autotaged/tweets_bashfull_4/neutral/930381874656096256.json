@@ -1,0 +1,221 @@
+{
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "id": 930381874656096256,
+  "in_reply_to_user_id": null,
+  "coordinates": null,
+  "possibly_sensitive": false,
+  "reply_count": 0,
+  "timestamp_ms": "1510655299234",
+  "geo": null,
+  "quote_count": 0,
+  "retweet_count": 0,
+  "is_quote_status": false,
+  "created_at": "Tue Nov 14 10:28:19 +0000 2017",
+  "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+  "favorite_count": 0,
+  "text": "Todos tenemos pareja para las exposiciones menos @AlioliR #clase5 https://t.co/kGvKI6uSbI",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id_str": null,
+  "place": {
+    "country": "Espa\u00f1a",
+    "name": "Madrid",
+    "id": "ea520f3528c9b3e4",
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            -4.579175,
+            39.884537
+          ],
+          [
+            -4.579175,
+            41.164911
+          ],
+          [
+            -3.053132,
+            41.164911
+          ],
+          [
+            -3.053132,
+            39.884537
+          ]
+        ]
+      ]
+    },
+    "country_code": "ES",
+    "place_type": "admin",
+    "url": "https://api.twitter.com/1.1/geo/id/ea520f3528c9b3e4.json",
+    "attributes": {},
+    "full_name": "Madrid, Comunidad de Madrid"
+  },
+  "contributors": null,
+  "entities": {
+    "media": [
+      {
+        "type": "photo",
+        "url": "https://t.co/kGvKI6uSbI",
+        "display_url": "pic.twitter.com/kGvKI6uSbI",
+        "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/DOlhXlaX0AA08OQ.jpg",
+        "id": 930381855836327936,
+        "sizes": {
+          "large": {
+            "w": 428,
+            "resize": "fit",
+            "h": 428
+          },
+          "thumb": {
+            "w": 150,
+            "resize": "crop",
+            "h": 150
+          },
+          "small": {
+            "w": 428,
+            "resize": "fit",
+            "h": 428
+          },
+          "medium": {
+            "w": 428,
+            "resize": "fit",
+            "h": 428
+          }
+        },
+        "expanded_url": "https://twitter.com/OscarRepo/status/930381874656096256/photo/1",
+        "id_str": "930381855836327936",
+        "indices": [
+          66,
+          89
+        ],
+        "media_url": "http://pbs.twimg.com/tweet_video_thumb/DOlhXlaX0AA08OQ.jpg"
+      }
+    ],
+    "hashtags": [
+      {
+        "indices": [
+          58,
+          65
+        ],
+        "text": "clase5"
+      }
+    ],
+    "urls": [],
+    "user_mentions": [
+      {
+        "screen_name": "AlioliR",
+        "name": "Alicia Ram\u00f3n Diaz",
+        "id": 436991798,
+        "id_str": "436991798",
+        "indices": [
+          49,
+          57
+        ]
+      }
+    ],
+    "symbols": []
+  },
+  "display_text_range": [
+    0,
+    65
+  ],
+  "retweeted": false,
+  "id_str": "930381874656096256",
+  "user": {
+    "time_zone": "Madrid",
+    "follow_request_sent": null,
+    "id": 248352223,
+    "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/432847382816903169/3uMPH5Fl.jpeg",
+    "translator_type": "none",
+    "screen_name": "OscarRepo",
+    "profile_link_color": "ABB8C2",
+    "url": "https://www.youtube.com/c/OscarRepo",
+    "utc_offset": 3600,
+    "location": "Madrid, Comunidad de Madrid",
+    "name": "Oscar Repo \ud83c\udfa4",
+    "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/432847382816903169/3uMPH5Fl.jpeg",
+    "description": "\ud83c\udfa4Cantante/Compositor \u2022 \ud83d\udcfd Colaborador Tv/Radio \u2022 \ud83d\udcbb Estudiando #MarketingDigital en @aulacm \u00b7 \ud83d\ude45\ud83c\udffc\u200d\u2642\ufe0fInsta: @oscarrepo \u2022 Contacto: oscarrepooficial@gmail.com",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/248352223/1510224096",
+    "created_at": "Sun Feb 06 20:31:46 +0000 2011",
+    "protected": false,
+    "is_translator": false,
+    "listed_count": 31,
+    "statuses_count": 16286,
+    "profile_sidebar_border_color": "FFFFFF",
+    "profile_sidebar_fill_color": "252429",
+    "default_profile": false,
+    "default_profile_image": false,
+    "verified": false,
+    "notifications": null,
+    "friends_count": 764,
+    "profile_background_color": "FFFFFF",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/928300241207558144/WjV3IBGe_normal.jpg",
+    "following": null,
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/928300241207558144/WjV3IBGe_normal.jpg",
+    "geo_enabled": true,
+    "profile_use_background_image": true,
+    "contributors_enabled": false,
+    "id_str": "248352223",
+    "profile_text_color": "666666",
+    "followers_count": 3766,
+    "favourites_count": 14172,
+    "lang": "es",
+    "profile_background_tile": true
+  },
+  "extended_entities": {
+    "media": [
+      {
+        "type": "animated_gif",
+        "url": "https://t.co/kGvKI6uSbI",
+        "display_url": "pic.twitter.com/kGvKI6uSbI",
+        "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/DOlhXlaX0AA08OQ.jpg",
+        "id": 930381855836327936,
+        "sizes": {
+          "large": {
+            "w": 428,
+            "resize": "fit",
+            "h": 428
+          },
+          "thumb": {
+            "w": 150,
+            "resize": "crop",
+            "h": 150
+          },
+          "small": {
+            "w": 428,
+            "resize": "fit",
+            "h": 428
+          },
+          "medium": {
+            "w": 428,
+            "resize": "fit",
+            "h": 428
+          }
+        },
+        "expanded_url": "https://twitter.com/OscarRepo/status/930381874656096256/photo/1",
+        "video_info": {
+          "variants": [
+            {
+              "content_type": "video/mp4",
+              "bitrate": 0,
+              "url": "https://video.twimg.com/tweet_video/DOlhXlaX0AA08OQ.mp4"
+            }
+          ],
+          "aspect_ratio": [
+            1,
+            1
+          ]
+        },
+        "id_str": "930381855836327936",
+        "indices": [
+          66,
+          89
+        ],
+        "media_url": "http://pbs.twimg.com/tweet_video_thumb/DOlhXlaX0AA08OQ.jpg"
+      }
+    ]
+  },
+  "filter_level": "low",
+  "in_reply_to_user_id_str": null,
+  "favorited": false,
+  "lang": "es"
+}

@@ -1,0 +1,346 @@
+{
+  "id": 930452522522857472,
+  "lang": "es",
+  "in_reply_to_status_id_str": "930247408331776002",
+  "truncated": true,
+  "place": {
+    "id": "043383f8b2b79918",
+    "country": "Venezuela",
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            -73.354073,
+            0.648837
+          ],
+          [
+            -73.354073,
+            12.196802
+          ],
+          [
+            -59.80378,
+            12.196802
+          ],
+          [
+            -59.80378,
+            0.648837
+          ]
+        ]
+      ]
+    },
+    "url": "https://api.twitter.com/1.1/geo/id/043383f8b2b79918.json",
+    "full_name": "Venezuela",
+    "attributes": {},
+    "name": "Venezuela",
+    "place_type": "country",
+    "country_code": "VE"
+  },
+  "favorite_count": 0,
+  "retweeted": false,
+  "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+  "is_quote_status": false,
+  "possibly_sensitive": false,
+  "geo": null,
+  "in_reply_to_user_id_str": "143867516",
+  "in_reply_to_status_id": 930247408331776002,
+  "retweet_count": 0,
+  "quote_count": 0,
+  "timestamp_ms": "1510672142998",
+  "favorited": false,
+  "coordinates": null,
+  "filter_level": "low",
+  "entities": {
+    "urls": [
+      {
+        "indices": [
+          117,
+          140
+        ],
+        "display_url": "twitter.com/i/web/status/9\u2026",
+        "url": "https://t.co/uE1wPbvFqY",
+        "expanded_url": "https://twitter.com/i/web/status/930452522522857472"
+      }
+    ],
+    "symbols": [],
+    "user_mentions": [
+      {
+        "screen_name": "delpinoeulogio",
+        "id": 143867516,
+        "name": "Eulogio Del Pino",
+        "indices": [
+          0,
+          15
+        ],
+        "id_str": "143867516"
+      },
+      {
+        "screen_name": "NicolasMaduro",
+        "id": 1252764865,
+        "name": "Nicol\u00e1s Maduro",
+        "indices": [
+          16,
+          30
+        ],
+        "id_str": "1252764865"
+      },
+      {
+        "screen_name": "GobDeCalle",
+        "id": 1444707091,
+        "name": "Gobierno de Calle",
+        "indices": [
+          44,
+          55
+        ],
+        "id_str": "1444707091"
+      }
+    ],
+    "hashtags": []
+  },
+  "reply_count": 0,
+  "in_reply_to_screen_name": "delpinoeulogio",
+  "display_text_range": [
+    31,
+    140
+  ],
+  "text": "@delpinoeulogio @NicolasMaduro SI ES VERDAD @GobDeCalle PAGO Y PDVSA PAGO PORQUE BOD NO PAGA TENEDORES DE BONOS \u00bf Q\u2026 https://t.co/uE1wPbvFqY",
+  "extended_tweet": {
+    "display_text_range": [
+      31,
+      158
+    ],
+    "extended_entities": {
+      "media": [
+        {
+          "id": 930452464389763072,
+          "display_url": "pic.twitter.com/loRDIEiGuo",
+          "id_str": "930452464389763072",
+          "indices": [
+            159,
+            182
+          ],
+          "expanded_url": "https://twitter.com/ZuazMorales/status/930452522522857472/photo/1",
+          "type": "photo",
+          "url": "https://t.co/loRDIEiGuo",
+          "media_url_https": "https://pbs.twimg.com/media/DOmhlixWsAAnNmz.jpg",
+          "media_url": "http://pbs.twimg.com/media/DOmhlixWsAAnNmz.jpg",
+          "sizes": {
+            "small": {
+              "w": 530,
+              "h": 465,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 530,
+              "h": 465,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 530,
+              "h": 465,
+              "resize": "fit"
+            }
+          }
+        },
+        {
+          "id": 930452490369339392,
+          "display_url": "pic.twitter.com/loRDIEiGuo",
+          "id_str": "930452490369339392",
+          "indices": [
+            159,
+            182
+          ],
+          "expanded_url": "https://twitter.com/ZuazMorales/status/930452522522857472/photo/1",
+          "type": "photo",
+          "url": "https://t.co/loRDIEiGuo",
+          "media_url_https": "https://pbs.twimg.com/media/DOmhnDjXkAAtTNi.jpg",
+          "media_url": "http://pbs.twimg.com/media/DOmhnDjXkAAtTNi.jpg",
+          "sizes": {
+            "small": {
+              "w": 355,
+              "h": 391,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 355,
+              "h": 391,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 355,
+              "h": 391,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "entities": {
+      "media": [
+        {
+          "id": 930452464389763072,
+          "display_url": "pic.twitter.com/loRDIEiGuo",
+          "id_str": "930452464389763072",
+          "indices": [
+            159,
+            182
+          ],
+          "expanded_url": "https://twitter.com/ZuazMorales/status/930452522522857472/photo/1",
+          "type": "photo",
+          "url": "https://t.co/loRDIEiGuo",
+          "media_url_https": "https://pbs.twimg.com/media/DOmhlixWsAAnNmz.jpg",
+          "media_url": "http://pbs.twimg.com/media/DOmhlixWsAAnNmz.jpg",
+          "sizes": {
+            "small": {
+              "w": 530,
+              "h": 465,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 530,
+              "h": 465,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 530,
+              "h": 465,
+              "resize": "fit"
+            }
+          }
+        },
+        {
+          "id": 930452490369339392,
+          "display_url": "pic.twitter.com/loRDIEiGuo",
+          "id_str": "930452490369339392",
+          "indices": [
+            159,
+            182
+          ],
+          "expanded_url": "https://twitter.com/ZuazMorales/status/930452522522857472/photo/1",
+          "type": "photo",
+          "url": "https://t.co/loRDIEiGuo",
+          "media_url_https": "https://pbs.twimg.com/media/DOmhnDjXkAAtTNi.jpg",
+          "media_url": "http://pbs.twimg.com/media/DOmhnDjXkAAtTNi.jpg",
+          "sizes": {
+            "small": {
+              "w": 355,
+              "h": 391,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 355,
+              "h": 391,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 355,
+              "h": 391,
+              "resize": "fit"
+            }
+          }
+        }
+      ],
+      "urls": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "screen_name": "delpinoeulogio",
+          "id": 143867516,
+          "name": "Eulogio Del Pino",
+          "indices": [
+            0,
+            15
+          ],
+          "id_str": "143867516"
+        },
+        {
+          "screen_name": "NicolasMaduro",
+          "id": 1252764865,
+          "name": "Nicol\u00e1s Maduro",
+          "indices": [
+            16,
+            30
+          ],
+          "id_str": "1252764865"
+        },
+        {
+          "screen_name": "GobDeCalle",
+          "id": 1444707091,
+          "name": "Gobierno de Calle",
+          "indices": [
+            44,
+            55
+          ],
+          "id_str": "1444707091"
+        }
+      ],
+      "hashtags": []
+    },
+    "full_text": "@delpinoeulogio @NicolasMaduro SI ES VERDAD @GobDeCalle PAGO Y PDVSA PAGO PORQUE BOD NO PAGA TENEDORES DE BONOS \u00bf QUIEN PROTEGE AL BOD Y SU PIRATA PRESIDENTE? https://t.co/loRDIEiGuo"
+  },
+  "user": {
+    "statuses_count": 5158,
+    "id": 1386878088,
+    "default_profile": true,
+    "favourites_count": 35,
+    "url": null,
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "verified": false,
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/3585679224/a9c85ddbe1b3893337bf281927cd6106_normal.png",
+    "translator_type": "none",
+    "location": null,
+    "geo_enabled": true,
+    "utc_offset": -14400,
+    "notifications": null,
+    "profile_background_tile": false,
+    "friends_count": 2163,
+    "is_translator": false,
+    "follow_request_sent": null,
+    "default_profile_image": false,
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_color": "C0DEED",
+    "profile_link_color": "1DA1F2",
+    "profile_use_background_image": true,
+    "time_zone": "Atlantic Time (Canada)",
+    "name": "Ismael Zuazn\u00e1bar",
+    "profile_text_color": "333333",
+    "profile_sidebar_border_color": "C0DEED",
+    "screen_name": "ZuazMorales",
+    "lang": "es",
+    "following": null,
+    "listed_count": 1,
+    "protected": false,
+    "profile_sidebar_fill_color": "DDEEF6",
+    "followers_count": 810,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/3585679224/a9c85ddbe1b3893337bf281927cd6106_normal.png",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1386878088/1370402840",
+    "contributors_enabled": false,
+    "created_at": "Sun Apr 28 12:52:21 +0000 2013",
+    "id_str": "1386878088",
+    "description": null
+  },
+  "created_at": "Tue Nov 14 15:09:02 +0000 2017",
+  "id_str": "930452522522857472",
+  "in_reply_to_user_id": 143867516,
+  "contributors": null
+}

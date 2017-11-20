@@ -1,0 +1,451 @@
+{
+  "id": 930450080280252416,
+  "lang": "es",
+  "in_reply_to_status_id_str": null,
+  "truncated": true,
+  "place": {
+    "id": "043383f8b2b79918",
+    "country": "Venezuela",
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            -73.354073,
+            0.648837
+          ],
+          [
+            -73.354073,
+            12.196802
+          ],
+          [
+            -59.80378,
+            12.196802
+          ],
+          [
+            -59.80378,
+            0.648837
+          ]
+        ]
+      ]
+    },
+    "url": "https://api.twitter.com/1.1/geo/id/043383f8b2b79918.json",
+    "full_name": "Venezuela",
+    "attributes": {},
+    "name": "Venezuela",
+    "place_type": "country",
+    "country_code": "VE"
+  },
+  "favorite_count": 0,
+  "retweeted": false,
+  "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+  "is_quote_status": false,
+  "possibly_sensitive": false,
+  "geo": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_status_id": null,
+  "retweet_count": 0,
+  "quote_count": 0,
+  "timestamp_ms": "1510671560722",
+  "favorited": false,
+  "coordinates": null,
+  "filter_level": "low",
+  "entities": {
+    "urls": [
+      {
+        "indices": [
+          116,
+          139
+        ],
+        "display_url": "twitter.com/i/web/status/9\u2026",
+        "url": "https://t.co/2OkEvko5fk",
+        "expanded_url": "https://twitter.com/i/web/status/930450080280252416"
+      }
+    ],
+    "symbols": [],
+    "user_mentions": [],
+    "hashtags": [
+      {
+        "text": "AHORA",
+        "indices": [
+          0,
+          6
+        ]
+      }
+    ]
+  },
+  "reply_count": 0,
+  "in_reply_to_screen_name": null,
+  "display_text_range": [
+    0,
+    140
+  ],
+  "text": "#AHORA El tenor Gregory Pino y el guitarrista Yeritzon Garc\u00eda ensayan en el Sal\u00f3n Azul de la Direcci\u00f3n de Cultura.\u2026 https://t.co/2OkEvko5fk",
+  "extended_tweet": {
+    "display_text_range": [
+      0,
+      163
+    ],
+    "extended_entities": {
+      "media": [
+        {
+          "id": 930449960604184577,
+          "display_url": "pic.twitter.com/FOdW3NDbsJ",
+          "id_str": "930449960604184577",
+          "indices": [
+            164,
+            187
+          ],
+          "expanded_url": "https://twitter.com/DCETachira/status/930450080280252416/photo/1",
+          "type": "photo",
+          "url": "https://t.co/FOdW3NDbsJ",
+          "media_url_https": "https://pbs.twimg.com/media/DOmfTzcWsAEai50.jpg",
+          "media_url": "http://pbs.twimg.com/media/DOmfTzcWsAEai50.jpg",
+          "sizes": {
+            "small": {
+              "w": 680,
+              "h": 383,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 1024,
+              "h": 576,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 1024,
+              "h": 576,
+              "resize": "fit"
+            }
+          }
+        },
+        {
+          "id": 930449960566435840,
+          "display_url": "pic.twitter.com/FOdW3NDbsJ",
+          "id_str": "930449960566435840",
+          "indices": [
+            164,
+            187
+          ],
+          "expanded_url": "https://twitter.com/DCETachira/status/930450080280252416/photo/1",
+          "type": "photo",
+          "url": "https://t.co/FOdW3NDbsJ",
+          "media_url_https": "https://pbs.twimg.com/media/DOmfTzTWsAAmHWM.jpg",
+          "media_url": "http://pbs.twimg.com/media/DOmfTzTWsAAmHWM.jpg",
+          "sizes": {
+            "small": {
+              "w": 680,
+              "h": 395,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 1024,
+              "h": 595,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 1024,
+              "h": 595,
+              "resize": "fit"
+            }
+          }
+        },
+        {
+          "id": 930449960579076097,
+          "display_url": "pic.twitter.com/FOdW3NDbsJ",
+          "id_str": "930449960579076097",
+          "indices": [
+            164,
+            187
+          ],
+          "expanded_url": "https://twitter.com/DCETachira/status/930450080280252416/photo/1",
+          "type": "photo",
+          "url": "https://t.co/FOdW3NDbsJ",
+          "media_url_https": "https://pbs.twimg.com/media/DOmfTzWXkAEb-pN.jpg",
+          "media_url": "http://pbs.twimg.com/media/DOmfTzWXkAEb-pN.jpg",
+          "sizes": {
+            "small": {
+              "w": 680,
+              "h": 447,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 1024,
+              "h": 673,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 1024,
+              "h": 673,
+              "resize": "fit"
+            }
+          }
+        },
+        {
+          "id": 930449960566435842,
+          "display_url": "pic.twitter.com/FOdW3NDbsJ",
+          "id_str": "930449960566435842",
+          "indices": [
+            164,
+            187
+          ],
+          "expanded_url": "https://twitter.com/DCETachira/status/930450080280252416/photo/1",
+          "type": "photo",
+          "url": "https://t.co/FOdW3NDbsJ",
+          "media_url_https": "https://pbs.twimg.com/media/DOmfTzTWsAIzmHT.jpg",
+          "media_url": "http://pbs.twimg.com/media/DOmfTzTWsAIzmHT.jpg",
+          "sizes": {
+            "small": {
+              "w": 680,
+              "h": 417,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 1024,
+              "h": 628,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 1024,
+              "h": 628,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "entities": {
+      "media": [
+        {
+          "id": 930449960604184577,
+          "display_url": "pic.twitter.com/FOdW3NDbsJ",
+          "id_str": "930449960604184577",
+          "indices": [
+            164,
+            187
+          ],
+          "expanded_url": "https://twitter.com/DCETachira/status/930450080280252416/photo/1",
+          "type": "photo",
+          "url": "https://t.co/FOdW3NDbsJ",
+          "media_url_https": "https://pbs.twimg.com/media/DOmfTzcWsAEai50.jpg",
+          "media_url": "http://pbs.twimg.com/media/DOmfTzcWsAEai50.jpg",
+          "sizes": {
+            "small": {
+              "w": 680,
+              "h": 383,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 1024,
+              "h": 576,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 1024,
+              "h": 576,
+              "resize": "fit"
+            }
+          }
+        },
+        {
+          "id": 930449960566435840,
+          "display_url": "pic.twitter.com/FOdW3NDbsJ",
+          "id_str": "930449960566435840",
+          "indices": [
+            164,
+            187
+          ],
+          "expanded_url": "https://twitter.com/DCETachira/status/930450080280252416/photo/1",
+          "type": "photo",
+          "url": "https://t.co/FOdW3NDbsJ",
+          "media_url_https": "https://pbs.twimg.com/media/DOmfTzTWsAAmHWM.jpg",
+          "media_url": "http://pbs.twimg.com/media/DOmfTzTWsAAmHWM.jpg",
+          "sizes": {
+            "small": {
+              "w": 680,
+              "h": 395,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 1024,
+              "h": 595,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 1024,
+              "h": 595,
+              "resize": "fit"
+            }
+          }
+        },
+        {
+          "id": 930449960579076097,
+          "display_url": "pic.twitter.com/FOdW3NDbsJ",
+          "id_str": "930449960579076097",
+          "indices": [
+            164,
+            187
+          ],
+          "expanded_url": "https://twitter.com/DCETachira/status/930450080280252416/photo/1",
+          "type": "photo",
+          "url": "https://t.co/FOdW3NDbsJ",
+          "media_url_https": "https://pbs.twimg.com/media/DOmfTzWXkAEb-pN.jpg",
+          "media_url": "http://pbs.twimg.com/media/DOmfTzWXkAEb-pN.jpg",
+          "sizes": {
+            "small": {
+              "w": 680,
+              "h": 447,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 1024,
+              "h": 673,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 1024,
+              "h": 673,
+              "resize": "fit"
+            }
+          }
+        },
+        {
+          "id": 930449960566435842,
+          "display_url": "pic.twitter.com/FOdW3NDbsJ",
+          "id_str": "930449960566435842",
+          "indices": [
+            164,
+            187
+          ],
+          "expanded_url": "https://twitter.com/DCETachira/status/930450080280252416/photo/1",
+          "type": "photo",
+          "url": "https://t.co/FOdW3NDbsJ",
+          "media_url_https": "https://pbs.twimg.com/media/DOmfTzTWsAIzmHT.jpg",
+          "media_url": "http://pbs.twimg.com/media/DOmfTzTWsAIzmHT.jpg",
+          "sizes": {
+            "small": {
+              "w": 680,
+              "h": 417,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 1024,
+              "h": 628,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 1024,
+              "h": 628,
+              "resize": "fit"
+            }
+          }
+        }
+      ],
+      "urls": [],
+      "symbols": [],
+      "user_mentions": [],
+      "hashtags": [
+        {
+          "text": "AHORA",
+          "indices": [
+            0,
+            6
+          ]
+        },
+        {
+          "text": "NotiT\u00e1chira",
+          "indices": [
+            151,
+            163
+          ]
+        }
+      ]
+    },
+    "full_text": "#AHORA El tenor Gregory Pino y el guitarrista Yeritzon Garc\u00eda ensayan en el Sal\u00f3n Azul de la Direcci\u00f3n de Cultura. \u00a1M\u00fasica del alma nuestros sentidos! #NotiT\u00e1chira https://t.co/FOdW3NDbsJ"
+  },
+  "user": {
+    "statuses_count": 130460,
+    "id": 1135132560,
+    "default_profile": false,
+    "favourites_count": 1044,
+    "url": "https://www.facebook.com/direcciondeculturadelestadotachira?ref=hl",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+    "verified": false,
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/925792416635981824/MUZgcI1k_normal.jpg",
+    "translator_type": "none",
+    "location": "Av. Universidad Sector Paramillo",
+    "geo_enabled": true,
+    "utc_offset": -14400,
+    "notifications": null,
+    "profile_background_tile": true,
+    "friends_count": 264,
+    "is_translator": false,
+    "follow_request_sent": null,
+    "default_profile_image": false,
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+    "profile_background_color": "131516",
+    "profile_link_color": "1B95E0",
+    "profile_use_background_image": true,
+    "time_zone": "Caracas",
+    "name": "Direcci\u00f3n de Cultura",
+    "profile_text_color": "000000",
+    "profile_sidebar_border_color": "000000",
+    "screen_name": "DCETachira",
+    "lang": "es",
+    "following": null,
+    "listed_count": 212,
+    "protected": false,
+    "profile_sidebar_fill_color": "000000",
+    "followers_count": 8206,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/925792416635981824/MUZgcI1k_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1135132560/1509561237",
+    "contributors_enabled": false,
+    "created_at": "Wed Jan 30 20:36:15 +0000 2013",
+    "id_str": "1135132560",
+    "description": "Cuenta Oficial de la Direcci\u00f3n de Cultura del estado T\u00e1chira (DCET). Directora: @iliasierram. Fortalecemos y promocionamos la cultura e idiosincrasia andina"
+  },
+  "created_at": "Tue Nov 14 14:59:20 +0000 2017",
+  "id_str": "930450080280252416",
+  "in_reply_to_user_id": null,
+  "contributors": null
+}

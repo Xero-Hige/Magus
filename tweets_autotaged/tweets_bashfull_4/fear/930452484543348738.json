@@ -1,0 +1,235 @@
+{
+  "id": 930452484543348738,
+  "lang": "es",
+  "in_reply_to_status_id_str": null,
+  "truncated": true,
+  "place": {
+    "id": "6f1840cee437e17a",
+    "country": "M\u00e9xico",
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            -99.180678,
+            19.444937
+          ],
+          [
+            -99.180678,
+            19.592375
+          ],
+          [
+            -99.051103,
+            19.592375
+          ],
+          [
+            -99.051103,
+            19.444937
+          ]
+        ]
+      ]
+    },
+    "url": "https://api.twitter.com/1.1/geo/id/6f1840cee437e17a.json",
+    "full_name": "Gustavo A. Madero, Distrito Federal",
+    "attributes": {},
+    "name": "Gustavo A. Madero",
+    "place_type": "city",
+    "country_code": "MX"
+  },
+  "favorite_count": 0,
+  "retweeted": false,
+  "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+  "is_quote_status": false,
+  "possibly_sensitive": false,
+  "geo": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_status_id": null,
+  "retweet_count": 0,
+  "quote_count": 0,
+  "timestamp_ms": "1510672133943",
+  "favorited": false,
+  "coordinates": null,
+  "filter_level": "low",
+  "entities": {
+    "urls": [
+      {
+        "indices": [
+          116,
+          139
+        ],
+        "display_url": "twitter.com/i/web/status/9\u2026",
+        "url": "https://t.co/Rsi8gONw6C",
+        "expanded_url": "https://twitter.com/i/web/status/930452484543348738"
+      }
+    ],
+    "symbols": [],
+    "user_mentions": [],
+    "hashtags": [
+      {
+        "text": "terremoto",
+        "indices": [
+          90,
+          100
+        ]
+      }
+    ]
+  },
+  "reply_count": 0,
+  "in_reply_to_screen_name": null,
+  "display_text_range": [
+    0,
+    140
+  ],
+  "text": "El gobierno iran\u00ed decret\u00f3 el d\u00eda de hoy luto nacional, para conmemorar a las v\u00edctimas del #terremoto, el m\u00e1s grave\u2026 https://t.co/Rsi8gONw6C",
+  "extended_tweet": {
+    "display_text_range": [
+      0,
+      149
+    ],
+    "extended_entities": {
+      "media": [
+        {
+          "id": 930452470068842496,
+          "display_url": "pic.twitter.com/C1SZQX9AEf",
+          "id_str": "930452470068842496",
+          "indices": [
+            150,
+            173
+          ],
+          "expanded_url": "https://twitter.com/JLANoticias/status/930452484543348738/photo/1",
+          "type": "photo",
+          "url": "https://t.co/C1SZQX9AEf",
+          "media_url_https": "https://pbs.twimg.com/media/DOmhl37WkAASrkp.jpg",
+          "media_url": "http://pbs.twimg.com/media/DOmhl37WkAASrkp.jpg",
+          "sizes": {
+            "small": {
+              "w": 510,
+              "h": 680,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 900,
+              "h": 1200,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 900,
+              "h": 1200,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "entities": {
+      "media": [
+        {
+          "id": 930452470068842496,
+          "display_url": "pic.twitter.com/C1SZQX9AEf",
+          "id_str": "930452470068842496",
+          "indices": [
+            150,
+            173
+          ],
+          "expanded_url": "https://twitter.com/JLANoticias/status/930452484543348738/photo/1",
+          "type": "photo",
+          "url": "https://t.co/C1SZQX9AEf",
+          "media_url_https": "https://pbs.twimg.com/media/DOmhl37WkAASrkp.jpg",
+          "media_url": "http://pbs.twimg.com/media/DOmhl37WkAASrkp.jpg",
+          "sizes": {
+            "small": {
+              "w": 510,
+              "h": 680,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 900,
+              "h": 1200,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 900,
+              "h": 1200,
+              "resize": "fit"
+            }
+          }
+        }
+      ],
+      "urls": [],
+      "symbols": [],
+      "user_mentions": [],
+      "hashtags": [
+        {
+          "text": "terremoto",
+          "indices": [
+            90,
+            100
+          ]
+        },
+        {
+          "text": "Ir\u00e1n",
+          "indices": [
+            143,
+            148
+          ]
+        }
+      ]
+    },
+    "full_text": "El gobierno iran\u00ed decret\u00f3 el d\u00eda de hoy luto nacional, para conmemorar a las v\u00edctimas del #terremoto, el m\u00e1s grave registrado desde el 2003 en #Ir\u00e1n. https://t.co/C1SZQX9AEf"
+  },
+  "user": {
+    "statuses_count": 74021,
+    "id": 595033084,
+    "default_profile": false,
+    "favourites_count": 735,
+    "url": "http://www.gruposiete.com.mx/radio",
+    "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/489449594174988289/90cfr1Tw.jpeg",
+    "verified": false,
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/908415628989599745/CZF34Tub_normal.jpg",
+    "translator_type": "none",
+    "location": "M\u00e9xico",
+    "geo_enabled": true,
+    "utc_offset": -21600,
+    "notifications": null,
+    "profile_background_tile": true,
+    "friends_count": 5604,
+    "is_translator": false,
+    "follow_request_sent": null,
+    "default_profile_image": false,
+    "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/489449594174988289/90cfr1Tw.jpeg",
+    "profile_background_color": "9AE4E8",
+    "profile_link_color": "0084B4",
+    "profile_use_background_image": true,
+    "time_zone": "Central Time (US & Canada)",
+    "name": "JLA Noticias",
+    "profile_text_color": "333333",
+    "profile_sidebar_border_color": "FFFFFF",
+    "screen_name": "JLANoticias",
+    "lang": "es",
+    "following": null,
+    "listed_count": 85,
+    "protected": false,
+    "profile_sidebar_fill_color": "DDFFCC",
+    "followers_count": 12861,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/908415628989599745/CZF34Tub_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/595033084/1505435840",
+    "contributors_enabled": false,
+    "created_at": "Thu May 31 00:28:30 +0000 2012",
+    "id_str": "595033084",
+    "description": "El noticiero m\u00e1s \u00e1gil de la radio con Jos\u00e9 Luis Ar\u00e9valo. Esc\u00fachanos a nivel nacional en Grupo 7 de lunes a viernes de 14 a 15 hrs / Contacto: 5539550444"
+  },
+  "created_at": "Tue Nov 14 15:08:53 +0000 2017",
+  "id_str": "930452484543348738",
+  "in_reply_to_user_id": null,
+  "contributors": null
+}

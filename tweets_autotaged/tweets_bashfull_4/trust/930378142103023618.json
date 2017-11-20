@@ -1,0 +1,128 @@
+{
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "id": 930378142103023618,
+  "in_reply_to_user_id": null,
+  "coordinates": null,
+  "possibly_sensitive": false,
+  "reply_count": 0,
+  "timestamp_ms": "1510654409324",
+  "geo": null,
+  "quote_count": 0,
+  "retweet_count": 0,
+  "is_quote_status": false,
+  "created_at": "Tue Nov 14 10:13:29 +0000 2017",
+  "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+  "favorite_count": 0,
+  "in_reply_to_screen_name": null,
+  "text": "Profesionaliza tus reuniones alquilando la sala de reuniones en nuestro espacio M\u00e1s info. en @el_working \nhttps://t.co/dnOPGkX1hX",
+  "in_reply_to_status_id_str": null,
+  "place": {
+    "country": "Espa\u00f1a",
+    "name": "Leioa",
+    "id": "eff70a39e278d7eb",
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            -3.011256,
+            43.313761
+          ],
+          [
+            -3.011256,
+            43.343474
+          ],
+          [
+            -2.961729,
+            43.343474
+          ],
+          [
+            -2.961729,
+            43.313761
+          ]
+        ]
+      ]
+    },
+    "country_code": "ES",
+    "place_type": "city",
+    "url": "https://api.twitter.com/1.1/geo/id/eff70a39e278d7eb.json",
+    "attributes": {},
+    "full_name": "Leioa, Espa\u00f1a"
+  },
+  "contributors": null,
+  "entities": {
+    "hashtags": [],
+    "urls": [
+      {
+        "expanded_url": "https://www.elworking.com/coworking/welink",
+        "display_url": "elworking.com/coworking/weli\u2026",
+        "indices": [
+          106,
+          129
+        ],
+        "url": "https://t.co/dnOPGkX1hX"
+      }
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "el_working",
+        "name": "elworking",
+        "id": 770219715490877440,
+        "id_str": "770219715490877440",
+        "indices": [
+          93,
+          104
+        ]
+      }
+    ],
+    "symbols": []
+  },
+  "retweeted": false,
+  "id_str": "930378142103023618",
+  "user": {
+    "time_zone": "Madrid",
+    "follow_request_sent": null,
+    "id": 3907896623,
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "translator_type": "none",
+    "screen_name": "welinkcoworking",
+    "profile_link_color": "1DA1F2",
+    "url": "http://www.welink.es",
+    "utc_offset": 3600,
+    "location": "Landababarri 1. Artaza, Leioa",
+    "name": "Welink",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "description": "#Welink es un espacio #coworking en #Bilbao para #freelancers, #emprendedores y equipos que buscan algo m\u00e1s que una oficina convencional. \u00a1Ven a conocernos!",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/3907896623/1504716319",
+    "created_at": "Fri Oct 09 10:02:07 +0000 2015",
+    "protected": false,
+    "is_translator": false,
+    "listed_count": 52,
+    "statuses_count": 741,
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "default_profile": true,
+    "default_profile_image": false,
+    "verified": false,
+    "notifications": null,
+    "friends_count": 1029,
+    "profile_background_color": "C0DEED",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/922347563377885185/xFIjX3Yq_normal.jpg",
+    "following": null,
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/922347563377885185/xFIjX3Yq_normal.jpg",
+    "geo_enabled": true,
+    "profile_use_background_image": true,
+    "contributors_enabled": false,
+    "id_str": "3907896623",
+    "profile_text_color": "333333",
+    "followers_count": 854,
+    "favourites_count": 102,
+    "lang": "es",
+    "profile_background_tile": false
+  },
+  "filter_level": "low",
+  "in_reply_to_user_id_str": null,
+  "favorited": false,
+  "lang": "es"
+}

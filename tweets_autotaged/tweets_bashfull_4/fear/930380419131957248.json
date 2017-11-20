@@ -1,0 +1,228 @@
+{
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "id": 930380419131957248,
+  "in_reply_to_user_id": null,
+  "coordinates": null,
+  "possibly_sensitive": false,
+  "reply_count": 0,
+  "timestamp_ms": "1510654952210",
+  "geo": null,
+  "quote_count": 0,
+  "retweet_count": 0,
+  "is_quote_status": false,
+  "created_at": "Tue Nov 14 10:22:32 +0000 2017",
+  "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+  "favorite_count": 0,
+  "text": "Operativo #antinarco: 20 #detenidos y 17 kilos de #marihuana secuestrados\n#Policiales\nhttps://t.co/Mxh7YO9mJT https://t.co/XLaHZUwWFX",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id_str": null,
+  "place": {
+    "country": "Argentina",
+    "name": "La Plata",
+    "id": "0177894212b08f73",
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            -58.160874,
+            -35.031373
+          ],
+          [
+            -58.160874,
+            -34.841264
+          ],
+          [
+            -57.865169,
+            -34.841264
+          ],
+          [
+            -57.865169,
+            -35.031373
+          ]
+        ]
+      ]
+    },
+    "country_code": "AR",
+    "place_type": "city",
+    "url": "https://api.twitter.com/1.1/geo/id/0177894212b08f73.json",
+    "attributes": {},
+    "full_name": "La Plata, Argentina"
+  },
+  "contributors": null,
+  "entities": {
+    "media": [
+      {
+        "type": "photo",
+        "url": "https://t.co/XLaHZUwWFX",
+        "display_url": "pic.twitter.com/XLaHZUwWFX",
+        "media_url_https": "https://pbs.twimg.com/media/DOlgDpqW4AUOtVR.jpg",
+        "id": 930380413868105733,
+        "sizes": {
+          "large": {
+            "w": 730,
+            "resize": "fit",
+            "h": 443
+          },
+          "thumb": {
+            "w": 150,
+            "resize": "crop",
+            "h": 150
+          },
+          "small": {
+            "w": 680,
+            "resize": "fit",
+            "h": 413
+          },
+          "medium": {
+            "w": 730,
+            "resize": "fit",
+            "h": 443
+          }
+        },
+        "expanded_url": "https://twitter.com/el1digital/status/930380419131957248/photo/1",
+        "id_str": "930380413868105733",
+        "indices": [
+          110,
+          133
+        ],
+        "media_url": "http://pbs.twimg.com/media/DOlgDpqW4AUOtVR.jpg"
+      }
+    ],
+    "hashtags": [
+      {
+        "indices": [
+          10,
+          20
+        ],
+        "text": "antinarco"
+      },
+      {
+        "indices": [
+          25,
+          35
+        ],
+        "text": "detenidos"
+      },
+      {
+        "indices": [
+          50,
+          60
+        ],
+        "text": "marihuana"
+      },
+      {
+        "indices": [
+          74,
+          85
+        ],
+        "text": "Policiales"
+      }
+    ],
+    "urls": [
+      {
+        "expanded_url": "http://bit.ly/2zEWIvy",
+        "display_url": "bit.ly/2zEWIvy",
+        "indices": [
+          86,
+          109
+        ],
+        "url": "https://t.co/Mxh7YO9mJT"
+      }
+    ],
+    "user_mentions": [],
+    "symbols": []
+  },
+  "display_text_range": [
+    0,
+    109
+  ],
+  "retweeted": false,
+  "id_str": "930380419131957248",
+  "user": {
+    "time_zone": "Buenos Aires",
+    "follow_request_sent": null,
+    "id": 117184380,
+    "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/120069765/fnd.jpg",
+    "translator_type": "none",
+    "screen_name": "el1digital",
+    "profile_link_color": "DD2E44",
+    "url": "http://www.el1digital.com.ar",
+    "utc_offset": -10800,
+    "location": "Buenos Aires/Argentina",
+    "name": "El1 Digital",
+    "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/120069765/fnd.jpg",
+    "description": "Coberturas exclusivas en el lugar de los hechos, en el momento en que suceden las noticias. Contenidos para la comunidad del Conurbano bonaerense.",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/117184380/1473954503",
+    "created_at": "Wed Feb 24 20:21:36 +0000 2010",
+    "protected": false,
+    "is_translator": false,
+    "listed_count": 72,
+    "statuses_count": 34098,
+    "profile_sidebar_border_color": "EEEEEE",
+    "profile_sidebar_fill_color": "EFEFEF",
+    "default_profile": false,
+    "default_profile_image": false,
+    "verified": false,
+    "notifications": null,
+    "friends_count": 919,
+    "profile_background_color": "131516",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/776479089632940033/RJciyARv_normal.jpg",
+    "following": null,
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/776479089632940033/RJciyARv_normal.jpg",
+    "geo_enabled": true,
+    "profile_use_background_image": true,
+    "contributors_enabled": false,
+    "id_str": "117184380",
+    "profile_text_color": "333333",
+    "followers_count": 4072,
+    "favourites_count": 149,
+    "lang": "es",
+    "profile_background_tile": false
+  },
+  "extended_entities": {
+    "media": [
+      {
+        "type": "photo",
+        "url": "https://t.co/XLaHZUwWFX",
+        "display_url": "pic.twitter.com/XLaHZUwWFX",
+        "media_url_https": "https://pbs.twimg.com/media/DOlgDpqW4AUOtVR.jpg",
+        "id": 930380413868105733,
+        "sizes": {
+          "large": {
+            "w": 730,
+            "resize": "fit",
+            "h": 443
+          },
+          "thumb": {
+            "w": 150,
+            "resize": "crop",
+            "h": 150
+          },
+          "small": {
+            "w": 680,
+            "resize": "fit",
+            "h": 413
+          },
+          "medium": {
+            "w": 730,
+            "resize": "fit",
+            "h": 443
+          }
+        },
+        "expanded_url": "https://twitter.com/el1digital/status/930380419131957248/photo/1",
+        "id_str": "930380413868105733",
+        "indices": [
+          110,
+          133
+        ],
+        "media_url": "http://pbs.twimg.com/media/DOlgDpqW4AUOtVR.jpg"
+      }
+    ]
+  },
+  "filter_level": "low",
+  "in_reply_to_user_id_str": null,
+  "favorited": false,
+  "lang": "es"
+}

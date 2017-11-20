@@ -1,0 +1,142 @@
+{
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "id": 930365017555460096,
+  "in_reply_to_user_id": null,
+  "coordinates": null,
+  "reply_count": 0,
+  "timestamp_ms": "1510651280188",
+  "geo": null,
+  "quote_count": 0,
+  "retweet_count": 0,
+  "is_quote_status": false,
+  "created_at": "Tue Nov 14 09:21:20 +0000 2017",
+  "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+  "favorite_count": 0,
+  "in_reply_to_screen_name": null,
+  "text": "Hola @radiovoxfm  nos encantaria escuchar #Mamita la nueva canci\u00f3n de @CNCOmusic que ya amamos \ud83d\udd1d\ud83c\udf89 Saludos!  #ParaEnamorarteFansClub",
+  "in_reply_to_status_id_str": null,
+  "place": {
+    "country": "Argentina",
+    "name": "Buenos Aires",
+    "id": "4afa2757051c5192",
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            -63.39386,
+            -41.035009
+          ],
+          [
+            -63.39386,
+            -33.260144
+          ],
+          [
+            -56.665836,
+            -33.260144
+          ],
+          [
+            -56.665836,
+            -41.035009
+          ]
+        ]
+      ]
+    },
+    "country_code": "AR",
+    "place_type": "admin",
+    "url": "https://api.twitter.com/1.1/geo/id/4afa2757051c5192.json",
+    "attributes": {},
+    "full_name": "Buenos Aires, Argentina"
+  },
+  "contributors": null,
+  "entities": {
+    "hashtags": [
+      {
+        "indices": [
+          42,
+          49
+        ],
+        "text": "Mamita"
+      },
+      {
+        "indices": [
+          108,
+          131
+        ],
+        "text": "ParaEnamorarteFansClub"
+      }
+    ],
+    "urls": [],
+    "user_mentions": [
+      {
+        "screen_name": "Radiovoxfm",
+        "name": "Radio Vox",
+        "id": 143066988,
+        "id_str": "143066988",
+        "indices": [
+          5,
+          16
+        ]
+      },
+      {
+        "screen_name": "CNCOmusic",
+        "name": "CNCO",
+        "id": 4440347241,
+        "id_str": "4440347241",
+        "indices": [
+          70,
+          80
+        ]
+      }
+    ],
+    "symbols": []
+  },
+  "retweeted": false,
+  "id_str": "930365017555460096",
+  "user": {
+    "time_zone": null,
+    "follow_request_sent": null,
+    "id": 901006831723712512,
+    "profile_background_image_url": "",
+    "translator_type": "none",
+    "screen_name": "MaiiaLujan_",
+    "profile_link_color": "1DA1F2",
+    "url": null,
+    "utc_offset": null,
+    "location": "Ciudad Aut\u00f3noma de Buenos Aire",
+    "name": "Mai \u2764",
+    "profile_background_image_url_https": "",
+    "description": "MLM\u2764 CNCO \u2764 SEBASTIAN YATRA \u2764\n#SpreadTheLuv \u2764\ud83e\udd18#YashuasGirl \u2764",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/901006831723712512/1506474317",
+    "created_at": "Fri Aug 25 09:02:23 +0000 2017",
+    "protected": false,
+    "is_translator": false,
+    "listed_count": 1,
+    "statuses_count": 2500,
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "default_profile": true,
+    "default_profile_image": false,
+    "verified": false,
+    "notifications": null,
+    "friends_count": 124,
+    "profile_background_color": "F5F8FA",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/926750186629685248/880NE6vF_normal.jpg",
+    "following": null,
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/926750186629685248/880NE6vF_normal.jpg",
+    "geo_enabled": true,
+    "profile_use_background_image": true,
+    "contributors_enabled": false,
+    "id_str": "901006831723712512",
+    "profile_text_color": "333333",
+    "followers_count": 93,
+    "favourites_count": 707,
+    "lang": "es",
+    "profile_background_tile": false
+  },
+  "filter_level": "low",
+  "in_reply_to_user_id_str": null,
+  "favorited": false,
+  "lang": "es"
+}

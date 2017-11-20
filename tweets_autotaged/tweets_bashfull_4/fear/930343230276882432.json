@@ -1,0 +1,167 @@
+{
+  "truncated": true,
+  "in_reply_to_status_id": null,
+  "id": 930343230276882432,
+  "in_reply_to_user_id": 182764833,
+  "coordinates": null,
+  "reply_count": 0,
+  "extended_tweet": {
+    "full_text": "@metro_madrid Verg\u00fcenza de como va la #linea10. Ataques de ansiedad y los usuarios como sardinas en lata. Metro de Madrid..  \"vuela\" por los cojones.",
+    "display_text_range": [
+      0,
+      149
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "indices": [
+            38,
+            46
+          ],
+          "text": "linea10"
+        }
+      ],
+      "urls": [],
+      "user_mentions": [
+        {
+          "screen_name": "metro_madrid",
+          "name": "Metro de Madrid",
+          "id": 182764833,
+          "id_str": "182764833",
+          "indices": [
+            0,
+            13
+          ]
+        }
+      ],
+      "symbols": []
+    }
+  },
+  "timestamp_ms": "1510646085696",
+  "geo": null,
+  "quote_count": 0,
+  "retweet_count": 0,
+  "is_quote_status": false,
+  "created_at": "Tue Nov 14 07:54:45 +0000 2017",
+  "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+  "favorite_count": 0,
+  "in_reply_to_screen_name": "metro_madrid",
+  "text": "@metro_madrid Verg\u00fcenza de como va la #linea10. Ataques de ansiedad y los usuarios como sardinas en lata. Metro de\u2026 https://t.co/4Xa3bfxqlm",
+  "in_reply_to_status_id_str": null,
+  "place": {
+    "country": "Espa\u00f1a",
+    "name": "Madrid",
+    "id": "206c436ce43a43a3",
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            -3.889005,
+            40.312071
+          ],
+          [
+            -3.889005,
+            40.643518
+          ],
+          [
+            -3.51801,
+            40.643518
+          ],
+          [
+            -3.51801,
+            40.312071
+          ]
+        ]
+      ]
+    },
+    "country_code": "ES",
+    "place_type": "city",
+    "url": "https://api.twitter.com/1.1/geo/id/206c436ce43a43a3.json",
+    "attributes": {},
+    "full_name": "Madrid, Espa\u00f1a"
+  },
+  "contributors": null,
+  "entities": {
+    "hashtags": [
+      {
+        "indices": [
+          38,
+          46
+        ],
+        "text": "linea10"
+      }
+    ],
+    "urls": [
+      {
+        "expanded_url": "https://twitter.com/i/web/status/930343230276882432",
+        "display_url": "twitter.com/i/web/status/9\u2026",
+        "indices": [
+          116,
+          139
+        ],
+        "url": "https://t.co/4Xa3bfxqlm"
+      }
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "metro_madrid",
+        "name": "Metro de Madrid",
+        "id": 182764833,
+        "id_str": "182764833",
+        "indices": [
+          0,
+          13
+        ]
+      }
+    ],
+    "symbols": []
+  },
+  "retweeted": false,
+  "id_str": "930343230276882432",
+  "user": {
+    "time_zone": "Madrid",
+    "follow_request_sent": null,
+    "id": 384267293,
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "translator_type": "none",
+    "screen_name": "pilargsoriano",
+    "profile_link_color": "DD2E44",
+    "url": null,
+    "utc_offset": 3600,
+    "location": "MADRID",
+    "name": "PILAR GONZALEZ",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "description": "Amante de la buena m\u00fasica. Representante de un gato llamado Mateo.",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/384267293/1453491837",
+    "created_at": "Mon Oct 03 11:30:39 +0000 2011",
+    "protected": false,
+    "is_translator": false,
+    "listed_count": 2,
+    "statuses_count": 714,
+    "profile_sidebar_border_color": "000000",
+    "profile_sidebar_fill_color": "000000",
+    "default_profile": false,
+    "default_profile_image": false,
+    "verified": false,
+    "notifications": null,
+    "friends_count": 334,
+    "profile_background_color": "000000",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/690618428999241728/HP1qwXin_normal.jpg",
+    "following": null,
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/690618428999241728/HP1qwXin_normal.jpg",
+    "geo_enabled": true,
+    "profile_use_background_image": false,
+    "contributors_enabled": false,
+    "id_str": "384267293",
+    "profile_text_color": "000000",
+    "followers_count": 138,
+    "favourites_count": 463,
+    "lang": "es",
+    "profile_background_tile": false
+  },
+  "filter_level": "low",
+  "in_reply_to_user_id_str": "182764833",
+  "favorited": false,
+  "lang": "es"
+}

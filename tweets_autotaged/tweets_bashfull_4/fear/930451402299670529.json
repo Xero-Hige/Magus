@@ -1,0 +1,167 @@
+{
+  "id": 930451402299670529,
+  "lang": "es",
+  "in_reply_to_status_id_str": null,
+  "truncated": true,
+  "place": {
+    "id": "ea520f3528c9b3e4",
+    "country": "Espa\u00f1a",
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            -4.579175,
+            39.884537
+          ],
+          [
+            -4.579175,
+            41.164911
+          ],
+          [
+            -3.053132,
+            41.164911
+          ],
+          [
+            -3.053132,
+            39.884537
+          ]
+        ]
+      ]
+    },
+    "url": "https://api.twitter.com/1.1/geo/id/ea520f3528c9b3e4.json",
+    "full_name": "Madrid, Comunidad de Madrid",
+    "attributes": {},
+    "name": "Madrid",
+    "place_type": "admin",
+    "country_code": "ES"
+  },
+  "favorite_count": 0,
+  "retweeted": false,
+  "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+  "is_quote_status": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "retweet_count": 0,
+  "quote_count": 0,
+  "timestamp_ms": "1510671875916",
+  "favorited": false,
+  "coordinates": null,
+  "text": "El alcalde de #CogollosVega @Malusan66 realiza acusaciones en la p\u00e1gina de Facebook del Ayuntamiento contra una vec\u2026 https://t.co/MWJYwp84Gr",
+  "entities": {
+    "urls": [
+      {
+        "indices": [
+          117,
+          140
+        ],
+        "display_url": "twitter.com/i/web/status/9\u2026",
+        "url": "https://t.co/MWJYwp84Gr",
+        "expanded_url": "https://twitter.com/i/web/status/930451402299670529"
+      }
+    ],
+    "symbols": [],
+    "user_mentions": [
+      {
+        "screen_name": "Malusan66",
+        "id": 712020251882496000,
+        "name": "Manuel Lucena S\u00e1nche",
+        "indices": [
+          28,
+          38
+        ],
+        "id_str": "712020251882496000"
+      }
+    ],
+    "hashtags": [
+      {
+        "text": "CogollosVega",
+        "indices": [
+          14,
+          27
+        ]
+      }
+    ]
+  },
+  "reply_count": 0,
+  "geo": null,
+  "filter_level": "low",
+  "extended_tweet": {
+    "display_text_range": [
+      0,
+      237
+    ],
+    "entities": {
+      "urls": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "screen_name": "Malusan66",
+          "id": 712020251882496000,
+          "name": "Manuel Lucena S\u00e1nche",
+          "indices": [
+            28,
+            38
+          ],
+          "id_str": "712020251882496000"
+        }
+      ],
+      "hashtags": [
+        {
+          "text": "CogollosVega",
+          "indices": [
+            14,
+            27
+          ]
+        }
+      ]
+    },
+    "full_text": "El alcalde de #CogollosVega @Malusan66 realiza acusaciones en la p\u00e1gina de Facebook del Ayuntamiento contra una vecina y la bloquea para que no pueda responder. \u00bfNo deber\u00eda una Administraci\u00f3n P\u00fablica tratar a todos los vecinos por igual?"
+  },
+  "user": {
+    "statuses_count": 298,
+    "id": 3409983124,
+    "default_profile": true,
+    "favourites_count": 133,
+    "url": "https://www.facebook.com/asocivicacogollosvega",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "verified": false,
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/630284708379803648/L8MBndzz_normal.png",
+    "translator_type": "none",
+    "location": "Cogollos de la Vega, Andaluc\u00eda",
+    "geo_enabled": true,
+    "utc_offset": 3600,
+    "notifications": null,
+    "profile_background_tile": false,
+    "friends_count": 323,
+    "is_translator": false,
+    "follow_request_sent": null,
+    "default_profile_image": false,
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_color": "C0DEED",
+    "profile_link_color": "1DA1F2",
+    "profile_use_background_image": true,
+    "time_zone": "Madrid",
+    "name": "AsCivicaCogollosVega",
+    "profile_text_color": "333333",
+    "profile_sidebar_border_color": "C0DEED",
+    "screen_name": "ACivicaCogollos",
+    "lang": "es",
+    "following": null,
+    "listed_count": 5,
+    "protected": false,
+    "profile_sidebar_fill_color": "DDEEF6",
+    "followers_count": 149,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/630284708379803648/L8MBndzz_normal.png",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/3409983124/1472130164",
+    "contributors_enabled": false,
+    "created_at": "Sun Aug 09 07:47:27 +0000 2015",
+    "id_str": "3409983124",
+    "description": "Asociaci\u00f3n C\u00edvica de Cogollos Vega - Granada"
+  },
+  "created_at": "Tue Nov 14 15:04:35 +0000 2017",
+  "id_str": "930451402299670529",
+  "in_reply_to_user_id": null,
+  "contributors": null
+}

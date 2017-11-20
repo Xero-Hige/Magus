@@ -1,0 +1,323 @@
+{
+  "id": 930450449110577152,
+  "lang": "es",
+  "in_reply_to_status_id_str": null,
+  "truncated": true,
+  "place": {
+    "id": "453dc4ef63a242d2",
+    "country": "Espa\u00f1a",
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            -6.120087,
+            38.724378
+          ],
+          [
+            -6.120087,
+            39.128882
+          ],
+          [
+            -5.599702,
+            39.128882
+          ],
+          [
+            -5.599702,
+            38.724378
+          ]
+        ]
+      ]
+    },
+    "url": "https://api.twitter.com/1.1/geo/id/453dc4ef63a242d2.json",
+    "full_name": "Don Benito, Espa\u00f1a",
+    "attributes": {},
+    "name": "Don Benito",
+    "place_type": "city",
+    "country_code": "ES"
+  },
+  "favorite_count": 0,
+  "retweeted": false,
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "is_quote_status": false,
+  "possibly_sensitive": false,
+  "geo": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_status_id": null,
+  "retweet_count": 0,
+  "quote_count": 0,
+  "timestamp_ms": "1510671648658",
+  "favorited": false,
+  "coordinates": null,
+  "filter_level": "low",
+  "entities": {
+    "urls": [
+      {
+        "indices": [
+          117,
+          140
+        ],
+        "display_url": "twitter.com/i/web/status/9\u2026",
+        "url": "https://t.co/cLSnQfdEIN",
+        "expanded_url": "https://twitter.com/i/web/status/930450449110577152"
+      }
+    ],
+    "symbols": [],
+    "user_mentions": [],
+    "hashtags": [
+      {
+        "text": "Movember",
+        "indices": [
+          13,
+          22
+        ]
+      }
+    ]
+  },
+  "reply_count": 0,
+  "in_reply_to_screen_name": null,
+  "display_text_range": [
+    0,
+    140
+  ],
+  "text": "Nos unimos a #Movember porque apoyo la salud mental masculina. Ellos tambi\u00e9n sufren ansiedad, depresi\u00f3n y tristeza.\u2026 https://t.co/cLSnQfdEIN",
+  "extended_tweet": {
+    "display_text_range": [
+      0,
+      208
+    ],
+    "extended_entities": {
+      "media": [
+        {
+          "id": 930450341631586304,
+          "display_url": "pic.twitter.com/Y1OCdYzTiK",
+          "id_str": "930450341631586304",
+          "indices": [
+            209,
+            232
+          ],
+          "expanded_url": "https://twitter.com/lydiagildel/status/930450449110577152/video/1",
+          "type": "video",
+          "url": "https://t.co/Y1OCdYzTiK",
+          "video_info": {
+            "duration_millis": 19867,
+            "aspect_ratio": [
+              1,
+              1
+            ],
+            "variants": [
+              {
+                "url": "https://video.twimg.com/ext_tw_video/930450341631586304/pu/vid/240x240/z_CN7nGctdLci05L.mp4",
+                "bitrate": 320000,
+                "content_type": "video/mp4"
+              },
+              {
+                "url": "https://video.twimg.com/ext_tw_video/930450341631586304/pu/vid/480x480/CR4EsWU5bS5jZhS_.mp4",
+                "bitrate": 832000,
+                "content_type": "video/mp4"
+              },
+              {
+                "url": "https://video.twimg.com/ext_tw_video/930450341631586304/pu/pl/a-UJ87Mj8hzN8jU1.m3u8",
+                "content_type": "application/x-mpegURL"
+              }
+            ]
+          },
+          "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/930450341631586304/pu/img/3vEbsYWirSrtDKWT.jpg",
+          "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/930450341631586304/pu/img/3vEbsYWirSrtDKWT.jpg",
+          "sizes": {
+            "small": {
+              "w": 340,
+              "h": 340,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 480,
+              "h": 480,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 480,
+              "h": 480,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "entities": {
+      "media": [
+        {
+          "id": 930450341631586304,
+          "display_url": "pic.twitter.com/Y1OCdYzTiK",
+          "id_str": "930450341631586304",
+          "indices": [
+            209,
+            232
+          ],
+          "expanded_url": "https://twitter.com/lydiagildel/status/930450449110577152/video/1",
+          "type": "video",
+          "url": "https://t.co/Y1OCdYzTiK",
+          "video_info": {
+            "duration_millis": 19867,
+            "aspect_ratio": [
+              1,
+              1
+            ],
+            "variants": [
+              {
+                "url": "https://video.twimg.com/ext_tw_video/930450341631586304/pu/vid/240x240/z_CN7nGctdLci05L.mp4",
+                "bitrate": 320000,
+                "content_type": "video/mp4"
+              },
+              {
+                "url": "https://video.twimg.com/ext_tw_video/930450341631586304/pu/vid/480x480/CR4EsWU5bS5jZhS_.mp4",
+                "bitrate": 832000,
+                "content_type": "video/mp4"
+              },
+              {
+                "url": "https://video.twimg.com/ext_tw_video/930450341631586304/pu/pl/a-UJ87Mj8hzN8jU1.m3u8",
+                "content_type": "application/x-mpegURL"
+              }
+            ]
+          },
+          "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/930450341631586304/pu/img/3vEbsYWirSrtDKWT.jpg",
+          "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/930450341631586304/pu/img/3vEbsYWirSrtDKWT.jpg",
+          "sizes": {
+            "small": {
+              "w": 340,
+              "h": 340,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 480,
+              "h": 480,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 480,
+              "h": 480,
+              "resize": "fit"
+            }
+          }
+        }
+      ],
+      "urls": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "screen_name": "Damore_713",
+          "id": 514411604,
+          "name": "DAMORE 713",
+          "indices": [
+            125,
+            136
+          ],
+          "id_str": "514411604"
+        },
+        {
+          "screen_name": "Movember",
+          "id": 16683739,
+          "name": "Movember USA",
+          "indices": [
+            157,
+            166
+          ],
+          "id_str": "16683739"
+        }
+      ],
+      "hashtags": [
+        {
+          "text": "Movember",
+          "indices": [
+            13,
+            22
+          ]
+        },
+        {
+          "text": "movember",
+          "indices": [
+            168,
+            177
+          ]
+        },
+        {
+          "text": "movember2017",
+          "indices": [
+            178,
+            191
+          ]
+        },
+        {
+          "text": "porellos",
+          "indices": [
+            192,
+            201
+          ]
+        },
+        {
+          "text": "\u00fanete",
+          "indices": [
+            202,
+            208
+          ]
+        }
+      ]
+    },
+    "full_text": "Nos unimos a #Movember porque apoyo la salud mental masculina. Ellos tambi\u00e9n sufren ansiedad, depresi\u00f3n y tristeza. Nomino a @Damore_713 que se una tambi\u00e9n. @movember \n#movember #movember2017 #porellos #\u00fanete https://t.co/Y1OCdYzTiK"
+  },
+  "user": {
+    "statuses_count": 1422,
+    "id": 296891202,
+    "default_profile": false,
+    "favourites_count": 105,
+    "url": null,
+    "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000147957785/Dw0F75k-.jpeg",
+    "verified": false,
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/860642962665070593/DeKNrL3R_normal.jpg",
+    "translator_type": "none",
+    "location": "Extremadura",
+    "geo_enabled": true,
+    "utc_offset": 3600,
+    "notifications": null,
+    "profile_background_tile": false,
+    "friends_count": 766,
+    "is_translator": false,
+    "follow_request_sent": null,
+    "default_profile_image": false,
+    "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000147957785/Dw0F75k-.jpeg",
+    "profile_background_color": "131516",
+    "profile_link_color": "009999",
+    "profile_use_background_image": true,
+    "time_zone": "Madrid",
+    "name": "Lydia",
+    "profile_text_color": "333333",
+    "profile_sidebar_border_color": "000000",
+    "screen_name": "lydiagildel",
+    "lang": "es",
+    "following": null,
+    "listed_count": 0,
+    "protected": false,
+    "profile_sidebar_fill_color": "F2E6F2",
+    "followers_count": 523,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/860642962665070593/DeKNrL3R_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/296891202/1410384118",
+    "contributors_enabled": false,
+    "created_at": "Wed May 11 15:32:04 +0000 2011",
+    "id_str": "296891202",
+    "description": null
+  },
+  "created_at": "Tue Nov 14 15:00:48 +0000 2017",
+  "id_str": "930450449110577152",
+  "in_reply_to_user_id": null,
+  "contributors": null
+}

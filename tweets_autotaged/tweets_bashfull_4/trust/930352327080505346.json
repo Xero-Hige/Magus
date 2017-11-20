@@ -1,0 +1,129 @@
+{
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "id": 930352327080505346,
+  "in_reply_to_user_id": null,
+  "coordinates": {
+    "type": "Point",
+    "coordinates": [
+      -70.6667,
+      -33.45
+    ]
+  },
+  "possibly_sensitive": false,
+  "reply_count": 0,
+  "timestamp_ms": "1510648254543",
+  "geo": {
+    "type": "Point",
+    "coordinates": [
+      -33.45,
+      -70.6667
+    ]
+  },
+  "quote_count": 0,
+  "retweet_count": 0,
+  "is_quote_status": false,
+  "created_at": "Tue Nov 14 08:30:54 +0000 2017",
+  "source": "<a href=\"http://instagram.com\" rel=\"nofollow\">Instagram</a>",
+  "favorite_count": 0,
+  "in_reply_to_screen_name": null,
+  "text": "Segunda Divisi\u00f3n | Programaci\u00f3n 19\u00b0 fecha. Destaca San Antonio Unido versus Deportes Vallenar\u2026 https://t.co/qavG1lqzKw",
+  "in_reply_to_status_id_str": null,
+  "place": {
+    "country": "Chile",
+    "name": "Santiago",
+    "id": "0010b4cb51ca93d8",
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            -70.692959,
+            -33.478574
+          ],
+          [
+            -70.692959,
+            -33.425749
+          ],
+          [
+            -70.626272,
+            -33.425749
+          ],
+          [
+            -70.626272,
+            -33.478574
+          ]
+        ]
+      ]
+    },
+    "country_code": "CL",
+    "place_type": "city",
+    "url": "https://api.twitter.com/1.1/geo/id/0010b4cb51ca93d8.json",
+    "attributes": {},
+    "full_name": "Santiago, Chile"
+  },
+  "contributors": null,
+  "entities": {
+    "hashtags": [],
+    "urls": [
+      {
+        "expanded_url": "https://www.instagram.com/p/Bbdu5IsgOOB/",
+        "display_url": "instagram.com/p/Bbdu5IsgOOB/",
+        "indices": [
+          95,
+          118
+        ],
+        "url": "https://t.co/qavG1lqzKw"
+      }
+    ],
+    "user_mentions": [],
+    "symbols": []
+  },
+  "retweeted": false,
+  "id_str": "930352327080505346",
+  "user": {
+    "time_zone": "Atlantic Time (Canada)",
+    "follow_request_sent": null,
+    "id": 1144071769,
+    "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/573261956573884416/L_UtkBMR.jpeg",
+    "translator_type": "none",
+    "screen_name": "portalfutbolcl",
+    "profile_link_color": "ABB8C2",
+    "url": "http://www.portalfutbol.cl",
+    "utc_offset": -14400,
+    "location": "Chile",
+    "name": "Portal F\u00fatbol",
+    "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/573261956573884416/L_UtkBMR.jpeg",
+    "description": "#TodosJugamos - F\u00fatbol chileno e internacional. \u00a1Estamos en todas partes!",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1144071769/1478750026",
+    "created_at": "Sun Feb 03 03:19:09 +0000 2013",
+    "protected": false,
+    "is_translator": false,
+    "listed_count": 59,
+    "statuses_count": 11647,
+    "profile_sidebar_border_color": "FFFFFF",
+    "profile_sidebar_fill_color": "EFEFEF",
+    "default_profile": false,
+    "default_profile_image": false,
+    "verified": false,
+    "notifications": null,
+    "friends_count": 578,
+    "profile_background_color": "131516",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/882787953570979840/w-_QxCd2_normal.jpg",
+    "following": null,
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/882787953570979840/w-_QxCd2_normal.jpg",
+    "geo_enabled": true,
+    "profile_use_background_image": true,
+    "contributors_enabled": false,
+    "id_str": "1144071769",
+    "profile_text_color": "333333",
+    "followers_count": 14809,
+    "favourites_count": 353,
+    "lang": "es",
+    "profile_background_tile": true
+  },
+  "filter_level": "low",
+  "in_reply_to_user_id_str": null,
+  "favorited": false,
+  "lang": "es"
+}

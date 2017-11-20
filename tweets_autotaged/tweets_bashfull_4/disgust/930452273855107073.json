@@ -1,0 +1,280 @@
+{
+  "id": 930452273855107073,
+  "lang": "es",
+  "in_reply_to_status_id_str": null,
+  "truncated": true,
+  "place": {
+    "id": "d0f5be1262dee9aa",
+    "country": "Uruguay",
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            -58.491052,
+            -34.980163
+          ],
+          [
+            -58.491052,
+            -30.085693
+          ],
+          [
+            -53.071505,
+            -30.085693
+          ],
+          [
+            -53.071505,
+            -34.980163
+          ]
+        ]
+      ]
+    },
+    "url": "https://api.twitter.com/1.1/geo/id/d0f5be1262dee9aa.json",
+    "full_name": "Uruguay",
+    "attributes": {},
+    "name": "Uruguay",
+    "place_type": "country",
+    "country_code": "UY"
+  },
+  "favorite_count": 0,
+  "retweeted": false,
+  "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+  "is_quote_status": false,
+  "possibly_sensitive": false,
+  "geo": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_status_id": null,
+  "retweet_count": 0,
+  "quote_count": 0,
+  "timestamp_ms": "1510672083711",
+  "favorited": false,
+  "coordinates": null,
+  "filter_level": "low",
+  "entities": {
+    "urls": [
+      {
+        "indices": [
+          117,
+          140
+        ],
+        "display_url": "twitter.com/i/web/status/9\u2026",
+        "url": "https://t.co/CGt61jC3CE",
+        "expanded_url": "https://twitter.com/i/web/status/930452273855107073"
+      }
+    ],
+    "symbols": [],
+    "user_mentions": [
+      {
+        "screen_name": "INIA_UY",
+        "id": 348740744,
+        "name": "INIA URUGUAY",
+        "indices": [
+          50,
+          58
+        ],
+        "id_str": "348740744"
+      },
+      {
+        "screen_name": "JkiKhn",
+        "id": 1612217574,
+        "name": "Julius K\u00fchn-Institut",
+        "indices": [
+          61,
+          68
+        ],
+        "id_str": "1612217574"
+      }
+    ],
+    "hashtags": [
+      {
+        "text": "ahora",
+        "indices": [
+          0,
+          6
+        ]
+      }
+    ]
+  },
+  "reply_count": 0,
+  "in_reply_to_screen_name": null,
+  "display_text_range": [
+    0,
+    140
+  ],
+  "text": "#ahora reuni\u00f3n de autoridades e investigadores de @INIA_UY y @JkiKhn Presentaci\u00f3n de trabajos de investigaci\u00f3n en p\u2026 https://t.co/CGt61jC3CE",
+  "extended_tweet": {
+    "display_text_range": [
+      0,
+      215
+    ],
+    "extended_entities": {
+      "media": [
+        {
+          "id": 930450269338513408,
+          "display_url": "pic.twitter.com/C7ykMsN9cx",
+          "id_str": "930450269338513408",
+          "indices": [
+            216,
+            239
+          ],
+          "expanded_url": "https://twitter.com/INIA_UY/status/930452273855107073/photo/1",
+          "type": "photo",
+          "url": "https://t.co/C7ykMsN9cx",
+          "media_url_https": "https://pbs.twimg.com/media/DOmflxkWsAA8s-A.jpg",
+          "media_url": "http://pbs.twimg.com/media/DOmflxkWsAA8s-A.jpg",
+          "sizes": {
+            "small": {
+              "w": 680,
+              "h": 293,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 1478,
+              "h": 637,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 1200,
+              "h": 517,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "entities": {
+      "media": [
+        {
+          "id": 930450269338513408,
+          "display_url": "pic.twitter.com/C7ykMsN9cx",
+          "id_str": "930450269338513408",
+          "indices": [
+            216,
+            239
+          ],
+          "expanded_url": "https://twitter.com/INIA_UY/status/930452273855107073/photo/1",
+          "type": "photo",
+          "url": "https://t.co/C7ykMsN9cx",
+          "media_url_https": "https://pbs.twimg.com/media/DOmflxkWsAA8s-A.jpg",
+          "media_url": "http://pbs.twimg.com/media/DOmflxkWsAA8s-A.jpg",
+          "sizes": {
+            "small": {
+              "w": 680,
+              "h": 293,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 1478,
+              "h": 637,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 1200,
+              "h": 517,
+              "resize": "fit"
+            }
+          }
+        }
+      ],
+      "urls": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "screen_name": "INIA_UY",
+          "id": 348740744,
+          "name": "INIA URUGUAY",
+          "indices": [
+            50,
+            58
+          ],
+          "id_str": "348740744"
+        },
+        {
+          "screen_name": "JkiKhn",
+          "id": 1612217574,
+          "name": "Julius K\u00fchn-Institut",
+          "indices": [
+            61,
+            68
+          ],
+          "id_str": "1612217574"
+        },
+        {
+          "screen_name": "INIALB",
+          "id": 239160688,
+          "name": "INIA Las Brujas",
+          "indices": [
+            208,
+            215
+          ],
+          "id_str": "239160688"
+        }
+      ],
+      "hashtags": [
+        {
+          "text": "ahora",
+          "indices": [
+            0,
+            6
+          ]
+        }
+      ]
+    },
+    "full_text": "#ahora reuni\u00f3n de autoridades e investigadores de @INIA_UY y @JkiKhn Presentaci\u00f3n de trabajos de investigaci\u00f3n en proyectos conjuntos en salud de suelos y edici\u00f3n gen\u00f3mica. Visita a ensayos y laboratorios en @INIALB https://t.co/C7ykMsN9cx"
+  },
+  "user": {
+    "statuses_count": 3179,
+    "id": 348740744,
+    "default_profile": false,
+    "favourites_count": 645,
+    "url": "http://www.inia.uy",
+    "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/524945857829822466/G6xq0Ge2.jpeg",
+    "verified": false,
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/483247027472445440/SBUGzOoW_normal.jpeg",
+    "translator_type": "none",
+    "location": "Uruguay",
+    "geo_enabled": true,
+    "utc_offset": -10800,
+    "notifications": null,
+    "profile_background_tile": false,
+    "friends_count": 351,
+    "is_translator": false,
+    "follow_request_sent": null,
+    "default_profile_image": false,
+    "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/524945857829822466/G6xq0Ge2.jpeg",
+    "profile_background_color": "ABB8C2",
+    "profile_link_color": "3B94D9",
+    "profile_use_background_image": false,
+    "time_zone": "Buenos Aires",
+    "name": "INIA URUGUAY",
+    "profile_text_color": "333333",
+    "profile_sidebar_border_color": "FFFFFF",
+    "screen_name": "INIA_UY",
+    "lang": "es",
+    "following": null,
+    "listed_count": 52,
+    "protected": false,
+    "profile_sidebar_fill_color": "A0C5C7",
+    "followers_count": 7176,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/483247027472445440/SBUGzOoW_normal.jpeg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/348740744/1505822990",
+    "contributors_enabled": false,
+    "created_at": "Thu Aug 04 22:48:17 +0000 2011",
+    "id_str": "348740744",
+    "description": "Instituto Nacional de Investigaci\u00f3n Agropecuaria - Uruguay"
+  },
+  "created_at": "Tue Nov 14 15:08:03 +0000 2017",
+  "id_str": "930452273855107073",
+  "in_reply_to_user_id": null,
+  "contributors": null
+}

@@ -1,0 +1,379 @@
+{
+  "id": 930449317650935808,
+  "lang": "es",
+  "in_reply_to_status_id_str": null,
+  "truncated": true,
+  "place": {
+    "id": "00da7cec74df27ff",
+    "country": "Argentina",
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            -68.176283,
+            -38.984724
+          ],
+          [
+            -68.176283,
+            -38.921051
+          ],
+          [
+            -68.015162,
+            -38.921051
+          ],
+          [
+            -68.015162,
+            -38.984724
+          ]
+        ]
+      ]
+    },
+    "url": "https://api.twitter.com/1.1/geo/id/00da7cec74df27ff.json",
+    "full_name": "Neuqu\u00e9n, Argentina",
+    "attributes": {},
+    "name": "Neuqu\u00e9n",
+    "place_type": "city",
+    "country_code": "AR"
+  },
+  "favorite_count": 0,
+  "retweeted": false,
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "is_quote_status": false,
+  "possibly_sensitive": false,
+  "geo": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_status_id": null,
+  "retweet_count": 0,
+  "quote_count": 0,
+  "timestamp_ms": "1510671378897",
+  "favorited": false,
+  "coordinates": null,
+  "filter_level": "low",
+  "entities": {
+    "urls": [
+      {
+        "indices": [
+          117,
+          140
+        ],
+        "display_url": "twitter.com/i/web/status/9\u2026",
+        "url": "https://t.co/5OBXHomUwY",
+        "expanded_url": "https://twitter.com/i/web/status/930449317650935808"
+      }
+    ],
+    "symbols": [],
+    "user_mentions": [],
+    "hashtags": [
+      {
+        "text": "Ahora",
+        "indices": [
+          0,
+          6
+        ]
+      }
+    ]
+  },
+  "reply_count": 0,
+  "in_reply_to_screen_name": null,
+  "display_text_range": [
+    0,
+    140
+  ],
+  "text": "#Ahora En la Comisi\u00f3n de Legislaci\u00f3n del Trabajo debatimos sobre un Proyecto de Ley para apoyar un r\u00e9gimen diferenc\u2026 https://t.co/5OBXHomUwY",
+  "extended_tweet": {
+    "display_text_range": [
+      0,
+      187
+    ],
+    "extended_entities": {
+      "media": [
+        {
+          "id": 930449273422049280,
+          "display_url": "pic.twitter.com/N9JEV1ZLuA",
+          "id_str": "930449273422049280",
+          "indices": [
+            188,
+            211
+          ],
+          "expanded_url": "https://twitter.com/marianoneuquen/status/930449317650935808/photo/1",
+          "type": "photo",
+          "url": "https://t.co/N9JEV1ZLuA",
+          "media_url_https": "https://pbs.twimg.com/media/DOmerzfXcAA3Ckn.jpg",
+          "media_url": "http://pbs.twimg.com/media/DOmerzfXcAA3Ckn.jpg",
+          "sizes": {
+            "small": {
+              "w": 680,
+              "h": 510,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 2048,
+              "h": 1536,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 1200,
+              "h": 900,
+              "resize": "fit"
+            }
+          }
+        },
+        {
+          "id": 930449273413623809,
+          "display_url": "pic.twitter.com/N9JEV1ZLuA",
+          "id_str": "930449273413623809",
+          "indices": [
+            188,
+            211
+          ],
+          "expanded_url": "https://twitter.com/marianoneuquen/status/930449317650935808/photo/1",
+          "type": "photo",
+          "url": "https://t.co/N9JEV1ZLuA",
+          "media_url_https": "https://pbs.twimg.com/media/DOmerzdW4AED0sT.jpg",
+          "media_url": "http://pbs.twimg.com/media/DOmerzdW4AED0sT.jpg",
+          "sizes": {
+            "small": {
+              "w": 680,
+              "h": 572,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 2048,
+              "h": 1724,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 1200,
+              "h": 1010,
+              "resize": "fit"
+            }
+          }
+        },
+        {
+          "id": 930449273409458176,
+          "display_url": "pic.twitter.com/N9JEV1ZLuA",
+          "id_str": "930449273409458176",
+          "indices": [
+            188,
+            211
+          ],
+          "expanded_url": "https://twitter.com/marianoneuquen/status/930449317650935808/photo/1",
+          "type": "photo",
+          "url": "https://t.co/N9JEV1ZLuA",
+          "media_url_https": "https://pbs.twimg.com/media/DOmerzcXUAA8DhA.jpg",
+          "media_url": "http://pbs.twimg.com/media/DOmerzcXUAA8DhA.jpg",
+          "sizes": {
+            "small": {
+              "w": 568,
+              "h": 680,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 1710,
+              "h": 2048,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 1002,
+              "h": 1200,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "entities": {
+      "media": [
+        {
+          "id": 930449273422049280,
+          "display_url": "pic.twitter.com/N9JEV1ZLuA",
+          "id_str": "930449273422049280",
+          "indices": [
+            188,
+            211
+          ],
+          "expanded_url": "https://twitter.com/marianoneuquen/status/930449317650935808/photo/1",
+          "type": "photo",
+          "url": "https://t.co/N9JEV1ZLuA",
+          "media_url_https": "https://pbs.twimg.com/media/DOmerzfXcAA3Ckn.jpg",
+          "media_url": "http://pbs.twimg.com/media/DOmerzfXcAA3Ckn.jpg",
+          "sizes": {
+            "small": {
+              "w": 680,
+              "h": 510,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 2048,
+              "h": 1536,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 1200,
+              "h": 900,
+              "resize": "fit"
+            }
+          }
+        },
+        {
+          "id": 930449273413623809,
+          "display_url": "pic.twitter.com/N9JEV1ZLuA",
+          "id_str": "930449273413623809",
+          "indices": [
+            188,
+            211
+          ],
+          "expanded_url": "https://twitter.com/marianoneuquen/status/930449317650935808/photo/1",
+          "type": "photo",
+          "url": "https://t.co/N9JEV1ZLuA",
+          "media_url_https": "https://pbs.twimg.com/media/DOmerzdW4AED0sT.jpg",
+          "media_url": "http://pbs.twimg.com/media/DOmerzdW4AED0sT.jpg",
+          "sizes": {
+            "small": {
+              "w": 680,
+              "h": 572,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 2048,
+              "h": 1724,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 1200,
+              "h": 1010,
+              "resize": "fit"
+            }
+          }
+        },
+        {
+          "id": 930449273409458176,
+          "display_url": "pic.twitter.com/N9JEV1ZLuA",
+          "id_str": "930449273409458176",
+          "indices": [
+            188,
+            211
+          ],
+          "expanded_url": "https://twitter.com/marianoneuquen/status/930449317650935808/photo/1",
+          "type": "photo",
+          "url": "https://t.co/N9JEV1ZLuA",
+          "media_url_https": "https://pbs.twimg.com/media/DOmerzcXUAA8DhA.jpg",
+          "media_url": "http://pbs.twimg.com/media/DOmerzcXUAA8DhA.jpg",
+          "sizes": {
+            "small": {
+              "w": 568,
+              "h": 680,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 1710,
+              "h": 2048,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 1002,
+              "h": 1200,
+              "resize": "fit"
+            }
+          }
+        }
+      ],
+      "urls": [],
+      "symbols": [],
+      "user_mentions": [],
+      "hashtags": [
+        {
+          "text": "Ahora",
+          "indices": [
+            0,
+            6
+          ]
+        },
+        {
+          "text": "FrenteNeuquino",
+          "indices": [
+            172,
+            187
+          ]
+        }
+      ]
+    },
+    "full_text": "#Ahora En la Comisi\u00f3n de Legislaci\u00f3n del Trabajo debatimos sobre un Proyecto de Ley para apoyar un r\u00e9gimen diferencial previsional para trabajadores de telecomunicaciones.\n#FrenteNeuquino https://t.co/N9JEV1ZLuA"
+  },
+  "user": {
+    "statuses_count": 6328,
+    "id": 2335993027,
+    "default_profile": false,
+    "favourites_count": 6302,
+    "url": "https://facebook.com/marianoune",
+    "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/449759614309920768/eX4gf04K.jpeg",
+    "verified": false,
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/914093129502007296/FLx-cpW2_normal.jpg",
+    "translator_type": "none",
+    "location": "Neuqu\u00e9n, Argentina",
+    "geo_enabled": true,
+    "utc_offset": null,
+    "notifications": null,
+    "profile_background_tile": true,
+    "friends_count": 22235,
+    "is_translator": false,
+    "follow_request_sent": null,
+    "default_profile_image": false,
+    "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/449759614309920768/eX4gf04K.jpeg",
+    "profile_background_color": "C0DEED",
+    "profile_link_color": "1B95E0",
+    "profile_use_background_image": true,
+    "time_zone": null,
+    "name": "Mariano Mansilla",
+    "profile_text_color": "333333",
+    "profile_sidebar_border_color": "FFFFFF",
+    "screen_name": "marianoneuquen",
+    "lang": "es",
+    "following": null,
+    "listed_count": 38,
+    "protected": false,
+    "profile_sidebar_fill_color": "DDEEF6",
+    "followers_count": 22305,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/914093129502007296/FLx-cpW2_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/2335993027/1510204981",
+    "contributors_enabled": false,
+    "created_at": "Mon Feb 10 02:54:37 +0000 2014",
+    "id_str": "2335993027",
+    "description": "NEUQUEN. DIPUTADO del Bloque FRENTE NEUQUINO.(UNE).Abogado. 3 hijas hermosas. Barrio Belgrano.Todo por Neuqu\u00e9n. (http://twiends.com/marianoneuquen"
+  },
+  "created_at": "Tue Nov 14 14:56:18 +0000 2017",
+  "id_str": "930449317650935808",
+  "in_reply_to_user_id": null,
+  "contributors": null
+}

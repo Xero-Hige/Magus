@@ -1,0 +1,208 @@
+{
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "id": 930328144145408000,
+  "in_reply_to_user_id": 4635943756,
+  "coordinates": null,
+  "possibly_sensitive": false,
+  "reply_count": 0,
+  "timestamp_ms": "1510642488882",
+  "geo": null,
+  "quote_count": 0,
+  "retweet_count": 0,
+  "is_quote_status": false,
+  "created_at": "Tue Nov 14 06:54:48 +0000 2017",
+  "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+  "favorite_count": 0,
+  "text": "@ruizlupita129 #DormireFeliz solo por ti, te amuuu mejora \u2764\ud83d\udc6f siempre estas cuando m\u00e1s lo necesito https://t.co/WBJnZJXaKu",
+  "in_reply_to_screen_name": "ruizlupita129",
+  "in_reply_to_status_id_str": null,
+  "place": {
+    "country": "M\u00e9xico",
+    "name": "Tlaxcala",
+    "id": "15d3b4244cd073a0",
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            -98.712047,
+            19.105027
+          ],
+          [
+            -98.712047,
+            19.72896
+          ],
+          [
+            -97.627021,
+            19.72896
+          ],
+          [
+            -97.627021,
+            19.105027
+          ]
+        ]
+      ]
+    },
+    "country_code": "MX",
+    "place_type": "admin",
+    "url": "https://api.twitter.com/1.1/geo/id/15d3b4244cd073a0.json",
+    "attributes": {},
+    "full_name": "Tlaxcala, M\u00e9xico"
+  },
+  "contributors": null,
+  "entities": {
+    "media": [
+      {
+        "type": "photo",
+        "url": "https://t.co/WBJnZJXaKu",
+        "display_url": "pic.twitter.com/WBJnZJXaKu",
+        "media_url_https": "https://pbs.twimg.com/media/DOkwflIX0AEEfwB.jpg",
+        "id": 930328117130022913,
+        "sizes": {
+          "large": {
+            "w": 576,
+            "resize": "fit",
+            "h": 1024
+          },
+          "thumb": {
+            "w": 150,
+            "resize": "crop",
+            "h": 150
+          },
+          "small": {
+            "w": 383,
+            "resize": "fit",
+            "h": 680
+          },
+          "medium": {
+            "w": 576,
+            "resize": "fit",
+            "h": 1024
+          }
+        },
+        "expanded_url": "https://twitter.com/IselaCCruz/status/930328144145408000/photo/1",
+        "id_str": "930328117130022913",
+        "indices": [
+          98,
+          121
+        ],
+        "media_url": "http://pbs.twimg.com/media/DOkwflIX0AEEfwB.jpg"
+      }
+    ],
+    "hashtags": [
+      {
+        "indices": [
+          15,
+          28
+        ],
+        "text": "DormireFeliz"
+      }
+    ],
+    "urls": [],
+    "user_mentions": [
+      {
+        "screen_name": "ruizlupita129",
+        "name": "Lu placencia \ud83d\udcab",
+        "id": 4635943756,
+        "id_str": "4635943756",
+        "indices": [
+          0,
+          14
+        ]
+      }
+    ],
+    "symbols": []
+  },
+  "display_text_range": [
+    0,
+    97
+  ],
+  "retweeted": false,
+  "id_str": "930328144145408000",
+  "user": {
+    "time_zone": "Mexico City",
+    "follow_request_sent": null,
+    "id": 1323471608,
+    "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/674435243076530177/6GYthbER.jpg",
+    "translator_type": "none",
+    "screen_name": "IselaCCruz",
+    "profile_link_color": "981CEB",
+    "url": "https://www.facebook.com/CContrerasIsela",
+    "utc_offset": -21600,
+    "location": "Tlaxcala, M\u00e9xico",
+    "name": "Ise \u00fc",
+    "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/674435243076530177/6GYthbER.jpg",
+    "description": "http://snapchat.com/add/isela7cc7\ud83c\udf74Eat \ud83d\udcaa Train \ud83d\udcb8Work \u2764\ufe0fLove \ud83d\udd04Repeat.  #For\u00e7aBar\u00e7a #Kpop #Estupideces 24/7",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1323471608/1507351912",
+    "created_at": "Tue Apr 02 23:29:33 +0000 2013",
+    "protected": false,
+    "is_translator": false,
+    "listed_count": 2,
+    "statuses_count": 94,
+    "profile_sidebar_border_color": "000000",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "default_profile": false,
+    "default_profile_image": false,
+    "verified": false,
+    "notifications": null,
+    "friends_count": 480,
+    "profile_background_color": "D14BC8",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/925206233476243457/aFjYKrlT_normal.jpg",
+    "following": null,
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/925206233476243457/aFjYKrlT_normal.jpg",
+    "geo_enabled": true,
+    "profile_use_background_image": true,
+    "contributors_enabled": false,
+    "id_str": "1323471608",
+    "profile_text_color": "333333",
+    "followers_count": 598,
+    "favourites_count": 91,
+    "lang": "es",
+    "profile_background_tile": false
+  },
+  "extended_entities": {
+    "media": [
+      {
+        "type": "photo",
+        "url": "https://t.co/WBJnZJXaKu",
+        "display_url": "pic.twitter.com/WBJnZJXaKu",
+        "media_url_https": "https://pbs.twimg.com/media/DOkwflIX0AEEfwB.jpg",
+        "id": 930328117130022913,
+        "sizes": {
+          "large": {
+            "w": 576,
+            "resize": "fit",
+            "h": 1024
+          },
+          "thumb": {
+            "w": 150,
+            "resize": "crop",
+            "h": 150
+          },
+          "small": {
+            "w": 383,
+            "resize": "fit",
+            "h": 680
+          },
+          "medium": {
+            "w": 576,
+            "resize": "fit",
+            "h": 1024
+          }
+        },
+        "expanded_url": "https://twitter.com/IselaCCruz/status/930328144145408000/photo/1",
+        "id_str": "930328117130022913",
+        "indices": [
+          98,
+          121
+        ],
+        "media_url": "http://pbs.twimg.com/media/DOkwflIX0AEEfwB.jpg"
+      }
+    ]
+  },
+  "filter_level": "low",
+  "in_reply_to_user_id_str": "4635943756",
+  "favorited": false,
+  "lang": "es"
+}

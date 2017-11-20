@@ -1,0 +1,155 @@
+{
+  "id": 930451239409680385,
+  "lang": "es",
+  "in_reply_to_status_id_str": "930371831005097984",
+  "truncated": true,
+  "place": {
+    "id": "07f70a23853105b1",
+    "country": "Espa\u00f1a",
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            -7.735264,
+            42.882574
+          ],
+          [
+            -7.735264,
+            43.098682
+          ],
+          [
+            -7.405997,
+            43.098682
+          ],
+          [
+            -7.405997,
+            42.882574
+          ]
+        ]
+      ]
+    },
+    "url": "https://api.twitter.com/1.1/geo/id/07f70a23853105b1.json",
+    "full_name": "Lugo, Espa\u00f1a",
+    "attributes": {},
+    "name": "Lugo",
+    "place_type": "city",
+    "country_code": "ES"
+  },
+  "favorite_count": 0,
+  "retweeted": false,
+  "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+  "is_quote_status": false,
+  "in_reply_to_status_id": 930371831005097984,
+  "in_reply_to_user_id_str": "301395348",
+  "in_reply_to_screen_name": "nbh182",
+  "retweet_count": 0,
+  "quote_count": 0,
+  "timestamp_ms": "1510671837080",
+  "favorited": false,
+  "coordinates": null,
+  "filter_level": "low",
+  "entities": {
+    "urls": [
+      {
+        "indices": [
+          116,
+          139
+        ],
+        "display_url": "twitter.com/i/web/status/9\u2026",
+        "url": "https://t.co/R1ZOkcM2ux",
+        "expanded_url": "https://twitter.com/i/web/status/930451239409680385"
+      }
+    ],
+    "symbols": [],
+    "user_mentions": [
+      {
+        "screen_name": "nbh182",
+        "id": 301395348,
+        "name": "Nacho Bertolin",
+        "indices": [
+          0,
+          7
+        ],
+        "id_str": "301395348"
+      }
+    ],
+    "hashtags": []
+  },
+  "reply_count": 0,
+  "geo": null,
+  "display_text_range": [
+    8,
+    140
+  ],
+  "text": "@nbh182 Vamos para ver la tv en directo por streaming, el precio la verdad es el mismo que por el ESPN Player, que\u2026 https://t.co/R1ZOkcM2ux",
+  "extended_tweet": {
+    "display_text_range": [
+      8,
+      221
+    ],
+    "entities": {
+      "urls": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "screen_name": "nbh182",
+          "id": 301395348,
+          "name": "Nacho Bertolin",
+          "indices": [
+            0,
+            7
+          ],
+          "id_str": "301395348"
+        }
+      ],
+      "hashtags": []
+    },
+    "full_text": "@nbh182 Vamos para ver la tv en directo por streaming, el precio la verdad es el mismo que por el ESPN Player, que ESPN la esta cagando en femenino, con lo de SEC Network+ y ahora ACC Network, que no deja verlos en espa\u00f1a"
+  },
+  "user": {
+    "statuses_count": 140710,
+    "id": 123373464,
+    "default_profile": false,
+    "favourites_count": 85114,
+    "url": "http://iruklugo.blogspot.com.es/",
+    "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/558806498730459137/U1wkeO9q.jpeg",
+    "verified": false,
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/588193750045876225/8xypDLNO_normal.jpg",
+    "translator_type": "none",
+    "location": "Lugo",
+    "geo_enabled": true,
+    "utc_offset": 3600,
+    "notifications": null,
+    "profile_background_tile": true,
+    "friends_count": 2254,
+    "is_translator": false,
+    "follow_request_sent": null,
+    "default_profile_image": false,
+    "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/558806498730459137/U1wkeO9q.jpeg",
+    "profile_background_color": "C8E1F0",
+    "profile_link_color": "E81C4F",
+    "profile_use_background_image": true,
+    "time_zone": "Madrid",
+    "name": "Antonio Garcia Tu\u00f1as",
+    "profile_text_color": "333333",
+    "profile_sidebar_border_color": "FFFFFF",
+    "screen_name": "IRUKLugo",
+    "lang": "es",
+    "following": null,
+    "listed_count": 3,
+    "protected": false,
+    "profile_sidebar_fill_color": "DDEEF6",
+    "followers_count": 956,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/588193750045876225/8xypDLNO_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/123373464/1435427735",
+    "contributors_enabled": false,
+    "created_at": "Mon Mar 15 22:13:25 +0000 2010",
+    "id_str": "123373464",
+    "description": "--- Sparta&K Moscow Region-Vidnoje, Srbija, UConn Huskies, Florida Gators, Louiville \"Lady Cards\" FAN --- http://natasakovacevicfoundation.com"
+  },
+  "created_at": "Tue Nov 14 15:03:57 +0000 2017",
+  "id_str": "930451239409680385",
+  "in_reply_to_user_id": 301395348,
+  "contributors": null
+}

@@ -1,0 +1,142 @@
+{
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "id": 930375754034139137,
+  "in_reply_to_user_id": null,
+  "coordinates": null,
+  "reply_count": 0,
+  "timestamp_ms": "1510653839964",
+  "geo": null,
+  "quote_count": 0,
+  "retweet_count": 0,
+  "is_quote_status": false,
+  "created_at": "Tue Nov 14 10:03:59 +0000 2017",
+  "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+  "favorite_count": 0,
+  "in_reply_to_screen_name": null,
+  "text": "La libertad es bella, como un p\u00e1jaro que vuela pero no tiene ida y venida a la soledad.@lunalibros1 #ViasLiterarias #Espa\u00f1a  @ViasLiterarias",
+  "in_reply_to_status_id_str": null,
+  "place": {
+    "country": "Espa\u00f1a",
+    "name": "Legan\u00e9s",
+    "id": "4a48243dbd8e054f",
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            -3.818156,
+            40.292663
+          ],
+          [
+            -3.818156,
+            40.365135
+          ],
+          [
+            -3.721019,
+            40.365135
+          ],
+          [
+            -3.721019,
+            40.292663
+          ]
+        ]
+      ]
+    },
+    "country_code": "ES",
+    "place_type": "city",
+    "url": "https://api.twitter.com/1.1/geo/id/4a48243dbd8e054f.json",
+    "attributes": {},
+    "full_name": "Legan\u00e9s, Espa\u00f1a"
+  },
+  "contributors": null,
+  "entities": {
+    "hashtags": [
+      {
+        "indices": [
+          100,
+          115
+        ],
+        "text": "ViasLiterarias"
+      },
+      {
+        "indices": [
+          116,
+          123
+        ],
+        "text": "Espa\u00f1a"
+      }
+    ],
+    "urls": [],
+    "user_mentions": [
+      {
+        "screen_name": "lunalibros1",
+        "name": "lunalibros",
+        "id": 4451403634,
+        "id_str": "4451403634",
+        "indices": [
+          87,
+          99
+        ]
+      },
+      {
+        "screen_name": "ViasLiterarias",
+        "name": "V\u00edas literarias",
+        "id": 906188849201770497,
+        "id_str": "906188849201770497",
+        "indices": [
+          125,
+          140
+        ]
+      }
+    ],
+    "symbols": []
+  },
+  "retweeted": false,
+  "id_str": "930375754034139137",
+  "user": {
+    "time_zone": null,
+    "follow_request_sent": null,
+    "id": 4451403634,
+    "profile_background_image_url": "",
+    "translator_type": "none",
+    "screen_name": "lunalibros1",
+    "profile_link_color": "1DA1F2",
+    "url": null,
+    "utc_offset": null,
+    "location": null,
+    "name": "lunalibros",
+    "profile_background_image_url_https": "",
+    "description": null,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/4451403634/1494279966",
+    "created_at": "Fri Dec 11 19:04:16 +0000 2015",
+    "protected": false,
+    "is_translator": false,
+    "listed_count": 6,
+    "statuses_count": 1449,
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "default_profile": true,
+    "default_profile_image": false,
+    "verified": false,
+    "notifications": null,
+    "friends_count": 341,
+    "profile_background_color": "F5F8FA",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/861881975757578241/xtKSvN3l_normal.jpg",
+    "following": null,
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/861881975757578241/xtKSvN3l_normal.jpg",
+    "geo_enabled": true,
+    "profile_use_background_image": true,
+    "contributors_enabled": false,
+    "id_str": "4451403634",
+    "profile_text_color": "333333",
+    "followers_count": 399,
+    "favourites_count": 1508,
+    "lang": "es",
+    "profile_background_tile": false
+  },
+  "filter_level": "low",
+  "in_reply_to_user_id_str": null,
+  "favorited": false,
+  "lang": "es"
+}
