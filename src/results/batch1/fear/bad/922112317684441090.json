@@ -1,0 +1,114 @@
+{
+  "in_reply_to_user_id": null,
+  "contributors": null,
+  "in_reply_to_screen_name": null,
+  "retweeted": false,
+  "retweet_count": 0,
+  "timestamp_ms": "1508683683211",
+  "in_reply_to_status_id": null,
+  "id_str": "922112317684441090",
+  "created_at": "Sun Oct 22 14:48:03 +0000 2017",
+  "id": 922112317684441090,
+  "coordinates": null,
+  "favorite_count": 0,
+  "entities": {
+    "user_mentions": [],
+    "symbols": [],
+    "hashtags": [
+      {
+        "text": "YOYAGAN\u00c9",
+        "indices": [
+          123,
+          132
+        ]
+      }
+    ],
+    "urls": []
+  },
+  "reply_count": 0,
+  "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+  "place": {
+    "attributes": {},
+    "url": "https://api.twitter.com/1.1/geo/id/004104c122aeebbd.json",
+    "place_type": "city",
+    "id": "004104c122aeebbd",
+    "country_code": "AR",
+    "name": "Moreno",
+    "country": "Argentina",
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            -58.890754,
+            -34.686158
+          ],
+          [
+            -58.890754,
+            -34.514502
+          ],
+          [
+            -58.713981,
+            -34.514502
+          ],
+          [
+            -58.713981,
+            -34.686158
+          ]
+        ]
+      ]
+    },
+    "full_name": "Moreno, Argentina"
+  },
+  "truncated": false,
+  "in_reply_to_status_id_str": null,
+  "filter_level": "low",
+  "text": "Cuando hay 4 mesas en 3 hay 15 personas en cada una y una mesa que no hay nadie....  y te toca la mesa donde no hay gente. #YOYAGAN\u00c9",
+  "geo": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": false,
+  "favorited": false,
+  "user": {
+    "verified": false,
+    "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/648200813/gmrgi7fkwtfpwhx7o23x.jpeg",
+    "statuses_count": 44173,
+    "screen_name": "FabriNieto",
+    "default_profile_image": false,
+    "time_zone": "Buenos Aires",
+    "name": "Fabb",
+    "id_str": "345774009",
+    "profile_sidebar_border_color": "FFFFFF",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/345774009/1472193103",
+    "created_at": "Sun Jul 31 04:30:23 +0000 2011",
+    "friends_count": 77,
+    "url": "http://www.facebook.com/fabri.nieto",
+    "profile_background_tile": true,
+    "protected": false,
+    "translator_type": "none",
+    "profile_text_color": "F93124",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/910110072805761024/Vx1sy5t__normal.jpg",
+    "listed_count": 2,
+    "notifications": null,
+    "contributors_enabled": false,
+    "is_translator": false,
+    "location": "Bs As. Argentina.",
+    "profile_use_background_image": true,
+    "followers_count": 211,
+    "profile_sidebar_fill_color": "C6262E",
+    "geo_enabled": true,
+    "profile_link_color": "5410AD",
+    "favourites_count": 2404,
+    "following": null,
+    "default_profile": false,
+    "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/648200813/gmrgi7fkwtfpwhx7o23x.jpeg",
+    "profile_background_color": "0A4C59",
+    "id": 345774009,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/910110072805761024/Vx1sy5t__normal.jpg",
+    "lang": "es",
+    "description": "Si no hay amor.. que no haya nada entonces. 16/08/13.\nCarp \ud83d\udc13\u26bd",
+    "follow_request_sent": null,
+    "utc_offset": -10800
+  },
+  "quote_count": 0,
+  "lang": "es"
+}

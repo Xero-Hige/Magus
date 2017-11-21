@@ -1,0 +1,155 @@
+{
+  "in_reply_to_user_id": 175422899,
+  "contributors": null,
+  "id": 922105969219383296,
+  "retweeted": false,
+  "retweet_count": 0,
+  "timestamp_ms": "1508682169619",
+  "in_reply_to_status_id": 921753102218342400,
+  "id_str": "922105969219383296",
+  "coordinates": null,
+  "created_at": "Sun Oct 22 14:22:49 +0000 2017",
+  "quote_count": 0,
+  "favorite_count": 0,
+  "entities": {
+    "user_mentions": [
+      {
+        "indices": [
+          0,
+          9
+        ],
+        "name": "Gabriel Solano",
+        "screen_name": "Solanopo",
+        "id": 175422899,
+        "id_str": "175422899"
+      }
+    ],
+    "symbols": [],
+    "hashtags": [],
+    "urls": [
+      {
+        "expanded_url": "https://twitter.com/i/web/status/922105969219383296",
+        "indices": [
+          116,
+          139
+        ],
+        "url": "https://t.co/2bZCw6Zycl",
+        "display_url": "twitter.com/i/web/status/9\u2026"
+      }
+    ]
+  },
+  "reply_count": 0,
+  "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+  "place": {
+    "attributes": {},
+    "url": "https://api.twitter.com/1.1/geo/id/018f1cde6bad9747.json",
+    "place_type": "city",
+    "id": "018f1cde6bad9747",
+    "country_code": "AR",
+    "name": "Ciudad Aut\u00f3noma de Buenos Aires",
+    "country": "Argentina",
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            -58.531792,
+            -34.674453
+          ],
+          [
+            -58.531792,
+            -34.534177
+          ],
+          [
+            -58.353494,
+            -34.534177
+          ],
+          [
+            -58.353494,
+            -34.674453
+          ]
+        ]
+      ]
+    },
+    "full_name": "Ciudad Aut\u00f3noma de Buenos Aires, Argentina"
+  },
+  "truncated": true,
+  "in_reply_to_status_id_str": "921753102218342400",
+  "in_reply_to_screen_name": "Solanopo",
+  "filter_level": "low",
+  "text": "@Solanopo muerte en ocasi\u00f3n de fuga. como si a un ladr\u00f3n lo atropella un auto cuando se escapa de la polic\u00eda... si\u2026 https://t.co/2bZCw6Zycl",
+  "geo": null,
+  "in_reply_to_user_id_str": "175422899",
+  "is_quote_status": false,
+  "display_text_range": [
+    10,
+    140
+  ],
+  "favorited": false,
+  "user": {
+    "verified": false,
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "statuses_count": 7013,
+    "screen_name": "dgmendez10",
+    "default_profile_image": false,
+    "time_zone": "Pacific Time (US & Canada)",
+    "name": "Diego Garc\u00eda M\u00e9ndez",
+    "id_str": "372464033",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/372464033/1501426097",
+    "created_at": "Mon Sep 12 20:33:57 +0000 2011",
+    "friends_count": 731,
+    "url": null,
+    "profile_background_tile": false,
+    "protected": false,
+    "translator_type": "none",
+    "profile_text_color": "333333",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/772114827544256513/ZBe_iD8u_normal.jpg",
+    "listed_count": 5,
+    "notifications": null,
+    "contributors_enabled": false,
+    "is_translator": false,
+    "location": "Argentina",
+    "profile_use_background_image": true,
+    "followers_count": 400,
+    "profile_sidebar_fill_color": "DDEEF6",
+    "geo_enabled": true,
+    "profile_link_color": "1DA1F2",
+    "favourites_count": 1081,
+    "following": null,
+    "default_profile": true,
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_color": "C0DEED",
+    "id": 372464033,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/772114827544256513/ZBe_iD8u_normal.jpg",
+    "lang": "es",
+    "description": "Emprendedor. A favor del interior y del campo. En contra de la corrupci\u00f3n y antiperonista. Administrador de los grupos MM y El Interior Sale Adelante.",
+    "follow_request_sent": null,
+    "utc_offset": -25200
+  },
+  "extended_tweet": {
+    "entities": {
+      "user_mentions": [
+        {
+          "indices": [
+            0,
+            9
+          ],
+          "name": "Gabriel Solano",
+          "screen_name": "Solanopo",
+          "id": 175422899,
+          "id_str": "175422899"
+        }
+      ],
+      "symbols": [],
+      "hashtags": [],
+      "urls": []
+    },
+    "display_text_range": [
+      10,
+      149
+    ],
+    "full_text": "@Solanopo muerte en ocasi\u00f3n de fuga. como si a un ladr\u00f3n lo atropella un auto cuando se escapa de la polic\u00eda... si violas la ley est\u00e1s expuesto a eso"
+  },
+  "lang": "es"
+}

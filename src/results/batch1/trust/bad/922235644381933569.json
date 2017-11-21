@@ -1,0 +1,175 @@
+{
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "urls": [
+      {
+        "indices": [
+          117,
+          140
+        ],
+        "expanded_url": "https://twitter.com/i/web/status/922235644381933569",
+        "display_url": "twitter.com/i/web/status/9\u2026",
+        "url": "https://t.co/YT7cOofKoB"
+      }
+    ],
+    "user_mentions": [
+      {
+        "indices": [
+          0,
+          12
+        ],
+        "screen_name": "hanalfabeto",
+        "name": "Beto Hanalfa",
+        "id_str": "172976690",
+        "id": 172976690
+      },
+      {
+        "indices": [
+          13,
+          26
+        ],
+        "screen_name": "JORGONZA2007",
+        "name": "JORGON61",
+        "id_str": "457469845",
+        "id": 457469845
+      }
+    ]
+  },
+  "in_reply_to_user_id": 172976690,
+  "created_at": "Sun Oct 22 22:58:06 +0000 2017",
+  "favorite_count": 0,
+  "lang": "es",
+  "reply_count": 0,
+  "id_str": "922235644381933569",
+  "in_reply_to_user_id_str": "172976690",
+  "extended_tweet": {
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "urls": [],
+      "user_mentions": [
+        {
+          "indices": [
+            0,
+            12
+          ],
+          "screen_name": "hanalfabeto",
+          "name": "Beto Hanalfa",
+          "id_str": "172976690",
+          "id": 172976690
+        },
+        {
+          "indices": [
+            13,
+            26
+          ],
+          "screen_name": "JORGONZA2007",
+          "name": "JORGON61",
+          "id_str": "457469845",
+          "id": 457469845
+        }
+      ]
+    },
+    "display_text_range": [
+      27,
+      159
+    ],
+    "full_text": "@hanalfabeto @JORGONZA2007 LAMENTO MUCHO ESTA NOTICIA,RECIEN ME ENTERO,Y TODO MI AFECTO Y SOLIDARIDAD,EN ESTOS CASOS TODA PALABRA ESTA DE MAS.MIS RESPETOS BETO"
+  },
+  "in_reply_to_status_id": 921793173759905792,
+  "timestamp_ms": "1508713086587",
+  "truncated": true,
+  "text": "@hanalfabeto @JORGONZA2007 LAMENTO MUCHO ESTA NOTICIA,RECIEN ME ENTERO,Y TODO MI AFECTO Y SOLIDARIDAD,EN ESTOS CASO\u2026 https://t.co/YT7cOofKoB",
+  "user": {
+    "time_zone": "Buenos Aires",
+    "screen_name": "filosogogriego",
+    "utc_offset": -10800,
+    "created_at": "Thu Apr 11 20:50:49 +0000 2013",
+    "profile_background_tile": false,
+    "notifications": null,
+    "lang": "es",
+    "default_profile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1345270418/1411231102",
+    "id_str": "1345270418",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/513367401316900864/1Mru9t6R_normal.jpeg",
+    "name": "pepe ortiva",
+    "friends_count": 11599,
+    "translator_type": "none",
+    "protected": false,
+    "following": null,
+    "is_translator": false,
+    "follow_request_sent": null,
+    "profile_text_color": "333333",
+    "listed_count": 53,
+    "profile_link_color": "1DA1F2",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "url": null,
+    "id": 1345270418,
+    "favourites_count": 31641,
+    "profile_background_color": "C0DEED",
+    "followers_count": 15211,
+    "statuses_count": 173532,
+    "description": "Fan\u00e1tico de la Democracia, de la Libertad, por supuesto ANTI K Defensor de la Fauna y la Flora, m\u00fasico autodidacta y cabeza dura. Viv\u00ed los 70",
+    "location": "Argentina",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "default_profile_image": false,
+    "verified": false,
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_use_background_image": true,
+    "contributors_enabled": false,
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/513367401316900864/1Mru9t6R_normal.jpeg",
+    "geo_enabled": true
+  },
+  "geo": null,
+  "id": 922235644381933569,
+  "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+  "retweeted": false,
+  "filter_level": "low",
+  "in_reply_to_status_id_str": "921793173759905792",
+  "quote_count": 0,
+  "favorited": false,
+  "coordinates": null,
+  "display_text_range": [
+    27,
+    140
+  ],
+  "retweet_count": 0,
+  "is_quote_status": false,
+  "in_reply_to_screen_name": "hanalfabeto",
+  "contributors": null,
+  "place": {
+    "bounding_box": {
+      "coordinates": [
+        [
+          [
+            -58.531792,
+            -34.674453
+          ],
+          [
+            -58.531792,
+            -34.534177
+          ],
+          [
+            -58.353494,
+            -34.534177
+          ],
+          [
+            -58.353494,
+            -34.674453
+          ]
+        ]
+      ],
+      "type": "Polygon"
+    },
+    "name": "Ciudad Aut\u00f3noma de Buenos Aires",
+    "url": "https://api.twitter.com/1.1/geo/id/018f1cde6bad9747.json",
+    "country_code": "AR",
+    "id": "018f1cde6bad9747",
+    "place_type": "city",
+    "attributes": {},
+    "full_name": "Ciudad Aut\u00f3noma de Buenos Aires, Argentina",
+    "country": "Argentina"
+  }
+}

@@ -1,0 +1,121 @@
+{
+  "entities": {
+    "hashtags": [
+      {
+        "indices": [
+          70,
+          80
+        ],
+        "text": "Verguenza"
+      },
+      {
+        "indices": [
+          81,
+          94
+        ],
+        "text": "HoyCambiamos"
+      }
+    ],
+    "symbols": [],
+    "urls": [],
+    "user_mentions": []
+  },
+  "in_reply_to_user_id": null,
+  "created_at": "Sun Oct 22 23:42:33 +0000 2017",
+  "favorite_count": 0,
+  "lang": "es",
+  "reply_count": 0,
+  "id_str": "922246828275519489",
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_status_id": null,
+  "timestamp_ms": "1508715753035",
+  "text": "La tristeza del clientelismo de Tucum\u00e1n Peronia, Ganaron los Ladrones #Verguenza #HoyCambiamos en la Argentina",
+  "user": {
+    "time_zone": "Santiago",
+    "screen_name": "gooser",
+    "utc_offset": -10800,
+    "created_at": "Wed Jul 30 17:54:31 +0000 2008",
+    "profile_background_tile": true,
+    "notifications": null,
+    "lang": "es",
+    "default_profile": false,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/15663469/1385435127",
+    "id_str": "15663469",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/843357251775750144/4Q2ZlLZI_normal.jpg",
+    "name": "Goose",
+    "friends_count": 929,
+    "translator_type": "none",
+    "protected": false,
+    "following": null,
+    "is_translator": false,
+    "follow_request_sent": null,
+    "profile_text_color": "333333",
+    "listed_count": 13,
+    "profile_link_color": "038543",
+    "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/693038208/800279dc42b081feaed9ee8895f8c771.jpeg",
+    "url": null,
+    "id": 15663469,
+    "favourites_count": 9112,
+    "profile_background_color": "ACDED6",
+    "followers_count": 451,
+    "statuses_count": 15059,
+    "description": "The best is yet to come.",
+    "location": "somewhere over the rainbow",
+    "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/693038208/800279dc42b081feaed9ee8895f8c771.jpeg",
+    "default_profile_image": false,
+    "verified": false,
+    "profile_sidebar_fill_color": "F6F6F6",
+    "profile_use_background_image": true,
+    "contributors_enabled": false,
+    "profile_sidebar_border_color": "FFFFFF",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/843357251775750144/4Q2ZlLZI_normal.jpg",
+    "geo_enabled": true
+  },
+  "geo": null,
+  "id": 922246828275519489,
+  "quote_count": 0,
+  "retweeted": false,
+  "filter_level": "low",
+  "in_reply_to_status_id_str": null,
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "favorited": false,
+  "coordinates": null,
+  "truncated": false,
+  "retweet_count": 0,
+  "is_quote_status": false,
+  "in_reply_to_screen_name": null,
+  "contributors": null,
+  "place": {
+    "bounding_box": {
+      "coordinates": [
+        [
+          [
+            -65.280702,
+            -26.892137
+          ],
+          [
+            -65.280702,
+            -26.79606
+          ],
+          [
+            -65.165573,
+            -26.79606
+          ],
+          [
+            -65.165573,
+            -26.892137
+          ]
+        ]
+      ],
+      "type": "Polygon"
+    },
+    "name": "San Miguel de Tucum\u00e1n",
+    "url": "https://api.twitter.com/1.1/geo/id/0021712c0bd7eec1.json",
+    "country_code": "AR",
+    "id": "0021712c0bd7eec1",
+    "place_type": "city",
+    "attributes": {},
+    "full_name": "San Miguel de Tucum\u00e1n, Argentina",
+    "country": "Argentina"
+  }
+}
