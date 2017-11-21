@@ -7,7 +7,7 @@ from libs.tweet_parser import TweetParser
 
 lexicon = Lexicon("lexicons/es_lexicon.lx", "es")
 
-MAX_PER_ITERATION = 20
+MAX_PER_ITERATION = 80
 
 for batch in range(1, 5):
     for folder, _, files in os.walk("../tweets_autotaged/tweets_bashfull_{}".format(batch)):
@@ -20,7 +20,8 @@ for batch in range(1, 5):
 
         added = 0
         for _file in files:
-            if added > MAX_PER_ITERATION:
+            if len(os.listdir("results/batch{}/{}/good".format(batch, emotion)) +
+                           os.listdir("results/batch{}/{}/bad".format(batch, emotion))) >= MAX_PER_ITERATION:
                 break
 
             tweet_id = _file.split(".")[0]

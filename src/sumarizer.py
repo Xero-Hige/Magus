@@ -23,8 +23,10 @@ for folder, _, filenames in os.walk("results"):
     for filename in filenames:
         file_path = os.path.join(folder, filename)
 
-        with open(file_path) as input_file:
-            parsed_tweet = json.loads(input_file.read())
+        parsed_tweet = TweetParser.parse_from_json_file(file_path)
+        if not parsed_tweet:
+            with open(file_path) as input_file:
+                parsed_tweet = json.loads(input_file.read())
 
         if not parsed_tweet:
             print(file_path)
@@ -42,10 +44,25 @@ for folder, _, filenames in os.walk("results"):
         for word in text_words:
             words[word] = words.get(word, 0) + 1
 
+    if len(values) == 0:
+        continue
+
     with open("evaluation/Result {}_{}_{}".format(batch, emotion, clasification), 'w') as output:
-        output.write(json.dumps(values))
+        for value in values:
+            output.write("{} {}\n".format(value, values[value]))
 
     with open("evaluation/Words {}_{}_{}".format(batch, emotion, clasification), 'w') as output:
         for word in words:
+            if len(word) < 3 or word in ["http", "USER", "URL"]:
+                continue
+
+            output.write("{} ".format(word) * words[word])
+            output.write("\n")
+
+    with open("evaluation/Words {}_{}".format(emotion, clasification), 'a') as output:
+        for word in words:
+            if len(word) < 3 or word in ["http", "USER", "URL", "que"]:
+                continue
+
             output.write("{} ".format(word) * words[word])
             output.write("\n")
