@@ -1,0 +1,151 @@
+{
+  "extended_tweet": {
+    "display_text_range": [
+      0,
+      230
+    ],
+    "entities": {
+      "urls": [],
+      "symbols": [],
+      "hashtags": [],
+      "user_mentions": [
+        {
+          "indices": [
+            0,
+            15
+          ],
+          "name": "traffic MIRANDA",
+          "id_str": "103362571",
+          "screen_name": "trafficMIRANDA",
+          "id": 103362571
+        }
+      ]
+    },
+    "full_text": "@trafficMIRANDA hasta cuando vamos a soportar esta falta de respeto de la Compa\u00f1\u00eda InterCable San Antonio de los Altos Municipio Los Salias sin servicio de internet desde ayer pronta soluci\u00f3n basta de tantos enga\u00f1os a los usuarios"
+  },
+  "favorited": false,
+  "lang": "es",
+  "favorite_count": 0,
+  "reply_count": 0,
+  "geo": null,
+  "contributors": null,
+  "text": "@trafficMIRANDA hasta cuando vamos a soportar esta falta de respeto de la Compa\u00f1\u00eda InterCable San Antonio de los Al\u2026 https://t.co/GAh8rJfz1d",
+  "created_at": "Wed Nov 15 15:55:44 +0000 2017",
+  "place": {
+    "place_type": "city",
+    "full_name": "Caracas, Venezuela",
+    "country": "Venezuela",
+    "name": "Caracas",
+    "url": "https://api.twitter.com/1.1/geo/id/00ec4c32070f5076.json",
+    "country_code": "VE",
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            -66.998581,
+            10.440464
+          ],
+          [
+            -66.998581,
+            10.526614
+          ],
+          [
+            -66.862707,
+            10.526614
+          ],
+          [
+            -66.862707,
+            10.440464
+          ]
+        ]
+      ]
+    },
+    "id": "00ec4c32070f5076",
+    "attributes": {}
+  },
+  "user": {
+    "profile_text_color": "333333",
+    "lang": "es",
+    "location": null,
+    "friends_count": 834,
+    "profile_link_color": "1DA1F2",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/500141836967489537/Jy1G1IGw_normal.jpeg",
+    "contributors_enabled": false,
+    "following": null,
+    "is_translator": false,
+    "verified": false,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/139436341/1408078728",
+    "utc_offset": -14400,
+    "geo_enabled": true,
+    "profile_sidebar_border_color": "C0DEED",
+    "created_at": "Sun May 02 16:13:20 +0000 2010",
+    "description": null,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/500141836967489537/Jy1G1IGw_normal.jpeg",
+    "profile_background_color": "C0DEED",
+    "listed_count": 1,
+    "follow_request_sent": null,
+    "profile_background_tile": false,
+    "followers_count": 301,
+    "name": "Pablo M. Rodriguez",
+    "notifications": null,
+    "default_profile_image": false,
+    "url": null,
+    "favourites_count": 299,
+    "screen_name": "pablomrr",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_use_background_image": true,
+    "translator_type": "none",
+    "time_zone": "Caracas",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "statuses_count": 1146,
+    "id": 139436341,
+    "default_profile": true,
+    "protected": false,
+    "id_str": "139436341"
+  },
+  "in_reply_to_user_id_str": "103362571",
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "filter_level": "low",
+  "is_quote_status": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_user_id": 103362571,
+  "quote_count": 0,
+  "retweeted": false,
+  "in_reply_to_screen_name": "trafficMIRANDA",
+  "retweet_count": 0,
+  "in_reply_to_status_id_str": null,
+  "coordinates": null,
+  "id": 930826662278828032,
+  "truncated": true,
+  "entities": {
+    "urls": [
+      {
+        "url": "https://t.co/GAh8rJfz1d",
+        "display_url": "twitter.com/i/web/status/9\u2026",
+        "indices": [
+          117,
+          140
+        ],
+        "expanded_url": "https://twitter.com/i/web/status/930826662278828032"
+      }
+    ],
+    "symbols": [],
+    "hashtags": [],
+    "user_mentions": [
+      {
+        "indices": [
+          0,
+          15
+        ],
+        "name": "traffic MIRANDA",
+        "id_str": "103362571",
+        "screen_name": "trafficMIRANDA",
+        "id": 103362571
+      }
+    ]
+  },
+  "timestamp_ms": "1510761344867",
+  "id_str": "930826662278828032"
+}

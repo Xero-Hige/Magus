@@ -1,0 +1,129 @@
+{
+  "geo": null,
+  "filter_level": "low",
+  "in_reply_to_status_id": null,
+  "lang": "es",
+  "favorite_count": 0,
+  "coordinates": null,
+  "favorited": false,
+  "place": {
+    "name": "Guayaquil",
+    "full_name": "Guayaquil, Ecuador",
+    "place_type": "city",
+    "country": "Ecuador",
+    "id": "009924a469d7ace1",
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            -80.467605,
+            -3.063716
+          ],
+          [
+            -80.467605,
+            -1.962274
+          ],
+          [
+            -79.714781,
+            -1.962274
+          ],
+          [
+            -79.714781,
+            -3.063716
+          ]
+        ]
+      ]
+    },
+    "attributes": {},
+    "url": "https://api.twitter.com/1.1/geo/id/009924a469d7ace1.json",
+    "country_code": "EC"
+  },
+  "contributors": null,
+  "entities": {
+    "hashtags": [],
+    "urls": [
+      {
+        "display_url": "twitter.com/i/web/status/9\u2026",
+        "expanded_url": "https://twitter.com/i/web/status/930597602932002816",
+        "url": "https://t.co/T51QPxZzCD",
+        "indices": [
+          117,
+          140
+        ]
+      }
+    ],
+    "symbols": [],
+    "user_mentions": []
+  },
+  "id": 930597602932002816,
+  "user": {
+    "followers_count": 7641,
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+    "profile_background_color": "022330",
+    "translator_type": "none",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/828830463095615488/fkaUSQ4D_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/107241277/1504150151",
+    "default_profile": false,
+    "utc_offset": -18000,
+    "lang": "es",
+    "url": "http://www.Rmoralesverduga.blogspot.com",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/828830463095615488/fkaUSQ4D_normal.jpg",
+    "time_zone": "Quito",
+    "profile_sidebar_border_color": "FFFFFF",
+    "profile_use_background_image": true,
+    "id": 107241277,
+    "profile_link_color": "0084B4",
+    "profile_sidebar_fill_color": "C0DFEC",
+    "profile_background_tile": false,
+    "geo_enabled": true,
+    "id_str": "107241277",
+    "verified": false,
+    "name": "Ram\u00f3n MoralesVerduga",
+    "is_translator": false,
+    "notifications": null,
+    "following": null,
+    "friends_count": 1622,
+    "contributors_enabled": false,
+    "screen_name": "Rmoralesverduga",
+    "created_at": "Thu Jan 21 23:28:47 +0000 2010",
+    "profile_text_color": "333333",
+    "favourites_count": 4908,
+    "follow_request_sent": null,
+    "description": "Periodista..Portovejense,vaya donde vaya. @EcuadorTV y panelista de #ALTOQUE por @caravana750. No respondo a acomplejados.",
+    "default_profile_image": false,
+    "location": " Guayaquil - Ecuador",
+    "listed_count": 52,
+    "protected": false,
+    "statuses_count": 49051
+  },
+  "id_str": "930597602932002816",
+  "retweet_count": 0,
+  "retweeted": false,
+  "quote_count": 0,
+  "truncated": true,
+  "in_reply_to_status_id_str": null,
+  "reply_count": 0,
+  "created_at": "Wed Nov 15 00:45:32 +0000 2017",
+  "is_quote_status": false,
+  "in_reply_to_user_id": null,
+  "timestamp_ms": "1510706732863",
+  "text": "La mayor\u00eda de equipos del f\u00fatbol ecuatoriano apoyan la idea de que el torneo nacional 2018 empiece el 4 de febrero.\u2026 https://t.co/T51QPxZzCD",
+  "extended_tweet": {
+    "full_text": "La mayor\u00eda de equipos del f\u00fatbol ecuatoriano apoyan la idea de que el torneo nacional 2018 empiece el 4 de febrero. Todo se aprobar\u00e1 en el Congreso de enero.",
+    "display_text_range": [
+      0,
+      157
+    ],
+    "entities": {
+      "hashtags": [],
+      "urls": [],
+      "symbols": [],
+      "user_mentions": []
+    }
+  },
+  "in_reply_to_user_id_str": null,
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "in_reply_to_screen_name": null
+}

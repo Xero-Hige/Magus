@@ -1,0 +1,129 @@
+{
+  "geo": null,
+  "filter_level": "low",
+  "in_reply_to_status_id": null,
+  "lang": "es",
+  "favorite_count": 0,
+  "coordinates": null,
+  "favorited": false,
+  "place": {
+    "name": "Santiago",
+    "full_name": "Santiago, Chile",
+    "place_type": "city",
+    "country": "Chile",
+    "id": "0010b4cb51ca93d8",
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            -70.692959,
+            -33.478574
+          ],
+          [
+            -70.692959,
+            -33.425749
+          ],
+          [
+            -70.626272,
+            -33.425749
+          ],
+          [
+            -70.626272,
+            -33.478574
+          ]
+        ]
+      ]
+    },
+    "attributes": {},
+    "url": "https://api.twitter.com/1.1/geo/id/0010b4cb51ca93d8.json",
+    "country_code": "CL"
+  },
+  "contributors": null,
+  "entities": {
+    "hashtags": [],
+    "urls": [
+      {
+        "display_url": "twitter.com/i/web/status/9\u2026",
+        "expanded_url": "https://twitter.com/i/web/status/930621741969432577",
+        "url": "https://t.co/oeyLXkD6Ij",
+        "indices": [
+          117,
+          140
+        ]
+      }
+    ],
+    "symbols": [],
+    "user_mentions": []
+  },
+  "id": 930621741969432577,
+  "user": {
+    "followers_count": 1891,
+    "profile_background_image_url": "",
+    "profile_background_color": "F5F8FA",
+    "translator_type": "none",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/929413013261750272/IKAl30kg_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/792920067013021696/1510533638",
+    "default_profile": true,
+    "utc_offset": null,
+    "lang": "es",
+    "url": "http://www.instagram.com/fuckingcarlanga",
+    "profile_background_image_url_https": "",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/929413013261750272/IKAl30kg_normal.jpg",
+    "time_zone": null,
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_use_background_image": true,
+    "id": 792920067013021696,
+    "profile_link_color": "1DA1F2",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_background_tile": false,
+    "geo_enabled": true,
+    "id_str": "792920067013021696",
+    "verified": false,
+    "name": "Cervezadicto\u00ae \u270c\ud83d\ude0e",
+    "is_translator": false,
+    "notifications": null,
+    "following": null,
+    "friends_count": 875,
+    "contributors_enabled": false,
+    "screen_name": "FuckingCarlanga",
+    "created_at": "Mon Oct 31 02:44:10 +0000 2016",
+    "profile_text_color": "333333",
+    "favourites_count": 39180,
+    "follow_request_sent": null,
+    "description": "Esto es Twitter, no se lo tome tan en serio...",
+    "default_profile_image": false,
+    "location": "Fuente Mardoqueo.",
+    "listed_count": 10,
+    "protected": false,
+    "statuses_count": 62745
+  },
+  "id_str": "930621741969432577",
+  "retweet_count": 0,
+  "retweeted": false,
+  "quote_count": 0,
+  "truncated": true,
+  "in_reply_to_status_id_str": null,
+  "reply_count": 0,
+  "created_at": "Wed Nov 15 02:21:28 +0000 2017",
+  "is_quote_status": false,
+  "in_reply_to_user_id": null,
+  "timestamp_ms": "1510712488058",
+  "text": "Oigan, tontit@s: el voto es personal y secreto, dejen de coaccionar a l@s que no tienen la misma preferencia pol\u00edti\u2026 https://t.co/oeyLXkD6Ij",
+  "extended_tweet": {
+    "full_text": "Oigan, tontit@s: el voto es personal y secreto, dejen de coaccionar a l@s que no tienen la misma preferencia pol\u00edtica  que ustedes. Ahuena@s!",
+    "display_text_range": [
+      0,
+      141
+    ],
+    "entities": {
+      "hashtags": [],
+      "urls": [],
+      "symbols": [],
+      "user_mentions": []
+    }
+  },
+  "in_reply_to_user_id_str": null,
+  "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+  "in_reply_to_screen_name": null
+}
