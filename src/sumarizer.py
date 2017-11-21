@@ -47,9 +47,9 @@ for folder, _, filenames in os.walk("results"):
     if len(values) == 0:
         continue
 
-    with open("evaluation/Result {}_{}_{}".format(batch, emotion, clasification), 'w') as output:
+    with open("evaluation/Result.csv".format(batch, emotion, clasification), 'a') as output:
         for value in values:
-            output.write("{} {}\n".format(value, values[value]))
+            output.write("{},{},{},{},{}\n".format(emotion, batch, clasification, value, values[value]))
 
     with open("evaluation/Words {}_{}_{}".format(batch, emotion, clasification), 'w') as output:
         for word in words:
@@ -59,7 +59,7 @@ for folder, _, filenames in os.walk("results"):
             output.write("{} ".format(word) * words[word])
             output.write("\n")
 
-    with open("evaluation/Words {}_{}".format(emotion, clasification), 'a') as output:
+    with open("evaluation/Words {}_{}.txt".format(emotion, clasification), 'a') as output:
         for word in words:
             if len(word) < 3 or word in ["http", "USER", "URL", "que"]:
                 continue
