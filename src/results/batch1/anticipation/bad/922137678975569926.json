@@ -1,0 +1,114 @@
+{
+  "in_reply_to_user_id": null,
+  "contributors": null,
+  "in_reply_to_screen_name": null,
+  "retweeted": false,
+  "retweet_count": 0,
+  "timestamp_ms": "1508689729814",
+  "in_reply_to_status_id": null,
+  "id_str": "922137678975569926",
+  "created_at": "Sun Oct 22 16:28:49 +0000 2017",
+  "id": 922137678975569926,
+  "coordinates": null,
+  "favorite_count": 0,
+  "entities": {
+    "user_mentions": [],
+    "symbols": [],
+    "hashtags": [
+      {
+        "text": "cumpl\u00ed",
+        "indices": [
+          77,
+          84
+        ]
+      }
+    ],
+    "urls": []
+  },
+  "reply_count": 0,
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "place": {
+    "attributes": {},
+    "url": "https://api.twitter.com/1.1/geo/id/0005a92a6b72edeb.json",
+    "place_type": "city",
+    "id": "0005a92a6b72edeb",
+    "country_code": "AR",
+    "name": "Pilar",
+    "country": "Argentina",
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            -58.977471,
+            -34.518913
+          ],
+          [
+            -58.977471,
+            -34.383761
+          ],
+          [
+            -58.737366,
+            -34.383761
+          ],
+          [
+            -58.737366,
+            -34.518913
+          ]
+        ]
+      ]
+    },
+    "full_name": "Pilar, Argentina"
+  },
+  "truncated": false,
+  "in_reply_to_status_id_str": null,
+  "filter_level": "low",
+  "text": "C\u00f3mo siempre. Domingo de felicidad por la posibilidad de poder elegir! Yo ya #cumpl\u00ed con mi voto y vos?",
+  "geo": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": false,
+  "favorited": false,
+  "user": {
+    "verified": false,
+    "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000098072934/d74a3d705638fac31a450b6ff000a599.jpeg",
+    "statuses_count": 9450,
+    "screen_name": "hectorivand",
+    "default_profile_image": false,
+    "time_zone": "Buenos Aires",
+    "name": "I. Van Droogenbroeck",
+    "id_str": "80696545",
+    "profile_sidebar_border_color": "FFFFFF",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/80696545/1413320234",
+    "created_at": "Wed Oct 07 22:34:57 +0000 2009",
+    "friends_count": 1423,
+    "url": "http://www.westconcloudmca.com",
+    "profile_background_tile": false,
+    "protected": false,
+    "translator_type": "none",
+    "profile_text_color": "663B12",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/857344895656361986/SvEmccZp_normal.jpg",
+    "listed_count": 116,
+    "notifications": null,
+    "contributors_enabled": false,
+    "is_translator": false,
+    "location": "Pilar, Argentina",
+    "profile_use_background_image": true,
+    "followers_count": 809,
+    "profile_sidebar_fill_color": "DAECF4",
+    "geo_enabled": true,
+    "profile_link_color": "1B95E0",
+    "favourites_count": 187,
+    "following": null,
+    "default_profile": false,
+    "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000098072934/d74a3d705638fac31a450b6ff000a599.jpeg",
+    "profile_background_color": "C6E2EE",
+    "id": 80696545,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/857344895656361986/SvEmccZp_normal.jpg",
+    "lang": "es",
+    "description": "Kind of Geek - #Cloud #IoT #Startups #Leadership #Golf #Business #Azure #Playstation - I love travel and try cook - Cloud Business Manager at Westcon",
+    "follow_request_sent": null,
+    "utc_offset": -10800
+  },
+  "quote_count": 0,
+  "lang": "es"
+}

@@ -1,0 +1,155 @@
+{
+  "in_reply_to_user_id": 166192078,
+  "contributors": null,
+  "id": 922067127628189698,
+  "retweeted": false,
+  "retweet_count": 0,
+  "timestamp_ms": "1508672909062",
+  "in_reply_to_status_id": 922065594534584320,
+  "id_str": "922067127628189698",
+  "coordinates": null,
+  "created_at": "Sun Oct 22 11:48:29 +0000 2017",
+  "quote_count": 0,
+  "favorite_count": 0,
+  "entities": {
+    "user_mentions": [
+      {
+        "indices": [
+          0,
+          12
+        ],
+        "name": "DiarioVeloz.com",
+        "screen_name": "diarioveloz",
+        "id": 166192078,
+        "id_str": "166192078"
+      }
+    ],
+    "symbols": [],
+    "hashtags": [],
+    "urls": [
+      {
+        "expanded_url": "https://twitter.com/i/web/status/922067127628189698",
+        "indices": [
+          117,
+          140
+        ],
+        "url": "https://t.co/Zcf8UNBq5Q",
+        "display_url": "twitter.com/i/web/status/9\u2026"
+      }
+    ]
+  },
+  "reply_count": 0,
+  "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+  "place": {
+    "attributes": {},
+    "url": "https://api.twitter.com/1.1/geo/id/0191c3b40ed74666.json",
+    "place_type": "city",
+    "id": "0191c3b40ed74666",
+    "country_code": "AR",
+    "name": "Guaymall\u00e9n",
+    "country": "Argentina",
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            -68.838459,
+            -32.942301
+          ],
+          [
+            -68.838459,
+            -32.861169
+          ],
+          [
+            -68.721675,
+            -32.861169
+          ],
+          [
+            -68.721675,
+            -32.942301
+          ]
+        ]
+      ]
+    },
+    "full_name": "Guaymall\u00e9n, Argentina"
+  },
+  "truncated": true,
+  "in_reply_to_status_id_str": "922065594534584320",
+  "in_reply_to_screen_name": "diarioveloz",
+  "filter_level": "low",
+  "text": "@diarioveloz El show que montaron en el sur, todos vestidos de negro, desafiando a las fuerzas de seguridad y al pu\u2026 https://t.co/Zcf8UNBq5Q",
+  "geo": null,
+  "in_reply_to_user_id_str": "166192078",
+  "is_quote_status": false,
+  "display_text_range": [
+    13,
+    140
+  ],
+  "favorited": false,
+  "user": {
+    "verified": false,
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "statuses_count": 30436,
+    "screen_name": "hugexi",
+    "default_profile_image": false,
+    "time_zone": "Buenos Aires",
+    "name": "Hugo Biritos",
+    "id_str": "2753583710",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/2753583710/1410565335",
+    "created_at": "Fri Aug 22 01:36:48 +0000 2014",
+    "friends_count": 5142,
+    "url": null,
+    "profile_background_tile": false,
+    "protected": false,
+    "translator_type": "none",
+    "profile_text_color": "333333",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/659793963268837376/xPRlNIb4_normal.jpg",
+    "listed_count": 24,
+    "notifications": null,
+    "contributors_enabled": false,
+    "is_translator": false,
+    "location": "Mendoza",
+    "profile_use_background_image": true,
+    "followers_count": 5448,
+    "profile_sidebar_fill_color": "DDEEF6",
+    "geo_enabled": true,
+    "profile_link_color": "1DA1F2",
+    "favourites_count": 39922,
+    "following": null,
+    "default_profile": true,
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_color": "C0DEED",
+    "id": 2753583710,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/659793963268837376/xPRlNIb4_normal.jpg",
+    "lang": "es",
+    "description": "Ingeniero El\u00e9ctrico /                                                                                               Profesor Universitario  / Tenista aficionado",
+    "follow_request_sent": null,
+    "utc_offset": -10800
+  },
+  "extended_tweet": {
+    "entities": {
+      "user_mentions": [
+        {
+          "indices": [
+            0,
+            12
+          ],
+          "name": "DiarioVeloz.com",
+          "screen_name": "diarioveloz",
+          "id": 166192078,
+          "id_str": "166192078"
+        }
+      ],
+      "symbols": [],
+      "hashtags": [],
+      "urls": []
+    },
+    "display_text_range": [
+      13,
+      289
+    ],
+    "full_text": "@diarioveloz El show que montaron en el sur, todos vestidos de negro, desafiando a las fuerzas de seguridad y al pueblo argentino, requiere de una log\u00edstica y un financiamiento, pero sobre todo indica que hay detr\u00e1s un Estado Mayor con sus cinco divisiones operando en territorio nacional."
+  },
+  "lang": "es"
+}

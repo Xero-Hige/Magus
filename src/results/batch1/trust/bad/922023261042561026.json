@@ -1,0 +1,129 @@
+{
+  "in_reply_to_user_id": null,
+  "contributors": null,
+  "in_reply_to_screen_name": null,
+  "retweeted": false,
+  "retweet_count": 0,
+  "timestamp_ms": "1508662450453",
+  "in_reply_to_status_id": null,
+  "id_str": "922023261042561026",
+  "created_at": "Sun Oct 22 08:54:10 +0000 2017",
+  "id": 922023261042561026,
+  "coordinates": {
+    "type": "Point",
+    "coordinates": [
+      -70.6684,
+      -33.4577
+    ]
+  },
+  "favorite_count": 0,
+  "entities": {
+    "user_mentions": [],
+    "symbols": [],
+    "hashtags": [],
+    "urls": [
+      {
+        "expanded_url": "https://central132.cl/llamado-128345?1",
+        "indices": [
+          105,
+          128
+        ],
+        "url": "https://t.co/Nwhn9KjZDN",
+        "display_url": "central132.cl/llamado-128345\u2026"
+      }
+    ]
+  },
+  "reply_count": 0,
+  "source": "<a href=\"https://central132.cl\" rel=\"nofollow\">Central132</a>",
+  "place": {
+    "attributes": {},
+    "url": "https://api.twitter.com/1.1/geo/id/0010b4cb51ca93d8.json",
+    "place_type": "city",
+    "id": "0010b4cb51ca93d8",
+    "country_code": "CL",
+    "name": "Santiago",
+    "country": "Chile",
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            -70.692959,
+            -33.478574
+          ],
+          [
+            -70.692959,
+            -33.425749
+          ],
+          [
+            -70.626272,
+            -33.425749
+          ],
+          [
+            -70.626272,
+            -33.478574
+          ]
+        ]
+      ]
+    },
+    "full_name": "Santiago, Chile"
+  },
+  "truncated": false,
+  "in_reply_to_status_id_str": null,
+  "filter_level": "low",
+  "text": "05:53 en Santiago Llamado a fuego en pastizales y/o basura (10-2) B17 Almirante Blanco Encalada y Espa\u00f1a https://t.co/Nwhn9KjZDN",
+  "geo": {
+    "type": "Point",
+    "coordinates": [
+      -33.4577,
+      -70.6684
+    ]
+  },
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": false,
+  "possibly_sensitive": false,
+  "favorited": false,
+  "user": {
+    "verified": false,
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+    "statuses_count": 86273,
+    "screen_name": "J_Echevarria_R",
+    "default_profile_image": false,
+    "time_zone": "Santiago",
+    "name": "Jes\u00fas Echevarr\u00eda R.",
+    "id_str": "265066642",
+    "profile_sidebar_border_color": "A8C7F7",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/265066642/1503448966",
+    "created_at": "Sat Mar 12 23:46:35 +0000 2011",
+    "friends_count": 524,
+    "url": null,
+    "profile_background_tile": false,
+    "protected": false,
+    "translator_type": "none",
+    "profile_text_color": "333333",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/825462384332570624/XT0j8Bs0_normal.jpg",
+    "listed_count": 13,
+    "notifications": null,
+    "contributors_enabled": false,
+    "is_translator": false,
+    "location": "Santiago",
+    "profile_use_background_image": true,
+    "followers_count": 477,
+    "profile_sidebar_fill_color": "C0DFEC",
+    "geo_enabled": true,
+    "profile_link_color": "0084B4",
+    "favourites_count": 377,
+    "following": null,
+    "default_profile": false,
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+    "profile_background_color": "022330",
+    "id": 265066642,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/825462384332570624/XT0j8Bs0_normal.jpg",
+    "lang": "es",
+    "description": null,
+    "follow_request_sent": null,
+    "utc_offset": -10800
+  },
+  "quote_count": 0,
+  "lang": "es"
+}

@@ -1,0 +1,174 @@
+{
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "urls": [
+      {
+        "indices": [
+          117,
+          140
+        ],
+        "expanded_url": "https://twitter.com/i/web/status/922260752932704256",
+        "display_url": "twitter.com/i/web/status/9\u2026",
+        "url": "https://t.co/FcmRcuR2tl"
+      }
+    ],
+    "user_mentions": [
+      {
+        "indices": [
+          0,
+          11
+        ],
+        "screen_name": "jotaalonso",
+        "name": "Juan Alonso",
+        "id_str": "124010482",
+        "id": 124010482
+      },
+      {
+        "indices": [
+          12,
+          21
+        ],
+        "screen_name": "LambareP",
+        "name": "Lambare Paragua",
+        "id_str": "2858987100",
+        "id": 2858987100
+      }
+    ]
+  },
+  "in_reply_to_user_id": 124010482,
+  "created_at": "Mon Oct 23 00:37:52 +0000 2017",
+  "favorite_count": 0,
+  "lang": "es",
+  "reply_count": 0,
+  "id_str": "922260752932704256",
+  "in_reply_to_user_id_str": "124010482",
+  "extended_tweet": {
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "urls": [],
+      "user_mentions": [
+        {
+          "indices": [
+            0,
+            11
+          ],
+          "screen_name": "jotaalonso",
+          "name": "Juan Alonso",
+          "id_str": "124010482",
+          "id": 124010482
+        },
+        {
+          "indices": [
+            12,
+            21
+          ],
+          "screen_name": "LambareP",
+          "name": "Lambare Paragua",
+          "id_str": "2858987100",
+          "id": 2858987100
+        }
+      ]
+    },
+    "display_text_range": [
+      22,
+      157
+    ],
+    "full_text": "@jotaalonso @LambareP Mi humilde, pero eterno agradecimiento por tu accionar en el doloroso caso de S.M. No te conoc\u00eda pero, sin dudas, sos una gran persona."
+  },
+  "in_reply_to_status_id": 921792293576892418,
+  "timestamp_ms": "1508719072932",
+  "truncated": true,
+  "text": "@jotaalonso @LambareP Mi humilde, pero eterno agradecimiento por tu accionar en el doloroso caso de S.M. No te cono\u2026 https://t.co/FcmRcuR2tl",
+  "user": {
+    "time_zone": null,
+    "screen_name": "goudgino",
+    "utc_offset": null,
+    "created_at": "Tue Sep 14 02:30:17 +0000 2010",
+    "profile_background_tile": false,
+    "notifications": null,
+    "lang": "es",
+    "default_profile": true,
+    "follow_request_sent": null,
+    "id_str": "190494265",
+    "profile_image_url": "http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+    "name": "Roberto J. Mart\u00ednez",
+    "friends_count": 498,
+    "translator_type": "none",
+    "protected": false,
+    "following": null,
+    "is_translator": false,
+    "profile_text_color": "333333",
+    "listed_count": 13,
+    "profile_link_color": "1DA1F2",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "url": null,
+    "id": 190494265,
+    "favourites_count": 8191,
+    "profile_background_color": "C0DEED",
+    "followers_count": 543,
+    "statuses_count": 20377,
+    "description": null,
+    "location": null,
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "default_profile_image": false,
+    "verified": false,
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_use_background_image": true,
+    "contributors_enabled": false,
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_image_url_https": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+    "geo_enabled": true
+  },
+  "geo": null,
+  "id": 922260752932704256,
+  "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+  "retweeted": false,
+  "filter_level": "low",
+  "in_reply_to_status_id_str": "921792293576892418",
+  "quote_count": 0,
+  "favorited": false,
+  "coordinates": null,
+  "display_text_range": [
+    22,
+    140
+  ],
+  "retweet_count": 0,
+  "is_quote_status": false,
+  "in_reply_to_screen_name": "jotaalonso",
+  "contributors": null,
+  "place": {
+    "bounding_box": {
+      "coordinates": [
+        [
+          [
+            -68.91592,
+            -32.904531
+          ],
+          [
+            -68.91592,
+            -32.862154
+          ],
+          [
+            -68.817455,
+            -32.862154
+          ],
+          [
+            -68.817455,
+            -32.904531
+          ]
+        ]
+      ],
+      "type": "Polygon"
+    },
+    "name": "Mendoza",
+    "url": "https://api.twitter.com/1.1/geo/id/00054d3a0a8df14e.json",
+    "country_code": "AR",
+    "id": "00054d3a0a8df14e",
+    "place_type": "city",
+    "attributes": {},
+    "full_name": "Mendoza, Argentina",
+    "country": "Argentina"
+  }
+}

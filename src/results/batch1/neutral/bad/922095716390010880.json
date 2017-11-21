@@ -1,0 +1,106 @@
+{
+  "in_reply_to_user_id": null,
+  "contributors": null,
+  "in_reply_to_screen_name": null,
+  "retweeted": false,
+  "retweet_count": 0,
+  "timestamp_ms": "1508679725154",
+  "in_reply_to_status_id": null,
+  "id_str": "922095716390010880",
+  "created_at": "Sun Oct 22 13:42:05 +0000 2017",
+  "id": 922095716390010880,
+  "coordinates": null,
+  "favorite_count": 0,
+  "entities": {
+    "user_mentions": [],
+    "symbols": [],
+    "hashtags": [],
+    "urls": []
+  },
+  "reply_count": 0,
+  "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+  "place": {
+    "attributes": {},
+    "url": "https://api.twitter.com/1.1/geo/id/0010b4cb51ca93d8.json",
+    "place_type": "city",
+    "id": "0010b4cb51ca93d8",
+    "country_code": "CL",
+    "name": "Santiago",
+    "country": "Chile",
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            -70.692959,
+            -33.478574
+          ],
+          [
+            -70.692959,
+            -33.425749
+          ],
+          [
+            -70.626272,
+            -33.425749
+          ],
+          [
+            -70.626272,
+            -33.478574
+          ]
+        ]
+      ]
+    },
+    "full_name": "Santiago, Chile"
+  },
+  "truncated": false,
+  "in_reply_to_status_id_str": null,
+  "filter_level": "low",
+  "text": "Las franjas editoriales son burdas, y de mala clase. Los creativos se fueron al chancho una tontera, circo.",
+  "geo": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": false,
+  "favorited": false,
+  "user": {
+    "verified": false,
+    "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000117470455/8756f6c802348b3688433d966ad2035a.jpeg",
+    "statuses_count": 149131,
+    "screen_name": "fran_gaete",
+    "default_profile_image": false,
+    "time_zone": "Santiago",
+    "name": "Fran Gaete",
+    "id_str": "81833532",
+    "profile_sidebar_border_color": "FFFFFF",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/81833532/1433696756",
+    "created_at": "Mon Oct 12 12:46:30 +0000 2009",
+    "friends_count": 794,
+    "url": null,
+    "profile_background_tile": true,
+    "protected": false,
+    "translator_type": "regular",
+    "profile_text_color": "0A070A",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/915302559660769280/OL1JL0sn_normal.jpg",
+    "listed_count": 39,
+    "notifications": null,
+    "contributors_enabled": false,
+    "is_translator": false,
+    "location": "Santiago \u2605",
+    "profile_use_background_image": true,
+    "followers_count": 2294,
+    "profile_sidebar_fill_color": "FFFFFF",
+    "geo_enabled": true,
+    "profile_link_color": "1AB851",
+    "favourites_count": 12062,
+    "following": null,
+    "default_profile": false,
+    "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000117470455/8756f6c802348b3688433d966ad2035a.jpeg",
+    "profile_background_color": "0F665C",
+    "id": 81833532,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/915302559660769280/OL1JL0sn_normal.jpg",
+    "lang": "en",
+    "description": "Periodista amante de series vintage. La m\u00fasica es mi mundo, leer. Amo el caf\u00e9. Escritora de cuentos de fantas\u00edas. Seudo dibujante. Libro Amigo. -fotos",
+    "follow_request_sent": null,
+    "utc_offset": -10800
+  },
+  "quote_count": 0,
+  "lang": "es"
+}

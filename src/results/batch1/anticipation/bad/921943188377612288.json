@@ -1,0 +1,155 @@
+{
+  "in_reply_to_user_id": 160744644,
+  "contributors": null,
+  "id": 921943188377612288,
+  "retweeted": false,
+  "retweet_count": 0,
+  "timestamp_ms": "1508643359642",
+  "in_reply_to_status_id": 921941887073865728,
+  "id_str": "921943188377612288",
+  "coordinates": null,
+  "created_at": "Sun Oct 22 03:35:59 +0000 2017",
+  "quote_count": 0,
+  "favorite_count": 0,
+  "entities": {
+    "user_mentions": [
+      {
+        "indices": [
+          0,
+          14
+        ],
+        "name": "Flavio Buccino",
+        "screen_name": "FlavioBuccino",
+        "id": 160744644,
+        "id_str": "160744644"
+      }
+    ],
+    "symbols": [],
+    "hashtags": [],
+    "urls": [
+      {
+        "expanded_url": "https://twitter.com/i/web/status/921943188377612288",
+        "indices": [
+          116,
+          139
+        ],
+        "url": "https://t.co/jr9hA2lj6H",
+        "display_url": "twitter.com/i/web/status/9\u2026"
+      }
+    ]
+  },
+  "reply_count": 0,
+  "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+  "place": {
+    "attributes": {},
+    "url": "https://api.twitter.com/1.1/geo/id/30e5bcffda059c80.json",
+    "place_type": "admin",
+    "id": "30e5bcffda059c80",
+    "country_code": "AR",
+    "name": "Mendoza",
+    "country": "Argentina",
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            -70.583131,
+            -37.577857
+          ],
+          [
+            -70.583131,
+            -31.967888
+          ],
+          [
+            -66.502313,
+            -31.967888
+          ],
+          [
+            -66.502313,
+            -37.577857
+          ]
+        ]
+      ]
+    },
+    "full_name": "Mendoza, Argentina"
+  },
+  "truncated": true,
+  "in_reply_to_status_id_str": "921941887073865728",
+  "in_reply_to_screen_name": "FlavioBuccino",
+  "filter_level": "low",
+  "text": "@FlavioBuccino Volver a convivir en paz es lo que pido \u00bfqu\u00e9 otra queda? Reconciliar las diferencias es lo ut\u00f3pico,\u2026 https://t.co/jr9hA2lj6H",
+  "geo": null,
+  "in_reply_to_user_id_str": "160744644",
+  "is_quote_status": false,
+  "display_text_range": [
+    15,
+    140
+  ],
+  "favorited": false,
+  "user": {
+    "verified": false,
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+    "statuses_count": 1874,
+    "screen_name": "AEmiliusRequiem",
+    "default_profile_image": false,
+    "time_zone": "Buenos Aires",
+    "name": "\u00c6milius \ud83c\udfac",
+    "id_str": "987890834",
+    "profile_sidebar_border_color": "000000",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/987890834/1479877879",
+    "created_at": "Tue Dec 04 02:48:52 +0000 2012",
+    "friends_count": 541,
+    "url": null,
+    "profile_background_tile": false,
+    "protected": false,
+    "translator_type": "none",
+    "profile_text_color": "000000",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/830255874513960962/mwFosMoS_normal.jpg",
+    "listed_count": 7,
+    "notifications": null,
+    "contributors_enabled": false,
+    "is_translator": false,
+    "location": "Mendoza, Argentina",
+    "profile_use_background_image": false,
+    "followers_count": 127,
+    "profile_sidebar_fill_color": "000000",
+    "geo_enabled": true,
+    "profile_link_color": "ABB8C2",
+    "favourites_count": 9525,
+    "following": null,
+    "default_profile": false,
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+    "profile_background_color": "000000",
+    "id": 987890834,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/830255874513960962/mwFosMoS_normal.jpg",
+    "lang": "en",
+    "description": "I know my place. Maybe that's why I live inside my own head.",
+    "follow_request_sent": null,
+    "utc_offset": -10800
+  },
+  "extended_tweet": {
+    "entities": {
+      "user_mentions": [
+        {
+          "indices": [
+            0,
+            14
+          ],
+          "name": "Flavio Buccino",
+          "screen_name": "FlavioBuccino",
+          "id": 160744644,
+          "id_str": "160744644"
+        }
+      ],
+      "symbols": [],
+      "hashtags": [],
+      "urls": []
+    },
+    "display_text_range": [
+      15,
+      155
+    ],
+    "full_text": "@FlavioBuccino Volver a convivir en paz es lo que pido \u00bfqu\u00e9 otra queda? Reconciliar las diferencias es lo ut\u00f3pico, sobre todo cdo se insiste con la mentira"
+  },
+  "lang": "es"
+}

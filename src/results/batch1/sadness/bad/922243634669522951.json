@@ -1,0 +1,175 @@
+{
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "urls": [
+      {
+        "indices": [
+          117,
+          140
+        ],
+        "expanded_url": "https://twitter.com/i/web/status/922243634669522951",
+        "display_url": "twitter.com/i/web/status/9\u2026",
+        "url": "https://t.co/QxyIpVcoGK"
+      }
+    ],
+    "user_mentions": [
+      {
+        "indices": [
+          0,
+          10
+        ],
+        "screen_name": "alinitads",
+        "name": "Loquibambi",
+        "id_str": "264520459",
+        "id": 264520459
+      },
+      {
+        "indices": [
+          11,
+          23
+        ],
+        "screen_name": "PJudicialUY",
+        "name": "Poder Judicial UY",
+        "id_str": "703210822646935553",
+        "id": 703210822646935553
+      }
+    ]
+  },
+  "in_reply_to_user_id": 264520459,
+  "created_at": "Sun Oct 22 23:29:51 +0000 2017",
+  "favorite_count": 0,
+  "lang": "es",
+  "reply_count": 0,
+  "id_str": "922243634669522951",
+  "in_reply_to_user_id_str": "264520459",
+  "extended_tweet": {
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "urls": [],
+      "user_mentions": [
+        {
+          "indices": [
+            0,
+            10
+          ],
+          "screen_name": "alinitads",
+          "name": "Loquibambi",
+          "id_str": "264520459",
+          "id": 264520459
+        },
+        {
+          "indices": [
+            11,
+            23
+          ],
+          "screen_name": "PJudicialUY",
+          "name": "Poder Judicial UY",
+          "id_str": "703210822646935553",
+          "id": 703210822646935553
+        }
+      ]
+    },
+    "display_text_range": [
+      24,
+      164
+    ],
+    "full_text": "@alinitads @PJudicialUY Es parte del nuevo sistema de trabajo que hay por la entrada en vigencia del nuevo c\u00f3digo de proceso penal en Uruguay. Creo que es positivo."
+  },
+  "in_reply_to_status_id": 922223266009317378,
+  "timestamp_ms": "1508714991620",
+  "truncated": true,
+  "text": "@alinitads @PJudicialUY Es parte del nuevo sistema de trabajo que hay por la entrada en vigencia del nuevo c\u00f3digo d\u2026 https://t.co/QxyIpVcoGK",
+  "user": {
+    "time_zone": "Brasilia",
+    "screen_name": "emekavoces",
+    "utc_offset": -7200,
+    "created_at": "Fri Apr 01 17:01:58 +0000 2011",
+    "profile_background_tile": true,
+    "notifications": null,
+    "lang": "es",
+    "default_profile": false,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/275618466/1503265999",
+    "id_str": "275618466",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/743131709814771712/eCClftgH_normal.jpg",
+    "name": "Marcelo Umpierrez",
+    "friends_count": 15600,
+    "translator_type": "none",
+    "protected": false,
+    "following": null,
+    "is_translator": false,
+    "follow_request_sent": null,
+    "profile_text_color": "333333",
+    "listed_count": 180,
+    "profile_link_color": "E81C4F",
+    "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/754847531/a2ee1db31231dac4bbd1038176773199.jpeg",
+    "url": "http://www.instagram.com/fotopunta",
+    "id": 275618466,
+    "favourites_count": 75145,
+    "profile_background_color": "131516",
+    "followers_count": 23224,
+    "statuses_count": 71563,
+    "description": "#Photojournalist #News, #freelance, Comunicador, fotos y videos #Drone, Diario El Observador, Carve 850AM, Radio Mitre AM790, Rami, Cori, #Aviador \u2708\u2708 \ud83d\udd0a",
+    "location": "PUNTA DEL ESTE, URUGUAY",
+    "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/754847531/a2ee1db31231dac4bbd1038176773199.jpeg",
+    "default_profile_image": false,
+    "verified": true,
+    "profile_sidebar_fill_color": "EFEFEF",
+    "profile_use_background_image": true,
+    "contributors_enabled": false,
+    "profile_sidebar_border_color": "FFFFFF",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/743131709814771712/eCClftgH_normal.jpg",
+    "geo_enabled": true
+  },
+  "geo": null,
+  "id": 922243634669522951,
+  "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+  "retweeted": false,
+  "filter_level": "low",
+  "in_reply_to_status_id_str": "922223266009317378",
+  "quote_count": 0,
+  "favorited": false,
+  "coordinates": null,
+  "display_text_range": [
+    24,
+    140
+  ],
+  "retweet_count": 0,
+  "is_quote_status": false,
+  "in_reply_to_screen_name": "alinitads",
+  "contributors": null,
+  "place": {
+    "bounding_box": {
+      "coordinates": [
+        [
+          [
+            -58.491052,
+            -34.980163
+          ],
+          [
+            -58.491052,
+            -30.085693
+          ],
+          [
+            -53.071505,
+            -30.085693
+          ],
+          [
+            -53.071505,
+            -34.980163
+          ]
+        ]
+      ],
+      "type": "Polygon"
+    },
+    "name": "Uruguay",
+    "url": "https://api.twitter.com/1.1/geo/id/d0f5be1262dee9aa.json",
+    "country_code": "UY",
+    "id": "d0f5be1262dee9aa",
+    "place_type": "country",
+    "attributes": {},
+    "full_name": "Uruguay",
+    "country": "Uruguay"
+  }
+}

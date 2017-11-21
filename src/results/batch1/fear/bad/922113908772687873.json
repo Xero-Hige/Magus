@@ -1,0 +1,238 @@
+{
+  "in_reply_to_user_id": null,
+  "contributors": null,
+  "id": 922113908772687873,
+  "retweeted": false,
+  "retweet_count": 0,
+  "timestamp_ms": "1508684062556",
+  "in_reply_to_status_id": null,
+  "id_str": "922113908772687873",
+  "coordinates": null,
+  "created_at": "Sun Oct 22 14:54:22 +0000 2017",
+  "quote_count": 0,
+  "favorite_count": 0,
+  "entities": {
+    "user_mentions": [],
+    "symbols": [],
+    "hashtags": [],
+    "urls": [
+      {
+        "expanded_url": "https://twitter.com/i/web/status/922113908772687873",
+        "indices": [
+          117,
+          140
+        ],
+        "url": "https://t.co/8kk3KcKUw3",
+        "display_url": "twitter.com/i/web/status/9\u2026"
+      }
+    ]
+  },
+  "reply_count": 0,
+  "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+  "place": {
+    "attributes": {},
+    "url": "https://api.twitter.com/1.1/geo/id/0086c37e4416111e.json",
+    "place_type": "city",
+    "id": "0086c37e4416111e",
+    "country_code": "AR",
+    "name": "San Isidro",
+    "country": "Argentina",
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            -58.600305,
+            -34.530168
+          ],
+          [
+            -58.600305,
+            -34.450269
+          ],
+          [
+            -58.481209,
+            -34.450269
+          ],
+          [
+            -58.481209,
+            -34.530168
+          ]
+        ]
+      ]
+    },
+    "full_name": "San Isidro, Argentina"
+  },
+  "truncated": true,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_screen_name": null,
+  "filter_level": "low",
+  "text": "Tener la maldici\u00f3n o bendici\u00f3n de ver siempre un poco m\u00e1s all\u00e1, te hace perder el poder de ver lo que estuvo siempr\u2026 https://t.co/8kk3KcKUw3",
+  "geo": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": false,
+  "possibly_sensitive": false,
+  "display_text_range": [
+    0,
+    140
+  ],
+  "favorited": false,
+  "user": {
+    "verified": false,
+    "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/495562832264458240/N90ZgJHo.jpeg",
+    "statuses_count": 4321,
+    "screen_name": "dnimlab",
+    "default_profile_image": false,
+    "time_zone": "Santiago",
+    "name": "dnimlab",
+    "id_str": "465136707",
+    "profile_sidebar_border_color": "FFFFFF",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/465136707/1507825613",
+    "created_at": "Mon Jan 16 00:51:55 +0000 2012",
+    "friends_count": 596,
+    "url": "http://www.dnimlab.com",
+    "profile_background_tile": true,
+    "protected": false,
+    "translator_type": "none",
+    "profile_text_color": "333333",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/918512122857959424/adMtlz79_normal.jpg",
+    "listed_count": 5,
+    "notifications": null,
+    "contributors_enabled": false,
+    "is_translator": false,
+    "location": "San Isidro, Argentina",
+    "profile_use_background_image": true,
+    "followers_count": 256,
+    "profile_sidebar_fill_color": "DDEEF6",
+    "geo_enabled": true,
+    "profile_link_color": "06388F",
+    "favourites_count": 749,
+    "following": null,
+    "default_profile": false,
+    "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/495562832264458240/N90ZgJHo.jpeg",
+    "profile_background_color": "050505",
+    "id": 465136707,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/918512122857959424/adMtlz79_normal.jpg",
+    "lang": "es",
+    "description": "Buscadora de tendencias. Hacedora de Denim & Dnimlab [1994].   Autora de Teor\u00edas del Denim \ud83d\udc99\ud83d\udc56\u270d\ufe0f Ar|Uy|Ua  FB & IG /dnimlab #KeepSearching #BlissHappens",
+    "follow_request_sent": null,
+    "utc_offset": -10800
+  },
+  "extended_tweet": {
+    "entities": {
+      "user_mentions": [],
+      "symbols": [],
+      "hashtags": [],
+      "urls": [],
+      "media": [
+        {
+          "indices": [
+            122,
+            145
+          ],
+          "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/DMwBosfX0AAFsYS.jpg",
+          "video_info": {
+            "variants": [
+              {
+                "bitrate": 0,
+                "url": "https://video.twimg.com/tweet_video/DMwBosfX0AAFsYS.mp4",
+                "content_type": "video/mp4"
+              }
+            ],
+            "aspect_ratio": [
+              250,
+              147
+            ]
+          },
+          "url": "https://t.co/lgBQjgFCSm",
+          "expanded_url": "https://twitter.com/dnimlab/status/922113908772687873/photo/1",
+          "id": 922113822353248256,
+          "sizes": {
+            "medium": {
+              "resize": "fit",
+              "w": 500,
+              "h": 294
+            },
+            "large": {
+              "resize": "fit",
+              "w": 500,
+              "h": 294
+            },
+            "small": {
+              "resize": "fit",
+              "w": 340,
+              "h": 200
+            },
+            "thumb": {
+              "resize": "crop",
+              "w": 150,
+              "h": 150
+            }
+          },
+          "media_url": "http://pbs.twimg.com/tweet_video_thumb/DMwBosfX0AAFsYS.jpg",
+          "id_str": "922113822353248256",
+          "display_url": "pic.twitter.com/lgBQjgFCSm",
+          "type": "animated_gif"
+        }
+      ]
+    },
+    "display_text_range": [
+      0,
+      121
+    ],
+    "extended_entities": {
+      "media": [
+        {
+          "indices": [
+            122,
+            145
+          ],
+          "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/DMwBosfX0AAFsYS.jpg",
+          "video_info": {
+            "variants": [
+              {
+                "bitrate": 0,
+                "url": "https://video.twimg.com/tweet_video/DMwBosfX0AAFsYS.mp4",
+                "content_type": "video/mp4"
+              }
+            ],
+            "aspect_ratio": [
+              250,
+              147
+            ]
+          },
+          "url": "https://t.co/lgBQjgFCSm",
+          "expanded_url": "https://twitter.com/dnimlab/status/922113908772687873/photo/1",
+          "id": 922113822353248256,
+          "sizes": {
+            "medium": {
+              "resize": "fit",
+              "w": 500,
+              "h": 294
+            },
+            "large": {
+              "resize": "fit",
+              "w": 500,
+              "h": 294
+            },
+            "small": {
+              "resize": "fit",
+              "w": 340,
+              "h": 200
+            },
+            "thumb": {
+              "resize": "crop",
+              "w": 150,
+              "h": 150
+            }
+          },
+          "media_url": "http://pbs.twimg.com/tweet_video_thumb/DMwBosfX0AAFsYS.jpg",
+          "id_str": "922113822353248256",
+          "display_url": "pic.twitter.com/lgBQjgFCSm",
+          "type": "animated_gif"
+        }
+      ]
+    },
+    "full_text": "Tener la maldici\u00f3n o bendici\u00f3n de ver siempre un poco m\u00e1s all\u00e1, te hace perder el poder de ver lo que estuvo siempre ahi. https://t.co/lgBQjgFCSm"
+  },
+  "lang": "es"
+}

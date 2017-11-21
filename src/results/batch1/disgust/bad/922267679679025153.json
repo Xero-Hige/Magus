@@ -1,0 +1,140 @@
+{
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "urls": [
+      {
+        "indices": [
+          116,
+          139
+        ],
+        "expanded_url": "https://twitter.com/i/web/status/922267679679025153",
+        "display_url": "twitter.com/i/web/status/9\u2026",
+        "url": "https://t.co/IgczOM2Aeq"
+      }
+    ],
+    "user_mentions": []
+  },
+  "in_reply_to_user_id": null,
+  "created_at": "Mon Oct 23 01:05:24 +0000 2017",
+  "favorite_count": 0,
+  "lang": "es",
+  "reply_count": 0,
+  "id_str": "922267679679025153",
+  "in_reply_to_user_id_str": null,
+  "extended_tweet": {
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "urls": [
+        {
+          "indices": [
+            223,
+            246
+          ],
+          "expanded_url": "https://youtu.be/zC30BYR3CUk",
+          "display_url": "youtu.be/zC30BYR3CUk",
+          "url": "https://t.co/iEZRmst1nK"
+        }
+      ],
+      "user_mentions": []
+    },
+    "display_text_range": [
+      0,
+      246
+    ],
+    "full_text": "Cada pulgada de cielo tiene una estrella\nCada pulgada de piel tiene una cicatriz\nSupongo que lo tenemos todo ahora\n\nCada cent\u00edmetro de espacio en tu cabeza\nEst\u00e1 lleno de las cosas que lees\nSupongo que lo tienes todo ahora\n\nhttps://t.co/iEZRmst1nK"
+  },
+  "in_reply_to_status_id": null,
+  "timestamp_ms": "1508720724397",
+  "possibly_sensitive": false,
+  "text": "Cada pulgada de cielo tiene una estrella\nCada pulgada de piel tiene una cicatriz\nSupongo que lo tenemos todo ahora\u2026 https://t.co/IgczOM2Aeq",
+  "user": {
+    "time_zone": "Santiago",
+    "screen_name": "miguebustamante",
+    "utc_offset": -10800,
+    "created_at": "Tue Mar 02 22:00:17 +0000 2010",
+    "profile_background_tile": true,
+    "notifications": null,
+    "lang": "es",
+    "default_profile": false,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/119173326/1463243646",
+    "id_str": "119173326",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/902247213014900736/TdBXYNlz_normal.jpg",
+    "name": "Miguel",
+    "friends_count": 2203,
+    "translator_type": "none",
+    "protected": false,
+    "following": null,
+    "is_translator": false,
+    "follow_request_sent": null,
+    "profile_text_color": "333333",
+    "listed_count": 10,
+    "profile_link_color": "0084B4",
+    "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/176332982/chaplin-charlie-charlie-chaplin-the-kid-1219738.jpg",
+    "url": null,
+    "id": 119173326,
+    "favourites_count": 5093,
+    "profile_background_color": "C0DEED",
+    "followers_count": 1505,
+    "statuses_count": 23185,
+    "description": "LOVE WILL TEAR US APART",
+    "location": "Los Angeles, chile",
+    "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/176332982/chaplin-charlie-charlie-chaplin-the-kid-1219738.jpg",
+    "default_profile_image": false,
+    "verified": false,
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_use_background_image": true,
+    "contributors_enabled": false,
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/902247213014900736/TdBXYNlz_normal.jpg",
+    "geo_enabled": true
+  },
+  "geo": null,
+  "id": 922267679679025153,
+  "quote_count": 0,
+  "retweeted": false,
+  "filter_level": "low",
+  "in_reply_to_status_id_str": null,
+  "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+  "favorited": false,
+  "coordinates": null,
+  "truncated": true,
+  "retweet_count": 0,
+  "is_quote_status": false,
+  "in_reply_to_screen_name": null,
+  "contributors": null,
+  "place": {
+    "bounding_box": {
+      "coordinates": [
+        [
+          [
+            -72.683564,
+            -37.658769
+          ],
+          [
+            -72.683564,
+            -37.173636
+          ],
+          [
+            -72.042058,
+            -37.173636
+          ],
+          [
+            -72.042058,
+            -37.658769
+          ]
+        ]
+      ],
+      "type": "Polygon"
+    },
+    "name": "Los \u00c1ngeles",
+    "url": "https://api.twitter.com/1.1/geo/id/01c8e14c184d4432.json",
+    "country_code": "CL",
+    "id": "01c8e14c184d4432",
+    "place_type": "city",
+    "attributes": {},
+    "full_name": "Los \u00c1ngeles, Chile",
+    "country": "Chile"
+  }
+}

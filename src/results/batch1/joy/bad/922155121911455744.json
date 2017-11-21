@@ -1,0 +1,121 @@
+{
+  "in_reply_to_user_id": null,
+  "contributors": null,
+  "in_reply_to_screen_name": null,
+  "retweeted": false,
+  "retweet_count": 0,
+  "timestamp_ms": "1508693888534",
+  "in_reply_to_status_id": null,
+  "id_str": "922155121911455744",
+  "created_at": "Sun Oct 22 17:38:08 +0000 2017",
+  "id": 922155121911455744,
+  "coordinates": null,
+  "favorite_count": 0,
+  "entities": {
+    "user_mentions": [],
+    "symbols": [],
+    "hashtags": [
+      {
+        "text": "Feliz",
+        "indices": [
+          40,
+          46
+        ]
+      },
+      {
+        "text": "Contentisima",
+        "indices": [
+          47,
+          60
+        ]
+      }
+    ],
+    "urls": []
+  },
+  "reply_count": 0,
+  "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+  "place": {
+    "attributes": {},
+    "url": "https://api.twitter.com/1.1/geo/id/00b596506d9933be.json",
+    "place_type": "city",
+    "id": "00b596506d9933be",
+    "country_code": "CL",
+    "name": "Rancagua",
+    "country": "Chile",
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            -70.941151,
+            -34.215222
+          ],
+          [
+            -70.941151,
+            -34.027843
+          ],
+          [
+            -70.677001,
+            -34.027843
+          ],
+          [
+            -70.677001,
+            -34.215222
+          ]
+        ]
+      ]
+    },
+    "full_name": "Rancagua, Chile"
+  },
+  "truncated": false,
+  "in_reply_to_status_id_str": null,
+  "filter_level": "low",
+  "text": "Trabajar un domingo.... Que felicidad \ud83d\ude12 #Feliz #Contentisima",
+  "geo": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": false,
+  "favorited": false,
+  "user": {
+    "verified": false,
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "statuses_count": 825,
+    "screen_name": "ClauIRF",
+    "default_profile_image": false,
+    "time_zone": "Santiago",
+    "name": "Claudia Ram\u00edrez",
+    "id_str": "122710885",
+    "profile_sidebar_border_color": "000000",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/122710885/1473008231",
+    "created_at": "Sat Mar 13 16:37:03 +0000 2010",
+    "friends_count": 229,
+    "url": null,
+    "profile_background_tile": false,
+    "protected": false,
+    "translator_type": "none",
+    "profile_text_color": "000000",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/824075856465330177/cMImBVOM_normal.jpg",
+    "listed_count": 1,
+    "notifications": null,
+    "contributors_enabled": false,
+    "is_translator": false,
+    "location": "Rancagua, Chile",
+    "profile_use_background_image": false,
+    "followers_count": 184,
+    "profile_sidebar_fill_color": "000000",
+    "geo_enabled": true,
+    "profile_link_color": "DD2E44",
+    "favourites_count": 225,
+    "following": null,
+    "default_profile": false,
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_color": "000000",
+    "id": 122710885,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/824075856465330177/cMImBVOM_normal.jpg",
+    "lang": "es",
+    "description": null,
+    "follow_request_sent": null,
+    "utc_offset": -10800
+  },
+  "quote_count": 0,
+  "lang": "es"
+}
