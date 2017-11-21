@@ -1,0 +1,106 @@
+{
+  "in_reply_to_user_id": null,
+  "contributors": null,
+  "in_reply_to_screen_name": null,
+  "retweeted": false,
+  "retweet_count": 0,
+  "timestamp_ms": "1508683166135",
+  "in_reply_to_status_id": null,
+  "id_str": "922110148910383104",
+  "created_at": "Sun Oct 22 14:39:26 +0000 2017",
+  "id": 922110148910383104,
+  "coordinates": null,
+  "favorite_count": 0,
+  "entities": {
+    "user_mentions": [],
+    "symbols": [],
+    "hashtags": [],
+    "urls": []
+  },
+  "reply_count": 0,
+  "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+  "place": {
+    "attributes": {},
+    "url": "https://api.twitter.com/1.1/geo/id/00fb0fc66a6dde3f.json",
+    "place_type": "city",
+    "id": "00fb0fc66a6dde3f",
+    "country_code": "CL",
+    "name": "La Florida",
+    "country": "Chile",
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            -70.61561,
+            -33.569942
+          ],
+          [
+            -70.61561,
+            -33.492303
+          ],
+          [
+            -70.438628,
+            -33.492303
+          ],
+          [
+            -70.438628,
+            -33.569942
+          ]
+        ]
+      ]
+    },
+    "full_name": "La Florida, Chile"
+  },
+  "truncated": false,
+  "in_reply_to_status_id_str": null,
+  "filter_level": "low",
+  "text": "La pol\u00edtica en una verdadera democracia,es una campana de Gauss.Un tercio izquierda,un tercio centro,un tercio derecha! Se busca el centro!",
+  "geo": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": false,
+  "favorited": false,
+  "user": {
+    "verified": false,
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+    "statuses_count": 21881,
+    "screen_name": "Politicotirador",
+    "default_profile_image": false,
+    "time_zone": "Santiago",
+    "name": "Patricio Lazo",
+    "id_str": "61516004",
+    "profile_sidebar_border_color": "5ED4DC",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/61516004/1398258873",
+    "created_at": "Thu Jul 30 15:31:32 +0000 2009",
+    "friends_count": 1474,
+    "url": null,
+    "profile_background_tile": false,
+    "protected": false,
+    "translator_type": "regular",
+    "profile_text_color": "3C3940",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/724369770603270144/inydHzvd_normal.jpg",
+    "listed_count": 9,
+    "notifications": null,
+    "contributors_enabled": false,
+    "is_translator": false,
+    "location": "La Florida, Chile",
+    "profile_use_background_image": true,
+    "followers_count": 926,
+    "profile_sidebar_fill_color": "95E8EC",
+    "geo_enabled": true,
+    "profile_link_color": "0099B9",
+    "favourites_count": 1660,
+    "following": null,
+    "default_profile": false,
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+    "profile_background_color": "0099B9",
+    "id": 61516004,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/724369770603270144/inydHzvd_normal.jpg",
+    "lang": "es",
+    "description": "Ingeniero Comercial de la U. de Chile y Contador Auditor. Licenciado y Bachiller en Ciencias Econ\u00f3micas. Analista pol\u00edtico, econ\u00f3mico y de estupideces. Jajaja.",
+    "follow_request_sent": null,
+    "utc_offset": -10800
+  },
+  "quote_count": 0,
+  "lang": "es"
+}

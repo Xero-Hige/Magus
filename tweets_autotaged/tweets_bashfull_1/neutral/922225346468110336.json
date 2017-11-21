@@ -1,0 +1,121 @@
+{
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "indices": [
+          0,
+          11
+        ],
+        "screen_name": "LizzyOtero",
+        "name": "Elizabeth otero",
+        "id_str": "760431061",
+        "id": 760431061
+      }
+    ]
+  },
+  "in_reply_to_user_id": 760431061,
+  "created_at": "Sun Oct 22 22:17:11 +0000 2017",
+  "favorite_count": 0,
+  "lang": "es",
+  "reply_count": 0,
+  "id_str": "922225346468110336",
+  "in_reply_to_user_id_str": "760431061",
+  "in_reply_to_status_id": 922225136199225349,
+  "timestamp_ms": "1508710631373",
+  "truncated": false,
+  "text": "@LizzyOtero Jaja. Tranqui, sigue todo como en las paso hasta ahora.",
+  "user": {
+    "time_zone": "Buenos Aires",
+    "screen_name": "4sikki",
+    "utc_offset": -10800,
+    "created_at": "Thu Jul 01 18:33:44 +0000 2010",
+    "profile_background_tile": true,
+    "notifications": null,
+    "lang": "es",
+    "default_profile": false,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/161767917/1464014155",
+    "id_str": "161767917",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/823263701641949185/B5rox92w_normal.jpg",
+    "name": "Norby Rey \uf8ff",
+    "friends_count": 339,
+    "translator_type": "none",
+    "protected": false,
+    "following": null,
+    "is_translator": false,
+    "follow_request_sent": null,
+    "profile_text_color": "333333",
+    "listed_count": 4,
+    "profile_link_color": "0084B4",
+    "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/178725789/skid_row_logo.jpg",
+    "url": null,
+    "id": 161767917,
+    "favourites_count": 4078,
+    "profile_background_color": "C0DEED",
+    "followers_count": 107,
+    "statuses_count": 5264,
+    "description": "At the en of the day, its all about her. its always been about her.",
+    "location": "Argentina",
+    "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/178725789/skid_row_logo.jpg",
+    "default_profile_image": false,
+    "verified": false,
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_use_background_image": true,
+    "contributors_enabled": false,
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/823263701641949185/B5rox92w_normal.jpg",
+    "geo_enabled": true
+  },
+  "geo": null,
+  "id": 922225346468110336,
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "retweeted": false,
+  "filter_level": "low",
+  "in_reply_to_status_id_str": "922225136199225349",
+  "quote_count": 0,
+  "favorited": false,
+  "coordinates": null,
+  "display_text_range": [
+    12,
+    67
+  ],
+  "retweet_count": 0,
+  "is_quote_status": false,
+  "in_reply_to_screen_name": "LizzyOtero",
+  "contributors": null,
+  "place": {
+    "bounding_box": {
+      "coordinates": [
+        [
+          [
+            -58.446737,
+            -34.745488
+          ],
+          [
+            -58.446737,
+            -34.659001
+          ],
+          [
+            -58.333498,
+            -34.659001
+          ],
+          [
+            -58.333498,
+            -34.745488
+          ]
+        ]
+      ],
+      "type": "Polygon"
+    },
+    "name": "Lan\u00fas Oeste",
+    "url": "https://api.twitter.com/1.1/geo/id/017115ee2013f809.json",
+    "country_code": "AR",
+    "id": "017115ee2013f809",
+    "place_type": "city",
+    "attributes": {},
+    "full_name": "Lan\u00fas Oeste, Argentina",
+    "country": "Argentina"
+  }
+}

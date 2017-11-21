@@ -1,0 +1,114 @@
+{
+  "in_reply_to_user_id": null,
+  "contributors": null,
+  "in_reply_to_screen_name": null,
+  "retweeted": false,
+  "retweet_count": 0,
+  "timestamp_ms": "1508647606628",
+  "in_reply_to_status_id": null,
+  "id_str": "921961001527988224",
+  "created_at": "Sun Oct 22 04:46:46 +0000 2017",
+  "id": 921961001527988224,
+  "coordinates": null,
+  "favorite_count": 0,
+  "entities": {
+    "user_mentions": [],
+    "symbols": [],
+    "hashtags": [
+      {
+        "text": "LaDivinaComida",
+        "indices": [
+          0,
+          15
+        ]
+      }
+    ],
+    "urls": []
+  },
+  "reply_count": 0,
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "place": {
+    "attributes": {},
+    "url": "https://api.twitter.com/1.1/geo/id/00fb0fc66a6dde3f.json",
+    "place_type": "city",
+    "id": "00fb0fc66a6dde3f",
+    "country_code": "CL",
+    "name": "La Florida",
+    "country": "Chile",
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            -70.61561,
+            -33.569942
+          ],
+          [
+            -70.61561,
+            -33.492303
+          ],
+          [
+            -70.438628,
+            -33.492303
+          ],
+          [
+            -70.438628,
+            -33.569942
+          ]
+        ]
+      ]
+    },
+    "full_name": "La Florida, Chile"
+  },
+  "truncated": false,
+  "in_reply_to_status_id_str": null,
+  "filter_level": "low",
+  "text": "#LaDivinaComida d\u00e9jense de webiar c pi\u00f1era, me sale hasta en la sopa, no saben cuando m\u00e1s le dan publicidad m\u00e1s lo escogen sicologica mente",
+  "geo": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": false,
+  "favorited": false,
+  "user": {
+    "verified": false,
+    "profile_background_image_url": "",
+    "statuses_count": 283,
+    "screen_name": "NelsonRobertPe1",
+    "default_profile_image": false,
+    "time_zone": null,
+    "name": "Nelson Robert Perez",
+    "id_str": "860113641378598913",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/860113641378598913/1507697137",
+    "created_at": "Thu May 04 12:47:27 +0000 2017",
+    "friends_count": 67,
+    "url": null,
+    "profile_background_tile": false,
+    "protected": false,
+    "translator_type": "none",
+    "profile_text_color": "333333",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/912675065728204800/mM-fUQTw_normal.jpg",
+    "listed_count": 0,
+    "notifications": null,
+    "contributors_enabled": false,
+    "is_translator": false,
+    "location": "Metropolitana de Santiago",
+    "profile_use_background_image": true,
+    "followers_count": 33,
+    "profile_sidebar_fill_color": "DDEEF6",
+    "geo_enabled": true,
+    "profile_link_color": "1DA1F2",
+    "favourites_count": 416,
+    "following": null,
+    "default_profile": true,
+    "profile_background_image_url_https": "",
+    "profile_background_color": "F5F8FA",
+    "id": 860113641378598913,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/912675065728204800/mM-fUQTw_normal.jpg",
+    "lang": "es",
+    "description": "me gusta el blu, el rock y el buen vino. soy un loco y no voy por pol\u00edtica ni por camiseta ni por cruz, \u00f3sea q se fr\u00edan en su inoperancia de vida los hdp Aries",
+    "follow_request_sent": null,
+    "utc_offset": null
+  },
+  "quote_count": 0,
+  "lang": "es"
+}

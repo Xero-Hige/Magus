@@ -1,0 +1,121 @@
+{
+  "in_reply_to_user_id": 203176940,
+  "contributors": null,
+  "id": 922136533339131904,
+  "retweeted": false,
+  "retweet_count": 0,
+  "timestamp_ms": "1508689456673",
+  "in_reply_to_status_id": 922130984086245376,
+  "id_str": "922136533339131904",
+  "created_at": "Sun Oct 22 16:24:16 +0000 2017",
+  "coordinates": null,
+  "favorite_count": 0,
+  "entities": {
+    "user_mentions": [
+      {
+        "indices": [
+          0,
+          12
+        ],
+        "name": "Telenoche",
+        "screen_name": "TelenocheUy",
+        "id": 203176940,
+        "id_str": "203176940"
+      }
+    ],
+    "symbols": [],
+    "hashtags": [],
+    "urls": []
+  },
+  "reply_count": 0,
+  "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+  "place": {
+    "attributes": {},
+    "url": "https://api.twitter.com/1.1/geo/id/01a9dbb9232f0fac.json",
+    "place_type": "admin",
+    "id": "01a9dbb9232f0fac",
+    "country_code": "UY",
+    "name": "Montevideo",
+    "country": "Uruguay",
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            -56.430439,
+            -34.937896
+          ],
+          [
+            -56.430439,
+            -34.701599
+          ],
+          [
+            -56.029341,
+            -34.701599
+          ],
+          [
+            -56.029341,
+            -34.937896
+          ]
+        ]
+      ]
+    },
+    "full_name": "Montevideo, Uruguay"
+  },
+  "truncated": false,
+  "in_reply_to_status_id_str": "922130984086245376",
+  "in_reply_to_screen_name": "TelenocheUy",
+  "filter_level": "low",
+  "text": "@TelenocheUy Mentira tras mentira. Pobres argentinos teniendo a este personaje de presidente.",
+  "geo": null,
+  "in_reply_to_user_id_str": "203176940",
+  "is_quote_status": false,
+  "display_text_range": [
+    13,
+    93
+  ],
+  "favorited": false,
+  "user": {
+    "verified": false,
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "statuses_count": 2355,
+    "screen_name": "Axulon",
+    "default_profile_image": false,
+    "time_zone": "Buenos Aires",
+    "name": "Thalos",
+    "id_str": "258910984",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/258910984/1506898130",
+    "created_at": "Mon Feb 28 19:35:29 +0000 2011",
+    "friends_count": 129,
+    "url": null,
+    "profile_background_tile": false,
+    "protected": false,
+    "translator_type": "none",
+    "profile_text_color": "333333",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/885465757487964160/oCf8SefF_normal.jpg",
+    "listed_count": 2,
+    "notifications": null,
+    "contributors_enabled": false,
+    "is_translator": false,
+    "location": "Montevideo",
+    "profile_use_background_image": true,
+    "followers_count": 81,
+    "profile_sidebar_fill_color": "DDEEF6",
+    "geo_enabled": true,
+    "profile_link_color": "1DA1F2",
+    "favourites_count": 966,
+    "following": null,
+    "default_profile": true,
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_color": "C0DEED",
+    "id": 258910984,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/885465757487964160/oCf8SefF_normal.jpg",
+    "lang": "es",
+    "description": "Experto en todo",
+    "follow_request_sent": null,
+    "utc_offset": -10800
+  },
+  "quote_count": 0,
+  "lang": "es"
+}

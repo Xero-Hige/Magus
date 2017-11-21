@@ -1,0 +1,125 @@
+{
+  "entities": {
+    "hashtags": [
+      {
+        "indices": [
+          49,
+          62
+        ],
+        "text": "presidencial"
+      }
+    ],
+    "symbols": [],
+    "urls": [
+      {
+        "indices": [
+          126,
+          149
+        ],
+        "expanded_url": "https://youtu.be/cPMNnBFiwJg",
+        "display_url": "youtu.be/cPMNnBFiwJg",
+        "url": "https://t.co/HczUoLia5E"
+      }
+    ],
+    "user_mentions": []
+  },
+  "in_reply_to_user_id": null,
+  "created_at": "Mon Oct 23 00:14:12 +0000 2017",
+  "favorite_count": 0,
+  "lang": "es",
+  "reply_count": 0,
+  "id_str": "922254795112615937",
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_status_id": null,
+  "timestamp_ms": "1508717652477",
+  "possibly_sensitive": false,
+  "text": "Antes de decidir por qui\u00e9n votar para 2da vuelta #presidencial, v\u00e9 este video completo: Chile, una gran familia &gt;&gt;&gt; \nhttps://t.co/HczUoLia5E",
+  "user": {
+    "time_zone": "Santiago",
+    "screen_name": "RodrigoArayaCL",
+    "utc_offset": -10800,
+    "created_at": "Mon Aug 24 16:58:27 +0000 2009",
+    "profile_background_tile": false,
+    "notifications": null,
+    "lang": "es",
+    "default_profile": false,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/68452662/1508359043",
+    "id_str": "68452662",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/911081248503742464/PY-URuzn_normal.jpg",
+    "name": "Rodrigo ArayaChand\u00eda",
+    "friends_count": 1663,
+    "translator_type": "none",
+    "protected": false,
+    "following": null,
+    "is_translator": false,
+    "follow_request_sent": null,
+    "profile_text_color": "666666",
+    "listed_count": 30,
+    "profile_link_color": "ABB8C2",
+    "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/723769601/23044a9554064bf702f12eadd6b9b0d2.jpeg",
+    "url": "http://rodrigoarayacl.blogspot.com",
+    "id": 68452662,
+    "favourites_count": 3064,
+    "profile_background_color": "E4E5EB",
+    "followers_count": 2259,
+    "statuses_count": 12287,
+    "description": "Gremialista | Delegado @DerechoUST | Campe\u00f3n Nacional de Debate 2017 | @AIESEC Alumnus. Creo en la educaci\u00f3n de calidad, con libertad y sin intervenci\u00f3n estatal",
+    "location": "Vi\u00f1a del Mar, Chile",
+    "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/723769601/23044a9554064bf702f12eadd6b9b0d2.jpeg",
+    "default_profile_image": false,
+    "verified": false,
+    "profile_sidebar_fill_color": "252429",
+    "profile_use_background_image": false,
+    "contributors_enabled": false,
+    "profile_sidebar_border_color": "FFFFFF",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/911081248503742464/PY-URuzn_normal.jpg",
+    "geo_enabled": true
+  },
+  "geo": null,
+  "id": 922254795112615937,
+  "quote_count": 0,
+  "retweeted": false,
+  "filter_level": "low",
+  "in_reply_to_status_id_str": null,
+  "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+  "favorited": false,
+  "coordinates": null,
+  "truncated": false,
+  "retweet_count": 0,
+  "is_quote_status": false,
+  "in_reply_to_screen_name": null,
+  "contributors": null,
+  "place": {
+    "bounding_box": {
+      "coordinates": [
+        [
+          [
+            -71.589833,
+            -33.104552
+          ],
+          [
+            -71.589833,
+            -32.948163
+          ],
+          [
+            -71.441459,
+            -32.948163
+          ],
+          [
+            -71.441459,
+            -33.104552
+          ]
+        ]
+      ],
+      "type": "Polygon"
+    },
+    "name": "Vi\u00f1a del Mar",
+    "url": "https://api.twitter.com/1.1/geo/id/008be613029d4ca5.json",
+    "country_code": "CL",
+    "id": "008be613029d4ca5",
+    "place_type": "city",
+    "attributes": {},
+    "full_name": "Vi\u00f1a del Mar, Chile",
+    "country": "Chile"
+  }
+}

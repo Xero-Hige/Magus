@@ -1,0 +1,175 @@
+{
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "urls": [
+      {
+        "indices": [
+          117,
+          140
+        ],
+        "expanded_url": "https://twitter.com/i/web/status/922268174984339456",
+        "display_url": "twitter.com/i/web/status/9\u2026",
+        "url": "https://t.co/U80RdhWpKg"
+      }
+    ],
+    "user_mentions": [
+      {
+        "indices": [
+          0,
+          11
+        ],
+        "screen_name": "matiasdiez",
+        "name": "Mat\u00edas Diez \u270a\ud83c\udffd",
+        "id_str": "23391181",
+        "id": 23391181
+      },
+      {
+        "indices": [
+          12,
+          23
+        ],
+        "screen_name": "emerarbelo",
+        "name": "Emerson Arbelo",
+        "id_str": "393626241",
+        "id": 393626241
+      }
+    ]
+  },
+  "in_reply_to_user_id": 23391181,
+  "created_at": "Mon Oct 23 01:07:22 +0000 2017",
+  "favorite_count": 0,
+  "lang": "es",
+  "reply_count": 0,
+  "id_str": "922268174984339456",
+  "in_reply_to_user_id_str": "23391181",
+  "extended_tweet": {
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "urls": [],
+      "user_mentions": [
+        {
+          "indices": [
+            0,
+            11
+          ],
+          "screen_name": "matiasdiez",
+          "name": "Mat\u00edas Diez \u270a\ud83c\udffd",
+          "id_str": "23391181",
+          "id": 23391181
+        },
+        {
+          "indices": [
+            12,
+            23
+          ],
+          "screen_name": "emerarbelo",
+          "name": "Emerson Arbelo",
+          "id_str": "393626241",
+          "id": 393626241
+        }
+      ]
+    },
+    "display_text_range": [
+      24,
+      161
+    ],
+    "full_text": "@matiasdiez @emerarbelo La \u00e9tica en pol\u00edtica es lo 1\u00ba que hay que buscar y por supuesto pol\u00edticos de comprobada \u00e9tica: por ah\u00ed se empieza, sin ello no hay cambio"
+  },
+  "in_reply_to_status_id": 922266208535285760,
+  "timestamp_ms": "1508720842487",
+  "truncated": true,
+  "text": "@matiasdiez @emerarbelo La \u00e9tica en pol\u00edtica es lo 1\u00ba que hay que buscar y por supuesto pol\u00edticos de comprobada \u00e9ti\u2026 https://t.co/U80RdhWpKg",
+  "user": {
+    "time_zone": "Mid-Atlantic",
+    "screen_name": "susanagladysfer",
+    "utc_offset": -7200,
+    "created_at": "Sun Dec 04 17:56:34 +0000 2011",
+    "profile_background_tile": false,
+    "notifications": null,
+    "lang": "es",
+    "default_profile": false,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/428380101/1401543913",
+    "id_str": "428380101",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/531205763620806657/v2nMYgfK_normal.jpeg",
+    "name": "SusanaG.Ferreira",
+    "friends_count": 1676,
+    "translator_type": "none",
+    "protected": false,
+    "following": null,
+    "is_translator": false,
+    "follow_request_sent": null,
+    "profile_text_color": "3C3940",
+    "listed_count": 26,
+    "profile_link_color": "0099B9",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+    "url": null,
+    "id": 428380101,
+    "favourites_count": 43048,
+    "profile_background_color": "0099B9",
+    "followers_count": 1906,
+    "statuses_count": 61774,
+    "description": "IZQUIERDISTA-FRENTEAMPLISTA  .....\"y as\u00ed todos logran lo que era imposible, que todo el mundo sepa que el Sur tambi\u00e9n existe\" Mario Benedetti",
+    "location": "Montevideo.Uruguay",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+    "default_profile_image": false,
+    "verified": false,
+    "profile_sidebar_fill_color": "95E8EC",
+    "profile_use_background_image": true,
+    "contributors_enabled": false,
+    "profile_sidebar_border_color": "5ED4DC",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/531205763620806657/v2nMYgfK_normal.jpeg",
+    "geo_enabled": true
+  },
+  "geo": null,
+  "id": 922268174984339456,
+  "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+  "retweeted": false,
+  "filter_level": "low",
+  "in_reply_to_status_id_str": "922266208535285760",
+  "quote_count": 0,
+  "favorited": false,
+  "coordinates": null,
+  "display_text_range": [
+    24,
+    140
+  ],
+  "retweet_count": 0,
+  "is_quote_status": false,
+  "in_reply_to_screen_name": "matiasdiez",
+  "contributors": null,
+  "place": {
+    "bounding_box": {
+      "coordinates": [
+        [
+          [
+            -58.491052,
+            -34.980163
+          ],
+          [
+            -58.491052,
+            -30.085693
+          ],
+          [
+            -53.071505,
+            -30.085693
+          ],
+          [
+            -53.071505,
+            -34.980163
+          ]
+        ]
+      ],
+      "type": "Polygon"
+    },
+    "name": "Uruguay",
+    "url": "https://api.twitter.com/1.1/geo/id/d0f5be1262dee9aa.json",
+    "country_code": "UY",
+    "id": "d0f5be1262dee9aa",
+    "place_type": "country",
+    "attributes": {},
+    "full_name": "Uruguay",
+    "country": "Uruguay"
+  }
+}

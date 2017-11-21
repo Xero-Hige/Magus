@@ -1,0 +1,387 @@
+{
+  "id_str": "922281566130274304",
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "in_reply_to_status_id": null,
+  "created_at": "Mon Oct 23 02:00:35 +0000 2017",
+  "retweet_count": 0,
+  "truncated": true,
+  "place": {
+    "id": "01f12d127b3175d6",
+    "country_code": "CL",
+    "name": "La Reina",
+    "bounding_box": {
+      "coordinates": [
+        [
+          [
+            -70.586068,
+            -33.46555
+          ],
+          [
+            -70.586068,
+            -33.428727
+          ],
+          [
+            -70.487313,
+            -33.428727
+          ],
+          [
+            -70.487313,
+            -33.46555
+          ]
+        ]
+      ],
+      "type": "Polygon"
+    },
+    "place_type": "city",
+    "country": "Chile",
+    "full_name": "La Reina, Chile",
+    "url": "https://api.twitter.com/1.1/geo/id/01f12d127b3175d6.json",
+    "attributes": {}
+  },
+  "possibly_sensitive": false,
+  "text": "No me pierdo voy #PorLoJusto para #D10 con @munozdiputado renovar la pol\u00edtica con \u00e9tica preparaci\u00f3n honestidad gran\u2026 https://t.co/t57DZwsf9d",
+  "id": 922281566130274304,
+  "in_reply_to_screen_name": null,
+  "entities": {
+    "hashtags": [
+      {
+        "indices": [
+          17,
+          28
+        ],
+        "text": "PorLoJusto"
+      },
+      {
+        "indices": [
+          34,
+          38
+        ],
+        "text": "D10"
+      }
+    ],
+    "urls": [
+      {
+        "indices": [
+          117,
+          140
+        ],
+        "expanded_url": "https://twitter.com/i/web/status/922281566130274304",
+        "display_url": "twitter.com/i/web/status/9\u2026",
+        "url": "https://t.co/t57DZwsf9d"
+      }
+    ],
+    "symbols": [],
+    "user_mentions": [
+      {
+        "id": 91684859,
+        "id_str": "91684859",
+        "indices": [
+          43,
+          57
+        ],
+        "screen_name": "munozdiputado",
+        "name": "Nicol\u00e1s Mu\u00f1oz 82"
+      }
+    ]
+  },
+  "display_text_range": [
+    0,
+    140
+  ],
+  "quoted_status": {
+    "geo": null,
+    "user": {
+      "id_str": "3222731",
+      "favourites_count": 81,
+      "contributors_enabled": false,
+      "name": "La Tercera",
+      "profile_sidebar_fill_color": "F0F0F0",
+      "profile_background_tile": false,
+      "profile_background_color": "E4E5E9",
+      "created_at": "Mon Apr 02 15:22:14 +0000 2007",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/3222731/1501515891",
+      "location": "Santiago, Chile",
+      "description": "El Chile que somos. Noticias, conversaci\u00f3n, opini\u00f3n y otros contenidos destacados.",
+      "listed_count": 6623,
+      "follow_request_sent": null,
+      "default_profile_image": false,
+      "lang": "es",
+      "statuses_count": 605422,
+      "url": "http://www.latercera.com",
+      "notifications": null,
+      "id": 3222731,
+      "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/326122840/twit_latercera_fondo.jpg",
+      "translator_type": "none",
+      "screen_name": "latercera",
+      "protected": false,
+      "profile_link_color": "1B95E0",
+      "friends_count": 238377,
+      "time_zone": "Santiago",
+      "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/326122840/twit_latercera_fondo.jpg",
+      "profile_text_color": "000000",
+      "is_translator": false,
+      "followers_count": 1839750,
+      "default_profile": false,
+      "utc_offset": -10800,
+      "verified": true,
+      "following": null,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/905408576998580225/-1Y0H53N_normal.jpg",
+      "profile_use_background_image": true,
+      "profile_sidebar_border_color": "FFFFFF",
+      "geo_enabled": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/905408576998580225/-1Y0H53N_normal.jpg"
+    },
+    "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+    "lang": "es",
+    "favorited": false,
+    "in_reply_to_status_id": null,
+    "created_at": "Mon Oct 23 01:57:01 +0000 2017",
+    "coordinates": null,
+    "quote_count": 0,
+    "truncated": false,
+    "place": null,
+    "retweet_count": 1,
+    "reply_count": 1,
+    "possibly_sensitive": false,
+    "extended_entities": {
+      "media": [
+        {
+          "id": 922272528076279808,
+          "sizes": {
+            "small": {
+              "h": 414,
+              "resize": "fit",
+              "w": 680
+            },
+            "medium": {
+              "h": 731,
+              "resize": "fit",
+              "w": 1200
+            },
+            "large": {
+              "h": 780,
+              "resize": "fit",
+              "w": 1280
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "indices": [
+            99,
+            122
+          ],
+          "display_url": "pic.twitter.com/xlIG6mA8dM",
+          "media_url": "http://pbs.twimg.com/media/DMyR-lYWkAAATz9.jpg",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/DMyR-lYWkAAATz9.jpg",
+          "id_str": "922272528076279808",
+          "expanded_url": "https://twitter.com/latercera/status/922280671833395202/photo/1",
+          "url": "https://t.co/xlIG6mA8dM"
+        }
+      ]
+    },
+    "text": "\u00bfVives en el Distrito 10? \u00a1Ma\u00f1ana sigue un nuevo #DebateLT desde las 10.00 horas en @latercera \ud83d\udde3\ud83d\udc65! https://t.co/xlIG6mA8dM",
+    "in_reply_to_user_id": null,
+    "id": 922280671833395202,
+    "favorite_count": 1,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "entities": {
+      "hashtags": [
+        {
+          "indices": [
+            49,
+            58
+          ],
+          "text": "DebateLT"
+        }
+      ],
+      "media": [
+        {
+          "id": 922272528076279808,
+          "sizes": {
+            "small": {
+              "h": 414,
+              "resize": "fit",
+              "w": 680
+            },
+            "medium": {
+              "h": 731,
+              "resize": "fit",
+              "w": 1200
+            },
+            "large": {
+              "h": 780,
+              "resize": "fit",
+              "w": 1280
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "indices": [
+            99,
+            122
+          ],
+          "display_url": "pic.twitter.com/xlIG6mA8dM",
+          "media_url": "http://pbs.twimg.com/media/DMyR-lYWkAAATz9.jpg",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/DMyR-lYWkAAATz9.jpg",
+          "id_str": "922272528076279808",
+          "expanded_url": "https://twitter.com/latercera/status/922280671833395202/photo/1",
+          "url": "https://t.co/xlIG6mA8dM"
+        }
+      ],
+      "urls": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "id": 3222731,
+          "id_str": "3222731",
+          "indices": [
+            84,
+            94
+          ],
+          "screen_name": "latercera",
+          "name": "La Tercera"
+        }
+      ]
+    },
+    "id_str": "922280671833395202",
+    "display_text_range": [
+      0,
+      98
+    ],
+    "filter_level": "low",
+    "retweeted": false,
+    "contributors": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false
+  },
+  "retweeted": false,
+  "timestamp_ms": "1508724035185",
+  "contributors": null,
+  "is_quote_status": true,
+  "quoted_status_id_str": "922280671833395202",
+  "user": {
+    "id_str": "96783256",
+    "favourites_count": 18092,
+    "contributors_enabled": false,
+    "name": "Cristian Cancino M",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_background_tile": false,
+    "profile_background_color": "ACDED6",
+    "created_at": "Mon Dec 14 15:41:40 +0000 2009",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/96783256/1502074106",
+    "location": "\u00d1u\u00f1oa, Chile",
+    "description": "Lo que hacemos en la vida tiene eco en la eternidad,Dem\u00f3crata Cristiano, ingeniero consultor,Padre de una Maravillosa Hija. \u00d1u\u00f1oino de coraz\u00f3n .",
+    "listed_count": 3,
+    "follow_request_sent": null,
+    "default_profile_image": false,
+    "lang": "es",
+    "statuses_count": 16025,
+    "url": "http://www.cancinoconcejal.cl",
+    "notifications": null,
+    "id": 96783256,
+    "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/432374493239988224/htF9NWDj.jpeg",
+    "translator_type": "none",
+    "screen_name": "stolkan",
+    "protected": false,
+    "profile_link_color": "038543",
+    "friends_count": 5001,
+    "time_zone": "Santiago",
+    "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/432374493239988224/htF9NWDj.jpeg",
+    "profile_text_color": "333333",
+    "is_translator": false,
+    "followers_count": 1747,
+    "default_profile": false,
+    "utc_offset": -10800,
+    "verified": false,
+    "following": null,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/900079053180465152/l62XJnCl_normal.jpg",
+    "profile_use_background_image": true,
+    "profile_sidebar_border_color": "FFFFFF",
+    "geo_enabled": true,
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/900079053180465152/l62XJnCl_normal.jpg"
+  },
+  "favorited": false,
+  "coordinates": null,
+  "quote_count": 0,
+  "lang": "es",
+  "reply_count": 0,
+  "in_reply_to_user_id": null,
+  "extended_tweet": {
+    "full_text": "No me pierdo voy #PorLoJusto para #D10 con @munozdiputado renovar la pol\u00edtica con \u00e9tica preparaci\u00f3n honestidad gran diputado #O82 #DebateLT https://t.co/wmqwZZQNMS",
+    "display_text_range": [
+      0,
+      139
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "indices": [
+            17,
+            28
+          ],
+          "text": "PorLoJusto"
+        },
+        {
+          "indices": [
+            34,
+            38
+          ],
+          "text": "D10"
+        },
+        {
+          "indices": [
+            125,
+            129
+          ],
+          "text": "O82"
+        },
+        {
+          "indices": [
+            130,
+            139
+          ],
+          "text": "DebateLT"
+        }
+      ],
+      "urls": [
+        {
+          "indices": [
+            140,
+            163
+          ],
+          "expanded_url": "https://twitter.com/latercera/status/922280671833395202",
+          "display_url": "twitter.com/latercera/stat\u2026",
+          "url": "https://t.co/wmqwZZQNMS"
+        }
+      ],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "id": 91684859,
+          "id_str": "91684859",
+          "indices": [
+            43,
+            57
+          ],
+          "screen_name": "munozdiputado",
+          "name": "Nicol\u00e1s Mu\u00f1oz 82"
+        }
+      ]
+    }
+  },
+  "favorite_count": 0,
+  "in_reply_to_status_id_str": null,
+  "geo": null,
+  "quoted_status_id": 922280671833395202,
+  "filter_level": "low",
+  "in_reply_to_user_id_str": null
+}

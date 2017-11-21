@@ -1,0 +1,114 @@
+{
+  "in_reply_to_user_id": null,
+  "contributors": null,
+  "in_reply_to_screen_name": null,
+  "retweeted": false,
+  "retweet_count": 0,
+  "timestamp_ms": "1508675211482",
+  "in_reply_to_status_id": null,
+  "id_str": "922076784677609472",
+  "created_at": "Sun Oct 22 12:26:51 +0000 2017",
+  "id": 922076784677609472,
+  "coordinates": null,
+  "favorite_count": 0,
+  "entities": {
+    "user_mentions": [],
+    "symbols": [],
+    "hashtags": [
+      {
+        "text": "EleccionesArgentina",
+        "indices": [
+          0,
+          20
+        ]
+      }
+    ],
+    "urls": []
+  },
+  "reply_count": 0,
+  "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+  "place": {
+    "attributes": {},
+    "url": "https://api.twitter.com/1.1/geo/id/4e51dcd7e0471448.json",
+    "place_type": "admin",
+    "id": "4e51dcd7e0471448",
+    "country_code": "AR",
+    "name": "R\u00edo Negro",
+    "country": "Argentina",
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            -71.912516,
+            -42.009051
+          ],
+          [
+            -71.912516,
+            -37.577857
+          ],
+          [
+            -62.788541,
+            -37.577857
+          ],
+          [
+            -62.788541,
+            -42.009051
+          ]
+        ]
+      ]
+    },
+    "full_name": "R\u00edo Negro, Argentina"
+  },
+  "truncated": false,
+  "in_reply_to_status_id_str": null,
+  "filter_level": "low",
+  "text": "#EleccionesArgentina De Angelis se cans\u00f3 de cortar rutas durante meses. Hoy es Senador de la Naci\u00f3n . . . . . .",
+  "geo": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": false,
+  "favorited": false,
+  "user": {
+    "verified": false,
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "statuses_count": 168,
+    "screen_name": "patagoneando",
+    "default_profile_image": false,
+    "time_zone": "Santiago",
+    "name": "Esteban Bello",
+    "id_str": "20259318",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/20259318/1507439566",
+    "created_at": "Fri Feb 06 18:39:49 +0000 2009",
+    "friends_count": 154,
+    "url": null,
+    "profile_background_tile": false,
+    "protected": false,
+    "translator_type": "none",
+    "profile_text_color": "333333",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/917029503335124993/8n8beXbl_normal.jpg",
+    "listed_count": 0,
+    "notifications": null,
+    "contributors_enabled": false,
+    "is_translator": false,
+    "location": "Bariloche",
+    "profile_use_background_image": true,
+    "followers_count": 57,
+    "profile_sidebar_fill_color": "DDEEF6",
+    "geo_enabled": true,
+    "profile_link_color": "1DA1F2",
+    "favourites_count": 17,
+    "following": null,
+    "default_profile": true,
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_color": "C0DEED",
+    "id": 20259318,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/917029503335124993/8n8beXbl_normal.jpg",
+    "lang": "es",
+    "description": "Yo quiero el fin del dolor, pero no hay fin, siempre hay m\u00e1s . . . .",
+    "follow_request_sent": null,
+    "utc_offset": -10800
+  },
+  "quote_count": 0,
+  "lang": "es"
+}

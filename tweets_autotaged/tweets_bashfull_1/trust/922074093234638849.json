@@ -1,0 +1,353 @@
+{
+  "in_reply_to_user_id": null,
+  "contributors": null,
+  "id": 922074093234638849,
+  "retweeted": false,
+  "retweet_count": 0,
+  "timestamp_ms": "1508674569792",
+  "in_reply_to_status_id": null,
+  "id_str": "922074093234638849",
+  "coordinates": null,
+  "created_at": "Sun Oct 22 12:16:09 +0000 2017",
+  "quote_count": 0,
+  "favorite_count": 0,
+  "entities": {
+    "user_mentions": [
+      {
+        "indices": [
+          40,
+          53
+        ],
+        "name": "Marcelo Ramal",
+        "screen_name": "marceloramal",
+        "id": 257549971,
+        "id_str": "257549971"
+      },
+      {
+        "indices": [
+          87,
+          101
+        ],
+        "name": "Partido Obrero",
+        "screen_name": "PartidoObrero",
+        "id": 65360466,
+        "id_str": "65360466"
+      },
+      {
+        "indices": [
+          102,
+          115
+        ],
+        "name": "Frente de Izquierda",
+        "screen_name": "FdeIzquierda",
+        "id": 3167567897,
+        "id_str": "3167567897"
+      }
+    ],
+    "symbols": [],
+    "hashtags": [],
+    "urls": [
+      {
+        "expanded_url": "https://twitter.com/i/web/status/922074093234638849",
+        "indices": [
+          117,
+          140
+        ],
+        "url": "https://t.co/ecmXVhnmkV",
+        "display_url": "twitter.com/i/web/status/9\u2026"
+      }
+    ]
+  },
+  "reply_count": 0,
+  "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+  "place": {
+    "attributes": {},
+    "url": "https://api.twitter.com/1.1/geo/id/00758a48394df3ce.json",
+    "place_type": "city",
+    "id": "00758a48394df3ce",
+    "country_code": "AR",
+    "name": "Villa Soldati",
+    "country": "Argentina",
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            -58.502543,
+            -34.705421
+          ],
+          [
+            -58.502543,
+            -34.613843
+          ],
+          [
+            -58.389939,
+            -34.613843
+          ],
+          [
+            -58.389939,
+            -34.705421
+          ]
+        ]
+      ]
+    },
+    "full_name": "Villa Soldati, Argentina"
+  },
+  "truncated": true,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_screen_name": null,
+  "filter_level": "low",
+  "text": "Desde Escuela n\u00b023(Boedo), donde votar\u00e1 @marceloramal, candidato a Diputado Nacional x @PartidoObrero @FdeIzquierda\u2026 https://t.co/ecmXVhnmkV",
+  "geo": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": false,
+  "possibly_sensitive": false,
+  "display_text_range": [
+    0,
+    140
+  ],
+  "favorited": false,
+  "user": {
+    "verified": false,
+    "profile_background_image_url": "",
+    "statuses_count": 8,
+    "screen_name": "LeoDudech",
+    "default_profile_image": false,
+    "time_zone": null,
+    "name": "Leonardo.",
+    "id_str": "845263946017898496",
+    "profile_sidebar_border_color": "C0DEED",
+    "created_at": "Fri Mar 24 13:20:03 +0000 2017",
+    "friends_count": 7,
+    "url": null,
+    "profile_background_tile": false,
+    "protected": false,
+    "translator_type": "none",
+    "profile_text_color": "333333",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/845265986039230465/bUIFHGtJ_normal.jpg",
+    "listed_count": 0,
+    "notifications": null,
+    "contributors_enabled": false,
+    "is_translator": false,
+    "location": "Buenos Aires, Argentina.",
+    "profile_use_background_image": true,
+    "followers_count": 2,
+    "profile_sidebar_fill_color": "DDEEF6",
+    "geo_enabled": true,
+    "profile_link_color": "1DA1F2",
+    "favourites_count": 1,
+    "following": null,
+    "default_profile": true,
+    "profile_background_image_url_https": "",
+    "profile_background_color": "F5F8FA",
+    "id": 845263946017898496,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/845265986039230465/bUIFHGtJ_normal.jpg",
+    "lang": "es",
+    "description": "19. Periodismo General en @TeayDeportea.",
+    "follow_request_sent": null,
+    "utc_offset": null
+  },
+  "extended_tweet": {
+    "entities": {
+      "user_mentions": [
+        {
+          "indices": [
+            40,
+            53
+          ],
+          "name": "Marcelo Ramal",
+          "screen_name": "marceloramal",
+          "id": 257549971,
+          "id_str": "257549971"
+        },
+        {
+          "indices": [
+            87,
+            101
+          ],
+          "name": "Partido Obrero",
+          "screen_name": "PartidoObrero",
+          "id": 65360466,
+          "id_str": "65360466"
+        },
+        {
+          "indices": [
+            102,
+            115
+          ],
+          "name": "Frente de Izquierda",
+          "screen_name": "FdeIzquierda",
+          "id": 3167567897,
+          "id_str": "3167567897"
+        }
+      ],
+      "symbols": [],
+      "hashtags": [
+        {
+          "text": "EleccionesEnPublicable",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ],
+      "urls": [],
+      "media": [
+        {
+          "indices": [
+            141,
+            164
+          ],
+          "media_url_https": "https://pbs.twimg.com/media/DMvdc4ZW4AA338G.jpg",
+          "url": "https://t.co/5HP7UjGKEA",
+          "expanded_url": "https://twitter.com/LeoDudech/status/922074093234638849/photo/1",
+          "id": 922074036972216320,
+          "sizes": {
+            "medium": {
+              "resize": "fit",
+              "w": 720,
+              "h": 960
+            },
+            "large": {
+              "resize": "fit",
+              "w": 720,
+              "h": 960
+            },
+            "small": {
+              "resize": "fit",
+              "w": 510,
+              "h": 680
+            },
+            "thumb": {
+              "resize": "crop",
+              "w": 150,
+              "h": 150
+            }
+          },
+          "media_url": "http://pbs.twimg.com/media/DMvdc4ZW4AA338G.jpg",
+          "id_str": "922074036972216320",
+          "display_url": "pic.twitter.com/5HP7UjGKEA",
+          "type": "photo"
+        },
+        {
+          "indices": [
+            141,
+            164
+          ],
+          "media_url_https": "https://pbs.twimg.com/media/DMvdePxWAAAwt34.jpg",
+          "url": "https://t.co/5HP7UjGKEA",
+          "expanded_url": "https://twitter.com/LeoDudech/status/922074093234638849/photo/1",
+          "id": 922074060426706944,
+          "sizes": {
+            "medium": {
+              "resize": "fit",
+              "w": 720,
+              "h": 960
+            },
+            "large": {
+              "resize": "fit",
+              "w": 720,
+              "h": 960
+            },
+            "small": {
+              "resize": "fit",
+              "w": 510,
+              "h": 680
+            },
+            "thumb": {
+              "resize": "crop",
+              "w": 150,
+              "h": 150
+            }
+          },
+          "media_url": "http://pbs.twimg.com/media/DMvdePxWAAAwt34.jpg",
+          "id_str": "922074060426706944",
+          "display_url": "pic.twitter.com/5HP7UjGKEA",
+          "type": "photo"
+        }
+      ]
+    },
+    "display_text_range": [
+      0,
+      140
+    ],
+    "extended_entities": {
+      "media": [
+        {
+          "indices": [
+            141,
+            164
+          ],
+          "media_url_https": "https://pbs.twimg.com/media/DMvdc4ZW4AA338G.jpg",
+          "url": "https://t.co/5HP7UjGKEA",
+          "expanded_url": "https://twitter.com/LeoDudech/status/922074093234638849/photo/1",
+          "id": 922074036972216320,
+          "sizes": {
+            "medium": {
+              "resize": "fit",
+              "w": 720,
+              "h": 960
+            },
+            "large": {
+              "resize": "fit",
+              "w": 720,
+              "h": 960
+            },
+            "small": {
+              "resize": "fit",
+              "w": 510,
+              "h": 680
+            },
+            "thumb": {
+              "resize": "crop",
+              "w": 150,
+              "h": 150
+            }
+          },
+          "media_url": "http://pbs.twimg.com/media/DMvdc4ZW4AA338G.jpg",
+          "id_str": "922074036972216320",
+          "display_url": "pic.twitter.com/5HP7UjGKEA",
+          "type": "photo"
+        },
+        {
+          "indices": [
+            141,
+            164
+          ],
+          "media_url_https": "https://pbs.twimg.com/media/DMvdePxWAAAwt34.jpg",
+          "url": "https://t.co/5HP7UjGKEA",
+          "expanded_url": "https://twitter.com/LeoDudech/status/922074093234638849/photo/1",
+          "id": 922074060426706944,
+          "sizes": {
+            "medium": {
+              "resize": "fit",
+              "w": 720,
+              "h": 960
+            },
+            "large": {
+              "resize": "fit",
+              "w": 720,
+              "h": 960
+            },
+            "small": {
+              "resize": "fit",
+              "w": 510,
+              "h": 680
+            },
+            "thumb": {
+              "resize": "crop",
+              "w": 150,
+              "h": 150
+            }
+          },
+          "media_url": "http://pbs.twimg.com/media/DMvdePxWAAAwt34.jpg",
+          "id_str": "922074060426706944",
+          "display_url": "pic.twitter.com/5HP7UjGKEA",
+          "type": "photo"
+        }
+      ]
+    },
+    "full_text": "Desde Escuela n\u00b023(Boedo), donde votar\u00e1 @marceloramal, candidato a Diputado Nacional x @PartidoObrero @FdeIzquierda  #EleccionesEnPublicable https://t.co/5HP7UjGKEA"
+  },
+  "lang": "es"
+}

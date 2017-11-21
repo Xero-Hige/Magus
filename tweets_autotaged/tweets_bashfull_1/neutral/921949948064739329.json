@@ -1,0 +1,121 @@
+{
+  "in_reply_to_user_id": 4868295989,
+  "contributors": null,
+  "id": 921949948064739329,
+  "retweeted": false,
+  "retweet_count": 0,
+  "timestamp_ms": "1508644971277",
+  "in_reply_to_status_id": 921949619562696709,
+  "id_str": "921949948064739329",
+  "created_at": "Sun Oct 22 04:02:51 +0000 2017",
+  "coordinates": null,
+  "favorite_count": 0,
+  "entities": {
+    "user_mentions": [
+      {
+        "indices": [
+          0,
+          8
+        ],
+        "name": "Emma",
+        "screen_name": "cab2488",
+        "id": 4868295989,
+        "id_str": "4868295989"
+      }
+    ],
+    "symbols": [],
+    "hashtags": [],
+    "urls": []
+  },
+  "reply_count": 0,
+  "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+  "place": {
+    "attributes": {},
+    "url": "https://api.twitter.com/1.1/geo/id/004fe39f34e6452f.json",
+    "place_type": "city",
+    "id": "004fe39f34e6452f",
+    "country_code": "AR",
+    "name": "Quilmes",
+    "country": "Argentina",
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            -58.346384,
+            -34.801165
+          ],
+          [
+            -58.346384,
+            -34.694657
+          ],
+          [
+            -58.21515,
+            -34.694657
+          ],
+          [
+            -58.21515,
+            -34.801165
+          ]
+        ]
+      ]
+    },
+    "full_name": "Quilmes, Argentina"
+  },
+  "truncated": false,
+  "in_reply_to_status_id_str": "921949619562696709",
+  "in_reply_to_screen_name": "cab2488",
+  "filter_level": "low",
+  "text": "@cab2488 bien y vos ??? en q andas ??? te copas en charlar no es mi intenci\u00f3n molestarte",
+  "geo": null,
+  "in_reply_to_user_id_str": "4868295989",
+  "is_quote_status": false,
+  "display_text_range": [
+    9,
+    88
+  ],
+  "favorited": false,
+  "user": {
+    "verified": false,
+    "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/672541503877750786/Bv2JCVxN.jpg",
+    "statuses_count": 13033,
+    "screen_name": "ezequielvoytovi",
+    "default_profile_image": false,
+    "time_zone": "Buenos Aires",
+    "name": "Ezequiel Voytovich",
+    "id_str": "1166897508",
+    "profile_sidebar_border_color": "A8C7F7",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1166897508/1507784556",
+    "created_at": "Sun Feb 10 20:16:20 +0000 2013",
+    "friends_count": 2872,
+    "url": null,
+    "profile_background_tile": false,
+    "protected": false,
+    "translator_type": "regular",
+    "profile_text_color": "333333",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/918340225864056832/b03FkNmF_normal.jpg",
+    "listed_count": 9,
+    "notifications": null,
+    "contributors_enabled": false,
+    "is_translator": false,
+    "location": "Quilmes, Argentina",
+    "profile_use_background_image": true,
+    "followers_count": 1049,
+    "profile_sidebar_fill_color": "C0DFEC",
+    "geo_enabled": true,
+    "profile_link_color": "0084B4",
+    "favourites_count": 598,
+    "following": null,
+    "default_profile": false,
+    "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/672541503877750786/Bv2JCVxN.jpg",
+    "profile_background_color": "3B94D9",
+    "id": 1166897508,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/918340225864056832/b03FkNmF_normal.jpg",
+    "lang": "es",
+    "description": "Actor en @sisolosilaserie Y Catequista en @ParroquiaSRosa oyente de #La #TRASNOCHEPOP Con los mejores @Hectorlocutor  @Veromerigo @tasatasaok @pato_benegas",
+    "follow_request_sent": null,
+    "utc_offset": -10800
+  },
+  "quote_count": 0,
+  "lang": "es"
+}

@@ -1,0 +1,139 @@
+{
+  "entities": {
+    "hashtags": [
+      {
+        "indices": [
+          84,
+          91
+        ],
+        "text": "cambio"
+      },
+      {
+        "indices": [
+          107,
+          116
+        ],
+        "text": "Elegimos"
+      },
+      {
+        "indices": [
+          117,
+          137
+        ],
+        "text": "EleccionesArgentina"
+      }
+    ],
+    "symbols": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "indices": [
+          0,
+          13
+        ],
+        "screen_name": "gabimichetti",
+        "name": "Gabriela Michetti",
+        "id_str": "35778170",
+        "id": 35778170
+      }
+    ]
+  },
+  "in_reply_to_user_id": 35778170,
+  "created_at": "Sun Oct 22 23:44:49 +0000 2017",
+  "favorite_count": 0,
+  "lang": "es",
+  "reply_count": 0,
+  "id_str": "922247399141240832",
+  "in_reply_to_user_id_str": "35778170",
+  "in_reply_to_status_id": null,
+  "timestamp_ms": "1508715889140",
+  "text": "@gabimichetti \"los h\u00e9roes de esta elecci\u00f3n son los q todav\u00eda no ven las mejoras del #cambio en sus vidas\"\n\n#Elegimos\n#EleccionesArgentina",
+  "user": {
+    "time_zone": "Pacific Time (US & Canada)",
+    "screen_name": "suertemarioneta",
+    "utc_offset": -25200,
+    "created_at": "Fri Apr 29 13:27:08 +0000 2016",
+    "profile_background_tile": false,
+    "notifications": null,
+    "lang": "es",
+    "default_profile": false,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/726040118205792256/1482930416",
+    "id_str": "726040118205792256",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/814095430388764672/-KUxCx_V_normal.jpg",
+    "name": "SuerteDeLaMarioneta",
+    "friends_count": 463,
+    "translator_type": "none",
+    "protected": false,
+    "following": null,
+    "is_translator": false,
+    "follow_request_sent": null,
+    "profile_text_color": "000000",
+    "listed_count": 0,
+    "profile_link_color": "E81C4F",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "url": "http://suertemarioneta.wordpress.com",
+    "id": 726040118205792256,
+    "favourites_count": 2607,
+    "profile_background_color": "000000",
+    "followers_count": 86,
+    "statuses_count": 641,
+    "description": "Sujeto pol\u00edtico. En libertad de pensamiento, y desde mis verdades relativas-filos\u00f3ficas.\n\nAlucino con una patria libre y soberana.",
+    "location": "Argentina",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "default_profile_image": false,
+    "verified": false,
+    "profile_sidebar_fill_color": "000000",
+    "profile_use_background_image": false,
+    "contributors_enabled": false,
+    "profile_sidebar_border_color": "000000",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/814095430388764672/-KUxCx_V_normal.jpg",
+    "geo_enabled": true
+  },
+  "geo": null,
+  "id": 922247399141240832,
+  "quote_count": 0,
+  "retweeted": false,
+  "filter_level": "low",
+  "in_reply_to_status_id_str": null,
+  "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+  "favorited": false,
+  "coordinates": null,
+  "truncated": false,
+  "retweet_count": 0,
+  "is_quote_status": false,
+  "in_reply_to_screen_name": "gabimichetti",
+  "contributors": null,
+  "place": {
+    "bounding_box": {
+      "coordinates": [
+        [
+          [
+            -60.764198,
+            -31.684295
+          ],
+          [
+            -60.764198,
+            -31.553978
+          ],
+          [
+            -60.585606,
+            -31.553978
+          ],
+          [
+            -60.585606,
+            -31.684295
+          ]
+        ]
+      ],
+      "type": "Polygon"
+    },
+    "name": "Santa F\u00e9",
+    "url": "https://api.twitter.com/1.1/geo/id/01b40b49265b126c.json",
+    "country_code": "AR",
+    "id": "01b40b49265b126c",
+    "place_type": "city",
+    "attributes": {},
+    "full_name": "Santa F\u00e9, Argentina",
+    "country": "Argentina"
+  }
+}

@@ -1,0 +1,129 @@
+{
+  "in_reply_to_user_id": null,
+  "contributors": null,
+  "in_reply_to_screen_name": null,
+  "retweeted": false,
+  "retweet_count": 0,
+  "timestamp_ms": "1508645485684",
+  "in_reply_to_status_id": null,
+  "id_str": "921952105644085249",
+  "created_at": "Sun Oct 22 04:11:25 +0000 2017",
+  "id": 921952105644085249,
+  "coordinates": {
+    "type": "Point",
+    "coordinates": [
+      -70.6716,
+      -33.4395
+    ]
+  },
+  "favorite_count": 0,
+  "entities": {
+    "user_mentions": [],
+    "symbols": [],
+    "hashtags": [],
+    "urls": [
+      {
+        "expanded_url": "https://central132.cl/llamado-128330?3",
+        "indices": [
+          100,
+          123
+        ],
+        "url": "https://t.co/7lZJF99KT3",
+        "display_url": "central132.cl/llamado-128330\u2026"
+      }
+    ]
+  },
+  "reply_count": 0,
+  "source": "<a href=\"https://central132.cl\" rel=\"nofollow\">Central132</a>",
+  "place": {
+    "attributes": {},
+    "url": "https://api.twitter.com/1.1/geo/id/0010b4cb51ca93d8.json",
+    "place_type": "city",
+    "id": "0010b4cb51ca93d8",
+    "country_code": "CL",
+    "name": "Santiago",
+    "country": "Chile",
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            -70.692959,
+            -33.478574
+          ],
+          [
+            -70.692959,
+            -33.425749
+          ],
+          [
+            -70.626272,
+            -33.425749
+          ],
+          [
+            -70.626272,
+            -33.478574
+          ]
+        ]
+      ]
+    },
+    "full_name": "Santiago, Chile"
+  },
+  "truncated": false,
+  "in_reply_to_status_id_str": null,
+  "filter_level": "low",
+  "text": "01:11 en Santiago Llamado por fuego o humo en estructura (10-0-1) B4 B9 Q12 Garcia Reyes y Catedral https://t.co/7lZJF99KT3",
+  "geo": {
+    "type": "Point",
+    "coordinates": [
+      -33.4395,
+      -70.6716
+    ]
+  },
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": false,
+  "possibly_sensitive": false,
+  "favorited": false,
+  "user": {
+    "verified": false,
+    "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/502455708034428929/hBSVLSYw.jpeg",
+    "statuses_count": 38030,
+    "screen_name": "bomba2cl",
+    "default_profile_image": false,
+    "time_zone": "Buenos Aires",
+    "name": "2a Bomberos \u00d1u\u00f1oa",
+    "id_str": "130034670",
+    "profile_sidebar_border_color": "FFFFFF",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/130034670/1508512483",
+    "created_at": "Tue Apr 06 03:33:34 +0000 2010",
+    "friends_count": 447,
+    "url": "http://bomba2.cl",
+    "profile_background_tile": false,
+    "protected": false,
+    "translator_type": "none",
+    "profile_text_color": "333333",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/921394245046587392/CGpcxbTd_normal.jpg",
+    "listed_count": 185,
+    "notifications": null,
+    "contributors_enabled": false,
+    "is_translator": false,
+    "location": "Santiago, Chile",
+    "profile_use_background_image": true,
+    "followers_count": 25108,
+    "profile_sidebar_fill_color": "DDEEF6",
+    "geo_enabled": true,
+    "profile_link_color": "333536",
+    "favourites_count": 217,
+    "following": null,
+    "default_profile": false,
+    "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/502455708034428929/hBSVLSYw.jpeg",
+    "profile_background_color": "0A0A0A",
+    "id": 130034670,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/921394245046587392/CGpcxbTd_normal.jpg",
+    "lang": "es",
+    "description": "Escalas y Salvamento -Rescate Urbano - Rescate Vehicular - La Vida por La Humanidad - 8 de Diciembre de 1933 http://fb.com/bomba2cl http://youtube.com/bomba2cl",
+    "follow_request_sent": null,
+    "utc_offset": -10800
+  },
+  "quote_count": 0,
+  "lang": "es"
+}

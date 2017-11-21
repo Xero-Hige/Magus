@@ -1,0 +1,125 @@
+{
+  "in_reply_to_user_id": null,
+  "contributors": null,
+  "in_reply_to_screen_name": null,
+  "retweeted": false,
+  "retweet_count": 0,
+  "timestamp_ms": "1508644782725",
+  "in_reply_to_status_id": null,
+  "id_str": "921949157220372480",
+  "created_at": "Sun Oct 22 03:59:42 +0000 2017",
+  "id": 921949157220372480,
+  "coordinates": null,
+  "favorite_count": 0,
+  "entities": {
+    "user_mentions": [],
+    "symbols": [],
+    "hashtags": [
+      {
+        "text": "EleccionesArgentina",
+        "indices": [
+          65,
+          85
+        ]
+      }
+    ],
+    "urls": [
+      {
+        "expanded_url": "http://www.infobae.com/politica/2017/07/14/padron-definitivo-para-las-elecciones-legislativas/",
+        "indices": [
+          86,
+          109
+        ],
+        "url": "https://t.co/Vmqng9CqJ7",
+        "display_url": "infobae.com/politica/2017/\u2026"
+      }
+    ]
+  },
+  "reply_count": 0,
+  "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+  "place": {
+    "attributes": {},
+    "url": "https://api.twitter.com/1.1/geo/id/30e5bcffda059c80.json",
+    "place_type": "admin",
+    "id": "30e5bcffda059c80",
+    "country_code": "AR",
+    "name": "Mendoza",
+    "country": "Argentina",
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            -70.583131,
+            -37.577857
+          ],
+          [
+            -70.583131,
+            -31.967888
+          ],
+          [
+            -66.502313,
+            -31.967888
+          ],
+          [
+            -66.502313,
+            -37.577857
+          ]
+        ]
+      ]
+    },
+    "full_name": "Mendoza, Argentina"
+  },
+  "truncated": false,
+  "in_reply_to_status_id_str": null,
+  "filter_level": "low",
+  "text": "D\u00f3nde voto: padr\u00f3n definitivo para las elecciones legislativas \ud83c\udde6\ud83c\uddf7#EleccionesArgentina https://t.co/Vmqng9CqJ7",
+  "geo": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": false,
+  "possibly_sensitive": false,
+  "favorited": false,
+  "user": {
+    "verified": false,
+    "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000180096283/Kp32R67i.jpeg",
+    "statuses_count": 70065,
+    "screen_name": "geminisandrea",
+    "default_profile_image": false,
+    "time_zone": "Buenos Aires",
+    "name": "SONR\u00cdE...a LA VIDA!",
+    "id_str": "226035682",
+    "profile_sidebar_border_color": "FFFFFF",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/226035682/1452207081",
+    "created_at": "Mon Dec 13 04:12:45 +0000 2010",
+    "friends_count": 7380,
+    "url": "http://google.com/+AndreaOrtizsonr\u00edealavida",
+    "profile_background_tile": false,
+    "protected": false,
+    "translator_type": "none",
+    "profile_text_color": "000000",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/903816113062109188/ErqqQjaM_normal.jpg",
+    "listed_count": 112,
+    "notifications": null,
+    "contributors_enabled": false,
+    "is_translator": false,
+    "location": "Mendoza, Argentina",
+    "profile_use_background_image": true,
+    "followers_count": 9081,
+    "profile_sidebar_fill_color": "FF8A00",
+    "geo_enabled": true,
+    "profile_link_color": "16A4F0",
+    "favourites_count": 28289,
+    "following": null,
+    "default_profile": false,
+    "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000180096283/Kp32R67i.jpeg",
+    "profile_background_color": "FFFFFF",
+    "id": 226035682,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/903816113062109188/ErqqQjaM_normal.jpg",
+    "lang": "es",
+    "description": "Soy una persona AGRADECIDA  DE LA VIDA... As\u00ed de simple.",
+    "follow_request_sent": null,
+    "utc_offset": -10800
+  },
+  "quote_count": 0,
+  "lang": "es"
+}

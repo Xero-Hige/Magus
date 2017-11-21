@@ -1,0 +1,117 @@
+{
+  "in_reply_to_user_id": null,
+  "contributors": null,
+  "in_reply_to_screen_name": null,
+  "retweeted": false,
+  "retweet_count": 0,
+  "timestamp_ms": "1508644547258",
+  "in_reply_to_status_id": null,
+  "id_str": "921948169600151553",
+  "created_at": "Sun Oct 22 03:55:47 +0000 2017",
+  "id": 921948169600151553,
+  "coordinates": null,
+  "favorite_count": 0,
+  "entities": {
+    "user_mentions": [
+      {
+        "indices": [
+          7,
+          19
+        ],
+        "name": "Agust\u00edn Laje",
+        "screen_name": "AgustinLaje",
+        "id": 175273213,
+        "id_str": "175273213"
+      }
+    ],
+    "symbols": [],
+    "hashtags": [],
+    "urls": []
+  },
+  "reply_count": 0,
+  "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+  "place": {
+    "attributes": {},
+    "url": "https://api.twitter.com/1.1/geo/id/01ef53325401a80c.json",
+    "place_type": "city",
+    "id": "01ef53325401a80c",
+    "country_code": "AR",
+    "name": "Posadas",
+    "country": "Argentina",
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            -55.959513,
+            -27.45917
+          ],
+          [
+            -55.959513,
+            -27.350172
+          ],
+          [
+            -55.859909,
+            -27.350172
+          ],
+          [
+            -55.859909,
+            -27.45917
+          ]
+        ]
+      ]
+    },
+    "full_name": "Posadas, Argentina"
+  },
+  "truncated": false,
+  "in_reply_to_status_id_str": null,
+  "filter_level": "low",
+  "text": "Fuerza @AgustinLaje las feminazis saltan como v\u00edboras cuando uno muestra la verdad y se les derrumba el plan de tirar un muerto al Gobierno",
+  "geo": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": false,
+  "favorited": false,
+  "user": {
+    "verified": false,
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "statuses_count": 15641,
+    "screen_name": "facu_villalba95",
+    "default_profile_image": false,
+    "time_zone": null,
+    "name": "Facundo",
+    "id_str": "4475242517",
+    "profile_sidebar_border_color": "000000",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/4475242517/1450050305",
+    "created_at": "Sun Dec 13 23:41:05 +0000 2015",
+    "friends_count": 1465,
+    "url": null,
+    "profile_background_tile": false,
+    "protected": false,
+    "translator_type": "none",
+    "profile_text_color": "000000",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/921858742823587845/maxLvsSq_normal.jpg",
+    "listed_count": 11,
+    "notifications": null,
+    "contributors_enabled": false,
+    "is_translator": false,
+    "location": "Posadas, Argentina",
+    "profile_use_background_image": false,
+    "followers_count": 677,
+    "profile_sidebar_fill_color": "000000",
+    "geo_enabled": true,
+    "profile_link_color": "FFCC4D",
+    "favourites_count": 2359,
+    "following": null,
+    "default_profile": false,
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_color": "000000",
+    "id": 4475242517,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/921858742823587845/maxLvsSq_normal.jpg",
+    "lang": "es",
+    "description": "Macrista. Anti K y anti zurdos. Creo en una Argentina mejor de la mano de Mauricio Macri.",
+    "follow_request_sent": null,
+    "utc_offset": null
+  },
+  "quote_count": 0,
+  "lang": "es"
+}

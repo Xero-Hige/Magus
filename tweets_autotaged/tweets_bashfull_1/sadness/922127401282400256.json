@@ -1,0 +1,114 @@
+{
+  "in_reply_to_user_id": null,
+  "contributors": null,
+  "in_reply_to_screen_name": null,
+  "retweeted": false,
+  "retweet_count": 0,
+  "timestamp_ms": "1508687279421",
+  "in_reply_to_status_id": null,
+  "id_str": "922127401282400256",
+  "created_at": "Sun Oct 22 15:47:59 +0000 2017",
+  "id": 922127401282400256,
+  "coordinates": null,
+  "favorite_count": 0,
+  "entities": {
+    "user_mentions": [],
+    "symbols": [],
+    "hashtags": [
+      {
+        "text": "sarcasmo",
+        "indices": [
+          90,
+          99
+        ]
+      }
+    ],
+    "urls": []
+  },
+  "reply_count": 0,
+  "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+  "place": {
+    "attributes": {},
+    "url": "https://api.twitter.com/1.1/geo/id/0021712c0bd7eec1.json",
+    "place_type": "city",
+    "id": "0021712c0bd7eec1",
+    "country_code": "AR",
+    "name": "San Miguel de Tucum\u00e1n",
+    "country": "Argentina",
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            -65.280702,
+            -26.892137
+          ],
+          [
+            -65.280702,
+            -26.79606
+          ],
+          [
+            -65.165573,
+            -26.79606
+          ],
+          [
+            -65.165573,
+            -26.892137
+          ]
+        ]
+      ]
+    },
+    "full_name": "San Miguel de Tucum\u00e1n, Argentina"
+  },
+  "truncated": false,
+  "in_reply_to_status_id_str": null,
+  "filter_level": "low",
+  "text": "Lamento si soy muy ego\u00edsta.. lo siento por no querer cumplir los caprichos de los dem\u00e1s ! #sarcasmo",
+  "geo": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": false,
+  "favorited": false,
+  "user": {
+    "verified": false,
+    "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/499764907550584832/UbV8Y-9f.png",
+    "statuses_count": 1051,
+    "screen_name": "Emi_Scorpius",
+    "default_profile_image": false,
+    "time_zone": "Buenos Aires",
+    "name": "Scorpius",
+    "id_str": "227861212",
+    "profile_sidebar_border_color": "000000",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/227861212/1503720531",
+    "created_at": "Sat Dec 18 01:18:35 +0000 2010",
+    "friends_count": 169,
+    "url": "https://www.instagram.com/emi_scorpius",
+    "profile_background_tile": true,
+    "protected": false,
+    "translator_type": "none",
+    "profile_text_color": "333333",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/901296565771481088/1jJC5mbc_normal.jpg",
+    "listed_count": 0,
+    "notifications": null,
+    "contributors_enabled": false,
+    "is_translator": false,
+    "location": "Argentina",
+    "profile_use_background_image": true,
+    "followers_count": 41,
+    "profile_sidebar_fill_color": "EFEFEF",
+    "geo_enabled": true,
+    "profile_link_color": "050000",
+    "favourites_count": 365,
+    "following": null,
+    "default_profile": false,
+    "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/499764907550584832/UbV8Y-9f.png",
+    "profile_background_color": "131516",
+    "id": 227861212,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/901296565771481088/1jJC5mbc_normal.jpg",
+    "lang": "es",
+    "description": "I solemnly swear that i am up to no good ~ \u2661\u2607\nSlytherin \ud83d\udc9a\ud83d\udc0d",
+    "follow_request_sent": null,
+    "utc_offset": -10800
+  },
+  "quote_count": 0,
+  "lang": "es"
+}

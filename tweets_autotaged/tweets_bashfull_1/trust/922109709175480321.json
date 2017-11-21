@@ -1,0 +1,155 @@
+{
+  "in_reply_to_user_id": 79865092,
+  "contributors": null,
+  "id": 922109709175480321,
+  "retweeted": false,
+  "retweet_count": 0,
+  "timestamp_ms": "1508683061294",
+  "in_reply_to_status_id": 922100425687519234,
+  "id_str": "922109709175480321",
+  "coordinates": null,
+  "created_at": "Sun Oct 22 14:37:41 +0000 2017",
+  "quote_count": 0,
+  "favorite_count": 0,
+  "entities": {
+    "user_mentions": [
+      {
+        "indices": [
+          0,
+          11
+        ],
+        "name": "MArtin",
+        "screen_name": "LagerNLime",
+        "id": 79865092,
+        "id_str": "79865092"
+      }
+    ],
+    "symbols": [],
+    "hashtags": [],
+    "urls": [
+      {
+        "expanded_url": "https://twitter.com/i/web/status/922109709175480321",
+        "indices": [
+          116,
+          139
+        ],
+        "url": "https://t.co/cfILWdtAlO",
+        "display_url": "twitter.com/i/web/status/9\u2026"
+      }
+    ]
+  },
+  "reply_count": 0,
+  "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+  "place": {
+    "attributes": {},
+    "url": "https://api.twitter.com/1.1/geo/id/0108c69f708ae783.json",
+    "place_type": "city",
+    "id": "0108c69f708ae783",
+    "country_code": "AR",
+    "name": "Avellaneda",
+    "country": "Argentina",
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            -58.40649,
+            -34.726948
+          ],
+          [
+            -58.40649,
+            -34.638333
+          ],
+          [
+            -58.297038,
+            -34.638333
+          ],
+          [
+            -58.297038,
+            -34.726948
+          ]
+        ]
+      ]
+    },
+    "full_name": "Avellaneda, Argentina"
+  },
+  "truncated": true,
+  "in_reply_to_status_id_str": "922100425687519234",
+  "in_reply_to_screen_name": "LagerNLime",
+  "filter_level": "low",
+  "text": "@LagerNLime El trabajo del juez es dilucidar un crimen, todo lo que contribuya a eso dentro del marco de la ley es\u2026 https://t.co/cfILWdtAlO",
+  "geo": null,
+  "in_reply_to_user_id_str": "79865092",
+  "is_quote_status": false,
+  "display_text_range": [
+    12,
+    140
+  ],
+  "favorited": false,
+  "user": {
+    "verified": false,
+    "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/623494468063379456/VvYD6yrO.png",
+    "statuses_count": 97215,
+    "screen_name": "andy_tow",
+    "default_profile_image": false,
+    "time_zone": "Buenos Aires",
+    "name": "Andy Tow",
+    "id_str": "35839931",
+    "profile_sidebar_border_color": "000000",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/35839931/1492274703",
+    "created_at": "Mon Apr 27 19:51:39 +0000 2009",
+    "friends_count": 997,
+    "url": "http://www.andytow.com",
+    "profile_background_tile": false,
+    "protected": false,
+    "translator_type": "regular",
+    "profile_text_color": "000000",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/879543645636096001/3LSdjmQm_normal.jpg",
+    "listed_count": 294,
+    "notifications": null,
+    "contributors_enabled": false,
+    "is_translator": false,
+    "location": "Buenos Aires, Argentina",
+    "profile_use_background_image": true,
+    "followers_count": 16279,
+    "profile_sidebar_fill_color": "000000",
+    "geo_enabled": true,
+    "profile_link_color": "1B95E0",
+    "favourites_count": 38724,
+    "following": null,
+    "default_profile": false,
+    "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/623494468063379456/VvYD6yrO.png",
+    "profile_background_color": "C0DEED",
+    "id": 35839931,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/879543645636096001/3LSdjmQm_normal.jpg",
+    "lang": "es",
+    "description": "Polit\u00f3logo",
+    "follow_request_sent": null,
+    "utc_offset": -10800
+  },
+  "extended_tweet": {
+    "entities": {
+      "user_mentions": [
+        {
+          "indices": [
+            0,
+            11
+          ],
+          "name": "MArtin",
+          "screen_name": "LagerNLime",
+          "id": 79865092,
+          "id_str": "79865092"
+        }
+      ],
+      "symbols": [],
+      "hashtags": [],
+      "urls": []
+    },
+    "display_text_range": [
+      12,
+      152
+    ],
+    "full_text": "@LagerNLime El trabajo del juez es dilucidar un crimen, todo lo que contribuya a eso dentro del marco de la ley es bienvenido, sobre todo si es efectivo"
+  },
+  "lang": "es"
+}

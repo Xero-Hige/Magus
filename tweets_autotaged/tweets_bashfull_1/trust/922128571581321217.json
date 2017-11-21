@@ -1,0 +1,114 @@
+{
+  "in_reply_to_user_id": null,
+  "contributors": null,
+  "in_reply_to_screen_name": null,
+  "retweeted": false,
+  "retweet_count": 0,
+  "timestamp_ms": "1508687558442",
+  "in_reply_to_status_id": null,
+  "id_str": "922128571581321217",
+  "created_at": "Sun Oct 22 15:52:38 +0000 2017",
+  "id": 922128571581321217,
+  "coordinates": null,
+  "favorite_count": 0,
+  "entities": {
+    "user_mentions": [],
+    "symbols": [],
+    "hashtags": [
+      {
+        "text": "EleccionesArgentina",
+        "indices": [
+          0,
+          20
+        ]
+      }
+    ],
+    "urls": []
+  },
+  "reply_count": 0,
+  "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+  "place": {
+    "attributes": {},
+    "url": "https://api.twitter.com/1.1/geo/id/0177894212b08f73.json",
+    "place_type": "city",
+    "id": "0177894212b08f73",
+    "country_code": "AR",
+    "name": "La Plata",
+    "country": "Argentina",
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            -58.160874,
+            -35.031373
+          ],
+          [
+            -58.160874,
+            -34.841264
+          ],
+          [
+            -57.865169,
+            -34.841264
+          ],
+          [
+            -57.865169,
+            -35.031373
+          ]
+        ]
+      ]
+    },
+    "full_name": "La Plata, Argentina"
+  },
+  "truncated": false,
+  "in_reply_to_status_id_str": null,
+  "filter_level": "low",
+  "text": "#EleccionesArgentina El Secretario de Actuaci\u00f3n Electoral Sebasti\u00e1n Schimmel dijo que vot\u00f3 el 29% del padr\u00f3n: \u201cEs un porcentaje alto\u201d",
+  "geo": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": false,
+  "favorited": false,
+  "user": {
+    "verified": false,
+    "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/484769007635927040/Uwogzpv3.jpeg",
+    "statuses_count": 6989,
+    "screen_name": "ActorPolitico",
+    "default_profile_image": false,
+    "time_zone": "Pacific Time (US & Canada)",
+    "name": "Actor Pol\u00edtico",
+    "id_str": "2542705400",
+    "profile_sidebar_border_color": "FFFFFF",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/2542705400/1404412841",
+    "created_at": "Tue Jun 03 03:46:47 +0000 2014",
+    "friends_count": 893,
+    "url": "http://actorpolitico.com/",
+    "profile_background_tile": true,
+    "protected": false,
+    "translator_type": "none",
+    "profile_text_color": "333333",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/484401557425766400/ktSoyBxS_normal.jpeg",
+    "listed_count": 18,
+    "notifications": null,
+    "contributors_enabled": false,
+    "is_translator": false,
+    "location": null,
+    "profile_use_background_image": true,
+    "followers_count": 3600,
+    "profile_sidebar_fill_color": "DDEEF6",
+    "geo_enabled": true,
+    "profile_link_color": "0084B4",
+    "favourites_count": 188,
+    "following": null,
+    "default_profile": false,
+    "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/484769007635927040/Uwogzpv3.jpeg",
+    "profile_background_color": "C0DEED",
+    "id": 2542705400,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/484401557425766400/ktSoyBxS_normal.jpeg",
+    "lang": "es",
+    "description": "Pol\u00edtica Nacional y de la Provincia de Buenos Aires. Actualidad, an\u00e1lisis, opini\u00f3n.",
+    "follow_request_sent": null,
+    "utc_offset": -25200
+  },
+  "quote_count": 0,
+  "lang": "es"
+}

@@ -1,0 +1,175 @@
+{
+  "in_reply_to_user_id": 169339060,
+  "contributors": null,
+  "id": 922027549852659713,
+  "retweeted": false,
+  "retweet_count": 0,
+  "timestamp_ms": "1508663472985",
+  "in_reply_to_status_id": 921954532661309445,
+  "id_str": "922027549852659713",
+  "coordinates": null,
+  "created_at": "Sun Oct 22 09:11:12 +0000 2017",
+  "quote_count": 0,
+  "favorite_count": 0,
+  "entities": {
+    "user_mentions": [
+      {
+        "indices": [
+          0,
+          9
+        ],
+        "name": "Bernardo",
+        "screen_name": "BlCalvis",
+        "id": 169339060,
+        "id_str": "169339060"
+      },
+      {
+        "indices": [
+          10,
+          23
+        ],
+        "name": "Titi",
+        "screen_name": "mentanaranja",
+        "id": 3244434651,
+        "id_str": "3244434651"
+      }
+    ],
+    "symbols": [],
+    "hashtags": [],
+    "urls": [
+      {
+        "expanded_url": "https://twitter.com/i/web/status/922027549852659713",
+        "indices": [
+          117,
+          140
+        ],
+        "url": "https://t.co/WHzX34sn7K",
+        "display_url": "twitter.com/i/web/status/9\u2026"
+      }
+    ]
+  },
+  "reply_count": 0,
+  "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+  "place": {
+    "attributes": {},
+    "url": "https://api.twitter.com/1.1/geo/id/018f1cde6bad9747.json",
+    "place_type": "city",
+    "id": "018f1cde6bad9747",
+    "country_code": "AR",
+    "name": "Ciudad Aut\u00f3noma de Buenos Aires",
+    "country": "Argentina",
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            -58.531792,
+            -34.674453
+          ],
+          [
+            -58.531792,
+            -34.534177
+          ],
+          [
+            -58.353494,
+            -34.534177
+          ],
+          [
+            -58.353494,
+            -34.674453
+          ]
+        ]
+      ]
+    },
+    "full_name": "Ciudad Aut\u00f3noma de Buenos Aires, Argentina"
+  },
+  "truncated": true,
+  "in_reply_to_status_id_str": "921954532661309445",
+  "in_reply_to_screen_name": "BlCalvis",
+  "filter_level": "low",
+  "text": "@BlCalvis @mentanaranja Entonces tenes que ir a la justicia y denunciar. Cual es el robo y la corrupci\u00f3n que ves? H\u2026 https://t.co/WHzX34sn7K",
+  "geo": null,
+  "in_reply_to_user_id_str": "169339060",
+  "is_quote_status": false,
+  "display_text_range": [
+    24,
+    140
+  ],
+  "favorited": false,
+  "user": {
+    "verified": false,
+    "profile_background_image_url": "",
+    "statuses_count": 337,
+    "screen_name": "Carol_Von_Hofne",
+    "default_profile_image": false,
+    "time_zone": null,
+    "name": "Carol Von Hofner",
+    "id_str": "707392846714769409",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/707392846714769409/1508594535",
+    "created_at": "Wed Mar 09 02:29:32 +0000 2016",
+    "friends_count": 130,
+    "url": null,
+    "profile_background_tile": false,
+    "protected": false,
+    "translator_type": "none",
+    "profile_text_color": "333333",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/921699937091452929/D4Rhb0qr_normal.jpg",
+    "listed_count": 1,
+    "notifications": null,
+    "contributors_enabled": false,
+    "is_translator": false,
+    "location": null,
+    "profile_use_background_image": true,
+    "followers_count": 13,
+    "profile_sidebar_fill_color": "DDEEF6",
+    "geo_enabled": true,
+    "profile_link_color": "1DA1F2",
+    "favourites_count": 401,
+    "following": null,
+    "default_profile": true,
+    "profile_background_image_url_https": "",
+    "profile_background_color": "F5F8FA",
+    "id": 707392846714769409,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/921699937091452929/D4Rhb0qr_normal.jpg",
+    "lang": "en",
+    "description": null,
+    "follow_request_sent": null,
+    "utc_offset": null
+  },
+  "extended_tweet": {
+    "entities": {
+      "user_mentions": [
+        {
+          "indices": [
+            0,
+            9
+          ],
+          "name": "Bernardo",
+          "screen_name": "BlCalvis",
+          "id": 169339060,
+          "id_str": "169339060"
+        },
+        {
+          "indices": [
+            10,
+            23
+          ],
+          "name": "Titi",
+          "screen_name": "mentanaranja",
+          "id": 3244434651,
+          "id_str": "3244434651"
+        }
+      ],
+      "symbols": [],
+      "hashtags": [],
+      "urls": []
+    },
+    "display_text_range": [
+      24,
+      163
+    ],
+    "full_text": "@BlCalvis @mentanaranja Entonces tenes que ir a la justicia y denunciar. Cual es el robo y la corrupci\u00f3n que ves? Hay un telefono y una oficina que lo va a tratar."
+  },
+  "lang": "es"
+}

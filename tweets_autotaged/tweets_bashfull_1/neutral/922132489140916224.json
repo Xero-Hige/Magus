@@ -1,0 +1,120 @@
+{
+  "in_reply_to_user_id": 69416519,
+  "contributors": null,
+  "id": 922132489140916224,
+  "retweeted": false,
+  "retweet_count": 0,
+  "timestamp_ms": "1508688492461",
+  "in_reply_to_status_id": 922131939431247872,
+  "id_str": "922132489140916224",
+  "created_at": "Sun Oct 22 16:08:12 +0000 2017",
+  "coordinates": null,
+  "favorite_count": 0,
+  "entities": {
+    "user_mentions": [
+      {
+        "indices": [
+          0,
+          8
+        ],
+        "name": "infobae",
+        "screen_name": "infobae",
+        "id": 69416519,
+        "id_str": "69416519"
+      }
+    ],
+    "symbols": [],
+    "hashtags": [],
+    "urls": []
+  },
+  "reply_count": 0,
+  "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+  "place": {
+    "attributes": {},
+    "url": "https://api.twitter.com/1.1/geo/id/0a738ff13a08a7dd.json",
+    "place_type": "admin",
+    "id": "0a738ff13a08a7dd",
+    "country_code": "AR",
+    "name": "Santa Fe",
+    "country": "Argentina",
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            -62.889222,
+            -34.384297
+          ],
+          [
+            -62.889222,
+            -27.993928
+          ],
+          [
+            -58.870821,
+            -27.993928
+          ],
+          [
+            -58.870821,
+            -34.384297
+          ]
+        ]
+      ]
+    },
+    "full_name": "Santa Fe, Argentina"
+  },
+  "truncated": false,
+  "in_reply_to_status_id_str": "922131939431247872",
+  "in_reply_to_screen_name": "infobae",
+  "filter_level": "low",
+  "text": "@infobae no me entretengas mas con pelotudeces, ya gastaron todas la pichangas con SM , hdp!!!",
+  "geo": null,
+  "in_reply_to_user_id_str": "69416519",
+  "is_quote_status": false,
+  "display_text_range": [
+    9,
+    94
+  ],
+  "favorited": false,
+  "user": {
+    "verified": false,
+    "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/855548072/02adae198cb673739efb1095a185e04d.jpeg",
+    "statuses_count": 37081,
+    "screen_name": "Manolo9213",
+    "default_profile_image": false,
+    "time_zone": "Buenos Aires",
+    "name": "Miguel Angel Saretto",
+    "id_str": "261258656",
+    "profile_sidebar_border_color": "FFFFFF",
+    "created_at": "Sat Mar 05 15:50:35 +0000 2011",
+    "friends_count": 654,
+    "url": null,
+    "profile_background_tile": true,
+    "protected": false,
+    "translator_type": "none",
+    "profile_text_color": "333333",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/708321812682244096/B2E4HSTQ_normal.jpg",
+    "listed_count": 17,
+    "notifications": null,
+    "contributors_enabled": false,
+    "is_translator": false,
+    "location": "Argentina",
+    "profile_use_background_image": true,
+    "followers_count": 395,
+    "profile_sidebar_fill_color": "FFFFFF",
+    "geo_enabled": true,
+    "profile_link_color": "ABB8C2",
+    "favourites_count": 2200,
+    "following": null,
+    "default_profile": false,
+    "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/855548072/02adae198cb673739efb1095a185e04d.jpeg",
+    "profile_background_color": "352726",
+    "id": 261258656,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/708321812682244096/B2E4HSTQ_normal.jpg",
+    "lang": "es",
+    "description": "\"https://twitter.com/vilsalvadir/status/902491772361875456\"",
+    "follow_request_sent": null,
+    "utc_offset": -10800
+  },
+  "quote_count": 0,
+  "lang": "es"
+}

@@ -1,0 +1,129 @@
+{
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "urls": [
+      {
+        "indices": [
+          117,
+          140
+        ],
+        "expanded_url": "https://twitter.com/i/web/status/922238270473428992",
+        "display_url": "twitter.com/i/web/status/9\u2026",
+        "url": "https://t.co/no0MBGePuK"
+      }
+    ],
+    "user_mentions": []
+  },
+  "in_reply_to_user_id": null,
+  "created_at": "Sun Oct 22 23:08:32 +0000 2017",
+  "favorite_count": 0,
+  "lang": "es",
+  "reply_count": 0,
+  "id_str": "922238270473428992",
+  "in_reply_to_user_id_str": null,
+  "extended_tweet": {
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "urls": [],
+      "user_mentions": []
+    },
+    "display_text_range": [
+      0,
+      144
+    ],
+    "full_text": "Javier, el pueblo una vez m\u00e1s te da las gracias y te sigue apoyando!!! \ud83d\ude03\ud83d\ude03\ud83d\ude03 Las Rosas hizo hablar las unas !!!!! Vamos CAMBIEMOS carajooooo!!!!!!"
+  },
+  "in_reply_to_status_id": null,
+  "timestamp_ms": "1508713712696",
+  "text": "Javier, el pueblo una vez m\u00e1s te da las gracias y te sigue apoyando!!! \ud83d\ude03\ud83d\ude03\ud83d\ude03 Las Rosas hizo hablar las unas !!!!! Vam\u2026 https://t.co/no0MBGePuK",
+  "user": {
+    "time_zone": null,
+    "screen_name": "celestones85",
+    "utc_offset": null,
+    "created_at": "Sat May 28 03:41:01 +0000 2016",
+    "profile_background_tile": false,
+    "notifications": null,
+    "lang": "es",
+    "default_profile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/736401868394467328/1491317752",
+    "id_str": "736401868394467328",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/907423112848965632/7eVJOH0Z_normal.jpg",
+    "name": "Valentina\ud83d\udc51\ud83c\udde6\ud83c\uddf7",
+    "friends_count": 214,
+    "translator_type": "none",
+    "protected": false,
+    "following": null,
+    "is_translator": false,
+    "follow_request_sent": null,
+    "profile_text_color": "333333",
+    "listed_count": 0,
+    "profile_link_color": "1DA1F2",
+    "profile_background_image_url": "",
+    "url": null,
+    "id": 736401868394467328,
+    "favourites_count": 1823,
+    "profile_background_color": "F5F8FA",
+    "followers_count": 320,
+    "statuses_count": 3161,
+    "description": "|\u00b0\u25cf\u300aClub Atl\u00e9tico Almafuerte\u300b\u25cf\u00b0| ......\u25cb\u25cf\u25cbEstudiantes de La Plata\u25cb\u25cf\u25cb...... Estudiante de Educaci\u00f3n F\u00edsica!",
+    "location": "Las Rosas, Santa Fe",
+    "profile_background_image_url_https": "",
+    "default_profile_image": false,
+    "verified": false,
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_use_background_image": true,
+    "contributors_enabled": false,
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/907423112848965632/7eVJOH0Z_normal.jpg",
+    "geo_enabled": true
+  },
+  "geo": null,
+  "id": 922238270473428992,
+  "quote_count": 0,
+  "retweeted": false,
+  "filter_level": "low",
+  "in_reply_to_status_id_str": null,
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "favorited": false,
+  "coordinates": null,
+  "truncated": true,
+  "retweet_count": 0,
+  "is_quote_status": false,
+  "in_reply_to_screen_name": null,
+  "contributors": null,
+  "place": {
+    "bounding_box": {
+      "coordinates": [
+        [
+          [
+            -62.889222,
+            -34.384297
+          ],
+          [
+            -62.889222,
+            -27.993928
+          ],
+          [
+            -58.870821,
+            -27.993928
+          ],
+          [
+            -58.870821,
+            -34.384297
+          ]
+        ]
+      ],
+      "type": "Polygon"
+    },
+    "name": "Santa Fe",
+    "url": "https://api.twitter.com/1.1/geo/id/0a738ff13a08a7dd.json",
+    "country_code": "AR",
+    "id": "0a738ff13a08a7dd",
+    "place_type": "admin",
+    "attributes": {},
+    "full_name": "Santa Fe, Argentina",
+    "country": "Argentina"
+  }
+}

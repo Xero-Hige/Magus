@@ -1,0 +1,129 @@
+{
+  "in_reply_to_user_id": null,
+  "contributors": null,
+  "in_reply_to_screen_name": null,
+  "retweeted": false,
+  "retweet_count": 0,
+  "timestamp_ms": "1508677475901",
+  "in_reply_to_status_id": null,
+  "id_str": "922086282339241986",
+  "created_at": "Sun Oct 22 13:04:35 +0000 2017",
+  "id": 922086282339241986,
+  "coordinates": {
+    "type": "Point",
+    "coordinates": [
+      -70.65967284,
+      -33.44629216
+    ]
+  },
+  "favorite_count": 0,
+  "entities": {
+    "user_mentions": [],
+    "symbols": [],
+    "hashtags": [],
+    "urls": [
+      {
+        "expanded_url": "https://www.instagram.com/p/BajSJqQFlmz/",
+        "indices": [
+          98,
+          121
+        ],
+        "url": "https://t.co/ALqka1HzDi",
+        "display_url": "instagram.com/p/BajSJqQFlmz/"
+      }
+    ]
+  },
+  "reply_count": 0,
+  "source": "<a href=\"http://instagram.com\" rel=\"nofollow\">Instagram</a>",
+  "place": {
+    "attributes": {},
+    "url": "https://api.twitter.com/1.1/geo/id/0010b4cb51ca93d8.json",
+    "place_type": "city",
+    "id": "0010b4cb51ca93d8",
+    "country_code": "CL",
+    "name": "Santiago",
+    "country": "Chile",
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            -70.692959,
+            -33.478574
+          ],
+          [
+            -70.692959,
+            -33.425749
+          ],
+          [
+            -70.626272,
+            -33.425749
+          ],
+          [
+            -70.626272,
+            -33.478574
+          ]
+        ]
+      ]
+    },
+    "full_name": "Santiago, Chile"
+  },
+  "truncated": false,
+  "in_reply_to_status_id_str": null,
+  "filter_level": "low",
+  "text": "Ahora Coyhaique, feliz de  compartir una vez m\u00e1s jornadas de aprendizaje con Profesionales de la\u2026 https://t.co/ALqka1HzDi",
+  "geo": {
+    "type": "Point",
+    "coordinates": [
+      -33.44629216,
+      -70.65967284
+    ]
+  },
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": false,
+  "possibly_sensitive": false,
+  "favorited": false,
+  "user": {
+    "verified": false,
+    "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/95372150/Belleza_y_Gestion.jpg",
+    "statuses_count": 2294,
+    "screen_name": "BurgosRoberto",
+    "default_profile_image": false,
+    "time_zone": "Santiago",
+    "name": "Roberto Burgos",
+    "id_str": "123276239",
+    "profile_sidebar_border_color": "FFFFFF",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/123276239/1402199680",
+    "created_at": "Mon Mar 15 15:25:04 +0000 2010",
+    "friends_count": 989,
+    "url": "http://www.bellezaygestion.com",
+    "profile_background_tile": true,
+    "protected": false,
+    "translator_type": "none",
+    "profile_text_color": "333333",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/475485816706174976/EcFvvPuD_normal.jpeg",
+    "listed_count": 9,
+    "notifications": null,
+    "contributors_enabled": false,
+    "is_translator": false,
+    "location": "Chile",
+    "profile_use_background_image": true,
+    "followers_count": 1777,
+    "profile_sidebar_fill_color": "DDEEF6",
+    "geo_enabled": true,
+    "profile_link_color": "0084B4",
+    "favourites_count": 616,
+    "following": null,
+    "default_profile": false,
+    "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/95372150/Belleza_y_Gestion.jpg",
+    "profile_background_color": "C0DEED",
+    "id": 123276239,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/475485816706174976/EcFvvPuD_normal.jpeg",
+    "lang": "es",
+    "description": "Consultor Internacional Gerenciamiento sector de la Belleza - Belleza y Gesti\u00f3n - http://www.robertoburgos.com",
+    "follow_request_sent": null,
+    "utc_offset": -10800
+  },
+  "quote_count": 0,
+  "lang": "es"
+}

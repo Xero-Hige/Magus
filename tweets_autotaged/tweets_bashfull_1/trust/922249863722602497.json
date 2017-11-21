@@ -1,0 +1,240 @@
+{
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "urls": [
+      {
+        "indices": [
+          117,
+          140
+        ],
+        "expanded_url": "https://twitter.com/i/web/status/922249863722602497",
+        "display_url": "twitter.com/i/web/status/9\u2026",
+        "url": "https://t.co/V7vUCgjhlC"
+      }
+    ],
+    "user_mentions": [
+      {
+        "indices": [
+          92,
+          107
+        ],
+        "screen_name": "marioraulnegri",
+        "name": "Mario Raul Negri",
+        "id_str": "267784293",
+        "id": 267784293
+      }
+    ]
+  },
+  "in_reply_to_user_id": null,
+  "reply_count": 0,
+  "id_str": "922249863722602497",
+  "in_reply_to_user_id_str": null,
+  "extended_tweet": {
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "urls": [
+        {
+          "indices": [
+            123,
+            146
+          ],
+          "expanded_url": "https://twitter.com/CoronelGonorrea/status/922245421891801088",
+          "display_url": "twitter.com/CoronelGonorre\u2026",
+          "url": "https://t.co/y7UkRY268Z"
+        }
+      ],
+      "user_mentions": [
+        {
+          "indices": [
+            92,
+            107
+          ],
+          "screen_name": "marioraulnegri",
+          "name": "Mario Raul Negri",
+          "id_str": "267784293",
+          "id": 267784293
+        }
+      ]
+    },
+    "display_text_range": [
+      0,
+      122
+    ],
+    "full_text": "Es un grande! Honesto, capaz, adem\u00e1s es de origen entrerriano, se le mezclan las tonadas. A @marioraulnegri No lo toques!! https://t.co/y7UkRY268Z"
+  },
+  "text": "Es un grande! Honesto, capaz, adem\u00e1s es de origen entrerriano, se le mezclan las tonadas. A @marioraulnegri No lo t\u2026 https://t.co/V7vUCgjhlC",
+  "is_quote_status": true,
+  "quote_count": 0,
+  "quoted_status_id_str": "922245421891801088",
+  "in_reply_to_status_id_str": null,
+  "geo": null,
+  "display_text_range": [
+    0,
+    140
+  ],
+  "truncated": true,
+  "contributors": null,
+  "place": {
+    "bounding_box": {
+      "coordinates": [
+        [
+          [
+            -64.532816,
+            -31.465601
+          ],
+          [
+            -64.532816,
+            -31.382763
+          ],
+          [
+            -64.454134,
+            -31.382763
+          ],
+          [
+            -64.454134,
+            -31.465601
+          ]
+        ]
+      ],
+      "type": "Polygon"
+    },
+    "name": "Villa Carlos Paz",
+    "url": "https://api.twitter.com/1.1/geo/id/01a09ade70818f7c.json",
+    "country_code": "AR",
+    "id": "01a09ade70818f7c",
+    "place_type": "city",
+    "attributes": {},
+    "full_name": "Villa Carlos Paz, Argentina",
+    "country": "Argentina"
+  },
+  "created_at": "Sun Oct 22 23:54:36 +0000 2017",
+  "favorite_count": 0,
+  "lang": "es",
+  "retweet_count": 0,
+  "in_reply_to_status_id": null,
+  "timestamp_ms": "1508716476742",
+  "possibly_sensitive": false,
+  "user": {
+    "time_zone": "Buenos Aires",
+    "screen_name": "Monica_VCP",
+    "utc_offset": -10800,
+    "created_at": "Tue Jan 29 00:34:33 +0000 2013",
+    "profile_background_tile": false,
+    "notifications": null,
+    "lang": "es",
+    "default_profile": false,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1129624286/1478479888",
+    "id_str": "1129624286",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/872161506535903236/v60B8wzm_normal.jpg",
+    "name": "Cordobesa",
+    "friends_count": 2749,
+    "translator_type": "none",
+    "protected": false,
+    "following": null,
+    "is_translator": false,
+    "follow_request_sent": null,
+    "profile_text_color": "000000",
+    "listed_count": 11,
+    "profile_link_color": "E81C4F",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+    "url": null,
+    "id": 1129624286,
+    "favourites_count": 4709,
+    "profile_background_color": "000000",
+    "followers_count": 1503,
+    "statuses_count": 18508,
+    "description": "Quien no quiere pensar es un fan\u00e1tico. Quien no puede pensar es un idiota. Y quien no se atreve a pensar es un cobarde. (Bacon) UCR (ahora Cambiemos)",
+    "location": "Villa Carlos Paz Argentina",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+    "default_profile_image": false,
+    "verified": false,
+    "profile_sidebar_fill_color": "000000",
+    "profile_use_background_image": false,
+    "contributors_enabled": false,
+    "profile_sidebar_border_color": "000000",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/872161506535903236/v60B8wzm_normal.jpg",
+    "geo_enabled": true
+  },
+  "id": 922249863722602497,
+  "retweeted": false,
+  "filter_level": "low",
+  "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+  "favorited": false,
+  "quoted_status": {
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "urls": [],
+      "user_mentions": []
+    },
+    "filter_level": "low",
+    "in_reply_to_user_id": null,
+    "created_at": "Sun Oct 22 23:36:57 +0000 2017",
+    "favorite_count": 333,
+    "lang": "es",
+    "reply_count": 10,
+    "id_str": "922245421891801088",
+    "in_reply_to_user_id_str": null,
+    "favorited": false,
+    "in_reply_to_status_id": null,
+    "text": "Mario Negri esta para conducir Jesus Maria.",
+    "user": {
+      "time_zone": "Buenos Aires",
+      "screen_name": "CoronelGonorrea",
+      "utc_offset": -10800,
+      "created_at": "Fri Jul 02 22:33:53 +0000 2010",
+      "profile_background_tile": false,
+      "notifications": null,
+      "lang": "en",
+      "default_profile": false,
+      "follow_request_sent": null,
+      "id_str": "162171015",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1691469065/maidna1_normal.jpg",
+      "name": "Coronel Gonorrea",
+      "friends_count": 1152,
+      "translator_type": "none",
+      "protected": false,
+      "following": null,
+      "is_translator": false,
+      "profile_text_color": "333333",
+      "listed_count": 1007,
+      "profile_link_color": "009999",
+      "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000120067073/927d15931dc6ad584712daad4bce7efd.jpeg",
+      "url": null,
+      "id": 162171015,
+      "favourites_count": 6771,
+      "profile_background_color": "131516",
+      "followers_count": 216706,
+      "statuses_count": 94146,
+      "description": "Cojo mal.",
+      "location": null,
+      "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000120067073/927d15931dc6ad584712daad4bce7efd.jpeg",
+      "default_profile_image": false,
+      "verified": false,
+      "profile_sidebar_fill_color": "EFEFEF",
+      "profile_use_background_image": false,
+      "contributors_enabled": false,
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1691469065/maidna1_normal.jpg",
+      "geo_enabled": false
+    },
+    "id": 922245421891801088,
+    "quote_count": 6,
+    "retweeted": false,
+    "is_quote_status": false,
+    "in_reply_to_status_id_str": null,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "geo": null,
+    "coordinates": null,
+    "truncated": false,
+    "retweet_count": 52,
+    "in_reply_to_screen_name": null,
+    "contributors": null,
+    "place": null
+  },
+  "coordinates": null,
+  "in_reply_to_screen_name": null,
+  "quoted_status_id": 922245421891801088
+}

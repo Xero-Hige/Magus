@@ -1,0 +1,117 @@
+{
+  "in_reply_to_user_id": null,
+  "contributors": null,
+  "in_reply_to_screen_name": null,
+  "retweeted": false,
+  "retweet_count": 0,
+  "timestamp_ms": "1508684622964",
+  "in_reply_to_status_id": null,
+  "id_str": "922116259294179329",
+  "created_at": "Sun Oct 22 15:03:42 +0000 2017",
+  "id": 922116259294179329,
+  "coordinates": null,
+  "favorite_count": 0,
+  "entities": {
+    "user_mentions": [
+      {
+        "indices": [
+          34,
+          43
+        ],
+        "name": "A",
+        "screen_name": "aguiller",
+        "id": 156020978,
+        "id_str": "156020978"
+      }
+    ],
+    "symbols": [],
+    "hashtags": [],
+    "urls": []
+  },
+  "reply_count": 0,
+  "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+  "place": {
+    "attributes": {},
+    "url": "https://api.twitter.com/1.1/geo/id/0150459b5095a59f.json",
+    "place_type": "city",
+    "id": "0150459b5095a59f",
+    "country_code": "CL",
+    "name": "Concepci\u00f3n",
+    "country": "Chile",
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            -73.091398,
+            -36.923936
+          ],
+          [
+            -73.091398,
+            -36.760435
+          ],
+          [
+            -72.845604,
+            -36.760435
+          ],
+          [
+            -72.845604,
+            -36.923936
+          ]
+        ]
+      ]
+    },
+    "full_name": "Concepci\u00f3n, Chile"
+  },
+  "truncated": false,
+  "in_reply_to_status_id_str": null,
+  "filter_level": "low",
+  "text": "Cadem de esta semana: Pi\u00f1era 47%, @aguiller el 42%. Vamos que se puede..a seguir avanzando, a potenciar el cartilleo en la calle, las casas",
+  "geo": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": false,
+  "favorited": false,
+  "user": {
+    "verified": false,
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme10/bg.gif",
+    "statuses_count": 5577,
+    "screen_name": "fredda1",
+    "default_profile_image": false,
+    "time_zone": "Santiago",
+    "name": "Fredda Espinoza Mora",
+    "id_str": "89339294",
+    "profile_sidebar_border_color": "000000",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/89339294/1369183255",
+    "created_at": "Thu Nov 12 01:30:36 +0000 2009",
+    "friends_count": 1182,
+    "url": "http://www.ferepabiobio.cl",
+    "profile_background_tile": false,
+    "protected": false,
+    "translator_type": "none",
+    "profile_text_color": "000000",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/828030782656614400/ZEcgn35-_normal.jpg",
+    "listed_count": 2,
+    "notifications": null,
+    "contributors_enabled": false,
+    "is_translator": false,
+    "location": "Chile Regi\u00f2n del Biobio",
+    "profile_use_background_image": false,
+    "followers_count": 699,
+    "profile_sidebar_fill_color": "000000",
+    "geo_enabled": true,
+    "profile_link_color": "3B94D9",
+    "favourites_count": 3707,
+    "following": null,
+    "default_profile": false,
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme10/bg.gif",
+    "profile_background_color": "000000",
+    "id": 89339294,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/828030782656614400/ZEcgn35-_normal.jpg",
+    "lang": "es",
+    "description": "Periodista, Licenciada en Comunicaciones,Universidad de Concepci\u00f3n.Jefe de Comunicaciones de Ferepa Biobio y Confepach.\n 56-9-73977306",
+    "follow_request_sent": null,
+    "utc_offset": -10800
+  },
+  "quote_count": 0,
+  "lang": "es"
+}

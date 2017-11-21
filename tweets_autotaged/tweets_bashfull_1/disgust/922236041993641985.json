@@ -1,0 +1,175 @@
+{
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "urls": [
+      {
+        "indices": [
+          117,
+          140
+        ],
+        "expanded_url": "https://twitter.com/i/web/status/922236041993641985",
+        "display_url": "twitter.com/i/web/status/9\u2026",
+        "url": "https://t.co/iHu283CoRj"
+      }
+    ],
+    "user_mentions": [
+      {
+        "indices": [
+          0,
+          16
+        ],
+        "screen_name": "martitasequeten",
+        "name": "Martita Sequeten Ten",
+        "id_str": "730906875181436928",
+        "id": 730906875181436928
+      },
+      {
+        "indices": [
+          17,
+          28
+        ],
+        "screen_name": "NANCYPAZOS",
+        "name": "Nancy Pazos",
+        "id_str": "48345780",
+        "id": 48345780
+      }
+    ]
+  },
+  "in_reply_to_user_id": 730906875181436928,
+  "created_at": "Sun Oct 22 22:59:41 +0000 2017",
+  "favorite_count": 0,
+  "lang": "es",
+  "reply_count": 0,
+  "id_str": "922236041993641985",
+  "in_reply_to_user_id_str": "730906875181436928",
+  "extended_tweet": {
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "urls": [],
+      "user_mentions": [
+        {
+          "indices": [
+            0,
+            16
+          ],
+          "screen_name": "martitasequeten",
+          "name": "Martita Sequeten Ten",
+          "id_str": "730906875181436928",
+          "id": 730906875181436928
+        },
+        {
+          "indices": [
+            17,
+            28
+          ],
+          "screen_name": "NANCYPAZOS",
+          "name": "Nancy Pazos",
+          "id_str": "48345780",
+          "id": 48345780
+        }
+      ]
+    },
+    "display_text_range": [
+      29,
+      168
+    ],
+    "full_text": "@martitasequeten @NANCYPAZOS Perd\u00f3n Marita que no los llam\u00e9 piojosos. Al parecer se ofenden.\nCoincido totalmente con vos. Porque encapuchados violentos. Qu\u00e9 esconden???"
+  },
+  "in_reply_to_status_id": 922196194587275264,
+  "timestamp_ms": "1508713181385",
+  "truncated": true,
+  "text": "@martitasequeten @NANCYPAZOS Perd\u00f3n Marita que no los llam\u00e9 piojosos. Al parecer se ofenden.\nCoincido totalmente co\u2026 https://t.co/iHu283CoRj",
+  "user": {
+    "time_zone": null,
+    "screen_name": "NancyCa80070297",
+    "utc_offset": null,
+    "created_at": "Tue Jan 31 18:00:43 +0000 2017",
+    "profile_background_tile": false,
+    "notifications": null,
+    "lang": "es",
+    "default_profile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/826490409266376704/1485896389",
+    "id_str": "826490409266376704",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/826535483740139520/QM13Qufg_normal.jpg",
+    "name": "Nancy Castro",
+    "friends_count": 75,
+    "translator_type": "none",
+    "protected": false,
+    "following": null,
+    "is_translator": false,
+    "follow_request_sent": null,
+    "profile_text_color": "333333",
+    "listed_count": 0,
+    "profile_link_color": "1DA1F2",
+    "profile_background_image_url": "",
+    "url": null,
+    "id": 826490409266376704,
+    "favourites_count": 97,
+    "profile_background_color": "F5F8FA",
+    "followers_count": 15,
+    "statuses_count": 42,
+    "description": "Mi hobby es abrir cuentas y m\u00e1s cuentas y olvidarme las contrase\u00f1as",
+    "location": "Buenos Aires, Argentina",
+    "profile_background_image_url_https": "",
+    "default_profile_image": false,
+    "verified": false,
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_use_background_image": true,
+    "contributors_enabled": false,
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/826535483740139520/QM13Qufg_normal.jpg",
+    "geo_enabled": true
+  },
+  "geo": null,
+  "id": 922236041993641985,
+  "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+  "retweeted": false,
+  "filter_level": "low",
+  "in_reply_to_status_id_str": "922196194587275264",
+  "quote_count": 0,
+  "favorited": false,
+  "coordinates": null,
+  "display_text_range": [
+    29,
+    140
+  ],
+  "retweet_count": 0,
+  "is_quote_status": false,
+  "in_reply_to_screen_name": "martitasequeten",
+  "contributors": null,
+  "place": {
+    "bounding_box": {
+      "coordinates": [
+        [
+          [
+            -63.39386,
+            -41.035009
+          ],
+          [
+            -63.39386,
+            -33.260144
+          ],
+          [
+            -56.665836,
+            -33.260144
+          ],
+          [
+            -56.665836,
+            -41.035009
+          ]
+        ]
+      ],
+      "type": "Polygon"
+    },
+    "name": "Buenos Aires",
+    "url": "https://api.twitter.com/1.1/geo/id/4afa2757051c5192.json",
+    "country_code": "AR",
+    "id": "4afa2757051c5192",
+    "place_type": "admin",
+    "attributes": {},
+    "full_name": "Buenos Aires, Argentina",
+    "country": "Argentina"
+  }
+}

@@ -1,0 +1,137 @@
+{
+  "in_reply_to_user_id": null,
+  "contributors": null,
+  "in_reply_to_screen_name": null,
+  "retweeted": false,
+  "retweet_count": 0,
+  "timestamp_ms": "1508641795112",
+  "in_reply_to_status_id": null,
+  "id_str": "921936626263003137",
+  "created_at": "Sun Oct 22 03:09:55 +0000 2017",
+  "id": 921936626263003137,
+  "coordinates": {
+    "type": "Point",
+    "coordinates": [
+      -70.39098415,
+      -23.54682539
+    ]
+  },
+  "favorite_count": 0,
+  "entities": {
+    "user_mentions": [],
+    "symbols": [],
+    "hashtags": [
+      {
+        "text": "fiesta",
+        "indices": [
+          0,
+          7
+        ]
+      }
+    ],
+    "urls": [
+      {
+        "expanded_url": "https://www.instagram.com/p/BaiOGBSHn7Grpp1a0XY4sKK_t9uSPI9NZrA2QA0/",
+        "indices": [
+          68,
+          91
+        ],
+        "url": "https://t.co/maWelacnU1",
+        "display_url": "instagram.com/p/BaiOGBSHn7Gr\u2026"
+      }
+    ]
+  },
+  "reply_count": 0,
+  "source": "<a href=\"http://instagram.com\" rel=\"nofollow\">Instagram</a>",
+  "place": {
+    "attributes": {},
+    "url": "https://api.twitter.com/1.1/geo/id/002442586af0948e.json",
+    "place_type": "city",
+    "id": "002442586af0948e",
+    "country_code": "CL",
+    "name": "Antofagasta",
+    "country": "Chile",
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            -70.628327,
+            -25.402127
+          ],
+          [
+            -70.628327,
+            -23.054512
+          ],
+          [
+            -68.067941,
+            -23.054512
+          ],
+          [
+            -68.067941,
+            -25.402127
+          ]
+        ]
+      ]
+    },
+    "full_name": "Antofagasta, Chile"
+  },
+  "truncated": false,
+  "in_reply_to_status_id_str": null,
+  "filter_level": "low",
+  "text": "#fiesta sindicato de profesores y profesionales de la educaci\u00f3n \ud83e\udd17\ud83d\ude0e\u2026 https://t.co/maWelacnU1",
+  "geo": {
+    "type": "Point",
+    "coordinates": [
+      -23.54682539,
+      -70.39098415
+    ]
+  },
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": false,
+  "possibly_sensitive": false,
+  "favorited": false,
+  "user": {
+    "verified": false,
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme11/bg.gif",
+    "statuses_count": 11811,
+    "screen_name": "milka_merian",
+    "default_profile_image": false,
+    "time_zone": "Santiago",
+    "name": "Milkita",
+    "id_str": "87506821",
+    "profile_sidebar_border_color": "CC3366",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/87506821/1463196414",
+    "created_at": "Wed Nov 04 19:04:25 +0000 2009",
+    "friends_count": 696,
+    "url": "http://www.facebook.com/milkamerian",
+    "profile_background_tile": true,
+    "protected": false,
+    "translator_type": "none",
+    "profile_text_color": "362720",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/870851724055064576/691a0hHF_normal.jpg",
+    "listed_count": 8,
+    "notifications": null,
+    "contributors_enabled": false,
+    "is_translator": false,
+    "location": "Antofagasta, Chile",
+    "profile_use_background_image": true,
+    "followers_count": 489,
+    "profile_sidebar_fill_color": "E5507E",
+    "geo_enabled": true,
+    "profile_link_color": "B40B43",
+    "favourites_count": 1105,
+    "following": null,
+    "default_profile": false,
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme11/bg.gif",
+    "profile_background_color": "FF6699",
+    "id": 87506821,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/870851724055064576/691a0hHF_normal.jpg",
+    "lang": "es",
+    "description": "Profesora de Ed. Fisica. Casada. Madre de dos hijos. dirigenta comunal Colegio de Profesores Antofagasta. Colocolina de la cuna al caj\u00f3n!!",
+    "follow_request_sent": null,
+    "utc_offset": -10800
+  },
+  "quote_count": 0,
+  "lang": "es"
+}

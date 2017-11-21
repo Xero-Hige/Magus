@@ -1,0 +1,117 @@
+{
+  "in_reply_to_user_id": null,
+  "contributors": null,
+  "in_reply_to_screen_name": null,
+  "retweeted": false,
+  "retweet_count": 0,
+  "timestamp_ms": "1508683633958",
+  "in_reply_to_status_id": null,
+  "id_str": "922112111102357505",
+  "created_at": "Sun Oct 22 14:47:13 +0000 2017",
+  "id": 922112111102357505,
+  "coordinates": null,
+  "favorite_count": 0,
+  "entities": {
+    "user_mentions": [
+      {
+        "indices": [
+          45,
+          55
+        ],
+        "name": "Clar\u00edn",
+        "screen_name": "clarincom",
+        "id": 8105922,
+        "id_str": "8105922"
+      }
+    ],
+    "symbols": [],
+    "hashtags": [],
+    "urls": []
+  },
+  "reply_count": 0,
+  "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+  "place": {
+    "attributes": {},
+    "url": "https://api.twitter.com/1.1/geo/id/00f84d414936f28e.json",
+    "place_type": "city",
+    "id": "00f84d414936f28e",
+    "country_code": "AR",
+    "name": "C\u00f3rdoba",
+    "country": "Argentina",
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            -64.3195,
+            -31.523576
+          ],
+          [
+            -64.3195,
+            -31.307337
+          ],
+          [
+            -64.076551,
+            -31.307337
+          ],
+          [
+            -64.076551,
+            -31.523576
+          ]
+        ]
+      ]
+    },
+    "full_name": "C\u00f3rdoba, Argentina"
+  },
+  "truncated": false,
+  "in_reply_to_status_id_str": null,
+  "filter_level": "low",
+  "text": "hay que reconocer que la mafia macrista y de @clarincom no son ningunos improvisados. son criminales expertos, h\u00e1biles para borrar pruebas",
+  "geo": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": false,
+  "favorited": false,
+  "user": {
+    "verified": false,
+    "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/705756471330521089/OBkRvv3x.jpg",
+    "statuses_count": 155119,
+    "screen_name": "a_b_berurier",
+    "default_profile_image": false,
+    "time_zone": "Buenos Aires",
+    "name": "B\u00e9rurier",
+    "id_str": "157523545",
+    "profile_sidebar_border_color": "000000",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/157523545/1508030283",
+    "created_at": "Sun Jun 20 02:38:03 +0000 2010",
+    "friends_count": 21867,
+    "url": "http://page.is/berurier",
+    "profile_background_tile": false,
+    "protected": false,
+    "translator_type": "none",
+    "profile_text_color": "000000",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/895288710572462080/Ejvh5RKb_normal.jpg",
+    "listed_count": 112,
+    "notifications": null,
+    "contributors_enabled": false,
+    "is_translator": false,
+    "location": "C\u00f3rdoba, Argentina",
+    "profile_use_background_image": true,
+    "followers_count": 22901,
+    "profile_sidebar_fill_color": "000000",
+    "geo_enabled": true,
+    "profile_link_color": "FF0000",
+    "favourites_count": 77880,
+    "following": null,
+    "default_profile": false,
+    "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/705756471330521089/OBkRvv3x.jpg",
+    "profile_background_color": "BADFCD",
+    "id": 157523545,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/895288710572462080/Ejvh5RKb_normal.jpg",
+    "lang": "es",
+    "description": "\" La c\u00e1rcel aprisiona nuestros cuerpos, pero el esp\u00edritu es libre y con su solidez se derrota a los tiranos\" (Agust\u00edn Tosco)",
+    "follow_request_sent": null,
+    "utc_offset": -10800
+  },
+  "quote_count": 0,
+  "lang": "es"
+}

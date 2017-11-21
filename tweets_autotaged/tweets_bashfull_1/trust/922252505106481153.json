@@ -1,0 +1,219 @@
+{
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "urls": [
+      {
+        "indices": [
+          116,
+          139
+        ],
+        "expanded_url": "https://twitter.com/i/web/status/922252505106481153",
+        "display_url": "twitter.com/i/web/status/9\u2026",
+        "url": "https://t.co/NOa92sAea3"
+      }
+    ],
+    "user_mentions": []
+  },
+  "in_reply_to_user_id": null,
+  "reply_count": 0,
+  "id_str": "922252505106481153",
+  "in_reply_to_user_id_str": null,
+  "extended_tweet": {
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "urls": [
+        {
+          "indices": [
+            128,
+            151
+          ],
+          "expanded_url": "https://twitter.com/SylviaEyzaguirr/status/922246475761029120",
+          "display_url": "twitter.com/SylviaEyzaguir\u2026",
+          "url": "https://t.co/B5uSrhveqK"
+        }
+      ],
+      "user_mentions": []
+    },
+    "display_text_range": [
+      0,
+      127
+    ],
+    "full_text": "Es cosa de ver donde est\u00e1 (hist\u00f3ricamente) la DC y donde est\u00e1 Pi\u00f1era y con quienes (UDI). Un m\u00ednimo de seriedad no vendr\u00eda mal. https://t.co/B5uSrhveqK"
+  },
+  "text": "Es cosa de ver donde est\u00e1 (hist\u00f3ricamente) la DC y donde est\u00e1 Pi\u00f1era y con quienes (UDI). Un m\u00ednimo de seriedad no\u2026 https://t.co/NOa92sAea3",
+  "is_quote_status": true,
+  "quote_count": 0,
+  "quoted_status_id_str": "922246475761029120",
+  "in_reply_to_status_id_str": null,
+  "geo": null,
+  "display_text_range": [
+    0,
+    140
+  ],
+  "truncated": true,
+  "contributors": null,
+  "place": {
+    "bounding_box": {
+      "coordinates": [
+        [
+          [
+            -73.091398,
+            -36.923936
+          ],
+          [
+            -73.091398,
+            -36.760435
+          ],
+          [
+            -72.845604,
+            -36.760435
+          ],
+          [
+            -72.845604,
+            -36.923936
+          ]
+        ]
+      ],
+      "type": "Polygon"
+    },
+    "name": "Concepci\u00f3n",
+    "url": "https://api.twitter.com/1.1/geo/id/0150459b5095a59f.json",
+    "country_code": "CL",
+    "id": "0150459b5095a59f",
+    "place_type": "city",
+    "attributes": {},
+    "full_name": "Concepci\u00f3n, Chile",
+    "country": "Chile"
+  },
+  "created_at": "Mon Oct 23 00:05:06 +0000 2017",
+  "favorite_count": 0,
+  "lang": "es",
+  "retweet_count": 0,
+  "in_reply_to_status_id": null,
+  "timestamp_ms": "1508717106497",
+  "possibly_sensitive": false,
+  "user": {
+    "time_zone": "Santiago",
+    "screen_name": "MonsalvezAraned",
+    "utc_offset": -10800,
+    "created_at": "Sat Aug 29 05:52:35 +0000 2009",
+    "profile_background_tile": false,
+    "notifications": null,
+    "lang": "es",
+    "default_profile": false,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/69802976/1486927600",
+    "id_str": "69802976",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/891090170958819331/nFBnRjJB_normal.jpg",
+    "name": "Danny G. Mons\u00e1lvez A",
+    "friends_count": 1764,
+    "translator_type": "none",
+    "protected": false,
+    "following": null,
+    "is_translator": false,
+    "follow_request_sent": null,
+    "profile_text_color": "333333",
+    "listed_count": 26,
+    "profile_link_color": "0084B4",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+    "url": null,
+    "id": 69802976,
+    "favourites_count": 10385,
+    "profile_background_color": "022330",
+    "followers_count": 1947,
+    "statuses_count": 51088,
+    "description": "Dr. en Historia. Acad\u00e9mico e Investigador en la U. de Concepci\u00f3n y Director del @Piher260 UdeC. Chuncho, laico y leufuche. Aqu\u00ed opino por mi. \u270a",
+    "location": "A la izquierda del centro",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+    "default_profile_image": false,
+    "verified": false,
+    "profile_sidebar_fill_color": "C0DFEC",
+    "profile_use_background_image": true,
+    "contributors_enabled": false,
+    "profile_sidebar_border_color": "A8C7F7",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/891090170958819331/nFBnRjJB_normal.jpg",
+    "geo_enabled": true
+  },
+  "id": 922252505106481153,
+  "retweeted": false,
+  "filter_level": "low",
+  "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+  "favorited": false,
+  "quoted_status": {
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "urls": [],
+      "user_mentions": []
+    },
+    "filter_level": "low",
+    "in_reply_to_user_id": null,
+    "created_at": "Sun Oct 22 23:41:08 +0000 2017",
+    "favorite_count": 4,
+    "lang": "es",
+    "reply_count": 1,
+    "id_str": "922246475761029120",
+    "in_reply_to_user_id_str": null,
+    "favorited": false,
+    "in_reply_to_status_id": null,
+    "text": "Sebasti\u00e1n Pi\u00f1era valora el gobierno de Aylwin, mientras que la Nueva Mayor\u00eda reniega de su pasado. As\u00ed las cosas",
+    "user": {
+      "time_zone": null,
+      "screen_name": "SylviaEyzaguirr",
+      "utc_offset": null,
+      "created_at": "Fri Jun 20 14:51:17 +0000 2014",
+      "profile_background_tile": false,
+      "notifications": null,
+      "lang": "es",
+      "default_profile": true,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/2578794968/1482418998",
+      "id_str": "2578794968",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/758718275245277184/1kQTbljp_normal.jpg",
+      "name": "Sylvia Eyzaguirre",
+      "friends_count": 387,
+      "translator_type": "none",
+      "protected": false,
+      "following": null,
+      "is_translator": false,
+      "follow_request_sent": null,
+      "profile_text_color": "333333",
+      "listed_count": 21,
+      "profile_link_color": "1DA1F2",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "url": null,
+      "id": 2578794968,
+      "favourites_count": 681,
+      "profile_background_color": "C0DEED",
+      "followers_count": 2267,
+      "statuses_count": 2879,
+      "description": "Filosof\u00eda, Universidad de Chile, Educaci\u00f3n, tolerancia cero a la injusticia, la mentira y la hipocres\u00eda.",
+      "location": null,
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "default_profile_image": false,
+      "verified": false,
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_use_background_image": true,
+      "contributors_enabled": false,
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/758718275245277184/1kQTbljp_normal.jpg",
+      "geo_enabled": false
+    },
+    "id": 922246475761029120,
+    "quote_count": 3,
+    "retweeted": false,
+    "is_quote_status": false,
+    "in_reply_to_status_id_str": null,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Lite</a>",
+    "geo": null,
+    "coordinates": null,
+    "truncated": false,
+    "retweet_count": 3,
+    "in_reply_to_screen_name": null,
+    "contributors": null,
+    "place": null
+  },
+  "coordinates": null,
+  "in_reply_to_screen_name": null,
+  "quoted_status_id": 922246475761029120
+}

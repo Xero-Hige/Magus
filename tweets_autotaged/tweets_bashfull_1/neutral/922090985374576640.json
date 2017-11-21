@@ -1,0 +1,106 @@
+{
+  "in_reply_to_user_id": null,
+  "contributors": null,
+  "in_reply_to_screen_name": null,
+  "retweeted": false,
+  "retweet_count": 0,
+  "timestamp_ms": "1508678597192",
+  "in_reply_to_status_id": null,
+  "id_str": "922090985374576640",
+  "created_at": "Sun Oct 22 13:23:17 +0000 2017",
+  "id": 922090985374576640,
+  "coordinates": null,
+  "favorite_count": 0,
+  "entities": {
+    "user_mentions": [],
+    "symbols": [],
+    "hashtags": [],
+    "urls": []
+  },
+  "reply_count": 0,
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "place": {
+    "attributes": {},
+    "url": "https://api.twitter.com/1.1/geo/id/016ea1445db12efb.json",
+    "place_type": "admin",
+    "id": "016ea1445db12efb",
+    "country_code": "PY",
+    "name": "Central",
+    "country": "Paraguay",
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            -57.81535,
+            -25.984291
+          ],
+          [
+            -57.81535,
+            -25.108891
+          ],
+          [
+            -57.155006,
+            -25.108891
+          ],
+          [
+            -57.155006,
+            -25.984291
+          ]
+        ]
+      ]
+    },
+    "full_name": "Central, Paraguay"
+  },
+  "truncated": false,
+  "in_reply_to_status_id_str": null,
+  "filter_level": "low",
+  "text": "que temprano me levante como para que a esta hora ya no tenga mas nada que hacer y me vuelva a dormir",
+  "geo": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": false,
+  "favorited": false,
+  "user": {
+    "verified": false,
+    "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/711415070/80e92ceb80283ba38086193a890cd109.png",
+    "statuses_count": 37575,
+    "screen_name": "aobvd",
+    "default_profile_image": false,
+    "time_zone": "Buenos Aires",
+    "name": "RachelGreen",
+    "id_str": "127394176",
+    "profile_sidebar_border_color": "86AE78",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/127394176/1429046723",
+    "created_at": "Mon Mar 29 02:13:41 +0000 2010",
+    "friends_count": 820,
+    "url": null,
+    "profile_background_tile": true,
+    "protected": false,
+    "translator_type": "none",
+    "profile_text_color": "87587B",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/921159999908450304/r_TKpp5S_normal.jpg",
+    "listed_count": 7,
+    "notifications": null,
+    "contributors_enabled": false,
+    "is_translator": false,
+    "location": "Paraguay",
+    "profile_use_background_image": true,
+    "followers_count": 927,
+    "profile_sidebar_fill_color": "219386",
+    "geo_enabled": true,
+    "profile_link_color": "F21E3D",
+    "favourites_count": 21454,
+    "following": null,
+    "default_profile": false,
+    "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/711415070/80e92ceb80283ba38086193a890cd109.png",
+    "profile_background_color": "E16036",
+    "id": 127394176,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/921159999908450304/r_TKpp5S_normal.jpg",
+    "lang": "es",
+    "description": "Te quiero, pero soy un bardo.",
+    "follow_request_sent": null,
+    "utc_offset": -10800
+  },
+  "quote_count": 0,
+  "lang": "es"
+}

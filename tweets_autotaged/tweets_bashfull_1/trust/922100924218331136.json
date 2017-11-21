@@ -1,0 +1,143 @@
+{
+  "in_reply_to_user_id": null,
+  "contributors": null,
+  "in_reply_to_screen_name": null,
+  "retweeted": false,
+  "retweet_count": 0,
+  "timestamp_ms": "1508680966797",
+  "in_reply_to_status_id": null,
+  "id_str": "922100924218331136",
+  "created_at": "Sun Oct 22 14:02:46 +0000 2017",
+  "id": 922100924218331136,
+  "coordinates": null,
+  "favorite_count": 0,
+  "entities": {
+    "user_mentions": [
+      {
+        "indices": [
+          108,
+          120
+        ],
+        "name": "cosecha roja",
+        "screen_name": "cosecharoja",
+        "id": 419256003,
+        "id_str": "419256003"
+      }
+    ],
+    "symbols": [],
+    "hashtags": [
+      {
+        "text": "SantiagoMaldonado",
+        "indices": [
+          0,
+          18
+        ]
+      },
+      {
+        "text": "JusticiaParaSantiago",
+        "indices": [
+          58,
+          79
+        ]
+      }
+    ],
+    "urls": [
+      {
+        "expanded_url": "http://cosecharoja.org/santiago-maldonado-la-verdad-de-lo-que-paso-en-la-morgue/",
+        "indices": [
+          80,
+          103
+        ],
+        "url": "https://t.co/nZxItSpsdQ",
+        "display_url": "cosecharoja.org/santiago-maldo\u2026"
+      }
+    ]
+  },
+  "reply_count": 0,
+  "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+  "place": {
+    "attributes": {},
+    "url": "https://api.twitter.com/1.1/geo/id/0079bbc151fa56d2.json",
+    "place_type": "city",
+    "id": "0079bbc151fa56d2",
+    "country_code": "AR",
+    "name": "Rosario",
+    "country": "Argentina",
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            -60.781306,
+            -33.033993
+          ],
+          [
+            -60.781306,
+            -32.869238
+          ],
+          [
+            -60.613506,
+            -32.869238
+          ],
+          [
+            -60.613506,
+            -33.033993
+          ]
+        ]
+      ]
+    },
+    "full_name": "Rosario, Argentina"
+  },
+  "truncated": false,
+  "in_reply_to_status_id_str": null,
+  "filter_level": "low",
+  "text": "#SantiagoMaldonado \nLa verdad de lo que pas\u00f3 en la morgue #JusticiaParaSantiago https://t.co/nZxItSpsdQ v\u00eda @cosecharoja",
+  "geo": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": false,
+  "possibly_sensitive": false,
+  "favorited": false,
+  "user": {
+    "verified": false,
+    "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/446257212/homer.jpg",
+    "statuses_count": 2284,
+    "screen_name": "chigasino",
+    "default_profile_image": false,
+    "time_zone": "Buenos Aires",
+    "name": "cHiNo Javier Cinalli",
+    "id_str": "119351197",
+    "profile_sidebar_border_color": "000000",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/119351197/1398426757",
+    "created_at": "Wed Mar 03 11:25:08 +0000 2010",
+    "friends_count": 2308,
+    "url": "http://www.facebook.com/CHINO.JavierCinalli",
+    "profile_background_tile": true,
+    "protected": false,
+    "translator_type": "none",
+    "profile_text_color": "000000",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/459661493005340672/nnMFTo73_normal.jpeg",
+    "listed_count": 12,
+    "notifications": null,
+    "contributors_enabled": false,
+    "is_translator": false,
+    "location": "Rosario",
+    "profile_use_background_image": true,
+    "followers_count": 986,
+    "profile_sidebar_fill_color": "78A841",
+    "geo_enabled": true,
+    "profile_link_color": "0A0AF5",
+    "favourites_count": 938,
+    "following": null,
+    "default_profile": false,
+    "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/446257212/homer.jpg",
+    "profile_background_color": "223300",
+    "id": 119351197,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/459661493005340672/nnMFTo73_normal.jpeg",
+    "lang": "es",
+    "description": "@Lt3am680 [Op.T\u00e9cnica&Edici\u00f3n] \n@Meridiano1071 [Coordinaci\u00f3nArt\u00edstica&Musicalizaci\u00f3n] @FmTangoRosario[RedesSociales&Producci\u00f3nArt\u00edstica] \nEnRadioDesdeLos19a\u00f1os.",
+    "follow_request_sent": null,
+    "utc_offset": -10800
+  },
+  "quote_count": 0,
+  "lang": "es"
+}

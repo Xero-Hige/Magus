@@ -1,0 +1,121 @@
+{
+  "in_reply_to_user_id": 1040505661,
+  "contributors": null,
+  "id": 922098665623257088,
+  "retweeted": false,
+  "retweet_count": 0,
+  "timestamp_ms": "1508680428306",
+  "in_reply_to_status_id": 922080137570549761,
+  "id_str": "922098665623257088",
+  "created_at": "Sun Oct 22 13:53:48 +0000 2017",
+  "coordinates": null,
+  "favorite_count": 0,
+  "entities": {
+    "user_mentions": [
+      {
+        "indices": [
+          0,
+          12
+        ],
+        "name": "Semanario El Bocon",
+        "screen_name": "Boconbonica",
+        "id": 1040505661,
+        "id_str": "1040505661"
+      }
+    ],
+    "symbols": [],
+    "hashtags": [],
+    "urls": []
+  },
+  "reply_count": 0,
+  "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+  "place": {
+    "attributes": {},
+    "url": "https://api.twitter.com/1.1/geo/id/018f1cde6bad9747.json",
+    "place_type": "city",
+    "id": "018f1cde6bad9747",
+    "country_code": "AR",
+    "name": "Ciudad Aut\u00f3noma de Buenos Aires",
+    "country": "Argentina",
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            -58.531792,
+            -34.674453
+          ],
+          [
+            -58.531792,
+            -34.534177
+          ],
+          [
+            -58.353494,
+            -34.534177
+          ],
+          [
+            -58.353494,
+            -34.674453
+          ]
+        ]
+      ]
+    },
+    "full_name": "Ciudad Aut\u00f3noma de Buenos Aires, Argentina"
+  },
+  "truncated": false,
+  "in_reply_to_status_id_str": "922080137570549761",
+  "in_reply_to_screen_name": "Boconbonica",
+  "filter_level": "low",
+  "text": "@Boconbonica Yo ya emigr\u00e9 y sin esperanzas de retorno. Es muy injusto y doloroso\ud83d\ude22",
+  "geo": null,
+  "in_reply_to_user_id_str": "1040505661",
+  "is_quote_status": false,
+  "display_text_range": [
+    13,
+    81
+  ],
+  "favorited": false,
+  "user": {
+    "verified": false,
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme10/bg.gif",
+    "statuses_count": 9976,
+    "screen_name": "Pilarvp",
+    "default_profile_image": false,
+    "time_zone": "Buenos Aires",
+    "name": "Pilar Videverrigain",
+    "id_str": "165588851",
+    "profile_sidebar_border_color": "FFFFFF",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/165588851/1383839756",
+    "created_at": "Mon Jul 12 00:59:54 +0000 2010",
+    "friends_count": 405,
+    "url": "http://twiends.com/pilarvp",
+    "profile_background_tile": true,
+    "protected": false,
+    "translator_type": "none",
+    "profile_text_color": "3D1957",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/801614425039970304/5nTD3YoU_normal.jpg",
+    "listed_count": 1,
+    "notifications": null,
+    "contributors_enabled": false,
+    "is_translator": false,
+    "location": "Buenos http://Aires, Argentina",
+    "profile_use_background_image": true,
+    "followers_count": 244,
+    "profile_sidebar_fill_color": "7AC3EE",
+    "geo_enabled": true,
+    "profile_link_color": "4A913C",
+    "favourites_count": 21248,
+    "following": null,
+    "default_profile": false,
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme10/bg.gif",
+    "profile_background_color": "642D8B",
+    "id": 165588851,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/801614425039970304/5nTD3YoU_normal.jpg",
+    "lang": "es",
+    "description": "Si Usted llego hasta aqu\u00ed es porque ya me conoce.",
+    "follow_request_sent": null,
+    "utc_offset": -10800
+  },
+  "quote_count": 0,
+  "lang": "es"
+}

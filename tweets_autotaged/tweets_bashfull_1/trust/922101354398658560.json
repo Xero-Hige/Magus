@@ -1,0 +1,121 @@
+{
+  "in_reply_to_user_id": 42933426,
+  "contributors": null,
+  "id": 922101354398658560,
+  "retweeted": false,
+  "retweet_count": 0,
+  "timestamp_ms": "1508681069360",
+  "in_reply_to_status_id": 921922526321741825,
+  "id_str": "922101354398658560",
+  "created_at": "Sun Oct 22 14:04:29 +0000 2017",
+  "coordinates": null,
+  "favorite_count": 0,
+  "entities": {
+    "user_mentions": [
+      {
+        "indices": [
+          0,
+          15
+        ],
+        "name": "Boca Jrs. Oficial",
+        "screen_name": "BocaJrsOficial",
+        "id": 42933426,
+        "id_str": "42933426"
+      }
+    ],
+    "symbols": [],
+    "hashtags": [],
+    "urls": []
+  },
+  "reply_count": 0,
+  "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+  "place": {
+    "attributes": {},
+    "url": "https://api.twitter.com/1.1/geo/id/01b90c376479a920.json",
+    "place_type": "city",
+    "id": "01b90c376479a920",
+    "country_code": "AR",
+    "name": "General Pedernera",
+    "country": "Argentina",
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            -65.489901,
+            -33.703072
+          ],
+          [
+            -65.489901,
+            -33.645595
+          ],
+          [
+            -65.4273,
+            -33.645595
+          ],
+          [
+            -65.4273,
+            -33.703072
+          ]
+        ]
+      ]
+    },
+    "full_name": "General Pedernera, Argentina"
+  },
+  "truncated": false,
+  "in_reply_to_status_id_str": "921922526321741825",
+  "in_reply_to_screen_name": "BocaJrsOficial",
+  "filter_level": "low",
+  "text": "@BocaJrsOficial Fuerza campe\u00f3n, reponete bien te esperamos Gagito",
+  "geo": null,
+  "in_reply_to_user_id_str": "42933426",
+  "is_quote_status": false,
+  "display_text_range": [
+    16,
+    65
+  ],
+  "favorited": false,
+  "user": {
+    "verified": false,
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "statuses_count": 211,
+    "screen_name": "mukisetxepare",
+    "default_profile_image": false,
+    "time_zone": null,
+    "name": "monicaetchepare",
+    "id_str": "2752326614",
+    "profile_sidebar_border_color": "000000",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/2752326614/1430750484",
+    "created_at": "Thu Aug 21 14:59:44 +0000 2014",
+    "friends_count": 138,
+    "url": null,
+    "profile_background_tile": false,
+    "protected": false,
+    "translator_type": "none",
+    "profile_text_color": "000000",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/686928270957391872/ZoQjspzl_normal.jpg",
+    "listed_count": 0,
+    "notifications": null,
+    "contributors_enabled": false,
+    "is_translator": false,
+    "location": null,
+    "profile_use_background_image": false,
+    "followers_count": 7,
+    "profile_sidebar_fill_color": "000000",
+    "geo_enabled": true,
+    "profile_link_color": "DD2E44",
+    "favourites_count": 795,
+    "following": null,
+    "default_profile": false,
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_color": "000000",
+    "id": 2752326614,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/686928270957391872/ZoQjspzl_normal.jpg",
+    "lang": "es",
+    "description": null,
+    "follow_request_sent": null,
+    "utc_offset": null
+  },
+  "quote_count": 0,
+  "lang": "es"
+}

@@ -1,0 +1,154 @@
+{
+  "in_reply_to_user_id": 4536762869,
+  "contributors": null,
+  "id": 922105610237247488,
+  "retweeted": false,
+  "retweet_count": 0,
+  "timestamp_ms": "1508682084031",
+  "in_reply_to_status_id": 921795314272624646,
+  "id_str": "922105610237247488",
+  "coordinates": null,
+  "created_at": "Sun Oct 22 14:21:24 +0000 2017",
+  "quote_count": 0,
+  "favorite_count": 0,
+  "entities": {
+    "user_mentions": [
+      {
+        "indices": [
+          0,
+          15
+        ],
+        "name": "H\u00e9ctor Timerman",
+        "screen_name": "TimermanHector",
+        "id": 4536762869,
+        "id_str": "4536762869"
+      }
+    ],
+    "symbols": [],
+    "hashtags": [],
+    "urls": [
+      {
+        "expanded_url": "https://twitter.com/i/web/status/922105610237247488",
+        "indices": [
+          117,
+          140
+        ],
+        "url": "https://t.co/1OUAY8pX0P",
+        "display_url": "twitter.com/i/web/status/9\u2026"
+      }
+    ]
+  },
+  "reply_count": 0,
+  "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+  "place": {
+    "attributes": {},
+    "url": "https://api.twitter.com/1.1/geo/id/0032baff35718ca4.json",
+    "place_type": "city",
+    "id": "0032baff35718ca4",
+    "country_code": "AR",
+    "name": "Berazategui",
+    "country": "Argentina",
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            -58.267413,
+            -34.853019
+          ],
+          [
+            -58.267413,
+            -34.742062
+          ],
+          [
+            -58.133845,
+            -34.742062
+          ],
+          [
+            -58.133845,
+            -34.853019
+          ]
+        ]
+      ]
+    },
+    "full_name": "Berazategui, Argentina"
+  },
+  "truncated": true,
+  "in_reply_to_status_id_str": "921795314272624646",
+  "in_reply_to_screen_name": "TimermanHector",
+  "filter_level": "low",
+  "text": "@TimermanHector Don hector cuanta maldad en su coraz\u00f3n.  Si estos son sus \u00faltimos momentos de vida no cree q deber\u00ed\u2026 https://t.co/1OUAY8pX0P",
+  "geo": null,
+  "in_reply_to_user_id_str": "4536762869",
+  "is_quote_status": false,
+  "display_text_range": [
+    16,
+    140
+  ],
+  "favorited": false,
+  "user": {
+    "verified": false,
+    "profile_background_image_url": "",
+    "statuses_count": 2078,
+    "screen_name": "Oscar19472",
+    "default_profile_image": false,
+    "time_zone": null,
+    "name": "Oscar1947",
+    "id_str": "881670172918128643",
+    "profile_sidebar_border_color": "C0DEED",
+    "created_at": "Mon Jul 03 00:25:24 +0000 2017",
+    "friends_count": 409,
+    "url": null,
+    "profile_background_tile": false,
+    "protected": false,
+    "translator_type": "none",
+    "profile_text_color": "333333",
+    "profile_image_url_https": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+    "listed_count": 0,
+    "notifications": null,
+    "contributors_enabled": false,
+    "is_translator": false,
+    "location": null,
+    "profile_use_background_image": true,
+    "followers_count": 84,
+    "profile_sidebar_fill_color": "DDEEF6",
+    "geo_enabled": true,
+    "profile_link_color": "1DA1F2",
+    "favourites_count": 1232,
+    "following": null,
+    "default_profile": true,
+    "profile_background_image_url_https": "",
+    "profile_background_color": "F5F8FA",
+    "id": 881670172918128643,
+    "profile_image_url": "http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+    "lang": "es",
+    "description": null,
+    "follow_request_sent": null,
+    "utc_offset": null
+  },
+  "extended_tweet": {
+    "entities": {
+      "user_mentions": [
+        {
+          "indices": [
+            0,
+            15
+          ],
+          "name": "H\u00e9ctor Timerman",
+          "screen_name": "TimermanHector",
+          "id": 4536762869,
+          "id_str": "4536762869"
+        }
+      ],
+      "symbols": [],
+      "hashtags": [],
+      "urls": []
+    },
+    "display_text_range": [
+      16,
+      152
+    ],
+    "full_text": "@TimermanHector Don hector cuanta maldad en su coraz\u00f3n.  Si estos son sus \u00faltimos momentos de vida no cree q deber\u00eda arrepentirse y confesar sus pecados"
+  },
+  "lang": "es"
+}

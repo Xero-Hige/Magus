@@ -1,0 +1,155 @@
+{
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "urls": [
+      {
+        "indices": [
+          117,
+          140
+        ],
+        "expanded_url": "https://twitter.com/i/web/status/922262573361311744",
+        "display_url": "twitter.com/i/web/status/9\u2026",
+        "url": "https://t.co/EvnkqckTHn"
+      }
+    ],
+    "user_mentions": [
+      {
+        "indices": [
+          0,
+          8
+        ],
+        "screen_name": "ferigle",
+        "name": "Fernanda Iglesias",
+        "id_str": "7684742",
+        "id": 7684742
+      }
+    ]
+  },
+  "in_reply_to_user_id": 7684742,
+  "created_at": "Mon Oct 23 00:45:06 +0000 2017",
+  "favorite_count": 0,
+  "lang": "es",
+  "reply_count": 0,
+  "id_str": "922262573361311744",
+  "in_reply_to_user_id_str": "7684742",
+  "extended_tweet": {
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "urls": [],
+      "user_mentions": [
+        {
+          "indices": [
+            0,
+            8
+          ],
+          "screen_name": "ferigle",
+          "name": "Fernanda Iglesias",
+          "id_str": "7684742",
+          "id": 7684742
+        }
+      ]
+    },
+    "display_text_range": [
+      9,
+      147
+    ],
+    "full_text": "@ferigle Lastima q ninguna v\u00edctima lo haya denunciado antes, maduramos como sociedad pero hace 15 a\u00f1os q en el medio circulaban rumores al respecto"
+  },
+  "in_reply_to_status_id": 922170409251942400,
+  "timestamp_ms": "1508719506956",
+  "truncated": true,
+  "text": "@ferigle Lastima q ninguna v\u00edctima lo haya denunciado antes, maduramos como sociedad pero hace 15 a\u00f1os q en el medi\u2026 https://t.co/EvnkqckTHn",
+  "user": {
+    "time_zone": "Buenos Aires",
+    "screen_name": "Kiwita",
+    "utc_offset": -10800,
+    "created_at": "Wed Jun 23 17:12:46 +0000 2010",
+    "profile_background_tile": true,
+    "notifications": null,
+    "lang": "es",
+    "default_profile": false,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/158789350/1462224128",
+    "id_str": "158789350",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/633112886395731968/kM4VTV8J_normal.jpg",
+    "name": "Sara Stewart Brown",
+    "friends_count": 1064,
+    "translator_type": "none",
+    "protected": false,
+    "following": null,
+    "is_translator": false,
+    "follow_request_sent": null,
+    "profile_text_color": "000000",
+    "listed_count": 161,
+    "profile_link_color": "EB1237",
+    "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/137192848/murakami_moca07_2.jpg",
+    "url": "http://puntokiwi.com",
+    "id": 158789350,
+    "favourites_count": 29335,
+    "profile_background_color": "FFFFFF",
+    "followers_count": 50443,
+    "statuses_count": 16112,
+    "description": "Madre kidult de profesi\u00f3n inestable: ex moza, ex traductora ex cr\u00edtica de teatro casi artista pl\u00e1stica y siempre productora @puntokiwi #livingdonor #PutoNotDead",
+    "location": "Buenos Aires, Argentina",
+    "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/137192848/murakami_moca07_2.jpg",
+    "default_profile_image": false,
+    "verified": false,
+    "profile_sidebar_fill_color": "FAE6F4",
+    "profile_use_background_image": false,
+    "contributors_enabled": false,
+    "profile_sidebar_border_color": "FFFFFF",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/633112886395731968/kM4VTV8J_normal.jpg",
+    "geo_enabled": true
+  },
+  "geo": null,
+  "id": 922262573361311744,
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "retweeted": false,
+  "filter_level": "low",
+  "in_reply_to_status_id_str": "922170409251942400",
+  "quote_count": 0,
+  "favorited": false,
+  "coordinates": null,
+  "display_text_range": [
+    9,
+    140
+  ],
+  "retweet_count": 0,
+  "is_quote_status": false,
+  "in_reply_to_screen_name": "ferigle",
+  "contributors": null,
+  "place": {
+    "bounding_box": {
+      "coordinates": [
+        [
+          [
+            -58.531792,
+            -34.674453
+          ],
+          [
+            -58.531792,
+            -34.534177
+          ],
+          [
+            -58.353494,
+            -34.534177
+          ],
+          [
+            -58.353494,
+            -34.674453
+          ]
+        ]
+      ],
+      "type": "Polygon"
+    },
+    "name": "Ciudad Aut\u00f3noma de Buenos Aires",
+    "url": "https://api.twitter.com/1.1/geo/id/018f1cde6bad9747.json",
+    "country_code": "AR",
+    "id": "018f1cde6bad9747",
+    "place_type": "city",
+    "attributes": {},
+    "full_name": "Ciudad Aut\u00f3noma de Buenos Aires, Argentina",
+    "country": "Argentina"
+  }
+}

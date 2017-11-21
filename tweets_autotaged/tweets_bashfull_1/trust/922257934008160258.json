@@ -1,0 +1,121 @@
+{
+  "entities": {
+    "hashtags": [
+      {
+        "indices": [
+          0,
+          9
+        ],
+        "text": "baldassi"
+      },
+      {
+        "indices": [
+          119,
+          139
+        ],
+        "text": "EleccionesArgentina"
+      }
+    ],
+    "symbols": [],
+    "urls": [],
+    "user_mentions": []
+  },
+  "in_reply_to_user_id": null,
+  "created_at": "Mon Oct 23 00:26:40 +0000 2017",
+  "favorite_count": 0,
+  "lang": "es",
+  "reply_count": 0,
+  "id_str": "922257934008160258",
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_status_id": null,
+  "timestamp_ms": "1508718400848",
+  "text": "#baldassi  incre\u00edble q un Diputado nac no sepa hablar incre\u00edble. Dijo \"meter el culo en el auto\" lo dejo a su criterio #EleccionesArgentina",
+  "user": {
+    "time_zone": "Buenos Aires",
+    "screen_name": "skieloliva",
+    "utc_offset": -10800,
+    "created_at": "Wed Apr 08 19:18:47 +0000 2009",
+    "profile_background_tile": false,
+    "notifications": null,
+    "lang": "es",
+    "default_profile": false,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/29794546/1502452710",
+    "id_str": "29794546",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/894365540466266113/7HMaezc7_normal.jpg",
+    "name": "Ezequiel",
+    "friends_count": 995,
+    "translator_type": "none",
+    "protected": false,
+    "following": null,
+    "is_translator": false,
+    "follow_request_sent": null,
+    "profile_text_color": "666666",
+    "listed_count": 17,
+    "profile_link_color": "2FC2EF",
+    "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/441052860499767296/1AD-tNKt.jpeg",
+    "url": null,
+    "id": 29794546,
+    "favourites_count": 1341,
+    "profile_background_color": "1A1B1F",
+    "followers_count": 1027,
+    "statuses_count": 5967,
+    "description": "Abogado, capacitador sindical, socio de estudio juridico, fanatico del tenis y la buena onda... pirata cordob\u00e9s \u2693",
+    "location": "Cordoba Argentina",
+    "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/441052860499767296/1AD-tNKt.jpeg",
+    "default_profile_image": false,
+    "verified": false,
+    "profile_sidebar_fill_color": "252429",
+    "profile_use_background_image": true,
+    "contributors_enabled": false,
+    "profile_sidebar_border_color": "FFFFFF",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/894365540466266113/7HMaezc7_normal.jpg",
+    "geo_enabled": true
+  },
+  "geo": null,
+  "id": 922257934008160258,
+  "quote_count": 0,
+  "retweeted": false,
+  "filter_level": "low",
+  "in_reply_to_status_id_str": null,
+  "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+  "favorited": false,
+  "coordinates": null,
+  "truncated": false,
+  "retweet_count": 0,
+  "is_quote_status": false,
+  "in_reply_to_screen_name": null,
+  "contributors": null,
+  "place": {
+    "bounding_box": {
+      "coordinates": [
+        [
+          [
+            -64.3195,
+            -31.523576
+          ],
+          [
+            -64.3195,
+            -31.307337
+          ],
+          [
+            -64.076551,
+            -31.307337
+          ],
+          [
+            -64.076551,
+            -31.523576
+          ]
+        ]
+      ],
+      "type": "Polygon"
+    },
+    "name": "C\u00f3rdoba",
+    "url": "https://api.twitter.com/1.1/geo/id/00f84d414936f28e.json",
+    "country_code": "AR",
+    "id": "00f84d414936f28e",
+    "place_type": "city",
+    "attributes": {},
+    "full_name": "C\u00f3rdoba, Argentina",
+    "country": "Argentina"
+  }
+}

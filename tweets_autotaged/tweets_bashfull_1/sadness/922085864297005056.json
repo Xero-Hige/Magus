@@ -1,0 +1,151 @@
+{
+  "in_reply_to_user_id": null,
+  "contributors": null,
+  "in_reply_to_screen_name": null,
+  "retweeted": false,
+  "retweet_count": 0,
+  "timestamp_ms": "1508677376232",
+  "in_reply_to_status_id": null,
+  "id_str": "922085864297005056",
+  "created_at": "Sun Oct 22 13:02:56 +0000 2017",
+  "id": 922085864297005056,
+  "coordinates": {
+    "type": "Point",
+    "coordinates": [
+      -70.65892222,
+      -33.51765556
+    ]
+  },
+  "favorite_count": 0,
+  "entities": {
+    "user_mentions": [],
+    "symbols": [],
+    "hashtags": [
+      {
+        "text": "Desayuno",
+        "indices": [
+          28,
+          37
+        ]
+      },
+      {
+        "text": "QueRico",
+        "indices": [
+          38,
+          46
+        ]
+      },
+      {
+        "text": "Ecuador",
+        "indices": [
+          47,
+          55
+        ]
+      }
+    ],
+    "urls": [
+      {
+        "expanded_url": "https://www.instagram.com/p/BajR9fIAS7L/",
+        "indices": [
+          69,
+          92
+        ],
+        "url": "https://t.co/ypdDlZBO3V",
+        "display_url": "instagram.com/p/BajR9fIAS7L/"
+      }
+    ]
+  },
+  "reply_count": 0,
+  "source": "<a href=\"http://instagram.com\" rel=\"nofollow\">Instagram</a>",
+  "place": {
+    "attributes": {},
+    "url": "https://api.twitter.com/1.1/geo/id/0188f27841b8920c.json",
+    "place_type": "city",
+    "id": "0188f27841b8920c",
+    "country_code": "CL",
+    "name": "La Cisterna",
+    "country": "Chile",
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            -70.686302,
+            -33.548922
+          ],
+          [
+            -70.686302,
+            -33.51083
+          ],
+          [
+            -70.64561,
+            -33.51083
+          ],
+          [
+            -70.64561,
+            -33.548922
+          ]
+        ]
+      ]
+    },
+    "full_name": "La Cisterna, Chile"
+  },
+  "truncated": false,
+  "in_reply_to_status_id_str": null,
+  "filter_level": "low",
+  "text": "Desayuno a lo Ecuatoriano!! #Desayuno #QueRico #Ecuador en Lo Ovalle https://t.co/ypdDlZBO3V",
+  "geo": {
+    "type": "Point",
+    "coordinates": [
+      -33.51765556,
+      -70.65892222
+    ]
+  },
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": false,
+  "possibly_sensitive": false,
+  "favorited": false,
+  "user": {
+    "verified": false,
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "statuses_count": 6902,
+    "screen_name": "gonzalotenieto",
+    "default_profile_image": false,
+    "time_zone": "Quito",
+    "name": "GonzaloNieto",
+    "id_str": "67339077",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/67339077/1447817264",
+    "created_at": "Thu Aug 20 15:14:34 +0000 2009",
+    "friends_count": 2250,
+    "url": "https://facebook.com/gonzalotenieto",
+    "profile_background_tile": false,
+    "protected": false,
+    "translator_type": "none",
+    "profile_text_color": "333333",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000707606789/fd95efae9ba356bdbd212dc695c770d2_normal.jpeg",
+    "listed_count": 10,
+    "notifications": null,
+    "contributors_enabled": false,
+    "is_translator": false,
+    "location": "Metropolitana de Santiago, Chile",
+    "profile_use_background_image": true,
+    "followers_count": 794,
+    "profile_sidebar_fill_color": "DDEEF6",
+    "geo_enabled": true,
+    "profile_link_color": "1DA1F2",
+    "favourites_count": 516,
+    "following": null,
+    "default_profile": true,
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_color": "C0DEED",
+    "id": 67339077,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/378800000707606789/fd95efae9ba356bdbd212dc695c770d2_normal.jpeg",
+    "lang": "es",
+    "description": "Soy Fotografo independiente para la Radio HCJB-2 me considero una persona que se equivoca pero remediarlo lo antes posible",
+    "follow_request_sent": null,
+    "utc_offset": -18000
+  },
+  "quote_count": 0,
+  "lang": "es"
+}

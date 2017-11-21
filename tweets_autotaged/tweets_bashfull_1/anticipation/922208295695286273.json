@@ -1,0 +1,155 @@
+{
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "urls": [
+      {
+        "indices": [
+          117,
+          140
+        ],
+        "expanded_url": "https://twitter.com/i/web/status/922208295695286273",
+        "display_url": "twitter.com/i/web/status/9\u2026",
+        "url": "https://t.co/9ENpiolUem"
+      }
+    ],
+    "user_mentions": [
+      {
+        "indices": [
+          0,
+          16
+        ],
+        "screen_name": "JulianSerrano01",
+        "name": "Julian Serrano \ud83c\udf53",
+        "id_str": "393695512",
+        "id": 393695512
+      }
+    ]
+  },
+  "in_reply_to_user_id": 393695512,
+  "created_at": "Sun Oct 22 21:09:26 +0000 2017",
+  "favorite_count": 0,
+  "lang": "es",
+  "reply_count": 0,
+  "id_str": "922208295695286273",
+  "in_reply_to_user_id_str": "393695512",
+  "extended_tweet": {
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "urls": [],
+      "user_mentions": [
+        {
+          "indices": [
+            0,
+            16
+          ],
+          "screen_name": "JulianSerrano01",
+          "name": "Julian Serrano \ud83c\udf53",
+          "id_str": "393695512",
+          "id": 393695512
+        }
+      ]
+    },
+    "display_text_range": [
+      17,
+      151
+    ],
+    "full_text": "@JulianSerrano01 Te sigo desde el 2013, no sabes la felicidad que tengo hasta ahora!! El poder verte en vivo! Volv\u00e9 pronto por favor \ud83d\ude4f\ud83c\udffc\ud83d\ude2d te amoooo \u2764\ufe0f\ud83c\uddf5\ud83c\uddfe"
+  },
+  "in_reply_to_status_id": 922201061670244352,
+  "timestamp_ms": "1508706566152",
+  "truncated": true,
+  "text": "@JulianSerrano01 Te sigo desde el 2013, no sabes la felicidad que tengo hasta ahora!! El poder verte en vivo! Volv\u00e9\u2026 https://t.co/9ENpiolUem",
+  "user": {
+    "time_zone": "Santiago",
+    "screen_name": "vaneekw",
+    "utc_offset": -10800,
+    "created_at": "Wed Dec 30 03:23:19 +0000 2009",
+    "profile_background_tile": true,
+    "notifications": null,
+    "lang": "en-gb",
+    "default_profile": false,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/100390689/1476673790",
+    "id_str": "100390689",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/918310413967564801/51wCj5f0_normal.jpg",
+    "name": "Vanessa S.",
+    "friends_count": 584,
+    "translator_type": "none",
+    "protected": false,
+    "following": null,
+    "is_translator": false,
+    "follow_request_sent": null,
+    "profile_text_color": "63A348",
+    "listed_count": 21,
+    "profile_link_color": "29AB15",
+    "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/588834016/50qvdo0bwpozn5v767nq.png",
+    "url": "http://vaneekw.tumblr.com",
+    "id": 100390689,
+    "favourites_count": 77336,
+    "profile_background_color": "29AB15",
+    "followers_count": 1026,
+    "statuses_count": 52797,
+    "description": "It's all about music! I love animals and nature. Green lover. \ud83d\udc9a",
+    "location": "Where we are\u2728",
+    "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/588834016/50qvdo0bwpozn5v767nq.png",
+    "default_profile_image": false,
+    "verified": false,
+    "profile_sidebar_fill_color": "F5F5F5",
+    "profile_use_background_image": false,
+    "contributors_enabled": false,
+    "profile_sidebar_border_color": "FFFFFF",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/918310413967564801/51wCj5f0_normal.jpg",
+    "geo_enabled": true
+  },
+  "geo": null,
+  "id": 922208295695286273,
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "retweeted": false,
+  "filter_level": "low",
+  "in_reply_to_status_id_str": "922201061670244352",
+  "quote_count": 0,
+  "favorited": false,
+  "coordinates": null,
+  "display_text_range": [
+    17,
+    140
+  ],
+  "retweet_count": 0,
+  "is_quote_status": false,
+  "in_reply_to_screen_name": "JulianSerrano01",
+  "contributors": null,
+  "place": {
+    "bounding_box": {
+      "coordinates": [
+        [
+          [
+            -57.81535,
+            -25.984291
+          ],
+          [
+            -57.81535,
+            -25.108891
+          ],
+          [
+            -57.155006,
+            -25.108891
+          ],
+          [
+            -57.155006,
+            -25.984291
+          ]
+        ]
+      ],
+      "type": "Polygon"
+    },
+    "name": "Central",
+    "url": "https://api.twitter.com/1.1/geo/id/016ea1445db12efb.json",
+    "country_code": "PY",
+    "id": "016ea1445db12efb",
+    "place_type": "admin",
+    "attributes": {},
+    "full_name": "Central, Paraguay",
+    "country": "Paraguay"
+  }
+}

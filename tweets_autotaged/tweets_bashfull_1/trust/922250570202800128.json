@@ -1,0 +1,146 @@
+{
+  "entities": {
+    "hashtags": [
+      {
+        "indices": [
+          82,
+          98
+        ],
+        "text": "FranjaElectoral"
+      },
+      {
+        "indices": [
+          99,
+          114
+        ],
+        "text": "Elecciones2017"
+      },
+      {
+        "indices": [
+          115,
+          131
+        ],
+        "text": "EleccionesChile"
+      },
+      {
+        "indices": [
+          132,
+          138
+        ],
+        "text": "Chile"
+      }
+    ],
+    "symbols": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "indices": [
+          53,
+          68
+        ],
+        "screen_name": "senadornavarro",
+        "name": "Navarro Presidente",
+        "id_str": "59692037",
+        "id": 59692037
+      }
+    ]
+  },
+  "in_reply_to_user_id": null,
+  "created_at": "Sun Oct 22 23:57:25 +0000 2017",
+  "favorite_count": 0,
+  "lang": "es",
+  "reply_count": 0,
+  "id_str": "922250570202800128",
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_status_id": null,
+  "timestamp_ms": "1508716645180",
+  "text": "Qu\u00e9 iron\u00eda que el 2do apellido de Alejandro Navarro (@senadornavarro) sea \"Brain\" #FranjaElectoral #Elecciones2017 #EleccionesChile #Chile",
+  "user": {
+    "time_zone": "Santiago",
+    "screen_name": "Abel_M",
+    "utc_offset": -10800,
+    "created_at": "Thu Aug 27 02:10:15 +0000 2009",
+    "profile_background_tile": false,
+    "notifications": null,
+    "lang": "es",
+    "default_profile": false,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/69171305/1435055398",
+    "id_str": "69171305",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/916249466839228416/lHHPeuIa_normal.jpg",
+    "name": "Abel Mu\u00f1oz",
+    "friends_count": 1341,
+    "translator_type": "none",
+    "protected": false,
+    "following": null,
+    "is_translator": false,
+    "follow_request_sent": null,
+    "profile_text_color": "C3A713",
+    "listed_count": 8,
+    "profile_link_color": "8C4817",
+    "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000013281482/9ea60ef6fb823fc9a9c38add0d414909.jpeg",
+    "url": null,
+    "id": 69171305,
+    "favourites_count": 474,
+    "profile_background_color": "FFFFFF",
+    "followers_count": 1051,
+    "statuses_count": 5429,
+    "description": "INBANO - Ingeniero Civil Industrial UTFSM - Vicepresidente UDI Santiago Centro - Apoyando a @joseantoniokast para Presidente",
+    "location": null,
+    "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000013281482/9ea60ef6fb823fc9a9c38add0d414909.jpeg",
+    "default_profile_image": false,
+    "verified": false,
+    "profile_sidebar_fill_color": "232D52",
+    "profile_use_background_image": true,
+    "contributors_enabled": false,
+    "profile_sidebar_border_color": "000000",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/916249466839228416/lHHPeuIa_normal.jpg",
+    "geo_enabled": true
+  },
+  "geo": null,
+  "id": 922250570202800128,
+  "quote_count": 0,
+  "retweeted": false,
+  "filter_level": "low",
+  "in_reply_to_status_id_str": null,
+  "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+  "favorited": false,
+  "coordinates": null,
+  "truncated": false,
+  "retweet_count": 0,
+  "is_quote_status": false,
+  "in_reply_to_screen_name": null,
+  "contributors": null,
+  "place": {
+    "bounding_box": {
+      "coordinates": [
+        [
+          [
+            -70.61561,
+            -33.569942
+          ],
+          [
+            -70.61561,
+            -33.492303
+          ],
+          [
+            -70.438628,
+            -33.492303
+          ],
+          [
+            -70.438628,
+            -33.569942
+          ]
+        ]
+      ],
+      "type": "Polygon"
+    },
+    "name": "La Florida",
+    "url": "https://api.twitter.com/1.1/geo/id/00fb0fc66a6dde3f.json",
+    "country_code": "CL",
+    "id": "00fb0fc66a6dde3f",
+    "place_type": "city",
+    "attributes": {},
+    "full_name": "La Florida, Chile",
+    "country": "Chile"
+  }
+}

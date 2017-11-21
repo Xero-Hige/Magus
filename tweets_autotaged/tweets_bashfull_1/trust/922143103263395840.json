@@ -1,0 +1,284 @@
+{
+  "in_reply_to_user_id": null,
+  "contributors": null,
+  "id": 922143103263395840,
+  "retweeted": false,
+  "retweet_count": 0,
+  "timestamp_ms": "1508691023065",
+  "in_reply_to_status_id": null,
+  "id_str": "922143103263395840",
+  "coordinates": null,
+  "created_at": "Sun Oct 22 16:50:23 +0000 2017",
+  "quote_count": 0,
+  "favorite_count": 0,
+  "entities": {
+    "user_mentions": [],
+    "symbols": [],
+    "hashtags": [],
+    "urls": [
+      {
+        "expanded_url": "https://twitter.com/i/web/status/922143103263395840",
+        "indices": [
+          117,
+          140
+        ],
+        "url": "https://t.co/AaurXLwtaT",
+        "display_url": "twitter.com/i/web/status/9\u2026"
+      }
+    ]
+  },
+  "reply_count": 0,
+  "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+  "place": {
+    "attributes": {},
+    "url": "https://api.twitter.com/1.1/geo/id/00c4b64e7affea25.json",
+    "place_type": "city",
+    "id": "00c4b64e7affea25",
+    "country_code": "CL",
+    "name": "Las Condes",
+    "country": "Chile",
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            -70.608694,
+            -33.486182
+          ],
+          [
+            -70.608694,
+            -33.364619
+          ],
+          [
+            -70.429141,
+            -33.364619
+          ],
+          [
+            -70.429141,
+            -33.486182
+          ]
+        ]
+      ]
+    },
+    "full_name": "Las Condes, Chile"
+  },
+  "truncated": true,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_screen_name": null,
+  "filter_level": "low",
+  "text": "A pesar de lo que ha pasado los ultimos a\u00f1os, sere una agradecida de este Se\u00f1or! su leyenda es inmesa! Feliz cumple\u2026 https://t.co/AaurXLwtaT",
+  "geo": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": false,
+  "possibly_sensitive": false,
+  "display_text_range": [
+    0,
+    140
+  ],
+  "favorited": false,
+  "user": {
+    "verified": false,
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+    "statuses_count": 162913,
+    "screen_name": "rkgunner",
+    "default_profile_image": false,
+    "time_zone": "Atlantic Time (Canada)",
+    "name": "Claudia Roquefort",
+    "id_str": "172008420",
+    "profile_sidebar_border_color": "EEEEEE",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/172008420/1503285612",
+    "created_at": "Wed Jul 28 18:06:45 +0000 2010",
+    "friends_count": 1076,
+    "url": null,
+    "profile_background_tile": false,
+    "protected": false,
+    "translator_type": "none",
+    "profile_text_color": "333333",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/899363353533059072/s6id0Q-h_normal.jpg",
+    "listed_count": 50,
+    "notifications": null,
+    "contributors_enabled": false,
+    "is_translator": false,
+    "location": "Molina, Chile",
+    "profile_use_background_image": true,
+    "followers_count": 1021,
+    "profile_sidebar_fill_color": "F6F6F6",
+    "geo_enabled": true,
+    "profile_link_color": "038543",
+    "favourites_count": 858,
+    "following": null,
+    "default_profile": false,
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+    "profile_background_color": "ACDED6",
+    "id": 172008420,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/899363353533059072/s6id0Q-h_normal.jpg",
+    "lang": "es",
+    "description": "Siempre me hago bolas \ud83e\udd14",
+    "follow_request_sent": null,
+    "utc_offset": -10800
+  },
+  "extended_tweet": {
+    "entities": {
+      "user_mentions": [],
+      "symbols": [],
+      "hashtags": [],
+      "urls": [],
+      "media": [
+        {
+          "indices": [
+            129,
+            152
+          ],
+          "media_url_https": "https://pbs.twimg.com/media/DMwbzKXXUAE3F0K.jpg",
+          "url": "https://t.co/HrPbO9jXzY",
+          "expanded_url": "https://twitter.com/rkgunner/status/922143103263395840/photo/1",
+          "id": 922142589473738753,
+          "sizes": {
+            "medium": {
+              "resize": "fit",
+              "w": 650,
+              "h": 433
+            },
+            "large": {
+              "resize": "fit",
+              "w": 650,
+              "h": 433
+            },
+            "small": {
+              "resize": "fit",
+              "w": 650,
+              "h": 433
+            },
+            "thumb": {
+              "resize": "crop",
+              "w": 150,
+              "h": 150
+            }
+          },
+          "media_url": "http://pbs.twimg.com/media/DMwbzKXXUAE3F0K.jpg",
+          "id_str": "922142589473738753",
+          "display_url": "pic.twitter.com/HrPbO9jXzY",
+          "type": "photo"
+        },
+        {
+          "indices": [
+            129,
+            152
+          ],
+          "media_url_https": "https://pbs.twimg.com/media/DMwb2LoX0AEVSsm.jpg",
+          "url": "https://t.co/HrPbO9jXzY",
+          "expanded_url": "https://twitter.com/rkgunner/status/922143103263395840/photo/1",
+          "id": 922142641353117697,
+          "sizes": {
+            "medium": {
+              "resize": "fit",
+              "w": 300,
+              "h": 168
+            },
+            "large": {
+              "resize": "fit",
+              "w": 300,
+              "h": 168
+            },
+            "small": {
+              "resize": "fit",
+              "w": 300,
+              "h": 168
+            },
+            "thumb": {
+              "resize": "crop",
+              "w": 150,
+              "h": 150
+            }
+          },
+          "media_url": "http://pbs.twimg.com/media/DMwb2LoX0AEVSsm.jpg",
+          "id_str": "922142641353117697",
+          "display_url": "pic.twitter.com/HrPbO9jXzY",
+          "type": "photo"
+        }
+      ]
+    },
+    "display_text_range": [
+      0,
+      128
+    ],
+    "extended_entities": {
+      "media": [
+        {
+          "indices": [
+            129,
+            152
+          ],
+          "media_url_https": "https://pbs.twimg.com/media/DMwbzKXXUAE3F0K.jpg",
+          "url": "https://t.co/HrPbO9jXzY",
+          "expanded_url": "https://twitter.com/rkgunner/status/922143103263395840/photo/1",
+          "id": 922142589473738753,
+          "sizes": {
+            "medium": {
+              "resize": "fit",
+              "w": 650,
+              "h": 433
+            },
+            "large": {
+              "resize": "fit",
+              "w": 650,
+              "h": 433
+            },
+            "small": {
+              "resize": "fit",
+              "w": 650,
+              "h": 433
+            },
+            "thumb": {
+              "resize": "crop",
+              "w": 150,
+              "h": 150
+            }
+          },
+          "media_url": "http://pbs.twimg.com/media/DMwbzKXXUAE3F0K.jpg",
+          "id_str": "922142589473738753",
+          "display_url": "pic.twitter.com/HrPbO9jXzY",
+          "type": "photo"
+        },
+        {
+          "indices": [
+            129,
+            152
+          ],
+          "media_url_https": "https://pbs.twimg.com/media/DMwb2LoX0AEVSsm.jpg",
+          "url": "https://t.co/HrPbO9jXzY",
+          "expanded_url": "https://twitter.com/rkgunner/status/922143103263395840/photo/1",
+          "id": 922142641353117697,
+          "sizes": {
+            "medium": {
+              "resize": "fit",
+              "w": 300,
+              "h": 168
+            },
+            "large": {
+              "resize": "fit",
+              "w": 300,
+              "h": 168
+            },
+            "small": {
+              "resize": "fit",
+              "w": 300,
+              "h": 168
+            },
+            "thumb": {
+              "resize": "crop",
+              "w": 150,
+              "h": 150
+            }
+          },
+          "media_url": "http://pbs.twimg.com/media/DMwb2LoX0AEVSsm.jpg",
+          "id_str": "922142641353117697",
+          "display_url": "pic.twitter.com/HrPbO9jXzY",
+          "type": "photo"
+        }
+      ]
+    },
+    "full_text": "A pesar de lo que ha pasado los ultimos a\u00f1os, sere una agradecida de este Se\u00f1or! su leyenda es inmesa! Feliz cumple Don Arsene \ud83d\ude00 https://t.co/HrPbO9jXzY"
+  },
+  "lang": "es"
+}

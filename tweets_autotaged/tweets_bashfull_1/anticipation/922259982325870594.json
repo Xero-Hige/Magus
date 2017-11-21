@@ -1,0 +1,137 @@
+{
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "urls": [
+      {
+        "indices": [
+          117,
+          140
+        ],
+        "expanded_url": "https://twitter.com/i/web/status/922259982325870594",
+        "display_url": "twitter.com/i/web/status/9\u2026",
+        "url": "https://t.co/vewnq1G8rh"
+      }
+    ],
+    "user_mentions": []
+  },
+  "in_reply_to_user_id": null,
+  "created_at": "Mon Oct 23 00:34:49 +0000 2017",
+  "favorite_count": 0,
+  "lang": "es",
+  "reply_count": 0,
+  "id_str": "922259982325870594",
+  "in_reply_to_user_id_str": null,
+  "extended_tweet": {
+    "entities": {
+      "hashtags": [
+        {
+          "indices": [
+            186,
+            198
+          ],
+          "text": "ElPaisElige"
+        }
+      ],
+      "symbols": [],
+      "urls": [],
+      "user_mentions": []
+    },
+    "display_text_range": [
+      0,
+      198
+    ],
+    "full_text": "Los Jueces tienen que tener los cojones necesarios para pedir Prisi\u00f3n de cumplimiento efectivo, si no lo hacen deben ser denunciados ante el Consejo de la Magistratura en forma urgente! #ElPaisElige"
+  },
+  "in_reply_to_status_id": null,
+  "timestamp_ms": "1508718889205",
+  "text": "Los Jueces tienen que tener los cojones necesarios para pedir Prisi\u00f3n de cumplimiento efectivo, si no lo hacen debe\u2026 https://t.co/vewnq1G8rh",
+  "user": {
+    "time_zone": "Buenos Aires",
+    "screen_name": "sayamaabar13",
+    "utc_offset": -10800,
+    "created_at": "Sun Apr 30 14:20:10 +0000 2017",
+    "profile_background_tile": false,
+    "notifications": null,
+    "lang": "es",
+    "default_profile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/858687426868506624/1506735806",
+    "id_str": "858687426868506624",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/858690663138959361/gDb20Gob_normal.jpg",
+    "name": "N\u00e8mesis",
+    "friends_count": 86,
+    "translator_type": "none",
+    "protected": false,
+    "following": null,
+    "is_translator": false,
+    "follow_request_sent": null,
+    "profile_text_color": "333333",
+    "listed_count": 0,
+    "profile_link_color": "1DA1F2",
+    "profile_background_image_url": "",
+    "url": "http://www.elojodelleguleyo.galeon.com",
+    "id": 858687426868506624,
+    "favourites_count": 1631,
+    "profile_background_color": "F5F8FA",
+    "followers_count": 67,
+    "statuses_count": 1730,
+    "description": "Abogada. Inteligencia Criminal- Criminolog\u00eda - Master en Inteligencia Estrat\u00e9gica Nacional - Master en Defensa Nacional - Corresponsal de Guerra - C.P.A.C.F.",
+    "location": "Ciudad Aut\u00f3noma de Buenos Aire",
+    "profile_background_image_url_https": "",
+    "default_profile_image": false,
+    "verified": false,
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_use_background_image": true,
+    "contributors_enabled": false,
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/858690663138959361/gDb20Gob_normal.jpg",
+    "geo_enabled": true
+  },
+  "geo": null,
+  "id": 922259982325870594,
+  "quote_count": 0,
+  "retweeted": false,
+  "filter_level": "low",
+  "in_reply_to_status_id_str": null,
+  "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+  "favorited": false,
+  "coordinates": null,
+  "truncated": true,
+  "retweet_count": 0,
+  "is_quote_status": false,
+  "in_reply_to_screen_name": null,
+  "contributors": null,
+  "place": {
+    "bounding_box": {
+      "coordinates": [
+        [
+          [
+            -58.531792,
+            -34.674453
+          ],
+          [
+            -58.531792,
+            -34.534177
+          ],
+          [
+            -58.353494,
+            -34.534177
+          ],
+          [
+            -58.353494,
+            -34.674453
+          ]
+        ]
+      ],
+      "type": "Polygon"
+    },
+    "name": "Ciudad Aut\u00f3noma de Buenos Aires",
+    "url": "https://api.twitter.com/1.1/geo/id/018f1cde6bad9747.json",
+    "country_code": "AR",
+    "id": "018f1cde6bad9747",
+    "place_type": "city",
+    "attributes": {},
+    "full_name": "Ciudad Aut\u00f3noma de Buenos Aires, Argentina",
+    "country": "Argentina"
+  }
+}

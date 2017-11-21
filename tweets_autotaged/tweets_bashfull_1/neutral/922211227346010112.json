@@ -1,0 +1,140 @@
+{
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "urls": [
+      {
+        "indices": [
+          106,
+          129
+        ],
+        "expanded_url": "https://www.swarmapp.com/c/23AKBnRznm7",
+        "display_url": "swarmapp.com/c/23AKBnRznm7",
+        "url": "https://t.co/HPFySg1rE8"
+      }
+    ],
+    "user_mentions": [
+      {
+        "indices": [
+          67,
+          83
+        ],
+        "screen_name": "TeatroMunicAsun",
+        "name": "TeatroMunicAsuncion",
+        "id_str": "199361570",
+        "id": 199361570
+      }
+    ]
+  },
+  "in_reply_to_user_id": null,
+  "created_at": "Sun Oct 22 21:21:05 +0000 2017",
+  "favorite_count": 0,
+  "lang": "es",
+  "reply_count": 0,
+  "id_str": "922211227346010112",
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_status_id": null,
+  "timestamp_ms": "1508707265112",
+  "possibly_sensitive": false,
+  "text": "Segunda funci\u00f3n del ballet \u2764 (@ Teatro Municipal Ignacio A. Pane - @teatromunicasun in Asuncion, Capital) https://t.co/HPFySg1rE8",
+  "user": {
+    "time_zone": "Quito",
+    "screen_name": "marciafiorella",
+    "utc_offset": -18000,
+    "created_at": "Fri Apr 09 16:36:20 +0000 2010",
+    "profile_background_tile": false,
+    "notifications": null,
+    "lang": "es",
+    "default_profile": false,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/131217466/1457997700",
+    "id_str": "131217466",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/842213173608497154/eiYCN-0j_normal.jpg",
+    "name": "Fio\u2665\u266c",
+    "friends_count": 661,
+    "translator_type": "none",
+    "protected": false,
+    "following": null,
+    "is_translator": false,
+    "follow_request_sent": null,
+    "profile_text_color": "3C3940",
+    "listed_count": 10,
+    "profile_link_color": "0099B9",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+    "url": null,
+    "id": 131217466,
+    "favourites_count": 690,
+    "profile_background_color": "0099B9",
+    "followers_count": 455,
+    "statuses_count": 37308,
+    "description": "Percusionista.. Lic. En M\u00fasica UNA, CONAMU Percu..\nCaos total, las huellas de mis pasos no se borrar\u00e1n!",
+    "location": "paraguay",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+    "default_profile_image": false,
+    "verified": false,
+    "profile_sidebar_fill_color": "95E8EC",
+    "profile_use_background_image": true,
+    "contributors_enabled": false,
+    "profile_sidebar_border_color": "5ED4DC",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/842213173608497154/eiYCN-0j_normal.jpg",
+    "geo_enabled": true
+  },
+  "geo": {
+    "coordinates": [
+      -25.28108478,
+      -57.63507583
+    ],
+    "type": "Point"
+  },
+  "id": 922211227346010112,
+  "quote_count": 0,
+  "retweeted": false,
+  "filter_level": "low",
+  "in_reply_to_status_id_str": null,
+  "source": "<a href=\"http://foursquare.com\" rel=\"nofollow\">Foursquare</a>",
+  "favorited": false,
+  "coordinates": {
+    "coordinates": [
+      -57.63507583,
+      -25.28108478
+    ],
+    "type": "Point"
+  },
+  "truncated": false,
+  "retweet_count": 0,
+  "is_quote_status": false,
+  "in_reply_to_screen_name": null,
+  "contributors": null,
+  "place": {
+    "bounding_box": {
+      "coordinates": [
+        [
+          [
+            -57.674304,
+            -25.34793
+          ],
+          [
+            -57.674304,
+            -25.252598
+          ],
+          [
+            -57.537731,
+            -25.252598
+          ],
+          [
+            -57.537731,
+            -25.34793
+          ]
+        ]
+      ],
+      "type": "Polygon"
+    },
+    "name": "Asuncion",
+    "url": "https://api.twitter.com/1.1/geo/id/01f2931e2c7f48a8.json",
+    "country_code": "PY",
+    "id": "01f2931e2c7f48a8",
+    "place_type": "city",
+    "attributes": {},
+    "full_name": "Asuncion, Paraguay",
+    "country": "Paraguay"
+  }
+}

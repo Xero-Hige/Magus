@@ -1,0 +1,121 @@
+{
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "indices": [
+          0,
+          16
+        ],
+        "screen_name": "germanscheihing",
+        "name": "Germ\u00e1n Scheihing",
+        "id_str": "148908249",
+        "id": 148908249
+      }
+    ]
+  },
+  "in_reply_to_user_id": 148908249,
+  "created_at": "Sun Oct 22 22:12:50 +0000 2017",
+  "favorite_count": 0,
+  "lang": "es",
+  "reply_count": 0,
+  "id_str": "922224254191579136",
+  "in_reply_to_user_id_str": "148908249",
+  "in_reply_to_status_id": 922221622664216576,
+  "timestamp_ms": "1508710370954",
+  "truncated": false,
+  "text": "@germanscheihing igual espero el milagro de ganar los dos partidos que vienen y esperar a ver qu\u00e9 pasa la \u00faltima fecha. Pero dif\u00edcil.",
+  "user": {
+    "time_zone": "Santiago",
+    "screen_name": "h_montes",
+    "utc_offset": -10800,
+    "created_at": "Thu Jul 02 04:08:19 +0000 2009",
+    "profile_background_tile": true,
+    "notifications": null,
+    "lang": "en",
+    "default_profile": false,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/52964172/1409979075",
+    "id_str": "52964172",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/508114714589544448/M9SFLsc__normal.jpeg",
+    "name": "H\u00e9ctor J. Montes",
+    "friends_count": 673,
+    "translator_type": "none",
+    "protected": false,
+    "following": null,
+    "is_translator": false,
+    "follow_request_sent": null,
+    "profile_text_color": "333333",
+    "listed_count": 5,
+    "profile_link_color": "0084B4",
+    "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/55951212/Mogwai.jpg",
+    "url": null,
+    "id": 52964172,
+    "favourites_count": 138,
+    "profile_background_color": "9AE4E8",
+    "followers_count": 261,
+    "statuses_count": 6832,
+    "description": "Valdiviano.",
+    "location": "Santiago, Chile",
+    "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/55951212/Mogwai.jpg",
+    "default_profile_image": false,
+    "verified": false,
+    "profile_sidebar_fill_color": "DDFFCC",
+    "profile_use_background_image": true,
+    "contributors_enabled": false,
+    "profile_sidebar_border_color": "FFFFFF",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/508114714589544448/M9SFLsc__normal.jpeg",
+    "geo_enabled": true
+  },
+  "geo": null,
+  "id": 922224254191579136,
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "retweeted": false,
+  "filter_level": "low",
+  "in_reply_to_status_id_str": "922221622664216576",
+  "quote_count": 0,
+  "favorited": false,
+  "coordinates": null,
+  "display_text_range": [
+    17,
+    133
+  ],
+  "retweet_count": 0,
+  "is_quote_status": false,
+  "in_reply_to_screen_name": "germanscheihing",
+  "contributors": null,
+  "place": {
+    "bounding_box": {
+      "coordinates": [
+        [
+          [
+            -70.608694,
+            -33.486182
+          ],
+          [
+            -70.608694,
+            -33.364619
+          ],
+          [
+            -70.429141,
+            -33.364619
+          ],
+          [
+            -70.429141,
+            -33.486182
+          ]
+        ]
+      ],
+      "type": "Polygon"
+    },
+    "name": "Las Condes",
+    "url": "https://api.twitter.com/1.1/geo/id/00c4b64e7affea25.json",
+    "country_code": "CL",
+    "id": "00c4b64e7affea25",
+    "place_type": "city",
+    "attributes": {},
+    "full_name": "Las Condes, Chile",
+    "country": "Chile"
+  }
+}

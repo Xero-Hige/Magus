@@ -1,0 +1,154 @@
+{
+  "in_reply_to_user_id": 49153460,
+  "contributors": null,
+  "id": 922111654086799361,
+  "retweeted": false,
+  "retweet_count": 0,
+  "timestamp_ms": "1508683524997",
+  "in_reply_to_status_id": 921818528243683330,
+  "id_str": "922111654086799361",
+  "coordinates": null,
+  "created_at": "Sun Oct 22 14:45:24 +0000 2017",
+  "quote_count": 0,
+  "favorite_count": 0,
+  "entities": {
+    "user_mentions": [
+      {
+        "indices": [
+          0,
+          11
+        ],
+        "name": "Silvia Mercado",
+        "screen_name": "SilMercado",
+        "id": 49153460,
+        "id_str": "49153460"
+      }
+    ],
+    "symbols": [],
+    "hashtags": [],
+    "urls": [
+      {
+        "expanded_url": "https://twitter.com/i/web/status/922111654086799361",
+        "indices": [
+          116,
+          139
+        ],
+        "url": "https://t.co/LI4s2EfGP0",
+        "display_url": "twitter.com/i/web/status/9\u2026"
+      }
+    ]
+  },
+  "reply_count": 0,
+  "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+  "place": {
+    "attributes": {},
+    "url": "https://api.twitter.com/1.1/geo/id/0079b17c6b71e4a4.json",
+    "place_type": "city",
+    "id": "0079b17c6b71e4a4",
+    "country_code": "AR",
+    "name": "Cipolletti",
+    "country": "Argentina",
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            -68.015269,
+            -38.9552
+          ],
+          [
+            -68.015269,
+            -38.911687
+          ],
+          [
+            -67.965627,
+            -38.911687
+          ],
+          [
+            -67.965627,
+            -38.9552
+          ]
+        ]
+      ]
+    },
+    "full_name": "Cipolletti, Argentina"
+  },
+  "truncated": true,
+  "in_reply_to_status_id_str": "921818528243683330",
+  "in_reply_to_screen_name": "SilMercado",
+  "filter_level": "low",
+  "text": "@SilMercado Ya sacaron sus conclusiones, porque saben que se les viene la noche a Cambiemos. Son y ser\u00e1n la basura\u2026 https://t.co/LI4s2EfGP0",
+  "geo": null,
+  "in_reply_to_user_id_str": "49153460",
+  "is_quote_status": false,
+  "display_text_range": [
+    12,
+    140
+  ],
+  "favorited": false,
+  "user": {
+    "verified": false,
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "statuses_count": 1096,
+    "screen_name": "jgbarre",
+    "default_profile_image": false,
+    "time_zone": "Pacific Time (US & Canada)",
+    "name": "Jorge Barrera",
+    "id_str": "575371885",
+    "profile_sidebar_border_color": "C0DEED",
+    "created_at": "Wed May 09 13:48:27 +0000 2012",
+    "friends_count": 203,
+    "url": null,
+    "profile_background_tile": false,
+    "protected": false,
+    "translator_type": "none",
+    "profile_text_color": "333333",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/3480026164/77b6940bfbd8d9cc7cc7fb92ee11ce4d_normal.jpeg",
+    "listed_count": 0,
+    "notifications": null,
+    "contributors_enabled": false,
+    "is_translator": false,
+    "location": null,
+    "profile_use_background_image": true,
+    "followers_count": 26,
+    "profile_sidebar_fill_color": "DDEEF6",
+    "geo_enabled": true,
+    "profile_link_color": "1DA1F2",
+    "favourites_count": 89,
+    "following": null,
+    "default_profile": true,
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_color": "C0DEED",
+    "id": 575371885,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/3480026164/77b6940bfbd8d9cc7cc7fb92ee11ce4d_normal.jpeg",
+    "lang": "es",
+    "description": "Docente",
+    "follow_request_sent": null,
+    "utc_offset": -25200
+  },
+  "extended_tweet": {
+    "entities": {
+      "user_mentions": [
+        {
+          "indices": [
+            0,
+            11
+          ],
+          "name": "Silvia Mercado",
+          "screen_name": "SilMercado",
+          "id": 49153460,
+          "id_str": "49153460"
+        }
+      ],
+      "symbols": [],
+      "hashtags": [],
+      "urls": []
+    },
+    "display_text_range": [
+      12,
+      144
+    ],
+    "full_text": "@SilMercado Ya sacaron sus conclusiones, porque saben que se les viene la noche a Cambiemos. Son y ser\u00e1n la basura m\u00e1s grande que tenga el pa\u00eds."
+  },
+  "lang": "es"
+}

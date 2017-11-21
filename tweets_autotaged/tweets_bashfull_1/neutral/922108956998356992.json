@@ -1,0 +1,106 @@
+{
+  "in_reply_to_user_id": null,
+  "contributors": null,
+  "in_reply_to_screen_name": null,
+  "retweeted": false,
+  "retweet_count": 0,
+  "timestamp_ms": "1508682881961",
+  "in_reply_to_status_id": null,
+  "id_str": "922108956998356992",
+  "created_at": "Sun Oct 22 14:34:41 +0000 2017",
+  "id": 922108956998356992,
+  "coordinates": null,
+  "favorite_count": 0,
+  "entities": {
+    "user_mentions": [],
+    "symbols": [],
+    "hashtags": [],
+    "urls": []
+  },
+  "reply_count": 0,
+  "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+  "place": {
+    "attributes": {},
+    "url": "https://api.twitter.com/1.1/geo/id/0108c69f708ae783.json",
+    "place_type": "city",
+    "id": "0108c69f708ae783",
+    "country_code": "AR",
+    "name": "Avellaneda",
+    "country": "Argentina",
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            -58.40649,
+            -34.726948
+          ],
+          [
+            -58.40649,
+            -34.638333
+          ],
+          [
+            -58.297038,
+            -34.638333
+          ],
+          [
+            -58.297038,
+            -34.726948
+          ]
+        ]
+      ]
+    },
+    "full_name": "Avellaneda, Argentina"
+  },
+  "truncated": false,
+  "in_reply_to_status_id_str": null,
+  "filter_level": "low",
+  "text": "Seis personas esposadas en el local del PTS MDP, ubicado en Jujuy entre Castelli y Alvarado.",
+  "geo": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": false,
+  "favorited": false,
+  "user": {
+    "verified": false,
+    "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/669298011957239808/gff_mssV.jpg",
+    "statuses_count": 8085,
+    "screen_name": "CazadorenFM1019",
+    "default_profile_image": false,
+    "time_zone": "Buenos Aires",
+    "name": "Punto De Partida",
+    "id_str": "2942198848",
+    "profile_sidebar_border_color": "000000",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/2942198848/1419981955",
+    "created_at": "Fri Dec 26 14:01:22 +0000 2014",
+    "friends_count": 431,
+    "url": "http://cazadordenoticias.com.ar",
+    "profile_background_tile": false,
+    "protected": false,
+    "translator_type": "none",
+    "profile_text_color": "000000",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/823890772252655616/Oi-efXPN_normal.jpg",
+    "listed_count": 2,
+    "notifications": null,
+    "contributors_enabled": false,
+    "is_translator": false,
+    "location": "Mar del Plata",
+    "profile_use_background_image": true,
+    "followers_count": 782,
+    "profile_sidebar_fill_color": "000000",
+    "geo_enabled": true,
+    "profile_link_color": "0084B4",
+    "favourites_count": 86,
+    "following": null,
+    "default_profile": false,
+    "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/669298011957239808/gff_mssV.jpg",
+    "profile_background_color": "000000",
+    "id": 2942198848,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/823890772252655616/Oi-efXPN_normal.jpg",
+    "lang": "es",
+    "description": "Lun a Vier de 8 a 10. FM 101.9 Conducci\u00f3n @rubenFerrari",
+    "follow_request_sent": null,
+    "utc_offset": -10800
+  },
+  "quote_count": 0,
+  "lang": "es"
+}

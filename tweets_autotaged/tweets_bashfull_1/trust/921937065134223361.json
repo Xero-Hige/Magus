@@ -1,0 +1,114 @@
+{
+  "in_reply_to_user_id": null,
+  "contributors": null,
+  "in_reply_to_screen_name": null,
+  "retweeted": false,
+  "retweet_count": 0,
+  "timestamp_ms": "1508641899747",
+  "in_reply_to_status_id": null,
+  "id_str": "921937065134223361",
+  "created_at": "Sun Oct 22 03:11:39 +0000 2017",
+  "id": 921937065134223361,
+  "coordinates": null,
+  "favorite_count": 0,
+  "entities": {
+    "user_mentions": [],
+    "symbols": [],
+    "hashtags": [
+      {
+        "text": "LosKUsaronASantiago",
+        "indices": [
+          0,
+          20
+        ]
+      }
+    ],
+    "urls": []
+  },
+  "reply_count": 0,
+  "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+  "place": {
+    "attributes": {},
+    "url": "https://api.twitter.com/1.1/geo/id/0177894212b08f73.json",
+    "place_type": "city",
+    "id": "0177894212b08f73",
+    "country_code": "AR",
+    "name": "La Plata",
+    "country": "Argentina",
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            -58.160874,
+            -35.031373
+          ],
+          [
+            -58.160874,
+            -34.841264
+          ],
+          [
+            -57.865169,
+            -34.841264
+          ],
+          [
+            -57.865169,
+            -35.031373
+          ]
+        ]
+      ]
+    },
+    "full_name": "La Plata, Argentina"
+  },
+  "truncated": false,
+  "in_reply_to_status_id_str": null,
+  "filter_level": "low",
+  "text": "#LosKUsaronASantiago Te regalo amigos como \"Testigo E\", te deja en bolas en medio del r\u00edo, miente 3 meses y reclama recompensa, un macanudo.",
+  "geo": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": false,
+  "favorited": false,
+  "user": {
+    "verified": false,
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "statuses_count": 50356,
+    "screen_name": "alecaviglioni",
+    "default_profile_image": false,
+    "time_zone": "Brasilia",
+    "name": "Alejandro Caviglioni",
+    "id_str": "144935872",
+    "profile_sidebar_border_color": "000000",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/144935872/1448582466",
+    "created_at": "Mon May 17 18:09:06 +0000 2010",
+    "friends_count": 898,
+    "url": "http://page.is/alecaviglioni",
+    "profile_background_tile": false,
+    "protected": false,
+    "translator_type": "none",
+    "profile_text_color": "000000",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1530600583/en_mi_estado_ideal_normal.jpg",
+    "listed_count": 23,
+    "notifications": null,
+    "contributors_enabled": false,
+    "is_translator": false,
+    "location": "La Plata",
+    "profile_use_background_image": false,
+    "followers_count": 1304,
+    "profile_sidebar_fill_color": "000000",
+    "geo_enabled": true,
+    "profile_link_color": "1B95E0",
+    "favourites_count": 52775,
+    "following": null,
+    "default_profile": false,
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_color": "000000",
+    "id": 144935872,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1530600583/en_mi_estado_ideal_normal.jpg",
+    "lang": "es",
+    "description": "Es que la Gola se va, y la fama es puro cuento !!! No te gusta el tango ? Te espero a los 40..., dec\u00eda mi viejo.",
+    "follow_request_sent": null,
+    "utc_offset": -7200
+  },
+  "quote_count": 0,
+  "lang": "es"
+}

@@ -1,0 +1,132 @@
+{
+  "in_reply_to_user_id": 190829405,
+  "contributors": null,
+  "id": 922080594107957249,
+  "retweeted": false,
+  "retweet_count": 0,
+  "timestamp_ms": "1508676119721",
+  "in_reply_to_status_id": 922074841938890752,
+  "id_str": "922080594107957249",
+  "created_at": "Sun Oct 22 12:41:59 +0000 2017",
+  "coordinates": null,
+  "favorite_count": 0,
+  "entities": {
+    "user_mentions": [
+      {
+        "indices": [
+          0,
+          10
+        ],
+        "name": "Radio Dos",
+        "screen_name": "radio_dos",
+        "id": 190829405,
+        "id_str": "190829405"
+      }
+    ],
+    "symbols": [],
+    "hashtags": [],
+    "urls": [
+      {
+        "expanded_url": "https://goo.gl/j6Enr6",
+        "indices": [
+          11,
+          34
+        ],
+        "url": "https://t.co/VkDr5BLnPz",
+        "display_url": "goo.gl/j6Enr6"
+      }
+    ]
+  },
+  "reply_count": 0,
+  "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+  "place": {
+    "attributes": {},
+    "url": "https://api.twitter.com/1.1/geo/id/1ed82be977be0cfa.json",
+    "place_type": "admin",
+    "id": "1ed82be977be0cfa",
+    "country_code": "AR",
+    "name": "Buenos Aires City Region",
+    "country": "Argentina",
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            -58.531792,
+            -34.705421
+          ],
+          [
+            -58.531792,
+            -34.526466
+          ],
+          [
+            -58.335105,
+            -34.526466
+          ],
+          [
+            -58.335105,
+            -34.705421
+          ]
+        ]
+      ]
+    },
+    "full_name": "Buenos Aires City Region, Argentina"
+  },
+  "truncated": false,
+  "in_reply_to_status_id_str": "922074841938890752",
+  "in_reply_to_screen_name": "radio_dos",
+  "filter_level": "low",
+  "text": "@radio_dos https://t.co/VkDr5BLnPz DONDE VOTO CORRIENTES Retwitealo! para consultar el padron desde tu celular!",
+  "geo": null,
+  "in_reply_to_user_id_str": "190829405",
+  "is_quote_status": false,
+  "possibly_sensitive": false,
+  "display_text_range": [
+    11,
+    111
+  ],
+  "favorited": false,
+  "user": {
+    "verified": false,
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "statuses_count": 766,
+    "screen_name": "opicampana",
+    "default_profile_image": false,
+    "time_zone": "Mountain Time (US & Canada)",
+    "name": "Blogular Mobile Labs",
+    "id_str": "33598053",
+    "profile_sidebar_border_color": "000000",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/33598053/1480169305",
+    "created_at": "Mon Apr 20 17:50:48 +0000 2009",
+    "friends_count": 3364,
+    "url": null,
+    "profile_background_tile": false,
+    "protected": false,
+    "translator_type": "none",
+    "profile_text_color": "000000",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/803619781450596352/AGqWFIBp_normal.jpg",
+    "listed_count": 7,
+    "notifications": null,
+    "contributors_enabled": false,
+    "is_translator": false,
+    "location": "Campana, Argentina",
+    "profile_use_background_image": false,
+    "followers_count": 927,
+    "profile_sidebar_fill_color": "000000",
+    "geo_enabled": true,
+    "profile_link_color": "FF691F",
+    "favourites_count": 192,
+    "following": null,
+    "default_profile": false,
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_color": "000000",
+    "id": 33598053,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/803619781450596352/AGqWFIBp_normal.jpg",
+    "lang": "en",
+    "description": "Somos una empresa especializada en los desarrollos para dispositivos m\u00f3viles, IOS, Android, Juegos, Apps Hibridas. Aplicaciones y Sitios Web.",
+    "follow_request_sent": null,
+    "utc_offset": -21600
+  },
+  "quote_count": 0,
+  "lang": "es"
+}

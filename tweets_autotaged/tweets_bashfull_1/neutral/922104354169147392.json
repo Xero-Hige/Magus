@@ -1,0 +1,106 @@
+{
+  "in_reply_to_user_id": null,
+  "contributors": null,
+  "in_reply_to_screen_name": null,
+  "retweeted": false,
+  "retweet_count": 0,
+  "timestamp_ms": "1508681784561",
+  "in_reply_to_status_id": null,
+  "id_str": "922104354169147392",
+  "created_at": "Sun Oct 22 14:16:24 +0000 2017",
+  "id": 922104354169147392,
+  "coordinates": null,
+  "favorite_count": 0,
+  "entities": {
+    "user_mentions": [],
+    "symbols": [],
+    "hashtags": [],
+    "urls": []
+  },
+  "reply_count": 0,
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "place": {
+    "attributes": {},
+    "url": "https://api.twitter.com/1.1/geo/id/018f1cde6bad9747.json",
+    "place_type": "city",
+    "id": "018f1cde6bad9747",
+    "country_code": "AR",
+    "name": "Ciudad Aut\u00f3noma de Buenos Aires",
+    "country": "Argentina",
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            -58.531792,
+            -34.674453
+          ],
+          [
+            -58.531792,
+            -34.534177
+          ],
+          [
+            -58.353494,
+            -34.534177
+          ],
+          [
+            -58.353494,
+            -34.674453
+          ]
+        ]
+      ]
+    },
+    "full_name": "Ciudad Aut\u00f3noma de Buenos Aires, Argentina"
+  },
+  "truncated": false,
+  "in_reply_to_status_id_str": null,
+  "filter_level": "low",
+  "text": "D\u00e9jame hacerte una foto con las nubes detr\u00e1s, quiero tener algo tuyo por si un d\u00eda te vas.",
+  "geo": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": false,
+  "favorited": false,
+  "user": {
+    "verified": true,
+    "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/467208555213254656/2UC9Jqet.jpeg",
+    "statuses_count": 135696,
+    "screen_name": "dieguez_",
+    "default_profile_image": false,
+    "time_zone": "Buenos Aires",
+    "name": "Diego Papic",
+    "id_str": "11823682",
+    "profile_sidebar_border_color": "FFFFFF",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/11823682/1488500539",
+    "created_at": "Fri Jan 04 01:32:20 +0000 2008",
+    "friends_count": 4394,
+    "url": "http://www.cinenacional.com",
+    "profile_background_tile": true,
+    "protected": false,
+    "translator_type": "none",
+    "profile_text_color": "333333",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/907353691329585152/Axn5saya_normal.jpg",
+    "listed_count": 669,
+    "notifications": null,
+    "contributors_enabled": false,
+    "is_translator": false,
+    "location": "Palermo Verbitsky",
+    "profile_use_background_image": true,
+    "followers_count": 65768,
+    "profile_sidebar_fill_color": "DDEEF6",
+    "geo_enabled": true,
+    "profile_link_color": "19CF86",
+    "favourites_count": 124855,
+    "following": null,
+    "default_profile": false,
+    "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/467208555213254656/2UC9Jqet.jpeg",
+    "profile_background_color": "C0DEED",
+    "id": 11823682,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/907353691329585152/Axn5saya_normal.jpg",
+    "lang": "es",
+    "description": "Periodista, profesor, bebedor. | @cinenacional | @LaAgendaBA | @__PNH__ | @TEA_Arte | @ArRadioberlin | A favor de todo lo bueno y en contra de todo lo malo.",
+    "follow_request_sent": null,
+    "utc_offset": -10800
+  },
+  "quote_count": 0,
+  "lang": "es"
+}

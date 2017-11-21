@@ -1,0 +1,155 @@
+{
+  "in_reply_to_user_id": 871512666224947200,
+  "contributors": null,
+  "id": 922071786082234369,
+  "retweeted": false,
+  "retweet_count": 0,
+  "timestamp_ms": "1508674019724",
+  "in_reply_to_status_id": 922070639195893760,
+  "id_str": "922071786082234369",
+  "coordinates": null,
+  "created_at": "Sun Oct 22 12:06:59 +0000 2017",
+  "quote_count": 0,
+  "favorite_count": 0,
+  "entities": {
+    "user_mentions": [
+      {
+        "indices": [
+          0,
+          10
+        ],
+        "name": "Sushiplanero",
+        "screen_name": "NunkMasKK",
+        "id": 871512666224947200,
+        "id_str": "871512666224947200"
+      }
+    ],
+    "symbols": [],
+    "hashtags": [],
+    "urls": [
+      {
+        "expanded_url": "https://twitter.com/i/web/status/922071786082234369",
+        "indices": [
+          117,
+          140
+        ],
+        "url": "https://t.co/XicRy98dkv",
+        "display_url": "twitter.com/i/web/status/9\u2026"
+      }
+    ]
+  },
+  "reply_count": 0,
+  "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+  "place": {
+    "attributes": {},
+    "url": "https://api.twitter.com/1.1/geo/id/01df29355ffa0d6b.json",
+    "place_type": "city",
+    "id": "01df29355ffa0d6b",
+    "country_code": "AR",
+    "name": "Santa Rosa",
+    "country": "Argentina",
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            -64.338104,
+            -36.662555
+          ],
+          [
+            -64.338104,
+            -36.575113
+          ],
+          [
+            -64.247851,
+            -36.575113
+          ],
+          [
+            -64.247851,
+            -36.662555
+          ]
+        ]
+      ]
+    },
+    "full_name": "Santa Rosa, Argentina"
+  },
+  "truncated": true,
+  "in_reply_to_status_id_str": "922070639195893760",
+  "in_reply_to_screen_name": "NunkMasKK",
+  "filter_level": "low",
+  "text": "@NunkMasKK 12 a\u00f1os de Kirchnerismo. D\u00e9cadas de Peronismo y la calle sigue siendo de tierra. Vitta deber\u00eda preguntar\u2026 https://t.co/XicRy98dkv",
+  "geo": null,
+  "in_reply_to_user_id_str": "871512666224947200",
+  "is_quote_status": false,
+  "display_text_range": [
+    11,
+    140
+  ],
+  "favorited": false,
+  "user": {
+    "verified": false,
+    "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/601398665274527744/b5VrOLCe.jpg",
+    "statuses_count": 17080,
+    "screen_name": "lukeandphil",
+    "default_profile_image": false,
+    "time_zone": "Buenos Aires",
+    "name": "Luke Andphil",
+    "id_str": "314333352",
+    "profile_sidebar_border_color": "FFFFFF",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/314333352/1503188111",
+    "created_at": "Fri Jun 10 02:42:37 +0000 2011",
+    "friends_count": 513,
+    "url": null,
+    "profile_background_tile": true,
+    "protected": false,
+    "translator_type": "none",
+    "profile_text_color": "000000",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/847798839511789568/l_ORCXgC_normal.jpg",
+    "listed_count": 33,
+    "notifications": null,
+    "contributors_enabled": false,
+    "is_translator": false,
+    "location": "Ciudad de Buenos Aires",
+    "profile_use_background_image": true,
+    "followers_count": 1352,
+    "profile_sidebar_fill_color": "FFFFFF",
+    "geo_enabled": true,
+    "profile_link_color": "89C9FA",
+    "favourites_count": 11932,
+    "following": null,
+    "default_profile": false,
+    "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/601398665274527744/b5VrOLCe.jpg",
+    "profile_background_color": "000000",
+    "id": 314333352,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/847798839511789568/l_ORCXgC_normal.jpg",
+    "lang": "es",
+    "description": "B\u00edpedo desde 1961.Amante del Sci Fi de Clase B & The Beatles.",
+    "follow_request_sent": null,
+    "utc_offset": -10800
+  },
+  "extended_tweet": {
+    "entities": {
+      "user_mentions": [
+        {
+          "indices": [
+            0,
+            10
+          ],
+          "name": "Sushiplanero",
+          "screen_name": "NunkMasKK",
+          "id": 871512666224947200,
+          "id_str": "871512666224947200"
+        }
+      ],
+      "symbols": [],
+      "hashtags": [],
+      "urls": []
+    },
+    "display_text_range": [
+      11,
+      141
+    ],
+    "full_text": "@NunkMasKK 12 a\u00f1os de Kirchnerismo. D\u00e9cadas de Peronismo y la calle sigue siendo de tierra. Vitta deber\u00eda preguntarse que hacen con la plata."
+  },
+  "lang": "es"
+}

@@ -1,0 +1,272 @@
+{
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "urls": [
+      {
+        "indices": [
+          87,
+          110
+        ],
+        "expanded_url": "https://twitter.com/i/web/status/922262756421758976",
+        "display_url": "twitter.com/i/web/status/9\u2026",
+        "url": "https://t.co/FxOEqrkIqv"
+      }
+    ],
+    "user_mentions": [
+      {
+        "indices": [
+          0,
+          11
+        ],
+        "screen_name": "ElOsoLeavy",
+        "name": "Sergio \"Oso\" Leavy",
+        "id_str": "844526772666454017",
+        "id": 844526772666454017
+      },
+      {
+        "indices": [
+          47,
+          63
+        ],
+        "screen_name": "FciudadanoVicto",
+        "name": "F Ciudadano Victoria",
+        "id_str": "865659044710821889",
+        "id": 865659044710821889
+      }
+    ]
+  },
+  "in_reply_to_user_id": 844526772666454017,
+  "created_at": "Mon Oct 23 00:45:50 +0000 2017",
+  "favorite_count": 0,
+  "lang": "es",
+  "reply_count": 0,
+  "id_str": "922262756421758976",
+  "in_reply_to_user_id_str": "844526772666454017",
+  "extended_tweet": {
+    "entities": {
+      "media": [
+        {
+          "expanded_url": "https://twitter.com/ManuelNHussein/status/922262756421758976/photo/1",
+          "display_url": "pic.twitter.com/ILZAmCrcze",
+          "url": "https://t.co/ILZAmCrcze",
+          "media_url_https": "https://pbs.twimg.com/media/DMyJD26WkAM2Fih.jpg",
+          "id": 922262723076984835,
+          "indices": [
+            140,
+            163
+          ],
+          "media_url": "http://pbs.twimg.com/media/DMyJD26WkAM2Fih.jpg",
+          "type": "photo",
+          "id_str": "922262723076984835",
+          "sizes": {
+            "large": {
+              "resize": "fit",
+              "h": 2048,
+              "w": 1536
+            },
+            "thumb": {
+              "resize": "crop",
+              "h": 150,
+              "w": 150
+            },
+            "small": {
+              "resize": "fit",
+              "h": 680,
+              "w": 510
+            },
+            "medium": {
+              "resize": "fit",
+              "h": 1200,
+              "w": 900
+            }
+          }
+        }
+      ],
+      "hashtags": [
+        {
+          "indices": [
+            86,
+            116
+          ],
+          "text": "UnidadCiudadanaParaLaVictoria"
+        }
+      ],
+      "symbols": [],
+      "urls": [],
+      "user_mentions": [
+        {
+          "indices": [
+            0,
+            11
+          ],
+          "screen_name": "ElOsoLeavy",
+          "name": "Sergio \"Oso\" Leavy",
+          "id_str": "844526772666454017",
+          "id": 844526772666454017
+        },
+        {
+          "indices": [
+            47,
+            63
+          ],
+          "screen_name": "FciudadanoVicto",
+          "name": "F Ciudadano Victoria",
+          "id_str": "865659044710821889",
+          "id": 865659044710821889
+        },
+        {
+          "indices": [
+            126,
+            139
+          ],
+          "screen_name": "CFKArgentina",
+          "name": "Cristina Kirchner",
+          "id_str": "138814032",
+          "id": 138814032
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "expanded_url": "https://twitter.com/ManuelNHussein/status/922262756421758976/photo/1",
+          "display_url": "pic.twitter.com/ILZAmCrcze",
+          "url": "https://t.co/ILZAmCrcze",
+          "media_url_https": "https://pbs.twimg.com/media/DMyJD26WkAM2Fih.jpg",
+          "id": 922262723076984835,
+          "indices": [
+            140,
+            163
+          ],
+          "media_url": "http://pbs.twimg.com/media/DMyJD26WkAM2Fih.jpg",
+          "type": "photo",
+          "id_str": "922262723076984835",
+          "sizes": {
+            "large": {
+              "resize": "fit",
+              "h": 2048,
+              "w": 1536
+            },
+            "thumb": {
+              "resize": "crop",
+              "h": 150,
+              "w": 150
+            },
+            "small": {
+              "resize": "fit",
+              "h": 680,
+              "w": 510
+            },
+            "medium": {
+              "resize": "fit",
+              "h": 1200,
+              "w": 900
+            }
+          }
+        }
+      ]
+    },
+    "display_text_range": [
+      0,
+      139
+    ],
+    "full_text": "@ElOsoLeavy nuevo Diputado Nacional por Salta  @FciudadanoVicto \nEl Peronismo vive en #UnidadCiudadanaParaLaVictoria \nGracias @CFKArgentina https://t.co/ILZAmCrcze"
+  },
+  "in_reply_to_status_id": null,
+  "timestamp_ms": "1508719550601",
+  "truncated": true,
+  "possibly_sensitive": false,
+  "text": "@ElOsoLeavy nuevo Diputado Nacional por Salta  @FciudadanoVicto \nEl Peronismo vive en\u2026 https://t.co/FxOEqrkIqv",
+  "user": {
+    "time_zone": "America/Argentina/Buenos_Aires",
+    "screen_name": "ManuelNHussein",
+    "utc_offset": -10800,
+    "created_at": "Wed May 02 04:06:09 +0000 2012",
+    "profile_background_tile": true,
+    "notifications": null,
+    "lang": "es",
+    "default_profile": false,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/568862796/1506783994",
+    "id_str": "568862796",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/914018177448841217/ydEIZ7q1_normal.jpg",
+    "name": "Manuel N Hussein",
+    "friends_count": 5107,
+    "translator_type": "none",
+    "protected": false,
+    "following": null,
+    "is_translator": false,
+    "follow_request_sent": null,
+    "profile_text_color": "333333",
+    "listed_count": 34,
+    "profile_link_color": "B33900",
+    "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000083359091/6c5af641063f93ebc9279e23610a89ea.jpeg",
+    "url": null,
+    "id": 568862796,
+    "favourites_count": 71702,
+    "profile_background_color": "022330",
+    "followers_count": 5563,
+    "statuses_count": 53230,
+    "description": "Peronista, Militante del Partido de la Victoria  - River Plate - Gimnasia y Tiro de Salta.",
+    "location": "Capital - Salta, Argentina",
+    "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000083359091/6c5af641063f93ebc9279e23610a89ea.jpeg",
+    "default_profile_image": false,
+    "verified": false,
+    "profile_sidebar_fill_color": "DDFFCC",
+    "profile_use_background_image": true,
+    "contributors_enabled": false,
+    "profile_sidebar_border_color": "FFFFFF",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/914018177448841217/ydEIZ7q1_normal.jpg",
+    "geo_enabled": true
+  },
+  "geo": null,
+  "id": 922262756421758976,
+  "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+  "retweeted": false,
+  "filter_level": "low",
+  "in_reply_to_status_id_str": null,
+  "quote_count": 0,
+  "favorited": false,
+  "coordinates": null,
+  "display_text_range": [
+    0,
+    140
+  ],
+  "retweet_count": 0,
+  "is_quote_status": false,
+  "in_reply_to_screen_name": "ElOsoLeavy",
+  "contributors": null,
+  "place": {
+    "bounding_box": {
+      "coordinates": [
+        [
+          [
+            -65.532514,
+            -24.871621
+          ],
+          [
+            -65.532514,
+            -24.74685
+          ],
+          [
+            -65.358702,
+            -24.74685
+          ],
+          [
+            -65.358702,
+            -24.871621
+          ]
+        ]
+      ],
+      "type": "Polygon"
+    },
+    "name": "Salta",
+    "url": "https://api.twitter.com/1.1/geo/id/0085b01d4f65f576.json",
+    "country_code": "AR",
+    "id": "0085b01d4f65f576",
+    "place_type": "city",
+    "attributes": {},
+    "full_name": "Salta, Argentina",
+    "country": "Argentina"
+  }
+}

@@ -1,0 +1,154 @@
+{
+  "in_reply_to_user_id": 175422899,
+  "contributors": null,
+  "id": 922099636537561093,
+  "retweeted": false,
+  "retweet_count": 0,
+  "timestamp_ms": "1508680659790",
+  "in_reply_to_status_id": 921730617565417472,
+  "id_str": "922099636537561093",
+  "coordinates": null,
+  "created_at": "Sun Oct 22 13:57:39 +0000 2017",
+  "quote_count": 0,
+  "favorite_count": 0,
+  "entities": {
+    "user_mentions": [
+      {
+        "indices": [
+          0,
+          9
+        ],
+        "name": "Gabriel Solano",
+        "screen_name": "Solanopo",
+        "id": 175422899,
+        "id_str": "175422899"
+      }
+    ],
+    "symbols": [],
+    "hashtags": [],
+    "urls": [
+      {
+        "expanded_url": "https://twitter.com/i/web/status/922099636537561093",
+        "indices": [
+          117,
+          140
+        ],
+        "url": "https://t.co/QC4LUHAoVZ",
+        "display_url": "twitter.com/i/web/status/9\u2026"
+      }
+    ]
+  },
+  "reply_count": 0,
+  "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+  "place": {
+    "attributes": {},
+    "url": "https://api.twitter.com/1.1/geo/id/018f1cde6bad9747.json",
+    "place_type": "city",
+    "id": "018f1cde6bad9747",
+    "country_code": "AR",
+    "name": "Ciudad Aut\u00f3noma de Buenos Aires",
+    "country": "Argentina",
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            -58.531792,
+            -34.674453
+          ],
+          [
+            -58.531792,
+            -34.534177
+          ],
+          [
+            -58.353494,
+            -34.534177
+          ],
+          [
+            -58.353494,
+            -34.674453
+          ]
+        ]
+      ]
+    },
+    "full_name": "Ciudad Aut\u00f3noma de Buenos Aires, Argentina"
+  },
+  "truncated": true,
+  "in_reply_to_status_id_str": "921730617565417472",
+  "in_reply_to_screen_name": "Solanopo",
+  "filter_level": "low",
+  "text": "@Solanopo Si vos estas robando un comercio... cae la polic\u00eda y como sos cag\u00f3n sal\u00eds corriendo y te atropella un col\u2026 https://t.co/QC4LUHAoVZ",
+  "geo": null,
+  "in_reply_to_user_id_str": "175422899",
+  "is_quote_status": false,
+  "display_text_range": [
+    10,
+    140
+  ],
+  "favorited": false,
+  "user": {
+    "verified": false,
+    "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/205964231/28102009220.jpg",
+    "statuses_count": 43717,
+    "screen_name": "lautyarabito",
+    "default_profile_image": false,
+    "time_zone": "Buenos Aires",
+    "name": "Lautaro Pabl Ezekiel",
+    "id_str": "250187431",
+    "profile_sidebar_border_color": "FFF8AD",
+    "created_at": "Thu Feb 10 16:05:19 +0000 2011",
+    "friends_count": 982,
+    "url": null,
+    "profile_background_tile": true,
+    "protected": false,
+    "translator_type": "none",
+    "profile_text_color": "333333",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/672796238891393025/4g_35B81_normal.jpg",
+    "listed_count": 11,
+    "notifications": null,
+    "contributors_enabled": false,
+    "is_translator": false,
+    "location": "Buenos Aires. Pilar",
+    "profile_use_background_image": true,
+    "followers_count": 869,
+    "profile_sidebar_fill_color": "F6FFD1",
+    "geo_enabled": true,
+    "profile_link_color": "0099CC",
+    "favourites_count": 27676,
+    "following": null,
+    "default_profile": false,
+    "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/205964231/28102009220.jpg",
+    "profile_background_color": "FFF04D",
+    "id": 250187431,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/672796238891393025/4g_35B81_normal.jpg",
+    "lang": "es",
+    "description": null,
+    "follow_request_sent": null,
+    "utc_offset": -10800
+  },
+  "extended_tweet": {
+    "entities": {
+      "user_mentions": [
+        {
+          "indices": [
+            0,
+            9
+          ],
+          "name": "Gabriel Solano",
+          "screen_name": "Solanopo",
+          "id": 175422899,
+          "id_str": "175422899"
+        }
+      ],
+      "symbols": [],
+      "hashtags": [],
+      "urls": []
+    },
+    "display_text_range": [
+      10,
+      147
+    ],
+    "full_text": "@Solanopo Si vos estas robando un comercio... cae la polic\u00eda y como sos cag\u00f3n sal\u00eds corriendo y te atropella un colectivo...la polic\u00eda es culpable?"
+  },
+  "lang": "es"
+}

@@ -1,0 +1,120 @@
+{
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "indices": [
+          0,
+          14
+        ],
+        "screen_name": "RoBerasategui",
+        "name": "Roberto Berasategui",
+        "id_str": "55957070",
+        "id": 55957070
+      }
+    ]
+  },
+  "in_reply_to_user_id": 55957070,
+  "created_at": "Sun Oct 22 22:01:10 +0000 2017",
+  "favorite_count": 0,
+  "lang": "es",
+  "reply_count": 0,
+  "id_str": "922221316459122688",
+  "in_reply_to_user_id_str": "55957070",
+  "in_reply_to_status_id": 922220354826833920,
+  "timestamp_ms": "1508709670544",
+  "truncated": false,
+  "text": "@RoBerasategui Es justa la sancion. Max gana una ventaja clara e injusta. Sin la cual probablemente no pasaba.",
+  "user": {
+    "time_zone": "Buenos Aires",
+    "screen_name": "fmrsmt",
+    "utc_offset": -10800,
+    "created_at": "Sat Dec 11 06:03:43 +0000 2010",
+    "profile_background_tile": false,
+    "notifications": null,
+    "lang": "es",
+    "default_profile": true,
+    "follow_request_sent": null,
+    "id_str": "225286950",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/747232378721017856/NVZyF9Kb_normal.jpg",
+    "name": "Francisco Medina",
+    "friends_count": 795,
+    "translator_type": "none",
+    "protected": false,
+    "following": null,
+    "is_translator": false,
+    "profile_text_color": "333333",
+    "listed_count": 9,
+    "profile_link_color": "1DA1F2",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "url": null,
+    "id": 225286950,
+    "favourites_count": 1532,
+    "profile_background_color": "C0DEED",
+    "followers_count": 315,
+    "statuses_count": 38662,
+    "description": "Hincha de San Mart\u00edn, Fan\u00e1tico de la F1",
+    "location": "San Miguel de Tucum\u00e0n",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "default_profile_image": false,
+    "verified": false,
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_use_background_image": true,
+    "contributors_enabled": false,
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/747232378721017856/NVZyF9Kb_normal.jpg",
+    "geo_enabled": true
+  },
+  "geo": null,
+  "id": 922221316459122688,
+  "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+  "retweeted": false,
+  "filter_level": "low",
+  "in_reply_to_status_id_str": "922220354826833920",
+  "quote_count": 0,
+  "favorited": false,
+  "coordinates": null,
+  "display_text_range": [
+    15,
+    110
+  ],
+  "retweet_count": 0,
+  "is_quote_status": false,
+  "in_reply_to_screen_name": "RoBerasategui",
+  "contributors": null,
+  "place": {
+    "bounding_box": {
+      "coordinates": [
+        [
+          [
+            -65.280702,
+            -26.892137
+          ],
+          [
+            -65.280702,
+            -26.79606
+          ],
+          [
+            -65.165573,
+            -26.79606
+          ],
+          [
+            -65.165573,
+            -26.892137
+          ]
+        ]
+      ],
+      "type": "Polygon"
+    },
+    "name": "San Miguel de Tucum\u00e1n",
+    "url": "https://api.twitter.com/1.1/geo/id/0021712c0bd7eec1.json",
+    "country_code": "AR",
+    "id": "0021712c0bd7eec1",
+    "place_type": "city",
+    "attributes": {},
+    "full_name": "San Miguel de Tucum\u00e1n, Argentina",
+    "country": "Argentina"
+  }
+}

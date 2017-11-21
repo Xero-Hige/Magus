@@ -1,0 +1,125 @@
+{
+  "in_reply_to_user_id": null,
+  "contributors": null,
+  "in_reply_to_screen_name": null,
+  "retweeted": false,
+  "retweet_count": 0,
+  "timestamp_ms": "1508683711019",
+  "in_reply_to_status_id": null,
+  "id_str": "922112434319581185",
+  "created_at": "Sun Oct 22 14:48:31 +0000 2017",
+  "id": 922112434319581185,
+  "coordinates": null,
+  "favorite_count": 0,
+  "entities": {
+    "user_mentions": [],
+    "symbols": [],
+    "hashtags": [
+      {
+        "text": "DomingoDeGanarSeguidores",
+        "indices": [
+          0,
+          25
+        ]
+      }
+    ],
+    "urls": [
+      {
+        "expanded_url": "https://newsinformacion.com.ar/noticias.php?id=42737",
+        "indices": [
+          110,
+          133
+        ],
+        "url": "https://t.co/MVY4MEmnLv",
+        "display_url": "newsinformacion.com.ar/noticias.php?i\u2026"
+      }
+    ]
+  },
+  "reply_count": 0,
+  "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+  "place": {
+    "attributes": {},
+    "url": "https://api.twitter.com/1.1/geo/id/01153d1b33e1641b.json",
+    "place_type": "city",
+    "id": "01153d1b33e1641b",
+    "country_code": "AR",
+    "name": "Tigre",
+    "country": "Argentina",
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            -58.734553,
+            -34.537735
+          ],
+          [
+            -58.734553,
+            -34.350097
+          ],
+          [
+            -58.561445,
+            -34.350097
+          ],
+          [
+            -58.561445,
+            -34.537735
+          ]
+        ]
+      ]
+    },
+    "full_name": "Tigre, Argentina"
+  },
+  "truncated": false,
+  "in_reply_to_status_id_str": null,
+  "filter_level": "low",
+  "text": "#DomingoDeGanarSeguidores \nLa familia Maldonado duda que Santiago \"haya sido v\u00edctima de un accionar violento\"\nhttps://t.co/MVY4MEmnLv",
+  "geo": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": false,
+  "possibly_sensitive": false,
+  "favorited": false,
+  "user": {
+    "verified": false,
+    "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000022844661/5581312e941a8c4fdbf3933bef133d69.jpeg",
+    "statuses_count": 55447,
+    "screen_name": "newsinformacion",
+    "default_profile_image": false,
+    "time_zone": "Buenos Aires",
+    "name": "News Informaci\u00f3n",
+    "id_str": "1584213314",
+    "profile_sidebar_border_color": "FFFFFF",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1584213314/1378588876",
+    "created_at": "Wed Jul 10 22:52:48 +0000 2013",
+    "friends_count": 866,
+    "url": "http://www.facebook.com/pages/News-Informaci\u00f3n/190777434417612",
+    "profile_background_tile": true,
+    "protected": false,
+    "translator_type": "none",
+    "profile_text_color": "333333",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000128964615/0895cb18c8700a2ccabdae87aa1938a7_normal.jpeg",
+    "listed_count": 110,
+    "notifications": null,
+    "contributors_enabled": false,
+    "is_translator": false,
+    "location": "Argentina",
+    "profile_use_background_image": true,
+    "followers_count": 820,
+    "profile_sidebar_fill_color": "DDEEF6",
+    "geo_enabled": true,
+    "profile_link_color": "3B94D9",
+    "favourites_count": 102,
+    "following": null,
+    "default_profile": false,
+    "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000022844661/5581312e941a8c4fdbf3933bef133d69.jpeg",
+    "profile_background_color": "C0DEED",
+    "id": 1584213314,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/378800000128964615/0895cb18c8700a2ccabdae87aa1938a7_normal.jpeg",
+    "lang": "es",
+    "description": "Agencia de Noticias. http://www.newsinformacion.com.ar http://www.newsinformacion.com",
+    "follow_request_sent": null,
+    "utc_offset": -10800
+  },
+  "quote_count": 0,
+  "lang": "es"
+}

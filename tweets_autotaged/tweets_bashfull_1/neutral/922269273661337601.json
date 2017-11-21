@@ -1,0 +1,114 @@
+{
+  "entities": {
+    "hashtags": [
+      {
+        "indices": [
+          125,
+          133
+        ],
+        "text": "TLChile"
+      }
+    ],
+    "symbols": [],
+    "urls": [],
+    "user_mentions": []
+  },
+  "in_reply_to_user_id": null,
+  "created_at": "Mon Oct 23 01:11:44 +0000 2017",
+  "favorite_count": 0,
+  "lang": "es",
+  "reply_count": 0,
+  "id_str": "922269273661337601",
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_status_id": null,
+  "timestamp_ms": "1508721104432",
+  "text": "Llevamos casi 2 horas de evento, incluido Kick off, y NADIE a ocupado ni una Silla, ni Mesa ni Escalera. Hasta ahora, PENCA! #TLChile",
+  "user": {
+    "time_zone": "Santiago",
+    "screen_name": "alaniz2k",
+    "utc_offset": -10800,
+    "created_at": "Wed Jul 15 05:28:44 +0000 2009",
+    "profile_background_tile": true,
+    "notifications": null,
+    "lang": "es",
+    "default_profile": false,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/56935950/1494631389",
+    "id_str": "56935950",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/918438812635881472/-Xsstv1v_normal.jpg",
+    "name": "#DeadManWalking",
+    "friends_count": 988,
+    "translator_type": "none",
+    "protected": false,
+    "following": null,
+    "is_translator": false,
+    "follow_request_sent": null,
+    "profile_text_color": "333333",
+    "listed_count": 15,
+    "profile_link_color": "0084B4",
+    "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/23365142/Richie_McCaw_step200.jpg",
+    "url": null,
+    "id": 56935950,
+    "favourites_count": 4767,
+    "profile_background_color": "9AE4E8",
+    "followers_count": 1504,
+    "statuses_count": 58816,
+    "description": "Ingeniero, Jeepero y Raider penca. \ud83d\udcaf % Sobornable. Campe\u00f3n mundial de ballroom. Catador de guaguitas. Facho Progre. Del Albo canpion herman\u00e9!",
+    "location": "La Serena, Chile po wn",
+    "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/23365142/Richie_McCaw_step200.jpg",
+    "default_profile_image": false,
+    "verified": false,
+    "profile_sidebar_fill_color": "DDFFCC",
+    "profile_use_background_image": true,
+    "contributors_enabled": false,
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/918438812635881472/-Xsstv1v_normal.jpg",
+    "geo_enabled": true
+  },
+  "geo": null,
+  "id": 922269273661337601,
+  "quote_count": 0,
+  "retweeted": false,
+  "filter_level": "low",
+  "in_reply_to_status_id_str": null,
+  "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+  "favorited": false,
+  "coordinates": null,
+  "truncated": false,
+  "retweet_count": 0,
+  "is_quote_status": false,
+  "in_reply_to_screen_name": null,
+  "contributors": null,
+  "place": {
+    "bounding_box": {
+      "coordinates": [
+        [
+          [
+            -71.345398,
+            -30.13522
+          ],
+          [
+            -71.345398,
+            -29.53441
+          ],
+          [
+            -70.686375,
+            -29.53441
+          ],
+          [
+            -70.686375,
+            -30.13522
+          ]
+        ]
+      ],
+      "type": "Polygon"
+    },
+    "name": "La Serena",
+    "url": "https://api.twitter.com/1.1/geo/id/00dc8225055a8fdc.json",
+    "country_code": "CL",
+    "id": "00dc8225055a8fdc",
+    "place_type": "city",
+    "attributes": {},
+    "full_name": "La Serena, Chile",
+    "country": "Chile"
+  }
+}

@@ -1,0 +1,128 @@
+{
+  "in_reply_to_user_id": null,
+  "contributors": null,
+  "in_reply_to_screen_name": null,
+  "retweeted": false,
+  "retweet_count": 0,
+  "timestamp_ms": "1508674556215",
+  "in_reply_to_status_id": null,
+  "id_str": "922074036288589829",
+  "created_at": "Sun Oct 22 12:15:56 +0000 2017",
+  "id": 922074036288589829,
+  "coordinates": null,
+  "favorite_count": 0,
+  "entities": {
+    "user_mentions": [
+      {
+        "indices": [
+          107,
+          115
+        ],
+        "name": "infobae",
+        "screen_name": "infobae",
+        "id": 69416519,
+        "id_str": "69416519"
+      }
+    ],
+    "symbols": [],
+    "hashtags": [],
+    "urls": [
+      {
+        "expanded_url": "https://www.infobae.com/opinion/2017/10/22/caso-maldonado-principio-y-fin-2/?outputType=amp-type",
+        "indices": [
+          116,
+          139
+        ],
+        "url": "https://t.co/26I9z5kxMX",
+        "display_url": "infobae.com/opinion/2017/1\u2026"
+      }
+    ]
+  },
+  "reply_count": 0,
+  "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+  "place": {
+    "attributes": {},
+    "url": "https://api.twitter.com/1.1/geo/id/018f1cde6bad9747.json",
+    "place_type": "city",
+    "id": "018f1cde6bad9747",
+    "country_code": "AR",
+    "name": "Ciudad Aut\u00f3noma de Buenos Aires",
+    "country": "Argentina",
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            -58.531792,
+            -34.674453
+          ],
+          [
+            -58.531792,
+            -34.534177
+          ],
+          [
+            -58.353494,
+            -34.534177
+          ],
+          [
+            -58.353494,
+            -34.674453
+          ]
+        ]
+      ]
+    },
+    "full_name": "Ciudad Aut\u00f3noma de Buenos Aires, Argentina"
+  },
+  "truncated": false,
+  "in_reply_to_status_id_str": null,
+  "filter_level": "low",
+  "text": "\u00bfQu\u00e9 pas\u00f3 con Santiago Maldonado? Recuento de operaciones estatales, las dudas y el rol de Gendarmer\u00eda. En @infobae https://t.co/26I9z5kxMX",
+  "geo": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": false,
+  "possibly_sensitive": false,
+  "favorited": false,
+  "user": {
+    "verified": false,
+    "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/621484975/trabg5pdsgky4suxzy8x.jpeg",
+    "statuses_count": 162145,
+    "screen_name": "zonarojas",
+    "default_profile_image": false,
+    "time_zone": "Buenos Aires",
+    "name": "Diego Rojas",
+    "id_str": "76850095",
+    "profile_sidebar_border_color": "EEEEEE",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/76850095/1501656663",
+    "created_at": "Thu Sep 24 03:57:46 +0000 2009",
+    "friends_count": 989,
+    "url": null,
+    "profile_background_tile": true,
+    "protected": false,
+    "translator_type": "none",
+    "profile_text_color": "333333",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/415779042097242112/pJS5qnoH_normal.jpeg",
+    "listed_count": 371,
+    "notifications": null,
+    "contributors_enabled": false,
+    "is_translator": false,
+    "location": "Buenos Aires",
+    "profile_use_background_image": true,
+    "followers_count": 29576,
+    "profile_sidebar_fill_color": "EFEFEF",
+    "geo_enabled": true,
+    "profile_link_color": "009999",
+    "favourites_count": 38117,
+    "following": null,
+    "default_profile": false,
+    "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/621484975/trabg5pdsgky4suxzy8x.jpeg",
+    "profile_background_color": "131516",
+    "id": 76850095,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/415779042097242112/pJS5qnoH_normal.jpeg",
+    "lang": "es",
+    "description": "Periodista, porque peor es trabajar. Ate\u00edsta y trotskista posrevolucionario. Dice no a la cerveza y a los progres. Cree que un Negroni no se le niega a nadie.",
+    "follow_request_sent": null,
+    "utc_offset": -10800
+  },
+  "quote_count": 0,
+  "lang": "es"
+}

@@ -1,0 +1,117 @@
+{
+  "in_reply_to_user_id": null,
+  "contributors": null,
+  "in_reply_to_screen_name": null,
+  "retweeted": false,
+  "retweet_count": 0,
+  "timestamp_ms": "1508675787801",
+  "in_reply_to_status_id": null,
+  "id_str": "922079201934618625",
+  "created_at": "Sun Oct 22 12:36:27 +0000 2017",
+  "id": 922079201934618625,
+  "coordinates": null,
+  "favorite_count": 0,
+  "entities": {
+    "user_mentions": [
+      {
+        "indices": [
+          11,
+          22
+        ],
+        "name": "Mar\u00eda Eugenia Vidal",
+        "screen_name": "mariuvidal",
+        "id": 109040582,
+        "id_str": "109040582"
+      }
+    ],
+    "symbols": [],
+    "hashtags": [],
+    "urls": []
+  },
+  "reply_count": 0,
+  "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+  "place": {
+    "attributes": {},
+    "url": "https://api.twitter.com/1.1/geo/id/0032baff35718ca4.json",
+    "place_type": "city",
+    "id": "0032baff35718ca4",
+    "country_code": "AR",
+    "name": "Berazategui",
+    "country": "Argentina",
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            -58.267413,
+            -34.853019
+          ],
+          [
+            -58.267413,
+            -34.742062
+          ],
+          [
+            -58.133845,
+            -34.742062
+          ],
+          [
+            -58.133845,
+            -34.853019
+          ]
+        ]
+      ]
+    },
+    "full_name": "Berazategui, Argentina"
+  },
+  "truncated": false,
+  "in_reply_to_status_id_str": null,
+  "filter_level": "low",
+  "text": "No te voto @mariuvidal porque ma\u00f1ana con las escuelas sucias debemos hacer la jornada de perfeccionamiento con los chicos en clases.",
+  "geo": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": false,
+  "favorited": false,
+  "user": {
+    "verified": false,
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "statuses_count": 13470,
+    "screen_name": "bdebuena",
+    "default_profile_image": false,
+    "time_zone": null,
+    "name": "YO",
+    "id_str": "2802102202",
+    "profile_sidebar_border_color": "000000",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/2802102202/1478197067",
+    "created_at": "Fri Oct 03 15:12:02 +0000 2014",
+    "friends_count": 344,
+    "url": null,
+    "profile_background_tile": false,
+    "protected": false,
+    "translator_type": "none",
+    "profile_text_color": "000000",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/794241468554682369/SI1gWinY_normal.jpg",
+    "listed_count": 2,
+    "notifications": null,
+    "contributors_enabled": false,
+    "is_translator": false,
+    "location": null,
+    "profile_use_background_image": false,
+    "followers_count": 203,
+    "profile_sidebar_fill_color": "000000",
+    "geo_enabled": true,
+    "profile_link_color": "19CF86",
+    "favourites_count": 1746,
+    "following": null,
+    "default_profile": false,
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_color": "000000",
+    "id": 2802102202,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/794241468554682369/SI1gWinY_normal.jpg",
+    "lang": "es",
+    "description": "El que no estuvo en las malas que no venga a joder en las buenas. 116.5/2.7/001.6",
+    "follow_request_sent": null,
+    "utc_offset": null
+  },
+  "quote_count": 0,
+  "lang": "es"
+}

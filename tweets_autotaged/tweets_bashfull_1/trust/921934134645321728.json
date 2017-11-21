@@ -1,0 +1,106 @@
+{
+  "in_reply_to_user_id": null,
+  "contributors": null,
+  "in_reply_to_screen_name": null,
+  "retweeted": false,
+  "retweet_count": 0,
+  "timestamp_ms": "1508641201064",
+  "in_reply_to_status_id": null,
+  "id_str": "921934134645321728",
+  "created_at": "Sun Oct 22 03:00:01 +0000 2017",
+  "id": 921934134645321728,
+  "coordinates": null,
+  "favorite_count": 0,
+  "entities": {
+    "user_mentions": [],
+    "symbols": [],
+    "hashtags": [],
+    "urls": []
+  },
+  "reply_count": 0,
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "place": {
+    "attributes": {},
+    "url": "https://api.twitter.com/1.1/geo/id/0010b4cb51ca93d8.json",
+    "place_type": "city",
+    "id": "0010b4cb51ca93d8",
+    "country_code": "CL",
+    "name": "Santiago",
+    "country": "Chile",
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            -70.692959,
+            -33.478574
+          ],
+          [
+            -70.692959,
+            -33.425749
+          ],
+          [
+            -70.626272,
+            -33.425749
+          ],
+          [
+            -70.626272,
+            -33.478574
+          ]
+        ]
+      ]
+    },
+    "full_name": "Santiago, Chile"
+  },
+  "truncated": false,
+  "in_reply_to_status_id_str": null,
+  "filter_level": "low",
+  "text": "Ya estamos al aire. Termine el s\u00e1bado informado, se inicia El Diario de Cooperativa! \ud83d\udcfb\ud83c\udf99",
+  "geo": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": false,
+  "favorited": false,
+  "user": {
+    "verified": false,
+    "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/625139268055343104/RRBQ3Ywd.jpg",
+    "statuses_count": 28219,
+    "screen_name": "FelipeGallegos7",
+    "default_profile_image": false,
+    "time_zone": null,
+    "name": "Felipe Gallegos",
+    "id_str": "135510312",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/135510312/1421961230",
+    "created_at": "Wed Apr 21 14:13:16 +0000 2010",
+    "friends_count": 1987,
+    "url": null,
+    "profile_background_tile": true,
+    "protected": false,
+    "translator_type": "none",
+    "profile_text_color": "333333",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/825411949538189312/DNOkUKo6_normal.jpg",
+    "listed_count": 27,
+    "notifications": null,
+    "contributors_enabled": false,
+    "is_translator": false,
+    "location": "Santiago",
+    "profile_use_background_image": true,
+    "followers_count": 2884,
+    "profile_sidebar_fill_color": "DDEEF6",
+    "geo_enabled": true,
+    "profile_link_color": "4A913C",
+    "favourites_count": 1334,
+    "following": null,
+    "default_profile": false,
+    "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/625139268055343104/RRBQ3Ywd.jpg",
+    "profile_background_color": "C0DEED",
+    "id": 135510312,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/825411949538189312/DNOkUKo6_normal.jpg",
+    "lang": "es",
+    "description": "Periodista. A cargo de las noticias econ\u00f3micas en la Radio Cooperativa \ud83c\udf99\ufe0f\ud83d\udcfb..Cuando chico quer\u00eda reportear f\u00fatbol.",
+    "follow_request_sent": null,
+    "utc_offset": null
+  },
+  "quote_count": 0,
+  "lang": "es"
+}

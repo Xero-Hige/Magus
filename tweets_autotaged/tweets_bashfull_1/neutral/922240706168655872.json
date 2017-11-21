@@ -1,0 +1,117 @@
+{
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "indices": [
+          32,
+          42
+        ],
+        "screen_name": "BenditaTV",
+        "name": "Bendita Tv",
+        "id_str": "155645323",
+        "id": 155645323
+      }
+    ]
+  },
+  "in_reply_to_user_id": null,
+  "created_at": "Sun Oct 22 23:18:13 +0000 2017",
+  "favorite_count": 0,
+  "lang": "es",
+  "reply_count": 0,
+  "id_str": "922240706168655872",
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_status_id": null,
+  "timestamp_ms": "1508714293411",
+  "text": "Hoy habr\u00e1 separados al nacer en @BenditaTV ? A uno de los invitados le encanta \"jugar al confundido\", tiene un doble para todos",
+  "user": {
+    "time_zone": "Santiago",
+    "screen_name": "marymeizo",
+    "utc_offset": -10800,
+    "created_at": "Sun Oct 03 00:52:19 +0000 2010",
+    "profile_background_tile": false,
+    "notifications": null,
+    "lang": "es",
+    "default_profile": false,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/197980618/1426177588",
+    "id_str": "197980618",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/900561287222095872/bBwJxUrH_normal.jpg",
+    "name": "Mary meizo",
+    "friends_count": 588,
+    "translator_type": "none",
+    "protected": false,
+    "following": null,
+    "is_translator": false,
+    "follow_request_sent": null,
+    "profile_text_color": "000000",
+    "listed_count": 6,
+    "profile_link_color": "19CF86",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme5/bg.gif",
+    "url": null,
+    "id": 197980618,
+    "favourites_count": 6587,
+    "profile_background_color": "000000",
+    "followers_count": 245,
+    "statuses_count": 4069,
+    "description": "integrante de @uyentretodos",
+    "location": "montevideana, gallega",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme5/bg.gif",
+    "default_profile_image": false,
+    "verified": false,
+    "profile_sidebar_fill_color": "000000",
+    "profile_use_background_image": false,
+    "contributors_enabled": false,
+    "profile_sidebar_border_color": "000000",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/900561287222095872/bBwJxUrH_normal.jpg",
+    "geo_enabled": true
+  },
+  "geo": null,
+  "id": 922240706168655872,
+  "quote_count": 0,
+  "retweeted": false,
+  "filter_level": "low",
+  "in_reply_to_status_id_str": null,
+  "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+  "favorited": false,
+  "coordinates": null,
+  "truncated": false,
+  "retweet_count": 0,
+  "is_quote_status": false,
+  "in_reply_to_screen_name": null,
+  "contributors": null,
+  "place": {
+    "bounding_box": {
+      "coordinates": [
+        [
+          [
+            -56.430439,
+            -34.937896
+          ],
+          [
+            -56.430439,
+            -34.701599
+          ],
+          [
+            -56.029341,
+            -34.701599
+          ],
+          [
+            -56.029341,
+            -34.937896
+          ]
+        ]
+      ],
+      "type": "Polygon"
+    },
+    "name": "Montevideo",
+    "url": "https://api.twitter.com/1.1/geo/id/01a9dbb9232f0fac.json",
+    "country_code": "UY",
+    "id": "01a9dbb9232f0fac",
+    "place_type": "admin",
+    "attributes": {},
+    "full_name": "Montevideo, Uruguay",
+    "country": "Uruguay"
+  }
+}

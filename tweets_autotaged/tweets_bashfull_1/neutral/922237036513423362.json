@@ -1,0 +1,106 @@
+{
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "urls": [],
+    "user_mentions": []
+  },
+  "in_reply_to_user_id": null,
+  "created_at": "Sun Oct 22 23:03:38 +0000 2017",
+  "favorite_count": 0,
+  "lang": "es",
+  "reply_count": 0,
+  "id_str": "922237036513423362",
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_status_id": null,
+  "timestamp_ms": "1508713418497",
+  "text": "necesito una buena siesta antes de comenzar a programar",
+  "user": {
+    "time_zone": "Santiago",
+    "screen_name": "carlosriquelmeg",
+    "utc_offset": -10800,
+    "created_at": "Sat Oct 29 00:01:19 +0000 2011",
+    "profile_background_tile": true,
+    "notifications": null,
+    "lang": "es",
+    "default_profile": false,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/400399901/1507811812",
+    "id_str": "400399901",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/907798568660062209/YqwaSJCu_normal.jpg",
+    "name": "Carlos Riquelme",
+    "friends_count": 648,
+    "translator_type": "none",
+    "protected": false,
+    "following": null,
+    "is_translator": false,
+    "follow_request_sent": null,
+    "profile_text_color": "333333",
+    "listed_count": 10,
+    "profile_link_color": "1B95E0",
+    "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/473991613484498944/YKaQjsJ6.jpeg",
+    "url": "http://instagram.com/carlosriquelmeg",
+    "id": 400399901,
+    "favourites_count": 4116,
+    "profile_background_color": "242194",
+    "followers_count": 445,
+    "statuses_count": 18849,
+    "description": "1993.",
+    "location": "Concepci\u00f3n, Chile",
+    "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/473991613484498944/YKaQjsJ6.jpeg",
+    "default_profile_image": false,
+    "verified": false,
+    "profile_sidebar_fill_color": "DDFFCC",
+    "profile_use_background_image": true,
+    "contributors_enabled": false,
+    "profile_sidebar_border_color": "000000",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/907798568660062209/YqwaSJCu_normal.jpg",
+    "geo_enabled": true
+  },
+  "geo": null,
+  "id": 922237036513423362,
+  "quote_count": 0,
+  "retweeted": false,
+  "filter_level": "low",
+  "in_reply_to_status_id_str": null,
+  "source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+  "favorited": false,
+  "coordinates": null,
+  "truncated": false,
+  "retweet_count": 0,
+  "is_quote_status": false,
+  "in_reply_to_screen_name": null,
+  "contributors": null,
+  "place": {
+    "bounding_box": {
+      "coordinates": [
+        [
+          [
+            -73.091398,
+            -36.923936
+          ],
+          [
+            -73.091398,
+            -36.760435
+          ],
+          [
+            -72.845604,
+            -36.760435
+          ],
+          [
+            -72.845604,
+            -36.923936
+          ]
+        ]
+      ],
+      "type": "Polygon"
+    },
+    "name": "Concepci\u00f3n",
+    "url": "https://api.twitter.com/1.1/geo/id/0150459b5095a59f.json",
+    "country_code": "CL",
+    "id": "0150459b5095a59f",
+    "place_type": "city",
+    "attributes": {},
+    "full_name": "Concepci\u00f3n, Chile",
+    "country": "Chile"
+  }
+}

@@ -1,0 +1,155 @@
+{
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "urls": [
+      {
+        "indices": [
+          116,
+          139
+        ],
+        "expanded_url": "https://twitter.com/i/web/status/922259180269993985",
+        "display_url": "twitter.com/i/web/status/9\u2026",
+        "url": "https://t.co/BSTuNtHY2B"
+      }
+    ],
+    "user_mentions": [
+      {
+        "indices": [
+          0,
+          11
+        ],
+        "screen_name": "gabyespino",
+        "name": "gaby espino",
+        "id_str": "92670884",
+        "id": 92670884
+      }
+    ]
+  },
+  "in_reply_to_user_id": 92670884,
+  "created_at": "Mon Oct 23 00:31:37 +0000 2017",
+  "favorite_count": 0,
+  "lang": "es",
+  "reply_count": 0,
+  "id_str": "922259180269993985",
+  "in_reply_to_user_id_str": "92670884",
+  "extended_tweet": {
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "urls": [],
+      "user_mentions": [
+        {
+          "indices": [
+            0,
+            11
+          ],
+          "screen_name": "gabyespino",
+          "name": "gaby espino",
+          "id_str": "92670884",
+          "id": 92670884
+        }
+      ]
+    },
+    "display_text_range": [
+      12,
+      151
+    ],
+    "full_text": "@gabyespino Chile te lee y te sigue. Trabajo impresionante en todas las aristas el que haces. Personalmente viendo sra acero 3 para partir el 6 al d\u00eda."
+  },
+  "in_reply_to_status_id": 922258674889867265,
+  "timestamp_ms": "1508718697980",
+  "truncated": true,
+  "text": "@gabyespino Chile te lee y te sigue. Trabajo impresionante en todas las aristas el que haces. Personalmente viendo\u2026 https://t.co/BSTuNtHY2B",
+  "user": {
+    "time_zone": "Santiago",
+    "screen_name": "RudyStayler",
+    "utc_offset": -10800,
+    "created_at": "Sat Aug 22 19:37:35 +0000 2009",
+    "profile_background_tile": true,
+    "notifications": null,
+    "lang": "es",
+    "default_profile": false,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/67964746/1508143553",
+    "id_str": "67964746",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/919846845030989826/BFxX7Jws_normal.jpg",
+    "name": "Rudy Estay Reinoso",
+    "friends_count": 236,
+    "translator_type": "none",
+    "protected": false,
+    "following": null,
+    "is_translator": false,
+    "follow_request_sent": null,
+    "profile_text_color": "333333",
+    "listed_count": 1,
+    "profile_link_color": "ED56CC",
+    "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/444973631/38036_143534588996075_100000186057062_436094_8197079_n.jpg",
+    "url": "http://www.facebook.com/stayler",
+    "id": 67964746,
+    "favourites_count": 1196,
+    "profile_background_color": "C0DEED",
+    "followers_count": 58,
+    "statuses_count": 1561,
+    "description": "Madre antes q todo... profe de nataci\u00f3n, Prevencionista de Riesgos y Medio Ambiente.\nEncomienda a Jehov\u00e1 tu camino, y conf\u00eda en El; y \u00c9l har\u00e1.\nSal.37:5",
+    "location": "Chile",
+    "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/444973631/38036_143534588996075_100000186057062_436094_8197079_n.jpg",
+    "default_profile_image": false,
+    "verified": false,
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_use_background_image": true,
+    "contributors_enabled": false,
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/919846845030989826/BFxX7Jws_normal.jpg",
+    "geo_enabled": true
+  },
+  "geo": null,
+  "id": 922259180269993985,
+  "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+  "retweeted": false,
+  "filter_level": "low",
+  "in_reply_to_status_id_str": "922258674889867265",
+  "quote_count": 0,
+  "favorited": false,
+  "coordinates": null,
+  "display_text_range": [
+    12,
+    140
+  ],
+  "retweet_count": 0,
+  "is_quote_status": false,
+  "in_reply_to_screen_name": "gabyespino",
+  "contributors": null,
+  "place": {
+    "bounding_box": {
+      "coordinates": [
+        [
+          [
+            -71.46295,
+            -32.552562
+          ],
+          [
+            -71.46295,
+            -32.400503
+          ],
+          [
+            -71.283407,
+            -32.400503
+          ],
+          [
+            -71.283407,
+            -32.552562
+          ]
+        ]
+      ],
+      "type": "Polygon"
+    },
+    "name": "Papudo",
+    "url": "https://api.twitter.com/1.1/geo/id/01aade860ac00336.json",
+    "country_code": "CL",
+    "id": "01aade860ac00336",
+    "place_type": "city",
+    "attributes": {},
+    "full_name": "Papudo, Chile",
+    "country": "Chile"
+  }
+}

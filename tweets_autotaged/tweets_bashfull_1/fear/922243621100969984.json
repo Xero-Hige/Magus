@@ -1,0 +1,154 @@
+{
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "urls": [
+      {
+        "indices": [
+          117,
+          140
+        ],
+        "expanded_url": "https://twitter.com/i/web/status/922243621100969984",
+        "display_url": "twitter.com/i/web/status/9\u2026",
+        "url": "https://t.co/RuZ7uYFoI3"
+      }
+    ],
+    "user_mentions": [
+      {
+        "indices": [
+          0,
+          16
+        ],
+        "screen_name": "GuillermoLipera",
+        "name": "Guillermo Lipera",
+        "id_str": "940010316",
+        "id": 940010316
+      }
+    ]
+  },
+  "in_reply_to_user_id": 940010316,
+  "created_at": "Sun Oct 22 23:29:48 +0000 2017",
+  "favorite_count": 0,
+  "lang": "es",
+  "reply_count": 0,
+  "id_str": "922243621100969984",
+  "in_reply_to_user_id_str": "940010316",
+  "extended_tweet": {
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "urls": [],
+      "user_mentions": [
+        {
+          "indices": [
+            0,
+            16
+          ],
+          "screen_name": "GuillermoLipera",
+          "name": "Guillermo Lipera",
+          "id_str": "940010316",
+          "id": 940010316
+        }
+      ]
+    },
+    "display_text_range": [
+      17,
+      146
+    ],
+    "full_text": "@GuillermoLipera Son TERRORISTAS, hay que meterles balas, pero de plomo, y que no salgan a defenderlos delinkuentes de los D.D.H.H ni periodistas!"
+  },
+  "in_reply_to_status_id": 922240899874279425,
+  "timestamp_ms": "1508714988385",
+  "truncated": true,
+  "text": "@GuillermoLipera Son TERRORISTAS, hay que meterles balas, pero de plomo, y que no salgan a defenderlos delinkuentes\u2026 https://t.co/RuZ7uYFoI3",
+  "user": {
+    "time_zone": null,
+    "screen_name": "scarlet1854",
+    "utc_offset": null,
+    "created_at": "Mon Feb 27 02:26:32 +0000 2012",
+    "profile_background_tile": true,
+    "notifications": null,
+    "lang": "es",
+    "default_profile": false,
+    "follow_request_sent": null,
+    "id_str": "505302477",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/769306573810401280/a3dQvUDE_normal.jpg",
+    "name": "silvia selva",
+    "friends_count": 1794,
+    "translator_type": "none",
+    "protected": false,
+    "following": null,
+    "is_translator": false,
+    "profile_text_color": "333333",
+    "listed_count": 40,
+    "profile_link_color": "009999",
+    "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/837813506/c81974513b3969c98f888c9ab75529a9.jpeg",
+    "url": null,
+    "id": 505302477,
+    "favourites_count": 80960,
+    "profile_background_color": "131516",
+    "followers_count": 4451,
+    "statuses_count": 125993,
+    "description": "empleada,.escritora,librepensadora",
+    "location": "Buenos Aires",
+    "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/837813506/c81974513b3969c98f888c9ab75529a9.jpeg",
+    "default_profile_image": false,
+    "verified": false,
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_use_background_image": true,
+    "contributors_enabled": false,
+    "profile_sidebar_border_color": "FFFFFF",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/769306573810401280/a3dQvUDE_normal.jpg",
+    "geo_enabled": true
+  },
+  "geo": null,
+  "id": 922243621100969984,
+  "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+  "retweeted": false,
+  "filter_level": "low",
+  "in_reply_to_status_id_str": "922240899874279425",
+  "quote_count": 0,
+  "favorited": false,
+  "coordinates": null,
+  "display_text_range": [
+    17,
+    140
+  ],
+  "retweet_count": 0,
+  "is_quote_status": false,
+  "in_reply_to_screen_name": "GuillermoLipera",
+  "contributors": null,
+  "place": {
+    "bounding_box": {
+      "coordinates": [
+        [
+          [
+            -63.39386,
+            -41.035009
+          ],
+          [
+            -63.39386,
+            -33.260144
+          ],
+          [
+            -56.665836,
+            -33.260144
+          ],
+          [
+            -56.665836,
+            -41.035009
+          ]
+        ]
+      ],
+      "type": "Polygon"
+    },
+    "name": "Buenos Aires",
+    "url": "https://api.twitter.com/1.1/geo/id/4afa2757051c5192.json",
+    "country_code": "AR",
+    "id": "4afa2757051c5192",
+    "place_type": "admin",
+    "attributes": {},
+    "full_name": "Buenos Aires, Argentina",
+    "country": "Argentina"
+  }
+}

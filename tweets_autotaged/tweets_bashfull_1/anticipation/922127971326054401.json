@@ -1,0 +1,113 @@
+{
+  "in_reply_to_user_id": null,
+  "contributors": null,
+  "in_reply_to_screen_name": null,
+  "retweeted": false,
+  "retweet_count": 0,
+  "timestamp_ms": "1508687415330",
+  "in_reply_to_status_id": null,
+  "id_str": "922127971326054401",
+  "created_at": "Sun Oct 22 15:50:15 +0000 2017",
+  "id": 922127971326054401,
+  "coordinates": null,
+  "favorite_count": 0,
+  "entities": {
+    "user_mentions": [],
+    "symbols": [],
+    "hashtags": [
+      {
+        "text": "MORFITELEFE",
+        "indices": [
+          0,
+          12
+        ]
+      }
+    ],
+    "urls": []
+  },
+  "reply_count": 0,
+  "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+  "place": {
+    "attributes": {},
+    "url": "https://api.twitter.com/1.1/geo/id/0177894212b08f73.json",
+    "place_type": "city",
+    "id": "0177894212b08f73",
+    "country_code": "AR",
+    "name": "La Plata",
+    "country": "Argentina",
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            -58.160874,
+            -35.031373
+          ],
+          [
+            -58.160874,
+            -34.841264
+          ],
+          [
+            -57.865169,
+            -34.841264
+          ],
+          [
+            -57.865169,
+            -35.031373
+          ]
+        ]
+      ]
+    },
+    "full_name": "La Plata, Argentina"
+  },
+  "truncated": false,
+  "in_reply_to_status_id_str": null,
+  "filter_level": "low",
+  "text": "#MORFITELEFE,POR FAVOR QUE BUENOOO ES VERLOS,HOY QUE TRANSMITEN TODOS,ELECCIONES,FELICITACIONES DON GIORGI,LA PLATA",
+  "geo": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": false,
+  "favorited": false,
+  "user": {
+    "verified": false,
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "statuses_count": 12429,
+    "screen_name": "ADRIANAQUAGLIA3",
+    "default_profile_image": false,
+    "time_zone": null,
+    "name": "ADRIANA QUAGLIANO",
+    "id_str": "2265065958",
+    "profile_sidebar_border_color": "000000",
+    "created_at": "Fri Dec 27 23:42:22 +0000 2013",
+    "friends_count": 2789,
+    "url": null,
+    "profile_background_tile": false,
+    "protected": false,
+    "translator_type": "none",
+    "profile_text_color": "000000",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/889599360853573632/h_QeKUsk_normal.jpg",
+    "listed_count": 3,
+    "notifications": null,
+    "contributors_enabled": false,
+    "is_translator": false,
+    "location": "La Plata, Argentina",
+    "profile_use_background_image": false,
+    "followers_count": 720,
+    "profile_sidebar_fill_color": "000000",
+    "geo_enabled": true,
+    "profile_link_color": "981CEB",
+    "favourites_count": 5,
+    "following": null,
+    "default_profile": false,
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_color": "000000",
+    "id": 2265065958,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/889599360853573632/h_QeKUsk_normal.jpg",
+    "lang": "es",
+    "description": null,
+    "follow_request_sent": null,
+    "utc_offset": null
+  },
+  "quote_count": 0,
+  "lang": "es"
+}

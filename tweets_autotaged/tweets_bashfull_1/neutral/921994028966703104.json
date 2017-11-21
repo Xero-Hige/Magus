@@ -1,0 +1,231 @@
+{
+  "extended_entities": {
+    "media": [
+      {
+        "indices": [
+          89,
+          112
+        ],
+        "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/921993821487017984/pu/img/i8AKkYs6DReblBfY.jpg",
+        "video_info": {
+          "duration_millis": 14941,
+          "variants": [
+            {
+              "url": "https://video.twimg.com/ext_tw_video/921993821487017984/pu/pl/iu2hsG__cGcnbsC2.m3u8",
+              "content_type": "application/x-mpegURL"
+            },
+            {
+              "bitrate": 320000,
+              "url": "https://video.twimg.com/ext_tw_video/921993821487017984/pu/vid/178x320/1awWdi3QVXIZEQGs.mp4",
+              "content_type": "video/mp4"
+            },
+            {
+              "bitrate": 832000,
+              "url": "https://video.twimg.com/ext_tw_video/921993821487017984/pu/vid/358x640/SmQMD8wVsSfysB-Q.mp4",
+              "content_type": "video/mp4"
+            }
+          ],
+          "aspect_ratio": [
+            240,
+            427
+          ]
+        },
+        "url": "https://t.co/PPZz9rB4Yi",
+        "expanded_url": "https://twitter.com/CynthiarceO/status/921994028966703104/video/1",
+        "id": 921993821487017984,
+        "sizes": {
+          "medium": {
+            "resize": "fit",
+            "w": 480,
+            "h": 854
+          },
+          "large": {
+            "resize": "fit",
+            "w": 480,
+            "h": 854
+          },
+          "small": {
+            "resize": "fit",
+            "w": 340,
+            "h": 605
+          },
+          "thumb": {
+            "resize": "crop",
+            "w": 150,
+            "h": 150
+          }
+        },
+        "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/921993821487017984/pu/img/i8AKkYs6DReblBfY.jpg",
+        "id_str": "921993821487017984",
+        "display_url": "pic.twitter.com/PPZz9rB4Yi",
+        "type": "video"
+      }
+    ]
+  },
+  "contributors": null,
+  "id": 921994028966703104,
+  "retweeted": false,
+  "retweet_count": 0,
+  "in_reply_to_user_id": null,
+  "in_reply_to_status_id": null,
+  "id_str": "921994028966703104",
+  "created_at": "Sun Oct 22 06:58:00 +0000 2017",
+  "coordinates": null,
+  "favorite_count": 0,
+  "entities": {
+    "user_mentions": [
+      {
+        "indices": [
+          75,
+          88
+        ],
+        "name": "Ha*Ash",
+        "screen_name": "haashoficial",
+        "id": 42916821,
+        "id_str": "42916821"
+      }
+    ],
+    "symbols": [],
+    "hashtags": [
+      {
+        "text": "100A\u00f1osChallenge",
+        "indices": [
+          57,
+          74
+        ]
+      }
+    ],
+    "urls": [],
+    "media": [
+      {
+        "indices": [
+          89,
+          112
+        ],
+        "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/921993821487017984/pu/img/i8AKkYs6DReblBfY.jpg",
+        "url": "https://t.co/PPZz9rB4Yi",
+        "expanded_url": "https://twitter.com/CynthiarceO/status/921994028966703104/video/1",
+        "id": 921993821487017984,
+        "sizes": {
+          "medium": {
+            "resize": "fit",
+            "w": 480,
+            "h": 854
+          },
+          "large": {
+            "resize": "fit",
+            "w": 480,
+            "h": 854
+          },
+          "small": {
+            "resize": "fit",
+            "w": 340,
+            "h": 605
+          },
+          "thumb": {
+            "resize": "crop",
+            "w": 150,
+            "h": 150
+          }
+        },
+        "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/921993821487017984/pu/img/i8AKkYs6DReblBfY.jpg",
+        "id_str": "921993821487017984",
+        "display_url": "pic.twitter.com/PPZz9rB4Yi",
+        "type": "photo"
+      }
+    ]
+  },
+  "reply_count": 0,
+  "timestamp_ms": "1508655480983",
+  "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+  "place": {
+    "attributes": {},
+    "url": "https://api.twitter.com/1.1/geo/id/01d13f2529da75c4.json",
+    "place_type": "city",
+    "id": "01d13f2529da75c4",
+    "country_code": "AR",
+    "name": "Paran\u00e1",
+    "country": "Argentina",
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            -60.573516,
+            -31.814193
+          ],
+          [
+            -60.573516,
+            -31.706162
+          ],
+          [
+            -60.452815,
+            -31.706162
+          ],
+          [
+            -60.452815,
+            -31.814193
+          ]
+        ]
+      ]
+    },
+    "full_name": "Paran\u00e1, Argentina"
+  },
+  "truncated": false,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_screen_name": null,
+  "filter_level": "low",
+  "text": "Ahora a parte de no parar de escucharla no paro de hacer #100A\u00f1osChallenge @haashoficial https://t.co/PPZz9rB4Yi",
+  "geo": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": false,
+  "possibly_sensitive": false,
+  "display_text_range": [
+    0,
+    88
+  ],
+  "favorited": false,
+  "user": {
+    "verified": false,
+    "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/460195430354018304/hxWTHHZ_.jpeg",
+    "statuses_count": 107038,
+    "screen_name": "CynthiarceO",
+    "default_profile_image": false,
+    "time_zone": "Buenos Aires",
+    "name": "Cynthia",
+    "id_str": "187556883",
+    "profile_sidebar_border_color": "FFFFFF",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/187556883/1479261511",
+    "created_at": "Mon Sep 06 15:21:30 +0000 2010",
+    "friends_count": 1839,
+    "url": "http://instagram.com/Cynthiarceo",
+    "profile_background_tile": true,
+    "protected": false,
+    "translator_type": "none",
+    "profile_text_color": "292329",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/910721642883686400/xKqo2enH_normal.jpg",
+    "listed_count": 15,
+    "notifications": null,
+    "contributors_enabled": false,
+    "is_translator": false,
+    "location": "Entre R\u00edos, Argentina",
+    "profile_use_background_image": true,
+    "followers_count": 1968,
+    "profile_sidebar_fill_color": "FFFFFF",
+    "geo_enabled": true,
+    "profile_link_color": "DD2E44",
+    "favourites_count": 777,
+    "following": null,
+    "default_profile": false,
+    "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/460195430354018304/hxWTHHZ_.jpeg",
+    "profile_background_color": "F70D0D",
+    "id": 187556883,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/910721642883686400/xKqo2enH_normal.jpg",
+    "lang": "es",
+    "description": "@DulceMaria 04/06/11 24/04/15 en Argentina\n@HaashOficial 04/11/15 24/12/15 LunaPark 11/11/16\n\u300aBoca Juniors\u300b @BandanaLaVuelta @DianaAmarilla\n\u2606 22 \u2606",
+    "follow_request_sent": null,
+    "utc_offset": -10800
+  },
+  "quote_count": 0,
+  "lang": "es"
+}

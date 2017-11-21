@@ -1,0 +1,116 @@
+{
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "indices": [
+          79,
+          93
+        ],
+        "screen_name": "claudiobarros",
+        "name": "Claudio Barros",
+        "id_str": "23689124",
+        "id": 23689124
+      }
+    ]
+  },
+  "in_reply_to_user_id": null,
+  "created_at": "Sun Oct 22 21:41:40 +0000 2017",
+  "favorite_count": 0,
+  "lang": "es",
+  "reply_count": 0,
+  "id_str": "922216408079044610",
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_status_id": null,
+  "timestamp_ms": "1508708500295",
+  "text": "No lo multen pero... desde temprano alguien est\u00e1  festejando \u00a1Feliz cumplea\u00f1os @claudiobarros ! \n\n(Fue en verso)",
+  "user": {
+    "time_zone": "Buenos Aires",
+    "screen_name": "MLauraRomboli",
+    "utc_offset": -10800,
+    "created_at": "Mon May 04 21:54:09 +0000 2009",
+    "profile_background_tile": false,
+    "notifications": null,
+    "lang": "es",
+    "default_profile": false,
+    "follow_request_sent": null,
+    "id_str": "37770619",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/918822010729390081/4LH8aadG_normal.jpg",
+    "name": "Laura Romboli",
+    "friends_count": 965,
+    "translator_type": "none",
+    "protected": false,
+    "following": null,
+    "is_translator": false,
+    "profile_text_color": "333333",
+    "listed_count": 39,
+    "profile_link_color": "F58EA8",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+    "url": "http://Instagram.com/mlromboli",
+    "id": 37770619,
+    "favourites_count": 1820,
+    "profile_background_color": "709397",
+    "followers_count": 2959,
+    "statuses_count": 17934,
+    "description": "Prensa y Comunicaci\u00f3n",
+    "location": "Mendoza Argentina",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+    "default_profile_image": false,
+    "verified": false,
+    "profile_sidebar_fill_color": "A0C5C7",
+    "profile_use_background_image": true,
+    "contributors_enabled": false,
+    "profile_sidebar_border_color": "FFFFFF",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/918822010729390081/4LH8aadG_normal.jpg",
+    "geo_enabled": true
+  },
+  "geo": null,
+  "id": 922216408079044610,
+  "quote_count": 0,
+  "retweeted": false,
+  "filter_level": "low",
+  "in_reply_to_status_id_str": null,
+  "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+  "favorited": false,
+  "coordinates": null,
+  "truncated": false,
+  "retweet_count": 0,
+  "is_quote_status": false,
+  "in_reply_to_screen_name": null,
+  "contributors": null,
+  "place": {
+    "bounding_box": {
+      "coordinates": [
+        [
+          [
+            -68.91592,
+            -32.904531
+          ],
+          [
+            -68.91592,
+            -32.862154
+          ],
+          [
+            -68.817455,
+            -32.862154
+          ],
+          [
+            -68.817455,
+            -32.904531
+          ]
+        ]
+      ],
+      "type": "Polygon"
+    },
+    "name": "Mendoza",
+    "url": "https://api.twitter.com/1.1/geo/id/00054d3a0a8df14e.json",
+    "country_code": "AR",
+    "id": "00054d3a0a8df14e",
+    "place_type": "city",
+    "attributes": {},
+    "full_name": "Mendoza, Argentina",
+    "country": "Argentina"
+  }
+}

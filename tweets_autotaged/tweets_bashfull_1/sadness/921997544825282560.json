@@ -1,0 +1,130 @@
+{
+  "in_reply_to_user_id": 1667654989,
+  "contributors": null,
+  "id": 921997544825282560,
+  "retweeted": false,
+  "retweet_count": 0,
+  "timestamp_ms": "1508656319229",
+  "in_reply_to_status_id": 921843104273051648,
+  "id_str": "921997544825282560",
+  "created_at": "Sun Oct 22 07:11:59 +0000 2017",
+  "coordinates": null,
+  "favorite_count": 0,
+  "entities": {
+    "user_mentions": [
+      {
+        "indices": [
+          0,
+          8
+        ],
+        "name": "Coronel Ca\u00f1ones",
+        "screen_name": "Mingord",
+        "id": 1667654989,
+        "id_str": "1667654989"
+      },
+      {
+        "indices": [
+          9,
+          18
+        ],
+        "name": "it's a beautiful day",
+        "screen_name": "mmalbahi",
+        "id": 1306004461,
+        "id_str": "1306004461"
+      }
+    ],
+    "symbols": [],
+    "hashtags": [],
+    "urls": []
+  },
+  "reply_count": 0,
+  "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+  "place": {
+    "attributes": {},
+    "url": "https://api.twitter.com/1.1/geo/id/018f1cde6bad9747.json",
+    "place_type": "city",
+    "id": "018f1cde6bad9747",
+    "country_code": "AR",
+    "name": "Ciudad Aut\u00f3noma de Buenos Aires",
+    "country": "Argentina",
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            -58.531792,
+            -34.674453
+          ],
+          [
+            -58.531792,
+            -34.534177
+          ],
+          [
+            -58.353494,
+            -34.534177
+          ],
+          [
+            -58.353494,
+            -34.674453
+          ]
+        ]
+      ]
+    },
+    "full_name": "Ciudad Aut\u00f3noma de Buenos Aires, Argentina"
+  },
+  "truncated": false,
+  "in_reply_to_status_id_str": "921843104273051648",
+  "in_reply_to_screen_name": "Mingord",
+  "filter_level": "low",
+  "text": "@Mingord @mmalbahi Ellos son apenas los culpables. Los responsables son las autoridades de la Ciudad que no los toman y los meten presos",
+  "geo": null,
+  "in_reply_to_user_id_str": "1667654989",
+  "is_quote_status": false,
+  "display_text_range": [
+    19,
+    136
+  ],
+  "favorited": false,
+  "user": {
+    "verified": false,
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "statuses_count": 72729,
+    "screen_name": "AdanNod",
+    "default_profile_image": false,
+    "time_zone": "Buenos Aires",
+    "name": "Ad\u00e1n Nod",
+    "id_str": "179241852",
+    "profile_sidebar_border_color": "C0DEED",
+    "created_at": "Mon Aug 16 21:23:05 +0000 2010",
+    "friends_count": 775,
+    "url": null,
+    "profile_background_tile": false,
+    "protected": false,
+    "translator_type": "none",
+    "profile_text_color": "333333",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/3692734123/7aab55ba64c94ed384cd0fcbb9848e26_normal.jpeg",
+    "listed_count": 11,
+    "notifications": null,
+    "contributors_enabled": false,
+    "is_translator": false,
+    "location": null,
+    "profile_use_background_image": true,
+    "followers_count": 806,
+    "profile_sidebar_fill_color": "DDEEF6",
+    "geo_enabled": true,
+    "profile_link_color": "1DA1F2",
+    "favourites_count": 4189,
+    "following": null,
+    "default_profile": true,
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_color": "C0DEED",
+    "id": 179241852,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/3692734123/7aab55ba64c94ed384cd0fcbb9848e26_normal.jpeg",
+    "lang": "es",
+    "description": "Dios nos da todas las caras y una misma alma. Escritor",
+    "follow_request_sent": null,
+    "utc_offset": -10800
+  },
+  "quote_count": 0,
+  "lang": "es"
+}

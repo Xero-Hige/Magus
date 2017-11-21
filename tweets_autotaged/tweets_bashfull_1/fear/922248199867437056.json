@@ -1,0 +1,183 @@
+{
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "urls": [
+      {
+        "indices": [
+          116,
+          139
+        ],
+        "expanded_url": "https://twitter.com/i/web/status/922248199867437056",
+        "display_url": "twitter.com/i/web/status/9\u2026",
+        "url": "https://t.co/eCbr7My3hd"
+      }
+    ],
+    "user_mentions": [
+      {
+        "indices": [
+          0,
+          15
+        ],
+        "screen_name": "titifernandez1",
+        "name": "Titi Fernandez",
+        "id_str": "276169885",
+        "id": 276169885
+      },
+      {
+        "indices": [
+          16,
+          31
+        ],
+        "screen_name": "AngeldebritoOk",
+        "name": "@   N   G   3  L",
+        "id_str": "144712423",
+        "id": 144712423
+      }
+    ]
+  },
+  "in_reply_to_user_id": 276169885,
+  "created_at": "Sun Oct 22 23:48:00 +0000 2017",
+  "favorite_count": 0,
+  "lang": "es",
+  "reply_count": 0,
+  "id_str": "922248199867437056",
+  "in_reply_to_user_id_str": "276169885",
+  "extended_tweet": {
+    "entities": {
+      "hashtags": [
+        {
+          "indices": [
+            156,
+            169
+          ],
+          "text": "NoVuelvenMas"
+        }
+      ],
+      "symbols": [],
+      "urls": [],
+      "user_mentions": [
+        {
+          "indices": [
+            0,
+            15
+          ],
+          "screen_name": "titifernandez1",
+          "name": "Titi Fernandez",
+          "id_str": "276169885",
+          "id": 276169885
+        },
+        {
+          "indices": [
+            16,
+            31
+          ],
+          "screen_name": "AngeldebritoOk",
+          "name": "@   N   G   3  L",
+          "id_str": "144712423",
+          "id": 144712423
+        }
+      ]
+    },
+    "display_text_range": [
+      32,
+      169
+    ],
+    "full_text": "@titifernandez1 @AngeldebritoOk Quisieron cagar el gobierno usando a un pobre pibe. Se cagaron todos en su muerte! Hasta su familia se cag\u00f3 en su muerte .. #NoVuelvenMas"
+  },
+  "in_reply_to_status_id": 921899962593574912,
+  "timestamp_ms": "1508716080048",
+  "truncated": true,
+  "text": "@titifernandez1 @AngeldebritoOk Quisieron cagar el gobierno usando a un pobre pibe. Se cagaron todos en su muerte!\u2026 https://t.co/eCbr7My3hd",
+  "user": {
+    "time_zone": "Brasilia",
+    "screen_name": "EveeRomeroOK",
+    "utc_offset": -7200,
+    "created_at": "Fri Nov 23 16:35:12 +0000 2012",
+    "profile_background_tile": true,
+    "notifications": null,
+    "lang": "es",
+    "default_profile": false,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/966432493/1493384268",
+    "id_str": "966432493",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/724933074560098304/T0V3Hxmk_normal.jpg",
+    "name": "EveeRo",
+    "friends_count": 975,
+    "translator_type": "none",
+    "protected": false,
+    "following": null,
+    "is_translator": false,
+    "follow_request_sent": null,
+    "profile_text_color": "333333",
+    "listed_count": 1,
+    "profile_link_color": "FF55AA",
+    "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/816397754/cb2322db31f17aba6937fd71c0dfd81b.jpeg",
+    "url": "https://youtu.be/Q5jwnIHTUrw",
+    "id": 966432493,
+    "favourites_count": 1628,
+    "profile_background_color": "C0DEED",
+    "followers_count": 752,
+    "statuses_count": 7160,
+    "description": "futura bioquimica ~ profesora de danzas ~ si te extra\u00f1o es tu culpa, si te olvido tambien                                                              -La Rioja",
+    "location": null,
+    "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/816397754/cb2322db31f17aba6937fd71c0dfd81b.jpeg",
+    "default_profile_image": false,
+    "verified": false,
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_use_background_image": true,
+    "contributors_enabled": false,
+    "profile_sidebar_border_color": "FFFFFF",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/724933074560098304/T0V3Hxmk_normal.jpg",
+    "geo_enabled": true
+  },
+  "geo": null,
+  "id": 922248199867437056,
+  "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+  "retweeted": false,
+  "filter_level": "low",
+  "in_reply_to_status_id_str": "921899962593574912",
+  "quote_count": 0,
+  "favorited": false,
+  "coordinates": null,
+  "display_text_range": [
+    32,
+    140
+  ],
+  "retweet_count": 0,
+  "is_quote_status": false,
+  "in_reply_to_screen_name": "titifernandez1",
+  "contributors": null,
+  "place": {
+    "bounding_box": {
+      "coordinates": [
+        [
+          [
+            -66.925762,
+            -29.467747
+          ],
+          [
+            -66.925762,
+            -29.380261
+          ],
+          [
+            -66.792907,
+            -29.380261
+          ],
+          [
+            -66.792907,
+            -29.467747
+          ]
+        ]
+      ],
+      "type": "Polygon"
+    },
+    "name": "La Rioja",
+    "url": "https://api.twitter.com/1.1/geo/id/00a50aa95099b127.json",
+    "country_code": "AR",
+    "id": "00a50aa95099b127",
+    "place_type": "city",
+    "attributes": {},
+    "full_name": "La Rioja, Argentina",
+    "country": "Argentina"
+  }
+}

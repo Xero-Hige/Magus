@@ -1,0 +1,450 @@
+{
+  "favorite_count": 0,
+  "in_reply_to_status_id": null,
+  "contributors": null,
+  "quote_count": 0,
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "user_mentions": [
+      {
+        "screen_name": "asuraustral",
+        "name": "Asociaci\u00f3nSurAustral",
+        "indices": [
+          70,
+          82
+        ],
+        "id_str": "1566746822",
+        "id": 1566746822
+      }
+    ],
+    "urls": [
+      {
+        "display_url": "twitter.com/i/web/status/9\u2026",
+        "url": "https://t.co/7vUl2pKBjE",
+        "expanded_url": "https://twitter.com/i/web/status/921930670854823936",
+        "indices": [
+          116,
+          139
+        ]
+      }
+    ]
+  },
+  "place": {
+    "name": "Lanco",
+    "url": "https://api.twitter.com/1.1/geo/id/012d8bf62986b68e.json",
+    "country_code": "CL",
+    "attributes": {},
+    "full_name": "Lanco, Chile",
+    "bounding_box": {
+      "coordinates": [
+        [
+          [
+            -72.851574,
+            -39.64366
+          ],
+          [
+            -72.851574,
+            -39.404006
+          ],
+          [
+            -72.325444,
+            -39.404006
+          ],
+          [
+            -72.325444,
+            -39.64366
+          ]
+        ]
+      ],
+      "type": "Polygon"
+    },
+    "place_type": "city",
+    "id": "012d8bf62986b68e",
+    "country": "Chile"
+  },
+  "extended_tweet": {
+    "full_text": "Ordenaci\u00f3n Ministerial del Pr. Iv\u00e1n Parra en la Iglesia de Lanco d la @asuraustral \nUn Pastor + con pasi\u00f3n x Dios, familia, iglesia y Mision https://t.co/uz1lh6v8OG",
+    "entities": {
+      "media": [
+        {
+          "display_url": "pic.twitter.com/uz1lh6v8OG",
+          "media_url_https": "https://pbs.twimg.com/media/DMta53yXcAEWuAQ.jpg",
+          "url": "https://t.co/uz1lh6v8OG",
+          "media_url": "http://pbs.twimg.com/media/DMta53yXcAEWuAQ.jpg",
+          "indices": [
+            141,
+            164
+          ],
+          "id_str": "921930499001643009",
+          "sizes": {
+            "small": {
+              "w": 680,
+              "h": 510,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 1200,
+              "h": 900,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 2048,
+              "h": 1536,
+              "resize": "fit"
+            }
+          },
+          "id": 921930499001643009,
+          "expanded_url": "https://twitter.com/LuisVelasquez9/status/921930670854823936/photo/1",
+          "type": "photo"
+        },
+        {
+          "display_url": "pic.twitter.com/uz1lh6v8OG",
+          "media_url_https": "https://pbs.twimg.com/media/DMta53tXkAABlhu.jpg",
+          "url": "https://t.co/uz1lh6v8OG",
+          "media_url": "http://pbs.twimg.com/media/DMta53tXkAABlhu.jpg",
+          "indices": [
+            141,
+            164
+          ],
+          "id_str": "921930498980679680",
+          "sizes": {
+            "small": {
+              "w": 680,
+              "h": 510,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 1200,
+              "h": 900,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 2048,
+              "h": 1536,
+              "resize": "fit"
+            }
+          },
+          "id": 921930498980679680,
+          "expanded_url": "https://twitter.com/LuisVelasquez9/status/921930670854823936/photo/1",
+          "type": "photo"
+        },
+        {
+          "display_url": "pic.twitter.com/uz1lh6v8OG",
+          "media_url_https": "https://pbs.twimg.com/media/DMta53xWkAE0hRL.jpg",
+          "url": "https://t.co/uz1lh6v8OG",
+          "media_url": "http://pbs.twimg.com/media/DMta53xWkAE0hRL.jpg",
+          "indices": [
+            141,
+            164
+          ],
+          "id_str": "921930498997391361",
+          "sizes": {
+            "small": {
+              "w": 680,
+              "h": 510,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 1200,
+              "h": 900,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 2048,
+              "h": 1536,
+              "resize": "fit"
+            }
+          },
+          "id": 921930498997391361,
+          "expanded_url": "https://twitter.com/LuisVelasquez9/status/921930670854823936/photo/1",
+          "type": "photo"
+        },
+        {
+          "display_url": "pic.twitter.com/uz1lh6v8OG",
+          "media_url_https": "https://pbs.twimg.com/media/DMta53vWsAEKvsu.jpg",
+          "url": "https://t.co/uz1lh6v8OG",
+          "media_url": "http://pbs.twimg.com/media/DMta53vWsAEKvsu.jpg",
+          "indices": [
+            141,
+            164
+          ],
+          "id_str": "921930498989010945",
+          "sizes": {
+            "small": {
+              "w": 680,
+              "h": 510,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 1200,
+              "h": 900,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 2048,
+              "h": 1536,
+              "resize": "fit"
+            }
+          },
+          "id": 921930498989010945,
+          "expanded_url": "https://twitter.com/LuisVelasquez9/status/921930670854823936/photo/1",
+          "type": "photo"
+        }
+      ],
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "screen_name": "asuraustral",
+          "name": "Asociaci\u00f3nSurAustral",
+          "indices": [
+            70,
+            82
+          ],
+          "id_str": "1566746822",
+          "id": 1566746822
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      0,
+      140
+    ],
+    "extended_entities": {
+      "media": [
+        {
+          "display_url": "pic.twitter.com/uz1lh6v8OG",
+          "media_url_https": "https://pbs.twimg.com/media/DMta53yXcAEWuAQ.jpg",
+          "url": "https://t.co/uz1lh6v8OG",
+          "media_url": "http://pbs.twimg.com/media/DMta53yXcAEWuAQ.jpg",
+          "indices": [
+            141,
+            164
+          ],
+          "id_str": "921930499001643009",
+          "sizes": {
+            "small": {
+              "w": 680,
+              "h": 510,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 1200,
+              "h": 900,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 2048,
+              "h": 1536,
+              "resize": "fit"
+            }
+          },
+          "id": 921930499001643009,
+          "expanded_url": "https://twitter.com/LuisVelasquez9/status/921930670854823936/photo/1",
+          "type": "photo"
+        },
+        {
+          "display_url": "pic.twitter.com/uz1lh6v8OG",
+          "media_url_https": "https://pbs.twimg.com/media/DMta53tXkAABlhu.jpg",
+          "url": "https://t.co/uz1lh6v8OG",
+          "media_url": "http://pbs.twimg.com/media/DMta53tXkAABlhu.jpg",
+          "indices": [
+            141,
+            164
+          ],
+          "id_str": "921930498980679680",
+          "sizes": {
+            "small": {
+              "w": 680,
+              "h": 510,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 1200,
+              "h": 900,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 2048,
+              "h": 1536,
+              "resize": "fit"
+            }
+          },
+          "id": 921930498980679680,
+          "expanded_url": "https://twitter.com/LuisVelasquez9/status/921930670854823936/photo/1",
+          "type": "photo"
+        },
+        {
+          "display_url": "pic.twitter.com/uz1lh6v8OG",
+          "media_url_https": "https://pbs.twimg.com/media/DMta53xWkAE0hRL.jpg",
+          "url": "https://t.co/uz1lh6v8OG",
+          "media_url": "http://pbs.twimg.com/media/DMta53xWkAE0hRL.jpg",
+          "indices": [
+            141,
+            164
+          ],
+          "id_str": "921930498997391361",
+          "sizes": {
+            "small": {
+              "w": 680,
+              "h": 510,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 1200,
+              "h": 900,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 2048,
+              "h": 1536,
+              "resize": "fit"
+            }
+          },
+          "id": 921930498997391361,
+          "expanded_url": "https://twitter.com/LuisVelasquez9/status/921930670854823936/photo/1",
+          "type": "photo"
+        },
+        {
+          "display_url": "pic.twitter.com/uz1lh6v8OG",
+          "media_url_https": "https://pbs.twimg.com/media/DMta53vWsAEKvsu.jpg",
+          "url": "https://t.co/uz1lh6v8OG",
+          "media_url": "http://pbs.twimg.com/media/DMta53vWsAEKvsu.jpg",
+          "indices": [
+            141,
+            164
+          ],
+          "id_str": "921930498989010945",
+          "sizes": {
+            "small": {
+              "w": 680,
+              "h": 510,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 1200,
+              "h": 900,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 2048,
+              "h": 1536,
+              "resize": "fit"
+            }
+          },
+          "id": 921930498989010945,
+          "expanded_url": "https://twitter.com/LuisVelasquez9/status/921930670854823936/photo/1",
+          "type": "photo"
+        }
+      ]
+    }
+  },
+  "in_reply_to_user_id": null,
+  "filter_level": "low",
+  "user": {
+    "default_profile_image": false,
+    "default_profile": true,
+    "notifications": null,
+    "listed_count": 12,
+    "favourites_count": 7948,
+    "protected": false,
+    "geo_enabled": true,
+    "profile_text_color": "333333",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "verified": false,
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "time_zone": null,
+    "id": 302316655,
+    "profile_background_color": "C0DEED",
+    "is_translator": false,
+    "description": "Hijo de Dios, Esposo de mi bella Karen y Pastor IASD. Director Evangelismo - Asoc. Ministerial - Misi\u00f3n Global en Chile. Un apasionado por el evangelismo",
+    "created_at": "Sat May 21 00:07:29 +0000 2011",
+    "location": "Santiago de Chile",
+    "screen_name": "LuisVelasquez9",
+    "profile_sidebar_border_color": "C0DEED",
+    "follow_request_sent": null,
+    "translator_type": "none",
+    "url": "http://www.adventistas.cl",
+    "profile_use_background_image": true,
+    "profile_link_color": "1DA1F2",
+    "followers_count": 1233,
+    "profile_background_tile": false,
+    "contributors_enabled": false,
+    "name": "Pr Luis Velasquez",
+    "friends_count": 727,
+    "statuses_count": 8433,
+    "lang": "es",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/302316655/1505997011",
+    "id_str": "302316655",
+    "utc_offset": null,
+    "following": null,
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/901267338930028544/SiWMmTQ3_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/901267338930028544/SiWMmTQ3_normal.jpg"
+  },
+  "possibly_sensitive": false,
+  "id": 921930670854823936,
+  "reply_count": 0,
+  "retweet_count": 0,
+  "created_at": "Sun Oct 22 02:46:15 +0000 2017",
+  "in_reply_to_screen_name": null,
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "is_quote_status": false,
+  "favorited": false,
+  "display_text_range": [
+    0,
+    140
+  ],
+  "retweeted": false,
+  "coordinates": null,
+  "truncated": true,
+  "lang": "es",
+  "timestamp_ms": "1508640375232",
+  "id_str": "921930670854823936",
+  "text": "Ordenaci\u00f3n Ministerial del Pr. Iv\u00e1n Parra en la Iglesia de Lanco d la @asuraustral \nUn Pastor + con pasi\u00f3n x Dios,\u2026 https://t.co/7vUl2pKBjE",
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id_str": null,
+  "geo": null
+}

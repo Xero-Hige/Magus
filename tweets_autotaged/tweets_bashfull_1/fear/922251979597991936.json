@@ -1,0 +1,117 @@
+{
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "indices": [
+          6,
+          20
+        ],
+        "screen_name": "MarcoTrovatoV",
+        "name": "Marco Trovato",
+        "id_str": "142738793",
+        "id": 142738793
+      }
+    ]
+  },
+  "in_reply_to_user_id": null,
+  "created_at": "Mon Oct 23 00:03:01 +0000 2017",
+  "favorite_count": 0,
+  "lang": "es",
+  "reply_count": 0,
+  "id_str": "922251979597991936",
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_status_id": null,
+  "timestamp_ms": "1508716981206",
+  "text": "A ver @MarcoTrovatoV La rosca, hoy es de ustedes verdad? Digo por el penal no cobrado a favor de Luque. Pregunto nom\u00e1s.",
+  "user": {
+    "time_zone": null,
+    "screen_name": "norman_penayo",
+    "utc_offset": null,
+    "created_at": "Tue Nov 01 21:07:01 +0000 2016",
+    "profile_background_tile": false,
+    "notifications": null,
+    "lang": "es",
+    "default_profile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/793559996994838529/1506622825",
+    "id_str": "793559996994838529",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/898268573348622337/iFPgshfL_normal.jpg",
+    "name": "NormanDiegoChurin",
+    "friends_count": 370,
+    "translator_type": "none",
+    "protected": false,
+    "following": null,
+    "is_translator": false,
+    "follow_request_sent": null,
+    "profile_text_color": "333333",
+    "listed_count": 1,
+    "profile_link_color": "1DA1F2",
+    "profile_background_image_url": "",
+    "url": null,
+    "id": 793559996994838529,
+    "favourites_count": 13164,
+    "profile_background_color": "F5F8FA",
+    "followers_count": 177,
+    "statuses_count": 3682,
+    "description": "Cerro Porte\u00f1o\nNada m\u00e1s que tengas que saber. Cumple 13 de marzo",
+    "location": "Puerto Presidente Stroessner, ",
+    "profile_background_image_url_https": "",
+    "default_profile_image": false,
+    "verified": false,
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_use_background_image": true,
+    "contributors_enabled": false,
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/898268573348622337/iFPgshfL_normal.jpg",
+    "geo_enabled": true
+  },
+  "geo": null,
+  "id": 922251979597991936,
+  "quote_count": 0,
+  "retweeted": false,
+  "filter_level": "low",
+  "in_reply_to_status_id_str": null,
+  "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+  "favorited": false,
+  "coordinates": null,
+  "truncated": false,
+  "retweet_count": 0,
+  "is_quote_status": false,
+  "in_reply_to_screen_name": null,
+  "contributors": null,
+  "place": {
+    "bounding_box": {
+      "coordinates": [
+        [
+          [
+            -55.458336,
+            -26.262222
+          ],
+          [
+            -55.458336,
+            -24.46139
+          ],
+          [
+            -54.332414,
+            -24.46139
+          ],
+          [
+            -54.332414,
+            -26.262222
+          ]
+        ]
+      ],
+      "type": "Polygon"
+    },
+    "name": "Alto Parana",
+    "url": "https://api.twitter.com/1.1/geo/id/01a9b63a22f85f8c.json",
+    "country_code": "PY",
+    "id": "01a9b63a22f85f8c",
+    "place_type": "admin",
+    "attributes": {},
+    "full_name": "Alto Parana, Paraguay",
+    "country": "Paraguay"
+  }
+}

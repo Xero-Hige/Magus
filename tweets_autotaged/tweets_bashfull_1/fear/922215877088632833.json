@@ -1,0 +1,121 @@
+{
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "indices": [
+          0,
+          11
+        ],
+        "screen_name": "SilMercado",
+        "name": "Silvia Mercado",
+        "id_str": "49153460",
+        "id": 49153460
+      }
+    ]
+  },
+  "in_reply_to_user_id": 49153460,
+  "created_at": "Sun Oct 22 21:39:33 +0000 2017",
+  "favorite_count": 0,
+  "lang": "es",
+  "reply_count": 0,
+  "id_str": "922215877088632833",
+  "in_reply_to_user_id_str": "49153460",
+  "in_reply_to_status_id": 921823977873518592,
+  "timestamp_ms": "1508708373697",
+  "truncated": false,
+  "text": "@SilMercado Al margen de tu mensaje perverso y fascista, te falt\u00f3 la lecci\u00f3n de 'aprendiendo a conjugar tiempos verbales'... Qu\u00e9 verg\u00fcenza!",
+  "user": {
+    "time_zone": null,
+    "screen_name": "belugdb",
+    "utc_offset": null,
+    "created_at": "Sun Jan 04 21:00:38 +0000 2015",
+    "profile_background_tile": false,
+    "notifications": null,
+    "lang": "es",
+    "default_profile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/2960918555/1420410531",
+    "id_str": "2960918555",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/551864649898262530/7yg4eT-G_normal.jpeg",
+    "name": "Belu G. del Boca",
+    "friends_count": 194,
+    "translator_type": "none",
+    "protected": false,
+    "following": null,
+    "is_translator": false,
+    "follow_request_sent": null,
+    "profile_text_color": "333333",
+    "listed_count": 0,
+    "profile_link_color": "1DA1F2",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "url": null,
+    "id": 2960918555,
+    "favourites_count": 669,
+    "profile_background_color": "C0DEED",
+    "followers_count": 29,
+    "statuses_count": 537,
+    "description": null,
+    "location": "Villa  Carlos  Paz ",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "default_profile_image": false,
+    "verified": false,
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_use_background_image": true,
+    "contributors_enabled": false,
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/551864649898262530/7yg4eT-G_normal.jpeg",
+    "geo_enabled": true
+  },
+  "geo": null,
+  "id": 922215877088632833,
+  "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+  "retweeted": false,
+  "filter_level": "low",
+  "in_reply_to_status_id_str": "921823977873518592",
+  "quote_count": 0,
+  "favorited": false,
+  "coordinates": null,
+  "display_text_range": [
+    12,
+    139
+  ],
+  "retweet_count": 0,
+  "is_quote_status": false,
+  "in_reply_to_screen_name": "SilMercado",
+  "contributors": null,
+  "place": {
+    "bounding_box": {
+      "coordinates": [
+        [
+          [
+            -64.532816,
+            -31.465601
+          ],
+          [
+            -64.532816,
+            -31.382763
+          ],
+          [
+            -64.454134,
+            -31.382763
+          ],
+          [
+            -64.454134,
+            -31.465601
+          ]
+        ]
+      ],
+      "type": "Polygon"
+    },
+    "name": "Villa Carlos Paz",
+    "url": "https://api.twitter.com/1.1/geo/id/01a09ade70818f7c.json",
+    "country_code": "AR",
+    "id": "01a09ade70818f7c",
+    "place_type": "city",
+    "attributes": {},
+    "full_name": "Villa Carlos Paz, Argentina",
+    "country": "Argentina"
+  }
+}

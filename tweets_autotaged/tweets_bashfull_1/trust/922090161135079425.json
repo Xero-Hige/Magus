@@ -1,0 +1,172 @@
+{
+  "in_reply_to_user_id": null,
+  "contributors": null,
+  "in_reply_to_screen_name": null,
+  "retweeted": false,
+  "retweet_count": 0,
+  "timestamp_ms": "1508678400678",
+  "in_reply_to_status_id": null,
+  "id_str": "922090161135079425",
+  "created_at": "Sun Oct 22 13:20:00 +0000 2017",
+  "id": 922090161135079425,
+  "coordinates": {
+    "type": "Point",
+    "coordinates": [
+      -70.6667,
+      -33.45
+    ]
+  },
+  "favorite_count": 0,
+  "entities": {
+    "user_mentions": [],
+    "symbols": [],
+    "hashtags": [
+      {
+        "text": "santiago",
+        "indices": [
+          14,
+          23
+        ]
+      },
+      {
+        "text": "Chile",
+        "indices": [
+          24,
+          30
+        ]
+      },
+      {
+        "text": "iphone",
+        "indices": [
+          31,
+          38
+        ]
+      },
+      {
+        "text": "instagram",
+        "indices": [
+          39,
+          49
+        ]
+      },
+      {
+        "text": "cofee",
+        "indices": [
+          50,
+          56
+        ]
+      },
+      {
+        "text": "1920cafe",
+        "indices": [
+          57,
+          66
+        ]
+      }
+    ],
+    "urls": [
+      {
+        "expanded_url": "https://www.instagram.com/p/BajT6X6FOuFIJv-700FNsnT97qhVAzq-GEjK300/",
+        "indices": [
+          68,
+          91
+        ],
+        "url": "https://t.co/LbyjSfzFKf",
+        "display_url": "instagram.com/p/BajT6X6FOuFI\u2026"
+      }
+    ]
+  },
+  "reply_count": 0,
+  "source": "<a href=\"http://instagram.com\" rel=\"nofollow\">Instagram</a>",
+  "place": {
+    "attributes": {},
+    "url": "https://api.twitter.com/1.1/geo/id/0010b4cb51ca93d8.json",
+    "place_type": "city",
+    "id": "0010b4cb51ca93d8",
+    "country_code": "CL",
+    "name": "Santiago",
+    "country": "Chile",
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            -70.692959,
+            -33.478574
+          ],
+          [
+            -70.692959,
+            -33.425749
+          ],
+          [
+            -70.626272,
+            -33.425749
+          ],
+          [
+            -70.626272,
+            -33.478574
+          ]
+        ]
+      ]
+    },
+    "full_name": "Santiago, Chile"
+  },
+  "truncated": false,
+  "in_reply_to_status_id_str": null,
+  "filter_level": "low",
+  "text": "Cafecito\n.\n.\n #santiago #Chile #iphone #instagram #cofee #1920cafe\u2026 https://t.co/LbyjSfzFKf",
+  "geo": {
+    "type": "Point",
+    "coordinates": [
+      -33.45,
+      -70.6667
+    ]
+  },
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": false,
+  "possibly_sensitive": false,
+  "favorited": false,
+  "user": {
+    "verified": false,
+    "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/703349979/3f437add9cf9b735c88c1cf7558f0bdd.jpeg",
+    "statuses_count": 67479,
+    "screen_name": "zukoe",
+    "default_profile_image": false,
+    "time_zone": "Santiago",
+    "name": "zukoe",
+    "id_str": "27696018",
+    "profile_sidebar_border_color": "FFFFFF",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/27696018/1402074251",
+    "created_at": "Mon Mar 30 18:18:31 +0000 2009",
+    "friends_count": 1343,
+    "url": "http://www.kuchizuke.net/",
+    "profile_background_tile": true,
+    "protected": false,
+    "translator_type": "none",
+    "profile_text_color": "3D1957",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/567147228578340864/c7Tr6t-l_normal.jpeg",
+    "listed_count": 93,
+    "notifications": null,
+    "contributors_enabled": false,
+    "is_translator": false,
+    "location": "Santiago de Chile",
+    "profile_use_background_image": true,
+    "followers_count": 1803,
+    "profile_sidebar_fill_color": "7AC3EE",
+    "geo_enabled": true,
+    "profile_link_color": "1B95E0",
+    "favourites_count": 2071,
+    "following": null,
+    "default_profile": false,
+    "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/703349979/3f437add9cf9b735c88c1cf7558f0bdd.jpeg",
+    "profile_background_color": "642D8B",
+    "id": 27696018,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/567147228578340864/c7Tr6t-l_normal.jpeg",
+    "lang": "es",
+    "description": "VJ ; CEO elbeso.cl partymonster.cl ; promover musica y eventos es la idea; tech fan; \u00f1o\u00f1o 100%; + + +",
+    "follow_request_sent": null,
+    "utc_offset": -10800
+  },
+  "quote_count": 0,
+  "lang": "es"
+}

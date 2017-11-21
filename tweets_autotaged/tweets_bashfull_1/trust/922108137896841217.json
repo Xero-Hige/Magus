@@ -1,0 +1,137 @@
+{
+  "in_reply_to_user_id": null,
+  "contributors": null,
+  "in_reply_to_screen_name": null,
+  "retweeted": false,
+  "retweet_count": 0,
+  "timestamp_ms": "1508682686672",
+  "in_reply_to_status_id": null,
+  "id_str": "922108137896841217",
+  "coordinates": null,
+  "created_at": "Sun Oct 22 14:31:26 +0000 2017",
+  "id": 922108137896841217,
+  "quote_count": 0,
+  "favorite_count": 0,
+  "entities": {
+    "user_mentions": [],
+    "symbols": [],
+    "hashtags": [],
+    "urls": [
+      {
+        "expanded_url": "https://twitter.com/i/web/status/922108137896841217",
+        "indices": [
+          117,
+          140
+        ],
+        "url": "https://t.co/Bpn3erfjYi",
+        "display_url": "twitter.com/i/web/status/9\u2026"
+      }
+    ]
+  },
+  "reply_count": 0,
+  "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+  "place": {
+    "attributes": {},
+    "url": "https://api.twitter.com/1.1/geo/id/4afa2757051c5192.json",
+    "place_type": "admin",
+    "id": "4afa2757051c5192",
+    "country_code": "AR",
+    "name": "Buenos Aires",
+    "country": "Argentina",
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            -63.39386,
+            -41.035009
+          ],
+          [
+            -63.39386,
+            -33.260144
+          ],
+          [
+            -56.665836,
+            -33.260144
+          ],
+          [
+            -56.665836,
+            -41.035009
+          ]
+        ]
+      ]
+    },
+    "full_name": "Buenos Aires, Argentina"
+  },
+  "truncated": true,
+  "in_reply_to_status_id_str": null,
+  "filter_level": "low",
+  "text": "Un d\u00eda para votar en contra del neoliberalismo feroz, que vino a quitarnos todo lo que logramos a trav\u00e9s de una luc\u2026 https://t.co/Bpn3erfjYi",
+  "geo": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": false,
+  "favorited": false,
+  "user": {
+    "verified": false,
+    "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/669364536/6ec3d77cbef4bfb6eee0a21bbbe877e5.jpeg",
+    "statuses_count": 8024,
+    "screen_name": "MaxiOviedo90",
+    "default_profile_image": false,
+    "time_zone": "Brasilia",
+    "name": "Maxi Oviedo",
+    "id_str": "479226104",
+    "profile_sidebar_border_color": "FFFFFF",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/479226104/1428503297",
+    "created_at": "Tue Jan 31 04:36:32 +0000 2012",
+    "friends_count": 446,
+    "url": null,
+    "profile_background_tile": true,
+    "protected": false,
+    "translator_type": "none",
+    "profile_text_color": "333333",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/912115414385283072/56mA6y_h_normal.jpg",
+    "listed_count": 9,
+    "notifications": null,
+    "contributors_enabled": false,
+    "is_translator": false,
+    "location": "Vedia",
+    "profile_use_background_image": true,
+    "followers_count": 466,
+    "profile_sidebar_fill_color": "DDEEF6",
+    "geo_enabled": true,
+    "profile_link_color": "3B94D9",
+    "favourites_count": 586,
+    "following": null,
+    "default_profile": false,
+    "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/669364536/6ec3d77cbef4bfb6eee0a21bbbe877e5.jpeg",
+    "profile_background_color": "C0DEED",
+    "id": 479226104,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/912115414385283072/56mA6y_h_normal.jpg",
+    "lang": "es",
+    "description": "Correntino en Vedia. Periodista Deportivo. Del lado de los que menos tienen, a favor de las causas justas. Peronista. Pap\u00e1 de Maria Del Pilar.",
+    "follow_request_sent": null,
+    "utc_offset": -7200
+  },
+  "extended_tweet": {
+    "entities": {
+      "user_mentions": [],
+      "symbols": [],
+      "hashtags": [
+        {
+          "text": "YovotoaUnidadCiudadana",
+          "indices": [
+            160,
+            183
+          ]
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      0,
+      183
+    ],
+    "full_text": "Un d\u00eda para votar en contra del neoliberalismo feroz, que vino a quitarnos todo lo que logramos a trav\u00e9s de una lucha dificil. Votemos con memoria y convicci\u00f3n #YovotoaUnidadCiudadana"
+  },
+  "lang": "es"
+}

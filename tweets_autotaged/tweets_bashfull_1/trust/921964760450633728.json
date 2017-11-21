@@ -1,0 +1,129 @@
+{
+  "in_reply_to_user_id": null,
+  "contributors": null,
+  "in_reply_to_screen_name": null,
+  "retweeted": false,
+  "retweet_count": 0,
+  "timestamp_ms": "1508648502825",
+  "in_reply_to_status_id": null,
+  "id_str": "921964760450633728",
+  "created_at": "Sun Oct 22 05:01:42 +0000 2017",
+  "id": 921964760450633728,
+  "coordinates": {
+    "type": "Point",
+    "coordinates": [
+      -71.3165999,
+      -41.15784
+    ]
+  },
+  "favorite_count": 0,
+  "entities": {
+    "user_mentions": [],
+    "symbols": [],
+    "hashtags": [],
+    "urls": [
+      {
+        "expanded_url": "https://www.instagram.com/p/BaiawFgAZNYNpsKaBqCRF8MCJcbW0HvQ0txhfQ0/",
+        "indices": [
+          62,
+          85
+        ],
+        "url": "https://t.co/i1QE0thhPl",
+        "display_url": "instagram.com/p/BaiawFgAZNYN\u2026"
+      }
+    ]
+  },
+  "reply_count": 0,
+  "source": "<a href=\"http://instagram.com\" rel=\"nofollow\">Instagram</a>",
+  "place": {
+    "attributes": {},
+    "url": "https://api.twitter.com/1.1/geo/id/011abdad7dddec83.json",
+    "place_type": "city",
+    "id": "011abdad7dddec83",
+    "country_code": "AR",
+    "name": "San Carlos de Bariloche",
+    "country": "Argentina",
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            -71.476571,
+            -41.173798
+          ],
+          [
+            -71.476571,
+            -41.087088
+          ],
+          [
+            -71.167834,
+            -41.087088
+          ],
+          [
+            -71.167834,
+            -41.173798
+          ]
+        ]
+      ]
+    },
+    "full_name": "San Carlos de Bariloche, Argentina"
+  },
+  "truncated": false,
+  "in_reply_to_status_id_str": null,
+  "filter_level": "low",
+  "text": "Podemos volver?\u2764\u2744 en Cerro Catedral - Catedral Alta Patagonia https://t.co/i1QE0thhPl",
+  "geo": {
+    "type": "Point",
+    "coordinates": [
+      -41.15784,
+      -71.3165999
+    ]
+  },
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": false,
+  "possibly_sensitive": false,
+  "favorited": false,
+  "user": {
+    "verified": false,
+    "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/497932977536380929/6JOdcCpY.jpeg",
+    "statuses_count": 14160,
+    "screen_name": "laraveliz_",
+    "default_profile_image": false,
+    "time_zone": "Brasilia",
+    "name": "LARA\ud83c\udf19",
+    "id_str": "1105346594",
+    "profile_sidebar_border_color": "000000",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1105346594/1508282981",
+    "created_at": "Sun Jan 20 04:18:21 +0000 2013",
+    "friends_count": 927,
+    "url": null,
+    "profile_background_tile": true,
+    "protected": false,
+    "translator_type": "none",
+    "profile_text_color": "333333",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/920431649531269120/PiIT2PYd_normal.jpg",
+    "listed_count": 4,
+    "notifications": null,
+    "contributors_enabled": false,
+    "is_translator": false,
+    "location": "Puerto Madryn",
+    "profile_use_background_image": true,
+    "followers_count": 1134,
+    "profile_sidebar_fill_color": "F6F6F6",
+    "geo_enabled": true,
+    "profile_link_color": "F5ABB5",
+    "favourites_count": 8193,
+    "following": null,
+    "default_profile": false,
+    "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/497932977536380929/6JOdcCpY.jpeg",
+    "profile_background_color": "FFFFFF",
+    "id": 1105346594,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/920431649531269120/PiIT2PYd_normal.jpg",
+    "lang": "es",
+    "description": "La vida sin risas, no es vida\ud83c\udf3b sc: laraveliz",
+    "follow_request_sent": null,
+    "utc_offset": -7200
+  },
+  "quote_count": 0,
+  "lang": "es"
+}

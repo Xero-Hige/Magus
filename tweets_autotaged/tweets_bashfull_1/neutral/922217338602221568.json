@@ -1,0 +1,121 @@
+{
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "indices": [
+          0,
+          16
+        ],
+        "screen_name": "macasantolaria_",
+        "name": "macarena",
+        "id_str": "785374993",
+        "id": 785374993
+      }
+    ]
+  },
+  "in_reply_to_user_id": 785374993,
+  "created_at": "Sun Oct 22 21:45:22 +0000 2017",
+  "favorite_count": 0,
+  "lang": "es",
+  "reply_count": 0,
+  "id_str": "922217338602221568",
+  "in_reply_to_user_id_str": "785374993",
+  "in_reply_to_status_id": 922215804116008960,
+  "timestamp_ms": "1508708722149",
+  "truncated": false,
+  "text": "@macasantolaria_ dec\u00eds cosas interesantes las pocas veces que te acordas de mi \ud83d\udc93",
+  "user": {
+    "time_zone": "Brasilia",
+    "screen_name": "blanconnegro",
+    "utc_offset": -7200,
+    "created_at": "Mon Feb 28 21:25:52 +0000 2011",
+    "profile_background_tile": true,
+    "notifications": null,
+    "lang": "es",
+    "default_profile": false,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/258953367/1504669224",
+    "id_str": "258953367",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/912867610873798656/pq5CPhpX_normal.jpg",
+    "name": "ignacio",
+    "friends_count": 179,
+    "translator_type": "regular",
+    "protected": false,
+    "following": null,
+    "is_translator": false,
+    "follow_request_sent": null,
+    "profile_text_color": "838978",
+    "listed_count": 1,
+    "profile_link_color": "19CF86",
+    "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/487053071462043648/tZdAWLPI.jpeg",
+    "url": null,
+    "id": 258953367,
+    "favourites_count": 3471,
+    "profile_background_color": "1C130E",
+    "followers_count": 322,
+    "statuses_count": 20496,
+    "description": "\u00a1Ay de aquel que dentro de s\u00ed cobija desiertos!",
+    "location": "Argentina",
+    "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/487053071462043648/tZdAWLPI.jpeg",
+    "default_profile_image": false,
+    "verified": false,
+    "profile_sidebar_fill_color": "140E0A",
+    "profile_use_background_image": true,
+    "contributors_enabled": false,
+    "profile_sidebar_border_color": "FFFFFF",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/912867610873798656/pq5CPhpX_normal.jpg",
+    "geo_enabled": true
+  },
+  "geo": null,
+  "id": 922217338602221568,
+  "source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+  "retweeted": false,
+  "filter_level": "low",
+  "in_reply_to_status_id_str": "922215804116008960",
+  "quote_count": 0,
+  "favorited": false,
+  "coordinates": null,
+  "display_text_range": [
+    17,
+    80
+  ],
+  "retweet_count": 0,
+  "is_quote_status": false,
+  "in_reply_to_screen_name": "macasantolaria_",
+  "contributors": null,
+  "place": {
+    "bounding_box": {
+      "coordinates": [
+        [
+          [
+            -64.338104,
+            -36.662555
+          ],
+          [
+            -64.338104,
+            -36.575113
+          ],
+          [
+            -64.247851,
+            -36.575113
+          ],
+          [
+            -64.247851,
+            -36.662555
+          ]
+        ]
+      ],
+      "type": "Polygon"
+    },
+    "name": "Santa Rosa",
+    "url": "https://api.twitter.com/1.1/geo/id/01df29355ffa0d6b.json",
+    "country_code": "AR",
+    "id": "01df29355ffa0d6b",
+    "place_type": "city",
+    "attributes": {},
+    "full_name": "Santa Rosa, Argentina",
+    "country": "Argentina"
+  }
+}

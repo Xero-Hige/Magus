@@ -1,0 +1,154 @@
+{
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "urls": [
+      {
+        "indices": [
+          117,
+          140
+        ],
+        "expanded_url": "https://twitter.com/i/web/status/922212370025537537",
+        "display_url": "twitter.com/i/web/status/9\u2026",
+        "url": "https://t.co/HmwALXiuMX"
+      }
+    ],
+    "user_mentions": [
+      {
+        "indices": [
+          0,
+          12
+        ],
+        "screen_name": "Cooperativa",
+        "name": "Cooperativa",
+        "id_str": "7668952",
+        "id": 7668952
+      }
+    ]
+  },
+  "in_reply_to_user_id": 7668952,
+  "created_at": "Sun Oct 22 21:25:37 +0000 2017",
+  "favorite_count": 0,
+  "lang": "es",
+  "reply_count": 0,
+  "id_str": "922212370025537537",
+  "in_reply_to_user_id_str": "7668952",
+  "extended_tweet": {
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "urls": [],
+      "user_mentions": [
+        {
+          "indices": [
+            0,
+            12
+          ],
+          "screen_name": "Cooperativa",
+          "name": "Cooperativa",
+          "id_str": "7668952",
+          "id": 7668952
+        }
+      ]
+    },
+    "display_text_range": [
+      13,
+      153
+    ],
+    "full_text": "@Cooperativa Su pasado imputado\nAyer copiando ideas\nHoy uso de imagen\nNo tiene verguenza\nCOMPA\u00d1EROS POR FAVOR NO VOTAR POR UN SINVERGUENZA\nTENGA DIGNIDAD"
+  },
+  "in_reply_to_status_id": 922177517401919488,
+  "timestamp_ms": "1508707537548",
+  "truncated": true,
+  "text": "@Cooperativa Su pasado imputado\nAyer copiando ideas\nHoy uso de imagen\nNo tiene verguenza\nCOMPA\u00d1EROS POR FAVOR NO VO\u2026 https://t.co/HmwALXiuMX",
+  "user": {
+    "time_zone": null,
+    "screen_name": "jdelafuenteceli",
+    "utc_offset": null,
+    "created_at": "Thu Aug 25 22:59:16 +0000 2011",
+    "profile_background_tile": false,
+    "notifications": null,
+    "lang": "es",
+    "default_profile": true,
+    "follow_request_sent": null,
+    "id_str": "362150598",
+    "profile_image_url": "http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+    "name": "jorge de la fuente c",
+    "friends_count": 53,
+    "translator_type": "none",
+    "protected": false,
+    "following": null,
+    "is_translator": false,
+    "profile_text_color": "333333",
+    "listed_count": 0,
+    "profile_link_color": "1DA1F2",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "url": null,
+    "id": 362150598,
+    "favourites_count": 41,
+    "profile_background_color": "C0DEED",
+    "followers_count": 14,
+    "statuses_count": 1380,
+    "description": null,
+    "location": null,
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "default_profile_image": false,
+    "verified": false,
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_use_background_image": true,
+    "contributors_enabled": false,
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_image_url_https": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+    "geo_enabled": true
+  },
+  "geo": null,
+  "id": 922212370025537537,
+  "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+  "retweeted": false,
+  "filter_level": "low",
+  "in_reply_to_status_id_str": "922177517401919488",
+  "quote_count": 0,
+  "favorited": false,
+  "coordinates": null,
+  "display_text_range": [
+    13,
+    140
+  ],
+  "retweet_count": 0,
+  "is_quote_status": false,
+  "in_reply_to_screen_name": "Cooperativa",
+  "contributors": null,
+  "place": {
+    "bounding_box": {
+      "coordinates": [
+        [
+          [
+            -70.631948,
+            -33.644147
+          ],
+          [
+            -70.631948,
+            -33.542929
+          ],
+          [
+            -70.486735,
+            -33.542929
+          ],
+          [
+            -70.486735,
+            -33.644147
+          ]
+        ]
+      ],
+      "type": "Polygon"
+    },
+    "name": "Puente Alto",
+    "url": "https://api.twitter.com/1.1/geo/id/009bffed2486be17.json",
+    "country_code": "CL",
+    "id": "009bffed2486be17",
+    "place_type": "city",
+    "attributes": {},
+    "full_name": "Puente Alto, Chile",
+    "country": "Chile"
+  }
+}

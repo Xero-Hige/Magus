@@ -1,0 +1,375 @@
+{
+  "entities": {
+    "hashtags": [
+      {
+        "indices": [
+          11,
+          23
+        ],
+        "text": "AdrianL\u00f3pez"
+      },
+      {
+        "indices": [
+          26,
+          41
+        ],
+        "text": "DiputadoElecto"
+      },
+      {
+        "indices": [
+          85,
+          95
+        ],
+        "text": "Cambiemos"
+      }
+    ],
+    "symbols": [],
+    "urls": [
+      {
+        "indices": [
+          110,
+          133
+        ],
+        "expanded_url": "https://twitter.com/radio3trelew/status/922254325010849792",
+        "display_url": "twitter.com/radio3trelew/s\u2026",
+        "url": "https://t.co/6MrxBTeEIH"
+      }
+    ],
+    "user_mentions": [
+      {
+        "indices": [
+          52,
+          67
+        ],
+        "screen_name": "arcionimariano",
+        "name": "Mariano Arcioni",
+        "id_str": "3342878295",
+        "id": 3342878295
+      },
+      {
+        "indices": [
+          96,
+          107
+        ],
+        "screen_name": "gustamenna",
+        "name": "Gustavo Menna",
+        "id_str": "867022208555732994",
+        "id": 867022208555732994
+      }
+    ]
+  },
+  "in_reply_to_user_id": null,
+  "reply_count": 0,
+  "id_str": "922255504038035457",
+  "in_reply_to_user_id_str": null,
+  "text": "Gobernador #AdrianL\u00f3pez\ud83d\ude00 \n#DiputadoElecto ViceGober @arcionimariano \u261d\nDiputadoElecto #Cambiemos @gustamenna \ud83d\ude0e https://t.co/6MrxBTeEIH",
+  "is_quote_status": true,
+  "quote_count": 0,
+  "quoted_status_id_str": "922254325010849792",
+  "in_reply_to_status_id_str": null,
+  "geo": null,
+  "display_text_range": [
+    0,
+    109
+  ],
+  "truncated": false,
+  "contributors": null,
+  "place": {
+    "bounding_box": {
+      "coordinates": [
+        [
+          [
+            -65.380571,
+            -43.279256
+          ],
+          [
+            -65.380571,
+            -43.232858
+          ],
+          [
+            -65.274193,
+            -43.232858
+          ],
+          [
+            -65.274193,
+            -43.279256
+          ]
+        ]
+      ],
+      "type": "Polygon"
+    },
+    "name": "Trelew",
+    "url": "https://api.twitter.com/1.1/geo/id/00aecc853a5cea98.json",
+    "country_code": "AR",
+    "id": "00aecc853a5cea98",
+    "place_type": "city",
+    "attributes": {},
+    "full_name": "Trelew, Argentina",
+    "country": "Argentina"
+  },
+  "created_at": "Mon Oct 23 00:17:01 +0000 2017",
+  "favorite_count": 0,
+  "lang": "es",
+  "retweet_count": 0,
+  "in_reply_to_status_id": null,
+  "timestamp_ms": "1508717821498",
+  "possibly_sensitive": false,
+  "user": {
+    "time_zone": null,
+    "screen_name": "belisariopolis",
+    "utc_offset": null,
+    "created_at": "Wed Oct 24 13:52:22 +0000 2012",
+    "profile_background_tile": false,
+    "notifications": null,
+    "lang": "es",
+    "default_profile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/901873891/1459436860",
+    "id_str": "901873891",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/3060984112/6120da6e40a4998da7669b93582c0cd4_normal.jpeg",
+    "name": "Belisario Torn\u00e9",
+    "friends_count": 5001,
+    "translator_type": "none",
+    "protected": false,
+    "following": null,
+    "is_translator": false,
+    "follow_request_sent": null,
+    "profile_text_color": "333333",
+    "listed_count": 62,
+    "profile_link_color": "1DA1F2",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "url": null,
+    "id": 901873891,
+    "favourites_count": 38142,
+    "profile_background_color": "C0DEED",
+    "followers_count": 2746,
+    "statuses_count": 67517,
+    "description": "Atleta 42km & Libre Pensador.\nPadre x 4 desde los 20 a los 50 \n..y Qu\u00edntuple Abuelo.\nLector de Ciencias V\u00e9dicas & F\u00edsica Cu\u00e1ntica con relatos griegos al toke.!",
+    "location": "TRELEW",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "default_profile_image": false,
+    "verified": false,
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_use_background_image": true,
+    "contributors_enabled": false,
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/3060984112/6120da6e40a4998da7669b93582c0cd4_normal.jpeg",
+    "geo_enabled": true
+  },
+  "id": 922255504038035457,
+  "retweeted": false,
+  "filter_level": "low",
+  "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+  "favorited": false,
+  "quoted_status": {
+    "entities": {
+      "hashtags": [
+        {
+          "indices": [
+            0,
+            20
+          ],
+          "text": "EleccionesArgentina"
+        },
+        {
+          "indices": [
+            21,
+            28
+          ],
+          "text": "Chubut"
+        }
+      ],
+      "symbols": [],
+      "urls": [
+        {
+          "indices": [
+            117,
+            140
+          ],
+          "expanded_url": "https://twitter.com/i/web/status/922254325010849792",
+          "display_url": "twitter.com/i/web/status/9\u2026",
+          "url": "https://t.co/O0VaUKviRS"
+        }
+      ],
+      "user_mentions": []
+    },
+    "favorited": false,
+    "filter_level": "low",
+    "in_reply_to_user_id": null,
+    "created_at": "Mon Oct 23 00:12:20 +0000 2017",
+    "favorite_count": 0,
+    "lang": "es",
+    "reply_count": 0,
+    "id_str": "922254325010849792",
+    "in_reply_to_user_id_str": null,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "extended_tweet": {
+      "entities": {
+        "media": [
+          {
+            "expanded_url": "https://twitter.com/radio3trelew/status/922254325010849792/photo/1",
+            "display_url": "pic.twitter.com/5GbcSd7WH3",
+            "url": "https://t.co/5GbcSd7WH3",
+            "media_url_https": "https://pbs.twimg.com/media/DMyBS87WsAABkvy.jpg",
+            "id": 922254186296815616,
+            "indices": [
+              141,
+              164
+            ],
+            "media_url": "http://pbs.twimg.com/media/DMyBS87WsAABkvy.jpg",
+            "type": "photo",
+            "id_str": "922254186296815616",
+            "sizes": {
+              "thumb": {
+                "resize": "crop",
+                "h": 150,
+                "w": 150
+              },
+              "large": {
+                "resize": "fit",
+                "h": 412,
+                "w": 700
+              },
+              "small": {
+                "resize": "fit",
+                "h": 400,
+                "w": 680
+              },
+              "medium": {
+                "resize": "fit",
+                "h": 412,
+                "w": 700
+              }
+            }
+          }
+        ],
+        "hashtags": [
+          {
+            "indices": [
+              0,
+              20
+            ],
+            "text": "EleccionesArgentina"
+          },
+          {
+            "indices": [
+              21,
+              28
+            ],
+            "text": "Chubut"
+          }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": []
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "expanded_url": "https://twitter.com/radio3trelew/status/922254325010849792/photo/1",
+            "display_url": "pic.twitter.com/5GbcSd7WH3",
+            "url": "https://t.co/5GbcSd7WH3",
+            "media_url_https": "https://pbs.twimg.com/media/DMyBS87WsAABkvy.jpg",
+            "id": 922254186296815616,
+            "indices": [
+              141,
+              164
+            ],
+            "media_url": "http://pbs.twimg.com/media/DMyBS87WsAABkvy.jpg",
+            "type": "photo",
+            "id_str": "922254186296815616",
+            "sizes": {
+              "thumb": {
+                "resize": "crop",
+                "h": 150,
+                "w": 150
+              },
+              "large": {
+                "resize": "fit",
+                "h": 412,
+                "w": 700
+              },
+              "small": {
+                "resize": "fit",
+                "h": 400,
+                "w": 680
+              },
+              "medium": {
+                "resize": "fit",
+                "h": 412,
+                "w": 700
+              }
+            }
+          }
+        ]
+      },
+      "display_text_range": [
+        0,
+        140
+      ],
+      "full_text": "#EleccionesArgentina #Chubut\nPrimeros resultados oficiales\nCon 30.34% de mesas:\n1\u00ba Chubut Para Todos\n2\u00ba Cambiemos\n3\u00ba Frente para la Victoria https://t.co/5GbcSd7WH3"
+    },
+    "in_reply_to_status_id": null,
+    "possibly_sensitive": false,
+    "text": "#EleccionesArgentina #Chubut\nPrimeros resultados oficiales\nCon 30.34% de mesas:\n1\u00ba Chubut Para Todos\n2\u00ba Cambiemos\n3\u2026 https://t.co/O0VaUKviRS",
+    "user": {
+      "time_zone": null,
+      "screen_name": "radio3trelew",
+      "utc_offset": null,
+      "created_at": "Sat Feb 08 13:43:03 +0000 2014",
+      "profile_background_tile": true,
+      "notifications": null,
+      "lang": "es",
+      "default_profile": false,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/2333499318/1483578878",
+      "id_str": "2333499318",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/816814313646227464/gCisSRQO_normal.jpg",
+      "name": "Radio 3 Trelew AM780",
+      "friends_count": 1689,
+      "translator_type": "none",
+      "protected": false,
+      "following": null,
+      "is_translator": false,
+      "follow_request_sent": null,
+      "profile_text_color": "333333",
+      "listed_count": 78,
+      "profile_link_color": "3B94D9",
+      "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/438125477853544448/ITyGtZ66.jpeg",
+      "url": "http://www.radio3cadenapatagonia.com",
+      "id": 2333499318,
+      "favourites_count": 299,
+      "profile_background_color": "359DBF",
+      "followers_count": 12821,
+      "statuses_count": 72172,
+      "description": "Sitio de LRF 210 Radio 3 AM 780 Cadena Patagonia desde Trelew. En Esquel: AM 1200 y Amanecer FM 88.1. Lago Puelo y Comarca Andina: 104.1 FM Del Bosque.",
+      "location": "Trelew - Chubut",
+      "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/438125477853544448/ITyGtZ66.jpeg",
+      "default_profile_image": false,
+      "verified": false,
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_use_background_image": true,
+      "contributors_enabled": false,
+      "profile_sidebar_border_color": "000000",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/816814313646227464/gCisSRQO_normal.jpg",
+      "geo_enabled": true
+    },
+    "id": 922254325010849792,
+    "quote_count": 0,
+    "retweeted": false,
+    "is_quote_status": false,
+    "in_reply_to_status_id_str": null,
+    "geo": null,
+    "display_text_range": [
+      0,
+      140
+    ],
+    "coordinates": null,
+    "truncated": true,
+    "retweet_count": 4,
+    "in_reply_to_screen_name": null,
+    "contributors": null,
+    "place": null
+  },
+  "coordinates": null,
+  "in_reply_to_screen_name": null,
+  "quoted_status_id": 922254325010849792
+}

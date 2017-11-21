@@ -1,0 +1,106 @@
+{
+  "in_reply_to_user_id": null,
+  "contributors": null,
+  "in_reply_to_screen_name": null,
+  "retweeted": false,
+  "retweet_count": 0,
+  "timestamp_ms": "1508670830662",
+  "in_reply_to_status_id": null,
+  "id_str": "922058410186690561",
+  "created_at": "Sun Oct 22 11:13:50 +0000 2017",
+  "id": 922058410186690561,
+  "coordinates": null,
+  "favorite_count": 0,
+  "entities": {
+    "user_mentions": [],
+    "symbols": [],
+    "hashtags": [],
+    "urls": []
+  },
+  "reply_count": 0,
+  "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+  "place": {
+    "attributes": {},
+    "url": "https://api.twitter.com/1.1/geo/id/004b853c78703c20.json",
+    "place_type": "city",
+    "id": "004b853c78703c20",
+    "country_code": "AR",
+    "name": "Ciudad del Libertador General San Mart\u00edn",
+    "country": "Argentina",
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            -58.618436,
+            -34.597406
+          ],
+          [
+            -58.618436,
+            -34.491912
+          ],
+          [
+            -58.509913,
+            -34.491912
+          ],
+          [
+            -58.509913,
+            -34.597406
+          ]
+        ]
+      ]
+    },
+    "full_name": "Ciudad del Libertador General San Mart\u00edn, Argentina"
+  },
+  "truncated": false,
+  "in_reply_to_status_id_str": null,
+  "filter_level": "low",
+  "text": "El jefe de gabinete de Macri responde hablando de las elecciones cuando le preguntan sobre Santiago Maldonado.",
+  "geo": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": false,
+  "favorited": false,
+  "user": {
+    "verified": false,
+    "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/527217660560297984/QLxxtJ1K.jpeg",
+    "statuses_count": 2362,
+    "screen_name": "FabianMeschini",
+    "default_profile_image": false,
+    "time_zone": "America/Argentina/Buenos_Aires",
+    "name": "Fabian Meschini",
+    "id_str": "130045256",
+    "profile_sidebar_border_color": "000000",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/130045256/1441030223",
+    "created_at": "Tue Apr 06 04:17:49 +0000 2010",
+    "friends_count": 489,
+    "url": null,
+    "profile_background_tile": true,
+    "protected": false,
+    "translator_type": "none",
+    "profile_text_color": "666666",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/919597891378929664/KWIVyk-q_normal.jpg",
+    "listed_count": 5,
+    "notifications": null,
+    "contributors_enabled": false,
+    "is_translator": false,
+    "location": "Argentina",
+    "profile_use_background_image": false,
+    "followers_count": 341,
+    "profile_sidebar_fill_color": "44377A",
+    "geo_enabled": true,
+    "profile_link_color": "4D6BE3",
+    "favourites_count": 149,
+    "following": null,
+    "default_profile": false,
+    "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/527217660560297984/QLxxtJ1K.jpeg",
+    "profile_background_color": "000000",
+    "id": 130045256,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/919597891378929664/KWIVyk-q_normal.jpg",
+    "lang": "es",
+    "description": "Buenos Aires, General San Martin, Secretario General de la agrupacion JUPe Juventud Unida Peronista",
+    "follow_request_sent": null,
+    "utc_offset": -10800
+  },
+  "quote_count": 0,
+  "lang": "es"
+}

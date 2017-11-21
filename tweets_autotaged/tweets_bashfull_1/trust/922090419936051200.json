@@ -1,0 +1,121 @@
+{
+  "in_reply_to_user_id": null,
+  "contributors": null,
+  "in_reply_to_screen_name": null,
+  "retweeted": false,
+  "retweet_count": 0,
+  "timestamp_ms": "1508678462381",
+  "in_reply_to_status_id": null,
+  "id_str": "922090419936051200",
+  "created_at": "Sun Oct 22 13:21:02 +0000 2017",
+  "id": 922090419936051200,
+  "coordinates": null,
+  "favorite_count": 0,
+  "entities": {
+    "user_mentions": [],
+    "symbols": [],
+    "hashtags": [
+      {
+        "text": "EleccionesArgentina",
+        "indices": [
+          0,
+          20
+        ]
+      },
+      {
+        "text": "Cambiemos",
+        "indices": [
+          78,
+          88
+        ]
+      }
+    ],
+    "urls": []
+  },
+  "reply_count": 0,
+  "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+  "place": {
+    "attributes": {},
+    "url": "https://api.twitter.com/1.1/geo/id/6591282d67e31598.json",
+    "place_type": "admin",
+    "id": "6591282d67e31598",
+    "country_code": "AR",
+    "name": "Corrientes",
+    "country": "Argentina",
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            -59.689189,
+            -30.734765
+          ],
+          [
+            -59.689189,
+            -27.24655
+          ],
+          [
+            -55.619083,
+            -27.24655
+          ],
+          [
+            -55.619083,
+            -30.734765
+          ]
+        ]
+      ]
+    },
+    "full_name": "Corrientes, Argentina"
+  },
+  "truncated": false,
+  "in_reply_to_status_id_str": null,
+  "filter_level": "low",
+  "text": "#EleccionesArgentina En PAZ, todos unidos por un pa\u00eds mejor y con futuro \nHoy #Cambiemos !!!!",
+  "geo": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": false,
+  "favorited": false,
+  "user": {
+    "verified": false,
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "statuses_count": 19116,
+    "screen_name": "Mingord",
+    "default_profile_image": false,
+    "time_zone": null,
+    "name": "Coronel Ca\u00f1ones",
+    "id_str": "1667654989",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1667654989/1425761576",
+    "created_at": "Tue Aug 13 12:05:23 +0000 2013",
+    "friends_count": 1347,
+    "url": null,
+    "profile_background_tile": false,
+    "protected": false,
+    "translator_type": "none",
+    "profile_text_color": "333333",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/693631567512653824/fT2AMNr-_normal.jpg",
+    "listed_count": 5,
+    "notifications": null,
+    "contributors_enabled": false,
+    "is_translator": false,
+    "location": null,
+    "profile_use_background_image": true,
+    "followers_count": 1867,
+    "profile_sidebar_fill_color": "DDEEF6",
+    "geo_enabled": true,
+    "profile_link_color": "1DA1F2",
+    "favourites_count": 19556,
+    "following": null,
+    "default_profile": true,
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_color": "C0DEED",
+    "id": 1667654989,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/693631567512653824/fT2AMNr-_normal.jpg",
+    "lang": "es",
+    "description": "Libertad , Patria y Constitucion .-",
+    "follow_request_sent": null,
+    "utc_offset": null
+  },
+  "quote_count": 0,
+  "lang": "es"
+}

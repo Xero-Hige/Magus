@@ -1,0 +1,174 @@
+{
+  "in_reply_to_user_id": 142802581,
+  "contributors": null,
+  "id": 922120862056185856,
+  "retweeted": false,
+  "retweet_count": 0,
+  "timestamp_ms": "1508685720348",
+  "in_reply_to_status_id": 922119235165413376,
+  "id_str": "922120862056185856",
+  "coordinates": null,
+  "created_at": "Sun Oct 22 15:22:00 +0000 2017",
+  "quote_count": 0,
+  "favorite_count": 0,
+  "entities": {
+    "user_mentions": [
+      {
+        "indices": [
+          0,
+          10
+        ],
+        "name": "Tiempo Argentino",
+        "screen_name": "tiempoarg",
+        "id": 142802581,
+        "id_str": "142802581"
+      },
+      {
+        "indices": [
+          11,
+          24
+        ],
+        "name": "Cristina Kirchner",
+        "screen_name": "CFKArgentina",
+        "id": 138814032,
+        "id_str": "138814032"
+      }
+    ],
+    "symbols": [],
+    "hashtags": [],
+    "urls": [
+      {
+        "expanded_url": "https://twitter.com/i/web/status/922120862056185856",
+        "indices": [
+          117,
+          140
+        ],
+        "url": "https://t.co/YUJid9sxNy",
+        "display_url": "twitter.com/i/web/status/9\u2026"
+      }
+    ]
+  },
+  "reply_count": 0,
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "place": {
+    "attributes": {},
+    "url": "https://api.twitter.com/1.1/geo/id/018f1cde6bad9747.json",
+    "place_type": "city",
+    "id": "018f1cde6bad9747",
+    "country_code": "AR",
+    "name": "Ciudad Aut\u00f3noma de Buenos Aires",
+    "country": "Argentina",
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            -58.531792,
+            -34.674453
+          ],
+          [
+            -58.531792,
+            -34.534177
+          ],
+          [
+            -58.353494,
+            -34.534177
+          ],
+          [
+            -58.353494,
+            -34.674453
+          ]
+        ]
+      ]
+    },
+    "full_name": "Ciudad Aut\u00f3noma de Buenos Aires, Argentina"
+  },
+  "truncated": true,
+  "in_reply_to_status_id_str": "922119235165413376",
+  "in_reply_to_screen_name": "tiempoarg",
+  "filter_level": "low",
+  "text": "@tiempoarg @CFKArgentina Y cuando tuvimos q afrontar la muerte s Nisman  x denunciar a traidores Korruptos y embust\u2026 https://t.co/YUJid9sxNy",
+  "geo": null,
+  "in_reply_to_user_id_str": "142802581",
+  "is_quote_status": false,
+  "display_text_range": [
+    25,
+    140
+  ],
+  "favorited": false,
+  "user": {
+    "verified": false,
+    "profile_background_image_url": "",
+    "statuses_count": 2452,
+    "screen_name": "VillamonteMart",
+    "default_profile_image": false,
+    "time_zone": null,
+    "name": "Marta Villamonte",
+    "id_str": "726893355439906816",
+    "profile_sidebar_border_color": "C0DEED",
+    "created_at": "Sun May 01 21:57:35 +0000 2016",
+    "friends_count": 46,
+    "url": null,
+    "profile_background_tile": false,
+    "protected": false,
+    "translator_type": "none",
+    "profile_text_color": "333333",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/726898307927175168/Wr11y7Z7_normal.jpg",
+    "listed_count": 0,
+    "notifications": null,
+    "contributors_enabled": false,
+    "is_translator": false,
+    "location": null,
+    "profile_use_background_image": true,
+    "followers_count": 18,
+    "profile_sidebar_fill_color": "DDEEF6",
+    "geo_enabled": true,
+    "profile_link_color": "1DA1F2",
+    "favourites_count": 1242,
+    "following": null,
+    "default_profile": true,
+    "profile_background_image_url_https": "",
+    "profile_background_color": "F5F8FA",
+    "id": 726893355439906816,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/726898307927175168/Wr11y7Z7_normal.jpg",
+    "lang": "es",
+    "description": null,
+    "follow_request_sent": null,
+    "utc_offset": null
+  },
+  "extended_tweet": {
+    "entities": {
+      "user_mentions": [
+        {
+          "indices": [
+            0,
+            10
+          ],
+          "name": "Tiempo Argentino",
+          "screen_name": "tiempoarg",
+          "id": 142802581,
+          "id_str": "142802581"
+        },
+        {
+          "indices": [
+            11,
+            24
+          ],
+          "name": "Cristina Kirchner",
+          "screen_name": "CFKArgentina",
+          "id": 138814032,
+          "id_str": "138814032"
+        }
+      ],
+      "symbols": [],
+      "hashtags": [],
+      "urls": []
+    },
+    "display_text_range": [
+      25,
+      162
+    ],
+    "full_text": "@tiempoarg @CFKArgentina Y cuando tuvimos q afrontar la muerte s Nisman  x denunciar a traidores Korruptos y embusteros q se robaron el pa\u00eds? Qui\u00e9n nos protegi\u00f2 ?"
+  },
+  "lang": "es"
+}

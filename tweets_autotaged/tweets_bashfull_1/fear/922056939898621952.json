@@ -1,0 +1,155 @@
+{
+  "in_reply_to_user_id": 1622748896,
+  "contributors": null,
+  "id": 922056939898621952,
+  "retweeted": false,
+  "retweet_count": 0,
+  "timestamp_ms": "1508670480118",
+  "in_reply_to_status_id": 922056500226510849,
+  "id_str": "922056939898621952",
+  "coordinates": null,
+  "created_at": "Sun Oct 22 11:08:00 +0000 2017",
+  "quote_count": 0,
+  "favorite_count": 0,
+  "entities": {
+    "user_mentions": [
+      {
+        "indices": [
+          0,
+          11
+        ],
+        "name": "Raul Oreiro",
+        "screen_name": "raulor1974",
+        "id": 1622748896,
+        "id_str": "1622748896"
+      }
+    ],
+    "symbols": [],
+    "hashtags": [],
+    "urls": [
+      {
+        "expanded_url": "https://twitter.com/i/web/status/922056939898621952",
+        "indices": [
+          117,
+          140
+        ],
+        "url": "https://t.co/lFq7sDp6pX",
+        "display_url": "twitter.com/i/web/status/9\u2026"
+      }
+    ]
+  },
+  "reply_count": 0,
+  "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+  "place": {
+    "attributes": {},
+    "url": "https://api.twitter.com/1.1/geo/id/00a961d91f76dde8.json",
+    "place_type": "city",
+    "id": "00a961d91f76dde8",
+    "country_code": "AR",
+    "name": "Corrientes",
+    "country": "Argentina",
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            -58.855973,
+            -27.537017
+          ],
+          [
+            -58.855973,
+            -27.437049
+          ],
+          [
+            -58.736291,
+            -27.437049
+          ],
+          [
+            -58.736291,
+            -27.537017
+          ]
+        ]
+      ]
+    },
+    "full_name": "Corrientes, Argentina"
+  },
+  "truncated": true,
+  "in_reply_to_status_id_str": "922056500226510849",
+  "in_reply_to_screen_name": "raulor1974",
+  "filter_level": "low",
+  "text": "@raulor1974 lo asesino cobardemente gendarmeria en el rio. Basta tomarlo de la ropa y meterlo bajo el agua 3 minuto\u2026 https://t.co/lFq7sDp6pX",
+  "geo": null,
+  "in_reply_to_user_id_str": "1622748896",
+  "is_quote_status": false,
+  "display_text_range": [
+    12,
+    140
+  ],
+  "favorited": false,
+  "user": {
+    "verified": false,
+    "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000110307087/301db6da6c2c712da2ed08d16032e4dd.jpeg",
+    "statuses_count": 6358,
+    "screen_name": "renniux",
+    "default_profile_image": false,
+    "time_zone": "Buenos Aires",
+    "name": "O_o",
+    "id_str": "150506258",
+    "profile_sidebar_border_color": "FFFFFF",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/150506258/1508580190",
+    "created_at": "Tue Jun 01 03:11:29 +0000 2010",
+    "friends_count": 639,
+    "url": null,
+    "profile_background_tile": true,
+    "protected": false,
+    "translator_type": "none",
+    "profile_text_color": "333333",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/896834374511079424/btqAhNVp_normal.jpg",
+    "listed_count": 2,
+    "notifications": null,
+    "contributors_enabled": false,
+    "is_translator": false,
+    "location": null,
+    "profile_use_background_image": true,
+    "followers_count": 634,
+    "profile_sidebar_fill_color": "EFEFEF",
+    "geo_enabled": true,
+    "profile_link_color": "3B94D9",
+    "favourites_count": 2056,
+    "following": null,
+    "default_profile": false,
+    "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000110307087/301db6da6c2c712da2ed08d16032e4dd.jpeg",
+    "profile_background_color": "131516",
+    "id": 150506258,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/896834374511079424/btqAhNVp_normal.jpg",
+    "lang": "es",
+    "description": "-Good bye father Mc Enroe. \n-Good bye Machuca",
+    "follow_request_sent": null,
+    "utc_offset": -10800
+  },
+  "extended_tweet": {
+    "entities": {
+      "user_mentions": [
+        {
+          "indices": [
+            0,
+            11
+          ],
+          "name": "Raul Oreiro",
+          "screen_name": "raulor1974",
+          "id": 1622748896,
+          "id_str": "1622748896"
+        }
+      ],
+      "symbols": [],
+      "hashtags": [],
+      "urls": []
+    },
+    "display_text_range": [
+      12,
+      150
+    ],
+    "full_text": "@raulor1974 lo asesino cobardemente gendarmeria en el rio. Basta tomarlo de la ropa y meterlo bajo el agua 3 minutos y ya esta.. sin lesiones y muerto"
+  },
+  "lang": "es"
+}

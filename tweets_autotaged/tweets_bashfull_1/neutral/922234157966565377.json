@@ -1,0 +1,129 @@
+{
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "urls": [
+      {
+        "indices": [
+          113,
+          136
+        ],
+        "expanded_url": "http://www.youtube.com/watch?v=Yy7eemCeYho",
+        "display_url": "youtube.com/watch?v=Yy7eem\u2026",
+        "url": "https://t.co/Og5ho981YG"
+      }
+    ],
+    "user_mentions": []
+  },
+  "in_reply_to_user_id": null,
+  "created_at": "Sun Oct 22 22:52:12 +0000 2017",
+  "favorite_count": 0,
+  "lang": "es",
+  "reply_count": 0,
+  "id_str": "922234157966565377",
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_status_id": null,
+  "timestamp_ms": "1508712732198",
+  "possibly_sensitive": false,
+  "text": "\ud83d\udcfa Este v\u00eddeo de Troom Troom Es acaba de ocupar la 14\u00aa posici\u00f3n en la lista de tendencias de YouTube en Argentina https://t.co/Og5ho981YG",
+  "user": {
+    "time_zone": "Buenos Aires",
+    "screen_name": "trendinaliaAR",
+    "utc_offset": -10800,
+    "created_at": "Thu Feb 14 19:23:34 +0000 2013",
+    "profile_background_tile": false,
+    "notifications": null,
+    "lang": "es",
+    "default_profile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1180083066/1454892101",
+    "id_str": "1180083066",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/696494205624045568/ojv-Lqtb_normal.png",
+    "name": "Trendinalia AR",
+    "friends_count": 52,
+    "translator_type": "none",
+    "protected": false,
+    "following": null,
+    "is_translator": false,
+    "follow_request_sent": null,
+    "profile_text_color": "333333",
+    "listed_count": 245,
+    "profile_link_color": "1DA1F2",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "url": "http://trendinalia.com/twitter-trending-topics/argentina/",
+    "id": 1180083066,
+    "favourites_count": 11,
+    "profile_background_color": "C0DEED",
+    "followers_count": 60930,
+    "statuses_count": 612576,
+    "description": "Informaci\u00f3n sobre los Temas del Momento de la geograf\u00eda argentina #TrendingTopics \u2014 #trndnl",
+    "location": "Argentina",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "default_profile_image": false,
+    "verified": false,
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_use_background_image": true,
+    "contributors_enabled": false,
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/696494205624045568/ojv-Lqtb_normal.png",
+    "geo_enabled": true
+  },
+  "geo": {
+    "coordinates": [
+      -34.6085,
+      -58.3735
+    ],
+    "type": "Point"
+  },
+  "id": 922234157966565377,
+  "quote_count": 0,
+  "retweeted": false,
+  "filter_level": "low",
+  "in_reply_to_status_id_str": null,
+  "source": "<a href=\"http://laconversa.com\" rel=\"nofollow\">Es Tendencia en Argentina</a>",
+  "favorited": false,
+  "coordinates": {
+    "coordinates": [
+      -58.3735,
+      -34.6085
+    ],
+    "type": "Point"
+  },
+  "truncated": false,
+  "retweet_count": 0,
+  "is_quote_status": false,
+  "in_reply_to_screen_name": null,
+  "contributors": null,
+  "place": {
+    "bounding_box": {
+      "coordinates": [
+        [
+          [
+            -58.531792,
+            -34.674453
+          ],
+          [
+            -58.531792,
+            -34.534177
+          ],
+          [
+            -58.353494,
+            -34.534177
+          ],
+          [
+            -58.353494,
+            -34.674453
+          ]
+        ]
+      ],
+      "type": "Polygon"
+    },
+    "name": "Ciudad Aut\u00f3noma de Buenos Aires",
+    "url": "https://api.twitter.com/1.1/geo/id/018f1cde6bad9747.json",
+    "country_code": "AR",
+    "id": "018f1cde6bad9747",
+    "place_type": "city",
+    "attributes": {},
+    "full_name": "Ciudad Aut\u00f3noma de Buenos Aires, Argentina",
+    "country": "Argentina"
+  }
+}

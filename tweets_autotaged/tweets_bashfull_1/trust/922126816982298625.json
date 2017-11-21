@@ -1,0 +1,106 @@
+{
+  "in_reply_to_user_id": null,
+  "contributors": null,
+  "in_reply_to_screen_name": null,
+  "retweeted": false,
+  "retweet_count": 0,
+  "timestamp_ms": "1508687140113",
+  "in_reply_to_status_id": null,
+  "id_str": "922126816982298625",
+  "created_at": "Sun Oct 22 15:45:40 +0000 2017",
+  "id": 922126816982298625,
+  "coordinates": null,
+  "favorite_count": 0,
+  "entities": {
+    "user_mentions": [],
+    "symbols": [],
+    "hashtags": [],
+    "urls": []
+  },
+  "reply_count": 0,
+  "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+  "place": {
+    "attributes": {},
+    "url": "https://api.twitter.com/1.1/geo/id/018f1cde6bad9747.json",
+    "place_type": "city",
+    "id": "018f1cde6bad9747",
+    "country_code": "AR",
+    "name": "Ciudad Aut\u00f3noma de Buenos Aires",
+    "country": "Argentina",
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            -58.531792,
+            -34.674453
+          ],
+          [
+            -58.531792,
+            -34.534177
+          ],
+          [
+            -58.353494,
+            -34.534177
+          ],
+          [
+            -58.353494,
+            -34.674453
+          ]
+        ]
+      ]
+    },
+    "full_name": "Ciudad Aut\u00f3noma de Buenos Aires, Argentina"
+  },
+  "truncated": false,
+  "in_reply_to_status_id_str": null,
+  "filter_level": "low",
+  "text": "Es incre\u00edble como Donda confirma el teorema de Baglini: m\u00e1s lejos de aspirar a un cargo, m\u00e1s da rienda suelta a su chavismo primordial",
+  "geo": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": false,
+  "favorited": false,
+  "user": {
+    "verified": false,
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+    "statuses_count": 150214,
+    "screen_name": "leonxxxiii",
+    "default_profile_image": false,
+    "time_zone": "Buenos Aires",
+    "name": "Le\u00f3n",
+    "id_str": "35710956",
+    "profile_sidebar_border_color": "C6E2EE",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/35710956/1467500335",
+    "created_at": "Mon Apr 27 10:06:43 +0000 2009",
+    "friends_count": 5188,
+    "url": null,
+    "profile_background_tile": false,
+    "protected": false,
+    "translator_type": "none",
+    "profile_text_color": "663B12",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/883489967657410560/PPxtS9oB_normal.jpg",
+    "listed_count": 180,
+    "notifications": null,
+    "contributors_enabled": false,
+    "is_translator": false,
+    "location": "Argentina",
+    "profile_use_background_image": true,
+    "followers_count": 24910,
+    "profile_sidebar_fill_color": "DAECF4",
+    "geo_enabled": true,
+    "profile_link_color": "1F98C7",
+    "favourites_count": 28200,
+    "following": null,
+    "default_profile": false,
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+    "profile_background_color": "C6E2EE",
+    "id": 35710956,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/883489967657410560/PPxtS9oB_normal.jpg",
+    "lang": "es",
+    "description": null,
+    "follow_request_sent": null,
+    "utc_offset": -10800
+  },
+  "quote_count": 0,
+  "lang": "es"
+}

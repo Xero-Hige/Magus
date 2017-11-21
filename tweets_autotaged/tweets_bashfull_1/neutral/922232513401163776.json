@@ -1,0 +1,131 @@
+{
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "indices": [
+          0,
+          13
+        ],
+        "screen_name": "laureano2710",
+        "name": "laureano",
+        "id_str": "1290312816",
+        "id": 1290312816
+      },
+      {
+        "indices": [
+          14,
+          28
+        ],
+        "screen_name": "mayrasmendoza",
+        "name": "Mayra Mendoza",
+        "id_str": "112822128",
+        "id": 112822128
+      }
+    ]
+  },
+  "in_reply_to_user_id": 1290312816,
+  "created_at": "Sun Oct 22 22:45:40 +0000 2017",
+  "favorite_count": 0,
+  "lang": "es",
+  "reply_count": 0,
+  "id_str": "922232513401163776",
+  "in_reply_to_user_id_str": "1290312816",
+  "in_reply_to_status_id": 922230640749219840,
+  "timestamp_ms": "1508712340103",
+  "truncated": false,
+  "text": "@laureano2710 @mayrasmendoza Fijate en mi Atlas, en Descargas est\u00e1 la base de mesas",
+  "user": {
+    "time_zone": "Buenos Aires",
+    "screen_name": "andy_tow",
+    "utc_offset": -10800,
+    "created_at": "Mon Apr 27 19:51:39 +0000 2009",
+    "profile_background_tile": false,
+    "notifications": null,
+    "lang": "es",
+    "default_profile": false,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/35839931/1492274703",
+    "id_str": "35839931",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/879543645636096001/3LSdjmQm_normal.jpg",
+    "name": "Andy Tow",
+    "friends_count": 997,
+    "translator_type": "regular",
+    "protected": false,
+    "following": null,
+    "is_translator": false,
+    "follow_request_sent": null,
+    "profile_text_color": "000000",
+    "listed_count": 294,
+    "profile_link_color": "1B95E0",
+    "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/623494468063379456/VvYD6yrO.png",
+    "url": "http://www.andytow.com",
+    "id": 35839931,
+    "favourites_count": 38731,
+    "profile_background_color": "C0DEED",
+    "followers_count": 16289,
+    "statuses_count": 97229,
+    "description": "Polit\u00f3logo",
+    "location": "Buenos Aires, Argentina",
+    "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/623494468063379456/VvYD6yrO.png",
+    "default_profile_image": false,
+    "verified": false,
+    "profile_sidebar_fill_color": "000000",
+    "profile_use_background_image": true,
+    "contributors_enabled": false,
+    "profile_sidebar_border_color": "000000",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/879543645636096001/3LSdjmQm_normal.jpg",
+    "geo_enabled": true
+  },
+  "geo": null,
+  "id": 922232513401163776,
+  "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+  "retweeted": false,
+  "filter_level": "low",
+  "in_reply_to_status_id_str": "922230640749219840",
+  "quote_count": 0,
+  "favorited": false,
+  "coordinates": null,
+  "display_text_range": [
+    29,
+    83
+  ],
+  "retweet_count": 0,
+  "is_quote_status": false,
+  "in_reply_to_screen_name": "laureano2710",
+  "contributors": null,
+  "place": {
+    "bounding_box": {
+      "coordinates": [
+        [
+          [
+            -58.40649,
+            -34.726948
+          ],
+          [
+            -58.40649,
+            -34.638333
+          ],
+          [
+            -58.297038,
+            -34.638333
+          ],
+          [
+            -58.297038,
+            -34.726948
+          ]
+        ]
+      ],
+      "type": "Polygon"
+    },
+    "name": "Avellaneda",
+    "url": "https://api.twitter.com/1.1/geo/id/0108c69f708ae783.json",
+    "country_code": "AR",
+    "id": "0108c69f708ae783",
+    "place_type": "city",
+    "attributes": {},
+    "full_name": "Avellaneda, Argentina",
+    "country": "Argentina"
+  }
+}

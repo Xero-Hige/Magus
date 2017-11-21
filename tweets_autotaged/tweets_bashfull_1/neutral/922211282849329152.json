@@ -1,0 +1,121 @@
+{
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "indices": [
+          0,
+          12
+        ],
+        "screen_name": "damiortiz98",
+        "name": "dami",
+        "id_str": "2475918738",
+        "id": 2475918738
+      }
+    ]
+  },
+  "in_reply_to_user_id": 2475918738,
+  "created_at": "Sun Oct 22 21:21:18 +0000 2017",
+  "favorite_count": 0,
+  "lang": "es",
+  "reply_count": 0,
+  "id_str": "922211282849329152",
+  "in_reply_to_user_id_str": "2475918738",
+  "in_reply_to_status_id": 922210968343597057,
+  "timestamp_ms": "1508707278345",
+  "truncated": false,
+  "text": "@damiortiz98 votar a Carri\u00f3 no es ideolog\u00eda, es ser una persona sin ning\u00fan principio. No pasa por ser de derecha, pasa por ser persona",
+  "user": {
+    "time_zone": "Buenos Aires",
+    "screen_name": "Emma_Magnus",
+    "utc_offset": -10800,
+    "created_at": "Wed Jun 23 23:11:01 +0000 2010",
+    "profile_background_tile": false,
+    "notifications": null,
+    "lang": "es",
+    "default_profile": false,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/158893543/1433625331",
+    "id_str": "158893543",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/892912891292073984/V7I8Gmh4_normal.jpg",
+    "name": "Emma \u0625\u064a\u0645\u0627\u0646\u0648\u064a\u0644",
+    "friends_count": 901,
+    "translator_type": "regular",
+    "protected": false,
+    "following": null,
+    "is_translator": false,
+    "follow_request_sent": null,
+    "profile_text_color": "333333",
+    "listed_count": 21,
+    "profile_link_color": "009999",
+    "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000155588119/tbcLWef9.jpeg",
+    "url": "https://www.instagram.com/emma_magnus/",
+    "id": 158893543,
+    "favourites_count": 11108,
+    "profile_background_color": "131516",
+    "followers_count": 2768,
+    "statuses_count": 73975,
+    "description": "Abogado. Hincha de Gimnasia, platense, copado,. Mis twitts en su mayor\u00eda, ir\u00f3nicos. Peronismo Kirchnerista",
+    "location": "En tu cama, LP Argentina",
+    "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000155588119/tbcLWef9.jpeg",
+    "default_profile_image": false,
+    "verified": false,
+    "profile_sidebar_fill_color": "EFEFEF",
+    "profile_use_background_image": true,
+    "contributors_enabled": false,
+    "profile_sidebar_border_color": "FFFFFF",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/892912891292073984/V7I8Gmh4_normal.jpg",
+    "geo_enabled": true
+  },
+  "geo": null,
+  "id": 922211282849329152,
+  "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+  "retweeted": false,
+  "filter_level": "low",
+  "in_reply_to_status_id_str": "922210968343597057",
+  "quote_count": 0,
+  "favorited": false,
+  "coordinates": null,
+  "display_text_range": [
+    13,
+    134
+  ],
+  "retweet_count": 0,
+  "is_quote_status": false,
+  "in_reply_to_screen_name": "damiortiz98",
+  "contributors": null,
+  "place": {
+    "bounding_box": {
+      "coordinates": [
+        [
+          [
+            -58.160874,
+            -35.031373
+          ],
+          [
+            -58.160874,
+            -34.841264
+          ],
+          [
+            -57.865169,
+            -34.841264
+          ],
+          [
+            -57.865169,
+            -35.031373
+          ]
+        ]
+      ],
+      "type": "Polygon"
+    },
+    "name": "La Plata",
+    "url": "https://api.twitter.com/1.1/geo/id/0177894212b08f73.json",
+    "country_code": "AR",
+    "id": "0177894212b08f73",
+    "place_type": "city",
+    "attributes": {},
+    "full_name": "La Plata, Argentina",
+    "country": "Argentina"
+  }
+}

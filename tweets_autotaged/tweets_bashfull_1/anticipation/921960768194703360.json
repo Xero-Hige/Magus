@@ -1,0 +1,129 @@
+{
+  "in_reply_to_user_id": null,
+  "contributors": null,
+  "in_reply_to_screen_name": null,
+  "retweeted": false,
+  "retweet_count": 0,
+  "timestamp_ms": "1508647550997",
+  "in_reply_to_status_id": null,
+  "id_str": "921960768194703360",
+  "coordinates": null,
+  "created_at": "Sun Oct 22 04:45:50 +0000 2017",
+  "id": 921960768194703360,
+  "quote_count": 0,
+  "favorite_count": 0,
+  "entities": {
+    "user_mentions": [],
+    "symbols": [],
+    "hashtags": [],
+    "urls": [
+      {
+        "expanded_url": "https://twitter.com/i/web/status/921960768194703360",
+        "indices": [
+          117,
+          140
+        ],
+        "url": "https://t.co/jSfmbd3l5Q",
+        "display_url": "twitter.com/i/web/status/9\u2026"
+      }
+    ]
+  },
+  "reply_count": 0,
+  "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+  "place": {
+    "attributes": {},
+    "url": "https://api.twitter.com/1.1/geo/id/0079bbc151fa56d2.json",
+    "place_type": "city",
+    "id": "0079bbc151fa56d2",
+    "country_code": "AR",
+    "name": "Rosario",
+    "country": "Argentina",
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            -60.781306,
+            -33.033993
+          ],
+          [
+            -60.781306,
+            -32.869238
+          ],
+          [
+            -60.613506,
+            -32.869238
+          ],
+          [
+            -60.613506,
+            -33.033993
+          ]
+        ]
+      ]
+    },
+    "full_name": "Rosario, Argentina"
+  },
+  "truncated": true,
+  "in_reply_to_status_id_str": null,
+  "filter_level": "low",
+  "text": "Google me manda una notificaci\u00f3n diciendo que hoy son las elecciones, Facebook me manda una notificaci\u00f3n diciendo q\u2026 https://t.co/jSfmbd3l5Q",
+  "geo": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": false,
+  "favorited": false,
+  "user": {
+    "verified": false,
+    "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/503108323936182272/q5cNHAXf.jpeg",
+    "statuses_count": 44053,
+    "screen_name": "claraoswxlds",
+    "default_profile_image": false,
+    "time_zone": "Buenos Aires",
+    "name": "Lau \ud83d\udcab",
+    "id_str": "73768771",
+    "profile_sidebar_border_color": "FFFFFF",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/73768771/1501396643",
+    "created_at": "Sun Sep 13 00:16:48 +0000 2009",
+    "friends_count": 1051,
+    "url": null,
+    "profile_background_tile": true,
+    "protected": false,
+    "translator_type": "none",
+    "profile_text_color": "707070",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/918189000690630656/3FTTJ8_p_normal.jpg",
+    "listed_count": 29,
+    "notifications": null,
+    "contributors_enabled": false,
+    "is_translator": false,
+    "location": "Rosario, Argentina",
+    "profile_use_background_image": true,
+    "followers_count": 743,
+    "profile_sidebar_fill_color": "DEDEDE",
+    "geo_enabled": true,
+    "profile_link_color": "D3B9C5",
+    "favourites_count": 8257,
+    "following": null,
+    "default_profile": false,
+    "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/503108323936182272/q5cNHAXf.jpeg",
+    "profile_background_color": "000000",
+    "id": 73768771,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/918189000690630656/3FTTJ8_p_normal.jpg",
+    "lang": "es",
+    "description": "I've been wrong but I'll learn to be right",
+    "follow_request_sent": null,
+    "utc_offset": -10800
+  },
+  "extended_tweet": {
+    "entities": {
+      "user_mentions": [],
+      "symbols": [],
+      "hashtags": [],
+      "urls": []
+    },
+    "display_text_range": [
+      0,
+      185
+    ],
+    "full_text": "Google me manda una notificaci\u00f3n diciendo que hoy son las elecciones, Facebook me manda una notificaci\u00f3n diciendo que hoy son las notificaciones. SI, YA SE QUE HOY VOTO, NO LOS NECESITO"
+  },
+  "lang": "es"
+}

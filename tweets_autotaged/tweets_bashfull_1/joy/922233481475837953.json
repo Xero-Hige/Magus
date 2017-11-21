@@ -1,0 +1,169 @@
+{
+  "entities": {
+    "hashtags": [
+      {
+        "indices": [
+          15,
+          27
+        ],
+        "text": "Adnespasion"
+      },
+      {
+        "indices": [
+          72,
+          84
+        ],
+        "text": "AbrazoDeGol"
+      },
+      {
+        "indices": [
+          129,
+          132
+        ],
+        "text": "CC"
+      }
+    ],
+    "symbols": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "indices": [
+          0,
+          14
+        ],
+        "screen_name": "adnradiochile",
+        "name": "Radio ADN",
+        "id_str": "201493641",
+        "id": 201493641
+      },
+      {
+        "indices": [
+          85,
+          97
+        ],
+        "screen_name": "titodamegol",
+        "name": "H\u00e9ctor Tito Garrido",
+        "id_str": "636619694",
+        "id": 636619694
+      },
+      {
+        "indices": [
+          98,
+          112
+        ],
+        "screen_name": "carcosmorales",
+        "name": "Cristian Arcos",
+        "id_str": "826930280921460736",
+        "id": 826930280921460736
+      },
+      {
+        "indices": [
+          113,
+          128
+        ],
+        "screen_name": "benja_bonhomme",
+        "name": "benjamin bonhomme",
+        "id_str": "232439156",
+        "id": 232439156
+      }
+    ]
+  },
+  "in_reply_to_user_id": 201493641,
+  "created_at": "Sun Oct 22 22:49:30 +0000 2017",
+  "favorite_count": 0,
+  "lang": "es",
+  "reply_count": 0,
+  "id_str": "922233481475837953",
+  "in_reply_to_user_id_str": "201493641",
+  "in_reply_to_status_id": null,
+  "timestamp_ms": "1508712570910",
+  "text": "@adnradiochile #Adnespasion saludo desde Melipilla visitando a mi madre #AbrazoDeGol @titodamegol @carcosmorales @benja_bonhomme #CC\u26aa\ufe0f\u26ab\ufe0f\u26bd\ufe0f\ud83c\udde8\ud83c\uddf1",
+  "user": {
+    "time_zone": "Santiago",
+    "screen_name": "kramersillo14",
+    "utc_offset": -10800,
+    "created_at": "Thu Feb 18 17:00:12 +0000 2010",
+    "profile_background_tile": true,
+    "notifications": null,
+    "lang": "es",
+    "default_profile": false,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/115433879/1460731670",
+    "id_str": "115433879",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/805466096790802432/FQ9r98O8_normal.jpg",
+    "name": "Rodrigo Vald\u00e9s",
+    "friends_count": 569,
+    "translator_type": "none",
+    "protected": false,
+    "following": null,
+    "is_translator": false,
+    "follow_request_sent": null,
+    "profile_text_color": "333333",
+    "listed_count": 0,
+    "profile_link_color": "009999",
+    "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/695238763/331381dc5d1e2a2350a6e01c53efca4b.jpeg",
+    "url": "http://Instagram.com/kramersillo14",
+    "id": 115433879,
+    "favourites_count": 7455,
+    "profile_background_color": "131516",
+    "followers_count": 124,
+    "statuses_count": 1273,
+    "description": "Hincha De Colo-Colo \ud83c\udde8\ud83c\uddf1\u26aa\ufe0f\u26ab\ufe0f\u26bd\ufe0fPap\u00e1 De Josephina Arantza \ud83d\ude18\ud83d\ude0d\u2764\ufe0f Mis \u00danicos Amores Constanza Y Josephina Las Amo\u2764\ufe0f",
+    "location": "Melipilla",
+    "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/695238763/331381dc5d1e2a2350a6e01c53efca4b.jpeg",
+    "default_profile_image": false,
+    "verified": false,
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_use_background_image": true,
+    "contributors_enabled": false,
+    "profile_sidebar_border_color": "FFFFFF",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/805466096790802432/FQ9r98O8_normal.jpg",
+    "geo_enabled": true
+  },
+  "geo": null,
+  "id": 922233481475837953,
+  "quote_count": 0,
+  "retweeted": false,
+  "filter_level": "low",
+  "in_reply_to_status_id_str": null,
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "favorited": false,
+  "coordinates": null,
+  "truncated": false,
+  "retweet_count": 0,
+  "is_quote_status": false,
+  "in_reply_to_screen_name": "adnradiochile",
+  "contributors": null,
+  "place": {
+    "bounding_box": {
+      "coordinates": [
+        [
+          [
+            -71.440645,
+            -33.96393
+          ],
+          [
+            -71.440645,
+            -33.538616
+          ],
+          [
+            -70.935471,
+            -33.538616
+          ],
+          [
+            -70.935471,
+            -33.96393
+          ]
+        ]
+      ],
+      "type": "Polygon"
+    },
+    "name": "Melipilla",
+    "url": "https://api.twitter.com/1.1/geo/id/0160e5116fbd85d6.json",
+    "country_code": "CL",
+    "id": "0160e5116fbd85d6",
+    "place_type": "city",
+    "attributes": {},
+    "full_name": "Melipilla, Chile",
+    "country": "Chile"
+  }
+}

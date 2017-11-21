@@ -1,0 +1,155 @@
+{
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "urls": [
+      {
+        "indices": [
+          117,
+          140
+        ],
+        "expanded_url": "https://twitter.com/i/web/status/922219923069460480",
+        "display_url": "twitter.com/i/web/status/9\u2026",
+        "url": "https://t.co/TfpJjwshw3"
+      }
+    ],
+    "user_mentions": [
+      {
+        "indices": [
+          0,
+          12
+        ],
+        "screen_name": "FerIglesias",
+        "name": "Fernando A. Iglesias",
+        "id_str": "43814969",
+        "id": 43814969
+      }
+    ]
+  },
+  "in_reply_to_user_id": 43814969,
+  "created_at": "Sun Oct 22 21:55:38 +0000 2017",
+  "favorite_count": 0,
+  "lang": "es",
+  "reply_count": 0,
+  "id_str": "922219923069460480",
+  "in_reply_to_user_id_str": "43814969",
+  "extended_tweet": {
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "urls": [],
+      "user_mentions": [
+        {
+          "indices": [
+            0,
+            12
+          ],
+          "screen_name": "FerIglesias",
+          "name": "Fernando A. Iglesias",
+          "id_str": "43814969",
+          "id": 43814969
+        }
+      ]
+    },
+    "display_text_range": [
+      13,
+      168
+    ],
+    "full_text": "@FerIglesias Y aparte seguir haciendo el papel de idiotas, quieren seguir en las cavernas no tener verg\u00fcenza ni autocr\u00edtica lamentable para la gente que no quiere verlo"
+  },
+  "in_reply_to_status_id": 921958324601589762,
+  "timestamp_ms": "1508709338334",
+  "truncated": true,
+  "text": "@FerIglesias Y aparte seguir haciendo el papel de idiotas, quieren seguir en las cavernas no tener verg\u00fcenza ni aut\u2026 https://t.co/TfpJjwshw3",
+  "user": {
+    "time_zone": null,
+    "screen_name": "montanapescador",
+    "utc_offset": null,
+    "created_at": "Sat Apr 08 22:24:30 +0000 2017",
+    "profile_background_tile": false,
+    "notifications": null,
+    "lang": "es",
+    "default_profile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/850836779569733632/1491691691",
+    "id_str": "850836779569733632",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/850841779222007808/_B2DoW_z_normal.jpg",
+    "name": "Pepe Montana",
+    "friends_count": 97,
+    "translator_type": "none",
+    "protected": false,
+    "following": null,
+    "is_translator": false,
+    "follow_request_sent": null,
+    "profile_text_color": "333333",
+    "listed_count": 0,
+    "profile_link_color": "1DA1F2",
+    "profile_background_image_url": "",
+    "url": null,
+    "id": 850836779569733632,
+    "favourites_count": 17,
+    "profile_background_color": "F5F8FA",
+    "followers_count": 6,
+    "statuses_count": 129,
+    "description": null,
+    "location": "Ciudad Aut\u00f3noma de Buenos Aire",
+    "profile_background_image_url_https": "",
+    "default_profile_image": false,
+    "verified": false,
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_use_background_image": true,
+    "contributors_enabled": false,
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/850841779222007808/_B2DoW_z_normal.jpg",
+    "geo_enabled": true
+  },
+  "geo": null,
+  "id": 922219923069460480,
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "retweeted": false,
+  "filter_level": "low",
+  "in_reply_to_status_id_str": "921958324601589762",
+  "quote_count": 0,
+  "favorited": false,
+  "coordinates": null,
+  "display_text_range": [
+    13,
+    140
+  ],
+  "retweet_count": 0,
+  "is_quote_status": false,
+  "in_reply_to_screen_name": "FerIglesias",
+  "contributors": null,
+  "place": {
+    "bounding_box": {
+      "coordinates": [
+        [
+          [
+            -58.531792,
+            -34.674453
+          ],
+          [
+            -58.531792,
+            -34.534177
+          ],
+          [
+            -58.353494,
+            -34.534177
+          ],
+          [
+            -58.353494,
+            -34.674453
+          ]
+        ]
+      ],
+      "type": "Polygon"
+    },
+    "name": "Ciudad Aut\u00f3noma de Buenos Aires",
+    "url": "https://api.twitter.com/1.1/geo/id/018f1cde6bad9747.json",
+    "country_code": "AR",
+    "id": "018f1cde6bad9747",
+    "place_type": "city",
+    "attributes": {},
+    "full_name": "Ciudad Aut\u00f3noma de Buenos Aires, Argentina",
+    "country": "Argentina"
+  }
+}

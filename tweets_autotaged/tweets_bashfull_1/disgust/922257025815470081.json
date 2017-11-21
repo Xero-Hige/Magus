@@ -1,0 +1,301 @@
+{
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "urls": [
+      {
+        "indices": [
+          117,
+          140
+        ],
+        "expanded_url": "https://twitter.com/i/web/status/922257025815470081",
+        "display_url": "twitter.com/i/web/status/9\u2026",
+        "url": "https://t.co/27z5VDsibP"
+      }
+    ],
+    "user_mentions": [
+      {
+        "indices": [
+          71,
+          84
+        ],
+        "screen_name": "CFKArgentina",
+        "name": "Cristina Kirchner",
+        "id_str": "138814032",
+        "id": 138814032
+      },
+      {
+        "indices": [
+          91,
+          105
+        ],
+        "screen_name": "Frente_Amplio",
+        "name": "Frente Amplio",
+        "id_str": "84880944",
+        "id": 84880944
+      }
+    ]
+  },
+  "in_reply_to_user_id": null,
+  "reply_count": 0,
+  "id_str": "922257025815470081",
+  "in_reply_to_user_id_str": null,
+  "extended_tweet": {
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "urls": [
+        {
+          "indices": [
+            141,
+            164
+          ],
+          "expanded_url": "https://twitter.com/aldolema_uy/status/922245716113874951",
+          "display_url": "twitter.com/aldolema_uy/st\u2026",
+          "url": "https://t.co/q4ZjEidUN3"
+        }
+      ],
+      "user_mentions": [
+        {
+          "indices": [
+            71,
+            84
+          ],
+          "screen_name": "CFKArgentina",
+          "name": "Cristina Kirchner",
+          "id_str": "138814032",
+          "id": 138814032
+        },
+        {
+          "indices": [
+            91,
+            105
+          ],
+          "screen_name": "Frente_Amplio",
+          "name": "Frente Amplio",
+          "id_str": "84880944",
+          "id": 84880944
+        }
+      ]
+    },
+    "display_text_range": [
+      0,
+      140
+    ],
+    "full_text": "Pocos gobiernos argentinos le hicieron tanto mal al uruguay como el de @CFKArgentina. Q el @Frente_Amplio la defienda es traicionar nto pais https://t.co/q4ZjEidUN3"
+  },
+  "text": "Pocos gobiernos argentinos le hicieron tanto mal al uruguay como el de @CFKArgentina. Q el @Frente_Amplio la defien\u2026 https://t.co/27z5VDsibP",
+  "is_quote_status": true,
+  "quote_count": 0,
+  "quoted_status_id_str": "922245716113874951",
+  "in_reply_to_status_id_str": null,
+  "geo": null,
+  "display_text_range": [
+    0,
+    140
+  ],
+  "truncated": true,
+  "contributors": null,
+  "place": {
+    "bounding_box": {
+      "coordinates": [
+        [
+          [
+            -56.430439,
+            -34.937896
+          ],
+          [
+            -56.430439,
+            -34.701599
+          ],
+          [
+            -56.029341,
+            -34.701599
+          ],
+          [
+            -56.029341,
+            -34.937896
+          ]
+        ]
+      ],
+      "type": "Polygon"
+    },
+    "name": "Montevideo",
+    "url": "https://api.twitter.com/1.1/geo/id/01a9dbb9232f0fac.json",
+    "country_code": "UY",
+    "id": "01a9dbb9232f0fac",
+    "place_type": "admin",
+    "attributes": {},
+    "full_name": "Montevideo, Uruguay",
+    "country": "Uruguay"
+  },
+  "created_at": "Mon Oct 23 00:23:04 +0000 2017",
+  "favorite_count": 0,
+  "lang": "es",
+  "retweet_count": 0,
+  "in_reply_to_status_id": null,
+  "timestamp_ms": "1508718184318",
+  "possibly_sensitive": false,
+  "user": {
+    "time_zone": "Brasilia",
+    "screen_name": "carlosm3011",
+    "utc_offset": -7200,
+    "created_at": "Wed Aug 13 17:47:02 +0000 2008",
+    "profile_background_tile": false,
+    "notifications": null,
+    "lang": "en",
+    "default_profile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/15839747/1487259023",
+    "id_str": "15839747",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/116209890/foto-lacnic-xi-01_normal.jpg",
+    "name": "Carlos M. Martinez",
+    "friends_count": 1695,
+    "translator_type": "none",
+    "protected": false,
+    "following": null,
+    "is_translator": false,
+    "follow_request_sent": null,
+    "profile_text_color": "333333",
+    "listed_count": 55,
+    "profile_link_color": "1DA1F2",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "url": "http://cagnazzo.me",
+    "id": 15839747,
+    "favourites_count": 2636,
+    "profile_background_color": "C0DEED",
+    "followers_count": 1300,
+    "statuses_count": 4400,
+    "description": "Network Engineer, amateur software developer, maths, physics and astronomy fan, interested on Internet technical issues particularly routing, BGP and DNS.",
+    "location": "Montevideo, Uruguay",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "default_profile_image": false,
+    "verified": false,
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_use_background_image": true,
+    "contributors_enabled": false,
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/116209890/foto-lacnic-xi-01_normal.jpg",
+    "geo_enabled": true
+  },
+  "id": 922257025815470081,
+  "retweeted": false,
+  "filter_level": "low",
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "favorited": false,
+  "quoted_status": {
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "urls": [
+        {
+          "indices": [
+            117,
+            140
+          ],
+          "expanded_url": "https://twitter.com/i/web/status/922245716113874951",
+          "display_url": "twitter.com/i/web/status/9\u2026",
+          "url": "https://t.co/GDGDFEx1f0"
+        }
+      ],
+      "user_mentions": []
+    },
+    "favorited": false,
+    "filter_level": "low",
+    "in_reply_to_user_id": null,
+    "created_at": "Sun Oct 22 23:38:07 +0000 2017",
+    "favorite_count": 10,
+    "lang": "es",
+    "reply_count": 1,
+    "id_str": "922245716113874951",
+    "in_reply_to_user_id_str": null,
+    "extended_tweet": {
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [
+          {
+            "indices": [
+              141,
+              164
+            ],
+            "expanded_url": "https://twitter.com/AldoLema_uy/status/667424539530412033",
+            "display_url": "twitter.com/AldoLema_uy/st\u2026",
+            "url": "https://t.co/jlYqqfABNB"
+          }
+        ],
+        "user_mentions": []
+      },
+      "display_text_range": [
+        0,
+        140
+      ],
+      "full_text": "Parad\u00f3jico otra vez: Frente Amplio y gobierno uruguayo deber\u00edan estar \u00edntimamente festejando derrota del kirchnerismo y triunfo de Cambiemos https://t.co/jlYqqfABNB"
+    },
+    "in_reply_to_status_id": null,
+    "possibly_sensitive": false,
+    "retweeted": false,
+    "text": "Parad\u00f3jico otra vez: Frente Amplio y gobierno uruguayo deber\u00edan estar \u00edntimamente festejando derrota del kirchneris\u2026 https://t.co/GDGDFEx1f0",
+    "user": {
+      "time_zone": "Buenos Aires",
+      "screen_name": "AldoLema_uy",
+      "utc_offset": -10800,
+      "created_at": "Thu Aug 27 00:00:53 +0000 2009",
+      "profile_background_tile": false,
+      "notifications": null,
+      "lang": "es",
+      "default_profile": false,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/69139927/1499873324",
+      "id_str": "69139927",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/785648851038400512/oztbqazO_normal.jpg",
+      "name": "Aldo Lema - Uruguay",
+      "friends_count": 1186,
+      "translator_type": "none",
+      "protected": false,
+      "following": null,
+      "is_translator": false,
+      "follow_request_sent": null,
+      "profile_text_color": "333333",
+      "listed_count": 141,
+      "profile_link_color": "0084B4",
+      "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/561171429207465984/mPM9NDWn.jpeg",
+      "url": "http://aldolema.com",
+      "id": 69139927,
+      "favourites_count": 29225,
+      "profile_background_color": "C0DEED",
+      "followers_count": 10147,
+      "statuses_count": 36100,
+      "description": "https://t.co/qO3McUjfwP Economista, independiente, uruguayo-chileno. Esta es mi cuenta para temas globales/uruguayos. Para temas globales/chilenos @AldoLema_cl",
+      "location": "Montevideo- Uruguay",
+      "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/561171429207465984/mPM9NDWn.jpeg",
+      "default_profile_image": false,
+      "verified": false,
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_use_background_image": false,
+      "contributors_enabled": false,
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/785648851038400512/oztbqazO_normal.jpg",
+      "geo_enabled": true
+    },
+    "quote_count": 2,
+    "id": 922245716113874951,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "quoted_status_id_str": "667424539530412033",
+    "is_quote_status": true,
+    "in_reply_to_status_id_str": null,
+    "contributors": null,
+    "geo": null,
+    "display_text_range": [
+      0,
+      140
+    ],
+    "coordinates": null,
+    "truncated": true,
+    "retweet_count": 5,
+    "in_reply_to_screen_name": null,
+    "quoted_status_id": 667424539530412033,
+    "place": null
+  },
+  "coordinates": null,
+  "in_reply_to_screen_name": null,
+  "quoted_status_id": 922245716113874951
+}

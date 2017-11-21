@@ -1,0 +1,140 @@
+{
+  "in_reply_to_user_id": 201022112,
+  "contributors": null,
+  "id": 921941754043039745,
+  "retweeted": false,
+  "retweet_count": 0,
+  "timestamp_ms": "1508643017670",
+  "in_reply_to_status_id": 921754969992257536,
+  "id_str": "921941754043039745",
+  "created_at": "Sun Oct 22 03:30:17 +0000 2017",
+  "coordinates": null,
+  "favorite_count": 0,
+  "entities": {
+    "user_mentions": [
+      {
+        "indices": [
+          0,
+          10
+        ],
+        "name": "Juan Bindi",
+        "screen_name": "JuanBindi",
+        "id": 201022112,
+        "id_str": "201022112"
+      },
+      {
+        "indices": [
+          11,
+          22
+        ],
+        "name": "Radio Mitre",
+        "screen_name": "radiomitre",
+        "id": 182923335,
+        "id_str": "182923335"
+      },
+      {
+        "indices": [
+          23,
+          34
+        ],
+        "name": "Gabriel Anello",
+        "screen_name": "anellogaby",
+        "id": 292085679,
+        "id_str": "292085679"
+      }
+    ],
+    "symbols": [],
+    "hashtags": [],
+    "urls": []
+  },
+  "reply_count": 0,
+  "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+  "place": {
+    "attributes": {},
+    "url": "https://api.twitter.com/1.1/geo/id/00a961d91f76dde8.json",
+    "place_type": "city",
+    "id": "00a961d91f76dde8",
+    "country_code": "AR",
+    "name": "Corrientes",
+    "country": "Argentina",
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            -58.855973,
+            -27.537017
+          ],
+          [
+            -58.855973,
+            -27.437049
+          ],
+          [
+            -58.736291,
+            -27.437049
+          ],
+          [
+            -58.736291,
+            -27.537017
+          ]
+        ]
+      ]
+    },
+    "full_name": "Corrientes, Argentina"
+  },
+  "truncated": false,
+  "in_reply_to_status_id_str": "921754969992257536",
+  "in_reply_to_screen_name": "JuanBindi",
+  "filter_level": "low",
+  "text": "@JuanBindi @radiomitre @anellogaby Gabriel Annello es un insoportable, prepotente. mal hablado y autoritario. Que se dedique a su profesi\u00f3n.",
+  "geo": null,
+  "in_reply_to_user_id_str": "201022112",
+  "is_quote_status": false,
+  "display_text_range": [
+    35,
+    140
+  ],
+  "favorited": false,
+  "user": {
+    "verified": false,
+    "profile_background_image_url": "",
+    "statuses_count": 10,
+    "screen_name": "VictorOximoron",
+    "default_profile_image": false,
+    "time_zone": null,
+    "name": "Victor Oximor\u00f3n",
+    "id_str": "906359441167187968",
+    "profile_sidebar_border_color": "C0DEED",
+    "created_at": "Sat Sep 09 03:31:44 +0000 2017",
+    "friends_count": 40,
+    "url": null,
+    "profile_background_tile": false,
+    "protected": false,
+    "translator_type": "none",
+    "profile_text_color": "333333",
+    "profile_image_url_https": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+    "listed_count": 0,
+    "notifications": null,
+    "contributors_enabled": false,
+    "is_translator": false,
+    "location": null,
+    "profile_use_background_image": true,
+    "followers_count": 0,
+    "profile_sidebar_fill_color": "DDEEF6",
+    "geo_enabled": true,
+    "profile_link_color": "1DA1F2",
+    "favourites_count": 23,
+    "following": null,
+    "default_profile": true,
+    "profile_background_image_url_https": "",
+    "profile_background_color": "F5F8FA",
+    "id": 906359441167187968,
+    "profile_image_url": "http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+    "lang": "es",
+    "description": null,
+    "follow_request_sent": null,
+    "utc_offset": null
+  },
+  "quote_count": 0,
+  "lang": "es"
+}

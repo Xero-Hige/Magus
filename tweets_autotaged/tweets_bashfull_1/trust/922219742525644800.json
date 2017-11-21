@@ -1,0 +1,175 @@
+{
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "urls": [
+      {
+        "indices": [
+          117,
+          140
+        ],
+        "expanded_url": "https://twitter.com/i/web/status/922219742525644800",
+        "display_url": "twitter.com/i/web/status/9\u2026",
+        "url": "https://t.co/OHNHB3AxG4"
+      }
+    ],
+    "user_mentions": [
+      {
+        "indices": [
+          0,
+          13
+        ],
+        "screen_name": "juanjorosarg",
+        "name": "juanjo",
+        "id_str": "3917362693",
+        "id": 3917362693
+      },
+      {
+        "indices": [
+          14,
+          25
+        ],
+        "screen_name": "MatiildaxD",
+        "name": "Matu",
+        "id_str": "140630074",
+        "id": 140630074
+      }
+    ]
+  },
+  "in_reply_to_user_id": 3917362693,
+  "created_at": "Sun Oct 22 21:54:55 +0000 2017",
+  "favorite_count": 0,
+  "lang": "es",
+  "reply_count": 0,
+  "id_str": "922219742525644800",
+  "in_reply_to_user_id_str": "3917362693",
+  "extended_tweet": {
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "urls": [],
+      "user_mentions": [
+        {
+          "indices": [
+            0,
+            13
+          ],
+          "screen_name": "juanjorosarg",
+          "name": "juanjo",
+          "id_str": "3917362693",
+          "id": 3917362693
+        },
+        {
+          "indices": [
+            14,
+            25
+          ],
+          "screen_name": "MatiildaxD",
+          "name": "Matu",
+          "id_str": "140630074",
+          "id": 140630074
+        }
+      ]
+    },
+    "display_text_range": [
+      26,
+      166
+    ],
+    "full_text": "@juanjorosarg @MatiildaxD No todos.Cuando se tiene una historia de vida q respalda tus dichos y tus hechos, algunos errores (nunca mala voluntad) se perdonan. Abrazo."
+  },
+  "in_reply_to_status_id": 922219245395640320,
+  "timestamp_ms": "1508709295289",
+  "truncated": true,
+  "text": "@juanjorosarg @MatiildaxD No todos.Cuando se tiene una historia de vida q respalda tus dichos y tus hechos, algunos\u2026 https://t.co/OHNHB3AxG4",
+  "user": {
+    "time_zone": null,
+    "screen_name": "CdlIsabel",
+    "utc_offset": null,
+    "created_at": "Thu Oct 09 23:25:59 +0000 2014",
+    "profile_background_tile": false,
+    "notifications": null,
+    "lang": "es",
+    "default_profile": false,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/2820839381/1498458808",
+    "id_str": "2820839381",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/729860163449040896/yq3doDt7_normal.jpg",
+    "name": "Isabel Leon",
+    "friends_count": 118,
+    "translator_type": "none",
+    "protected": false,
+    "following": null,
+    "is_translator": false,
+    "follow_request_sent": null,
+    "profile_text_color": "000000",
+    "listed_count": 8,
+    "profile_link_color": "1B95E0",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "url": null,
+    "id": 2820839381,
+    "favourites_count": 14116,
+    "profile_background_color": "000000",
+    "followers_count": 134,
+    "statuses_count": 11834,
+    "description": null,
+    "location": "Montevideo, Uruguay",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "default_profile_image": false,
+    "verified": false,
+    "profile_sidebar_fill_color": "000000",
+    "profile_use_background_image": false,
+    "contributors_enabled": false,
+    "profile_sidebar_border_color": "000000",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/729860163449040896/yq3doDt7_normal.jpg",
+    "geo_enabled": true
+  },
+  "geo": null,
+  "id": 922219742525644800,
+  "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+  "retweeted": false,
+  "filter_level": "low",
+  "in_reply_to_status_id_str": "922219245395640320",
+  "quote_count": 0,
+  "favorited": false,
+  "coordinates": null,
+  "display_text_range": [
+    26,
+    140
+  ],
+  "retweet_count": 0,
+  "is_quote_status": false,
+  "in_reply_to_screen_name": "juanjorosarg",
+  "contributors": null,
+  "place": {
+    "bounding_box": {
+      "coordinates": [
+        [
+          [
+            -58.491052,
+            -34.980163
+          ],
+          [
+            -58.491052,
+            -30.085693
+          ],
+          [
+            -53.071505,
+            -30.085693
+          ],
+          [
+            -53.071505,
+            -34.980163
+          ]
+        ]
+      ],
+      "type": "Polygon"
+    },
+    "name": "Uruguay",
+    "url": "https://api.twitter.com/1.1/geo/id/d0f5be1262dee9aa.json",
+    "country_code": "UY",
+    "id": "d0f5be1262dee9aa",
+    "place_type": "country",
+    "attributes": {},
+    "full_name": "Uruguay",
+    "country": "Uruguay"
+  }
+}

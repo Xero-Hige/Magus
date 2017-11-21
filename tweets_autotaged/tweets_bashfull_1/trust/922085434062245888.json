@@ -1,0 +1,228 @@
+{
+  "in_reply_to_user_id": null,
+  "contributors": null,
+  "id": 922085434062245888,
+  "retweeted": false,
+  "retweet_count": 0,
+  "timestamp_ms": "1508677273656",
+  "in_reply_to_status_id": null,
+  "id_str": "922085434062245888",
+  "coordinates": null,
+  "created_at": "Sun Oct 22 13:01:13 +0000 2017",
+  "quote_count": 0,
+  "favorite_count": 0,
+  "entities": {
+    "user_mentions": [],
+    "symbols": [],
+    "hashtags": [
+      {
+        "text": "yovotoporcronica",
+        "indices": [
+          0,
+          17
+        ]
+      }
+    ],
+    "urls": [
+      {
+        "expanded_url": "https://twitter.com/i/web/status/922085434062245888",
+        "indices": [
+          117,
+          140
+        ],
+        "url": "https://t.co/ttxX8Y97ZS",
+        "display_url": "twitter.com/i/web/status/9\u2026"
+      }
+    ]
+  },
+  "reply_count": 0,
+  "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+  "place": {
+    "attributes": {},
+    "url": "https://api.twitter.com/1.1/geo/id/017115ee2013f809.json",
+    "place_type": "city",
+    "id": "017115ee2013f809",
+    "country_code": "AR",
+    "name": "Lan\u00fas Oeste",
+    "country": "Argentina",
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            -58.446737,
+            -34.745488
+          ],
+          [
+            -58.446737,
+            -34.659001
+          ],
+          [
+            -58.333498,
+            -34.659001
+          ],
+          [
+            -58.333498,
+            -34.745488
+          ]
+        ]
+      ]
+    },
+    "full_name": "Lan\u00fas Oeste, Argentina"
+  },
+  "truncated": true,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_screen_name": null,
+  "filter_level": "low",
+  "text": "#yovotoporcronica: ELLOS QUIEREN HACER NEGOCIOS, EL PUEBLO QUIERE ESTO:EN UN D\u00cdA DE TRISTEZA POR UN JOVEN LUCHADOR,\u2026 https://t.co/ttxX8Y97ZS",
+  "geo": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": false,
+  "possibly_sensitive": false,
+  "display_text_range": [
+    0,
+    140
+  ],
+  "favorited": false,
+  "user": {
+    "verified": false,
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "statuses_count": 2364,
+    "screen_name": "BeniMargarita",
+    "default_profile_image": false,
+    "time_zone": "Buenos Aires",
+    "name": "Mar\u00eda Benitez",
+    "id_str": "355220099",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/355220099/1508291172",
+    "created_at": "Mon Aug 15 01:09:27 +0000 2011",
+    "friends_count": 106,
+    "url": "http://siempresolosiempreaparte.blogspot.com",
+    "profile_background_tile": false,
+    "protected": false,
+    "translator_type": "none",
+    "profile_text_color": "333333",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/910310328868720640/FshcoX4q_normal.jpg",
+    "listed_count": 0,
+    "notifications": null,
+    "contributors_enabled": false,
+    "is_translator": false,
+    "location": "San Isidro Pvcia Bs.As",
+    "profile_use_background_image": true,
+    "followers_count": 87,
+    "profile_sidebar_fill_color": "DDEEF6",
+    "geo_enabled": true,
+    "profile_link_color": "1DA1F2",
+    "favourites_count": 1044,
+    "following": null,
+    "default_profile": true,
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_color": "C0DEED",
+    "id": 355220099,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/910310328868720640/FshcoX4q_normal.jpg",
+    "lang": "es",
+    "description": "Nada que no sea com\u00fan y corriente.",
+    "follow_request_sent": null,
+    "utc_offset": -10800
+  },
+  "extended_tweet": {
+    "entities": {
+      "user_mentions": [],
+      "symbols": [],
+      "hashtags": [
+        {
+          "text": "yovotoporcronica",
+          "indices": [
+            0,
+            17
+          ]
+        }
+      ],
+      "urls": [],
+      "media": [
+        {
+          "indices": [
+            128,
+            151
+          ],
+          "media_url_https": "https://pbs.twimg.com/media/DMvnmXjWsAAx1Zh.jpg",
+          "url": "https://t.co/w6UlrIRDXu",
+          "expanded_url": "https://twitter.com/BeniMargarita/status/922085434062245888/photo/1",
+          "id": 922085195070746624,
+          "sizes": {
+            "medium": {
+              "resize": "fit",
+              "w": 650,
+              "h": 450
+            },
+            "large": {
+              "resize": "fit",
+              "w": 650,
+              "h": 450
+            },
+            "small": {
+              "resize": "fit",
+              "w": 650,
+              "h": 450
+            },
+            "thumb": {
+              "resize": "crop",
+              "w": 150,
+              "h": 150
+            }
+          },
+          "media_url": "http://pbs.twimg.com/media/DMvnmXjWsAAx1Zh.jpg",
+          "id_str": "922085195070746624",
+          "display_url": "pic.twitter.com/w6UlrIRDXu",
+          "type": "photo"
+        }
+      ]
+    },
+    "display_text_range": [
+      0,
+      127
+    ],
+    "extended_entities": {
+      "media": [
+        {
+          "indices": [
+            128,
+            151
+          ],
+          "media_url_https": "https://pbs.twimg.com/media/DMvnmXjWsAAx1Zh.jpg",
+          "url": "https://t.co/w6UlrIRDXu",
+          "expanded_url": "https://twitter.com/BeniMargarita/status/922085434062245888/photo/1",
+          "id": 922085195070746624,
+          "sizes": {
+            "medium": {
+              "resize": "fit",
+              "w": 650,
+              "h": 450
+            },
+            "large": {
+              "resize": "fit",
+              "w": 650,
+              "h": 450
+            },
+            "small": {
+              "resize": "fit",
+              "w": 650,
+              "h": 450
+            },
+            "thumb": {
+              "resize": "crop",
+              "w": 150,
+              "h": 150
+            }
+          },
+          "media_url": "http://pbs.twimg.com/media/DMvnmXjWsAAx1Zh.jpg",
+          "id_str": "922085195070746624",
+          "display_url": "pic.twitter.com/w6UlrIRDXu",
+          "type": "photo"
+        }
+      ]
+    },
+    "full_text": "#yovotoporcronica: ELLOS QUIEREN HACER NEGOCIOS, EL PUEBLO QUIERE ESTO:EN UN D\u00cdA DE TRISTEZA POR UN JOVEN LUCHADOR, SANTIAGO!!! https://t.co/w6UlrIRDXu"
+  },
+  "lang": "es"
+}

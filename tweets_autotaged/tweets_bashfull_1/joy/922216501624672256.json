@@ -1,0 +1,121 @@
+{
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "indices": [
+          0,
+          12
+        ],
+        "screen_name": "PalazzoFabi",
+        "name": "Fabiana Palazzo",
+        "id_str": "374320685",
+        "id": 374320685
+      }
+    ]
+  },
+  "in_reply_to_user_id": 374320685,
+  "created_at": "Sun Oct 22 21:42:02 +0000 2017",
+  "favorite_count": 0,
+  "lang": "es",
+  "reply_count": 0,
+  "id_str": "922216501624672256",
+  "in_reply_to_user_id_str": "374320685",
+  "in_reply_to_status_id": 922213858407743488,
+  "timestamp_ms": "1508708522598",
+  "truncated": false,
+  "text": "@PalazzoFabi Cierto, era una sonrisa muy feliz, me encanto.",
+  "user": {
+    "time_zone": "Mountain Time (US & Canada)",
+    "screen_name": "haydee12",
+    "utc_offset": -21600,
+    "created_at": "Mon Apr 27 18:54:57 +0000 2009",
+    "profile_background_tile": false,
+    "notifications": null,
+    "lang": "es",
+    "default_profile": false,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/35824358/1410025515",
+    "id_str": "35824358",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/891002084262281216/iEaUJRNq_normal.jpg",
+    "name": "HAYDEE LORENZO",
+    "friends_count": 746,
+    "translator_type": "none",
+    "protected": false,
+    "following": null,
+    "is_translator": false,
+    "follow_request_sent": null,
+    "profile_text_color": "0C3E53",
+    "listed_count": 11,
+    "profile_link_color": "B700FF",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme12/bg.gif",
+    "url": null,
+    "id": 35824358,
+    "favourites_count": 11244,
+    "profile_background_color": "BADFCD",
+    "followers_count": 984,
+    "statuses_count": 16424,
+    "description": "Mam\u00e1 de 3 hijos-Peronista Militante de P3P-FRENTE RENOVADOR. 1PAIS- Ex Sria.General Vialidad Nacional.U.P.C.N.-Sub Sria http://Acc.Social Secc Cap U.P.C.N.",
+    "location": "Buenos Aires, Argentina",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme12/bg.gif",
+    "default_profile_image": false,
+    "verified": false,
+    "profile_sidebar_fill_color": "FFF7CC",
+    "profile_use_background_image": true,
+    "contributors_enabled": false,
+    "profile_sidebar_border_color": "F2E195",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/891002084262281216/iEaUJRNq_normal.jpg",
+    "geo_enabled": true
+  },
+  "geo": null,
+  "id": 922216501624672256,
+  "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+  "retweeted": false,
+  "filter_level": "low",
+  "in_reply_to_status_id_str": "922213858407743488",
+  "quote_count": 0,
+  "favorited": false,
+  "coordinates": null,
+  "display_text_range": [
+    13,
+    59
+  ],
+  "retweet_count": 0,
+  "is_quote_status": false,
+  "in_reply_to_screen_name": "PalazzoFabi",
+  "contributors": null,
+  "place": {
+    "bounding_box": {
+      "coordinates": [
+        [
+          [
+            -58.618436,
+            -34.597406
+          ],
+          [
+            -58.618436,
+            -34.491912
+          ],
+          [
+            -58.509913,
+            -34.491912
+          ],
+          [
+            -58.509913,
+            -34.597406
+          ]
+        ]
+      ],
+      "type": "Polygon"
+    },
+    "name": "Ciudad del Libertador General San Mart\u00edn",
+    "url": "https://api.twitter.com/1.1/geo/id/004b853c78703c20.json",
+    "country_code": "AR",
+    "id": "004b853c78703c20",
+    "place_type": "city",
+    "attributes": {},
+    "full_name": "Ciudad del Libertador General San Mart\u00edn, Argentina",
+    "country": "Argentina"
+  }
+}

@@ -1,0 +1,114 @@
+{
+  "entities": {
+    "hashtags": [
+      {
+        "indices": [
+          66,
+          69
+        ],
+        "text": "F1"
+      }
+    ],
+    "symbols": [],
+    "urls": [],
+    "user_mentions": []
+  },
+  "in_reply_to_user_id": null,
+  "created_at": "Sun Oct 22 21:18:49 +0000 2017",
+  "favorite_count": 0,
+  "lang": "es",
+  "reply_count": 0,
+  "id_str": "922210658308915200",
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_status_id": null,
+  "timestamp_ms": "1508707129443",
+  "text": "Kimi \"no se porque penalizaron a Verstapen, de verdad que no s\u00e9\". #F1",
+  "user": {
+    "time_zone": "Santiago",
+    "screen_name": "patagoniaracing",
+    "utc_offset": -10800,
+    "created_at": "Mon Sep 13 03:24:29 +0000 2010",
+    "profile_background_tile": true,
+    "notifications": null,
+    "lang": "es",
+    "default_profile": false,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/190120953/1497329814",
+    "id_str": "190120953",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/874490728264675328/ZYAwmFqR_normal.jpg",
+    "name": "Juampi Oyarzo Moreno",
+    "friends_count": 1010,
+    "translator_type": "none",
+    "protected": false,
+    "following": null,
+    "is_translator": false,
+    "follow_request_sent": null,
+    "profile_text_color": "333333",
+    "listed_count": 27,
+    "profile_link_color": "0084B4",
+    "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/537662648200876032/ERYzpkX5.jpeg",
+    "url": "http://www.patagoniaracing.cl",
+    "id": 190120953,
+    "favourites_count": 2523,
+    "profile_background_color": "C0DEED",
+    "followers_count": 1801,
+    "statuses_count": 18414,
+    "description": "Copiloto de #Rally Empresario de las comunicaciones. Si puedes so\u00f1arlo, puedes hacerlo. Vivo en #puq Capital de la Patagonia",
+    "location": "Capital de la #Patagonia",
+    "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/537662648200876032/ERYzpkX5.jpeg",
+    "default_profile_image": false,
+    "verified": false,
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_use_background_image": true,
+    "contributors_enabled": false,
+    "profile_sidebar_border_color": "000000",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/874490728264675328/ZYAwmFqR_normal.jpg",
+    "geo_enabled": true
+  },
+  "geo": null,
+  "id": 922210658308915200,
+  "quote_count": 0,
+  "retweeted": false,
+  "filter_level": "low",
+  "in_reply_to_status_id_str": null,
+  "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+  "favorited": false,
+  "coordinates": null,
+  "truncated": false,
+  "retweet_count": 0,
+  "is_quote_status": false,
+  "in_reply_to_screen_name": null,
+  "contributors": null,
+  "place": {
+    "bounding_box": {
+      "coordinates": [
+        [
+          [
+            -74.693573,
+            -54.648191
+          ],
+          [
+            -74.693573,
+            -52.694724
+          ],
+          [
+            -70.195955,
+            -52.694724
+          ],
+          [
+            -70.195955,
+            -54.648191
+          ]
+        ]
+      ],
+      "type": "Polygon"
+    },
+    "name": "Punta Arenas",
+    "url": "https://api.twitter.com/1.1/geo/id/00aae48175646039.json",
+    "country_code": "CL",
+    "id": "00aae48175646039",
+    "place_type": "city",
+    "attributes": {},
+    "full_name": "Punta Arenas, Chile",
+    "country": "Chile"
+  }
+}

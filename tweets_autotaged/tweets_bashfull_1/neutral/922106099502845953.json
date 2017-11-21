@@ -1,0 +1,155 @@
+{
+  "in_reply_to_user_id": 3374700454,
+  "contributors": null,
+  "id": 922106099502845953,
+  "retweeted": false,
+  "retweet_count": 0,
+  "timestamp_ms": "1508682200681",
+  "in_reply_to_status_id": 922104234144944128,
+  "id_str": "922106099502845953",
+  "coordinates": null,
+  "created_at": "Sun Oct 22 14:23:20 +0000 2017",
+  "quote_count": 0,
+  "favorite_count": 0,
+  "entities": {
+    "user_mentions": [
+      {
+        "indices": [
+          0,
+          15
+        ],
+        "name": "La Juan Manuel",
+        "screen_name": "lajuanmanuelok",
+        "id": 3374700454,
+        "id_str": "3374700454"
+      }
+    ],
+    "symbols": [],
+    "hashtags": [],
+    "urls": [
+      {
+        "expanded_url": "https://twitter.com/i/web/status/922106099502845953",
+        "indices": [
+          117,
+          140
+        ],
+        "url": "https://t.co/ri8GJkG16O",
+        "display_url": "twitter.com/i/web/status/9\u2026"
+      }
+    ]
+  },
+  "reply_count": 0,
+  "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+  "place": {
+    "attributes": {},
+    "url": "https://api.twitter.com/1.1/geo/id/01be81a62ba8647a.json",
+    "place_type": "city",
+    "id": "01be81a62ba8647a",
+    "country_code": "AR",
+    "name": "Gualeguaych\u00fa",
+    "country": "Argentina",
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            -58.568263,
+            -33.042626
+          ],
+          [
+            -58.568263,
+            -32.986095
+          ],
+          [
+            -58.487299,
+            -32.986095
+          ],
+          [
+            -58.487299,
+            -33.042626
+          ]
+        ]
+      ]
+    },
+    "full_name": "Gualeguaych\u00fa, Argentina"
+  },
+  "truncated": true,
+  "in_reply_to_status_id_str": "922104234144944128",
+  "in_reply_to_screen_name": "lajuanmanuelok",
+  "filter_level": "low",
+  "text": "@lajuanmanuelok \u00bfRosas? Lo m\u00e1s parecido a ella. \u00e9l ten\u00eda los mazorqueros, ella a la c\u00e1mpora y las jovatas de los dd\u2026 https://t.co/ri8GJkG16O",
+  "geo": null,
+  "in_reply_to_user_id_str": "3374700454",
+  "is_quote_status": false,
+  "display_text_range": [
+    16,
+    140
+  ],
+  "favorited": false,
+  "user": {
+    "verified": false,
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+    "statuses_count": 18485,
+    "screen_name": "IsabdDG",
+    "default_profile_image": false,
+    "time_zone": "Buenos Aires",
+    "name": "Isabel Julia Duarte",
+    "id_str": "1149520501",
+    "profile_sidebar_border_color": "D9B17E",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1149520501/1479014493",
+    "created_at": "Tue Feb 05 00:56:23 +0000 2013",
+    "friends_count": 26,
+    "url": null,
+    "profile_background_tile": false,
+    "protected": false,
+    "translator_type": "none",
+    "profile_text_color": "333333",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/582874651614953472/-6x8UlXD_normal.jpg",
+    "listed_count": 5,
+    "notifications": null,
+    "contributors_enabled": false,
+    "is_translator": false,
+    "location": "Gualeguaych\u00fa, Argentina",
+    "profile_use_background_image": true,
+    "followers_count": 97,
+    "profile_sidebar_fill_color": "EADEAA",
+    "geo_enabled": true,
+    "profile_link_color": "9D582E",
+    "favourites_count": 4799,
+    "following": null,
+    "default_profile": false,
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+    "profile_background_color": "8B542B",
+    "id": 1149520501,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/582874651614953472/-6x8UlXD_normal.jpg",
+    "lang": "es",
+    "description": "M\u00e1s vale que pregunten.Qu\u00e9 quieren saber?",
+    "follow_request_sent": null,
+    "utc_offset": -10800
+  },
+  "extended_tweet": {
+    "entities": {
+      "user_mentions": [
+        {
+          "indices": [
+            0,
+            15
+          ],
+          "name": "La Juan Manuel",
+          "screen_name": "lajuanmanuelok",
+          "id": 3374700454,
+          "id_str": "3374700454"
+        }
+      ],
+      "symbols": [],
+      "hashtags": [],
+      "urls": []
+    },
+    "display_text_range": [
+      16,
+      152
+    ],
+    "full_text": "@lajuanmanuelok \u00bfRosas? Lo m\u00e1s parecido a ella. \u00e9l ten\u00eda los mazorqueros, ella a la c\u00e1mpora y las jovatas de los ddhh y al cels y a barcezat...Too much."
+  },
+  "lang": "es"
+}

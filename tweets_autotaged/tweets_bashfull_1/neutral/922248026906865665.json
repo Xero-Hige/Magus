@@ -1,0 +1,106 @@
+{
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "urls": [],
+    "user_mentions": []
+  },
+  "in_reply_to_user_id": null,
+  "created_at": "Sun Oct 22 23:47:18 +0000 2017",
+  "favorite_count": 0,
+  "lang": "es",
+  "reply_count": 0,
+  "id_str": "922248026906865665",
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_status_id": null,
+  "timestamp_ms": "1508716038811",
+  "text": "- \u00bfViste lo que dijo Carri\u00f3?\n- Si, es el colmo, voy a votar a Filmus.\n\nVos te re\u00eds pero para cierta gente algo as\u00ed era razonable.",
+  "user": {
+    "time_zone": "Greenland",
+    "screen_name": "fernandezpablo",
+    "utc_offset": -7200,
+    "created_at": "Mon May 05 02:12:54 +0000 2008",
+    "profile_background_tile": false,
+    "notifications": null,
+    "lang": "en",
+    "default_profile": false,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/14654522/1485951963",
+    "id_str": "14654522",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/858694626504527872/vjNAo8Cl_normal.jpg",
+    "name": "Pablo",
+    "friends_count": 88,
+    "translator_type": "regular",
+    "protected": false,
+    "following": null,
+    "is_translator": false,
+    "follow_request_sent": null,
+    "profile_text_color": "333333",
+    "listed_count": 33,
+    "profile_link_color": "AD0D0D",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+    "url": "http://fernandezpablo85.github.com",
+    "id": 14654522,
+    "favourites_count": 19703,
+    "profile_background_color": "709397",
+    "followers_count": 1454,
+    "statuses_count": 27067,
+    "description": "Developer \ud83d\udc68\u200d\ud83d\udcbb",
+    "location": "Buenos Aires",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+    "default_profile_image": false,
+    "verified": false,
+    "profile_sidebar_fill_color": "A0C5C7",
+    "profile_use_background_image": true,
+    "contributors_enabled": false,
+    "profile_sidebar_border_color": "FFFFFF",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/858694626504527872/vjNAo8Cl_normal.jpg",
+    "geo_enabled": true
+  },
+  "geo": null,
+  "id": 922248026906865665,
+  "quote_count": 0,
+  "retweeted": false,
+  "filter_level": "low",
+  "in_reply_to_status_id_str": null,
+  "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+  "favorited": false,
+  "coordinates": null,
+  "truncated": false,
+  "retweet_count": 0,
+  "is_quote_status": false,
+  "in_reply_to_screen_name": null,
+  "contributors": null,
+  "place": {
+    "bounding_box": {
+      "coordinates": [
+        [
+          [
+            -58.531792,
+            -34.705421
+          ],
+          [
+            -58.531792,
+            -34.526466
+          ],
+          [
+            -58.335105,
+            -34.526466
+          ],
+          [
+            -58.335105,
+            -34.705421
+          ]
+        ]
+      ],
+      "type": "Polygon"
+    },
+    "name": "Buenos Aires City Region",
+    "url": "https://api.twitter.com/1.1/geo/id/1ed82be977be0cfa.json",
+    "country_code": "AR",
+    "id": "1ed82be977be0cfa",
+    "place_type": "admin",
+    "attributes": {},
+    "full_name": "Buenos Aires City Region, Argentina",
+    "country": "Argentina"
+  }
+}

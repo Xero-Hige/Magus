@@ -1,0 +1,129 @@
+{
+  "in_reply_to_user_id": null,
+  "contributors": null,
+  "in_reply_to_screen_name": null,
+  "retweeted": false,
+  "retweet_count": 0,
+  "timestamp_ms": "1508653560973",
+  "in_reply_to_status_id": null,
+  "id_str": "921985975860985856",
+  "created_at": "Sun Oct 22 06:26:00 +0000 2017",
+  "id": 921985975860985856,
+  "coordinates": {
+    "type": "Point",
+    "coordinates": [
+      -70.65027778,
+      -33.43777778
+    ]
+  },
+  "favorite_count": 0,
+  "entities": {
+    "user_mentions": [],
+    "symbols": [],
+    "hashtags": [],
+    "urls": [
+      {
+        "expanded_url": "https://www.instagram.com/p/BaikiO3gBZz7XMdAoiiRYg9Cz7i5YpGNejW02Q0/",
+        "indices": [
+          57,
+          80
+        ],
+        "url": "https://t.co/k8qcquOiwI",
+        "display_url": "instagram.com/p/BaikiO3gBZz7\u2026"
+      }
+    ]
+  },
+  "reply_count": 0,
+  "source": "<a href=\"http://instagram.com\" rel=\"nofollow\">Instagram</a>",
+  "place": {
+    "attributes": {},
+    "url": "https://api.twitter.com/1.1/geo/id/0010b4cb51ca93d8.json",
+    "place_type": "city",
+    "id": "0010b4cb51ca93d8",
+    "country_code": "CL",
+    "name": "Santiago",
+    "country": "Chile",
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            -70.692959,
+            -33.478574
+          ],
+          [
+            -70.692959,
+            -33.425749
+          ],
+          [
+            -70.626272,
+            -33.425749
+          ],
+          [
+            -70.626272,
+            -33.478574
+          ]
+        ]
+      ]
+    },
+    "full_name": "Santiago, Chile"
+  },
+  "truncated": false,
+  "in_reply_to_status_id_str": null,
+  "filter_level": "low",
+  "text": "Feliz cumplea\u00f1os amigo!!! @ Santiago Metropolitan Region https://t.co/k8qcquOiwI",
+  "geo": {
+    "type": "Point",
+    "coordinates": [
+      -33.43777778,
+      -70.65027778
+    ]
+  },
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": false,
+  "possibly_sensitive": false,
+  "favorited": false,
+  "user": {
+    "verified": false,
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "statuses_count": 36407,
+    "screen_name": "francisc0zarate",
+    "default_profile_image": false,
+    "time_zone": "Santiago",
+    "name": "Guaton Culia\u00b4o",
+    "id_str": "105809344",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/105809344/1419556106",
+    "created_at": "Sun Jan 17 15:14:24 +0000 2010",
+    "friends_count": 782,
+    "url": null,
+    "profile_background_tile": false,
+    "protected": false,
+    "translator_type": "none",
+    "profile_text_color": "333333",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/846572445909880832/QdtXxoob_normal.jpg",
+    "listed_count": 5,
+    "notifications": null,
+    "contributors_enabled": false,
+    "is_translator": false,
+    "location": "Santiago, Chile",
+    "profile_use_background_image": true,
+    "followers_count": 972,
+    "profile_sidebar_fill_color": "DDEEF6",
+    "geo_enabled": true,
+    "profile_link_color": "1DA1F2",
+    "favourites_count": 7015,
+    "following": null,
+    "default_profile": true,
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_color": "C0DEED",
+    "id": 105809344,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/846572445909880832/QdtXxoob_normal.jpg",
+    "lang": "es",
+    "description": "Soy un CTM de tomo y lomo! Todo lo malo que dicen de mi.... multiplicalo por 20! \ud83d\ude08",
+    "follow_request_sent": null,
+    "utc_offset": -10800
+  },
+  "quote_count": 0,
+  "lang": "es"
+}

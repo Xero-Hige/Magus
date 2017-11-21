@@ -1,0 +1,106 @@
+{
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "urls": [],
+    "user_mentions": []
+  },
+  "in_reply_to_user_id": null,
+  "created_at": "Mon Oct 23 00:20:03 +0000 2017",
+  "favorite_count": 0,
+  "lang": "es",
+  "reply_count": 0,
+  "id_str": "922256267837624322",
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_status_id": null,
+  "timestamp_ms": "1508718003602",
+  "text": "Hay algo m\u00e1s rico que la coca-cola con mucho hielo y limon?",
+  "user": {
+    "time_zone": "Buenos Aires",
+    "screen_name": "solchuep",
+    "utc_offset": -10800,
+    "created_at": "Wed Jan 27 15:41:05 +0000 2010",
+    "profile_background_tile": true,
+    "notifications": null,
+    "lang": "en",
+    "default_profile": false,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/108973678/1501090928",
+    "id_str": "108973678",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/915763589499297792/qxQN6Dbv_normal.jpg",
+    "name": "Sol.",
+    "friends_count": 3307,
+    "translator_type": "regular",
+    "protected": false,
+    "following": null,
+    "is_translator": false,
+    "follow_request_sent": null,
+    "profile_text_color": "333333",
+    "listed_count": 252,
+    "profile_link_color": "67CFF5",
+    "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/435113062991794176/bjbiFoAw.jpeg",
+    "url": null,
+    "id": 108973678,
+    "favourites_count": 6570,
+    "profile_background_color": "FFFFFF",
+    "followers_count": 3443,
+    "statuses_count": 105085,
+    "description": "Law school\ud83c\udf93. Free life surfer. \n#RiverPlate #Juventus\u26bd\ud83c\uddee\ud83c\uddf9",
+    "location": "Argentina",
+    "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/435113062991794176/bjbiFoAw.jpeg",
+    "default_profile_image": false,
+    "verified": false,
+    "profile_sidebar_fill_color": "DB77BB",
+    "profile_use_background_image": true,
+    "contributors_enabled": false,
+    "profile_sidebar_border_color": "FFFFFF",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/915763589499297792/qxQN6Dbv_normal.jpg",
+    "geo_enabled": true
+  },
+  "geo": null,
+  "id": 922256267837624322,
+  "quote_count": 0,
+  "retweeted": false,
+  "filter_level": "low",
+  "in_reply_to_status_id_str": null,
+  "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+  "favorited": false,
+  "coordinates": null,
+  "truncated": false,
+  "retweet_count": 0,
+  "is_quote_status": false,
+  "in_reply_to_screen_name": null,
+  "contributors": null,
+  "place": {
+    "bounding_box": {
+      "coordinates": [
+        [
+          [
+            -57.645563,
+            -38.127814
+          ],
+          [
+            -57.645563,
+            -37.895361
+          ],
+          [
+            -57.517298,
+            -37.895361
+          ],
+          [
+            -57.517298,
+            -38.127814
+          ]
+        ]
+      ],
+      "type": "Polygon"
+    },
+    "name": "Mar del Plata",
+    "url": "https://api.twitter.com/1.1/geo/id/010d7db066434a8a.json",
+    "country_code": "AR",
+    "id": "010d7db066434a8a",
+    "place_type": "city",
+    "attributes": {},
+    "full_name": "Mar del Plata, Argentina",
+    "country": "Argentina"
+  }
+}

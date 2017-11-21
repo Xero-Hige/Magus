@@ -1,0 +1,121 @@
+{
+  "in_reply_to_user_id": null,
+  "contributors": null,
+  "in_reply_to_screen_name": null,
+  "retweeted": false,
+  "retweet_count": 0,
+  "timestamp_ms": "1508680388139",
+  "in_reply_to_status_id": null,
+  "id_str": "922098497150767107",
+  "created_at": "Sun Oct 22 13:53:08 +0000 2017",
+  "id": 922098497150767107,
+  "coordinates": null,
+  "favorite_count": 0,
+  "entities": {
+    "user_mentions": [],
+    "symbols": [],
+    "hashtags": [
+      {
+        "text": "FelizDomingo",
+        "indices": [
+          0,
+          13
+        ]
+      },
+      {
+        "text": "Elecciones2017",
+        "indices": [
+          75,
+          90
+        ]
+      }
+    ],
+    "urls": []
+  },
+  "reply_count": 0,
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "place": {
+    "attributes": {},
+    "url": "https://api.twitter.com/1.1/geo/id/004fe39f34e6452f.json",
+    "place_type": "city",
+    "id": "004fe39f34e6452f",
+    "country_code": "AR",
+    "name": "Quilmes",
+    "country": "Argentina",
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            -58.346384,
+            -34.801165
+          ],
+          [
+            -58.346384,
+            -34.694657
+          ],
+          [
+            -58.21515,
+            -34.694657
+          ],
+          [
+            -58.21515,
+            -34.801165
+          ]
+        ]
+      ]
+    },
+    "full_name": "Quilmes, Argentina"
+  },
+  "truncated": false,
+  "in_reply_to_status_id_str": null,
+  "filter_level": "low",
+  "text": "#FelizDomingo a disfrutar de la Flia y cumplir con el deber como ciudadano #Elecciones2017 \ud83d\udcaa\ud83c\udffc",
+  "geo": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": false,
+  "favorited": false,
+  "user": {
+    "verified": false,
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+    "statuses_count": 17852,
+    "screen_name": "GustoFalcon",
+    "default_profile_image": false,
+    "time_zone": "Buenos Aires",
+    "name": "Gusto Falc\u00f3n \uf8ff",
+    "id_str": "151069285",
+    "profile_sidebar_border_color": "A8C7F7",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/151069285/1504837857",
+    "created_at": "Wed Jun 02 14:41:46 +0000 2010",
+    "friends_count": 1950,
+    "url": "http://www.facebook.com/gustafalcon",
+    "profile_background_tile": false,
+    "protected": false,
+    "translator_type": "none",
+    "profile_text_color": "333333",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/921923081823809538/0cCaAOUn_normal.jpg",
+    "listed_count": 15,
+    "notifications": null,
+    "contributors_enabled": false,
+    "is_translator": false,
+    "location": "Buenos Aires, Argentina",
+    "profile_use_background_image": true,
+    "followers_count": 1355,
+    "profile_sidebar_fill_color": "C0DFEC",
+    "geo_enabled": true,
+    "profile_link_color": "0084B4",
+    "favourites_count": 3182,
+    "following": null,
+    "default_profile": false,
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+    "profile_background_color": "022330",
+    "id": 151069285,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/921923081823809538/0cCaAOUn_normal.jpg",
+    "lang": "es",
+    "description": "Taurino , Divertido , Alegre, jodon, RRPP. Amante de las cenas con Amigos, las series y Pel\u00edculas, mates al aire libre . Lic. en Seguridad e Higiene.",
+    "follow_request_sent": null,
+    "utc_offset": -10800
+  },
+  "quote_count": 0,
+  "lang": "es"
+}

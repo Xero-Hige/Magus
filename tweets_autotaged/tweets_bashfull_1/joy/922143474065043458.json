@@ -1,0 +1,169 @@
+{
+  "in_reply_to_user_id": null,
+  "contributors": null,
+  "in_reply_to_screen_name": null,
+  "retweeted": false,
+  "retweet_count": 0,
+  "timestamp_ms": "1508691111471",
+  "in_reply_to_status_id": null,
+  "id_str": "922143474065043458",
+  "created_at": "Sun Oct 22 16:51:51 +0000 2017",
+  "id": 922143474065043458,
+  "coordinates": {
+    "type": "Point",
+    "coordinates": [
+      -58.3817,
+      -34.6033
+    ]
+  },
+  "favorite_count": 0,
+  "entities": {
+    "user_mentions": [
+      {
+        "indices": [
+          38,
+          48
+        ],
+        "name": "MayaNaras",
+        "screen_name": "MayaNaras",
+        "id": 1335525031,
+        "id_str": "1335525031"
+      }
+    ],
+    "symbols": [],
+    "hashtags": [
+      {
+        "text": "feria",
+        "indices": [
+          63,
+          69
+        ]
+      },
+      {
+        "text": "salida",
+        "indices": [
+          70,
+          77
+        ]
+      },
+      {
+        "text": "amigos",
+        "indices": [
+          78,
+          85
+        ]
+      },
+      {
+        "text": "domingo",
+        "indices": [
+          86,
+          94
+        ]
+      }
+    ],
+    "urls": [
+      {
+        "expanded_url": "https://www.instagram.com/p/BajsJy8jf4O/",
+        "indices": [
+          96,
+          119
+        ],
+        "url": "https://t.co/84Pyg8Fdnb",
+        "display_url": "instagram.com/p/BajsJy8jf4O/"
+      }
+    ]
+  },
+  "reply_count": 0,
+  "source": "<a href=\"http://instagram.com\" rel=\"nofollow\">Instagram</a>",
+  "place": {
+    "attributes": {},
+    "url": "https://api.twitter.com/1.1/geo/id/018f1cde6bad9747.json",
+    "place_type": "city",
+    "id": "018f1cde6bad9747",
+    "country_code": "AR",
+    "name": "Ciudad Aut\u00f3noma de Buenos Aires",
+    "country": "Argentina",
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            -58.531792,
+            -34.674453
+          ],
+          [
+            -58.531792,
+            -34.534177
+          ],
+          [
+            -58.353494,
+            -34.534177
+          ],
+          [
+            -58.353494,
+            -34.674453
+          ]
+        ]
+      ]
+    },
+    "full_name": "Ciudad Aut\u00f3noma de Buenos Aires, Argentina"
+  },
+  "truncated": false,
+  "in_reply_to_status_id_str": null,
+  "filter_level": "low",
+  "text": "Feria de colectividades , con amigos. @MayaNaras fernandoglema\n#feria #salida #amigos #domingo\u2026 https://t.co/84Pyg8Fdnb",
+  "geo": {
+    "type": "Point",
+    "coordinates": [
+      -34.6033,
+      -58.3817
+    ]
+  },
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": false,
+  "possibly_sensitive": false,
+  "favorited": false,
+  "user": {
+    "verified": false,
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "statuses_count": 179,
+    "screen_name": "JoseMatiasSmith",
+    "default_profile_image": false,
+    "time_zone": "Pacific Time (US & Canada)",
+    "name": "Jos\u00e9 Matias Smith",
+    "id_str": "862734715660492801",
+    "profile_sidebar_border_color": "000000",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/862734715660492801/1507224551",
+    "created_at": "Thu May 11 18:22:39 +0000 2017",
+    "friends_count": 1248,
+    "url": "https://www.facebook.com/JoseMatiasSmithOficial",
+    "profile_background_tile": false,
+    "protected": false,
+    "translator_type": "none",
+    "profile_text_color": "000000",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/919332067032354816/ENsPY4p0_normal.jpg",
+    "listed_count": 0,
+    "notifications": null,
+    "contributors_enabled": false,
+    "is_translator": false,
+    "location": "Buenos Aires, Argentina",
+    "profile_use_background_image": false,
+    "followers_count": 187,
+    "profile_sidebar_fill_color": "000000",
+    "geo_enabled": true,
+    "profile_link_color": "1B95E0",
+    "favourites_count": 359,
+    "following": null,
+    "default_profile": false,
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_color": "000000",
+    "id": 862734715660492801,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/919332067032354816/ENsPY4p0_normal.jpg",
+    "lang": "es",
+    "description": "Bienvenidos a mi cuenta de Twitter\ud83d\udc24\n#metal\ud83c\udfa4 #rock\ud83c\udfb8 #viajes\u2708\ufe0f #fotograf\u00edas\ud83d\udcf7\nFacebook:@Jos\u00e9MatiasSmith\nInstagram: @josematiassmith",
+    "follow_request_sent": null,
+    "utc_offset": -25200
+  },
+  "quote_count": 0,
+  "lang": "es"
+}

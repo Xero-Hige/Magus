@@ -1,0 +1,125 @@
+{
+  "entities": {
+    "hashtags": [
+      {
+        "indices": [
+          100,
+          111
+        ],
+        "text": "Libertario"
+      }
+    ],
+    "symbols": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "indices": [
+          0,
+          7
+        ],
+        "screen_name": "JMilei",
+        "name": "Javier Milei",
+        "id_str": "4020276615",
+        "id": 4020276615
+      }
+    ]
+  },
+  "in_reply_to_user_id": 4020276615,
+  "created_at": "Sun Oct 22 21:53:08 +0000 2017",
+  "favorite_count": 0,
+  "lang": "es",
+  "reply_count": 0,
+  "id_str": "922219295299555328",
+  "in_reply_to_user_id_str": "4020276615",
+  "in_reply_to_status_id": null,
+  "timestamp_ms": "1508709188662",
+  "text": "@JMilei muchas felicidades en tu cumplea\u00f1os que vengan muchos a\u00f1os m\u00e1s de lucha por la libertad!!!\n\n#Libertario",
+  "user": {
+    "time_zone": null,
+    "screen_name": "joyarzun_cruzat",
+    "utc_offset": null,
+    "created_at": "Sat Nov 29 08:52:47 +0000 2014",
+    "profile_background_tile": false,
+    "notifications": null,
+    "lang": "es",
+    "default_profile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/2897135080/1506998427",
+    "id_str": "2897135080",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/909228597755486208/UoqdLpGF_normal.jpg",
+    "name": "Jaime Oyarzun Cruzat",
+    "friends_count": 192,
+    "translator_type": "none",
+    "protected": false,
+    "following": null,
+    "is_translator": false,
+    "follow_request_sent": null,
+    "profile_text_color": "333333",
+    "listed_count": 4,
+    "profile_link_color": "1DA1F2",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "url": null,
+    "id": 2897135080,
+    "favourites_count": 2395,
+    "profile_background_color": "C0DEED",
+    "followers_count": 92,
+    "statuses_count": 1516,
+    "description": "Libertario|Historia|Filosof\u00eda|Econom\u00eda|Pol\u00edtica|Tecnolog\u00eda. Mi utop\u00eda anarcocapitalimo mi realidad minarquismo. #LET #HayekChile #Libertario #EsLibertadChile",
+    "location": "Metropolitana de Santiago, Chile",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "default_profile_image": false,
+    "verified": false,
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_use_background_image": true,
+    "contributors_enabled": false,
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/909228597755486208/UoqdLpGF_normal.jpg",
+    "geo_enabled": true
+  },
+  "geo": null,
+  "id": 922219295299555328,
+  "quote_count": 0,
+  "retweeted": false,
+  "filter_level": "low",
+  "in_reply_to_status_id_str": null,
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "favorited": false,
+  "coordinates": null,
+  "truncated": false,
+  "retweet_count": 0,
+  "is_quote_status": false,
+  "in_reply_to_screen_name": "JMilei",
+  "contributors": null,
+  "place": {
+    "bounding_box": {
+      "coordinates": [
+        [
+          [
+            -71.716005,
+            -34.287811
+          ],
+          [
+            -71.716005,
+            -32.921265
+          ],
+          [
+            -69.750032,
+            -32.921265
+          ],
+          [
+            -69.750032,
+            -34.287811
+          ]
+        ]
+      ],
+      "type": "Polygon"
+    },
+    "name": "Metropolitana de Santiago",
+    "url": "https://api.twitter.com/1.1/geo/id/75be422815eb66b9.json",
+    "country_code": "CL",
+    "id": "75be422815eb66b9",
+    "place_type": "admin",
+    "attributes": {},
+    "full_name": "Metropolitana de Santiago, Chile",
+    "country": "Chile"
+  }
+}

@@ -1,0 +1,154 @@
+{
+  "in_reply_to_user_id": 213840361,
+  "contributors": null,
+  "id": 922120774588272641,
+  "retweeted": false,
+  "retweet_count": 0,
+  "timestamp_ms": "1508685699494",
+  "in_reply_to_status_id": 922092518375903232,
+  "id_str": "922120774588272641",
+  "coordinates": null,
+  "created_at": "Sun Oct 22 15:21:39 +0000 2017",
+  "quote_count": 0,
+  "favorite_count": 0,
+  "entities": {
+    "user_mentions": [
+      {
+        "indices": [
+          0,
+          13
+        ],
+        "name": "jorge h\u00e9ctor santos",
+        "screen_name": "santosjorgeh",
+        "id": 213840361,
+        "id_str": "213840361"
+      }
+    ],
+    "symbols": [],
+    "hashtags": [],
+    "urls": [
+      {
+        "expanded_url": "https://twitter.com/i/web/status/922120774588272641",
+        "indices": [
+          117,
+          140
+        ],
+        "url": "https://t.co/cYMnkE8GWo",
+        "display_url": "twitter.com/i/web/status/9\u2026"
+      }
+    ]
+  },
+  "reply_count": 0,
+  "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+  "place": {
+    "attributes": {},
+    "url": "https://api.twitter.com/1.1/geo/id/018f1cde6bad9747.json",
+    "place_type": "city",
+    "id": "018f1cde6bad9747",
+    "country_code": "AR",
+    "name": "Ciudad Aut\u00f3noma de Buenos Aires",
+    "country": "Argentina",
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            -58.531792,
+            -34.674453
+          ],
+          [
+            -58.531792,
+            -34.534177
+          ],
+          [
+            -58.353494,
+            -34.534177
+          ],
+          [
+            -58.353494,
+            -34.674453
+          ]
+        ]
+      ]
+    },
+    "full_name": "Ciudad Aut\u00f3noma de Buenos Aires, Argentina"
+  },
+  "truncated": true,
+  "in_reply_to_status_id_str": "922092518375903232",
+  "in_reply_to_screen_name": "santosjorgeh",
+  "filter_level": "low",
+  "text": "@santosjorgeh Esa es su opinion Sr. Novaresio!! El periodismo tendra que darse un ba\u00f1o de humildad. Discrecion y sa\u2026 https://t.co/cYMnkE8GWo",
+  "geo": null,
+  "in_reply_to_user_id_str": "213840361",
+  "is_quote_status": false,
+  "display_text_range": [
+    14,
+    140
+  ],
+  "favorited": false,
+  "user": {
+    "verified": false,
+    "profile_background_image_url": "",
+    "statuses_count": 5971,
+    "screen_name": "joselui30235436",
+    "default_profile_image": false,
+    "time_zone": null,
+    "name": "jose luis suarez",
+    "id_str": "4638412829",
+    "profile_sidebar_border_color": "C0DEED",
+    "created_at": "Tue Dec 29 02:17:21 +0000 2015",
+    "friends_count": 172,
+    "url": null,
+    "profile_background_tile": false,
+    "protected": false,
+    "translator_type": "none",
+    "profile_text_color": "333333",
+    "profile_image_url_https": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+    "listed_count": 0,
+    "notifications": null,
+    "contributors_enabled": false,
+    "is_translator": false,
+    "location": null,
+    "profile_use_background_image": true,
+    "followers_count": 11,
+    "profile_sidebar_fill_color": "DDEEF6",
+    "geo_enabled": true,
+    "profile_link_color": "1DA1F2",
+    "favourites_count": 22,
+    "following": null,
+    "default_profile": true,
+    "profile_background_image_url_https": "",
+    "profile_background_color": "F5F8FA",
+    "id": 4638412829,
+    "profile_image_url": "http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+    "lang": "es",
+    "description": null,
+    "follow_request_sent": null,
+    "utc_offset": null
+  },
+  "extended_tweet": {
+    "entities": {
+      "user_mentions": [
+        {
+          "indices": [
+            0,
+            13
+          ],
+          "name": "jorge h\u00e9ctor santos",
+          "screen_name": "santosjorgeh",
+          "id": 213840361,
+          "id_str": "213840361"
+        }
+      ],
+      "symbols": [],
+      "hashtags": [],
+      "urls": []
+    },
+    "display_text_range": [
+      14,
+      147
+    ],
+    "full_text": "@santosjorgeh Esa es su opinion Sr. Novaresio!! El periodismo tendra que darse un ba\u00f1o de humildad. Discrecion y sabiduria\uff0cmas temprano que tarde!!"
+  },
+  "lang": "es"
+}

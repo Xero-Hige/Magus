@@ -1,0 +1,117 @@
+{
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "indices": [
+          0,
+          7
+        ],
+        "screen_name": "JMilei",
+        "name": "Javier Milei",
+        "id_str": "4020276615",
+        "id": 4020276615
+      }
+    ]
+  },
+  "in_reply_to_user_id": 4020276615,
+  "created_at": "Sun Oct 22 23:35:06 +0000 2017",
+  "favorite_count": 0,
+  "lang": "es",
+  "reply_count": 0,
+  "id_str": "922244955850067969",
+  "in_reply_to_user_id_str": "4020276615",
+  "in_reply_to_status_id": null,
+  "timestamp_ms": "1508715306614",
+  "text": "@JMilei Feliz cumplea\u00f1os Master! Gracias por encender la antorcha de la LIBERTAD, por tu coraje y compromiso. Un abrazo.",
+  "user": {
+    "time_zone": null,
+    "screen_name": "victorbada",
+    "utc_offset": null,
+    "created_at": "Mon Apr 15 21:03:05 +0000 2013",
+    "profile_background_tile": false,
+    "notifications": null,
+    "lang": "es",
+    "default_profile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1355352559/1366325203",
+    "id_str": "1355352559",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/3540792191/9bdedd786a46319de8f33ce34e8195e8_normal.jpeg",
+    "name": "Victor Badaracco",
+    "friends_count": 90,
+    "translator_type": "none",
+    "protected": false,
+    "following": null,
+    "is_translator": false,
+    "follow_request_sent": null,
+    "profile_text_color": "333333",
+    "listed_count": 0,
+    "profile_link_color": "1DA1F2",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "url": null,
+    "id": 1355352559,
+    "favourites_count": 3615,
+    "profile_background_color": "C0DEED",
+    "followers_count": 44,
+    "statuses_count": 144,
+    "description": "Profesor Asociado de Producci\u00f3n y Comercializaci\u00f3n de Alimentos",
+    "location": "Gualeguaychu",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "default_profile_image": false,
+    "verified": false,
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_use_background_image": true,
+    "contributors_enabled": false,
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/3540792191/9bdedd786a46319de8f33ce34e8195e8_normal.jpeg",
+    "geo_enabled": true
+  },
+  "geo": null,
+  "id": 922244955850067969,
+  "quote_count": 0,
+  "retweeted": false,
+  "filter_level": "low",
+  "in_reply_to_status_id_str": null,
+  "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+  "favorited": false,
+  "coordinates": null,
+  "truncated": false,
+  "retweet_count": 0,
+  "is_quote_status": false,
+  "in_reply_to_screen_name": "JMilei",
+  "contributors": null,
+  "place": {
+    "bounding_box": {
+      "coordinates": [
+        [
+          [
+            -58.568263,
+            -33.042626
+          ],
+          [
+            -58.568263,
+            -32.986095
+          ],
+          [
+            -58.487299,
+            -32.986095
+          ],
+          [
+            -58.487299,
+            -33.042626
+          ]
+        ]
+      ],
+      "type": "Polygon"
+    },
+    "name": "Gualeguaych\u00fa",
+    "url": "https://api.twitter.com/1.1/geo/id/01be81a62ba8647a.json",
+    "country_code": "AR",
+    "id": "01be81a62ba8647a",
+    "place_type": "city",
+    "attributes": {},
+    "full_name": "Gualeguaych\u00fa, Argentina",
+    "country": "Argentina"
+  }
+}

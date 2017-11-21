@@ -1,0 +1,129 @@
+{
+  "in_reply_to_user_id": null,
+  "contributors": null,
+  "in_reply_to_screen_name": null,
+  "retweeted": false,
+  "retweet_count": 0,
+  "timestamp_ms": "1508689637723",
+  "in_reply_to_status_id": null,
+  "id_str": "922137292717854720",
+  "created_at": "Sun Oct 22 16:27:17 +0000 2017",
+  "id": 922137292717854720,
+  "coordinates": {
+    "type": "Point",
+    "coordinates": [
+      -70.65125944,
+      -33.43401885
+    ]
+  },
+  "favorite_count": 0,
+  "entities": {
+    "user_mentions": [],
+    "symbols": [],
+    "hashtags": [],
+    "urls": [
+      {
+        "expanded_url": "https://www.swarmapp.com/c/4a8jRVDGmur",
+        "indices": [
+          72,
+          95
+        ],
+        "url": "https://t.co/sikdf2KCN5",
+        "display_url": "swarmapp.com/c/4a8jRVDGmur"
+      }
+    ]
+  },
+  "reply_count": 0,
+  "source": "<a href=\"http://foursquare.com\" rel=\"nofollow\">Foursquare</a>",
+  "place": {
+    "attributes": {},
+    "url": "https://api.twitter.com/1.1/geo/id/0010b4cb51ca93d8.json",
+    "place_type": "city",
+    "id": "0010b4cb51ca93d8",
+    "country_code": "CL",
+    "name": "Santiago",
+    "country": "Chile",
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            -70.692959,
+            -33.478574
+          ],
+          [
+            -70.692959,
+            -33.425749
+          ],
+          [
+            -70.626272,
+            -33.425749
+          ],
+          [
+            -70.626272,
+            -33.478574
+          ]
+        ]
+      ]
+    },
+    "full_name": "Santiago, Chile"
+  },
+  "truncated": false,
+  "in_reply_to_status_id_str": null,
+  "filter_level": "low",
+  "text": "Almuerzo Familiar \ud83d\ude00 (@ Rincon Marino in Santiago, Santiago Metropolita) https://t.co/sikdf2KCN5",
+  "geo": {
+    "type": "Point",
+    "coordinates": [
+      -33.43401885,
+      -70.65125944
+    ]
+  },
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": false,
+  "possibly_sensitive": false,
+  "favorited": false,
+  "user": {
+    "verified": false,
+    "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/663653623/jig9wart5q34ygxtbmpk.jpeg",
+    "statuses_count": 1830,
+    "screen_name": "yermanvalenz",
+    "default_profile_image": false,
+    "time_zone": "Hawaii",
+    "name": "Yerman Valenzuela \u00ae",
+    "id_str": "588856743",
+    "profile_sidebar_border_color": "FFFFFF",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/588856743/1497667703",
+    "created_at": "Thu May 24 02:54:30 +0000 2012",
+    "friends_count": 248,
+    "url": "http://instagram.com/vagonza",
+    "profile_background_tile": false,
+    "protected": false,
+    "translator_type": "none",
+    "profile_text_color": "333333",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/830591588141264900/P1fSpxYV_normal.jpg",
+    "listed_count": 1,
+    "notifications": null,
+    "contributors_enabled": false,
+    "is_translator": false,
+    "location": "Santiago, Chile.",
+    "profile_use_background_image": true,
+    "followers_count": 152,
+    "profile_sidebar_fill_color": "DDEEF6",
+    "geo_enabled": true,
+    "profile_link_color": "0084B4",
+    "favourites_count": 764,
+    "following": null,
+    "default_profile": false,
+    "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/663653623/jig9wart5q34ygxtbmpk.jpeg",
+    "profile_background_color": "C0DEED",
+    "id": 588856743,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/830591588141264900/P1fSpxYV_normal.jpg",
+    "lang": "es",
+    "description": "Creativo/Aventurero/Viajero Frecuente",
+    "follow_request_sent": null,
+    "utc_offset": -36000
+  },
+  "quote_count": 0,
+  "lang": "es"
+}

@@ -1,0 +1,121 @@
+{
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "indices": [
+          0,
+          10
+        ],
+        "screen_name": "relitobel",
+        "name": "litobel",
+        "id_str": "3994978780",
+        "id": 3994978780
+      }
+    ]
+  },
+  "in_reply_to_user_id": 3994978780,
+  "created_at": "Sun Oct 22 22:57:13 +0000 2017",
+  "favorite_count": 0,
+  "lang": "es",
+  "reply_count": 0,
+  "id_str": "922235422931079168",
+  "in_reply_to_user_id_str": "3994978780",
+  "in_reply_to_status_id": 922227013439688710,
+  "timestamp_ms": "1508713033789",
+  "truncated": false,
+  "text": "@relitobel Perd\u00f3n por no ser familiar!Quise que quede claro que no tienen esperanzas de llenar ese estadio!S\u00f3lo la peque\u00f1a cancha.",
+  "user": {
+    "time_zone": null,
+    "screen_name": "LilaLdelaVega",
+    "utc_offset": null,
+    "created_at": "Sun Oct 27 23:59:33 +0000 2013",
+    "profile_background_tile": false,
+    "notifications": null,
+    "lang": "es",
+    "default_profile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/2156451491/1507404817",
+    "id_str": "2156451491",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/874008118967054337/lpP0BqRx_normal.jpg",
+    "name": "Lila L de la Vega",
+    "friends_count": 602,
+    "translator_type": "none",
+    "protected": false,
+    "following": null,
+    "is_translator": false,
+    "follow_request_sent": null,
+    "profile_text_color": "333333",
+    "listed_count": 12,
+    "profile_link_color": "1DA1F2",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "url": null,
+    "id": 2156451491,
+    "favourites_count": 1205,
+    "profile_background_color": "C0DEED",
+    "followers_count": 610,
+    "statuses_count": 45227,
+    "description": "Sobreviviente  de todos los gobiernos que nos destruyeron! \nOrgullosamente Argentina.",
+    "location": "San Isidro, Argentina",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "default_profile_image": false,
+    "verified": false,
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_use_background_image": true,
+    "contributors_enabled": false,
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/874008118967054337/lpP0BqRx_normal.jpg",
+    "geo_enabled": true
+  },
+  "geo": null,
+  "id": 922235422931079168,
+  "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+  "retweeted": false,
+  "filter_level": "low",
+  "in_reply_to_status_id_str": "922227013439688710",
+  "quote_count": 0,
+  "favorited": false,
+  "coordinates": null,
+  "display_text_range": [
+    11,
+    130
+  ],
+  "retweet_count": 0,
+  "is_quote_status": false,
+  "in_reply_to_screen_name": "relitobel",
+  "contributors": null,
+  "place": {
+    "bounding_box": {
+      "coordinates": [
+        [
+          [
+            -58.600305,
+            -34.530168
+          ],
+          [
+            -58.600305,
+            -34.450269
+          ],
+          [
+            -58.481209,
+            -34.450269
+          ],
+          [
+            -58.481209,
+            -34.530168
+          ]
+        ]
+      ],
+      "type": "Polygon"
+    },
+    "name": "San Isidro",
+    "url": "https://api.twitter.com/1.1/geo/id/0086c37e4416111e.json",
+    "country_code": "AR",
+    "id": "0086c37e4416111e",
+    "place_type": "city",
+    "attributes": {},
+    "full_name": "San Isidro, Argentina",
+    "country": "Argentina"
+  }
+}

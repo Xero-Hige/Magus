@@ -1,0 +1,117 @@
+{
+  "in_reply_to_user_id": null,
+  "contributors": null,
+  "in_reply_to_screen_name": null,
+  "retweeted": false,
+  "retweet_count": 0,
+  "timestamp_ms": "1508679984944",
+  "in_reply_to_status_id": null,
+  "id_str": "922096806028283904",
+  "created_at": "Sun Oct 22 13:46:24 +0000 2017",
+  "id": 922096806028283904,
+  "coordinates": null,
+  "favorite_count": 0,
+  "entities": {
+    "user_mentions": [
+      {
+        "indices": [
+          13,
+          25
+        ],
+        "name": "Papa Francisco",
+        "screen_name": "Pontifex_es",
+        "id": 525264466,
+        "id_str": "525264466"
+      }
+    ],
+    "symbols": [],
+    "hashtags": [],
+    "urls": []
+  },
+  "reply_count": 0,
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "place": {
+    "attributes": {},
+    "url": "https://api.twitter.com/1.1/geo/id/019f5b823c2b7bae.json",
+    "place_type": "city",
+    "id": "019f5b823c2b7bae",
+    "country_code": "CL",
+    "name": "Valpara\u00edso",
+    "country": "Chile",
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            -80.114855,
+            -33.213554
+          ],
+          [
+            -80.114855,
+            -26.286113
+          ],
+          [
+            -71.382231,
+            -26.286113
+          ],
+          [
+            -71.382231,
+            -33.213554
+          ]
+        ]
+      ]
+    },
+    "full_name": "Valpara\u00edso, Chile"
+  },
+  "truncated": false,
+  "in_reply_to_status_id_str": null,
+  "filter_level": "low",
+  "text": "La visita de @Pontifex_es costar\u00e1 casi 17 millones de d\u00f3lares y de esos, 10 millones los pondr\u00e1 el Estado \ud83e\udd26\ud83c\udffb\u200d\u2642\ufe0f\ud83d\ude21 \u00a1Qu\u00e9 bonito!",
+  "geo": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": false,
+  "favorited": false,
+  "user": {
+    "verified": false,
+    "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/490705653111877632/5MnKbOrW.jpeg",
+    "statuses_count": 18124,
+    "screen_name": "DiegoEncalada",
+    "default_profile_image": false,
+    "time_zone": "Atlantic Time (Canada)",
+    "name": "Diego Encalada",
+    "id_str": "81236993",
+    "profile_sidebar_border_color": "FFFFFF",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/81236993/1508292596",
+    "created_at": "Sat Oct 10 00:10:48 +0000 2009",
+    "friends_count": 681,
+    "url": "http://Instagram.com/diegoencalada",
+    "profile_background_tile": true,
+    "protected": false,
+    "translator_type": "none",
+    "profile_text_color": "E2ED11",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/920471968683626496/f3lMeugX_normal.jpg",
+    "listed_count": 22,
+    "notifications": null,
+    "contributors_enabled": false,
+    "is_translator": false,
+    "location": "Valpara\u00edso, Chile",
+    "profile_use_background_image": true,
+    "followers_count": 1151,
+    "profile_sidebar_fill_color": "080008",
+    "geo_enabled": true,
+    "profile_link_color": "B8A607",
+    "favourites_count": 10491,
+    "following": null,
+    "default_profile": false,
+    "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/490705653111877632/5MnKbOrW.jpeg",
+    "profile_background_color": "030303",
+    "id": 81236993,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/920471968683626496/f3lMeugX_normal.jpg",
+    "lang": "it",
+    "description": "Las opiniones vertidas son de mi exclusiva responsabilidad. Estudiante Medicina UV Coordinador Regional @IgualesChile Valpara\u00edso Contacto: dencalada@iguales.cl",
+    "follow_request_sent": null,
+    "utc_offset": -10800
+  },
+  "quote_count": 0,
+  "lang": "es"
+}

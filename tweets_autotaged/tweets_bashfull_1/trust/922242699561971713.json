@@ -1,0 +1,132 @@
+{
+  "entities": {
+    "hashtags": [
+      {
+        "indices": [
+          0,
+          7
+        ],
+        "text": "Lilita"
+      },
+      {
+        "indices": [
+          120,
+          140
+        ],
+        "text": "EleccionesArgentina"
+      }
+    ],
+    "symbols": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "indices": [
+          8,
+          20
+        ],
+        "screen_name": "elisacarrio",
+        "name": "Elisa Lilita Carri\u00f3",
+        "id_str": "1578961946",
+        "id": 1578961946
+      }
+    ]
+  },
+  "in_reply_to_user_id": null,
+  "created_at": "Sun Oct 22 23:26:08 +0000 2017",
+  "favorite_count": 0,
+  "lang": "es",
+  "reply_count": 0,
+  "id_str": "922242699561971713",
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_status_id": null,
+  "timestamp_ms": "1508714768673",
+  "text": "#Lilita @elisacarrio es el ejemplo de la virtud de la paciencia en la adversidad\nLa verdad al final emerge con + fuerza #EleccionesArgentina",
+  "user": {
+    "time_zone": "Buenos Aires",
+    "screen_name": "denaon",
+    "utc_offset": -10800,
+    "created_at": "Wed Jun 24 16:12:42 +0000 2009",
+    "profile_background_tile": false,
+    "notifications": null,
+    "lang": "es",
+    "default_profile": false,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/50348428/1507168948",
+    "id_str": "50348428",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/915759137065234433/GFhegNR-_normal.jpg",
+    "name": "DENa\u00f3n",
+    "friends_count": 614,
+    "translator_type": "none",
+    "protected": false,
+    "following": null,
+    "is_translator": false,
+    "follow_request_sent": null,
+    "profile_text_color": "CFC4CF",
+    "listed_count": 5,
+    "profile_link_color": "000099",
+    "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/482695454417629184/reJwDK1G.jpeg",
+    "url": null,
+    "id": 50348428,
+    "favourites_count": 4431,
+    "profile_background_color": "010E14",
+    "followers_count": 153,
+    "statuses_count": 6006,
+    "description": "Let's do some living before we die. Yo opino total a nadie le importa un carajo \ud83d\ude02\ud83d\udc4d. Barof\u00f3bico. \ud83d\udc32\no\u0254\u0131ou\u0250\u0279\u0131dsuo\u0186 \ud83d\udc7d\ud83d\udcb5\ud83c\udf0e\ud83c\udf15\u2600\ufe0f\ud83c\udf4a\ud83c\udf3d\ud83d\udc8e\ud83d\udc7c\ud83d\udc7e\u231b\ud83c\udf97\ufe0f",
+    "location": "Buenos Aires",
+    "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/482695454417629184/reJwDK1G.jpeg",
+    "default_profile_image": false,
+    "verified": false,
+    "profile_sidebar_fill_color": "2E274A",
+    "profile_use_background_image": true,
+    "contributors_enabled": false,
+    "profile_sidebar_border_color": "FFFFFF",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/915759137065234433/GFhegNR-_normal.jpg",
+    "geo_enabled": true
+  },
+  "geo": null,
+  "id": 922242699561971713,
+  "quote_count": 0,
+  "retweeted": false,
+  "filter_level": "low",
+  "in_reply_to_status_id_str": null,
+  "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+  "favorited": false,
+  "coordinates": null,
+  "truncated": false,
+  "retweet_count": 0,
+  "is_quote_status": false,
+  "in_reply_to_screen_name": null,
+  "contributors": null,
+  "place": {
+    "bounding_box": {
+      "coordinates": [
+        [
+          [
+            -58.531792,
+            -34.674453
+          ],
+          [
+            -58.531792,
+            -34.534177
+          ],
+          [
+            -58.353494,
+            -34.534177
+          ],
+          [
+            -58.353494,
+            -34.674453
+          ]
+        ]
+      ],
+      "type": "Polygon"
+    },
+    "name": "Ciudad Aut\u00f3noma de Buenos Aires",
+    "url": "https://api.twitter.com/1.1/geo/id/018f1cde6bad9747.json",
+    "country_code": "AR",
+    "id": "018f1cde6bad9747",
+    "place_type": "city",
+    "attributes": {},
+    "full_name": "Ciudad Aut\u00f3noma de Buenos Aires, Argentina",
+    "country": "Argentina"
+  }
+}

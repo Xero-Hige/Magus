@@ -1,0 +1,106 @@
+{
+  "in_reply_to_user_id": null,
+  "contributors": null,
+  "in_reply_to_screen_name": null,
+  "retweeted": false,
+  "retweet_count": 0,
+  "timestamp_ms": "1508693715466",
+  "in_reply_to_status_id": null,
+  "id_str": "922154396011679745",
+  "created_at": "Sun Oct 22 17:35:15 +0000 2017",
+  "id": 922154396011679745,
+  "coordinates": null,
+  "favorite_count": 0,
+  "entities": {
+    "user_mentions": [],
+    "symbols": [],
+    "hashtags": [],
+    "urls": []
+  },
+  "reply_count": 0,
+  "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+  "place": {
+    "attributes": {},
+    "url": "https://api.twitter.com/1.1/geo/id/01df29355ffa0d6b.json",
+    "place_type": "city",
+    "id": "01df29355ffa0d6b",
+    "country_code": "AR",
+    "name": "Santa Rosa",
+    "country": "Argentina",
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            -64.338104,
+            -36.662555
+          ],
+          [
+            -64.338104,
+            -36.575113
+          ],
+          [
+            -64.247851,
+            -36.575113
+          ],
+          [
+            -64.247851,
+            -36.662555
+          ]
+        ]
+      ]
+    },
+    "full_name": "Santa Rosa, Argentina"
+  },
+  "truncated": false,
+  "in_reply_to_status_id_str": null,
+  "filter_level": "low",
+  "text": "\"Ser\u00e1 necesario que soporte dos o tres orugas, si quiero conocer las mariposa\"",
+  "geo": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": false,
+  "favorited": false,
+  "user": {
+    "verified": false,
+    "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/499038367271505921/Z_SiCeoa.jpeg",
+    "statuses_count": 15078,
+    "screen_name": "michatomasso",
+    "default_profile_image": false,
+    "time_zone": "Athens",
+    "name": "El Subver",
+    "id_str": "611102491",
+    "profile_sidebar_border_color": "000000",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/611102491/1401842005",
+    "created_at": "Sun Jun 17 20:27:35 +0000 2012",
+    "friends_count": 395,
+    "url": null,
+    "profile_background_tile": true,
+    "protected": false,
+    "translator_type": "none",
+    "profile_text_color": "333333",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/904128892142837760/cJvjj_sg_normal.jpg",
+    "listed_count": 0,
+    "notifications": null,
+    "contributors_enabled": false,
+    "is_translator": false,
+    "location": null,
+    "profile_use_background_image": true,
+    "followers_count": 351,
+    "profile_sidebar_fill_color": "DDEEF6",
+    "geo_enabled": true,
+    "profile_link_color": "A10303",
+    "favourites_count": 790,
+    "following": null,
+    "default_profile": false,
+    "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/499038367271505921/Z_SiCeoa.jpeg",
+    "profile_background_color": "0AC2FA",
+    "id": 611102491,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/904128892142837760/cJvjj_sg_normal.jpg",
+    "lang": "es",
+    "description": "Decime micha. Es menester y me gusta crear conciencia, repreguntar/me todo lo naturalizado y milito por un mundo de iguales.",
+    "follow_request_sent": null,
+    "utc_offset": 10800
+  },
+  "quote_count": 0,
+  "lang": "es"
+}

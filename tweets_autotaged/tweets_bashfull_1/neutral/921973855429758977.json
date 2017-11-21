@@ -1,0 +1,175 @@
+{
+  "in_reply_to_user_id": 220736837,
+  "contributors": null,
+  "id": 921973855429758977,
+  "retweeted": false,
+  "retweet_count": 0,
+  "timestamp_ms": "1508650671237",
+  "in_reply_to_status_id": 921972730483957760,
+  "id_str": "921973855429758977",
+  "coordinates": null,
+  "created_at": "Sun Oct 22 05:37:51 +0000 2017",
+  "quote_count": 0,
+  "favorite_count": 0,
+  "entities": {
+    "user_mentions": [
+      {
+        "indices": [
+          0,
+          8
+        ],
+        "name": "Abraham",
+        "screen_name": "horaiki",
+        "id": 220736837,
+        "id_str": "220736837"
+      },
+      {
+        "indices": [
+          9,
+          20
+        ],
+        "name": "Fiorella Esquivel",
+        "screen_name": "fiorellaes",
+        "id": 189558355,
+        "id_str": "189558355"
+      }
+    ],
+    "symbols": [],
+    "hashtags": [],
+    "urls": [
+      {
+        "expanded_url": "https://twitter.com/i/web/status/921973855429758977",
+        "indices": [
+          117,
+          140
+        ],
+        "url": "https://t.co/1Aj78y1A9c",
+        "display_url": "twitter.com/i/web/status/9\u2026"
+      }
+    ]
+  },
+  "reply_count": 0,
+  "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+  "place": {
+    "attributes": {},
+    "url": "https://api.twitter.com/1.1/geo/id/018f1cde6bad9747.json",
+    "place_type": "city",
+    "id": "018f1cde6bad9747",
+    "country_code": "AR",
+    "name": "Ciudad Aut\u00f3noma de Buenos Aires",
+    "country": "Argentina",
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            -58.531792,
+            -34.674453
+          ],
+          [
+            -58.531792,
+            -34.534177
+          ],
+          [
+            -58.353494,
+            -34.534177
+          ],
+          [
+            -58.353494,
+            -34.674453
+          ]
+        ]
+      ]
+    },
+    "full_name": "Ciudad Aut\u00f3noma de Buenos Aires, Argentina"
+  },
+  "truncated": true,
+  "in_reply_to_status_id_str": "921972730483957760",
+  "in_reply_to_screen_name": "horaiki",
+  "filter_level": "low",
+  "text": "@horaiki @fiorellaes Igual es posta lo q te digo tipo no dejabas q compre nada para no estar resaqueados al otro d\u00ed\u2026 https://t.co/1Aj78y1A9c",
+  "geo": null,
+  "in_reply_to_user_id_str": "220736837",
+  "is_quote_status": false,
+  "display_text_range": [
+    21,
+    140
+  ],
+  "favorited": false,
+  "user": {
+    "verified": false,
+    "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/522011562119159808/628Eset5.jpeg",
+    "statuses_count": 15331,
+    "screen_name": "JazminGambarte",
+    "default_profile_image": false,
+    "time_zone": "Brasilia",
+    "name": "Jaz",
+    "id_str": "1721030245",
+    "profile_sidebar_border_color": "FFFFFF",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1721030245/1482090662",
+    "created_at": "Mon Sep 02 03:08:57 +0000 2013",
+    "friends_count": 440,
+    "url": null,
+    "profile_background_tile": true,
+    "protected": false,
+    "translator_type": "none",
+    "profile_text_color": "362720",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/882102952265166850/EKcmZrbv_normal.jpg",
+    "listed_count": 6,
+    "notifications": null,
+    "contributors_enabled": false,
+    "is_translator": false,
+    "location": "Buenos Aires, Argentina",
+    "profile_use_background_image": true,
+    "followers_count": 486,
+    "profile_sidebar_fill_color": "E5507E",
+    "geo_enabled": true,
+    "profile_link_color": "FF5577",
+    "favourites_count": 7778,
+    "following": null,
+    "default_profile": false,
+    "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/522011562119159808/628Eset5.jpeg",
+    "profile_background_color": "DD2E44",
+    "id": 1721030245,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/882102952265166850/EKcmZrbv_normal.jpg",
+    "lang": "es",
+    "description": "El lunes comienzo el gym",
+    "follow_request_sent": null,
+    "utc_offset": -7200
+  },
+  "extended_tweet": {
+    "entities": {
+      "user_mentions": [
+        {
+          "indices": [
+            0,
+            8
+          ],
+          "name": "Abraham",
+          "screen_name": "horaiki",
+          "id": 220736837,
+          "id_str": "220736837"
+        },
+        {
+          "indices": [
+            9,
+            20
+          ],
+          "name": "Fiorella Esquivel",
+          "screen_name": "fiorellaes",
+          "id": 189558355,
+          "id_str": "189558355"
+        }
+      ],
+      "symbols": [],
+      "hashtags": [],
+      "urls": []
+    },
+    "display_text_range": [
+      21,
+      159
+    ],
+    "full_text": "@horaiki @fiorellaes Igual es posta lo q te digo tipo no dejabas q compre nada para no estar resaqueados al otro d\u00eda y re que ese finde NO ESCABIAMOS CASI NADA"
+  },
+  "lang": "es"
+}

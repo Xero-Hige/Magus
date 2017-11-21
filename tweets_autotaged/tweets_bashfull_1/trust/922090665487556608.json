@@ -1,0 +1,114 @@
+{
+  "in_reply_to_user_id": null,
+  "contributors": null,
+  "in_reply_to_screen_name": null,
+  "retweeted": false,
+  "retweet_count": 0,
+  "timestamp_ms": "1508678520925",
+  "in_reply_to_status_id": null,
+  "id_str": "922090665487556608",
+  "created_at": "Sun Oct 22 13:22:00 +0000 2017",
+  "id": 922090665487556608,
+  "coordinates": null,
+  "favorite_count": 0,
+  "entities": {
+    "user_mentions": [],
+    "symbols": [],
+    "hashtags": [
+      {
+        "text": "EleccionesArgentina",
+        "indices": [
+          0,
+          20
+        ]
+      }
+    ],
+    "urls": []
+  },
+  "reply_count": 0,
+  "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+  "place": {
+    "attributes": {},
+    "url": "https://api.twitter.com/1.1/geo/id/0b79f7e718cb54b9.json",
+    "place_type": "admin",
+    "id": "0b79f7e718cb54b9",
+    "country_code": "AR",
+    "name": "C\u00f3rdoba",
+    "country": "Argentina",
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            -65.778264,
+            -34.998735
+          ],
+          [
+            -65.778264,
+            -29.503325
+          ],
+          [
+            -61.777678,
+            -29.503325
+          ],
+          [
+            -61.777678,
+            -34.998735
+          ]
+        ]
+      ]
+    },
+    "full_name": "C\u00f3rdoba, Argentina"
+  },
+  "truncated": false,
+  "in_reply_to_status_id_str": null,
+  "filter_level": "low",
+  "text": "#EleccionesArgentina Feliz puto domingo electoral ...",
+  "geo": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": false,
+  "favorited": false,
+  "user": {
+    "verified": false,
+    "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/751237798/9d715a07d62b81de2ce36b632c8f43ce.jpeg",
+    "statuses_count": 1429,
+    "screen_name": "taty077",
+    "default_profile_image": false,
+    "time_zone": "Mid-Atlantic",
+    "name": "\u028e\u0287\u0250\u0287\u2764\u2764",
+    "id_str": "254334532",
+    "profile_sidebar_border_color": "FFFFFF",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/254334532/1446412371",
+    "created_at": "Sat Feb 19 02:51:57 +0000 2011",
+    "friends_count": 247,
+    "url": null,
+    "profile_background_tile": true,
+    "protected": false,
+    "translator_type": "none",
+    "profile_text_color": "3D1957",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/838596284583915520/rWg4BwHt_normal.jpg",
+    "listed_count": 1,
+    "notifications": null,
+    "contributors_enabled": false,
+    "is_translator": false,
+    "location": "C\u00f3rdoba, Argentina",
+    "profile_use_background_image": true,
+    "followers_count": 250,
+    "profile_sidebar_fill_color": "7AC3EE",
+    "geo_enabled": true,
+    "profile_link_color": "FF0000",
+    "favourites_count": 3439,
+    "following": null,
+    "default_profile": false,
+    "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/751237798/9d715a07d62b81de2ce36b632c8f43ce.jpeg",
+    "profile_background_color": "642D8B",
+    "id": 254334532,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/838596284583915520/rWg4BwHt_normal.jpg",
+    "lang": "es",
+    "description": null,
+    "follow_request_sent": null,
+    "utc_offset": -7200
+  },
+  "quote_count": 0,
+  "lang": "es"
+}

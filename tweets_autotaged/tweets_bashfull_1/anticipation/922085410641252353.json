@@ -1,0 +1,106 @@
+{
+  "in_reply_to_user_id": null,
+  "contributors": null,
+  "in_reply_to_screen_name": null,
+  "retweeted": false,
+  "retweet_count": 0,
+  "timestamp_ms": "1508677268072",
+  "in_reply_to_status_id": null,
+  "id_str": "922085410641252353",
+  "created_at": "Sun Oct 22 13:01:08 +0000 2017",
+  "id": 922085410641252353,
+  "coordinates": null,
+  "favorite_count": 0,
+  "entities": {
+    "user_mentions": [],
+    "symbols": [],
+    "hashtags": [],
+    "urls": []
+  },
+  "reply_count": 0,
+  "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+  "place": {
+    "attributes": {},
+    "url": "https://api.twitter.com/1.1/geo/id/018f1cde6bad9747.json",
+    "place_type": "city",
+    "id": "018f1cde6bad9747",
+    "country_code": "AR",
+    "name": "Ciudad Aut\u00f3noma de Buenos Aires",
+    "country": "Argentina",
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            -58.531792,
+            -34.674453
+          ],
+          [
+            -58.531792,
+            -34.534177
+          ],
+          [
+            -58.353494,
+            -34.534177
+          ],
+          [
+            -58.353494,
+            -34.674453
+          ]
+        ]
+      ]
+    },
+    "full_name": "Ciudad Aut\u00f3noma de Buenos Aires, Argentina"
+  },
+  "truncated": false,
+  "in_reply_to_status_id_str": null,
+  "filter_level": "low",
+  "text": "El seductor,es un cazador paciente.\nSabe esperar.",
+  "geo": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": false,
+  "favorited": false,
+  "user": {
+    "verified": false,
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+    "statuses_count": 26321,
+    "screen_name": "doctorzeolla",
+    "default_profile_image": false,
+    "time_zone": "Buenos Aires",
+    "name": "Dr. H\u00e9ctor R. Zeolla",
+    "id_str": "217517180",
+    "profile_sidebar_border_color": "000000",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/217517180/1508194102",
+    "created_at": "Fri Nov 19 19:02:56 +0000 2010",
+    "friends_count": 4912,
+    "url": "http://www.doctorzeolla.com",
+    "profile_background_tile": false,
+    "protected": false,
+    "translator_type": "regular",
+    "profile_text_color": "000000",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/920661692509511681/-FGHN5aG_normal.jpg",
+    "listed_count": 68,
+    "notifications": null,
+    "contributors_enabled": false,
+    "is_translator": false,
+    "location": "Buenos Aires - Argentina",
+    "profile_use_background_image": false,
+    "followers_count": 5405,
+    "profile_sidebar_fill_color": "000000",
+    "geo_enabled": true,
+    "profile_link_color": "1B95E0",
+    "favourites_count": 304,
+    "following": null,
+    "default_profile": false,
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+    "profile_background_color": "000000",
+    "id": 217517180,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/920661692509511681/-FGHN5aG_normal.jpg",
+    "lang": "es",
+    "description": "M\u00e9dico Psiquiatra- Psicoanalista Especialista en Salud Sexual-Docente Universitario-Supervisor Psicoterap\u00e9utico Escritor Cient.y Literario-Divulgador Cient\u00edfico",
+    "follow_request_sent": null,
+    "utc_offset": -10800
+  },
+  "quote_count": 0,
+  "lang": "es"
+}

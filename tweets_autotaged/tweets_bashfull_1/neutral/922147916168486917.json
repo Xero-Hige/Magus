@@ -1,0 +1,106 @@
+{
+  "in_reply_to_user_id": null,
+  "contributors": null,
+  "in_reply_to_screen_name": null,
+  "retweeted": false,
+  "retweet_count": 0,
+  "timestamp_ms": "1508692170551",
+  "in_reply_to_status_id": null,
+  "id_str": "922147916168486917",
+  "created_at": "Sun Oct 22 17:09:30 +0000 2017",
+  "id": 922147916168486917,
+  "coordinates": null,
+  "favorite_count": 0,
+  "entities": {
+    "user_mentions": [],
+    "symbols": [],
+    "hashtags": [],
+    "urls": []
+  },
+  "reply_count": 0,
+  "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+  "place": {
+    "attributes": {},
+    "url": "https://api.twitter.com/1.1/geo/id/6cf2fd60a82329fc.json",
+    "place_type": "country",
+    "id": "6cf2fd60a82329fc",
+    "country_code": "PY",
+    "name": "Paraguay",
+    "country": "Paraguay",
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            -62.64512,
+            -27.594325
+          ],
+          [
+            -62.64512,
+            -19.294041
+          ],
+          [
+            -54.258291,
+            -19.294041
+          ],
+          [
+            -54.258291,
+            -27.594325
+          ]
+        ]
+      ]
+    },
+    "full_name": "Paraguay"
+  },
+  "truncated": false,
+  "in_reply_to_status_id_str": null,
+  "filter_level": "low",
+  "text": "La SEAM abri\u00f3 fuert\u00edsimo el paraguas con el tema de las pilas",
+  "geo": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": false,
+  "favorited": false,
+  "user": {
+    "verified": false,
+    "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/831706972/3dcc4956d47f6a0be3a0aa0d0e33e83c.jpeg",
+    "statuses_count": 6673,
+    "screen_name": "achacoss",
+    "default_profile_image": false,
+    "time_zone": "La Paz",
+    "name": "Ran",
+    "id_str": "1184757548",
+    "profile_sidebar_border_color": "FFFFFF",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1184757548/1468290599",
+    "created_at": "Sat Feb 16 05:29:54 +0000 2013",
+    "friends_count": 726,
+    "url": null,
+    "profile_background_tile": true,
+    "protected": false,
+    "translator_type": "none",
+    "profile_text_color": "333333",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/916923461183918082/M8o2bqqo_normal.jpg",
+    "listed_count": 14,
+    "notifications": null,
+    "contributors_enabled": false,
+    "is_translator": false,
+    "location": "Paraguay",
+    "profile_use_background_image": true,
+    "followers_count": 140,
+    "profile_sidebar_fill_color": "DDEEF6",
+    "geo_enabled": true,
+    "profile_link_color": "4A913C",
+    "favourites_count": 1642,
+    "following": null,
+    "default_profile": false,
+    "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/831706972/3dcc4956d47f6a0be3a0aa0d0e33e83c.jpeg",
+    "profile_background_color": "C0DEED",
+    "id": 1184757548,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/916923461183918082/M8o2bqqo_normal.jpg",
+    "lang": "es",
+    "description": "I can run the world from my mama's house. Se habla biolog\u00eda y CAS.",
+    "follow_request_sent": null,
+    "utc_offset": -14400
+  },
+  "quote_count": 0,
+  "lang": "es"
+}

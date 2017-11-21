@@ -1,0 +1,121 @@
+{
+  "in_reply_to_user_id": 33382746,
+  "contributors": null,
+  "id": 922079622279376896,
+  "retweeted": false,
+  "retweet_count": 0,
+  "timestamp_ms": "1508675888019",
+  "in_reply_to_status_id": 922074170585944065,
+  "id_str": "922079622279376896",
+  "created_at": "Sun Oct 22 12:38:08 +0000 2017",
+  "coordinates": null,
+  "favorite_count": 0,
+  "entities": {
+    "user_mentions": [
+      {
+        "indices": [
+          0,
+          6
+        ],
+        "name": "Tere",
+        "screen_name": "_Cota",
+        "id": 33382746,
+        "id_str": "33382746"
+      }
+    ],
+    "symbols": [],
+    "hashtags": [],
+    "urls": []
+  },
+  "reply_count": 0,
+  "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+  "place": {
+    "attributes": {},
+    "url": "https://api.twitter.com/1.1/geo/id/00c4b64e7affea25.json",
+    "place_type": "city",
+    "id": "00c4b64e7affea25",
+    "country_code": "CL",
+    "name": "Las Condes",
+    "country": "Chile",
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            -70.608694,
+            -33.486182
+          ],
+          [
+            -70.608694,
+            -33.364619
+          ],
+          [
+            -70.429141,
+            -33.364619
+          ],
+          [
+            -70.429141,
+            -33.486182
+          ]
+        ]
+      ]
+    },
+    "full_name": "Las Condes, Chile"
+  },
+  "truncated": false,
+  "in_reply_to_status_id_str": "922074170585944065",
+  "in_reply_to_screen_name": "_Cota",
+  "filter_level": "low",
+  "text": "@_Cota Es por eso que est\u00e1 la m\u00edtica ley de que si te robas una gallina te dan como un bill\u00f3n de a\u00f1os?",
+  "geo": null,
+  "in_reply_to_user_id_str": "33382746",
+  "is_quote_status": false,
+  "display_text_range": [
+    7,
+    102
+  ],
+  "favorited": false,
+  "user": {
+    "verified": false,
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+    "statuses_count": 70381,
+    "screen_name": "andresotondo",
+    "default_profile_image": false,
+    "time_zone": "Santiago",
+    "name": "mr. peanutbutter",
+    "id_str": "14565018",
+    "profile_sidebar_border_color": "EEEEEE",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/14565018/1506521698",
+    "created_at": "Mon Apr 28 03:31:50 +0000 2008",
+    "friends_count": 1558,
+    "url": "http://instagram.com/andres_otondo",
+    "profile_background_tile": true,
+    "protected": false,
+    "translator_type": "none",
+    "profile_text_color": "333333",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/916106907332554752/cU186Q5a_normal.jpg",
+    "listed_count": 90,
+    "notifications": null,
+    "contributors_enabled": false,
+    "is_translator": false,
+    "location": "Santiago, Chile",
+    "profile_use_background_image": true,
+    "followers_count": 1862,
+    "profile_sidebar_fill_color": "EFEFEF",
+    "geo_enabled": true,
+    "profile_link_color": "009999",
+    "favourites_count": 9925,
+    "following": null,
+    "default_profile": false,
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+    "profile_background_color": "131516",
+    "id": 14565018,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/916106907332554752/cU186Q5a_normal.jpg",
+    "lang": "es",
+    "description": "ingeniero | emprendedor en el d\u00eda y botillero en la noche | de coprol\u00e1lico lenguaje y disf\u00e9mico hablar  | 31 | pipiolo",
+    "follow_request_sent": null,
+    "utc_offset": -10800
+  },
+  "quote_count": 0,
+  "lang": "es"
+}

@@ -1,0 +1,137 @@
+{
+  "in_reply_to_user_id": null,
+  "contributors": null,
+  "in_reply_to_screen_name": null,
+  "retweeted": false,
+  "retweet_count": 0,
+  "timestamp_ms": "1508695330698",
+  "in_reply_to_status_id": null,
+  "id_str": "922161170785615872",
+  "created_at": "Sun Oct 22 18:02:10 +0000 2017",
+  "id": 922161170785615872,
+  "coordinates": {
+    "type": "Point",
+    "coordinates": [
+      -68.871212,
+      -32.890359
+    ]
+  },
+  "favorite_count": 0,
+  "entities": {
+    "user_mentions": [],
+    "symbols": [],
+    "hashtags": [
+      {
+        "text": "todoelteam",
+        "indices": [
+          15,
+          26
+        ]
+      }
+    ],
+    "urls": [
+      {
+        "expanded_url": "https://www.instagram.com/p/Baj0M74FsLw/",
+        "indices": [
+          54,
+          77
+        ],
+        "url": "https://t.co/OYqsNZytsc",
+        "display_url": "instagram.com/p/Baj0M74FsLw/"
+      }
+    ]
+  },
+  "reply_count": 0,
+  "source": "<a href=\"http://instagram.com\" rel=\"nofollow\">Instagram</a>",
+  "place": {
+    "attributes": {},
+    "url": "https://api.twitter.com/1.1/geo/id/00054d3a0a8df14e.json",
+    "place_type": "city",
+    "id": "00054d3a0a8df14e",
+    "country_code": "AR",
+    "name": "Mendoza",
+    "country": "Argentina",
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            -68.91592,
+            -32.904531
+          ],
+          [
+            -68.91592,
+            -32.862154
+          ],
+          [
+            -68.817455,
+            -32.862154
+          ],
+          [
+            -68.817455,
+            -32.904531
+          ]
+        ]
+      ]
+    },
+    "full_name": "Mendoza, Argentina"
+  },
+  "truncated": false,
+  "in_reply_to_status_id_str": null,
+  "filter_level": "low",
+  "text": "Un d\u00eda normal. #todoelteam en General San Mart\u00edn Park https://t.co/OYqsNZytsc",
+  "geo": {
+    "type": "Point",
+    "coordinates": [
+      -32.890359,
+      -68.871212
+    ]
+  },
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": false,
+  "possibly_sensitive": false,
+  "favorited": false,
+  "user": {
+    "verified": false,
+    "profile_background_image_url": "",
+    "statuses_count": 116,
+    "screen_name": "JuanLheras",
+    "default_profile_image": false,
+    "time_zone": null,
+    "name": "Juan Luis",
+    "id_str": "912572173557968896",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/912572173557968896/1506409554",
+    "created_at": "Tue Sep 26 06:58:55 +0000 2017",
+    "friends_count": 115,
+    "url": null,
+    "profile_background_tile": false,
+    "protected": false,
+    "translator_type": "none",
+    "profile_text_color": "333333",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/912573772313399296/0IGgX3gi_normal.jpg",
+    "listed_count": 0,
+    "notifications": null,
+    "contributors_enabled": false,
+    "is_translator": false,
+    "location": "Sinaloa, M\u00e9xico",
+    "profile_use_background_image": true,
+    "followers_count": 48,
+    "profile_sidebar_fill_color": "DDEEF6",
+    "geo_enabled": true,
+    "profile_link_color": "1DA1F2",
+    "favourites_count": 317,
+    "following": null,
+    "default_profile": true,
+    "profile_background_image_url_https": "",
+    "profile_background_color": "F5F8FA",
+    "id": 912572173557968896,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/912573772313399296/0IGgX3gi_normal.jpg",
+    "lang": "es",
+    "description": "\ud83d\udc64|23|",
+    "follow_request_sent": null,
+    "utc_offset": null
+  },
+  "quote_count": 0,
+  "lang": "es"
+}

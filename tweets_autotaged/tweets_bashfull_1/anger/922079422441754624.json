@@ -1,0 +1,174 @@
+{
+  "in_reply_to_user_id": 2792557771,
+  "contributors": null,
+  "id": 922079422441754624,
+  "retweeted": false,
+  "retweet_count": 0,
+  "timestamp_ms": "1508675840374",
+  "in_reply_to_status_id": 922070867001184256,
+  "id_str": "922079422441754624",
+  "coordinates": null,
+  "created_at": "Sun Oct 22 12:37:20 +0000 2017",
+  "quote_count": 0,
+  "favorite_count": 0,
+  "entities": {
+    "user_mentions": [
+      {
+        "indices": [
+          0,
+          13
+        ],
+        "name": "El Destape",
+        "screen_name": "eldestapeweb",
+        "id": 2792557771,
+        "id_str": "2792557771"
+      },
+      {
+        "indices": [
+          14,
+          24
+        ],
+        "name": "Cambiemos",
+        "screen_name": "cambiemos",
+        "id": 4341845367,
+        "id_str": "4341845367"
+      }
+    ],
+    "symbols": [],
+    "hashtags": [],
+    "urls": [
+      {
+        "expanded_url": "https://twitter.com/i/web/status/922079422441754624",
+        "indices": [
+          117,
+          140
+        ],
+        "url": "https://t.co/sTShZFmmRf",
+        "display_url": "twitter.com/i/web/status/9\u2026"
+      }
+    ]
+  },
+  "reply_count": 0,
+  "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+  "place": {
+    "attributes": {},
+    "url": "https://api.twitter.com/1.1/geo/id/00758a48394df3ce.json",
+    "place_type": "city",
+    "id": "00758a48394df3ce",
+    "country_code": "AR",
+    "name": "Villa Soldati",
+    "country": "Argentina",
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            -58.502543,
+            -34.705421
+          ],
+          [
+            -58.502543,
+            -34.613843
+          ],
+          [
+            -58.389939,
+            -34.613843
+          ],
+          [
+            -58.389939,
+            -34.705421
+          ]
+        ]
+      ]
+    },
+    "full_name": "Villa Soldati, Argentina"
+  },
+  "truncated": true,
+  "in_reply_to_status_id_str": "922070867001184256",
+  "in_reply_to_screen_name": "eldestapeweb",
+  "filter_level": "low",
+  "text": "@eldestapeweb @cambiemos HAY MAS ASESINOS. SON RESENTIDOS. SOCIALES ELLOS LO MATARAN CON ESA VIOLENCIA NO SE ISIERO\u2026 https://t.co/sTShZFmmRf",
+  "geo": null,
+  "in_reply_to_user_id_str": "2792557771",
+  "is_quote_status": false,
+  "display_text_range": [
+    25,
+    140
+  ],
+  "favorited": false,
+  "user": {
+    "verified": false,
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "statuses_count": 2501,
+    "screen_name": "Hugom2011",
+    "default_profile_image": false,
+    "time_zone": "Santiago",
+    "name": "Hugo Menezes",
+    "id_str": "253525938",
+    "profile_sidebar_border_color": "C0DEED",
+    "created_at": "Thu Feb 17 12:27:43 +0000 2011",
+    "friends_count": 135,
+    "url": null,
+    "profile_background_tile": false,
+    "protected": false,
+    "translator_type": "none",
+    "profile_text_color": "333333",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000114134301/cbb0ef036f2c066506575c765ff76154_normal.jpeg",
+    "listed_count": 0,
+    "notifications": null,
+    "contributors_enabled": false,
+    "is_translator": false,
+    "location": null,
+    "profile_use_background_image": true,
+    "followers_count": 37,
+    "profile_sidebar_fill_color": "DDEEF6",
+    "geo_enabled": true,
+    "profile_link_color": "1DA1F2",
+    "favourites_count": 1241,
+    "following": null,
+    "default_profile": true,
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_color": "C0DEED",
+    "id": 253525938,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/378800000114134301/cbb0ef036f2c066506575c765ff76154_normal.jpeg",
+    "lang": "es",
+    "description": null,
+    "follow_request_sent": null,
+    "utc_offset": -10800
+  },
+  "extended_tweet": {
+    "entities": {
+      "user_mentions": [
+        {
+          "indices": [
+            0,
+            13
+          ],
+          "name": "El Destape",
+          "screen_name": "eldestapeweb",
+          "id": 2792557771,
+          "id_str": "2792557771"
+        },
+        {
+          "indices": [
+            14,
+            24
+          ],
+          "name": "Cambiemos",
+          "screen_name": "cambiemos",
+          "id": 4341845367,
+          "id_str": "4341845367"
+        }
+      ],
+      "symbols": [],
+      "hashtags": [],
+      "urls": []
+    },
+    "display_text_range": [
+      25,
+      163
+    ],
+    "full_text": "@eldestapeweb @cambiemos HAY MAS ASESINOS. SON RESENTIDOS. SOCIALES ELLOS LO MATARAN CON ESA VIOLENCIA NO SE ISIERON CARGO JAMAS . NO RESPETAN LA LIBERTAD DE SABER"
+  },
+  "lang": "es"
+}

@@ -1,0 +1,364 @@
+{
+  "in_reply_to_user_id": null,
+  "contributors": null,
+  "id": 922093362286645248,
+  "retweeted": false,
+  "retweet_count": 0,
+  "timestamp_ms": "1508679163892",
+  "in_reply_to_status_id": null,
+  "id_str": "922093362286645248",
+  "coordinates": null,
+  "created_at": "Sun Oct 22 13:32:43 +0000 2017",
+  "quote_count": 0,
+  "favorite_count": 0,
+  "entities": {
+    "user_mentions": [],
+    "symbols": [],
+    "hashtags": [],
+    "urls": [
+      {
+        "expanded_url": "https://twitter.com/i/web/status/922093362286645248",
+        "indices": [
+          117,
+          140
+        ],
+        "url": "https://t.co/O51Kb18fvB",
+        "display_url": "twitter.com/i/web/status/9\u2026"
+      }
+    ]
+  },
+  "reply_count": 0,
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "place": {
+    "attributes": {},
+    "url": "https://api.twitter.com/1.1/geo/id/01f2931e2c7f48a8.json",
+    "place_type": "city",
+    "id": "01f2931e2c7f48a8",
+    "country_code": "PY",
+    "name": "Asuncion",
+    "country": "Paraguay",
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            -57.674304,
+            -25.34793
+          ],
+          [
+            -57.674304,
+            -25.252598
+          ],
+          [
+            -57.537731,
+            -25.252598
+          ],
+          [
+            -57.537731,
+            -25.34793
+          ]
+        ]
+      ]
+    },
+    "full_name": "Asuncion, Paraguay"
+  },
+  "truncated": true,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_screen_name": null,
+  "filter_level": "low",
+  "text": "Hoy la comunidad de Paz del Chaco inaugura su \"puente de la amistad\", fruto del trabajo entre vecinos y voluntarios\u2026 https://t.co/O51Kb18fvB",
+  "geo": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": false,
+  "possibly_sensitive": false,
+  "display_text_range": [
+    0,
+    140
+  ],
+  "favorited": false,
+  "user": {
+    "verified": true,
+    "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/472386183595446273/LCc8FTaj.png",
+    "statuses_count": 11646,
+    "screen_name": "TECHOpry",
+    "default_profile_image": false,
+    "time_zone": "La Paz",
+    "name": "TECHO Paraguay",
+    "id_str": "106864765",
+    "profile_sidebar_border_color": "FFFFFF",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/106864765/1505417377",
+    "created_at": "Wed Jan 20 22:59:54 +0000 2010",
+    "friends_count": 2105,
+    "url": "http://www.techo.org/paraguay",
+    "profile_background_tile": false,
+    "protected": false,
+    "translator_type": "none",
+    "profile_text_color": "333333",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/880448197075902465/W9982JjC_normal.jpg",
+    "listed_count": 108,
+    "notifications": null,
+    "contributors_enabled": false,
+    "is_translator": false,
+    "location": "Cruz del Chaco 390",
+    "profile_use_background_image": true,
+    "followers_count": 17034,
+    "profile_sidebar_fill_color": "DDEEF6",
+    "geo_enabled": true,
+    "profile_link_color": "0084B4",
+    "favourites_count": 1896,
+    "following": null,
+    "default_profile": false,
+    "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/472386183595446273/LCc8FTaj.png",
+    "profile_background_color": "C0DEED",
+    "id": 106864765,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/880448197075902465/W9982JjC_normal.jpg",
+    "lang": "es",
+    "description": "\u00a1J\u00f3venes voluntarios y comunidades construyendo juntos un Paraguay sin pobreza!",
+    "follow_request_sent": null,
+    "utc_offset": -14400
+  },
+  "extended_tweet": {
+    "entities": {
+      "user_mentions": [],
+      "symbols": [],
+      "hashtags": [
+        {
+          "text": "ConstruyendoComunidad",
+          "indices": [
+            117,
+            139
+          ]
+        }
+      ],
+      "urls": [],
+      "media": [
+        {
+          "indices": [
+            140,
+            163
+          ],
+          "media_url_https": "https://pbs.twimg.com/media/DMvvAgZWsAAAggk.jpg",
+          "url": "https://t.co/WZMMWIy3Jd",
+          "expanded_url": "https://twitter.com/TECHOpry/status/922093362286645248/photo/1",
+          "id": 922093340702715904,
+          "sizes": {
+            "medium": {
+              "resize": "fit",
+              "w": 750,
+              "h": 1000
+            },
+            "large": {
+              "resize": "fit",
+              "w": 750,
+              "h": 1000
+            },
+            "small": {
+              "resize": "fit",
+              "w": 510,
+              "h": 680
+            },
+            "thumb": {
+              "resize": "crop",
+              "w": 150,
+              "h": 150
+            }
+          },
+          "media_url": "http://pbs.twimg.com/media/DMvvAgZWsAAAggk.jpg",
+          "id_str": "922093340702715904",
+          "display_url": "pic.twitter.com/WZMMWIy3Jd",
+          "type": "photo"
+        },
+        {
+          "indices": [
+            140,
+            163
+          ],
+          "media_url_https": "https://pbs.twimg.com/media/DMvvAgVWsAArO7p.jpg",
+          "url": "https://t.co/WZMMWIy3Jd",
+          "expanded_url": "https://twitter.com/TECHOpry/status/922093362286645248/photo/1",
+          "id": 922093340685938688,
+          "sizes": {
+            "medium": {
+              "resize": "fit",
+              "w": 1000,
+              "h": 750
+            },
+            "large": {
+              "resize": "fit",
+              "w": 1000,
+              "h": 750
+            },
+            "small": {
+              "resize": "fit",
+              "w": 680,
+              "h": 510
+            },
+            "thumb": {
+              "resize": "crop",
+              "w": 150,
+              "h": 150
+            }
+          },
+          "media_url": "http://pbs.twimg.com/media/DMvvAgVWsAArO7p.jpg",
+          "id_str": "922093340685938688",
+          "display_url": "pic.twitter.com/WZMMWIy3Jd",
+          "type": "photo"
+        },
+        {
+          "indices": [
+            140,
+            163
+          ],
+          "media_url_https": "https://pbs.twimg.com/media/DMvvAgWWkAMAjA0.jpg",
+          "url": "https://t.co/WZMMWIy3Jd",
+          "expanded_url": "https://twitter.com/TECHOpry/status/922093362286645248/photo/1",
+          "id": 922093340690124803,
+          "sizes": {
+            "medium": {
+              "resize": "fit",
+              "w": 1000,
+              "h": 750
+            },
+            "large": {
+              "resize": "fit",
+              "w": 1000,
+              "h": 750
+            },
+            "small": {
+              "resize": "fit",
+              "w": 680,
+              "h": 510
+            },
+            "thumb": {
+              "resize": "crop",
+              "w": 150,
+              "h": 150
+            }
+          },
+          "media_url": "http://pbs.twimg.com/media/DMvvAgWWkAMAjA0.jpg",
+          "id_str": "922093340690124803",
+          "display_url": "pic.twitter.com/WZMMWIy3Jd",
+          "type": "photo"
+        }
+      ]
+    },
+    "display_text_range": [
+      0,
+      139
+    ],
+    "extended_entities": {
+      "media": [
+        {
+          "indices": [
+            140,
+            163
+          ],
+          "media_url_https": "https://pbs.twimg.com/media/DMvvAgZWsAAAggk.jpg",
+          "url": "https://t.co/WZMMWIy3Jd",
+          "expanded_url": "https://twitter.com/TECHOpry/status/922093362286645248/photo/1",
+          "id": 922093340702715904,
+          "sizes": {
+            "medium": {
+              "resize": "fit",
+              "w": 750,
+              "h": 1000
+            },
+            "large": {
+              "resize": "fit",
+              "w": 750,
+              "h": 1000
+            },
+            "small": {
+              "resize": "fit",
+              "w": 510,
+              "h": 680
+            },
+            "thumb": {
+              "resize": "crop",
+              "w": 150,
+              "h": 150
+            }
+          },
+          "media_url": "http://pbs.twimg.com/media/DMvvAgZWsAAAggk.jpg",
+          "id_str": "922093340702715904",
+          "display_url": "pic.twitter.com/WZMMWIy3Jd",
+          "type": "photo"
+        },
+        {
+          "indices": [
+            140,
+            163
+          ],
+          "media_url_https": "https://pbs.twimg.com/media/DMvvAgVWsAArO7p.jpg",
+          "url": "https://t.co/WZMMWIy3Jd",
+          "expanded_url": "https://twitter.com/TECHOpry/status/922093362286645248/photo/1",
+          "id": 922093340685938688,
+          "sizes": {
+            "medium": {
+              "resize": "fit",
+              "w": 1000,
+              "h": 750
+            },
+            "large": {
+              "resize": "fit",
+              "w": 1000,
+              "h": 750
+            },
+            "small": {
+              "resize": "fit",
+              "w": 680,
+              "h": 510
+            },
+            "thumb": {
+              "resize": "crop",
+              "w": 150,
+              "h": 150
+            }
+          },
+          "media_url": "http://pbs.twimg.com/media/DMvvAgVWsAArO7p.jpg",
+          "id_str": "922093340685938688",
+          "display_url": "pic.twitter.com/WZMMWIy3Jd",
+          "type": "photo"
+        },
+        {
+          "indices": [
+            140,
+            163
+          ],
+          "media_url_https": "https://pbs.twimg.com/media/DMvvAgWWkAMAjA0.jpg",
+          "url": "https://t.co/WZMMWIy3Jd",
+          "expanded_url": "https://twitter.com/TECHOpry/status/922093362286645248/photo/1",
+          "id": 922093340690124803,
+          "sizes": {
+            "medium": {
+              "resize": "fit",
+              "w": 1000,
+              "h": 750
+            },
+            "large": {
+              "resize": "fit",
+              "w": 1000,
+              "h": 750
+            },
+            "small": {
+              "resize": "fit",
+              "w": 680,
+              "h": 510
+            },
+            "thumb": {
+              "resize": "crop",
+              "w": 150,
+              "h": 150
+            }
+          },
+          "media_url": "http://pbs.twimg.com/media/DMvvAgWWkAMAjA0.jpg",
+          "id_str": "922093340690124803",
+          "display_url": "pic.twitter.com/WZMMWIy3Jd",
+          "type": "photo"
+        }
+      ]
+    },
+    "full_text": "Hoy la comunidad de Paz del Chaco inaugura su \"puente de la amistad\", fruto del trabajo entre vecinos y voluntarios \ud83c\udf89#ConstruyendoComunidad https://t.co/WZMMWIy3Jd"
+  },
+  "lang": "es"
+}

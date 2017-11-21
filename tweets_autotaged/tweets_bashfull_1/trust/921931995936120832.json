@@ -1,0 +1,493 @@
+{
+  "in_reply_to_user_id": 146632192,
+  "contributors": null,
+  "id": 921931995936120832,
+  "retweeted": false,
+  "retweet_count": 0,
+  "timestamp_ms": "1508640691156",
+  "in_reply_to_status_id": 921931020324233216,
+  "id_str": "921931995936120832",
+  "coordinates": null,
+  "created_at": "Sun Oct 22 02:51:31 +0000 2017",
+  "quote_count": 0,
+  "favorite_count": 0,
+  "entities": {
+    "user_mentions": [
+      {
+        "indices": [
+          0,
+          13
+        ],
+        "name": "Clau",
+        "screen_name": "ClauDeLellis",
+        "id": 146632192,
+        "id_str": "146632192"
+      },
+      {
+        "indices": [
+          14,
+          28
+        ],
+        "name": "Leonardo Perea",
+        "screen_name": "NanoPereaSADA",
+        "id": 1489261886,
+        "id_str": "1489261886"
+      },
+      {
+        "indices": [
+          29,
+          43
+        ],
+        "name": "Miguel Amadeo",
+        "screen_name": "MiguelAmadeoh",
+        "id": 229669266,
+        "id_str": "229669266"
+      },
+      {
+        "indices": [
+          44,
+          60
+        ],
+        "name": "Prensa Cambiemos",
+        "screen_name": "PrensaCambiemos",
+        "id": 4518503302,
+        "id_str": "4518503302"
+      },
+      {
+        "indices": [
+          61,
+          76
+        ],
+        "name": "Alex Campbell",
+        "screen_name": "AlexCampbellOK",
+        "id": 52614568,
+        "id_str": "52614568"
+      },
+      {
+        "indices": [
+          77,
+          89
+        ],
+        "name": "Myriam Soljacich",
+        "screen_name": "myriamsolja",
+        "id": 181261660,
+        "id_str": "181261660"
+      },
+      {
+        "indices": [
+          90,
+          105
+        ],
+        "name": "#CambiandoJuntos",
+        "screen_name": "FuerzaMauricio",
+        "id": 91160646,
+        "id_str": "91160646"
+      }
+    ],
+    "symbols": [],
+    "hashtags": [],
+    "urls": [
+      {
+        "expanded_url": "https://twitter.com/i/web/status/921931995936120832",
+        "indices": [
+          107,
+          130
+        ],
+        "url": "https://t.co/d71IJOy26J",
+        "display_url": "twitter.com/i/web/status/9\u2026"
+      }
+    ]
+  },
+  "reply_count": 0,
+  "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+  "place": {
+    "attributes": {},
+    "url": "https://api.twitter.com/1.1/geo/id/01157a53721bef6a.json",
+    "place_type": "city",
+    "id": "01157a53721bef6a",
+    "country_code": "AR",
+    "name": "Santo Tom\u00e9",
+    "country": "Argentina",
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            -60.808655,
+            -31.700707
+          ],
+          [
+            -60.808655,
+            -31.650068
+          ],
+          [
+            -60.748957,
+            -31.650068
+          ],
+          [
+            -60.748957,
+            -31.700707
+          ]
+        ]
+      ]
+    },
+    "full_name": "Santo Tom\u00e9, Argentina"
+  },
+  "truncated": true,
+  "in_reply_to_status_id_str": "921931020324233216",
+  "in_reply_to_screen_name": "ClauDeLellis",
+  "filter_level": "low",
+  "text": "@ClauDeLellis @NanoPereaSADA @MiguelAmadeoh @PrensaCambiemos @AlexCampbellOK @myriamsolja @FuerzaMauricio\u2026 https://t.co/d71IJOy26J",
+  "geo": null,
+  "in_reply_to_user_id_str": "146632192",
+  "is_quote_status": false,
+  "possibly_sensitive": false,
+  "display_text_range": [
+    117,
+    140
+  ],
+  "favorited": false,
+  "user": {
+    "verified": false,
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "statuses_count": 70850,
+    "screen_name": "GHMGaitan",
+    "default_profile_image": false,
+    "time_zone": "Pacific Time (US & Canada)",
+    "name": "GHMG",
+    "id_str": "3307806957",
+    "profile_sidebar_border_color": "C0DEED",
+    "created_at": "Thu Jun 04 05:49:28 +0000 2015",
+    "friends_count": 1056,
+    "url": null,
+    "profile_background_tile": false,
+    "protected": false,
+    "translator_type": "none",
+    "profile_text_color": "333333",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/606337656092561408/K_xqVSnw_normal.jpg",
+    "listed_count": 6,
+    "notifications": null,
+    "contributors_enabled": false,
+    "is_translator": false,
+    "location": null,
+    "profile_use_background_image": true,
+    "followers_count": 970,
+    "profile_sidebar_fill_color": "DDEEF6",
+    "geo_enabled": true,
+    "profile_link_color": "1DA1F2",
+    "favourites_count": 36550,
+    "following": null,
+    "default_profile": true,
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_color": "C0DEED",
+    "id": 3307806957,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/606337656092561408/K_xqVSnw_normal.jpg",
+    "lang": "es",
+    "description": null,
+    "follow_request_sent": null,
+    "utc_offset": -25200
+  },
+  "extended_tweet": {
+    "entities": {
+      "user_mentions": [
+        {
+          "indices": [
+            0,
+            13
+          ],
+          "name": "Clau",
+          "screen_name": "ClauDeLellis",
+          "id": 146632192,
+          "id_str": "146632192"
+        },
+        {
+          "indices": [
+            14,
+            28
+          ],
+          "name": "Leonardo Perea",
+          "screen_name": "NanoPereaSADA",
+          "id": 1489261886,
+          "id_str": "1489261886"
+        },
+        {
+          "indices": [
+            29,
+            43
+          ],
+          "name": "Miguel Amadeo",
+          "screen_name": "MiguelAmadeoh",
+          "id": 229669266,
+          "id_str": "229669266"
+        },
+        {
+          "indices": [
+            44,
+            60
+          ],
+          "name": "Prensa Cambiemos",
+          "screen_name": "PrensaCambiemos",
+          "id": 4518503302,
+          "id_str": "4518503302"
+        },
+        {
+          "indices": [
+            61,
+            76
+          ],
+          "name": "Alex Campbell",
+          "screen_name": "AlexCampbellOK",
+          "id": 52614568,
+          "id_str": "52614568"
+        },
+        {
+          "indices": [
+            77,
+            89
+          ],
+          "name": "Myriam Soljacich",
+          "screen_name": "myriamsolja",
+          "id": 181261660,
+          "id_str": "181261660"
+        },
+        {
+          "indices": [
+            90,
+            105
+          ],
+          "name": "#CambiandoJuntos",
+          "screen_name": "FuerzaMauricio",
+          "id": 91160646,
+          "id_str": "91160646"
+        },
+        {
+          "indices": [
+            106,
+            117
+          ],
+          "name": "Francisco Ratto",
+          "screen_name": "rattofranc",
+          "id": 2875886081,
+          "id_str": "2875886081"
+        },
+        {
+          "indices": [
+            118,
+            133
+          ],
+          "name": "Cambiemos Areco",
+          "screen_name": "CambiemosAreco",
+          "id": 886610292569931778,
+          "id_str": "886610292569931778"
+        },
+        {
+          "indices": [
+            134,
+            145
+          ],
+          "name": "Mar\u00eda Fernanda",
+          "screen_name": "ferchita71",
+          "id": 1956599767,
+          "id_str": "1956599767"
+        },
+        {
+          "indices": [
+            146,
+            156
+          ],
+          "name": "Cambiemos",
+          "screen_name": "cambiemos",
+          "id": 4341845367,
+          "id_str": "4341845367"
+        },
+        {
+          "indices": [
+            157,
+            169
+          ],
+          "name": "Daniel Salvador",
+          "screen_name": "SalvadorPBA",
+          "id": 3366427300,
+          "id_str": "3366427300"
+        },
+        {
+          "indices": [
+            170,
+            184
+          ],
+          "name": "NelaPazzaglia",
+          "screen_name": "NelaPazzaglia",
+          "id": 850868736374562817,
+          "id_str": "850868736374562817"
+        }
+      ],
+      "symbols": [],
+      "hashtags": [
+        {
+          "text": "MananaCambiemos",
+          "indices": [
+            273,
+            289
+          ]
+        }
+      ],
+      "urls": [],
+      "media": [
+        {
+          "indices": [
+            290,
+            313
+          ],
+          "media_url_https": "https://pbs.twimg.com/media/DMtcLiSXcAAHD1u.jpg",
+          "url": "https://t.co/x2ACZlhxpH",
+          "expanded_url": "https://twitter.com/GHMGaitan/status/921931995936120832/photo/1",
+          "id": 921931901979553792,
+          "sizes": {
+            "medium": {
+              "resize": "fit",
+              "w": 621,
+              "h": 454
+            },
+            "large": {
+              "resize": "fit",
+              "w": 621,
+              "h": 454
+            },
+            "small": {
+              "resize": "fit",
+              "w": 621,
+              "h": 454
+            },
+            "thumb": {
+              "resize": "crop",
+              "w": 150,
+              "h": 150
+            }
+          },
+          "media_url": "http://pbs.twimg.com/media/DMtcLiSXcAAHD1u.jpg",
+          "id_str": "921931901979553792",
+          "display_url": "pic.twitter.com/x2ACZlhxpH",
+          "type": "photo"
+        },
+        {
+          "indices": [
+            290,
+            313
+          ],
+          "media_url_https": "https://pbs.twimg.com/media/DMtcQMgXcAAIeJi.jpg",
+          "url": "https://t.co/x2ACZlhxpH",
+          "expanded_url": "https://twitter.com/GHMGaitan/status/921931995936120832/photo/1",
+          "id": 921931982032039936,
+          "sizes": {
+            "medium": {
+              "resize": "fit",
+              "w": 525,
+              "h": 524
+            },
+            "large": {
+              "resize": "fit",
+              "w": 525,
+              "h": 524
+            },
+            "small": {
+              "resize": "fit",
+              "w": 525,
+              "h": 524
+            },
+            "thumb": {
+              "resize": "crop",
+              "w": 150,
+              "h": 150
+            }
+          },
+          "media_url": "http://pbs.twimg.com/media/DMtcQMgXcAAIeJi.jpg",
+          "id_str": "921931982032039936",
+          "display_url": "pic.twitter.com/x2ACZlhxpH",
+          "type": "photo"
+        }
+      ]
+    },
+    "display_text_range": [
+      185,
+      289
+    ],
+    "extended_entities": {
+      "media": [
+        {
+          "indices": [
+            290,
+            313
+          ],
+          "media_url_https": "https://pbs.twimg.com/media/DMtcLiSXcAAHD1u.jpg",
+          "url": "https://t.co/x2ACZlhxpH",
+          "expanded_url": "https://twitter.com/GHMGaitan/status/921931995936120832/photo/1",
+          "id": 921931901979553792,
+          "sizes": {
+            "medium": {
+              "resize": "fit",
+              "w": 621,
+              "h": 454
+            },
+            "large": {
+              "resize": "fit",
+              "w": 621,
+              "h": 454
+            },
+            "small": {
+              "resize": "fit",
+              "w": 621,
+              "h": 454
+            },
+            "thumb": {
+              "resize": "crop",
+              "w": 150,
+              "h": 150
+            }
+          },
+          "media_url": "http://pbs.twimg.com/media/DMtcLiSXcAAHD1u.jpg",
+          "id_str": "921931901979553792",
+          "display_url": "pic.twitter.com/x2ACZlhxpH",
+          "type": "photo"
+        },
+        {
+          "indices": [
+            290,
+            313
+          ],
+          "media_url_https": "https://pbs.twimg.com/media/DMtcQMgXcAAIeJi.jpg",
+          "url": "https://t.co/x2ACZlhxpH",
+          "expanded_url": "https://twitter.com/GHMGaitan/status/921931995936120832/photo/1",
+          "id": 921931982032039936,
+          "sizes": {
+            "medium": {
+              "resize": "fit",
+              "w": 525,
+              "h": 524
+            },
+            "large": {
+              "resize": "fit",
+              "w": 525,
+              "h": 524
+            },
+            "small": {
+              "resize": "fit",
+              "w": 525,
+              "h": 524
+            },
+            "thumb": {
+              "resize": "crop",
+              "w": 150,
+              "h": 150
+            }
+          },
+          "media_url": "http://pbs.twimg.com/media/DMtcQMgXcAAIeJi.jpg",
+          "id_str": "921931982032039936",
+          "display_url": "pic.twitter.com/x2ACZlhxpH",
+          "type": "photo"
+        }
+      ]
+    },
+    "full_text": "@ClauDeLellis @NanoPereaSADA @MiguelAmadeoh @PrensaCambiemos @AlexCampbellOK @myriamsolja @FuerzaMauricio @rattofranc @CambiemosAreco @ferchita71 @cambiemos @SalvadorPBA @NelaPazzaglia GRACIAS X CUIDAR NTRO VOTO , SIN DUDAS TODO EL APOYO D UN PUEBLO Q BUSCA PAZ Y RESPETO  #MananaCambiemos https://t.co/x2ACZlhxpH"
+  },
+  "lang": "es"
+}

@@ -1,0 +1,126 @@
+{
+  "in_reply_to_user_id": null,
+  "contributors": null,
+  "in_reply_to_screen_name": null,
+  "retweeted": false,
+  "retweet_count": 0,
+  "timestamp_ms": "1508642841498",
+  "in_reply_to_status_id": null,
+  "id_str": "921941015124217856",
+  "created_at": "Sun Oct 22 03:27:21 +0000 2017",
+  "id": 921941015124217856,
+  "coordinates": null,
+  "favorite_count": 0,
+  "entities": {
+    "user_mentions": [
+      {
+        "indices": [
+          18,
+          28
+        ],
+        "name": "Astros de Houston",
+        "screen_name": "LosAstros",
+        "id": 54360193,
+        "id_str": "54360193"
+      },
+      {
+        "indices": [
+          29,
+          36
+        ],
+        "name": "Houston Astros",
+        "screen_name": "astros",
+        "id": 52803520,
+        "id_str": "52803520"
+      }
+    ],
+    "symbols": [],
+    "hashtags": [],
+    "urls": []
+  },
+  "reply_count": 0,
+  "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+  "place": {
+    "attributes": {},
+    "url": "https://api.twitter.com/1.1/geo/id/0149bbb636ea616c.json",
+    "place_type": "city",
+    "id": "0149bbb636ea616c",
+    "country_code": "CL",
+    "name": "San Joaqu\u00edn",
+    "country": "Chile",
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            -70.64307,
+            -33.518774
+          ],
+          [
+            -70.64307,
+            -33.469444
+          ],
+          [
+            -70.611948,
+            -33.469444
+          ],
+          [
+            -70.611948,
+            -33.518774
+          ]
+        ]
+      ]
+    },
+    "full_name": "San Joaqu\u00edn, Chile"
+  },
+  "truncated": false,
+  "in_reply_to_status_id_str": null,
+  "filter_level": "low",
+  "text": "Felicidades a los @LosAstros @astros de Houston Campeones de la Liga Americana y que pasaron a la Serie Mundial de la MLB contra los Dodgers",
+  "geo": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": false,
+  "favorited": false,
+  "user": {
+    "verified": false,
+    "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/619452579/gt6m9kouci1lzvotsfrt.jpeg",
+    "statuses_count": 34116,
+    "screen_name": "Pollotovarius",
+    "default_profile_image": false,
+    "time_zone": "Santiago",
+    "name": "Eugenio",
+    "id_str": "96829147",
+    "profile_sidebar_border_color": "C0DEED",
+    "created_at": "Mon Dec 14 19:59:46 +0000 2009",
+    "friends_count": 1600,
+    "url": null,
+    "profile_background_tile": true,
+    "protected": false,
+    "translator_type": "none",
+    "profile_text_color": "333333",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/2452001036/zevuxazk9zgxuov7ohru_normal.jpeg",
+    "listed_count": 20,
+    "notifications": null,
+    "contributors_enabled": false,
+    "is_translator": false,
+    "location": null,
+    "profile_use_background_image": true,
+    "followers_count": 409,
+    "profile_sidebar_fill_color": "DDEEF6",
+    "geo_enabled": true,
+    "profile_link_color": "0084B4",
+    "favourites_count": 378,
+    "following": null,
+    "default_profile": false,
+    "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/619452579/gt6m9kouci1lzvotsfrt.jpeg",
+    "profile_background_color": "C0DEED",
+    "id": 96829147,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/2452001036/zevuxazk9zgxuov7ohru_normal.jpeg",
+    "lang": "es",
+    "description": null,
+    "follow_request_sent": null,
+    "utc_offset": -10800
+  },
+  "quote_count": 0,
+  "lang": "es"
+}

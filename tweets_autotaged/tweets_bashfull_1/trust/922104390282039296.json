@@ -1,0 +1,274 @@
+{
+  "in_reply_to_user_id": null,
+  "contributors": null,
+  "id": 922104390282039296,
+  "retweeted": false,
+  "retweet_count": 0,
+  "timestamp_ms": "1508681793171",
+  "in_reply_to_status_id": null,
+  "id_str": "922104390282039296",
+  "coordinates": null,
+  "created_at": "Sun Oct 22 14:16:33 +0000 2017",
+  "quote_count": 0,
+  "favorite_count": 0,
+  "entities": {
+    "user_mentions": [
+      {
+        "indices": [
+          75,
+          89
+        ],
+        "name": "CHAYANNE",
+        "screen_name": "CHAYANNEMUSIC",
+        "id": 29749448,
+        "id_str": "29749448"
+      },
+      {
+        "indices": [
+          90,
+          105
+        ],
+        "name": "Sony Music Chile",
+        "screen_name": "SonyMusicChile",
+        "id": 123985884,
+        "id_str": "123985884"
+      }
+    ],
+    "symbols": [],
+    "hashtags": [],
+    "urls": [
+      {
+        "expanded_url": "https://twitter.com/i/web/status/922104390282039296",
+        "indices": [
+          107,
+          130
+        ],
+        "url": "https://t.co/5SRGxzaIVI",
+        "display_url": "twitter.com/i/web/status/9\u2026"
+      }
+    ]
+  },
+  "reply_count": 0,
+  "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+  "place": {
+    "attributes": {},
+    "url": "https://api.twitter.com/1.1/geo/id/00e76fbf0a273ce5.json",
+    "place_type": "city",
+    "id": "00e76fbf0a273ce5",
+    "country_code": "CL",
+    "name": "Valdivia",
+    "country": "Chile",
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            -73.411399,
+            -40.029857
+          ],
+          [
+            -73.411399,
+            -39.637104
+          ],
+          [
+            -72.922392,
+            -39.637104
+          ],
+          [
+            -72.922392,
+            -40.029857
+          ]
+        ]
+      ]
+    },
+    "full_name": "Valdivia, Chile"
+  },
+  "truncated": true,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_screen_name": null,
+  "filter_level": "low",
+  "text": "Ay \u00bfQu\u00e9 me has hecho? Que hasta perd\u00ed la raz\u00f3n \nHoy he venido a confesarte @CHAYANNEMUSIC @SonyMusicChile\u2026 https://t.co/5SRGxzaIVI",
+  "geo": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": false,
+  "possibly_sensitive": false,
+  "display_text_range": [
+    0,
+    140
+  ],
+  "favorited": false,
+  "user": {
+    "verified": false,
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "statuses_count": 12650,
+    "screen_name": "ChayAmigasChile",
+    "default_profile_image": false,
+    "time_zone": "Pacific Time (US & Canada)",
+    "name": "ChayAmigas",
+    "id_str": "4104631163",
+    "profile_sidebar_border_color": "000000",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/4104631163/1492732182",
+    "created_at": "Tue Nov 03 12:54:23 +0000 2015",
+    "friends_count": 1112,
+    "url": null,
+    "profile_background_tile": false,
+    "protected": false,
+    "translator_type": "none",
+    "profile_text_color": "000000",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/727923104157151234/aGBqwuT1_normal.jpg",
+    "listed_count": 1,
+    "notifications": null,
+    "contributors_enabled": false,
+    "is_translator": false,
+    "location": "Santiago ",
+    "profile_use_background_image": false,
+    "followers_count": 617,
+    "profile_sidebar_fill_color": "000000",
+    "geo_enabled": true,
+    "profile_link_color": "DD2E44",
+    "favourites_count": 8145,
+    "following": null,
+    "default_profile": false,
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_color": "000000",
+    "id": 4104631163,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/727923104157151234/aGBqwuT1_normal.jpg",
+    "lang": "es",
+    "description": "Somos un grupo de amigas unidas por nuestro amor y apoyo al mejor de todos, a @ChayanneMusic",
+    "follow_request_sent": null,
+    "utc_offset": -25200
+  },
+  "extended_tweet": {
+    "entities": {
+      "user_mentions": [
+        {
+          "indices": [
+            75,
+            89
+          ],
+          "name": "CHAYANNE",
+          "screen_name": "CHAYANNEMUSIC",
+          "id": 29749448,
+          "id_str": "29749448"
+        },
+        {
+          "indices": [
+            90,
+            105
+          ],
+          "name": "Sony Music Chile",
+          "screen_name": "SonyMusicChile",
+          "id": 123985884,
+          "id_str": "123985884"
+        },
+        {
+          "indices": [
+            106,
+            122
+          ],
+          "name": "Radio Rom\u00e1ntica",
+          "screen_name": "Radio_Romantica",
+          "id": 89200813,
+          "id_str": "89200813"
+        },
+        {
+          "indices": [
+            123,
+            139
+          ],
+          "name": "Manuel E. Thompson G",
+          "screen_name": "Mister_Thompson",
+          "id": 234613359,
+          "id_str": "234613359"
+        }
+      ],
+      "symbols": [],
+      "hashtags": [],
+      "urls": [],
+      "media": [
+        {
+          "indices": [
+            140,
+            163
+          ],
+          "media_url_https": "https://pbs.twimg.com/media/DMvt-UrXUAISTNE.jpg",
+          "url": "https://t.co/kweWFLSEcI",
+          "expanded_url": "https://twitter.com/ChayAmigasChile/status/922104390282039296/photo/1",
+          "id": 922092203685662722,
+          "sizes": {
+            "medium": {
+              "resize": "fit",
+              "w": 700,
+              "h": 400
+            },
+            "large": {
+              "resize": "fit",
+              "w": 700,
+              "h": 400
+            },
+            "small": {
+              "resize": "fit",
+              "w": 680,
+              "h": 389
+            },
+            "thumb": {
+              "resize": "crop",
+              "w": 150,
+              "h": 150
+            }
+          },
+          "media_url": "http://pbs.twimg.com/media/DMvt-UrXUAISTNE.jpg",
+          "id_str": "922092203685662722",
+          "display_url": "pic.twitter.com/kweWFLSEcI",
+          "type": "photo"
+        }
+      ]
+    },
+    "display_text_range": [
+      0,
+      139
+    ],
+    "extended_entities": {
+      "media": [
+        {
+          "indices": [
+            140,
+            163
+          ],
+          "media_url_https": "https://pbs.twimg.com/media/DMvt-UrXUAISTNE.jpg",
+          "url": "https://t.co/kweWFLSEcI",
+          "expanded_url": "https://twitter.com/ChayAmigasChile/status/922104390282039296/photo/1",
+          "id": 922092203685662722,
+          "sizes": {
+            "medium": {
+              "resize": "fit",
+              "w": 700,
+              "h": 400
+            },
+            "large": {
+              "resize": "fit",
+              "w": 700,
+              "h": 400
+            },
+            "small": {
+              "resize": "fit",
+              "w": 680,
+              "h": 389
+            },
+            "thumb": {
+              "resize": "crop",
+              "w": 150,
+              "h": 150
+            }
+          },
+          "media_url": "http://pbs.twimg.com/media/DMvt-UrXUAISTNE.jpg",
+          "id_str": "922092203685662722",
+          "display_url": "pic.twitter.com/kweWFLSEcI",
+          "type": "photo"
+        }
+      ]
+    },
+    "full_text": "Ay \u00bfQu\u00e9 me has hecho? Que hasta perd\u00ed la raz\u00f3n \nHoy he venido a confesarte @CHAYANNEMUSIC @SonyMusicChile @Radio_Romantica @Mister_Thompson https://t.co/kweWFLSEcI"
+  },
+  "lang": "es"
+}

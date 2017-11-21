@@ -1,0 +1,129 @@
+{
+  "in_reply_to_user_id": null,
+  "contributors": null,
+  "in_reply_to_screen_name": null,
+  "retweeted": false,
+  "retweet_count": 0,
+  "timestamp_ms": "1508662457976",
+  "in_reply_to_status_id": null,
+  "id_str": "922023292596342785",
+  "created_at": "Sun Oct 22 08:54:17 +0000 2017",
+  "id": 922023292596342785,
+  "coordinates": {
+    "type": "Point",
+    "coordinates": [
+      -70.6684,
+      -33.4577
+    ]
+  },
+  "favorite_count": 0,
+  "entities": {
+    "user_mentions": [],
+    "symbols": [],
+    "hashtags": [],
+    "urls": [
+      {
+        "expanded_url": "https://central132.cl/llamado-128345?1",
+        "indices": [
+          105,
+          128
+        ],
+        "url": "https://t.co/XOrE9XJvEq",
+        "display_url": "central132.cl/llamado-128345\u2026"
+      }
+    ]
+  },
+  "reply_count": 0,
+  "source": "<a href=\"https://central132.cl\" rel=\"nofollow\">Central132</a>",
+  "place": {
+    "attributes": {},
+    "url": "https://api.twitter.com/1.1/geo/id/0010b4cb51ca93d8.json",
+    "place_type": "city",
+    "id": "0010b4cb51ca93d8",
+    "country_code": "CL",
+    "name": "Santiago",
+    "country": "Chile",
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            -70.692959,
+            -33.478574
+          ],
+          [
+            -70.692959,
+            -33.425749
+          ],
+          [
+            -70.626272,
+            -33.425749
+          ],
+          [
+            -70.626272,
+            -33.478574
+          ]
+        ]
+      ]
+    },
+    "full_name": "Santiago, Chile"
+  },
+  "truncated": false,
+  "in_reply_to_status_id_str": null,
+  "filter_level": "low",
+  "text": "05:53 en Santiago Llamado a fuego en pastizales y/o basura (10-2) B17 Almirante Blanco Encalada y Espa\u00f1a https://t.co/XOrE9XJvEq",
+  "geo": {
+    "type": "Point",
+    "coordinates": [
+      -33.4577,
+      -70.6684
+    ]
+  },
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": false,
+  "possibly_sensitive": false,
+  "favorited": false,
+  "user": {
+    "verified": false,
+    "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/251273191/twitter-cia-2013.jpg",
+    "statuses_count": 148576,
+    "screen_name": "Bomba_Decima",
+    "default_profile_image": false,
+    "time_zone": "Buenos Aires",
+    "name": "Bomba Espa\u00f1a CBS",
+    "id_str": "156027440",
+    "profile_sidebar_border_color": "EEEEEE",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/156027440/1507133041",
+    "created_at": "Tue Jun 15 20:45:52 +0000 2010",
+    "friends_count": 362,
+    "url": "http://www.bombadecima.cl",
+    "profile_background_tile": false,
+    "protected": false,
+    "translator_type": "none",
+    "profile_text_color": "333333",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/826129588380172288/y2V9adHb_normal.jpg",
+    "listed_count": 357,
+    "notifications": null,
+    "contributors_enabled": false,
+    "is_translator": false,
+    "location": "Av. Manuel Antonio Matta 576",
+    "profile_use_background_image": true,
+    "followers_count": 41817,
+    "profile_sidebar_fill_color": "EFEFEF",
+    "geo_enabled": true,
+    "profile_link_color": "009999",
+    "favourites_count": 2908,
+    "following": null,
+    "default_profile": false,
+    "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/251273191/twitter-cia-2013.jpg",
+    "profile_background_color": "131516",
+    "id": 156027440,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/826129588380172288/y2V9adHb_normal.jpg",
+    "lang": "es",
+    "description": "D\u00e9cima Compa\u00f1\u00eda del Cuerpo de Bomberos de Santiago \u2013 Bomba Espa\u00f1a \u2013 Informaci\u00f3n instant\u00e1nea de emergencias por quienes las atienden las 24 horas, los 365 d\u00edas.",
+    "follow_request_sent": null,
+    "utc_offset": -10800
+  },
+  "quote_count": 0,
+  "lang": "es"
+}

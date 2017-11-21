@@ -1,0 +1,121 @@
+{
+  "in_reply_to_user_id": null,
+  "contributors": null,
+  "in_reply_to_screen_name": null,
+  "retweeted": false,
+  "retweet_count": 0,
+  "timestamp_ms": "1508679956950",
+  "in_reply_to_status_id": null,
+  "id_str": "922096688612937730",
+  "created_at": "Sun Oct 22 13:45:56 +0000 2017",
+  "id": 922096688612937730,
+  "coordinates": null,
+  "favorite_count": 0,
+  "entities": {
+    "user_mentions": [],
+    "symbols": [],
+    "hashtags": [
+      {
+        "text": "Elecciones2017",
+        "indices": [
+          88,
+          103
+        ]
+      },
+      {
+        "text": "SantiagoMaldonadoPresente",
+        "indices": [
+          105,
+          131
+        ]
+      }
+    ],
+    "urls": []
+  },
+  "reply_count": 0,
+  "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+  "place": {
+    "attributes": {},
+    "url": "https://api.twitter.com/1.1/geo/id/018f1cde6bad9747.json",
+    "place_type": "city",
+    "id": "018f1cde6bad9747",
+    "country_code": "AR",
+    "name": "Ciudad Aut\u00f3noma de Buenos Aires",
+    "country": "Argentina",
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            -58.531792,
+            -34.674453
+          ],
+          [
+            -58.531792,
+            -34.534177
+          ],
+          [
+            -58.353494,
+            -34.534177
+          ],
+          [
+            -58.353494,
+            -34.674453
+          ]
+        ]
+      ]
+    },
+    "full_name": "Ciudad Aut\u00f3noma de Buenos Aires, Argentina"
+  },
+  "truncated": false,
+  "in_reply_to_status_id_str": null,
+  "filter_level": "low",
+  "text": "Hoy no es una fiesta de la democracia.Es una lucha contra el peor del pasado que volvi\u00f3 #Elecciones2017  #SantiagoMaldonadoPresente !",
+  "geo": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": false,
+  "favorited": false,
+  "user": {
+    "verified": false,
+    "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000162711045/2XDvnoym.jpeg",
+    "statuses_count": 14624,
+    "screen_name": "sultanika",
+    "default_profile_image": false,
+    "time_zone": "Buenos Aires",
+    "name": "GrapUp#LaResistencia",
+    "id_str": "188041858",
+    "profile_sidebar_border_color": "000000",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/188041858/1447026111",
+    "created_at": "Tue Sep 07 19:58:00 +0000 2010",
+    "friends_count": 6183,
+    "url": null,
+    "profile_background_tile": true,
+    "protected": false,
+    "translator_type": "none",
+    "profile_text_color": "333333",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/861757298540261376/NcvqhNVr_normal.jpg",
+    "listed_count": 89,
+    "notifications": null,
+    "contributors_enabled": false,
+    "is_translator": false,
+    "location": null,
+    "profile_use_background_image": true,
+    "followers_count": 6844,
+    "profile_sidebar_fill_color": "DDEEF6",
+    "geo_enabled": true,
+    "profile_link_color": "0024B3",
+    "favourites_count": 7354,
+    "following": null,
+    "default_profile": false,
+    "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000162711045/2XDvnoym.jpeg",
+    "profile_background_color": "7497CC",
+    "id": 188041858,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/861757298540261376/NcvqhNVr_normal.jpg",
+    "lang": "es",
+    "description": "Periodista. Peronista. Soldada de N\u00e9stor y Cristina. La Lealtad es innegociable.\nIdealista y so\u00f1adora.Apasionada. Consecuente.  #LaGrietaSonLasConvicciones",
+    "follow_request_sent": null,
+    "utc_offset": -10800
+  },
+  "quote_count": 0,
+  "lang": "es"
+}

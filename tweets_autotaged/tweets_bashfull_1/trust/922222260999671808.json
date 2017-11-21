@@ -1,0 +1,125 @@
+{
+  "entities": {
+    "hashtags": [
+      {
+        "indices": [
+          78,
+          91
+        ],
+        "text": "Justicia2020"
+      }
+    ],
+    "symbols": [],
+    "urls": [
+      {
+        "indices": [
+          54,
+          77
+        ],
+        "expanded_url": "http://www.lanacion.com.ar/2074244",
+        "display_url": "lanacion.com.ar/2074244",
+        "url": "https://t.co/OGnCCoQuuM"
+      }
+    ],
+    "user_mentions": []
+  },
+  "in_reply_to_user_id": null,
+  "created_at": "Sun Oct 22 22:04:55 +0000 2017",
+  "favorite_count": 0,
+  "lang": "es",
+  "reply_count": 0,
+  "id_str": "922222260999671808",
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_status_id": null,
+  "timestamp_ms": "1508709895740",
+  "possibly_sensitive": false,
+  "text": "Gesti\u00f3n para mejorar la eficiencia del Poder Judicial https://t.co/OGnCCoQuuM #Justicia2020",
+  "user": {
+    "time_zone": "Buenos Aires",
+    "screen_name": "martincasares",
+    "utc_offset": -10800,
+    "created_at": "Mon Apr 19 03:29:11 +0000 2010",
+    "profile_background_tile": true,
+    "notifications": null,
+    "lang": "es",
+    "default_profile": false,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/134668444/1398246601",
+    "id_str": "134668444",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/763492771088961538/Qdu8cOqZ_normal.jpg",
+    "name": "Martin Casares",
+    "friends_count": 2528,
+    "translator_type": "none",
+    "protected": false,
+    "following": null,
+    "is_translator": false,
+    "follow_request_sent": null,
+    "profile_text_color": "000000",
+    "listed_count": 78,
+    "profile_link_color": "0000FF",
+    "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/136820054/twilk_background_4c6b55ac4a12b.jpg",
+    "url": null,
+    "id": 134668444,
+    "favourites_count": 633,
+    "profile_background_color": "9AE4E8",
+    "followers_count": 5059,
+    "statuses_count": 10249,
+    "description": "Jefe de Gabinete del Ministerio de Justicia y DDHH de la Naci\u00f3n. Investigador - docente.",
+    "location": null,
+    "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/136820054/twilk_background_4c6b55ac4a12b.jpg",
+    "default_profile_image": false,
+    "verified": false,
+    "profile_sidebar_fill_color": "E0FF92",
+    "profile_use_background_image": true,
+    "contributors_enabled": false,
+    "profile_sidebar_border_color": "87BC44",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/763492771088961538/Qdu8cOqZ_normal.jpg",
+    "geo_enabled": true
+  },
+  "geo": null,
+  "id": 922222260999671808,
+  "quote_count": 0,
+  "retweeted": false,
+  "filter_level": "low",
+  "in_reply_to_status_id_str": null,
+  "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+  "favorited": false,
+  "coordinates": null,
+  "truncated": false,
+  "retweet_count": 0,
+  "is_quote_status": false,
+  "in_reply_to_screen_name": null,
+  "contributors": null,
+  "place": {
+    "bounding_box": {
+      "coordinates": [
+        [
+          [
+            -58.346384,
+            -34.801165
+          ],
+          [
+            -58.346384,
+            -34.694657
+          ],
+          [
+            -58.21515,
+            -34.694657
+          ],
+          [
+            -58.21515,
+            -34.801165
+          ]
+        ]
+      ],
+      "type": "Polygon"
+    },
+    "name": "Quilmes",
+    "url": "https://api.twitter.com/1.1/geo/id/004fe39f34e6452f.json",
+    "country_code": "AR",
+    "id": "004fe39f34e6452f",
+    "place_type": "city",
+    "attributes": {},
+    "full_name": "Quilmes, Argentina",
+    "country": "Argentina"
+  }
+}

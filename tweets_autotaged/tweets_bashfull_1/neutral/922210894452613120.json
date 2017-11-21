@@ -1,0 +1,117 @@
+{
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "indices": [
+          0,
+          14
+        ],
+        "screen_name": "mauriciomacri",
+        "name": "Mauricio Macri",
+        "id_str": "24900072",
+        "id": 24900072
+      }
+    ]
+  },
+  "in_reply_to_user_id": 24900072,
+  "created_at": "Sun Oct 22 21:19:45 +0000 2017",
+  "favorite_count": 0,
+  "lang": "es",
+  "reply_count": 0,
+  "id_str": "922210894452613120",
+  "in_reply_to_user_id_str": "24900072",
+  "in_reply_to_status_id": null,
+  "timestamp_ms": "1508707185744",
+  "text": "@mauriciomacri  deber\u00edamos llevarles algo de tomar-comer a las personas que hoy colaboran con nosotros,todo el d\u00eda en las mesas. Gracias!",
+  "user": {
+    "time_zone": "Buenos Aires",
+    "screen_name": "flocarre29",
+    "utc_offset": -10800,
+    "created_at": "Thu Jul 29 03:50:14 +0000 2010",
+    "profile_background_tile": false,
+    "notifications": null,
+    "lang": "en",
+    "default_profile": false,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/172201142/1415463769",
+    "id_str": "172201142",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/860023818844241920/G-YXqWRd_normal.jpg",
+    "name": "Flora \u2728\u2728\uf8ff #ARG",
+    "friends_count": 950,
+    "translator_type": "none",
+    "protected": false,
+    "following": null,
+    "is_translator": false,
+    "follow_request_sent": null,
+    "profile_text_color": "3C3940",
+    "listed_count": 13,
+    "profile_link_color": "0099B9",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+    "url": "http://LoliCernadas.com.ar",
+    "id": 172201142,
+    "favourites_count": 2328,
+    "profile_background_color": "0099B9",
+    "followers_count": 327,
+    "statuses_count": 12807,
+    "description": null,
+    "location": "Palermo Hollywood-",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+    "default_profile_image": false,
+    "verified": false,
+    "profile_sidebar_fill_color": "95E8EC",
+    "profile_use_background_image": true,
+    "contributors_enabled": false,
+    "profile_sidebar_border_color": "5ED4DC",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/860023818844241920/G-YXqWRd_normal.jpg",
+    "geo_enabled": true
+  },
+  "geo": null,
+  "id": 922210894452613120,
+  "quote_count": 0,
+  "retweeted": false,
+  "filter_level": "low",
+  "in_reply_to_status_id_str": null,
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "favorited": false,
+  "coordinates": null,
+  "truncated": false,
+  "retweet_count": 0,
+  "is_quote_status": false,
+  "in_reply_to_screen_name": "mauriciomacri",
+  "contributors": null,
+  "place": {
+    "bounding_box": {
+      "coordinates": [
+        [
+          [
+            -58.531792,
+            -34.674453
+          ],
+          [
+            -58.531792,
+            -34.534177
+          ],
+          [
+            -58.353494,
+            -34.534177
+          ],
+          [
+            -58.353494,
+            -34.674453
+          ]
+        ]
+      ],
+      "type": "Polygon"
+    },
+    "name": "Ciudad Aut\u00f3noma de Buenos Aires",
+    "url": "https://api.twitter.com/1.1/geo/id/018f1cde6bad9747.json",
+    "country_code": "AR",
+    "id": "018f1cde6bad9747",
+    "place_type": "city",
+    "attributes": {},
+    "full_name": "Ciudad Aut\u00f3noma de Buenos Aires, Argentina",
+    "country": "Argentina"
+  }
+}

@@ -1,0 +1,125 @@
+{
+  "entities": {
+    "hashtags": [
+      {
+        "indices": [
+          87,
+          97
+        ],
+        "text": "V\u00edasChile"
+      }
+    ],
+    "symbols": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "indices": [
+          0,
+          12
+        ],
+        "screen_name": "autopista68",
+        "name": "Rutas del Pac\u00edfico",
+        "id_str": "2518160532",
+        "id": 2518160532
+      }
+    ]
+  },
+  "in_reply_to_user_id": 2518160532,
+  "created_at": "Mon Oct 23 00:00:34 +0000 2017",
+  "favorite_count": 0,
+  "lang": "es",
+  "reply_count": 0,
+  "id_str": "922251365598064640",
+  "in_reply_to_user_id_str": "2518160532",
+  "in_reply_to_status_id": null,
+  "timestamp_ms": "1508716834817",
+  "text": "@autopista68 Qu\u00e9 pasa en la ruta que casi no nos movemos Altura peaje Lo Prado Gracias #V\u00edasChile",
+  "user": {
+    "time_zone": "Santiago",
+    "screen_name": "AmenabarMF",
+    "utc_offset": -10800,
+    "created_at": "Tue May 26 15:29:14 +0000 2009",
+    "profile_background_tile": true,
+    "notifications": null,
+    "lang": "es",
+    "default_profile": false,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/42647148/1483757155",
+    "id_str": "42647148",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/826420859090923520/oco70g2w_normal.jpg",
+    "name": "M. Fernanda Gana",
+    "friends_count": 565,
+    "translator_type": "none",
+    "protected": false,
+    "following": null,
+    "is_translator": false,
+    "follow_request_sent": null,
+    "profile_text_color": "D1A599",
+    "listed_count": 13,
+    "profile_link_color": "BBBC9E",
+    "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000056727459/ee92a7ad2317e4b285d81e2de1f32a6b.png",
+    "url": null,
+    "id": 42647148,
+    "favourites_count": 670,
+    "profile_background_color": "B9C4B3",
+    "followers_count": 818,
+    "statuses_count": 26327,
+    "description": "Felizmente casada con mi \u2764\ufe0f @justacitizen y mam\u00e1 de una \ud83d\udc51. Tengo una linda sonrisa y una vida que me encanta! Siempre con arito perla. Ma\u00f1osa desde 2009. \ud83c\udf40",
+    "location": null,
+    "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000056727459/ee92a7ad2317e4b285d81e2de1f32a6b.png",
+    "default_profile_image": false,
+    "verified": false,
+    "profile_sidebar_fill_color": "EB938D",
+    "profile_use_background_image": true,
+    "contributors_enabled": false,
+    "profile_sidebar_border_color": "FF789E",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/826420859090923520/oco70g2w_normal.jpg",
+    "geo_enabled": true
+  },
+  "geo": null,
+  "id": 922251365598064640,
+  "quote_count": 0,
+  "retweeted": false,
+  "filter_level": "low",
+  "in_reply_to_status_id_str": null,
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "favorited": false,
+  "coordinates": null,
+  "truncated": false,
+  "retweet_count": 0,
+  "is_quote_status": false,
+  "in_reply_to_screen_name": "autopista68",
+  "contributors": null,
+  "place": {
+    "bounding_box": {
+      "coordinates": [
+        [
+          [
+            -70.955387,
+            -33.487897
+          ],
+          [
+            -70.955387,
+            -33.350221
+          ],
+          [
+            -70.73141,
+            -33.350221
+          ],
+          [
+            -70.73141,
+            -33.487897
+          ]
+        ]
+      ],
+      "type": "Polygon"
+    },
+    "name": "Pudahuel",
+    "url": "https://api.twitter.com/1.1/geo/id/0154bba02bf8a9f9.json",
+    "country_code": "CL",
+    "id": "0154bba02bf8a9f9",
+    "place_type": "city",
+    "attributes": {},
+    "full_name": "Pudahuel, Chile",
+    "country": "Chile"
+  }
+}

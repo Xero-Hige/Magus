@@ -1,0 +1,136 @@
+{
+  "entities": {
+    "hashtags": [
+      {
+        "indices": [
+          98,
+          115
+        ],
+        "text": "Legislativas2017"
+      }
+    ],
+    "symbols": [],
+    "urls": [
+      {
+        "indices": [
+          117,
+          140
+        ],
+        "expanded_url": "http://www.quatrotv.com/2017/10/en-rio-cuarto-voto-mas-del-70-del-padron/",
+        "display_url": "quatrotv.com/2017/10/en-rio\u2026",
+        "url": "https://t.co/GVX7w0weBj"
+      }
+    ],
+    "user_mentions": [
+      {
+        "indices": [
+          61,
+          70
+        ],
+        "screen_name": "ismarins",
+        "name": "Ismael Rins",
+        "id_str": "285444712",
+        "id": 285444712
+      }
+    ]
+  },
+  "in_reply_to_user_id": null,
+  "created_at": "Sun Oct 22 22:47:08 +0000 2017",
+  "favorite_count": 0,
+  "lang": "es",
+  "reply_count": 0,
+  "id_str": "922232883271622656",
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_status_id": null,
+  "timestamp_ms": "1508712428287",
+  "possibly_sensitive": false,
+  "text": "\"Vot\u00f3 entre el 70 y el 80% del padr\u00f3n en la ciudad\", asegur\u00f3 @ismarins, Defensor del Pueblo local #Legislativas2017 \nhttps://t.co/GVX7w0weBj",
+  "user": {
+    "time_zone": "Buenos Aires",
+    "screen_name": "1NoticiasOk",
+    "utc_offset": -10800,
+    "created_at": "Thu Aug 07 15:41:11 +0000 2014",
+    "profile_background_tile": false,
+    "notifications": null,
+    "lang": "es",
+    "default_profile": false,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/2714817452/1498657498",
+    "id_str": "2714817452",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/843879296447995904/TMR0cr_2_normal.jpg",
+    "name": "Primero Noticias",
+    "friends_count": 361,
+    "translator_type": "none",
+    "protected": false,
+    "following": null,
+    "is_translator": false,
+    "follow_request_sent": null,
+    "profile_text_color": "333333",
+    "listed_count": 9,
+    "profile_link_color": "0084B4",
+    "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/501756466009604096/ikRFyFoG.jpeg",
+    "url": "http://www.quatrotv.com/",
+    "id": 2714817452,
+    "favourites_count": 140,
+    "profile_background_color": "C0DEED",
+    "followers_count": 1563,
+    "statuses_count": 17618,
+    "description": "Desarrollo completo de la informaci\u00f3n y el pulso de las calles.\r\nLo que ocurre en el mundo y en nuestro pa\u00eds, est\u00e1 presente en este segmento.",
+    "location": "Argentina",
+    "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/501756466009604096/ikRFyFoG.jpeg",
+    "default_profile_image": false,
+    "verified": false,
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_use_background_image": true,
+    "contributors_enabled": false,
+    "profile_sidebar_border_color": "FFFFFF",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/843879296447995904/TMR0cr_2_normal.jpg",
+    "geo_enabled": true
+  },
+  "geo": null,
+  "id": 922232883271622656,
+  "quote_count": 0,
+  "retweeted": false,
+  "filter_level": "low",
+  "in_reply_to_status_id_str": null,
+  "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+  "favorited": false,
+  "coordinates": null,
+  "truncated": false,
+  "retweet_count": 0,
+  "is_quote_status": false,
+  "in_reply_to_screen_name": null,
+  "contributors": null,
+  "place": {
+    "bounding_box": {
+      "coordinates": [
+        [
+          [
+            -64.389839,
+            -33.159419
+          ],
+          [
+            -64.389839,
+            -33.088234
+          ],
+          [
+            -64.306209,
+            -33.088234
+          ],
+          [
+            -64.306209,
+            -33.159419
+          ]
+        ]
+      ],
+      "type": "Polygon"
+    },
+    "name": "R\u00edo Cuarto",
+    "url": "https://api.twitter.com/1.1/geo/id/01bd23a802fb1e24.json",
+    "country_code": "AR",
+    "id": "01bd23a802fb1e24",
+    "place_type": "city",
+    "attributes": {},
+    "full_name": "R\u00edo Cuarto, Argentina",
+    "country": "Argentina"
+  }
+}

@@ -1,0 +1,151 @@
+{
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "urls": [
+      {
+        "indices": [
+          117,
+          140
+        ],
+        "expanded_url": "https://twitter.com/i/web/status/922268122941452288",
+        "display_url": "twitter.com/i/web/status/9\u2026",
+        "url": "https://t.co/TSF7zyklqf"
+      }
+    ],
+    "user_mentions": [
+      {
+        "indices": [
+          47,
+          62
+        ],
+        "screen_name": "RossiAgustinOk",
+        "name": "Agustin Rossi",
+        "id_str": "2786609149",
+        "id": 2786609149
+      }
+    ]
+  },
+  "in_reply_to_user_id": null,
+  "created_at": "Mon Oct 23 01:07:10 +0000 2017",
+  "favorite_count": 0,
+  "lang": "es",
+  "reply_count": 0,
+  "id_str": "922268122941452288",
+  "in_reply_to_user_id_str": null,
+  "extended_tweet": {
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "urls": [],
+      "user_mentions": [
+        {
+          "indices": [
+            47,
+            62
+          ],
+          "screen_name": "RossiAgustinOk",
+          "name": "Agustin Rossi",
+          "id_str": "2786609149",
+          "id": 2786609149
+        }
+      ]
+    },
+    "display_text_range": [
+      0,
+      146
+    ],
+    "full_text": "Con casi el 50% de mesas escrutadas en Sta Fe, @RossiAgustinOk dio como un hecho el ingreso de tres diputados nacionales del Frente Justicialista."
+  },
+  "in_reply_to_status_id": null,
+  "timestamp_ms": "1508720830079",
+  "text": "Con casi el 50% de mesas escrutadas en Sta Fe, @RossiAgustinOk dio como un hecho el ingreso de tres diputados nacio\u2026 https://t.co/TSF7zyklqf",
+  "user": {
+    "time_zone": "Buenos Aires",
+    "screen_name": "JFelcaro",
+    "utc_offset": -10800,
+    "created_at": "Fri Oct 21 02:33:43 +0000 2011",
+    "profile_background_tile": true,
+    "notifications": null,
+    "lang": "es",
+    "default_profile": false,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/395069182/1492650304",
+    "id_str": "395069182",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/581475739050106881/o0udTmcI_normal.jpg",
+    "name": "Javier Felcaro",
+    "friends_count": 3369,
+    "translator_type": "none",
+    "protected": false,
+    "following": null,
+    "is_translator": false,
+    "follow_request_sent": null,
+    "profile_text_color": "400312",
+    "listed_count": 48,
+    "profile_link_color": "B30909",
+    "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/446273252390731777/GQB-6cWX.jpeg",
+    "url": null,
+    "id": 395069182,
+    "favourites_count": 14087,
+    "profile_background_color": "000000",
+    "followers_count": 5156,
+    "statuses_count": 38579,
+    "description": "Subjefe de la secci\u00f3n Pol\u00edtica del diario La Capital de Rosario (@lacapital) y productor de La Ocho-AM 830 (@laochoam830) / Thought I was a spaceman.",
+    "location": "Rosario, Argentina.",
+    "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/446273252390731777/GQB-6cWX.jpeg",
+    "default_profile_image": false,
+    "verified": false,
+    "profile_sidebar_fill_color": "644F12",
+    "profile_use_background_image": true,
+    "contributors_enabled": false,
+    "profile_sidebar_border_color": "000000",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/581475739050106881/o0udTmcI_normal.jpg",
+    "geo_enabled": true
+  },
+  "geo": null,
+  "id": 922268122941452288,
+  "quote_count": 0,
+  "retweeted": false,
+  "filter_level": "low",
+  "in_reply_to_status_id_str": null,
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "favorited": false,
+  "coordinates": null,
+  "truncated": true,
+  "retweet_count": 0,
+  "is_quote_status": false,
+  "in_reply_to_screen_name": null,
+  "contributors": null,
+  "place": {
+    "bounding_box": {
+      "coordinates": [
+        [
+          [
+            -60.781306,
+            -33.033993
+          ],
+          [
+            -60.781306,
+            -32.869238
+          ],
+          [
+            -60.613506,
+            -32.869238
+          ],
+          [
+            -60.613506,
+            -33.033993
+          ]
+        ]
+      ],
+      "type": "Polygon"
+    },
+    "name": "Rosario",
+    "url": "https://api.twitter.com/1.1/geo/id/0079bbc151fa56d2.json",
+    "country_code": "AR",
+    "id": "0079bbc151fa56d2",
+    "place_type": "city",
+    "attributes": {},
+    "full_name": "Rosario, Argentina",
+    "country": "Argentina"
+  }
+}

@@ -1,0 +1,106 @@
+{
+  "in_reply_to_user_id": null,
+  "contributors": null,
+  "in_reply_to_screen_name": null,
+  "retweeted": false,
+  "retweet_count": 0,
+  "timestamp_ms": "1508681421253",
+  "in_reply_to_status_id": null,
+  "id_str": "922102830344925184",
+  "created_at": "Sun Oct 22 14:10:21 +0000 2017",
+  "id": 922102830344925184,
+  "coordinates": null,
+  "favorite_count": 0,
+  "entities": {
+    "user_mentions": [],
+    "symbols": [],
+    "hashtags": [],
+    "urls": []
+  },
+  "reply_count": 0,
+  "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+  "place": {
+    "attributes": {},
+    "url": "https://api.twitter.com/1.1/geo/id/009b71fa17159ccc.json",
+    "place_type": "admin",
+    "id": "009b71fa17159ccc",
+    "country_code": "UY",
+    "name": "Canelones",
+    "country": "Uruguay",
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            -56.494047,
+            -34.88039
+          ],
+          [
+            -56.494047,
+            -34.207474
+          ],
+          [
+            -55.393215,
+            -34.207474
+          ],
+          [
+            -55.393215,
+            -34.88039
+          ]
+        ]
+      ]
+    },
+    "full_name": "Canelones, Uruguay"
+  },
+  "truncated": false,
+  "in_reply_to_status_id_str": null,
+  "filter_level": "low",
+  "text": "Una Suprema Corte de Justicia que promueve un c\u00f3digo inconstitucional e inmoral NO cuenta con mi confianza.",
+  "geo": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": false,
+  "favorited": false,
+  "user": {
+    "verified": false,
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+    "statuses_count": 45160,
+    "screen_name": "sallelorier",
+    "default_profile_image": false,
+    "time_zone": "Buenos Aires",
+    "name": "Dr. Salle Lorier",
+    "id_str": "408786542",
+    "profile_sidebar_border_color": "EEEEEE",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/408786542/1471035407",
+    "created_at": "Wed Nov 09 21:56:09 +0000 2011",
+    "friends_count": 29191,
+    "url": null,
+    "profile_background_tile": true,
+    "protected": false,
+    "translator_type": "none",
+    "profile_text_color": "333333",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/885879142822150144/_DvNvDLS_normal.jpg",
+    "listed_count": 55,
+    "notifications": null,
+    "contributors_enabled": false,
+    "is_translator": false,
+    "location": "Montevideo, Uruguay",
+    "profile_use_background_image": true,
+    "followers_count": 26968,
+    "profile_sidebar_fill_color": "EFEFEF",
+    "geo_enabled": true,
+    "profile_link_color": "009999",
+    "favourites_count": 6423,
+    "following": null,
+    "default_profile": false,
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+    "profile_background_color": "131516",
+    "id": 408786542,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/885879142822150144/_DvNvDLS_normal.jpg",
+    "lang": "es",
+    "description": "Dr. Gustavo Salle Lorier Abogado Penalista\r\n099663580",
+    "follow_request_sent": null,
+    "utc_offset": -10800
+  },
+  "quote_count": 0,
+  "lang": "es"
+}

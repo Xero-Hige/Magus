@@ -1,0 +1,117 @@
+{
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "indices": [
+          118,
+          122
+        ],
+        "screen_name": "TVN",
+        "name": "TVN",
+        "id_str": "106502630",
+        "id": 106502630
+      }
+    ]
+  },
+  "in_reply_to_user_id": null,
+  "created_at": "Mon Oct 23 00:43:27 +0000 2017",
+  "favorite_count": 0,
+  "lang": "es",
+  "reply_count": 0,
+  "id_str": "922262155625451520",
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_status_id": null,
+  "timestamp_ms": "1508719407360",
+  "text": "Cuando dicen: \"No dudaban en matar a quien se cruzara en su camino\" Pens\u00e9 que era FIdel Castro, pero son los sicarios @TVN \u00bfNo era mentira?",
+  "user": {
+    "time_zone": "Santiago",
+    "screen_name": "ericahenriquezo",
+    "utc_offset": -10800,
+    "created_at": "Fri Mar 26 18:03:29 +0000 2010",
+    "profile_background_tile": true,
+    "notifications": null,
+    "lang": "es",
+    "default_profile": false,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/126695224/1402289705",
+    "id_str": "126695224",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/885183738551951364/AsF_dITc_normal.jpg",
+    "name": "Erica Henriquez",
+    "friends_count": 9734,
+    "translator_type": "none",
+    "protected": false,
+    "following": null,
+    "is_translator": false,
+    "follow_request_sent": null,
+    "profile_text_color": "020214",
+    "listed_count": 165,
+    "profile_link_color": "1B95E0",
+    "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000075943996/91f6a6ca2ca2ff3f30723ec4398c235b.jpeg",
+    "url": null,
+    "id": 126695224,
+    "favourites_count": 115874,
+    "profile_background_color": "0F9E8B",
+    "followers_count": 13561,
+    "statuses_count": 177274,
+    "description": "\u00a1Ese milagro comenz\u00f3 desde la concepci\u00f3n y te desarrollaste en el vientre de tu madre! ehoduo@gmail.com\nCansada de la mafia pol\u00edtica. Chile",
+    "location": "Libre pensadora ",
+    "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000075943996/91f6a6ca2ca2ff3f30723ec4398c235b.jpeg",
+    "default_profile_image": false,
+    "verified": false,
+    "profile_sidebar_fill_color": "DEF1F7",
+    "profile_use_background_image": true,
+    "contributors_enabled": false,
+    "profile_sidebar_border_color": "FFFFFF",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/885183738551951364/AsF_dITc_normal.jpg",
+    "geo_enabled": true
+  },
+  "geo": null,
+  "id": 922262155625451520,
+  "quote_count": 0,
+  "retweeted": false,
+  "filter_level": "low",
+  "in_reply_to_status_id_str": null,
+  "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+  "favorited": false,
+  "coordinates": null,
+  "truncated": false,
+  "retweet_count": 0,
+  "is_quote_status": false,
+  "in_reply_to_screen_name": null,
+  "contributors": null,
+  "place": {
+    "bounding_box": {
+      "coordinates": [
+        [
+          [
+            -70.608694,
+            -33.486182
+          ],
+          [
+            -70.608694,
+            -33.364619
+          ],
+          [
+            -70.429141,
+            -33.364619
+          ],
+          [
+            -70.429141,
+            -33.486182
+          ]
+        ]
+      ],
+      "type": "Polygon"
+    },
+    "name": "Las Condes",
+    "url": "https://api.twitter.com/1.1/geo/id/00c4b64e7affea25.json",
+    "country_code": "CL",
+    "id": "00c4b64e7affea25",
+    "place_type": "city",
+    "attributes": {},
+    "full_name": "Las Condes, Chile",
+    "country": "Chile"
+  }
+}

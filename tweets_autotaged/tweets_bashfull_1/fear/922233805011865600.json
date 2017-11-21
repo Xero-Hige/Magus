@@ -1,0 +1,174 @@
+{
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "urls": [
+      {
+        "indices": [
+          117,
+          140
+        ],
+        "expanded_url": "https://twitter.com/i/web/status/922233805011865600",
+        "display_url": "twitter.com/i/web/status/9\u2026",
+        "url": "https://t.co/jZqLWf7ob6"
+      }
+    ],
+    "user_mentions": [
+      {
+        "indices": [
+          0,
+          14
+        ],
+        "screen_name": "mirthalegrand",
+        "name": "Mirtha Legrand",
+        "id_str": "134879387",
+        "id": 134879387
+      },
+      {
+        "indices": [
+          15,
+          27
+        ],
+        "screen_name": "pabloduggan",
+        "name": "Pablo Duggan",
+        "id_str": "145677457",
+        "id": 145677457
+      }
+    ]
+  },
+  "in_reply_to_user_id": 134879387,
+  "created_at": "Sun Oct 22 22:50:48 +0000 2017",
+  "favorite_count": 0,
+  "lang": "es",
+  "reply_count": 0,
+  "id_str": "922233805011865600",
+  "in_reply_to_user_id_str": "134879387",
+  "extended_tweet": {
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "urls": [],
+      "user_mentions": [
+        {
+          "indices": [
+            0,
+            14
+          ],
+          "screen_name": "mirthalegrand",
+          "name": "Mirtha Legrand",
+          "id_str": "134879387",
+          "id": 134879387
+        },
+        {
+          "indices": [
+            15,
+            27
+          ],
+          "screen_name": "pabloduggan",
+          "name": "Pablo Duggan",
+          "id_str": "145677457",
+          "id": 145677457
+        }
+      ]
+    },
+    "display_text_range": [
+      28,
+      152
+    ],
+    "full_text": "@mirthalegrand @pabloduggan Lavarse las manos y lavar cerebros humanos es el objetivo d un Gobierno Oligarca Asi tapan todas su miserias y Basuras! ASCO"
+  },
+  "in_reply_to_status_id": 921915614318481408,
+  "timestamp_ms": "1508712648047",
+  "truncated": true,
+  "text": "@mirthalegrand @pabloduggan Lavarse las manos y lavar cerebros humanos es el objetivo d un Gobierno Oligarca Asi ta\u2026 https://t.co/jZqLWf7ob6",
+  "user": {
+    "time_zone": "Pacific Time (US & Canada)",
+    "screen_name": "GracielaAr15",
+    "utc_offset": -25200,
+    "created_at": "Tue Dec 30 05:04:55 +0000 2014",
+    "profile_background_tile": false,
+    "notifications": null,
+    "lang": "es",
+    "default_profile": true,
+    "follow_request_sent": null,
+    "id_str": "2950602369",
+    "profile_image_url": "http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+    "name": "graciela venecia",
+    "friends_count": 317,
+    "translator_type": "none",
+    "protected": false,
+    "following": null,
+    "is_translator": false,
+    "profile_text_color": "333333",
+    "listed_count": 8,
+    "profile_link_color": "1DA1F2",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "url": null,
+    "id": 2950602369,
+    "favourites_count": 1803,
+    "profile_background_color": "C0DEED",
+    "followers_count": 397,
+    "statuses_count": 28102,
+    "description": null,
+    "location": null,
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "default_profile_image": false,
+    "verified": false,
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_use_background_image": true,
+    "contributors_enabled": false,
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_image_url_https": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+    "geo_enabled": true
+  },
+  "geo": null,
+  "id": 922233805011865600,
+  "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+  "retweeted": false,
+  "filter_level": "low",
+  "in_reply_to_status_id_str": "921915614318481408",
+  "quote_count": 0,
+  "favorited": false,
+  "coordinates": null,
+  "display_text_range": [
+    28,
+    140
+  ],
+  "retweet_count": 0,
+  "is_quote_status": false,
+  "in_reply_to_screen_name": "mirthalegrand",
+  "contributors": null,
+  "place": {
+    "bounding_box": {
+      "coordinates": [
+        [
+          [
+            -60.35305,
+            -33.265744
+          ],
+          [
+            -60.35305,
+            -33.217407
+          ],
+          [
+            -60.293781,
+            -33.217407
+          ],
+          [
+            -60.293781,
+            -33.265744
+          ]
+        ]
+      ],
+      "type": "Polygon"
+    },
+    "name": "Constituci\u00f3n",
+    "url": "https://api.twitter.com/1.1/geo/id/01ee54ce4d13313d.json",
+    "country_code": "AR",
+    "id": "01ee54ce4d13313d",
+    "place_type": "city",
+    "attributes": {},
+    "full_name": "Constituci\u00f3n, Argentina",
+    "country": "Argentina"
+  }
+}

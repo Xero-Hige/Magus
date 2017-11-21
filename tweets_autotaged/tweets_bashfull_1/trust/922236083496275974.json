@@ -1,0 +1,125 @@
+{
+  "entities": {
+    "hashtags": [
+      {
+        "indices": [
+          0,
+          8
+        ],
+        "text": "Mendoza"
+      }
+    ],
+    "symbols": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "indices": [
+          20,
+          36
+        ],
+        "screen_name": "FrenteCambiaMza",
+        "name": "Frente Cambia Mza",
+        "id_str": "2629771882",
+        "id": 2629771882
+      }
+    ]
+  },
+  "in_reply_to_user_id": null,
+  "created_at": "Sun Oct 22 22:59:51 +0000 2017",
+  "favorite_count": 0,
+  "lang": "es",
+  "reply_count": 0,
+  "id_str": "922236083496275974",
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_status_id": null,
+  "timestamp_ms": "1508713191280",
+  "text": "#Mendoza Paliza del @FrenteCambiaMza al PJ y gran elecci\u00f3n de Protectora. Evidentemente protectora le sac\u00f3 votos al pj.",
+  "user": {
+    "time_zone": null,
+    "screen_name": "ErnesMancinelli",
+    "utc_offset": null,
+    "created_at": "Tue Aug 16 12:35:20 +0000 2011",
+    "profile_background_tile": false,
+    "notifications": null,
+    "lang": "es",
+    "default_profile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/356155435/1450223651",
+    "id_str": "356155435",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/697451342806151168/gUhoe27B_normal.jpg",
+    "name": "Ernesto Mancinelli",
+    "friends_count": 1079,
+    "translator_type": "none",
+    "protected": false,
+    "following": null,
+    "is_translator": false,
+    "follow_request_sent": null,
+    "profile_text_color": "333333",
+    "listed_count": 22,
+    "profile_link_color": "1DA1F2",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "url": "http://www.ernestomancinelli.com.ar",
+    "id": 356155435,
+    "favourites_count": 2267,
+    "profile_background_color": "C0DEED",
+    "followers_count": 1967,
+    "statuses_count": 7977,
+    "description": "Senador Provincial. Libres del Sur - Cambia Mendoza. Presido la Comisi\u00f3n de Hidrocarburos, Energ\u00eda y Miner\u00eda.",
+    "location": "Luj\u00e1n de Cuyo, Argentina",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "default_profile_image": false,
+    "verified": false,
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_use_background_image": true,
+    "contributors_enabled": false,
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/697451342806151168/gUhoe27B_normal.jpg",
+    "geo_enabled": true
+  },
+  "geo": null,
+  "id": 922236083496275974,
+  "quote_count": 0,
+  "retweeted": false,
+  "filter_level": "low",
+  "in_reply_to_status_id_str": null,
+  "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+  "favorited": false,
+  "coordinates": null,
+  "truncated": false,
+  "retweet_count": 0,
+  "is_quote_status": false,
+  "in_reply_to_screen_name": null,
+  "contributors": null,
+  "place": {
+    "bounding_box": {
+      "coordinates": [
+        [
+          [
+            -68.940506,
+            -33.043799
+          ],
+          [
+            -68.940506,
+            -32.958702
+          ],
+          [
+            -68.826458,
+            -32.958702
+          ],
+          [
+            -68.826458,
+            -33.043799
+          ]
+        ]
+      ],
+      "type": "Polygon"
+    },
+    "name": "Luj\u00e1n de Cuyo",
+    "url": "https://api.twitter.com/1.1/geo/id/017246337e451802.json",
+    "country_code": "AR",
+    "id": "017246337e451802",
+    "place_type": "city",
+    "attributes": {},
+    "full_name": "Luj\u00e1n de Cuyo, Argentina",
+    "country": "Argentina"
+  }
+}

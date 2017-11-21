@@ -1,0 +1,155 @@
+{
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "urls": [
+      {
+        "indices": [
+          117,
+          140
+        ],
+        "expanded_url": "https://twitter.com/i/web/status/922265279241039873",
+        "display_url": "twitter.com/i/web/status/9\u2026",
+        "url": "https://t.co/GgMbqBn30R"
+      }
+    ],
+    "user_mentions": [
+      {
+        "indices": [
+          0,
+          12
+        ],
+        "screen_name": "Yojuanjunco",
+        "name": "Juan!",
+        "id_str": "171619574",
+        "id": 171619574
+      }
+    ]
+  },
+  "in_reply_to_user_id": 171619574,
+  "created_at": "Mon Oct 23 00:55:52 +0000 2017",
+  "favorite_count": 0,
+  "lang": "es",
+  "reply_count": 0,
+  "id_str": "922265279241039873",
+  "in_reply_to_user_id_str": "171619574",
+  "extended_tweet": {
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "urls": [],
+      "user_mentions": [
+        {
+          "indices": [
+            0,
+            12
+          ],
+          "screen_name": "Yojuanjunco",
+          "name": "Juan!",
+          "id_str": "171619574",
+          "id": 171619574
+        }
+      ]
+    },
+    "display_text_range": [
+      13,
+      142
+    ],
+    "full_text": "@Yojuanjunco Lo malo es que el pibe apareci\u00f3 sin vida, pero no tiene nada de malo lo que dijo Susana, hay gente que no aparece, ej Mar\u00eda Cash."
+  },
+  "in_reply_to_status_id": 922260331703033856,
+  "timestamp_ms": "1508720152088",
+  "truncated": true,
+  "text": "@Yojuanjunco Lo malo es que el pibe apareci\u00f3 sin vida, pero no tiene nada de malo lo que dijo Susana, hay gente que\u2026 https://t.co/GgMbqBn30R",
+  "user": {
+    "time_zone": "Buenos Aires",
+    "screen_name": "luchorock_",
+    "utc_offset": -10800,
+    "created_at": "Sun Feb 13 20:10:17 +0000 2011",
+    "profile_background_tile": false,
+    "notifications": null,
+    "lang": "es",
+    "default_profile": false,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/251762899/1369054084",
+    "id_str": "251762899",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/914321983596384256/TDbqfCZn_normal.jpg",
+    "name": "Lucho",
+    "friends_count": 312,
+    "translator_type": "none",
+    "protected": false,
+    "following": null,
+    "is_translator": false,
+    "follow_request_sent": null,
+    "profile_text_color": "333333",
+    "listed_count": 6,
+    "profile_link_color": "75A0CB",
+    "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/429126800/the-road.jpg",
+    "url": null,
+    "id": 251762899,
+    "favourites_count": 339,
+    "profile_background_color": "3573B1",
+    "followers_count": 173,
+    "statuses_count": 8161,
+    "description": null,
+    "location": "Rosario, Argentina",
+    "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/429126800/the-road.jpg",
+    "default_profile_image": false,
+    "verified": false,
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_use_background_image": true,
+    "contributors_enabled": false,
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/914321983596384256/TDbqfCZn_normal.jpg",
+    "geo_enabled": true
+  },
+  "geo": null,
+  "id": 922265279241039873,
+  "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+  "retweeted": false,
+  "filter_level": "low",
+  "in_reply_to_status_id_str": "922260331703033856",
+  "quote_count": 0,
+  "favorited": false,
+  "coordinates": null,
+  "display_text_range": [
+    13,
+    140
+  ],
+  "retweet_count": 0,
+  "is_quote_status": false,
+  "in_reply_to_screen_name": "Yojuanjunco",
+  "contributors": null,
+  "place": {
+    "bounding_box": {
+      "coordinates": [
+        [
+          [
+            -60.781306,
+            -33.033993
+          ],
+          [
+            -60.781306,
+            -32.869238
+          ],
+          [
+            -60.613506,
+            -32.869238
+          ],
+          [
+            -60.613506,
+            -33.033993
+          ]
+        ]
+      ],
+      "type": "Polygon"
+    },
+    "name": "Rosario",
+    "url": "https://api.twitter.com/1.1/geo/id/0079bbc151fa56d2.json",
+    "country_code": "AR",
+    "id": "0079bbc151fa56d2",
+    "place_type": "city",
+    "attributes": {},
+    "full_name": "Rosario, Argentina",
+    "country": "Argentina"
+  }
+}

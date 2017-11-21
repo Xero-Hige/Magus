@@ -1,0 +1,179 @@
+{
+  "entities": {
+    "hashtags": [
+      {
+        "indices": [
+          12,
+          20
+        ],
+        "text": "domingo"
+      },
+      {
+        "indices": [
+          21,
+          33
+        ],
+        "text": "picoftheday"
+      },
+      {
+        "indices": [
+          34,
+          48
+        ],
+        "text": "photooftheday"
+      },
+      {
+        "indices": [
+          49,
+          59
+        ],
+        "text": "atardecer"
+      },
+      {
+        "indices": [
+          60,
+          65
+        ],
+        "text": "love"
+      },
+      {
+        "indices": [
+          66,
+          72
+        ],
+        "text": "color"
+      },
+      {
+        "indices": [
+          73,
+          82
+        ],
+        "text": "colorful"
+      }
+    ],
+    "symbols": [],
+    "urls": [
+      {
+        "indices": [
+          84,
+          107
+        ],
+        "expanded_url": "https://www.instagram.com/p/BakVrv-DswL/",
+        "display_url": "instagram.com/p/BakVrv-DswL/",
+        "url": "https://t.co/eJybH4HqUp"
+      }
+    ],
+    "user_mentions": []
+  },
+  "in_reply_to_user_id": null,
+  "created_at": "Sun Oct 22 22:54:43 +0000 2017",
+  "favorite_count": 0,
+  "lang": "es",
+  "reply_count": 0,
+  "id_str": "922234790530748416",
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_status_id": null,
+  "timestamp_ms": "1508712883013",
+  "possibly_sensitive": false,
+  "text": "Incre\u00edble.\n\n#domingo #picoftheday #photooftheday #atardecer #love #color #colorful\u2026 https://t.co/eJybH4HqUp",
+  "user": {
+    "time_zone": "Santiago",
+    "screen_name": "aguaii",
+    "utc_offset": -10800,
+    "created_at": "Wed Feb 10 16:52:49 +0000 2010",
+    "profile_background_tile": true,
+    "notifications": null,
+    "lang": "es",
+    "default_profile": false,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/113080380/1480618890",
+    "id_str": "113080380",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/856974440231571457/WY7u4MX2_normal.jpg",
+    "name": "Cherry Bomb-",
+    "friends_count": 1144,
+    "translator_type": "none",
+    "protected": false,
+    "following": null,
+    "is_translator": false,
+    "follow_request_sent": null,
+    "profile_text_color": "333333",
+    "listed_count": 0,
+    "profile_link_color": "E00092",
+    "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/562395686742679552/LiZFODf8.png",
+    "url": "https://www.facebook.com/Inventariodg",
+    "id": 113080380,
+    "favourites_count": 170,
+    "profile_background_color": "FFFFFF",
+    "followers_count": 360,
+    "statuses_count": 8739,
+    "description": "Siempre con amor. \u2764  #Design | Buena Vibra | Dise\u00f1adora Gr\u00e1fica",
+    "location": "Hoy, Tandil.",
+    "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/562395686742679552/LiZFODf8.png",
+    "default_profile_image": false,
+    "verified": false,
+    "profile_sidebar_fill_color": "DDFFCC",
+    "profile_use_background_image": true,
+    "contributors_enabled": false,
+    "profile_sidebar_border_color": "FFFFFF",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/856974440231571457/WY7u4MX2_normal.jpg",
+    "geo_enabled": true
+  },
+  "geo": {
+    "coordinates": [
+      -37.3167,
+      -59.15
+    ],
+    "type": "Point"
+  },
+  "id": 922234790530748416,
+  "quote_count": 0,
+  "retweeted": false,
+  "filter_level": "low",
+  "in_reply_to_status_id_str": null,
+  "source": "<a href=\"http://instagram.com\" rel=\"nofollow\">Instagram</a>",
+  "favorited": false,
+  "coordinates": {
+    "coordinates": [
+      -59.15,
+      -37.3167
+    ],
+    "type": "Point"
+  },
+  "truncated": false,
+  "retweet_count": 0,
+  "is_quote_status": false,
+  "in_reply_to_screen_name": null,
+  "contributors": null,
+  "place": {
+    "bounding_box": {
+      "coordinates": [
+        [
+          [
+            -59.182929,
+            -37.348006
+          ],
+          [
+            -59.182929,
+            -37.289225
+          ],
+          [
+            -59.082804,
+            -37.289225
+          ],
+          [
+            -59.082804,
+            -37.348006
+          ]
+        ]
+      ],
+      "type": "Polygon"
+    },
+    "name": "Tandil",
+    "url": "https://api.twitter.com/1.1/geo/id/0126ed8d45927fa1.json",
+    "country_code": "AR",
+    "id": "0126ed8d45927fa1",
+    "place_type": "city",
+    "attributes": {},
+    "full_name": "Tandil, Argentina",
+    "country": "Argentina"
+  }
+}

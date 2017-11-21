@@ -1,0 +1,137 @@
+{
+  "entities": {
+    "hashtags": [
+      {
+        "indices": [
+          0,
+          10
+        ],
+        "text": "mintjulep"
+      }
+    ],
+    "symbols": [],
+    "urls": [
+      {
+        "indices": [
+          98,
+          121
+        ],
+        "expanded_url": "https://www.instagram.com/p/BakZYvSguhX/",
+        "display_url": "instagram.com/p/BakZYvSguhX/",
+        "url": "https://t.co/jZshBbPSuT"
+      }
+    ],
+    "user_mentions": []
+  },
+  "in_reply_to_user_id": null,
+  "created_at": "Sun Oct 22 23:27:05 +0000 2017",
+  "favorite_count": 0,
+  "lang": "es",
+  "reply_count": 0,
+  "id_str": "922242937374826497",
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_status_id": null,
+  "timestamp_ms": "1508714825372",
+  "possibly_sensitive": false,
+  "text": "#mintjulep \u201c uno de los tipos m\u00e1s antiguos de c\u00f3ctel, en algunas de las primeras recetas a\u00f1ad\u00edan\u2026 https://t.co/jZshBbPSuT",
+  "user": {
+    "time_zone": "Pacific Time (US & Canada)",
+    "screen_name": "gusabrizuela",
+    "utc_offset": -25200,
+    "created_at": "Fri Feb 28 15:39:56 +0000 2014",
+    "profile_background_tile": true,
+    "notifications": null,
+    "lang": "es",
+    "default_profile": false,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/2365780280/1506922771",
+    "id_str": "2365780280",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/914726508798898178/KB7aCrtK_normal.jpg",
+    "name": "GUSTAVO  BRIZUELA",
+    "friends_count": 690,
+    "translator_type": "none",
+    "protected": false,
+    "following": null,
+    "is_translator": false,
+    "follow_request_sent": null,
+    "profile_text_color": "333333",
+    "listed_count": 3,
+    "profile_link_color": "0084B4",
+    "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/464458308472934400/wXbhh_7-.jpeg",
+    "url": null,
+    "id": 2365780280,
+    "favourites_count": 260,
+    "profile_background_color": "020B0F",
+    "followers_count": 471,
+    "statuses_count": 275,
+    "description": "Bartender - Details make the difference \ud83d\udca1\ud83e\udd43 Manager @JBG Bar & Restaurant \ud83c\udf74Inspiration can be born from anywhere",
+    "location": null,
+    "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/464458308472934400/wXbhh_7-.jpeg",
+    "default_profile_image": false,
+    "verified": false,
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_use_background_image": true,
+    "contributors_enabled": false,
+    "profile_sidebar_border_color": "000000",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/914726508798898178/KB7aCrtK_normal.jpg",
+    "geo_enabled": true
+  },
+  "geo": {
+    "coordinates": [
+      -31.4,
+      -64.1833
+    ],
+    "type": "Point"
+  },
+  "id": 922242937374826497,
+  "quote_count": 0,
+  "retweeted": false,
+  "filter_level": "low",
+  "in_reply_to_status_id_str": null,
+  "source": "<a href=\"http://instagram.com\" rel=\"nofollow\">Instagram</a>",
+  "favorited": false,
+  "coordinates": {
+    "coordinates": [
+      -64.1833,
+      -31.4
+    ],
+    "type": "Point"
+  },
+  "truncated": false,
+  "retweet_count": 0,
+  "is_quote_status": false,
+  "in_reply_to_screen_name": null,
+  "contributors": null,
+  "place": {
+    "bounding_box": {
+      "coordinates": [
+        [
+          [
+            -64.3195,
+            -31.523576
+          ],
+          [
+            -64.3195,
+            -31.307337
+          ],
+          [
+            -64.076551,
+            -31.307337
+          ],
+          [
+            -64.076551,
+            -31.523576
+          ]
+        ]
+      ],
+      "type": "Polygon"
+    },
+    "name": "C\u00f3rdoba",
+    "url": "https://api.twitter.com/1.1/geo/id/00f84d414936f28e.json",
+    "country_code": "AR",
+    "id": "00f84d414936f28e",
+    "place_type": "city",
+    "attributes": {},
+    "full_name": "C\u00f3rdoba, Argentina",
+    "country": "Argentina"
+  }
+}

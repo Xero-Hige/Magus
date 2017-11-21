@@ -1,0 +1,144 @@
+{
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "urls": [
+      {
+        "indices": [
+          117,
+          140
+        ],
+        "expanded_url": "https://twitter.com/i/web/status/922215342881083392",
+        "display_url": "twitter.com/i/web/status/9\u2026",
+        "url": "https://t.co/wDfkdmGzei"
+      }
+    ],
+    "user_mentions": []
+  },
+  "in_reply_to_user_id": null,
+  "created_at": "Sun Oct 22 21:37:26 +0000 2017",
+  "favorite_count": 0,
+  "lang": "es",
+  "reply_count": 0,
+  "id_str": "922215342881083392",
+  "in_reply_to_user_id_str": null,
+  "extended_tweet": {
+    "entities": {
+      "hashtags": [
+        {
+          "indices": [
+            229,
+            249
+          ],
+          "text": "EleccionesArgentina"
+        },
+        {
+          "indices": [
+            250,
+            273
+          ],
+          "text": "EleccionesLegislativas"
+        }
+      ],
+      "symbols": [],
+      "urls": [],
+      "user_mentions": []
+    },
+    "display_text_range": [
+      0,
+      273
+    ],
+    "full_text": "Mesa Nro. 1383, San Miguel de Tucum\u00e1n, Escuela Pantale\u00f3n Fernandez. Boletas de Cambiemos,totalmente tapadas por las de Frente para la Victoria.\nSiempre dando la nota, acepten la derrota muchachos, den paso al costado,ya es hora. #EleccionesArgentina #EleccionesLegislativas"
+  },
+  "in_reply_to_status_id": null,
+  "timestamp_ms": "1508708246332",
+  "text": "Mesa Nro. 1383, San Miguel de Tucum\u00e1n, Escuela Pantale\u00f3n Fernandez. Boletas de Cambiemos,totalmente tapadas por las\u2026 https://t.co/wDfkdmGzei",
+  "user": {
+    "time_zone": "Buenos Aires",
+    "screen_name": "LuliGallac",
+    "utc_offset": -10800,
+    "created_at": "Sat Jul 17 03:46:08 +0000 2010",
+    "profile_background_tile": true,
+    "notifications": null,
+    "lang": "es",
+    "default_profile": false,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/167648404/1498663687",
+    "id_str": "167648404",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/909619616149893121/6XcXyJBH_normal.jpg",
+    "name": "\u3057ou\u0280\u0257es\ud83d\udc51",
+    "friends_count": 781,
+    "translator_type": "regular",
+    "protected": false,
+    "following": null,
+    "is_translator": false,
+    "follow_request_sent": null,
+    "profile_text_color": "362720",
+    "listed_count": 10,
+    "profile_link_color": "F5ABB5",
+    "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/570971823135666176/r5CubLEM.jpeg",
+    "url": "http://www.facebook.com/luligallac",
+    "id": 167648404,
+    "favourites_count": 4734,
+    "profile_background_color": "F713E8",
+    "followers_count": 1283,
+    "statuses_count": 43336,
+    "description": "24.\u00c9tudiante du fran\u00e7ais. Fan del chocolate.No tolero los errores ortogr\u00e1ficos.\ud83c\udfb6DVICIO 20-06-2017\ud83d\udc96Aries\u2648  Resiliencia\u2728",
+    "location": "San Miguel de Tucum\u00e1n, Argenti",
+    "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/570971823135666176/r5CubLEM.jpeg",
+    "default_profile_image": false,
+    "verified": false,
+    "profile_sidebar_fill_color": "E5507E",
+    "profile_use_background_image": true,
+    "contributors_enabled": false,
+    "profile_sidebar_border_color": "FFFFFF",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/909619616149893121/6XcXyJBH_normal.jpg",
+    "geo_enabled": true
+  },
+  "geo": null,
+  "id": 922215342881083392,
+  "quote_count": 0,
+  "retweeted": false,
+  "filter_level": "low",
+  "in_reply_to_status_id_str": null,
+  "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+  "favorited": false,
+  "coordinates": null,
+  "truncated": true,
+  "retweet_count": 0,
+  "is_quote_status": false,
+  "in_reply_to_screen_name": null,
+  "contributors": null,
+  "place": {
+    "bounding_box": {
+      "coordinates": [
+        [
+          [
+            -66.162352,
+            -28.003357
+          ],
+          [
+            -66.162352,
+            -26.07351
+          ],
+          [
+            -64.47826,
+            -26.07351
+          ],
+          [
+            -64.47826,
+            -28.003357
+          ]
+        ]
+      ],
+      "type": "Polygon"
+    },
+    "name": "Tucum\u00e1n",
+    "url": "https://api.twitter.com/1.1/geo/id/5fca975663718719.json",
+    "country_code": "AR",
+    "id": "5fca975663718719",
+    "place_type": "admin",
+    "attributes": {},
+    "full_name": "Tucum\u00e1n, Argentina",
+    "country": "Argentina"
+  }
+}

@@ -1,0 +1,175 @@
+{
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "urls": [
+      {
+        "indices": [
+          117,
+          140
+        ],
+        "expanded_url": "https://twitter.com/i/web/status/922210565514285056",
+        "display_url": "twitter.com/i/web/status/9\u2026",
+        "url": "https://t.co/dr9PW6JEfi"
+      }
+    ],
+    "user_mentions": [
+      {
+        "indices": [
+          0,
+          11
+        ],
+        "screen_name": "natanjosue",
+        "name": "Nat\u00e3niel \u00c1lvarez",
+        "id_str": "87322843",
+        "id": 87322843
+      },
+      {
+        "indices": [
+          12,
+          19
+        ],
+        "screen_name": "GQuime",
+        "name": "Quime",
+        "id_str": "1325983176",
+        "id": 1325983176
+      }
+    ]
+  },
+  "in_reply_to_user_id": 3130777859,
+  "created_at": "Sun Oct 22 21:18:27 +0000 2017",
+  "favorite_count": 0,
+  "lang": "es",
+  "reply_count": 0,
+  "id_str": "922210565514285056",
+  "in_reply_to_user_id_str": "3130777859",
+  "extended_tweet": {
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "urls": [],
+      "user_mentions": [
+        {
+          "indices": [
+            0,
+            11
+          ],
+          "screen_name": "natanjosue",
+          "name": "Nat\u00e3niel \u00c1lvarez",
+          "id_str": "87322843",
+          "id": 87322843
+        },
+        {
+          "indices": [
+            12,
+            19
+          ],
+          "screen_name": "GQuime",
+          "name": "Quime",
+          "id_str": "1325983176",
+          "id": 1325983176
+        }
+      ]
+    },
+    "display_text_range": [
+      20,
+      144
+    ],
+    "full_text": "@natanjosue @GQuime Dani apoyara y respaldar\u00e1 a los que cre\u00e9 que tiendan hacia pol\u00edticas e ideas nobles o mejor dicho por lo nacional y popular."
+  },
+  "in_reply_to_status_id": 922210487135363075,
+  "timestamp_ms": "1508707107319",
+  "truncated": true,
+  "text": "@natanjosue @GQuime Dani apoyara y respaldar\u00e1 a los que cre\u00e9 que tiendan hacia pol\u00edticas e ideas nobles o mejor dic\u2026 https://t.co/dr9PW6JEfi",
+  "user": {
+    "time_zone": "Atlantic Time (Canada)",
+    "screen_name": "FranciscoGhisio",
+    "utc_offset": -10800,
+    "created_at": "Tue Mar 31 16:01:52 +0000 2015",
+    "profile_background_tile": true,
+    "notifications": null,
+    "lang": "es",
+    "default_profile": false,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/3130777859/1446049657",
+    "id_str": "3130777859",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/776593358420578304/AIPaRHD__normal.jpg",
+    "name": "Juancisco Franz",
+    "friends_count": 158,
+    "translator_type": "none",
+    "protected": false,
+    "following": null,
+    "is_translator": false,
+    "follow_request_sent": null,
+    "profile_text_color": "000000",
+    "listed_count": 1,
+    "profile_link_color": "9266CC",
+    "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/640890878962335744/Cjw6qQHw.jpg",
+    "url": null,
+    "id": 3130777859,
+    "favourites_count": 2423,
+    "profile_background_color": "ABB8C2",
+    "followers_count": 52,
+    "statuses_count": 1195,
+    "description": "Me regalas un tiramisu mejor que el de mi abuela y olvidate... Nos veamo' y nos besemo'",
+    "location": "La Plata",
+    "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/640890878962335744/Cjw6qQHw.jpg",
+    "default_profile_image": false,
+    "verified": false,
+    "profile_sidebar_fill_color": "000000",
+    "profile_use_background_image": true,
+    "contributors_enabled": false,
+    "profile_sidebar_border_color": "000000",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/776593358420578304/AIPaRHD__normal.jpg",
+    "geo_enabled": true
+  },
+  "geo": null,
+  "id": 922210565514285056,
+  "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+  "retweeted": false,
+  "filter_level": "low",
+  "in_reply_to_status_id_str": "922210487135363075",
+  "quote_count": 0,
+  "favorited": false,
+  "coordinates": null,
+  "display_text_range": [
+    20,
+    140
+  ],
+  "retweet_count": 0,
+  "is_quote_status": false,
+  "in_reply_to_screen_name": "FranciscoGhisio",
+  "contributors": null,
+  "place": {
+    "bounding_box": {
+      "coordinates": [
+        [
+          [
+            -58.160874,
+            -35.031373
+          ],
+          [
+            -58.160874,
+            -34.841264
+          ],
+          [
+            -57.865169,
+            -34.841264
+          ],
+          [
+            -57.865169,
+            -35.031373
+          ]
+        ]
+      ],
+      "type": "Polygon"
+    },
+    "name": "La Plata",
+    "url": "https://api.twitter.com/1.1/geo/id/0177894212b08f73.json",
+    "country_code": "AR",
+    "id": "0177894212b08f73",
+    "place_type": "city",
+    "attributes": {},
+    "full_name": "La Plata, Argentina",
+    "country": "Argentina"
+  }
+}

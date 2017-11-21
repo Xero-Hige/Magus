@@ -1,0 +1,121 @@
+{
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "indices": [
+          0,
+          9
+        ],
+        "screen_name": "ludwitja",
+        "name": "Luis Martinez M.",
+        "id_str": "118780785",
+        "id": 118780785
+      }
+    ]
+  },
+  "in_reply_to_user_id": 118780785,
+  "created_at": "Mon Oct 23 00:00:30 +0000 2017",
+  "favorite_count": 0,
+  "lang": "es",
+  "reply_count": 0,
+  "id_str": "922251345838641152",
+  "in_reply_to_user_id_str": "118780785",
+  "in_reply_to_status_id": 922250234016731136,
+  "timestamp_ms": "1508716830106",
+  "truncated": false,
+  "text": "@ludwitja Y la explotaci\u00f3n del sesgo de confirmaci\u00f3n: si algo confirma mis ideas, creo que es verdad.",
+  "user": {
+    "time_zone": "Santiago",
+    "screen_name": "fidelsaavedrab",
+    "utc_offset": -10800,
+    "created_at": "Fri May 22 06:28:22 +0000 2009",
+    "profile_background_tile": false,
+    "notifications": null,
+    "lang": "es",
+    "default_profile": false,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/41766743/1489955078",
+    "id_str": "41766743",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/845464663299166209/98clKMz3_normal.jpg",
+    "name": "\u266cIron Naiden\u266c",
+    "friends_count": 2594,
+    "translator_type": "none",
+    "protected": false,
+    "following": null,
+    "is_translator": false,
+    "follow_request_sent": null,
+    "profile_text_color": "000000",
+    "listed_count": 107,
+    "profile_link_color": "1B95E0",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+    "url": "https://www.instagram.com/fidelsaavedrab/",
+    "id": 41766743,
+    "favourites_count": 2250,
+    "profile_background_color": "000000",
+    "followers_count": 3706,
+    "statuses_count": 130509,
+    "description": "Cine, m\u00fasica, libros. Lo dem\u00e1s es un bono. Fui un replicante.",
+    "location": "Santiago, Chile",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+    "default_profile_image": false,
+    "verified": false,
+    "profile_sidebar_fill_color": "000000",
+    "profile_use_background_image": false,
+    "contributors_enabled": false,
+    "profile_sidebar_border_color": "000000",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/845464663299166209/98clKMz3_normal.jpg",
+    "geo_enabled": true
+  },
+  "geo": null,
+  "id": 922251345838641152,
+  "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+  "retweeted": false,
+  "filter_level": "low",
+  "in_reply_to_status_id_str": "922250234016731136",
+  "quote_count": 0,
+  "favorited": false,
+  "coordinates": null,
+  "display_text_range": [
+    10,
+    101
+  ],
+  "retweet_count": 0,
+  "is_quote_status": false,
+  "in_reply_to_screen_name": "ludwitja",
+  "contributors": null,
+  "place": {
+    "bounding_box": {
+      "coordinates": [
+        [
+          [
+            -70.692959,
+            -33.478574
+          ],
+          [
+            -70.692959,
+            -33.425749
+          ],
+          [
+            -70.626272,
+            -33.425749
+          ],
+          [
+            -70.626272,
+            -33.478574
+          ]
+        ]
+      ],
+      "type": "Polygon"
+    },
+    "name": "Santiago",
+    "url": "https://api.twitter.com/1.1/geo/id/0010b4cb51ca93d8.json",
+    "country_code": "CL",
+    "id": "0010b4cb51ca93d8",
+    "place_type": "city",
+    "attributes": {},
+    "full_name": "Santiago, Chile",
+    "country": "Chile"
+  }
+}

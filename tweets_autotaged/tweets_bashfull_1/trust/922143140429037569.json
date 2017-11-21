@@ -1,0 +1,220 @@
+{
+  "in_reply_to_user_id": null,
+  "contributors": null,
+  "id": 922143140429037569,
+  "retweeted": false,
+  "retweet_count": 0,
+  "timestamp_ms": "1508691031926",
+  "in_reply_to_status_id": null,
+  "id_str": "922143140429037569",
+  "coordinates": null,
+  "created_at": "Sun Oct 22 16:50:31 +0000 2017",
+  "quote_count": 0,
+  "favorite_count": 0,
+  "entities": {
+    "user_mentions": [],
+    "symbols": [],
+    "hashtags": [],
+    "urls": [
+      {
+        "expanded_url": "https://twitter.com/i/web/status/922143140429037569",
+        "indices": [
+          117,
+          140
+        ],
+        "url": "https://t.co/oe4ZHB6FEu",
+        "display_url": "twitter.com/i/web/status/9\u2026"
+      }
+    ]
+  },
+  "reply_count": 0,
+  "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+  "place": {
+    "attributes": {},
+    "url": "https://api.twitter.com/1.1/geo/id/0021712c0bd7eec1.json",
+    "place_type": "city",
+    "id": "0021712c0bd7eec1",
+    "country_code": "AR",
+    "name": "San Miguel de Tucum\u00e1n",
+    "country": "Argentina",
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            -65.280702,
+            -26.892137
+          ],
+          [
+            -65.280702,
+            -26.79606
+          ],
+          [
+            -65.165573,
+            -26.79606
+          ],
+          [
+            -65.165573,
+            -26.892137
+          ]
+        ]
+      ]
+    },
+    "full_name": "San Miguel de Tucum\u00e1n, Argentina"
+  },
+  "truncated": true,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_screen_name": null,
+  "filter_level": "low",
+  "text": "Una se\u00f1ora se molest\u00f3 al descubrir que en el padr\u00f3n de su mesa figuraban sus dos hermanos fallecidos hace a\u00f1os (aun\u2026 https://t.co/oe4ZHB6FEu",
+  "geo": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": false,
+  "possibly_sensitive": false,
+  "display_text_range": [
+    0,
+    140
+  ],
+  "favorited": false,
+  "user": {
+    "verified": false,
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme7/bg.gif",
+    "statuses_count": 3333,
+    "screen_name": "matias_auad",
+    "default_profile_image": false,
+    "time_zone": "Buenos Aires",
+    "name": "Mat\u00edas Auad",
+    "id_str": "158206147",
+    "profile_sidebar_border_color": "DFDFDF",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/158206147/1489936703",
+    "created_at": "Tue Jun 22 02:07:59 +0000 2010",
+    "friends_count": 608,
+    "url": null,
+    "profile_background_tile": false,
+    "protected": false,
+    "translator_type": "none",
+    "profile_text_color": "333333",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/888592513539485697/bwKUtnsE_normal.jpg",
+    "listed_count": 6,
+    "notifications": null,
+    "contributors_enabled": false,
+    "is_translator": false,
+    "location": "San Miguel de Tucum\u00e1n",
+    "profile_use_background_image": true,
+    "followers_count": 492,
+    "profile_sidebar_fill_color": "F3F3F3",
+    "geo_enabled": true,
+    "profile_link_color": "1B95E0",
+    "favourites_count": 498,
+    "following": null,
+    "default_profile": false,
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme7/bg.gif",
+    "profile_background_color": "EBEBEB",
+    "id": 158206147,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/888592513539485697/bwKUtnsE_normal.jpg",
+    "lang": "es",
+    "description": "Periodista de @LaGacetaTucuman y estudiante de Cs. de la Comunicaci\u00f3n en @filount",
+    "follow_request_sent": null,
+    "utc_offset": -10800
+  },
+  "extended_tweet": {
+    "entities": {
+      "user_mentions": [],
+      "symbols": [],
+      "hashtags": [
+        {
+          "text": "TucumanElige",
+          "indices": [
+            206,
+            219
+          ]
+        }
+      ],
+      "urls": [],
+      "media": [
+        {
+          "indices": [
+            220,
+            243
+          ],
+          "media_url_https": "https://pbs.twimg.com/media/DMwcRYnW4AU-MCL.jpg",
+          "url": "https://t.co/s5kqQmop7o",
+          "expanded_url": "https://twitter.com/matias_auad/status/922143140429037569/photo/1",
+          "id": 922143108694990853,
+          "sizes": {
+            "medium": {
+              "resize": "fit",
+              "w": 1200,
+              "h": 675
+            },
+            "large": {
+              "resize": "fit",
+              "w": 1920,
+              "h": 1080
+            },
+            "small": {
+              "resize": "fit",
+              "w": 680,
+              "h": 383
+            },
+            "thumb": {
+              "resize": "crop",
+              "w": 150,
+              "h": 150
+            }
+          },
+          "media_url": "http://pbs.twimg.com/media/DMwcRYnW4AU-MCL.jpg",
+          "id_str": "922143108694990853",
+          "display_url": "pic.twitter.com/s5kqQmop7o",
+          "type": "photo"
+        }
+      ]
+    },
+    "display_text_range": [
+      0,
+      219
+    ],
+    "extended_entities": {
+      "media": [
+        {
+          "indices": [
+            220,
+            243
+          ],
+          "media_url_https": "https://pbs.twimg.com/media/DMwcRYnW4AU-MCL.jpg",
+          "url": "https://t.co/s5kqQmop7o",
+          "expanded_url": "https://twitter.com/matias_auad/status/922143140429037569/photo/1",
+          "id": 922143108694990853,
+          "sizes": {
+            "medium": {
+              "resize": "fit",
+              "w": 1200,
+              "h": 675
+            },
+            "large": {
+              "resize": "fit",
+              "w": 1920,
+              "h": 1080
+            },
+            "small": {
+              "resize": "fit",
+              "w": 680,
+              "h": 383
+            },
+            "thumb": {
+              "resize": "crop",
+              "w": 150,
+              "h": 150
+            }
+          },
+          "media_url": "http://pbs.twimg.com/media/DMwcRYnW4AU-MCL.jpg",
+          "id_str": "922143108694990853",
+          "display_url": "pic.twitter.com/s5kqQmop7o",
+          "type": "photo"
+        }
+      ]
+    },
+    "full_text": "Una se\u00f1ora se molest\u00f3 al descubrir que en el padr\u00f3n de su mesa figuraban sus dos hermanos fallecidos hace a\u00f1os (aunque nadie vot\u00f3 con esos nombres). Ocurri\u00f3 en la Escuela Salobre\u00f1a (San Jos\u00e9, Yerba Buena). #TucumanElige https://t.co/s5kqQmop7o"
+  },
+  "lang": "es"
+}

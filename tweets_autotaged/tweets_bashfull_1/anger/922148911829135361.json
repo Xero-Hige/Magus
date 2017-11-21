@@ -1,0 +1,106 @@
+{
+  "in_reply_to_user_id": null,
+  "contributors": null,
+  "in_reply_to_screen_name": null,
+  "retweeted": false,
+  "retweet_count": 0,
+  "timestamp_ms": "1508692407935",
+  "in_reply_to_status_id": null,
+  "id_str": "922148911829135361",
+  "created_at": "Sun Oct 22 17:13:27 +0000 2017",
+  "id": 922148911829135361,
+  "coordinates": null,
+  "favorite_count": 0,
+  "entities": {
+    "user_mentions": [],
+    "symbols": [],
+    "hashtags": [],
+    "urls": []
+  },
+  "reply_count": 0,
+  "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+  "place": {
+    "attributes": {},
+    "url": "https://api.twitter.com/1.1/geo/id/010d7db066434a8a.json",
+    "place_type": "city",
+    "id": "010d7db066434a8a",
+    "country_code": "AR",
+    "name": "Mar del Plata",
+    "country": "Argentina",
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            -57.645563,
+            -38.127814
+          ],
+          [
+            -57.645563,
+            -37.895361
+          ],
+          [
+            -57.517298,
+            -37.895361
+          ],
+          [
+            -57.517298,
+            -38.127814
+          ]
+        ]
+      ]
+    },
+    "full_name": "Mar del Plata, Argentina"
+  },
+  "truncated": false,
+  "in_reply_to_status_id_str": null,
+  "filter_level": "low",
+  "text": "mirando mal al que mira, tirandole al que me tira",
+  "geo": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": false,
+  "favorited": false,
+  "user": {
+    "verified": false,
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "statuses_count": 35491,
+    "screen_name": "maticoccola",
+    "default_profile_image": false,
+    "time_zone": "Pacific Time (US & Canada)",
+    "name": "matias",
+    "id_str": "2857618985",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/2857618985/1475883812",
+    "created_at": "Sun Nov 02 20:56:19 +0000 2014",
+    "friends_count": 926,
+    "url": null,
+    "profile_background_tile": false,
+    "protected": false,
+    "translator_type": "none",
+    "profile_text_color": "333333",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/915339914132295680/rEZsWnlY_normal.jpg",
+    "listed_count": 0,
+    "notifications": null,
+    "contributors_enabled": false,
+    "is_translator": false,
+    "location": "Mar del Plata, Argentina",
+    "profile_use_background_image": true,
+    "followers_count": 1204,
+    "profile_sidebar_fill_color": "DDEEF6",
+    "geo_enabled": true,
+    "profile_link_color": "1DA1F2",
+    "favourites_count": 8231,
+    "following": null,
+    "default_profile": true,
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_color": "C0DEED",
+    "id": 2857618985,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/915339914132295680/rEZsWnlY_normal.jpg",
+    "lang": "es",
+    "description": "siempre bien high \ud83c\udf41\ud83d\udca8",
+    "follow_request_sent": null,
+    "utc_offset": -25200
+  },
+  "quote_count": 0,
+  "lang": "es"
+}

@@ -1,0 +1,175 @@
+{
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "urls": [
+      {
+        "indices": [
+          117,
+          140
+        ],
+        "expanded_url": "https://twitter.com/i/web/status/922249699964399616",
+        "display_url": "twitter.com/i/web/status/9\u2026",
+        "url": "https://t.co/aW9uq2QmNd"
+      }
+    ],
+    "user_mentions": [
+      {
+        "indices": [
+          0,
+          11
+        ],
+        "screen_name": "elcoya1977",
+        "name": "coya",
+        "id_str": "4595778255",
+        "id": 4595778255
+      },
+      {
+        "indices": [
+          12,
+          25
+        ],
+        "screen_name": "PatoBullrich",
+        "name": "Patricia Bullrich",
+        "id_str": "54414081",
+        "id": 54414081
+      }
+    ]
+  },
+  "in_reply_to_user_id": 4595778255,
+  "created_at": "Sun Oct 22 23:53:57 +0000 2017",
+  "favorite_count": 0,
+  "lang": "es",
+  "reply_count": 0,
+  "id_str": "922249699964399616",
+  "in_reply_to_user_id_str": "4595778255",
+  "extended_tweet": {
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "urls": [],
+      "user_mentions": [
+        {
+          "indices": [
+            0,
+            11
+          ],
+          "screen_name": "elcoya1977",
+          "name": "coya",
+          "id_str": "4595778255",
+          "id": 4595778255
+        },
+        {
+          "indices": [
+            12,
+            25
+          ],
+          "screen_name": "PatoBullrich",
+          "name": "Patricia Bullrich",
+          "id_str": "54414081",
+          "id": 54414081
+        }
+      ]
+    },
+    "display_text_range": [
+      26,
+      165
+    ],
+    "full_text": "@elcoya1977 @PatoBullrich Los seres humanos no son basura! Hay que intentar establecer acuerdos humanitarios con ellos y poner l\u00edmites claros a esos comportamientos."
+  },
+  "in_reply_to_status_id": 921880681390714881,
+  "timestamp_ms": "1508716437699",
+  "truncated": true,
+  "text": "@elcoya1977 @PatoBullrich Los seres humanos no son basura! Hay que intentar establecer acuerdos humanitarios con el\u2026 https://t.co/aW9uq2QmNd",
+  "user": {
+    "time_zone": null,
+    "screen_name": "AmeEscudero",
+    "utc_offset": null,
+    "created_at": "Thu Aug 14 17:11:12 +0000 2014",
+    "profile_background_tile": true,
+    "notifications": null,
+    "lang": "es",
+    "default_profile": false,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/2732290501/1461871779",
+    "id_str": "2732290501",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/912471632245088256/RXphbxGX_normal.jpg",
+    "name": "Amelia Vivi Escudero",
+    "friends_count": 642,
+    "translator_type": "none",
+    "protected": false,
+    "following": null,
+    "is_translator": false,
+    "follow_request_sent": null,
+    "profile_text_color": "000000",
+    "listed_count": 25,
+    "profile_link_color": "DF01D7",
+    "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/725766933484818436/ee0UOLQt.jpg",
+    "url": null,
+    "id": 2732290501,
+    "favourites_count": 19481,
+    "profile_background_color": "000000",
+    "followers_count": 493,
+    "statuses_count": 14934,
+    "description": null,
+    "location": "Ciudad Jard\u00edn - El Palomar",
+    "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/725766933484818436/ee0UOLQt.jpg",
+    "default_profile_image": false,
+    "verified": false,
+    "profile_sidebar_fill_color": "000000",
+    "profile_use_background_image": true,
+    "contributors_enabled": false,
+    "profile_sidebar_border_color": "000000",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/912471632245088256/RXphbxGX_normal.jpg",
+    "geo_enabled": true
+  },
+  "geo": null,
+  "id": 922249699964399616,
+  "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+  "retweeted": false,
+  "filter_level": "low",
+  "in_reply_to_status_id_str": "921880681390714881",
+  "quote_count": 0,
+  "favorited": false,
+  "coordinates": null,
+  "display_text_range": [
+    26,
+    140
+  ],
+  "retweet_count": 0,
+  "is_quote_status": false,
+  "in_reply_to_screen_name": "elcoya1977",
+  "contributors": null,
+  "place": {
+    "bounding_box": {
+      "coordinates": [
+        [
+          [
+            -58.644732,
+            -34.654376
+          ],
+          [
+            -58.644732,
+            -34.546888
+          ],
+          [
+            -58.522478,
+            -34.546888
+          ],
+          [
+            -58.522478,
+            -34.654376
+          ]
+        ]
+      ],
+      "type": "Polygon"
+    },
+    "name": "Caseros",
+    "url": "https://api.twitter.com/1.1/geo/id/014f72200f706d3f.json",
+    "country_code": "AR",
+    "id": "014f72200f706d3f",
+    "place_type": "city",
+    "attributes": {},
+    "full_name": "Caseros, Argentina",
+    "country": "Argentina"
+  }
+}

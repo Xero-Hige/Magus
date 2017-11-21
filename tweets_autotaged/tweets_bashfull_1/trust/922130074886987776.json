@@ -1,0 +1,330 @@
+{
+  "in_reply_to_user_id": null,
+  "contributors": null,
+  "id": 922130074886987776,
+  "retweeted": false,
+  "retweet_count": 0,
+  "timestamp_ms": "1508687916858",
+  "in_reply_to_status_id": null,
+  "id_str": "922130074886987776",
+  "coordinates": null,
+  "created_at": "Sun Oct 22 15:58:36 +0000 2017",
+  "quote_count": 0,
+  "favorite_count": 0,
+  "entities": {
+    "user_mentions": [
+      {
+        "indices": [
+          70,
+          85
+        ],
+        "name": "Unidad Ciudadana \u2600\ufe0f",
+        "screen_name": "UniCiudadanaAR",
+        "id": 724991849912500224,
+        "id_str": "724991849912500224"
+      },
+      {
+        "indices": [
+          94,
+          107
+        ],
+        "name": "Cristina Kirchner",
+        "screen_name": "CFKArgentina",
+        "id": 138814032,
+        "id_str": "138814032"
+      }
+    ],
+    "symbols": [],
+    "hashtags": [
+      {
+        "text": "EleccionesArgentina",
+        "indices": [
+          0,
+          20
+        ]
+      },
+      {
+        "text": "Ahora",
+        "indices": [
+          21,
+          27
+        ]
+      }
+    ],
+    "urls": [
+      {
+        "expanded_url": "https://twitter.com/i/web/status/922130074886987776",
+        "indices": [
+          116,
+          139
+        ],
+        "url": "https://t.co/BJsDQBUxTS",
+        "display_url": "twitter.com/i/web/status/9\u2026"
+      }
+    ]
+  },
+  "reply_count": 0,
+  "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+  "place": {
+    "attributes": {},
+    "url": "https://api.twitter.com/1.1/geo/id/0079bbc151fa56d2.json",
+    "place_type": "city",
+    "id": "0079bbc151fa56d2",
+    "country_code": "AR",
+    "name": "Rosario",
+    "country": "Argentina",
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            -60.781306,
+            -33.033993
+          ],
+          [
+            -60.781306,
+            -32.869238
+          ],
+          [
+            -60.613506,
+            -32.869238
+          ],
+          [
+            -60.613506,
+            -33.033993
+          ]
+        ]
+      ]
+    },
+    "full_name": "Rosario, Argentina"
+  },
+  "truncated": true,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_screen_name": null,
+  "filter_level": "low",
+  "text": "#EleccionesArgentina #Ahora Tras de recorrer el centro de c\u00f3mputos de @UniCiudadanaAR , habl\u00f3 @CFKArgentina de las\u2026 https://t.co/BJsDQBUxTS",
+  "geo": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": false,
+  "possibly_sensitive": false,
+  "display_text_range": [
+    0,
+    140
+  ],
+  "favorited": false,
+  "user": {
+    "verified": true,
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+    "statuses_count": 74919,
+    "screen_name": "ConclusionRos",
+    "default_profile_image": false,
+    "time_zone": "Buenos Aires",
+    "name": "Conclusi\u00f3n",
+    "id_str": "2839578186",
+    "profile_sidebar_border_color": "EEEEEE",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/2839578186/1442246580",
+    "created_at": "Sat Oct 04 04:08:00 +0000 2014",
+    "friends_count": 3826,
+    "url": "http://www.conclusion.com.ar",
+    "profile_background_tile": true,
+    "protected": false,
+    "translator_type": "none",
+    "profile_text_color": "333333",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/642369977270538241/hp3a3VpV_normal.jpg",
+    "listed_count": 158,
+    "notifications": null,
+    "contributors_enabled": false,
+    "is_translator": false,
+    "location": "Rosario, Argentina",
+    "profile_use_background_image": true,
+    "followers_count": 17323,
+    "profile_sidebar_fill_color": "EFEFEF",
+    "geo_enabled": true,
+    "profile_link_color": "009999",
+    "favourites_count": 3420,
+    "following": null,
+    "default_profile": false,
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+    "profile_background_color": "131516",
+    "id": 2839578186,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/642369977270538241/hp3a3VpV_normal.jpg",
+    "lang": "es",
+    "description": "Diario Digital de Rosario // Ciudad, Deportes, Pol\u00edtica, Mundo, Econom\u00eda, Espect\u00e1culos y m\u00e1s. // Libertad con Responsabilidad.",
+    "follow_request_sent": null,
+    "utc_offset": -10800
+  },
+  "extended_tweet": {
+    "entities": {
+      "user_mentions": [
+        {
+          "indices": [
+            70,
+            85
+          ],
+          "name": "Unidad Ciudadana \u2600\ufe0f",
+          "screen_name": "UniCiudadanaAR",
+          "id": 724991849912500224,
+          "id_str": "724991849912500224"
+        },
+        {
+          "indices": [
+            94,
+            107
+          ],
+          "name": "Cristina Kirchner",
+          "screen_name": "CFKArgentina",
+          "id": 138814032,
+          "id_str": "138814032"
+        }
+      ],
+      "symbols": [],
+      "hashtags": [
+        {
+          "text": "EleccionesArgentina",
+          "indices": [
+            0,
+            20
+          ]
+        },
+        {
+          "text": "Ahora",
+          "indices": [
+            21,
+            27
+          ]
+        }
+      ],
+      "urls": [],
+      "media": [
+        {
+          "indices": [
+            139,
+            162
+          ],
+          "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/922129401956978691/pu/img/If2c7eUYT0prUc6t.jpg",
+          "video_info": {
+            "duration_millis": 98421,
+            "variants": [
+              {
+                "bitrate": 832000,
+                "url": "https://video.twimg.com/ext_tw_video/922129401956978691/pu/vid/640x360/33nwrR4u4RpAGFxb.mp4",
+                "content_type": "video/mp4"
+              },
+              {
+                "url": "https://video.twimg.com/ext_tw_video/922129401956978691/pu/pl/6lVXf5VIYapLvPXV.m3u8",
+                "content_type": "application/x-mpegURL"
+              },
+              {
+                "bitrate": 320000,
+                "url": "https://video.twimg.com/ext_tw_video/922129401956978691/pu/vid/320x180/rMcWtzcr1UBnkO34.mp4",
+                "content_type": "video/mp4"
+              }
+            ],
+            "aspect_ratio": [
+              16,
+              9
+            ]
+          },
+          "url": "https://t.co/XwYeCkplXl",
+          "expanded_url": "https://twitter.com/ConclusionRos/status/922130074886987776/video/1",
+          "id": 922129401956978691,
+          "sizes": {
+            "medium": {
+              "resize": "fit",
+              "w": 600,
+              "h": 338
+            },
+            "large": {
+              "resize": "fit",
+              "w": 640,
+              "h": 360
+            },
+            "small": {
+              "resize": "fit",
+              "w": 340,
+              "h": 191
+            },
+            "thumb": {
+              "resize": "crop",
+              "w": 150,
+              "h": 150
+            }
+          },
+          "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/922129401956978691/pu/img/If2c7eUYT0prUc6t.jpg",
+          "id_str": "922129401956978691",
+          "display_url": "pic.twitter.com/XwYeCkplXl",
+          "type": "video"
+        }
+      ]
+    },
+    "display_text_range": [
+      0,
+      138
+    ],
+    "extended_entities": {
+      "media": [
+        {
+          "indices": [
+            139,
+            162
+          ],
+          "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/922129401956978691/pu/img/If2c7eUYT0prUc6t.jpg",
+          "video_info": {
+            "duration_millis": 98421,
+            "variants": [
+              {
+                "bitrate": 832000,
+                "url": "https://video.twimg.com/ext_tw_video/922129401956978691/pu/vid/640x360/33nwrR4u4RpAGFxb.mp4",
+                "content_type": "video/mp4"
+              },
+              {
+                "url": "https://video.twimg.com/ext_tw_video/922129401956978691/pu/pl/6lVXf5VIYapLvPXV.m3u8",
+                "content_type": "application/x-mpegURL"
+              },
+              {
+                "bitrate": 320000,
+                "url": "https://video.twimg.com/ext_tw_video/922129401956978691/pu/vid/320x180/rMcWtzcr1UBnkO34.mp4",
+                "content_type": "video/mp4"
+              }
+            ],
+            "aspect_ratio": [
+              16,
+              9
+            ]
+          },
+          "url": "https://t.co/XwYeCkplXl",
+          "expanded_url": "https://twitter.com/ConclusionRos/status/922130074886987776/video/1",
+          "id": 922129401956978691,
+          "sizes": {
+            "medium": {
+              "resize": "fit",
+              "w": 600,
+              "h": 338
+            },
+            "large": {
+              "resize": "fit",
+              "w": 640,
+              "h": 360
+            },
+            "small": {
+              "resize": "fit",
+              "w": 340,
+              "h": 191
+            },
+            "thumb": {
+              "resize": "crop",
+              "w": 150,
+              "h": 150
+            }
+          },
+          "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/922129401956978691/pu/img/If2c7eUYT0prUc6t.jpg",
+          "id_str": "922129401956978691",
+          "display_url": "pic.twitter.com/XwYeCkplXl",
+          "type": "video"
+        }
+      ]
+    },
+    "full_text": "#EleccionesArgentina #Ahora Tras de recorrer el centro de c\u00f3mputos de @UniCiudadanaAR , habl\u00f3 @CFKArgentina de las condiciones electorales https://t.co/XwYeCkplXl"
+  },
+  "lang": "es"
+}

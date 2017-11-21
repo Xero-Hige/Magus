@@ -1,0 +1,121 @@
+{
+  "entities": {
+    "hashtags": [
+      {
+        "indices": [
+          0,
+          20
+        ],
+        "text": "EleccionesArgentina"
+      },
+      {
+        "indices": [
+          32,
+          45
+        ],
+        "text": "Kirchnerismo"
+      }
+    ],
+    "symbols": [],
+    "urls": [],
+    "user_mentions": []
+  },
+  "in_reply_to_user_id": null,
+  "created_at": "Sun Oct 22 22:34:30 +0000 2017",
+  "favorite_count": 0,
+  "lang": "es",
+  "reply_count": 0,
+  "id_str": "922229703339134976",
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_status_id": null,
+  "timestamp_ms": "1508711670132",
+  "text": "#EleccionesArgentina 12 a\u00f1os de #Kirchnerismo:se estableci\u00f3 una grieta, apareci\u00f3 dinero enterrado en un convento y un homicidio sin resolver",
+  "user": {
+    "time_zone": null,
+    "screen_name": "neilbennetto",
+    "utc_offset": null,
+    "created_at": "Wed Jul 24 03:55:42 +0000 2013",
+    "profile_background_tile": false,
+    "notifications": null,
+    "lang": "es",
+    "default_profile": false,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1616765978/1437111578",
+    "id_str": "1616765978",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/543196357075292161/rLTgiqlX_normal.jpeg",
+    "name": "NEIL BENNETT OLIVERA",
+    "friends_count": 465,
+    "translator_type": "none",
+    "protected": false,
+    "following": null,
+    "is_translator": false,
+    "follow_request_sent": null,
+    "profile_text_color": "000000",
+    "listed_count": 7,
+    "profile_link_color": "0084B4",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "url": null,
+    "id": 1616765978,
+    "favourites_count": 5693,
+    "profile_background_color": "000000",
+    "followers_count": 130,
+    "statuses_count": 5530,
+    "description": "HINCHA No 1 de Uruguay..pero yo no lucro como el Pato Celeste",
+    "location": "montevideo, Uruguay",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "default_profile_image": false,
+    "verified": false,
+    "profile_sidebar_fill_color": "000000",
+    "profile_use_background_image": false,
+    "contributors_enabled": false,
+    "profile_sidebar_border_color": "000000",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/543196357075292161/rLTgiqlX_normal.jpeg",
+    "geo_enabled": true
+  },
+  "geo": null,
+  "id": 922229703339134976,
+  "quote_count": 0,
+  "retweeted": false,
+  "filter_level": "low",
+  "in_reply_to_status_id_str": null,
+  "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+  "favorited": false,
+  "coordinates": null,
+  "truncated": false,
+  "retweet_count": 0,
+  "is_quote_status": false,
+  "in_reply_to_screen_name": null,
+  "contributors": null,
+  "place": {
+    "bounding_box": {
+      "coordinates": [
+        [
+          [
+            -56.430439,
+            -34.937896
+          ],
+          [
+            -56.430439,
+            -34.701599
+          ],
+          [
+            -56.029341,
+            -34.701599
+          ],
+          [
+            -56.029341,
+            -34.937896
+          ]
+        ]
+      ],
+      "type": "Polygon"
+    },
+    "name": "Montevideo",
+    "url": "https://api.twitter.com/1.1/geo/id/01a9dbb9232f0fac.json",
+    "country_code": "UY",
+    "id": "01a9dbb9232f0fac",
+    "place_type": "admin",
+    "attributes": {},
+    "full_name": "Montevideo, Uruguay",
+    "country": "Uruguay"
+  }
+}

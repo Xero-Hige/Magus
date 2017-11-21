@@ -1,0 +1,222 @@
+{
+  "extended_entities": {
+    "media": [
+      {
+        "indices": [
+          104,
+          127
+        ],
+        "media_url_https": "https://pbs.twimg.com/media/DMwsdk-W4Acm-k3.jpg",
+        "url": "https://t.co/TwzXAc83TM",
+        "expanded_url": "https://twitter.com/Margit__/status/922160912890548224/photo/1",
+        "id": 922160910357159943,
+        "sizes": {
+          "medium": {
+            "resize": "fit",
+            "w": 900,
+            "h": 1200
+          },
+          "large": {
+            "resize": "fit",
+            "w": 1440,
+            "h": 1920
+          },
+          "small": {
+            "resize": "fit",
+            "w": 510,
+            "h": 680
+          },
+          "thumb": {
+            "resize": "crop",
+            "w": 150,
+            "h": 150
+          }
+        },
+        "media_url": "http://pbs.twimg.com/media/DMwsdk-W4Acm-k3.jpg",
+        "id_str": "922160910357159943",
+        "display_url": "pic.twitter.com/TwzXAc83TM",
+        "type": "photo"
+      }
+    ]
+  },
+  "contributors": null,
+  "id": 922160912890548224,
+  "retweeted": false,
+  "retweet_count": 0,
+  "in_reply_to_user_id": null,
+  "in_reply_to_status_id": null,
+  "id_str": "922160912890548224",
+  "created_at": "Sun Oct 22 18:01:09 +0000 2017",
+  "coordinates": {
+    "type": "Point",
+    "coordinates": [
+      -70.64738089,
+      -33.44679083
+    ]
+  },
+  "favorite_count": 0,
+  "entities": {
+    "user_mentions": [
+      {
+        "indices": [
+          35,
+          45
+        ],
+        "name": "barriopaz",
+        "screen_name": "BarrioPAZ",
+        "id": 1543634990,
+        "id_str": "1543634990"
+      }
+    ],
+    "symbols": [],
+    "hashtags": [],
+    "urls": [
+      {
+        "expanded_url": "https://www.swarmapp.com/c/g24OozBYgvQ",
+        "indices": [
+          80,
+          103
+        ],
+        "url": "https://t.co/WvcEMEVyL1",
+        "display_url": "swarmapp.com/c/g24OozBYgvQ"
+      }
+    ],
+    "media": [
+      {
+        "indices": [
+          104,
+          127
+        ],
+        "media_url_https": "https://pbs.twimg.com/media/DMwsdk-W4Acm-k3.jpg",
+        "url": "https://t.co/TwzXAc83TM",
+        "expanded_url": "https://twitter.com/Margit__/status/922160912890548224/photo/1",
+        "id": 922160910357159943,
+        "sizes": {
+          "medium": {
+            "resize": "fit",
+            "w": 900,
+            "h": 1200
+          },
+          "large": {
+            "resize": "fit",
+            "w": 1440,
+            "h": 1920
+          },
+          "small": {
+            "resize": "fit",
+            "w": 510,
+            "h": 680
+          },
+          "thumb": {
+            "resize": "crop",
+            "w": 150,
+            "h": 150
+          }
+        },
+        "media_url": "http://pbs.twimg.com/media/DMwsdk-W4Acm-k3.jpg",
+        "id_str": "922160910357159943",
+        "display_url": "pic.twitter.com/TwzXAc83TM",
+        "type": "photo"
+      }
+    ]
+  },
+  "reply_count": 0,
+  "timestamp_ms": "1508695269211",
+  "source": "<a href=\"http://foursquare.com\" rel=\"nofollow\">Foursquare</a>",
+  "place": {
+    "attributes": {},
+    "url": "https://api.twitter.com/1.1/geo/id/0010b4cb51ca93d8.json",
+    "place_type": "city",
+    "id": "0010b4cb51ca93d8",
+    "country_code": "CL",
+    "name": "Santiago",
+    "country": "Chile",
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            -70.692959,
+            -33.478574
+          ],
+          [
+            -70.692959,
+            -33.425749
+          ],
+          [
+            -70.626272,
+            -33.425749
+          ],
+          [
+            -70.626272,
+            -33.478574
+          ]
+        ]
+      ]
+    },
+    "full_name": "Santiago, Chile"
+  },
+  "truncated": false,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_screen_name": null,
+  "filter_level": "low",
+  "text": "I'm at El Rinc\u00f3n de los Canallas - @barriopaz in Santiago, Regi\u00f3n Metropolitana https://t.co/WvcEMEVyL1 https://t.co/TwzXAc83TM",
+  "geo": {
+    "type": "Point",
+    "coordinates": [
+      -33.44679083,
+      -70.64738089
+    ]
+  },
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": false,
+  "possibly_sensitive": false,
+  "display_text_range": [
+    0,
+    103
+  ],
+  "favorited": false,
+  "user": {
+    "verified": false,
+    "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000180118009/IbZOTe9u.jpeg",
+    "statuses_count": 31426,
+    "screen_name": "Margit__",
+    "default_profile_image": false,
+    "time_zone": "Santiago",
+    "name": "Margit",
+    "id_str": "120288386",
+    "profile_sidebar_border_color": "FFFFFF",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/120288386/1503672215",
+    "created_at": "Sat Mar 06 00:57:21 +0000 2010",
+    "friends_count": 1556,
+    "url": null,
+    "profile_background_tile": false,
+    "protected": false,
+    "translator_type": "none",
+    "profile_text_color": "663B12",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/857362961823870978/YIfDeuJB_normal.jpg",
+    "listed_count": 11,
+    "notifications": null,
+    "contributors_enabled": false,
+    "is_translator": false,
+    "location": "Arica,Chile",
+    "profile_use_background_image": true,
+    "followers_count": 1777,
+    "profile_sidebar_fill_color": "DAECF4",
+    "geo_enabled": true,
+    "profile_link_color": "1F98C7",
+    "favourites_count": 563,
+    "following": null,
+    "default_profile": false,
+    "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000180118009/IbZOTe9u.jpeg",
+    "profile_background_color": "C6E2EE",
+    "id": 120288386,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/857362961823870978/YIfDeuJB_normal.jpg",
+    "lang": "es",
+    "description": "Con @Cerati en el \u2764\ufe0f. Rebelde con causas",
+    "follow_request_sent": null,
+    "utc_offset": -10800
+  },
+  "quote_count": 0,
+  "lang": "es"
+}

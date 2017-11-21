@@ -1,0 +1,114 @@
+{
+  "in_reply_to_user_id": null,
+  "contributors": null,
+  "in_reply_to_screen_name": null,
+  "retweeted": false,
+  "retweet_count": 0,
+  "timestamp_ms": "1508644091069",
+  "in_reply_to_status_id": null,
+  "id_str": "921946256204795904",
+  "created_at": "Sun Oct 22 03:48:11 +0000 2017",
+  "id": 921946256204795904,
+  "coordinates": null,
+  "favorite_count": 0,
+  "entities": {
+    "user_mentions": [],
+    "symbols": [],
+    "hashtags": [
+      {
+        "text": "EleccionesArgentina",
+        "indices": [
+          119,
+          139
+        ]
+      }
+    ],
+    "urls": []
+  },
+  "reply_count": 0,
+  "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+  "place": {
+    "attributes": {},
+    "url": "https://api.twitter.com/1.1/geo/id/0108c69f708ae783.json",
+    "place_type": "city",
+    "id": "0108c69f708ae783",
+    "country_code": "AR",
+    "name": "Avellaneda",
+    "country": "Argentina",
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            -58.40649,
+            -34.726948
+          ],
+          [
+            -58.40649,
+            -34.638333
+          ],
+          [
+            -58.297038,
+            -34.638333
+          ],
+          [
+            -58.297038,
+            -34.726948
+          ]
+        ]
+      ]
+    },
+    "full_name": "Avellaneda, Argentina"
+  },
+  "truncated": false,
+  "in_reply_to_status_id_str": null,
+  "filter_level": "low",
+  "text": "Viene un tarifazo en agua, luz y gas.Van a aumentar los impuestos mientras gobiernan para los ricos. \u00bfLos vas a votar? #EleccionesArgentina",
+  "geo": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": false,
+  "favorited": false,
+  "user": {
+    "verified": false,
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+    "statuses_count": 3427,
+    "screen_name": "LuchoDePalmo",
+    "default_profile_image": false,
+    "time_zone": "Buenos Aires",
+    "name": "Luciano \ud83c\udde6\ud83c\uddf7",
+    "id_str": "1977199483",
+    "profile_sidebar_border_color": "000000",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1977199483/1508119522",
+    "created_at": "Mon Oct 21 02:42:13 +0000 2013",
+    "friends_count": 419,
+    "url": null,
+    "profile_background_tile": false,
+    "protected": false,
+    "translator_type": "regular",
+    "profile_text_color": "000000",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/917295098957791233/srVBV4ts_normal.jpg",
+    "listed_count": 4,
+    "notifications": null,
+    "contributors_enabled": false,
+    "is_translator": false,
+    "location": "Con mi gente",
+    "profile_use_background_image": false,
+    "followers_count": 173,
+    "profile_sidebar_fill_color": "000000",
+    "geo_enabled": true,
+    "profile_link_color": "1B95E0",
+    "favourites_count": 1123,
+    "following": null,
+    "default_profile": false,
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+    "profile_background_color": "000000",
+    "id": 1977199483,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/917295098957791233/srVBV4ts_normal.jpg",
+    "lang": "es",
+    "description": "\u23fa\ufe0fLa vox populi de este barrio arriscado \u23fa\ufe0fEste asunto esta ahora y para siempre en tus manos nene \u23fa\ufe0f Populista.",
+    "follow_request_sent": null,
+    "utc_offset": -10800
+  },
+  "quote_count": 0,
+  "lang": "es"
+}

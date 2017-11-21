@@ -1,0 +1,106 @@
+{
+  "in_reply_to_user_id": null,
+  "contributors": null,
+  "in_reply_to_screen_name": null,
+  "retweeted": false,
+  "retweet_count": 0,
+  "timestamp_ms": "1508686159917",
+  "in_reply_to_status_id": null,
+  "id_str": "922122705742200832",
+  "created_at": "Sun Oct 22 15:29:19 +0000 2017",
+  "id": 922122705742200832,
+  "coordinates": null,
+  "favorite_count": 0,
+  "entities": {
+    "user_mentions": [],
+    "symbols": [],
+    "hashtags": [],
+    "urls": []
+  },
+  "reply_count": 0,
+  "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+  "place": {
+    "attributes": {},
+    "url": "https://api.twitter.com/1.1/geo/id/00da7cec74df27ff.json",
+    "place_type": "city",
+    "id": "00da7cec74df27ff",
+    "country_code": "AR",
+    "name": "Neuqu\u00e9n",
+    "country": "Argentina",
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            -68.176283,
+            -38.984724
+          ],
+          [
+            -68.176283,
+            -38.921051
+          ],
+          [
+            -68.015162,
+            -38.921051
+          ],
+          [
+            -68.015162,
+            -38.984724
+          ]
+        ]
+      ]
+    },
+    "full_name": "Neuqu\u00e9n, Argentina"
+  },
+  "truncated": false,
+  "in_reply_to_status_id_str": null,
+  "filter_level": "low",
+  "text": "Vota Ramon Rioseco, candidato a diputado nacional Frente Neuquino. \"La posibilidad de elegir es muy importante\"",
+  "geo": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": false,
+  "favorited": false,
+  "user": {
+    "verified": false,
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "statuses_count": 30331,
+    "screen_name": "LU5AM600",
+    "default_profile_image": false,
+    "time_zone": null,
+    "name": "LU5 AM600",
+    "id_str": "600231490",
+    "profile_sidebar_border_color": "000000",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/600231490/1473249026",
+    "created_at": "Tue Jun 05 16:26:03 +0000 2012",
+    "friends_count": 1309,
+    "url": "http://lu5am.com",
+    "profile_background_tile": false,
+    "protected": false,
+    "translator_type": "none",
+    "profile_text_color": "000000",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/671337619742138369/Lt52RO8Q_normal.jpg",
+    "listed_count": 78,
+    "notifications": null,
+    "contributors_enabled": false,
+    "is_translator": false,
+    "location": "Patagonia Argentina. ",
+    "profile_use_background_image": false,
+    "followers_count": 23057,
+    "profile_sidebar_fill_color": "000000",
+    "geo_enabled": true,
+    "profile_link_color": "4A913C",
+    "favourites_count": 185,
+    "following": null,
+    "default_profile": false,
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_color": "000000",
+    "id": 600231490,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/671337619742138369/Lt52RO8Q_normal.jpg",
+    "lang": "es",
+    "description": "Radio Neuqu\u00e9n",
+    "follow_request_sent": null,
+    "utc_offset": null
+  },
+  "quote_count": 0,
+  "lang": "es"
+}

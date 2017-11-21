@@ -1,0 +1,113 @@
+{
+  "entities": {
+    "hashtags": [
+      {
+        "indices": [
+          0,
+          10
+        ],
+        "text": "enacional"
+      }
+    ],
+    "symbols": [],
+    "urls": [],
+    "user_mentions": []
+  },
+  "in_reply_to_user_id": null,
+  "created_at": "Sun Oct 22 23:25:49 +0000 2017",
+  "favorite_count": 0,
+  "lang": "es",
+  "reply_count": 0,
+  "id_str": "922242619060736000",
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_status_id": null,
+  "timestamp_ms": "1508714749480",
+  "text": "#enacional Pr\u00e9stamos BancoEstado privilegian solvencia econ\u00f3mica de candidatos sobre la solvencia moral de ellos!!!",
+  "user": {
+    "time_zone": "Brasilia",
+    "screen_name": "r_garcia_l",
+    "utc_offset": -7200,
+    "created_at": "Fri Mar 19 01:54:24 +0000 2010",
+    "profile_background_tile": false,
+    "notifications": null,
+    "lang": "es",
+    "default_profile": true,
+    "follow_request_sent": null,
+    "id_str": "124330613",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/671039327028269060/HSGSEzJb_normal.jpg",
+    "name": "Rafael Garc\u00eda",
+    "friends_count": 461,
+    "translator_type": "none",
+    "protected": false,
+    "following": null,
+    "is_translator": false,
+    "profile_text_color": "333333",
+    "listed_count": 5,
+    "profile_link_color": "1DA1F2",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "url": null,
+    "id": 124330613,
+    "favourites_count": 5835,
+    "profile_background_color": "C0DEED",
+    "followers_count": 324,
+    "statuses_count": 12898,
+    "description": "Esposo, padre y abuelo. Si, soy UPeliento. Respeto a los que piensan distinto",
+    "location": "Santiago, Chile",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "default_profile_image": false,
+    "verified": false,
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_use_background_image": true,
+    "contributors_enabled": false,
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/671039327028269060/HSGSEzJb_normal.jpg",
+    "geo_enabled": true
+  },
+  "geo": null,
+  "id": 922242619060736000,
+  "quote_count": 0,
+  "retweeted": false,
+  "filter_level": "low",
+  "in_reply_to_status_id_str": null,
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "favorited": false,
+  "coordinates": null,
+  "truncated": false,
+  "retweet_count": 0,
+  "is_quote_status": false,
+  "in_reply_to_screen_name": null,
+  "contributors": null,
+  "place": {
+    "bounding_box": {
+      "coordinates": [
+        [
+          [
+            -70.637692,
+            -33.449973
+          ],
+          [
+            -70.637692,
+            -33.408997
+          ],
+          [
+            -70.583826,
+            -33.408997
+          ],
+          [
+            -70.583826,
+            -33.449973
+          ]
+        ]
+      ],
+      "type": "Polygon"
+    },
+    "name": "Providencia",
+    "url": "https://api.twitter.com/1.1/geo/id/01d461fd3da860bd.json",
+    "country_code": "CL",
+    "id": "01d461fd3da860bd",
+    "place_type": "city",
+    "attributes": {},
+    "full_name": "Providencia, Chile",
+    "country": "Chile"
+  }
+}

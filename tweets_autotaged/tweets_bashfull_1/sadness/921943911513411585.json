@@ -1,0 +1,164 @@
+{
+  "in_reply_to_user_id": 181762544,
+  "contributors": null,
+  "id": 921943911513411585,
+  "retweeted": false,
+  "retweet_count": 0,
+  "timestamp_ms": "1508643532051",
+  "in_reply_to_status_id": 921487491751923712,
+  "id_str": "921943911513411585",
+  "coordinates": null,
+  "created_at": "Sun Oct 22 03:38:52 +0000 2017",
+  "quote_count": 0,
+  "favorite_count": 0,
+  "entities": {
+    "user_mentions": [
+      {
+        "indices": [
+          0,
+          13
+        ],
+        "name": "Nano",
+        "screen_name": "nanothompson",
+        "id": 181762544,
+        "id_str": "181762544"
+      }
+    ],
+    "symbols": [],
+    "hashtags": [],
+    "urls": [
+      {
+        "expanded_url": "https://twitter.com/i/web/status/921943911513411585",
+        "indices": [
+          117,
+          140
+        ],
+        "url": "https://t.co/g7pys1SO35",
+        "display_url": "twitter.com/i/web/status/9\u2026"
+      }
+    ]
+  },
+  "reply_count": 0,
+  "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+  "place": {
+    "attributes": {},
+    "url": "https://api.twitter.com/1.1/geo/id/5a31f78df98634d6.json",
+    "place_type": "admin",
+    "id": "5a31f78df98634d6",
+    "country_code": "AR",
+    "name": "Entre R\u00edos",
+    "country": "Argentina",
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            -60.756769,
+            -34.037952
+          ],
+          [
+            -60.756769,
+            -30.162823
+          ],
+          [
+            -57.797527,
+            -30.162823
+          ],
+          [
+            -57.797527,
+            -34.037952
+          ]
+        ]
+      ]
+    },
+    "full_name": "Entre R\u00edos, Argentina"
+  },
+  "truncated": true,
+  "in_reply_to_status_id_str": "921487491751923712",
+  "in_reply_to_screen_name": "nanothompson",
+  "filter_level": "low",
+  "text": "@nanothompson NISMAN golpeado, con un balazo y hemorragia, SE SUICID\u00d3 \nMALDONADO sin HERIDAS, SE AHOG\u00d3, pero FUE GE\u2026 https://t.co/g7pys1SO35",
+  "geo": null,
+  "in_reply_to_user_id_str": "181762544",
+  "is_quote_status": false,
+  "display_text_range": [
+    14,
+    140
+  ],
+  "favorited": false,
+  "user": {
+    "verified": false,
+    "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/459500074737729538/6qQM0jtn.jpeg",
+    "statuses_count": 2535,
+    "screen_name": "EnzoGroisman",
+    "default_profile_image": false,
+    "time_zone": null,
+    "name": "Enzo",
+    "id_str": "277767367",
+    "profile_sidebar_border_color": "FFFFFF",
+    "created_at": "Wed Apr 06 00:26:52 +0000 2011",
+    "friends_count": 616,
+    "url": null,
+    "profile_background_tile": true,
+    "protected": false,
+    "translator_type": "regular",
+    "profile_text_color": "333333",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/869355888305483776/2MPV5rps_normal.jpg",
+    "listed_count": 1,
+    "notifications": null,
+    "contributors_enabled": false,
+    "is_translator": false,
+    "location": "Villa Clara",
+    "profile_use_background_image": true,
+    "followers_count": 658,
+    "profile_sidebar_fill_color": "EFEFEF",
+    "geo_enabled": true,
+    "profile_link_color": "4A913C",
+    "favourites_count": 1525,
+    "following": null,
+    "default_profile": false,
+    "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/459500074737729538/6qQM0jtn.jpeg",
+    "profile_background_color": "131516",
+    "id": 277767367,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/869355888305483776/2MPV5rps_normal.jpg",
+    "lang": "es",
+    "description": "Estudiante. Entrerriano, oriundo de Villa Clara, cerca de Villaguay como todos decimos. Anti K hasta la muerte. UCR.",
+    "follow_request_sent": null,
+    "utc_offset": null
+  },
+  "extended_tweet": {
+    "entities": {
+      "user_mentions": [
+        {
+          "indices": [
+            0,
+            13
+          ],
+          "name": "Nano",
+          "screen_name": "nanothompson",
+          "id": 181762544,
+          "id_str": "181762544"
+        },
+        {
+          "indices": [
+            138,
+            151
+          ],
+          "name": "Nano",
+          "screen_name": "nanothompson",
+          "id": 181762544,
+          "id_str": "181762544"
+        }
+      ],
+      "symbols": [],
+      "hashtags": [],
+      "urls": []
+    },
+    "display_text_range": [
+      14,
+      153
+    ],
+    "full_text": "@nanothompson NISMAN golpeado, con un balazo y hemorragia, SE SUICID\u00d3 \nMALDONADO sin HERIDAS, SE AHOG\u00d3, pero FUE GENDARMER\u00cdA \nTenes dudas @nanothompson ?"
+  },
+  "lang": "es"
+}

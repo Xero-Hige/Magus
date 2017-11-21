@@ -1,0 +1,121 @@
+{
+  "in_reply_to_user_id": 512028532,
+  "contributors": null,
+  "id": 922118782771957760,
+  "retweeted": false,
+  "retweet_count": 0,
+  "timestamp_ms": "1508685224608",
+  "in_reply_to_status_id": 922117357362929664,
+  "id_str": "922118782771957760",
+  "created_at": "Sun Oct 22 15:13:44 +0000 2017",
+  "coordinates": null,
+  "favorite_count": 0,
+  "entities": {
+    "user_mentions": [
+      {
+        "indices": [
+          0,
+          14
+        ],
+        "name": "Felipe Castro",
+        "screen_name": "Pipersviajero",
+        "id": 512028532,
+        "id_str": "512028532"
+      }
+    ],
+    "symbols": [],
+    "hashtags": [],
+    "urls": []
+  },
+  "reply_count": 0,
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "place": {
+    "attributes": {},
+    "url": "https://api.twitter.com/1.1/geo/id/01aca6916b3a4a79.json",
+    "place_type": "city",
+    "id": "01aca6916b3a4a79",
+    "country_code": "CL",
+    "name": "Santa Mar\u00eda",
+    "country": "Chile",
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            -70.684669,
+            -32.813507
+          ],
+          [
+            -70.684669,
+            -32.568954
+          ],
+          [
+            -70.515066,
+            -32.568954
+          ],
+          [
+            -70.515066,
+            -32.813507
+          ]
+        ]
+      ]
+    },
+    "full_name": "Santa Mar\u00eda, Chile"
+  },
+  "truncated": false,
+  "in_reply_to_status_id_str": "922117357362929664",
+  "in_reply_to_screen_name": "Pipersviajero",
+  "filter_level": "low",
+  "text": "@Pipersviajero Como todos, me rio de las cosas absurdas que dice la gente, y de muchas cosas m\u00e1s",
+  "geo": null,
+  "in_reply_to_user_id_str": "512028532",
+  "is_quote_status": false,
+  "display_text_range": [
+    15,
+    96
+  ],
+  "favorited": false,
+  "user": {
+    "verified": false,
+    "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/320854366/01203_rosewoodcanvas_1280x800.jpg",
+    "statuses_count": 42860,
+    "screen_name": "chelo_espinoza",
+    "default_profile_image": false,
+    "time_zone": "Santiago",
+    "name": "Chelo! \uf8ff",
+    "id_str": "82947441",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/82947441/1450106879",
+    "created_at": "Fri Oct 16 18:58:25 +0000 2009",
+    "friends_count": 1935,
+    "url": null,
+    "profile_background_tile": false,
+    "protected": false,
+    "translator_type": "none",
+    "profile_text_color": "333333",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/891363151740063745/lDy2Q3hc_normal.jpg",
+    "listed_count": 27,
+    "notifications": null,
+    "contributors_enabled": false,
+    "is_translator": false,
+    "location": "San Felipe y Santiago",
+    "profile_use_background_image": true,
+    "followers_count": 1896,
+    "profile_sidebar_fill_color": "DDEEF6",
+    "geo_enabled": true,
+    "profile_link_color": "0084B4",
+    "favourites_count": 2008,
+    "following": null,
+    "default_profile": false,
+    "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/320854366/01203_rosewoodcanvas_1280x800.jpg",
+    "profile_background_color": "C0DEED",
+    "id": 82947441,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/891363151740063745/lDy2Q3hc_normal.jpg",
+    "lang": "es",
+    "description": "Inform\u00e1tico, futbolero, tengo un #TerrierChileno y una #CareyCat",
+    "follow_request_sent": null,
+    "utc_offset": -10800
+  },
+  "quote_count": 0,
+  "lang": "es"
+}

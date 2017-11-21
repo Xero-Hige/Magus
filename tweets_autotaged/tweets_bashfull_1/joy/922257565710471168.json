@@ -1,0 +1,132 @@
+{
+  "entities": {
+    "hashtags": [
+      {
+        "indices": [
+          50,
+          58
+        ],
+        "text": "Chuchis"
+      },
+      {
+        "indices": [
+          69,
+          89
+        ],
+        "text": "estonoesplazaitalia"
+      }
+    ],
+    "symbols": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "indices": [
+          0,
+          10
+        ],
+        "screen_name": "marcosimu",
+        "name": "marco silva",
+        "id_str": "10476582",
+        "id": 10476582
+      }
+    ]
+  },
+  "in_reply_to_user_id": 10476582,
+  "created_at": "Mon Oct 23 00:25:13 +0000 2017",
+  "favorite_count": 0,
+  "lang": "es",
+  "reply_count": 0,
+  "id_str": "922257565710471168",
+  "in_reply_to_user_id_str": "10476582",
+  "in_reply_to_status_id": null,
+  "timestamp_ms": "1508718313039",
+  "text": "@marcosimu \nNo te voy a desear feliz cumplea\u00f1os!\n\n#Chuchis No Cumple\n#estonoesplazaitalia \nNo Saludos\nYa son suficientes",
+  "user": {
+    "time_zone": "Santiago",
+    "screen_name": "rsalvop",
+    "utc_offset": -10800,
+    "created_at": "Tue May 25 17:37:38 +0000 2010",
+    "profile_background_tile": false,
+    "notifications": null,
+    "lang": "es",
+    "default_profile": false,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/148038214/1507715352",
+    "id_str": "148038214",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/918080133361229824/XK1MocUq_normal.jpg",
+    "name": "Rodrigo Salvo Parra",
+    "friends_count": 4275,
+    "translator_type": "none",
+    "protected": false,
+    "following": null,
+    "is_translator": false,
+    "follow_request_sent": null,
+    "profile_text_color": "333333",
+    "listed_count": 56,
+    "profile_link_color": "0084B4",
+    "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/548641261/Fran_wallpaper.jpg",
+    "url": "https://www.google.com/maps/place/49824+Laar,+Alemania/@52.6070433,6.695837,12z/data=!3m1!4b1!4m5!3m",
+    "id": 148038214,
+    "favourites_count": 86189,
+    "profile_background_color": "C0DEED",
+    "followers_count": 2725,
+    "statuses_count": 186883,
+    "description": "Historia: Sucesi\u00f3n sucesiva de sucesos sucedidos sucesivamente \ud83c\uddfb\ud83c\udde8\ud83c\uddfb\ud83c\udde8\ud83c\uddfb\ud83c\udde8\ud83c\uddfb\ud83c\udde8#Chuchis \ud83c\uddfb\ud83c\udde8\ud83c\uddfb\ud83c\udde8\ud83c\uddfb\ud83c\udde8\ud83c\uddfb\ud83c\udde8\ud83c\uddfb\ud83c\udde8\ud83c\uddfb\ud83c\udde8\ud83c\uddfb\ud83c\udde8\ud83c\uddfb\ud83c\udde8\ud83c\uddfb\ud83c\udde8  #RoedorSenior",
+    "location": "Providencia, Chile",
+    "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/548641261/Fran_wallpaper.jpg",
+    "default_profile_image": false,
+    "verified": false,
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_use_background_image": true,
+    "contributors_enabled": false,
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/918080133361229824/XK1MocUq_normal.jpg",
+    "geo_enabled": true
+  },
+  "geo": null,
+  "id": 922257565710471168,
+  "quote_count": 0,
+  "retweeted": false,
+  "filter_level": "low",
+  "in_reply_to_status_id_str": null,
+  "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+  "favorited": false,
+  "coordinates": null,
+  "truncated": false,
+  "retweet_count": 0,
+  "is_quote_status": false,
+  "in_reply_to_screen_name": "marcosimu",
+  "contributors": null,
+  "place": {
+    "bounding_box": {
+      "coordinates": [
+        [
+          [
+            -70.637692,
+            -33.449973
+          ],
+          [
+            -70.637692,
+            -33.408997
+          ],
+          [
+            -70.583826,
+            -33.408997
+          ],
+          [
+            -70.583826,
+            -33.449973
+          ]
+        ]
+      ],
+      "type": "Polygon"
+    },
+    "name": "Providencia",
+    "url": "https://api.twitter.com/1.1/geo/id/01d461fd3da860bd.json",
+    "country_code": "CL",
+    "id": "01d461fd3da860bd",
+    "place_type": "city",
+    "attributes": {},
+    "full_name": "Providencia, Chile",
+    "country": "Chile"
+  }
+}

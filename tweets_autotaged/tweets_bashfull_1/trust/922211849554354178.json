@@ -1,0 +1,155 @@
+{
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "urls": [
+      {
+        "indices": [
+          117,
+          140
+        ],
+        "expanded_url": "https://twitter.com/i/web/status/922211849554354178",
+        "display_url": "twitter.com/i/web/status/9\u2026",
+        "url": "https://t.co/v0sXHl0qi4"
+      }
+    ],
+    "user_mentions": [
+      {
+        "indices": [
+          0,
+          11
+        ],
+        "screen_name": "Nachirriin",
+        "name": "ignacio ruiz",
+        "id_str": "1335345764",
+        "id": 1335345764
+      }
+    ]
+  },
+  "in_reply_to_user_id": 1335345764,
+  "created_at": "Sun Oct 22 21:23:33 +0000 2017",
+  "favorite_count": 0,
+  "lang": "es",
+  "reply_count": 0,
+  "id_str": "922211849554354178",
+  "in_reply_to_user_id_str": "1335345764",
+  "extended_tweet": {
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "urls": [],
+      "user_mentions": [
+        {
+          "indices": [
+            0,
+            11
+          ],
+          "screen_name": "Nachirriin",
+          "name": "ignacio ruiz",
+          "id_str": "1335345764",
+          "id": 1335345764
+        }
+      ]
+    },
+    "display_text_range": [
+      12,
+      152
+    ],
+    "full_text": "@Nachirriin Y porq los (nefastos) pol\u00edticos utilizaron pol\u00edticamente el caso Maldonado entonces uno hace pol\u00edtica con una remera?No entiendo la relaci\u00f3n"
+  },
+  "in_reply_to_status_id": 922211420149878784,
+  "timestamp_ms": "1508707413458",
+  "truncated": true,
+  "text": "@Nachirriin Y porq los (nefastos) pol\u00edticos utilizaron pol\u00edticamente el caso Maldonado entonces uno hace pol\u00edtica c\u2026 https://t.co/v0sXHl0qi4",
+  "user": {
+    "time_zone": "Buenos Aires",
+    "screen_name": "FacuScorzetti",
+    "utc_offset": -10800,
+    "created_at": "Wed Dec 26 03:59:42 +0000 2012",
+    "profile_background_tile": false,
+    "notifications": null,
+    "lang": "es",
+    "default_profile": false,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1036237398/1502731101",
+    "id_str": "1036237398",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/888042963607138304/Lt_JJ5IP_normal.jpg",
+    "name": "Facu Scorzetti",
+    "friends_count": 1286,
+    "translator_type": "regular",
+    "protected": false,
+    "following": null,
+    "is_translator": false,
+    "follow_request_sent": null,
+    "profile_text_color": "333333",
+    "listed_count": 13,
+    "profile_link_color": "227264",
+    "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/455960894925570048/DVCxl5KP.jpeg",
+    "url": "http://instagram.com/facundoofernandez",
+    "id": 1036237398,
+    "favourites_count": 1210,
+    "profile_background_color": "C0DEED",
+    "followers_count": 895,
+    "statuses_count": 54586,
+    "description": "SL. Lionel Messi. Fire and blood. Dise\u00f1o gr\u00e1fico. Estudiante de Comunicaci\u00f3n Social en la UNC. Dise\u00f1ador, editor y redactor de San Lorenzo en @TribuneroWeb",
+    "location": "C\u00f3rdoba, Argentina",
+    "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/455960894925570048/DVCxl5KP.jpeg",
+    "default_profile_image": false,
+    "verified": false,
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_use_background_image": true,
+    "contributors_enabled": false,
+    "profile_sidebar_border_color": "FFFFFF",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/888042963607138304/Lt_JJ5IP_normal.jpg",
+    "geo_enabled": true
+  },
+  "geo": null,
+  "id": 922211849554354178,
+  "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+  "retweeted": false,
+  "filter_level": "low",
+  "in_reply_to_status_id_str": "922211420149878784",
+  "quote_count": 0,
+  "favorited": false,
+  "coordinates": null,
+  "display_text_range": [
+    12,
+    140
+  ],
+  "retweet_count": 0,
+  "is_quote_status": false,
+  "in_reply_to_screen_name": "Nachirriin",
+  "contributors": null,
+  "place": {
+    "bounding_box": {
+      "coordinates": [
+        [
+          [
+            -64.3195,
+            -31.523576
+          ],
+          [
+            -64.3195,
+            -31.307337
+          ],
+          [
+            -64.076551,
+            -31.307337
+          ],
+          [
+            -64.076551,
+            -31.523576
+          ]
+        ]
+      ],
+      "type": "Polygon"
+    },
+    "name": "C\u00f3rdoba",
+    "url": "https://api.twitter.com/1.1/geo/id/00f84d414936f28e.json",
+    "country_code": "AR",
+    "id": "00f84d414936f28e",
+    "place_type": "city",
+    "attributes": {},
+    "full_name": "C\u00f3rdoba, Argentina",
+    "country": "Argentina"
+  }
+}

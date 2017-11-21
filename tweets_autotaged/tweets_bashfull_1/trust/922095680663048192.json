@@ -1,0 +1,114 @@
+{
+  "in_reply_to_user_id": null,
+  "contributors": null,
+  "in_reply_to_screen_name": null,
+  "retweeted": false,
+  "retweet_count": 0,
+  "timestamp_ms": "1508679716636",
+  "in_reply_to_status_id": null,
+  "id_str": "922095680663048192",
+  "created_at": "Sun Oct 22 13:41:56 +0000 2017",
+  "id": 922095680663048192,
+  "coordinates": null,
+  "favorite_count": 0,
+  "entities": {
+    "user_mentions": [],
+    "symbols": [],
+    "hashtags": [
+      {
+        "text": "Santiago",
+        "indices": [
+          20,
+          29
+        ]
+      }
+    ],
+    "urls": []
+  },
+  "reply_count": 0,
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "place": {
+    "attributes": {},
+    "url": "https://api.twitter.com/1.1/geo/id/0010b4cb51ca93d8.json",
+    "place_type": "city",
+    "id": "0010b4cb51ca93d8",
+    "country_code": "CL",
+    "name": "Santiago",
+    "country": "Chile",
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            -70.692959,
+            -33.478574
+          ],
+          [
+            -70.692959,
+            -33.425749
+          ],
+          [
+            -70.626272,
+            -33.425749
+          ],
+          [
+            -70.626272,
+            -33.478574
+          ]
+        ]
+      ]
+    },
+    "full_name": "Santiago, Chile"
+  },
+  "truncated": false,
+  "in_reply_to_status_id_str": null,
+  "filter_level": "low",
+  "text": "Si bien mis d\u00edas en #Santiago empezaron mal, he tenido la suerte de mejorarme y conocer m\u00e1s esta ciudad! Sin lugar a dudas no vivir\u00eda aqu\u00ed \ud83d\ude05",
+  "geo": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": false,
+  "favorited": false,
+  "user": {
+    "verified": false,
+    "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/672810616/d7253f2b0e6aee739e3e351668d9030b.jpeg",
+    "statuses_count": 58312,
+    "screen_name": "jana1903",
+    "default_profile_image": false,
+    "time_zone": "Buenos Aires",
+    "name": "Alejandra",
+    "id_str": "119922702",
+    "profile_sidebar_border_color": "FFFFFF",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/119922702/1475466440",
+    "created_at": "Thu Mar 04 23:35:43 +0000 2010",
+    "friends_count": 2192,
+    "url": null,
+    "profile_background_tile": true,
+    "protected": false,
+    "translator_type": "none",
+    "profile_text_color": "FF0000",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/912070410187022338/FL9iKq4u_normal.jpg",
+    "listed_count": 24,
+    "notifications": null,
+    "contributors_enabled": false,
+    "is_translator": false,
+    "location": "Calama, Chile",
+    "profile_use_background_image": true,
+    "followers_count": 3128,
+    "profile_sidebar_fill_color": "7AC3EE",
+    "geo_enabled": true,
+    "profile_link_color": "3D1957",
+    "favourites_count": 15484,
+    "following": null,
+    "default_profile": false,
+    "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/672810616/d7253f2b0e6aee739e3e351668d9030b.jpeg",
+    "profile_background_color": "642D8B",
+    "id": 119922702,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/912070410187022338/FL9iKq4u_normal.jpg",
+    "lang": "es",
+    "description": "Toda mi esencia, es mi hija. Todo mi mundo es mi \ud83d\udc78 . Ingeniera en Minas, Analista Qu\u00edmico, Cobreloina de \u2764\ufe0f. Defensora de los derechos de los \ud83d\udc76\ud83c\udffb",
+    "follow_request_sent": null,
+    "utc_offset": -10800
+  },
+  "quote_count": 0,
+  "lang": "es"
+}

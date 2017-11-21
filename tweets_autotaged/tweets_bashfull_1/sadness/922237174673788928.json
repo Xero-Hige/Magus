@@ -1,0 +1,131 @@
+{
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "indices": [
+          0,
+          10
+        ],
+        "screen_name": "AmericaTV",
+        "name": "Am\u00e9rica TV \ud83d\udcfa",
+        "id_str": "137486112",
+        "id": 137486112
+      },
+      {
+        "indices": [
+          11,
+          24
+        ],
+        "screen_name": "gracielavigo",
+        "name": "graciela vigo",
+        "id_str": "858079711",
+        "id": 858079711
+      }
+    ]
+  },
+  "in_reply_to_user_id": 137486112,
+  "created_at": "Sun Oct 22 23:04:11 +0000 2017",
+  "favorite_count": 0,
+  "lang": "es",
+  "reply_count": 0,
+  "id_str": "922237174673788928",
+  "in_reply_to_user_id_str": "137486112",
+  "in_reply_to_status_id": 922219827845935104,
+  "timestamp_ms": "1508713451437",
+  "truncated": false,
+  "text": "@AmericaTV @gracielavigo no tenes verguenza traidor si alfonsin viviera te hecha traidor impresentable,corrupto",
+  "user": {
+    "time_zone": null,
+    "screen_name": "gracielavigo",
+    "utc_offset": null,
+    "created_at": "Tue Oct 02 13:43:26 +0000 2012",
+    "profile_background_tile": false,
+    "notifications": null,
+    "lang": "es",
+    "default_profile": false,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/858079711/1431557711",
+    "id_str": "858079711",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/887418489895624705/G6mEVTrj_normal.jpg",
+    "name": "graciela vigo",
+    "friends_count": 83,
+    "translator_type": "none",
+    "protected": false,
+    "following": null,
+    "is_translator": false,
+    "follow_request_sent": null,
+    "profile_text_color": "000000",
+    "listed_count": 4,
+    "profile_link_color": "DD2E44",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "url": null,
+    "id": 858079711,
+    "favourites_count": 238,
+    "profile_background_color": "000000",
+    "followers_count": 280,
+    "statuses_count": 31138,
+    "description": "amante de los animales soy amante de la vida,trato de hacer el menor da\u00f1o posible y busco en la vida ser feliz",
+    "location": null,
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "default_profile_image": false,
+    "verified": false,
+    "profile_sidebar_fill_color": "000000",
+    "profile_use_background_image": false,
+    "contributors_enabled": false,
+    "profile_sidebar_border_color": "000000",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/887418489895624705/G6mEVTrj_normal.jpg",
+    "geo_enabled": true
+  },
+  "geo": null,
+  "id": 922237174673788928,
+  "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+  "retweeted": false,
+  "filter_level": "low",
+  "in_reply_to_status_id_str": "922219827845935104",
+  "quote_count": 0,
+  "favorited": false,
+  "coordinates": null,
+  "display_text_range": [
+    11,
+    111
+  ],
+  "retweet_count": 0,
+  "is_quote_status": false,
+  "in_reply_to_screen_name": "AmericaTV",
+  "contributors": null,
+  "place": {
+    "bounding_box": {
+      "coordinates": [
+        [
+          [
+            -58.714401,
+            -34.91004
+          ],
+          [
+            -58.714401,
+            -34.634696
+          ],
+          [
+            -58.46421,
+            -34.634696
+          ],
+          [
+            -58.46421,
+            -34.91004
+          ]
+        ]
+      ],
+      "type": "Polygon"
+    },
+    "name": "Gonz\u00e1lez Cat\u00e1n",
+    "url": "https://api.twitter.com/1.1/geo/id/0138a2ed609c5a53.json",
+    "country_code": "AR",
+    "id": "0138a2ed609c5a53",
+    "place_type": "city",
+    "attributes": {},
+    "full_name": "Gonz\u00e1lez Cat\u00e1n, Argentina",
+    "country": "Argentina"
+  }
+}

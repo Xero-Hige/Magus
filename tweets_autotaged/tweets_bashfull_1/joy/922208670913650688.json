@@ -1,0 +1,117 @@
+{
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "indices": [
+          0,
+          12
+        ],
+        "screen_name": "MarioTapiaC",
+        "name": "Mario Tapia \uf8ff",
+        "id_str": "45503509",
+        "id": 45503509
+      }
+    ]
+  },
+  "in_reply_to_user_id": 45503509,
+  "created_at": "Sun Oct 22 21:10:55 +0000 2017",
+  "favorite_count": 0,
+  "lang": "es",
+  "reply_count": 0,
+  "id_str": "922208670913650688",
+  "in_reply_to_user_id_str": "45503509",
+  "in_reply_to_status_id": null,
+  "timestamp_ms": "1508706655611",
+  "text": "@MarioTapiaC Te deseo un muy feliz cumplea\u00f1os... Pasalo muy bien y disfruta con todo!!! Saludos",
+  "user": {
+    "time_zone": null,
+    "screen_name": "JokerAbarca",
+    "utc_offset": null,
+    "created_at": "Thu Mar 01 01:42:04 +0000 2012",
+    "profile_background_tile": false,
+    "notifications": null,
+    "lang": "es",
+    "default_profile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/509561341/1496272327",
+    "id_str": "509561341",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/862294827072991232/zmbY8aCo_normal.jpg",
+    "name": "Dr JoKer House",
+    "friends_count": 203,
+    "translator_type": "none",
+    "protected": false,
+    "following": null,
+    "is_translator": false,
+    "follow_request_sent": null,
+    "profile_text_color": "333333",
+    "listed_count": 3,
+    "profile_link_color": "1DA1F2",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "url": null,
+    "id": 509561341,
+    "favourites_count": 723,
+    "profile_background_color": "C0DEED",
+    "followers_count": 187,
+    "statuses_count": 4865,
+    "description": "Empezando de cero.. Padre, esposo, hijo, hermano pero lo mas importante azul \ud83d\udd35\ud83d\udd34!! Mateo y Marisol mi legado.. Decreto un nuevo futuro. Carpe Diem!! Vamos x +.",
+    "location": "Nowhere.. Everywhere!! Acaaa!!",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "default_profile_image": false,
+    "verified": false,
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_use_background_image": true,
+    "contributors_enabled": false,
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/862294827072991232/zmbY8aCo_normal.jpg",
+    "geo_enabled": true
+  },
+  "geo": null,
+  "id": 922208670913650688,
+  "quote_count": 0,
+  "retweeted": false,
+  "filter_level": "low",
+  "in_reply_to_status_id_str": null,
+  "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+  "favorited": false,
+  "coordinates": null,
+  "truncated": false,
+  "retweet_count": 0,
+  "is_quote_status": false,
+  "in_reply_to_screen_name": "MarioTapiaC",
+  "contributors": null,
+  "place": {
+    "bounding_box": {
+      "coordinates": [
+        [
+          [
+            -70.692959,
+            -33.478574
+          ],
+          [
+            -70.692959,
+            -33.425749
+          ],
+          [
+            -70.626272,
+            -33.425749
+          ],
+          [
+            -70.626272,
+            -33.478574
+          ]
+        ]
+      ],
+      "type": "Polygon"
+    },
+    "name": "Santiago",
+    "url": "https://api.twitter.com/1.1/geo/id/0010b4cb51ca93d8.json",
+    "country_code": "CL",
+    "id": "0010b4cb51ca93d8",
+    "place_type": "city",
+    "attributes": {},
+    "full_name": "Santiago, Chile",
+    "country": "Chile"
+  }
+}

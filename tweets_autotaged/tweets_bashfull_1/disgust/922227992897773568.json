@@ -1,0 +1,106 @@
+{
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "urls": [],
+    "user_mentions": []
+  },
+  "in_reply_to_user_id": null,
+  "created_at": "Sun Oct 22 22:27:42 +0000 2017",
+  "favorite_count": 0,
+  "lang": "es",
+  "reply_count": 0,
+  "id_str": "922227992897773568",
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_status_id": null,
+  "timestamp_ms": "1508711262331",
+  "text": "Los zurditos son una especie rara, se quejan cuando no hay trabajo y se quejan tambi\u00e9n cuando tienen que laburar.",
+  "user": {
+    "time_zone": "Buenos Aires",
+    "screen_name": "MartinezL_94",
+    "utc_offset": -10800,
+    "created_at": "Tue Mar 08 04:39:08 +0000 2011",
+    "profile_background_tile": true,
+    "notifications": null,
+    "lang": "es",
+    "default_profile": false,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/262498254/1425686048",
+    "id_str": "262498254",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/897135222076190720/CiCm4Z3i_normal.jpg",
+    "name": "Luciano",
+    "friends_count": 166,
+    "translator_type": "regular",
+    "protected": false,
+    "following": null,
+    "is_translator": false,
+    "follow_request_sent": null,
+    "profile_text_color": "38339E",
+    "listed_count": 0,
+    "profile_link_color": "693B1E",
+    "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/652951821/iwj6mgljqfu1irj6yevs.jpeg",
+    "url": null,
+    "id": 262498254,
+    "favourites_count": 1207,
+    "profile_background_color": "E05E74",
+    "followers_count": 306,
+    "statuses_count": 9115,
+    "description": "Boludo con suerte.",
+    "location": null,
+    "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/652951821/iwj6mgljqfu1irj6yevs.jpeg",
+    "default_profile_image": false,
+    "verified": false,
+    "profile_sidebar_fill_color": "7EFC90",
+    "profile_use_background_image": true,
+    "contributors_enabled": false,
+    "profile_sidebar_border_color": "FFFFFF",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/897135222076190720/CiCm4Z3i_normal.jpg",
+    "geo_enabled": true
+  },
+  "geo": null,
+  "id": 922227992897773568,
+  "quote_count": 0,
+  "retweeted": false,
+  "filter_level": "low",
+  "in_reply_to_status_id_str": null,
+  "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+  "favorited": false,
+  "coordinates": null,
+  "truncated": false,
+  "retweet_count": 0,
+  "is_quote_status": false,
+  "in_reply_to_screen_name": null,
+  "contributors": null,
+  "place": {
+    "bounding_box": {
+      "coordinates": [
+        [
+          [
+            -60.756769,
+            -34.037952
+          ],
+          [
+            -60.756769,
+            -30.162823
+          ],
+          [
+            -57.797527,
+            -30.162823
+          ],
+          [
+            -57.797527,
+            -34.037952
+          ]
+        ]
+      ],
+      "type": "Polygon"
+    },
+    "name": "Entre R\u00edos",
+    "url": "https://api.twitter.com/1.1/geo/id/5a31f78df98634d6.json",
+    "country_code": "AR",
+    "id": "5a31f78df98634d6",
+    "place_type": "admin",
+    "attributes": {},
+    "full_name": "Entre R\u00edos, Argentina",
+    "country": "Argentina"
+  }
+}

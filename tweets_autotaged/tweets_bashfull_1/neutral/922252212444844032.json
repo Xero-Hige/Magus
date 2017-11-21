@@ -1,0 +1,131 @@
+{
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "indices": [
+          0,
+          14
+        ],
+        "screen_name": "emiliokarothy",
+        "name": "Emilio Karothy",
+        "id_str": "361206910",
+        "id": 361206910
+      },
+      {
+        "indices": [
+          15,
+          29
+        ],
+        "screen_name": "gonzalocontra",
+        "name": "Gonzalo Contreras O.",
+        "id_str": "326345501",
+        "id": 326345501
+      }
+    ]
+  },
+  "in_reply_to_user_id": 361206910,
+  "created_at": "Mon Oct 23 00:03:56 +0000 2017",
+  "favorite_count": 0,
+  "lang": "es",
+  "reply_count": 0,
+  "id_str": "922252212444844032",
+  "in_reply_to_user_id_str": "361206910",
+  "in_reply_to_status_id": 922251866943184896,
+  "timestamp_ms": "1508717036721",
+  "truncated": false,
+  "text": "@emiliokarothy @gonzalocontra Ya tengo 3 camisetas del Gallo desempolvadas. Van para la foto del martes o me las meto en el ort#...",
+  "user": {
+    "time_zone": "Buenos Aires",
+    "screen_name": "a_gallegos",
+    "utc_offset": -10800,
+    "created_at": "Sat May 29 03:09:48 +0000 2010",
+    "profile_background_tile": false,
+    "notifications": null,
+    "lang": "es",
+    "default_profile": false,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/149363584/1486817064",
+    "id_str": "149363584",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/900939534489182208/ZbIjYKtA_normal.jpg",
+    "name": "Alejandro Gallegos",
+    "friends_count": 391,
+    "translator_type": "none",
+    "protected": false,
+    "following": null,
+    "is_translator": false,
+    "follow_request_sent": null,
+    "profile_text_color": "000000",
+    "listed_count": 0,
+    "profile_link_color": "1B95E0",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "url": "https://www.facebook.com/alejandrodgallegos",
+    "id": 149363584,
+    "favourites_count": 597,
+    "profile_background_color": "000000",
+    "followers_count": 78,
+    "statuses_count": 2297,
+    "description": "De Buenos Aires. Vivo en Corrientes. Pap\u00e1 de Joaqu\u00edn y Santiago. Lic. en Turismo, Prof. de RRPP y Econom\u00eda. Responsable de Servicios Especiales. De Boca y Mor\u00f3n",
+    "location": "Corrientes, Argentina",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "default_profile_image": false,
+    "verified": false,
+    "profile_sidebar_fill_color": "000000",
+    "profile_use_background_image": false,
+    "contributors_enabled": false,
+    "profile_sidebar_border_color": "000000",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/900939534489182208/ZbIjYKtA_normal.jpg",
+    "geo_enabled": true
+  },
+  "geo": null,
+  "id": 922252212444844032,
+  "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+  "retweeted": false,
+  "filter_level": "low",
+  "in_reply_to_status_id_str": "922251866943184896",
+  "quote_count": 0,
+  "favorited": false,
+  "coordinates": null,
+  "display_text_range": [
+    30,
+    131
+  ],
+  "retweet_count": 0,
+  "is_quote_status": false,
+  "in_reply_to_screen_name": "emiliokarothy",
+  "contributors": null,
+  "place": {
+    "bounding_box": {
+      "coordinates": [
+        [
+          [
+            -58.855973,
+            -27.537017
+          ],
+          [
+            -58.855973,
+            -27.437049
+          ],
+          [
+            -58.736291,
+            -27.437049
+          ],
+          [
+            -58.736291,
+            -27.537017
+          ]
+        ]
+      ],
+      "type": "Polygon"
+    },
+    "name": "Corrientes",
+    "url": "https://api.twitter.com/1.1/geo/id/00a961d91f76dde8.json",
+    "country_code": "AR",
+    "id": "00a961d91f76dde8",
+    "place_type": "city",
+    "attributes": {},
+    "full_name": "Corrientes, Argentina",
+    "country": "Argentina"
+  }
+}

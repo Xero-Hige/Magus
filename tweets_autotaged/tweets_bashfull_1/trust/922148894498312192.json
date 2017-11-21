@@ -1,0 +1,155 @@
+{
+  "in_reply_to_user_id": null,
+  "contributors": null,
+  "in_reply_to_screen_name": null,
+  "retweeted": false,
+  "retweet_count": 0,
+  "timestamp_ms": "1508692403803",
+  "in_reply_to_status_id": null,
+  "id_str": "922148894498312192",
+  "created_at": "Sun Oct 22 17:13:23 +0000 2017",
+  "id": 922148894498312192,
+  "coordinates": {
+    "type": "Point",
+    "coordinates": [
+      -70.66168236,
+      -33.46266989
+    ]
+  },
+  "favorite_count": 0,
+  "entities": {
+    "user_mentions": [
+      {
+        "indices": [
+          53,
+          67
+        ],
+        "name": "Movistar Chile",
+        "screen_name": "MovistarChile",
+        "id": 31141520,
+        "id_str": "31141520"
+      }
+    ],
+    "symbols": [],
+    "hashtags": [
+      {
+        "text": "HHHinChile",
+        "indices": [
+          0,
+          11
+        ]
+      },
+      {
+        "text": "WWESantiago",
+        "indices": [
+          20,
+          32
+        ]
+      }
+    ],
+    "urls": [
+      {
+        "expanded_url": "https://www.swarmapp.com/c/fGJXitbJCEn",
+        "indices": [
+          103,
+          126
+        ],
+        "url": "https://t.co/a0r5M8VVFZ",
+        "display_url": "swarmapp.com/c/fGJXitbJCEn"
+      }
+    ]
+  },
+  "reply_count": 0,
+  "source": "<a href=\"http://foursquare.com\" rel=\"nofollow\">Foursquare</a>",
+  "place": {
+    "attributes": {},
+    "url": "https://api.twitter.com/1.1/geo/id/0010b4cb51ca93d8.json",
+    "place_type": "city",
+    "id": "0010b4cb51ca93d8",
+    "country_code": "CL",
+    "name": "Santiago",
+    "country": "Chile",
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            -70.692959,
+            -33.478574
+          ],
+          [
+            -70.692959,
+            -33.425749
+          ],
+          [
+            -70.626272,
+            -33.425749
+          ],
+          [
+            -70.626272,
+            -33.478574
+          ]
+        ]
+      ]
+    },
+    "full_name": "Santiago, Chile"
+  },
+  "truncated": false,
+  "in_reply_to_status_id_str": null,
+  "filter_level": "low",
+  "text": "#HHHinChile la CSM! #WWESantiago (@ Movistar Arena - @movistarchile in Santiago, Regi\u00f3n Metropolitana) https://t.co/a0r5M8VVFZ",
+  "geo": {
+    "type": "Point",
+    "coordinates": [
+      -33.46266989,
+      -70.66168236
+    ]
+  },
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": false,
+  "possibly_sensitive": false,
+  "favorited": false,
+  "user": {
+    "verified": true,
+    "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/89229096/GUNS02.jpg",
+    "statuses_count": 117866,
+    "screen_name": "farellano",
+    "default_profile_image": false,
+    "time_zone": "Santiago",
+    "name": "Francisco Arellano",
+    "id_str": "38627457",
+    "profile_sidebar_border_color": "EEEEEE",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/38627457/1483324160",
+    "created_at": "Fri May 08 07:42:29 +0000 2009",
+    "friends_count": 1493,
+    "url": "http://www.futbolsites.net",
+    "profile_background_tile": true,
+    "protected": false,
+    "translator_type": "none",
+    "profile_text_color": "333333",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/815746669530652673/TMwmTuiE_normal.jpg",
+    "listed_count": 94,
+    "notifications": null,
+    "contributors_enabled": false,
+    "is_translator": false,
+    "location": "Pe\u00f1alol\u00e9n, Santiago, Chile",
+    "profile_use_background_image": true,
+    "followers_count": 9213,
+    "profile_sidebar_fill_color": "EFEFEF",
+    "geo_enabled": true,
+    "profile_link_color": "FA0000",
+    "favourites_count": 775,
+    "following": null,
+    "default_profile": false,
+    "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/89229096/GUNS02.jpg",
+    "profile_background_color": "131516",
+    "id": 38627457,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/815746669530652673/TMwmTuiE_normal.jpg",
+    "lang": "es",
+    "description": "H\u00edpico, futbolero y rockero de ley / Fan de la WWE y el boxeo / Bohemio / Maradoniano / Editor period\u00edstico en @FutbolSites Chile / Camino junto a @Anika_Price.",
+    "follow_request_sent": null,
+    "utc_offset": -10800
+  },
+  "quote_count": 0,
+  "lang": "es"
+}

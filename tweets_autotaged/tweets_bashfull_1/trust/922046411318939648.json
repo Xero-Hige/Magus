@@ -1,0 +1,120 @@
+{
+  "in_reply_to_user_id": 36409216,
+  "contributors": null,
+  "id": 922046411318939648,
+  "retweeted": false,
+  "retweet_count": 0,
+  "timestamp_ms": "1508667969909",
+  "in_reply_to_status_id": 921756633780367360,
+  "id_str": "922046411318939648",
+  "created_at": "Sun Oct 22 10:26:09 +0000 2017",
+  "coordinates": null,
+  "favorite_count": 0,
+  "entities": {
+    "user_mentions": [
+      {
+        "indices": [
+          0,
+          14
+        ],
+        "name": "Radio Agricultura",
+        "screen_name": "AgriculturaFM",
+        "id": 36409216,
+        "id_str": "36409216"
+      }
+    ],
+    "symbols": [],
+    "hashtags": [],
+    "urls": []
+  },
+  "reply_count": 0,
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "place": {
+    "attributes": {},
+    "url": "https://api.twitter.com/1.1/geo/id/0017753e191a1a9e.json",
+    "place_type": "city",
+    "id": "0017753e191a1a9e",
+    "country_code": "CL",
+    "name": "Talca",
+    "country": "Chile",
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            -71.718231,
+            -35.531944
+          ],
+          [
+            -71.718231,
+            -35.312995
+          ],
+          [
+            -71.489312,
+            -35.312995
+          ],
+          [
+            -71.489312,
+            -35.531944
+          ]
+        ]
+      ]
+    },
+    "full_name": "Talca, Chile"
+  },
+  "truncated": false,
+  "in_reply_to_status_id_str": "921756633780367360",
+  "in_reply_to_screen_name": "AgriculturaFM",
+  "filter_level": "low",
+  "text": "@AgriculturaFM lamentable. Afortunadamente fue atendida en la Cl\u00ednica Las Condes y no en un Hospital P\u00fablico",
+  "geo": null,
+  "in_reply_to_user_id_str": "36409216",
+  "is_quote_status": false,
+  "display_text_range": [
+    15,
+    108
+  ],
+  "favorited": false,
+  "user": {
+    "verified": false,
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "statuses_count": 4231,
+    "screen_name": "fdosobrevia",
+    "default_profile_image": false,
+    "time_zone": null,
+    "name": "fernando sobrevia m",
+    "id_str": "156761347",
+    "profile_sidebar_border_color": "C0DEED",
+    "created_at": "Thu Jun 17 21:04:50 +0000 2010",
+    "friends_count": 152,
+    "url": null,
+    "profile_background_tile": false,
+    "protected": false,
+    "translator_type": "none",
+    "profile_text_color": "333333",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/873972857642135552/ZS3n3bC0_normal.jpg",
+    "listed_count": 0,
+    "notifications": null,
+    "contributors_enabled": false,
+    "is_translator": false,
+    "location": null,
+    "profile_use_background_image": true,
+    "followers_count": 47,
+    "profile_sidebar_fill_color": "DDEEF6",
+    "geo_enabled": true,
+    "profile_link_color": "1DA1F2",
+    "favourites_count": 200,
+    "following": null,
+    "default_profile": true,
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_color": "C0DEED",
+    "id": 156761347,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/873972857642135552/ZS3n3bC0_normal.jpg",
+    "lang": "es",
+    "description": null,
+    "follow_request_sent": null,
+    "utc_offset": null
+  },
+  "quote_count": 0,
+  "lang": "es"
+}

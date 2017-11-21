@@ -1,0 +1,135 @@
+{
+  "in_reply_to_user_id": null,
+  "contributors": null,
+  "in_reply_to_screen_name": null,
+  "retweeted": false,
+  "retweet_count": 0,
+  "timestamp_ms": "1508671067034",
+  "in_reply_to_status_id": null,
+  "id_str": "922059401602699265",
+  "created_at": "Sun Oct 22 11:17:47 +0000 2017",
+  "id": 922059401602699265,
+  "coordinates": null,
+  "favorite_count": 0,
+  "entities": {
+    "user_mentions": [
+      {
+        "indices": [
+          9,
+          13
+        ],
+        "name": "C5N",
+        "screen_name": "C5N",
+        "id": 152325528,
+        "id_str": "152325528"
+      },
+      {
+        "indices": [
+          14,
+          30
+        ],
+        "name": "Cafe Tortoni",
+        "screen_name": "Grancafetortoni",
+        "id": 2530580652,
+        "id_str": "2530580652"
+      }
+    ],
+    "symbols": [],
+    "hashtags": [
+      {
+        "text": "BAElige",
+        "indices": [
+          0,
+          8
+        ]
+      }
+    ],
+    "urls": []
+  },
+  "reply_count": 0,
+  "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+  "place": {
+    "attributes": {},
+    "url": "https://api.twitter.com/1.1/geo/id/00577114384dea2b.json",
+    "place_type": "city",
+    "id": "00577114384dea2b",
+    "country_code": "AR",
+    "name": "Vicente L\u00f3pez",
+    "country": "Argentina",
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            -58.553703,
+            -34.569273
+          ],
+          [
+            -58.553703,
+            -34.490491
+          ],
+          [
+            -58.463067,
+            -34.490491
+          ],
+          [
+            -58.463067,
+            -34.569273
+          ]
+        ]
+      ]
+    },
+    "full_name": "Vicente L\u00f3pez, Argentina"
+  },
+  "truncated": false,
+  "in_reply_to_status_id_str": null,
+  "filter_level": "low",
+  "text": "#BAElige @C5N @Grancafetortoni qu\u00e9 desayuno abundante la mayor\u00eda de sus gobernados no acceden...son pobres\nCon un caf\u00e9 s\u00f3lo pocillo mejor...",
+  "geo": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": false,
+  "favorited": false,
+  "user": {
+    "verified": false,
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+    "statuses_count": 40913,
+    "screen_name": "brevencuentro1",
+    "default_profile_image": false,
+    "time_zone": "Buenos Aires",
+    "name": "brevencuentro",
+    "id_str": "208782157",
+    "profile_sidebar_border_color": "EEEEEE",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/208782157/1460682938",
+    "created_at": "Wed Oct 27 23:06:17 +0000 2010",
+    "friends_count": 2166,
+    "url": null,
+    "profile_background_tile": false,
+    "protected": false,
+    "translator_type": "none",
+    "profile_text_color": "333333",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/3291032859/e8b85803eb92073c7c50534de71577bf_normal.jpeg",
+    "listed_count": 33,
+    "notifications": null,
+    "contributors_enabled": false,
+    "is_translator": false,
+    "location": "Ciudad Aut\u00f3noma de Buenos Aire",
+    "profile_use_background_image": true,
+    "followers_count": 461,
+    "profile_sidebar_fill_color": "FFFFFF",
+    "geo_enabled": true,
+    "profile_link_color": "93A644",
+    "favourites_count": 8642,
+    "following": null,
+    "default_profile": false,
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+    "profile_background_color": "B2DFDA",
+    "id": 208782157,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/3291032859/e8b85803eb92073c7c50534de71577bf_normal.jpeg",
+    "lang": "es",
+    "description": "tengo resto...",
+    "follow_request_sent": null,
+    "utc_offset": -10800
+  },
+  "quote_count": 0,
+  "lang": "es"
+}

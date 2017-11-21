@@ -1,0 +1,117 @@
+{
+  "in_reply_to_user_id": null,
+  "contributors": null,
+  "in_reply_to_screen_name": null,
+  "retweeted": false,
+  "retweet_count": 0,
+  "timestamp_ms": "1508677046780",
+  "in_reply_to_status_id": null,
+  "id_str": "922084482475274240",
+  "created_at": "Sun Oct 22 12:57:26 +0000 2017",
+  "id": 922084482475274240,
+  "coordinates": null,
+  "favorite_count": 0,
+  "entities": {
+    "user_mentions": [
+      {
+        "indices": [
+          41,
+          51
+        ],
+        "name": "La pura verdad",
+        "screen_name": "Mauro_lpv",
+        "id": 706493883618869249,
+        "id_str": "706493883618869249"
+      }
+    ],
+    "symbols": [],
+    "hashtags": [],
+    "urls": []
+  },
+  "reply_count": 0,
+  "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+  "place": {
+    "attributes": {},
+    "url": "https://api.twitter.com/1.1/geo/id/00f84d414936f28e.json",
+    "place_type": "city",
+    "id": "00f84d414936f28e",
+    "country_code": "AR",
+    "name": "C\u00f3rdoba",
+    "country": "Argentina",
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            -64.3195,
+            -31.523576
+          ],
+          [
+            -64.3195,
+            -31.307337
+          ],
+          [
+            -64.076551,
+            -31.307337
+          ],
+          [
+            -64.076551,
+            -31.523576
+          ]
+        ]
+      ]
+    },
+    "full_name": "C\u00f3rdoba, Argentina"
+  },
+  "truncated": false,
+  "in_reply_to_status_id_str": null,
+  "filter_level": "low",
+  "text": "Si el ejercito cuida a la hna del tuerto @Mauro_lpv es mucho. Si no la cuidaba y pasaba algo? Todo lo suyo es tendencioso",
+  "geo": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": false,
+  "favorited": false,
+  "user": {
+    "verified": false,
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "statuses_count": 3921,
+    "screen_name": "CariddiDebora",
+    "default_profile_image": false,
+    "time_zone": null,
+    "name": "debora cariddi",
+    "id_str": "1918572631",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1918572631/1459789363",
+    "created_at": "Mon Sep 30 00:54:42 +0000 2013",
+    "friends_count": 647,
+    "url": null,
+    "profile_background_tile": false,
+    "protected": false,
+    "translator_type": "none",
+    "profile_text_color": "333333",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/717034669280268288/c8eE3-I6_normal.jpg",
+    "listed_count": 0,
+    "notifications": null,
+    "contributors_enabled": false,
+    "is_translator": false,
+    "location": "Argentina ",
+    "profile_use_background_image": true,
+    "followers_count": 112,
+    "profile_sidebar_fill_color": "DDEEF6",
+    "geo_enabled": true,
+    "profile_link_color": "1DA1F2",
+    "favourites_count": 7986,
+    "following": null,
+    "default_profile": true,
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_color": "C0DEED",
+    "id": 1918572631,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/717034669280268288/c8eE3-I6_normal.jpg",
+    "lang": "it",
+    "description": "Madre obsesiva. Bipolar asumida. El TOC que te guste. Jam\u00e1s kirschnerista",
+    "follow_request_sent": null,
+    "utc_offset": null
+  },
+  "quote_count": 0,
+  "lang": "es"
+}

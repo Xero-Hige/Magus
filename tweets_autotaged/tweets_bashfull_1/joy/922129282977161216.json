@@ -1,0 +1,140 @@
+{
+  "in_reply_to_user_id": null,
+  "contributors": null,
+  "in_reply_to_screen_name": null,
+  "retweeted": false,
+  "retweet_count": 0,
+  "timestamp_ms": "1508687728052",
+  "in_reply_to_status_id": null,
+  "id_str": "922129282977161216",
+  "created_at": "Sun Oct 22 15:55:28 +0000 2017",
+  "id": 922129282977161216,
+  "coordinates": {
+    "type": "Point",
+    "coordinates": [
+      -68.3,
+      -54.8
+    ]
+  },
+  "favorite_count": 0,
+  "entities": {
+    "user_mentions": [
+      {
+        "indices": [
+          12,
+          28
+        ],
+        "name": "Chema Martinez",
+        "screen_name": "chemitamartinez",
+        "id": 260305007,
+        "id_str": "260305007"
+      }
+    ],
+    "symbols": [],
+    "hashtags": [],
+    "urls": [
+      {
+        "expanded_url": "https://www.instagram.com/p/BajltNcDd-7/",
+        "indices": [
+          96,
+          119
+        ],
+        "url": "https://t.co/OwHGdEiqHd",
+        "display_url": "instagram.com/p/BajltNcDd-7/"
+      }
+    ]
+  },
+  "reply_count": 0,
+  "source": "<a href=\"http://instagram.com\" rel=\"nofollow\">Instagram</a>",
+  "place": {
+    "attributes": {},
+    "url": "https://api.twitter.com/1.1/geo/id/001040bd29e08949.json",
+    "place_type": "city",
+    "id": "001040bd29e08949",
+    "country_code": "AR",
+    "name": "Ushuaia",
+    "country": "Argentina",
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            -68.369881,
+            -54.837486
+          ],
+          [
+            -68.369881,
+            -54.774362
+          ],
+          [
+            -68.221243,
+            -54.774362
+          ],
+          [
+            -68.221243,
+            -54.837486
+          ]
+        ]
+      ]
+    },
+    "full_name": "Ushuaia, Argentina"
+  },
+  "truncated": false,
+  "in_reply_to_status_id_str": null,
+  "filter_level": "low",
+  "text": "Felicidades @chemitamartinez por esos nuevos a\u00f1os, siempre estar\u00e9 orgulloso de haber recorrido\u2026 https://t.co/OwHGdEiqHd",
+  "geo": {
+    "type": "Point",
+    "coordinates": [
+      -54.8,
+      -68.3
+    ]
+  },
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": false,
+  "possibly_sensitive": false,
+  "favorited": false,
+  "user": {
+    "verified": false,
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "statuses_count": 4858,
+    "screen_name": "Andreslledo",
+    "default_profile_image": false,
+    "time_zone": null,
+    "name": "Andr\u00e9s Lled\u00f3 L\u00f3pez",
+    "id_str": "846951643",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/846951643/1411587069",
+    "created_at": "Wed Sep 26 07:26:14 +0000 2012",
+    "friends_count": 547,
+    "url": "http://www.andreslledo.com",
+    "profile_background_tile": false,
+    "protected": false,
+    "translator_type": "none",
+    "profile_text_color": "333333",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/920596227376451584/81LbjOvI_normal.jpg",
+    "listed_count": 27,
+    "notifications": null,
+    "contributors_enabled": false,
+    "is_translator": false,
+    "location": "Entre Palma y Cartagena ",
+    "profile_use_background_image": true,
+    "followers_count": 1095,
+    "profile_sidebar_fill_color": "DDEEF6",
+    "geo_enabled": true,
+    "profile_link_color": "1DA1F2",
+    "favourites_count": 6950,
+    "following": null,
+    "default_profile": true,
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_color": "C0DEED",
+    "id": 846951643,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/920596227376451584/81LbjOvI_normal.jpg",
+    "lang": "es",
+    "description": "TEAM @jimbo_fresh junto PowerBarSpain XBionicSpain SPIUKSportline LaMangaClub Bravocherky ScottSpain MADFORM CMVCaridad INNOVAMURCIA......En Palma SM \ud83d\ude81",
+    "follow_request_sent": null,
+    "utc_offset": null
+  },
+  "quote_count": 0,
+  "lang": "es"
+}

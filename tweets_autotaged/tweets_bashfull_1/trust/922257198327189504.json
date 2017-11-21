@@ -1,0 +1,129 @@
+{
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "urls": [
+      {
+        "indices": [
+          116,
+          139
+        ],
+        "expanded_url": "https://twitter.com/i/web/status/922257198327189504",
+        "display_url": "twitter.com/i/web/status/9\u2026",
+        "url": "https://t.co/c41KmsR99W"
+      }
+    ],
+    "user_mentions": []
+  },
+  "in_reply_to_user_id": null,
+  "created_at": "Mon Oct 23 00:23:45 +0000 2017",
+  "favorite_count": 0,
+  "lang": "es",
+  "reply_count": 0,
+  "id_str": "922257198327189504",
+  "in_reply_to_user_id_str": null,
+  "extended_tweet": {
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "urls": [],
+      "user_mentions": []
+    },
+    "display_text_range": [
+      0,
+      277
+    ],
+    "full_text": "Tengo la costumbre de bajar del bondi y decirle gracias al chofer, hoy una se\u00f1ora me dice 'que le agradeces si son todos una manga de soretes' a lo que el chofer le responde 'and\u00e1 vieja cajetuda' y salt\u00f3 un se\u00f1or a defenderla, fue solo un simple gracias, estamos todos locossss"
+  },
+  "in_reply_to_status_id": null,
+  "timestamp_ms": "1508718225448",
+  "text": "Tengo la costumbre de bajar del bondi y decirle gracias al chofer, hoy una se\u00f1ora me dice 'que le agradeces si son\u2026 https://t.co/c41KmsR99W",
+  "user": {
+    "time_zone": "Buenos Aires",
+    "screen_name": "_vickigomez",
+    "utc_offset": -10800,
+    "created_at": "Wed Nov 21 14:03:12 +0000 2012",
+    "profile_background_tile": true,
+    "notifications": null,
+    "lang": "es",
+    "default_profile": false,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/962456894/1507519876",
+    "id_str": "962456894",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/918632189016801281/hSLqt7pQ_normal.jpg",
+    "name": "Victoria Gomez",
+    "friends_count": 639,
+    "translator_type": "none",
+    "protected": false,
+    "following": null,
+    "is_translator": false,
+    "follow_request_sent": null,
+    "profile_text_color": "362720",
+    "listed_count": 3,
+    "profile_link_color": "FF691F",
+    "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/632440663896928256/dmkQgjiT.jpg",
+    "url": "https://www.facebook.com/vicki.gomez.92",
+    "id": 962456894,
+    "favourites_count": 19810,
+    "profile_background_color": "FFFFFF",
+    "followers_count": 1705,
+    "statuses_count": 28435,
+    "description": "Instagram:_vickigomez \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nTAURO\u2649",
+    "location": "Don Torcuato- Tigre",
+    "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/632440663896928256/dmkQgjiT.jpg",
+    "default_profile_image": false,
+    "verified": false,
+    "profile_sidebar_fill_color": "E5507E",
+    "profile_use_background_image": true,
+    "contributors_enabled": false,
+    "profile_sidebar_border_color": "FFFFFF",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/918632189016801281/hSLqt7pQ_normal.jpg",
+    "geo_enabled": true
+  },
+  "geo": null,
+  "id": 922257198327189504,
+  "quote_count": 0,
+  "retweeted": false,
+  "filter_level": "low",
+  "in_reply_to_status_id_str": null,
+  "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+  "favorited": false,
+  "coordinates": null,
+  "truncated": true,
+  "retweet_count": 0,
+  "is_quote_status": false,
+  "in_reply_to_screen_name": null,
+  "contributors": null,
+  "place": {
+    "bounding_box": {
+      "coordinates": [
+        [
+          [
+            -58.734553,
+            -34.537735
+          ],
+          [
+            -58.734553,
+            -34.350097
+          ],
+          [
+            -58.561445,
+            -34.350097
+          ],
+          [
+            -58.561445,
+            -34.537735
+          ]
+        ]
+      ],
+      "type": "Polygon"
+    },
+    "name": "Tigre",
+    "url": "https://api.twitter.com/1.1/geo/id/01153d1b33e1641b.json",
+    "country_code": "AR",
+    "id": "01153d1b33e1641b",
+    "place_type": "city",
+    "attributes": {},
+    "full_name": "Tigre, Argentina",
+    "country": "Argentina"
+  }
+}

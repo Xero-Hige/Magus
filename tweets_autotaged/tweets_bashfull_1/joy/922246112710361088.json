@@ -1,0 +1,116 @@
+{
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "indices": [
+          0,
+          15
+        ],
+        "screen_name": "RamonBolivarJr",
+        "name": "Ramon Bolivar Jr",
+        "id_str": "173952903",
+        "id": 173952903
+      }
+    ]
+  },
+  "in_reply_to_user_id": 173952903,
+  "created_at": "Sun Oct 22 23:39:42 +0000 2017",
+  "favorite_count": 0,
+  "lang": "es",
+  "reply_count": 0,
+  "id_str": "922246112710361088",
+  "in_reply_to_user_id_str": "173952903",
+  "in_reply_to_status_id": null,
+  "timestamp_ms": "1508715582431",
+  "text": "@RamonBolivarJr Hola saludos besos abrazos a todo mi bello Maracaibo desde Stgo de Chile,saludos a mi hijo Gustavo su novia Claudia.",
+  "user": {
+    "time_zone": null,
+    "screen_name": "mago1649",
+    "utc_offset": null,
+    "created_at": "Thu Dec 30 22:05:44 +0000 2010",
+    "profile_background_tile": true,
+    "notifications": null,
+    "lang": "es",
+    "default_profile": false,
+    "follow_request_sent": null,
+    "id_str": "232340992",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/3588443689/442cdc7513336617f373f383104edbf7_normal.jpeg",
+    "name": "Patricia N\u00fa\u00f1ez",
+    "friends_count": 254,
+    "translator_type": "none",
+    "protected": false,
+    "following": null,
+    "is_translator": false,
+    "profile_text_color": "4D2E20",
+    "listed_count": 2,
+    "profile_link_color": "ED0552",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme11/bg.gif",
+    "url": null,
+    "id": 232340992,
+    "favourites_count": 4455,
+    "profile_background_color": "FF6699",
+    "followers_count": 88,
+    "statuses_count": 8567,
+    "description": "Chilena-Marabina de coraz\u00f3n.Cosmob\u00edologa.Madre de 3 varones y suegra de Catalina.",
+    "location": "Maracaibo-Estado Zulia.VZLA.",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme11/bg.gif",
+    "default_profile_image": false,
+    "verified": false,
+    "profile_sidebar_fill_color": "E5507E",
+    "profile_use_background_image": true,
+    "contributors_enabled": false,
+    "profile_sidebar_border_color": "CC3366",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/3588443689/442cdc7513336617f373f383104edbf7_normal.jpeg",
+    "geo_enabled": true
+  },
+  "geo": null,
+  "id": 922246112710361088,
+  "quote_count": 0,
+  "retweeted": false,
+  "filter_level": "low",
+  "in_reply_to_status_id_str": null,
+  "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+  "favorited": false,
+  "coordinates": null,
+  "truncated": false,
+  "retweet_count": 0,
+  "is_quote_status": false,
+  "in_reply_to_screen_name": "RamonBolivarJr",
+  "contributors": null,
+  "place": {
+    "bounding_box": {
+      "coordinates": [
+        [
+          [
+            -70.692959,
+            -33.478574
+          ],
+          [
+            -70.692959,
+            -33.425749
+          ],
+          [
+            -70.626272,
+            -33.425749
+          ],
+          [
+            -70.626272,
+            -33.478574
+          ]
+        ]
+      ],
+      "type": "Polygon"
+    },
+    "name": "Santiago",
+    "url": "https://api.twitter.com/1.1/geo/id/0010b4cb51ca93d8.json",
+    "country_code": "CL",
+    "id": "0010b4cb51ca93d8",
+    "place_type": "city",
+    "attributes": {},
+    "full_name": "Santiago, Chile",
+    "country": "Chile"
+  }
+}

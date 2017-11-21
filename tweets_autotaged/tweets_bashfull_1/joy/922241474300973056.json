@@ -1,0 +1,179 @@
+{
+  "entities": {
+    "hashtags": [
+      {
+        "indices": [
+          24,
+          32
+        ],
+        "text": "grupito"
+      },
+      {
+        "indices": [
+          33,
+          40
+        ],
+        "text": "amigos"
+      },
+      {
+        "indices": [
+          41,
+          49
+        ],
+        "text": "amistad"
+      },
+      {
+        "indices": [
+          50,
+          60
+        ],
+        "text": "losquiero"
+      },
+      {
+        "indices": [
+          61,
+          67
+        ],
+        "text": "feliz"
+      },
+      {
+        "indices": [
+          68,
+          77
+        ],
+        "text": "contento"
+      },
+      {
+        "indices": [
+          78,
+          94
+        ],
+        "text": "vamosquesepuede"
+      }
+    ],
+    "symbols": [],
+    "urls": [
+      {
+        "indices": [
+          96,
+          119
+        ],
+        "expanded_url": "https://www.instagram.com/p/BakYuITnDbh/",
+        "display_url": "instagram.com/p/BakYuITnDbh/",
+        "url": "https://t.co/VFjxyYknj8"
+      }
+    ],
+    "user_mentions": []
+  },
+  "in_reply_to_user_id": null,
+  "created_at": "Sun Oct 22 23:21:16 +0000 2017",
+  "favorite_count": 0,
+  "lang": "es",
+  "reply_count": 0,
+  "id_str": "922241474300973056",
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_status_id": null,
+  "timestamp_ms": "1508714476548",
+  "possibly_sensitive": false,
+  "text": "Los quiero mucho \u2665\ufe0f\u2665\ufe0f\u2665\ufe0f #grupito #amigos #amistad #losquiero #feliz #contento #vamosquesepuede\u2026 https://t.co/VFjxyYknj8",
+  "user": {
+    "time_zone": "Quito",
+    "screen_name": "Sebaef",
+    "utc_offset": -18000,
+    "created_at": "Mon Mar 22 15:38:13 +0000 2010",
+    "profile_background_tile": true,
+    "notifications": null,
+    "lang": "es",
+    "default_profile": false,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/125365846/1377151363",
+    "id_str": "125365846",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/378800000662420335/053781915b6295b315460b5778d12f1c_normal.jpeg",
+    "name": "Sebasti\u00e1n Escobar \uf8ff",
+    "friends_count": 742,
+    "translator_type": "none",
+    "protected": false,
+    "following": null,
+    "is_translator": false,
+    "follow_request_sent": null,
+    "profile_text_color": "333333",
+    "listed_count": 9,
+    "profile_link_color": "0099CC",
+    "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/326892330/fondos-pantalla-01.jpg",
+    "url": "http://www.aitcapacitaciones.cl",
+    "id": 125365846,
+    "favourites_count": 87,
+    "profile_background_color": "FFF04D",
+    "followers_count": 242,
+    "statuses_count": 1510,
+    "description": "Soy demasiado alegre y me encanta conocer a gente nueva",
+    "location": "Rancagua, Chile",
+    "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/326892330/fondos-pantalla-01.jpg",
+    "default_profile_image": false,
+    "verified": false,
+    "profile_sidebar_fill_color": "F6FFD1",
+    "profile_use_background_image": true,
+    "contributors_enabled": false,
+    "profile_sidebar_border_color": "FFF8AD",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000662420335/053781915b6295b315460b5778d12f1c_normal.jpeg",
+    "geo_enabled": true
+  },
+  "geo": {
+    "coordinates": [
+      -34.1768719,
+      -70.715547
+    ],
+    "type": "Point"
+  },
+  "id": 922241474300973056,
+  "quote_count": 0,
+  "retweeted": false,
+  "filter_level": "low",
+  "in_reply_to_status_id_str": null,
+  "source": "<a href=\"http://instagram.com\" rel=\"nofollow\">Instagram</a>",
+  "favorited": false,
+  "coordinates": {
+    "coordinates": [
+      -70.715547,
+      -34.1768719
+    ],
+    "type": "Point"
+  },
+  "truncated": false,
+  "retweet_count": 0,
+  "is_quote_status": false,
+  "in_reply_to_screen_name": null,
+  "contributors": null,
+  "place": {
+    "bounding_box": {
+      "coordinates": [
+        [
+          [
+            -70.941151,
+            -34.215222
+          ],
+          [
+            -70.941151,
+            -34.027843
+          ],
+          [
+            -70.677001,
+            -34.027843
+          ],
+          [
+            -70.677001,
+            -34.215222
+          ]
+        ]
+      ],
+      "type": "Polygon"
+    },
+    "name": "Rancagua",
+    "url": "https://api.twitter.com/1.1/geo/id/00b596506d9933be.json",
+    "country_code": "CL",
+    "id": "00b596506d9933be",
+    "place_type": "city",
+    "attributes": {},
+    "full_name": "Rancagua, Chile",
+    "country": "Chile"
+  }
+}

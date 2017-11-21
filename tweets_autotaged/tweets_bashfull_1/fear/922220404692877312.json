@@ -1,0 +1,137 @@
+{
+  "entities": {
+    "hashtags": [
+      {
+        "indices": [
+          51,
+          60
+        ],
+        "text": "MamaLoca"
+      }
+    ],
+    "symbols": [],
+    "urls": [
+      {
+        "indices": [
+          75,
+          98
+        ],
+        "expanded_url": "https://www.instagram.com/p/BakPJUKloDk/",
+        "display_url": "instagram.com/p/BakPJUKloDk/",
+        "url": "https://t.co/I06aKHP9NL"
+      }
+    ],
+    "user_mentions": []
+  },
+  "in_reply_to_user_id": null,
+  "created_at": "Sun Oct 22 21:57:33 +0000 2017",
+  "favorite_count": 0,
+  "lang": "es",
+  "reply_count": 0,
+  "id_str": "922220404692877312",
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_status_id": null,
+  "timestamp_ms": "1508709453162",
+  "possibly_sensitive": false,
+  "text": "Mi mam\u00e1 me esta ahorcando... Me ama...meamatarme!! #MamaLoca en El Belloto https://t.co/I06aKHP9NL",
+  "user": {
+    "time_zone": "Santiago",
+    "screen_name": "KriegerFenixAAA",
+    "utc_offset": -10800,
+    "created_at": "Sun Nov 14 13:48:43 +0000 2010",
+    "profile_background_tile": true,
+    "notifications": null,
+    "lang": "es",
+    "default_profile": false,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/215631039/1494106763",
+    "id_str": "215631039",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/876208619750084609/9wKvJ5MA_normal.jpg",
+    "name": "Christian ArancibiaA",
+    "friends_count": 1838,
+    "translator_type": "none",
+    "protected": false,
+    "following": null,
+    "is_translator": false,
+    "follow_request_sent": null,
+    "profile_text_color": "3D0606",
+    "listed_count": 22,
+    "profile_link_color": "252F44",
+    "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000066029133/1ea39870fb2a445382c0e68dbdc10ff2.jpeg",
+    "url": null,
+    "id": 215631039,
+    "favourites_count": 10998,
+    "profile_background_color": "421B1A",
+    "followers_count": 2503,
+    "statuses_count": 93921,
+    "description": "Fumador-Bebedor-Comel\u00f3n. Un poco serio, deslenguado. No soy Humilde. Trabajolico. Bueno pal tuto. #Enamorado #Pinochetista #Derechista #Quilpu\u00e9 #Vi\u00f1a #Valpo",
+    "location": "Vi\u00f1a del Mar, Chile",
+    "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000066029133/1ea39870fb2a445382c0e68dbdc10ff2.jpeg",
+    "default_profile_image": false,
+    "verified": false,
+    "profile_sidebar_fill_color": "3A4A16",
+    "profile_use_background_image": true,
+    "contributors_enabled": false,
+    "profile_sidebar_border_color": "FFFFFF",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/876208619750084609/9wKvJ5MA_normal.jpg",
+    "geo_enabled": true
+  },
+  "geo": {
+    "coordinates": [
+      -33.06667,
+      -71.41667
+    ],
+    "type": "Point"
+  },
+  "id": 922220404692877312,
+  "quote_count": 0,
+  "retweeted": false,
+  "filter_level": "low",
+  "in_reply_to_status_id_str": null,
+  "source": "<a href=\"http://instagram.com\" rel=\"nofollow\">Instagram</a>",
+  "favorited": false,
+  "coordinates": {
+    "coordinates": [
+      -71.41667,
+      -33.06667
+    ],
+    "type": "Point"
+  },
+  "truncated": false,
+  "retweet_count": 0,
+  "is_quote_status": false,
+  "in_reply_to_screen_name": null,
+  "contributors": null,
+  "place": {
+    "bounding_box": {
+      "coordinates": [
+        [
+          [
+            -71.492529,
+            -33.245994
+          ],
+          [
+            -71.492529,
+            -33.000029
+          ],
+          [
+            -70.99268,
+            -33.000029
+          ],
+          [
+            -70.99268,
+            -33.245994
+          ]
+        ]
+      ],
+      "type": "Polygon"
+    },
+    "name": "Marga-Marga",
+    "url": "https://api.twitter.com/1.1/geo/id/00ae6c637075843b.json",
+    "country_code": "CL",
+    "id": "00ae6c637075843b",
+    "place_type": "city",
+    "attributes": {},
+    "full_name": "Marga-Marga, Chile",
+    "country": "Chile"
+  }
+}

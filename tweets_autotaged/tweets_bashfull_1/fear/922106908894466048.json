@@ -1,0 +1,116 @@
+{
+  "in_reply_to_user_id": null,
+  "contributors": null,
+  "in_reply_to_screen_name": null,
+  "retweeted": false,
+  "retweet_count": 0,
+  "timestamp_ms": "1508682393655",
+  "in_reply_to_status_id": null,
+  "id_str": "922106908894466048",
+  "created_at": "Sun Oct 22 14:26:33 +0000 2017",
+  "id": 922106908894466048,
+  "coordinates": null,
+  "favorite_count": 0,
+  "entities": {
+    "user_mentions": [],
+    "symbols": [],
+    "hashtags": [],
+    "urls": [
+      {
+        "expanded_url": "http://www.lanacion.com.ar/2074539-una-muerte-la-especulacion-y-la-responsabilidad",
+        "indices": [
+          62,
+          85
+        ],
+        "url": "https://t.co/JQkda4u8iu",
+        "display_url": "lanacion.com.ar/2074539-una-mu\u2026"
+      }
+    ]
+  },
+  "reply_count": 0,
+  "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+  "place": {
+    "attributes": {},
+    "url": "https://api.twitter.com/1.1/geo/id/01b40b49265b126c.json",
+    "place_type": "city",
+    "id": "01b40b49265b126c",
+    "country_code": "AR",
+    "name": "Santa F\u00e9",
+    "country": "Argentina",
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            -60.764198,
+            -31.684295
+          ],
+          [
+            -60.764198,
+            -31.553978
+          ],
+          [
+            -60.585606,
+            -31.553978
+          ],
+          [
+            -60.585606,
+            -31.684295
+          ]
+        ]
+      ]
+    },
+    "full_name": "Santa F\u00e9, Argentina"
+  },
+  "truncated": false,
+  "in_reply_to_status_id_str": null,
+  "filter_level": "low",
+  "text": "\"Una catarata injusta de cr\u00edticas cay\u00f3 sobre Elisa Carri\u00f3,..\":https://t.co/JQkda4u8iu Morales Sol\u00e1 y la solidaridad entre lun\u00e1ticos",
+  "geo": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": false,
+  "possibly_sensitive": false,
+  "favorited": false,
+  "user": {
+    "verified": false,
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "statuses_count": 141372,
+    "screen_name": "lacorrientek",
+    "default_profile_image": false,
+    "time_zone": "Buenos Aires",
+    "name": "La Corriente K",
+    "id_str": "557296978",
+    "profile_sidebar_border_color": "C0DEED",
+    "created_at": "Wed Apr 18 23:06:36 +0000 2012",
+    "friends_count": 489,
+    "url": "http://nestornautas.blogspot.com",
+    "profile_background_tile": false,
+    "protected": false,
+    "translator_type": "none",
+    "profile_text_color": "333333",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/2164802888/logo_normal.jpg",
+    "listed_count": 46,
+    "notifications": null,
+    "contributors_enabled": false,
+    "is_translator": false,
+    "location": "Santa Fe, Argentina",
+    "profile_use_background_image": true,
+    "followers_count": 6220,
+    "profile_sidebar_fill_color": "DDEEF6",
+    "geo_enabled": true,
+    "profile_link_color": "1DA1F2",
+    "favourites_count": 6645,
+    "following": null,
+    "default_profile": true,
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_color": "C0DEED",
+    "id": 557296978,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/2164802888/logo_normal.jpg",
+    "lang": "es",
+    "description": null,
+    "follow_request_sent": null,
+    "utc_offset": -10800
+  },
+  "quote_count": 0,
+  "lang": "es"
+}

@@ -1,0 +1,106 @@
+{
+  "in_reply_to_user_id": null,
+  "contributors": null,
+  "in_reply_to_screen_name": null,
+  "retweeted": false,
+  "retweet_count": 0,
+  "timestamp_ms": "1508643634573",
+  "in_reply_to_status_id": null,
+  "id_str": "921944341521883136",
+  "created_at": "Sun Oct 22 03:40:34 +0000 2017",
+  "id": 921944341521883136,
+  "coordinates": null,
+  "favorite_count": 0,
+  "entities": {
+    "user_mentions": [],
+    "symbols": [],
+    "hashtags": [],
+    "urls": []
+  },
+  "reply_count": 0,
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "place": {
+    "attributes": {},
+    "url": "https://api.twitter.com/1.1/geo/id/01b90c376479a920.json",
+    "place_type": "city",
+    "id": "01b90c376479a920",
+    "country_code": "AR",
+    "name": "General Pedernera",
+    "country": "Argentina",
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            -65.489901,
+            -33.703072
+          ],
+          [
+            -65.489901,
+            -33.645595
+          ],
+          [
+            -65.4273,
+            -33.645595
+          ],
+          [
+            -65.4273,
+            -33.703072
+          ]
+        ]
+      ]
+    },
+    "full_name": "General Pedernera, Argentina"
+  },
+  "truncated": false,
+  "in_reply_to_status_id_str": null,
+  "filter_level": "low",
+  "text": "En villa mercedes por mes el Pami le paga al hospital 8 millones de pesos se tuvo que hacer la denuncia para que atiendan bien a los mayores",
+  "geo": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": false,
+  "favorited": false,
+  "user": {
+    "verified": false,
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme5/bg.gif",
+    "statuses_count": 18378,
+    "screen_name": "AgustinBojaryn",
+    "default_profile_image": false,
+    "time_zone": "Athens",
+    "name": "Boja",
+    "id_str": "154936191",
+    "profile_sidebar_border_color": "000000",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/154936191/1440265749",
+    "created_at": "Sat Jun 12 16:47:51 +0000 2010",
+    "friends_count": 628,
+    "url": null,
+    "profile_background_tile": false,
+    "protected": false,
+    "translator_type": "regular",
+    "profile_text_color": "000000",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/921938735280852993/CYBCKqJe_normal.jpg",
+    "listed_count": 0,
+    "notifications": null,
+    "contributors_enabled": false,
+    "is_translator": false,
+    "location": "argentina",
+    "profile_use_background_image": false,
+    "followers_count": 749,
+    "profile_sidebar_fill_color": "000000",
+    "geo_enabled": true,
+    "profile_link_color": "89C9FA",
+    "favourites_count": 2633,
+    "following": null,
+    "default_profile": false,
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme5/bg.gif",
+    "profile_background_color": "000000",
+    "id": 154936191,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/921938735280852993/CYBCKqJe_normal.jpg",
+    "lang": "es",
+    "description": "Sagitariano \u2650\ufe0f",
+    "follow_request_sent": null,
+    "utc_offset": 10800
+  },
+  "quote_count": 0,
+  "lang": "es"
+}

@@ -1,0 +1,480 @@
+{
+  "in_reply_to_user_id": null,
+  "contributors": null,
+  "id": 922120801117245442,
+  "retweeted": false,
+  "retweet_count": 0,
+  "timestamp_ms": "1508685705819",
+  "in_reply_to_status_id": null,
+  "id_str": "922120801117245442",
+  "coordinates": null,
+  "created_at": "Sun Oct 22 15:21:45 +0000 2017",
+  "quote_count": 0,
+  "favorite_count": 0,
+  "entities": {
+    "user_mentions": [
+      {
+        "indices": [
+          95,
+          106
+        ],
+        "name": "Bomberos de Santiago",
+        "screen_name": "cbsantiago",
+        "id": 119404747,
+        "id_str": "119404747"
+      },
+      {
+        "indices": [
+          107,
+          115
+        ],
+        "name": "CONBECH",
+        "screen_name": "conbech",
+        "id": 378282390,
+        "id_str": "378282390"
+      }
+    ],
+    "symbols": [],
+    "hashtags": [],
+    "urls": [
+      {
+        "expanded_url": "https://twitter.com/i/web/status/922120801117245442",
+        "indices": [
+          117,
+          140
+        ],
+        "url": "https://t.co/sikemK7R8x",
+        "display_url": "twitter.com/i/web/status/9\u2026"
+      }
+    ]
+  },
+  "reply_count": 0,
+  "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+  "place": {
+    "attributes": {},
+    "url": "https://api.twitter.com/1.1/geo/id/00c4b64e7affea25.json",
+    "place_type": "city",
+    "id": "00c4b64e7affea25",
+    "country_code": "CL",
+    "name": "Las Condes",
+    "country": "Chile",
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            -70.608694,
+            -33.486182
+          ],
+          [
+            -70.608694,
+            -33.364619
+          ],
+          [
+            -70.429141,
+            -33.364619
+          ],
+          [
+            -70.429141,
+            -33.486182
+          ]
+        ]
+      ]
+    },
+    "full_name": "Las Condes, Chile"
+  },
+  "truncated": true,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_screen_name": null,
+  "filter_level": "low",
+  "text": "Iniciando la Competencia Interna Honorarios-Activos, saludamos a las autoridades presentes. Cc @cbsantiago @conbech\u2026 https://t.co/sikemK7R8x",
+  "geo": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": false,
+  "possibly_sensitive": false,
+  "display_text_range": [
+    0,
+    140
+  ],
+  "favorited": false,
+  "user": {
+    "verified": false,
+    "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/251273191/twitter-cia-2013.jpg",
+    "statuses_count": 148592,
+    "screen_name": "Bomba_Decima",
+    "default_profile_image": false,
+    "time_zone": "Buenos Aires",
+    "name": "Bomba Espa\u00f1a CBS",
+    "id_str": "156027440",
+    "profile_sidebar_border_color": "EEEEEE",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/156027440/1507133041",
+    "created_at": "Tue Jun 15 20:45:52 +0000 2010",
+    "friends_count": 362,
+    "url": "http://www.bombadecima.cl",
+    "profile_background_tile": false,
+    "protected": false,
+    "translator_type": "none",
+    "profile_text_color": "333333",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/826129588380172288/y2V9adHb_normal.jpg",
+    "listed_count": 359,
+    "notifications": null,
+    "contributors_enabled": false,
+    "is_translator": false,
+    "location": "Av. Manuel Antonio Matta 576",
+    "profile_use_background_image": true,
+    "followers_count": 41821,
+    "profile_sidebar_fill_color": "EFEFEF",
+    "geo_enabled": true,
+    "profile_link_color": "009999",
+    "favourites_count": 2908,
+    "following": null,
+    "default_profile": false,
+    "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/251273191/twitter-cia-2013.jpg",
+    "profile_background_color": "131516",
+    "id": 156027440,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/826129588380172288/y2V9adHb_normal.jpg",
+    "lang": "es",
+    "description": "D\u00e9cima Compa\u00f1\u00eda del Cuerpo de Bomberos de Santiago \u2013 Bomba Espa\u00f1a \u2013 Informaci\u00f3n instant\u00e1nea de emergencias por quienes las atienden las 24 horas, los 365 d\u00edas.",
+    "follow_request_sent": null,
+    "utc_offset": -10800
+  },
+  "extended_tweet": {
+    "entities": {
+      "user_mentions": [
+        {
+          "indices": [
+            95,
+            106
+          ],
+          "name": "Bomberos de Santiago",
+          "screen_name": "cbsantiago",
+          "id": 119404747,
+          "id_str": "119404747"
+        },
+        {
+          "indices": [
+            107,
+            115
+          ],
+          "name": "CONBECH",
+          "screen_name": "conbech",
+          "id": 378282390,
+          "id_str": "378282390"
+        },
+        {
+          "indices": [
+            116,
+            131
+          ],
+          "name": "Estadio Espa\u00f1ol",
+          "screen_name": "EstadioEspanol",
+          "id": 54069969,
+          "id_str": "54069969"
+        }
+      ],
+      "symbols": [],
+      "hashtags": [],
+      "urls": [],
+      "media": [
+        {
+          "indices": [
+            132,
+            155
+          ],
+          "media_url_https": "https://pbs.twimg.com/media/DMwHwGgW0AAqEEH.jpg",
+          "url": "https://t.co/RLlGdqCQCd",
+          "expanded_url": "https://twitter.com/Bomba_Decima/status/922120801117245442/photo/1",
+          "id": 922120546665549824,
+          "sizes": {
+            "medium": {
+              "resize": "fit",
+              "w": 1200,
+              "h": 900
+            },
+            "large": {
+              "resize": "fit",
+              "w": 2048,
+              "h": 1536
+            },
+            "small": {
+              "resize": "fit",
+              "w": 680,
+              "h": 510
+            },
+            "thumb": {
+              "resize": "crop",
+              "w": 150,
+              "h": 150
+            }
+          },
+          "media_url": "http://pbs.twimg.com/media/DMwHwGgW0AAqEEH.jpg",
+          "id_str": "922120546665549824",
+          "display_url": "pic.twitter.com/RLlGdqCQCd",
+          "type": "photo"
+        },
+        {
+          "indices": [
+            132,
+            155
+          ],
+          "media_url_https": "https://pbs.twimg.com/media/DMwH0tCXkAEiH2W.jpg",
+          "url": "https://t.co/RLlGdqCQCd",
+          "expanded_url": "https://twitter.com/Bomba_Decima/status/922120801117245442/photo/1",
+          "id": 922120625728229377,
+          "sizes": {
+            "medium": {
+              "resize": "fit",
+              "w": 1200,
+              "h": 900
+            },
+            "large": {
+              "resize": "fit",
+              "w": 2048,
+              "h": 1536
+            },
+            "small": {
+              "resize": "fit",
+              "w": 680,
+              "h": 510
+            },
+            "thumb": {
+              "resize": "crop",
+              "w": 150,
+              "h": 150
+            }
+          },
+          "media_url": "http://pbs.twimg.com/media/DMwH0tCXkAEiH2W.jpg",
+          "id_str": "922120625728229377",
+          "display_url": "pic.twitter.com/RLlGdqCQCd",
+          "type": "photo"
+        },
+        {
+          "indices": [
+            132,
+            155
+          ],
+          "media_url_https": "https://pbs.twimg.com/media/DMwH4D_W0AA8kBv.jpg",
+          "url": "https://t.co/RLlGdqCQCd",
+          "expanded_url": "https://twitter.com/Bomba_Decima/status/922120801117245442/photo/1",
+          "id": 922120683429220352,
+          "sizes": {
+            "medium": {
+              "resize": "fit",
+              "w": 1200,
+              "h": 900
+            },
+            "large": {
+              "resize": "fit",
+              "w": 2048,
+              "h": 1536
+            },
+            "small": {
+              "resize": "fit",
+              "w": 680,
+              "h": 510
+            },
+            "thumb": {
+              "resize": "crop",
+              "w": 150,
+              "h": 150
+            }
+          },
+          "media_url": "http://pbs.twimg.com/media/DMwH4D_W0AA8kBv.jpg",
+          "id_str": "922120683429220352",
+          "display_url": "pic.twitter.com/RLlGdqCQCd",
+          "type": "photo"
+        },
+        {
+          "indices": [
+            132,
+            155
+          ],
+          "media_url_https": "https://pbs.twimg.com/media/DMwH8D8X0AA0rVL.jpg",
+          "url": "https://t.co/RLlGdqCQCd",
+          "expanded_url": "https://twitter.com/Bomba_Decima/status/922120801117245442/photo/1",
+          "id": 922120752136179712,
+          "sizes": {
+            "medium": {
+              "resize": "fit",
+              "w": 1200,
+              "h": 900
+            },
+            "large": {
+              "resize": "fit",
+              "w": 2048,
+              "h": 1536
+            },
+            "small": {
+              "resize": "fit",
+              "w": 680,
+              "h": 510
+            },
+            "thumb": {
+              "resize": "crop",
+              "w": 150,
+              "h": 150
+            }
+          },
+          "media_url": "http://pbs.twimg.com/media/DMwH8D8X0AA0rVL.jpg",
+          "id_str": "922120752136179712",
+          "display_url": "pic.twitter.com/RLlGdqCQCd",
+          "type": "photo"
+        }
+      ]
+    },
+    "display_text_range": [
+      0,
+      131
+    ],
+    "extended_entities": {
+      "media": [
+        {
+          "indices": [
+            132,
+            155
+          ],
+          "media_url_https": "https://pbs.twimg.com/media/DMwHwGgW0AAqEEH.jpg",
+          "url": "https://t.co/RLlGdqCQCd",
+          "expanded_url": "https://twitter.com/Bomba_Decima/status/922120801117245442/photo/1",
+          "id": 922120546665549824,
+          "sizes": {
+            "medium": {
+              "resize": "fit",
+              "w": 1200,
+              "h": 900
+            },
+            "large": {
+              "resize": "fit",
+              "w": 2048,
+              "h": 1536
+            },
+            "small": {
+              "resize": "fit",
+              "w": 680,
+              "h": 510
+            },
+            "thumb": {
+              "resize": "crop",
+              "w": 150,
+              "h": 150
+            }
+          },
+          "media_url": "http://pbs.twimg.com/media/DMwHwGgW0AAqEEH.jpg",
+          "id_str": "922120546665549824",
+          "display_url": "pic.twitter.com/RLlGdqCQCd",
+          "type": "photo"
+        },
+        {
+          "indices": [
+            132,
+            155
+          ],
+          "media_url_https": "https://pbs.twimg.com/media/DMwH0tCXkAEiH2W.jpg",
+          "url": "https://t.co/RLlGdqCQCd",
+          "expanded_url": "https://twitter.com/Bomba_Decima/status/922120801117245442/photo/1",
+          "id": 922120625728229377,
+          "sizes": {
+            "medium": {
+              "resize": "fit",
+              "w": 1200,
+              "h": 900
+            },
+            "large": {
+              "resize": "fit",
+              "w": 2048,
+              "h": 1536
+            },
+            "small": {
+              "resize": "fit",
+              "w": 680,
+              "h": 510
+            },
+            "thumb": {
+              "resize": "crop",
+              "w": 150,
+              "h": 150
+            }
+          },
+          "media_url": "http://pbs.twimg.com/media/DMwH0tCXkAEiH2W.jpg",
+          "id_str": "922120625728229377",
+          "display_url": "pic.twitter.com/RLlGdqCQCd",
+          "type": "photo"
+        },
+        {
+          "indices": [
+            132,
+            155
+          ],
+          "media_url_https": "https://pbs.twimg.com/media/DMwH4D_W0AA8kBv.jpg",
+          "url": "https://t.co/RLlGdqCQCd",
+          "expanded_url": "https://twitter.com/Bomba_Decima/status/922120801117245442/photo/1",
+          "id": 922120683429220352,
+          "sizes": {
+            "medium": {
+              "resize": "fit",
+              "w": 1200,
+              "h": 900
+            },
+            "large": {
+              "resize": "fit",
+              "w": 2048,
+              "h": 1536
+            },
+            "small": {
+              "resize": "fit",
+              "w": 680,
+              "h": 510
+            },
+            "thumb": {
+              "resize": "crop",
+              "w": 150,
+              "h": 150
+            }
+          },
+          "media_url": "http://pbs.twimg.com/media/DMwH4D_W0AA8kBv.jpg",
+          "id_str": "922120683429220352",
+          "display_url": "pic.twitter.com/RLlGdqCQCd",
+          "type": "photo"
+        },
+        {
+          "indices": [
+            132,
+            155
+          ],
+          "media_url_https": "https://pbs.twimg.com/media/DMwH8D8X0AA0rVL.jpg",
+          "url": "https://t.co/RLlGdqCQCd",
+          "expanded_url": "https://twitter.com/Bomba_Decima/status/922120801117245442/photo/1",
+          "id": 922120752136179712,
+          "sizes": {
+            "medium": {
+              "resize": "fit",
+              "w": 1200,
+              "h": 900
+            },
+            "large": {
+              "resize": "fit",
+              "w": 2048,
+              "h": 1536
+            },
+            "small": {
+              "resize": "fit",
+              "w": 680,
+              "h": 510
+            },
+            "thumb": {
+              "resize": "crop",
+              "w": 150,
+              "h": 150
+            }
+          },
+          "media_url": "http://pbs.twimg.com/media/DMwH8D8X0AA0rVL.jpg",
+          "id_str": "922120752136179712",
+          "display_url": "pic.twitter.com/RLlGdqCQCd",
+          "type": "photo"
+        }
+      ]
+    },
+    "full_text": "Iniciando la Competencia Interna Honorarios-Activos, saludamos a las autoridades presentes. Cc @cbsantiago @conbech @EstadioEspanol https://t.co/RLlGdqCQCd"
+  },
+  "lang": "es"
+}

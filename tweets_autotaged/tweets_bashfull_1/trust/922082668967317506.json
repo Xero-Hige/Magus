@@ -1,0 +1,139 @@
+{
+  "in_reply_to_user_id": 775474080715767808,
+  "contributors": null,
+  "id": 922082668967317506,
+  "retweeted": false,
+  "retweet_count": 0,
+  "timestamp_ms": "1508676614406",
+  "in_reply_to_status_id": 922075816283877377,
+  "id_str": "922082668967317506",
+  "created_at": "Sun Oct 22 12:50:14 +0000 2017",
+  "coordinates": null,
+  "favorite_count": 0,
+  "entities": {
+    "user_mentions": [
+      {
+        "indices": [
+          0,
+          9
+        ],
+        "name": "P\u00e1gina|12",
+        "screen_name": "pagina12",
+        "id": 775474080715767808,
+        "id_str": "775474080715767808"
+      },
+      {
+        "indices": [
+          10,
+          23
+        ],
+        "name": "raul kollmann",
+        "screen_name": "tunykollmann",
+        "id": 159620450,
+        "id_str": "159620450"
+      }
+    ],
+    "symbols": [],
+    "hashtags": [
+      {
+        "text": "NoVuelvenMas",
+        "indices": [
+          123,
+          136
+        ]
+      }
+    ],
+    "urls": []
+  },
+  "reply_count": 0,
+  "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+  "place": {
+    "attributes": {},
+    "url": "https://api.twitter.com/1.1/geo/id/018f1cde6bad9747.json",
+    "place_type": "city",
+    "id": "018f1cde6bad9747",
+    "country_code": "AR",
+    "name": "Ciudad Aut\u00f3noma de Buenos Aires",
+    "country": "Argentina",
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            -58.531792,
+            -34.674453
+          ],
+          [
+            -58.531792,
+            -34.534177
+          ],
+          [
+            -58.353494,
+            -34.534177
+          ],
+          [
+            -58.353494,
+            -34.674453
+          ]
+        ]
+      ]
+    },
+    "full_name": "Ciudad Aut\u00f3noma de Buenos Aires, Argentina"
+  },
+  "truncated": false,
+  "in_reply_to_status_id_str": "922075816283877377",
+  "in_reply_to_screen_name": "pagina12",
+  "filter_level": "low",
+  "text": "@pagina12 @tunykollmann Bueno, se acab\u00f3 la mentira y la operaci\u00f3n pol\u00edtica con Maldonado. Kollman, se te acaba el negocio. #NoVuelvenMas",
+  "geo": null,
+  "in_reply_to_user_id_str": "775474080715767808",
+  "is_quote_status": false,
+  "display_text_range": [
+    24,
+    136
+  ],
+  "favorited": false,
+  "user": {
+    "verified": false,
+    "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/344918034410280993/898e0afa51d8e45b2f6c014562fe4e34.jpeg",
+    "statuses_count": 19068,
+    "screen_name": "oski1000",
+    "default_profile_image": false,
+    "time_zone": "Buenos Aires",
+    "name": "Oscar",
+    "id_str": "39380676",
+    "profile_sidebar_border_color": "FFFFFF",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/39380676/1408053265",
+    "created_at": "Tue May 12 00:02:40 +0000 2009",
+    "friends_count": 1587,
+    "url": null,
+    "profile_background_tile": false,
+    "protected": false,
+    "translator_type": "none",
+    "profile_text_color": "333333",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/500038962430214145/uhsQVQAm_normal.jpeg",
+    "listed_count": 20,
+    "notifications": null,
+    "contributors_enabled": false,
+    "is_translator": false,
+    "location": "Buenos Aires, Argentina",
+    "profile_use_background_image": true,
+    "followers_count": 734,
+    "profile_sidebar_fill_color": "A0C5C7",
+    "geo_enabled": true,
+    "profile_link_color": "FF3300",
+    "favourites_count": 10813,
+    "following": null,
+    "default_profile": false,
+    "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/344918034410280993/898e0afa51d8e45b2f6c014562fe4e34.jpeg",
+    "profile_background_color": "709397",
+    "id": 39380676,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/500038962430214145/uhsQVQAm_normal.jpeg",
+    "lang": "es",
+    "description": "Liberal, hincha de San Lorenzo, antiK desde 2003. C\u00e1rcel y confiscaci\u00f3n de bienes a toda la banda de CFK",
+    "follow_request_sent": null,
+    "utc_offset": -10800
+  },
+  "quote_count": 0,
+  "lang": "es"
+}

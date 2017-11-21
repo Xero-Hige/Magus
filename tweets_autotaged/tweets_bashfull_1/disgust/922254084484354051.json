@@ -1,0 +1,177 @@
+{
+  "entities": {
+    "hashtags": [
+      {
+        "indices": [
+          0,
+          4
+        ],
+        "text": "AAM"
+      }
+    ],
+    "symbols": [],
+    "urls": [
+      {
+        "indices": [
+          117,
+          140
+        ],
+        "expanded_url": "https://twitter.com/i/web/status/922254084484354051",
+        "display_url": "twitter.com/i/web/status/9\u2026",
+        "url": "https://t.co/8thmmG7dKA"
+      }
+    ],
+    "user_mentions": [
+      {
+        "indices": [
+          24,
+          35
+        ],
+        "screen_name": "SantiPenap",
+        "name": "Santiago Pe\u00f1a",
+        "id_str": "1403659478",
+        "id": 1403659478
+      }
+    ]
+  },
+  "in_reply_to_user_id": null,
+  "created_at": "Mon Oct 23 00:11:23 +0000 2017",
+  "favorite_count": 0,
+  "lang": "es",
+  "reply_count": 0,
+  "id_str": "922254084484354051",
+  "in_reply_to_user_id_str": null,
+  "extended_tweet": {
+    "entities": {
+      "hashtags": [
+        {
+          "indices": [
+            0,
+            4
+          ],
+          "text": "AAM"
+        }
+      ],
+      "symbols": [],
+      "urls": [],
+      "user_mentions": [
+        {
+          "indices": [
+            24,
+            35
+          ],
+          "screen_name": "SantiPenap",
+          "name": "Santiago Pe\u00f1a",
+          "id_str": "1403659478",
+          "id": 1403659478
+        },
+        {
+          "indices": [
+            156,
+            168
+          ],
+          "screen_name": "juancbaruja",
+          "name": "Juan Carlos Baruja",
+          "id_str": "4460627057",
+          "id": 4460627057
+        }
+      ]
+    },
+    "display_text_range": [
+      0,
+      170
+    ],
+    "full_text": "#AAM | \u201cYo creo que \u00e9l (@SantiPenap) no tiene prohibido participar en este tipo de eventos (acto de gobierno). \u00bfO est\u00e1 prohibido eso?\u201d. Juan Carlos Baruja (@juancbaruja)."
+  },
+  "in_reply_to_status_id": null,
+  "timestamp_ms": "1508717483050",
+  "text": "#AAM | \u201cYo creo que \u00e9l (@SantiPenap) no tiene prohibido participar en este tipo de eventos (acto de gobierno). \u00bfO e\u2026 https://t.co/8thmmG7dKA",
+  "user": {
+    "time_zone": "Buenos Aires",
+    "screen_name": "algoandamalpy",
+    "utc_offset": -10800,
+    "created_at": "Mon Mar 29 18:47:26 +0000 2010",
+    "profile_background_tile": true,
+    "notifications": null,
+    "lang": "es",
+    "default_profile": false,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/127609369/1488831584",
+    "id_str": "127609369",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/710983971652378625/mRFpV4wC_normal.jpg",
+    "name": "Algo Anda Mal | #AAM",
+    "friends_count": 523,
+    "translator_type": "none",
+    "protected": false,
+    "following": null,
+    "is_translator": false,
+    "follow_request_sent": null,
+    "profile_text_color": "333333",
+    "listed_count": 156,
+    "profile_link_color": "990000",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+    "url": "https://www.youtube.com/user/aamparaguay",
+    "id": 127609369,
+    "favourites_count": 237,
+    "profile_background_color": "131516",
+    "followers_count": 68104,
+    "statuses_count": 10394,
+    "description": "Programa period\u00edstico conducido por @SanTula @enriquedavalos que se emite todos los domingos de 20:30 a 22 hs. por @telefuturo.",
+    "location": "Paraguay",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+    "default_profile_image": false,
+    "verified": false,
+    "profile_sidebar_fill_color": "EFEFEF",
+    "profile_use_background_image": true,
+    "contributors_enabled": false,
+    "profile_sidebar_border_color": "EEEEEE",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/710983971652378625/mRFpV4wC_normal.jpg",
+    "geo_enabled": true
+  },
+  "geo": null,
+  "id": 922254084484354051,
+  "quote_count": 0,
+  "retweeted": false,
+  "filter_level": "low",
+  "in_reply_to_status_id_str": null,
+  "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+  "favorited": false,
+  "coordinates": null,
+  "truncated": true,
+  "retweet_count": 0,
+  "is_quote_status": false,
+  "in_reply_to_screen_name": null,
+  "contributors": null,
+  "place": {
+    "bounding_box": {
+      "coordinates": [
+        [
+          [
+            -62.64512,
+            -27.594325
+          ],
+          [
+            -62.64512,
+            -19.294041
+          ],
+          [
+            -54.258291,
+            -19.294041
+          ],
+          [
+            -54.258291,
+            -27.594325
+          ]
+        ]
+      ],
+      "type": "Polygon"
+    },
+    "name": "Paraguay",
+    "url": "https://api.twitter.com/1.1/geo/id/6cf2fd60a82329fc.json",
+    "country_code": "PY",
+    "id": "6cf2fd60a82329fc",
+    "place_type": "country",
+    "attributes": {},
+    "full_name": "Paraguay",
+    "country": "Paraguay"
+  }
+}

@@ -1,0 +1,129 @@
+{
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "urls": [
+      {
+        "indices": [
+          107,
+          130
+        ],
+        "expanded_url": "https://www.swarmapp.com/c/5aqNsSDPXdo",
+        "display_url": "swarmapp.com/c/5aqNsSDPXdo",
+        "url": "https://t.co/6mRljkvbPH"
+      }
+    ],
+    "user_mentions": []
+  },
+  "in_reply_to_user_id": null,
+  "created_at": "Mon Oct 23 00:32:39 +0000 2017",
+  "favorite_count": 0,
+  "lang": "es",
+  "reply_count": 0,
+  "id_str": "922259438056157184",
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_status_id": null,
+  "timestamp_ms": "1508718759441",
+  "possibly_sensitive": false,
+  "text": "I'm at Estaci\u00f3n Intermodal Pajaritos in Lo Prado, Metropolitana de Santiago de Chile, Regi\u00f3n Metropolitana https://t.co/6mRljkvbPH",
+  "user": {
+    "time_zone": "Buenos Aires",
+    "screen_name": "alejopet",
+    "utc_offset": -10800,
+    "created_at": "Mon Mar 10 21:30:19 +0000 2008",
+    "profile_background_tile": true,
+    "notifications": null,
+    "lang": "es",
+    "default_profile": false,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/14117673/1491523832",
+    "id_str": "14117673",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/920475284469637120/Afx_Ftgr_normal.jpg",
+    "name": "@lejo",
+    "friends_count": 194,
+    "translator_type": "none",
+    "protected": false,
+    "following": null,
+    "is_translator": false,
+    "follow_request_sent": null,
+    "profile_text_color": "242022",
+    "listed_count": 17,
+    "profile_link_color": "39BD91",
+    "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/494299050124906496/bz91CE2A.png",
+    "url": "http://instagram.com/alejopet_",
+    "id": 14117673,
+    "favourites_count": 6298,
+    "profile_background_color": "DBE9ED",
+    "followers_count": 201,
+    "statuses_count": 33428,
+    "description": "I just won't e-mote",
+    "location": "Valpara\u00edso, Chile",
+    "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/494299050124906496/bz91CE2A.png",
+    "default_profile_image": false,
+    "verified": false,
+    "profile_sidebar_fill_color": "0E0D02",
+    "profile_use_background_image": false,
+    "contributors_enabled": false,
+    "profile_sidebar_border_color": "FFFFFF",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/920475284469637120/Afx_Ftgr_normal.jpg",
+    "geo_enabled": true
+  },
+  "geo": {
+    "coordinates": [
+      -33.45760204,
+      -70.71587409
+    ],
+    "type": "Point"
+  },
+  "id": 922259438056157184,
+  "quote_count": 0,
+  "retweeted": false,
+  "filter_level": "low",
+  "in_reply_to_status_id_str": null,
+  "source": "<a href=\"http://foursquare.com\" rel=\"nofollow\">Foursquare</a>",
+  "favorited": false,
+  "coordinates": {
+    "coordinates": [
+      -70.71587409,
+      -33.45760204
+    ],
+    "type": "Point"
+  },
+  "truncated": false,
+  "retweet_count": 0,
+  "is_quote_status": false,
+  "in_reply_to_screen_name": null,
+  "contributors": null,
+  "place": {
+    "bounding_box": {
+      "coordinates": [
+        [
+          [
+            -70.734189,
+            -33.481396
+          ],
+          [
+            -70.734189,
+            -33.443925
+          ],
+          [
+            -70.67256,
+            -33.443925
+          ],
+          [
+            -70.67256,
+            -33.481396
+          ]
+        ]
+      ],
+      "type": "Polygon"
+    },
+    "name": "Estaci\u00f3n Central",
+    "url": "https://api.twitter.com/1.1/geo/id/006b2a835a30b702.json",
+    "country_code": "CL",
+    "id": "006b2a835a30b702",
+    "place_type": "city",
+    "attributes": {},
+    "full_name": "Estaci\u00f3n Central, Chile",
+    "country": "Chile"
+  }
+}

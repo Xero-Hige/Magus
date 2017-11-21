@@ -1,0 +1,155 @@
+{
+  "in_reply_to_user_id": 179675345,
+  "contributors": null,
+  "id": 922076335916371968,
+  "retweeted": false,
+  "retweet_count": 0,
+  "timestamp_ms": "1508675104489",
+  "in_reply_to_status_id": 921902202431725568,
+  "id_str": "922076335916371968",
+  "coordinates": null,
+  "created_at": "Sun Oct 22 12:25:04 +0000 2017",
+  "quote_count": 0,
+  "favorite_count": 0,
+  "entities": {
+    "user_mentions": [
+      {
+        "indices": [
+          0,
+          10
+        ],
+        "name": "Victoria Donda Perez",
+        "screen_name": "vikidonda",
+        "id": 179675345,
+        "id_str": "179675345"
+      }
+    ],
+    "symbols": [],
+    "hashtags": [],
+    "urls": [
+      {
+        "expanded_url": "https://twitter.com/i/web/status/922076335916371968",
+        "indices": [
+          116,
+          139
+        ],
+        "url": "https://t.co/yDWfr32cyc",
+        "display_url": "twitter.com/i/web/status/9\u2026"
+      }
+    ]
+  },
+  "reply_count": 0,
+  "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+  "place": {
+    "attributes": {},
+    "url": "https://api.twitter.com/1.1/geo/id/018f1cde6bad9747.json",
+    "place_type": "city",
+    "id": "018f1cde6bad9747",
+    "country_code": "AR",
+    "name": "Ciudad Aut\u00f3noma de Buenos Aires",
+    "country": "Argentina",
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            -58.531792,
+            -34.674453
+          ],
+          [
+            -58.531792,
+            -34.534177
+          ],
+          [
+            -58.353494,
+            -34.534177
+          ],
+          [
+            -58.353494,
+            -34.674453
+          ]
+        ]
+      ]
+    },
+    "full_name": "Ciudad Aut\u00f3noma de Buenos Aires, Argentina"
+  },
+  "truncated": true,
+  "in_reply_to_status_id_str": "921902202431725568",
+  "in_reply_to_screen_name": "vikidonda",
+  "filter_level": "low",
+  "text": "@vikidonda !Los estaban cagando a piedrazos!...Tampoco tienen q reprimir en ese caso?...Y si los empiezan a coger,\u2026 https://t.co/yDWfr32cyc",
+  "geo": null,
+  "in_reply_to_user_id_str": "179675345",
+  "is_quote_status": false,
+  "display_text_range": [
+    11,
+    140
+  ],
+  "favorited": false,
+  "user": {
+    "verified": false,
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "statuses_count": 5494,
+    "screen_name": "blablableando",
+    "default_profile_image": false,
+    "time_zone": "Pacific Time (US & Canada)",
+    "name": "miguel angel vaccari",
+    "id_str": "150482929",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/150482929/1497749138",
+    "created_at": "Tue Jun 01 01:48:06 +0000 2010",
+    "friends_count": 150,
+    "url": null,
+    "profile_background_tile": false,
+    "protected": false,
+    "translator_type": "none",
+    "profile_text_color": "333333",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/874392517269237763/oVVWgUNP_normal.jpg",
+    "listed_count": 4,
+    "notifications": null,
+    "contributors_enabled": false,
+    "is_translator": false,
+    "location": "Lomas de Zamora, Argentina",
+    "profile_use_background_image": true,
+    "followers_count": 90,
+    "profile_sidebar_fill_color": "DDEEF6",
+    "geo_enabled": true,
+    "profile_link_color": "1DA1F2",
+    "favourites_count": 975,
+    "following": null,
+    "default_profile": true,
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_color": "C0DEED",
+    "id": 150482929,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/874392517269237763/oVVWgUNP_normal.jpg",
+    "lang": "es",
+    "description": "Sex simbol de la tercera edad. Pero no mucho.",
+    "follow_request_sent": null,
+    "utc_offset": -25200
+  },
+  "extended_tweet": {
+    "entities": {
+      "user_mentions": [
+        {
+          "indices": [
+            0,
+            10
+          ],
+          "name": "Victoria Donda Perez",
+          "screen_name": "vikidonda",
+          "id": 179675345,
+          "id_str": "179675345"
+        }
+      ],
+      "symbols": [],
+      "hashtags": [],
+      "urls": []
+    },
+    "display_text_range": [
+      11,
+      150
+    ],
+    "full_text": "@vikidonda !Los estaban cagando a piedrazos!...Tampoco tienen q reprimir en ese caso?...Y si los empiezan a coger, tampoco?...Aclare, Victoria, porfi."
+  },
+  "lang": "es"
+}

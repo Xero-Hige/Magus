@@ -1,0 +1,106 @@
+{
+  "in_reply_to_user_id": null,
+  "contributors": null,
+  "in_reply_to_screen_name": null,
+  "retweeted": false,
+  "retweet_count": 0,
+  "timestamp_ms": "1508694996706",
+  "in_reply_to_status_id": null,
+  "id_str": "922159769921753089",
+  "created_at": "Sun Oct 22 17:56:36 +0000 2017",
+  "id": 922159769921753089,
+  "coordinates": null,
+  "favorite_count": 0,
+  "entities": {
+    "user_mentions": [],
+    "symbols": [],
+    "hashtags": [],
+    "urls": []
+  },
+  "reply_count": 0,
+  "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+  "place": {
+    "attributes": {},
+    "url": "https://api.twitter.com/1.1/geo/id/00f84d414936f28e.json",
+    "place_type": "city",
+    "id": "00f84d414936f28e",
+    "country_code": "AR",
+    "name": "C\u00f3rdoba",
+    "country": "Argentina",
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            -64.3195,
+            -31.523576
+          ],
+          [
+            -64.3195,
+            -31.307337
+          ],
+          [
+            -64.076551,
+            -31.307337
+          ],
+          [
+            -64.076551,
+            -31.523576
+          ]
+        ]
+      ]
+    },
+    "full_name": "C\u00f3rdoba, Argentina"
+  },
+  "truncated": false,
+  "in_reply_to_status_id_str": null,
+  "filter_level": "low",
+  "text": "Llama mucho mi atenci\u00f3n todo lo que es fragmentaci\u00f3n social",
+  "geo": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": false,
+  "favorited": false,
+  "user": {
+    "verified": false,
+    "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/515325913764872193/YPUobKIc.jpeg",
+    "statuses_count": 157187,
+    "screen_name": "FernandezGrego",
+    "default_profile_image": false,
+    "time_zone": "Brasilia",
+    "name": "Grego",
+    "id_str": "326438559",
+    "profile_sidebar_border_color": "000000",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/326438559/1476049223",
+    "created_at": "Wed Jun 29 22:37:06 +0000 2011",
+    "friends_count": 661,
+    "url": null,
+    "profile_background_tile": true,
+    "protected": false,
+    "translator_type": "none",
+    "profile_text_color": "4B838A",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/917889522792361985/d7pClw25_normal.jpg",
+    "listed_count": 13,
+    "notifications": null,
+    "contributors_enabled": false,
+    "is_translator": false,
+    "location": "Santa Rosa - la pampa",
+    "profile_use_background_image": true,
+    "followers_count": 1330,
+    "profile_sidebar_fill_color": "DDEEF6",
+    "geo_enabled": true,
+    "profile_link_color": "4A913C",
+    "favourites_count": 20002,
+    "following": null,
+    "default_profile": false,
+    "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/515325913764872193/YPUobKIc.jpeg",
+    "profile_background_color": "43E6DE",
+    "id": 326438559,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/917889522792361985/d7pClw25_normal.jpg",
+    "lang": "es",
+    "description": "19 a\u00f1os, Piscis \u264b / Santa rosa - C\u00f3rdoba / Me gusta la cerveza, el mate y dormir la siesta.",
+    "follow_request_sent": null,
+    "utc_offset": -7200
+  },
+  "quote_count": 0,
+  "lang": "es"
+}

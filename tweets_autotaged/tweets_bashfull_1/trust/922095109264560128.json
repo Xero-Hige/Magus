@@ -1,0 +1,128 @@
+{
+  "in_reply_to_user_id": null,
+  "contributors": null,
+  "in_reply_to_screen_name": null,
+  "retweeted": false,
+  "retweet_count": 0,
+  "timestamp_ms": "1508679580404",
+  "in_reply_to_status_id": null,
+  "id_str": "922095109264560128",
+  "created_at": "Sun Oct 22 13:39:40 +0000 2017",
+  "id": 922095109264560128,
+  "coordinates": null,
+  "favorite_count": 0,
+  "entities": {
+    "user_mentions": [],
+    "symbols": [],
+    "hashtags": [
+      {
+        "text": "EleccionesArgentina",
+        "indices": [
+          0,
+          20
+        ]
+      },
+      {
+        "text": "CoherenciaPeroncha",
+        "indices": [
+          24,
+          43
+        ]
+      },
+      {
+        "text": "SM",
+        "indices": [
+          129,
+          132
+        ]
+      }
+    ],
+    "urls": []
+  },
+  "reply_count": 0,
+  "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+  "place": {
+    "attributes": {},
+    "url": "https://api.twitter.com/1.1/geo/id/018f1cde6bad9747.json",
+    "place_type": "city",
+    "id": "018f1cde6bad9747",
+    "country_code": "AR",
+    "name": "Ciudad Aut\u00f3noma de Buenos Aires",
+    "country": "Argentina",
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            -58.531792,
+            -34.674453
+          ],
+          [
+            -58.531792,
+            -34.534177
+          ],
+          [
+            -58.353494,
+            -34.534177
+          ],
+          [
+            -58.353494,
+            -34.674453
+          ]
+        ]
+      ]
+    },
+    "full_name": "Ciudad Aut\u00f3noma de Buenos Aires, Argentina"
+  },
+  "truncated": false,
+  "in_reply_to_status_id_str": null,
+  "filter_level": "low",
+  "text": "#EleccionesArgentina    #CoherenciaPeroncha Dice Randazzo \"hay q tener respeto por la flia.\" y acto seguido..\"hubieramos qrido q #SM votara",
+  "geo": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": false,
+  "favorited": false,
+  "user": {
+    "verified": false,
+    "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/546141411/Foto_15.jpg",
+    "statuses_count": 41343,
+    "screen_name": "fabibojo",
+    "default_profile_image": false,
+    "time_zone": "Buenos Aires",
+    "name": "#LaBojosian",
+    "id_str": "162238463",
+    "profile_sidebar_border_color": "EEEEEE",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/162238463/1448634655",
+    "created_at": "Sat Jul 03 02:43:29 +0000 2010",
+    "friends_count": 987,
+    "url": null,
+    "profile_background_tile": true,
+    "protected": false,
+    "translator_type": "none",
+    "profile_text_color": "333333",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/678317393324691456/pQO4n9uG_normal.jpg",
+    "listed_count": 39,
+    "notifications": null,
+    "contributors_enabled": false,
+    "is_translator": false,
+    "location": "Argentina",
+    "profile_use_background_image": true,
+    "followers_count": 1493,
+    "profile_sidebar_fill_color": "EFEFEF",
+    "geo_enabled": true,
+    "profile_link_color": "9266CC",
+    "favourites_count": 7574,
+    "following": null,
+    "default_profile": false,
+    "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/546141411/Foto_15.jpg",
+    "profile_background_color": "131516",
+    "id": 162238463,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/678317393324691456/pQO4n9uG_normal.jpg",
+    "lang": "es",
+    "description": "Libre pensadora, mujer feliz con poco que es mucho, si no te gusta algo que dije...y... bueh, nada es personal!  No hago Follow gratis, tiene q valer la pena.",
+    "follow_request_sent": null,
+    "utc_offset": -10800
+  },
+  "quote_count": 0,
+  "lang": "es"
+}

@@ -1,0 +1,121 @@
+{
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "indices": [
+          0,
+          10
+        ],
+        "screen_name": "flandivar",
+        "name": "Facundo Land\u00edvar",
+        "id_str": "199240383",
+        "id": 199240383
+      }
+    ]
+  },
+  "in_reply_to_user_id": 199240383,
+  "created_at": "Mon Oct 23 00:43:00 +0000 2017",
+  "favorite_count": 0,
+  "lang": "es",
+  "reply_count": 0,
+  "id_str": "922262044878999553",
+  "in_reply_to_user_id_str": "199240383",
+  "in_reply_to_status_id": 922236594454695938,
+  "timestamp_ms": "1508719380956",
+  "truncated": false,
+  "text": "@flandivar Lo \u00fanico que qued\u00f3 de DDHH digno de admirar y merecedor de absoluto respeto. Una grande.",
+  "user": {
+    "time_zone": "Buenos Aires",
+    "screen_name": "lailaabid",
+    "utc_offset": -10800,
+    "created_at": "Fri May 22 22:25:08 +0000 2009",
+    "profile_background_tile": false,
+    "notifications": null,
+    "lang": "es",
+    "default_profile": false,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/41915582/1434157405",
+    "id_str": "41915582",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/894387246492782593/4ENg5mIm_normal.jpg",
+    "name": "Laila Hachem Issa",
+    "friends_count": 5280,
+    "translator_type": "none",
+    "protected": false,
+    "following": null,
+    "is_translator": false,
+    "follow_request_sent": null,
+    "profile_text_color": "000000",
+    "listed_count": 67,
+    "profile_link_color": "4A913C",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "url": "http://page.is/laila-hachem-issa",
+    "id": 41915582,
+    "favourites_count": 46935,
+    "profile_background_color": "000000",
+    "followers_count": 7487,
+    "statuses_count": 119708,
+    "description": "The monsters there. Ghosts too. They live inside us, and sometimes, they win./Lic.Cs de la Comunicaci\u00f3n. Communication and Press. #AnimalLover",
+    "location": "Argentina",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "default_profile_image": false,
+    "verified": false,
+    "profile_sidebar_fill_color": "000000",
+    "profile_use_background_image": false,
+    "contributors_enabled": false,
+    "profile_sidebar_border_color": "000000",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/894387246492782593/4ENg5mIm_normal.jpg",
+    "geo_enabled": true
+  },
+  "geo": null,
+  "id": 922262044878999553,
+  "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+  "retweeted": false,
+  "filter_level": "low",
+  "in_reply_to_status_id_str": "922236594454695938",
+  "quote_count": 0,
+  "favorited": false,
+  "coordinates": null,
+  "display_text_range": [
+    11,
+    99
+  ],
+  "retweet_count": 0,
+  "is_quote_status": false,
+  "in_reply_to_screen_name": "flandivar",
+  "contributors": null,
+  "place": {
+    "bounding_box": {
+      "coordinates": [
+        [
+          [
+            -68.56829,
+            -31.559809
+          ],
+          [
+            -68.56829,
+            -31.50302
+          ],
+          [
+            -68.497409,
+            -31.50302
+          ],
+          [
+            -68.497409,
+            -31.559809
+          ]
+        ]
+      ],
+      "type": "Polygon"
+    },
+    "name": "San Juan",
+    "url": "https://api.twitter.com/1.1/geo/id/00d56adc79da66a3.json",
+    "country_code": "AR",
+    "id": "00d56adc79da66a3",
+    "place_type": "city",
+    "attributes": {},
+    "full_name": "San Juan, Argentina",
+    "country": "Argentina"
+  }
+}

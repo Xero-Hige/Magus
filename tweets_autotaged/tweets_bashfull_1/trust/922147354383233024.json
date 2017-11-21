@@ -1,0 +1,165 @@
+{
+  "in_reply_to_user_id": null,
+  "contributors": null,
+  "in_reply_to_screen_name": null,
+  "retweeted": false,
+  "retweet_count": 0,
+  "timestamp_ms": "1508692036611",
+  "in_reply_to_status_id": null,
+  "id_str": "922147354383233024",
+  "created_at": "Sun Oct 22 17:07:16 +0000 2017",
+  "id": 922147354383233024,
+  "coordinates": {
+    "type": "Point",
+    "coordinates": [
+      -71.5,
+      -33.85
+    ]
+  },
+  "favorite_count": 0,
+  "entities": {
+    "user_mentions": [],
+    "symbols": [],
+    "hashtags": [
+      {
+        "text": "picoftheday",
+        "indices": [
+          0,
+          12
+        ]
+      },
+      {
+        "text": "casadelosse\u00f1orespap\u00e1s",
+        "indices": [
+          13,
+          35
+        ]
+      },
+      {
+        "text": "hawtorn",
+        "indices": [
+          36,
+          44
+        ]
+      },
+      {
+        "text": "camp",
+        "indices": [
+          45,
+          50
+        ]
+      },
+      {
+        "text": "eso",
+        "indices": [
+          51,
+          55
+        ]
+      }
+    ],
+    "urls": [
+      {
+        "expanded_url": "https://www.instagram.com/p/Bajt7BslGNo/",
+        "indices": [
+          100,
+          123
+        ],
+        "url": "https://t.co/04E6RGDSa7",
+        "display_url": "instagram.com/p/Bajt7BslGNo/"
+      }
+    ]
+  },
+  "reply_count": 0,
+  "source": "<a href=\"http://instagram.com\" rel=\"nofollow\">Instagram</a>",
+  "place": {
+    "attributes": {},
+    "url": "https://api.twitter.com/1.1/geo/id/005bface2e014276.json",
+    "place_type": "city",
+    "id": "005bface2e014276",
+    "country_code": "CL",
+    "name": "San Pedro",
+    "country": "Chile",
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            -71.716005,
+            -34.075615
+          ],
+          [
+            -71.716005,
+            -33.76286
+          ],
+          [
+            -71.20619,
+            -33.76286
+          ],
+          [
+            -71.20619,
+            -34.075615
+          ]
+        ]
+      ]
+    },
+    "full_name": "San Pedro, Chile"
+  },
+  "truncated": false,
+  "in_reply_to_status_id_str": null,
+  "filter_level": "low",
+  "text": "#picoftheday #casadelosse\u00f1orespap\u00e1s #hawtorn #camp #eso en Lo Enca\u00f1ado, Region Metropolitana, Chile https://t.co/04E6RGDSa7",
+  "geo": {
+    "type": "Point",
+    "coordinates": [
+      -33.85,
+      -71.5
+    ]
+  },
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": false,
+  "possibly_sensitive": false,
+  "favorited": false,
+  "user": {
+    "verified": false,
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+    "statuses_count": 6492,
+    "screen_name": "LuisAn3Navarro",
+    "default_profile_image": false,
+    "time_zone": "Santiago",
+    "name": "L. Andr\u00e9s Navarro D.",
+    "id_str": "199455209",
+    "profile_sidebar_border_color": "79ABF7",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/199455209/1390313004",
+    "created_at": "Wed Oct 06 22:32:12 +0000 2010",
+    "friends_count": 640,
+    "url": "http://www.flickr.com/photos/luisandresnavarro/",
+    "profile_background_tile": false,
+    "protected": false,
+    "translator_type": "none",
+    "profile_text_color": "333333",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/725671229437390848/YnO5xUoX_normal.jpg",
+    "listed_count": 7,
+    "notifications": null,
+    "contributors_enabled": false,
+    "is_translator": false,
+    "location": "Santiago",
+    "profile_use_background_image": true,
+    "followers_count": 630,
+    "profile_sidebar_fill_color": "000000",
+    "geo_enabled": true,
+    "profile_link_color": "0084B4",
+    "favourites_count": 334,
+    "following": null,
+    "default_profile": false,
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+    "profile_background_color": "002330",
+    "id": 199455209,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/725671229437390848/YnO5xUoX_normal.jpg",
+    "lang": "es",
+    "description": "28 a\u00f1os | Arquitecto | Chile Instagram: luisan3navarro",
+    "follow_request_sent": null,
+    "utc_offset": -10800
+  },
+  "quote_count": 0,
+  "lang": "es"
+}

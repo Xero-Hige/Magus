@@ -1,0 +1,106 @@
+{
+  "in_reply_to_user_id": null,
+  "contributors": null,
+  "in_reply_to_screen_name": null,
+  "retweeted": false,
+  "retweet_count": 0,
+  "timestamp_ms": "1508645561221",
+  "in_reply_to_status_id": null,
+  "id_str": "921952422469259265",
+  "created_at": "Sun Oct 22 04:12:41 +0000 2017",
+  "id": 921952422469259265,
+  "coordinates": null,
+  "favorite_count": 0,
+  "entities": {
+    "user_mentions": [],
+    "symbols": [],
+    "hashtags": [],
+    "urls": []
+  },
+  "reply_count": 0,
+  "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+  "place": {
+    "attributes": {},
+    "url": "https://api.twitter.com/1.1/geo/id/4afa2757051c5192.json",
+    "place_type": "admin",
+    "id": "4afa2757051c5192",
+    "country_code": "AR",
+    "name": "Buenos Aires",
+    "country": "Argentina",
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            -63.39386,
+            -41.035009
+          ],
+          [
+            -63.39386,
+            -33.260144
+          ],
+          [
+            -56.665836,
+            -33.260144
+          ],
+          [
+            -56.665836,
+            -41.035009
+          ]
+        ]
+      ]
+    },
+    "full_name": "Buenos Aires, Argentina"
+  },
+  "truncated": false,
+  "in_reply_to_status_id_str": null,
+  "filter_level": "low",
+  "text": "Comi muchas empanadas, como para acostarme ahora y levantarme a las 5.15",
+  "geo": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": false,
+  "favorited": false,
+  "user": {
+    "verified": false,
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme11/bg.gif",
+    "statuses_count": 22171,
+    "screen_name": "UrdangarinFlor",
+    "default_profile_image": false,
+    "time_zone": "Santiago",
+    "name": "Eudaimon\u00eda.",
+    "id_str": "389192625",
+    "profile_sidebar_border_color": "CC3366",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/389192625/1478056478",
+    "created_at": "Wed Oct 12 00:53:22 +0000 2011",
+    "friends_count": 242,
+    "url": "http://enquepaisvivis.blogspot.com.ar/?m=1",
+    "profile_background_tile": true,
+    "protected": false,
+    "translator_type": "none",
+    "profile_text_color": "362720",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/861068240885305346/S4WTOS3U_normal.jpg",
+    "listed_count": 4,
+    "notifications": null,
+    "contributors_enabled": false,
+    "is_translator": false,
+    "location": "Carlos Tejedor, Buenos Aires.",
+    "profile_use_background_image": true,
+    "followers_count": 557,
+    "profile_sidebar_fill_color": "E5507E",
+    "geo_enabled": true,
+    "profile_link_color": "B40B43",
+    "favourites_count": 4120,
+    "following": null,
+    "default_profile": false,
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme11/bg.gif",
+    "profile_background_color": "FF6699",
+    "id": 389192625,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/861068240885305346/S4WTOS3U_normal.jpg",
+    "lang": "es",
+    "description": "Hay una forma de contribuir a la protecci\u00f3n de la humanidad, y es no resignarse.\nMilito por la patria, desde UCR. Autora de #EnQu\u00e9Pa\u00edsViv\u00eds",
+    "follow_request_sent": null,
+    "utc_offset": -10800
+  },
+  "quote_count": 0,
+  "lang": "es"
+}

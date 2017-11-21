@@ -1,0 +1,121 @@
+{
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "indices": [
+          0,
+          10
+        ],
+        "screen_name": "lucyanaah",
+        "name": "Lucy Ana Walton",
+        "id_str": "104304391",
+        "id": 104304391
+      }
+    ]
+  },
+  "in_reply_to_user_id": 104304391,
+  "created_at": "Sun Oct 22 23:38:10 +0000 2017",
+  "favorite_count": 0,
+  "lang": "es",
+  "reply_count": 0,
+  "id_str": "922245726377267200",
+  "in_reply_to_user_id_str": "104304391",
+  "in_reply_to_status_id": 922159924666236928,
+  "timestamp_ms": "1508715490322",
+  "truncated": false,
+  "text": "@lucyanaah Eso es la gran mentira que su gente le ayuda a esconder, ya muchos sabemos la verdad de su carrera universitaria",
+  "user": {
+    "time_zone": "Buenos Aires",
+    "screen_name": "viadelmar",
+    "utc_offset": -10800,
+    "created_at": "Sat Oct 17 20:54:27 +0000 2009",
+    "profile_background_tile": true,
+    "notifications": null,
+    "lang": "es",
+    "default_profile": false,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/83217748/1505409598",
+    "id_str": "83217748",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/908391423397023751/UXhTJqyP_normal.jpg",
+    "name": "Isabel Viadelmar",
+    "friends_count": 2425,
+    "translator_type": "none",
+    "protected": false,
+    "following": null,
+    "is_translator": false,
+    "follow_request_sent": null,
+    "profile_text_color": "3C3940",
+    "listed_count": 21,
+    "profile_link_color": "1B95E0",
+    "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000159616346/kKIydVp4.jpeg",
+    "url": null,
+    "id": 83217748,
+    "favourites_count": 2463,
+    "profile_background_color": "00A3B8",
+    "followers_count": 2466,
+    "statuses_count": 25240,
+    "description": "Chilena, derechista,  ahora con problemas, pero menores a los de Chile. Mi pa\u00eds debe cambiar pronto o se hundir\u00e1",
+    "location": "Las Condes, Chile",
+    "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000159616346/kKIydVp4.jpeg",
+    "default_profile_image": false,
+    "verified": false,
+    "profile_sidebar_fill_color": "95E8EC",
+    "profile_use_background_image": true,
+    "contributors_enabled": false,
+    "profile_sidebar_border_color": "000000",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/908391423397023751/UXhTJqyP_normal.jpg",
+    "geo_enabled": true
+  },
+  "geo": null,
+  "id": 922245726377267200,
+  "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+  "retweeted": false,
+  "filter_level": "low",
+  "in_reply_to_status_id_str": "922159924666236928",
+  "quote_count": 0,
+  "favorited": false,
+  "coordinates": null,
+  "display_text_range": [
+    11,
+    123
+  ],
+  "retweet_count": 0,
+  "is_quote_status": false,
+  "in_reply_to_screen_name": "lucyanaah",
+  "contributors": null,
+  "place": {
+    "bounding_box": {
+      "coordinates": [
+        [
+          [
+            -70.608694,
+            -33.486182
+          ],
+          [
+            -70.608694,
+            -33.364619
+          ],
+          [
+            -70.429141,
+            -33.364619
+          ],
+          [
+            -70.429141,
+            -33.486182
+          ]
+        ]
+      ],
+      "type": "Polygon"
+    },
+    "name": "Las Condes",
+    "url": "https://api.twitter.com/1.1/geo/id/00c4b64e7affea25.json",
+    "country_code": "CL",
+    "id": "00c4b64e7affea25",
+    "place_type": "city",
+    "attributes": {},
+    "full_name": "Las Condes, Chile",
+    "country": "Chile"
+  }
+}

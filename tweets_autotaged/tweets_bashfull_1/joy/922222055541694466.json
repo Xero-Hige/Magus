@@ -1,0 +1,120 @@
+{
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "indices": [
+          0,
+          12
+        ],
+        "screen_name": "AntonioM646",
+        "name": "Prometeo",
+        "id_str": "1852688832",
+        "id": 1852688832
+      }
+    ]
+  },
+  "in_reply_to_user_id": 1852688832,
+  "created_at": "Sun Oct 22 22:04:06 +0000 2017",
+  "favorite_count": 0,
+  "lang": "es",
+  "reply_count": 0,
+  "id_str": "922222055541694466",
+  "in_reply_to_user_id_str": "1852688832",
+  "in_reply_to_status_id": 922122260412010498,
+  "timestamp_ms": "1508709846755",
+  "truncated": false,
+  "text": "@AntonioM646 / Sexo no necesariamente es amor, justamente es el verdugo. Amar traspasa esa barrera.",
+  "user": {
+    "time_zone": null,
+    "screen_name": "pelusaroma",
+    "utc_offset": null,
+    "created_at": "Tue Jun 26 16:59:45 +0000 2012",
+    "profile_background_tile": false,
+    "notifications": null,
+    "lang": "es",
+    "default_profile": true,
+    "follow_request_sent": null,
+    "id_str": "619249198",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/668450708992221186/TTgcUQuO_normal.jpg",
+    "name": "ali roma",
+    "friends_count": 179,
+    "translator_type": "none",
+    "protected": false,
+    "following": null,
+    "is_translator": false,
+    "profile_text_color": "333333",
+    "listed_count": 13,
+    "profile_link_color": "1DA1F2",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "url": null,
+    "id": 619249198,
+    "favourites_count": 17929,
+    "profile_background_color": "C0DEED",
+    "followers_count": 536,
+    "statuses_count": 88504,
+    "description": "NACI EN UN REPOLLO JAJA",
+    "location": "en marte",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "default_profile_image": false,
+    "verified": false,
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_use_background_image": true,
+    "contributors_enabled": false,
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/668450708992221186/TTgcUQuO_normal.jpg",
+    "geo_enabled": true
+  },
+  "geo": null,
+  "id": 922222055541694466,
+  "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+  "retweeted": false,
+  "filter_level": "low",
+  "in_reply_to_status_id_str": "922122260412010498",
+  "quote_count": 0,
+  "favorited": false,
+  "coordinates": null,
+  "display_text_range": [
+    13,
+    99
+  ],
+  "retweet_count": 0,
+  "is_quote_status": false,
+  "in_reply_to_screen_name": "AntonioM646",
+  "contributors": null,
+  "place": {
+    "bounding_box": {
+      "coordinates": [
+        [
+          [
+            -58.160874,
+            -35.031373
+          ],
+          [
+            -58.160874,
+            -34.841264
+          ],
+          [
+            -57.865169,
+            -34.841264
+          ],
+          [
+            -57.865169,
+            -35.031373
+          ]
+        ]
+      ],
+      "type": "Polygon"
+    },
+    "name": "La Plata",
+    "url": "https://api.twitter.com/1.1/geo/id/0177894212b08f73.json",
+    "country_code": "AR",
+    "id": "0177894212b08f73",
+    "place_type": "city",
+    "attributes": {},
+    "full_name": "La Plata, Argentina",
+    "country": "Argentina"
+  }
+}

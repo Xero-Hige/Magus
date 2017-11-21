@@ -1,0 +1,117 @@
+{
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "indices": [
+          10,
+          23
+        ],
+        "screen_name": "lapolarchile",
+        "name": "La Polar",
+        "id_str": "78363430",
+        "id": 78363430
+      }
+    ]
+  },
+  "in_reply_to_user_id": null,
+  "created_at": "Sun Oct 22 22:48:14 +0000 2017",
+  "favorite_count": 0,
+  "lang": "es",
+  "reply_count": 0,
+  "id_str": "922233161001598977",
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_status_id": null,
+  "timestamp_ms": "1508712494503",
+  "text": "Amigos de @lapolarchile su tienda de Coronel siempre tiene cerrado el probador de hombres! Nunca est\u00e1 operativo! \ud83d\ude12",
+  "user": {
+    "time_zone": "Santiago",
+    "screen_name": "DonFitoo",
+    "utc_offset": -10800,
+    "created_at": "Wed Mar 17 18:46:05 +0000 2010",
+    "profile_background_tile": true,
+    "notifications": null,
+    "lang": "es",
+    "default_profile": false,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/123946330/1506873447",
+    "id_str": "123946330",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/914519627048288258/0exEuVa__normal.jpg",
+    "name": "Rodolfo Figueroa",
+    "friends_count": 7084,
+    "translator_type": "none",
+    "protected": false,
+    "following": null,
+    "is_translator": false,
+    "follow_request_sent": null,
+    "profile_text_color": "F70A0A",
+    "listed_count": 21,
+    "profile_link_color": "19CF86",
+    "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/432291474680463360/YyWAAWyC.jpeg",
+    "url": "http://Instagram.com/don_fito",
+    "id": 123946330,
+    "favourites_count": 15704,
+    "profile_background_color": "F01111",
+    "followers_count": 8435,
+    "statuses_count": 147001,
+    "description": "26. Voluntario Telet\u00f3n. Profe de Historia. Estudiante de Adm. de Empresas, DuocUC. Ac\u00e1 me expreso a t\u00edtulo personal. Bienvenido! \ud83d\ude01",
+    "location": "Coronel, Concepci\u00f3n, Chile",
+    "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/432291474680463360/YyWAAWyC.jpeg",
+    "default_profile_image": false,
+    "verified": false,
+    "profile_sidebar_fill_color": "000000",
+    "profile_use_background_image": true,
+    "contributors_enabled": false,
+    "profile_sidebar_border_color": "FFFFFF",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/914519627048288258/0exEuVa__normal.jpg",
+    "geo_enabled": true
+  },
+  "geo": null,
+  "id": 922233161001598977,
+  "quote_count": 0,
+  "retweeted": false,
+  "filter_level": "low",
+  "in_reply_to_status_id_str": null,
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "favorited": false,
+  "coordinates": null,
+  "truncated": false,
+  "retweet_count": 0,
+  "is_quote_status": false,
+  "in_reply_to_screen_name": null,
+  "contributors": null,
+  "place": {
+    "bounding_box": {
+      "coordinates": [
+        [
+          [
+            -73.553208,
+            -37.100318
+          ],
+          [
+            -73.553208,
+            -36.901887
+          ],
+          [
+            -72.952923,
+            -36.901887
+          ],
+          [
+            -72.952923,
+            -37.100318
+          ]
+        ]
+      ],
+      "type": "Polygon"
+    },
+    "name": "Coronel",
+    "url": "https://api.twitter.com/1.1/geo/id/008ee35d0f80ef5d.json",
+    "country_code": "CL",
+    "id": "008ee35d0f80ef5d",
+    "place_type": "city",
+    "attributes": {},
+    "full_name": "Coronel, Chile",
+    "country": "Chile"
+  }
+}

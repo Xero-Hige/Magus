@@ -1,0 +1,121 @@
+{
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "indices": [
+          0,
+          11
+        ],
+        "screen_name": "Chasquetti",
+        "name": "Daniel Chasquetti",
+        "id_str": "157547655",
+        "id": 157547655
+      }
+    ]
+  },
+  "in_reply_to_user_id": 157547655,
+  "created_at": "Sun Oct 22 23:26:29 +0000 2017",
+  "favorite_count": 0,
+  "lang": "es",
+  "reply_count": 0,
+  "id_str": "922242787558481921",
+  "in_reply_to_user_id_str": "157547655",
+  "in_reply_to_status_id": 922242147251834886,
+  "timestamp_ms": "1508714789653",
+  "truncated": false,
+  "text": "@Chasquetti En la era de la Inteligencia artificial, esta es una Desinteligencia emocional.",
+  "user": {
+    "time_zone": "Santiago",
+    "screen_name": "crisricheri",
+    "utc_offset": -10800,
+    "created_at": "Fri Jul 02 12:19:56 +0000 2010",
+    "profile_background_tile": false,
+    "notifications": null,
+    "lang": "es",
+    "default_profile": false,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/162026565/1486641550",
+    "id_str": "162026565",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/846158373259264002/oNF0Qw0c_normal.jpg",
+    "name": "Cris Richeri",
+    "friends_count": 5261,
+    "translator_type": "none",
+    "protected": false,
+    "following": null,
+    "is_translator": false,
+    "follow_request_sent": null,
+    "profile_text_color": "333333",
+    "listed_count": 42,
+    "profile_link_color": "CC3366",
+    "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/497651425518698496/MEki0o31.jpeg",
+    "url": null,
+    "id": 162026565,
+    "favourites_count": 7531,
+    "profile_background_color": "DBE9ED",
+    "followers_count": 5116,
+    "statuses_count": 33692,
+    "description": "Periodista, @Lacatorce10  Conductora de @hoynoesundia y de @7enlinea\nConductora de #PuntoDeVista @RadioCanelones http://www.radiocanelones.com.uy",
+    "location": "Uruguay",
+    "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/497651425518698496/MEki0o31.jpeg",
+    "default_profile_image": false,
+    "verified": false,
+    "profile_sidebar_fill_color": "E6F6F9",
+    "profile_use_background_image": true,
+    "contributors_enabled": false,
+    "profile_sidebar_border_color": "FFFFFF",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/846158373259264002/oNF0Qw0c_normal.jpg",
+    "geo_enabled": true
+  },
+  "geo": null,
+  "id": 922242787558481921,
+  "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+  "retweeted": false,
+  "filter_level": "low",
+  "in_reply_to_status_id_str": "922242147251834886",
+  "quote_count": 0,
+  "favorited": false,
+  "coordinates": null,
+  "display_text_range": [
+    12,
+    91
+  ],
+  "retweet_count": 0,
+  "is_quote_status": false,
+  "in_reply_to_screen_name": "Chasquetti",
+  "contributors": null,
+  "place": {
+    "bounding_box": {
+      "coordinates": [
+        [
+          [
+            -58.491052,
+            -34.980163
+          ],
+          [
+            -58.491052,
+            -30.085693
+          ],
+          [
+            -53.071505,
+            -30.085693
+          ],
+          [
+            -53.071505,
+            -34.980163
+          ]
+        ]
+      ],
+      "type": "Polygon"
+    },
+    "name": "Uruguay",
+    "url": "https://api.twitter.com/1.1/geo/id/d0f5be1262dee9aa.json",
+    "country_code": "UY",
+    "id": "d0f5be1262dee9aa",
+    "place_type": "country",
+    "attributes": {},
+    "full_name": "Uruguay",
+    "country": "Uruguay"
+  }
+}

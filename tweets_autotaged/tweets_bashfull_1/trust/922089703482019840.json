@@ -1,0 +1,117 @@
+{
+  "in_reply_to_user_id": null,
+  "contributors": null,
+  "in_reply_to_screen_name": null,
+  "retweeted": false,
+  "retweet_count": 0,
+  "timestamp_ms": "1508678291565",
+  "in_reply_to_status_id": null,
+  "id_str": "922089703482019840",
+  "created_at": "Sun Oct 22 13:18:11 +0000 2017",
+  "id": 922089703482019840,
+  "coordinates": null,
+  "favorite_count": 0,
+  "entities": {
+    "user_mentions": [
+      {
+        "indices": [
+          3,
+          12
+        ],
+        "name": "Radio Mitre MdP",
+        "screen_name": "mitremdp",
+        "id": 719031241,
+        "id_str": "719031241"
+      }
+    ],
+    "symbols": [],
+    "hashtags": [],
+    "urls": []
+  },
+  "reply_count": 0,
+  "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+  "place": {
+    "attributes": {},
+    "url": "https://api.twitter.com/1.1/geo/id/010d7db066434a8a.json",
+    "place_type": "city",
+    "id": "010d7db066434a8a",
+    "country_code": "AR",
+    "name": "Mar del Plata",
+    "country": "Argentina",
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            -57.645563,
+            -38.127814
+          ],
+          [
+            -57.645563,
+            -37.895361
+          ],
+          [
+            -57.517298,
+            -37.895361
+          ],
+          [
+            -57.517298,
+            -38.127814
+          ]
+        ]
+      ]
+    },
+    "full_name": "Mar del Plata, Argentina"
+  },
+  "truncated": false,
+  "in_reply_to_status_id_str": null,
+  "filter_level": "low",
+  "text": "En @mitremdp \"Le pedimos a la gente que vote, que lo haga por quien m\u00e1s cree conveniente, que participe y haga valer su derecho democr\u00e1tico\"",
+  "geo": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": false,
+  "favorited": false,
+  "user": {
+    "verified": false,
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "statuses_count": 3494,
+    "screen_name": "arielcholociano",
+    "default_profile_image": false,
+    "time_zone": "Buenos Aires",
+    "name": "Ariel Cholo Ciano",
+    "id_str": "232947255",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/232947255/1505356342",
+    "created_at": "Sat Jan 01 20:52:59 +0000 2011",
+    "friends_count": 715,
+    "url": "http://www.arielciano.com.ar",
+    "profile_background_tile": false,
+    "protected": false,
+    "translator_type": "none",
+    "profile_text_color": "333333",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/908156446856110080/6nPAh2Zb_normal.jpg",
+    "listed_count": 14,
+    "notifications": null,
+    "contributors_enabled": false,
+    "is_translator": false,
+    "location": "Mar del Plata, Argentina",
+    "profile_use_background_image": true,
+    "followers_count": 3472,
+    "profile_sidebar_fill_color": "DDEEF6",
+    "geo_enabled": true,
+    "profile_link_color": "1DA1F2",
+    "favourites_count": 1202,
+    "following": null,
+    "default_profile": true,
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_color": "C0DEED",
+    "id": 232947255,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/908156446856110080/6nPAh2Zb_normal.jpg",
+    "lang": "es",
+    "description": "Soy Abogado y fui Presidente del Concejo Deliberante de Gral. Pueyrredon, Fiscal de Delitos Econ\u00f3micos y Defensor Oficial Departamento Judicial de Mar del Plata",
+    "follow_request_sent": null,
+    "utc_offset": -10800
+  },
+  "quote_count": 0,
+  "lang": "es"
+}

@@ -1,0 +1,121 @@
+{
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "indices": [
+          0,
+          4
+        ],
+        "screen_name": "C5N",
+        "name": "C5N",
+        "id_str": "152325528",
+        "id": 152325528
+      }
+    ]
+  },
+  "in_reply_to_user_id": 152325528,
+  "created_at": "Mon Oct 23 00:57:42 +0000 2017",
+  "favorite_count": 0,
+  "lang": "es",
+  "reply_count": 0,
+  "id_str": "922265743399575552",
+  "in_reply_to_user_id_str": "152325528",
+  "in_reply_to_status_id": 922259503520784384,
+  "timestamp_ms": "1508720262752",
+  "truncated": false,
+  "text": "@C5N Felicito a San Juan mis compatriotas muy buena elecci\u00f3n y al sr gobernador u\u00f1ac",
+  "user": {
+    "time_zone": null,
+    "screen_name": "anyparedes53",
+    "utc_offset": null,
+    "created_at": "Sun May 17 04:35:11 +0000 2015",
+    "profile_background_tile": false,
+    "notifications": null,
+    "lang": "es",
+    "default_profile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/3264791584/1464224158",
+    "id_str": "3264791584",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/735634929296510976/8J02TZI5_normal.jpg",
+    "name": "analia paredes",
+    "friends_count": 3991,
+    "translator_type": "none",
+    "protected": false,
+    "following": null,
+    "is_translator": false,
+    "follow_request_sent": null,
+    "profile_text_color": "333333",
+    "listed_count": 10,
+    "profile_link_color": "1DA1F2",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "url": null,
+    "id": 3264791584,
+    "favourites_count": 5481,
+    "profile_background_color": "C0DEED",
+    "followers_count": 2900,
+    "statuses_count": 30373,
+    "description": null,
+    "location": null,
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "default_profile_image": false,
+    "verified": false,
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_use_background_image": true,
+    "contributors_enabled": false,
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/735634929296510976/8J02TZI5_normal.jpg",
+    "geo_enabled": true
+  },
+  "geo": null,
+  "id": 922265743399575552,
+  "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+  "retweeted": false,
+  "filter_level": "low",
+  "in_reply_to_status_id_str": "922259503520784384",
+  "quote_count": 0,
+  "favorited": false,
+  "coordinates": null,
+  "display_text_range": [
+    5,
+    84
+  ],
+  "retweet_count": 0,
+  "is_quote_status": false,
+  "in_reply_to_screen_name": "C5N",
+  "contributors": null,
+  "place": {
+    "bounding_box": {
+      "coordinates": [
+        [
+          [
+            -70.5696,
+            -32.631926
+          ],
+          [
+            -70.5696,
+            -28.376969
+          ],
+          [
+            -66.715442,
+            -28.376969
+          ],
+          [
+            -66.715442,
+            -32.631926
+          ]
+        ]
+      ],
+      "type": "Polygon"
+    },
+    "name": "San Juan",
+    "url": "https://api.twitter.com/1.1/geo/id/5ceabda654fd1ee2.json",
+    "country_code": "AR",
+    "id": "5ceabda654fd1ee2",
+    "place_type": "admin",
+    "attributes": {},
+    "full_name": "San Juan, Argentina",
+    "country": "Argentina"
+  }
+}

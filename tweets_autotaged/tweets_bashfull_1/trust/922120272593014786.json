@@ -1,0 +1,121 @@
+{
+  "in_reply_to_user_id": null,
+  "contributors": null,
+  "in_reply_to_screen_name": null,
+  "retweeted": false,
+  "retweet_count": 0,
+  "timestamp_ms": "1508685579809",
+  "in_reply_to_status_id": null,
+  "id_str": "922120272593014786",
+  "created_at": "Sun Oct 22 15:19:39 +0000 2017",
+  "id": 922120272593014786,
+  "coordinates": null,
+  "favorite_count": 0,
+  "entities": {
+    "user_mentions": [],
+    "symbols": [],
+    "hashtags": [
+      {
+        "text": "SantiagoMaldonado",
+        "indices": [
+          41,
+          59
+        ]
+      },
+      {
+        "text": "EleccionesArgentina",
+        "indices": [
+          88,
+          108
+        ]
+      }
+    ],
+    "urls": []
+  },
+  "reply_count": 0,
+  "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+  "place": {
+    "attributes": {},
+    "url": "https://api.twitter.com/1.1/geo/id/004104c122aeebbd.json",
+    "place_type": "city",
+    "id": "004104c122aeebbd",
+    "country_code": "AR",
+    "name": "Moreno",
+    "country": "Argentina",
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            -58.890754,
+            -34.686158
+          ],
+          [
+            -58.890754,
+            -34.514502
+          ],
+          [
+            -58.713981,
+            -34.514502
+          ],
+          [
+            -58.713981,
+            -34.686158
+          ]
+        ]
+      ]
+    },
+    "full_name": "Moreno, Argentina"
+  },
+  "truncated": false,
+  "in_reply_to_status_id_str": null,
+  "filter_level": "low",
+  "text": "Yo voto que vayan presos los q mataron a #SantiagoMaldonado y quienes los encubrieron. \n#EleccionesArgentina",
+  "geo": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": false,
+  "favorited": false,
+  "user": {
+    "verified": false,
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "statuses_count": 489,
+    "screen_name": "guiyeamaro",
+    "default_profile_image": false,
+    "time_zone": "Pacific Time (US & Canada)",
+    "name": "Guillermo Amaro",
+    "id_str": "855853540073512960",
+    "profile_sidebar_border_color": "000000",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/855853540073512960/1508605692",
+    "created_at": "Sat Apr 22 18:39:19 +0000 2017",
+    "friends_count": 83,
+    "url": "https://www.cranchblog.wordpress.com",
+    "profile_background_tile": false,
+    "protected": false,
+    "translator_type": "none",
+    "profile_text_color": "000000",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/916497834500919296/2IFwtuRa_normal.jpg",
+    "listed_count": 0,
+    "notifications": null,
+    "contributors_enabled": false,
+    "is_translator": false,
+    "location": "Moreno, Argentina",
+    "profile_use_background_image": false,
+    "followers_count": 83,
+    "profile_sidebar_fill_color": "000000",
+    "geo_enabled": true,
+    "profile_link_color": "19CF86",
+    "favourites_count": 281,
+    "following": null,
+    "default_profile": false,
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_color": "000000",
+    "id": 855853540073512960,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/916497834500919296/2IFwtuRa_normal.jpg",
+    "lang": "es",
+    "description": "Periodista. Rioplatense. Hago un programa de radio y un blog. \ud83c\udf99\ufe0f",
+    "follow_request_sent": null,
+    "utc_offset": -25200
+  },
+  "quote_count": 0,
+  "lang": "es"
+}

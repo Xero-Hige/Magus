@@ -1,0 +1,137 @@
+{
+  "in_reply_to_user_id": null,
+  "contributors": null,
+  "in_reply_to_screen_name": null,
+  "retweeted": false,
+  "retweet_count": 0,
+  "timestamp_ms": "1508688258764",
+  "in_reply_to_status_id": null,
+  "id_str": "922131508944625665",
+  "created_at": "Sun Oct 22 16:04:18 +0000 2017",
+  "id": 922131508944625665,
+  "coordinates": {
+    "type": "Point",
+    "coordinates": [
+      -57.03666667,
+      -31.31583333
+    ]
+  },
+  "favorite_count": 0,
+  "entities": {
+    "user_mentions": [],
+    "symbols": [],
+    "hashtags": [
+      {
+        "text": "aparcerialasinrumbo",
+        "indices": [
+          0,
+          20
+        ]
+      }
+    ],
+    "urls": [
+      {
+        "expanded_url": "https://www.instagram.com/p/Bajmt0CjMuH/",
+        "indices": [
+          95,
+          118
+        ],
+        "url": "https://t.co/Sof8ZYZKuG",
+        "display_url": "instagram.com/p/Bajmt0CjMuH/"
+      }
+    ]
+  },
+  "reply_count": 0,
+  "source": "<a href=\"http://instagram.com\" rel=\"nofollow\">Instagram</a>",
+  "place": {
+    "attributes": {},
+    "url": "https://api.twitter.com/1.1/geo/id/002d95e36048f162.json",
+    "place_type": "admin",
+    "id": "002d95e36048f162",
+    "country_code": "UY",
+    "name": "Salto",
+    "country": "Uruguay",
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            -58.082547,
+            -31.851011
+          ],
+          [
+            -58.082547,
+            -30.74044
+          ],
+          [
+            -56.008943,
+            -30.74044
+          ],
+          [
+            -56.008943,
+            -31.851011
+          ]
+        ]
+      ]
+    },
+    "full_name": "Salto, Uruguay"
+  },
+  "truncated": false,
+  "in_reply_to_status_id_str": null,
+  "filter_level": "low",
+  "text": "#aparcerialasinrumbo siguiendo los pasos de los empleados municipales uno trabaja y los otros\u2026 https://t.co/Sof8ZYZKuG",
+  "geo": {
+    "type": "Point",
+    "coordinates": [
+      -31.31583333,
+      -57.03666667
+    ]
+  },
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": false,
+  "possibly_sensitive": false,
+  "favorited": false,
+  "user": {
+    "verified": false,
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+    "statuses_count": 1272,
+    "screen_name": "estela_1995",
+    "default_profile_image": false,
+    "time_zone": null,
+    "name": "estela de los santos",
+    "id_str": "443229489",
+    "profile_sidebar_border_color": "A8C7F7",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/443229489/1484861957",
+    "created_at": "Wed Dec 21 23:40:19 +0000 2011",
+    "friends_count": 343,
+    "url": null,
+    "profile_background_tile": false,
+    "protected": false,
+    "translator_type": "none",
+    "profile_text_color": "333333",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/821219727880110080/aaX1IRZX_normal.jpg",
+    "listed_count": 0,
+    "notifications": null,
+    "contributors_enabled": false,
+    "is_translator": false,
+    "location": "Salto. Uruguay",
+    "profile_use_background_image": true,
+    "followers_count": 152,
+    "profile_sidebar_fill_color": "C0DFEC",
+    "geo_enabled": true,
+    "profile_link_color": "0084B4",
+    "favourites_count": 270,
+    "following": null,
+    "default_profile": false,
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+    "profile_background_color": "022330",
+    "id": 443229489,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/821219727880110080/aaX1IRZX_normal.jpg",
+    "lang": "es",
+    "description": "Amo a mi ahijada",
+    "follow_request_sent": null,
+    "utc_offset": null
+  },
+  "quote_count": 0,
+  "lang": "es"
+}

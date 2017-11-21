@@ -1,0 +1,150 @@
+{
+  "in_reply_to_user_id": null,
+  "contributors": null,
+  "in_reply_to_screen_name": null,
+  "retweeted": false,
+  "retweet_count": 0,
+  "timestamp_ms": "1508641403042",
+  "in_reply_to_status_id": null,
+  "id_str": "921934981802418177",
+  "created_at": "Sun Oct 22 03:03:23 +0000 2017",
+  "id": 921934981802418177,
+  "coordinates": {
+    "type": "Point",
+    "coordinates": [
+      -57.58965369,
+      -25.28548833
+    ]
+  },
+  "favorite_count": 0,
+  "entities": {
+    "user_mentions": [
+      {
+        "indices": [
+          49,
+          65
+        ],
+        "name": "SACRAMENTO",
+        "screen_name": "SacramentoBrewC",
+        "id": 728723018525085699,
+        "id_str": "728723018525085699"
+      },
+      {
+        "indices": [
+          90,
+          100
+        ],
+        "name": "Moni Gomez",
+        "screen_name": "mon_gomez",
+        "id": 1273343929,
+        "id_str": "1273343929"
+      }
+    ],
+    "symbols": [],
+    "hashtags": [],
+    "urls": [
+      {
+        "expanded_url": "https://www.swarmapp.com/c/30v2RqXTnAG",
+        "indices": [
+          102,
+          125
+        ],
+        "url": "https://t.co/z5lbU8OIor",
+        "display_url": "swarmapp.com/c/30v2RqXTnAG"
+      }
+    ]
+  },
+  "reply_count": 0,
+  "source": "<a href=\"http://foursquare.com\" rel=\"nofollow\">Foursquare</a>",
+  "place": {
+    "attributes": {},
+    "url": "https://api.twitter.com/1.1/geo/id/01f2931e2c7f48a8.json",
+    "place_type": "city",
+    "id": "01f2931e2c7f48a8",
+    "country_code": "PY",
+    "name": "Asuncion",
+    "country": "Paraguay",
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            -57.674304,
+            -25.34793
+          ],
+          [
+            -57.674304,
+            -25.252598
+          ],
+          [
+            -57.537731,
+            -25.252598
+          ],
+          [
+            -57.537731,
+            -25.34793
+          ]
+        ]
+      ]
+    },
+    "full_name": "Asuncion, Paraguay"
+  },
+  "truncated": false,
+  "in_reply_to_status_id_str": null,
+  "filter_level": "low",
+  "text": "Feliz cumple beb\u00e9 \ud83d\udc95\ud83c\udf7a (@ Sacramento Brewing Co. - @sacramentobrewc in Asuncion, Central w/ @mon_gomez) https://t.co/z5lbU8OIor",
+  "geo": {
+    "type": "Point",
+    "coordinates": [
+      -25.28548833,
+      -57.58965369
+    ]
+  },
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": false,
+  "possibly_sensitive": false,
+  "favorited": false,
+  "user": {
+    "verified": false,
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme11/bg.gif",
+    "statuses_count": 55230,
+    "screen_name": "AraConstantini",
+    "default_profile_image": false,
+    "time_zone": "Buenos Aires",
+    "name": "Aracelli",
+    "id_str": "351265999",
+    "profile_sidebar_border_color": "CC3366",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/351265999/1464233250",
+    "created_at": "Tue Aug 09 00:53:41 +0000 2011",
+    "friends_count": 419,
+    "url": null,
+    "profile_background_tile": true,
+    "protected": false,
+    "translator_type": "none",
+    "profile_text_color": "362720",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/852348344215244801/imZPEt-e_normal.jpg",
+    "listed_count": 16,
+    "notifications": null,
+    "contributors_enabled": false,
+    "is_translator": false,
+    "location": null,
+    "profile_use_background_image": true,
+    "followers_count": 1150,
+    "profile_sidebar_fill_color": "E5507E",
+    "geo_enabled": true,
+    "profile_link_color": "B40B43",
+    "favourites_count": 5453,
+    "following": null,
+    "default_profile": false,
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme11/bg.gif",
+    "profile_background_color": "FF6699",
+    "id": 351265999,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/852348344215244801/imZPEt-e_normal.jpg",
+    "lang": "es",
+    "description": "Nunca me peino. \ud83c\udf3b\ud83c\udf37\ud83c\udf35 Instagram:aracelliconst \ud83c\udf1a",
+    "follow_request_sent": null,
+    "utc_offset": -10800
+  },
+  "quote_count": 0,
+  "lang": "es"
+}

@@ -1,0 +1,358 @@
+{
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "urls": [
+      {
+        "indices": [
+          116,
+          139
+        ],
+        "expanded_url": "https://twitter.com/AlejandroPrieri/status/922111931229622273",
+        "display_url": "twitter.com/AlejandroPrier\u2026",
+        "url": "https://t.co/Up3Y4AutBV"
+      }
+    ],
+    "user_mentions": []
+  },
+  "in_reply_to_user_id": null,
+  "reply_count": 0,
+  "id_str": "922220717067915264",
+  "in_reply_to_user_id_str": null,
+  "text": "Excelente\u00a1\u00a1\u00a1 en Sgo.del Estero mataron a un polic\u00eda q quiso retener un colectivo con gente no habilitada para votar https://t.co/Up3Y4AutBV",
+  "is_quote_status": true,
+  "quote_count": 0,
+  "quoted_status_id_str": "922111931229622273",
+  "in_reply_to_status_id_str": null,
+  "geo": null,
+  "display_text_range": [
+    0,
+    115
+  ],
+  "truncated": false,
+  "contributors": null,
+  "place": {
+    "bounding_box": {
+      "coordinates": [
+        [
+          [
+            -58.734553,
+            -34.537735
+          ],
+          [
+            -58.734553,
+            -34.350097
+          ],
+          [
+            -58.561445,
+            -34.350097
+          ],
+          [
+            -58.561445,
+            -34.537735
+          ]
+        ]
+      ],
+      "type": "Polygon"
+    },
+    "name": "Tigre",
+    "url": "https://api.twitter.com/1.1/geo/id/01153d1b33e1641b.json",
+    "country_code": "AR",
+    "id": "01153d1b33e1641b",
+    "place_type": "city",
+    "attributes": {},
+    "full_name": "Tigre, Argentina",
+    "country": "Argentina"
+  },
+  "created_at": "Sun Oct 22 21:58:47 +0000 2017",
+  "favorite_count": 0,
+  "lang": "es",
+  "retweet_count": 0,
+  "in_reply_to_status_id": null,
+  "timestamp_ms": "1508709527638",
+  "possibly_sensitive": false,
+  "user": {
+    "time_zone": null,
+    "screen_name": "leonorPiccioni2",
+    "utc_offset": null,
+    "created_at": "Fri Dec 04 18:35:27 +0000 2015",
+    "profile_background_tile": false,
+    "notifications": null,
+    "lang": "es",
+    "default_profile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/4374885676/1502019974",
+    "id_str": "4374885676",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/675876498897813504/kZu7iLwQ_normal.jpg",
+    "name": "Leonor Piccioni",
+    "friends_count": 2850,
+    "translator_type": "none",
+    "protected": false,
+    "following": null,
+    "is_translator": false,
+    "follow_request_sent": null,
+    "profile_text_color": "333333",
+    "listed_count": 12,
+    "profile_link_color": "1DA1F2",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "url": null,
+    "id": 4374885676,
+    "favourites_count": 19287,
+    "profile_background_color": "C0DEED",
+    "followers_count": 1375,
+    "statuses_count": 40637,
+    "description": "psicologa, mama y abu",
+    "location": "tigre",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "default_profile_image": false,
+    "verified": false,
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_use_background_image": true,
+    "contributors_enabled": false,
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/675876498897813504/kZu7iLwQ_normal.jpg",
+    "geo_enabled": true
+  },
+  "id": 922220717067915264,
+  "retweeted": false,
+  "filter_level": "low",
+  "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+  "favorited": false,
+  "quoted_status": {
+    "entities": {
+      "media": [
+        {
+          "expanded_url": "https://twitter.com/AlejandroPrieri/status/922111931229622273/video/1",
+          "display_url": "pic.twitter.com/8n3ZW2Awr7",
+          "url": "https://t.co/8n3ZW2Awr7",
+          "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/922111561300365313/pu/img/fwo1HVkFweBJzm7P.jpg",
+          "id": 922111561300365313,
+          "indices": [
+            116,
+            139
+          ],
+          "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/922111561300365313/pu/img/fwo1HVkFweBJzm7P.jpg",
+          "type": "photo",
+          "id_str": "922111561300365313",
+          "sizes": {
+            "thumb": {
+              "resize": "crop",
+              "h": 150,
+              "w": 150
+            },
+            "large": {
+              "resize": "fit",
+              "h": 352,
+              "w": 640
+            },
+            "small": {
+              "resize": "fit",
+              "h": 187,
+              "w": 340
+            },
+            "medium": {
+              "resize": "fit",
+              "h": 330,
+              "w": 600
+            }
+          }
+        }
+      ],
+      "hashtags": [],
+      "symbols": [],
+      "urls": [],
+      "user_mentions": [
+        {
+          "indices": [
+            54,
+            64
+          ],
+          "screen_name": "nokeador1",
+          "name": "Noki",
+          "id_str": "4693242630",
+          "id": 4693242630
+        },
+        {
+          "indices": [
+            65,
+            74
+          ],
+          "screen_name": "edufeiok",
+          "name": "Eduardo Feinmann",
+          "id_str": "748259155849416706",
+          "id": 748259155849416706
+        },
+        {
+          "indices": [
+            75,
+            84
+          ],
+          "screen_name": "Bracesco",
+          "name": "Bracesco",
+          "id_str": "68810063",
+          "id": 68810063
+        },
+        {
+          "indices": [
+            85,
+            93
+          ],
+          "screen_name": "PaisPPT",
+          "name": "Pa\u00eds PPT",
+          "id_str": "533573263",
+          "id": 533573263
+        },
+        {
+          "indices": [
+            94,
+            104
+          ],
+          "screen_name": "PPTenel13",
+          "name": "PPT \ud83c\udf10",
+          "id_str": "3328795281",
+          "id": 3328795281
+        },
+        {
+          "indices": [
+            105,
+            115
+          ],
+          "screen_name": "LanataPPT",
+          "name": "PeriodismoParaTodos",
+          "id_str": "567691634",
+          "id": 567691634
+        }
+      ]
+    },
+    "filter_level": "low",
+    "in_reply_to_user_id": null,
+    "created_at": "Sun Oct 22 14:46:31 +0000 2017",
+    "favorite_count": 1784,
+    "lang": "es",
+    "reply_count": 135,
+    "id_str": "922111931229622273",
+    "in_reply_to_user_id_str": null,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "favorited": false,
+    "in_reply_to_status_id": null,
+    "possibly_sensitive": false,
+    "text": "Prefectura impidiendo a paraguayos votar por Insfran. @nokeador1 @edufeiok @Bracesco @PaisPPT @PPTenel13 @LanataPPT https://t.co/8n3ZW2Awr7",
+    "user": {
+      "time_zone": "Madrid",
+      "screen_name": "AlejandroPrieri",
+      "utc_offset": 7200,
+      "created_at": "Sat Apr 28 15:47:28 +0000 2012",
+      "profile_background_tile": false,
+      "notifications": null,
+      "lang": "es",
+      "default_profile": true,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/565539127/1358923474",
+      "id_str": "565539127",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/3158074470/5ebeb509c1c8fd5df4fff6699a558228_normal.jpeg",
+      "name": "Alejandro Prieri",
+      "friends_count": 108,
+      "translator_type": "none",
+      "protected": false,
+      "following": null,
+      "is_translator": false,
+      "follow_request_sent": null,
+      "profile_text_color": "333333",
+      "listed_count": 3,
+      "profile_link_color": "1DA1F2",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "url": null,
+      "id": 565539127,
+      "favourites_count": 668,
+      "profile_background_color": "C0DEED",
+      "followers_count": 74,
+      "statuses_count": 778,
+      "description": "Rugby, Voleibol, Tenis, Basketbol",
+      "location": "Burgos, Espa\u00f1a",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "default_profile_image": false,
+      "verified": false,
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_use_background_image": true,
+      "contributors_enabled": false,
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/3158074470/5ebeb509c1c8fd5df4fff6699a558228_normal.jpeg",
+      "geo_enabled": true
+    },
+    "id": 922111931229622273,
+    "quote_count": 127,
+    "retweeted": false,
+    "is_quote_status": false,
+    "in_reply_to_status_id_str": null,
+    "geo": null,
+    "extended_entities": {
+      "media": [
+        {
+          "video_info": {
+            "aspect_ratio": [
+              20,
+              11
+            ],
+            "duration_millis": 39373,
+            "variants": [
+              {
+                "content_type": "application/x-mpegURL",
+                "url": "https://video.twimg.com/ext_tw_video/922111561300365313/pu/pl/-8pYFSH1WUNN367V.m3u8"
+              },
+              {
+                "bitrate": 320000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/922111561300365313/pu/vid/326x180/Uz1HAx2n2D3zGeZt.mp4"
+              }
+            ]
+          },
+          "expanded_url": "https://twitter.com/AlejandroPrieri/status/922111931229622273/video/1",
+          "display_url": "pic.twitter.com/8n3ZW2Awr7",
+          "url": "https://t.co/8n3ZW2Awr7",
+          "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/922111561300365313/pu/img/fwo1HVkFweBJzm7P.jpg",
+          "id": 922111561300365313,
+          "indices": [
+            116,
+            139
+          ],
+          "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/922111561300365313/pu/img/fwo1HVkFweBJzm7P.jpg",
+          "type": "video",
+          "id_str": "922111561300365313",
+          "sizes": {
+            "thumb": {
+              "resize": "crop",
+              "h": 150,
+              "w": 150
+            },
+            "large": {
+              "resize": "fit",
+              "h": 352,
+              "w": 640
+            },
+            "small": {
+              "resize": "fit",
+              "h": 187,
+              "w": 340
+            },
+            "medium": {
+              "resize": "fit",
+              "h": 330,
+              "w": 600
+            }
+          }
+        }
+      ]
+    },
+    "display_text_range": [
+      0,
+      115
+    ],
+    "coordinates": null,
+    "truncated": false,
+    "retweet_count": 1424,
+    "in_reply_to_screen_name": null,
+    "contributors": null,
+    "place": null
+  },
+  "coordinates": null,
+  "in_reply_to_screen_name": null,
+  "quoted_status_id": 922111931229622273
+}

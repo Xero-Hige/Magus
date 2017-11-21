@@ -1,0 +1,117 @@
+{
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "indices": [
+          5,
+          16
+        ],
+        "screen_name": "tonyapuril",
+        "name": "Tony Apuril",
+        "id_str": "553798218",
+        "id": 553798218
+      }
+    ]
+  },
+  "in_reply_to_user_id": null,
+  "created_at": "Sun Oct 22 22:38:01 +0000 2017",
+  "favorite_count": 0,
+  "lang": "es",
+  "reply_count": 0,
+  "id_str": "922230589553594368",
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_status_id": null,
+  "timestamp_ms": "1508711881422",
+  "text": "Hola @tonyapuril el 90% de la poblaci\u00f3n farrista te bancamos en el proyecto de conductor designado. Metele para adelante querido",
+  "user": {
+    "time_zone": "Pacific Time (US & Canada)",
+    "screen_name": "robertperal91",
+    "utc_offset": -25200,
+    "created_at": "Fri Jul 06 02:37:16 +0000 2012",
+    "profile_background_tile": false,
+    "notifications": null,
+    "lang": "es",
+    "default_profile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/627963227/1508420738",
+    "id_str": "627963227",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/917164329685913601/iLRc7WHS_normal.jpg",
+    "name": "Robert Peralta",
+    "friends_count": 393,
+    "translator_type": "none",
+    "protected": false,
+    "following": null,
+    "is_translator": false,
+    "follow_request_sent": null,
+    "profile_text_color": "333333",
+    "listed_count": 14,
+    "profile_link_color": "1DA1F2",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "url": "https://www.instagram.com/robertperal91/",
+    "id": 627963227,
+    "favourites_count": 14746,
+    "profile_background_color": "C0DEED",
+    "followers_count": 1896,
+    "statuses_count": 24879,
+    "description": "Es C A M I S E T A no remera.",
+    "location": "Asunci\u00f3n - Paraguay ",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "default_profile_image": false,
+    "verified": false,
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_use_background_image": true,
+    "contributors_enabled": false,
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/917164329685913601/iLRc7WHS_normal.jpg",
+    "geo_enabled": true
+  },
+  "geo": null,
+  "id": 922230589553594368,
+  "quote_count": 0,
+  "retweeted": false,
+  "filter_level": "low",
+  "in_reply_to_status_id_str": null,
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "favorited": false,
+  "coordinates": null,
+  "truncated": false,
+  "retweet_count": 0,
+  "is_quote_status": false,
+  "in_reply_to_screen_name": null,
+  "contributors": null,
+  "place": {
+    "bounding_box": {
+      "coordinates": [
+        [
+          [
+            -57.81535,
+            -25.984291
+          ],
+          [
+            -57.81535,
+            -25.108891
+          ],
+          [
+            -57.155006,
+            -25.108891
+          ],
+          [
+            -57.155006,
+            -25.984291
+          ]
+        ]
+      ],
+      "type": "Polygon"
+    },
+    "name": "Central",
+    "url": "https://api.twitter.com/1.1/geo/id/016ea1445db12efb.json",
+    "country_code": "PY",
+    "id": "016ea1445db12efb",
+    "place_type": "admin",
+    "attributes": {},
+    "full_name": "Central, Paraguay",
+    "country": "Paraguay"
+  }
+}

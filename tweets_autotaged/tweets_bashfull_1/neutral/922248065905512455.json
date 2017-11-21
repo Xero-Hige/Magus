@@ -1,0 +1,106 @@
+{
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "urls": [],
+    "user_mentions": []
+  },
+  "in_reply_to_user_id": null,
+  "created_at": "Sun Oct 22 23:47:28 +0000 2017",
+  "favorite_count": 0,
+  "lang": "es",
+  "reply_count": 0,
+  "id_str": "922248065905512455",
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_status_id": null,
+  "timestamp_ms": "1508716048109",
+  "text": "Tengo parcial el martes y estoy medio en bolas, imaginen si no estoy procrastinando en vez de estudiar",
+  "user": {
+    "time_zone": "Buenos Aires",
+    "screen_name": "takashi_irl",
+    "utc_offset": -10800,
+    "created_at": "Tue Nov 30 18:44:13 +0000 2010",
+    "profile_background_tile": false,
+    "notifications": null,
+    "lang": "en",
+    "default_profile": false,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/221460582/1496890718",
+    "id_str": "221460582",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/871573773807480832/EUsS5Yvg_normal.jpg",
+    "name": "Takashi",
+    "friends_count": 1175,
+    "translator_type": "none",
+    "protected": false,
+    "following": null,
+    "is_translator": false,
+    "follow_request_sent": null,
+    "profile_text_color": "000000",
+    "listed_count": 27,
+    "profile_link_color": "1B95E0",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "url": null,
+    "id": 221460582,
+    "favourites_count": 5718,
+    "profile_background_color": "000000",
+    "followers_count": 1323,
+    "statuses_count": 11220,
+    "description": "Jueguitos, memes y \uff56\uff41\uff50\uff4f\uff52\uff57\uff41\uff56\uff45.",
+    "location": "Vasanya Polyana",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "default_profile_image": false,
+    "verified": false,
+    "profile_sidebar_fill_color": "000000",
+    "profile_use_background_image": false,
+    "contributors_enabled": false,
+    "profile_sidebar_border_color": "000000",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/871573773807480832/EUsS5Yvg_normal.jpg",
+    "geo_enabled": true
+  },
+  "geo": null,
+  "id": 922248065905512455,
+  "quote_count": 0,
+  "retweeted": false,
+  "filter_level": "low",
+  "in_reply_to_status_id_str": null,
+  "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+  "favorited": false,
+  "coordinates": null,
+  "truncated": false,
+  "retweet_count": 0,
+  "is_quote_status": false,
+  "in_reply_to_screen_name": null,
+  "contributors": null,
+  "place": {
+    "bounding_box": {
+      "coordinates": [
+        [
+          [
+            -58.531792,
+            -34.705421
+          ],
+          [
+            -58.531792,
+            -34.526466
+          ],
+          [
+            -58.335105,
+            -34.526466
+          ],
+          [
+            -58.335105,
+            -34.705421
+          ]
+        ]
+      ],
+      "type": "Polygon"
+    },
+    "name": "Buenos Aires City Region",
+    "url": "https://api.twitter.com/1.1/geo/id/1ed82be977be0cfa.json",
+    "country_code": "AR",
+    "id": "1ed82be977be0cfa",
+    "place_type": "admin",
+    "attributes": {},
+    "full_name": "Buenos Aires City Region, Argentina",
+    "country": "Argentina"
+  }
+}

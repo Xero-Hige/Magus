@@ -1,0 +1,155 @@
+{
+  "in_reply_to_user_id": 196340158,
+  "contributors": null,
+  "id": 922151298530795521,
+  "retweeted": false,
+  "retweet_count": 0,
+  "timestamp_ms": "1508692976969",
+  "in_reply_to_status_id": 921130582129684480,
+  "id_str": "922151298530795521",
+  "coordinates": null,
+  "created_at": "Sun Oct 22 17:22:56 +0000 2017",
+  "quote_count": 0,
+  "favorite_count": 0,
+  "entities": {
+    "user_mentions": [
+      {
+        "indices": [
+          0,
+          12
+        ],
+        "name": "Julio De Vido",
+        "screen_name": "JulioDeVido",
+        "id": 196340158,
+        "id_str": "196340158"
+      }
+    ],
+    "symbols": [],
+    "hashtags": [],
+    "urls": [
+      {
+        "expanded_url": "https://twitter.com/i/web/status/922151298530795521",
+        "indices": [
+          117,
+          140
+        ],
+        "url": "https://t.co/3t6AYisoKk",
+        "display_url": "twitter.com/i/web/status/9\u2026"
+      }
+    ]
+  },
+  "reply_count": 0,
+  "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+  "place": {
+    "attributes": {},
+    "url": "https://api.twitter.com/1.1/geo/id/018f1cde6bad9747.json",
+    "place_type": "city",
+    "id": "018f1cde6bad9747",
+    "country_code": "AR",
+    "name": "Ciudad Aut\u00f3noma de Buenos Aires",
+    "country": "Argentina",
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            -58.531792,
+            -34.674453
+          ],
+          [
+            -58.531792,
+            -34.534177
+          ],
+          [
+            -58.353494,
+            -34.534177
+          ],
+          [
+            -58.353494,
+            -34.674453
+          ]
+        ]
+      ]
+    },
+    "full_name": "Ciudad Aut\u00f3noma de Buenos Aires, Argentina"
+  },
+  "truncated": true,
+  "in_reply_to_status_id_str": "921130582129684480",
+  "in_reply_to_screen_name": "JulioDeVido",
+  "filter_level": "low",
+  "text": "@JulioDeVido Mira el sufrimiento que le has hecho pasar a la rep\u00fablica, hoy solo te deseamos juicio justo y castigo\u2026 https://t.co/3t6AYisoKk",
+  "geo": null,
+  "in_reply_to_user_id_str": "196340158",
+  "is_quote_status": false,
+  "display_text_range": [
+    13,
+    140
+  ],
+  "favorited": false,
+  "user": {
+    "verified": false,
+    "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/525462155907174400/uc5ak6Vn.png",
+    "statuses_count": 12760,
+    "screen_name": "DarioSan1",
+    "default_profile_image": false,
+    "time_zone": "Buenos Aires",
+    "name": "Dar\u00edo S\u00e1nchez",
+    "id_str": "549811709",
+    "profile_sidebar_border_color": "FFFFFF",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/549811709/1479181506",
+    "created_at": "Tue Apr 10 04:41:09 +0000 2012",
+    "friends_count": 2266,
+    "url": "http://www.facebook.com/Sanchez.Daro",
+    "profile_background_tile": false,
+    "protected": false,
+    "translator_type": "none",
+    "profile_text_color": "333333",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/670303631816683520/z4UDSioQ_normal.jpg",
+    "listed_count": 14,
+    "notifications": null,
+    "contributors_enabled": false,
+    "is_translator": false,
+    "location": "Corrientes, Argentina",
+    "profile_use_background_image": false,
+    "followers_count": 1656,
+    "profile_sidebar_fill_color": "DDEEF6",
+    "geo_enabled": true,
+    "profile_link_color": "3B94D9",
+    "favourites_count": 3363,
+    "following": null,
+    "default_profile": false,
+    "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/525462155907174400/uc5ak6Vn.png",
+    "profile_background_color": "4A901A",
+    "id": 549811709,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/670303631816683520/z4UDSioQ_normal.jpg",
+    "lang": "es",
+    "description": "Abogado (UNNE). Extensionista Jur\u00eddico. Estudio Jur\u00eddico, Militante de la Coalici\u00f3n C\u00edvica ARI, Cambiemos. Analista pol\u00edtico, ciudadano por la Rep\u00f9blica",
+    "follow_request_sent": null,
+    "utc_offset": -10800
+  },
+  "extended_tweet": {
+    "entities": {
+      "user_mentions": [
+        {
+          "indices": [
+            0,
+            12
+          ],
+          "name": "Julio De Vido",
+          "screen_name": "JulioDeVido",
+          "id": 196340158,
+          "id_str": "196340158"
+        }
+      ],
+      "symbols": [],
+      "hashtags": [],
+      "urls": []
+    },
+    "display_text_range": [
+      13,
+      141
+    ],
+    "full_text": "@JulioDeVido Mira el sufrimiento que le has hecho pasar a la rep\u00fablica, hoy solo te deseamos juicio justo y castigo por tu robo desvergonzado"
+  },
+  "lang": "es"
+}

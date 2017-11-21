@@ -1,0 +1,175 @@
+{
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "urls": [
+      {
+        "indices": [
+          117,
+          140
+        ],
+        "expanded_url": "https://twitter.com/i/web/status/922252444721180673",
+        "display_url": "twitter.com/i/web/status/9\u2026",
+        "url": "https://t.co/fhBsOYZPhR"
+      }
+    ],
+    "user_mentions": [
+      {
+        "indices": [
+          0,
+          12
+        ],
+        "screen_name": "condegaleto",
+        "name": "Conde Galeto",
+        "id_str": "147382886",
+        "id": 147382886
+      },
+      {
+        "indices": [
+          13,
+          28
+        ],
+        "screen_name": "CapitanLeandro",
+        "name": "Lean \ud83c\udf31",
+        "id_str": "48774885",
+        "id": 48774885
+      }
+    ]
+  },
+  "in_reply_to_user_id": 147382886,
+  "created_at": "Mon Oct 23 00:04:52 +0000 2017",
+  "favorite_count": 0,
+  "lang": "es",
+  "reply_count": 0,
+  "id_str": "922252444721180673",
+  "in_reply_to_user_id_str": "147382886",
+  "extended_tweet": {
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "urls": [],
+      "user_mentions": [
+        {
+          "indices": [
+            0,
+            12
+          ],
+          "screen_name": "condegaleto",
+          "name": "Conde Galeto",
+          "id_str": "147382886",
+          "id": 147382886
+        },
+        {
+          "indices": [
+            13,
+            28
+          ],
+          "screen_name": "CapitanLeandro",
+          "name": "Lean \ud83c\udf31",
+          "id_str": "48774885",
+          "id": 48774885
+        }
+      ]
+    },
+    "display_text_range": [
+      29,
+      164
+    ],
+    "full_text": "@condegaleto @CapitanLeandro En las PASO hab\u00eda disponible una base Access con todas las mesas y todas las categor\u00edas, la descargu\u00e9 y con eso hice las comparaciones."
+  },
+  "in_reply_to_status_id": 922251912338198528,
+  "timestamp_ms": "1508717092100",
+  "truncated": true,
+  "text": "@condegaleto @CapitanLeandro En las PASO hab\u00eda disponible una base Access con todas las mesas y todas las categor\u00eda\u2026 https://t.co/fhBsOYZPhR",
+  "user": {
+    "time_zone": "Buenos Aires",
+    "screen_name": "javierpetrozzi",
+    "utc_offset": -10800,
+    "created_at": "Thu Sep 18 23:37:39 +0000 2014",
+    "profile_background_tile": false,
+    "notifications": null,
+    "lang": "en",
+    "default_profile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/2818375135/1423778090",
+    "id_str": "2818375135",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/645350616336855040/YwTMqYaf_normal.jpg",
+    "name": "javier petrozzi",
+    "friends_count": 627,
+    "translator_type": "none",
+    "protected": false,
+    "following": null,
+    "is_translator": false,
+    "follow_request_sent": null,
+    "profile_text_color": "333333",
+    "listed_count": 1,
+    "profile_link_color": "1DA1F2",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "url": null,
+    "id": 2818375135,
+    "favourites_count": 10004,
+    "profile_background_color": "C0DEED",
+    "followers_count": 669,
+    "statuses_count": 15225,
+    "description": "...no quiero so\u00f1ar mil veces las mismas cosas, ni contemplarlas sabiamente...",
+    "location": "Buenos Aires",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "default_profile_image": false,
+    "verified": false,
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_use_background_image": true,
+    "contributors_enabled": false,
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/645350616336855040/YwTMqYaf_normal.jpg",
+    "geo_enabled": true
+  },
+  "geo": null,
+  "id": 922252444721180673,
+  "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+  "retweeted": false,
+  "filter_level": "low",
+  "in_reply_to_status_id_str": "922251912338198528",
+  "quote_count": 0,
+  "favorited": false,
+  "coordinates": null,
+  "display_text_range": [
+    29,
+    140
+  ],
+  "retweet_count": 0,
+  "is_quote_status": false,
+  "in_reply_to_screen_name": "condegaleto",
+  "contributors": null,
+  "place": {
+    "bounding_box": {
+      "coordinates": [
+        [
+          [
+            -58.531792,
+            -34.705421
+          ],
+          [
+            -58.531792,
+            -34.526466
+          ],
+          [
+            -58.335105,
+            -34.526466
+          ],
+          [
+            -58.335105,
+            -34.705421
+          ]
+        ]
+      ],
+      "type": "Polygon"
+    },
+    "name": "Buenos Aires City Region",
+    "url": "https://api.twitter.com/1.1/geo/id/1ed82be977be0cfa.json",
+    "country_code": "AR",
+    "id": "1ed82be977be0cfa",
+    "place_type": "admin",
+    "attributes": {},
+    "full_name": "Buenos Aires City Region, Argentina",
+    "country": "Argentina"
+  }
+}

@@ -1,0 +1,144 @@
+{
+  "in_reply_to_user_id": null,
+  "contributors": null,
+  "in_reply_to_screen_name": null,
+  "retweeted": false,
+  "retweet_count": 0,
+  "timestamp_ms": "1508686809195",
+  "in_reply_to_status_id": null,
+  "id_str": "922125429011570688",
+  "created_at": "Sun Oct 22 15:40:09 +0000 2017",
+  "id": 922125429011570688,
+  "coordinates": {
+    "type": "Point",
+    "coordinates": [
+      -58.8,
+      -34.6333
+    ]
+  },
+  "favorite_count": 0,
+  "entities": {
+    "user_mentions": [],
+    "symbols": [],
+    "hashtags": [
+      {
+        "text": "gardens",
+        "indices": [
+          74,
+          82
+        ]
+      },
+      {
+        "text": "jardines",
+        "indices": [
+          83,
+          92
+        ]
+      }
+    ],
+    "urls": [
+      {
+        "expanded_url": "https://www.instagram.com/p/Bajj9A5nNiW/",
+        "indices": [
+          94,
+          117
+        ],
+        "url": "https://t.co/M38l4FwbIQ",
+        "display_url": "instagram.com/p/Bajj9A5nNiW/"
+      }
+    ]
+  },
+  "reply_count": 0,
+  "source": "<a href=\"http://instagram.com\" rel=\"nofollow\">Instagram</a>",
+  "place": {
+    "attributes": {},
+    "url": "https://api.twitter.com/1.1/geo/id/004104c122aeebbd.json",
+    "place_type": "city",
+    "id": "004104c122aeebbd",
+    "country_code": "AR",
+    "name": "Moreno",
+    "country": "Argentina",
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            -58.890754,
+            -34.686158
+          ],
+          [
+            -58.890754,
+            -34.514502
+          ],
+          [
+            -58.713981,
+            -34.514502
+          ],
+          [
+            -58.713981,
+            -34.686158
+          ]
+        ]
+      ]
+    },
+    "full_name": "Moreno, Argentina"
+  },
+  "truncated": false,
+  "in_reply_to_status_id_str": null,
+  "filter_level": "low",
+  "text": "En los jardines de Irene, despu\u00e9s de la lluvia, aparecen los floripondios #gardens #jardines\u2026 https://t.co/M38l4FwbIQ",
+  "geo": {
+    "type": "Point",
+    "coordinates": [
+      -34.6333,
+      -58.8
+    ]
+  },
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": false,
+  "possibly_sensitive": false,
+  "favorited": false,
+  "user": {
+    "verified": false,
+    "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/402302548/IMG00803-20110115-1951.jpg",
+    "statuses_count": 9708,
+    "screen_name": "MariennPerseo",
+    "default_profile_image": false,
+    "time_zone": "Buenos Aires",
+    "name": "Marienn Perseo",
+    "id_str": "148324353",
+    "profile_sidebar_border_color": "86A4A6",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/148324353/1362970660",
+    "created_at": "Wed May 26 12:13:44 +0000 2010",
+    "friends_count": 397,
+    "url": "http://www.myspace.com/mariennperseo",
+    "profile_background_tile": false,
+    "protected": false,
+    "translator_type": "none",
+    "profile_text_color": "333333",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/438144679775703040/2eVsMZxw_normal.jpeg",
+    "listed_count": 15,
+    "notifications": null,
+    "contributors_enabled": false,
+    "is_translator": false,
+    "location": "Buenos Aires - Argentina",
+    "profile_use_background_image": true,
+    "followers_count": 664,
+    "profile_sidebar_fill_color": "A0C5C7",
+    "geo_enabled": true,
+    "profile_link_color": "FF3300",
+    "favourites_count": 2501,
+    "following": null,
+    "default_profile": false,
+    "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/402302548/IMG00803-20110115-1951.jpg",
+    "profile_background_color": "709397",
+    "id": 148324353,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/438144679775703040/2eVsMZxw_normal.jpeg",
+    "lang": "es",
+    "description": "Actriz,Cineasta y Trastornada",
+    "follow_request_sent": null,
+    "utc_offset": -10800
+  },
+  "quote_count": 0,
+  "lang": "es"
+}

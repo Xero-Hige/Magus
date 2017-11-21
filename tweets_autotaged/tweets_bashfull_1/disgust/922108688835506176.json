@@ -1,0 +1,114 @@
+{
+  "in_reply_to_user_id": null,
+  "contributors": null,
+  "in_reply_to_screen_name": null,
+  "retweeted": false,
+  "retweet_count": 0,
+  "timestamp_ms": "1508682818026",
+  "in_reply_to_status_id": null,
+  "id_str": "922108688835506176",
+  "created_at": "Sun Oct 22 14:33:38 +0000 2017",
+  "id": 922108688835506176,
+  "coordinates": null,
+  "favorite_count": 0,
+  "entities": {
+    "user_mentions": [],
+    "symbols": [],
+    "hashtags": [
+      {
+        "text": "HoyCambiemos",
+        "indices": [
+          123,
+          136
+        ]
+      }
+    ],
+    "urls": []
+  },
+  "reply_count": 0,
+  "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+  "place": {
+    "attributes": {},
+    "url": "https://api.twitter.com/1.1/geo/id/0108c69f708ae783.json",
+    "place_type": "city",
+    "id": "0108c69f708ae783",
+    "country_code": "AR",
+    "name": "Avellaneda",
+    "country": "Argentina",
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            -58.40649,
+            -34.726948
+          ],
+          [
+            -58.40649,
+            -34.638333
+          ],
+          [
+            -58.297038,
+            -34.638333
+          ],
+          [
+            -58.297038,
+            -34.726948
+          ]
+        ]
+      ]
+    },
+    "full_name": "Avellaneda, Argentina"
+  },
+  "truncated": false,
+  "in_reply_to_status_id_str": null,
+  "filter_level": "low",
+  "text": "Zannini diciendo que no hay que mirar la corrupci\u00f3n del Kirchnerismo. Qu\u00e9 hay que mirar lo que se hizo bien. Hijo de puta. #HoyCambiemos",
+  "geo": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": false,
+  "favorited": false,
+  "user": {
+    "verified": false,
+    "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/615341745157603328/PRl3PHQ7.jpg",
+    "statuses_count": 7882,
+    "screen_name": "DenDemkow",
+    "default_profile_image": false,
+    "time_zone": "Buenos Aires",
+    "name": "Denise",
+    "id_str": "405126657",
+    "profile_sidebar_border_color": "FFFFFF",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/405126657/1407810037",
+    "created_at": "Fri Nov 04 22:06:00 +0000 2011",
+    "friends_count": 247,
+    "url": null,
+    "profile_background_tile": true,
+    "protected": false,
+    "translator_type": "none",
+    "profile_text_color": "362720",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/916141435774259200/L-KKGmsS_normal.jpg",
+    "listed_count": 2,
+    "notifications": null,
+    "contributors_enabled": false,
+    "is_translator": false,
+    "location": "Buenos Aires, Argentina",
+    "profile_use_background_image": true,
+    "followers_count": 257,
+    "profile_sidebar_fill_color": "E5507E",
+    "geo_enabled": true,
+    "profile_link_color": "B40B43",
+    "favourites_count": 7011,
+    "following": null,
+    "default_profile": false,
+    "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/615341745157603328/PRl3PHQ7.jpg",
+    "profile_background_color": "FF6699",
+    "id": 405126657,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/916141435774259200/L-KKGmsS_normal.jpg",
+    "lang": "es",
+    "description": "Saber ser ~ Vivir intensamente",
+    "follow_request_sent": null,
+    "utc_offset": -10800
+  },
+  "quote_count": 0,
+  "lang": "es"
+}

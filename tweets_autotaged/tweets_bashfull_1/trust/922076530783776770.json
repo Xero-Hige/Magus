@@ -1,0 +1,155 @@
+{
+  "in_reply_to_user_id": 525658038,
+  "contributors": null,
+  "id": 922076530783776770,
+  "retweeted": false,
+  "retweet_count": 0,
+  "timestamp_ms": "1508675150949",
+  "in_reply_to_status_id": 922072895781785601,
+  "id_str": "922076530783776770",
+  "coordinates": null,
+  "created_at": "Sun Oct 22 12:25:50 +0000 2017",
+  "quote_count": 0,
+  "favorite_count": 0,
+  "entities": {
+    "user_mentions": [
+      {
+        "indices": [
+          0,
+          10
+        ],
+        "name": "Alejo Schapire",
+        "screen_name": "aschapire",
+        "id": 525658038,
+        "id_str": "525658038"
+      }
+    ],
+    "symbols": [],
+    "hashtags": [],
+    "urls": [
+      {
+        "expanded_url": "https://twitter.com/i/web/status/922076530783776770",
+        "indices": [
+          117,
+          140
+        ],
+        "url": "https://t.co/JzS6aCSKI9",
+        "display_url": "twitter.com/i/web/status/9\u2026"
+      }
+    ]
+  },
+  "reply_count": 0,
+  "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+  "place": {
+    "attributes": {},
+    "url": "https://api.twitter.com/1.1/geo/id/1ed82be977be0cfa.json",
+    "place_type": "admin",
+    "id": "1ed82be977be0cfa",
+    "country_code": "AR",
+    "name": "Buenos Aires City Region",
+    "country": "Argentina",
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            -58.531792,
+            -34.705421
+          ],
+          [
+            -58.531792,
+            -34.526466
+          ],
+          [
+            -58.335105,
+            -34.526466
+          ],
+          [
+            -58.335105,
+            -34.705421
+          ]
+        ]
+      ]
+    },
+    "full_name": "Buenos Aires City Region, Argentina"
+  },
+  "truncated": true,
+  "in_reply_to_status_id_str": "922072895781785601",
+  "in_reply_to_screen_name": "aschapire",
+  "filter_level": "low",
+  "text": "@aschapire Aplicable a much\u00edsimas cosas, empiezo: \n-carga tributaria \"normal\"\n-no m\u00e1s registros del registro, ej. R\u2026 https://t.co/JzS6aCSKI9",
+  "geo": null,
+  "in_reply_to_user_id_str": "525658038",
+  "is_quote_status": false,
+  "display_text_range": [
+    11,
+    140
+  ],
+  "favorited": false,
+  "user": {
+    "verified": true,
+    "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000158172892/7wd-qirR.jpeg",
+    "statuses_count": 160895,
+    "screen_name": "dzapatillas",
+    "default_profile_image": false,
+    "time_zone": "Buenos Aires",
+    "name": "Derecho enZapatillas",
+    "id_str": "335462063",
+    "profile_sidebar_border_color": "000000",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/335462063/1399994569",
+    "created_at": "Thu Jul 14 18:32:25 +0000 2011",
+    "friends_count": 28322,
+    "url": "http://www.derechoenzapatillas.com",
+    "profile_background_tile": true,
+    "protected": false,
+    "translator_type": "none",
+    "profile_text_color": "3E4415",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000471742216/b230cc2098a64149c167ae5411492573_normal.jpeg",
+    "listed_count": 698,
+    "notifications": null,
+    "contributors_enabled": false,
+    "is_translator": false,
+    "location": "Capital Federal",
+    "profile_use_background_image": true,
+    "followers_count": 213912,
+    "profile_sidebar_fill_color": "99CC33",
+    "geo_enabled": true,
+    "profile_link_color": "009BCC",
+    "favourites_count": 163253,
+    "following": null,
+    "default_profile": false,
+    "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000158172892/7wd-qirR.jpeg",
+    "profile_background_color": "11C7DF",
+    "id": 335462063,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/378800000471742216/b230cc2098a64149c167ae5411492573_normal.jpeg",
+    "lang": "en",
+    "description": "Programa de radio Derecho en zapatillas. Un taller legal y cultural. Derecho pr\u00e1ctico para tod@s en el d\u00eda a d\u00eda.",
+    "follow_request_sent": null,
+    "utc_offset": -10800
+  },
+  "extended_tweet": {
+    "entities": {
+      "user_mentions": [
+        {
+          "indices": [
+            0,
+            10
+          ],
+          "name": "Alejo Schapire",
+          "screen_name": "aschapire",
+          "id": 525658038,
+          "id_str": "525658038"
+        }
+      ],
+      "symbols": [],
+      "hashtags": [],
+      "urls": []
+    },
+    "display_text_range": [
+      11,
+      141
+    ],
+    "full_text": "@aschapire Aplicable a much\u00edsimas cosas, empiezo: \n-carga tributaria \"normal\"\n-no m\u00e1s registros del registro, ej. RPA\n-juicio por jurados\n..."
+  },
+  "lang": "es"
+}

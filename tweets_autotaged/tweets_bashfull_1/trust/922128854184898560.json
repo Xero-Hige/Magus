@@ -1,0 +1,128 @@
+{
+  "in_reply_to_user_id": null,
+  "contributors": null,
+  "in_reply_to_screen_name": null,
+  "retweeted": false,
+  "retweet_count": 0,
+  "timestamp_ms": "1508687625820",
+  "in_reply_to_status_id": null,
+  "id_str": "922128854184898560",
+  "created_at": "Sun Oct 22 15:53:45 +0000 2017",
+  "id": 922128854184898560,
+  "coordinates": {
+    "type": "Point",
+    "coordinates": [
+      -56.16348,
+      -34.91059
+    ]
+  },
+  "favorite_count": 0,
+  "entities": {
+    "user_mentions": [],
+    "symbols": [],
+    "hashtags": [],
+    "urls": [
+      {
+        "expanded_url": "https://www.instagram.com/p/BajleqKnl6s/",
+        "indices": [
+          93,
+          116
+        ],
+        "url": "https://t.co/0TRM2X8eVx",
+        "display_url": "instagram.com/p/BajleqKnl6s/"
+      }
+    ]
+  },
+  "reply_count": 0,
+  "source": "<a href=\"http://instagram.com\" rel=\"nofollow\">Instagram</a>",
+  "place": {
+    "attributes": {},
+    "url": "https://api.twitter.com/1.1/geo/id/01a9dbb9232f0fac.json",
+    "place_type": "admin",
+    "id": "01a9dbb9232f0fac",
+    "country_code": "UY",
+    "name": "Montevideo",
+    "country": "Uruguay",
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            -56.430439,
+            -34.937896
+          ],
+          [
+            -56.430439,
+            -34.701599
+          ],
+          [
+            -56.029341,
+            -34.701599
+          ],
+          [
+            -56.029341,
+            -34.937896
+          ]
+        ]
+      ]
+    },
+    "full_name": "Montevideo, Uruguay"
+  },
+  "truncated": false,
+  "in_reply_to_status_id_str": null,
+  "filter_level": "low",
+  "text": "Facultad Arquitectura Montevideo @ FADU Facultad de Arquitectura, Dise\u00f1o y Urbanismo, Udelar https://t.co/0TRM2X8eVx",
+  "geo": {
+    "type": "Point",
+    "coordinates": [
+      -34.91059,
+      -56.16348
+    ]
+  },
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": false,
+  "possibly_sensitive": false,
+  "favorited": false,
+  "user": {
+    "verified": false,
+    "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/650529760/1q8jku5bd5fkxltw4ku6.jpeg",
+    "statuses_count": 4143,
+    "screen_name": "Ar_chungsong",
+    "default_profile_image": false,
+    "time_zone": "Buenos Aires",
+    "name": "Arturo de La Fuente",
+    "id_str": "396984103",
+    "profile_sidebar_border_color": "EEEEEE",
+    "created_at": "Mon Oct 24 02:15:27 +0000 2011",
+    "friends_count": 462,
+    "url": "http://www.arturodelafuente.com",
+    "profile_background_tile": false,
+    "protected": false,
+    "translator_type": "none",
+    "profile_text_color": "333333",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1707123872/304653_10150291707504065_593309064_7735104_7428443_n_normal.jpg",
+    "listed_count": 27,
+    "notifications": null,
+    "contributors_enabled": false,
+    "is_translator": false,
+    "location": "Capital Feferal, buenos Aires",
+    "profile_use_background_image": true,
+    "followers_count": 374,
+    "profile_sidebar_fill_color": "EFEFEF",
+    "geo_enabled": true,
+    "profile_link_color": "140CED",
+    "favourites_count": 190,
+    "following": null,
+    "default_profile": false,
+    "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/650529760/1q8jku5bd5fkxltw4ku6.jpeg",
+    "profile_background_color": "352726",
+    "id": 396984103,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1707123872/304653_10150291707504065_593309064_7735104_7428443_n_normal.jpg",
+    "lang": "es",
+    "description": "Arquitecto, fot\u00f3grafo, practicante de artes marciales (Taekwondo WTF - Kungfu Shaolin Norte\u00f1o), amante del cine y el dibujo.",
+    "follow_request_sent": null,
+    "utc_offset": -10800
+  },
+  "quote_count": 0,
+  "lang": "es"
+}

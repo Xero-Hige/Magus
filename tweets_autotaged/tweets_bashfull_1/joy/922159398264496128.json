@@ -1,0 +1,114 @@
+{
+  "in_reply_to_user_id": null,
+  "contributors": null,
+  "in_reply_to_screen_name": null,
+  "retweeted": false,
+  "retweet_count": 0,
+  "timestamp_ms": "1508694908096",
+  "in_reply_to_status_id": null,
+  "id_str": "922159398264496128",
+  "created_at": "Sun Oct 22 17:55:08 +0000 2017",
+  "id": 922159398264496128,
+  "coordinates": null,
+  "favorite_count": 0,
+  "entities": {
+    "user_mentions": [],
+    "symbols": [],
+    "hashtags": [
+      {
+        "text": "YaVote",
+        "indices": [
+          0,
+          7
+        ]
+      }
+    ],
+    "urls": []
+  },
+  "reply_count": 0,
+  "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+  "place": {
+    "attributes": {},
+    "url": "https://api.twitter.com/1.1/geo/id/018f1cde6bad9747.json",
+    "place_type": "city",
+    "id": "018f1cde6bad9747",
+    "country_code": "AR",
+    "name": "Ciudad Aut\u00f3noma de Buenos Aires",
+    "country": "Argentina",
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            -58.531792,
+            -34.674453
+          ],
+          [
+            -58.531792,
+            -34.534177
+          ],
+          [
+            -58.353494,
+            -34.534177
+          ],
+          [
+            -58.353494,
+            -34.674453
+          ]
+        ]
+      ]
+    },
+    "full_name": "Ciudad Aut\u00f3noma de Buenos Aires, Argentina"
+  },
+  "truncated": false,
+  "in_reply_to_status_id_str": null,
+  "filter_level": "low",
+  "text": "#YaVote Feliz de haber ejercido mi derecho y obligaci\u00f2n en LIBERTAD y en PAZ",
+  "geo": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": false,
+  "favorited": false,
+  "user": {
+    "verified": false,
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme10/bg.gif",
+    "statuses_count": 8180,
+    "screen_name": "normi1000",
+    "default_profile_image": false,
+    "time_zone": null,
+    "name": "norma iudat",
+    "id_str": "170080825",
+    "profile_sidebar_border_color": "65B0DA",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/170080825/1494255011",
+    "created_at": "Fri Jul 23 22:12:53 +0000 2010",
+    "friends_count": 122,
+    "url": null,
+    "profile_background_tile": true,
+    "protected": false,
+    "translator_type": "none",
+    "profile_text_color": "3D1957",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/861605137420349440/yAVPEDRd_normal.jpg",
+    "listed_count": 1,
+    "notifications": null,
+    "contributors_enabled": false,
+    "is_translator": false,
+    "location": "argentina",
+    "profile_use_background_image": true,
+    "followers_count": 131,
+    "profile_sidebar_fill_color": "7AC3EE",
+    "geo_enabled": true,
+    "profile_link_color": "FF0000",
+    "favourites_count": 4305,
+    "following": null,
+    "default_profile": false,
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme10/bg.gif",
+    "profile_background_color": "642D8B",
+    "id": 170080825,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/861605137420349440/yAVPEDRd_normal.jpg",
+    "lang": "es",
+    "description": "Mujer q le gusta la vida y agradece cada ma\u00f1ana a Dios por ella y por la proteccion hacia los seres queridos\r\nA disfrutar LA VIDA con AMOR! VIVIR Y DEJAR VIVIR!",
+    "follow_request_sent": null,
+    "utc_offset": null
+  },
+  "quote_count": 0,
+  "lang": "es"
+}

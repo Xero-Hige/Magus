@@ -1,0 +1,114 @@
+{
+  "entities": {
+    "hashtags": [
+      {
+        "indices": [
+          122,
+          138
+        ],
+        "text": "InformeEspecial"
+      }
+    ],
+    "symbols": [],
+    "urls": [],
+    "user_mentions": []
+  },
+  "in_reply_to_user_id": null,
+  "created_at": "Mon Oct 23 01:07:17 +0000 2017",
+  "favorite_count": 0,
+  "lang": "es",
+  "reply_count": 0,
+  "id_str": "922268154402885632",
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_status_id": null,
+  "timestamp_ms": "1508720837580",
+  "text": "Ver sufrir a una madre por la p\u00e9rdida de un hijo es lo m\u00e1s terrible y se pudo haber evitado, si existieran restricciones. #InformeEspecial",
+  "user": {
+    "time_zone": null,
+    "screen_name": "berta_arriaza",
+    "utc_offset": null,
+    "created_at": "Fri Mar 25 01:31:44 +0000 2016",
+    "profile_background_tile": false,
+    "notifications": null,
+    "lang": "es",
+    "default_profile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/713176507557015552/1495501990",
+    "id_str": "713176507557015552",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/904466848879607808/xaTcBPo7_normal.jpg",
+    "name": "Berta Arriaza C",
+    "friends_count": 365,
+    "translator_type": "none",
+    "protected": false,
+    "following": null,
+    "is_translator": false,
+    "follow_request_sent": null,
+    "profile_text_color": "333333",
+    "listed_count": 1,
+    "profile_link_color": "1DA1F2",
+    "profile_background_image_url": "",
+    "url": null,
+    "id": 713176507557015552,
+    "favourites_count": 106,
+    "profile_background_color": "F5F8FA",
+    "followers_count": 243,
+    "statuses_count": 2431,
+    "description": "Si quieres entender algo de verdad, intenta cambiarlo (Kurt Lewin)",
+    "location": "Chile",
+    "profile_background_image_url_https": "",
+    "default_profile_image": false,
+    "verified": false,
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_use_background_image": true,
+    "contributors_enabled": false,
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/904466848879607808/xaTcBPo7_normal.jpg",
+    "geo_enabled": true
+  },
+  "geo": null,
+  "id": 922268154402885632,
+  "quote_count": 0,
+  "retweeted": false,
+  "filter_level": "low",
+  "in_reply_to_status_id_str": null,
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "favorited": false,
+  "coordinates": null,
+  "truncated": false,
+  "retweet_count": 0,
+  "is_quote_status": false,
+  "in_reply_to_screen_name": null,
+  "contributors": null,
+  "place": {
+    "bounding_box": {
+      "coordinates": [
+        [
+          [
+            -70.628327,
+            -25.402127
+          ],
+          [
+            -70.628327,
+            -23.054512
+          ],
+          [
+            -68.067941,
+            -23.054512
+          ],
+          [
+            -68.067941,
+            -25.402127
+          ]
+        ]
+      ],
+      "type": "Polygon"
+    },
+    "name": "Antofagasta",
+    "url": "https://api.twitter.com/1.1/geo/id/002442586af0948e.json",
+    "country_code": "CL",
+    "id": "002442586af0948e",
+    "place_type": "city",
+    "attributes": {},
+    "full_name": "Antofagasta, Chile",
+    "country": "Chile"
+  }
+}

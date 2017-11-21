@@ -1,0 +1,105 @@
+{
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "urls": [],
+    "user_mentions": []
+  },
+  "in_reply_to_user_id": null,
+  "created_at": "Sun Oct 22 21:03:23 +0000 2017",
+  "favorite_count": 0,
+  "lang": "es",
+  "reply_count": 0,
+  "id_str": "922206773498564609",
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_status_id": null,
+  "timestamp_ms": "1508706203232",
+  "text": "si es verdad que carrio saca mas votos que en las PASO, nuestra sociedad tiene un problema muy muy grave.",
+  "user": {
+    "time_zone": "Santiago",
+    "screen_name": "malenita",
+    "utc_offset": -10800,
+    "created_at": "Sun Aug 05 02:11:21 +0000 2007",
+    "profile_background_tile": false,
+    "notifications": null,
+    "lang": "en",
+    "default_profile": false,
+    "follow_request_sent": null,
+    "id_str": "7964222",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/378800000271980273/9bdaca0a8fffaaea41253fb5debf6a19_normal.jpeg",
+    "name": "malenita",
+    "friends_count": 166,
+    "translator_type": "none",
+    "protected": false,
+    "following": null,
+    "is_translator": false,
+    "profile_text_color": "333333",
+    "listed_count": 1,
+    "profile_link_color": "93A644",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+    "url": null,
+    "id": 7964222,
+    "favourites_count": 1594,
+    "profile_background_color": "B2DFDA",
+    "followers_count": 76,
+    "statuses_count": 2350,
+    "description": "profesora en letras",
+    "location": "Buenos Aires",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+    "default_profile_image": false,
+    "verified": false,
+    "profile_sidebar_fill_color": "FFFFFF",
+    "profile_use_background_image": true,
+    "contributors_enabled": false,
+    "profile_sidebar_border_color": "EEEEEE",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000271980273/9bdaca0a8fffaaea41253fb5debf6a19_normal.jpeg",
+    "geo_enabled": true
+  },
+  "geo": null,
+  "id": 922206773498564609,
+  "quote_count": 0,
+  "retweeted": false,
+  "filter_level": "low",
+  "in_reply_to_status_id_str": null,
+  "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+  "favorited": false,
+  "coordinates": null,
+  "truncated": false,
+  "retweet_count": 0,
+  "is_quote_status": false,
+  "in_reply_to_screen_name": null,
+  "contributors": null,
+  "place": {
+    "bounding_box": {
+      "coordinates": [
+        [
+          [
+            -58.531792,
+            -34.705421
+          ],
+          [
+            -58.531792,
+            -34.526466
+          ],
+          [
+            -58.335105,
+            -34.526466
+          ],
+          [
+            -58.335105,
+            -34.705421
+          ]
+        ]
+      ],
+      "type": "Polygon"
+    },
+    "name": "Buenos Aires City Region",
+    "url": "https://api.twitter.com/1.1/geo/id/1ed82be977be0cfa.json",
+    "country_code": "AR",
+    "id": "1ed82be977be0cfa",
+    "place_type": "admin",
+    "attributes": {},
+    "full_name": "Buenos Aires City Region, Argentina",
+    "country": "Argentina"
+  }
+}

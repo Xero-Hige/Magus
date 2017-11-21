@@ -1,0 +1,129 @@
+{
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "urls": [
+      {
+        "indices": [
+          90,
+          113
+        ],
+        "expanded_url": "https://www.instagram.com/p/BakVv_GDgDb/",
+        "display_url": "instagram.com/p/BakVv_GDgDb/",
+        "url": "https://t.co/WDrD39Cn4U"
+      }
+    ],
+    "user_mentions": []
+  },
+  "in_reply_to_user_id": null,
+  "created_at": "Sun Oct 22 22:55:17 +0000 2017",
+  "favorite_count": 0,
+  "lang": "es",
+  "reply_count": 0,
+  "id_str": "922234934172975104",
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_status_id": null,
+  "timestamp_ms": "1508712917260",
+  "possibly_sensitive": false,
+  "text": "Maestro c\u00f3smico de la play ...say babaplay en Esteban Echeverr\u00eda, Buenos Aires, Argentina https://t.co/WDrD39Cn4U",
+  "user": {
+    "time_zone": null,
+    "screen_name": "claura77",
+    "utc_offset": null,
+    "created_at": "Mon Jun 21 19:58:43 +0000 2010",
+    "profile_background_tile": false,
+    "notifications": null,
+    "lang": "es",
+    "default_profile": false,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/158103342/1419597369",
+    "id_str": "158103342",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/921209532176625664/_J65LpzZ_normal.jpg",
+    "name": "claudiojavierramirez",
+    "friends_count": 657,
+    "translator_type": "none",
+    "protected": false,
+    "following": null,
+    "is_translator": false,
+    "follow_request_sent": null,
+    "profile_text_color": "000000",
+    "listed_count": 1,
+    "profile_link_color": "9266CC",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+    "url": null,
+    "id": 158103342,
+    "favourites_count": 299,
+    "profile_background_color": "000000",
+    "followers_count": 96,
+    "statuses_count": 1405,
+    "description": "Las flores nacen, despu\u00e9s se marchitan... las estrellas brillan,Todo en un s\u00f3lo momento y despu\u00e9s, son abrazados por ese sue\u00f1o eterno llamado muerte.",
+    "location": "ezeiza",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+    "default_profile_image": false,
+    "verified": false,
+    "profile_sidebar_fill_color": "000000",
+    "profile_use_background_image": false,
+    "contributors_enabled": false,
+    "profile_sidebar_border_color": "000000",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/921209532176625664/_J65LpzZ_normal.jpg",
+    "geo_enabled": true
+  },
+  "geo": {
+    "coordinates": [
+      -34.815,
+      -58.4792
+    ],
+    "type": "Point"
+  },
+  "id": 922234934172975104,
+  "quote_count": 0,
+  "retweeted": false,
+  "filter_level": "low",
+  "in_reply_to_status_id_str": null,
+  "source": "<a href=\"http://instagram.com\" rel=\"nofollow\">Instagram</a>",
+  "favorited": false,
+  "coordinates": {
+    "coordinates": [
+      -58.4792,
+      -34.815
+    ],
+    "type": "Point"
+  },
+  "truncated": false,
+  "retweet_count": 0,
+  "is_quote_status": false,
+  "in_reply_to_screen_name": null,
+  "contributors": null,
+  "place": {
+    "bounding_box": {
+      "coordinates": [
+        [
+          [
+            -58.515675,
+            -34.907559
+          ],
+          [
+            -58.515675,
+            -34.723106
+          ],
+          [
+            -58.43041,
+            -34.723106
+          ],
+          [
+            -58.43041,
+            -34.907559
+          ]
+        ]
+      ],
+      "type": "Polygon"
+    },
+    "name": "Monte Grande",
+    "url": "https://api.twitter.com/1.1/geo/id/013044056c4adf51.json",
+    "country_code": "AR",
+    "id": "013044056c4adf51",
+    "place_type": "city",
+    "attributes": {},
+    "full_name": "Monte Grande, Argentina",
+    "country": "Argentina"
+  }
+}

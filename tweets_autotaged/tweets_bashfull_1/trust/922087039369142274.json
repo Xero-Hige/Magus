@@ -1,0 +1,131 @@
+{
+  "in_reply_to_user_id": null,
+  "contributors": null,
+  "in_reply_to_screen_name": null,
+  "retweeted": false,
+  "retweet_count": 0,
+  "timestamp_ms": "1508677656391",
+  "in_reply_to_status_id": null,
+  "id_str": "922087039369142274",
+  "created_at": "Sun Oct 22 13:07:36 +0000 2017",
+  "id": 922087039369142274,
+  "coordinates": null,
+  "favorite_count": 0,
+  "entities": {
+    "user_mentions": [
+      {
+        "indices": [
+          98,
+          108
+        ],
+        "name": "Hugo Alconada Mon",
+        "screen_name": "halconada",
+        "id": 80396134,
+        "id_str": "80396134"
+      }
+    ],
+    "symbols": [],
+    "hashtags": [
+      {
+        "text": "EleccionesArgentina",
+        "indices": [
+          58,
+          78
+        ]
+      },
+      {
+        "text": "Elecciones2017",
+        "indices": [
+          80,
+          95
+        ]
+      }
+    ],
+    "urls": []
+  },
+  "reply_count": 0,
+  "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+  "place": {
+    "attributes": {},
+    "url": "https://api.twitter.com/1.1/geo/id/4afa2757051c5192.json",
+    "place_type": "admin",
+    "id": "4afa2757051c5192",
+    "country_code": "AR",
+    "name": "Buenos Aires",
+    "country": "Argentina",
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            -63.39386,
+            -41.035009
+          ],
+          [
+            -63.39386,
+            -33.260144
+          ],
+          [
+            -56.665836,
+            -33.260144
+          ],
+          [
+            -56.665836,
+            -41.035009
+          ]
+        ]
+      ]
+    },
+    "full_name": "Buenos Aires, Argentina"
+  },
+  "truncated": false,
+  "in_reply_to_status_id_str": null,
+  "filter_level": "low",
+  "text": "Comunicaci\u00f3n + Democracia = Una Naci\u00f3n en Libertad\ud83c\udde6\ud83c\uddf7\n \ud83d\udce6\ud83d\udce9  #EleccionesArgentina  #Elecciones2017 \ud83d\udd55\n@halconada",
+  "geo": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": false,
+  "favorited": false,
+  "user": {
+    "verified": false,
+    "profile_background_image_url": "",
+    "statuses_count": 5,
+    "screen_name": "sm_mlo",
+    "default_profile_image": false,
+    "time_zone": null,
+    "name": "MKTONLINE",
+    "id_str": "919382934305628160",
+    "profile_sidebar_border_color": "C0DEED",
+    "created_at": "Sun Oct 15 02:02:27 +0000 2017",
+    "friends_count": 66,
+    "url": "http://www.mktonline.com.ar",
+    "profile_background_tile": false,
+    "protected": false,
+    "translator_type": "none",
+    "profile_text_color": "333333",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/919386700018839552/N5bR6JSK_normal.jpg",
+    "listed_count": 0,
+    "notifications": null,
+    "contributors_enabled": false,
+    "is_translator": false,
+    "location": "Buenos Aires, Argentina",
+    "profile_use_background_image": true,
+    "followers_count": 0,
+    "profile_sidebar_fill_color": "DDEEF6",
+    "geo_enabled": true,
+    "profile_link_color": "1DA1F2",
+    "favourites_count": 0,
+    "following": null,
+    "default_profile": true,
+    "profile_background_image_url_https": "",
+    "profile_background_color": "F5F8FA",
+    "id": 919382934305628160,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/919386700018839552/N5bR6JSK_normal.jpg",
+    "lang": "es",
+    "description": "J\u00f3venes y profesionales. Te llevamos al Mundo Digital \ud83d\udcf2\ud83d\udcbbpara optimizar \ud83d\udca1tu imagen corporativa haciendo que los potenciales clientes se conviertan\ud83d\udcc8 en reales.",
+    "follow_request_sent": null,
+    "utc_offset": null
+  },
+  "quote_count": 0,
+  "lang": "es"
+}

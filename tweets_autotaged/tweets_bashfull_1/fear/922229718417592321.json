@@ -1,0 +1,154 @@
+{
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "urls": [
+      {
+        "indices": [
+          117,
+          140
+        ],
+        "expanded_url": "https://twitter.com/i/web/status/922229718417592321",
+        "display_url": "twitter.com/i/web/status/9\u2026",
+        "url": "https://t.co/W62UZ7QNrl"
+      }
+    ],
+    "user_mentions": [
+      {
+        "indices": [
+          0,
+          11
+        ],
+        "screen_name": "mariuvidal",
+        "name": "Mar\u00eda Eugenia Vidal",
+        "id_str": "109040582",
+        "id": 109040582
+      }
+    ]
+  },
+  "in_reply_to_user_id": 109040582,
+  "created_at": "Sun Oct 22 22:34:33 +0000 2017",
+  "favorite_count": 0,
+  "lang": "es",
+  "reply_count": 0,
+  "id_str": "922229718417592321",
+  "in_reply_to_user_id_str": "109040582",
+  "extended_tweet": {
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "urls": [],
+      "user_mentions": [
+        {
+          "indices": [
+            0,
+            11
+          ],
+          "screen_name": "mariuvidal",
+          "name": "Mar\u00eda Eugenia Vidal",
+          "id_str": "109040582",
+          "id": 109040582
+        }
+      ]
+    },
+    "display_text_range": [
+      12,
+      151
+    ],
+    "full_text": "@mariuvidal Uds.son la DICTADURA por sus CULPAS EL PAIS SUFRIRA MUCHO VEREMOS MORIR NI\u00d1OS,ANCIANOS,DISCAPACITADOS TODO POR SUS PECADOS;LLORAREMOS MUCHO"
+  },
+  "in_reply_to_status_id": 922085088048893952,
+  "timestamp_ms": "1508711673727",
+  "truncated": true,
+  "text": "@mariuvidal Uds.son la DICTADURA por sus CULPAS EL PAIS SUFRIRA MUCHO VEREMOS MORIR NI\u00d1OS,ANCIANOS,DISCAPACITADOS T\u2026 https://t.co/W62UZ7QNrl",
+  "user": {
+    "time_zone": null,
+    "screen_name": "RicardoRienzi1",
+    "utc_offset": null,
+    "created_at": "Fri Jul 01 15:00:37 +0000 2016",
+    "profile_background_tile": false,
+    "notifications": null,
+    "lang": "es",
+    "default_profile": true,
+    "follow_request_sent": null,
+    "id_str": "748894082139885568",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/813071399661268992/_SUWzHks_normal.jpg",
+    "name": "Ricardo Rienzi",
+    "friends_count": 284,
+    "translator_type": "none",
+    "protected": false,
+    "following": null,
+    "is_translator": false,
+    "profile_text_color": "333333",
+    "listed_count": 1,
+    "profile_link_color": "1DA1F2",
+    "profile_background_image_url": "",
+    "url": null,
+    "id": 748894082139885568,
+    "favourites_count": 72,
+    "profile_background_color": "F5F8FA",
+    "followers_count": 84,
+    "statuses_count": 3061,
+    "description": "Mayo 03 de 1954-Rosario-Sta Fe-catolico.Leproso-4hijost y 5nietos.-peronista.ES NECESARIO DECIR LA VERDAD;PERO NO Q.LA VERDAD SEA DICHA.-m\u00fasica cl\u00e1sica",
+    "location": "Santa F\u00e9, Argentina",
+    "profile_background_image_url_https": "",
+    "default_profile_image": false,
+    "verified": false,
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_use_background_image": true,
+    "contributors_enabled": false,
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/813071399661268992/_SUWzHks_normal.jpg",
+    "geo_enabled": true
+  },
+  "geo": null,
+  "id": 922229718417592321,
+  "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+  "retweeted": false,
+  "filter_level": "low",
+  "in_reply_to_status_id_str": "922085088048893952",
+  "quote_count": 0,
+  "favorited": false,
+  "coordinates": null,
+  "display_text_range": [
+    12,
+    140
+  ],
+  "retweet_count": 0,
+  "is_quote_status": false,
+  "in_reply_to_screen_name": "mariuvidal",
+  "contributors": null,
+  "place": {
+    "bounding_box": {
+      "coordinates": [
+        [
+          [
+            -60.781306,
+            -33.033993
+          ],
+          [
+            -60.781306,
+            -32.869238
+          ],
+          [
+            -60.613506,
+            -32.869238
+          ],
+          [
+            -60.613506,
+            -33.033993
+          ]
+        ]
+      ],
+      "type": "Polygon"
+    },
+    "name": "Rosario",
+    "url": "https://api.twitter.com/1.1/geo/id/0079bbc151fa56d2.json",
+    "country_code": "AR",
+    "id": "0079bbc151fa56d2",
+    "place_type": "city",
+    "attributes": {},
+    "full_name": "Rosario, Argentina",
+    "country": "Argentina"
+  }
+}

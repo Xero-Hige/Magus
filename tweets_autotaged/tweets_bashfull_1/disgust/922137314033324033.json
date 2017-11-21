@@ -1,0 +1,120 @@
+{
+  "in_reply_to_user_id": 172976690,
+  "contributors": null,
+  "id": 922137314033324033,
+  "retweeted": false,
+  "retweet_count": 0,
+  "timestamp_ms": "1508689642805",
+  "in_reply_to_status_id": 921793173759905792,
+  "id_str": "922137314033324033",
+  "created_at": "Sun Oct 22 16:27:22 +0000 2017",
+  "coordinates": null,
+  "favorite_count": 0,
+  "entities": {
+    "user_mentions": [
+      {
+        "indices": [
+          0,
+          12
+        ],
+        "name": "Beto Hanalfa",
+        "screen_name": "hanalfabeto",
+        "id": 172976690,
+        "id_str": "172976690"
+      }
+    ],
+    "symbols": [],
+    "hashtags": [],
+    "urls": []
+  },
+  "reply_count": 0,
+  "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+  "place": {
+    "attributes": {},
+    "url": "https://api.twitter.com/1.1/geo/id/00f84d414936f28e.json",
+    "place_type": "city",
+    "id": "00f84d414936f28e",
+    "country_code": "AR",
+    "name": "C\u00f3rdoba",
+    "country": "Argentina",
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            -64.3195,
+            -31.523576
+          ],
+          [
+            -64.3195,
+            -31.307337
+          ],
+          [
+            -64.076551,
+            -31.307337
+          ],
+          [
+            -64.076551,
+            -31.523576
+          ]
+        ]
+      ]
+    },
+    "full_name": "C\u00f3rdoba, Argentina"
+  },
+  "truncated": false,
+  "in_reply_to_status_id_str": "921793173759905792",
+  "in_reply_to_screen_name": "hanalfabeto",
+  "filter_level": "low",
+  "text": "@hanalfabeto BETO , MOMENTO DOLOROSO , SI LOS HAY\nQ BUENO Q TENGAS ESE HUMOR , ES UN BUEN COMPA\u00d1ERO Q AYUDA MUCHO .\nUN ABRAZO",
+  "geo": null,
+  "in_reply_to_user_id_str": "172976690",
+  "is_quote_status": false,
+  "display_text_range": [
+    13,
+    125
+  ],
+  "favorited": false,
+  "user": {
+    "verified": false,
+    "profile_background_image_url": "",
+    "statuses_count": 7342,
+    "screen_name": "SilviaD62096282",
+    "default_profile_image": false,
+    "time_zone": null,
+    "name": "Silvia Delgado",
+    "id_str": "862168608964833280",
+    "profile_sidebar_border_color": "C0DEED",
+    "created_at": "Wed May 10 04:53:09 +0000 2017",
+    "friends_count": 97,
+    "url": null,
+    "profile_background_tile": false,
+    "protected": false,
+    "translator_type": "none",
+    "profile_text_color": "333333",
+    "profile_image_url_https": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+    "listed_count": 0,
+    "notifications": null,
+    "contributors_enabled": false,
+    "is_translator": false,
+    "location": "C\u00f3rdoba, Argentina",
+    "profile_use_background_image": true,
+    "followers_count": 69,
+    "profile_sidebar_fill_color": "DDEEF6",
+    "geo_enabled": true,
+    "profile_link_color": "1DA1F2",
+    "favourites_count": 1206,
+    "following": null,
+    "default_profile": true,
+    "profile_background_image_url_https": "",
+    "profile_background_color": "F5F8FA",
+    "id": 862168608964833280,
+    "profile_image_url": "http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+    "lang": "es",
+    "description": "MUJER , MAMA , ABUELA",
+    "follow_request_sent": null,
+    "utc_offset": null
+  },
+  "quote_count": 0,
+  "lang": "es"
+}

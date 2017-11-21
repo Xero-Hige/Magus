@@ -1,0 +1,155 @@
+{
+  "in_reply_to_user_id": 4115702241,
+  "contributors": null,
+  "id": 922032719844052992,
+  "retweeted": false,
+  "retweet_count": 0,
+  "timestamp_ms": "1508664705607",
+  "in_reply_to_status_id": 922031592423542784,
+  "id_str": "922032719844052992",
+  "coordinates": null,
+  "created_at": "Sun Oct 22 09:31:45 +0000 2017",
+  "quote_count": 0,
+  "favorite_count": 0,
+  "entities": {
+    "user_mentions": [
+      {
+        "indices": [
+          0,
+          9
+        ],
+        "name": "Luis Battaglia",
+        "screen_name": "pagibatt",
+        "id": 4115702241,
+        "id_str": "4115702241"
+      }
+    ],
+    "symbols": [],
+    "hashtags": [],
+    "urls": [
+      {
+        "expanded_url": "https://twitter.com/i/web/status/922032719844052992",
+        "indices": [
+          117,
+          140
+        ],
+        "url": "https://t.co/AIzAdwP8tU",
+        "display_url": "twitter.com/i/web/status/9\u2026"
+      }
+    ]
+  },
+  "reply_count": 0,
+  "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+  "place": {
+    "attributes": {},
+    "url": "https://api.twitter.com/1.1/geo/id/018f1cde6bad9747.json",
+    "place_type": "city",
+    "id": "018f1cde6bad9747",
+    "country_code": "AR",
+    "name": "Ciudad Aut\u00f3noma de Buenos Aires",
+    "country": "Argentina",
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            -58.531792,
+            -34.674453
+          ],
+          [
+            -58.531792,
+            -34.534177
+          ],
+          [
+            -58.353494,
+            -34.534177
+          ],
+          [
+            -58.353494,
+            -34.674453
+          ]
+        ]
+      ]
+    },
+    "full_name": "Ciudad Aut\u00f3noma de Buenos Aires, Argentina"
+  },
+  "truncated": true,
+  "in_reply_to_status_id_str": "922031592423542784",
+  "in_reply_to_screen_name": "pagibatt",
+  "filter_level": "low",
+  "text": "@pagibatt Es la presidenta de la Comisi\u00f3n de DDHH, no recibio a la v\u00edctimas de Milagro Sala pero sale con teor\u00edas c\u2026 https://t.co/AIzAdwP8tU",
+  "geo": null,
+  "in_reply_to_user_id_str": "4115702241",
+  "is_quote_status": false,
+  "display_text_range": [
+    10,
+    140
+  ],
+  "favorited": false,
+  "user": {
+    "verified": false,
+    "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/682253630087495680/XSL8MiiC.png",
+    "statuses_count": 145232,
+    "screen_name": "eepbustos",
+    "default_profile_image": false,
+    "time_zone": "Buenos Aires",
+    "name": "\u00b1 Emilio Bustos",
+    "id_str": "202394218",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/202394218/1410114727",
+    "created_at": "Wed Oct 13 23:24:02 +0000 2010",
+    "friends_count": 3201,
+    "url": "http://www.bustos.com.ar",
+    "profile_background_tile": true,
+    "protected": false,
+    "translator_type": "none",
+    "profile_text_color": "333333",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/813172251310878720/fkvNn-lI_normal.jpg",
+    "listed_count": 46,
+    "notifications": null,
+    "contributors_enabled": false,
+    "is_translator": false,
+    "location": "Ciudad Aut\u00f3noma de Buenos Aire",
+    "profile_use_background_image": true,
+    "followers_count": 2243,
+    "profile_sidebar_fill_color": "DDEEF6",
+    "geo_enabled": true,
+    "profile_link_color": "FF691F",
+    "favourites_count": 189813,
+    "following": null,
+    "default_profile": false,
+    "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/682253630087495680/XSL8MiiC.png",
+    "profile_background_color": "3B94D9",
+    "id": 202394218,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/813172251310878720/fkvNn-lI_normal.jpg",
+    "lang": "es",
+    "description": "1-No soy un genio  soy una persona terriblemente curiosa. \n\n2-Me hago responsable de lo que digo, no de lo que los dem\u00e1s entiendan.\nInstagram eepbustos",
+    "follow_request_sent": null,
+    "utc_offset": -10800
+  },
+  "extended_tweet": {
+    "entities": {
+      "user_mentions": [
+        {
+          "indices": [
+            0,
+            9
+          ],
+          "name": "Luis Battaglia",
+          "screen_name": "pagibatt",
+          "id": 4115702241,
+          "id_str": "4115702241"
+        }
+      ],
+      "symbols": [],
+      "hashtags": [],
+      "urls": []
+    },
+    "display_text_range": [
+      10,
+      142
+    ],
+    "full_text": "@pagibatt Es la presidenta de la Comisi\u00f3n de DDHH, no recibio a la v\u00edctimas de Milagro Sala pero sale con teor\u00edas conspirativas sin fundamento"
+  },
+  "lang": "es"
+}

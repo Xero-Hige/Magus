@@ -1,0 +1,155 @@
+{
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "urls": [
+      {
+        "indices": [
+          117,
+          140
+        ],
+        "expanded_url": "https://twitter.com/i/web/status/922261768335917056",
+        "display_url": "twitter.com/i/web/status/9\u2026",
+        "url": "https://t.co/BsvuHDWhzj"
+      }
+    ],
+    "user_mentions": [
+      {
+        "indices": [
+          0,
+          12
+        ],
+        "screen_name": "LucasRenou1",
+        "name": "Lucas Renou",
+        "id_str": "839555153753686016",
+        "id": 839555153753686016
+      }
+    ]
+  },
+  "in_reply_to_user_id": 839555153753686016,
+  "created_at": "Mon Oct 23 00:41:55 +0000 2017",
+  "favorite_count": 0,
+  "lang": "es",
+  "reply_count": 0,
+  "id_str": "922261768335917056",
+  "in_reply_to_user_id_str": "839555153753686016",
+  "extended_tweet": {
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "urls": [],
+      "user_mentions": [
+        {
+          "indices": [
+            0,
+            12
+          ],
+          "screen_name": "LucasRenou1",
+          "name": "Lucas Renou",
+          "id_str": "839555153753686016",
+          "id": 839555153753686016
+        }
+      ]
+    },
+    "display_text_range": [
+      13,
+      153
+    ],
+    "full_text": "@LucasRenou1 Jajajaa uno agarra lo que les conviene tendr\u00edas que decir. Piensan en hoy, y no en un futuro. Vaya, vaya, festeje que es todo gratis jajajaj"
+  },
+  "in_reply_to_status_id": 922261365145862145,
+  "timestamp_ms": "1508719315023",
+  "truncated": true,
+  "text": "@LucasRenou1 Jajajaa uno agarra lo que les conviene tendr\u00edas que decir. Piensan en hoy, y no en un futuro. Vaya, va\u2026 https://t.co/BsvuHDWhzj",
+  "user": {
+    "time_zone": "Eastern Time (US & Canada)",
+    "screen_name": "coronel_c",
+    "utc_offset": -14400,
+    "created_at": "Fri Jun 29 03:41:06 +0000 2012",
+    "profile_background_tile": true,
+    "notifications": null,
+    "lang": "es",
+    "default_profile": false,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/621541288/1498607789",
+    "id_str": "621541288",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/918304276086185986/oBU75aTF_normal.jpg",
+    "name": "Cami Coronel",
+    "friends_count": 1447,
+    "translator_type": "none",
+    "protected": false,
+    "following": null,
+    "is_translator": false,
+    "follow_request_sent": null,
+    "profile_text_color": "333333",
+    "listed_count": 3,
+    "profile_link_color": "F0607D",
+    "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/545692055926620161/a_GCAl1x.jpeg",
+    "url": "https://www.instagram.com/camila.coronel/",
+    "id": 621541288,
+    "favourites_count": 2769,
+    "profile_background_color": "DBE9ED",
+    "followers_count": 2271,
+    "statuses_count": 26572,
+    "description": "No hay nada que so\u00f1ar me impida \n||Bostera soy y boca es la alegr\u00eda de mi coraz\u00f3n|| Hockeeey\u2764",
+    "location": "Nueva Galia (San Luis)",
+    "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/545692055926620161/a_GCAl1x.jpeg",
+    "default_profile_image": false,
+    "verified": false,
+    "profile_sidebar_fill_color": "E6F6F9",
+    "profile_use_background_image": true,
+    "contributors_enabled": false,
+    "profile_sidebar_border_color": "FFFFFF",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/918304276086185986/oBU75aTF_normal.jpg",
+    "geo_enabled": true
+  },
+  "geo": null,
+  "id": 922261768335917056,
+  "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+  "retweeted": false,
+  "filter_level": "low",
+  "in_reply_to_status_id_str": "922261365145862145",
+  "quote_count": 0,
+  "favorited": false,
+  "coordinates": null,
+  "display_text_range": [
+    13,
+    140
+  ],
+  "retweet_count": 0,
+  "is_quote_status": false,
+  "in_reply_to_screen_name": "LucasRenou1",
+  "contributors": null,
+  "place": {
+    "bounding_box": {
+      "coordinates": [
+        [
+          [
+            -67.387571,
+            -35.999112
+          ],
+          [
+            -67.387571,
+            -31.868033
+          ],
+          [
+            -64.881098,
+            -31.868033
+          ],
+          [
+            -64.881098,
+            -35.999112
+          ]
+        ]
+      ],
+      "type": "Polygon"
+    },
+    "name": "San Luis",
+    "url": "https://api.twitter.com/1.1/geo/id/056f095744ceb021.json",
+    "country_code": "AR",
+    "id": "056f095744ceb021",
+    "place_type": "admin",
+    "attributes": {},
+    "full_name": "San Luis, Argentina",
+    "country": "Argentina"
+  }
+}

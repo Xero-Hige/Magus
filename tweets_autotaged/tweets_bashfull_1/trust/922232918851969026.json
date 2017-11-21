@@ -1,0 +1,117 @@
+{
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "indices": [
+          57,
+          73
+        ],
+        "screen_name": "shegoelbigoteee",
+        "name": "Juan",
+        "id_str": "114603798",
+        "id": 114603798
+      }
+    ]
+  },
+  "in_reply_to_user_id": null,
+  "created_at": "Sun Oct 22 22:47:16 +0000 2017",
+  "favorite_count": 0,
+  "lang": "es",
+  "reply_count": 0,
+  "id_str": "922232918851969026",
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_status_id": null,
+  "timestamp_ms": "1508712436770",
+  "text": "Gran asesor\u00eda en la designaci\u00f3n de \u00e1rbitros por parte de @shegoelbigoteee, aunque podr\u00eda haber sido peor y recomendar a Bascu\u00f1\u00e1n.",
+  "user": {
+    "time_zone": "Santiago",
+    "screen_name": "IverRiquelme",
+    "utc_offset": -10800,
+    "created_at": "Thu Apr 09 18:26:48 +0000 2009",
+    "profile_background_tile": true,
+    "notifications": null,
+    "lang": "en",
+    "default_profile": false,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/30036638/1406471232",
+    "id_str": "30036638",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/493402017667489793/C78_uEVa_normal.jpeg",
+    "name": "Iver",
+    "friends_count": 560,
+    "translator_type": "none",
+    "protected": false,
+    "following": null,
+    "is_translator": false,
+    "follow_request_sent": null,
+    "profile_text_color": "333333",
+    "listed_count": 2,
+    "profile_link_color": "0084B4",
+    "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/14755378/celtics.jpg",
+    "url": "http://www.credia.cl",
+    "id": 30036638,
+    "favourites_count": 1561,
+    "profile_background_color": "9AE4E8",
+    "followers_count": 110,
+    "statuses_count": 3055,
+    "description": "Padre, emprendedor y m\u00fasico (en ese orden). No creo en religiones ni pol\u00edticos. Hincha de @UEoficial, @redsox y @Celtics, experto en @thebeatles",
+    "location": "Santiago",
+    "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/14755378/celtics.jpg",
+    "default_profile_image": false,
+    "verified": false,
+    "profile_sidebar_fill_color": "DDFFCC",
+    "profile_use_background_image": true,
+    "contributors_enabled": false,
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/493402017667489793/C78_uEVa_normal.jpeg",
+    "geo_enabled": true
+  },
+  "geo": null,
+  "id": 922232918851969026,
+  "quote_count": 0,
+  "retweeted": false,
+  "filter_level": "low",
+  "in_reply_to_status_id_str": null,
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "favorited": false,
+  "coordinates": null,
+  "truncated": false,
+  "retweet_count": 0,
+  "is_quote_status": false,
+  "in_reply_to_screen_name": null,
+  "contributors": null,
+  "place": {
+    "bounding_box": {
+      "coordinates": [
+        [
+          [
+            -70.692959,
+            -33.478574
+          ],
+          [
+            -70.692959,
+            -33.425749
+          ],
+          [
+            -70.626272,
+            -33.425749
+          ],
+          [
+            -70.626272,
+            -33.478574
+          ]
+        ]
+      ],
+      "type": "Polygon"
+    },
+    "name": "Santiago",
+    "url": "https://api.twitter.com/1.1/geo/id/0010b4cb51ca93d8.json",
+    "country_code": "CL",
+    "id": "0010b4cb51ca93d8",
+    "place_type": "city",
+    "attributes": {},
+    "full_name": "Santiago, Chile",
+    "country": "Chile"
+  }
+}

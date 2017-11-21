@@ -1,0 +1,105 @@
+{
+  "in_reply_to_user_id": null,
+  "contributors": null,
+  "in_reply_to_screen_name": null,
+  "retweeted": false,
+  "retweet_count": 0,
+  "timestamp_ms": "1508671879197",
+  "in_reply_to_status_id": null,
+  "id_str": "922062808061267973",
+  "created_at": "Sun Oct 22 11:31:19 +0000 2017",
+  "id": 922062808061267973,
+  "coordinates": null,
+  "favorite_count": 0,
+  "entities": {
+    "user_mentions": [],
+    "symbols": [],
+    "hashtags": [],
+    "urls": []
+  },
+  "reply_count": 0,
+  "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+  "place": {
+    "attributes": {},
+    "url": "https://api.twitter.com/1.1/geo/id/d0f5be1262dee9aa.json",
+    "place_type": "country",
+    "id": "d0f5be1262dee9aa",
+    "country_code": "UY",
+    "name": "Uruguay",
+    "country": "Uruguay",
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            -58.491052,
+            -34.980163
+          ],
+          [
+            -58.491052,
+            -30.085693
+          ],
+          [
+            -53.071505,
+            -30.085693
+          ],
+          [
+            -53.071505,
+            -34.980163
+          ]
+        ]
+      ]
+    },
+    "full_name": "Uruguay"
+  },
+  "truncated": false,
+  "in_reply_to_status_id_str": null,
+  "filter_level": "low",
+  "text": "Maldonado -Trasnochada declaraci\u00f3n del Partido Socialista uruguayo plagada de inexactitudes Prensa argentina de las mejores en cuanto a info",
+  "geo": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": false,
+  "favorited": false,
+  "user": {
+    "verified": false,
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+    "statuses_count": 356277,
+    "screen_name": "adrianabravista",
+    "default_profile_image": false,
+    "time_zone": "Mid-Atlantic",
+    "name": "adriana cabrera",
+    "id_str": "968586594",
+    "profile_sidebar_border_color": "5ED4DC",
+    "created_at": "Sat Nov 24 18:56:11 +0000 2012",
+    "friends_count": 6940,
+    "url": null,
+    "profile_background_tile": false,
+    "protected": false,
+    "translator_type": "none",
+    "profile_text_color": "3C3940",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/3088097479/a352335c323dc88c3e3a6f293c14b73b_normal.jpeg",
+    "listed_count": 111,
+    "notifications": null,
+    "contributors_enabled": false,
+    "is_translator": false,
+    "location": "Montevideo",
+    "profile_use_background_image": true,
+    "followers_count": 16709,
+    "profile_sidebar_fill_color": "95E8EC",
+    "geo_enabled": true,
+    "profile_link_color": "0099B9",
+    "favourites_count": 8786,
+    "following": null,
+    "default_profile": false,
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+    "profile_background_color": "0099B9",
+    "id": 968586594,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/3088097479/a352335c323dc88c3e3a6f293c14b73b_normal.jpeg",
+    "lang": "es",
+    "description": "Uruguaya,Bravista y Buena gente ante todo.",
+    "follow_request_sent": null,
+    "utc_offset": -7200
+  },
+  "quote_count": 0,
+  "lang": "es"
+}

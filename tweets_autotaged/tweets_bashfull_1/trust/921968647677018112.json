@@ -1,0 +1,121 @@
+{
+  "in_reply_to_user_id": null,
+  "contributors": null,
+  "in_reply_to_screen_name": null,
+  "retweeted": false,
+  "retweet_count": 0,
+  "timestamp_ms": "1508649429612",
+  "in_reply_to_status_id": null,
+  "id_str": "921968647677018112",
+  "created_at": "Sun Oct 22 05:17:09 +0000 2017",
+  "id": 921968647677018112,
+  "coordinates": null,
+  "favorite_count": 0,
+  "entities": {
+    "user_mentions": [],
+    "symbols": [],
+    "hashtags": [
+      {
+        "text": "MotoGPxESPN",
+        "indices": [
+          104,
+          116
+        ]
+      },
+      {
+        "text": "AustralianGP",
+        "indices": [
+          117,
+          130
+        ]
+      }
+    ],
+    "urls": []
+  },
+  "reply_count": 0,
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "place": {
+    "attributes": {},
+    "url": "https://api.twitter.com/1.1/geo/id/00dde8db67eebcf8.json",
+    "place_type": "city",
+    "id": "00dde8db67eebcf8",
+    "country_code": "AR",
+    "name": "Resistencia",
+    "country": "Argentina",
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            -59.059307,
+            -27.505327
+          ],
+          [
+            -59.059307,
+            -27.400316
+          ],
+          [
+            -58.910044,
+            -27.400316
+          ],
+          [
+            -58.910044,
+            -27.505327
+          ]
+        ]
+      ]
+    },
+    "full_name": "Resistencia, Argentina"
+  },
+  "truncated": false,
+  "in_reply_to_status_id_str": null,
+  "filter_level": "low",
+  "text": "Que buena carrera!! Incre\u00edble lo de Zarco!! Vamos M\u00e1rquez que Zarco y Valentino no pelean el campeonato #MotoGPxESPN #AustralianGP",
+  "geo": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": false,
+  "favorited": false,
+  "user": {
+    "verified": false,
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "statuses_count": 500,
+    "screen_name": "carlitost89",
+    "default_profile_image": false,
+    "time_zone": "Buenos Aires",
+    "name": "Carlitos Torres",
+    "id_str": "161357951",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/161357951/1452631311",
+    "created_at": "Wed Jun 30 17:00:32 +0000 2010",
+    "friends_count": 365,
+    "url": null,
+    "profile_background_tile": false,
+    "protected": false,
+    "translator_type": "none",
+    "profile_text_color": "333333",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/742870412909006848/1h8I_W05_normal.jpg",
+    "listed_count": 0,
+    "notifications": null,
+    "contributors_enabled": false,
+    "is_translator": false,
+    "location": "Resistencia Chaco",
+    "profile_use_background_image": true,
+    "followers_count": 148,
+    "profile_sidebar_fill_color": "DDEEF6",
+    "geo_enabled": true,
+    "profile_link_color": "1DA1F2",
+    "favourites_count": 62,
+    "following": null,
+    "default_profile": true,
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_color": "C0DEED",
+    "id": 161357951,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/742870412909006848/1h8I_W05_normal.jpg",
+    "lang": "es",
+    "description": "Instagran: carlitostorres89",
+    "follow_request_sent": null,
+    "utc_offset": -10800
+  },
+  "quote_count": 0,
+  "lang": "es"
+}

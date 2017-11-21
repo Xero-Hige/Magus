@@ -1,0 +1,114 @@
+{
+  "in_reply_to_user_id": null,
+  "contributors": null,
+  "in_reply_to_screen_name": null,
+  "retweeted": false,
+  "retweet_count": 0,
+  "timestamp_ms": "1508644156382",
+  "in_reply_to_status_id": null,
+  "id_str": "921946530147373056",
+  "created_at": "Sun Oct 22 03:49:16 +0000 2017",
+  "id": 921946530147373056,
+  "coordinates": null,
+  "favorite_count": 0,
+  "entities": {
+    "user_mentions": [],
+    "symbols": [],
+    "hashtags": [
+      {
+        "text": "MasUnidosQueNunca",
+        "indices": [
+          70,
+          88
+        ]
+      }
+    ],
+    "urls": []
+  },
+  "reply_count": 0,
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "place": {
+    "attributes": {},
+    "url": "https://api.twitter.com/1.1/geo/id/01a9dbb9232f0fac.json",
+    "place_type": "admin",
+    "id": "01a9dbb9232f0fac",
+    "country_code": "UY",
+    "name": "Montevideo",
+    "country": "Uruguay",
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            -56.430439,
+            -34.937896
+          ],
+          [
+            -56.430439,
+            -34.701599
+          ],
+          [
+            -56.029341,
+            -34.701599
+          ],
+          [
+            -56.029341,
+            -34.937896
+          ]
+        ]
+      ]
+    },
+    "full_name": "Montevideo, Uruguay"
+  },
+  "truncated": false,
+  "in_reply_to_status_id_str": null,
+  "filter_level": "low",
+  "text": "Apoyo a todos los jugadores que luchan por sus derechos y su dignidad #MasUnidosQueNunca",
+  "geo": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": false,
+  "favorited": false,
+  "user": {
+    "verified": false,
+    "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/456289739868340224/gcm5GCZF.jpeg",
+    "statuses_count": 13687,
+    "screen_name": "SantiiFontana",
+    "default_profile_image": false,
+    "time_zone": null,
+    "name": "Santiago Fontana",
+    "id_str": "1432053522",
+    "profile_sidebar_border_color": "FFFFFF",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1432053522/1501819012",
+    "created_at": "Thu May 16 03:36:52 +0000 2013",
+    "friends_count": 539,
+    "url": null,
+    "profile_background_tile": true,
+    "protected": false,
+    "translator_type": "none",
+    "profile_text_color": "000000",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/907812711668514816/V2RvAjxg_normal.jpg",
+    "listed_count": 1,
+    "notifications": null,
+    "contributors_enabled": false,
+    "is_translator": false,
+    "location": "Mercedes/Montevideo",
+    "profile_use_background_image": true,
+    "followers_count": 622,
+    "profile_sidebar_fill_color": "000000",
+    "geo_enabled": true,
+    "profile_link_color": "009333",
+    "favourites_count": 2949,
+    "following": null,
+    "default_profile": false,
+    "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/456289739868340224/gcm5GCZF.jpeg",
+    "profile_background_color": "000809",
+    "id": 1432053522,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/907812711668514816/V2RvAjxg_normal.jpg",
+    "lang": "es",
+    "description": "Estudiante de derecho, hincha socio y fanatico del Decano del futbol uruguayo, amante del futbol y humilde principante del mismo, \nsnap: santiifontana",
+    "follow_request_sent": null,
+    "utc_offset": null
+  },
+  "quote_count": 0,
+  "lang": "es"
+}

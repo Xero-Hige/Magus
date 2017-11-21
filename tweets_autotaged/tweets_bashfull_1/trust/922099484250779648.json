@@ -1,0 +1,135 @@
+{
+  "in_reply_to_user_id": null,
+  "contributors": null,
+  "in_reply_to_screen_name": null,
+  "retweeted": false,
+  "retweet_count": 0,
+  "timestamp_ms": "1508680623482",
+  "in_reply_to_status_id": null,
+  "id_str": "922099484250779648",
+  "created_at": "Sun Oct 22 13:57:03 +0000 2017",
+  "id": 922099484250779648,
+  "coordinates": null,
+  "favorite_count": 0,
+  "entities": {
+    "user_mentions": [
+      {
+        "indices": [
+          66,
+          82
+        ],
+        "name": "Sebastian Pi\u00f1era",
+        "screen_name": "sebastianpinera",
+        "id": 13623532,
+        "id_str": "13623532"
+      },
+      {
+        "indices": [
+          83,
+          91
+        ],
+        "name": "Ev\u00f3poli",
+        "screen_name": "evopoli",
+        "id": 996355098,
+        "id_str": "996355098"
+      }
+    ],
+    "symbols": [],
+    "hashtags": [
+      {
+        "text": "FranjaElectoral2017",
+        "indices": [
+          45,
+          65
+        ]
+      }
+    ],
+    "urls": []
+  },
+  "reply_count": 0,
+  "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+  "place": {
+    "attributes": {},
+    "url": "https://api.twitter.com/1.1/geo/id/01ee68fb632783de.json",
+    "place_type": "city",
+    "id": "01ee68fb632783de",
+    "country_code": "CL",
+    "name": "Puerto Montt",
+    "country": "Chile",
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            -73.320847,
+            -41.697184
+          ],
+          [
+            -73.320847,
+            -41.329053
+          ],
+          [
+            -72.373687,
+            -41.329053
+          ],
+          [
+            -72.373687,
+            -41.697184
+          ]
+        ]
+      ]
+    },
+    "full_name": "Puerto Montt, Chile"
+  },
+  "truncated": false,
+  "in_reply_to_status_id_str": null,
+  "filter_level": "low",
+  "text": "Eso s\u00ed gente joven y profesionales de verdad #FranjaElectoral2017 @sebastianpinera @evopoli",
+  "geo": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": false,
+  "favorited": false,
+  "user": {
+    "verified": false,
+    "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/456061384401235968/-FrujzOg.jpeg",
+    "statuses_count": 54517,
+    "screen_name": "klaudiaunik",
+    "default_profile_image": false,
+    "time_zone": "Santiago",
+    "name": "@Klaudiaunik \ud83d\udc95",
+    "id_str": "106262668",
+    "profile_sidebar_border_color": "000000",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/106262668/1502843992",
+    "created_at": "Tue Jan 19 00:46:37 +0000 2010",
+    "friends_count": 1561,
+    "url": null,
+    "profile_background_tile": false,
+    "protected": false,
+    "translator_type": "none",
+    "profile_text_color": "3D1957",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/915554142478831621/UyON8CRO_normal.jpg",
+    "listed_count": 29,
+    "notifications": null,
+    "contributors_enabled": false,
+    "is_translator": false,
+    "location": "Chile",
+    "profile_use_background_image": true,
+    "followers_count": 1863,
+    "profile_sidebar_fill_color": "7AC3EE",
+    "geo_enabled": true,
+    "profile_link_color": "44AAAA",
+    "favourites_count": 46721,
+    "following": null,
+    "default_profile": false,
+    "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/456061384401235968/-FrujzOg.jpeg",
+    "profile_background_color": "AAFFCC",
+    "id": 106262668,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/915554142478831621/UyON8CRO_normal.jpg",
+    "lang": "es",
+    "description": "Actriz de Casting mi mente es mas fuerte que todo un 7mo sentido uf!! envidiable, Sure\u00f1a \u2665\u2665\u2665\u2661\u2661\u2661",
+    "follow_request_sent": null,
+    "utc_offset": -10800
+  },
+  "quote_count": 0,
+  "lang": "es"
+}

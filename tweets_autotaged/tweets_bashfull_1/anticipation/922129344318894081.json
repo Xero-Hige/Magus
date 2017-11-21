@@ -1,0 +1,114 @@
+{
+  "in_reply_to_user_id": null,
+  "contributors": null,
+  "in_reply_to_screen_name": null,
+  "retweeted": false,
+  "retweet_count": 0,
+  "timestamp_ms": "1508687742677",
+  "in_reply_to_status_id": null,
+  "id_str": "922129344318894081",
+  "created_at": "Sun Oct 22 15:55:42 +0000 2017",
+  "id": 922129344318894081,
+  "coordinates": null,
+  "favorite_count": 0,
+  "entities": {
+    "user_mentions": [],
+    "symbols": [],
+    "hashtags": [
+      {
+        "text": "EleccionesArgentina",
+        "indices": [
+          29,
+          49
+        ]
+      }
+    ],
+    "urls": []
+  },
+  "reply_count": 0,
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "place": {
+    "attributes": {},
+    "url": "https://api.twitter.com/1.1/geo/id/00dde8db67eebcf8.json",
+    "place_type": "city",
+    "id": "00dde8db67eebcf8",
+    "country_code": "AR",
+    "name": "Resistencia",
+    "country": "Argentina",
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            -59.059307,
+            -27.505327
+          ],
+          [
+            -59.059307,
+            -27.400316
+          ],
+          [
+            -58.910044,
+            -27.400316
+          ],
+          [
+            -58.910044,
+            -27.505327
+          ]
+        ]
+      ]
+    },
+    "full_name": "Resistencia, Argentina"
+  },
+  "truncated": false,
+  "in_reply_to_status_id_str": null,
+  "filter_level": "low",
+  "text": "Ya vot\u00e9 \ud83d\udcaa\nFELIZ FELIZ FELIZ \n#EleccionesArgentina",
+  "geo": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": false,
+  "favorited": false,
+  "user": {
+    "verified": false,
+    "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/232453833/3063567174_84d7eac0df_o.jpg",
+    "statuses_count": 2911,
+    "screen_name": "constanzaorma",
+    "default_profile_image": false,
+    "time_zone": "Santiago",
+    "name": "Constanza",
+    "id_str": "155678801",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/155678801/1467672007",
+    "created_at": "Mon Jun 14 20:17:48 +0000 2010",
+    "friends_count": 665,
+    "url": null,
+    "profile_background_tile": true,
+    "protected": false,
+    "translator_type": "none",
+    "profile_text_color": "333333",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/610963586337386497/xfrSlJcx_normal.jpg",
+    "listed_count": 1,
+    "notifications": null,
+    "contributors_enabled": false,
+    "is_translator": false,
+    "location": "Argentina",
+    "profile_use_background_image": true,
+    "followers_count": 206,
+    "profile_sidebar_fill_color": "DDEEF6",
+    "geo_enabled": true,
+    "profile_link_color": "0084B4",
+    "favourites_count": 22397,
+    "following": null,
+    "default_profile": false,
+    "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/232453833/3063567174_84d7eac0df_o.jpg",
+    "profile_background_color": "C0DEED",
+    "id": 155678801,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/610963586337386497/xfrSlJcx_normal.jpg",
+    "lang": "es",
+    "description": null,
+    "follow_request_sent": null,
+    "utc_offset": -10800
+  },
+  "quote_count": 0,
+  "lang": "es"
+}

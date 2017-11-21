@@ -1,0 +1,148 @@
+{
+  "in_reply_to_user_id": null,
+  "contributors": null,
+  "in_reply_to_screen_name": null,
+  "retweeted": false,
+  "retweet_count": 0,
+  "timestamp_ms": "1508644207681",
+  "in_reply_to_status_id": null,
+  "id_str": "921946745310982146",
+  "created_at": "Sun Oct 22 03:50:07 +0000 2017",
+  "id": 921946745310982146,
+  "coordinates": {
+    "type": "Point",
+    "coordinates": [
+      -70.65027778,
+      -33.43777778
+    ]
+  },
+  "favorite_count": 0,
+  "entities": {
+    "user_mentions": [
+      {
+        "indices": [
+          29,
+          40
+        ],
+        "name": "Los Vasquez",
+        "screen_name": "losvasquez",
+        "id": 93022599,
+        "id_str": "93022599"
+      }
+    ],
+    "symbols": [],
+    "hashtags": [
+      {
+        "text": "PopCebolla2017",
+        "indices": [
+          45,
+          60
+        ]
+      }
+    ],
+    "urls": [
+      {
+        "expanded_url": "https://www.instagram.com/p/BaiSsmzlj5z/",
+        "indices": [
+          93,
+          116
+        ],
+        "url": "https://t.co/10NAq8vrD4",
+        "display_url": "instagram.com/p/BaiSsmzlj5z/"
+      }
+    ]
+  },
+  "reply_count": 0,
+  "source": "<a href=\"http://instagram.com\" rel=\"nofollow\">Instagram</a>",
+  "place": {
+    "attributes": {},
+    "url": "https://api.twitter.com/1.1/geo/id/0010b4cb51ca93d8.json",
+    "place_type": "city",
+    "id": "0010b4cb51ca93d8",
+    "country_code": "CL",
+    "name": "Santiago",
+    "country": "Chile",
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            -70.692959,
+            -33.478574
+          ],
+          [
+            -70.692959,
+            -33.425749
+          ],
+          [
+            -70.626272,
+            -33.425749
+          ],
+          [
+            -70.626272,
+            -33.478574
+          ]
+        ]
+      ]
+    },
+    "full_name": "Santiago, Chile"
+  },
+  "truncated": false,
+  "in_reply_to_status_id_str": null,
+  "filter_level": "low",
+  "text": "Show \"Carnaval Pudahuel\" con @losvasquez !!! #PopCebolla2017 en Santiago Metropolitan Region https://t.co/10NAq8vrD4",
+  "geo": {
+    "type": "Point",
+    "coordinates": [
+      -33.43777778,
+      -70.65027778
+    ]
+  },
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": false,
+  "possibly_sensitive": false,
+  "favorited": false,
+  "user": {
+    "verified": false,
+    "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/82611994/coldplay.jpg",
+    "statuses_count": 2843,
+    "screen_name": "carlosruz",
+    "default_profile_image": false,
+    "time_zone": "America/Santiago",
+    "name": "Carlos Ruz",
+    "id_str": "32685318",
+    "profile_sidebar_border_color": "181A1E",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/32685318/1492002437",
+    "created_at": "Sat Apr 18 00:32:48 +0000 2009",
+    "friends_count": 1036,
+    "url": null,
+    "profile_background_tile": true,
+    "protected": false,
+    "translator_type": "none",
+    "profile_text_color": "666666",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/795407568017457153/KCDsNLS0_normal.jpg",
+    "listed_count": 4,
+    "notifications": null,
+    "contributors_enabled": false,
+    "is_translator": false,
+    "location": "CHILE",
+    "profile_use_background_image": true,
+    "followers_count": 473,
+    "profile_sidebar_fill_color": "AD0707",
+    "geo_enabled": true,
+    "profile_link_color": "2FC2EF",
+    "favourites_count": 152,
+    "following": null,
+    "default_profile": false,
+    "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/82611994/coldplay.jpg",
+    "profile_background_color": "1A1B1F",
+    "id": 32685318,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/795407568017457153/KCDsNLS0_normal.jpg",
+    "lang": "es",
+    "description": "TOUR MANAGER \n@losvasquez\n@mjqoficial",
+    "follow_request_sent": null,
+    "utc_offset": -10800
+  },
+  "quote_count": 0,
+  "lang": "es"
+}

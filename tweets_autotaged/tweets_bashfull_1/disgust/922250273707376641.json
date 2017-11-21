@@ -1,0 +1,158 @@
+{
+  "entities": {
+    "hashtags": [
+      {
+        "indices": [
+          36,
+          46
+        ],
+        "text": "elcascote"
+      },
+      {
+        "indices": [
+          47,
+          67
+        ],
+        "text": "restaurantelcascote"
+      },
+      {
+        "indices": [
+          68,
+          74
+        ],
+        "text": "vinos"
+      },
+      {
+        "indices": [
+          75,
+          84
+        ],
+        "text": "bilusama"
+      }
+    ],
+    "symbols": [],
+    "urls": [
+      {
+        "indices": [
+          97,
+          120
+        ],
+        "expanded_url": "https://www.instagram.com/p/BakcuTfhG7J/",
+        "display_url": "instagram.com/p/BakcuTfhG7J/",
+        "url": "https://t.co/9LzlToh73o"
+      }
+    ],
+    "user_mentions": []
+  },
+  "in_reply_to_user_id": null,
+  "created_at": "Sun Oct 22 23:56:14 +0000 2017",
+  "favorite_count": 0,
+  "lang": "es",
+  "reply_count": 0,
+  "id_str": "922250273707376641",
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_status_id": null,
+  "timestamp_ms": "1508716574490",
+  "possibly_sensitive": false,
+  "text": "Entre Lobos Edici\u00f3n Limitada 003410 #elcascote #restaurantelcascote #vinos #bilusama en Rafaela\u2026 https://t.co/9LzlToh73o",
+  "user": {
+    "time_zone": "Buenos Aires",
+    "screen_name": "restoelcascote",
+    "utc_offset": -10800,
+    "created_at": "Sat Mar 26 15:07:54 +0000 2011",
+    "profile_background_tile": true,
+    "notifications": null,
+    "lang": "es",
+    "default_profile": false,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/272455955/1413844569",
+    "id_str": "272455955",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1287900657/fachada_cascote_normal.jpg",
+    "name": "El Cascote",
+    "friends_count": 277,
+    "translator_type": "none",
+    "protected": false,
+    "following": null,
+    "is_translator": false,
+    "follow_request_sent": null,
+    "profile_text_color": "333333",
+    "listed_count": 1,
+    "profile_link_color": "009999",
+    "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/285861662/1.JPG",
+    "url": "http://www.restaurantelcascote.com.ar",
+    "id": 272455955,
+    "favourites_count": 334,
+    "profile_background_color": "131516",
+    "followers_count": 203,
+    "statuses_count": 383,
+    "description": "Desde los pescados y mariscos, hasta las pastas artesanales y carnes de caza, nuestros platos mezclan el anta\u00f1o de la comida tradicional",
+    "location": "Rafaela",
+    "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/285861662/1.JPG",
+    "default_profile_image": false,
+    "verified": false,
+    "profile_sidebar_fill_color": "EFEFEF",
+    "profile_use_background_image": true,
+    "contributors_enabled": false,
+    "profile_sidebar_border_color": "EEEEEE",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1287900657/fachada_cascote_normal.jpg",
+    "geo_enabled": true
+  },
+  "geo": {
+    "coordinates": [
+      -31.25328,
+      -61.49087
+    ],
+    "type": "Point"
+  },
+  "id": 922250273707376641,
+  "quote_count": 0,
+  "retweeted": false,
+  "filter_level": "low",
+  "in_reply_to_status_id_str": null,
+  "source": "<a href=\"http://instagram.com\" rel=\"nofollow\">Instagram</a>",
+  "favorited": false,
+  "coordinates": {
+    "coordinates": [
+      -61.49087,
+      -31.25328
+    ],
+    "type": "Point"
+  },
+  "truncated": false,
+  "retweet_count": 0,
+  "is_quote_status": false,
+  "in_reply_to_screen_name": null,
+  "contributors": null,
+  "place": {
+    "bounding_box": {
+      "coordinates": [
+        [
+          [
+            -61.526464,
+            -31.287234
+          ],
+          [
+            -61.526464,
+            -31.220062
+          ],
+          [
+            -61.455488,
+            -31.220062
+          ],
+          [
+            -61.455488,
+            -31.287234
+          ]
+        ]
+      ],
+      "type": "Polygon"
+    },
+    "name": "Rafaela",
+    "url": "https://api.twitter.com/1.1/geo/id/00585da77f488367.json",
+    "country_code": "AR",
+    "id": "00585da77f488367",
+    "place_type": "city",
+    "attributes": {},
+    "full_name": "Rafaela, Argentina",
+    "country": "Argentina"
+  }
+}

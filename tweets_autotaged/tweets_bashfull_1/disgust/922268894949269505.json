@@ -1,0 +1,179 @@
+{
+  "entities": {
+    "hashtags": [
+      {
+        "indices": [
+          19,
+          31
+        ],
+        "text": "birthdayboy"
+      },
+      {
+        "indices": [
+          32,
+          46
+        ],
+        "text": "happybirthday"
+      },
+      {
+        "indices": [
+          47,
+          55
+        ],
+        "text": "birthay"
+      },
+      {
+        "indices": [
+          56,
+          60
+        ],
+        "text": "boy"
+      },
+      {
+        "indices": [
+          61,
+          73
+        ],
+        "text": "buenosaires"
+      },
+      {
+        "indices": [
+          74,
+          84
+        ],
+        "text": "argentina"
+      },
+      {
+        "indices": [
+          85,
+          92
+        ],
+        "text": "follow"
+      }
+    ],
+    "symbols": [],
+    "urls": [
+      {
+        "indices": [
+          94,
+          117
+        ],
+        "expanded_url": "https://www.instagram.com/p/BaklMjQBpl3/",
+        "display_url": "instagram.com/p/BaklMjQBpl3/",
+        "url": "https://t.co/3bc2DvDEzR"
+      }
+    ],
+    "user_mentions": []
+  },
+  "in_reply_to_user_id": null,
+  "created_at": "Mon Oct 23 01:10:14 +0000 2017",
+  "favorite_count": 0,
+  "lang": "es",
+  "reply_count": 0,
+  "id_str": "922268894949269505",
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_status_id": null,
+  "timestamp_ms": "1508721014140",
+  "possibly_sensitive": false,
+  "text": "Cumplea\u00f1os Feliz \ud83d\udc3a #birthdayboy #happybirthday #birthay #boy #buenosaires #argentina #follow\u2026 https://t.co/3bc2DvDEzR",
+  "user": {
+    "time_zone": "Buenos Aires",
+    "screen_name": "iWilliams07",
+    "utc_offset": -10800,
+    "created_at": "Sun Dec 20 20:29:26 +0000 2009",
+    "profile_background_tile": false,
+    "notifications": null,
+    "lang": "es",
+    "default_profile": false,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/98198273/1441954874",
+    "id_str": "98198273",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/546048878848389120/3R95Mt-3_normal.jpeg",
+    "name": "William Joseph \uf8ff",
+    "friends_count": 1810,
+    "translator_type": "none",
+    "protected": false,
+    "following": null,
+    "is_translator": false,
+    "follow_request_sent": null,
+    "profile_text_color": "333333",
+    "listed_count": 29,
+    "profile_link_color": "0084B4",
+    "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/374883149/iwilliams.jpg",
+    "url": "http://www.williamestrada.net",
+    "id": 98198273,
+    "favourites_count": 793,
+    "profile_background_color": "C0DEED",
+    "followers_count": 1973,
+    "statuses_count": 4550,
+    "description": "\u00bb Venezuelan boy living in Argentina. Thinker, Student and collector of experiences. Lic. Media & Entertainment Management. / UADE Argentina. \u00bb",
+    "location": "Buenos Aires",
+    "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/374883149/iwilliams.jpg",
+    "default_profile_image": false,
+    "verified": false,
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_use_background_image": true,
+    "contributors_enabled": false,
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/546048878848389120/3R95Mt-3_normal.jpeg",
+    "geo_enabled": true
+  },
+  "geo": {
+    "coordinates": [
+      -34.61024591,
+      -58.36552196
+    ],
+    "type": "Point"
+  },
+  "id": 922268894949269505,
+  "quote_count": 0,
+  "retweeted": false,
+  "filter_level": "low",
+  "in_reply_to_status_id_str": null,
+  "source": "<a href=\"http://instagram.com\" rel=\"nofollow\">Instagram</a>",
+  "favorited": false,
+  "coordinates": {
+    "coordinates": [
+      -58.36552196,
+      -34.61024591
+    ],
+    "type": "Point"
+  },
+  "truncated": false,
+  "retweet_count": 0,
+  "is_quote_status": false,
+  "in_reply_to_screen_name": null,
+  "contributors": null,
+  "place": {
+    "bounding_box": {
+      "coordinates": [
+        [
+          [
+            -58.531792,
+            -34.674453
+          ],
+          [
+            -58.531792,
+            -34.534177
+          ],
+          [
+            -58.353494,
+            -34.534177
+          ],
+          [
+            -58.353494,
+            -34.674453
+          ]
+        ]
+      ],
+      "type": "Polygon"
+    },
+    "name": "Ciudad Aut\u00f3noma de Buenos Aires",
+    "url": "https://api.twitter.com/1.1/geo/id/018f1cde6bad9747.json",
+    "country_code": "AR",
+    "id": "018f1cde6bad9747",
+    "place_type": "city",
+    "attributes": {},
+    "full_name": "Ciudad Aut\u00f3noma de Buenos Aires, Argentina",
+    "country": "Argentina"
+  }
+}

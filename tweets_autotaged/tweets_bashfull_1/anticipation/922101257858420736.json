@@ -1,0 +1,106 @@
+{
+  "in_reply_to_user_id": null,
+  "contributors": null,
+  "in_reply_to_screen_name": null,
+  "retweeted": false,
+  "retweet_count": 0,
+  "timestamp_ms": "1508681046343",
+  "in_reply_to_status_id": null,
+  "id_str": "922101257858420736",
+  "created_at": "Sun Oct 22 14:04:06 +0000 2017",
+  "id": 922101257858420736,
+  "coordinates": null,
+  "favorite_count": 0,
+  "entities": {
+    "user_mentions": [],
+    "symbols": [],
+    "hashtags": [],
+    "urls": []
+  },
+  "reply_count": 0,
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "place": {
+    "attributes": {},
+    "url": "https://api.twitter.com/1.1/geo/id/018f1cde6bad9747.json",
+    "place_type": "city",
+    "id": "018f1cde6bad9747",
+    "country_code": "AR",
+    "name": "Ciudad Aut\u00f3noma de Buenos Aires",
+    "country": "Argentina",
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            -58.531792,
+            -34.674453
+          ],
+          [
+            -58.531792,
+            -34.534177
+          ],
+          [
+            -58.353494,
+            -34.534177
+          ],
+          [
+            -58.353494,
+            -34.674453
+          ]
+        ]
+      ]
+    },
+    "full_name": "Ciudad Aut\u00f3noma de Buenos Aires, Argentina"
+  },
+  "truncated": false,
+  "in_reply_to_status_id_str": null,
+  "filter_level": "low",
+  "text": "Ver gente tan mayor viniendo a votar es algo emocionante!",
+  "geo": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": false,
+  "favorited": false,
+  "user": {
+    "verified": false,
+    "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000111461267/9e9a9acb07068454cd078d13c9b32bb7.jpeg",
+    "statuses_count": 21429,
+    "screen_name": "gaastyyy",
+    "default_profile_image": false,
+    "time_zone": "Santiago",
+    "name": "Funebrero",
+    "id_str": "252441733",
+    "profile_sidebar_border_color": "FFFFFF",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/252441733/1488747191",
+    "created_at": "Tue Feb 15 05:52:58 +0000 2011",
+    "friends_count": 897,
+    "url": null,
+    "profile_background_tile": true,
+    "protected": false,
+    "translator_type": "none",
+    "profile_text_color": "333333",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/848328918323130368/gtN1xmvZ_normal.jpg",
+    "listed_count": 0,
+    "notifications": null,
+    "contributors_enabled": false,
+    "is_translator": false,
+    "location": "Ciudad Aut\u00f3noma de Buenos Aires, Argentina",
+    "profile_use_background_image": true,
+    "followers_count": 485,
+    "profile_sidebar_fill_color": "DDEEF6",
+    "geo_enabled": true,
+    "profile_link_color": "0084B4",
+    "favourites_count": 4594,
+    "following": null,
+    "default_profile": false,
+    "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000111461267/9e9a9acb07068454cd078d13c9b32bb7.jpeg",
+    "profile_background_color": "C0DEED",
+    "id": 252441733,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/848328918323130368/gtN1xmvZ_normal.jpg",
+    "lang": "es",
+    "description": "18--el que abandona no tiene premio--UADE-- Antiperonista-\"Dato mata relato\"",
+    "follow_request_sent": null,
+    "utc_offset": -10800
+  },
+  "quote_count": 0,
+  "lang": "es"
+}

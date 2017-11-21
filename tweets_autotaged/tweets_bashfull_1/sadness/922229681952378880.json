@@ -1,0 +1,154 @@
+{
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "urls": [
+      {
+        "indices": [
+          117,
+          140
+        ],
+        "expanded_url": "https://twitter.com/i/web/status/922229681952378880",
+        "display_url": "twitter.com/i/web/status/9\u2026",
+        "url": "https://t.co/609sf6DosN"
+      }
+    ],
+    "user_mentions": [
+      {
+        "indices": [
+          0,
+          16
+        ],
+        "screen_name": "pviloutaoficial",
+        "name": "Paulo Vilouta",
+        "id_str": "722946517",
+        "id": 722946517
+      }
+    ]
+  },
+  "in_reply_to_user_id": 722946517,
+  "created_at": "Sun Oct 22 22:34:25 +0000 2017",
+  "favorite_count": 0,
+  "lang": "es",
+  "reply_count": 0,
+  "id_str": "922229681952378880",
+  "in_reply_to_user_id_str": "722946517",
+  "extended_tweet": {
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "urls": [],
+      "user_mentions": [
+        {
+          "indices": [
+            0,
+            16
+          ],
+          "screen_name": "pviloutaoficial",
+          "name": "Paulo Vilouta",
+          "id_str": "722946517",
+          "id": 722946517
+        }
+      ]
+    },
+    "display_text_range": [
+      17,
+      156
+    ],
+    "full_text": "@pviloutaoficial SANTIAGO\nDESDE EL CIELO\nLOS MAPUCHES ESTAN INCURSO PENAL ABANDONO DE PERSONA\nTE DEJARON EN EL MEDIO DEL RIO\nMAPUCHES O PSEUDOMAPUCHES MALOS"
+  },
+  "in_reply_to_status_id": 921601264479363072,
+  "timestamp_ms": "1508711665033",
+  "truncated": true,
+  "text": "@pviloutaoficial SANTIAGO\nDESDE EL CIELO\nLOS MAPUCHES ESTAN INCURSO PENAL ABANDONO DE PERSONA\nTE DEJARON EN EL MEDI\u2026 https://t.co/609sf6DosN",
+  "user": {
+    "time_zone": null,
+    "screen_name": "makitucuman",
+    "utc_offset": null,
+    "created_at": "Wed Dec 17 14:45:58 +0000 2014",
+    "profile_background_tile": false,
+    "notifications": null,
+    "lang": "es",
+    "default_profile": true,
+    "follow_request_sent": null,
+    "id_str": "2927092061",
+    "profile_image_url": "http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+    "name": "makitucuman",
+    "friends_count": 730,
+    "translator_type": "none",
+    "protected": false,
+    "following": null,
+    "is_translator": false,
+    "profile_text_color": "333333",
+    "listed_count": 3,
+    "profile_link_color": "1DA1F2",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "url": null,
+    "id": 2927092061,
+    "favourites_count": 21252,
+    "profile_background_color": "C0DEED",
+    "followers_count": 169,
+    "statuses_count": 14768,
+    "description": "Ingeniero\nEconomista aficionado\nAsesor Politico",
+    "location": "San Miguel de Tucum\u00e1n, Argenti",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "default_profile_image": false,
+    "verified": false,
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_use_background_image": true,
+    "contributors_enabled": false,
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_image_url_https": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+    "geo_enabled": true
+  },
+  "geo": null,
+  "id": 922229681952378880,
+  "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+  "retweeted": false,
+  "filter_level": "low",
+  "in_reply_to_status_id_str": "921601264479363072",
+  "quote_count": 0,
+  "favorited": false,
+  "coordinates": null,
+  "display_text_range": [
+    17,
+    140
+  ],
+  "retweet_count": 0,
+  "is_quote_status": false,
+  "in_reply_to_screen_name": "pviloutaoficial",
+  "contributors": null,
+  "place": {
+    "bounding_box": {
+      "coordinates": [
+        [
+          [
+            -65.280702,
+            -26.892137
+          ],
+          [
+            -65.280702,
+            -26.79606
+          ],
+          [
+            -65.165573,
+            -26.79606
+          ],
+          [
+            -65.165573,
+            -26.892137
+          ]
+        ]
+      ],
+      "type": "Polygon"
+    },
+    "name": "San Miguel de Tucum\u00e1n",
+    "url": "https://api.twitter.com/1.1/geo/id/0021712c0bd7eec1.json",
+    "country_code": "AR",
+    "id": "0021712c0bd7eec1",
+    "place_type": "city",
+    "attributes": {},
+    "full_name": "San Miguel de Tucum\u00e1n, Argentina",
+    "country": "Argentina"
+  }
+}

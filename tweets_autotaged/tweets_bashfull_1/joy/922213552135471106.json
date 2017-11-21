@@ -1,0 +1,127 @@
+{
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "indices": [
+          76,
+          85
+        ],
+        "screen_name": "KarendTV",
+        "name": "Karen Doggenweiler L",
+        "id_str": "278081143",
+        "id": 278081143
+      },
+      {
+        "indices": [
+          88,
+          102
+        ],
+        "screen_name": "marcoporchile",
+        "name": "Marco Enr\u00edquez-O",
+        "id_str": "19003727",
+        "id": 19003727
+      }
+    ]
+  },
+  "in_reply_to_user_id": null,
+  "created_at": "Sun Oct 22 21:30:19 +0000 2017",
+  "favorite_count": 0,
+  "lang": "es",
+  "reply_count": 0,
+  "id_str": "922213552135471106",
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_status_id": null,
+  "timestamp_ms": "1508707819385",
+  "text": "Acabo de leer los detalles de c\u00f3mo hab\u00eda sido el asalto de Fernanda hija de @KarendTV y @marcoporchile. Solo repudiar y solidarizar como FA.",
+  "user": {
+    "time_zone": "Santiago",
+    "screen_name": "PipeHenriquezO",
+    "utc_offset": -10800,
+    "created_at": "Tue May 25 03:46:18 +0000 2010",
+    "profile_background_tile": true,
+    "notifications": null,
+    "lang": "es",
+    "default_profile": false,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/147817417/1508634706",
+    "id_str": "147817417",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/918640173453336577/3YwwOhej_normal.jpg",
+    "name": "Felipe Henr\u00edquez O.",
+    "friends_count": 11682,
+    "translator_type": "regular",
+    "protected": false,
+    "following": null,
+    "is_translator": false,
+    "follow_request_sent": null,
+    "profile_text_color": "333333",
+    "listed_count": 185,
+    "profile_link_color": "105BC8",
+    "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/655106965677428737/NnV_nR9L.jpg",
+    "url": "https://www.vcc.cl/es/noticias/author/pipehenriquezo",
+    "id": 147817417,
+    "favourites_count": 367,
+    "profile_background_color": "131516",
+    "followers_count": 29149,
+    "statuses_count": 46018,
+    "description": "Director @VozCiudadanaCL, Zurdo, DDHH. Ateo BRAVO. En @RDemocratica X @BeaSanchezYTu. En b\u00fasqueda de la verdad y justicia. Autor de los Retazos de la Memoria \ud83c\udde8\ud83c\uddf1",
+    "location": "La Serena, Chile",
+    "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/655106965677428737/NnV_nR9L.jpg",
+    "default_profile_image": false,
+    "verified": true,
+    "profile_sidebar_fill_color": "EFEFEF",
+    "profile_use_background_image": true,
+    "contributors_enabled": false,
+    "profile_sidebar_border_color": "FFFFFF",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/918640173453336577/3YwwOhej_normal.jpg",
+    "geo_enabled": true
+  },
+  "geo": null,
+  "id": 922213552135471106,
+  "quote_count": 0,
+  "retweeted": false,
+  "filter_level": "low",
+  "in_reply_to_status_id_str": null,
+  "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+  "favorited": false,
+  "coordinates": null,
+  "truncated": false,
+  "retweet_count": 0,
+  "is_quote_status": false,
+  "in_reply_to_screen_name": null,
+  "contributors": null,
+  "place": {
+    "bounding_box": {
+      "coordinates": [
+        [
+          [
+            -71.345398,
+            -30.13522
+          ],
+          [
+            -71.345398,
+            -29.53441
+          ],
+          [
+            -70.686375,
+            -29.53441
+          ],
+          [
+            -70.686375,
+            -30.13522
+          ]
+        ]
+      ],
+      "type": "Polygon"
+    },
+    "name": "La Serena",
+    "url": "https://api.twitter.com/1.1/geo/id/00dc8225055a8fdc.json",
+    "country_code": "CL",
+    "id": "00dc8225055a8fdc",
+    "place_type": "city",
+    "attributes": {},
+    "full_name": "La Serena, Chile",
+    "country": "Chile"
+  }
+}

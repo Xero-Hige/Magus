@@ -1,0 +1,129 @@
+{
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "urls": [
+      {
+        "indices": [
+          91,
+          114
+        ],
+        "expanded_url": "https://www.instagram.com/p/Bakf1XTjmrd/",
+        "display_url": "instagram.com/p/Bakf1XTjmrd/",
+        "url": "https://t.co/mugc5xuQWa"
+      }
+    ],
+    "user_mentions": []
+  },
+  "in_reply_to_user_id": null,
+  "created_at": "Mon Oct 23 00:23:26 +0000 2017",
+  "favorite_count": 0,
+  "lang": "es",
+  "reply_count": 0,
+  "id_str": "922257118043963392",
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_status_id": null,
+  "timestamp_ms": "1508718206307",
+  "possibly_sensitive": false,
+  "text": "La Justicia en la balanza. Lanzamiento libro lunes 23.CECT en Santiago Metropolitan Region https://t.co/mugc5xuQWa",
+  "user": {
+    "time_zone": "America/Santiago",
+    "screen_name": "antropomemoria",
+    "utc_offset": -10800,
+    "created_at": "Wed Jun 24 16:09:54 +0000 2009",
+    "profile_background_tile": false,
+    "notifications": null,
+    "lang": "es",
+    "default_profile": false,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/50347559/1457556846",
+    "id_str": "50347559",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/556241246511833088/y52yD41Z_normal.jpeg",
+    "name": "Adriana Go\u00f1i Godoy",
+    "friends_count": 3717,
+    "translator_type": "none",
+    "protected": false,
+    "following": null,
+    "is_translator": false,
+    "follow_request_sent": null,
+    "profile_text_color": "A40000",
+    "listed_count": 140,
+    "profile_link_color": "4A913C",
+    "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000164389536/hBXrxtq0.jpeg",
+    "url": "http://about.me/adrianagonigodoy",
+    "id": 50347559,
+    "favourites_count": 22979,
+    "profile_background_color": "A9A4AB",
+    "followers_count": 4813,
+    "statuses_count": 85104,
+    "description": "Antropologa-arqueologa U Ch. MEMORIA Y DD HH Coordinadora Observatorio de la Cibersociedad Antropologa Virtual ,Etnograf\u00eda Digital .Bloqueo lateros",
+    "location": "Santiago",
+    "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000164389536/hBXrxtq0.jpeg",
+    "default_profile_image": false,
+    "verified": false,
+    "profile_sidebar_fill_color": "000000",
+    "profile_use_background_image": true,
+    "contributors_enabled": false,
+    "profile_sidebar_border_color": "000000",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/556241246511833088/y52yD41Z_normal.jpeg",
+    "geo_enabled": true
+  },
+  "geo": {
+    "coordinates": [
+      -33.43777778,
+      -70.65027778
+    ],
+    "type": "Point"
+  },
+  "id": 922257118043963392,
+  "quote_count": 0,
+  "retweeted": false,
+  "filter_level": "low",
+  "in_reply_to_status_id_str": null,
+  "source": "<a href=\"http://instagram.com\" rel=\"nofollow\">Instagram</a>",
+  "favorited": false,
+  "coordinates": {
+    "coordinates": [
+      -70.65027778,
+      -33.43777778
+    ],
+    "type": "Point"
+  },
+  "truncated": false,
+  "retweet_count": 0,
+  "is_quote_status": false,
+  "in_reply_to_screen_name": null,
+  "contributors": null,
+  "place": {
+    "bounding_box": {
+      "coordinates": [
+        [
+          [
+            -70.692959,
+            -33.478574
+          ],
+          [
+            -70.692959,
+            -33.425749
+          ],
+          [
+            -70.626272,
+            -33.425749
+          ],
+          [
+            -70.626272,
+            -33.478574
+          ]
+        ]
+      ],
+      "type": "Polygon"
+    },
+    "name": "Santiago",
+    "url": "https://api.twitter.com/1.1/geo/id/0010b4cb51ca93d8.json",
+    "country_code": "CL",
+    "id": "0010b4cb51ca93d8",
+    "place_type": "city",
+    "attributes": {},
+    "full_name": "Santiago, Chile",
+    "country": "Chile"
+  }
+}

@@ -1,0 +1,128 @@
+{
+  "entities": {
+    "hashtags": [
+      {
+        "indices": [
+          0,
+          20
+        ],
+        "text": "EleccionesArgentina"
+      },
+      {
+        "indices": [
+          21,
+          41
+        ],
+        "text": "DecisionBragado2017"
+      },
+      {
+        "indices": [
+          42,
+          50
+        ],
+        "text": "Bragado"
+      }
+    ],
+    "symbols": [],
+    "urls": [],
+    "user_mentions": []
+  },
+  "in_reply_to_user_id": null,
+  "created_at": "Sun Oct 22 22:55:20 +0000 2017",
+  "favorite_count": 0,
+  "lang": "es",
+  "reply_count": 0,
+  "id_str": "922234949176086528",
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_status_id": null,
+  "timestamp_ms": "1508712920837",
+  "text": "#EleccionesArgentina #DecisionBragado2017 #Bragado Sobre 59/110 mesas escrutadas, Cam\u00fas (C) le saca 2500 votos de ventaja a Maidana (UC).",
+  "user": {
+    "time_zone": "Buenos Aires",
+    "screen_name": "BInforma",
+    "utc_offset": -10800,
+    "created_at": "Sat Oct 22 23:46:34 +0000 2011",
+    "profile_background_tile": false,
+    "notifications": null,
+    "lang": "es",
+    "default_profile": false,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/396237195/1485298538",
+    "id_str": "396237195",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/824033552199204866/TsBD362K_normal.jpg",
+    "name": "Bragado Informa",
+    "friends_count": 529,
+    "translator_type": "none",
+    "protected": false,
+    "following": null,
+    "is_translator": false,
+    "follow_request_sent": null,
+    "profile_text_color": "000000",
+    "listed_count": 11,
+    "profile_link_color": "BC0808",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "url": "http://www.bragadoinforma.com.ar",
+    "id": 396237195,
+    "favourites_count": 60,
+    "profile_background_color": "000000",
+    "followers_count": 1938,
+    "statuses_count": 6077,
+    "description": "El sitio de noticias mas importante de #Bragado y la zona. Mas de 10 a\u00f1os informando primero. \nSeguinos en Facebook: http://www.facebook.com/BInforma",
+    "location": "Bragado, Argentina",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "default_profile_image": false,
+    "verified": false,
+    "profile_sidebar_fill_color": "000000",
+    "profile_use_background_image": false,
+    "contributors_enabled": false,
+    "profile_sidebar_border_color": "000000",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/824033552199204866/TsBD362K_normal.jpg",
+    "geo_enabled": true
+  },
+  "geo": null,
+  "id": 922234949176086528,
+  "quote_count": 0,
+  "retweeted": false,
+  "filter_level": "low",
+  "in_reply_to_status_id_str": null,
+  "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+  "favorited": false,
+  "coordinates": null,
+  "truncated": false,
+  "retweet_count": 0,
+  "is_quote_status": false,
+  "in_reply_to_screen_name": null,
+  "contributors": null,
+  "place": {
+    "bounding_box": {
+      "coordinates": [
+        [
+          [
+            -60.513157,
+            -35.135987
+          ],
+          [
+            -60.513157,
+            -35.102835
+          ],
+          [
+            -60.458942,
+            -35.102835
+          ],
+          [
+            -60.458942,
+            -35.135987
+          ]
+        ]
+      ],
+      "type": "Polygon"
+    },
+    "name": "Bragado",
+    "url": "https://api.twitter.com/1.1/geo/id/0143b5243dac886b.json",
+    "country_code": "AR",
+    "id": "0143b5243dac886b",
+    "place_type": "city",
+    "attributes": {},
+    "full_name": "Bragado, Argentina",
+    "country": "Argentina"
+  }
+}

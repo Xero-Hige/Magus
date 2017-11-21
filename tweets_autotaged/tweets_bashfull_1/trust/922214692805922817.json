@@ -1,0 +1,155 @@
+{
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "urls": [
+      {
+        "indices": [
+          117,
+          140
+        ],
+        "expanded_url": "https://twitter.com/i/web/status/922214692805922817",
+        "display_url": "twitter.com/i/web/status/9\u2026",
+        "url": "https://t.co/QyB9AlH3Pw"
+      }
+    ],
+    "user_mentions": [
+      {
+        "indices": [
+          0,
+          15
+        ],
+        "screen_name": "TimermanHector",
+        "name": "H\u00e9ctor Timerman",
+        "id_str": "4536762869",
+        "id": 4536762869
+      }
+    ]
+  },
+  "in_reply_to_user_id": 4536762869,
+  "created_at": "Sun Oct 22 21:34:51 +0000 2017",
+  "favorite_count": 0,
+  "lang": "es",
+  "reply_count": 0,
+  "id_str": "922214692805922817",
+  "in_reply_to_user_id_str": "4536762869",
+  "extended_tweet": {
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "urls": [],
+      "user_mentions": [
+        {
+          "indices": [
+            0,
+            15
+          ],
+          "screen_name": "TimermanHector",
+          "name": "H\u00e9ctor Timerman",
+          "id_str": "4536762869",
+          "id": 4536762869
+        }
+      ]
+    },
+    "display_text_range": [
+      16,
+      155
+    ],
+    "full_text": "@TimermanHector Cubriste asesinos que mataron a gente de tu propia colectividad y ahora queres justicia x Santiago? No tenes perd\u00f3n de DIOS! Bazofia humana"
+  },
+  "in_reply_to_status_id": 921795314272624646,
+  "timestamp_ms": "1508708091342",
+  "truncated": true,
+  "text": "@TimermanHector Cubriste asesinos que mataron a gente de tu propia colectividad y ahora queres justicia x Santiago?\u2026 https://t.co/QyB9AlH3Pw",
+  "user": {
+    "time_zone": "Pacific Time (US & Canada)",
+    "screen_name": "frandelneri",
+    "utc_offset": -25200,
+    "created_at": "Thu Jan 10 21:01:56 +0000 2013",
+    "profile_background_tile": false,
+    "notifications": null,
+    "lang": "es",
+    "default_profile": false,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1077687602/1484666269",
+    "id_str": "1077687602",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/912302578880401409/FlRwGaJs_normal.jpg",
+    "name": "Franquitoo",
+    "friends_count": 949,
+    "translator_type": "none",
+    "protected": false,
+    "following": null,
+    "is_translator": false,
+    "follow_request_sent": null,
+    "profile_text_color": "000000",
+    "listed_count": 15,
+    "profile_link_color": "3B94D9",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+    "url": "http://instagram.com/franquito_delneri",
+    "id": 1077687602,
+    "favourites_count": 2497,
+    "profile_background_color": "000000",
+    "followers_count": 740,
+    "statuses_count": 7383,
+    "description": "Corredor Carismatico y Cantante :P . La #HonestidadBrutal va de la mano conmigo. I aim high no matter the costs :D",
+    "location": "Citizen of the World",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+    "default_profile_image": false,
+    "verified": false,
+    "profile_sidebar_fill_color": "000000",
+    "profile_use_background_image": false,
+    "contributors_enabled": false,
+    "profile_sidebar_border_color": "000000",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/912302578880401409/FlRwGaJs_normal.jpg",
+    "geo_enabled": true
+  },
+  "geo": null,
+  "id": 922214692805922817,
+  "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+  "retweeted": false,
+  "filter_level": "low",
+  "in_reply_to_status_id_str": "921795314272624646",
+  "quote_count": 0,
+  "favorited": false,
+  "coordinates": null,
+  "display_text_range": [
+    16,
+    140
+  ],
+  "retweet_count": 0,
+  "is_quote_status": false,
+  "in_reply_to_screen_name": "TimermanHector",
+  "contributors": null,
+  "place": {
+    "bounding_box": {
+      "coordinates": [
+        [
+          [
+            -58.531792,
+            -34.674453
+          ],
+          [
+            -58.531792,
+            -34.534177
+          ],
+          [
+            -58.353494,
+            -34.534177
+          ],
+          [
+            -58.353494,
+            -34.674453
+          ]
+        ]
+      ],
+      "type": "Polygon"
+    },
+    "name": "Ciudad Aut\u00f3noma de Buenos Aires",
+    "url": "https://api.twitter.com/1.1/geo/id/018f1cde6bad9747.json",
+    "country_code": "AR",
+    "id": "018f1cde6bad9747",
+    "place_type": "city",
+    "attributes": {},
+    "full_name": "Ciudad Aut\u00f3noma de Buenos Aires, Argentina",
+    "country": "Argentina"
+  }
+}

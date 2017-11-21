@@ -1,0 +1,106 @@
+{
+  "in_reply_to_user_id": null,
+  "contributors": null,
+  "in_reply_to_screen_name": null,
+  "retweeted": false,
+  "retweet_count": 0,
+  "timestamp_ms": "1508695627242",
+  "in_reply_to_status_id": null,
+  "id_str": "922162414581370882",
+  "created_at": "Sun Oct 22 18:07:07 +0000 2017",
+  "id": 922162414581370882,
+  "coordinates": null,
+  "favorite_count": 0,
+  "entities": {
+    "user_mentions": [],
+    "symbols": [],
+    "hashtags": [],
+    "urls": []
+  },
+  "reply_count": 0,
+  "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+  "place": {
+    "attributes": {},
+    "url": "https://api.twitter.com/1.1/geo/id/789cbde0feb1d0e2.json",
+    "place_type": "admin",
+    "id": "789cbde0feb1d0e2",
+    "country_code": "AR",
+    "name": "Chubut",
+    "country": "Argentina",
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            -72.187898,
+            -46.006904
+          ],
+          [
+            -72.187898,
+            -41.996417
+          ],
+          [
+            -63.580185,
+            -41.996417
+          ],
+          [
+            -63.580185,
+            -46.006904
+          ]
+        ]
+      ]
+    },
+    "full_name": "Chubut, Argentina"
+  },
+  "truncated": false,
+  "in_reply_to_status_id_str": null,
+  "filter_level": "low",
+  "text": "Para cuidar al presidente pusieron \"francotiradores\" pero esos cuidan al papa, el necesita \"mauriciotiradores\"",
+  "geo": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": false,
+  "favorited": false,
+  "user": {
+    "verified": false,
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "statuses_count": 10349,
+    "screen_name": "PirloFernando",
+    "default_profile_image": false,
+    "time_zone": null,
+    "name": "Fernando Pirlo",
+    "id_str": "3319640266",
+    "profile_sidebar_border_color": "000000",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/3319640266/1434059278",
+    "created_at": "Thu Jun 11 20:28:14 +0000 2015",
+    "friends_count": 193,
+    "url": null,
+    "profile_background_tile": false,
+    "protected": false,
+    "translator_type": "none",
+    "profile_text_color": "000000",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/609115118543224833/Hr6ZkepI_normal.jpg",
+    "listed_count": 4,
+    "notifications": null,
+    "contributors_enabled": false,
+    "is_translator": false,
+    "location": "Chubut, Patagonia",
+    "profile_use_background_image": false,
+    "followers_count": 389,
+    "profile_sidebar_fill_color": "000000",
+    "geo_enabled": true,
+    "profile_link_color": "4A913C",
+    "favourites_count": 14041,
+    "following": null,
+    "default_profile": false,
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_color": "000000",
+    "id": 3319640266,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/609115118543224833/Hr6ZkepI_normal.jpg",
+    "lang": "es",
+    "description": "Gran tipo (por el tama\u00f1o, vio)",
+    "follow_request_sent": null,
+    "utc_offset": null
+  },
+  "quote_count": 0,
+  "lang": "es"
+}

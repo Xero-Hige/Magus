@@ -1,0 +1,135 @@
+{
+  "in_reply_to_user_id": 72449675,
+  "contributors": null,
+  "in_reply_to_screen_name": "patriciowalker",
+  "retweeted": false,
+  "retweet_count": 0,
+  "timestamp_ms": "1508685741022",
+  "in_reply_to_status_id": null,
+  "id_str": "922120948769345537",
+  "created_at": "Sun Oct 22 15:22:21 +0000 2017",
+  "id": 922120948769345537,
+  "coordinates": null,
+  "favorite_count": 0,
+  "entities": {
+    "user_mentions": [
+      {
+        "indices": [
+          0,
+          15
+        ],
+        "name": "Patricio Walker",
+        "screen_name": "patriciowalker",
+        "id": 72449675,
+        "id_str": "72449675"
+      },
+      {
+        "indices": [
+          66,
+          77
+        ],
+        "name": "Cecilia Perez Jara",
+        "screen_name": "ceciperez1",
+        "id": 150342453,
+        "id_str": "150342453"
+      }
+    ],
+    "symbols": [],
+    "hashtags": [
+      {
+        "text": "enacional",
+        "indices": [
+          125,
+          135
+        ]
+      }
+    ],
+    "urls": []
+  },
+  "reply_count": 0,
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "place": {
+    "attributes": {},
+    "url": "https://api.twitter.com/1.1/geo/id/010af3a83e5ba035.json",
+    "place_type": "city",
+    "id": "010af3a83e5ba035",
+    "country_code": "CL",
+    "name": "Recoleta",
+    "country": "Chile",
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            -70.659426,
+            -33.435562
+          ],
+          [
+            -70.659426,
+            -33.376156
+          ],
+          [
+            -70.611348,
+            -33.376156
+          ],
+          [
+            -70.611348,
+            -33.435562
+          ]
+        ]
+      ]
+    },
+    "full_name": "Recoleta, Chile"
+  },
+  "truncated": false,
+  "in_reply_to_status_id_str": null,
+  "filter_level": "low",
+  "text": "@patriciowalker :\"con el PC tenemos diferencias irreconciliables\"\n@ceciperez1 :\"senador, lamento que no se haya repostulado\"\n#enacional",
+  "geo": null,
+  "in_reply_to_user_id_str": "72449675",
+  "is_quote_status": false,
+  "favorited": false,
+  "user": {
+    "verified": false,
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+    "statuses_count": 4965,
+    "screen_name": "CristianGalvezL",
+    "default_profile_image": false,
+    "time_zone": "Santiago",
+    "name": "Cristi\u00e1n G\u00e1lvez L",
+    "id_str": "228116659",
+    "profile_sidebar_border_color": "5ED4DC",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/228116659/1507373917",
+    "created_at": "Sat Dec 18 19:30:39 +0000 2010",
+    "friends_count": 429,
+    "url": null,
+    "profile_background_tile": false,
+    "protected": false,
+    "translator_type": "none",
+    "profile_text_color": "3C3940",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/916618751524601857/Ym1Wi3Nj_normal.jpg",
+    "listed_count": 7,
+    "notifications": null,
+    "contributors_enabled": false,
+    "is_translator": false,
+    "location": "Coyhaique, Ays\u00e9n del General Carlos Ib\u00e1\u00f1ez del Campo",
+    "profile_use_background_image": true,
+    "followers_count": 1266,
+    "profile_sidebar_fill_color": "95E8EC",
+    "geo_enabled": true,
+    "profile_link_color": "031857",
+    "favourites_count": 3798,
+    "following": null,
+    "default_profile": false,
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+    "profile_background_color": "0099B9",
+    "id": 228116659,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/916618751524601857/Ym1Wi3Nj_normal.jpg",
+    "lang": "es",
+    "description": "#NoDaLoMismoQuienGobierne",
+    "follow_request_sent": null,
+    "utc_offset": -10800
+  },
+  "quote_count": 0,
+  "lang": "es"
+}

@@ -1,0 +1,151 @@
+{
+  "in_reply_to_user_id": null,
+  "contributors": null,
+  "in_reply_to_screen_name": null,
+  "retweeted": false,
+  "retweet_count": 0,
+  "timestamp_ms": "1508649380666",
+  "in_reply_to_status_id": null,
+  "id_str": "921968442382671872",
+  "created_at": "Sun Oct 22 05:16:20 +0000 2017",
+  "id": 921968442382671872,
+  "coordinates": {
+    "type": "Point",
+    "coordinates": [
+      -70.5774464,
+      -33.6109996
+    ]
+  },
+  "favorite_count": 0,
+  "entities": {
+    "user_mentions": [],
+    "symbols": [],
+    "hashtags": [
+      {
+        "text": "Gedos",
+        "indices": [
+          12,
+          18
+        ]
+      },
+      {
+        "text": "Robocop",
+        "indices": [
+          22,
+          30
+        ]
+      },
+      {
+        "text": "RealesParty",
+        "indices": [
+          44,
+          56
+        ]
+      }
+    ],
+    "urls": [
+      {
+        "expanded_url": "https://www.instagram.com/p/BaickKlgDmI/",
+        "indices": [
+          76,
+          99
+        ],
+        "url": "https://t.co/MkGxvw7qzQ",
+        "display_url": "instagram.com/p/BaickKlgDmI/"
+      }
+    ]
+  },
+  "reply_count": 0,
+  "source": "<a href=\"http://instagram.com\" rel=\"nofollow\">Instagram</a>",
+  "place": {
+    "attributes": {},
+    "url": "https://api.twitter.com/1.1/geo/id/009bffed2486be17.json",
+    "place_type": "city",
+    "id": "009bffed2486be17",
+    "country_code": "CL",
+    "name": "Puente Alto",
+    "country": "Chile",
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            -70.631948,
+            -33.644147
+          ],
+          [
+            -70.631948,
+            -33.542929
+          ],
+          [
+            -70.486735,
+            -33.542929
+          ],
+          [
+            -70.486735,
+            -33.644147
+          ]
+        ]
+      ]
+    },
+    "full_name": "Puente Alto, Chile"
+  },
+  "truncated": false,
+  "in_reply_to_status_id_str": null,
+  "filter_level": "low",
+  "text": "Pow pow pow #Gedos FT #Robocop en la casa.. #RealesParty en En pleno Puente https://t.co/MkGxvw7qzQ",
+  "geo": {
+    "type": "Point",
+    "coordinates": [
+      -33.6109996,
+      -70.5774464
+    ]
+  },
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": false,
+  "possibly_sensitive": false,
+  "favorited": false,
+  "user": {
+    "verified": false,
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+    "statuses_count": 20134,
+    "screen_name": "rodrigoslay",
+    "default_profile_image": false,
+    "time_zone": "Santiago",
+    "name": "Rodrigo Slay",
+    "id_str": "15814088",
+    "profile_sidebar_border_color": "000000",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/15814088/1488170341",
+    "created_at": "Mon Aug 11 21:23:15 +0000 2008",
+    "friends_count": 2282,
+    "url": "http://www.slaymultimedios.com",
+    "profile_background_tile": false,
+    "protected": false,
+    "translator_type": "none",
+    "profile_text_color": "000000",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/560623998984134656/36G8dUlo_normal.jpeg",
+    "listed_count": 57,
+    "notifications": null,
+    "contributors_enabled": false,
+    "is_translator": false,
+    "location": "Santiago de Chile",
+    "profile_use_background_image": false,
+    "followers_count": 2249,
+    "profile_sidebar_fill_color": "000000",
+    "geo_enabled": true,
+    "profile_link_color": "4A913C",
+    "favourites_count": 286,
+    "following": null,
+    "default_profile": false,
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+    "profile_background_color": "000000",
+    "id": 15814088,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/560623998984134656/36G8dUlo_normal.jpeg",
+    "lang": "es",
+    "description": "Dise\u00f1o web, CEO en @slaymultimedios Productor Multimedia, Community Manager, Desarrollador. #Wordpress, #Joomla #PHP.",
+    "follow_request_sent": null,
+    "utc_offset": -10800
+  },
+  "quote_count": 0,
+  "lang": "es"
+}

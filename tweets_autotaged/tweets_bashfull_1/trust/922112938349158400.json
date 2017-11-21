@@ -1,0 +1,114 @@
+{
+  "in_reply_to_user_id": null,
+  "contributors": null,
+  "in_reply_to_screen_name": null,
+  "retweeted": false,
+  "retweet_count": 0,
+  "timestamp_ms": "1508683831189",
+  "in_reply_to_status_id": null,
+  "id_str": "922112938349158400",
+  "created_at": "Sun Oct 22 14:50:31 +0000 2017",
+  "id": 922112938349158400,
+  "coordinates": null,
+  "favorite_count": 0,
+  "entities": {
+    "user_mentions": [],
+    "symbols": [],
+    "hashtags": [
+      {
+        "text": "EnBuenChileno",
+        "indices": [
+          0,
+          14
+        ]
+      }
+    ],
+    "urls": []
+  },
+  "reply_count": 0,
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "place": {
+    "attributes": {},
+    "url": "https://api.twitter.com/1.1/geo/id/01ee68fb632783de.json",
+    "place_type": "city",
+    "id": "01ee68fb632783de",
+    "country_code": "CL",
+    "name": "Puerto Montt",
+    "country": "Chile",
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            -73.320847,
+            -41.697184
+          ],
+          [
+            -73.320847,
+            -41.329053
+          ],
+          [
+            -72.373687,
+            -41.329053
+          ],
+          [
+            -72.373687,
+            -41.697184
+          ]
+        ]
+      ]
+    },
+    "full_name": "Puerto Montt, Chile"
+  },
+  "truncated": false,
+  "in_reply_to_status_id_str": null,
+  "filter_level": "low",
+  "text": "#EnBuenChileno, Gabriel Borich apunta mucho con el dedo al que piensa distinto. As\u00ed no se llega a acuerdos en pol\u00edtica si no eres mayor\u00eda",
+  "geo": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": false,
+  "favorited": false,
+  "user": {
+    "verified": false,
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "statuses_count": 45,
+    "screen_name": "EliGuajardop",
+    "default_profile_image": false,
+    "time_zone": null,
+    "name": "Chichy",
+    "id_str": "2624384003",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/2624384003/1403725658",
+    "created_at": "Fri Jun 20 01:44:43 +0000 2014",
+    "friends_count": 33,
+    "url": null,
+    "profile_background_tile": false,
+    "protected": false,
+    "translator_type": "none",
+    "profile_text_color": "333333",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/780565558446190592/qZmr7Q10_normal.jpg",
+    "listed_count": 0,
+    "notifications": null,
+    "contributors_enabled": false,
+    "is_translator": false,
+    "location": null,
+    "profile_use_background_image": true,
+    "followers_count": 0,
+    "profile_sidebar_fill_color": "DDEEF6",
+    "geo_enabled": true,
+    "profile_link_color": "1DA1F2",
+    "favourites_count": 5,
+    "following": null,
+    "default_profile": true,
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_color": "C0DEED",
+    "id": 2624384003,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/780565558446190592/qZmr7Q10_normal.jpg",
+    "lang": "es",
+    "description": null,
+    "follow_request_sent": null,
+    "utc_offset": null
+  },
+  "quote_count": 0,
+  "lang": "es"
+}

@@ -1,0 +1,154 @@
+{
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "urls": [
+      {
+        "indices": [
+          117,
+          140
+        ],
+        "expanded_url": "https://twitter.com/i/web/status/922218758395047937",
+        "display_url": "twitter.com/i/web/status/9\u2026",
+        "url": "https://t.co/nj7dqWgJtL"
+      }
+    ],
+    "user_mentions": [
+      {
+        "indices": [
+          0,
+          10
+        ],
+        "screen_name": "iascierto",
+        "name": "Ivan Ascierto",
+        "id_str": "1949987402",
+        "id": 1949987402
+      }
+    ]
+  },
+  "in_reply_to_user_id": 1949987402,
+  "created_at": "Sun Oct 22 21:51:00 +0000 2017",
+  "favorite_count": 0,
+  "lang": "es",
+  "reply_count": 0,
+  "id_str": "922218758395047937",
+  "in_reply_to_user_id_str": "1949987402",
+  "extended_tweet": {
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "urls": [],
+      "user_mentions": [
+        {
+          "indices": [
+            0,
+            10
+          ],
+          "screen_name": "iascierto",
+          "name": "Ivan Ascierto",
+          "id_str": "1949987402",
+          "id": 1949987402
+        }
+      ]
+    },
+    "display_text_range": [
+      11,
+      144
+    ],
+    "full_text": "@iascierto El campeonato de Ferrari se perdi\u00f3 all\u00e1 por junio cuando me sub\u00ed al simulador y los mufe para siempre. Ahora necesito uno de Mercedes"
+  },
+  "in_reply_to_status_id": 922215935003496449,
+  "timestamp_ms": "1508709060654",
+  "truncated": true,
+  "text": "@iascierto El campeonato de Ferrari se perdi\u00f3 all\u00e1 por junio cuando me sub\u00ed al simulador y los mufe para siempre. A\u2026 https://t.co/nj7dqWgJtL",
+  "user": {
+    "time_zone": null,
+    "screen_name": "fede_grumpy",
+    "utc_offset": null,
+    "created_at": "Tue Apr 01 20:28:19 +0000 2014",
+    "profile_background_tile": true,
+    "notifications": null,
+    "lang": "es",
+    "default_profile": false,
+    "follow_request_sent": null,
+    "id_str": "2422642549",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/908831664507424768/xQoGsXJU_normal.jpg",
+    "name": "Federico Gordo",
+    "friends_count": 300,
+    "translator_type": "none",
+    "protected": false,
+    "following": null,
+    "is_translator": false,
+    "profile_text_color": "333333",
+    "listed_count": 1,
+    "profile_link_color": "0B118C",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+    "url": null,
+    "id": 2422642549,
+    "favourites_count": 93,
+    "profile_background_color": "131516",
+    "followers_count": 75,
+    "statuses_count": 542,
+    "description": "Fanatico de NBA, F1 , WRC, River Plate.",
+    "location": "Cordoba",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+    "default_profile_image": false,
+    "verified": false,
+    "profile_sidebar_fill_color": "EFEFEF",
+    "profile_use_background_image": true,
+    "contributors_enabled": false,
+    "profile_sidebar_border_color": "EEEEEE",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/908831664507424768/xQoGsXJU_normal.jpg",
+    "geo_enabled": true
+  },
+  "geo": null,
+  "id": 922218758395047937,
+  "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+  "retweeted": false,
+  "filter_level": "low",
+  "in_reply_to_status_id_str": "922215935003496449",
+  "quote_count": 0,
+  "favorited": false,
+  "coordinates": null,
+  "display_text_range": [
+    11,
+    140
+  ],
+  "retweet_count": 0,
+  "is_quote_status": false,
+  "in_reply_to_screen_name": "iascierto",
+  "contributors": null,
+  "place": {
+    "bounding_box": {
+      "coordinates": [
+        [
+          [
+            -64.3195,
+            -31.523576
+          ],
+          [
+            -64.3195,
+            -31.307337
+          ],
+          [
+            -64.076551,
+            -31.307337
+          ],
+          [
+            -64.076551,
+            -31.523576
+          ]
+        ]
+      ],
+      "type": "Polygon"
+    },
+    "name": "C\u00f3rdoba",
+    "url": "https://api.twitter.com/1.1/geo/id/00f84d414936f28e.json",
+    "country_code": "AR",
+    "id": "00f84d414936f28e",
+    "place_type": "city",
+    "attributes": {},
+    "full_name": "C\u00f3rdoba, Argentina",
+    "country": "Argentina"
+  }
+}

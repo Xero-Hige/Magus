@@ -1,0 +1,154 @@
+{
+  "in_reply_to_user_id": 849393392035536897,
+  "contributors": null,
+  "id": 922131511876489216,
+  "retweeted": false,
+  "retweet_count": 0,
+  "timestamp_ms": "1508688259463",
+  "in_reply_to_status_id": 922130457189371904,
+  "id_str": "922131511876489216",
+  "coordinates": null,
+  "created_at": "Sun Oct 22 16:04:19 +0000 2017",
+  "quote_count": 0,
+  "favorite_count": 0,
+  "entities": {
+    "user_mentions": [
+      {
+        "indices": [
+          0,
+          16
+        ],
+        "name": "manchanfantasma",
+        "screen_name": "manchanfantasma",
+        "id": 849393392035536897,
+        "id_str": "849393392035536897"
+      }
+    ],
+    "symbols": [],
+    "hashtags": [],
+    "urls": [
+      {
+        "expanded_url": "https://twitter.com/i/web/status/922131511876489216",
+        "indices": [
+          117,
+          140
+        ],
+        "url": "https://t.co/cYHrg669DS",
+        "display_url": "twitter.com/i/web/status/9\u2026"
+      }
+    ]
+  },
+  "reply_count": 0,
+  "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+  "place": {
+    "attributes": {},
+    "url": "https://api.twitter.com/1.1/geo/id/0191c3b40ed74666.json",
+    "place_type": "city",
+    "id": "0191c3b40ed74666",
+    "country_code": "AR",
+    "name": "Guaymall\u00e9n",
+    "country": "Argentina",
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            -68.838459,
+            -32.942301
+          ],
+          [
+            -68.838459,
+            -32.861169
+          ],
+          [
+            -68.721675,
+            -32.861169
+          ],
+          [
+            -68.721675,
+            -32.942301
+          ]
+        ]
+      ]
+    },
+    "full_name": "Guaymall\u00e9n, Argentina"
+  },
+  "truncated": true,
+  "in_reply_to_status_id_str": "922130457189371904",
+  "in_reply_to_screen_name": "manchanfantasma",
+  "filter_level": "low",
+  "text": "@manchanfantasma no importa,si el odio existe,es porque existe el encanto,si sos lo primero,prueba lo segundo,es co\u2026 https://t.co/cYHrg669DS",
+  "geo": null,
+  "in_reply_to_user_id_str": "849393392035536897",
+  "is_quote_status": false,
+  "display_text_range": [
+    17,
+    140
+  ],
+  "favorited": false,
+  "user": {
+    "verified": false,
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "statuses_count": 7472,
+    "screen_name": "aliciasantos48",
+    "default_profile_image": false,
+    "time_zone": "America/Argentina/Buenos_Aires",
+    "name": "Alicia de los Santos",
+    "id_str": "3893422577",
+    "profile_sidebar_border_color": "C0DEED",
+    "created_at": "Wed Oct 07 21:13:40 +0000 2015",
+    "friends_count": 76,
+    "url": null,
+    "profile_background_tile": false,
+    "protected": false,
+    "translator_type": "none",
+    "profile_text_color": "333333",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/735525728796581888/A0emnaj5_normal.jpg",
+    "listed_count": 4,
+    "notifications": null,
+    "contributors_enabled": false,
+    "is_translator": false,
+    "location": "Godoy Cruz, Argentina",
+    "profile_use_background_image": true,
+    "followers_count": 160,
+    "profile_sidebar_fill_color": "DDEEF6",
+    "geo_enabled": true,
+    "profile_link_color": "1DA1F2",
+    "favourites_count": 11299,
+    "following": null,
+    "default_profile": true,
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_color": "C0DEED",
+    "id": 3893422577,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/735525728796581888/A0emnaj5_normal.jpg",
+    "lang": "es",
+    "description": "no existe lo imposible,s\u00f3lo es el deseo que aquello posible este en nuestra realidad.",
+    "follow_request_sent": null,
+    "utc_offset": -10800
+  },
+  "extended_tweet": {
+    "entities": {
+      "user_mentions": [
+        {
+          "indices": [
+            0,
+            16
+          ],
+          "name": "manchanfantasma",
+          "screen_name": "manchanfantasma",
+          "id": 849393392035536897,
+          "id_str": "849393392035536897"
+        }
+      ],
+      "symbols": [],
+      "hashtags": [],
+      "urls": []
+    },
+    "display_text_range": [
+      17,
+      153
+    ],
+    "full_text": "@manchanfantasma no importa,si el odio existe,es porque existe el encanto,si sos lo primero,prueba lo segundo,es como beber una buena cerveza lentamente."
+  },
+  "lang": "es"
+}

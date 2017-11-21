@@ -1,0 +1,137 @@
+{
+  "in_reply_to_user_id": null,
+  "contributors": null,
+  "in_reply_to_screen_name": null,
+  "retweeted": false,
+  "retweet_count": 0,
+  "timestamp_ms": "1508689730381",
+  "in_reply_to_status_id": null,
+  "id_str": "922137681353695232",
+  "created_at": "Sun Oct 22 16:28:50 +0000 2017",
+  "id": 922137681353695232,
+  "coordinates": null,
+  "favorite_count": 0,
+  "entities": {
+    "user_mentions": [
+      {
+        "indices": [
+          23,
+          39
+        ],
+        "name": "La Divina Comida",
+        "screen_name": "LaDivina_Comida",
+        "id": 737312955075813377,
+        "id_str": "737312955075813377"
+      },
+      {
+        "indices": [
+          75,
+          88
+        ],
+        "name": "Jose Miguel Vi\u00f1uela",
+        "screen_name": "josemvinuela",
+        "id": 149560555,
+        "id_str": "149560555"
+      },
+      {
+        "indices": [
+          103,
+          115
+        ],
+        "name": "pamela d\u00edaz",
+        "screen_name": "pamelafiera",
+        "id": 472985900,
+        "id_str": "472985900"
+      }
+    ],
+    "symbols": [],
+    "hashtags": [],
+    "urls": []
+  },
+  "reply_count": 0,
+  "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+  "place": {
+    "attributes": {},
+    "url": "https://api.twitter.com/1.1/geo/id/0045ea916cada8bc.json",
+    "place_type": "city",
+    "id": "0045ea916cada8bc",
+    "country_code": "CL",
+    "name": "Villa Alemana",
+    "country": "Chile",
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            -71.399132,
+            -33.121003
+          ],
+          [
+            -71.399132,
+            -33.011127
+          ],
+          [
+            -71.256212,
+            -33.011127
+          ],
+          [
+            -71.256212,
+            -33.121003
+          ]
+        ]
+      ]
+    },
+    "full_name": "Villa Alemana, Chile"
+  },
+  "truncated": false,
+  "in_reply_to_status_id_str": null,
+  "filter_level": "low",
+  "text": "Buen\u00edsimo el programa\ud83c\udf7d @LaDivina_Comida lo vi hoy. Que manera de re\u00edr\ud83d\ude02 con @josemvinuela y el museo de @pamelafiera Preciosa tu casa \ud83d\udc4f\ud83d\udc4f\ud83d\ude19",
+  "geo": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": false,
+  "favorited": false,
+  "user": {
+    "verified": false,
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+    "statuses_count": 1614,
+    "screen_name": "pameliwyy",
+    "default_profile_image": false,
+    "time_zone": null,
+    "name": "Pame Mendoza",
+    "id_str": "157201139",
+    "profile_sidebar_border_color": "5ED4DC",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/157201139/1497722464",
+    "created_at": "Sat Jun 19 04:00:03 +0000 2010",
+    "friends_count": 319,
+    "url": null,
+    "profile_background_tile": false,
+    "protected": false,
+    "translator_type": "none",
+    "profile_text_color": "3C3940",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/876138105958477824/O9WvrNRG_normal.jpg",
+    "listed_count": 1,
+    "notifications": null,
+    "contributors_enabled": false,
+    "is_translator": false,
+    "location": "V Regi\u00f3n ",
+    "profile_use_background_image": true,
+    "followers_count": 155,
+    "profile_sidebar_fill_color": "95E8EC",
+    "geo_enabled": true,
+    "profile_link_color": "0099B9",
+    "favourites_count": 1073,
+    "following": null,
+    "default_profile": false,
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+    "profile_background_color": "0099B9",
+    "id": 157201139,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/876138105958477824/O9WvrNRG_normal.jpg",
+    "lang": "es",
+    "description": "T\u00e9cnico Asistente de P\u00e1rvulos \r\nFundaci\u00f3n Integra Titulada Universidad Cat\u00f3lica de Temuco #HijoEmiliano\u2764 #VillaAlemana  #Chile",
+    "follow_request_sent": null,
+    "utc_offset": null
+  },
+  "quote_count": 0,
+  "lang": "es"
+}

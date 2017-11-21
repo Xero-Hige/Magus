@@ -1,0 +1,106 @@
+{
+  "in_reply_to_user_id": null,
+  "contributors": null,
+  "in_reply_to_screen_name": null,
+  "retweeted": false,
+  "retweet_count": 0,
+  "timestamp_ms": "1508691595062",
+  "in_reply_to_status_id": null,
+  "id_str": "922145502392717314",
+  "created_at": "Sun Oct 22 16:59:55 +0000 2017",
+  "id": 922145502392717314,
+  "coordinates": null,
+  "favorite_count": 0,
+  "entities": {
+    "user_mentions": [],
+    "symbols": [],
+    "hashtags": [],
+    "urls": []
+  },
+  "reply_count": 0,
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "place": {
+    "attributes": {},
+    "url": "https://api.twitter.com/1.1/geo/id/4afa2757051c5192.json",
+    "place_type": "admin",
+    "id": "4afa2757051c5192",
+    "country_code": "AR",
+    "name": "Buenos Aires",
+    "country": "Argentina",
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            -63.39386,
+            -41.035009
+          ],
+          [
+            -63.39386,
+            -33.260144
+          ],
+          [
+            -56.665836,
+            -33.260144
+          ],
+          [
+            -56.665836,
+            -41.035009
+          ]
+        ]
+      ]
+    },
+    "full_name": "Buenos Aires, Argentina"
+  },
+  "truncated": false,
+  "in_reply_to_status_id_str": null,
+  "filter_level": "low",
+  "text": "Ser honesto en cada disparo. Mi concepto de la felicidad.",
+  "geo": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": false,
+  "favorited": false,
+  "user": {
+    "verified": false,
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "statuses_count": 11434,
+    "screen_name": "roryblond",
+    "default_profile_image": false,
+    "time_zone": "Santiago",
+    "name": "Romy",
+    "id_str": "132765499",
+    "profile_sidebar_border_color": "000000",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/132765499/1467942936",
+    "created_at": "Wed Apr 14 03:42:39 +0000 2010",
+    "friends_count": 2648,
+    "url": null,
+    "profile_background_tile": false,
+    "protected": false,
+    "translator_type": "none",
+    "profile_text_color": "000000",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/900862079179116544/1XeUv5Fn_normal.jpg",
+    "listed_count": 15,
+    "notifications": null,
+    "contributors_enabled": false,
+    "is_translator": false,
+    "location": "Argentina",
+    "profile_use_background_image": false,
+    "followers_count": 3060,
+    "profile_sidebar_fill_color": "000000",
+    "geo_enabled": true,
+    "profile_link_color": "F58EA8",
+    "favourites_count": 14023,
+    "following": null,
+    "default_profile": false,
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_color": "000000",
+    "id": 132765499,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/900862079179116544/1XeUv5Fn_normal.jpg",
+    "lang": "es",
+    "description": "contadora-cursando abogac\u00eda/UADE Amo a la gente de buen corazon.Apasionada d la lectura.La sonrisa y la ternura es el icono m\u00e1s import\ud83d\udc95",
+    "follow_request_sent": null,
+    "utc_offset": -10800
+  },
+  "quote_count": 0,
+  "lang": "es"
+}

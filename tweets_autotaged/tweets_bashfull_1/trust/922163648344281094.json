@@ -1,0 +1,248 @@
+{
+  "in_reply_to_user_id": null,
+  "contributors": null,
+  "id": 922163648344281094,
+  "retweeted": false,
+  "retweet_count": 0,
+  "timestamp_ms": "1508695921394",
+  "in_reply_to_status_id": null,
+  "id_str": "922163648344281094",
+  "coordinates": null,
+  "created_at": "Sun Oct 22 18:12:01 +0000 2017",
+  "quote_count": 0,
+  "favorite_count": 0,
+  "entities": {
+    "user_mentions": [],
+    "symbols": [],
+    "hashtags": [
+      {
+        "text": "Neotone",
+        "indices": [
+          0,
+          8
+        ]
+      },
+      {
+        "text": "IsisPharmaMexico",
+        "indices": [
+          74,
+          91
+        ]
+      }
+    ],
+    "urls": [
+      {
+        "expanded_url": "https://twitter.com/i/web/status/922163648344281094",
+        "indices": [
+          93,
+          116
+        ],
+        "url": "https://t.co/VKf1kK8nVU",
+        "display_url": "twitter.com/i/web/status/9\u2026"
+      }
+    ]
+  },
+  "reply_count": 0,
+  "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+  "place": {
+    "attributes": {},
+    "url": "https://api.twitter.com/1.1/geo/id/c4320f726d222937.json",
+    "place_type": "country",
+    "id": "c4320f726d222937",
+    "country_code": "BO",
+    "name": "Bolivia",
+    "country": "Bolivia",
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            -69.640762,
+            -22.897682
+          ],
+          [
+            -69.640762,
+            -9.669105
+          ],
+          [
+            -57.453894,
+            -9.669105
+          ],
+          [
+            -57.453894,
+            -22.897682
+          ]
+        ]
+      ]
+    },
+    "full_name": "Bolivia"
+  },
+  "truncated": true,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_screen_name": null,
+  "filter_level": "low",
+  "text": "#Neotone Gel limpieza especial para pieles con problemas de pigmentaci\u00f3n. #IsisPharmaMexico\u2026 https://t.co/VKf1kK8nVU",
+  "geo": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": false,
+  "possibly_sensitive": false,
+  "display_text_range": [
+    0,
+    140
+  ],
+  "favorited": false,
+  "user": {
+    "verified": false,
+    "profile_background_image_url": "",
+    "statuses_count": 184,
+    "screen_name": "jacktorrestito",
+    "default_profile_image": false,
+    "time_zone": null,
+    "name": "Jack",
+    "id_str": "774366660832661504",
+    "profile_sidebar_border_color": "C0DEED",
+    "created_at": "Fri Sep 09 21:59:33 +0000 2016",
+    "friends_count": 408,
+    "url": null,
+    "profile_background_tile": false,
+    "protected": false,
+    "translator_type": "none",
+    "profile_text_color": "333333",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/851546969151614977/NzUO1tHl_normal.jpg",
+    "listed_count": 0,
+    "notifications": null,
+    "contributors_enabled": false,
+    "is_translator": false,
+    "location": null,
+    "profile_use_background_image": true,
+    "followers_count": 97,
+    "profile_sidebar_fill_color": "DDEEF6",
+    "geo_enabled": true,
+    "profile_link_color": "1DA1F2",
+    "favourites_count": 11977,
+    "following": null,
+    "default_profile": true,
+    "profile_background_image_url_https": "",
+    "profile_background_color": "F5F8FA",
+    "id": 774366660832661504,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/851546969151614977/NzUO1tHl_normal.jpg",
+    "lang": "es",
+    "description": null,
+    "follow_request_sent": null,
+    "utc_offset": null
+  },
+  "extended_tweet": {
+    "entities": {
+      "user_mentions": [],
+      "symbols": [],
+      "hashtags": [
+        {
+          "text": "Neotone",
+          "indices": [
+            0,
+            8
+          ]
+        },
+        {
+          "text": "IsisPharmaMexico",
+          "indices": [
+            74,
+            91
+          ]
+        },
+        {
+          "text": "ConsultaConTuDermatologo",
+          "indices": [
+            93,
+            118
+          ]
+        }
+      ],
+      "urls": [],
+      "media": [
+        {
+          "indices": [
+            119,
+            142
+          ],
+          "media_url_https": "https://pbs.twimg.com/media/DMwu6DgW4AAvRJn.jpg",
+          "url": "https://t.co/KKOBY3xcsi",
+          "expanded_url": "https://twitter.com/jacktorrestito/status/922163648344281094/photo/1",
+          "id": 922163598612422656,
+          "sizes": {
+            "medium": {
+              "resize": "fit",
+              "w": 1200,
+              "h": 1200
+            },
+            "large": {
+              "resize": "fit",
+              "w": 2048,
+              "h": 2048
+            },
+            "small": {
+              "resize": "fit",
+              "w": 680,
+              "h": 680
+            },
+            "thumb": {
+              "resize": "crop",
+              "w": 150,
+              "h": 150
+            }
+          },
+          "media_url": "http://pbs.twimg.com/media/DMwu6DgW4AAvRJn.jpg",
+          "id_str": "922163598612422656",
+          "display_url": "pic.twitter.com/KKOBY3xcsi",
+          "type": "photo"
+        }
+      ]
+    },
+    "display_text_range": [
+      0,
+      118
+    ],
+    "extended_entities": {
+      "media": [
+        {
+          "indices": [
+            119,
+            142
+          ],
+          "media_url_https": "https://pbs.twimg.com/media/DMwu6DgW4AAvRJn.jpg",
+          "url": "https://t.co/KKOBY3xcsi",
+          "expanded_url": "https://twitter.com/jacktorrestito/status/922163648344281094/photo/1",
+          "id": 922163598612422656,
+          "sizes": {
+            "medium": {
+              "resize": "fit",
+              "w": 1200,
+              "h": 1200
+            },
+            "large": {
+              "resize": "fit",
+              "w": 2048,
+              "h": 2048
+            },
+            "small": {
+              "resize": "fit",
+              "w": 680,
+              "h": 680
+            },
+            "thumb": {
+              "resize": "crop",
+              "w": 150,
+              "h": 150
+            }
+          },
+          "media_url": "http://pbs.twimg.com/media/DMwu6DgW4AAvRJn.jpg",
+          "id_str": "922163598612422656",
+          "display_url": "pic.twitter.com/KKOBY3xcsi",
+          "type": "photo"
+        }
+      ]
+    },
+    "full_text": "#Neotone Gel limpieza especial para pieles con problemas de pigmentaci\u00f3n. #IsisPharmaMexico  #ConsultaConTuDermatologo https://t.co/KKOBY3xcsi"
+  },
+  "lang": "es"
+}

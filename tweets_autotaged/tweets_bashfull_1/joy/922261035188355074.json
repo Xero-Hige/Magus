@@ -1,0 +1,120 @@
+{
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "indices": [
+          0,
+          15
+        ],
+        "screen_name": "Super_Agente99",
+        "name": "#Agente99",
+        "id_str": "92595984",
+        "id": 92595984
+      }
+    ]
+  },
+  "in_reply_to_user_id": 92595984,
+  "created_at": "Mon Oct 23 00:39:00 +0000 2017",
+  "favorite_count": 0,
+  "lang": "es",
+  "reply_count": 0,
+  "id_str": "922261035188355074",
+  "in_reply_to_user_id_str": "92595984",
+  "in_reply_to_status_id": 922183365343744000,
+  "timestamp_ms": "1508719140227",
+  "truncated": false,
+  "text": "@Super_Agente99 YO SOY PERFECTO PERO ME ACABO DE EQUIVOCAR  Saludos a todos los amigos de buena voluntad",
+  "user": {
+    "time_zone": null,
+    "screen_name": "guitarrerosolit",
+    "utc_offset": null,
+    "created_at": "Wed May 29 03:46:08 +0000 2013",
+    "profile_background_tile": false,
+    "notifications": null,
+    "lang": "es",
+    "default_profile": true,
+    "follow_request_sent": null,
+    "id_str": "1466333863",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/760663265223569409/xoZCoIkR_normal.jpg",
+    "name": "guitarrero",
+    "friends_count": 183,
+    "translator_type": "none",
+    "protected": false,
+    "following": null,
+    "is_translator": false,
+    "profile_text_color": "333333",
+    "listed_count": 5,
+    "profile_link_color": "1DA1F2",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "url": null,
+    "id": 1466333863,
+    "favourites_count": 67,
+    "profile_background_color": "C0DEED",
+    "followers_count": 275,
+    "statuses_count": 8139,
+    "description": "Tengo muchos a\u00f1os para discutir con seguidores del Che o Fidel Son fanaticos y no entienden razones",
+    "location": null,
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "default_profile_image": false,
+    "verified": false,
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_use_background_image": true,
+    "contributors_enabled": false,
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/760663265223569409/xoZCoIkR_normal.jpg",
+    "geo_enabled": true
+  },
+  "geo": null,
+  "id": 922261035188355074,
+  "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+  "retweeted": false,
+  "filter_level": "low",
+  "in_reply_to_status_id_str": "922183365343744000",
+  "quote_count": 0,
+  "favorited": false,
+  "coordinates": null,
+  "display_text_range": [
+    16,
+    104
+  ],
+  "retweet_count": 0,
+  "is_quote_status": false,
+  "in_reply_to_screen_name": "Super_Agente99",
+  "contributors": null,
+  "place": {
+    "bounding_box": {
+      "coordinates": [
+        [
+          [
+            -70.608694,
+            -33.486182
+          ],
+          [
+            -70.608694,
+            -33.364619
+          ],
+          [
+            -70.429141,
+            -33.364619
+          ],
+          [
+            -70.429141,
+            -33.486182
+          ]
+        ]
+      ],
+      "type": "Polygon"
+    },
+    "name": "Las Condes",
+    "url": "https://api.twitter.com/1.1/geo/id/00c4b64e7affea25.json",
+    "country_code": "CL",
+    "id": "00c4b64e7affea25",
+    "place_type": "city",
+    "attributes": {},
+    "full_name": "Las Condes, Chile",
+    "country": "Chile"
+  }
+}

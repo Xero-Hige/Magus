@@ -1,0 +1,155 @@
+{
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "urls": [
+      {
+        "indices": [
+          117,
+          140
+        ],
+        "expanded_url": "https://twitter.com/i/web/status/922223461115809792",
+        "display_url": "twitter.com/i/web/status/9\u2026",
+        "url": "https://t.co/MaEq1pPPZm"
+      }
+    ],
+    "user_mentions": [
+      {
+        "indices": [
+          0,
+          9
+        ],
+        "screen_name": "raulbait",
+        "name": "raul",
+        "id_str": "304089400",
+        "id": 304089400
+      }
+    ]
+  },
+  "in_reply_to_user_id": 304089400,
+  "created_at": "Sun Oct 22 22:09:41 +0000 2017",
+  "favorite_count": 0,
+  "lang": "es",
+  "reply_count": 0,
+  "id_str": "922223461115809792",
+  "in_reply_to_user_id_str": "304089400",
+  "extended_tweet": {
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "urls": [],
+      "user_mentions": [
+        {
+          "indices": [
+            0,
+            9
+          ],
+          "screen_name": "raulbait",
+          "name": "raul",
+          "id_str": "304089400",
+          "id": 304089400
+        }
+      ]
+    },
+    "display_text_range": [
+      10,
+      146
+    ],
+    "full_text": "@raulbait Los votos de Espa\u00f1a son a los candidatos nacionales, diputados y senadores de los 23 distritos del pa\u00eds no as\u00ed a los concejales. es as\u00ed."
+  },
+  "in_reply_to_status_id": 922222872898269189,
+  "timestamp_ms": "1508710181870",
+  "truncated": true,
+  "text": "@raulbait Los votos de Espa\u00f1a son a los candidatos nacionales, diputados y senadores de los 23 distritos del pa\u00eds n\u2026 https://t.co/MaEq1pPPZm",
+  "user": {
+    "time_zone": null,
+    "screen_name": "UshuaiaMarisa",
+    "utc_offset": null,
+    "created_at": "Sun Feb 26 17:01:41 +0000 2017",
+    "profile_background_tile": false,
+    "notifications": null,
+    "lang": "es",
+    "default_profile": false,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/835897637547159552/1491765668",
+    "id_str": "835897637547159552",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/836368651091644417/Rrw-EvbM_normal.jpg",
+    "name": "Marisa",
+    "friends_count": 2255,
+    "translator_type": "none",
+    "protected": false,
+    "following": null,
+    "is_translator": false,
+    "follow_request_sent": null,
+    "profile_text_color": "000000",
+    "listed_count": 1,
+    "profile_link_color": "1B95E0",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "url": "https://twitter.com/UshuaiaMarisa",
+    "id": 835897637547159552,
+    "favourites_count": 3008,
+    "profile_background_color": "000000",
+    "followers_count": 1167,
+    "statuses_count": 12593,
+    "description": "Salte\u00f1a, abogada, rebelde, incomprable, democrata y admiradora de Mar\u00eda Tabares.",
+    "location": "Salta, Argentina",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "default_profile_image": false,
+    "verified": false,
+    "profile_sidebar_fill_color": "000000",
+    "profile_use_background_image": false,
+    "contributors_enabled": false,
+    "profile_sidebar_border_color": "000000",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/836368651091644417/Rrw-EvbM_normal.jpg",
+    "geo_enabled": true
+  },
+  "geo": null,
+  "id": 922223461115809792,
+  "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+  "retweeted": false,
+  "filter_level": "low",
+  "in_reply_to_status_id_str": "922222872898269189",
+  "quote_count": 0,
+  "favorited": false,
+  "coordinates": null,
+  "display_text_range": [
+    10,
+    140
+  ],
+  "retweet_count": 0,
+  "is_quote_status": false,
+  "in_reply_to_screen_name": "raulbait",
+  "contributors": null,
+  "place": {
+    "bounding_box": {
+      "coordinates": [
+        [
+          [
+            -65.532514,
+            -24.871621
+          ],
+          [
+            -65.532514,
+            -24.74685
+          ],
+          [
+            -65.358702,
+            -24.74685
+          ],
+          [
+            -65.358702,
+            -24.871621
+          ]
+        ]
+      ],
+      "type": "Polygon"
+    },
+    "name": "Salta",
+    "url": "https://api.twitter.com/1.1/geo/id/0085b01d4f65f576.json",
+    "country_code": "AR",
+    "id": "0085b01d4f65f576",
+    "place_type": "city",
+    "attributes": {},
+    "full_name": "Salta, Argentina",
+    "country": "Argentina"
+  }
+}

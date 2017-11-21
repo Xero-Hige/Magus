@@ -1,0 +1,137 @@
+{
+  "in_reply_to_user_id": null,
+  "contributors": null,
+  "in_reply_to_screen_name": null,
+  "retweeted": false,
+  "retweet_count": 0,
+  "timestamp_ms": "1508667079683",
+  "in_reply_to_status_id": null,
+  "id_str": "922042677440450565",
+  "created_at": "Sun Oct 22 10:11:19 +0000 2017",
+  "id": 922042677440450565,
+  "coordinates": {
+    "type": "Point",
+    "coordinates": [
+      -58.49811565,
+      -34.59182711
+    ]
+  },
+  "favorite_count": 0,
+  "entities": {
+    "user_mentions": [],
+    "symbols": [],
+    "hashtags": [
+      {
+        "text": "eleccionesargentina",
+        "indices": [
+          55,
+          75
+        ]
+      }
+    ],
+    "urls": [
+      {
+        "expanded_url": "https://www.swarmapp.com/c/3yYLII1jSIg",
+        "indices": [
+          116,
+          139
+        ],
+        "url": "https://t.co/6BGHBiU3kG",
+        "display_url": "swarmapp.com/c/3yYLII1jSIg"
+      }
+    ]
+  },
+  "reply_count": 0,
+  "source": "<a href=\"http://foursquare.com\" rel=\"nofollow\">Foursquare</a>",
+  "place": {
+    "attributes": {},
+    "url": "https://api.twitter.com/1.1/geo/id/018f1cde6bad9747.json",
+    "place_type": "city",
+    "id": "018f1cde6bad9747",
+    "country_code": "AR",
+    "name": "Ciudad Aut\u00f3noma de Buenos Aires",
+    "country": "Argentina",
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            -58.531792,
+            -34.674453
+          ],
+          [
+            -58.531792,
+            -34.534177
+          ],
+          [
+            -58.353494,
+            -34.534177
+          ],
+          [
+            -58.353494,
+            -34.674453
+          ]
+        ]
+      ]
+    },
+    "full_name": "Ciudad Aut\u00f3noma de Buenos Aires, Argentina"
+  },
+  "truncated": false,
+  "in_reply_to_status_id_str": null,
+  "filter_level": "low",
+  "text": "Chicos, el correo lleg\u00f3 a horario, lloro de la emoci\u00f3n #eleccionesargentina (@ Club El Talar in CABA, Buenos Aires) https://t.co/6BGHBiU3kG",
+  "geo": {
+    "type": "Point",
+    "coordinates": [
+      -34.59182711,
+      -58.49811565
+    ]
+  },
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": false,
+  "possibly_sensitive": false,
+  "favorited": false,
+  "user": {
+    "verified": false,
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme11/bg.gif",
+    "statuses_count": 25471,
+    "screen_name": "flor_r",
+    "default_profile_image": false,
+    "time_zone": "Buenos Aires",
+    "name": "Florencia Radici",
+    "id_str": "28898926",
+    "profile_sidebar_border_color": "CC3366",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/28898926/1348018776",
+    "created_at": "Sat Apr 04 23:59:27 +0000 2009",
+    "friends_count": 723,
+    "url": "http://instagram.com/flor_radici",
+    "profile_background_tile": true,
+    "protected": false,
+    "translator_type": "none",
+    "profile_text_color": "362720",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/542503234149949441/avtGJve4_normal.jpeg",
+    "listed_count": 102,
+    "notifications": null,
+    "contributors_enabled": false,
+    "is_translator": false,
+    "location": "Argentina",
+    "profile_use_background_image": true,
+    "followers_count": 3703,
+    "profile_sidebar_fill_color": "E5507E",
+    "geo_enabled": true,
+    "profile_link_color": "B40B43",
+    "favourites_count": 3471,
+    "following": null,
+    "default_profile": false,
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme11/bg.gif",
+    "profile_background_color": "FF6699",
+    "id": 28898926,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/542503234149949441/avtGJve4_normal.jpeg",
+    "lang": "es",
+    "description": "Soy periodista de negocios en @AperturaCom y @CronistaCom, pero cuando nadie me ve bailo Britney Spears.",
+    "follow_request_sent": null,
+    "utc_offset": -10800
+  },
+  "quote_count": 0,
+  "lang": "es"
+}

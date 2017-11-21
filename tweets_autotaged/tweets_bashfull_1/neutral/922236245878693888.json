@@ -1,0 +1,180 @@
+{
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "urls": [
+      {
+        "indices": [
+          117,
+          140
+        ],
+        "expanded_url": "https://twitter.com/i/web/status/922236245878693888",
+        "display_url": "twitter.com/i/web/status/9\u2026",
+        "url": "https://t.co/0Hfap24bS3"
+      }
+    ],
+    "user_mentions": [
+      {
+        "indices": [
+          0,
+          14
+        ],
+        "screen_name": "SalvaBanchero",
+        "name": "Salvador Banchero",
+        "id_str": "185693958",
+        "id": 185693958
+      },
+      {
+        "indices": [
+          42,
+          54
+        ],
+        "screen_name": "Punto_Penal",
+        "name": "Punto Penal",
+        "id_str": "272919410",
+        "id": 272919410
+      }
+    ]
+  },
+  "in_reply_to_user_id": 185693958,
+  "created_at": "Sun Oct 22 23:00:29 +0000 2017",
+  "favorite_count": 0,
+  "lang": "es",
+  "reply_count": 0,
+  "id_str": "922236245878693888",
+  "in_reply_to_user_id_str": "185693958",
+  "extended_tweet": {
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "urls": [],
+      "user_mentions": [
+        {
+          "indices": [
+            0,
+            14
+          ],
+          "screen_name": "SalvaBanchero",
+          "name": "Salvador Banchero",
+          "id_str": "185693958",
+          "id": 185693958
+        },
+        {
+          "indices": [
+            42,
+            54
+          ],
+          "screen_name": "Punto_Penal",
+          "name": "Punto Penal",
+          "id_str": "272919410",
+          "id": 272919410
+        },
+        {
+          "indices": [
+            228,
+            237
+          ],
+          "screen_name": "JCMigues",
+          "name": "JulioCesarMigues",
+          "id_str": "331169884",
+          "id": 331169884
+        }
+      ]
+    },
+    "display_text_range": [
+      0,
+      239
+    ],
+    "full_text": "@SalvaBanchero ya est\u00e1 , lo dijo Palma en @Punto_Penal si todos ponemos 12 usd ( 42 Mill\u00f3n d\u00f3lar)nos hacemos de los derechos y los ponemos al mejor postor , tema resuelto , es mucho menos de lo q se perdi\u00f3 en ancap y alas uy no @JCMigues ?"
+  },
+  "in_reply_to_status_id": null,
+  "timestamp_ms": "1508713229995",
+  "text": "@SalvaBanchero ya est\u00e1 , lo dijo Palma en @Punto_Penal si todos ponemos 12 usd ( 42 Mill\u00f3n d\u00f3lar)nos hacemos de los\u2026 https://t.co/0Hfap24bS3",
+  "user": {
+    "time_zone": null,
+    "screen_name": "leonoticiasentw",
+    "utc_offset": null,
+    "created_at": "Sun Dec 13 18:37:07 +0000 2015",
+    "profile_background_tile": false,
+    "notifications": null,
+    "lang": "es",
+    "default_profile": true,
+    "follow_request_sent": null,
+    "id_str": "4472889855",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/676110674184024064/O1oYkZCP_normal.jpg",
+    "name": "Al pie del ca\u00f1on",
+    "friends_count": 71,
+    "translator_type": "none",
+    "protected": false,
+    "following": null,
+    "is_translator": false,
+    "profile_text_color": "333333",
+    "listed_count": 0,
+    "profile_link_color": "1DA1F2",
+    "profile_background_image_url": "",
+    "url": null,
+    "id": 4472889855,
+    "favourites_count": 5,
+    "profile_background_color": "F5F8FA",
+    "followers_count": 20,
+    "statuses_count": 11,
+    "description": "Al pie del ca\u00f1\u00f3n",
+    "location": null,
+    "profile_background_image_url_https": "",
+    "default_profile_image": false,
+    "verified": false,
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_use_background_image": true,
+    "contributors_enabled": false,
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/676110674184024064/O1oYkZCP_normal.jpg",
+    "geo_enabled": true
+  },
+  "geo": null,
+  "id": 922236245878693888,
+  "quote_count": 0,
+  "retweeted": false,
+  "filter_level": "low",
+  "in_reply_to_status_id_str": null,
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "favorited": false,
+  "coordinates": null,
+  "truncated": true,
+  "retweet_count": 0,
+  "is_quote_status": false,
+  "in_reply_to_screen_name": "SalvaBanchero",
+  "contributors": null,
+  "place": {
+    "bounding_box": {
+      "coordinates": [
+        [
+          [
+            -56.430439,
+            -34.937896
+          ],
+          [
+            -56.430439,
+            -34.701599
+          ],
+          [
+            -56.029341,
+            -34.701599
+          ],
+          [
+            -56.029341,
+            -34.937896
+          ]
+        ]
+      ],
+      "type": "Polygon"
+    },
+    "name": "Montevideo",
+    "url": "https://api.twitter.com/1.1/geo/id/01a9dbb9232f0fac.json",
+    "country_code": "UY",
+    "id": "01a9dbb9232f0fac",
+    "place_type": "admin",
+    "attributes": {},
+    "full_name": "Montevideo, Uruguay",
+    "country": "Uruguay"
+  }
+}

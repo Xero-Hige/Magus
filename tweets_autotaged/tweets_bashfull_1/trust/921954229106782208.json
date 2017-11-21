@@ -1,0 +1,151 @@
+{
+  "in_reply_to_user_id": null,
+  "contributors": null,
+  "in_reply_to_screen_name": null,
+  "retweeted": false,
+  "retweet_count": 0,
+  "timestamp_ms": "1508645991957",
+  "in_reply_to_status_id": null,
+  "id_str": "921954229106782208",
+  "created_at": "Sun Oct 22 04:19:51 +0000 2017",
+  "id": 921954229106782208,
+  "coordinates": {
+    "type": "Point",
+    "coordinates": [
+      -70.65027778,
+      -33.43777778
+    ]
+  },
+  "favorite_count": 0,
+  "entities": {
+    "user_mentions": [],
+    "symbols": [],
+    "hashtags": [
+      {
+        "text": "santiagodechile",
+        "indices": [
+          0,
+          16
+        ]
+      },
+      {
+        "text": "lastarriasantiago",
+        "indices": [
+          18,
+          36
+        ]
+      },
+      {
+        "text": "cl",
+        "indices": [
+          37,
+          40
+        ]
+      }
+    ],
+    "urls": [
+      {
+        "expanded_url": "https://www.instagram.com/p/BaiWGlKgSaV/",
+        "indices": [
+          73,
+          96
+        ],
+        "url": "https://t.co/nSRsm56q04",
+        "display_url": "instagram.com/p/BaiWGlKgSaV/"
+      }
+    ]
+  },
+  "reply_count": 0,
+  "source": "<a href=\"http://instagram.com\" rel=\"nofollow\">Instagram</a>",
+  "place": {
+    "attributes": {},
+    "url": "https://api.twitter.com/1.1/geo/id/0010b4cb51ca93d8.json",
+    "place_type": "city",
+    "id": "0010b4cb51ca93d8",
+    "country_code": "CL",
+    "name": "Santiago",
+    "country": "Chile",
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            -70.692959,
+            -33.478574
+          ],
+          [
+            -70.692959,
+            -33.425749
+          ],
+          [
+            -70.626272,
+            -33.425749
+          ],
+          [
+            -70.626272,
+            -33.478574
+          ]
+        ]
+      ]
+    },
+    "full_name": "Santiago, Chile"
+  },
+  "truncated": false,
+  "in_reply_to_status_id_str": null,
+  "filter_level": "low",
+  "text": "#santiagodechile  #lastarriasantiago #cl en Santiago Metropolitan Region https://t.co/nSRsm56q04",
+  "geo": {
+    "type": "Point",
+    "coordinates": [
+      -33.43777778,
+      -70.65027778
+    ]
+  },
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": false,
+  "possibly_sensitive": false,
+  "favorited": false,
+  "user": {
+    "verified": false,
+    "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000026332692/8d84590165da52f162f985ad93364a1c.jpeg",
+    "statuses_count": 12316,
+    "screen_name": "drwnbustos",
+    "default_profile_image": false,
+    "time_zone": "Quito",
+    "name": "Durwuth!",
+    "id_str": "14925309",
+    "profile_sidebar_border_color": "FFFFFF",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/14925309/1500336412",
+    "created_at": "Tue May 27 20:42:16 +0000 2008",
+    "friends_count": 696,
+    "url": null,
+    "profile_background_tile": true,
+    "protected": false,
+    "translator_type": "none",
+    "profile_text_color": "3E4415",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/862512889210564608/gieOha6X_normal.jpg",
+    "listed_count": 7,
+    "notifications": null,
+    "contributors_enabled": false,
+    "is_translator": false,
+    "location": null,
+    "profile_use_background_image": false,
+    "followers_count": 366,
+    "profile_sidebar_fill_color": "B5F23A",
+    "geo_enabled": true,
+    "profile_link_color": "8E2CCF",
+    "favourites_count": 3559,
+    "following": null,
+    "default_profile": false,
+    "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000026332692/8d84590165da52f162f985ad93364a1c.jpeg",
+    "profile_background_color": "000000",
+    "id": 14925309,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/862512889210564608/gieOha6X_normal.jpg",
+    "lang": "es",
+    "description": "Hijo, sobrino, primo y amigo... ante todo ciudadano.... trabajo para el retail...",
+    "follow_request_sent": null,
+    "utc_offset": -18000
+  },
+  "quote_count": 0,
+  "lang": "es"
+}

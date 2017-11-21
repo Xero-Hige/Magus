@@ -1,0 +1,105 @@
+{
+  "in_reply_to_user_id": null,
+  "contributors": null,
+  "in_reply_to_screen_name": null,
+  "retweeted": false,
+  "retweet_count": 0,
+  "timestamp_ms": "1508651385196",
+  "in_reply_to_status_id": null,
+  "id_str": "921976849990864896",
+  "created_at": "Sun Oct 22 05:49:45 +0000 2017",
+  "id": 921976849990864896,
+  "coordinates": null,
+  "favorite_count": 0,
+  "entities": {
+    "user_mentions": [],
+    "symbols": [],
+    "hashtags": [],
+    "urls": []
+  },
+  "reply_count": 0,
+  "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+  "place": {
+    "attributes": {},
+    "url": "https://api.twitter.com/1.1/geo/id/010d7db066434a8a.json",
+    "place_type": "city",
+    "id": "010d7db066434a8a",
+    "country_code": "AR",
+    "name": "Mar del Plata",
+    "country": "Argentina",
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            -57.645563,
+            -38.127814
+          ],
+          [
+            -57.645563,
+            -37.895361
+          ],
+          [
+            -57.517298,
+            -37.895361
+          ],
+          [
+            -57.517298,
+            -38.127814
+          ]
+        ]
+      ]
+    },
+    "full_name": "Mar del Plata, Argentina"
+  },
+  "truncated": false,
+  "in_reply_to_status_id_str": null,
+  "filter_level": "low",
+  "text": "Campeonato: M\u00e1rquez 269, Dovizioso 236, la diferencia es de 33 unidades. S\u00edntesis, el natural de Cervera puede ser campe\u00f3n en Malasia.",
+  "geo": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": false,
+  "favorited": false,
+  "user": {
+    "verified": false,
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "statuses_count": 66216,
+    "screen_name": "eduronco8",
+    "default_profile_image": false,
+    "time_zone": "Brasilia",
+    "name": "Eduardo Ronco",
+    "id_str": "190135473",
+    "profile_sidebar_border_color": "C0DEED",
+    "created_at": "Mon Sep 13 04:29:32 +0000 2010",
+    "friends_count": 2340,
+    "url": null,
+    "profile_background_tile": false,
+    "protected": false,
+    "translator_type": "none",
+    "profile_text_color": "333333",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/2650079246/23a7b1a31d9252ca472247f8a4dedbe3_normal.jpeg",
+    "listed_count": 39,
+    "notifications": null,
+    "contributors_enabled": false,
+    "is_translator": false,
+    "location": "Necochea",
+    "profile_use_background_image": true,
+    "followers_count": 1332,
+    "profile_sidebar_fill_color": "DDEEF6",
+    "geo_enabled": true,
+    "profile_link_color": "1DA1F2",
+    "favourites_count": 312,
+    "following": null,
+    "default_profile": true,
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_color": "C0DEED",
+    "id": 190135473,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/2650079246/23a7b1a31d9252ca472247f8a4dedbe3_normal.jpeg",
+    "lang": "es",
+    "description": "Periodista.  Amante del periodismo, el deporte y la pol\u00edtica. Ex jugador de tenis. Necohea mi ciudad natal.",
+    "follow_request_sent": null,
+    "utc_offset": -7200
+  },
+  "quote_count": 0,
+  "lang": "es"
+}

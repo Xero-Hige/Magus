@@ -1,0 +1,165 @@
+{
+  "entities": {
+    "hashtags": [
+      {
+        "indices": [
+          18,
+          28
+        ],
+        "text": "argentina"
+      },
+      {
+        "indices": [
+          29,
+          42
+        ],
+        "text": "southamerica"
+      },
+      {
+        "indices": [
+          43,
+          56
+        ],
+        "text": "argentina_ig"
+      },
+      {
+        "indices": [
+          57,
+          69
+        ],
+        "text": "argentinaig"
+      },
+      {
+        "indices": [
+          70,
+          82
+        ],
+        "text": "photography"
+      }
+    ],
+    "symbols": [],
+    "urls": [
+      {
+        "indices": [
+          84,
+          107
+        ],
+        "expanded_url": "https://www.instagram.com/p/BaklMAAjqip/",
+        "display_url": "instagram.com/p/BaklMAAjqip/",
+        "url": "https://t.co/onGDAtkVvP"
+      }
+    ],
+    "user_mentions": []
+  },
+  "in_reply_to_user_id": null,
+  "created_at": "Mon Oct 23 01:10:10 +0000 2017",
+  "favorite_count": 0,
+  "lang": "es",
+  "reply_count": 0,
+  "id_str": "922268880533442560",
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_status_id": null,
+  "timestamp_ms": "1508721010703",
+  "possibly_sensitive": false,
+  "text": "Salta, Argentina.\n#argentina #southamerica #argentina_ig #argentinaig #photography\u2026 https://t.co/onGDAtkVvP",
+  "user": {
+    "time_zone": "Brasilia",
+    "screen_name": "klausbalzano",
+    "utc_offset": -7200,
+    "created_at": "Tue May 19 01:16:16 +0000 2009",
+    "profile_background_tile": false,
+    "notifications": null,
+    "lang": "pt",
+    "default_profile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/41020369/1448988346",
+    "id_str": "41020369",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/640898582409781249/UGzg25kZ_normal.jpg",
+    "name": "Klaus Balzano",
+    "friends_count": 121,
+    "translator_type": "none",
+    "protected": false,
+    "following": null,
+    "is_translator": false,
+    "follow_request_sent": null,
+    "profile_text_color": "333333",
+    "listed_count": 11,
+    "profile_link_color": "1DA1F2",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "url": null,
+    "id": 41020369,
+    "favourites_count": 106,
+    "profile_background_color": "C0DEED",
+    "followers_count": 129,
+    "statuses_count": 2034,
+    "description": null,
+    "location": "S\u00e3o Paulo/SP - Brazil",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "default_profile_image": false,
+    "verified": false,
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_use_background_image": true,
+    "contributors_enabled": false,
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/640898582409781249/UGzg25kZ_normal.jpg",
+    "geo_enabled": true
+  },
+  "geo": {
+    "coordinates": [
+      -24.7833,
+      -65.4167
+    ],
+    "type": "Point"
+  },
+  "id": 922268880533442560,
+  "quote_count": 0,
+  "retweeted": false,
+  "filter_level": "low",
+  "in_reply_to_status_id_str": null,
+  "source": "<a href=\"http://instagram.com\" rel=\"nofollow\">Instagram</a>",
+  "favorited": false,
+  "coordinates": {
+    "coordinates": [
+      -65.4167,
+      -24.7833
+    ],
+    "type": "Point"
+  },
+  "truncated": false,
+  "retweet_count": 0,
+  "is_quote_status": false,
+  "in_reply_to_screen_name": null,
+  "contributors": null,
+  "place": {
+    "bounding_box": {
+      "coordinates": [
+        [
+          [
+            -65.532514,
+            -24.871621
+          ],
+          [
+            -65.532514,
+            -24.74685
+          ],
+          [
+            -65.358702,
+            -24.74685
+          ],
+          [
+            -65.358702,
+            -24.871621
+          ]
+        ]
+      ],
+      "type": "Polygon"
+    },
+    "name": "Salta",
+    "url": "https://api.twitter.com/1.1/geo/id/0085b01d4f65f576.json",
+    "country_code": "AR",
+    "id": "0085b01d4f65f576",
+    "place_type": "city",
+    "attributes": {},
+    "full_name": "Salta, Argentina",
+    "country": "Argentina"
+  }
+}

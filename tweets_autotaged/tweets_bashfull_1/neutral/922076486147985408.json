@@ -1,0 +1,117 @@
+{
+  "in_reply_to_user_id": null,
+  "contributors": null,
+  "in_reply_to_screen_name": null,
+  "retweeted": false,
+  "retweet_count": 0,
+  "timestamp_ms": "1508675140307",
+  "in_reply_to_status_id": null,
+  "id_str": "922076486147985408",
+  "created_at": "Sun Oct 22 12:25:40 +0000 2017",
+  "id": 922076486147985408,
+  "coordinates": null,
+  "favorite_count": 0,
+  "entities": {
+    "user_mentions": [
+      {
+        "indices": [
+          22,
+          35
+        ],
+        "name": "Tigo Paraguay",
+        "screen_name": "TigoParaguay",
+        "id": 26780020,
+        "id_str": "26780020"
+      }
+    ],
+    "symbols": [],
+    "hashtags": [],
+    "urls": []
+  },
+  "reply_count": 0,
+  "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+  "place": {
+    "attributes": {},
+    "url": "https://api.twitter.com/1.1/geo/id/01f2931e2c7f48a8.json",
+    "place_type": "city",
+    "id": "01f2931e2c7f48a8",
+    "country_code": "PY",
+    "name": "Asuncion",
+    "country": "Paraguay",
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            -57.674304,
+            -25.34793
+          ],
+          [
+            -57.674304,
+            -25.252598
+          ],
+          [
+            -57.537731,
+            -25.252598
+          ],
+          [
+            -57.537731,
+            -25.34793
+          ]
+        ]
+      ]
+    },
+    "full_name": "Asuncion, Paraguay"
+  },
+  "truncated": false,
+  "in_reply_to_status_id_str": null,
+  "filter_level": "low",
+  "text": "Quiero saber nomas si @TigoParaguay reembolsara las horas sin internet y sin cable casi 10hs hasta ahora \ud83d\ude23",
+  "geo": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": false,
+  "favorited": false,
+  "user": {
+    "verified": false,
+    "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000139532657/w0Zuf3NO.png",
+    "statuses_count": 1084,
+    "screen_name": "romylica",
+    "default_profile_image": false,
+    "time_zone": "Atlantic Time (Canada)",
+    "name": "Romy Lilian",
+    "id_str": "455983179",
+    "profile_sidebar_border_color": "EEEEEE",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/455983179/1506228417",
+    "created_at": "Thu Jan 05 18:56:19 +0000 2012",
+    "friends_count": 626,
+    "url": "http://instagram.com/romylica",
+    "profile_background_tile": true,
+    "protected": false,
+    "translator_type": "none",
+    "profile_text_color": "038543",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/610764255932121088/q8Dlxios_normal.jpg",
+    "listed_count": 0,
+    "notifications": null,
+    "contributors_enabled": false,
+    "is_translator": false,
+    "location": "Asuncion, Paraguay",
+    "profile_use_background_image": true,
+    "followers_count": 150,
+    "profile_sidebar_fill_color": "F6F6F6",
+    "geo_enabled": true,
+    "profile_link_color": "333333",
+    "favourites_count": 1403,
+    "following": null,
+    "default_profile": false,
+    "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000139532657/w0Zuf3NO.png",
+    "profile_background_color": "ACDED6",
+    "id": 455983179,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/610764255932121088/q8Dlxios_normal.jpg",
+    "lang": "es",
+    "description": "Madre, Actriz, adicta al chocolate y amante de la poes\u00eda.\n\u201dThe theatre is a spiritual and social X-ray of its time.\u201d Stella Adler\nAsunci\u00f3n, Paraguay\uff0cSudamerica",
+    "follow_request_sent": null,
+    "utc_offset": -10800
+  },
+  "quote_count": 0,
+  "lang": "es"
+}

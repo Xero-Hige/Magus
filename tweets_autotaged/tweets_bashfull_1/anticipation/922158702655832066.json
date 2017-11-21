@@ -1,0 +1,183 @@
+{
+  "in_reply_to_user_id": 335462063,
+  "contributors": null,
+  "id": 922158702655832066,
+  "retweeted": false,
+  "retweet_count": 0,
+  "timestamp_ms": "1508694742250",
+  "in_reply_to_status_id": 922103925951664133,
+  "id_str": "922158702655832066",
+  "coordinates": null,
+  "created_at": "Sun Oct 22 17:52:22 +0000 2017",
+  "quote_count": 0,
+  "favorite_count": 0,
+  "entities": {
+    "user_mentions": [
+      {
+        "indices": [
+          0,
+          12
+        ],
+        "name": "Derecho enZapatillas",
+        "screen_name": "dzapatillas",
+        "id": 335462063,
+        "id_str": "335462063"
+      },
+      {
+        "indices": [
+          13,
+          21
+        ],
+        "name": "Bernardo Erlich \ud83c\udf4b",
+        "screen_name": "berlich",
+        "id": 10668832,
+        "id_str": "10668832"
+      }
+    ],
+    "symbols": [],
+    "hashtags": [],
+    "urls": [
+      {
+        "expanded_url": "https://twitter.com/i/web/status/922158702655832066",
+        "indices": [
+          117,
+          140
+        ],
+        "url": "https://t.co/Ml41qCBTKh",
+        "display_url": "twitter.com/i/web/status/9\u2026"
+      }
+    ]
+  },
+  "reply_count": 0,
+  "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+  "place": {
+    "attributes": {},
+    "url": "https://api.twitter.com/1.1/geo/id/018f1cde6bad9747.json",
+    "place_type": "city",
+    "id": "018f1cde6bad9747",
+    "country_code": "AR",
+    "name": "Ciudad Aut\u00f3noma de Buenos Aires",
+    "country": "Argentina",
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            -58.531792,
+            -34.674453
+          ],
+          [
+            -58.531792,
+            -34.534177
+          ],
+          [
+            -58.353494,
+            -34.534177
+          ],
+          [
+            -58.353494,
+            -34.674453
+          ]
+        ]
+      ]
+    },
+    "full_name": "Ciudad Aut\u00f3noma de Buenos Aires, Argentina"
+  },
+  "truncated": true,
+  "in_reply_to_status_id_str": "922103925951664133",
+  "in_reply_to_screen_name": "dzapatillas",
+  "filter_level": "low",
+  "text": "@dzapatillas @berlich tampoco se pueden plantar ficus en las veredas, especie NO permitida de arbolado urbano xq ro\u2026 https://t.co/Ml41qCBTKh",
+  "geo": null,
+  "in_reply_to_user_id_str": "335462063",
+  "is_quote_status": false,
+  "display_text_range": [
+    22,
+    140
+  ],
+  "favorited": false,
+  "user": {
+    "verified": false,
+    "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/732859829/83326fc18977fdd497afe5cb7d68ef3f.jpeg",
+    "statuses_count": 10585,
+    "screen_name": "dermlink",
+    "default_profile_image": false,
+    "time_zone": "Buenos Aires",
+    "name": "Dermlink BuenosAires",
+    "id_str": "212043516",
+    "profile_sidebar_border_color": "FFFFFF",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/212043516/1466080116",
+    "created_at": "Fri Nov 05 00:01:18 +0000 2010",
+    "friends_count": 312,
+    "url": "http://www.dermlink.com.ar",
+    "profile_background_tile": true,
+    "protected": false,
+    "translator_type": "none",
+    "profile_text_color": "333333",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/2949670472/2154468a1fbdda8714bb9091b08f7fd9_normal.jpeg",
+    "listed_count": 4,
+    "notifications": null,
+    "contributors_enabled": false,
+    "is_translator": false,
+    "location": "Buenos Aires, Argentina",
+    "profile_use_background_image": true,
+    "followers_count": 360,
+    "profile_sidebar_fill_color": "E6F6F9",
+    "geo_enabled": true,
+    "profile_link_color": "1B95E0",
+    "favourites_count": 4997,
+    "following": null,
+    "default_profile": false,
+    "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/732859829/83326fc18977fdd497afe5cb7d68ef3f.jpeg",
+    "profile_background_color": "131516",
+    "id": 212043516,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/2949670472/2154468a1fbdda8714bb9091b08f7fd9_normal.jpeg",
+    "lang": "es",
+    "description": "Alergias y Dermatologia en Medicina Veterinaria - Teledermatologia -  Veterinary Dermatology and Teledermatology\nConsultora en dermatolog\u00eda veterinaria",
+    "follow_request_sent": null,
+    "utc_offset": -10800
+  },
+  "extended_tweet": {
+    "entities": {
+      "user_mentions": [
+        {
+          "indices": [
+            0,
+            12
+          ],
+          "name": "Derecho enZapatillas",
+          "screen_name": "dzapatillas",
+          "id": 335462063,
+          "id_str": "335462063"
+        },
+        {
+          "indices": [
+            13,
+            21
+          ],
+          "name": "Bernardo Erlich \ud83c\udf4b",
+          "screen_name": "berlich",
+          "id": 10668832,
+          "id_str": "10668832"
+        }
+      ],
+      "symbols": [],
+      "hashtags": [
+        {
+          "text": "brigadaantificus",
+          "indices": [
+            140,
+            157
+          ]
+        }
+      ],
+      "urls": []
+    },
+    "display_text_range": [
+      22,
+      157
+    ],
+    "full_text": "@dzapatillas @berlich tampoco se pueden plantar ficus en las veredas, especie NO permitida de arbolado urbano xq rompe todo ca\u00f1os paredes.  #brigadaantificus"
+  },
+  "lang": "es"
+}

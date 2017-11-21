@@ -1,0 +1,106 @@
+{
+  "in_reply_to_user_id": null,
+  "contributors": null,
+  "in_reply_to_screen_name": null,
+  "retweeted": false,
+  "retweet_count": 0,
+  "timestamp_ms": "1508688709152",
+  "in_reply_to_status_id": null,
+  "id_str": "922133398008877056",
+  "created_at": "Sun Oct 22 16:11:49 +0000 2017",
+  "id": 922133398008877056,
+  "coordinates": null,
+  "favorite_count": 0,
+  "entities": {
+    "user_mentions": [],
+    "symbols": [],
+    "hashtags": [],
+    "urls": []
+  },
+  "reply_count": 0,
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "place": {
+    "attributes": {},
+    "url": "https://api.twitter.com/1.1/geo/id/009b71fa17159ccc.json",
+    "place_type": "admin",
+    "id": "009b71fa17159ccc",
+    "country_code": "UY",
+    "name": "Canelones",
+    "country": "Uruguay",
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            -56.494047,
+            -34.88039
+          ],
+          [
+            -56.494047,
+            -34.207474
+          ],
+          [
+            -55.393215,
+            -34.207474
+          ],
+          [
+            -55.393215,
+            -34.88039
+          ]
+        ]
+      ]
+    },
+    "full_name": "Canelones, Uruguay"
+  },
+  "truncated": false,
+  "in_reply_to_status_id_str": null,
+  "filter_level": "low",
+  "text": "Habr\u00eda que chequearlo, pero creo que cada vez que paso por Giannattasio es m\u00e1s larga que la vez anterior. Se hace eterno.",
+  "geo": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": false,
+  "favorited": false,
+  "user": {
+    "verified": false,
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "statuses_count": 30225,
+    "screen_name": "_nosoydiego",
+    "default_profile_image": false,
+    "time_zone": "Buenos Aires",
+    "name": "D.",
+    "id_str": "3328120377",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/3328120377/1452979879",
+    "created_at": "Mon Jun 15 22:59:11 +0000 2015",
+    "friends_count": 174,
+    "url": null,
+    "profile_background_tile": false,
+    "protected": false,
+    "translator_type": "none",
+    "profile_text_color": "333333",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/771400423517356033/g3SpJndQ_normal.jpg",
+    "listed_count": 19,
+    "notifications": null,
+    "contributors_enabled": false,
+    "is_translator": false,
+    "location": "Desubicado",
+    "profile_use_background_image": true,
+    "followers_count": 3057,
+    "profile_sidebar_fill_color": "DDEEF6",
+    "geo_enabled": true,
+    "profile_link_color": "1DA1F2",
+    "favourites_count": 13238,
+    "following": null,
+    "default_profile": true,
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_color": "C0DEED",
+    "id": 3328120377,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/771400423517356033/g3SpJndQ_normal.jpg",
+    "lang": "es",
+    "description": "No clavo vistos. No s\u00e9 no juzgo.",
+    "follow_request_sent": null,
+    "utc_offset": -10800
+  },
+  "quote_count": 0,
+  "lang": "es"
+}

@@ -1,0 +1,117 @@
+{
+  "in_reply_to_user_id": null,
+  "contributors": null,
+  "in_reply_to_screen_name": null,
+  "retweeted": false,
+  "retweet_count": 0,
+  "timestamp_ms": "1508673339134",
+  "in_reply_to_status_id": null,
+  "id_str": "922068931480780800",
+  "created_at": "Sun Oct 22 11:55:39 +0000 2017",
+  "id": 922068931480780800,
+  "coordinates": null,
+  "favorite_count": 0,
+  "entities": {
+    "user_mentions": [
+      {
+        "indices": [
+          79,
+          93
+        ],
+        "name": "Daniel M\u00e1rquez V.",
+        "screen_name": "Danielmpajaro",
+        "id": 139447838,
+        "id_str": "139447838"
+      }
+    ],
+    "symbols": [],
+    "hashtags": [],
+    "urls": []
+  },
+  "reply_count": 0,
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "place": {
+    "attributes": {},
+    "url": "https://api.twitter.com/1.1/geo/id/0150459b5095a59f.json",
+    "place_type": "city",
+    "id": "0150459b5095a59f",
+    "country_code": "CL",
+    "name": "Concepci\u00f3n",
+    "country": "Chile",
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            -73.091398,
+            -36.923936
+          ],
+          [
+            -73.091398,
+            -36.760435
+          ],
+          [
+            -72.845604,
+            -36.760435
+          ],
+          [
+            -72.845604,
+            -36.923936
+          ]
+        ]
+      ]
+    },
+    "full_name": "Concepci\u00f3n, Chile"
+  },
+  "truncated": false,
+  "in_reply_to_status_id_str": null,
+  "filter_level": "low",
+  "text": "En tiempos donde el dinero no abunda solo recuerdo la genial idea que mi amigo @Danielmpajaro tuvo un d\u00eda. A 10 lucas y nos hacemos ricos.",
+  "geo": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": false,
+  "favorited": false,
+  "user": {
+    "verified": false,
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "statuses_count": 3060,
+    "screen_name": "CristianWettke",
+    "default_profile_image": false,
+    "time_zone": null,
+    "name": "Cristian Wettke S.",
+    "id_str": "752685962048581632",
+    "profile_sidebar_border_color": "000000",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/752685962048581632/1500221655",
+    "created_at": "Tue Jul 12 02:08:12 +0000 2016",
+    "friends_count": 455,
+    "url": null,
+    "profile_background_tile": false,
+    "protected": false,
+    "translator_type": "none",
+    "profile_text_color": "000000",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/752687381107515392/muuT9Zsf_normal.jpg",
+    "listed_count": 1,
+    "notifications": null,
+    "contributors_enabled": false,
+    "is_translator": false,
+    "location": "Concepci\u00f3n, Chile",
+    "profile_use_background_image": false,
+    "followers_count": 185,
+    "profile_sidebar_fill_color": "000000",
+    "geo_enabled": true,
+    "profile_link_color": "1B95E0",
+    "favourites_count": 1293,
+    "following": null,
+    "default_profile": false,
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_color": "000000",
+    "id": 752685962048581632,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/752687381107515392/muuT9Zsf_normal.jpg",
+    "lang": "es",
+    "description": "Pollo \ud83d\udc25 ll T\u00e9cnico en Enfermer\u00eda \ud83d\ude91 ll Donante de \u00d3rganos \ud83d\udc9a ll Trabajando por #TiemposMejores para Chile \ud83c\udde8\ud83c\uddf1",
+    "follow_request_sent": null,
+    "utc_offset": null
+  },
+  "quote_count": 0,
+  "lang": "es"
+}

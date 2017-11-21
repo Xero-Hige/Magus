@@ -1,0 +1,155 @@
+{
+  "in_reply_to_user_id": 263408689,
+  "contributors": null,
+  "id": 921943322264064000,
+  "retweeted": false,
+  "retweet_count": 0,
+  "timestamp_ms": "1508643391563",
+  "in_reply_to_status_id": 921927832049209344,
+  "id_str": "921943322264064000",
+  "coordinates": null,
+  "created_at": "Sun Oct 22 03:36:31 +0000 2017",
+  "quote_count": 0,
+  "favorite_count": 0,
+  "entities": {
+    "user_mentions": [
+      {
+        "indices": [
+          0,
+          16
+        ],
+        "name": "\ud83c\udf80 Romi Malaspina \ud83c\udf80",
+        "screen_name": "RomiMalaspinaOk",
+        "id": 263408689,
+        "id_str": "263408689"
+      }
+    ],
+    "symbols": [],
+    "hashtags": [],
+    "urls": [
+      {
+        "expanded_url": "https://twitter.com/i/web/status/921943322264064000",
+        "indices": [
+          117,
+          140
+        ],
+        "url": "https://t.co/4FZJEi7wqh",
+        "display_url": "twitter.com/i/web/status/9\u2026"
+      }
+    ]
+  },
+  "reply_count": 0,
+  "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+  "place": {
+    "attributes": {},
+    "url": "https://api.twitter.com/1.1/geo/id/01426ebe62f8b6b8.json",
+    "place_type": "city",
+    "id": "01426ebe62f8b6b8",
+    "country_code": "AR",
+    "name": "Firmat-General L\u00f3pez",
+    "country": "Argentina",
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            -61.502717,
+            -33.475406
+          ],
+          [
+            -61.502717,
+            -33.440328
+          ],
+          [
+            -61.472659,
+            -33.440328
+          ],
+          [
+            -61.472659,
+            -33.475406
+          ]
+        ]
+      ]
+    },
+    "full_name": "Firmat-General L\u00f3pez, Argentina"
+  },
+  "truncated": true,
+  "in_reply_to_status_id_str": "921927832049209344",
+  "in_reply_to_screen_name": "RomiMalaspinaOk",
+  "filter_level": "low",
+  "text": "@RomiMalaspinaOk 500 lo m\u00ednimo, pero tenes q ir a una comisaria y te hacen una constancia, y despu\u00e9s tenes q termin\u2026 https://t.co/4FZJEi7wqh",
+  "geo": null,
+  "in_reply_to_user_id_str": "263408689",
+  "is_quote_status": false,
+  "display_text_range": [
+    17,
+    140
+  ],
+  "favorited": false,
+  "user": {
+    "verified": false,
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+    "statuses_count": 7705,
+    "screen_name": "alcidesmontesi",
+    "default_profile_image": false,
+    "time_zone": "Buenos Aires",
+    "name": "alcidesmontesi",
+    "id_str": "210199356",
+    "profile_sidebar_border_color": "86A4A6",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/210199356/1418531642",
+    "created_at": "Sat Oct 30 20:32:24 +0000 2010",
+    "friends_count": 245,
+    "url": null,
+    "profile_background_tile": false,
+    "protected": false,
+    "translator_type": "none",
+    "profile_text_color": "333333",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/919773814204129281/5nhwecEI_normal.jpg",
+    "listed_count": 2,
+    "notifications": null,
+    "contributors_enabled": false,
+    "is_translator": false,
+    "location": "argentina",
+    "profile_use_background_image": true,
+    "followers_count": 268,
+    "profile_sidebar_fill_color": "A0C5C7",
+    "geo_enabled": true,
+    "profile_link_color": "FF3300",
+    "favourites_count": 1891,
+    "following": null,
+    "default_profile": false,
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+    "profile_background_color": "709397",
+    "id": 210199356,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/919773814204129281/5nhwecEI_normal.jpg",
+    "lang": "es",
+    "description": "T\u00e9cnico Contable, Alma de Poeta, Navegar es mi Debilidad,  Italia es mi otro lugar en el mundo, Hincha de River Plate.",
+    "follow_request_sent": null,
+    "utc_offset": -10800
+  },
+  "extended_tweet": {
+    "entities": {
+      "user_mentions": [
+        {
+          "indices": [
+            0,
+            16
+          ],
+          "name": "\ud83c\udf80 Romi Malaspina \ud83c\udf80",
+          "screen_name": "RomiMalaspinaOk",
+          "id": 263408689,
+          "id_str": "263408689"
+        }
+      ],
+      "symbols": [],
+      "hashtags": [],
+      "urls": []
+    },
+    "display_text_range": [
+      17,
+      157
+    ],
+    "full_text": "@RomiMalaspinaOk 500 lo m\u00ednimo, pero tenes q ir a una comisaria y te hacen una constancia, y despu\u00e9s tenes q terminar el tramite en tribunales dentro 60 d\u00edas"
+  },
+  "lang": "es"
+}

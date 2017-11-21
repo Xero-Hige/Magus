@@ -1,0 +1,121 @@
+{
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "indices": [
+          0,
+          7
+        ],
+        "screen_name": "copi__",
+        "name": "Jos\u00e8 Arias",
+        "id_str": "345098678",
+        "id": 345098678
+      }
+    ]
+  },
+  "in_reply_to_user_id": 345098678,
+  "created_at": "Sun Oct 22 23:16:57 +0000 2017",
+  "favorite_count": 0,
+  "lang": "es",
+  "reply_count": 0,
+  "id_str": "922240385883299840",
+  "in_reply_to_user_id_str": "345098678",
+  "in_reply_to_status_id": 922208803889860641,
+  "timestamp_ms": "1508714217049",
+  "truncated": false,
+  "text": "@copi__ Abrazo gigante! Me has emocionado hasta las l\u00e1grimas \ud83d\ude22\ud83d\ude22\ud83d\ude22 Querido Copi que gran hija criaste\ud83d\udc4d",
+  "user": {
+    "time_zone": "Santiago",
+    "screen_name": "migeroli",
+    "utc_offset": -10800,
+    "created_at": "Sat Apr 02 20:50:31 +0000 2011",
+    "profile_background_tile": false,
+    "notifications": null,
+    "lang": "es",
+    "default_profile": false,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/276184365/1449783579",
+    "id_str": "276184365",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/911371150546042880/19Z6H7Qc_normal.jpg",
+    "name": "Mar\u00eda In\u00e9s",
+    "friends_count": 2570,
+    "translator_type": "none",
+    "protected": false,
+    "following": null,
+    "is_translator": false,
+    "follow_request_sent": null,
+    "profile_text_color": "000000",
+    "listed_count": 20,
+    "profile_link_color": "0099B9",
+    "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/692835713000189953/QSBHmHQj.jpg",
+    "url": null,
+    "id": 276184365,
+    "favourites_count": 139399,
+    "profile_background_color": "0099B9",
+    "followers_count": 3046,
+    "statuses_count": 134119,
+    "description": "No discuto con gente que apoya a los responsables del mayor robo a Argentina!   No contesto MD personales. Abstenerse   No porno! Gracias \ud83d\udc99",
+    "location": "Argentina",
+    "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/692835713000189953/QSBHmHQj.jpg",
+    "default_profile_image": false,
+    "verified": false,
+    "profile_sidebar_fill_color": "000000",
+    "profile_use_background_image": true,
+    "contributors_enabled": false,
+    "profile_sidebar_border_color": "000000",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/911371150546042880/19Z6H7Qc_normal.jpg",
+    "geo_enabled": true
+  },
+  "geo": null,
+  "id": 922240385883299840,
+  "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+  "retweeted": false,
+  "filter_level": "low",
+  "in_reply_to_status_id_str": "922208803889860641",
+  "quote_count": 0,
+  "favorited": false,
+  "coordinates": null,
+  "display_text_range": [
+    8,
+    100
+  ],
+  "retweet_count": 0,
+  "is_quote_status": false,
+  "in_reply_to_screen_name": "copi__",
+  "contributors": null,
+  "place": {
+    "bounding_box": {
+      "coordinates": [
+        [
+          [
+            -73.572716,
+            -55.116856
+          ],
+          [
+            -73.572716,
+            -21.778451
+          ],
+          [
+            -53.641135,
+            -21.778451
+          ],
+          [
+            -53.641135,
+            -55.116856
+          ]
+        ]
+      ],
+      "type": "Polygon"
+    },
+    "name": "Argentina",
+    "url": "https://api.twitter.com/1.1/geo/id/4d3b316fe2e52b29.json",
+    "country_code": "AR",
+    "id": "4d3b316fe2e52b29",
+    "place_type": "country",
+    "attributes": {},
+    "full_name": "Argentina",
+    "country": "Argentina"
+  }
+}

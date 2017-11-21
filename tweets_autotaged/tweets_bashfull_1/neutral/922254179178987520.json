@@ -1,0 +1,129 @@
+{
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "urls": [
+      {
+        "indices": [
+          100,
+          123
+        ],
+        "expanded_url": "https://www.instagram.com/p/Bakef8rHjV4/",
+        "display_url": "instagram.com/p/Bakef8rHjV4/",
+        "url": "https://t.co/Rrw2otEQpA"
+      }
+    ],
+    "user_mentions": []
+  },
+  "in_reply_to_user_id": null,
+  "created_at": "Mon Oct 23 00:11:45 +0000 2017",
+  "favorite_count": 0,
+  "lang": "es",
+  "reply_count": 0,
+  "id_str": "922254179178987520",
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_status_id": null,
+  "timestamp_ms": "1508717505627",
+  "possibly_sensitive": false,
+  "text": "Un minuto de mi tiempo es oro, pero no me importa regalarle oro a quien quiero\ud83d\udc45\u26e7 en Campana Partido https://t.co/Rrw2otEQpA",
+  "user": {
+    "time_zone": "Buenos Aires",
+    "screen_name": "Selena_Frln",
+    "utc_offset": -10800,
+    "created_at": "Wed Sep 11 19:08:36 +0000 2013",
+    "profile_background_tile": true,
+    "notifications": null,
+    "lang": "es",
+    "default_profile": false,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1855161708/1489120974",
+    "id_str": "1855161708",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/912433935770095616/yXCwR_Gq_normal.jpg",
+    "name": "sele",
+    "friends_count": 826,
+    "translator_type": "none",
+    "protected": false,
+    "following": null,
+    "is_translator": false,
+    "follow_request_sent": null,
+    "profile_text_color": "333333",
+    "listed_count": 6,
+    "profile_link_color": "006655",
+    "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/594586560428843008/JFOKhzMq.jpg",
+    "url": "https://www.facebook.com/SeleFerulano",
+    "id": 1855161708,
+    "favourites_count": 4159,
+    "profile_background_color": "EDECE9",
+    "followers_count": 1524,
+    "statuses_count": 28795,
+    "description": "15|snap:selefrln|3489542513|sagitario\u2650||http://ferulanosele04.sarahah.com",
+    "location": "Campana\u2b50",
+    "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/594586560428843008/JFOKhzMq.jpg",
+    "default_profile_image": false,
+    "verified": false,
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_use_background_image": true,
+    "contributors_enabled": false,
+    "profile_sidebar_border_color": "FFFFFF",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/912433935770095616/yXCwR_Gq_normal.jpg",
+    "geo_enabled": true
+  },
+  "geo": {
+    "coordinates": [
+      -34.13333333,
+      -58.86666667
+    ],
+    "type": "Point"
+  },
+  "id": 922254179178987520,
+  "quote_count": 0,
+  "retweeted": false,
+  "filter_level": "low",
+  "in_reply_to_status_id_str": null,
+  "source": "<a href=\"http://instagram.com\" rel=\"nofollow\">Instagram</a>",
+  "favorited": false,
+  "coordinates": {
+    "coordinates": [
+      -58.86666667,
+      -34.13333333
+    ],
+    "type": "Point"
+  },
+  "truncated": false,
+  "retweet_count": 0,
+  "is_quote_status": false,
+  "in_reply_to_screen_name": null,
+  "contributors": null,
+  "place": {
+    "bounding_box": {
+      "coordinates": [
+        [
+          [
+            -63.39386,
+            -41.035009
+          ],
+          [
+            -63.39386,
+            -33.260144
+          ],
+          [
+            -56.665836,
+            -33.260144
+          ],
+          [
+            -56.665836,
+            -41.035009
+          ]
+        ]
+      ],
+      "type": "Polygon"
+    },
+    "name": "Buenos Aires",
+    "url": "https://api.twitter.com/1.1/geo/id/4afa2757051c5192.json",
+    "country_code": "AR",
+    "id": "4afa2757051c5192",
+    "place_type": "admin",
+    "attributes": {},
+    "full_name": "Buenos Aires, Argentina",
+    "country": "Argentina"
+  }
+}

@@ -1,0 +1,137 @@
+{
+  "in_reply_to_user_id": null,
+  "contributors": null,
+  "in_reply_to_screen_name": null,
+  "retweeted": false,
+  "retweet_count": 0,
+  "timestamp_ms": "1508679271183",
+  "in_reply_to_status_id": null,
+  "id_str": "922093812297580547",
+  "created_at": "Sun Oct 22 13:34:31 +0000 2017",
+  "id": 922093812297580547,
+  "coordinates": {
+    "type": "Point",
+    "coordinates": [
+      -70.65027778,
+      -33.43777778
+    ]
+  },
+  "favorite_count": 0,
+  "entities": {
+    "user_mentions": [],
+    "symbols": [],
+    "hashtags": [
+      {
+        "text": "FestivalDeLasEstrellas",
+        "indices": [
+          57,
+          80
+        ]
+      }
+    ],
+    "urls": [
+      {
+        "expanded_url": "https://www.instagram.com/p/BajVlCEFJf0/",
+        "indices": [
+          93,
+          116
+        ],
+        "url": "https://t.co/h1T69d3RhK",
+        "display_url": "instagram.com/p/BajVlCEFJf0/"
+      }
+    ]
+  },
+  "reply_count": 0,
+  "source": "<a href=\"http://instagram.com\" rel=\"nofollow\">Instagram</a>",
+  "place": {
+    "attributes": {},
+    "url": "https://api.twitter.com/1.1/geo/id/0010b4cb51ca93d8.json",
+    "place_type": "city",
+    "id": "0010b4cb51ca93d8",
+    "country_code": "CL",
+    "name": "Santiago",
+    "country": "Chile",
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            -70.692959,
+            -33.478574
+          ],
+          [
+            -70.692959,
+            -33.425749
+          ],
+          [
+            -70.626272,
+            -33.425749
+          ],
+          [
+            -70.626272,
+            -33.478574
+          ]
+        ]
+      ]
+    },
+    "full_name": "Santiago, Chile"
+  },
+  "truncated": false,
+  "in_reply_to_status_id_str": null,
+  "filter_level": "low",
+  "text": "Gracias a mis amigos por este lindo reconocimiento en el #FestivalDeLasEstrellas Fue un d\u00eda\u2026 https://t.co/h1T69d3RhK",
+  "geo": {
+    "type": "Point",
+    "coordinates": [
+      -33.43777778,
+      -70.65027778
+    ]
+  },
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": false,
+  "possibly_sensitive": false,
+  "favorited": false,
+  "user": {
+    "verified": false,
+    "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/453725345858863104/8Y2GHOeO.jpeg",
+    "statuses_count": 12320,
+    "screen_name": "vitoco_mix",
+    "default_profile_image": false,
+    "time_zone": "Santiago",
+    "name": "Vitoco Gutierrez",
+    "id_str": "68966599",
+    "profile_sidebar_border_color": "FFFFFF",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/68966599/1438982342",
+    "created_at": "Wed Aug 26 12:38:08 +0000 2009",
+    "friends_count": 2109,
+    "url": "http://www.vitocomix.cl",
+    "profile_background_tile": true,
+    "protected": false,
+    "translator_type": "none",
+    "profile_text_color": "333333",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/709123769965662208/eCCdZNDD_normal.jpg",
+    "listed_count": 59,
+    "notifications": null,
+    "contributors_enabled": false,
+    "is_translator": false,
+    "location": "Santiago, Chile.",
+    "profile_use_background_image": true,
+    "followers_count": 9080,
+    "profile_sidebar_fill_color": "EFEFEF",
+    "geo_enabled": true,
+    "profile_link_color": "009999",
+    "favourites_count": 973,
+    "following": null,
+    "default_profile": false,
+    "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/453725345858863104/8Y2GHOeO.jpeg",
+    "profile_background_color": "131516",
+    "id": 68966599,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/709123769965662208/eCCdZNDD_normal.jpg",
+    "lang": "es",
+    "description": "Animador de @RadioCorazonFM / Director y Due\u00f1o en #VerticalFilms / Enamorado de mi familia...",
+    "follow_request_sent": null,
+    "utc_offset": -10800
+  },
+  "quote_count": 0,
+  "lang": "es"
+}

@@ -1,0 +1,114 @@
+{
+  "entities": {
+    "hashtags": [
+      {
+        "indices": [
+          103,
+          113
+        ],
+        "text": "Verguenza"
+      }
+    ],
+    "symbols": [],
+    "urls": [],
+    "user_mentions": []
+  },
+  "in_reply_to_user_id": null,
+  "created_at": "Sun Oct 22 21:55:19 +0000 2017",
+  "favorite_count": 0,
+  "lang": "es",
+  "reply_count": 0,
+  "id_str": "922219845999087619",
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_status_id": null,
+  "timestamp_ms": "1508709319959",
+  "text": "Me imagino a Alfonsin revolcandose en su tumba viendo a Moreau hablando en nombre de Cristina Kirchner #Verguenza Asco",
+  "user": {
+    "time_zone": "Buenos Aires",
+    "screen_name": "Guillex13",
+    "utc_offset": -10800,
+    "created_at": "Tue Jan 13 19:21:10 +0000 2009",
+    "profile_background_tile": true,
+    "notifications": null,
+    "lang": "en",
+    "default_profile": false,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/18949156/1504643539",
+    "id_str": "18949156",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/910971830051143680/zPGrMmg0_normal.jpg",
+    "name": "Guillermo Garcia",
+    "friends_count": 1324,
+    "translator_type": "none",
+    "protected": false,
+    "following": null,
+    "is_translator": false,
+    "follow_request_sent": null,
+    "profile_text_color": "2B3C9C",
+    "listed_count": 305,
+    "profile_link_color": "06051F",
+    "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/581495387480965120/PTpD8zax.png",
+    "url": "http://wethinkhere.com",
+    "id": 18949156,
+    "favourites_count": 23313,
+    "profile_background_color": "89C9FA",
+    "followers_count": 1380,
+    "statuses_count": 13857,
+    "description": "Social Media Thinker  \u2708\ufe0f Traveler \ud83c\udfc3Runner",
+    "location": "Mendoza \u2764\ufe0f Barcelona ",
+    "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/581495387480965120/PTpD8zax.png",
+    "default_profile_image": false,
+    "verified": false,
+    "profile_sidebar_fill_color": "A0E8E2",
+    "profile_use_background_image": true,
+    "contributors_enabled": false,
+    "profile_sidebar_border_color": "FFFFFF",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/910971830051143680/zPGrMmg0_normal.jpg",
+    "geo_enabled": true
+  },
+  "geo": null,
+  "id": 922219845999087619,
+  "quote_count": 0,
+  "retweeted": false,
+  "filter_level": "low",
+  "in_reply_to_status_id_str": null,
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "favorited": false,
+  "coordinates": null,
+  "truncated": false,
+  "retweet_count": 0,
+  "is_quote_status": false,
+  "in_reply_to_screen_name": null,
+  "contributors": null,
+  "place": {
+    "bounding_box": {
+      "coordinates": [
+        [
+          [
+            -68.91592,
+            -32.904531
+          ],
+          [
+            -68.91592,
+            -32.862154
+          ],
+          [
+            -68.817455,
+            -32.862154
+          ],
+          [
+            -68.817455,
+            -32.904531
+          ]
+        ]
+      ],
+      "type": "Polygon"
+    },
+    "name": "Mendoza",
+    "url": "https://api.twitter.com/1.1/geo/id/00054d3a0a8df14e.json",
+    "country_code": "AR",
+    "id": "00054d3a0a8df14e",
+    "place_type": "city",
+    "attributes": {},
+    "full_name": "Mendoza, Argentina",
+    "country": "Argentina"
+  }
+}

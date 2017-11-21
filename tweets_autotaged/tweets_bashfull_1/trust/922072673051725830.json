@@ -1,0 +1,114 @@
+{
+  "in_reply_to_user_id": null,
+  "contributors": null,
+  "in_reply_to_screen_name": null,
+  "retweeted": false,
+  "retweet_count": 0,
+  "timestamp_ms": "1508674231194",
+  "in_reply_to_status_id": null,
+  "id_str": "922072673051725830",
+  "created_at": "Sun Oct 22 12:10:31 +0000 2017",
+  "id": 922072673051725830,
+  "coordinates": null,
+  "favorite_count": 0,
+  "entities": {
+    "user_mentions": [],
+    "symbols": [],
+    "hashtags": [
+      {
+        "text": "EleccionesArgentina",
+        "indices": [
+          0,
+          20
+        ]
+      }
+    ],
+    "urls": []
+  },
+  "reply_count": 0,
+  "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+  "place": {
+    "attributes": {},
+    "url": "https://api.twitter.com/1.1/geo/id/00eacabc1e5298db.json",
+    "place_type": "city",
+    "id": "00eacabc1e5298db",
+    "country_code": "AR",
+    "name": "Jos\u00e9 Carlos Paz",
+    "country": "Argentina",
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            -58.822655,
+            -34.551371
+          ],
+          [
+            -58.822655,
+            -34.451817
+          ],
+          [
+            -58.72095,
+            -34.451817
+          ],
+          [
+            -58.72095,
+            -34.551371
+          ]
+        ]
+      ]
+    },
+    "full_name": "Jos\u00e9 Carlos Paz, Argentina"
+  },
+  "truncated": false,
+  "in_reply_to_status_id_str": null,
+  "filter_level": "low",
+  "text": "#EleccionesArgentina Dice Marcos Pe\u00f1a que no es politizar el caso Maldonado para eso ya tiene a los par\u00e1sitos de sus trolls!!!",
+  "geo": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": false,
+  "favorited": false,
+  "user": {
+    "verified": false,
+    "profile_background_image_url": "",
+    "statuses_count": 151465,
+    "screen_name": "rosy_charo",
+    "default_profile_image": false,
+    "time_zone": null,
+    "name": "Rosi",
+    "id_str": "4864410285",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/4864410285/1456258923",
+    "created_at": "Sat Jan 30 17:34:32 +0000 2016",
+    "friends_count": 1267,
+    "url": null,
+    "profile_background_tile": false,
+    "protected": false,
+    "translator_type": "none",
+    "profile_text_color": "333333",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/879472505794252801/7bui0sYq_normal.jpg",
+    "listed_count": 60,
+    "notifications": null,
+    "contributors_enabled": false,
+    "is_translator": false,
+    "location": "JOSE C PAZ  BUENOS AIRES.",
+    "profile_use_background_image": true,
+    "followers_count": 3518,
+    "profile_sidebar_fill_color": "DDEEF6",
+    "geo_enabled": true,
+    "profile_link_color": "1DA1F2",
+    "favourites_count": 102567,
+    "following": null,
+    "default_profile": true,
+    "profile_background_image_url_https": "",
+    "profile_background_color": "F5F8FA",
+    "id": 4864410285,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/879472505794252801/7bui0sYq_normal.jpg",
+    "lang": "es",
+    "description": "Soy K y que???",
+    "follow_request_sent": null,
+    "utc_offset": null
+  },
+  "quote_count": 0,
+  "lang": "es"
+}

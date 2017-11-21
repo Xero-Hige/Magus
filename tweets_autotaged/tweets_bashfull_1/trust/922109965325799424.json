@@ -1,0 +1,129 @@
+{
+  "in_reply_to_user_id": null,
+  "contributors": null,
+  "in_reply_to_screen_name": null,
+  "retweeted": false,
+  "retweet_count": 0,
+  "timestamp_ms": "1508683122365",
+  "in_reply_to_status_id": null,
+  "id_str": "922109965325799424",
+  "created_at": "Sun Oct 22 14:38:42 +0000 2017",
+  "id": 922109965325799424,
+  "coordinates": {
+    "type": "Point",
+    "coordinates": [
+      -70.66042769,
+      -33.50110002
+    ]
+  },
+  "favorite_count": 0,
+  "entities": {
+    "user_mentions": [],
+    "symbols": [],
+    "hashtags": [],
+    "urls": [
+      {
+        "expanded_url": "https://www.swarmapp.com/c/8LKXOmplIpd",
+        "indices": [
+          63,
+          86
+        ],
+        "url": "https://t.co/RRc2qC8BSl",
+        "display_url": "swarmapp.com/c/8LKXOmplIpd"
+      }
+    ]
+  },
+  "reply_count": 0,
+  "source": "<a href=\"http://foursquare.com\" rel=\"nofollow\">Foursquare</a>",
+  "place": {
+    "attributes": {},
+    "url": "https://api.twitter.com/1.1/geo/id/018247693a6733dc.json",
+    "place_type": "city",
+    "id": "018247693a6733dc",
+    "country_code": "CL",
+    "name": "San Miguel",
+    "country": "Chile",
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            -70.6719,
+            -33.518827
+          ],
+          [
+            -70.6719,
+            -33.476474
+          ],
+          [
+            -70.637476,
+            -33.476474
+          ],
+          [
+            -70.637476,
+            -33.518827
+          ]
+        ]
+      ]
+    },
+    "full_name": "San Miguel, Chile"
+  },
+  "truncated": false,
+  "in_reply_to_status_id_str": null,
+  "filter_level": "low",
+  "text": "\ud83d\ude0d\ud83e\udd18 (@ Feria Departamental in San Miguel, Regi\u00f3n Metropolitana) https://t.co/RRc2qC8BSl",
+  "geo": {
+    "type": "Point",
+    "coordinates": [
+      -33.50110002,
+      -70.66042769
+    ]
+  },
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": false,
+  "possibly_sensitive": false,
+  "favorited": false,
+  "user": {
+    "verified": false,
+    "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000047168834/5963ad2680ac01e0ce331493bc6db9f7.jpeg",
+    "statuses_count": 25667,
+    "screen_name": "JohanConeM",
+    "default_profile_image": false,
+    "time_zone": "Santiago",
+    "name": "Johan Cone Meza \u2693",
+    "id_str": "66188202",
+    "profile_sidebar_border_color": "FFFFFF",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/66188202/1453653919",
+    "created_at": "Sun Aug 16 20:39:12 +0000 2009",
+    "friends_count": 1954,
+    "url": "http://www.johancone.com",
+    "profile_background_tile": false,
+    "protected": false,
+    "translator_type": "none",
+    "profile_text_color": "434950",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/867785056269594626/pGpDasT1_normal.jpg",
+    "listed_count": 27,
+    "notifications": null,
+    "contributors_enabled": false,
+    "is_translator": false,
+    "location": "Santiago - Chile",
+    "profile_use_background_image": true,
+    "followers_count": 878,
+    "profile_sidebar_fill_color": "828282",
+    "geo_enabled": true,
+    "profile_link_color": "0099CC",
+    "favourites_count": 857,
+    "following": null,
+    "default_profile": false,
+    "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000047168834/5963ad2680ac01e0ce331493bc6db9f7.jpeg",
+    "profile_background_color": "FFF04D",
+    "id": 66188202,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/867785056269594626/pGpDasT1_normal.jpg",
+    "lang": "es",
+    "description": "Director de Arte \u270d\ud83c\udffc ~ Padre de #pequebenja y de #PequeBella ~ Esposo de Claudia Zavalla \u2764\ufe0f ~ #SoloAlexisPuedeJuzgarme \u26bd\ufe0f ~ Sk8 ~ PUNTUAL \u231a\ufe0f",
+    "follow_request_sent": null,
+    "utc_offset": -10800
+  },
+  "quote_count": 0,
+  "lang": "es"
+}

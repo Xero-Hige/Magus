@@ -1,0 +1,227 @@
+{
+  "entities": {
+    "hashtags": [
+      {
+        "indices": [
+          64,
+          71
+        ],
+        "text": "YaVote"
+      }
+    ],
+    "symbols": [],
+    "urls": [
+      {
+        "indices": [
+          117,
+          140
+        ],
+        "expanded_url": "https://twitter.com/i/web/status/922232475828572166",
+        "display_url": "twitter.com/i/web/status/9\u2026",
+        "url": "https://t.co/Kls2uwzt3K"
+      }
+    ],
+    "user_mentions": []
+  },
+  "in_reply_to_user_id": null,
+  "created_at": "Sun Oct 22 22:45:31 +0000 2017",
+  "favorite_count": 0,
+  "lang": "es",
+  "reply_count": 0,
+  "id_str": "922232475828572166",
+  "in_reply_to_user_id_str": null,
+  "extended_tweet": {
+    "entities": {
+      "media": [
+        {
+          "expanded_url": "https://twitter.com/CharlyVadillo/status/922232475828572166/photo/1",
+          "display_url": "pic.twitter.com/Au9xc4RWzg",
+          "url": "https://t.co/Au9xc4RWzg",
+          "media_url_https": "https://pbs.twimg.com/media/DMxtiohX0AAPc0v.jpg",
+          "id": 922232465464479744,
+          "indices": [
+            157,
+            180
+          ],
+          "media_url": "http://pbs.twimg.com/media/DMxtiohX0AAPc0v.jpg",
+          "type": "photo",
+          "id_str": "922232465464479744",
+          "sizes": {
+            "large": {
+              "resize": "fit",
+              "h": 792,
+              "w": 720
+            },
+            "thumb": {
+              "resize": "crop",
+              "h": 150,
+              "w": 150
+            },
+            "small": {
+              "resize": "fit",
+              "h": 680,
+              "w": 618
+            },
+            "medium": {
+              "resize": "fit",
+              "h": 792,
+              "w": 720
+            }
+          }
+        }
+      ],
+      "hashtags": [
+        {
+          "indices": [
+            64,
+            71
+          ],
+          "text": "YaVote"
+        }
+      ],
+      "symbols": [],
+      "urls": [],
+      "user_mentions": []
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "expanded_url": "https://twitter.com/CharlyVadillo/status/922232475828572166/photo/1",
+          "display_url": "pic.twitter.com/Au9xc4RWzg",
+          "url": "https://t.co/Au9xc4RWzg",
+          "media_url_https": "https://pbs.twimg.com/media/DMxtiohX0AAPc0v.jpg",
+          "id": 922232465464479744,
+          "indices": [
+            157,
+            180
+          ],
+          "media_url": "http://pbs.twimg.com/media/DMxtiohX0AAPc0v.jpg",
+          "type": "photo",
+          "id_str": "922232465464479744",
+          "sizes": {
+            "large": {
+              "resize": "fit",
+              "h": 792,
+              "w": 720
+            },
+            "thumb": {
+              "resize": "crop",
+              "h": 150,
+              "w": 150
+            },
+            "small": {
+              "resize": "fit",
+              "h": 680,
+              "w": 618
+            },
+            "medium": {
+              "resize": "fit",
+              "h": 792,
+              "w": 720
+            }
+          }
+        }
+      ]
+    },
+    "display_text_range": [
+      0,
+      156
+    ],
+    "full_text": "Aca hay un chico que no pudo votar, porque le quitaron la vida. #YaVote pero el no pudo hacerlo. Y parece que a muy pocos le interesa lo que le haya pasado. https://t.co/Au9xc4RWzg"
+  },
+  "in_reply_to_status_id": null,
+  "timestamp_ms": "1508712331145",
+  "truncated": true,
+  "possibly_sensitive": false,
+  "text": "Aca hay un chico que no pudo votar, porque le quitaron la vida. #YaVote pero el no pudo hacerlo. Y parece que a muy\u2026 https://t.co/Kls2uwzt3K",
+  "user": {
+    "time_zone": "Buenos Aires",
+    "screen_name": "CharlyVadillo",
+    "utc_offset": -10800,
+    "created_at": "Fri Jul 02 03:53:57 +0000 2010",
+    "profile_background_tile": false,
+    "notifications": null,
+    "lang": "es",
+    "default_profile": false,
+    "follow_request_sent": null,
+    "id_str": "161921812",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/491631992417427456/zqEOBQ5T_normal.jpeg",
+    "name": "Carlos Vadillo",
+    "friends_count": 324,
+    "translator_type": "none",
+    "protected": false,
+    "following": null,
+    "is_translator": false,
+    "profile_text_color": "000000",
+    "listed_count": 0,
+    "profile_link_color": "7FDBB6",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+    "url": null,
+    "id": 161921812,
+    "favourites_count": 330,
+    "profile_background_color": "000000",
+    "followers_count": 80,
+    "statuses_count": 3396,
+    "description": "Sue\u00f1o con la Utopia de vivir, donde el rico no sea cada dia mas rico, ni el pobre cada dia mas pobre.",
+    "location": "San Fernando, Argentina",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+    "default_profile_image": false,
+    "verified": false,
+    "profile_sidebar_fill_color": "000000",
+    "profile_use_background_image": false,
+    "contributors_enabled": false,
+    "profile_sidebar_border_color": "000000",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/491631992417427456/zqEOBQ5T_normal.jpeg",
+    "geo_enabled": true
+  },
+  "geo": null,
+  "id": 922232475828572166,
+  "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+  "retweeted": false,
+  "filter_level": "low",
+  "in_reply_to_status_id_str": null,
+  "quote_count": 0,
+  "favorited": false,
+  "coordinates": null,
+  "display_text_range": [
+    0,
+    140
+  ],
+  "retweet_count": 0,
+  "is_quote_status": false,
+  "in_reply_to_screen_name": null,
+  "contributors": null,
+  "place": {
+    "bounding_box": {
+      "coordinates": [
+        [
+          [
+            -58.605148,
+            -34.486485
+          ],
+          [
+            -58.605148,
+            -34.43096
+          ],
+          [
+            -58.523832,
+            -34.43096
+          ],
+          [
+            -58.523832,
+            -34.486485
+          ]
+        ]
+      ],
+      "type": "Polygon"
+    },
+    "name": "San Fernando",
+    "url": "https://api.twitter.com/1.1/geo/id/00b3fc8c4487f71e.json",
+    "country_code": "AR",
+    "id": "00b3fc8c4487f71e",
+    "place_type": "city",
+    "attributes": {},
+    "full_name": "San Fernando, Argentina",
+    "country": "Argentina"
+  }
+}

@@ -1,0 +1,175 @@
+{
+  "in_reply_to_user_id": 212420616,
+  "contributors": null,
+  "id": 922101586230378496,
+  "retweeted": false,
+  "retweet_count": 0,
+  "timestamp_ms": "1508681124633",
+  "in_reply_to_status_id": 922100969118359552,
+  "id_str": "922101586230378496",
+  "coordinates": null,
+  "created_at": "Sun Oct 22 14:05:24 +0000 2017",
+  "quote_count": 0,
+  "favorite_count": 0,
+  "entities": {
+    "user_mentions": [
+      {
+        "indices": [
+          0,
+          7
+        ],
+        "name": "LG",
+        "screen_name": "LG_RDT",
+        "id": 212420616,
+        "id_str": "212420616"
+      },
+      {
+        "indices": [
+          8,
+          22
+        ],
+        "name": "Mr. G.",
+        "screen_name": "TodosGronchos",
+        "id": 173864452,
+        "id_str": "173864452"
+      }
+    ],
+    "symbols": [],
+    "hashtags": [],
+    "urls": [
+      {
+        "expanded_url": "https://twitter.com/i/web/status/922101586230378496",
+        "indices": [
+          117,
+          140
+        ],
+        "url": "https://t.co/Woj16G3AGS",
+        "display_url": "twitter.com/i/web/status/9\u2026"
+      }
+    ]
+  },
+  "reply_count": 0,
+  "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+  "place": {
+    "attributes": {},
+    "url": "https://api.twitter.com/1.1/geo/id/010d7db066434a8a.json",
+    "place_type": "city",
+    "id": "010d7db066434a8a",
+    "country_code": "AR",
+    "name": "Mar del Plata",
+    "country": "Argentina",
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            -57.645563,
+            -38.127814
+          ],
+          [
+            -57.645563,
+            -37.895361
+          ],
+          [
+            -57.517298,
+            -37.895361
+          ],
+          [
+            -57.517298,
+            -38.127814
+          ]
+        ]
+      ]
+    },
+    "full_name": "Mar del Plata, Argentina"
+  },
+  "truncated": true,
+  "in_reply_to_status_id_str": "922100969118359552",
+  "in_reply_to_screen_name": "LG_RDT",
+  "filter_level": "low",
+  "text": "@LG_RDT @TodosGronchos Si x que no? .a la gente le interesa lo que ud dice.Y habiendo le\u00eddo su blog,tendr\u00eda mucho m\u2026 https://t.co/Woj16G3AGS",
+  "geo": null,
+  "in_reply_to_user_id_str": "212420616",
+  "is_quote_status": false,
+  "display_text_range": [
+    23,
+    140
+  ],
+  "favorited": false,
+  "user": {
+    "verified": false,
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "statuses_count": 17361,
+    "screen_name": "isaac_babel",
+    "default_profile_image": false,
+    "time_zone": "Buenos Aires",
+    "name": "Cosmopolita",
+    "id_str": "3131482696",
+    "profile_sidebar_border_color": "000000",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/3131482696/1430710816",
+    "created_at": "Thu Apr 02 22:28:40 +0000 2015",
+    "friends_count": 629,
+    "url": null,
+    "profile_background_tile": false,
+    "protected": false,
+    "translator_type": "none",
+    "profile_text_color": "000000",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/827889617462509568/-FYbHxGe_normal.jpg",
+    "listed_count": 6,
+    "notifications": null,
+    "contributors_enabled": false,
+    "is_translator": false,
+    "location": "La libertad es mi religi\u00f3n.",
+    "profile_use_background_image": false,
+    "followers_count": 622,
+    "profile_sidebar_fill_color": "000000",
+    "geo_enabled": true,
+    "profile_link_color": "1B95E0",
+    "favourites_count": 15977,
+    "following": null,
+    "default_profile": false,
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_color": "000000",
+    "id": 3131482696,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/827889617462509568/-FYbHxGe_normal.jpg",
+    "lang": "es",
+    "description": "COSMOPOLITA DESARRAIGADO. Sionista Orgulloso. Quien tiene Fe ,no tiene Miedo. Antifascista, Alemnista y Librepensador.A los pies de nadie.",
+    "follow_request_sent": null,
+    "utc_offset": -10800
+  },
+  "extended_tweet": {
+    "entities": {
+      "user_mentions": [
+        {
+          "indices": [
+            0,
+            7
+          ],
+          "name": "LG",
+          "screen_name": "LG_RDT",
+          "id": 212420616,
+          "id_str": "212420616"
+        },
+        {
+          "indices": [
+            8,
+            22
+          ],
+          "name": "Mr. G.",
+          "screen_name": "TodosGronchos",
+          "id": 173864452,
+          "id_str": "173864452"
+        }
+      ],
+      "symbols": [],
+      "hashtags": [],
+      "urls": []
+    },
+    "display_text_range": [
+      23,
+      146
+    ],
+    "full_text": "@LG_RDT @TodosGronchos Si x que no? .a la gente le interesa lo que ud dice.Y habiendo le\u00eddo su blog,tendr\u00eda mucho mas si se dedicar\u00eda a escribir.\ud83e\udd14"
+  },
+  "lang": "es"
+}

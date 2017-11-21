@@ -1,0 +1,114 @@
+{
+  "in_reply_to_user_id": null,
+  "contributors": null,
+  "in_reply_to_screen_name": null,
+  "retweeted": false,
+  "retweet_count": 0,
+  "timestamp_ms": "1508683788846",
+  "in_reply_to_status_id": null,
+  "id_str": "922112760749707265",
+  "created_at": "Sun Oct 22 14:49:48 +0000 2017",
+  "id": 922112760749707265,
+  "coordinates": null,
+  "favorite_count": 0,
+  "entities": {
+    "user_mentions": [],
+    "symbols": [],
+    "hashtags": [
+      {
+        "text": "FelizDomingo",
+        "indices": [
+          0,
+          13
+        ]
+      }
+    ],
+    "urls": []
+  },
+  "reply_count": 0,
+  "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+  "place": {
+    "attributes": {},
+    "url": "https://api.twitter.com/1.1/geo/id/0188f27841b8920c.json",
+    "place_type": "city",
+    "id": "0188f27841b8920c",
+    "country_code": "CL",
+    "name": "La Cisterna",
+    "country": "Chile",
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            -70.686302,
+            -33.548922
+          ],
+          [
+            -70.686302,
+            -33.51083
+          ],
+          [
+            -70.64561,
+            -33.51083
+          ],
+          [
+            -70.64561,
+            -33.548922
+          ]
+        ]
+      ]
+    },
+    "full_name": "La Cisterna, Chile"
+  },
+  "truncated": false,
+  "in_reply_to_status_id_str": null,
+  "filter_level": "low",
+  "text": "#FelizDomingo gracias a quienes se preocuparon por  la aplicaci\u00f3n \"fantasma\" que atac\u00f3 est\u00e1 cuenta. Ya est\u00e1 solucionado. Abrazos y buen d\u00eda",
+  "geo": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": false,
+  "favorited": false,
+  "user": {
+    "verified": false,
+    "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/179765236/ella_y__el",
+    "statuses_count": 64437,
+    "screen_name": "jcoulon",
+    "default_profile_image": false,
+    "time_zone": null,
+    "name": "Coulon Diputado N-86",
+    "id_str": "159999798",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/159999798/1506598885",
+    "created_at": "Sat Jun 26 22:45:20 +0000 2010",
+    "friends_count": 2854,
+    "url": "http://www.facebook.com/jorge.coulon",
+    "profile_background_tile": true,
+    "protected": false,
+    "translator_type": "none",
+    "profile_text_color": "333333",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/913368029047676928/AUG1IndW_normal.jpg",
+    "listed_count": 143,
+    "notifications": null,
+    "contributors_enabled": false,
+    "is_translator": false,
+    "location": "Valpara\u00edso, Chile",
+    "profile_use_background_image": true,
+    "followers_count": 28514,
+    "profile_sidebar_fill_color": "DDEEF6",
+    "geo_enabled": true,
+    "profile_link_color": "0084B4",
+    "favourites_count": 1719,
+    "following": null,
+    "default_profile": false,
+    "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/179765236/ella_y__el",
+    "profile_background_color": "C0DEED",
+    "id": 159999798,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/913368029047676928/AUG1IndW_normal.jpg",
+    "lang": "es",
+    "description": "Candidato a Diputado del @PCdeChile por el #Distrito7. M\u00fasico fundador de @inti_illimani. Si la pol\u00edtica no es cultura, es negocio. #ElArteDeLasIdeas",
+    "follow_request_sent": null,
+    "utc_offset": null
+  },
+  "quote_count": 0,
+  "lang": "es"
+}

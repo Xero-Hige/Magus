@@ -1,0 +1,121 @@
+{
+  "in_reply_to_user_id": null,
+  "contributors": null,
+  "in_reply_to_screen_name": null,
+  "retweeted": false,
+  "retweet_count": 0,
+  "timestamp_ms": "1508693011150",
+  "in_reply_to_status_id": null,
+  "id_str": "922151441896235008",
+  "created_at": "Sun Oct 22 17:23:31 +0000 2017",
+  "id": 922151441896235008,
+  "coordinates": null,
+  "favorite_count": 0,
+  "entities": {
+    "user_mentions": [],
+    "symbols": [],
+    "hashtags": [
+      {
+        "text": "Elecciones",
+        "indices": [
+          118,
+          129
+        ]
+      },
+      {
+        "text": "Neuquen",
+        "indices": [
+          130,
+          138
+        ]
+      }
+    ],
+    "urls": []
+  },
+  "reply_count": 0,
+  "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+  "place": {
+    "attributes": {},
+    "url": "https://api.twitter.com/1.1/geo/id/00da7cec74df27ff.json",
+    "place_type": "city",
+    "id": "00da7cec74df27ff",
+    "country_code": "AR",
+    "name": "Neuqu\u00e9n",
+    "country": "Argentina",
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            -68.176283,
+            -38.984724
+          ],
+          [
+            -68.176283,
+            -38.921051
+          ],
+          [
+            -68.015162,
+            -38.921051
+          ],
+          [
+            -68.015162,
+            -38.984724
+          ]
+        ]
+      ]
+    },
+    "full_name": "Neuqu\u00e9n, Argentina"
+  },
+  "truncated": false,
+  "in_reply_to_status_id_str": null,
+  "filter_level": "low",
+  "text": "Con mi hermano esperamos media hora en la fila de nuestra mesa. Mi vieja en otra escuela est\u00e1 esperando hace una hora #Elecciones #Neuquen",
+  "geo": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": false,
+  "favorited": false,
+  "user": {
+    "verified": false,
+    "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000065753962/3292f38d5186881bc4aa0e97f268b78f.jpeg",
+    "statuses_count": 6099,
+    "screen_name": "carlasanhuezaa",
+    "default_profile_image": false,
+    "time_zone": "Pacific Time (US & Canada)",
+    "name": "Carla Sanhueza",
+    "id_str": "1345130874",
+    "profile_sidebar_border_color": "FFFFFF",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1345130874/1489073202",
+    "created_at": "Thu Apr 11 19:47:12 +0000 2013",
+    "friends_count": 453,
+    "url": null,
+    "profile_background_tile": true,
+    "protected": false,
+    "translator_type": "none",
+    "profile_text_color": "333333",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/826217434256437249/WxJUB_iB_normal.jpg",
+    "listed_count": 11,
+    "notifications": null,
+    "contributors_enabled": false,
+    "is_translator": false,
+    "location": "Neuqu\u00e9n, Argentina",
+    "profile_use_background_image": true,
+    "followers_count": 827,
+    "profile_sidebar_fill_color": "DDEEF6",
+    "geo_enabled": true,
+    "profile_link_color": "753974",
+    "favourites_count": 1648,
+    "following": null,
+    "default_profile": false,
+    "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000065753962/3292f38d5186881bc4aa0e97f268b78f.jpeg",
+    "profile_background_color": "C0DEED",
+    "id": 1345130874,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/826217434256437249/WxJUB_iB_normal.jpg",
+    "lang": "es",
+    "description": "Periodista. Eterna estudiante de Comunicaci\u00f3n. Productora en LU5AM600 \ud83d\udcfb",
+    "follow_request_sent": null,
+    "utc_offset": -25200
+  },
+  "quote_count": 0,
+  "lang": "es"
+}

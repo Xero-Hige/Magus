@@ -1,0 +1,129 @@
+{
+  "in_reply_to_user_id": null,
+  "contributors": null,
+  "in_reply_to_screen_name": null,
+  "retweeted": false,
+  "retweet_count": 0,
+  "timestamp_ms": "1508695816431",
+  "in_reply_to_status_id": null,
+  "id_str": "922163208097447937",
+  "created_at": "Sun Oct 22 18:10:16 +0000 2017",
+  "id": 922163208097447937,
+  "coordinates": {
+    "type": "Point",
+    "coordinates": [
+      -70.68832245,
+      -33.45429818
+    ]
+  },
+  "favorite_count": 0,
+  "entities": {
+    "user_mentions": [],
+    "symbols": [],
+    "hashtags": [],
+    "urls": [
+      {
+        "expanded_url": "https://www.instagram.com/p/Baj1IKdBedu/",
+        "indices": [
+          100,
+          123
+        ],
+        "url": "https://t.co/AXdV5U4Bu3",
+        "display_url": "instagram.com/p/Baj1IKdBedu/"
+      }
+    ]
+  },
+  "reply_count": 0,
+  "source": "<a href=\"http://instagram.com\" rel=\"nofollow\">Instagram</a>",
+  "place": {
+    "attributes": {},
+    "url": "https://api.twitter.com/1.1/geo/id/006b2a835a30b702.json",
+    "place_type": "city",
+    "id": "006b2a835a30b702",
+    "country_code": "CL",
+    "name": "Estaci\u00f3n Central",
+    "country": "Chile",
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            -70.734189,
+            -33.481396
+          ],
+          [
+            -70.734189,
+            -33.443925
+          ],
+          [
+            -70.67256,
+            -33.443925
+          ],
+          [
+            -70.67256,
+            -33.481396
+          ]
+        ]
+      ]
+    },
+    "full_name": "Estaci\u00f3n Central, Chile"
+  },
+  "truncated": false,
+  "in_reply_to_status_id_str": null,
+  "filter_level": "low",
+  "text": "Dejando a mi pana en el bus.. pero antes su buen baj\u00f3n ...... mario.munoz.hernandez en Terminal Sur https://t.co/AXdV5U4Bu3",
+  "geo": {
+    "type": "Point",
+    "coordinates": [
+      -33.45429818,
+      -70.68832245
+    ]
+  },
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": false,
+  "possibly_sensitive": false,
+  "favorited": false,
+  "user": {
+    "verified": false,
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "statuses_count": 188,
+    "screen_name": "angel__nene",
+    "default_profile_image": false,
+    "time_zone": "Santiago",
+    "name": "Angel Nene",
+    "id_str": "2203982599",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/2203982599/1404221910",
+    "created_at": "Wed Nov 20 00:26:33 +0000 2013",
+    "friends_count": 183,
+    "url": null,
+    "profile_background_tile": false,
+    "protected": false,
+    "translator_type": "none",
+    "profile_text_color": "333333",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/583558184599695361/dc8iiQij_normal.jpg",
+    "listed_count": 0,
+    "notifications": null,
+    "contributors_enabled": false,
+    "is_translator": false,
+    "location": "Santiago, Chile",
+    "profile_use_background_image": true,
+    "followers_count": 65,
+    "profile_sidebar_fill_color": "DDEEF6",
+    "geo_enabled": true,
+    "profile_link_color": "1DA1F2",
+    "favourites_count": 12,
+    "following": null,
+    "default_profile": true,
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_color": "C0DEED",
+    "id": 2203982599,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/583558184599695361/dc8iiQij_normal.jpg",
+    "lang": "es",
+    "description": "actor.",
+    "follow_request_sent": null,
+    "utc_offset": -10800
+  },
+  "quote_count": 0,
+  "lang": "es"
+}

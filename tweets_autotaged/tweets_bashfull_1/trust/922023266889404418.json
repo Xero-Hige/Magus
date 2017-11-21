@@ -1,0 +1,129 @@
+{
+  "in_reply_to_user_id": null,
+  "contributors": null,
+  "in_reply_to_screen_name": null,
+  "retweeted": false,
+  "retweet_count": 0,
+  "timestamp_ms": "1508662451847",
+  "in_reply_to_status_id": null,
+  "id_str": "922023266889404418",
+  "created_at": "Sun Oct 22 08:54:11 +0000 2017",
+  "id": 922023266889404418,
+  "coordinates": {
+    "type": "Point",
+    "coordinates": [
+      -70.6684,
+      -33.4577
+    ]
+  },
+  "favorite_count": 0,
+  "entities": {
+    "user_mentions": [],
+    "symbols": [],
+    "hashtags": [],
+    "urls": [
+      {
+        "expanded_url": "https://central132.cl/llamado-128345?1",
+        "indices": [
+          105,
+          128
+        ],
+        "url": "https://t.co/DVV0JOgeou",
+        "display_url": "central132.cl/llamado-128345\u2026"
+      }
+    ]
+  },
+  "reply_count": 0,
+  "source": "<a href=\"https://central132.cl\" rel=\"nofollow\">Central132</a>",
+  "place": {
+    "attributes": {},
+    "url": "https://api.twitter.com/1.1/geo/id/0010b4cb51ca93d8.json",
+    "place_type": "city",
+    "id": "0010b4cb51ca93d8",
+    "country_code": "CL",
+    "name": "Santiago",
+    "country": "Chile",
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            -70.692959,
+            -33.478574
+          ],
+          [
+            -70.692959,
+            -33.425749
+          ],
+          [
+            -70.626272,
+            -33.425749
+          ],
+          [
+            -70.626272,
+            -33.478574
+          ]
+        ]
+      ]
+    },
+    "full_name": "Santiago, Chile"
+  },
+  "truncated": false,
+  "in_reply_to_status_id_str": null,
+  "filter_level": "low",
+  "text": "05:53 en Santiago Llamado a fuego en pastizales y/o basura (10-2) B17 Almirante Blanco Encalada y Espa\u00f1a https://t.co/DVV0JOgeou",
+  "geo": {
+    "type": "Point",
+    "coordinates": [
+      -33.4577,
+      -70.6684
+    ]
+  },
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": false,
+  "possibly_sensitive": false,
+  "favorited": false,
+  "user": {
+    "verified": false,
+    "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/563652255/twitter.jpg",
+    "statuses_count": 29769,
+    "screen_name": "bombapucara",
+    "default_profile_image": false,
+    "time_zone": "Quito",
+    "name": "S\u00e9ptima Compa\u00f1ia-CBM",
+    "id_str": "261386333",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/261386333/1468274559",
+    "created_at": "Sat Mar 05 21:17:20 +0000 2011",
+    "friends_count": 325,
+    "url": "http://www.septimamaipu.cl",
+    "profile_background_tile": false,
+    "protected": false,
+    "translator_type": "none",
+    "profile_text_color": "333333",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/831232042864107520/8slgjeRG_normal.jpg",
+    "listed_count": 58,
+    "notifications": null,
+    "contributors_enabled": false,
+    "is_translator": false,
+    "location": "Maip\u00fa, Santiago de Chile",
+    "profile_use_background_image": true,
+    "followers_count": 5672,
+    "profile_sidebar_fill_color": "DDEEF6",
+    "geo_enabled": true,
+    "profile_link_color": "0084B4",
+    "favourites_count": 93,
+    "following": null,
+    "default_profile": false,
+    "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/563652255/twitter.jpg",
+    "profile_background_color": "C0DEED",
+    "id": 261386333,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/831232042864107520/8slgjeRG_normal.jpg",
+    "lang": "es",
+    "description": "S\u00e9ptima Compa\u00f1\u00eda del Cuerpo de Bomberos de Maip\u00fa Bomba Pucar\u00e1. Fundada el 5 de Febrero de 1995. Av. El Descanso N\u00b0 644, Maipu - Fono: +56 2 2744 1590.",
+    "follow_request_sent": null,
+    "utc_offset": -18000
+  },
+  "quote_count": 0,
+  "lang": "es"
+}

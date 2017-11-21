@@ -1,0 +1,114 @@
+{
+  "in_reply_to_user_id": null,
+  "contributors": null,
+  "in_reply_to_screen_name": null,
+  "retweeted": false,
+  "retweet_count": 0,
+  "timestamp_ms": "1508690734194",
+  "in_reply_to_status_id": null,
+  "id_str": "922141891650637825",
+  "created_at": "Sun Oct 22 16:45:34 +0000 2017",
+  "id": 922141891650637825,
+  "coordinates": null,
+  "favorite_count": 0,
+  "entities": {
+    "user_mentions": [],
+    "symbols": [],
+    "hashtags": [
+      {
+        "text": "Elecciones2017",
+        "indices": [
+          105,
+          120
+        ]
+      }
+    ],
+    "urls": []
+  },
+  "reply_count": 0,
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "place": {
+    "attributes": {},
+    "url": "https://api.twitter.com/1.1/geo/id/00f84d414936f28e.json",
+    "place_type": "city",
+    "id": "00f84d414936f28e",
+    "country_code": "AR",
+    "name": "C\u00f3rdoba",
+    "country": "Argentina",
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            -64.3195,
+            -31.523576
+          ],
+          [
+            -64.3195,
+            -31.307337
+          ],
+          [
+            -64.076551,
+            -31.307337
+          ],
+          [
+            -64.076551,
+            -31.523576
+          ]
+        ]
+      ]
+    },
+    "full_name": "C\u00f3rdoba, Argentina"
+  },
+  "truncated": false,
+  "in_reply_to_status_id_str": null,
+  "filter_level": "low",
+  "text": "Otra vez la gendarmer\u00eda, pero esta vez en las escuelas evitando q los fiscales de mesa hagan su trabajo. #Elecciones2017",
+  "geo": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": false,
+  "favorited": false,
+  "user": {
+    "verified": false,
+    "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/753478150/7ed89e123e6d5a061d7011186bda66d5.jpeg",
+    "statuses_count": 29017,
+    "screen_name": "jucarossia",
+    "default_profile_image": false,
+    "time_zone": "Santiago",
+    "name": "julieta",
+    "id_str": "290822309",
+    "profile_sidebar_border_color": "FFFFFF",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/290822309/1495335573",
+    "created_at": "Sun May 01 00:27:28 +0000 2011",
+    "friends_count": 291,
+    "url": null,
+    "profile_background_tile": true,
+    "protected": false,
+    "translator_type": "none",
+    "profile_text_color": "D91F82",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/921931099705626626/NNmlM1Wp_normal.jpg",
+    "listed_count": 1,
+    "notifications": null,
+    "contributors_enabled": false,
+    "is_translator": false,
+    "location": null,
+    "profile_use_background_image": true,
+    "followers_count": 627,
+    "profile_sidebar_fill_color": "1C1316",
+    "geo_enabled": true,
+    "profile_link_color": "E01BB9",
+    "favourites_count": 8663,
+    "following": null,
+    "default_profile": false,
+    "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/753478150/7ed89e123e6d5a061d7011186bda66d5.jpeg",
+    "profile_background_color": "FF6699",
+    "id": 290822309,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/921931099705626626/NNmlM1Wp_normal.jpg",
+    "lang": "es",
+    "description": "de tierra del fuego en C\u00f3rdoba",
+    "follow_request_sent": null,
+    "utc_offset": -10800
+  },
+  "quote_count": 0,
+  "lang": "es"
+}

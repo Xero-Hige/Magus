@@ -1,0 +1,345 @@
+{
+  "id_str": "922284221233876992",
+  "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+  "in_reply_to_status_id": null,
+  "created_at": "Mon Oct 23 02:11:08 +0000 2017",
+  "retweet_count": 0,
+  "truncated": true,
+  "place": {
+    "id": "0138a2ed609c5a53",
+    "country_code": "AR",
+    "name": "Gonz\u00e1lez Cat\u00e1n",
+    "bounding_box": {
+      "coordinates": [
+        [
+          [
+            -58.714401,
+            -34.91004
+          ],
+          [
+            -58.714401,
+            -34.634696
+          ],
+          [
+            -58.46421,
+            -34.634696
+          ],
+          [
+            -58.46421,
+            -34.91004
+          ]
+        ]
+      ],
+      "type": "Polygon"
+    },
+    "place_type": "city",
+    "country": "Argentina",
+    "full_name": "Gonz\u00e1lez Cat\u00e1n, Argentina",
+    "url": "https://api.twitter.com/1.1/geo/id/0138a2ed609c5a53.json",
+    "attributes": {}
+  },
+  "possibly_sensitive": false,
+  "text": "Super emocionada los super felicito.\nMuchas Bendiciones!. nuestros sue\u00f1os se cumplen.  Los Ame \u2764\n@lino_dinuzzo\u2026 https://t.co/i5slA837rd",
+  "id": 922284221233876992,
+  "in_reply_to_screen_name": null,
+  "entities": {
+    "hashtags": [],
+    "urls": [
+      {
+        "indices": [
+          112,
+          135
+        ],
+        "expanded_url": "https://twitter.com/i/web/status/922284221233876992",
+        "display_url": "twitter.com/i/web/status/9\u2026",
+        "url": "https://t.co/i5slA837rd"
+      }
+    ],
+    "symbols": [],
+    "user_mentions": [
+      {
+        "id": 637063665,
+        "id_str": "637063665",
+        "indices": [
+          97,
+          110
+        ],
+        "screen_name": "lino_dinuzzo",
+        "name": "Lino Di Nuzzo"
+      }
+    ]
+  },
+  "display_text_range": [
+    0,
+    140
+  ],
+  "quoted_status": {
+    "geo": null,
+    "user": {
+      "id_str": "637063665",
+      "favourites_count": 6605,
+      "contributors_enabled": false,
+      "name": "Lino Di Nuzzo",
+      "profile_sidebar_fill_color": "000000",
+      "profile_background_tile": false,
+      "profile_background_color": "000000",
+      "created_at": "Mon Jul 16 13:46:10 +0000 2012",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/637063665/1473443059",
+      "location": "Account ufficiale",
+      "description": "Hijo di Dios, Italian Dancer, Actor and Performer",
+      "listed_count": 31,
+      "follow_request_sent": null,
+      "default_profile_image": false,
+      "lang": "it",
+      "statuses_count": 5029,
+      "url": "https://www.facebook.com/pasqualedinuzzoufficiale",
+      "notifications": null,
+      "id": 637063665,
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "translator_type": "none",
+      "screen_name": "lino_dinuzzo",
+      "protected": false,
+      "profile_link_color": "3B94D9",
+      "friends_count": 231,
+      "time_zone": "Rome",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_text_color": "000000",
+      "is_translator": false,
+      "followers_count": 32603,
+      "default_profile": false,
+      "utc_offset": 7200,
+      "verified": false,
+      "following": null,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/773169416829796352/YkVGaLi9_normal.jpg",
+      "profile_use_background_image": false,
+      "profile_sidebar_border_color": "000000",
+      "geo_enabled": true,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/773169416829796352/YkVGaLi9_normal.jpg"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "lang": "es",
+    "favorited": false,
+    "in_reply_to_status_id": null,
+    "created_at": "Sat Oct 21 19:09:56 +0000 2017",
+    "coordinates": null,
+    "quote_count": 5,
+    "truncated": false,
+    "place": null,
+    "retweet_count": 357,
+    "reply_count": 53,
+    "possibly_sensitive": false,
+    "extended_entities": {
+      "media": [
+        {
+          "id": 921815818555576320,
+          "sizes": {
+            "small": {
+              "h": 680,
+              "resize": "fit",
+              "w": 680
+            },
+            "medium": {
+              "h": 1080,
+              "resize": "fit",
+              "w": 1080
+            },
+            "large": {
+              "h": 1080,
+              "resize": "fit",
+              "w": 1080
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "indices": [
+            91,
+            114
+          ],
+          "display_url": "pic.twitter.com/hD4RmUZFv8",
+          "media_url": "http://pbs.twimg.com/media/DMryml1XUAA3x9k.jpg",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/DMryml1XUAA3x9k.jpg",
+          "id_str": "921815818555576320",
+          "expanded_url": "https://twitter.com/lino_dinuzzo/status/921815835009867777/photo/1",
+          "url": "https://t.co/hD4RmUZFv8"
+        }
+      ]
+    },
+    "text": "Se viene algo muy especial ! \nGracias por tu talento y tu lindo corazon ! @Malenaratner \u2764\ufe0f https://t.co/hD4RmUZFv8",
+    "in_reply_to_user_id": null,
+    "id": 921815835009867777,
+    "favorite_count": 1647,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "entities": {
+      "hashtags": [],
+      "media": [
+        {
+          "id": 921815818555576320,
+          "sizes": {
+            "small": {
+              "h": 680,
+              "resize": "fit",
+              "w": 680
+            },
+            "medium": {
+              "h": 1080,
+              "resize": "fit",
+              "w": 1080
+            },
+            "large": {
+              "h": 1080,
+              "resize": "fit",
+              "w": 1080
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "indices": [
+            91,
+            114
+          ],
+          "display_url": "pic.twitter.com/hD4RmUZFv8",
+          "media_url": "http://pbs.twimg.com/media/DMryml1XUAA3x9k.jpg",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/DMryml1XUAA3x9k.jpg",
+          "id_str": "921815818555576320",
+          "expanded_url": "https://twitter.com/lino_dinuzzo/status/921815835009867777/photo/1",
+          "url": "https://t.co/hD4RmUZFv8"
+        }
+      ],
+      "urls": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "id": 180164295,
+          "id_str": "180164295",
+          "indices": [
+            74,
+            87
+          ],
+          "screen_name": "Malenaratner",
+          "name": "Malena Ratner"
+        }
+      ]
+    },
+    "id_str": "921815835009867777",
+    "display_text_range": [
+      0,
+      90
+    ],
+    "filter_level": "low",
+    "retweeted": false,
+    "contributors": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false
+  },
+  "retweeted": false,
+  "timestamp_ms": "1508724668211",
+  "contributors": null,
+  "is_quote_status": true,
+  "quoted_status_id_str": "921815835009867777",
+  "user": {
+    "id_str": "902625627580366848",
+    "favourites_count": 2047,
+    "contributors_enabled": false,
+    "name": "T A M Y  \ud83e\udd13",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_background_tile": false,
+    "profile_background_color": "F5F8FA",
+    "created_at": "Tue Aug 29 20:14:54 +0000 2017",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/902625627580366848/1506739229",
+    "location": "Laferrere",
+    "description": "super feliz \ud83d\ude00, disfrutando de la vida. \ud83d\ude1c\nenamoradicima de mi hijo Sebasti\u00e1n de 7 a\u00f1os.\ud83d\ude0d\nRUGGERISTA/KAROLISTA \ud83d\udc95\nLunatica Afull \ud83c\udfa4\u2764\u2764",
+    "listed_count": 0,
+    "follow_request_sent": null,
+    "default_profile_image": false,
+    "lang": "es",
+    "statuses_count": 526,
+    "url": null,
+    "notifications": null,
+    "id": 902625627580366848,
+    "profile_background_image_url": "",
+    "translator_type": "none",
+    "screen_name": "BarrazaTamy",
+    "protected": false,
+    "profile_link_color": "1DA1F2",
+    "friends_count": 173,
+    "time_zone": null,
+    "profile_background_image_url_https": "",
+    "profile_text_color": "333333",
+    "is_translator": false,
+    "followers_count": 27,
+    "default_profile": true,
+    "utc_offset": null,
+    "verified": false,
+    "following": null,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/912771410115866624/BpsbNxdv_normal.jpg",
+    "profile_use_background_image": true,
+    "profile_sidebar_border_color": "C0DEED",
+    "geo_enabled": true,
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/912771410115866624/BpsbNxdv_normal.jpg"
+  },
+  "favorited": false,
+  "coordinates": null,
+  "quote_count": 0,
+  "lang": "es",
+  "reply_count": 0,
+  "in_reply_to_user_id": null,
+  "extended_tweet": {
+    "full_text": "Super emocionada los super felicito.\nMuchas Bendiciones!. nuestros sue\u00f1os se cumplen.  Los Ame \u2764\n@lino_dinuzzo \n@Malenaratner https://t.co/Hg6ttTpPJp",
+    "display_text_range": [
+      0,
+      125
+    ],
+    "entities": {
+      "hashtags": [],
+      "urls": [
+        {
+          "indices": [
+            126,
+            149
+          ],
+          "expanded_url": "https://twitter.com/lino_dinuzzo/status/921815835009867777",
+          "display_url": "twitter.com/lino_dinuzzo/s\u2026",
+          "url": "https://t.co/Hg6ttTpPJp"
+        }
+      ],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "id": 637063665,
+          "id_str": "637063665",
+          "indices": [
+            97,
+            110
+          ],
+          "screen_name": "lino_dinuzzo",
+          "name": "Lino Di Nuzzo"
+        },
+        {
+          "id": 180164295,
+          "id_str": "180164295",
+          "indices": [
+            112,
+            125
+          ],
+          "screen_name": "Malenaratner",
+          "name": "Malena Ratner"
+        }
+      ]
+    }
+  },
+  "favorite_count": 0,
+  "in_reply_to_status_id_str": null,
+  "geo": null,
+  "quoted_status_id": 921815835009867777,
+  "filter_level": "low",
+  "in_reply_to_user_id_str": null
+}

@@ -1,0 +1,114 @@
+{
+  "in_reply_to_user_id": null,
+  "contributors": null,
+  "in_reply_to_screen_name": null,
+  "retweeted": false,
+  "retweet_count": 0,
+  "timestamp_ms": "1508692590087",
+  "in_reply_to_status_id": null,
+  "id_str": "922149675830054913",
+  "created_at": "Sun Oct 22 17:16:30 +0000 2017",
+  "id": 922149675830054913,
+  "coordinates": null,
+  "favorite_count": 0,
+  "entities": {
+    "user_mentions": [],
+    "symbols": [],
+    "hashtags": [
+      {
+        "text": "EleccionesArgentina",
+        "indices": [
+          120,
+          140
+        ]
+      }
+    ],
+    "urls": []
+  },
+  "reply_count": 0,
+  "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+  "place": {
+    "attributes": {},
+    "url": "https://api.twitter.com/1.1/geo/id/00a961d91f76dde8.json",
+    "place_type": "city",
+    "id": "00a961d91f76dde8",
+    "country_code": "AR",
+    "name": "Corrientes",
+    "country": "Argentina",
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            -58.855973,
+            -27.537017
+          ],
+          [
+            -58.855973,
+            -27.437049
+          ],
+          [
+            -58.736291,
+            -27.437049
+          ],
+          [
+            -58.736291,
+            -27.537017
+          ]
+        ]
+      ]
+    },
+    "full_name": "Corrientes, Argentina"
+  },
+  "truncated": false,
+  "in_reply_to_status_id_str": null,
+  "filter_level": "low",
+  "text": "Se quejan del voto electr\u00f3nico por el posible de fraude. Pero no vi a nadie quejarse por tener que leng\u00fcetear el sobre. #EleccionesArgentina",
+  "geo": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": false,
+  "favorited": false,
+  "user": {
+    "verified": false,
+    "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/1355482/besos_la_primera_vez.jpg",
+    "statuses_count": 33779,
+    "screen_name": "dantesku",
+    "default_profile_image": false,
+    "time_zone": "Buenos Aires",
+    "name": "dante",
+    "id_str": "8949922",
+    "profile_sidebar_border_color": "87BC44",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/8949922/1464225344",
+    "created_at": "Tue Sep 18 11:57:31 +0000 2007",
+    "friends_count": 858,
+    "url": "https://www.facebook.com/Corrientesdiaadia/",
+    "profile_background_tile": false,
+    "protected": false,
+    "translator_type": "none",
+    "profile_text_color": "000000",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/3629155807/89d46ba0f7de489b71690c22f977f298_normal.jpeg",
+    "listed_count": 23,
+    "notifications": null,
+    "contributors_enabled": false,
+    "is_translator": false,
+    "location": "Argentina",
+    "profile_use_background_image": true,
+    "followers_count": 1046,
+    "profile_sidebar_fill_color": "E0FF92",
+    "geo_enabled": true,
+    "profile_link_color": "0000FF",
+    "favourites_count": 16902,
+    "following": null,
+    "default_profile": false,
+    "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/1355482/besos_la_primera_vez.jpg",
+    "profile_background_color": "E1D4D4",
+    "id": 8949922,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/3629155807/89d46ba0f7de489b71690c22f977f298_normal.jpeg",
+    "lang": "es",
+    "description": "Me gusta el asado.",
+    "follow_request_sent": null,
+    "utc_offset": -10800
+  },
+  "quote_count": 0,
+  "lang": "es"
+}

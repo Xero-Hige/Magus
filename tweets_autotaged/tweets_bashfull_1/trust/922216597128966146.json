@@ -1,0 +1,151 @@
+{
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "urls": [
+      {
+        "indices": [
+          117,
+          140
+        ],
+        "expanded_url": "https://twitter.com/i/web/status/922216597128966146",
+        "display_url": "twitter.com/i/web/status/9\u2026",
+        "url": "https://t.co/QhWVWnYa7B"
+      }
+    ],
+    "user_mentions": [
+      {
+        "indices": [
+          74,
+          88
+        ],
+        "screen_name": "marquitospena",
+        "name": "Marcos Pe\u00f1a",
+        "id_str": "29622459",
+        "id": 29622459
+      }
+    ]
+  },
+  "in_reply_to_user_id": null,
+  "created_at": "Sun Oct 22 21:42:25 +0000 2017",
+  "favorite_count": 0,
+  "lang": "es",
+  "reply_count": 0,
+  "id_str": "922216597128966146",
+  "in_reply_to_user_id_str": null,
+  "extended_tweet": {
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "urls": [],
+      "user_mentions": [
+        {
+          "indices": [
+            74,
+            88
+          ],
+          "screen_name": "marquitospena",
+          "name": "Marcos Pe\u00f1a",
+          "id_str": "29622459",
+          "id": 29622459
+        }
+      ]
+    },
+    "display_text_range": [
+      0,
+      279
+    ],
+    "full_text": "Maleducados y desubicados, los PERIODISTAS en la conferencia de prensa de @marquitospena le dicen \"Pe\u00f1a\", \"Marcos\", nunca \"Sr. Ministro\" o \"Ministro\", totalmente confianzudos. E insisten con Maldonado. Un espanto, salvo contadas y honrosas excepciones como cronista de TV P\u00fablica"
+  },
+  "in_reply_to_status_id": null,
+  "timestamp_ms": "1508708545368",
+  "text": "Maleducados y desubicados, los PERIODISTAS en la conferencia de prensa de @marquitospena le dicen \"Pe\u00f1a\", \"Marcos\",\u2026 https://t.co/QhWVWnYa7B",
+  "user": {
+    "time_zone": "Buenos Aires",
+    "screen_name": "germanionqn",
+    "utc_offset": -10800,
+    "created_at": "Sat Oct 15 20:20:49 +0000 2011",
+    "profile_background_tile": false,
+    "notifications": null,
+    "lang": "es",
+    "default_profile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/391590171/1503398695",
+    "id_str": "391590171",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/820475113569210369/zm1k7tBd_normal.jpg",
+    "name": "Germ\u00e1n \ud83d\udd0a \ud83d\udc3e\ud83d\udc3e\ud83d\udc3e \ud83d\udeb2",
+    "friends_count": 2687,
+    "translator_type": "none",
+    "protected": false,
+    "following": null,
+    "is_translator": false,
+    "follow_request_sent": null,
+    "profile_text_color": "333333",
+    "listed_count": 18,
+    "profile_link_color": "1DA1F2",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "url": null,
+    "id": 391590171,
+    "favourites_count": 7907,
+    "profile_background_color": "C0DEED",
+    "followers_count": 1820,
+    "statuses_count": 53618,
+    "description": "Vos, obsecuente pol\u00edtico, NO SOS BIENVENIDO en mi cuenta.\nSi ellos dicen hay \ud83c\udf1e, llev\u00e1 \u2614.\nAMO A LOS ANIMALES \ud83d\udc18\ud83d\udc15\ud83d\udc3a Y LOS DEFIENDO\n\ud83c\udfbeTENIS\u25b6Djokovic (siempre \u2b501)",
+    "location": "NEUQU\u00c9N ",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "default_profile_image": false,
+    "verified": false,
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_use_background_image": true,
+    "contributors_enabled": false,
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/820475113569210369/zm1k7tBd_normal.jpg",
+    "geo_enabled": true
+  },
+  "geo": null,
+  "id": 922216597128966146,
+  "quote_count": 0,
+  "retweeted": false,
+  "filter_level": "low",
+  "in_reply_to_status_id_str": null,
+  "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+  "favorited": false,
+  "coordinates": null,
+  "truncated": true,
+  "retweet_count": 0,
+  "is_quote_status": false,
+  "in_reply_to_screen_name": null,
+  "contributors": null,
+  "place": {
+    "bounding_box": {
+      "coordinates": [
+        [
+          [
+            -68.176283,
+            -38.984724
+          ],
+          [
+            -68.176283,
+            -38.921051
+          ],
+          [
+            -68.015162,
+            -38.921051
+          ],
+          [
+            -68.015162,
+            -38.984724
+          ]
+        ]
+      ],
+      "type": "Polygon"
+    },
+    "name": "Neuqu\u00e9n",
+    "url": "https://api.twitter.com/1.1/geo/id/00da7cec74df27ff.json",
+    "country_code": "AR",
+    "id": "00da7cec74df27ff",
+    "place_type": "city",
+    "attributes": {},
+    "full_name": "Neuqu\u00e9n, Argentina",
+    "country": "Argentina"
+  }
+}

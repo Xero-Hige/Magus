@@ -1,0 +1,128 @@
+{
+  "in_reply_to_user_id": null,
+  "contributors": null,
+  "in_reply_to_screen_name": null,
+  "retweeted": false,
+  "retweet_count": 0,
+  "timestamp_ms": "1508681717276",
+  "in_reply_to_status_id": null,
+  "id_str": "922104071955329024",
+  "created_at": "Sun Oct 22 14:15:17 +0000 2017",
+  "id": 922104071955329024,
+  "coordinates": null,
+  "favorite_count": 0,
+  "entities": {
+    "user_mentions": [
+      {
+        "indices": [
+          8,
+          24
+        ],
+        "name": "Perro Blanco",
+        "screen_name": "perroblancocine",
+        "id": 835192745094324224,
+        "id_str": "835192745094324224"
+      }
+    ],
+    "symbols": [],
+    "hashtags": [],
+    "urls": [
+      {
+        "expanded_url": "https://www.perroblanco.net/escribiendo-de-amor/",
+        "indices": [
+          107,
+          130
+        ],
+        "url": "https://t.co/qQPB5EMkNX",
+        "display_url": "perroblanco.net/escribiendo-de\u2026"
+      }
+    ]
+  },
+  "reply_count": 0,
+  "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+  "place": {
+    "attributes": {},
+    "url": "https://api.twitter.com/1.1/geo/id/018f1cde6bad9747.json",
+    "place_type": "city",
+    "id": "018f1cde6bad9747",
+    "country_code": "AR",
+    "name": "Ciudad Aut\u00f3noma de Buenos Aires",
+    "country": "Argentina",
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            -58.531792,
+            -34.674453
+          ],
+          [
+            -58.531792,
+            -34.534177
+          ],
+          [
+            -58.353494,
+            -34.534177
+          ],
+          [
+            -58.353494,
+            -34.674453
+          ]
+        ]
+      ]
+    },
+    "full_name": "Ciudad Aut\u00f3noma de Buenos Aires, Argentina"
+  },
+  "truncated": false,
+  "in_reply_to_status_id_str": null,
+  "filter_level": "low",
+  "text": "Gracias @perroblancocine por hacerme acordar el d\u00eda de hoy de esa feliz belleza que es ESCRIBIENDO DE AMOR https://t.co/qQPB5EMkNX",
+  "geo": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": false,
+  "possibly_sensitive": false,
+  "favorited": false,
+  "user": {
+    "verified": false,
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "statuses_count": 7418,
+    "screen_name": "fejlima",
+    "default_profile_image": false,
+    "time_zone": "Buenos Aires",
+    "name": "Fernando Juan Lima",
+    "id_str": "182369336",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/182369336/1457915727",
+    "created_at": "Tue Aug 24 12:52:52 +0000 2010",
+    "friends_count": 800,
+    "url": "http://www.laautopistadelsur.com",
+    "profile_background_tile": false,
+    "protected": false,
+    "translator_type": "none",
+    "profile_text_color": "333333",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/777961578066870272/dw7feFUZ_normal.jpg",
+    "listed_count": 24,
+    "notifications": null,
+    "contributors_enabled": false,
+    "is_translator": false,
+    "location": "Buenos Aires, Argentina",
+    "profile_use_background_image": true,
+    "followers_count": 1952,
+    "profile_sidebar_fill_color": "DDEEF6",
+    "geo_enabled": true,
+    "profile_link_color": "1DA1F2",
+    "favourites_count": 4741,
+    "following": null,
+    "default_profile": true,
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_color": "C0DEED",
+    "id": 182369336,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/777961578066870272/dw7feFUZ_normal.jpg",
+    "lang": "es",
+    "description": "Abogado, cr\u00edtico de cine. Redactor El Amante/Cine, conductor de La Autopista del Sur (AM750) y Cinema Mon Amour (Canal (\u00e1)), colaborador Diario BAE y OtrosCines",
+    "follow_request_sent": null,
+    "utc_offset": -10800
+  },
+  "quote_count": 0,
+  "lang": "es"
+}

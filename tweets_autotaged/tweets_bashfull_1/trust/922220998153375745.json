@@ -1,0 +1,137 @@
+{
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "indices": [
+          76,
+          90
+        ],
+        "screen_name": "ContactoAdpra",
+        "name": "Adpra",
+        "id_str": "430758408",
+        "id": 430758408
+      },
+      {
+        "indices": [
+          91,
+          103
+        ],
+        "screen_name": "DefensorMGP",
+        "name": "DefensoriaMGP",
+        "id_str": "558554348",
+        "id": 558554348
+      },
+      {
+        "indices": [
+          104,
+          119
+        ],
+        "screen_name": "DefensoriaCABA",
+        "name": "Defensor\u00eda CABA",
+        "id_str": "53392867",
+        "id": 53392867
+      }
+    ]
+  },
+  "in_reply_to_user_id": null,
+  "created_at": "Sun Oct 22 21:59:54 +0000 2017",
+  "favorite_count": 0,
+  "lang": "es",
+  "reply_count": 0,
+  "id_str": "922220998153375745",
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_status_id": null,
+  "timestamp_ms": "1508709594654",
+  "text": "Con el Defensor Fernando Cuesta haciendo la veeduria electoral en Balcarce. @ContactoAdpra @DefensorMGP @DefensoriaCABA",
+  "user": {
+    "time_zone": "Buenos Aires",
+    "screen_name": "LeonMDP",
+    "utc_offset": -10800,
+    "created_at": "Thu Jan 07 15:39:35 +0000 2010",
+    "profile_background_tile": true,
+    "notifications": null,
+    "lang": "es",
+    "default_profile": false,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/102711062/1444442919",
+    "id_str": "102711062",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/652267652501643265/IL-kDPiG_normal.jpg",
+    "name": "Leonardo",
+    "friends_count": 1208,
+    "translator_type": "none",
+    "protected": false,
+    "following": null,
+    "is_translator": false,
+    "follow_request_sent": null,
+    "profile_text_color": "0C3E53",
+    "listed_count": 19,
+    "profile_link_color": "FF0000",
+    "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/141457621/Estudiantes_de_La_Plata_logo.png",
+    "url": null,
+    "id": 102711062,
+    "favourites_count": 4762,
+    "profile_background_color": "BADFCD",
+    "followers_count": 908,
+    "statuses_count": 15697,
+    "description": "#SoldadoDeSabella #UltraQuime\u00f1o Programador PhP y MySQL Empleado.",
+    "location": "Mar del Plata",
+    "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/141457621/Estudiantes_de_La_Plata_logo.png",
+    "default_profile_image": false,
+    "verified": false,
+    "profile_sidebar_fill_color": "FFF7CC",
+    "profile_use_background_image": true,
+    "contributors_enabled": false,
+    "profile_sidebar_border_color": "F2E195",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/652267652501643265/IL-kDPiG_normal.jpg",
+    "geo_enabled": true
+  },
+  "geo": null,
+  "id": 922220998153375745,
+  "quote_count": 0,
+  "retweeted": false,
+  "filter_level": "low",
+  "in_reply_to_status_id_str": null,
+  "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+  "favorited": false,
+  "coordinates": null,
+  "truncated": false,
+  "retweet_count": 0,
+  "is_quote_status": false,
+  "in_reply_to_screen_name": null,
+  "contributors": null,
+  "place": {
+    "bounding_box": {
+      "coordinates": [
+        [
+          [
+            -58.27846,
+            -37.868096
+          ],
+          [
+            -58.27846,
+            -37.829801
+          ],
+          [
+            -58.23921,
+            -37.829801
+          ],
+          [
+            -58.23921,
+            -37.868096
+          ]
+        ]
+      ],
+      "type": "Polygon"
+    },
+    "name": "Balcarce",
+    "url": "https://api.twitter.com/1.1/geo/id/01e525e8315b79ad.json",
+    "country_code": "AR",
+    "id": "01e525e8315b79ad",
+    "place_type": "city",
+    "attributes": {},
+    "full_name": "Balcarce, Argentina",
+    "country": "Argentina"
+  }
+}

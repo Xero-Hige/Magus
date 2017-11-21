@@ -1,0 +1,140 @@
+{
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "urls": [
+      {
+        "indices": [
+          96,
+          119
+        ],
+        "expanded_url": "https://www.swarmapp.com/c/bpMkpzy4I8Y",
+        "display_url": "swarmapp.com/c/bpMkpzy4I8Y",
+        "url": "https://t.co/ahB3WCauoD"
+      }
+    ],
+    "user_mentions": [
+      {
+        "indices": [
+          57,
+          73
+        ],
+        "screen_name": "TeatroMunicAsun",
+        "name": "TeatroMunicAsuncion",
+        "id_str": "199361570",
+        "id": 199361570
+      }
+    ]
+  },
+  "in_reply_to_user_id": null,
+  "created_at": "Sun Oct 22 21:43:32 +0000 2017",
+  "favorite_count": 0,
+  "lang": "es",
+  "reply_count": 0,
+  "id_str": "922216880068276224",
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_status_id": null,
+  "timestamp_ms": "1508708612826",
+  "possibly_sensitive": false,
+  "text": "Lago de los cisnes (@ Teatro Municipal Ignacio A. Pane - @teatromunicasun in Asuncion, Capital) https://t.co/ahB3WCauoD",
+  "user": {
+    "time_zone": null,
+    "screen_name": "blancabaez",
+    "utc_offset": null,
+    "created_at": "Thu Oct 21 21:02:38 +0000 2010",
+    "profile_background_tile": false,
+    "notifications": null,
+    "lang": "es",
+    "default_profile": false,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/205896008/1392336002",
+    "id_str": "205896008",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1151076166/foto-perfil_normal.jpg",
+    "name": "Blanca de B\u00e1ez",
+    "friends_count": 399,
+    "translator_type": "none",
+    "protected": false,
+    "following": null,
+    "is_translator": false,
+    "follow_request_sent": null,
+    "profile_text_color": "333333",
+    "listed_count": 50,
+    "profile_link_color": "0084B4",
+    "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/272628270/pajaritos.png",
+    "url": "http://bbaez.wordpress.com/",
+    "id": 205896008,
+    "favourites_count": 1721,
+    "profile_background_color": "9AE4E8",
+    "followers_count": 753,
+    "statuses_count": 7531,
+    "description": "Master en Tecnolog\u00edas Emergentes para Aprendizaje y Trabajo en Red. Analista de Sistemas, Docente de la Facultad de Ciencias y Tecnolog\u00eda-UAA.",
+    "location": "Asunci\u00f3n-Paraguay",
+    "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/272628270/pajaritos.png",
+    "default_profile_image": false,
+    "verified": false,
+    "profile_sidebar_fill_color": "DDFFCC",
+    "profile_use_background_image": true,
+    "contributors_enabled": false,
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1151076166/foto-perfil_normal.jpg",
+    "geo_enabled": true
+  },
+  "geo": {
+    "coordinates": [
+      -25.28108478,
+      -57.63507583
+    ],
+    "type": "Point"
+  },
+  "id": 922216880068276224,
+  "quote_count": 0,
+  "retweeted": false,
+  "filter_level": "low",
+  "in_reply_to_status_id_str": null,
+  "source": "<a href=\"http://foursquare.com\" rel=\"nofollow\">Foursquare</a>",
+  "favorited": false,
+  "coordinates": {
+    "coordinates": [
+      -57.63507583,
+      -25.28108478
+    ],
+    "type": "Point"
+  },
+  "truncated": false,
+  "retweet_count": 0,
+  "is_quote_status": false,
+  "in_reply_to_screen_name": null,
+  "contributors": null,
+  "place": {
+    "bounding_box": {
+      "coordinates": [
+        [
+          [
+            -57.674304,
+            -25.34793
+          ],
+          [
+            -57.674304,
+            -25.252598
+          ],
+          [
+            -57.537731,
+            -25.252598
+          ],
+          [
+            -57.537731,
+            -25.34793
+          ]
+        ]
+      ],
+      "type": "Polygon"
+    },
+    "name": "Asuncion",
+    "url": "https://api.twitter.com/1.1/geo/id/01f2931e2c7f48a8.json",
+    "country_code": "PY",
+    "id": "01f2931e2c7f48a8",
+    "place_type": "city",
+    "attributes": {},
+    "full_name": "Asuncion, Paraguay",
+    "country": "Paraguay"
+  }
+}

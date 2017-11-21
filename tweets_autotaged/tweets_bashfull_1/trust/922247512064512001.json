@@ -1,0 +1,129 @@
+{
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "urls": [
+      {
+        "indices": [
+          117,
+          140
+        ],
+        "expanded_url": "https://twitter.com/i/web/status/922247512064512001",
+        "display_url": "twitter.com/i/web/status/9\u2026",
+        "url": "https://t.co/LYcSOF9PNq"
+      }
+    ],
+    "user_mentions": []
+  },
+  "in_reply_to_user_id": null,
+  "created_at": "Sun Oct 22 23:45:16 +0000 2017",
+  "favorite_count": 0,
+  "lang": "es",
+  "reply_count": 0,
+  "id_str": "922247512064512001",
+  "in_reply_to_user_id_str": null,
+  "extended_tweet": {
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "urls": [],
+      "user_mentions": []
+    },
+    "display_text_range": [
+      0,
+      269
+    ],
+    "full_text": "Un joven de 21 anios fue detenido en la tarde de hoy, en la escuela N3. El joven estaba acusado de abuso sexual agravado por el uso de armas, hecho que cometi\u00f3 a fines del mes de agosto pasado. Luego de sufragar su voto fue detenido y trasladado a la unidad 15 de batan"
+  },
+  "in_reply_to_status_id": null,
+  "timestamp_ms": "1508715916063",
+  "text": "Un joven de 21 anios fue detenido en la tarde de hoy, en la escuela N3. El joven estaba acusado de abuso sexual agr\u2026 https://t.co/LYcSOF9PNq",
+  "user": {
+    "time_zone": "Buenos Aires",
+    "screen_name": "CazadorenFM1019",
+    "utc_offset": -10800,
+    "created_at": "Fri Dec 26 14:01:22 +0000 2014",
+    "profile_background_tile": false,
+    "notifications": null,
+    "lang": "es",
+    "default_profile": false,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/2942198848/1419981955",
+    "id_str": "2942198848",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/823890772252655616/Oi-efXPN_normal.jpg",
+    "name": "Punto De Partida",
+    "friends_count": 431,
+    "translator_type": "none",
+    "protected": false,
+    "following": null,
+    "is_translator": false,
+    "follow_request_sent": null,
+    "profile_text_color": "000000",
+    "listed_count": 2,
+    "profile_link_color": "0084B4",
+    "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/669298011957239808/gff_mssV.jpg",
+    "url": "http://cazadordenoticias.com.ar",
+    "id": 2942198848,
+    "favourites_count": 86,
+    "profile_background_color": "000000",
+    "followers_count": 782,
+    "statuses_count": 8094,
+    "description": "Lun a Vier de 8 a 10. FM 101.9 Conducci\u00f3n @rubenFerrari",
+    "location": "Mar del Plata",
+    "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/669298011957239808/gff_mssV.jpg",
+    "default_profile_image": false,
+    "verified": false,
+    "profile_sidebar_fill_color": "000000",
+    "profile_use_background_image": true,
+    "contributors_enabled": false,
+    "profile_sidebar_border_color": "000000",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/823890772252655616/Oi-efXPN_normal.jpg",
+    "geo_enabled": true
+  },
+  "geo": null,
+  "id": 922247512064512001,
+  "quote_count": 0,
+  "retweeted": false,
+  "filter_level": "low",
+  "in_reply_to_status_id_str": null,
+  "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+  "favorited": false,
+  "coordinates": null,
+  "truncated": true,
+  "retweet_count": 0,
+  "is_quote_status": false,
+  "in_reply_to_screen_name": null,
+  "contributors": null,
+  "place": {
+    "bounding_box": {
+      "coordinates": [
+        [
+          [
+            -58.40649,
+            -34.726948
+          ],
+          [
+            -58.40649,
+            -34.638333
+          ],
+          [
+            -58.297038,
+            -34.638333
+          ],
+          [
+            -58.297038,
+            -34.726948
+          ]
+        ]
+      ],
+      "type": "Polygon"
+    },
+    "name": "Avellaneda",
+    "url": "https://api.twitter.com/1.1/geo/id/0108c69f708ae783.json",
+    "country_code": "AR",
+    "id": "0108c69f708ae783",
+    "place_type": "city",
+    "attributes": {},
+    "full_name": "Avellaneda, Argentina",
+    "country": "Argentina"
+  }
+}

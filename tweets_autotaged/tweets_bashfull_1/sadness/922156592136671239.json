@@ -1,0 +1,117 @@
+{
+  "in_reply_to_user_id": null,
+  "contributors": null,
+  "in_reply_to_screen_name": null,
+  "retweeted": false,
+  "retweet_count": 0,
+  "timestamp_ms": "1508694239063",
+  "in_reply_to_status_id": null,
+  "id_str": "922156592136671239",
+  "created_at": "Sun Oct 22 17:43:59 +0000 2017",
+  "id": 922156592136671239,
+  "coordinates": null,
+  "favorite_count": 0,
+  "entities": {
+    "user_mentions": [],
+    "symbols": [],
+    "hashtags": [],
+    "urls": [
+      {
+        "expanded_url": "https://goo.gl/4LkBqR",
+        "indices": [
+          81,
+          104
+        ],
+        "url": "https://t.co/BXHF06HIRb",
+        "display_url": "goo.gl/4LkBqR"
+      }
+    ]
+  },
+  "reply_count": 0,
+  "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+  "place": {
+    "attributes": {},
+    "url": "https://api.twitter.com/1.1/geo/id/019f5b823c2b7bae.json",
+    "place_type": "city",
+    "id": "019f5b823c2b7bae",
+    "country_code": "CL",
+    "name": "Valpara\u00edso",
+    "country": "Chile",
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            -80.114855,
+            -33.213554
+          ],
+          [
+            -80.114855,
+            -26.286113
+          ],
+          [
+            -71.382231,
+            -26.286113
+          ],
+          [
+            -71.382231,
+            -33.213554
+          ]
+        ]
+      ]
+    },
+    "full_name": "Valpara\u00edso, Chile"
+  },
+  "truncated": false,
+  "in_reply_to_status_id_str": null,
+  "filter_level": "low",
+  "text": "Colo Colo femenino cay\u00f3 en apretada tanda de penales en final de la Libertadores https://t.co/BXHF06HIRb",
+  "geo": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": false,
+  "possibly_sensitive": false,
+  "favorited": false,
+  "user": {
+    "verified": false,
+    "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000156029714/aiWnzmgg.jpeg",
+    "statuses_count": 630450,
+    "screen_name": "puranoticia",
+    "default_profile_image": false,
+    "time_zone": "Buenos Aires",
+    "name": "puranoticia",
+    "id_str": "183664445",
+    "profile_sidebar_border_color": "000000",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/183664445/1443619335",
+    "created_at": "Fri Aug 27 15:37:11 +0000 2010",
+    "friends_count": 47352,
+    "url": "http://www.puranoticia.cl",
+    "profile_background_tile": false,
+    "protected": false,
+    "translator_type": "none",
+    "profile_text_color": "333333",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/649212707082772481/GjdbZw3k_normal.png",
+    "listed_count": 302,
+    "notifications": null,
+    "contributors_enabled": false,
+    "is_translator": false,
+    "location": "Chile",
+    "profile_use_background_image": true,
+    "followers_count": 58494,
+    "profile_sidebar_fill_color": "E3E3E3",
+    "geo_enabled": true,
+    "profile_link_color": "DE7B11",
+    "favourites_count": 38,
+    "following": null,
+    "default_profile": false,
+    "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000156029714/aiWnzmgg.jpeg",
+    "profile_background_color": "9FBAC7",
+    "id": 183664445,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/649212707082772481/GjdbZw3k_normal.png",
+    "lang": "es",
+    "description": "Noticias Minuto a Minuto de Chile y el Mundo. Actualidad en Deportes y Espectaculos: http://www.puranoticia.cl",
+    "follow_request_sent": null,
+    "utc_offset": -10800
+  },
+  "quote_count": 0,
+  "lang": "es"
+}

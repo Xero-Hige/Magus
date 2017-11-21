@@ -1,0 +1,117 @@
+{
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "indices": [
+          14,
+          23
+        ],
+        "screen_name": "LaspinaL",
+        "name": "Luciano Laspina",
+        "id_str": "1723102656",
+        "id": 1723102656
+      }
+    ]
+  },
+  "in_reply_to_user_id": null,
+  "created_at": "Mon Oct 23 00:16:09 +0000 2017",
+  "favorite_count": 0,
+  "lang": "es",
+  "reply_count": 0,
+  "id_str": "922255287263940613",
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_status_id": null,
+  "timestamp_ms": "1508717769815",
+  "text": "pod\u00e9s creer q @LaspinaL haya venido a saludarme? naaa, tipazo, SE\u00d1OR diputado \ud83d\udcaa\ud83d\udcaa",
+  "user": {
+    "time_zone": null,
+    "screen_name": "homeromartinez_",
+    "utc_offset": null,
+    "created_at": "Tue Nov 22 01:31:38 +0000 2016",
+    "profile_background_tile": false,
+    "notifications": null,
+    "lang": "es",
+    "default_profile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/800874346604531712/1508632608",
+    "id_str": "800874346604531712",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/908548595137224706/gxcKGSG8_normal.jpg",
+    "name": "home",
+    "friends_count": 466,
+    "translator_type": "none",
+    "protected": false,
+    "following": null,
+    "is_translator": false,
+    "follow_request_sent": null,
+    "profile_text_color": "333333",
+    "listed_count": 2,
+    "profile_link_color": "1DA1F2",
+    "profile_background_image_url": "",
+    "url": "http://www.facebook.com/home.martinez2",
+    "id": 800874346604531712,
+    "favourites_count": 5551,
+    "profile_background_color": "F5F8FA",
+    "followers_count": 541,
+    "statuses_count": 9172,
+    "description": "T\u00e9cnico Constructor Nacional y estudiante de Arquitectura. Coordino el departamento de comunicaci\u00f3n en @espaciocarriosf",
+    "location": "Santa Fe, Argentina",
+    "profile_background_image_url_https": "",
+    "default_profile_image": false,
+    "verified": false,
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_use_background_image": true,
+    "contributors_enabled": false,
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/908548595137224706/gxcKGSG8_normal.jpg",
+    "geo_enabled": true
+  },
+  "geo": null,
+  "id": 922255287263940613,
+  "quote_count": 0,
+  "retweeted": false,
+  "filter_level": "low",
+  "in_reply_to_status_id_str": null,
+  "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+  "favorited": false,
+  "coordinates": null,
+  "truncated": false,
+  "retweet_count": 0,
+  "is_quote_status": false,
+  "in_reply_to_screen_name": null,
+  "contributors": null,
+  "place": {
+    "bounding_box": {
+      "coordinates": [
+        [
+          [
+            -60.764198,
+            -31.684295
+          ],
+          [
+            -60.764198,
+            -31.553978
+          ],
+          [
+            -60.585606,
+            -31.553978
+          ],
+          [
+            -60.585606,
+            -31.684295
+          ]
+        ]
+      ],
+      "type": "Polygon"
+    },
+    "name": "Santa F\u00e9",
+    "url": "https://api.twitter.com/1.1/geo/id/01b40b49265b126c.json",
+    "country_code": "AR",
+    "id": "01b40b49265b126c",
+    "place_type": "city",
+    "attributes": {},
+    "full_name": "Santa F\u00e9, Argentina",
+    "country": "Argentina"
+  }
+}

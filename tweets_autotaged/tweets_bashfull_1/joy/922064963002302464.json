@@ -1,0 +1,220 @@
+{
+  "in_reply_to_user_id": null,
+  "contributors": null,
+  "id": 922064963002302464,
+  "retweeted": false,
+  "retweet_count": 0,
+  "timestamp_ms": "1508672392975",
+  "in_reply_to_status_id": null,
+  "id_str": "922064963002302464",
+  "coordinates": null,
+  "created_at": "Sun Oct 22 11:39:52 +0000 2017",
+  "quote_count": 0,
+  "favorite_count": 0,
+  "entities": {
+    "user_mentions": [],
+    "symbols": [],
+    "hashtags": [],
+    "urls": [
+      {
+        "expanded_url": "https://twitter.com/i/web/status/922064963002302464",
+        "indices": [
+          101,
+          124
+        ],
+        "url": "https://t.co/MQ5HU9vd9k",
+        "display_url": "twitter.com/i/web/status/9\u2026"
+      }
+    ]
+  },
+  "reply_count": 0,
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "place": {
+    "attributes": {},
+    "url": "https://api.twitter.com/1.1/geo/id/01d461fd3da860bd.json",
+    "place_type": "city",
+    "id": "01d461fd3da860bd",
+    "country_code": "CL",
+    "name": "Providencia",
+    "country": "Chile",
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            -70.637692,
+            -33.449973
+          ],
+          [
+            -70.637692,
+            -33.408997
+          ],
+          [
+            -70.583826,
+            -33.408997
+          ],
+          [
+            -70.583826,
+            -33.449973
+          ]
+        ]
+      ]
+    },
+    "full_name": "Providencia, Chile"
+  },
+  "truncated": true,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_screen_name": null,
+  "filter_level": "low",
+  "text": "Tiene que ser alguien que me saque una sonrisa siempre, que sea un aporte a mi vida y me traiga paz\u2026 https://t.co/MQ5HU9vd9k",
+  "geo": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": false,
+  "possibly_sensitive": false,
+  "display_text_range": [
+    0,
+    140
+  ],
+  "favorited": false,
+  "user": {
+    "verified": false,
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "statuses_count": 763,
+    "screen_name": "FenaMercado",
+    "default_profile_image": false,
+    "time_zone": null,
+    "name": "F\u00e9",
+    "id_str": "2819248021",
+    "profile_sidebar_border_color": "000000",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/2819248021/1496715723",
+    "created_at": "Fri Sep 19 04:31:26 +0000 2014",
+    "friends_count": 193,
+    "url": "https://www.linkedin.com/in/mar%C3%ADa-fernanda-mercado-l%C3%B3pez-9564b960/",
+    "profile_background_tile": false,
+    "protected": false,
+    "translator_type": "none",
+    "profile_text_color": "000000",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/882658422184923136/mLkWQq7r_normal.jpg",
+    "listed_count": 2,
+    "notifications": null,
+    "contributors_enabled": false,
+    "is_translator": false,
+    "location": "Cerca de una playa",
+    "profile_use_background_image": false,
+    "followers_count": 140,
+    "profile_sidebar_fill_color": "000000",
+    "geo_enabled": true,
+    "profile_link_color": "1B95E0",
+    "favourites_count": 2747,
+    "following": null,
+    "default_profile": false,
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_color": "000000",
+    "id": 2819248021,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/882658422184923136/mLkWQq7r_normal.jpg",
+    "lang": "es",
+    "description": "Bi\u00f3loga marina de coraz\u00f3n y profesi\u00f3n! Deportista por pasi\u00f3n y amante de disfrutar la vida",
+    "follow_request_sent": null,
+    "utc_offset": null
+  },
+  "extended_tweet": {
+    "entities": {
+      "user_mentions": [],
+      "symbols": [],
+      "hashtags": [
+        {
+          "text": "TipsParaEnamorar1Mujer",
+          "indices": [
+            100,
+            123
+          ]
+        }
+      ],
+      "urls": [],
+      "media": [
+        {
+          "indices": [
+            124,
+            147
+          ],
+          "media_url_https": "https://pbs.twimg.com/media/DMvVMGTW4AEw9FS.jpg",
+          "url": "https://t.co/PolCzlyr6Y",
+          "expanded_url": "https://twitter.com/FenaMercado/status/922064963002302464/photo/1",
+          "id": 922064952554348545,
+          "sizes": {
+            "medium": {
+              "resize": "fit",
+              "w": 900,
+              "h": 1200
+            },
+            "large": {
+              "resize": "fit",
+              "w": 979,
+              "h": 1305
+            },
+            "small": {
+              "resize": "fit",
+              "w": 510,
+              "h": 680
+            },
+            "thumb": {
+              "resize": "crop",
+              "w": 150,
+              "h": 150
+            }
+          },
+          "media_url": "http://pbs.twimg.com/media/DMvVMGTW4AEw9FS.jpg",
+          "id_str": "922064952554348545",
+          "display_url": "pic.twitter.com/PolCzlyr6Y",
+          "type": "photo"
+        }
+      ]
+    },
+    "display_text_range": [
+      0,
+      123
+    ],
+    "extended_entities": {
+      "media": [
+        {
+          "indices": [
+            124,
+            147
+          ],
+          "media_url_https": "https://pbs.twimg.com/media/DMvVMGTW4AEw9FS.jpg",
+          "url": "https://t.co/PolCzlyr6Y",
+          "expanded_url": "https://twitter.com/FenaMercado/status/922064963002302464/photo/1",
+          "id": 922064952554348545,
+          "sizes": {
+            "medium": {
+              "resize": "fit",
+              "w": 900,
+              "h": 1200
+            },
+            "large": {
+              "resize": "fit",
+              "w": 979,
+              "h": 1305
+            },
+            "small": {
+              "resize": "fit",
+              "w": 510,
+              "h": 680
+            },
+            "thumb": {
+              "resize": "crop",
+              "w": 150,
+              "h": 150
+            }
+          },
+          "media_url": "http://pbs.twimg.com/media/DMvVMGTW4AEw9FS.jpg",
+          "id_str": "922064952554348545",
+          "display_url": "pic.twitter.com/PolCzlyr6Y",
+          "type": "photo"
+        }
+      ]
+    },
+    "full_text": "Tiene que ser alguien que me saque una sonrisa siempre, que sea un aporte a mi vida y me traiga paz #TipsParaEnamorar1Mujer https://t.co/PolCzlyr6Y"
+  },
+  "lang": "es"
+}

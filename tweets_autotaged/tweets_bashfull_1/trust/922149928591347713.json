@@ -1,0 +1,120 @@
+{
+  "in_reply_to_user_id": 25992212,
+  "contributors": null,
+  "id": 922149928591347713,
+  "retweeted": false,
+  "retweet_count": 0,
+  "timestamp_ms": "1508692650350",
+  "in_reply_to_status_id": 922139861305384961,
+  "id_str": "922149928591347713",
+  "created_at": "Sun Oct 22 17:17:30 +0000 2017",
+  "coordinates": null,
+  "favorite_count": 0,
+  "entities": {
+    "user_mentions": [
+      {
+        "indices": [
+          0,
+          13
+        ],
+        "name": "TN - Todo Noticias",
+        "screen_name": "todonoticias",
+        "id": 25992212,
+        "id_str": "25992212"
+      }
+    ],
+    "symbols": [],
+    "hashtags": [],
+    "urls": []
+  },
+  "reply_count": 0,
+  "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+  "place": {
+    "attributes": {},
+    "url": "https://api.twitter.com/1.1/geo/id/00da7cec74df27ff.json",
+    "place_type": "city",
+    "id": "00da7cec74df27ff",
+    "country_code": "AR",
+    "name": "Neuqu\u00e9n",
+    "country": "Argentina",
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            -68.176283,
+            -38.984724
+          ],
+          [
+            -68.176283,
+            -38.921051
+          ],
+          [
+            -68.015162,
+            -38.921051
+          ],
+          [
+            -68.015162,
+            -38.984724
+          ]
+        ]
+      ]
+    },
+    "full_name": "Neuqu\u00e9n, Argentina"
+  },
+  "truncated": false,
+  "in_reply_to_status_id_str": "922139861305384961",
+  "in_reply_to_screen_name": "todonoticias",
+  "filter_level": "low",
+  "text": "@todonoticias Ley violada no necesita orden. No escuch\u00e9 amenazas ni v\u00ed fuerza. No defiendo a la polic\u00eda, pero no mientan.",
+  "geo": null,
+  "in_reply_to_user_id_str": "25992212",
+  "is_quote_status": false,
+  "display_text_range": [
+    14,
+    121
+  ],
+  "favorited": false,
+  "user": {
+    "verified": false,
+    "profile_background_image_url": "",
+    "statuses_count": 3624,
+    "screen_name": "nora_monte",
+    "default_profile_image": false,
+    "time_zone": null,
+    "name": "Nora Del Monte",
+    "id_str": "845298005666398208",
+    "profile_sidebar_border_color": "C0DEED",
+    "created_at": "Fri Mar 24 15:35:24 +0000 2017",
+    "friends_count": 288,
+    "url": null,
+    "profile_background_tile": false,
+    "protected": false,
+    "translator_type": "none",
+    "profile_text_color": "333333",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/845304563703975936/Q5IttiWZ_normal.jpg",
+    "listed_count": 0,
+    "notifications": null,
+    "contributors_enabled": false,
+    "is_translator": false,
+    "location": "Neuqu\u00e9n, Argentina",
+    "profile_use_background_image": true,
+    "followers_count": 122,
+    "profile_sidebar_fill_color": "DDEEF6",
+    "geo_enabled": true,
+    "profile_link_color": "1DA1F2",
+    "favourites_count": 6596,
+    "following": null,
+    "default_profile": true,
+    "profile_background_image_url_https": "",
+    "profile_background_color": "F5F8FA",
+    "id": 845298005666398208,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/845304563703975936/Q5IttiWZ_normal.jpg",
+    "lang": "es",
+    "description": "Hay vida en mi planeta, pero soy yo quien te da acceso.",
+    "follow_request_sent": null,
+    "utc_offset": null
+  },
+  "quote_count": 0,
+  "lang": "es"
+}

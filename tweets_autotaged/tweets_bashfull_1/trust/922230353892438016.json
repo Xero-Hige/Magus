@@ -1,0 +1,131 @@
+{
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "indices": [
+          0,
+          15
+        ],
+        "screen_name": "GustavoBruzone",
+        "name": "Gustavo Bruzone \ud83c\udde6\ud83c\uddf7",
+        "id_str": "845383292895576065",
+        "id": 845383292895576065
+      },
+      {
+        "indices": [
+          16,
+          25
+        ],
+        "screen_name": "caeckell",
+        "name": "caeckell",
+        "id_str": "120956174",
+        "id": 120956174
+      }
+    ]
+  },
+  "in_reply_to_user_id": 845383292895576065,
+  "created_at": "Sun Oct 22 22:37:05 +0000 2017",
+  "favorite_count": 0,
+  "lang": "es",
+  "reply_count": 0,
+  "id_str": "922230353892438016",
+  "in_reply_to_user_id_str": "845383292895576065",
+  "in_reply_to_status_id": 922198507410329601,
+  "timestamp_ms": "1508711825236",
+  "truncated": false,
+  "text": "@GustavoBruzone @caeckell ESPERAMOS VERTE DESTRUIDA POL\u00cdTICAMENTE,Y B\u00c1SICAMENTE PRESA DENTRO DE POCO",
+  "user": {
+    "time_zone": null,
+    "screen_name": "elhalcon14",
+    "utc_offset": null,
+    "created_at": "Sat May 03 16:47:26 +0000 2014",
+    "profile_background_tile": false,
+    "notifications": null,
+    "lang": "es",
+    "default_profile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/2475729590/1406773419",
+    "id_str": "2475729590",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/494665187912216576/_T8LZXM5_normal.png",
+    "name": "eduardo borzi",
+    "friends_count": 2467,
+    "translator_type": "none",
+    "protected": false,
+    "following": null,
+    "is_translator": false,
+    "follow_request_sent": null,
+    "profile_text_color": "333333",
+    "listed_count": 6,
+    "profile_link_color": "1DA1F2",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "url": null,
+    "id": 2475729590,
+    "favourites_count": 973,
+    "profile_background_color": "C0DEED",
+    "followers_count": 2456,
+    "statuses_count": 17015,
+    "description": "VAMOS POR UNA NUEVA PATRIA,TENGAMOS CALMA,TRATEMOS DE CERRAR LA GRIETA SOMOS TODOS ARGENTINOS",
+    "location": null,
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "default_profile_image": false,
+    "verified": false,
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_use_background_image": true,
+    "contributors_enabled": false,
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/494665187912216576/_T8LZXM5_normal.png",
+    "geo_enabled": true
+  },
+  "geo": null,
+  "id": 922230353892438016,
+  "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+  "retweeted": false,
+  "filter_level": "low",
+  "in_reply_to_status_id_str": "922198507410329601",
+  "quote_count": 0,
+  "favorited": false,
+  "coordinates": null,
+  "display_text_range": [
+    26,
+    100
+  ],
+  "retweet_count": 0,
+  "is_quote_status": false,
+  "in_reply_to_screen_name": "GustavoBruzone",
+  "contributors": null,
+  "place": {
+    "bounding_box": {
+      "coordinates": [
+        [
+          [
+            -64.3195,
+            -31.523576
+          ],
+          [
+            -64.3195,
+            -31.307337
+          ],
+          [
+            -64.076551,
+            -31.307337
+          ],
+          [
+            -64.076551,
+            -31.523576
+          ]
+        ]
+      ],
+      "type": "Polygon"
+    },
+    "name": "C\u00f3rdoba",
+    "url": "https://api.twitter.com/1.1/geo/id/00f84d414936f28e.json",
+    "country_code": "AR",
+    "id": "00f84d414936f28e",
+    "place_type": "city",
+    "attributes": {},
+    "full_name": "C\u00f3rdoba, Argentina",
+    "country": "Argentina"
+  }
+}

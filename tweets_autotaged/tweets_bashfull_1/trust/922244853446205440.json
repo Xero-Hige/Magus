@@ -1,0 +1,129 @@
+{
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "urls": [
+      {
+        "indices": [
+          117,
+          140
+        ],
+        "expanded_url": "https://twitter.com/i/web/status/922244853446205440",
+        "display_url": "twitter.com/i/web/status/9\u2026",
+        "url": "https://t.co/pNG4v8qDa7"
+      }
+    ],
+    "user_mentions": []
+  },
+  "in_reply_to_user_id": null,
+  "created_at": "Sun Oct 22 23:34:42 +0000 2017",
+  "favorite_count": 0,
+  "lang": "es",
+  "reply_count": 0,
+  "id_str": "922244853446205440",
+  "in_reply_to_user_id_str": null,
+  "extended_tweet": {
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "urls": [],
+      "user_mentions": []
+    },
+    "display_text_range": [
+      0,
+      174
+    ],
+    "full_text": "Hay veces que yo jodo o lo digo de verdad pero no s\u00e9 si la otra persona lo hace en joda o de verdad y yo verdaderamente me pierdo, yo quedo en shook y mi cerebro explota ahre"
+  },
+  "in_reply_to_status_id": null,
+  "timestamp_ms": "1508715282199",
+  "text": "Hay veces que yo jodo o lo digo de verdad pero no s\u00e9 si la otra persona lo hace en joda o de verdad y yo verdaderam\u2026 https://t.co/pNG4v8qDa7",
+  "user": {
+    "time_zone": "Pacific Time (US & Canada)",
+    "screen_name": "divazaheaven",
+    "utc_offset": -25200,
+    "created_at": "Fri Mar 25 02:20:20 +0000 2016",
+    "profile_background_tile": false,
+    "notifications": null,
+    "lang": "es",
+    "default_profile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/713188738944344065/1508453243",
+    "id_str": "713188738944344065",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/921128529953214465/BCRFV1-x_normal.jpg",
+    "name": "Miche\u2728\ud83d\udc1d\ud83d\udc51",
+    "friends_count": 464,
+    "translator_type": "none",
+    "protected": false,
+    "following": null,
+    "is_translator": false,
+    "follow_request_sent": null,
+    "profile_text_color": "333333",
+    "listed_count": 3,
+    "profile_link_color": "1DA1F2",
+    "profile_background_image_url": "",
+    "url": "https://twitter.com/divazaheaven/status/900624061918740480",
+    "id": 713188738944344065,
+    "favourites_count": 46637,
+    "profile_background_color": "F5F8FA",
+    "followers_count": 970,
+    "statuses_count": 41897,
+    "description": "Yo s\u00e9 que en alg\u00fan momento van a apagar las c\u00e1maras, pero tambi\u00e9n s\u00e9 que nunca me voy a olvidar de lo feliz que me hacen {Pedro} {Konrad} \u2665\ufe0f",
+    "location": "Divazorras\ud83d\udc51",
+    "profile_background_image_url_https": "",
+    "default_profile_image": false,
+    "verified": false,
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_use_background_image": true,
+    "contributors_enabled": false,
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/921128529953214465/BCRFV1-x_normal.jpg",
+    "geo_enabled": true
+  },
+  "geo": null,
+  "id": 922244853446205440,
+  "quote_count": 0,
+  "retweeted": false,
+  "filter_level": "low",
+  "in_reply_to_status_id_str": null,
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "favorited": false,
+  "coordinates": null,
+  "truncated": true,
+  "retweet_count": 0,
+  "is_quote_status": false,
+  "in_reply_to_screen_name": null,
+  "contributors": null,
+  "place": {
+    "bounding_box": {
+      "coordinates": [
+        [
+          [
+            -58.500948,
+            -34.817177
+          ],
+          [
+            -58.500948,
+            -34.688414
+          ],
+          [
+            -58.336764,
+            -34.688414
+          ],
+          [
+            -58.336764,
+            -34.817177
+          ]
+        ]
+      ],
+      "type": "Polygon"
+    },
+    "name": "Lomas de Zamora",
+    "url": "https://api.twitter.com/1.1/geo/id/000ceddc32916a4c.json",
+    "country_code": "AR",
+    "id": "000ceddc32916a4c",
+    "place_type": "city",
+    "attributes": {},
+    "full_name": "Lomas de Zamora, Argentina",
+    "country": "Argentina"
+  }
+}

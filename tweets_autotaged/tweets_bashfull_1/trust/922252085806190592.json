@@ -1,0 +1,140 @@
+{
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "urls": [
+      {
+        "indices": [
+          111,
+          134
+        ],
+        "expanded_url": "https://www.swarmapp.com/c/cuqKRhVVew3",
+        "display_url": "swarmapp.com/c/cuqKRhVVew3",
+        "url": "https://t.co/CYsRbscRa9"
+      }
+    ],
+    "user_mentions": [
+      {
+        "indices": [
+          56,
+          72
+        ],
+        "screen_name": "AeroAntofagasta",
+        "name": "Inter Andr\u00e9s Sabella",
+        "id_str": "4425876700",
+        "id": 4425876700
+      }
+    ]
+  },
+  "in_reply_to_user_id": null,
+  "created_at": "Mon Oct 23 00:03:26 +0000 2017",
+  "favorite_count": 0,
+  "lang": "es",
+  "reply_count": 0,
+  "id_str": "922252085806190592",
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_status_id": null,
+  "timestamp_ms": "1508717006528",
+  "possibly_sensitive": false,
+  "text": "I'm at Aeropuerto Internacional Andr\u00e9s Sabella G\u00e1lvez - @aeroantofagasta in Antofagasta, Regi\u00f3n de Antofagasta https://t.co/CYsRbscRa9",
+  "user": {
+    "time_zone": "Santiago",
+    "screen_name": "Pulpowood",
+    "utc_offset": -10800,
+    "created_at": "Thu Jul 17 01:13:16 +0000 2008",
+    "profile_background_tile": false,
+    "notifications": null,
+    "lang": "es",
+    "default_profile": false,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/15462318/1442757385",
+    "id_str": "15462318",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/745739016742436864/DJ1idKln_normal.jpg",
+    "name": "[ Pulpowood ]",
+    "friends_count": 601,
+    "translator_type": "none",
+    "protected": false,
+    "following": null,
+    "is_translator": false,
+    "follow_request_sent": null,
+    "profile_text_color": "0A010A",
+    "listed_count": 7,
+    "profile_link_color": "E00917",
+    "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/98780580/twilk_background_4be1f7259d557.jpg",
+    "url": null,
+    "id": 15462318,
+    "favourites_count": 8015,
+    "profile_background_color": "9AE4E8",
+    "followers_count": 428,
+    "statuses_count": 15657,
+    "description": "Qu\u00e9 l\u00e1stima ser luci\u00e9rnaga y tener una luz en el culo alumbrando a ese ojo que all\u00e1 donde mir\u00e9, todo lo ve oscuro.",
+    "location": "Santiago",
+    "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/98780580/twilk_background_4be1f7259d557.jpg",
+    "default_profile_image": false,
+    "verified": false,
+    "profile_sidebar_fill_color": "FAF7F5",
+    "profile_use_background_image": true,
+    "contributors_enabled": false,
+    "profile_sidebar_border_color": "050505",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/745739016742436864/DJ1idKln_normal.jpg",
+    "geo_enabled": true
+  },
+  "geo": {
+    "coordinates": [
+      -23.44872333,
+      -70.44086952
+    ],
+    "type": "Point"
+  },
+  "id": 922252085806190592,
+  "quote_count": 0,
+  "retweeted": false,
+  "filter_level": "low",
+  "in_reply_to_status_id_str": null,
+  "source": "<a href=\"http://foursquare.com\" rel=\"nofollow\">Foursquare</a>",
+  "favorited": false,
+  "coordinates": {
+    "coordinates": [
+      -70.44086952,
+      -23.44872333
+    ],
+    "type": "Point"
+  },
+  "truncated": false,
+  "retweet_count": 0,
+  "is_quote_status": false,
+  "in_reply_to_screen_name": null,
+  "contributors": null,
+  "place": {
+    "bounding_box": {
+      "coordinates": [
+        [
+          [
+            -70.628327,
+            -25.402127
+          ],
+          [
+            -70.628327,
+            -23.054512
+          ],
+          [
+            -68.067941,
+            -23.054512
+          ],
+          [
+            -68.067941,
+            -25.402127
+          ]
+        ]
+      ],
+      "type": "Polygon"
+    },
+    "name": "Antofagasta",
+    "url": "https://api.twitter.com/1.1/geo/id/002442586af0948e.json",
+    "country_code": "CL",
+    "id": "002442586af0948e",
+    "place_type": "city",
+    "attributes": {},
+    "full_name": "Antofagasta, Chile",
+    "country": "Chile"
+  }
+}

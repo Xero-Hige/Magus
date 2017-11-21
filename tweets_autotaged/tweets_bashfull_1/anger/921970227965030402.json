@@ -1,0 +1,155 @@
+{
+  "in_reply_to_user_id": 50783665,
+  "contributors": null,
+  "id": 921970227965030402,
+  "retweeted": false,
+  "retweet_count": 0,
+  "timestamp_ms": "1508649806382",
+  "in_reply_to_status_id": 921607965370671105,
+  "id_str": "921970227965030402",
+  "coordinates": null,
+  "created_at": "Sun Oct 22 05:23:26 +0000 2017",
+  "quote_count": 0,
+  "favorite_count": 0,
+  "entities": {
+    "user_mentions": [
+      {
+        "indices": [
+          0,
+          16
+        ],
+        "name": "caleidoscope eye",
+        "screen_name": "_stopwhispering",
+        "id": 50783665,
+        "id_str": "50783665"
+      }
+    ],
+    "symbols": [],
+    "hashtags": [],
+    "urls": [
+      {
+        "expanded_url": "https://twitter.com/i/web/status/921970227965030402",
+        "indices": [
+          117,
+          140
+        ],
+        "url": "https://t.co/FVPbPtB2KL",
+        "display_url": "twitter.com/i/web/status/9\u2026"
+      }
+    ]
+  },
+  "reply_count": 0,
+  "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+  "place": {
+    "attributes": {},
+    "url": "https://api.twitter.com/1.1/geo/id/018f1cde6bad9747.json",
+    "place_type": "city",
+    "id": "018f1cde6bad9747",
+    "country_code": "AR",
+    "name": "Ciudad Aut\u00f3noma de Buenos Aires",
+    "country": "Argentina",
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            -58.531792,
+            -34.674453
+          ],
+          [
+            -58.531792,
+            -34.534177
+          ],
+          [
+            -58.353494,
+            -34.534177
+          ],
+          [
+            -58.353494,
+            -34.674453
+          ]
+        ]
+      ]
+    },
+    "full_name": "Ciudad Aut\u00f3noma de Buenos Aires, Argentina"
+  },
+  "truncated": true,
+  "in_reply_to_status_id_str": "921607965370671105",
+  "in_reply_to_screen_name": "_stopwhispering",
+  "filter_level": "low",
+  "text": "@_stopwhispering Bueno si pensas asi...cuando un jubilado se caiga muerto por un paro cardio respiratorio durante u\u2026 https://t.co/FVPbPtB2KL",
+  "geo": null,
+  "in_reply_to_user_id_str": "50783665",
+  "is_quote_status": false,
+  "display_text_range": [
+    17,
+    140
+  ],
+  "favorited": false,
+  "user": {
+    "verified": false,
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "statuses_count": 12775,
+    "screen_name": "RubenMartin2014",
+    "default_profile_image": false,
+    "time_zone": null,
+    "name": "Ruben Adrian Martin",
+    "id_str": "2741425442",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/2741425442/1477416435",
+    "created_at": "Mon Aug 18 06:04:25 +0000 2014",
+    "friends_count": 4848,
+    "url": "https://www.youtube.com/channel/UCffGhYhaMIm6LOT4SoxM1lg",
+    "profile_background_tile": false,
+    "protected": false,
+    "translator_type": "none",
+    "profile_text_color": "333333",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/867953388662685696/2ZcyG4cb_normal.jpg",
+    "listed_count": 4,
+    "notifications": null,
+    "contributors_enabled": false,
+    "is_translator": false,
+    "location": "Ciudad Aut\u00f3noma de Buenos Aire",
+    "profile_use_background_image": true,
+    "followers_count": 2231,
+    "profile_sidebar_fill_color": "DDEEF6",
+    "geo_enabled": true,
+    "profile_link_color": "1DA1F2",
+    "favourites_count": 8222,
+    "following": null,
+    "default_profile": true,
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_color": "C0DEED",
+    "id": 2741425442,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/867953388662685696/2ZcyG4cb_normal.jpg",
+    "lang": "es",
+    "description": "Solo soy un obrero del derecho....\nhttps://plus.google.com/u/0/+RubenMartin11955781/posts",
+    "follow_request_sent": null,
+    "utc_offset": null
+  },
+  "extended_tweet": {
+    "entities": {
+      "user_mentions": [
+        {
+          "indices": [
+            0,
+            16
+          ],
+          "name": "caleidoscope eye",
+          "screen_name": "_stopwhispering",
+          "id": 50783665,
+          "id_str": "50783665"
+        }
+      ],
+      "symbols": [],
+      "hashtags": [],
+      "urls": []
+    },
+    "display_text_range": [
+      17,
+      297
+    ],
+    "full_text": "@_stopwhispering Bueno si pensas asi...cuando un jubilado se caiga muerto por un paro cardio respiratorio durante un asalto, imputale al detenido no un homicidio sino falta de previsi\u00f3n delictiva. por favor, no repitas pelotudeces que le escuchas a otros sin conocer al menos algo del c\u00f3digo penal"
+  },
+  "lang": "es"
+}

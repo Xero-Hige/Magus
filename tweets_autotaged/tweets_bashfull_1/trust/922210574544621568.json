@@ -1,0 +1,116 @@
+{
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "indices": [
+          0,
+          7
+        ],
+        "screen_name": "JMilei",
+        "name": "Javier Milei",
+        "id_str": "4020276615",
+        "id": 4020276615
+      }
+    ]
+  },
+  "in_reply_to_user_id": 4020276615,
+  "created_at": "Sun Oct 22 21:18:29 +0000 2017",
+  "favorite_count": 0,
+  "lang": "es",
+  "reply_count": 0,
+  "id_str": "922210574544621568",
+  "in_reply_to_user_id_str": "4020276615",
+  "in_reply_to_status_id": null,
+  "timestamp_ms": "1508707109472",
+  "text": "@JMilei Feliz Cumple que sea en total libertad y gracias por emprender este camino del Nuevo Quijote contra viento y marea. aguante la mini.",
+  "user": {
+    "time_zone": null,
+    "screen_name": "estudiogpm",
+    "utc_offset": null,
+    "created_at": "Tue Aug 18 18:31:48 +0000 2009",
+    "profile_background_tile": false,
+    "notifications": null,
+    "lang": "en",
+    "default_profile": true,
+    "follow_request_sent": null,
+    "id_str": "66758076",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/374361505/puma_normal.jpg",
+    "name": "Marcelo Miranda",
+    "friends_count": 3693,
+    "translator_type": "none",
+    "protected": false,
+    "following": null,
+    "is_translator": false,
+    "profile_text_color": "333333",
+    "listed_count": 23,
+    "profile_link_color": "1DA1F2",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "url": null,
+    "id": 66758076,
+    "favourites_count": 47898,
+    "profile_background_color": "C0DEED",
+    "followers_count": 2897,
+    "statuses_count": 73914,
+    "description": "Contador publico, asesor, conductor y productor general de radio. Nada es Igual Cba. Director de Estudio GPM.",
+    "location": "Cordoba",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "default_profile_image": false,
+    "verified": false,
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_use_background_image": true,
+    "contributors_enabled": false,
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/374361505/puma_normal.jpg",
+    "geo_enabled": true
+  },
+  "geo": null,
+  "id": 922210574544621568,
+  "quote_count": 0,
+  "retweeted": false,
+  "filter_level": "low",
+  "in_reply_to_status_id_str": null,
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "favorited": false,
+  "coordinates": null,
+  "truncated": false,
+  "retweet_count": 0,
+  "is_quote_status": false,
+  "in_reply_to_screen_name": "JMilei",
+  "contributors": null,
+  "place": {
+    "bounding_box": {
+      "coordinates": [
+        [
+          [
+            -65.778264,
+            -34.998735
+          ],
+          [
+            -65.778264,
+            -29.503325
+          ],
+          [
+            -61.777678,
+            -29.503325
+          ],
+          [
+            -61.777678,
+            -34.998735
+          ]
+        ]
+      ],
+      "type": "Polygon"
+    },
+    "name": "C\u00f3rdoba",
+    "url": "https://api.twitter.com/1.1/geo/id/0b79f7e718cb54b9.json",
+    "country_code": "AR",
+    "id": "0b79f7e718cb54b9",
+    "place_type": "admin",
+    "attributes": {},
+    "full_name": "C\u00f3rdoba, Argentina",
+    "country": "Argentina"
+  }
+}

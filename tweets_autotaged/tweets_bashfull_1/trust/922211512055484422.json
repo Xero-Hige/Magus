@@ -1,0 +1,125 @@
+{
+  "entities": {
+    "hashtags": [
+      {
+        "indices": [
+          86,
+          103
+        ],
+        "text": "hipismoxradioagn"
+      }
+    ],
+    "symbols": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "indices": [
+          0,
+          13
+        ],
+        "screen_name": "aganador_net",
+        "name": "aganador.net",
+        "id_str": "2661162998",
+        "id": 2661162998
+      }
+    ]
+  },
+  "in_reply_to_user_id": 2661162998,
+  "created_at": "Sun Oct 22 21:22:12 +0000 2017",
+  "favorite_count": 0,
+  "lang": "es",
+  "reply_count": 0,
+  "id_str": "922211512055484422",
+  "in_reply_to_user_id_str": "2661162998",
+  "in_reply_to_status_id": null,
+  "timestamp_ms": "1508707332992",
+  "text": "@aganador_net rockolero Fijo ah y de una vez mi favorito al Simon bolivar Don polidor #hipismoxradioagn",
+  "user": {
+    "time_zone": null,
+    "screen_name": "9bc39f1e8c5e45c",
+    "utc_offset": null,
+    "created_at": "Mon Sep 29 01:45:04 +0000 2014",
+    "profile_background_tile": false,
+    "notifications": null,
+    "lang": "es",
+    "default_profile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/2790423941/1456676441",
+    "id_str": "2790423941",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/550667142958678016/SoIxaszN_normal.jpeg",
+    "name": "Carlos Moreno",
+    "friends_count": 78,
+    "translator_type": "none",
+    "protected": false,
+    "following": null,
+    "is_translator": false,
+    "follow_request_sent": null,
+    "profile_text_color": "333333",
+    "listed_count": 0,
+    "profile_link_color": "1DA1F2",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "url": null,
+    "id": 2790423941,
+    "favourites_count": 57,
+    "profile_background_color": "C0DEED",
+    "followers_count": 36,
+    "statuses_count": 337,
+    "description": "Venezolano al 1000% y opositor creo en un cambio para mi pa\u00eds",
+    "location": "Aragua, Venezuela",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "default_profile_image": false,
+    "verified": false,
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_use_background_image": true,
+    "contributors_enabled": false,
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/550667142958678016/SoIxaszN_normal.jpeg",
+    "geo_enabled": true
+  },
+  "geo": null,
+  "id": 922211512055484422,
+  "quote_count": 0,
+  "retweeted": false,
+  "filter_level": "low",
+  "in_reply_to_status_id_str": null,
+  "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+  "favorited": false,
+  "coordinates": null,
+  "truncated": false,
+  "retweet_count": 0,
+  "is_quote_status": false,
+  "in_reply_to_screen_name": "aganador_net",
+  "contributors": null,
+  "place": {
+    "bounding_box": {
+      "coordinates": [
+        [
+          [
+            -70.692959,
+            -33.478574
+          ],
+          [
+            -70.692959,
+            -33.425749
+          ],
+          [
+            -70.626272,
+            -33.425749
+          ],
+          [
+            -70.626272,
+            -33.478574
+          ]
+        ]
+      ],
+      "type": "Polygon"
+    },
+    "name": "Santiago",
+    "url": "https://api.twitter.com/1.1/geo/id/0010b4cb51ca93d8.json",
+    "country_code": "CL",
+    "id": "0010b4cb51ca93d8",
+    "place_type": "city",
+    "attributes": {},
+    "full_name": "Santiago, Chile",
+    "country": "Chile"
+  }
+}

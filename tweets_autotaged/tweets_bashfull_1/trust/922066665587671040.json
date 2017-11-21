@@ -1,0 +1,151 @@
+{
+  "in_reply_to_user_id": null,
+  "contributors": null,
+  "in_reply_to_screen_name": null,
+  "retweeted": false,
+  "retweet_count": 0,
+  "timestamp_ms": "1508672798903",
+  "in_reply_to_status_id": null,
+  "id_str": "922066665587671040",
+  "created_at": "Sun Oct 22 11:46:38 +0000 2017",
+  "id": 922066665587671040,
+  "coordinates": {
+    "type": "Point",
+    "coordinates": [
+      -58.48333333,
+      -34.5
+    ]
+  },
+  "favorite_count": 0,
+  "entities": {
+    "user_mentions": [],
+    "symbols": [],
+    "hashtags": [
+      {
+        "text": "buendomingo",
+        "indices": [
+          0,
+          12
+        ]
+      },
+      {
+        "text": "democracia",
+        "indices": [
+          13,
+          24
+        ]
+      },
+      {
+        "text": "unidosporlalibertad",
+        "indices": [
+          25,
+          45
+        ]
+      }
+    ],
+    "urls": [
+      {
+        "expanded_url": "https://www.instagram.com/p/BajJO8ihTsG/",
+        "indices": [
+          92,
+          115
+        ],
+        "url": "https://t.co/J5BZskYoG7",
+        "display_url": "instagram.com/p/BajJO8ihTsG/"
+      }
+    ]
+  },
+  "reply_count": 0,
+  "source": "<a href=\"http://instagram.com\" rel=\"nofollow\">Instagram</a>",
+  "place": {
+    "attributes": {},
+    "url": "https://api.twitter.com/1.1/geo/id/00577114384dea2b.json",
+    "place_type": "city",
+    "id": "00577114384dea2b",
+    "country_code": "AR",
+    "name": "Vicente L\u00f3pez",
+    "country": "Argentina",
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            -58.553703,
+            -34.569273
+          ],
+          [
+            -58.553703,
+            -34.490491
+          ],
+          [
+            -58.463067,
+            -34.490491
+          ],
+          [
+            -58.463067,
+            -34.569273
+          ]
+        ]
+      ]
+    },
+    "full_name": "Vicente L\u00f3pez, Argentina"
+  },
+  "truncated": false,
+  "in_reply_to_status_id_str": null,
+  "filter_level": "low",
+  "text": "#buendomingo #democracia #unidosporlalibertad ya cumpl\u00ed con mi deber vot\u00e9 y feliz de poder\u2026 https://t.co/J5BZskYoG7",
+  "geo": {
+    "type": "Point",
+    "coordinates": [
+      -34.5,
+      -58.48333333
+    ]
+  },
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": false,
+  "possibly_sensitive": false,
+  "favorited": false,
+  "user": {
+    "verified": false,
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+    "statuses_count": 1027,
+    "screen_name": "mujerzero",
+    "default_profile_image": false,
+    "time_zone": "Buenos Aires",
+    "name": "Maria Jose",
+    "id_str": "2296972092",
+    "profile_sidebar_border_color": "181A1E",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/2296972092/1476924619",
+    "created_at": "Sat Jan 18 00:13:45 +0000 2014",
+    "friends_count": 76,
+    "url": null,
+    "profile_background_tile": false,
+    "protected": false,
+    "translator_type": "none",
+    "profile_text_color": "666666",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/788902413923221508/tOtBo2yJ_normal.jpg",
+    "listed_count": 1,
+    "notifications": null,
+    "contributors_enabled": false,
+    "is_translator": false,
+    "location": "Olivos",
+    "profile_use_background_image": true,
+    "followers_count": 38,
+    "profile_sidebar_fill_color": "252429",
+    "geo_enabled": true,
+    "profile_link_color": "2FC2EF",
+    "favourites_count": 975,
+    "following": null,
+    "default_profile": false,
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+    "profile_background_color": "1A1B1F",
+    "id": 2296972092,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/788902413923221508/tOtBo2yJ_normal.jpg",
+    "lang": "es",
+    "description": "No confundas mi personalidad con mi actitud.  Mi personalidad es quien soy yo y mi actitud depende de quien seas vos.",
+    "follow_request_sent": null,
+    "utc_offset": -10800
+  },
+  "quote_count": 0,
+  "lang": "es"
+}

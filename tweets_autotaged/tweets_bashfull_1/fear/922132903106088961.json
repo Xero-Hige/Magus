@@ -1,0 +1,106 @@
+{
+  "in_reply_to_user_id": null,
+  "contributors": null,
+  "in_reply_to_screen_name": null,
+  "retweeted": false,
+  "retweet_count": 0,
+  "timestamp_ms": "1508688591158",
+  "in_reply_to_status_id": null,
+  "id_str": "922132903106088961",
+  "created_at": "Sun Oct 22 16:09:51 +0000 2017",
+  "id": 922132903106088961,
+  "coordinates": null,
+  "favorite_count": 0,
+  "entities": {
+    "user_mentions": [],
+    "symbols": [],
+    "hashtags": [],
+    "urls": []
+  },
+  "reply_count": 0,
+  "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+  "place": {
+    "attributes": {},
+    "url": "https://api.twitter.com/1.1/geo/id/d0f5be1262dee9aa.json",
+    "place_type": "country",
+    "id": "d0f5be1262dee9aa",
+    "country_code": "UY",
+    "name": "Uruguay",
+    "country": "Uruguay",
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            -58.491052,
+            -34.980163
+          ],
+          [
+            -58.491052,
+            -30.085693
+          ],
+          [
+            -53.071505,
+            -30.085693
+          ],
+          [
+            -53.071505,
+            -34.980163
+          ]
+        ]
+      ]
+    },
+    "full_name": "Uruguay"
+  },
+  "truncated": false,
+  "in_reply_to_status_id_str": null,
+  "filter_level": "low",
+  "text": "La inseguridad es sensaci\u00f3n t\u00e9rmica. El f\u00fatbol problema de inter\u00e9s nacional. Uruguay se fue al diablo. El foco esta en los comerciantes.",
+  "geo": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": false,
+  "favorited": false,
+  "user": {
+    "verified": false,
+    "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/623290051263365120/hmiSKdpp.jpg",
+    "statuses_count": 51406,
+    "screen_name": "ProfeLagrotta",
+    "default_profile_image": false,
+    "time_zone": "Buenos Aires",
+    "name": "Prof Miguel Lagrotta",
+    "id_str": "125774523",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/125774523/1473004737",
+    "created_at": "Tue Mar 23 20:50:53 +0000 2010",
+    "friends_count": 1441,
+    "url": "http://profelagrotta.blogspot.com",
+    "profile_background_tile": false,
+    "protected": false,
+    "translator_type": "none",
+    "profile_text_color": "333333",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/772463755825479681/ECt7PRTw_normal.jpg",
+    "listed_count": 0,
+    "notifications": null,
+    "contributors_enabled": false,
+    "is_translator": false,
+    "location": "Montevideo",
+    "profile_use_background_image": true,
+    "followers_count": 2650,
+    "profile_sidebar_fill_color": "DDEEF6",
+    "geo_enabled": true,
+    "profile_link_color": "0084B4",
+    "favourites_count": 4773,
+    "following": null,
+    "default_profile": false,
+    "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/623290051263365120/hmiSKdpp.jpg",
+    "profile_background_color": "C0DEED",
+    "id": 125774523,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/772463755825479681/ECt7PRTw_normal.jpg",
+    "lang": "es",
+    "description": "Docente de Historia. Investigador en Historia Contempor\u00e1nea.Batllista de los de antes.Hincha del Club Atl\u00e9tico Pe\u00f1arol.",
+    "follow_request_sent": null,
+    "utc_offset": -10800
+  },
+  "quote_count": 0,
+  "lang": "es"
+}

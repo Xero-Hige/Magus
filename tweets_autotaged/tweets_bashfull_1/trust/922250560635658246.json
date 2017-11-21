@@ -1,0 +1,114 @@
+{
+  "entities": {
+    "hashtags": [
+      {
+        "indices": [
+          0,
+          16
+        ],
+        "text": "FranjaElectoral"
+      }
+    ],
+    "symbols": [],
+    "urls": [],
+    "user_mentions": []
+  },
+  "in_reply_to_user_id": null,
+  "created_at": "Sun Oct 22 23:57:22 +0000 2017",
+  "favorite_count": 0,
+  "lang": "es",
+  "reply_count": 0,
+  "id_str": "922250560635658246",
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_status_id": null,
+  "timestamp_ms": "1508716642899",
+  "text": "#FranjaElectoral no entiendo xq se culpa tanto a la derecha d lo mal q est\u00e1 el pais,tubimos 5 gob de centro izquierda,q no lo mejoraron.",
+  "user": {
+    "time_zone": null,
+    "screen_name": "thejusajo",
+    "utc_offset": null,
+    "created_at": "Tue Dec 31 22:29:27 +0000 2013",
+    "profile_background_tile": false,
+    "notifications": null,
+    "lang": "es",
+    "default_profile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/2255221252/1493838091",
+    "id_str": "2255221252",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/911960609985634304/Jh7c-NIH_normal.jpg",
+    "name": "Juan.S.J.",
+    "friends_count": 408,
+    "translator_type": "none",
+    "protected": false,
+    "following": null,
+    "is_translator": false,
+    "follow_request_sent": null,
+    "profile_text_color": "333333",
+    "listed_count": 0,
+    "profile_link_color": "1DA1F2",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "url": null,
+    "id": 2255221252,
+    "favourites_count": 2740,
+    "profile_background_color": "C0DEED",
+    "followers_count": 439,
+    "statuses_count": 2875,
+    "description": null,
+    "location": null,
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "default_profile_image": false,
+    "verified": false,
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_use_background_image": true,
+    "contributors_enabled": false,
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/911960609985634304/Jh7c-NIH_normal.jpg",
+    "geo_enabled": true
+  },
+  "geo": null,
+  "id": 922250560635658246,
+  "quote_count": 0,
+  "retweeted": false,
+  "filter_level": "low",
+  "in_reply_to_status_id_str": null,
+  "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+  "favorited": false,
+  "coordinates": null,
+  "truncated": false,
+  "retweet_count": 0,
+  "is_quote_status": false,
+  "in_reply_to_screen_name": null,
+  "contributors": null,
+  "place": {
+    "bounding_box": {
+      "coordinates": [
+        [
+          [
+            -71.114886,
+            -33.71993
+          ],
+          [
+            -71.114886,
+            -33.61326
+          ],
+          [
+            -70.936876,
+            -33.61326
+          ],
+          [
+            -70.936876,
+            -33.71993
+          ]
+        ]
+      ],
+      "type": "Polygon"
+    },
+    "name": "El Monte",
+    "url": "https://api.twitter.com/1.1/geo/id/0106206708d96906.json",
+    "country_code": "CL",
+    "id": "0106206708d96906",
+    "place_type": "city",
+    "attributes": {},
+    "full_name": "El Monte, Chile",
+    "country": "Chile"
+  }
+}

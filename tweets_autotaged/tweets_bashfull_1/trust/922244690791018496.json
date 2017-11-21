@@ -1,0 +1,175 @@
+{
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "urls": [
+      {
+        "indices": [
+          116,
+          139
+        ],
+        "expanded_url": "https://twitter.com/i/web/status/922244690791018496",
+        "display_url": "twitter.com/i/web/status/9\u2026",
+        "url": "https://t.co/3Vn5T0rjLD"
+      }
+    ],
+    "user_mentions": [
+      {
+        "indices": [
+          0,
+          15
+        ],
+        "screen_name": "Pato_Erlandsen",
+        "name": "Pato Erlandsen",
+        "id_str": "56827440",
+        "id": 56827440
+      },
+      {
+        "indices": [
+          16,
+          29
+        ],
+        "screen_name": "robertmondak",
+        "name": "Roberto Mondaca",
+        "id_str": "71042987",
+        "id": 71042987
+      }
+    ]
+  },
+  "in_reply_to_user_id": 56827440,
+  "created_at": "Sun Oct 22 23:34:03 +0000 2017",
+  "favorite_count": 0,
+  "lang": "es",
+  "reply_count": 0,
+  "id_str": "922244690791018496",
+  "in_reply_to_user_id_str": "56827440",
+  "extended_tweet": {
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "urls": [],
+      "user_mentions": [
+        {
+          "indices": [
+            0,
+            15
+          ],
+          "screen_name": "Pato_Erlandsen",
+          "name": "Pato Erlandsen",
+          "id_str": "56827440",
+          "id": 56827440
+        },
+        {
+          "indices": [
+            16,
+            29
+          ],
+          "screen_name": "robertmondak",
+          "name": "Roberto Mondaca",
+          "id_str": "71042987",
+          "id": 71042987
+        }
+      ]
+    },
+    "display_text_range": [
+      30,
+      169
+    ],
+    "full_text": "@Pato_Erlandsen @robertmondak Tranquilo Pato, respeto tu opini\u00f3n, s\u00f3lo que hoy un candidato a t\u00edtulo empat\u00f3 contra un equipo candidato a descenso. A\u00fan hay patria se\u00f1ores"
+  },
+  "in_reply_to_status_id": 922236086981742592,
+  "timestamp_ms": "1508715243419",
+  "truncated": true,
+  "text": "@Pato_Erlandsen @robertmondak Tranquilo Pato, respeto tu opini\u00f3n, s\u00f3lo que hoy un candidato a t\u00edtulo empat\u00f3 contra\u2026 https://t.co/3Vn5T0rjLD",
+  "user": {
+    "time_zone": "Santiago",
+    "screen_name": "jrremedi",
+    "utc_offset": -10800,
+    "created_at": "Mon Jan 04 18:35:12 +0000 2010",
+    "profile_background_tile": false,
+    "notifications": null,
+    "lang": "es",
+    "default_profile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/101830762/1440551652",
+    "id_str": "101830762",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/833042112581083136/TqNtoezD_normal.jpg",
+    "name": "Jorge",
+    "friends_count": 1054,
+    "translator_type": "none",
+    "protected": false,
+    "following": null,
+    "is_translator": false,
+    "follow_request_sent": null,
+    "profile_text_color": "333333",
+    "listed_count": 11,
+    "profile_link_color": "1DA1F2",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "url": null,
+    "id": 101830762,
+    "favourites_count": 4874,
+    "profile_background_color": "C0DEED",
+    "followers_count": 723,
+    "statuses_count": 5473,
+    "description": "Chileno, Ingeniero Civil Industrial UTFSM, wanderino y feliz",
+    "location": "chile",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "default_profile_image": false,
+    "verified": false,
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_use_background_image": true,
+    "contributors_enabled": false,
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/833042112581083136/TqNtoezD_normal.jpg",
+    "geo_enabled": true
+  },
+  "geo": null,
+  "id": 922244690791018496,
+  "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+  "retweeted": false,
+  "filter_level": "low",
+  "in_reply_to_status_id_str": "922236086981742592",
+  "quote_count": 0,
+  "favorited": false,
+  "coordinates": null,
+  "display_text_range": [
+    30,
+    140
+  ],
+  "retweet_count": 0,
+  "is_quote_status": false,
+  "in_reply_to_screen_name": "Pato_Erlandsen",
+  "contributors": null,
+  "place": {
+    "bounding_box": {
+      "coordinates": [
+        [
+          [
+            -71.589833,
+            -33.104552
+          ],
+          [
+            -71.589833,
+            -32.948163
+          ],
+          [
+            -71.441459,
+            -32.948163
+          ],
+          [
+            -71.441459,
+            -33.104552
+          ]
+        ]
+      ],
+      "type": "Polygon"
+    },
+    "name": "Vi\u00f1a del Mar",
+    "url": "https://api.twitter.com/1.1/geo/id/008be613029d4ca5.json",
+    "country_code": "CL",
+    "id": "008be613029d4ca5",
+    "place_type": "city",
+    "attributes": {},
+    "full_name": "Vi\u00f1a del Mar, Chile",
+    "country": "Chile"
+  }
+}

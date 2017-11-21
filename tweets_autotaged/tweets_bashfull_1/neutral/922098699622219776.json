@@ -1,0 +1,137 @@
+{
+  "in_reply_to_user_id": null,
+  "contributors": null,
+  "in_reply_to_screen_name": null,
+  "retweeted": false,
+  "retweet_count": 0,
+  "timestamp_ms": "1508680436412",
+  "in_reply_to_status_id": null,
+  "id_str": "922098699622219776",
+  "created_at": "Sun Oct 22 13:53:56 +0000 2017",
+  "id": 922098699622219776,
+  "coordinates": {
+    "type": "Point",
+    "coordinates": [
+      -71.2003,
+      -30.5983
+    ]
+  },
+  "favorite_count": 0,
+  "entities": {
+    "user_mentions": [],
+    "symbols": [],
+    "hashtags": [
+      {
+        "text": "blog",
+        "indices": [
+          81,
+          86
+        ]
+      }
+    ],
+    "urls": [
+      {
+        "expanded_url": "https://www.instagram.com/p/BajWs2UgaqD/",
+        "indices": [
+          88,
+          111
+        ],
+        "url": "https://t.co/Te3WjCHEFI",
+        "display_url": "instagram.com/p/BajWs2UgaqD/"
+      }
+    ]
+  },
+  "reply_count": 0,
+  "source": "<a href=\"http://instagram.com\" rel=\"nofollow\">Instagram</a>",
+  "place": {
+    "attributes": {},
+    "url": "https://api.twitter.com/1.1/geo/id/00d669c0219eb59c.json",
+    "place_type": "city",
+    "id": "00d669c0219eb59c",
+    "country_code": "CL",
+    "name": "Ovalle",
+    "country": "Chile",
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            -71.717434,
+            -31.214798
+          ],
+          [
+            -71.717434,
+            -30.308499
+          ],
+          [
+            -70.854068,
+            -30.308499
+          ],
+          [
+            -70.854068,
+            -31.214798
+          ]
+        ]
+      ]
+    },
+    "full_name": "Ovalle, Chile"
+  },
+  "truncated": false,
+  "in_reply_to_status_id_str": null,
+  "filter_level": "low",
+  "text": "Cuando se me olvidan los 55 y debo hacer equilibrios para tomar una foto para mi #blog\u2026 https://t.co/Te3WjCHEFI",
+  "geo": {
+    "type": "Point",
+    "coordinates": [
+      -30.5983,
+      -71.2003
+    ]
+  },
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": false,
+  "possibly_sensitive": false,
+  "favorited": false,
+  "user": {
+    "verified": false,
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+    "statuses_count": 21791,
+    "screen_name": "Durruty",
+    "default_profile_image": false,
+    "time_zone": "Quito",
+    "name": "Ana Victoria Durruty",
+    "id_str": "19064506",
+    "profile_sidebar_border_color": "181A1E",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/19064506/1490301928",
+    "created_at": "Fri Jan 16 12:41:10 +0000 2009",
+    "friends_count": 22132,
+    "url": "http://www.anadurruty.blogspot.com",
+    "profile_background_tile": false,
+    "protected": false,
+    "translator_type": "none",
+    "profile_text_color": "666666",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/845013645574713349/B-ldl011_normal.jpg",
+    "listed_count": 170,
+    "notifications": null,
+    "contributors_enabled": false,
+    "is_translator": false,
+    "location": "Provincia del Limar\u00ed - Chile",
+    "profile_use_background_image": true,
+    "followers_count": 20191,
+    "profile_sidebar_fill_color": "212024",
+    "geo_enabled": true,
+    "profile_link_color": "2FC2EF",
+    "favourites_count": 14923,
+    "following": null,
+    "default_profile": false,
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+    "profile_background_color": "1A1B1F",
+    "id": 19064506,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/845013645574713349/B-ldl011_normal.jpg",
+    "lang": "en",
+    "description": "#Escritora: @AnaDurruty #Eco: @OvalleLimpio #Instagram: @anadurruty https://t.co/8eO3DoyQhU https://t.co/C49JSI17uu #F4F #Travel #Photos #Writer",
+    "follow_request_sent": null,
+    "utc_offset": -18000
+  },
+  "quote_count": 0,
+  "lang": "es"
+}

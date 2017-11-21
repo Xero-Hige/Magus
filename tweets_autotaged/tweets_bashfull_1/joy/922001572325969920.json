@@ -1,0 +1,106 @@
+{
+  "in_reply_to_user_id": null,
+  "contributors": null,
+  "in_reply_to_screen_name": null,
+  "retweeted": false,
+  "retweet_count": 0,
+  "timestamp_ms": "1508657279460",
+  "in_reply_to_status_id": null,
+  "id_str": "922001572325969920",
+  "created_at": "Sun Oct 22 07:27:59 +0000 2017",
+  "id": 922001572325969920,
+  "coordinates": null,
+  "favorite_count": 0,
+  "entities": {
+    "user_mentions": [],
+    "symbols": [],
+    "hashtags": [],
+    "urls": []
+  },
+  "reply_count": 0,
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "place": {
+    "attributes": {},
+    "url": "https://api.twitter.com/1.1/geo/id/01a9dbb9232f0fac.json",
+    "place_type": "admin",
+    "id": "01a9dbb9232f0fac",
+    "country_code": "UY",
+    "name": "Montevideo",
+    "country": "Uruguay",
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            -56.430439,
+            -34.937896
+          ],
+          [
+            -56.430439,
+            -34.701599
+          ],
+          [
+            -56.029341,
+            -34.701599
+          ],
+          [
+            -56.029341,
+            -34.937896
+          ]
+        ]
+      ]
+    },
+    "full_name": "Montevideo, Uruguay"
+  },
+  "truncated": false,
+  "in_reply_to_status_id_str": null,
+  "filter_level": "low",
+  "text": "\u201cEl pool, de un bar, dos buenos tipos, salvan su amistad\u201d la felicidad entera de haber podido cantar esto",
+  "geo": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": false,
+  "favorited": false,
+  "user": {
+    "verified": false,
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+    "statuses_count": 10073,
+    "screen_name": "FedePicos13",
+    "default_profile_image": false,
+    "time_zone": "Santiago",
+    "name": "Fede",
+    "id_str": "156697003",
+    "profile_sidebar_border_color": "FFFFFF",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/156697003/1377295858",
+    "created_at": "Thu Jun 17 17:08:18 +0000 2010",
+    "friends_count": 608,
+    "url": null,
+    "profile_background_tile": true,
+    "protected": false,
+    "translator_type": "none",
+    "profile_text_color": "333333",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/861116336474382336/5ir7DItT_normal.jpg",
+    "listed_count": 2,
+    "notifications": null,
+    "contributors_enabled": false,
+    "is_translator": false,
+    "location": "siempre en off side",
+    "profile_use_background_image": true,
+    "followers_count": 655,
+    "profile_sidebar_fill_color": "EFEFEF",
+    "geo_enabled": true,
+    "profile_link_color": "569494",
+    "favourites_count": 2895,
+    "following": null,
+    "default_profile": false,
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+    "profile_background_color": "030303",
+    "id": 156697003,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/861116336474382336/5ir7DItT_normal.jpg",
+    "lang": "es",
+    "description": "\"A tu camino empedrado, a tu pu\u00f1ado de arena, hasta el port\u00f3n del tablado, por no morirme de pena. \"",
+    "follow_request_sent": null,
+    "utc_offset": -10800
+  },
+  "quote_count": 0,
+  "lang": "es"
+}

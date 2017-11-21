@@ -1,0 +1,137 @@
+{
+  "in_reply_to_user_id": null,
+  "contributors": null,
+  "in_reply_to_screen_name": null,
+  "retweeted": false,
+  "retweet_count": 0,
+  "timestamp_ms": "1508673464916",
+  "in_reply_to_status_id": null,
+  "id_str": "922069459048718337",
+  "created_at": "Sun Oct 22 11:57:44 +0000 2017",
+  "id": 922069459048718337,
+  "coordinates": {
+    "type": "Point",
+    "coordinates": [
+      -57.9833,
+      -34.8167
+    ]
+  },
+  "favorite_count": 0,
+  "entities": {
+    "user_mentions": [],
+    "symbols": [],
+    "hashtags": [
+      {
+        "text": "PuntaLara",
+        "indices": [
+          78,
+          88
+        ]
+      }
+    ],
+    "urls": [
+      {
+        "expanded_url": "https://www.instagram.com/p/BajKgMMjP6c/",
+        "indices": [
+          90,
+          113
+        ],
+        "url": "https://t.co/oWpTTsGsxE",
+        "display_url": "instagram.com/p/BajKgMMjP6c/"
+      }
+    ]
+  },
+  "reply_count": 0,
+  "source": "<a href=\"http://instagram.com\" rel=\"nofollow\">Instagram</a>",
+  "place": {
+    "attributes": {},
+    "url": "https://api.twitter.com/1.1/geo/id/4afa2757051c5192.json",
+    "place_type": "admin",
+    "id": "4afa2757051c5192",
+    "country_code": "AR",
+    "name": "Buenos Aires",
+    "country": "Argentina",
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            -63.39386,
+            -41.035009
+          ],
+          [
+            -63.39386,
+            -33.260144
+          ],
+          [
+            -56.665836,
+            -33.260144
+          ],
+          [
+            -56.665836,
+            -41.035009
+          ]
+        ]
+      ]
+    },
+    "full_name": "Buenos Aires, Argentina"
+  },
+  "truncated": false,
+  "in_reply_to_status_id_str": null,
+  "filter_level": "low",
+  "text": "Por comenzar con la Jornada Profesional y Deportiva de Tablas de Rescate \ud83c\udfc4\u200d\u2642\ufe0f #PuntaLara\u2026 https://t.co/oWpTTsGsxE",
+  "geo": {
+    "type": "Point",
+    "coordinates": [
+      -34.8167,
+      -57.9833
+    ]
+  },
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": false,
+  "possibly_sensitive": false,
+  "favorited": false,
+  "user": {
+    "verified": false,
+    "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000152460530/n_39lv3-.jpeg",
+    "statuses_count": 1037,
+    "screen_name": "laolamadre",
+    "default_profile_image": false,
+    "time_zone": null,
+    "name": "La Ola Madre Surf",
+    "id_str": "2250610934",
+    "profile_sidebar_border_color": "FFFFFF",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/2250610934/1438283448",
+    "created_at": "Tue Dec 17 15:57:49 +0000 2013",
+    "friends_count": 111,
+    "url": "http://instagram.com/laolamadre",
+    "profile_background_tile": true,
+    "protected": false,
+    "translator_type": "none",
+    "profile_text_color": "333333",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/412976299162882048/DQDqx_5I_normal.jpeg",
+    "listed_count": 7,
+    "notifications": null,
+    "contributors_enabled": false,
+    "is_translator": false,
+    "location": "La Plata",
+    "profile_use_background_image": true,
+    "followers_count": 133,
+    "profile_sidebar_fill_color": "DDEEF6",
+    "geo_enabled": true,
+    "profile_link_color": "0084B4",
+    "favourites_count": 153,
+    "following": null,
+    "default_profile": false,
+    "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000152460530/n_39lv3-.jpeg",
+    "profile_background_color": "C0DEED",
+    "id": 2250610934,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/412976299162882048/DQDqx_5I_normal.jpeg",
+    "lang": "es",
+    "description": "http://laolamadre.com.ar\nSurfShop y Club de Surf en La Plata - Buenos Aires - Argentina",
+    "follow_request_sent": null,
+    "utc_offset": null
+  },
+  "quote_count": 0,
+  "lang": "es"
+}

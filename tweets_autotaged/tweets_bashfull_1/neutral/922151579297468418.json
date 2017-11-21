@@ -1,0 +1,121 @@
+{
+  "in_reply_to_user_id": null,
+  "contributors": null,
+  "in_reply_to_screen_name": null,
+  "retweeted": false,
+  "retweet_count": 0,
+  "timestamp_ms": "1508693043909",
+  "in_reply_to_status_id": null,
+  "id_str": "922151579297468418",
+  "created_at": "Sun Oct 22 17:24:03 +0000 2017",
+  "id": 922151579297468418,
+  "coordinates": null,
+  "favorite_count": 0,
+  "entities": {
+    "user_mentions": [],
+    "symbols": [],
+    "hashtags": [
+      {
+        "text": "EstudiantesDeGu\u00e1rico",
+        "indices": [
+          18,
+          39
+        ]
+      },
+      {
+        "text": "970AM",
+        "indices": [
+          134,
+          140
+        ]
+      }
+    ],
+    "urls": []
+  },
+  "reply_count": 0,
+  "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+  "place": {
+    "attributes": {},
+    "url": "https://api.twitter.com/1.1/geo/id/6cf2fd60a82329fc.json",
+    "place_type": "country",
+    "id": "6cf2fd60a82329fc",
+    "country_code": "PY",
+    "name": "Paraguay",
+    "country": "Paraguay",
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            -62.64512,
+            -27.594325
+          ],
+          [
+            -62.64512,
+            -19.294041
+          ],
+          [
+            -54.258291,
+            -19.294041
+          ],
+          [
+            -54.258291,
+            -27.594325
+          ]
+        ]
+      ]
+    },
+    "full_name": "Paraguay"
+  },
+  "truncated": false,
+  "in_reply_to_status_id_str": null,
+  "filter_level": "low",
+  "text": "\"El partido antes #EstudiantesDeGu\u00e1rico fue dur\u00edsimo, ten\u00edamos que ganar si o si para clasificar y era un rival directo\" Laura Romero #970AM",
+  "geo": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": false,
+  "favorited": false,
+  "user": {
+    "verified": false,
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "statuses_count": 62267,
+    "screen_name": "Futgol970AM",
+    "default_profile_image": false,
+    "time_zone": "Buenos Aires",
+    "name": "Futgol 970 - Oficial",
+    "id_str": "705039826979065862",
+    "profile_sidebar_border_color": "000000",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/705039826979065862/1500647884",
+    "created_at": "Wed Mar 02 14:39:28 +0000 2016",
+    "friends_count": 250,
+    "url": null,
+    "profile_background_tile": false,
+    "protected": false,
+    "translator_type": "none",
+    "profile_text_color": "000000",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/915906982422466561/wC1nYOMb_normal.jpg",
+    "listed_count": 74,
+    "notifications": null,
+    "contributors_enabled": false,
+    "is_translator": false,
+    "location": "Asuncion, Paraguay",
+    "profile_use_background_image": false,
+    "followers_count": 24499,
+    "profile_sidebar_fill_color": "000000",
+    "geo_enabled": true,
+    "profile_link_color": "F58EA8",
+    "favourites_count": 130,
+    "following": null,
+    "default_profile": false,
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_color": "000000",
+    "id": 705039826979065862,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/915906982422466561/wC1nYOMb_normal.jpg",
+    "lang": "es",
+    "description": "Cuenta de Deportes de la @Radio970AM. Futgol 970: L a S de 12:00 a 14:00 y de 19:00 a 20:00. Adem\u00e1s, estamos en todas las transmisiones de F\u00fatbol.\u26bd\ufe0f \u00a1S\u00e9 parte!",
+    "follow_request_sent": null,
+    "utc_offset": -10800
+  },
+  "quote_count": 0,
+  "lang": "es"
+}

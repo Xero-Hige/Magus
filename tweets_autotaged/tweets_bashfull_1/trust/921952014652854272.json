@@ -1,0 +1,129 @@
+{
+  "in_reply_to_user_id": null,
+  "contributors": null,
+  "in_reply_to_screen_name": null,
+  "retweeted": false,
+  "retweet_count": 0,
+  "timestamp_ms": "1508645463990",
+  "in_reply_to_status_id": null,
+  "id_str": "921952014652854272",
+  "created_at": "Sun Oct 22 04:11:03 +0000 2017",
+  "id": 921952014652854272,
+  "coordinates": {
+    "type": "Point",
+    "coordinates": [
+      -70.6716,
+      -33.4395
+    ]
+  },
+  "favorite_count": 0,
+  "entities": {
+    "user_mentions": [],
+    "symbols": [],
+    "hashtags": [],
+    "urls": [
+      {
+        "expanded_url": "https://central132.cl/llamado-128330?3",
+        "indices": [
+          100,
+          123
+        ],
+        "url": "https://t.co/a6CJCVc2lo",
+        "display_url": "central132.cl/llamado-128330\u2026"
+      }
+    ]
+  },
+  "reply_count": 0,
+  "source": "<a href=\"https://central132.cl\" rel=\"nofollow\">Central132</a>",
+  "place": {
+    "attributes": {},
+    "url": "https://api.twitter.com/1.1/geo/id/0010b4cb51ca93d8.json",
+    "place_type": "city",
+    "id": "0010b4cb51ca93d8",
+    "country_code": "CL",
+    "name": "Santiago",
+    "country": "Chile",
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            -70.692959,
+            -33.478574
+          ],
+          [
+            -70.692959,
+            -33.425749
+          ],
+          [
+            -70.626272,
+            -33.425749
+          ],
+          [
+            -70.626272,
+            -33.478574
+          ]
+        ]
+      ]
+    },
+    "full_name": "Santiago, Chile"
+  },
+  "truncated": false,
+  "in_reply_to_status_id_str": null,
+  "filter_level": "low",
+  "text": "01:11 en Santiago Llamado por fuego o humo en estructura (10-0-1) B4 B9 Q12 Garcia Reyes y Catedral https://t.co/a6CJCVc2lo",
+  "geo": {
+    "type": "Point",
+    "coordinates": [
+      -33.4395,
+      -70.6716
+    ]
+  },
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": false,
+  "possibly_sensitive": false,
+  "favorited": false,
+  "user": {
+    "verified": false,
+    "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000035105924/2e55d24e8f361cb2421411e8d9268060.jpeg",
+    "statuses_count": 37076,
+    "screen_name": "Rne1327",
+    "default_profile_image": false,
+    "time_zone": "Atlantic Time (Canada)",
+    "name": "Rne_1327",
+    "id_str": "506830257",
+    "profile_sidebar_border_color": "000000",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/506830257/1411651312",
+    "created_at": "Tue Feb 28 03:50:42 +0000 2012",
+    "friends_count": 948,
+    "url": "http://www.facebook.com/andybrayams",
+    "profile_background_tile": false,
+    "protected": false,
+    "translator_type": "none",
+    "profile_text_color": "333333",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/515128246954782720/moV9BDIf_normal.jpeg",
+    "listed_count": 26,
+    "notifications": null,
+    "contributors_enabled": false,
+    "is_translator": false,
+    "location": "santiago de chile",
+    "profile_use_background_image": true,
+    "followers_count": 2217,
+    "profile_sidebar_fill_color": "DDEEF6",
+    "geo_enabled": true,
+    "profile_link_color": "3B94D9",
+    "favourites_count": 102,
+    "following": null,
+    "default_profile": false,
+    "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000035105924/2e55d24e8f361cb2421411e8d9268060.jpeg",
+    "profile_background_color": "0099B9",
+    "id": 506830257,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/515128246954782720/moV9BDIf_normal.jpeg",
+    "lang": "es",
+    "description": "muy feliz junto a mi hijo y mi pareja  integrante  activo de la red nacional de emergencia RNE_356_Andy_Pte_Alto",
+    "follow_request_sent": null,
+    "utc_offset": -10800
+  },
+  "quote_count": 0,
+  "lang": "es"
+}

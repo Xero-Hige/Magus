@@ -1,0 +1,121 @@
+{
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "indices": [
+          0,
+          10
+        ],
+        "screen_name": "vrydffclt",
+        "name": "Very Difficult",
+        "id_str": "729282356",
+        "id": 729282356
+      }
+    ]
+  },
+  "in_reply_to_user_id": 729282356,
+  "created_at": "Sun Oct 22 23:18:04 +0000 2017",
+  "favorite_count": 0,
+  "lang": "es",
+  "reply_count": 0,
+  "id_str": "922240667790856193",
+  "in_reply_to_user_id_str": "729282356",
+  "in_reply_to_status_id": 922232555797143553,
+  "timestamp_ms": "1508714284261",
+  "truncated": false,
+  "text": "@vrydffclt Una pregunta: es s\u00f3lo con tarjeta o se puede pagar en efectivo de alguna manera?",
+  "user": {
+    "time_zone": "Santiago",
+    "screen_name": "AngelesAcua",
+    "utc_offset": -10800,
+    "created_at": "Sat Aug 06 18:59:39 +0000 2011",
+    "profile_background_tile": true,
+    "notifications": null,
+    "lang": "es",
+    "default_profile": false,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/349814930/1507739518",
+    "id_str": "349814930",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/919037605777494016/nqd5m-Yz_normal.jpg",
+    "name": "\u00c1ngeles Acu\u00f1a",
+    "friends_count": 432,
+    "translator_type": "none",
+    "protected": false,
+    "following": null,
+    "is_translator": false,
+    "follow_request_sent": null,
+    "profile_text_color": "333333",
+    "listed_count": 0,
+    "profile_link_color": "0099CC",
+    "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/730904199/3a13843d03c754b2ef8c74bf2634e3e0.jpeg",
+    "url": "https://www.facebook.com/angeles.acuna.338",
+    "id": 349814930,
+    "favourites_count": 6959,
+    "profile_background_color": "FFF04D",
+    "followers_count": 187,
+    "statuses_count": 1384,
+    "description": "Medicina - Cine - Teatro - Literatura - Viajes - La Cosa Cine \u2661",
+    "location": "Argentina",
+    "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/730904199/3a13843d03c754b2ef8c74bf2634e3e0.jpeg",
+    "default_profile_image": false,
+    "verified": false,
+    "profile_sidebar_fill_color": "F6FFD1",
+    "profile_use_background_image": true,
+    "contributors_enabled": false,
+    "profile_sidebar_border_color": "FFFFFF",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/919037605777494016/nqd5m-Yz_normal.jpg",
+    "geo_enabled": true
+  },
+  "geo": null,
+  "id": 922240667790856193,
+  "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+  "retweeted": false,
+  "filter_level": "low",
+  "in_reply_to_status_id_str": "922232555797143553",
+  "quote_count": 0,
+  "favorited": false,
+  "coordinates": null,
+  "display_text_range": [
+    11,
+    91
+  ],
+  "retweet_count": 0,
+  "is_quote_status": false,
+  "in_reply_to_screen_name": "vrydffclt",
+  "contributors": null,
+  "place": {
+    "bounding_box": {
+      "coordinates": [
+        [
+          [
+            -58.621679,
+            -34.927567
+          ],
+          [
+            -58.621679,
+            -34.829109
+          ],
+          [
+            -58.502289,
+            -34.829109
+          ],
+          [
+            -58.502289,
+            -34.927567
+          ]
+        ]
+      ],
+      "type": "Polygon"
+    },
+    "name": "Jos\u00e9 Mar\u00eda Ezeiza",
+    "url": "https://api.twitter.com/1.1/geo/id/01fba2a14bc1aaea.json",
+    "country_code": "AR",
+    "id": "01fba2a14bc1aaea",
+    "place_type": "city",
+    "attributes": {},
+    "full_name": "Jos\u00e9 Mar\u00eda Ezeiza, Argentina",
+    "country": "Argentina"
+  }
+}

@@ -1,0 +1,131 @@
+{
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "indices": [
+          0,
+          11
+        ],
+        "screen_name": "alesitoide",
+        "name": "hopeful monster",
+        "id_str": "219188457",
+        "id": 219188457
+      },
+      {
+        "indices": [
+          12,
+          27
+        ],
+        "screen_name": "AgenciaElVigia",
+        "name": "Agencia El Vig\u00eda",
+        "id_str": "1034569116",
+        "id": 1034569116
+      }
+    ]
+  },
+  "in_reply_to_user_id": 219188457,
+  "created_at": "Sun Oct 22 21:35:43 +0000 2017",
+  "favorite_count": 0,
+  "lang": "es",
+  "reply_count": 0,
+  "id_str": "922214909798223873",
+  "in_reply_to_user_id_str": "219188457",
+  "in_reply_to_status_id": 922214044618182658,
+  "timestamp_ms": "1508708143077",
+  "truncated": false,
+  "text": "@alesitoide @AgenciaElVigia me veo tentado a usar la frase con todos los que la votaron hoy. Pero no tengo tanta amplitud de coraz\u00f3n.",
+  "user": {
+    "time_zone": null,
+    "screen_name": "jotacordobesa",
+    "utc_offset": null,
+    "created_at": "Wed Aug 18 02:24:00 +0000 2010",
+    "profile_background_tile": false,
+    "notifications": null,
+    "lang": "es",
+    "default_profile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/179771320/1362537309",
+    "id_str": "179771320",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/3222397627/2b4c821ce197ec6b81b97f6d17fb09f7_normal.jpeg",
+    "name": "Juan Jos\u00e9 Miras",
+    "friends_count": 72,
+    "translator_type": "none",
+    "protected": false,
+    "following": null,
+    "is_translator": false,
+    "follow_request_sent": null,
+    "profile_text_color": "333333",
+    "listed_count": 1,
+    "profile_link_color": "1DA1F2",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "url": null,
+    "id": 179771320,
+    "favourites_count": 1710,
+    "profile_background_color": "C0DEED",
+    "followers_count": 78,
+    "statuses_count": 3373,
+    "description": "Economista - Docente - Hincha de River y de Estudiantes de R\u00edo Cuarto - Casado y con cuatro hijos.",
+    "location": null,
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "default_profile_image": false,
+    "verified": false,
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_use_background_image": true,
+    "contributors_enabled": false,
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/3222397627/2b4c821ce197ec6b81b97f6d17fb09f7_normal.jpeg",
+    "geo_enabled": true
+  },
+  "geo": null,
+  "id": 922214909798223873,
+  "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+  "retweeted": false,
+  "filter_level": "low",
+  "in_reply_to_status_id_str": "922214044618182658",
+  "quote_count": 0,
+  "favorited": false,
+  "coordinates": null,
+  "display_text_range": [
+    12,
+    133
+  ],
+  "retweet_count": 0,
+  "is_quote_status": false,
+  "in_reply_to_screen_name": "alesitoide",
+  "contributors": null,
+  "place": {
+    "bounding_box": {
+      "coordinates": [
+        [
+          [
+            -64.389839,
+            -33.159419
+          ],
+          [
+            -64.389839,
+            -33.088234
+          ],
+          [
+            -64.306209,
+            -33.088234
+          ],
+          [
+            -64.306209,
+            -33.159419
+          ]
+        ]
+      ],
+      "type": "Polygon"
+    },
+    "name": "R\u00edo Cuarto",
+    "url": "https://api.twitter.com/1.1/geo/id/01bd23a802fb1e24.json",
+    "country_code": "AR",
+    "id": "01bd23a802fb1e24",
+    "place_type": "city",
+    "attributes": {},
+    "full_name": "R\u00edo Cuarto, Argentina",
+    "country": "Argentina"
+  }
+}

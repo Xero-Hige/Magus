@@ -1,0 +1,114 @@
+{
+  "in_reply_to_user_id": null,
+  "contributors": null,
+  "in_reply_to_screen_name": null,
+  "retweeted": false,
+  "retweet_count": 0,
+  "timestamp_ms": "1508640722186",
+  "in_reply_to_status_id": null,
+  "id_str": "921932126085373952",
+  "created_at": "Sun Oct 22 02:52:02 +0000 2017",
+  "id": 921932126085373952,
+  "coordinates": null,
+  "favorite_count": 0,
+  "entities": {
+    "user_mentions": [],
+    "symbols": [],
+    "hashtags": [
+      {
+        "text": "SanMartinDeTucuman",
+        "indices": [
+          0,
+          19
+        ]
+      }
+    ],
+    "urls": []
+  },
+  "reply_count": 0,
+  "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+  "place": {
+    "attributes": {},
+    "url": "https://api.twitter.com/1.1/geo/id/00f84d414936f28e.json",
+    "place_type": "city",
+    "id": "00f84d414936f28e",
+    "country_code": "AR",
+    "name": "C\u00f3rdoba",
+    "country": "Argentina",
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            -64.3195,
+            -31.523576
+          ],
+          [
+            -64.3195,
+            -31.307337
+          ],
+          [
+            -64.076551,
+            -31.307337
+          ],
+          [
+            -64.076551,
+            -31.523576
+          ]
+        ]
+      ]
+    },
+    "full_name": "C\u00f3rdoba, Argentina"
+  },
+  "truncated": false,
+  "in_reply_to_status_id_str": null,
+  "filter_level": "low",
+  "text": "#SanMartinDeTucuman Mariano Pasini: \"El apuro del campeonato nos lleva a que la mayor\u00eda de los equipos juegen mal\".",
+  "geo": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": false,
+  "favorited": false,
+  "user": {
+    "verified": false,
+    "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/450126209590910976/54Sx55tL.jpeg",
+    "statuses_count": 190039,
+    "screen_name": "mundoascenso",
+    "default_profile_image": false,
+    "time_zone": "Buenos Aires",
+    "name": "Mundo Ascenso",
+    "id_str": "176617523",
+    "profile_sidebar_border_color": "000000",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/176617523/1401073579",
+    "created_at": "Tue Aug 10 00:36:22 +0000 2010",
+    "friends_count": 2505,
+    "url": "http://www.mundoascenso.com.ar",
+    "profile_background_tile": true,
+    "protected": false,
+    "translator_type": "none",
+    "profile_text_color": "141314",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/788969488989519872/gcY6BP5s_normal.jpg",
+    "listed_count": 293,
+    "notifications": null,
+    "contributors_enabled": false,
+    "is_translator": false,
+    "location": "Buenos Aires, Argentina.",
+    "profile_use_background_image": true,
+    "followers_count": 54064,
+    "profile_sidebar_fill_color": "DFE607",
+    "geo_enabled": true,
+    "profile_link_color": "7D1E06",
+    "favourites_count": 1617,
+    "following": null,
+    "default_profile": false,
+    "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/450126209590910976/54Sx55tL.jpeg",
+    "profile_background_color": "B52006",
+    "id": 176617523,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/788969488989519872/gcY6BP5s_normal.jpg",
+    "lang": "es",
+    "description": "Toda la informaci\u00f3n del Ascenso de Argentina por Radio La Red  AM 910  con la conducci\u00f3n de @danielbaretto",
+    "follow_request_sent": null,
+    "utc_offset": -10800
+  },
+  "quote_count": 0,
+  "lang": "es"
+}

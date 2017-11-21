@@ -1,0 +1,105 @@
+{
+  "in_reply_to_user_id": null,
+  "contributors": null,
+  "in_reply_to_screen_name": null,
+  "retweeted": false,
+  "retweet_count": 0,
+  "timestamp_ms": "1508682167955",
+  "in_reply_to_status_id": null,
+  "id_str": "922105962240061440",
+  "created_at": "Sun Oct 22 14:22:47 +0000 2017",
+  "id": 922105962240061440,
+  "coordinates": null,
+  "favorite_count": 0,
+  "entities": {
+    "user_mentions": [],
+    "symbols": [],
+    "hashtags": [],
+    "urls": []
+  },
+  "reply_count": 0,
+  "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+  "place": {
+    "attributes": {},
+    "url": "https://api.twitter.com/1.1/geo/id/d0f5be1262dee9aa.json",
+    "place_type": "country",
+    "id": "d0f5be1262dee9aa",
+    "country_code": "UY",
+    "name": "Uruguay",
+    "country": "Uruguay",
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            -58.491052,
+            -34.980163
+          ],
+          [
+            -58.491052,
+            -30.085693
+          ],
+          [
+            -53.071505,
+            -30.085693
+          ],
+          [
+            -53.071505,
+            -34.980163
+          ]
+        ]
+      ]
+    },
+    "full_name": "Uruguay"
+  },
+  "truncated": false,
+  "in_reply_to_status_id_str": null,
+  "filter_level": "low",
+  "text": "Mucho nos alegra la reuni\u00f3n entre Luis Lacalle Pou y Jorge Larra\u00f1aga, pedimos unidad entre los nacionalistas, solo as\u00ed seremos gobierno.",
+  "geo": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": false,
+  "favorited": false,
+  "user": {
+    "verified": false,
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "statuses_count": 234,
+    "screen_name": "FerrazBragaDari",
+    "default_profile_image": false,
+    "time_zone": "Buenos Aires",
+    "name": "Dar\u00edo Ferraz Braga",
+    "id_str": "824187630",
+    "profile_sidebar_border_color": "C0DEED",
+    "created_at": "Fri Sep 14 23:40:10 +0000 2012",
+    "friends_count": 418,
+    "url": null,
+    "profile_background_tile": false,
+    "protected": false,
+    "translator_type": "none",
+    "profile_text_color": "333333",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/2611488498/Integraci_n_Democr_tica_normal.JPG",
+    "listed_count": 1,
+    "notifications": null,
+    "contributors_enabled": false,
+    "is_translator": false,
+    "location": "Tacuaremb\u00f3, Uruguay",
+    "profile_use_background_image": true,
+    "followers_count": 255,
+    "profile_sidebar_fill_color": "DDEEF6",
+    "geo_enabled": true,
+    "profile_link_color": "1DA1F2",
+    "favourites_count": 5,
+    "following": null,
+    "default_profile": true,
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_color": "C0DEED",
+    "id": 824187630,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/2611488498/Integraci_n_Democr_tica_normal.JPG",
+    "lang": "es",
+    "description": "Pol\u00edtico de Tacuaremb\u00f3, luchador por la democracia, con la firme convicci\u00f3n de defender las Instituciones y al servicio del Partido Nacional",
+    "follow_request_sent": null,
+    "utc_offset": -10800
+  },
+  "quote_count": 0,
+  "lang": "es"
+}

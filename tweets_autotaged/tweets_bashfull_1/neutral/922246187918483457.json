@@ -1,0 +1,127 @@
+{
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "indices": [
+          94,
+          104
+        ],
+        "screen_name": "Laurihogg",
+        "name": "Hoggi",
+        "id_str": "915365892",
+        "id": 915365892
+      },
+      {
+        "indices": [
+          105,
+          114
+        ],
+        "screen_name": "EniGiaco",
+        "name": "Eni Giacomantone",
+        "id_str": "271138866",
+        "id": 271138866
+      }
+    ]
+  },
+  "in_reply_to_user_id": null,
+  "created_at": "Sun Oct 22 23:40:00 +0000 2017",
+  "favorite_count": 0,
+  "lang": "es",
+  "reply_count": 0,
+  "id_str": "922246187918483457",
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_status_id": null,
+  "timestamp_ms": "1508715600362",
+  "text": "Un fin de semana con un tiempo hermoso, y de la mano de las mejores amigas que se puede tener @Laurihogg @EniGiaco \n2 veces! de no creer! \ud83d\ude0a",
+  "user": {
+    "time_zone": "Buenos Aires",
+    "screen_name": "Asstriidp",
+    "utc_offset": -10800,
+    "created_at": "Wed Mar 30 00:36:30 +0000 2011",
+    "profile_background_tile": true,
+    "notifications": null,
+    "lang": "es",
+    "default_profile": false,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/274239812/1505353727",
+    "id_str": "274239812",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/844368808508841985/aQWJhzYR_normal.jpg",
+    "name": "Astrid",
+    "friends_count": 466,
+    "translator_type": "regular",
+    "protected": false,
+    "following": null,
+    "is_translator": false,
+    "follow_request_sent": null,
+    "profile_text_color": "345413",
+    "listed_count": 0,
+    "profile_link_color": "FA71AF",
+    "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/500397596934803459/hhqL1Pyd.jpeg",
+    "url": null,
+    "id": 274239812,
+    "favourites_count": 746,
+    "profile_background_color": "FA71AF",
+    "followers_count": 305,
+    "statuses_count": 5053,
+    "description": "Astrid Ponzio  - Don't Worry Be Happy -  Aries\u2648  - Futura Contadora  -\n\nAstrid Ponzio Dise\u00f1o y Creaci\u00f3n \u27a1 en Facebook y tambi\u00e9n en Instagram",
+    "location": null,
+    "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/500397596934803459/hhqL1Pyd.jpeg",
+    "default_profile_image": false,
+    "verified": false,
+    "profile_sidebar_fill_color": "ECFCEA",
+    "profile_use_background_image": true,
+    "contributors_enabled": false,
+    "profile_sidebar_border_color": "FFFFFF",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/844368808508841985/aQWJhzYR_normal.jpg",
+    "geo_enabled": true
+  },
+  "geo": null,
+  "id": 922246187918483457,
+  "quote_count": 0,
+  "retweeted": false,
+  "filter_level": "low",
+  "in_reply_to_status_id_str": null,
+  "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+  "favorited": false,
+  "coordinates": null,
+  "truncated": false,
+  "retweet_count": 0,
+  "is_quote_status": false,
+  "in_reply_to_screen_name": null,
+  "contributors": null,
+  "place": {
+    "bounding_box": {
+      "coordinates": [
+        [
+          [
+            -63.39386,
+            -41.035009
+          ],
+          [
+            -63.39386,
+            -33.260144
+          ],
+          [
+            -56.665836,
+            -33.260144
+          ],
+          [
+            -56.665836,
+            -41.035009
+          ]
+        ]
+      ],
+      "type": "Polygon"
+    },
+    "name": "Buenos Aires",
+    "url": "https://api.twitter.com/1.1/geo/id/4afa2757051c5192.json",
+    "country_code": "AR",
+    "id": "4afa2757051c5192",
+    "place_type": "admin",
+    "attributes": {},
+    "full_name": "Buenos Aires, Argentina",
+    "country": "Argentina"
+  }
+}

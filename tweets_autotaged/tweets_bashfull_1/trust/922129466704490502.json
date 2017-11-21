@@ -1,0 +1,154 @@
+{
+  "in_reply_to_user_id": 254599256,
+  "contributors": null,
+  "id": 922129466704490502,
+  "retweeted": false,
+  "retweet_count": 0,
+  "timestamp_ms": "1508687771856",
+  "in_reply_to_status_id": 922117193898299394,
+  "id_str": "922129466704490502",
+  "coordinates": null,
+  "created_at": "Sun Oct 22 15:56:11 +0000 2017",
+  "quote_count": 0,
+  "favorite_count": 0,
+  "entities": {
+    "user_mentions": [
+      {
+        "indices": [
+          0,
+          8
+        ],
+        "name": "Alejandro Fargosi",
+        "screen_name": "fargosi",
+        "id": 254599256,
+        "id_str": "254599256"
+      }
+    ],
+    "symbols": [],
+    "hashtags": [],
+    "urls": [
+      {
+        "expanded_url": "https://twitter.com/i/web/status/922129466704490502",
+        "indices": [
+          117,
+          140
+        ],
+        "url": "https://t.co/TTrcsLImfU",
+        "display_url": "twitter.com/i/web/status/9\u2026"
+      }
+    ]
+  },
+  "reply_count": 0,
+  "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+  "place": {
+    "attributes": {},
+    "url": "https://api.twitter.com/1.1/geo/id/01153d1b33e1641b.json",
+    "place_type": "city",
+    "id": "01153d1b33e1641b",
+    "country_code": "AR",
+    "name": "Tigre",
+    "country": "Argentina",
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            -58.734553,
+            -34.537735
+          ],
+          [
+            -58.734553,
+            -34.350097
+          ],
+          [
+            -58.561445,
+            -34.350097
+          ],
+          [
+            -58.561445,
+            -34.537735
+          ]
+        ]
+      ]
+    },
+    "full_name": "Tigre, Argentina"
+  },
+  "truncated": true,
+  "in_reply_to_status_id_str": "922117193898299394",
+  "in_reply_to_screen_name": "fargosi",
+  "filter_level": "low",
+  "text": "@fargosi Ante la inoperancia de la justicia,(d\u00e9cadas de fiscales y jueces poco dignos),tenemos que hacer presi\u00f3n so\u2026 https://t.co/TTrcsLImfU",
+  "geo": null,
+  "in_reply_to_user_id_str": "254599256",
+  "is_quote_status": false,
+  "display_text_range": [
+    9,
+    140
+  ],
+  "favorited": false,
+  "user": {
+    "verified": false,
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "statuses_count": 5851,
+    "screen_name": "ceciliag7326",
+    "default_profile_image": false,
+    "time_zone": "Pacific Time (US & Canada)",
+    "name": "cecilia",
+    "id_str": "880068612257705984",
+    "profile_sidebar_border_color": "000000",
+    "created_at": "Wed Jun 28 14:21:22 +0000 2017",
+    "friends_count": 383,
+    "url": null,
+    "profile_background_tile": false,
+    "protected": false,
+    "translator_type": "none",
+    "profile_text_color": "000000",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/882620704126062592/-sGnjcI4_normal.jpg",
+    "listed_count": 1,
+    "notifications": null,
+    "contributors_enabled": false,
+    "is_translator": false,
+    "location": "Tigre, Argentina",
+    "profile_use_background_image": false,
+    "followers_count": 244,
+    "profile_sidebar_fill_color": "000000",
+    "geo_enabled": true,
+    "profile_link_color": "19CF86",
+    "favourites_count": 4745,
+    "following": null,
+    "default_profile": false,
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_color": "000000",
+    "id": 880068612257705984,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/882620704126062592/-sGnjcI4_normal.jpg",
+    "lang": "es",
+    "description": "librepensadora, ecologica, republicana y por sobre todo buscadora de la verdad y JUSTICIA",
+    "follow_request_sent": null,
+    "utc_offset": -25200
+  },
+  "extended_tweet": {
+    "entities": {
+      "user_mentions": [
+        {
+          "indices": [
+            0,
+            8
+          ],
+          "name": "Alejandro Fargosi",
+          "screen_name": "fargosi",
+          "id": 254599256,
+          "id_str": "254599256"
+        }
+      ],
+      "symbols": [],
+      "hashtags": [],
+      "urls": []
+    },
+    "display_text_range": [
+      9,
+      149
+    ],
+    "full_text": "@fargosi Ante la inoperancia de la justicia,(d\u00e9cadas de fiscales y jueces poco dignos),tenemos que hacer presi\u00f3n social xq se despierte de una vez!!!"
+  },
+  "lang": "es"
+}

@@ -1,0 +1,125 @@
+{
+  "in_reply_to_user_id": null,
+  "contributors": null,
+  "in_reply_to_screen_name": null,
+  "retweeted": false,
+  "retweet_count": 0,
+  "timestamp_ms": "1508674227330",
+  "in_reply_to_status_id": null,
+  "id_str": "922072656844910592",
+  "created_at": "Sun Oct 22 12:10:27 +0000 2017",
+  "id": 922072656844910592,
+  "coordinates": null,
+  "favorite_count": 0,
+  "entities": {
+    "user_mentions": [],
+    "symbols": [],
+    "hashtags": [
+      {
+        "text": "EleccionesArgentina",
+        "indices": [
+          0,
+          20
+        ]
+      }
+    ],
+    "urls": [
+      {
+        "expanded_url": "http://www.padron.gob.ar",
+        "indices": [
+          94,
+          117
+        ],
+        "url": "https://t.co/lIySIhJxU7",
+        "display_url": "padron.gob.ar"
+      }
+    ]
+  },
+  "reply_count": 0,
+  "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+  "place": {
+    "attributes": {},
+    "url": "https://api.twitter.com/1.1/geo/id/002437a504b6f5dc.json",
+    "place_type": "city",
+    "id": "002437a504b6f5dc",
+    "country_code": "AR",
+    "name": "Godoy Cruz",
+    "country": "Argentina",
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            -68.89559,
+            -32.960254
+          ],
+          [
+            -68.89559,
+            -32.900031
+          ],
+          [
+            -68.803912,
+            -32.900031
+          ],
+          [
+            -68.803912,
+            -32.960254
+          ]
+        ]
+      ]
+    },
+    "full_name": "Godoy Cruz, Argentina"
+  },
+  "truncated": false,
+  "in_reply_to_status_id_str": null,
+  "filter_level": "low",
+  "text": "#EleccionesArgentina \nSi todav\u00eda no sabes d\u00f3nde votas, podes consultar el padr\u00f3n electoral en https://t.co/lIySIhJxU7",
+  "geo": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": false,
+  "possibly_sensitive": false,
+  "favorited": false,
+  "user": {
+    "verified": false,
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "statuses_count": 1034,
+    "screen_name": "JR10dediciembre",
+    "default_profile_image": false,
+    "time_zone": "Pacific Time (US & Canada)",
+    "name": "10 de Diciembre",
+    "id_str": "3346861305",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/3346861305/1448758875",
+    "created_at": "Fri Jun 26 20:51:58 +0000 2015",
+    "friends_count": 141,
+    "url": "https://www.facebook.com/pages/La-10-De-Diciembre/390376251072370?fref=ts",
+    "profile_background_tile": false,
+    "protected": false,
+    "translator_type": "none",
+    "profile_text_color": "333333",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/614536728263659520/ALR0RCL-_normal.jpg",
+    "listed_count": 1,
+    "notifications": null,
+    "contributors_enabled": false,
+    "is_translator": false,
+    "location": null,
+    "profile_use_background_image": true,
+    "followers_count": 244,
+    "profile_sidebar_fill_color": "DDEEF6",
+    "geo_enabled": true,
+    "profile_link_color": "1DA1F2",
+    "favourites_count": 443,
+    "following": null,
+    "default_profile": true,
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_color": "C0DEED",
+    "id": 3346861305,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/614536728263659520/ALR0RCL-_normal.jpg",
+    "lang": "es",
+    "description": "Agrupaci\u00f3n de la Juventud Radical de Godoy Cruz, Mendoza.",
+    "follow_request_sent": null,
+    "utc_offset": -25200
+  },
+  "quote_count": 0,
+  "lang": "es"
+}

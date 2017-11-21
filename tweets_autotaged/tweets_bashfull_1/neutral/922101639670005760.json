@@ -1,0 +1,121 @@
+{
+  "in_reply_to_user_id": 1006968486,
+  "contributors": null,
+  "id": 922101639670005760,
+  "retweeted": false,
+  "retweet_count": 0,
+  "timestamp_ms": "1508681137374",
+  "in_reply_to_status_id": 922100959966302209,
+  "id_str": "922101639670005760",
+  "created_at": "Sun Oct 22 14:05:37 +0000 2017",
+  "coordinates": null,
+  "favorite_count": 0,
+  "entities": {
+    "user_mentions": [
+      {
+        "indices": [
+          0,
+          8
+        ],
+        "name": "Jona$",
+        "screen_name": "JonyCep",
+        "id": 1006968486,
+        "id_str": "1006968486"
+      }
+    ],
+    "symbols": [],
+    "hashtags": [],
+    "urls": []
+  },
+  "reply_count": 0,
+  "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+  "place": {
+    "attributes": {},
+    "url": "https://api.twitter.com/1.1/geo/id/010d7db066434a8a.json",
+    "place_type": "city",
+    "id": "010d7db066434a8a",
+    "country_code": "AR",
+    "name": "Mar del Plata",
+    "country": "Argentina",
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            -57.645563,
+            -38.127814
+          ],
+          [
+            -57.645563,
+            -37.895361
+          ],
+          [
+            -57.517298,
+            -37.895361
+          ],
+          [
+            -57.517298,
+            -38.127814
+          ]
+        ]
+      ]
+    },
+    "full_name": "Mar del Plata, Argentina"
+  },
+  "truncated": false,
+  "in_reply_to_status_id_str": "922100959966302209",
+  "in_reply_to_screen_name": "JonyCep",
+  "filter_level": "low",
+  "text": "@JonyCep le hackearon el tw de la Bullrich y la de la armada naval imag\u00ednate, no sirven para nada esta gente jaja",
+  "geo": null,
+  "in_reply_to_user_id_str": "1006968486",
+  "is_quote_status": false,
+  "display_text_range": [
+    9,
+    113
+  ],
+  "favorited": false,
+  "user": {
+    "verified": false,
+    "profile_background_image_url": "",
+    "statuses_count": 2499,
+    "screen_name": "aka_elnico",
+    "default_profile_image": false,
+    "time_zone": "Pacific Time (US & Canada)",
+    "name": "Iv\u00e1n",
+    "id_str": "896033260643418112",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/896033260643418112/1507406216",
+    "created_at": "Fri Aug 11 15:39:11 +0000 2017",
+    "friends_count": 145,
+    "url": null,
+    "profile_background_tile": false,
+    "protected": false,
+    "translator_type": "none",
+    "profile_text_color": "333333",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/921847527275671554/sGWMmTJ-_normal.jpg",
+    "listed_count": 1,
+    "notifications": null,
+    "contributors_enabled": false,
+    "is_translator": false,
+    "location": "Mar del Plata, Argentina",
+    "profile_use_background_image": true,
+    "followers_count": 157,
+    "profile_sidebar_fill_color": "DDEEF6",
+    "geo_enabled": true,
+    "profile_link_color": "1DA1F2",
+    "favourites_count": 2431,
+    "following": null,
+    "default_profile": true,
+    "profile_background_image_url_https": "",
+    "profile_background_color": "F5F8FA",
+    "id": 896033260643418112,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/921847527275671554/sGWMmTJ-_normal.jpg",
+    "lang": "es",
+    "description": "no soy rapero, tampoco quiero serlo",
+    "follow_request_sent": null,
+    "utc_offset": -25200
+  },
+  "quote_count": 0,
+  "lang": "es"
+}

@@ -1,0 +1,135 @@
+{
+  "in_reply_to_user_id": null,
+  "contributors": null,
+  "in_reply_to_screen_name": null,
+  "retweeted": false,
+  "retweet_count": 0,
+  "timestamp_ms": "1508693014509",
+  "in_reply_to_status_id": null,
+  "id_str": "922151455984898048",
+  "created_at": "Sun Oct 22 17:23:34 +0000 2017",
+  "id": 922151455984898048,
+  "coordinates": null,
+  "favorite_count": 0,
+  "entities": {
+    "user_mentions": [
+      {
+        "indices": [
+          82,
+          91
+        ],
+        "name": "Diego Valenzuela",
+        "screen_name": "dievalen",
+        "id": 124539002,
+        "id_str": "124539002"
+      },
+      {
+        "indices": [
+          92,
+          107
+        ],
+        "name": "Sergio Iacovino",
+        "screen_name": "sergioiacovino",
+        "id": 167537855,
+        "id_str": "167537855"
+      }
+    ],
+    "symbols": [],
+    "hashtags": [
+      {
+        "text": "feliz",
+        "indices": [
+          75,
+          81
+        ]
+      }
+    ],
+    "urls": []
+  },
+  "reply_count": 0,
+  "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+  "place": {
+    "attributes": {},
+    "url": "https://api.twitter.com/1.1/geo/id/014f72200f706d3f.json",
+    "place_type": "city",
+    "id": "014f72200f706d3f",
+    "country_code": "AR",
+    "name": "Caseros",
+    "country": "Argentina",
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            -58.644732,
+            -34.654376
+          ],
+          [
+            -58.644732,
+            -34.546888
+          ],
+          [
+            -58.522478,
+            -34.546888
+          ],
+          [
+            -58.522478,
+            -34.654376
+          ]
+        ]
+      ]
+    },
+    "full_name": "Caseros, Argentina"
+  },
+  "truncated": false,
+  "in_reply_to_status_id_str": null,
+  "filter_level": "low",
+  "text": "Ya en Mesa 105 cm Fiscal feliz ya vamos cn el 57% de la lista de votantes \n#feliz\n@dievalen @sergioiacovino",
+  "geo": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": false,
+  "favorited": false,
+  "user": {
+    "verified": false,
+    "profile_background_image_url": "",
+    "statuses_count": 1799,
+    "screen_name": "gaby3fcav",
+    "default_profile_image": false,
+    "time_zone": null,
+    "name": "Gabriela",
+    "id_str": "792805600828751872",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/792805600828751872/1477860933",
+    "created_at": "Sun Oct 30 19:09:19 +0000 2016",
+    "friends_count": 191,
+    "url": null,
+    "profile_background_tile": false,
+    "protected": false,
+    "translator_type": "none",
+    "profile_text_color": "333333",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/911707236166246400/ifS4fG9N_normal.jpg",
+    "listed_count": 1,
+    "notifications": null,
+    "contributors_enabled": false,
+    "is_translator": false,
+    "location": "Caseros, Argentina",
+    "profile_use_background_image": true,
+    "followers_count": 94,
+    "profile_sidebar_fill_color": "DDEEF6",
+    "geo_enabled": true,
+    "profile_link_color": "1DA1F2",
+    "favourites_count": 2933,
+    "following": null,
+    "default_profile": true,
+    "profile_background_image_url_https": "",
+    "profile_background_color": "F5F8FA",
+    "id": 792805600828751872,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/911707236166246400/ifS4fG9N_normal.jpg",
+    "lang": "es",
+    "description": null,
+    "follow_request_sent": null,
+    "utc_offset": null
+  },
+  "quote_count": 0,
+  "lang": "es"
+}

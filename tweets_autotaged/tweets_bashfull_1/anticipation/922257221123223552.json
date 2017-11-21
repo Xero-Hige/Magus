@@ -1,0 +1,125 @@
+{
+  "entities": {
+    "hashtags": [
+      {
+        "indices": [
+          0,
+          16
+        ],
+        "text": "EleccionesEnEl9"
+      }
+    ],
+    "symbols": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "indices": [
+          123,
+          138
+        ],
+        "screen_name": "Canal9Televida",
+        "name": "Canal 9 Televida",
+        "id_str": "118396917",
+        "id": 118396917
+      }
+    ]
+  },
+  "in_reply_to_user_id": null,
+  "created_at": "Mon Oct 23 00:23:50 +0000 2017",
+  "favorite_count": 0,
+  "lang": "es",
+  "reply_count": 0,
+  "id_str": "922257221123223552",
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_status_id": null,
+  "timestamp_ms": "1508718230883",
+  "text": "#EleccionesEnEl9 Omar F\u00e9lix \"Habr\u00e1 que buscar responsabilidad en cabezas de listas. (...) Esperaba un resultado diferente\" @Canal9Televida",
+  "user": {
+    "time_zone": "Santiago",
+    "screen_name": "CeciRanua",
+    "utc_offset": -10800,
+    "created_at": "Fri May 13 12:44:05 +0000 2011",
+    "profile_background_tile": false,
+    "notifications": null,
+    "lang": "es",
+    "default_profile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/297966610/1458448937",
+    "id_str": "297966610",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/887048325270294529/hPlM6I1Q_normal.jpg",
+    "name": "Cecilia Ranua",
+    "friends_count": 962,
+    "translator_type": "none",
+    "protected": false,
+    "following": null,
+    "is_translator": false,
+    "follow_request_sent": null,
+    "profile_text_color": "333333",
+    "listed_count": 96,
+    "profile_link_color": "1DA1F2",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "url": null,
+    "id": 297966610,
+    "favourites_count": 25458,
+    "profile_background_color": "C0DEED",
+    "followers_count": 18223,
+    "statuses_count": 63117,
+    "description": "Periodista. Journalist. #LaCorrupci\u00f3nMata - Mendoza, Argentina. Cuenta personal.",
+    "location": null,
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "default_profile_image": false,
+    "verified": false,
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_use_background_image": true,
+    "contributors_enabled": false,
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/887048325270294529/hPlM6I1Q_normal.jpg",
+    "geo_enabled": true
+  },
+  "geo": null,
+  "id": 922257221123223552,
+  "quote_count": 0,
+  "retweeted": false,
+  "filter_level": "low",
+  "in_reply_to_status_id_str": null,
+  "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+  "favorited": false,
+  "coordinates": null,
+  "truncated": false,
+  "retweet_count": 0,
+  "is_quote_status": false,
+  "in_reply_to_screen_name": null,
+  "contributors": null,
+  "place": {
+    "bounding_box": {
+      "coordinates": [
+        [
+          [
+            -68.91592,
+            -32.904531
+          ],
+          [
+            -68.91592,
+            -32.862154
+          ],
+          [
+            -68.817455,
+            -32.862154
+          ],
+          [
+            -68.817455,
+            -32.904531
+          ]
+        ]
+      ],
+      "type": "Polygon"
+    },
+    "name": "Mendoza",
+    "url": "https://api.twitter.com/1.1/geo/id/00054d3a0a8df14e.json",
+    "country_code": "AR",
+    "id": "00054d3a0a8df14e",
+    "place_type": "city",
+    "attributes": {},
+    "full_name": "Mendoza, Argentina",
+    "country": "Argentina"
+  }
+}

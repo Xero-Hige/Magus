@@ -1,0 +1,114 @@
+{
+  "in_reply_to_user_id": null,
+  "contributors": null,
+  "in_reply_to_screen_name": null,
+  "retweeted": false,
+  "retweet_count": 0,
+  "timestamp_ms": "1508686915627",
+  "in_reply_to_status_id": null,
+  "id_str": "922125875419729921",
+  "created_at": "Sun Oct 22 15:41:55 +0000 2017",
+  "id": 922125875419729921,
+  "coordinates": null,
+  "favorite_count": 0,
+  "entities": {
+    "user_mentions": [],
+    "symbols": [],
+    "hashtags": [
+      {
+        "text": "enacional",
+        "indices": [
+          130,
+          140
+        ]
+      }
+    ],
+    "urls": []
+  },
+  "reply_count": 0,
+  "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+  "place": {
+    "attributes": {},
+    "url": "https://api.twitter.com/1.1/geo/id/47a3cf27863714de.json",
+    "place_type": "country",
+    "id": "47a3cf27863714de",
+    "country_code": "CL",
+    "name": "Chile",
+    "country": "Chile",
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            -109.479171,
+            -56.557358
+          ],
+          [
+            -109.479171,
+            -17.497384
+          ],
+          [
+            -66.15203,
+            -17.497384
+          ],
+          [
+            -66.15203,
+            -56.557358
+          ]
+        ]
+      ]
+    },
+    "full_name": "Chile"
+  },
+  "truncated": false,
+  "in_reply_to_status_id_str": null,
+  "filter_level": "low",
+  "text": "el sr, aylwin es 1 de los responsables c su risa siniestra de el golpe, la dc es traicionera injusta y se manosea c la mentira.   #enacional",
+  "geo": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": false,
+  "favorited": false,
+  "user": {
+    "verified": false,
+    "profile_background_image_url": "",
+    "statuses_count": 175,
+    "screen_name": "patysaludable",
+    "default_profile_image": false,
+    "time_zone": null,
+    "name": "patricia carrillo",
+    "id_str": "909438402080079872",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/909438402080079872/1505663919",
+    "created_at": "Sun Sep 17 15:26:26 +0000 2017",
+    "friends_count": 62,
+    "url": null,
+    "profile_background_tile": false,
+    "protected": false,
+    "translator_type": "none",
+    "profile_text_color": "333333",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/909447377718611968/Zk9JO7Hz_normal.jpg",
+    "listed_count": 0,
+    "notifications": null,
+    "contributors_enabled": false,
+    "is_translator": false,
+    "location": "Chill\u00e1n, Chile",
+    "profile_use_background_image": true,
+    "followers_count": 11,
+    "profile_sidebar_fill_color": "DDEEF6",
+    "geo_enabled": true,
+    "profile_link_color": "1DA1F2",
+    "favourites_count": 102,
+    "following": null,
+    "default_profile": true,
+    "profile_background_image_url_https": "",
+    "profile_background_color": "F5F8FA",
+    "id": 909438402080079872,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/909447377718611968/Zk9JO7Hz_normal.jpg",
+    "lang": "es",
+    "description": "No me gusta MENTIR.",
+    "follow_request_sent": null,
+    "utc_offset": null
+  },
+  "quote_count": 0,
+  "lang": "es"
+}

@@ -1,0 +1,175 @@
+{
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "urls": [
+      {
+        "indices": [
+          117,
+          140
+        ],
+        "expanded_url": "https://twitter.com/i/web/status/922265447554273285",
+        "display_url": "twitter.com/i/web/status/9\u2026",
+        "url": "https://t.co/Wkh5LO3wMT"
+      }
+    ],
+    "user_mentions": [
+      {
+        "indices": [
+          0,
+          10
+        ],
+        "screen_name": "sildetoma",
+        "name": "Silvia de Toma",
+        "id_str": "541878345",
+        "id": 541878345
+      },
+      {
+        "indices": [
+          11,
+          23
+        ],
+        "screen_name": "elisacarrio",
+        "name": "Elisa Lilita Carri\u00f3",
+        "id_str": "1578961946",
+        "id": 1578961946
+      }
+    ]
+  },
+  "in_reply_to_user_id": 541878345,
+  "created_at": "Mon Oct 23 00:56:32 +0000 2017",
+  "favorite_count": 0,
+  "lang": "es",
+  "reply_count": 0,
+  "id_str": "922265447554273285",
+  "in_reply_to_user_id_str": "541878345",
+  "extended_tweet": {
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "urls": [],
+      "user_mentions": [
+        {
+          "indices": [
+            0,
+            10
+          ],
+          "screen_name": "sildetoma",
+          "name": "Silvia de Toma",
+          "id_str": "541878345",
+          "id": 541878345
+        },
+        {
+          "indices": [
+            11,
+            23
+          ],
+          "screen_name": "elisacarrio",
+          "name": "Elisa Lilita Carri\u00f3",
+          "id_str": "1578961946",
+          "id": 1578961946
+        }
+      ]
+    },
+    "display_text_range": [
+      24,
+      154
+    ],
+    "full_text": "@sildetoma @elisacarrio Gracias Silvi !! Estoy muy feliz !!! Pero viste el mapa de Argentina? Casi todo amarillo !!! Ahora s\u00ed !! Gana la justicia y la paz"
+  },
+  "in_reply_to_status_id": 922265119157030913,
+  "timestamp_ms": "1508720192217",
+  "truncated": true,
+  "text": "@sildetoma @elisacarrio Gracias Silvi !! Estoy muy feliz !!! Pero viste el mapa de Argentina? Casi todo amarillo !!\u2026 https://t.co/Wkh5LO3wMT",
+  "user": {
+    "time_zone": "Buenos Aires",
+    "screen_name": "EugeAldana",
+    "utc_offset": -10800,
+    "created_at": "Sat Apr 14 18:42:36 +0000 2012",
+    "profile_background_tile": true,
+    "notifications": null,
+    "lang": "es",
+    "default_profile": false,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/553829976/1411580768",
+    "id_str": "553829976",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/899475413201821696/NULolytl_normal.jpg",
+    "name": "Euge Aldana \ud83c\udf3c",
+    "friends_count": 3475,
+    "translator_type": "none",
+    "protected": false,
+    "following": null,
+    "is_translator": false,
+    "follow_request_sent": null,
+    "profile_text_color": "333333",
+    "listed_count": 6,
+    "profile_link_color": "3B94D9",
+    "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/513403818243932160/_fqtltzg.jpeg",
+    "url": null,
+    "id": 553829976,
+    "favourites_count": 28879,
+    "profile_background_color": "C0DEED",
+    "followers_count": 3832,
+    "statuses_count": 19094,
+    "description": "Cuidado con los miedos ... les encanta  robar sue\u00f1os!!  Prof. de Historia. Porte\u00f1a. Quiero una Argentina Justa y en Paz ...  Anti  K !!\nNo DM",
+    "location": "Buenos Aires - Argentina",
+    "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/513403818243932160/_fqtltzg.jpeg",
+    "default_profile_image": false,
+    "verified": false,
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_use_background_image": true,
+    "contributors_enabled": false,
+    "profile_sidebar_border_color": "FFFFFF",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/899475413201821696/NULolytl_normal.jpg",
+    "geo_enabled": true
+  },
+  "geo": null,
+  "id": 922265447554273285,
+  "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+  "retweeted": false,
+  "filter_level": "low",
+  "in_reply_to_status_id_str": "922265119157030913",
+  "quote_count": 0,
+  "favorited": false,
+  "coordinates": null,
+  "display_text_range": [
+    24,
+    140
+  ],
+  "retweet_count": 0,
+  "is_quote_status": false,
+  "in_reply_to_screen_name": "sildetoma",
+  "contributors": null,
+  "place": {
+    "bounding_box": {
+      "coordinates": [
+        [
+          [
+            -58.531792,
+            -34.674453
+          ],
+          [
+            -58.531792,
+            -34.534177
+          ],
+          [
+            -58.353494,
+            -34.534177
+          ],
+          [
+            -58.353494,
+            -34.674453
+          ]
+        ]
+      ],
+      "type": "Polygon"
+    },
+    "name": "Ciudad Aut\u00f3noma de Buenos Aires",
+    "url": "https://api.twitter.com/1.1/geo/id/018f1cde6bad9747.json",
+    "country_code": "AR",
+    "id": "018f1cde6bad9747",
+    "place_type": "city",
+    "attributes": {},
+    "full_name": "Ciudad Aut\u00f3noma de Buenos Aires, Argentina",
+    "country": "Argentina"
+  }
+}

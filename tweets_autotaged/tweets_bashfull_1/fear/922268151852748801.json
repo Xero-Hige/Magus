@@ -1,0 +1,106 @@
+{
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "urls": [],
+    "user_mentions": []
+  },
+  "in_reply_to_user_id": null,
+  "created_at": "Mon Oct 23 01:07:16 +0000 2017",
+  "favorite_count": 0,
+  "lang": "es",
+  "reply_count": 0,
+  "id_str": "922268151852748801",
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_status_id": null,
+  "timestamp_ms": "1508720836972",
+  "text": "Yo no pienso prender la television ni leer nada por ahora porque la verdad me va a agarrar una ulcera",
+  "user": {
+    "time_zone": "Pacific Time (US & Canada)",
+    "screen_name": "odetojuan",
+    "utc_offset": -25200,
+    "created_at": "Fri Feb 24 14:34:00 +0000 2017",
+    "profile_background_tile": false,
+    "notifications": null,
+    "lang": "es",
+    "default_profile": false,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/835135696255995904/1508633981",
+    "id_str": "835135696255995904",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/920051733878931456/LJGRySFv_normal.jpg",
+    "name": "juan",
+    "friends_count": 768,
+    "translator_type": "none",
+    "protected": false,
+    "following": null,
+    "is_translator": false,
+    "follow_request_sent": null,
+    "profile_text_color": "000000",
+    "listed_count": 11,
+    "profile_link_color": "FAB81E",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "url": null,
+    "id": 835135696255995904,
+    "favourites_count": 12298,
+    "profile_background_color": "000000",
+    "followers_count": 1663,
+    "statuses_count": 6933,
+    "description": "intento hacer musica",
+    "location": "EVA 01",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "default_profile_image": false,
+    "verified": false,
+    "profile_sidebar_fill_color": "000000",
+    "profile_use_background_image": false,
+    "contributors_enabled": false,
+    "profile_sidebar_border_color": "000000",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/920051733878931456/LJGRySFv_normal.jpg",
+    "geo_enabled": true
+  },
+  "geo": null,
+  "id": 922268151852748801,
+  "quote_count": 0,
+  "retweeted": false,
+  "filter_level": "low",
+  "in_reply_to_status_id_str": null,
+  "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+  "favorited": false,
+  "coordinates": null,
+  "truncated": false,
+  "retweet_count": 0,
+  "is_quote_status": false,
+  "in_reply_to_screen_name": null,
+  "contributors": null,
+  "place": {
+    "bounding_box": {
+      "coordinates": [
+        [
+          [
+            -67.610891,
+            -39.04632
+          ],
+          [
+            -67.610891,
+            -38.997645
+          ],
+          [
+            -67.528734,
+            -38.997645
+          ],
+          [
+            -67.528734,
+            -39.04632
+          ]
+        ]
+      ],
+      "type": "Polygon"
+    },
+    "name": "General Roca",
+    "url": "https://api.twitter.com/1.1/geo/id/0016a28c5fdad928.json",
+    "country_code": "AR",
+    "id": "0016a28c5fdad928",
+    "place_type": "city",
+    "attributes": {},
+    "full_name": "General Roca, Argentina",
+    "country": "Argentina"
+  }
+}

@@ -1,0 +1,106 @@
+{
+  "in_reply_to_user_id": null,
+  "contributors": null,
+  "in_reply_to_screen_name": null,
+  "retweeted": false,
+  "retweet_count": 0,
+  "timestamp_ms": "1508644516263",
+  "in_reply_to_status_id": null,
+  "id_str": "921948039597748224",
+  "created_at": "Sun Oct 22 03:55:16 +0000 2017",
+  "id": 921948039597748224,
+  "coordinates": null,
+  "favorite_count": 0,
+  "entities": {
+    "user_mentions": [],
+    "symbols": [],
+    "hashtags": [],
+    "urls": []
+  },
+  "reply_count": 0,
+  "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+  "place": {
+    "attributes": {},
+    "url": "https://api.twitter.com/1.1/geo/id/01a9dbb9232f0fac.json",
+    "place_type": "admin",
+    "id": "01a9dbb9232f0fac",
+    "country_code": "UY",
+    "name": "Montevideo",
+    "country": "Uruguay",
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            -56.430439,
+            -34.937896
+          ],
+          [
+            -56.430439,
+            -34.701599
+          ],
+          [
+            -56.029341,
+            -34.701599
+          ],
+          [
+            -56.029341,
+            -34.937896
+          ]
+        ]
+      ]
+    },
+    "full_name": "Montevideo, Uruguay"
+  },
+  "truncated": false,
+  "in_reply_to_status_id_str": null,
+  "filter_level": "low",
+  "text": "Fracasaste como humano si de lejos no te confundiste un maniqu\u00ed con una persona.",
+  "geo": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": false,
+  "favorited": false,
+  "user": {
+    "verified": false,
+    "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000033650971/6d251e4b75dc91391de3e36a9e9ed92d.png",
+    "statuses_count": 103300,
+    "screen_name": "tanofa",
+    "default_profile_image": false,
+    "time_zone": "Buenos Aires",
+    "name": "Bianchi  \u03df",
+    "id_str": "87517500",
+    "profile_sidebar_border_color": "000000",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/87517500/1506335238",
+    "created_at": "Wed Nov 04 19:53:35 +0000 2009",
+    "friends_count": 5997,
+    "url": null,
+    "profile_background_tile": true,
+    "protected": false,
+    "translator_type": "regular",
+    "profile_text_color": "000000",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/890721632083476481/8mHay5AH_normal.jpg",
+    "listed_count": 41,
+    "notifications": null,
+    "contributors_enabled": false,
+    "is_translator": true,
+    "location": "Montevideo, Uruguay",
+    "profile_use_background_image": true,
+    "followers_count": 31436,
+    "profile_sidebar_fill_color": "F7FF00",
+    "geo_enabled": true,
+    "profile_link_color": "000000",
+    "favourites_count": 5185,
+    "following": null,
+    "default_profile": false,
+    "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000033650971/6d251e4b75dc91391de3e36a9e9ed92d.png",
+    "profile_background_color": "000000",
+    "id": 87517500,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/890721632083476481/8mHay5AH_normal.jpg",
+    "lang": "es",
+    "description": "Llego tarde a todos lados porque lo bueno tarda en llegar. @OficialCAP y nada m\u00e1s.",
+    "follow_request_sent": null,
+    "utc_offset": -10800
+  },
+  "quote_count": 0,
+  "lang": "es"
+}

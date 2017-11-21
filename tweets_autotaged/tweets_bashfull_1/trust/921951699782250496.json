@@ -1,0 +1,371 @@
+{
+  "in_reply_to_user_id": null,
+  "contributors": null,
+  "id": 921951699782250496,
+  "retweeted": false,
+  "retweet_count": 0,
+  "timestamp_ms": "1508645388919",
+  "in_reply_to_status_id": null,
+  "id_str": "921951699782250496",
+  "coordinates": null,
+  "created_at": "Sun Oct 22 04:09:48 +0000 2017",
+  "quote_count": 0,
+  "favorite_count": 0,
+  "entities": {
+    "user_mentions": [],
+    "symbols": [],
+    "hashtags": [],
+    "urls": [
+      {
+        "expanded_url": "https://twitter.com/i/web/status/921951699782250496",
+        "indices": [
+          116,
+          139
+        ],
+        "url": "https://t.co/9a4VLFtyoA",
+        "display_url": "twitter.com/i/web/status/9\u2026"
+      }
+    ]
+  },
+  "reply_count": 0,
+  "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+  "place": {
+    "attributes": {},
+    "url": "https://api.twitter.com/1.1/geo/id/4afa2757051c5192.json",
+    "place_type": "admin",
+    "id": "4afa2757051c5192",
+    "country_code": "AR",
+    "name": "Buenos Aires",
+    "country": "Argentina",
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            -63.39386,
+            -41.035009
+          ],
+          [
+            -63.39386,
+            -33.260144
+          ],
+          [
+            -56.665836,
+            -33.260144
+          ],
+          [
+            -56.665836,
+            -41.035009
+          ]
+        ]
+      ]
+    },
+    "full_name": "Buenos Aires, Argentina"
+  },
+  "truncated": true,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_screen_name": null,
+  "filter_level": "low",
+  "text": "15 minutos para el comienzo de la Carrera 22, buen momento para recordar Campeonatos de Pilotos, Equipos, y Pirtek\u2026 https://t.co/9a4VLFtyoA",
+  "geo": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": false,
+  "possibly_sensitive": false,
+  "display_text_range": [
+    0,
+    140
+  ],
+  "favorited": false,
+  "user": {
+    "verified": false,
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme19/bg.gif",
+    "statuses_count": 94033,
+    "screen_name": "SupercarsAr",
+    "default_profile_image": false,
+    "time_zone": "Buenos Aires",
+    "name": "Supercars Argentina",
+    "id_str": "1010447822",
+    "profile_sidebar_border_color": "000000",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1010447822/1504055072",
+    "created_at": "Fri Dec 14 05:11:48 +0000 2012",
+    "friends_count": 409,
+    "url": "https://www.facebook.com/SupercarsAr",
+    "profile_background_tile": false,
+    "protected": false,
+    "translator_type": "none",
+    "profile_text_color": "000000",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/829413274034778112/dHG4puuS_normal.jpg",
+    "listed_count": 60,
+    "notifications": null,
+    "contributors_enabled": false,
+    "is_translator": false,
+    "location": "Buenos Aires, Argentina",
+    "profile_use_background_image": false,
+    "followers_count": 1144,
+    "profile_sidebar_fill_color": "000000",
+    "geo_enabled": true,
+    "profile_link_color": "1B95E0",
+    "favourites_count": 56327,
+    "following": null,
+    "default_profile": false,
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme19/bg.gif",
+    "profile_background_color": "000000",
+    "id": 1010447822,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/829413274034778112/dHG4puuS_normal.jpg",
+    "lang": "es",
+    "description": "Primer y \u00fanico sitio Argentino dedicado a una de las categor\u00edas m\u00e1s importantes y espectaculares de autos turismo a nivel mundial.",
+    "follow_request_sent": null,
+    "utc_offset": -10800
+  },
+  "extended_tweet": {
+    "entities": {
+      "user_mentions": [],
+      "symbols": [],
+      "hashtags": [
+        {
+          "text": "VASC",
+          "indices": [
+            127,
+            132
+          ]
+        },
+        {
+          "text": "GC600",
+          "indices": [
+            133,
+            139
+          ]
+        }
+      ],
+      "urls": [],
+      "media": [
+        {
+          "indices": [
+            140,
+            163
+          ],
+          "media_url_https": "https://pbs.twimg.com/media/DMtt_SfX0AEEfyU.jpg",
+          "url": "https://t.co/xvzc7Ix4PO",
+          "expanded_url": "https://twitter.com/SupercarsAr/status/921951699782250496/photo/1",
+          "id": 921951482790006785,
+          "sizes": {
+            "medium": {
+              "resize": "fit",
+              "w": 875,
+              "h": 819
+            },
+            "large": {
+              "resize": "fit",
+              "w": 875,
+              "h": 819
+            },
+            "small": {
+              "resize": "fit",
+              "w": 680,
+              "h": 636
+            },
+            "thumb": {
+              "resize": "crop",
+              "w": 150,
+              "h": 150
+            }
+          },
+          "media_url": "http://pbs.twimg.com/media/DMtt_SfX0AEEfyU.jpg",
+          "id_str": "921951482790006785",
+          "display_url": "pic.twitter.com/xvzc7Ix4PO",
+          "type": "photo"
+        },
+        {
+          "indices": [
+            140,
+            163
+          ],
+          "media_url_https": "https://pbs.twimg.com/media/DMtuAgsX0AAycbz.jpg",
+          "url": "https://t.co/xvzc7Ix4PO",
+          "expanded_url": "https://twitter.com/SupercarsAr/status/921951699782250496/photo/1",
+          "id": 921951503782498304,
+          "sizes": {
+            "medium": {
+              "resize": "fit",
+              "w": 880,
+              "h": 641
+            },
+            "large": {
+              "resize": "fit",
+              "w": 880,
+              "h": 641
+            },
+            "small": {
+              "resize": "fit",
+              "w": 680,
+              "h": 495
+            },
+            "thumb": {
+              "resize": "crop",
+              "w": 150,
+              "h": 150
+            }
+          },
+          "media_url": "http://pbs.twimg.com/media/DMtuAgsX0AAycbz.jpg",
+          "id_str": "921951503782498304",
+          "display_url": "pic.twitter.com/xvzc7Ix4PO",
+          "type": "photo"
+        },
+        {
+          "indices": [
+            140,
+            163
+          ],
+          "media_url_https": "https://pbs.twimg.com/media/DMtuCQ5WsAAAJfp.jpg",
+          "url": "https://t.co/xvzc7Ix4PO",
+          "expanded_url": "https://twitter.com/SupercarsAr/status/921951699782250496/photo/1",
+          "id": 921951533901721600,
+          "sizes": {
+            "medium": {
+              "resize": "fit",
+              "w": 876,
+              "h": 536
+            },
+            "large": {
+              "resize": "fit",
+              "w": 876,
+              "h": 536
+            },
+            "small": {
+              "resize": "fit",
+              "w": 680,
+              "h": 416
+            },
+            "thumb": {
+              "resize": "crop",
+              "w": 150,
+              "h": 150
+            }
+          },
+          "media_url": "http://pbs.twimg.com/media/DMtuCQ5WsAAAJfp.jpg",
+          "id_str": "921951533901721600",
+          "display_url": "pic.twitter.com/xvzc7Ix4PO",
+          "type": "photo"
+        }
+      ]
+    },
+    "display_text_range": [
+      0,
+      139
+    ],
+    "extended_entities": {
+      "media": [
+        {
+          "indices": [
+            140,
+            163
+          ],
+          "media_url_https": "https://pbs.twimg.com/media/DMtt_SfX0AEEfyU.jpg",
+          "url": "https://t.co/xvzc7Ix4PO",
+          "expanded_url": "https://twitter.com/SupercarsAr/status/921951699782250496/photo/1",
+          "id": 921951482790006785,
+          "sizes": {
+            "medium": {
+              "resize": "fit",
+              "w": 875,
+              "h": 819
+            },
+            "large": {
+              "resize": "fit",
+              "w": 875,
+              "h": 819
+            },
+            "small": {
+              "resize": "fit",
+              "w": 680,
+              "h": 636
+            },
+            "thumb": {
+              "resize": "crop",
+              "w": 150,
+              "h": 150
+            }
+          },
+          "media_url": "http://pbs.twimg.com/media/DMtt_SfX0AEEfyU.jpg",
+          "id_str": "921951482790006785",
+          "display_url": "pic.twitter.com/xvzc7Ix4PO",
+          "type": "photo"
+        },
+        {
+          "indices": [
+            140,
+            163
+          ],
+          "media_url_https": "https://pbs.twimg.com/media/DMtuAgsX0AAycbz.jpg",
+          "url": "https://t.co/xvzc7Ix4PO",
+          "expanded_url": "https://twitter.com/SupercarsAr/status/921951699782250496/photo/1",
+          "id": 921951503782498304,
+          "sizes": {
+            "medium": {
+              "resize": "fit",
+              "w": 880,
+              "h": 641
+            },
+            "large": {
+              "resize": "fit",
+              "w": 880,
+              "h": 641
+            },
+            "small": {
+              "resize": "fit",
+              "w": 680,
+              "h": 495
+            },
+            "thumb": {
+              "resize": "crop",
+              "w": 150,
+              "h": 150
+            }
+          },
+          "media_url": "http://pbs.twimg.com/media/DMtuAgsX0AAycbz.jpg",
+          "id_str": "921951503782498304",
+          "display_url": "pic.twitter.com/xvzc7Ix4PO",
+          "type": "photo"
+        },
+        {
+          "indices": [
+            140,
+            163
+          ],
+          "media_url_https": "https://pbs.twimg.com/media/DMtuCQ5WsAAAJfp.jpg",
+          "url": "https://t.co/xvzc7Ix4PO",
+          "expanded_url": "https://twitter.com/SupercarsAr/status/921951699782250496/photo/1",
+          "id": 921951533901721600,
+          "sizes": {
+            "medium": {
+              "resize": "fit",
+              "w": 876,
+              "h": 536
+            },
+            "large": {
+              "resize": "fit",
+              "w": 876,
+              "h": 536
+            },
+            "small": {
+              "resize": "fit",
+              "w": 680,
+              "h": 416
+            },
+            "thumb": {
+              "resize": "crop",
+              "w": 150,
+              "h": 150
+            }
+          },
+          "media_url": "http://pbs.twimg.com/media/DMtuCQ5WsAAAJfp.jpg",
+          "id_str": "921951533901721600",
+          "display_url": "pic.twitter.com/xvzc7Ix4PO",
+          "type": "photo"
+        }
+      ]
+    },
+    "full_text": "15 minutos para el comienzo de la Carrera 22, buen momento para recordar Campeonatos de Pilotos, Equipos, y Pirtek Enduro Cup. #VASC #GC600 https://t.co/xvzc7Ix4PO"
+  },
+  "lang": "es"
+}

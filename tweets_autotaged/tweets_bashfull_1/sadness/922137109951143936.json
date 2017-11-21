@@ -1,0 +1,106 @@
+{
+  "in_reply_to_user_id": null,
+  "contributors": null,
+  "in_reply_to_screen_name": null,
+  "retweeted": false,
+  "retweet_count": 0,
+  "timestamp_ms": "1508689594148",
+  "in_reply_to_status_id": null,
+  "id_str": "922137109951143936",
+  "created_at": "Sun Oct 22 16:26:34 +0000 2017",
+  "id": 922137109951143936,
+  "coordinates": null,
+  "favorite_count": 0,
+  "entities": {
+    "user_mentions": [],
+    "symbols": [],
+    "hashtags": [],
+    "urls": []
+  },
+  "reply_count": 0,
+  "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+  "place": {
+    "attributes": {},
+    "url": "https://api.twitter.com/1.1/geo/id/00a50aa95099b127.json",
+    "place_type": "city",
+    "id": "00a50aa95099b127",
+    "country_code": "AR",
+    "name": "La Rioja",
+    "country": "Argentina",
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            -66.925762,
+            -29.467747
+          ],
+          [
+            -66.925762,
+            -29.380261
+          ],
+          [
+            -66.792907,
+            -29.380261
+          ],
+          [
+            -66.792907,
+            -29.467747
+          ]
+        ]
+      ]
+    },
+    "full_name": "La Rioja, Argentina"
+  },
+  "truncated": false,
+  "in_reply_to_status_id_str": null,
+  "filter_level": "low",
+  "text": "Le tengo miedo al rechazo, me aterroriza el fracaso.",
+  "geo": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": false,
+  "favorited": false,
+  "user": {
+    "verified": false,
+    "profile_background_image_url": "",
+    "statuses_count": 1170,
+    "screen_name": "jaschu_rey",
+    "default_profile_image": false,
+    "time_zone": null,
+    "name": "Jasmin con s",
+    "id_str": "769320128680955904",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/769320128680955904/1498090889",
+    "created_at": "Fri Aug 26 23:46:27 +0000 2016",
+    "friends_count": 279,
+    "url": "https://www.instagram.com/p/BJJhYNdgrUEEMLLJMVsR6B9KqsK93192DX6mME0/",
+    "profile_background_tile": false,
+    "protected": false,
+    "translator_type": "none",
+    "profile_text_color": "333333",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/920396613461446656/ubI1id8I_normal.jpg",
+    "listed_count": 0,
+    "notifications": null,
+    "contributors_enabled": false,
+    "is_translator": false,
+    "location": "La Rioja, Argentina",
+    "profile_use_background_image": true,
+    "followers_count": 71,
+    "profile_sidebar_fill_color": "DDEEF6",
+    "geo_enabled": true,
+    "profile_link_color": "1DA1F2",
+    "favourites_count": 744,
+    "following": null,
+    "default_profile": true,
+    "profile_background_image_url_https": "",
+    "profile_background_color": "F5F8FA",
+    "id": 769320128680955904,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/920396613461446656/ubI1id8I_normal.jpg",
+    "lang": "es",
+    "description": "con Paja 24/7\n16.10.16",
+    "follow_request_sent": null,
+    "utc_offset": null
+  },
+  "quote_count": 0,
+  "lang": "es"
+}

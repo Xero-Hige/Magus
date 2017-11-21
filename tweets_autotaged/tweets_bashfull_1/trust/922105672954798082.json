@@ -1,0 +1,172 @@
+{
+  "in_reply_to_user_id": null,
+  "contributors": null,
+  "in_reply_to_screen_name": null,
+  "retweeted": false,
+  "retweet_count": 0,
+  "timestamp_ms": "1508682098984",
+  "in_reply_to_status_id": null,
+  "id_str": "922105672954798082",
+  "coordinates": null,
+  "created_at": "Sun Oct 22 14:21:38 +0000 2017",
+  "id": 922105672954798082,
+  "quote_count": 0,
+  "favorite_count": 0,
+  "entities": {
+    "user_mentions": [
+      {
+        "indices": [
+          95,
+          106
+        ],
+        "name": "Gobierno de Santa Fe",
+        "screen_name": "GobSantaFe",
+        "id": 186196507,
+        "id_str": "186196507"
+      }
+    ],
+    "symbols": [],
+    "hashtags": [],
+    "urls": [
+      {
+        "expanded_url": "https://twitter.com/i/web/status/922105672954798082",
+        "indices": [
+          117,
+          140
+        ],
+        "url": "https://t.co/aEznBTMSGv",
+        "display_url": "twitter.com/i/web/status/9\u2026"
+      }
+    ]
+  },
+  "reply_count": 0,
+  "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+  "place": {
+    "attributes": {},
+    "url": "https://api.twitter.com/1.1/geo/id/0079bbc151fa56d2.json",
+    "place_type": "city",
+    "id": "0079bbc151fa56d2",
+    "country_code": "AR",
+    "name": "Rosario",
+    "country": "Argentina",
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            -60.781306,
+            -33.033993
+          ],
+          [
+            -60.781306,
+            -32.869238
+          ],
+          [
+            -60.613506,
+            -32.869238
+          ],
+          [
+            -60.613506,
+            -33.033993
+          ]
+        ]
+      ]
+    },
+    "full_name": "Rosario, Argentina"
+  },
+  "truncated": true,
+  "in_reply_to_status_id_str": null,
+  "filter_level": "low",
+  "text": "Desde RRII buscamos oportunidades para reconocer internacionalmente las pol\u00edticas p\u00fablicas del @GobSantaFe! Santa F\u2026 https://t.co/aEznBTMSGv",
+  "geo": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": false,
+  "possibly_sensitive": false,
+  "favorited": false,
+  "user": {
+    "verified": false,
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "statuses_count": 272,
+    "screen_name": "ceci_vanadia",
+    "default_profile_image": false,
+    "time_zone": "Buenos Aires",
+    "name": "Cecilia Vanadia",
+    "id_str": "190690475",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/190690475/1502334291",
+    "created_at": "Tue Sep 14 16:04:03 +0000 2010",
+    "friends_count": 575,
+    "url": null,
+    "profile_background_tile": false,
+    "protected": false,
+    "translator_type": "none",
+    "profile_text_color": "333333",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/895480592418168832/peMeNxLu_normal.jpg",
+    "listed_count": 7,
+    "notifications": null,
+    "contributors_enabled": false,
+    "is_translator": false,
+    "location": null,
+    "profile_use_background_image": true,
+    "followers_count": 278,
+    "profile_sidebar_fill_color": "DDEEF6",
+    "geo_enabled": true,
+    "profile_link_color": "1DA1F2",
+    "favourites_count": 549,
+    "following": null,
+    "default_profile": true,
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_color": "C0DEED",
+    "id": 190690475,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/895480592418168832/peMeNxLu_normal.jpg",
+    "lang": "es",
+    "description": "Directora de Cooperaci\u00f3n Internacional e Integraci\u00f3n. Gobierno de la Provincia de Santa Fe",
+    "follow_request_sent": null,
+    "utc_offset": -10800
+  },
+  "extended_tweet": {
+    "entities": {
+      "user_mentions": [
+        {
+          "indices": [
+            95,
+            106
+          ],
+          "name": "Gobierno de Santa Fe",
+          "screen_name": "GobSantaFe",
+          "id": 186196507,
+          "id_str": "186196507"
+        },
+        {
+          "indices": [
+            214,
+            224
+          ],
+          "name": "La Capital - Rosario",
+          "screen_name": "lacapital",
+          "id": 179990537,
+          "id_str": "179990537"
+        }
+      ],
+      "symbols": [],
+      "hashtags": [],
+      "urls": [
+        {
+          "expanded_url": "http://m.lacapital.com.ar//c1492457",
+          "indices": [
+            186,
+            209
+          ],
+          "url": "https://t.co/X2xaHuPVut",
+          "display_url": "m.lacapital.com.ar//c1492457"
+        }
+      ]
+    },
+    "display_text_range": [
+      0,
+      224
+    ],
+    "full_text": "Desde RRII buscamos oportunidades para reconocer internacionalmente las pol\u00edticas p\u00fablicas del @GobSantaFe! Santa Fe, premiada en la OEA por el Plan Abre de intervenci\u00f3n social y urbana https://t.co/X2xaHuPVut v\u00eda @lacapital"
+  },
+  "lang": "es"
+}

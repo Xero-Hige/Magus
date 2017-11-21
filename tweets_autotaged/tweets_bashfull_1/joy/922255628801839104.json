@@ -1,0 +1,127 @@
+{
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "indices": [
+          15,
+          27
+        ],
+        "screen_name": "tanaschieda",
+        "name": "Gabriela Schieda",
+        "id_str": "3092117755",
+        "id": 3092117755
+      },
+      {
+        "indices": [
+          28,
+          37
+        ],
+        "screen_name": "fibustos",
+        "name": "Fernando Ivan Bustos",
+        "id_str": "203643299",
+        "id": 203643299
+      }
+    ]
+  },
+  "in_reply_to_user_id": null,
+  "created_at": "Mon Oct 23 00:17:31 +0000 2017",
+  "favorite_count": 0,
+  "lang": "es",
+  "reply_count": 0,
+  "id_str": "922255628801839104",
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_status_id": null,
+  "timestamp_ms": "1508717851244",
+  "text": "Felicitaciones @tanaschieda @fibustos en d\u00edas comenzaran una nueva etapa,de las mejores para los apasionados de la politica!Muchos \u00e9xitos!\ud83d\udcaa\ud83c\udffb",
+  "user": {
+    "time_zone": null,
+    "screen_name": "CapuGise",
+    "utc_offset": null,
+    "created_at": "Fri Feb 24 17:41:10 +0000 2012",
+    "profile_background_tile": true,
+    "notifications": null,
+    "lang": "es",
+    "default_profile": false,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/501979078/1447806277",
+    "id_str": "501979078",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/715157588317442048/ozvdAWwQ_normal.jpg",
+    "name": "Gisela Caputo",
+    "friends_count": 669,
+    "translator_type": "none",
+    "protected": false,
+    "following": null,
+    "is_translator": false,
+    "follow_request_sent": null,
+    "profile_text_color": "0C3E53",
+    "listed_count": 16,
+    "profile_link_color": "FF0000",
+    "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/482296789924474881/dLd6AGxQ.jpeg",
+    "url": "http://www.facebook.com/capu.gise",
+    "id": 501979078,
+    "favourites_count": 3362,
+    "profile_background_color": "BADFCD",
+    "followers_count": 1040,
+    "statuses_count": 5080,
+    "description": "Coordinadora Regional de Pol\u00edticas Socioeducativas @BAProvincia. La esencia: idealismo y perseverancia. #LaFuerzaDeLasConvicciones",
+    "location": "Bah\u00eda Blanca, Argentina",
+    "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/482296789924474881/dLd6AGxQ.jpeg",
+    "default_profile_image": false,
+    "verified": false,
+    "profile_sidebar_fill_color": "FFF7CC",
+    "profile_use_background_image": true,
+    "contributors_enabled": false,
+    "profile_sidebar_border_color": "FFFFFF",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/715157588317442048/ozvdAWwQ_normal.jpg",
+    "geo_enabled": true
+  },
+  "geo": null,
+  "id": 922255628801839104,
+  "quote_count": 0,
+  "retweeted": false,
+  "filter_level": "low",
+  "in_reply_to_status_id_str": null,
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "favorited": false,
+  "coordinates": null,
+  "truncated": false,
+  "retweet_count": 0,
+  "is_quote_status": false,
+  "in_reply_to_screen_name": null,
+  "contributors": null,
+  "place": {
+    "bounding_box": {
+      "coordinates": [
+        [
+          [
+            -62.33948,
+            -38.789397
+          ],
+          [
+            -62.33948,
+            -38.654043
+          ],
+          [
+            -62.17072,
+            -38.654043
+          ],
+          [
+            -62.17072,
+            -38.789397
+          ]
+        ]
+      ],
+      "type": "Polygon"
+    },
+    "name": "Bah\u00eda Blanca",
+    "url": "https://api.twitter.com/1.1/geo/id/00f6b5cf7c1767b1.json",
+    "country_code": "AR",
+    "id": "00f6b5cf7c1767b1",
+    "place_type": "city",
+    "attributes": {},
+    "full_name": "Bah\u00eda Blanca, Argentina",
+    "country": "Argentina"
+  }
+}

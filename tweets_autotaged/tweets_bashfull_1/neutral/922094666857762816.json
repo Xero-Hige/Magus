@@ -1,0 +1,175 @@
+{
+  "in_reply_to_user_id": 506393426,
+  "contributors": null,
+  "id": 922094666857762816,
+  "retweeted": false,
+  "retweet_count": 0,
+  "timestamp_ms": "1508679474926",
+  "in_reply_to_status_id": 922085003604955143,
+  "id_str": "922094666857762816",
+  "coordinates": null,
+  "created_at": "Sun Oct 22 13:37:54 +0000 2017",
+  "quote_count": 0,
+  "favorite_count": 0,
+  "entities": {
+    "user_mentions": [
+      {
+        "indices": [
+          0,
+          8
+        ],
+        "name": "Flor",
+        "screen_name": "flopave",
+        "id": 506393426,
+        "id_str": "506393426"
+      },
+      {
+        "indices": [
+          9,
+          18
+        ],
+        "name": "Bracesco",
+        "screen_name": "Bracesco",
+        "id": 68810063,
+        "id_str": "68810063"
+      }
+    ],
+    "symbols": [],
+    "hashtags": [],
+    "urls": [
+      {
+        "expanded_url": "https://twitter.com/i/web/status/922094666857762816",
+        "indices": [
+          117,
+          140
+        ],
+        "url": "https://t.co/tKIC8iMrNR",
+        "display_url": "twitter.com/i/web/status/9\u2026"
+      }
+    ]
+  },
+  "reply_count": 0,
+  "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+  "place": {
+    "attributes": {},
+    "url": "https://api.twitter.com/1.1/geo/id/0079bbc151fa56d2.json",
+    "place_type": "city",
+    "id": "0079bbc151fa56d2",
+    "country_code": "AR",
+    "name": "Rosario",
+    "country": "Argentina",
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            -60.781306,
+            -33.033993
+          ],
+          [
+            -60.781306,
+            -32.869238
+          ],
+          [
+            -60.613506,
+            -32.869238
+          ],
+          [
+            -60.613506,
+            -33.033993
+          ]
+        ]
+      ]
+    },
+    "full_name": "Rosario, Argentina"
+  },
+  "truncated": true,
+  "in_reply_to_status_id_str": "922085003604955143",
+  "in_reply_to_screen_name": "flopave",
+  "filter_level": "low",
+  "text": "@flopave @Bracesco Ojo!. Hab\u00edan avisado q no hab\u00eda m\u00e1s lugar para Fiscales. Corrieron la bola de q estaba todo cubi\u2026 https://t.co/tKIC8iMrNR",
+  "geo": null,
+  "in_reply_to_user_id_str": "506393426",
+  "is_quote_status": false,
+  "display_text_range": [
+    19,
+    140
+  ],
+  "favorited": false,
+  "user": {
+    "verified": false,
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "statuses_count": 75771,
+    "screen_name": "inesita64_",
+    "default_profile_image": false,
+    "time_zone": "America/Argentina/Buenos_Aires",
+    "name": "Mar\u00eda",
+    "id_str": "1241560483",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1241560483/1503421644",
+    "created_at": "Mon Mar 04 15:08:32 +0000 2013",
+    "friends_count": 1741,
+    "url": null,
+    "profile_background_tile": false,
+    "protected": false,
+    "translator_type": "none",
+    "profile_text_color": "333333",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/897132122976256000/dzrC7S1s_normal.jpg",
+    "listed_count": 3,
+    "notifications": null,
+    "contributors_enabled": false,
+    "is_translator": false,
+    "location": "Rosario",
+    "profile_use_background_image": true,
+    "followers_count": 1068,
+    "profile_sidebar_fill_color": "DDEEF6",
+    "geo_enabled": true,
+    "profile_link_color": "1DA1F2",
+    "favourites_count": 71775,
+    "following": null,
+    "default_profile": true,
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_color": "C0DEED",
+    "id": 1241560483,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/897132122976256000/dzrC7S1s_normal.jpg",
+    "lang": "es",
+    "description": null,
+    "follow_request_sent": null,
+    "utc_offset": -10800
+  },
+  "extended_tweet": {
+    "entities": {
+      "user_mentions": [
+        {
+          "indices": [
+            0,
+            8
+          ],
+          "name": "Flor",
+          "screen_name": "flopave",
+          "id": 506393426,
+          "id_str": "506393426"
+        },
+        {
+          "indices": [
+            9,
+            18
+          ],
+          "name": "Bracesco",
+          "screen_name": "Bracesco",
+          "id": 68810063,
+          "id_str": "68810063"
+        }
+      ],
+      "symbols": [],
+      "hashtags": [],
+      "urls": []
+    },
+    "display_text_range": [
+      19,
+      159
+    ],
+    "full_text": "@flopave @Bracesco Ojo!. Hab\u00edan avisado q no hab\u00eda m\u00e1s lugar para Fiscales. Corrieron la bola de q estaba todo cubierto. El viernes alguien difundi\u00f3 eso x ac\u00e1."
+  },
+  "lang": "es"
+}

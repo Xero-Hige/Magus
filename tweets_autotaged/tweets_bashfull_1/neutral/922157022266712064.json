@@ -1,0 +1,127 @@
+{
+  "in_reply_to_user_id": null,
+  "contributors": null,
+  "in_reply_to_screen_name": null,
+  "retweeted": false,
+  "retweet_count": 0,
+  "timestamp_ms": "1508694341614",
+  "in_reply_to_status_id": null,
+  "id_str": "922157022266712064",
+  "created_at": "Sun Oct 22 17:45:41 +0000 2017",
+  "id": 922157022266712064,
+  "coordinates": null,
+  "favorite_count": 0,
+  "entities": {
+    "user_mentions": [
+      {
+        "indices": [
+          53,
+          65
+        ],
+        "name": "ArnetOnline",
+        "screen_name": "ArnetOnline",
+        "id": 809239831,
+        "id_str": "809239831"
+      },
+      {
+        "indices": [
+          97,
+          110
+        ],
+        "name": "Universal Channel",
+        "screen_name": "universalctv",
+        "id": 130960328,
+        "id_str": "130960328"
+      }
+    ],
+    "symbols": [],
+    "hashtags": [],
+    "urls": []
+  },
+  "reply_count": 0,
+  "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+  "place": {
+    "attributes": {},
+    "url": "https://api.twitter.com/1.1/geo/id/0079bbc151fa56d2.json",
+    "place_type": "city",
+    "id": "0079bbc151fa56d2",
+    "country_code": "AR",
+    "name": "Rosario",
+    "country": "Argentina",
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            -60.781306,
+            -33.033993
+          ],
+          [
+            -60.781306,
+            -32.869238
+          ],
+          [
+            -60.613506,
+            -32.869238
+          ],
+          [
+            -60.613506,
+            -33.033993
+          ]
+        ]
+      ]
+    },
+    "full_name": "Rosario, Argentina"
+  },
+  "truncated": false,
+  "in_reply_to_status_id_str": null,
+  "filter_level": "low",
+  "text": "Hace casi 3 meses que no tengo Internet en mi casa y @ArnetOnline hace nada al respecto. Gracias @universalctv por existir \ud83d\ude4c",
+  "geo": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": false,
+  "favorited": false,
+  "user": {
+    "verified": false,
+    "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/585039591/qcjbjufadz7rna9489bp.jpeg",
+    "statuses_count": 8453,
+    "screen_name": "TheEnferr",
+    "default_profile_image": false,
+    "time_zone": "Buenos Aires",
+    "name": "Cami P\u00e9rez Rasetto \u263c",
+    "id_str": "61777488",
+    "profile_sidebar_border_color": "FFFFFF",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/61777488/1391393004",
+    "created_at": "Fri Jul 31 14:04:43 +0000 2009",
+    "friends_count": 281,
+    "url": null,
+    "profile_background_tile": true,
+    "protected": false,
+    "translator_type": "regular",
+    "profile_text_color": "333333",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/844628565224292352/Y93fIAE6_normal.jpg",
+    "listed_count": 4,
+    "notifications": null,
+    "contributors_enabled": false,
+    "is_translator": false,
+    "location": "Rosario, Santa Fe",
+    "profile_use_background_image": true,
+    "followers_count": 279,
+    "profile_sidebar_fill_color": "DDEEF6",
+    "geo_enabled": true,
+    "profile_link_color": "E61212",
+    "favourites_count": 320,
+    "following": null,
+    "default_profile": false,
+    "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/585039591/qcjbjufadz7rna9489bp.jpeg",
+    "profile_background_color": "0A1211",
+    "id": 61777488,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/844628565224292352/Y93fIAE6_normal.jpg",
+    "lang": "es",
+    "description": "Yo soy as\u00ed, leprosa hasta morir. Esta loca enfermedad no va a terminar..",
+    "follow_request_sent": null,
+    "utc_offset": -10800
+  },
+  "quote_count": 0,
+  "lang": "es"
+}

@@ -1,0 +1,121 @@
+{
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "indices": [
+          0,
+          14
+        ],
+        "screen_name": "nico_depetris",
+        "name": "Nico Depetris",
+        "id_str": "438056892",
+        "id": 438056892
+      }
+    ]
+  },
+  "in_reply_to_user_id": 438056892,
+  "created_at": "Mon Oct 23 00:32:00 +0000 2017",
+  "favorite_count": 0,
+  "lang": "es",
+  "reply_count": 0,
+  "id_str": "922259274218209280",
+  "in_reply_to_user_id_str": "438056892",
+  "in_reply_to_status_id": 922258283708256257,
+  "timestamp_ms": "1508718720379",
+  "truncated": false,
+  "text": "@nico_depetris Estimado.Los q vivimos de nuestro trabajo, gobierne quien gobierne, no precisamos ni escondites ni puestos.Saludos.\ud83c\udf39Disfrute.",
+  "user": {
+    "time_zone": "Brasilia",
+    "screen_name": "OsvaldoWehbe",
+    "utc_offset": -7200,
+    "created_at": "Tue Mar 13 20:30:16 +0000 2012",
+    "profile_background_tile": false,
+    "notifications": null,
+    "lang": "es",
+    "default_profile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/523644592/1438692054",
+    "id_str": "523644592",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1896270836/Explorar0001_normal.jpg",
+    "name": "Osvaldo Wehbe",
+    "friends_count": 95,
+    "translator_type": "none",
+    "protected": false,
+    "following": null,
+    "is_translator": false,
+    "follow_request_sent": null,
+    "profile_text_color": "333333",
+    "listed_count": 87,
+    "profile_link_color": "1DA1F2",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "url": null,
+    "id": 523644592,
+    "favourites_count": 1113,
+    "profile_background_color": "C0DEED",
+    "followers_count": 25401,
+    "statuses_count": 10131,
+    "description": "Siempre es recomendable recorrer la vida a contramano. Sobre todo si uno sospecha de quien puso las se\u00f1ales de tr\u00e1nsito (Alejandro Dolina)",
+    "location": "Rio Cuarto",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "default_profile_image": false,
+    "verified": false,
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_use_background_image": true,
+    "contributors_enabled": false,
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1896270836/Explorar0001_normal.jpg",
+    "geo_enabled": true
+  },
+  "geo": null,
+  "id": 922259274218209280,
+  "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+  "retweeted": false,
+  "filter_level": "low",
+  "in_reply_to_status_id_str": "922258283708256257",
+  "quote_count": 0,
+  "favorited": false,
+  "coordinates": null,
+  "display_text_range": [
+    15,
+    140
+  ],
+  "retweet_count": 0,
+  "is_quote_status": false,
+  "in_reply_to_screen_name": "nico_depetris",
+  "contributors": null,
+  "place": {
+    "bounding_box": {
+      "coordinates": [
+        [
+          [
+            -64.389839,
+            -33.159419
+          ],
+          [
+            -64.389839,
+            -33.088234
+          ],
+          [
+            -64.306209,
+            -33.088234
+          ],
+          [
+            -64.306209,
+            -33.159419
+          ]
+        ]
+      ],
+      "type": "Polygon"
+    },
+    "name": "R\u00edo Cuarto",
+    "url": "https://api.twitter.com/1.1/geo/id/01bd23a802fb1e24.json",
+    "country_code": "AR",
+    "id": "01bd23a802fb1e24",
+    "place_type": "city",
+    "attributes": {},
+    "full_name": "R\u00edo Cuarto, Argentina",
+    "country": "Argentina"
+  }
+}

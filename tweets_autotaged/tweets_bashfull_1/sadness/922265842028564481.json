@@ -1,0 +1,121 @@
+{
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "indices": [
+          0,
+          12
+        ],
+        "screen_name": "conderigoli",
+        "name": "CLAUDIO R\u00cdGOLI",
+        "id_str": "3243682535",
+        "id": 3243682535
+      }
+    ]
+  },
+  "in_reply_to_user_id": 3243682535,
+  "created_at": "Mon Oct 23 00:58:06 +0000 2017",
+  "favorite_count": 0,
+  "lang": "es",
+  "reply_count": 0,
+  "id_str": "922265842028564481",
+  "in_reply_to_user_id_str": "3243682535",
+  "in_reply_to_status_id": 922237872534585344,
+  "timestamp_ms": "1508720286267",
+  "truncated": false,
+  "text": "@conderigoli falta para llegar a eso, que haya oposici\u00f3n no es malo es saludable, lo que hay que cortar de cuajo es la violencia",
+  "user": {
+    "time_zone": null,
+    "screen_name": "GRAFLORIDIA",
+    "utc_offset": null,
+    "created_at": "Wed Sep 19 20:47:41 +0000 2012",
+    "profile_background_tile": false,
+    "notifications": null,
+    "lang": "es",
+    "default_profile": false,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/834103290/1505834644",
+    "id_str": "834103290",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/790035654549901312/Gs-WqJTv_normal.jpg",
+    "name": "GRACIELA FLORIDIA",
+    "friends_count": 176,
+    "translator_type": "none",
+    "protected": false,
+    "following": null,
+    "is_translator": false,
+    "follow_request_sent": null,
+    "profile_text_color": "000000",
+    "listed_count": 0,
+    "profile_link_color": "0000CC",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "url": null,
+    "id": 834103290,
+    "favourites_count": 5690,
+    "profile_background_color": "000000",
+    "followers_count": 50,
+    "statuses_count": 5409,
+    "description": null,
+    "location": null,
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "default_profile_image": false,
+    "verified": false,
+    "profile_sidebar_fill_color": "000000",
+    "profile_use_background_image": false,
+    "contributors_enabled": false,
+    "profile_sidebar_border_color": "000000",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/790035654549901312/Gs-WqJTv_normal.jpg",
+    "geo_enabled": true
+  },
+  "geo": null,
+  "id": 922265842028564481,
+  "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+  "retweeted": false,
+  "filter_level": "low",
+  "in_reply_to_status_id_str": "922237872534585344",
+  "quote_count": 0,
+  "favorited": false,
+  "coordinates": null,
+  "display_text_range": [
+    13,
+    128
+  ],
+  "retweet_count": 0,
+  "is_quote_status": false,
+  "in_reply_to_screen_name": "conderigoli",
+  "contributors": null,
+  "place": {
+    "bounding_box": {
+      "coordinates": [
+        [
+          [
+            -60.764198,
+            -31.684295
+          ],
+          [
+            -60.764198,
+            -31.553978
+          ],
+          [
+            -60.585606,
+            -31.553978
+          ],
+          [
+            -60.585606,
+            -31.684295
+          ]
+        ]
+      ],
+      "type": "Polygon"
+    },
+    "name": "Santa F\u00e9",
+    "url": "https://api.twitter.com/1.1/geo/id/01b40b49265b126c.json",
+    "country_code": "AR",
+    "id": "01b40b49265b126c",
+    "place_type": "city",
+    "attributes": {},
+    "full_name": "Santa F\u00e9, Argentina",
+    "country": "Argentina"
+  }
+}

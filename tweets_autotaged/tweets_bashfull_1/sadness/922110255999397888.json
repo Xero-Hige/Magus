@@ -1,0 +1,129 @@
+{
+  "in_reply_to_user_id": 145865365,
+  "contributors": null,
+  "id": 922110255999397888,
+  "retweeted": false,
+  "retweet_count": 0,
+  "timestamp_ms": "1508683191667",
+  "in_reply_to_status_id": 922109356077875200,
+  "id_str": "922110255999397888",
+  "created_at": "Sun Oct 22 14:39:51 +0000 2017",
+  "coordinates": null,
+  "favorite_count": 0,
+  "entities": {
+    "user_mentions": [
+      {
+        "indices": [
+          0,
+          7
+        ],
+        "name": "Marcos Pereyra",
+        "screen_name": "Nippur",
+        "id": 145865365,
+        "id_str": "145865365"
+      }
+    ],
+    "symbols": [],
+    "hashtags": [
+      {
+        "text": "NoVuelvenMas",
+        "indices": [
+          97,
+          110
+        ]
+      }
+    ],
+    "urls": []
+  },
+  "reply_count": 0,
+  "source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for i\u039fS</a>",
+  "place": {
+    "attributes": {},
+    "url": "https://api.twitter.com/1.1/geo/id/1ed82be977be0cfa.json",
+    "place_type": "admin",
+    "id": "1ed82be977be0cfa",
+    "country_code": "AR",
+    "name": "Ciudad Aut\u00f3noma de Buenos Aires",
+    "country": "Argentina",
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            -58.531792,
+            -34.705421
+          ],
+          [
+            -58.531792,
+            -34.526466
+          ],
+          [
+            -58.335105,
+            -34.526466
+          ],
+          [
+            -58.335105,
+            -34.705421
+          ]
+        ]
+      ]
+    },
+    "full_name": "Ciudad Aut\u00f3noma de Buenos Aires, Argentina"
+  },
+  "truncated": false,
+  "in_reply_to_status_id_str": "922109356077875200",
+  "in_reply_to_screen_name": "Nippur",
+  "filter_level": "low",
+  "text": "@Nippur De los autores de \u201cNisman se cayo arriba de una bala\u201d, llega \u201cel revolucionario volador\u2019 #NoVuelvenMas",
+  "geo": null,
+  "in_reply_to_user_id_str": "145865365",
+  "is_quote_status": false,
+  "display_text_range": [
+    8,
+    110
+  ],
+  "favorited": false,
+  "user": {
+    "verified": false,
+    "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/891125148/c9c79240ee7d244ebcfe92724fa45196.jpeg",
+    "statuses_count": 14468,
+    "screen_name": "marcelowr69",
+    "default_profile_image": false,
+    "time_zone": "Buenos Aires",
+    "name": "MarceloBostero",
+    "id_str": "35936951",
+    "profile_sidebar_border_color": "FFFFFF",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/35936951/1440429364",
+    "created_at": "Tue Apr 28 01:16:17 +0000 2009",
+    "friends_count": 870,
+    "url": null,
+    "profile_background_tile": true,
+    "protected": false,
+    "translator_type": "none",
+    "profile_text_color": "333333",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/497820225882947586/Ncy2gE8k_normal.jpeg",
+    "listed_count": 1,
+    "notifications": null,
+    "contributors_enabled": false,
+    "is_translator": false,
+    "location": "Buenos Aires - Flores",
+    "profile_use_background_image": true,
+    "followers_count": 255,
+    "profile_sidebar_fill_color": "F6FFD1",
+    "geo_enabled": true,
+    "profile_link_color": "3B94D9",
+    "favourites_count": 787,
+    "following": null,
+    "default_profile": false,
+    "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/891125148/c9c79240ee7d244ebcfe92724fa45196.jpeg",
+    "profile_background_color": "1212E3",
+    "id": 35936951,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/497820225882947586/Ncy2gE8k_normal.jpeg",
+    "lang": "es",
+    "description": "Informatico y bostero a full.. Si ellos no nos dejan so\u00f1ar, nosotros no los vamos a dejar dormir\nNo nac\u00ed en el 2001, yo lo vivi. Que me la cuenten como quieran",
+    "follow_request_sent": null,
+    "utc_offset": -10800
+  },
+  "quote_count": 0,
+  "lang": "es"
+}

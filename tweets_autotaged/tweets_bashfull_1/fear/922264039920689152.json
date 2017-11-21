@@ -1,0 +1,249 @@
+{
+  "entities": {
+    "hashtags": [
+      {
+        "indices": [
+          43,
+          47
+        ],
+        "text": "Meo"
+      },
+      {
+        "indices": [
+          50,
+          58
+        ],
+        "text": "Navarro"
+      }
+    ],
+    "symbols": [],
+    "urls": [
+      {
+        "indices": [
+          117,
+          140
+        ],
+        "expanded_url": "https://twitter.com/i/web/status/922264039920689152",
+        "display_url": "twitter.com/i/web/status/9\u2026",
+        "url": "https://t.co/QUjT2i2TGY"
+      }
+    ],
+    "user_mentions": []
+  },
+  "in_reply_to_user_id": null,
+  "reply_count": 0,
+  "id_str": "922264039920689152",
+  "in_reply_to_user_id_str": null,
+  "extended_tweet": {
+    "entities": {
+      "hashtags": [
+        {
+          "indices": [
+            43,
+            47
+          ],
+          "text": "Meo"
+        },
+        {
+          "indices": [
+            50,
+            58
+          ],
+          "text": "Navarro"
+        }
+      ],
+      "symbols": [],
+      "urls": [
+        {
+          "indices": [
+            120,
+            143
+          ],
+          "expanded_url": "https://twitter.com/solbrinck/status/922252106169487360",
+          "display_url": "twitter.com/solbrinck/stat\u2026",
+          "url": "https://t.co/Ujk9UpIJdt"
+        }
+      ],
+      "user_mentions": []
+    },
+    "display_text_range": [
+      0,
+      119
+    ],
+    "full_text": "Q vergonzosa la forma de hacer pol\u00edtica de #Meo y #Navarro, no una idea, s\u00f3lo odiosidad... ese no es el pa\u00eds que quiero https://t.co/Ujk9UpIJdt"
+  },
+  "text": "Q vergonzosa la forma de hacer pol\u00edtica de #Meo y #Navarro, no una idea, s\u00f3lo odiosidad... ese no es el pa\u00eds que qu\u2026 https://t.co/QUjT2i2TGY",
+  "is_quote_status": true,
+  "quote_count": 0,
+  "quoted_status_id_str": "922252106169487360",
+  "in_reply_to_status_id_str": null,
+  "geo": null,
+  "display_text_range": [
+    0,
+    140
+  ],
+  "truncated": true,
+  "contributors": null,
+  "place": {
+    "bounding_box": {
+      "coordinates": [
+        [
+          [
+            -70.637692,
+            -33.449973
+          ],
+          [
+            -70.637692,
+            -33.408997
+          ],
+          [
+            -70.583826,
+            -33.408997
+          ],
+          [
+            -70.583826,
+            -33.449973
+          ]
+        ]
+      ],
+      "type": "Polygon"
+    },
+    "name": "Providencia",
+    "url": "https://api.twitter.com/1.1/geo/id/01d461fd3da860bd.json",
+    "country_code": "CL",
+    "id": "01d461fd3da860bd",
+    "place_type": "city",
+    "attributes": {},
+    "full_name": "Providencia, Chile",
+    "country": "Chile"
+  },
+  "created_at": "Mon Oct 23 00:50:56 +0000 2017",
+  "favorite_count": 0,
+  "lang": "es",
+  "retweet_count": 0,
+  "in_reply_to_status_id": null,
+  "timestamp_ms": "1508719856611",
+  "possibly_sensitive": false,
+  "user": {
+    "time_zone": null,
+    "screen_name": "GCarolina2016",
+    "utc_offset": null,
+    "created_at": "Fri Feb 19 14:56:28 +0000 2016",
+    "profile_background_tile": false,
+    "notifications": null,
+    "lang": "es",
+    "default_profile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/700695448995164160/1508701722",
+    "id_str": "700695448995164160",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/922188161245241345/K5g74meQ_normal.jpg",
+    "name": "Gloria Carolina",
+    "friends_count": 382,
+    "translator_type": "none",
+    "protected": false,
+    "following": null,
+    "is_translator": false,
+    "follow_request_sent": null,
+    "profile_text_color": "333333",
+    "listed_count": 0,
+    "profile_link_color": "1DA1F2",
+    "profile_background_image_url": "",
+    "url": null,
+    "id": 700695448995164160,
+    "favourites_count": 8108,
+    "profile_background_color": "F5F8FA",
+    "followers_count": 332,
+    "statuses_count": 2015,
+    "description": "Asistente Social. Independiente. Donante. Valoro la diversidad, las opiniones diferentes y el respeto por el otro. Agradecida, cada d\u00eda m\u00e1s  FELIZ\u263a",
+    "location": "Santiago, Chile",
+    "profile_background_image_url_https": "",
+    "default_profile_image": false,
+    "verified": false,
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_use_background_image": true,
+    "contributors_enabled": false,
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/922188161245241345/K5g74meQ_normal.jpg",
+    "geo_enabled": true
+  },
+  "id": 922264039920689152,
+  "retweeted": false,
+  "filter_level": "low",
+  "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+  "favorited": false,
+  "quoted_status": {
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "urls": [],
+      "user_mentions": []
+    },
+    "filter_level": "low",
+    "in_reply_to_user_id": null,
+    "created_at": "Mon Oct 23 00:03:31 +0000 2017",
+    "favorite_count": 8,
+    "lang": "es",
+    "reply_count": 2,
+    "id_str": "922252106169487360",
+    "in_reply_to_user_id_str": null,
+    "favorited": false,
+    "in_reply_to_status_id": null,
+    "text": "No alcanc\u00e9 a verlas todas pero impactante la odiosidad en las franjas de MEO y Navarro. Q lamentable manera de hacer pol\u00edtica. Cero aporte",
+    "user": {
+      "time_zone": "Quito",
+      "screen_name": "solbrinck",
+      "utc_offset": -18000,
+      "created_at": "Tue Mar 02 00:03:51 +0000 2010",
+      "profile_background_tile": true,
+      "notifications": null,
+      "lang": "es",
+      "default_profile": false,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/118870596/1351825955",
+      "id_str": "118870596",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/778560977377918976/ikrDJwu4_normal.jpg",
+      "name": "soledad brinck",
+      "friends_count": 3062,
+      "translator_type": "none",
+      "protected": false,
+      "following": null,
+      "is_translator": false,
+      "follow_request_sent": null,
+      "profile_text_color": "3D1957",
+      "listed_count": 47,
+      "profile_link_color": "FF0000",
+      "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/327414036/DSC00708.jpeg",
+      "url": "http://viajeraadicta.blogspot.cl",
+      "id": 118870596,
+      "favourites_count": 8299,
+      "profile_background_color": "642D8B",
+      "followers_count": 3648,
+      "statuses_count": 71441,
+      "description": "Esteta de mesa de dinero en proceso de reinvenci\u00f3n. Casada con @crisgou mam\u00e1 de 3 \u2764\ufe0f, adoro viajar #soydonante. Blogera http://viajeraadicta.blogspot.cl/",
+      "location": "chile",
+      "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/327414036/DSC00708.jpeg",
+      "default_profile_image": false,
+      "verified": false,
+      "profile_sidebar_fill_color": "7AC3EE",
+      "profile_use_background_image": true,
+      "contributors_enabled": false,
+      "profile_sidebar_border_color": "65B0DA",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/778560977377918976/ikrDJwu4_normal.jpg",
+      "geo_enabled": true
+    },
+    "id": 922252106169487360,
+    "quote_count": 0,
+    "retweeted": false,
+    "is_quote_status": false,
+    "in_reply_to_status_id_str": null,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "geo": null,
+    "coordinates": null,
+    "truncated": false,
+    "retweet_count": 0,
+    "in_reply_to_screen_name": null,
+    "contributors": null,
+    "place": null
+  },
+  "coordinates": null,
+  "in_reply_to_screen_name": null,
+  "quoted_status_id": 922252106169487360
+}

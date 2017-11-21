@@ -1,0 +1,114 @@
+{
+  "in_reply_to_user_id": null,
+  "contributors": null,
+  "in_reply_to_screen_name": null,
+  "retweeted": false,
+  "retweet_count": 0,
+  "timestamp_ms": "1508691271710",
+  "in_reply_to_status_id": null,
+  "id_str": "922144146156122112",
+  "created_at": "Sun Oct 22 16:54:31 +0000 2017",
+  "id": 922144146156122112,
+  "coordinates": null,
+  "favorite_count": 0,
+  "entities": {
+    "user_mentions": [],
+    "symbols": [],
+    "hashtags": [
+      {
+        "text": "CooperativaTuClasico",
+        "indices": [
+          0,
+          21
+        ]
+      }
+    ],
+    "urls": []
+  },
+  "reply_count": 0,
+  "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+  "place": {
+    "attributes": {},
+    "url": "https://api.twitter.com/1.1/geo/id/008aaaeb46e1c2f0.json",
+    "place_type": "city",
+    "id": "008aaaeb46e1c2f0",
+    "country_code": "CL",
+    "name": "Cerrillos",
+    "country": "Chile",
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            -70.740434,
+            -33.531756
+          ],
+          [
+            -70.740434,
+            -33.473387
+          ],
+          [
+            -70.686498,
+            -33.473387
+          ],
+          [
+            -70.686498,
+            -33.531756
+          ]
+        ]
+      ]
+    },
+    "full_name": "Cerrillos, Chile"
+  },
+  "truncated": false,
+  "in_reply_to_status_id_str": null,
+  "filter_level": "low",
+  "text": "#CooperativaTuClasico solo hay un equipo que tiene jugadores m\u00e1s pencas que los de Everton ...los de O'HIGGINS ,esos son peores",
+  "geo": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": false,
+  "favorited": false,
+  "user": {
+    "verified": false,
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme19/bg.gif",
+    "statuses_count": 34405,
+    "screen_name": "paulozurita",
+    "default_profile_image": false,
+    "time_zone": "Quito",
+    "name": "JuanPa Zurita",
+    "id_str": "150094988",
+    "profile_sidebar_border_color": "000000",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/150094988/1504707151",
+    "created_at": "Mon May 31 02:23:55 +0000 2010",
+    "friends_count": 1269,
+    "url": "https://www.instagram.com/juan_pablo_verazurita/",
+    "profile_background_tile": false,
+    "protected": false,
+    "translator_type": "none",
+    "profile_text_color": "000000",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/913116837218484227/kt9TC82w_normal.jpg",
+    "listed_count": 5,
+    "notifications": null,
+    "contributors_enabled": false,
+    "is_translator": false,
+    "location": "Valdivia, Chile",
+    "profile_use_background_image": false,
+    "followers_count": 468,
+    "profile_sidebar_fill_color": "000000",
+    "geo_enabled": true,
+    "profile_link_color": "19CF86",
+    "favourites_count": 13187,
+    "following": null,
+    "default_profile": false,
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme19/bg.gif",
+    "profile_background_color": "000000",
+    "id": 150094988,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/913116837218484227/kt9TC82w_normal.jpg",
+    "lang": "es",
+    "description": "fot\u00f3grafo profesional,preparador de porteros,con opini\u00f3n, orgulloso de ser chileno y encantado del f\u00fatbol en general,colocolino pero no enfermo.",
+    "follow_request_sent": null,
+    "utc_offset": -18000
+  },
+  "quote_count": 0,
+  "lang": "es"
+}

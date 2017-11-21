@@ -1,0 +1,130 @@
+{
+  "in_reply_to_user_id": 138538910,
+  "contributors": null,
+  "id": 922130272656732164,
+  "retweeted": false,
+  "retweet_count": 0,
+  "timestamp_ms": "1508687964010",
+  "in_reply_to_status_id": 922118253861892096,
+  "id_str": "922130272656732164",
+  "created_at": "Sun Oct 22 15:59:24 +0000 2017",
+  "coordinates": null,
+  "favorite_count": 0,
+  "entities": {
+    "user_mentions": [
+      {
+        "indices": [
+          0,
+          15
+        ],
+        "name": "Freddy Arias",
+        "screen_name": "FreddyArias531",
+        "id": 138538910,
+        "id_str": "138538910"
+      },
+      {
+        "indices": [
+          16,
+          24
+        ],
+        "name": "Alejandro Fargosi",
+        "screen_name": "fargosi",
+        "id": 254599256,
+        "id_str": "254599256"
+      }
+    ],
+    "symbols": [],
+    "hashtags": [],
+    "urls": []
+  },
+  "reply_count": 0,
+  "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+  "place": {
+    "attributes": {},
+    "url": "https://api.twitter.com/1.1/geo/id/01153d1b33e1641b.json",
+    "place_type": "city",
+    "id": "01153d1b33e1641b",
+    "country_code": "AR",
+    "name": "Tigre",
+    "country": "Argentina",
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            -58.734553,
+            -34.537735
+          ],
+          [
+            -58.734553,
+            -34.350097
+          ],
+          [
+            -58.561445,
+            -34.350097
+          ],
+          [
+            -58.561445,
+            -34.537735
+          ]
+        ]
+      ]
+    },
+    "full_name": "Tigre, Argentina"
+  },
+  "truncated": false,
+  "in_reply_to_status_id_str": "922118253861892096",
+  "in_reply_to_screen_name": "FreddyArias531",
+  "filter_level": "low",
+  "text": "@FreddyArias531 @fargosi S\u00ed\u00ed\u00ed, por dios, a la c\u00e1rcel con los violentos encapuchados y con palos. Sea cual sea el lugar donde hacen desmanes.",
+  "geo": null,
+  "in_reply_to_user_id_str": "138538910",
+  "is_quote_status": false,
+  "display_text_range": [
+    25,
+    140
+  ],
+  "favorited": false,
+  "user": {
+    "verified": false,
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "statuses_count": 5852,
+    "screen_name": "ceciliag7326",
+    "default_profile_image": false,
+    "time_zone": "Pacific Time (US & Canada)",
+    "name": "cecilia",
+    "id_str": "880068612257705984",
+    "profile_sidebar_border_color": "000000",
+    "created_at": "Wed Jun 28 14:21:22 +0000 2017",
+    "friends_count": 383,
+    "url": null,
+    "profile_background_tile": false,
+    "protected": false,
+    "translator_type": "none",
+    "profile_text_color": "000000",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/882620704126062592/-sGnjcI4_normal.jpg",
+    "listed_count": 1,
+    "notifications": null,
+    "contributors_enabled": false,
+    "is_translator": false,
+    "location": "Tigre, Argentina",
+    "profile_use_background_image": false,
+    "followers_count": 244,
+    "profile_sidebar_fill_color": "000000",
+    "geo_enabled": true,
+    "profile_link_color": "19CF86",
+    "favourites_count": 4746,
+    "following": null,
+    "default_profile": false,
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_color": "000000",
+    "id": 880068612257705984,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/882620704126062592/-sGnjcI4_normal.jpg",
+    "lang": "es",
+    "description": "librepensadora, ecologica, republicana y por sobre todo buscadora de la verdad y JUSTICIA",
+    "follow_request_sent": null,
+    "utc_offset": -25200
+  },
+  "quote_count": 0,
+  "lang": "es"
+}

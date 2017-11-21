@@ -1,0 +1,121 @@
+{
+  "in_reply_to_user_id": 138173760,
+  "contributors": null,
+  "id": 922125424779460608,
+  "retweeted": false,
+  "retweet_count": 0,
+  "timestamp_ms": "1508686808186",
+  "in_reply_to_status_id": 922068060558823424,
+  "id_str": "922125424779460608",
+  "created_at": "Sun Oct 22 15:40:08 +0000 2017",
+  "coordinates": null,
+  "favorite_count": 0,
+  "entities": {
+    "user_mentions": [
+      {
+        "indices": [
+          0,
+          13
+        ],
+        "name": "Carlos Adolfo Piola",
+        "screen_name": "CarlosaPiola",
+        "id": 138173760,
+        "id_str": "138173760"
+      }
+    ],
+    "symbols": [],
+    "hashtags": [],
+    "urls": []
+  },
+  "reply_count": 0,
+  "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+  "place": {
+    "attributes": {},
+    "url": "https://api.twitter.com/1.1/geo/id/018f1cde6bad9747.json",
+    "place_type": "city",
+    "id": "018f1cde6bad9747",
+    "country_code": "AR",
+    "name": "Ciudad Aut\u00f3noma de Buenos Aires",
+    "country": "Argentina",
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            -58.531792,
+            -34.674453
+          ],
+          [
+            -58.531792,
+            -34.534177
+          ],
+          [
+            -58.353494,
+            -34.534177
+          ],
+          [
+            -58.353494,
+            -34.674453
+          ]
+        ]
+      ]
+    },
+    "full_name": "Ciudad Aut\u00f3noma de Buenos Aires, Argentina"
+  },
+  "truncated": false,
+  "in_reply_to_status_id_str": "922068060558823424",
+  "in_reply_to_screen_name": "CarlosaPiola",
+  "filter_level": "low",
+  "text": "@CarlosaPiola Desaparici\u00f3n forzada. Concepto que forma parte de la Constituci\u00f3n. Punto.",
+  "geo": null,
+  "in_reply_to_user_id_str": "138173760",
+  "is_quote_status": false,
+  "display_text_range": [
+    14,
+    87
+  ],
+  "favorited": false,
+  "user": {
+    "verified": false,
+    "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000133360068/SoVhE5o-.jpeg",
+    "statuses_count": 28074,
+    "screen_name": "mauro_ferrara",
+    "default_profile_image": false,
+    "time_zone": "Buenos Aires",
+    "name": "Mauro E. Ferrara",
+    "id_str": "100354839",
+    "profile_sidebar_border_color": "000000",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/100354839/1385991491",
+    "created_at": "Wed Dec 30 00:08:27 +0000 2009",
+    "friends_count": 1405,
+    "url": null,
+    "profile_background_tile": false,
+    "protected": false,
+    "translator_type": "none",
+    "profile_text_color": "892DD8",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/691821234116509696/ZN8ESXQI_normal.jpg",
+    "listed_count": 17,
+    "notifications": null,
+    "contributors_enabled": false,
+    "is_translator": false,
+    "location": "Buenos Aires",
+    "profile_use_background_image": true,
+    "followers_count": 537,
+    "profile_sidebar_fill_color": "1D1D1D",
+    "geo_enabled": true,
+    "profile_link_color": "FC032C",
+    "favourites_count": 3170,
+    "following": null,
+    "default_profile": false,
+    "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000133360068/SoVhE5o-.jpeg",
+    "profile_background_color": "E7E6ED",
+    "id": 100354839,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/691821234116509696/ZN8ESXQI_normal.jpg",
+    "lang": "es",
+    "description": "Enfermo de River. Fan\u00e1tico de la tecnolog\u00eda. Amante de la m\u00fasica. Enloquecido por las playas. Metaforeador compulsivo. Recitalero / Eventero",
+    "follow_request_sent": null,
+    "utc_offset": -10800
+  },
+  "quote_count": 0,
+  "lang": "es"
+}

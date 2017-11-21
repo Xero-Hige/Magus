@@ -1,0 +1,106 @@
+{
+  "in_reply_to_user_id": null,
+  "contributors": null,
+  "in_reply_to_screen_name": null,
+  "retweeted": false,
+  "retweet_count": 0,
+  "timestamp_ms": "1508681944212",
+  "in_reply_to_status_id": null,
+  "id_str": "922105023793901568",
+  "created_at": "Sun Oct 22 14:19:04 +0000 2017",
+  "id": 922105023793901568,
+  "coordinates": null,
+  "favorite_count": 0,
+  "entities": {
+    "user_mentions": [],
+    "symbols": [],
+    "hashtags": [],
+    "urls": []
+  },
+  "reply_count": 0,
+  "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+  "place": {
+    "attributes": {},
+    "url": "https://api.twitter.com/1.1/geo/id/018f1cde6bad9747.json",
+    "place_type": "city",
+    "id": "018f1cde6bad9747",
+    "country_code": "AR",
+    "name": "Ciudad Aut\u00f3noma de Buenos Aires",
+    "country": "Argentina",
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            -58.531792,
+            -34.674453
+          ],
+          [
+            -58.531792,
+            -34.534177
+          ],
+          [
+            -58.353494,
+            -34.534177
+          ],
+          [
+            -58.353494,
+            -34.674453
+          ]
+        ]
+      ]
+    },
+    "full_name": "Ciudad Aut\u00f3noma de Buenos Aires, Argentina"
+  },
+  "truncated": false,
+  "in_reply_to_status_id_str": null,
+  "filter_level": "low",
+  "text": "Francotiradores cerca de la mesa donde vota el presidente Macri.\nLa Ministra Bullrich vot\u00f3 a las 8 c/dispositivo de seguridad.\n\u00bfCulo sucio?",
+  "geo": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": false,
+  "favorited": false,
+  "user": {
+    "verified": false,
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "statuses_count": 18573,
+    "screen_name": "gustavopecoraro",
+    "default_profile_image": false,
+    "time_zone": null,
+    "name": "Gustavo Pecoraro",
+    "id_str": "468756160",
+    "profile_sidebar_border_color": "000000",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/468756160/1471796831",
+    "created_at": "Thu Jan 19 21:47:58 +0000 2012",
+    "friends_count": 7521,
+    "url": "https://www.instagram.com/gustavopecoraro/",
+    "profile_background_tile": false,
+    "protected": false,
+    "translator_type": "none",
+    "profile_text_color": "000000",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/891693251526373377/1BLJlWP6_normal.jpg",
+    "listed_count": 81,
+    "notifications": null,
+    "contributors_enabled": false,
+    "is_translator": false,
+    "location": "Ciudad Aut\u00f3noma de Buenos Aires, Argentina",
+    "profile_use_background_image": false,
+    "followers_count": 6856,
+    "profile_sidebar_fill_color": "000000",
+    "geo_enabled": true,
+    "profile_link_color": "DD2E44",
+    "favourites_count": 8901,
+    "following": null,
+    "default_profile": false,
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_color": "000000",
+    "id": 468756160,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/891693251526373377/1BLJlWP6_normal.jpg",
+    "lang": "es",
+    "description": "Periodista, escritor, poeta. Con 4 libros publicados, escribo donde quiero.  Amo cocinar, beber vino y viajar. No me gustan las modernas ni las merqueras.",
+    "follow_request_sent": null,
+    "utc_offset": null
+  },
+  "quote_count": 0,
+  "lang": "es"
+}

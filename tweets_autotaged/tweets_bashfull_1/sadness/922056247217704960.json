@@ -1,0 +1,121 @@
+{
+  "in_reply_to_user_id": 2737658304,
+  "contributors": null,
+  "id": 922056247217704960,
+  "retweeted": false,
+  "retweet_count": 0,
+  "timestamp_ms": "1508670314970",
+  "in_reply_to_status_id": 921550944827002880,
+  "id_str": "922056247217704960",
+  "created_at": "Sun Oct 22 11:05:14 +0000 2017",
+  "coordinates": null,
+  "favorite_count": 0,
+  "entities": {
+    "user_mentions": [
+      {
+        "indices": [
+          0,
+          10
+        ],
+        "name": "Enrique Pintado",
+        "screen_name": "EMPintado",
+        "id": 2737658304,
+        "id_str": "2737658304"
+      }
+    ],
+    "symbols": [],
+    "hashtags": [],
+    "urls": []
+  },
+  "reply_count": 0,
+  "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+  "place": {
+    "attributes": {},
+    "url": "https://api.twitter.com/1.1/geo/id/01a9dbb9232f0fac.json",
+    "place_type": "admin",
+    "id": "01a9dbb9232f0fac",
+    "country_code": "UY",
+    "name": "Montevideo",
+    "country": "Uruguay",
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            -56.430439,
+            -34.937896
+          ],
+          [
+            -56.430439,
+            -34.701599
+          ],
+          [
+            -56.029341,
+            -34.701599
+          ],
+          [
+            -56.029341,
+            -34.937896
+          ]
+        ]
+      ]
+    },
+    "full_name": "Montevideo, Uruguay"
+  },
+  "truncated": false,
+  "in_reply_to_status_id_str": "921550944827002880",
+  "in_reply_to_screen_name": "EMPintado",
+  "filter_level": "low",
+  "text": "@EMPintado En realidad el chico se ahog\u00f3 porque sus compa\u00f1eros lo abandonaron. No conforme con ello mintieron y atacaron con violencia",
+  "geo": null,
+  "in_reply_to_user_id_str": "2737658304",
+  "is_quote_status": false,
+  "display_text_range": [
+    11,
+    134
+  ],
+  "favorited": false,
+  "user": {
+    "verified": false,
+    "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/509887911072784384/WMZcF1YH.jpeg",
+    "statuses_count": 2284,
+    "screen_name": "isabelMILT",
+    "default_profile_image": false,
+    "time_zone": "Buenos Aires",
+    "name": "Mar\u00eda Isabel L\u00f3pez",
+    "id_str": "106521984",
+    "profile_sidebar_border_color": "000000",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/106521984/1498739967",
+    "created_at": "Tue Jan 19 20:57:41 +0000 2010",
+    "friends_count": 399,
+    "url": null,
+    "profile_background_tile": false,
+    "protected": false,
+    "translator_type": "none",
+    "profile_text_color": "0C3E53",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/752055923154284544/WCcKbQon_normal.jpg",
+    "listed_count": 1,
+    "notifications": null,
+    "contributors_enabled": false,
+    "is_translator": false,
+    "location": "Uruguay",
+    "profile_use_background_image": true,
+    "followers_count": 109,
+    "profile_sidebar_fill_color": "FFF7CC",
+    "geo_enabled": true,
+    "profile_link_color": "009999",
+    "favourites_count": 2444,
+    "following": null,
+    "default_profile": false,
+    "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/509887911072784384/WMZcF1YH.jpeg",
+    "profile_background_color": "F5ABB5",
+    "id": 106521984,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/752055923154284544/WCcKbQon_normal.jpg",
+    "lang": "es",
+    "description": "El conocimiento de tu propia oscuridad es el mejor m\u00e9todo para hacer le frente a las tinieblas de otras personas.",
+    "follow_request_sent": null,
+    "utc_offset": -10800
+  },
+  "quote_count": 0,
+  "lang": "es"
+}

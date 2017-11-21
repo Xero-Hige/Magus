@@ -1,0 +1,106 @@
+{
+  "in_reply_to_user_id": null,
+  "contributors": null,
+  "in_reply_to_screen_name": null,
+  "retweeted": false,
+  "retweet_count": 0,
+  "timestamp_ms": "1508643041963",
+  "in_reply_to_status_id": null,
+  "id_str": "921941855935361024",
+  "created_at": "Sun Oct 22 03:30:41 +0000 2017",
+  "id": 921941855935361024,
+  "coordinates": null,
+  "favorite_count": 0,
+  "entities": {
+    "user_mentions": [],
+    "symbols": [],
+    "hashtags": [],
+    "urls": []
+  },
+  "reply_count": 0,
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "place": {
+    "attributes": {},
+    "url": "https://api.twitter.com/1.1/geo/id/00e322460b3f03b5.json",
+    "place_type": "city",
+    "id": "00e322460b3f03b5",
+    "country_code": "CL",
+    "name": "Macul",
+    "country": "Chile",
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            -70.624346,
+            -33.510149
+          ],
+          [
+            -70.624346,
+            -33.469745
+          ],
+          [
+            -70.578091,
+            -33.469745
+          ],
+          [
+            -70.578091,
+            -33.510149
+          ]
+        ]
+      ]
+    },
+    "full_name": "Macul, Chile"
+  },
+  "truncated": false,
+  "in_reply_to_status_id_str": null,
+  "filter_level": "low",
+  "text": "La opci\u00f3n de escribir 280 caracteres en Twitter deber\u00eda activarse casa vez que estes volado.",
+  "geo": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": false,
+  "favorited": false,
+  "user": {
+    "verified": false,
+    "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000106010287/21b5eba2263c83fc10ba4b0aa30bdbe2.jpeg",
+    "statuses_count": 12961,
+    "screen_name": "phillipo_",
+    "default_profile_image": false,
+    "time_zone": "Santiago",
+    "name": "Phil",
+    "id_str": "218671550",
+    "profile_sidebar_border_color": "000000",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/218671550/1505789356",
+    "created_at": "Mon Nov 22 23:36:12 +0000 2010",
+    "friends_count": 1000,
+    "url": null,
+    "profile_background_tile": true,
+    "protected": false,
+    "translator_type": "none",
+    "profile_text_color": "892DD8",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/912427986133143553/OX4PlHdJ_normal.jpg",
+    "listed_count": 4,
+    "notifications": null,
+    "contributors_enabled": false,
+    "is_translator": false,
+    "location": "Santiago, Chile",
+    "profile_use_background_image": true,
+    "followers_count": 268,
+    "profile_sidebar_fill_color": "1D1D1D",
+    "geo_enabled": true,
+    "profile_link_color": "000000",
+    "favourites_count": 2019,
+    "following": null,
+    "default_profile": false,
+    "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000106010287/21b5eba2263c83fc10ba4b0aa30bdbe2.jpeg",
+    "profile_background_color": "022330",
+    "id": 218671550,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/912427986133143553/OX4PlHdJ_normal.jpg",
+    "lang": "en",
+    "description": "Call me glasses, jacket, shirt man. But I'm not a rapper.  2nd G in #Dharma",
+    "follow_request_sent": null,
+    "utc_offset": -10800
+  },
+  "quote_count": 0,
+  "lang": "es"
+}

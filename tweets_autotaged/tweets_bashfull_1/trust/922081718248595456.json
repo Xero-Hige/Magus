@@ -1,0 +1,129 @@
+{
+  "in_reply_to_user_id": null,
+  "contributors": null,
+  "in_reply_to_screen_name": null,
+  "retweeted": false,
+  "retweet_count": 0,
+  "timestamp_ms": "1508676387737",
+  "in_reply_to_status_id": null,
+  "id_str": "922081718248595456",
+  "created_at": "Sun Oct 22 12:46:27 +0000 2017",
+  "id": 922081718248595456,
+  "coordinates": {
+    "type": "Point",
+    "coordinates": [
+      -70.65027778,
+      -33.43777778
+    ]
+  },
+  "favorite_count": 0,
+  "entities": {
+    "user_mentions": [],
+    "symbols": [],
+    "hashtags": [],
+    "urls": [
+      {
+        "expanded_url": "https://www.instagram.com/p/BajP-o2B0Ok/",
+        "indices": [
+          81,
+          104
+        ],
+        "url": "https://t.co/FW4PQjOULM",
+        "display_url": "instagram.com/p/BajP-o2B0Ok/"
+      }
+    ]
+  },
+  "reply_count": 0,
+  "source": "<a href=\"http://instagram.com\" rel=\"nofollow\">Instagram</a>",
+  "place": {
+    "attributes": {},
+    "url": "https://api.twitter.com/1.1/geo/id/0010b4cb51ca93d8.json",
+    "place_type": "city",
+    "id": "0010b4cb51ca93d8",
+    "country_code": "CL",
+    "name": "Santiago",
+    "country": "Chile",
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            -70.692959,
+            -33.478574
+          ],
+          [
+            -70.692959,
+            -33.425749
+          ],
+          [
+            -70.626272,
+            -33.425749
+          ],
+          [
+            -70.626272,
+            -33.478574
+          ]
+        ]
+      ]
+    },
+    "full_name": "Santiago, Chile"
+  },
+  "truncated": false,
+  "in_reply_to_status_id_str": null,
+  "filter_level": "low",
+  "text": "Los santiaguinos siempre apurados para sus cosas en Santiago Metropolitan Region https://t.co/FW4PQjOULM",
+  "geo": {
+    "type": "Point",
+    "coordinates": [
+      -33.43777778,
+      -70.65027778
+    ]
+  },
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": false,
+  "possibly_sensitive": false,
+  "favorited": false,
+  "user": {
+    "verified": false,
+    "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/564359112/1043478497_b14e910939.jpg",
+    "statuses_count": 1742,
+    "screen_name": "rrojasp",
+    "default_profile_image": false,
+    "time_zone": "Santiago",
+    "name": "RODRIGO ROJAS",
+    "id_str": "55243905",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/55243905/1500661676",
+    "created_at": "Thu Jul 09 14:05:23 +0000 2009",
+    "friends_count": 710,
+    "url": null,
+    "profile_background_tile": true,
+    "protected": false,
+    "translator_type": "none",
+    "profile_text_color": "333333",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/888465316392706050/DH7FuqT3_normal.jpg",
+    "listed_count": 2,
+    "notifications": null,
+    "contributors_enabled": false,
+    "is_translator": false,
+    "location": "Santiago, Chile",
+    "profile_use_background_image": true,
+    "followers_count": 211,
+    "profile_sidebar_fill_color": "DDEEF6",
+    "geo_enabled": true,
+    "profile_link_color": "FAB81E",
+    "favourites_count": 421,
+    "following": null,
+    "default_profile": false,
+    "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/564359112/1043478497_b14e910939.jpg",
+    "profile_background_color": "C0DEED",
+    "id": 55243905,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/888465316392706050/DH7FuqT3_normal.jpg",
+    "lang": "es",
+    "description": null,
+    "follow_request_sent": null,
+    "utc_offset": -10800
+  },
+  "quote_count": 0,
+  "lang": "es"
+}

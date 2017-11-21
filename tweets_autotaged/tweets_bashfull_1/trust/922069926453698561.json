@@ -1,0 +1,114 @@
+{
+  "in_reply_to_user_id": null,
+  "contributors": null,
+  "in_reply_to_screen_name": null,
+  "retweeted": false,
+  "retweet_count": 0,
+  "timestamp_ms": "1508673576354",
+  "in_reply_to_status_id": null,
+  "id_str": "922069926453698561",
+  "created_at": "Sun Oct 22 11:59:36 +0000 2017",
+  "id": 922069926453698561,
+  "coordinates": null,
+  "favorite_count": 0,
+  "entities": {
+    "user_mentions": [],
+    "symbols": [],
+    "hashtags": [
+      {
+        "text": "EleccionesArgentina",
+        "indices": [
+          0,
+          20
+        ]
+      }
+    ],
+    "urls": []
+  },
+  "reply_count": 0,
+  "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+  "place": {
+    "attributes": {},
+    "url": "https://api.twitter.com/1.1/geo/id/0086c37e4416111e.json",
+    "place_type": "city",
+    "id": "0086c37e4416111e",
+    "country_code": "AR",
+    "name": "San Isidro",
+    "country": "Argentina",
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            -58.600305,
+            -34.530168
+          ],
+          [
+            -58.600305,
+            -34.450269
+          ],
+          [
+            -58.481209,
+            -34.450269
+          ],
+          [
+            -58.481209,
+            -34.530168
+          ]
+        ]
+      ]
+    },
+    "full_name": "San Isidro, Argentina"
+  },
+  "truncated": false,
+  "in_reply_to_status_id_str": null,
+  "filter_level": "low",
+  "text": "#EleccionesArgentina nada mas lindo que ejercer nuestro voto con libertad y en democracia espero que sepamos elegir!",
+  "geo": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": false,
+  "favorited": false,
+  "user": {
+    "verified": false,
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "statuses_count": 17886,
+    "screen_name": "elpollo_35",
+    "default_profile_image": false,
+    "time_zone": "Buenos Aires",
+    "name": "elpollo_twitero\ud83d\udd1d\u26a0\u2648",
+    "id_str": "774011483806175233",
+    "profile_sidebar_border_color": "000000",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/774011483806175233/1483631327",
+    "created_at": "Thu Sep 08 22:28:12 +0000 2016",
+    "friends_count": 584,
+    "url": "http://facebook.com/juanmahernandez",
+    "profile_background_tile": false,
+    "protected": false,
+    "translator_type": "none",
+    "profile_text_color": "000000",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/917935945307041792/RbZ0sejF_normal.jpg",
+    "listed_count": 9,
+    "notifications": null,
+    "contributors_enabled": false,
+    "is_translator": false,
+    "location": "boulogne, san isidro",
+    "profile_use_background_image": false,
+    "followers_count": 379,
+    "profile_sidebar_fill_color": "000000",
+    "geo_enabled": true,
+    "profile_link_color": "1B95E0",
+    "favourites_count": 30,
+    "following": null,
+    "default_profile": false,
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_color": "000000",
+    "id": 774011483806175233,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/917935945307041792/RbZ0sejF_normal.jpg",
+    "lang": "es",
+    "description": "acido, justo con quien lo merezca de river(gracias a dios)amante del buen futbol, messi y algun otro mas y que sea lo que dios quiera..",
+    "follow_request_sent": null,
+    "utc_offset": -10800
+  },
+  "quote_count": 0,
+  "lang": "es"
+}

@@ -1,0 +1,114 @@
+{
+  "in_reply_to_user_id": null,
+  "contributors": null,
+  "in_reply_to_screen_name": null,
+  "retweeted": false,
+  "retweet_count": 0,
+  "timestamp_ms": "1508671999471",
+  "in_reply_to_status_id": null,
+  "id_str": "922063312526938113",
+  "created_at": "Sun Oct 22 11:33:19 +0000 2017",
+  "id": 922063312526938113,
+  "coordinates": null,
+  "favorite_count": 0,
+  "entities": {
+    "user_mentions": [],
+    "symbols": [],
+    "hashtags": [
+      {
+        "text": "YoVotoCambiemos",
+        "indices": [
+          50,
+          66
+        ]
+      }
+    ],
+    "urls": []
+  },
+  "reply_count": 0,
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "place": {
+    "attributes": {},
+    "url": "https://api.twitter.com/1.1/geo/id/4afa2757051c5192.json",
+    "place_type": "admin",
+    "id": "4afa2757051c5192",
+    "country_code": "AR",
+    "name": "Buenos Aires",
+    "country": "Argentina",
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            -63.39386,
+            -41.035009
+          ],
+          [
+            -63.39386,
+            -33.260144
+          ],
+          [
+            -56.665836,
+            -33.260144
+          ],
+          [
+            -56.665836,
+            -41.035009
+          ]
+        ]
+      ]
+    },
+    "full_name": "Buenos Aires, Argentina"
+  },
+  "truncated": false,
+  "in_reply_to_status_id_str": null,
+  "filter_level": "low",
+  "text": "Que todo sea en paz y a llenar las urnas de votos #YoVotoCambiemos",
+  "geo": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": false,
+  "favorited": false,
+  "user": {
+    "verified": false,
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+    "statuses_count": 25486,
+    "screen_name": "DamianNarvarte",
+    "default_profile_image": false,
+    "time_zone": "Buenos Aires",
+    "name": "Dami\u00e1n Narvarte",
+    "id_str": "404285663",
+    "profile_sidebar_border_color": "A8C7F7",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/404285663/1437590627",
+    "created_at": "Thu Nov 03 18:10:54 +0000 2011",
+    "friends_count": 1344,
+    "url": null,
+    "profile_background_tile": false,
+    "protected": false,
+    "translator_type": "none",
+    "profile_text_color": "333333",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/648223125583302656/KAFs2jFM_normal.jpg",
+    "listed_count": 13,
+    "notifications": null,
+    "contributors_enabled": false,
+    "is_translator": false,
+    "location": "Juan Bautista Alberdi",
+    "profile_use_background_image": true,
+    "followers_count": 959,
+    "profile_sidebar_fill_color": "C0DFEC",
+    "geo_enabled": true,
+    "profile_link_color": "0084B4",
+    "favourites_count": 2857,
+    "following": null,
+    "default_profile": false,
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+    "profile_background_color": "022330",
+    "id": 404285663,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/648223125583302656/KAFs2jFM_normal.jpg",
+    "lang": "es",
+    "description": "Bioqu\u00edmico y aficionado a la meteorolog\u00eda. Hincha de River. Res non verba. http://www.flickr.com/photos/narvarted/",
+    "follow_request_sent": null,
+    "utc_offset": -10800
+  },
+  "quote_count": 0,
+  "lang": "es"
+}

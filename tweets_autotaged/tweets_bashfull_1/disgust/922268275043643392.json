@@ -1,0 +1,106 @@
+{
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "urls": [],
+    "user_mentions": []
+  },
+  "in_reply_to_user_id": null,
+  "created_at": "Mon Oct 23 01:07:46 +0000 2017",
+  "favorite_count": 0,
+  "lang": "es",
+  "reply_count": 0,
+  "id_str": "922268275043643392",
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_status_id": null,
+  "timestamp_ms": "1508720866343",
+  "text": "Lo que pasa es que hay mucha gente de mierda.\nSean buenas personas siempre, hay mucho ego\u00edsta, forro y yuta suelto.",
+  "user": {
+    "time_zone": "Santiago",
+    "screen_name": "Cami__cai",
+    "utc_offset": -10800,
+    "created_at": "Sun Feb 27 14:05:04 +0000 2011",
+    "profile_background_tile": true,
+    "notifications": null,
+    "lang": "es",
+    "default_profile": false,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/258339581/1508035435",
+    "id_str": "258339581",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/917800048494350336/gOM4JkqO_normal.jpg",
+    "name": "Camila",
+    "friends_count": 371,
+    "translator_type": "none",
+    "protected": false,
+    "following": null,
+    "is_translator": false,
+    "follow_request_sent": null,
+    "profile_text_color": "333333",
+    "listed_count": 7,
+    "profile_link_color": "ED1D9A",
+    "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/441212697120485377/1D1rKXTh.png",
+    "url": null,
+    "id": 258339581,
+    "favourites_count": 1102,
+    "profile_background_color": "F03378",
+    "followers_count": 579,
+    "statuses_count": 9692,
+    "description": null,
+    "location": "Argentina",
+    "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/441212697120485377/1D1rKXTh.png",
+    "default_profile_image": false,
+    "verified": false,
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_use_background_image": true,
+    "contributors_enabled": false,
+    "profile_sidebar_border_color": "FFFFFF",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/917800048494350336/gOM4JkqO_normal.jpg",
+    "geo_enabled": true
+  },
+  "geo": null,
+  "id": 922268275043643392,
+  "quote_count": 0,
+  "retweeted": false,
+  "filter_level": "low",
+  "in_reply_to_status_id_str": null,
+  "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+  "favorited": false,
+  "coordinates": null,
+  "truncated": false,
+  "retweet_count": 0,
+  "is_quote_status": false,
+  "in_reply_to_screen_name": null,
+  "contributors": null,
+  "place": {
+    "bounding_box": {
+      "coordinates": [
+        [
+          [
+            -58.502543,
+            -34.705421
+          ],
+          [
+            -58.502543,
+            -34.613843
+          ],
+          [
+            -58.389939,
+            -34.613843
+          ],
+          [
+            -58.389939,
+            -34.705421
+          ]
+        ]
+      ],
+      "type": "Polygon"
+    },
+    "name": "Villa Soldati",
+    "url": "https://api.twitter.com/1.1/geo/id/00758a48394df3ce.json",
+    "country_code": "AR",
+    "id": "00758a48394df3ce",
+    "place_type": "city",
+    "attributes": {},
+    "full_name": "Villa Soldati, Argentina",
+    "country": "Argentina"
+  }
+}

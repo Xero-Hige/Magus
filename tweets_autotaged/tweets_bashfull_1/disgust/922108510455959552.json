@@ -1,0 +1,144 @@
+{
+  "in_reply_to_user_id": null,
+  "contributors": null,
+  "in_reply_to_screen_name": null,
+  "retweeted": false,
+  "retweet_count": 0,
+  "timestamp_ms": "1508682775497",
+  "in_reply_to_status_id": null,
+  "id_str": "922108510455959552",
+  "created_at": "Sun Oct 22 14:32:55 +0000 2017",
+  "id": 922108510455959552,
+  "coordinates": {
+    "type": "Point",
+    "coordinates": [
+      -64.30661111,
+      -31.29369444
+    ]
+  },
+  "favorite_count": 0,
+  "entities": {
+    "user_mentions": [],
+    "symbols": [],
+    "hashtags": [
+      {
+        "text": "gatosgram",
+        "indices": [
+          19,
+          29
+        ]
+      },
+      {
+        "text": "gatitos",
+        "indices": [
+          30,
+          38
+        ]
+      }
+    ],
+    "urls": [
+      {
+        "expanded_url": "https://www.instagram.com/p/BajcP7NF2aO/",
+        "indices": [
+          56,
+          79
+        ],
+        "url": "https://t.co/SKqo05Emz7",
+        "display_url": "instagram.com/p/BajcP7NF2aO/"
+      }
+    ]
+  },
+  "reply_count": 0,
+  "source": "<a href=\"http://instagram.com\" rel=\"nofollow\">Instagram</a>",
+  "place": {
+    "attributes": {},
+    "url": "https://api.twitter.com/1.1/geo/id/00c2ef6422545045.json",
+    "place_type": "city",
+    "id": "00c2ef6422545045",
+    "country_code": "AR",
+    "name": "Villa Allende",
+    "country": "Argentina",
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            -64.315889,
+            -31.310199
+          ],
+          [
+            -64.315889,
+            -31.264937
+          ],
+          [
+            -64.268995,
+            -31.264937
+          ],
+          [
+            -64.268995,
+            -31.310199
+          ]
+        ]
+      ]
+    },
+    "full_name": "Villa Allende, Argentina"
+  },
+  "truncated": false,
+  "in_reply_to_status_id_str": null,
+  "filter_level": "low",
+  "text": "Buenos d\u00edas Gatos! #gatosgram #gatitos en Villa Allende https://t.co/SKqo05Emz7",
+  "geo": {
+    "type": "Point",
+    "coordinates": [
+      -31.29369444,
+      -64.30661111
+    ]
+  },
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": false,
+  "possibly_sensitive": false,
+  "favorited": false,
+  "user": {
+    "verified": false,
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme7/bg.gif",
+    "statuses_count": 16336,
+    "screen_name": "HelveticaValen",
+    "default_profile_image": false,
+    "time_zone": "Santiago",
+    "name": "Helv\u00e9tica",
+    "id_str": "102440735",
+    "profile_sidebar_border_color": "DFDFDF",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/102440735/1489460914",
+    "created_at": "Wed Jan 06 18:20:08 +0000 2010",
+    "friends_count": 1497,
+    "url": "http://www.someonemedia.com",
+    "profile_background_tile": false,
+    "protected": false,
+    "translator_type": "none",
+    "profile_text_color": "333333",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/835730495497506816/FNts7OYL_normal.jpg",
+    "listed_count": 25,
+    "notifications": null,
+    "contributors_enabled": false,
+    "is_translator": false,
+    "location": "C\u00f3rdoba Argentina",
+    "profile_use_background_image": true,
+    "followers_count": 881,
+    "profile_sidebar_fill_color": "F3F3F3",
+    "geo_enabled": true,
+    "profile_link_color": "990000",
+    "favourites_count": 2995,
+    "following": null,
+    "default_profile": false,
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme7/bg.gif",
+    "profile_background_color": "EBEBEB",
+    "id": 102440735,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/835730495497506816/FNts7OYL_normal.jpg",
+    "lang": "es",
+    "description": "Dise\u00f1adora Gr\u00e1fica. Comunicadora Visual. De p\u00e9sima ortograf\u00eda. Madre de estos 3. No me arrepiento de nada.",
+    "follow_request_sent": null,
+    "utc_offset": -10800
+  },
+  "quote_count": 0,
+  "lang": "es"
+}

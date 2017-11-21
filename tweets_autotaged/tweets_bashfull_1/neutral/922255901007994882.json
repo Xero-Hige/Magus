@@ -1,0 +1,106 @@
+{
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "urls": [],
+    "user_mentions": []
+  },
+  "in_reply_to_user_id": null,
+  "created_at": "Mon Oct 23 00:18:36 +0000 2017",
+  "favorite_count": 0,
+  "lang": "es",
+  "reply_count": 0,
+  "id_str": "922255901007994882",
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_status_id": null,
+  "timestamp_ms": "1508717916143",
+  "text": "estudio un tema y camino por toda la casa buscando algo para hacer",
+  "user": {
+    "time_zone": "Pacific Time (US & Canada)",
+    "screen_name": "gonzac10",
+    "utc_offset": -25200,
+    "created_at": "Mon Aug 26 16:49:54 +0000 2013",
+    "profile_background_tile": true,
+    "notifications": null,
+    "lang": "es",
+    "default_profile": false,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1702429963/1448933268",
+    "id_str": "1702429963",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/911031984767606784/mC0Qejnh_normal.jpg",
+    "name": "Gonzalo\u265b",
+    "friends_count": 493,
+    "translator_type": "none",
+    "protected": false,
+    "following": null,
+    "is_translator": false,
+    "follow_request_sent": null,
+    "profile_text_color": "333333",
+    "listed_count": 4,
+    "profile_link_color": "4A913C",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+    "url": null,
+    "id": 1702429963,
+    "favourites_count": 1668,
+    "profile_background_color": "4A913C",
+    "followers_count": 710,
+    "statuses_count": 33826,
+    "description": "DIOS ES FIEL",
+    "location": "Colon , Montevideo, Uruguay",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+    "default_profile_image": false,
+    "verified": false,
+    "profile_sidebar_fill_color": "EFEFEF",
+    "profile_use_background_image": true,
+    "contributors_enabled": false,
+    "profile_sidebar_border_color": "FFFFFF",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/911031984767606784/mC0Qejnh_normal.jpg",
+    "geo_enabled": true
+  },
+  "geo": null,
+  "id": 922255901007994882,
+  "quote_count": 0,
+  "retweeted": false,
+  "filter_level": "low",
+  "in_reply_to_status_id_str": null,
+  "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+  "favorited": false,
+  "coordinates": null,
+  "truncated": false,
+  "retweet_count": 0,
+  "is_quote_status": false,
+  "in_reply_to_screen_name": null,
+  "contributors": null,
+  "place": {
+    "bounding_box": {
+      "coordinates": [
+        [
+          [
+            -58.491052,
+            -34.980163
+          ],
+          [
+            -58.491052,
+            -30.085693
+          ],
+          [
+            -53.071505,
+            -30.085693
+          ],
+          [
+            -53.071505,
+            -34.980163
+          ]
+        ]
+      ],
+      "type": "Polygon"
+    },
+    "name": "Uruguay",
+    "url": "https://api.twitter.com/1.1/geo/id/d0f5be1262dee9aa.json",
+    "country_code": "UY",
+    "id": "d0f5be1262dee9aa",
+    "place_type": "country",
+    "attributes": {},
+    "full_name": "Uruguay",
+    "country": "Uruguay"
+  }
+}

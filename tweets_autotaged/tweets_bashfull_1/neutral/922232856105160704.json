@@ -1,0 +1,121 @@
+{
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "indices": [
+          0,
+          14
+        ],
+        "screen_name": "holasolprieto",
+        "name": "Sol Prieto",
+        "id_str": "9459152",
+        "id": 9459152
+      }
+    ]
+  },
+  "in_reply_to_user_id": 9459152,
+  "created_at": "Sun Oct 22 22:47:01 +0000 2017",
+  "favorite_count": 0,
+  "lang": "es",
+  "reply_count": 0,
+  "id_str": "922232856105160704",
+  "in_reply_to_user_id_str": "9459152",
+  "in_reply_to_status_id": 922228877455511552,
+  "timestamp_ms": "1508712421810",
+  "truncated": false,
+  "text": "@holasolprieto Comuna 15? Si se dieran esos numeros en todas las mesas los re compro.",
+  "user": {
+    "time_zone": "Buenos Aires",
+    "screen_name": "MDCarrano",
+    "utc_offset": -10800,
+    "created_at": "Sun May 02 02:12:08 +0000 2010",
+    "profile_background_tile": false,
+    "notifications": null,
+    "lang": "es",
+    "default_profile": false,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/139258427/1507951970",
+    "id_str": "139258427",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/886445941812846592/5v_excIH_normal.jpg",
+    "name": "Mauro Carrano",
+    "friends_count": 179,
+    "translator_type": "none",
+    "protected": false,
+    "following": null,
+    "is_translator": false,
+    "follow_request_sent": null,
+    "profile_text_color": "333333",
+    "listed_count": 13,
+    "profile_link_color": "1B95E0",
+    "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/97663742/P1090379.JPG",
+    "url": "http://mapsandroll.blogspot.com",
+    "id": 139258427,
+    "favourites_count": 9272,
+    "profile_background_color": "182B00",
+    "followers_count": 569,
+    "statuses_count": 10013,
+    "description": "De Moreno a Once, parando en todas. Sociolog\u00eda UBA. Afiliado al Sindicato de Empleados de Comercio. \nhttps://t.co/AADn6m4M2L\nhttps://t.co/L0M7uuSrqv",
+    "location": "Once",
+    "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/97663742/P1090379.JPG",
+    "default_profile_image": false,
+    "verified": false,
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_use_background_image": true,
+    "contributors_enabled": false,
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/886445941812846592/5v_excIH_normal.jpg",
+    "geo_enabled": true
+  },
+  "geo": null,
+  "id": 922232856105160704,
+  "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+  "retweeted": false,
+  "filter_level": "low",
+  "in_reply_to_status_id_str": "922228877455511552",
+  "quote_count": 0,
+  "favorited": false,
+  "coordinates": null,
+  "display_text_range": [
+    15,
+    85
+  ],
+  "retweet_count": 0,
+  "is_quote_status": false,
+  "in_reply_to_screen_name": "holasolprieto",
+  "contributors": null,
+  "place": {
+    "bounding_box": {
+      "coordinates": [
+        [
+          [
+            -58.531792,
+            -34.674453
+          ],
+          [
+            -58.531792,
+            -34.534177
+          ],
+          [
+            -58.353494,
+            -34.534177
+          ],
+          [
+            -58.353494,
+            -34.674453
+          ]
+        ]
+      ],
+      "type": "Polygon"
+    },
+    "name": "Ciudad Aut\u00f3noma de Buenos Aires",
+    "url": "https://api.twitter.com/1.1/geo/id/018f1cde6bad9747.json",
+    "country_code": "AR",
+    "id": "018f1cde6bad9747",
+    "place_type": "city",
+    "attributes": {},
+    "full_name": "Ciudad Aut\u00f3noma de Buenos Aires, Argentina",
+    "country": "Argentina"
+  }
+}

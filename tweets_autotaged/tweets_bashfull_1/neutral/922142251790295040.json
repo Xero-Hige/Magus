@@ -1,0 +1,106 @@
+{
+  "in_reply_to_user_id": null,
+  "contributors": null,
+  "in_reply_to_screen_name": null,
+  "retweeted": false,
+  "retweet_count": 0,
+  "timestamp_ms": "1508690820058",
+  "in_reply_to_status_id": null,
+  "id_str": "922142251790295040",
+  "created_at": "Sun Oct 22 16:47:00 +0000 2017",
+  "id": 922142251790295040,
+  "coordinates": null,
+  "favorite_count": 0,
+  "entities": {
+    "user_mentions": [],
+    "symbols": [],
+    "hashtags": [],
+    "urls": []
+  },
+  "reply_count": 0,
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "place": {
+    "attributes": {},
+    "url": "https://api.twitter.com/1.1/geo/id/00c4b64e7affea25.json",
+    "place_type": "city",
+    "id": "00c4b64e7affea25",
+    "country_code": "CL",
+    "name": "Las Condes",
+    "country": "Chile",
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            -70.608694,
+            -33.486182
+          ],
+          [
+            -70.608694,
+            -33.364619
+          ],
+          [
+            -70.429141,
+            -33.364619
+          ],
+          [
+            -70.429141,
+            -33.486182
+          ]
+        ]
+      ]
+    },
+    "full_name": "Las Condes, Chile"
+  },
+  "truncated": false,
+  "in_reply_to_status_id_str": null,
+  "filter_level": "low",
+  "text": "Encuentro tan flaite e innecesario no saludar, onda es como b\u00e1sico o no?",
+  "geo": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": false,
+  "favorited": false,
+  "user": {
+    "verified": false,
+    "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000053394392/9997d5cc5664b893be86e7d489f9494a.jpeg",
+    "statuses_count": 45524,
+    "screen_name": "alenicieza_",
+    "default_profile_image": false,
+    "time_zone": "Santiago",
+    "name": "Alejandro Nicieza \ud83e\udd86",
+    "id_str": "32964441",
+    "profile_sidebar_border_color": "82BFA1",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/32964441/1475696364",
+    "created_at": "Sat Apr 18 18:19:31 +0000 2009",
+    "friends_count": 293,
+    "url": "http://www.instagram.com/alenicieza",
+    "profile_background_tile": false,
+    "protected": false,
+    "translator_type": "none",
+    "profile_text_color": "008595",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/899809154939973632/a3lkp8PT_normal.jpg",
+    "listed_count": 6,
+    "notifications": null,
+    "contributors_enabled": false,
+    "is_translator": false,
+    "location": "Santiago, Chile",
+    "profile_use_background_image": true,
+    "followers_count": 852,
+    "profile_sidebar_fill_color": "3DB0B3",
+    "geo_enabled": true,
+    "profile_link_color": "296D74",
+    "favourites_count": 7249,
+    "following": null,
+    "default_profile": false,
+    "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000053394392/9997d5cc5664b893be86e7d489f9494a.jpeg",
+    "profile_background_color": "3C413C",
+    "id": 32964441,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/899809154939973632/a3lkp8PT_normal.jpg",
+    "lang": "es",
+    "description": "Soy m\u00e1s entretenido en Instagram",
+    "follow_request_sent": null,
+    "utc_offset": -10800
+  },
+  "quote_count": 0,
+  "lang": "es"
+}

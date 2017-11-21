@@ -1,0 +1,349 @@
+{
+  "id_str": "922297820710875138",
+  "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+  "in_reply_to_status_id": null,
+  "created_at": "Mon Oct 23 03:05:10 +0000 2017",
+  "retweet_count": 0,
+  "truncated": true,
+  "place": {
+    "id": "018f1cde6bad9747",
+    "country_code": "AR",
+    "name": "Ciudad Aut\u00f3noma de Buenos Aires",
+    "bounding_box": {
+      "coordinates": [
+        [
+          [
+            -58.531792,
+            -34.674453
+          ],
+          [
+            -58.531792,
+            -34.534177
+          ],
+          [
+            -58.353494,
+            -34.534177
+          ],
+          [
+            -58.353494,
+            -34.674453
+          ]
+        ]
+      ],
+      "type": "Polygon"
+    },
+    "place_type": "city",
+    "country": "Argentina",
+    "full_name": "Ciudad Aut\u00f3noma de Buenos Aires, Argentina",
+    "url": "https://api.twitter.com/1.1/geo/id/018f1cde6bad9747.json",
+    "attributes": {}
+  },
+  "possibly_sensitive": false,
+  "text": "Pero mau, obvio q nosotros no estamos condenados a nada (bueno si, a vos pero bue) pero esa deuda la van a pagar mi\u2026 https://t.co/JzXH2ptvTc",
+  "id": 922297820710875138,
+  "in_reply_to_screen_name": null,
+  "entities": {
+    "hashtags": [],
+    "urls": [
+      {
+        "indices": [
+          117,
+          140
+        ],
+        "expanded_url": "https://twitter.com/i/web/status/922297820710875138",
+        "display_url": "twitter.com/i/web/status/9\u2026",
+        "url": "https://t.co/JzXH2ptvTc"
+      }
+    ],
+    "symbols": [],
+    "user_mentions": []
+  },
+  "display_text_range": [
+    0,
+    140
+  ],
+  "quoted_status": {
+    "geo": null,
+    "user": {
+      "id_str": "152325528",
+      "favourites_count": 53995,
+      "contributors_enabled": false,
+      "name": "C5N",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_background_tile": false,
+      "profile_background_color": "F2CAA9",
+      "created_at": "Sat Jun 05 16:52:32 +0000 2010",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/152325528/1508493235",
+      "location": "Buenos Aires, Argentina",
+      "description": "24 hs de noticias. #Estamos",
+      "listed_count": 3911,
+      "follow_request_sent": null,
+      "default_profile_image": false,
+      "lang": "es",
+      "statuses_count": 244051,
+      "url": "http://www.c5n.com",
+      "notifications": null,
+      "id": 152325528,
+      "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/664066588/dea4c510ba18d6036011ffa656d0f982.jpeg",
+      "translator_type": "regular",
+      "screen_name": "C5N",
+      "protected": false,
+      "profile_link_color": "DD2E44",
+      "friends_count": 32860,
+      "time_zone": "Buenos Aires",
+      "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/664066588/dea4c510ba18d6036011ffa656d0f982.jpeg",
+      "profile_text_color": "333333",
+      "is_translator": false,
+      "followers_count": 2351951,
+      "default_profile": false,
+      "utc_offset": -10800,
+      "verified": true,
+      "following": null,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/887365546756292608/m4zxtJNT_normal.jpg",
+      "profile_use_background_image": true,
+      "profile_sidebar_border_color": "FFFFFF",
+      "geo_enabled": true,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/887365546756292608/m4zxtJNT_normal.jpg"
+    },
+    "source": "<a href=\"http://snappytv.com\" rel=\"nofollow\">SnappyTV.com</a>",
+    "lang": "es",
+    "favorited": false,
+    "in_reply_to_status_id": null,
+    "created_at": "Mon Oct 23 02:51:53 +0000 2017",
+    "coordinates": null,
+    "quote_count": 5,
+    "truncated": false,
+    "place": null,
+    "retweet_count": 7,
+    "reply_count": 18,
+    "possibly_sensitive": false,
+    "extended_entities": {
+      "media": [
+        {
+          "id": 922294338347876353,
+          "sizes": {
+            "small": {
+              "h": 383,
+              "resize": "fit",
+              "w": 680
+            },
+            "medium": {
+              "h": 675,
+              "resize": "fit",
+              "w": 1200
+            },
+            "large": {
+              "h": 720,
+              "resize": "fit",
+              "w": 1280
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "indices": [
+            83,
+            106
+          ],
+          "display_url": "pic.twitter.com/mu7FIF0fiD",
+          "media_url": "http://pbs.twimg.com/media/DMyl7sxVwAEmgpL.jpg",
+          "type": "video",
+          "media_url_https": "https://pbs.twimg.com/media/DMyl7sxVwAEmgpL.jpg",
+          "video_info": {
+            "variants": [
+              {
+                "bitrate": 320000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/amplify_video/922294338347876353/vid/320x180/szi6fa-TJJmFFQJ3.mp4"
+              },
+              {
+                "content_type": "application/x-mpegURL",
+                "url": "https://video.twimg.com/amplify_video/922294338347876353/pl/tJ0EzYRRIggpllwB.m3u8"
+              },
+              {
+                "bitrate": 832000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/amplify_video/922294338347876353/vid/640x360/X2bcAxIujDtFnm0X.mp4"
+              },
+              {
+                "bitrate": 2176000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/amplify_video/922294338347876353/vid/1280x720/XA1pLj2kh2_K1pIR.mp4"
+              }
+            ],
+            "duration_millis": 58480,
+            "aspect_ratio": [
+              16,
+              9
+            ]
+          },
+          "id_str": "922294338347876353",
+          "expanded_url": "https://twitter.com/C5N/status/922294476185288704/video/1",
+          "url": "https://t.co/mu7FIF0fiD"
+        }
+      ]
+    },
+    "text": "#EleccionesLegislativas @mauriciomacri \"Ah\u00ed donde hay un argentino no hay l\u00edmites\" https://t.co/mu7FIF0fiD",
+    "in_reply_to_user_id": null,
+    "id": 922294476185288704,
+    "favorite_count": 36,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "entities": {
+      "hashtags": [
+        {
+          "indices": [
+            0,
+            23
+          ],
+          "text": "EleccionesLegislativas"
+        }
+      ],
+      "media": [
+        {
+          "id": 922294338347876353,
+          "sizes": {
+            "small": {
+              "h": 383,
+              "resize": "fit",
+              "w": 680
+            },
+            "medium": {
+              "h": 675,
+              "resize": "fit",
+              "w": 1200
+            },
+            "large": {
+              "h": 720,
+              "resize": "fit",
+              "w": 1280
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "indices": [
+            83,
+            106
+          ],
+          "display_url": "pic.twitter.com/mu7FIF0fiD",
+          "media_url": "http://pbs.twimg.com/media/DMyl7sxVwAEmgpL.jpg",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/DMyl7sxVwAEmgpL.jpg",
+          "id_str": "922294338347876353",
+          "expanded_url": "https://twitter.com/C5N/status/922294476185288704/video/1",
+          "url": "https://t.co/mu7FIF0fiD"
+        }
+      ],
+      "urls": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "id": 24900072,
+          "id_str": "24900072",
+          "indices": [
+            24,
+            38
+          ],
+          "screen_name": "mauriciomacri",
+          "name": "Mauricio Macri"
+        }
+      ]
+    },
+    "id_str": "922294476185288704",
+    "display_text_range": [
+      0,
+      82
+    ],
+    "filter_level": "low",
+    "retweeted": false,
+    "contributors": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false
+  },
+  "retweeted": false,
+  "timestamp_ms": "1508727910579",
+  "contributors": null,
+  "is_quote_status": true,
+  "quoted_status_id_str": "922294476185288704",
+  "user": {
+    "id_str": "922233295",
+    "favourites_count": 21534,
+    "contributors_enabled": false,
+    "name": "Michael Hutchence",
+    "profile_sidebar_fill_color": "1D1D1D",
+    "profile_background_tile": false,
+    "profile_background_color": "8C8B91",
+    "created_at": "Sat Nov 03 02:01:37 +0000 2012",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/922233295/1506059342",
+    "location": "Dubl\u00edn, Irlanda",
+    "description": "Un gil con twitter, como vos",
+    "listed_count": 7,
+    "follow_request_sent": null,
+    "default_profile_image": false,
+    "lang": "es",
+    "statuses_count": 18167,
+    "url": null,
+    "notifications": null,
+    "id": 922233295,
+    "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/520365655917228033/Y4f18x-q.jpeg",
+    "translator_type": "none",
+    "screen_name": "evaristonarezo",
+    "protected": false,
+    "profile_link_color": "AABB6A",
+    "friends_count": 891,
+    "time_zone": null,
+    "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/520365655917228033/Y4f18x-q.jpeg",
+    "profile_text_color": "892DD8",
+    "is_translator": false,
+    "followers_count": 634,
+    "default_profile": false,
+    "utc_offset": null,
+    "verified": false,
+    "following": null,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/904109785771114496/-aiQ43Lk_normal.jpg",
+    "profile_use_background_image": false,
+    "profile_sidebar_border_color": "68FA04",
+    "geo_enabled": true,
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/904109785771114496/-aiQ43Lk_normal.jpg"
+  },
+  "favorited": false,
+  "coordinates": null,
+  "quote_count": 0,
+  "lang": "es",
+  "reply_count": 0,
+  "in_reply_to_user_id": null,
+  "extended_tweet": {
+    "full_text": "Pero mau, obvio q nosotros no estamos condenados a nada (bueno si, a vos pero bue) pero esa deuda la van a pagar mis nietos https://t.co/uB0uXQc4i5",
+    "display_text_range": [
+      0,
+      123
+    ],
+    "entities": {
+      "hashtags": [],
+      "urls": [
+        {
+          "indices": [
+            124,
+            147
+          ],
+          "expanded_url": "https://twitter.com/C5N/status/922294476185288704",
+          "display_url": "twitter.com/C5N/status/922\u2026",
+          "url": "https://t.co/uB0uXQc4i5"
+        }
+      ],
+      "symbols": [],
+      "user_mentions": []
+    }
+  },
+  "favorite_count": 0,
+  "in_reply_to_status_id_str": null,
+  "geo": null,
+  "quoted_status_id": 922294476185288704,
+  "filter_level": "low",
+  "in_reply_to_user_id_str": null
+}

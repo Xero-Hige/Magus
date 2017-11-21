@@ -1,0 +1,114 @@
+{
+  "in_reply_to_user_id": null,
+  "contributors": null,
+  "in_reply_to_screen_name": null,
+  "retweeted": false,
+  "retweet_count": 0,
+  "timestamp_ms": "1508687623093",
+  "in_reply_to_status_id": null,
+  "id_str": "922128842747203585",
+  "created_at": "Sun Oct 22 15:53:43 +0000 2017",
+  "id": 922128842747203585,
+  "coordinates": null,
+  "favorite_count": 0,
+  "entities": {
+    "user_mentions": [],
+    "symbols": [],
+    "hashtags": [
+      {
+        "text": "elecciones2017",
+        "indices": [
+          124,
+          139
+        ]
+      }
+    ],
+    "urls": []
+  },
+  "reply_count": 0,
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "place": {
+    "attributes": {},
+    "url": "https://api.twitter.com/1.1/geo/id/018f1cde6bad9747.json",
+    "place_type": "city",
+    "id": "018f1cde6bad9747",
+    "country_code": "AR",
+    "name": "Ciudad Aut\u00f3noma de Buenos Aires",
+    "country": "Argentina",
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            -58.531792,
+            -34.674453
+          ],
+          [
+            -58.531792,
+            -34.534177
+          ],
+          [
+            -58.353494,
+            -34.534177
+          ],
+          [
+            -58.353494,
+            -34.674453
+          ]
+        ]
+      ]
+    },
+    "full_name": "Ciudad Aut\u00f3noma de Buenos Aires, Argentina"
+  },
+  "truncated": false,
+  "in_reply_to_status_id_str": null,
+  "filter_level": "low",
+  "text": "Grave. En Mar Del Plata la polic\u00eda entr\u00f3 por la fuerza, sin orden, a un local del PTS y se llev\u00f3 detenidas a seis personas. #elecciones2017",
+  "geo": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": false,
+  "favorited": false,
+  "user": {
+    "verified": true,
+    "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/307728799/faceriv.jpg",
+    "statuses_count": 6813,
+    "screen_name": "sdsmarce",
+    "default_profile_image": false,
+    "time_zone": "Santiago",
+    "name": "Marcelo Silva",
+    "id_str": "351336261",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/351336261/1496111878",
+    "created_at": "Tue Aug 09 03:18:40 +0000 2011",
+    "friends_count": 1058,
+    "url": "http://www.lanacion.com.ar/autor/marcelo-silva-de-sousa-8105",
+    "profile_background_tile": false,
+    "protected": false,
+    "translator_type": "none",
+    "profile_text_color": "333333",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/916751816678928387/EXa2uyDG_normal.jpg",
+    "listed_count": 4,
+    "notifications": null,
+    "contributors_enabled": false,
+    "is_translator": false,
+    "location": "Capital Federal, Argentina.",
+    "profile_use_background_image": true,
+    "followers_count": 822,
+    "profile_sidebar_fill_color": "DDEEF6",
+    "geo_enabled": true,
+    "profile_link_color": "4A913C",
+    "favourites_count": 4284,
+    "following": null,
+    "default_profile": false,
+    "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/307728799/faceriv.jpg",
+    "profile_background_color": "C0DEED",
+    "id": 351336261,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/916751816678928387/EXa2uyDG_normal.jpg",
+    "lang": "es",
+    "description": "Periodista. Muy hincha de #River. Escribo sobre Pol\u00edtica en @LANACION",
+    "follow_request_sent": null,
+    "utc_offset": -10800
+  },
+  "quote_count": 0,
+  "lang": "es"
+}

@@ -1,0 +1,174 @@
+{
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "urls": [
+      {
+        "indices": [
+          117,
+          140
+        ],
+        "expanded_url": "https://twitter.com/i/web/status/922243057914871808",
+        "display_url": "twitter.com/i/web/status/9\u2026",
+        "url": "https://t.co/XYooeBBG4u"
+      }
+    ],
+    "user_mentions": [
+      {
+        "indices": [
+          0,
+          9
+        ],
+        "screen_name": "argpriok",
+        "name": "Argentina Primero Ok",
+        "id_str": "1330501202",
+        "id": 1330501202
+      },
+      {
+        "indices": [
+          10,
+          26
+        ],
+        "screen_name": "GuardiaRepublic",
+        "name": "Guardia Republicana",
+        "id_str": "4869880455",
+        "id": 4869880455
+      }
+    ]
+  },
+  "in_reply_to_user_id": 1330501202,
+  "created_at": "Sun Oct 22 23:27:34 +0000 2017",
+  "favorite_count": 0,
+  "lang": "es",
+  "reply_count": 0,
+  "id_str": "922243057914871808",
+  "in_reply_to_user_id_str": "1330501202",
+  "extended_tweet": {
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "urls": [],
+      "user_mentions": [
+        {
+          "indices": [
+            0,
+            9
+          ],
+          "screen_name": "argpriok",
+          "name": "Argentina Primero Ok",
+          "id_str": "1330501202",
+          "id": 1330501202
+        },
+        {
+          "indices": [
+            10,
+            26
+          ],
+          "screen_name": "GuardiaRepublic",
+          "name": "Guardia Republicana",
+          "id_str": "4869880455",
+          "id": 4869880455
+        }
+      ]
+    },
+    "display_text_range": [
+      27,
+      167
+    ],
+    "full_text": "@argpriok @GuardiaRepublic El peor es el hermano q uso o se dej\u00f3 usar pol\u00edticamente humillando a Santiago. Luego pide respeto q \u00e9l no tuvo. QEPD S a pesar d tu hermano"
+  },
+  "in_reply_to_status_id": 922240771474034688,
+  "timestamp_ms": "1508714854111",
+  "truncated": true,
+  "text": "@argpriok @GuardiaRepublic El peor es el hermano q uso o se dej\u00f3 usar pol\u00edticamente humillando a Santiago. Luego pi\u2026 https://t.co/XYooeBBG4u",
+  "user": {
+    "time_zone": "Greenland",
+    "screen_name": "JoseAboZumaran",
+    "utc_offset": -7200,
+    "created_at": "Sat May 21 02:27:10 +0000 2011",
+    "profile_background_tile": false,
+    "notifications": null,
+    "lang": "en",
+    "default_profile": true,
+    "follow_request_sent": null,
+    "id_str": "302369332",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/378800000807609472/6b2106bc30316784630931400e0dbdf7_normal.jpeg",
+    "name": "JoseAboZumaran",
+    "friends_count": 388,
+    "translator_type": "none",
+    "protected": false,
+    "following": null,
+    "is_translator": false,
+    "profile_text_color": "333333",
+    "listed_count": 9,
+    "profile_link_color": "1DA1F2",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "url": "http://www.affinitas.com.uy",
+    "id": 302369332,
+    "favourites_count": 334,
+    "profile_background_color": "C0DEED",
+    "followers_count": 474,
+    "statuses_count": 6912,
+    "description": "PhD Business Administration IESE, Emprendedor. Pol\u00edticamente incorrecto. Libertario micro capitalista. Estado m\u00ednimo.",
+    "location": "Uruguay",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "default_profile_image": false,
+    "verified": false,
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_use_background_image": true,
+    "contributors_enabled": false,
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000807609472/6b2106bc30316784630931400e0dbdf7_normal.jpeg",
+    "geo_enabled": true
+  },
+  "geo": null,
+  "id": 922243057914871808,
+  "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+  "retweeted": false,
+  "filter_level": "low",
+  "in_reply_to_status_id_str": "922240771474034688",
+  "quote_count": 0,
+  "favorited": false,
+  "coordinates": null,
+  "display_text_range": [
+    27,
+    140
+  ],
+  "retweet_count": 0,
+  "is_quote_status": false,
+  "in_reply_to_screen_name": "argpriok",
+  "contributors": null,
+  "place": {
+    "bounding_box": {
+      "coordinates": [
+        [
+          [
+            -58.491052,
+            -34.980163
+          ],
+          [
+            -58.491052,
+            -30.085693
+          ],
+          [
+            -53.071505,
+            -30.085693
+          ],
+          [
+            -53.071505,
+            -34.980163
+          ]
+        ]
+      ],
+      "type": "Polygon"
+    },
+    "name": "Uruguay",
+    "url": "https://api.twitter.com/1.1/geo/id/d0f5be1262dee9aa.json",
+    "country_code": "UY",
+    "id": "d0f5be1262dee9aa",
+    "place_type": "country",
+    "attributes": {},
+    "full_name": "Uruguay",
+    "country": "Uruguay"
+  }
+}

@@ -1,0 +1,129 @@
+{
+  "in_reply_to_user_id": null,
+  "contributors": null,
+  "in_reply_to_screen_name": null,
+  "retweeted": false,
+  "retweet_count": 0,
+  "timestamp_ms": "1508645485367",
+  "in_reply_to_status_id": null,
+  "id_str": "921952104314540033",
+  "created_at": "Sun Oct 22 04:11:25 +0000 2017",
+  "id": 921952104314540033,
+  "coordinates": {
+    "type": "Point",
+    "coordinates": [
+      -70.6716,
+      -33.4395
+    ]
+  },
+  "favorite_count": 0,
+  "entities": {
+    "user_mentions": [],
+    "symbols": [],
+    "hashtags": [],
+    "urls": [
+      {
+        "expanded_url": "https://central132.cl/llamado-128330?3",
+        "indices": [
+          100,
+          123
+        ],
+        "url": "https://t.co/ogX2xLM2Jx",
+        "display_url": "central132.cl/llamado-128330\u2026"
+      }
+    ]
+  },
+  "reply_count": 0,
+  "source": "<a href=\"https://central132.cl\" rel=\"nofollow\">Central132</a>",
+  "place": {
+    "attributes": {},
+    "url": "https://api.twitter.com/1.1/geo/id/0010b4cb51ca93d8.json",
+    "place_type": "city",
+    "id": "0010b4cb51ca93d8",
+    "country_code": "CL",
+    "name": "Santiago",
+    "country": "Chile",
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            -70.692959,
+            -33.478574
+          ],
+          [
+            -70.692959,
+            -33.425749
+          ],
+          [
+            -70.626272,
+            -33.425749
+          ],
+          [
+            -70.626272,
+            -33.478574
+          ]
+        ]
+      ]
+    },
+    "full_name": "Santiago, Chile"
+  },
+  "truncated": false,
+  "in_reply_to_status_id_str": null,
+  "filter_level": "low",
+  "text": "01:11 en Santiago Llamado por fuego o humo en estructura (10-0-1) B4 B9 Q12 Garcia Reyes y Catedral https://t.co/ogX2xLM2Jx",
+  "geo": {
+    "type": "Point",
+    "coordinates": [
+      -33.4395,
+      -70.6716
+    ]
+  },
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": false,
+  "possibly_sensitive": false,
+  "favorited": false,
+  "user": {
+    "verified": false,
+    "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/440795445/PROBANDO3.jpg",
+    "statuses_count": 12848,
+    "screen_name": "DEEJAY_BOMBER",
+    "default_profile_image": false,
+    "time_zone": "Buenos Aires",
+    "name": "Joseph Barrios M.",
+    "id_str": "344447164",
+    "profile_sidebar_border_color": "FFFFFF",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/344447164/1479408677",
+    "created_at": "Fri Jul 29 02:30:37 +0000 2011",
+    "friends_count": 1792,
+    "url": null,
+    "profile_background_tile": false,
+    "protected": false,
+    "translator_type": "none",
+    "profile_text_color": "DE9311",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/821521418487734272/QyakX6Vm_normal.jpg",
+    "listed_count": 7,
+    "notifications": null,
+    "contributors_enabled": false,
+    "is_translator": false,
+    "location": "Por Chilee!!",
+    "profile_use_background_image": false,
+    "followers_count": 912,
+    "profile_sidebar_fill_color": "1A1D26",
+    "geo_enabled": true,
+    "profile_link_color": "4A913C",
+    "favourites_count": 78,
+    "following": null,
+    "default_profile": false,
+    "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/440795445/PROBANDO3.jpg",
+    "profile_background_color": "1A1B1F",
+    "id": 344447164,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/821521418487734272/QyakX6Vm_normal.jpg",
+    "lang": "es",
+    "description": "Audiovisual ex @canal13 / VoiceOverTalent / Fot\u00f3grafo / Bombero / Voz oficial de @ae_radio @Sportlifechile @Sabortropicalfm @SuperCugat y #EstacionIbizaDisco.",
+    "follow_request_sent": null,
+    "utc_offset": -10800
+  },
+  "quote_count": 0,
+  "lang": "es"
+}

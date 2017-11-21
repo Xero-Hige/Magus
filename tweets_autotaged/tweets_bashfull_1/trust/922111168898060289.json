@@ -1,0 +1,106 @@
+{
+  "in_reply_to_user_id": null,
+  "contributors": null,
+  "in_reply_to_screen_name": null,
+  "retweeted": false,
+  "retweet_count": 0,
+  "timestamp_ms": "1508683409319",
+  "in_reply_to_status_id": null,
+  "id_str": "922111168898060289",
+  "created_at": "Sun Oct 22 14:43:29 +0000 2017",
+  "id": 922111168898060289,
+  "coordinates": null,
+  "favorite_count": 0,
+  "entities": {
+    "user_mentions": [],
+    "symbols": [],
+    "hashtags": [],
+    "urls": []
+  },
+  "reply_count": 0,
+  "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+  "place": {
+    "attributes": {},
+    "url": "https://api.twitter.com/1.1/geo/id/01f7d5d9145f3315.json",
+    "place_type": "city",
+    "id": "01f7d5d9145f3315",
+    "country_code": "AR",
+    "name": "Viedma",
+    "country": "Argentina",
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            -63.033476,
+            -40.84534
+          ],
+          [
+            -63.033476,
+            -40.799256
+          ],
+          [
+            -62.960298,
+            -40.799256
+          ],
+          [
+            -62.960298,
+            -40.84534
+          ]
+        ]
+      ]
+    },
+    "full_name": "Viedma, Argentina"
+  },
+  "truncated": false,
+  "in_reply_to_status_id_str": null,
+  "filter_level": "low",
+  "text": "En todo caso, Carri\u00f3 se\u00f1al\u00f3 que exist\u00eda la esperanza de que Maldonado estuviera con vida. Joaqu\u00edn Morales Sola. La Naci\u00f3n",
+  "geo": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": false,
+  "favorited": false,
+  "user": {
+    "verified": false,
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "statuses_count": 126645,
+    "screen_name": "Julioac13",
+    "default_profile_image": false,
+    "time_zone": "Buenos Aires",
+    "name": "Julio",
+    "id_str": "3210558454",
+    "profile_sidebar_border_color": "000000",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/3210558454/1502509053",
+    "created_at": "Mon Apr 27 01:25:12 +0000 2015",
+    "friends_count": 4409,
+    "url": null,
+    "profile_background_tile": false,
+    "protected": false,
+    "translator_type": "none",
+    "profile_text_color": "000000",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/898576513884459008/oQtVvp6K_normal.jpg",
+    "listed_count": 33,
+    "notifications": null,
+    "contributors_enabled": false,
+    "is_translator": false,
+    "location": "Viedma, Argentina",
+    "profile_use_background_image": false,
+    "followers_count": 4945,
+    "profile_sidebar_fill_color": "000000",
+    "geo_enabled": true,
+    "profile_link_color": "E81C4F",
+    "favourites_count": 27947,
+    "following": null,
+    "default_profile": false,
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_color": "000000",
+    "id": 3210558454,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/898576513884459008/oQtVvp6K_normal.jpg",
+    "lang": "es",
+    "description": "Simple, sencillo",
+    "follow_request_sent": null,
+    "utc_offset": -10800
+  },
+  "quote_count": 0,
+  "lang": "es"
+}

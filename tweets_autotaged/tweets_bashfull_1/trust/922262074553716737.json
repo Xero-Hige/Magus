@@ -1,0 +1,120 @@
+{
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "indices": [
+          0,
+          10
+        ],
+        "screen_name": "FranSolar",
+        "name": "Francisca Solar",
+        "id_str": "37696187",
+        "id": 37696187
+      }
+    ]
+  },
+  "in_reply_to_user_id": 37696187,
+  "created_at": "Mon Oct 23 00:43:08 +0000 2017",
+  "favorite_count": 0,
+  "lang": "es",
+  "reply_count": 0,
+  "id_str": "922262074553716737",
+  "in_reply_to_user_id_str": "37696187",
+  "in_reply_to_status_id": 922174203796885504,
+  "timestamp_ms": "1508719388031",
+  "truncated": false,
+  "text": "@FranSolar Barbarie sostenida por \"tradici\u00f3n\" equivale a estupidez. A\u00f1os de \"civilizaci\u00f3n\" claramente no son garant\u00eda de nada.",
+  "user": {
+    "time_zone": "Santiago",
+    "screen_name": "rodrvasquez1982",
+    "utc_offset": -10800,
+    "created_at": "Tue Jan 12 19:50:35 +0000 2010",
+    "profile_background_tile": true,
+    "notifications": null,
+    "lang": "es",
+    "default_profile": false,
+    "follow_request_sent": null,
+    "id_str": "104254892",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/922258857765765121/Nc7OdRWY_normal.jpg",
+    "name": "Rodrigo V\u00e1squez",
+    "friends_count": 233,
+    "translator_type": "none",
+    "protected": false,
+    "following": null,
+    "is_translator": false,
+    "profile_text_color": "3E4415",
+    "listed_count": 0,
+    "profile_link_color": "D02B55",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme5/bg.gif",
+    "url": null,
+    "id": 104254892,
+    "favourites_count": 3890,
+    "profile_background_color": "352726",
+    "followers_count": 143,
+    "statuses_count": 3309,
+    "description": "Posible Doctor en Qu\u00edmica de la Casa de Bello, amante de la buena mesa, la m\u00fasica y la cultura. \u00d1o\u00f1o empedernido como bonus \u263a",
+    "location": "Santiago, Chile",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme5/bg.gif",
+    "default_profile_image": false,
+    "verified": false,
+    "profile_sidebar_fill_color": "99CC33",
+    "profile_use_background_image": true,
+    "contributors_enabled": false,
+    "profile_sidebar_border_color": "829D5E",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/922258857765765121/Nc7OdRWY_normal.jpg",
+    "geo_enabled": true
+  },
+  "geo": null,
+  "id": 922262074553716737,
+  "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+  "retweeted": false,
+  "filter_level": "low",
+  "in_reply_to_status_id_str": "922174203796885504",
+  "quote_count": 0,
+  "favorited": false,
+  "coordinates": null,
+  "display_text_range": [
+    11,
+    126
+  ],
+  "retweet_count": 0,
+  "is_quote_status": false,
+  "in_reply_to_screen_name": "FranSolar",
+  "contributors": null,
+  "place": {
+    "bounding_box": {
+      "coordinates": [
+        [
+          [
+            -70.64307,
+            -33.518774
+          ],
+          [
+            -70.64307,
+            -33.469444
+          ],
+          [
+            -70.611948,
+            -33.469444
+          ],
+          [
+            -70.611948,
+            -33.518774
+          ]
+        ]
+      ],
+      "type": "Polygon"
+    },
+    "name": "San Joaqu\u00edn",
+    "url": "https://api.twitter.com/1.1/geo/id/0149bbb636ea616c.json",
+    "country_code": "CL",
+    "id": "0149bbb636ea616c",
+    "place_type": "city",
+    "attributes": {},
+    "full_name": "San Joaqu\u00edn, Chile",
+    "country": "Chile"
+  }
+}

@@ -1,0 +1,131 @@
+{
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "indices": [
+          0,
+          9
+        ],
+        "screen_name": "MWinazki",
+        "name": "Miguel Wi\u00f1azki",
+        "id_str": "50065150",
+        "id": 50065150
+      },
+      {
+        "indices": [
+          10,
+          20
+        ],
+        "screen_name": "Silvidedi",
+        "name": "Silv\u00ed",
+        "id_str": "1002971940",
+        "id": 1002971940
+      }
+    ]
+  },
+  "in_reply_to_user_id": 50065150,
+  "created_at": "Sun Oct 22 22:42:14 +0000 2017",
+  "favorite_count": 0,
+  "lang": "es",
+  "reply_count": 0,
+  "id_str": "922231650888581120",
+  "in_reply_to_user_id_str": "50065150",
+  "in_reply_to_status_id": 921718023702110208,
+  "timestamp_ms": "1508712134464",
+  "truncated": false,
+  "text": "@MWinazki @Silvidedi Wi\u00f1aski sos algo del gordo enfermo q esta con el enfermo Lanata?, xq escribis las mismas mentiras",
+  "user": {
+    "time_zone": "Buenos Aires",
+    "screen_name": "CoppeGustavo",
+    "utc_offset": -10800,
+    "created_at": "Sat Sep 16 16:58:31 +0000 2017",
+    "profile_background_tile": false,
+    "notifications": null,
+    "lang": "es",
+    "default_profile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/909099187194744832/1505581623",
+    "id_str": "909099187194744832",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/909101341708029952/ARX770NZ_normal.jpg",
+    "name": "Gustavo A. Coppe",
+    "friends_count": 659,
+    "translator_type": "none",
+    "protected": false,
+    "following": null,
+    "is_translator": false,
+    "follow_request_sent": null,
+    "profile_text_color": "333333",
+    "listed_count": 2,
+    "profile_link_color": "1DA1F2",
+    "profile_background_image_url": "",
+    "url": null,
+    "id": 909099187194744832,
+    "favourites_count": 2613,
+    "profile_background_color": "F5F8FA",
+    "followers_count": 122,
+    "statuses_count": 1150,
+    "description": "Sudamericano, abogado, socialista, agn\u00f3stico, paciencia, realista....",
+    "location": "Ciudad Aut\u00f3noma de Buenos Aire",
+    "profile_background_image_url_https": "",
+    "default_profile_image": false,
+    "verified": false,
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_use_background_image": true,
+    "contributors_enabled": false,
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/909101341708029952/ARX770NZ_normal.jpg",
+    "geo_enabled": true
+  },
+  "geo": null,
+  "id": 922231650888581120,
+  "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+  "retweeted": false,
+  "filter_level": "low",
+  "in_reply_to_status_id_str": "921718023702110208",
+  "quote_count": 0,
+  "favorited": false,
+  "coordinates": null,
+  "display_text_range": [
+    21,
+    118
+  ],
+  "retweet_count": 0,
+  "is_quote_status": false,
+  "in_reply_to_screen_name": "MWinazki",
+  "contributors": null,
+  "place": {
+    "bounding_box": {
+      "coordinates": [
+        [
+          [
+            -58.531792,
+            -34.674453
+          ],
+          [
+            -58.531792,
+            -34.534177
+          ],
+          [
+            -58.353494,
+            -34.534177
+          ],
+          [
+            -58.353494,
+            -34.674453
+          ]
+        ]
+      ],
+      "type": "Polygon"
+    },
+    "name": "Ciudad Aut\u00f3noma de Buenos Aires",
+    "url": "https://api.twitter.com/1.1/geo/id/018f1cde6bad9747.json",
+    "country_code": "AR",
+    "id": "018f1cde6bad9747",
+    "place_type": "city",
+    "attributes": {},
+    "full_name": "Ciudad Aut\u00f3noma de Buenos Aires, Argentina",
+    "country": "Argentina"
+  }
+}

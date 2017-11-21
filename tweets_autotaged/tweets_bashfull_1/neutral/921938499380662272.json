@@ -1,0 +1,121 @@
+{
+  "in_reply_to_user_id": 1465678976,
+  "contributors": null,
+  "id": 921938499380662272,
+  "retweeted": false,
+  "retweet_count": 0,
+  "timestamp_ms": "1508642241698",
+  "in_reply_to_status_id": 921926586718400512,
+  "id_str": "921938499380662272",
+  "created_at": "Sun Oct 22 03:17:21 +0000 2017",
+  "coordinates": null,
+  "favorite_count": 0,
+  "entities": {
+    "user_mentions": [
+      {
+        "indices": [
+          0,
+          10
+        ],
+        "name": "Edgar Pads\ud83e\udd89",
+        "screen_name": "edgarpads",
+        "id": 1465678976,
+        "id_str": "1465678976"
+      }
+    ],
+    "symbols": [],
+    "hashtags": [],
+    "urls": []
+  },
+  "reply_count": 0,
+  "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+  "place": {
+    "attributes": {},
+    "url": "https://api.twitter.com/1.1/geo/id/00c4b64e7affea25.json",
+    "place_type": "city",
+    "id": "00c4b64e7affea25",
+    "country_code": "CL",
+    "name": "Las Condes",
+    "country": "Chile",
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            -70.608694,
+            -33.486182
+          ],
+          [
+            -70.608694,
+            -33.364619
+          ],
+          [
+            -70.429141,
+            -33.364619
+          ],
+          [
+            -70.429141,
+            -33.486182
+          ]
+        ]
+      ]
+    },
+    "full_name": "Las Condes, Chile"
+  },
+  "truncated": false,
+  "in_reply_to_status_id_str": "921926586718400512",
+  "in_reply_to_screen_name": "edgarpads",
+  "filter_level": "low",
+  "text": "@edgarpads Compartiendo Siempre en Familia y haciendo mis cosas mas personales \ud83d\ude04\ud83d\ude48",
+  "geo": null,
+  "in_reply_to_user_id_str": "1465678976",
+  "is_quote_status": false,
+  "display_text_range": [
+    11,
+    81
+  ],
+  "favorited": false,
+  "user": {
+    "verified": false,
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme11/bg.gif",
+    "statuses_count": 123405,
+    "screen_name": "Constanza_x_27",
+    "default_profile_image": false,
+    "time_zone": "Santiago",
+    "name": "Constanza riveros \ud83d\ude80",
+    "id_str": "3421123792",
+    "profile_sidebar_border_color": "000000",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/3421123792/1508559606",
+    "created_at": "Thu Aug 13 22:08:00 +0000 2015",
+    "friends_count": 15149,
+    "url": null,
+    "profile_background_tile": false,
+    "protected": false,
+    "translator_type": "regular",
+    "profile_text_color": "000000",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/921592900680548352/QP2LVibn_normal.jpg",
+    "listed_count": 49,
+    "notifications": null,
+    "contributors_enabled": false,
+    "is_translator": false,
+    "location": "Santiago, Chile",
+    "profile_use_background_image": false,
+    "followers_count": 18185,
+    "profile_sidebar_fill_color": "000000",
+    "geo_enabled": true,
+    "profile_link_color": "E81C4F",
+    "favourites_count": 123631,
+    "following": null,
+    "default_profile": false,
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme11/bg.gif",
+    "profile_background_color": "000000",
+    "id": 3421123792,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/921592900680548352/QP2LVibn_normal.jpg",
+    "lang": "es",
+    "description": "\ud83d\udc9c\u2764\ufe0f\"Es la hora perfecta para empezar a so\u00f1ar\"   Mi principe \ud83e\udd34 @lalobrito La vida es aquello que te va sucediendo mientras te empe\u00f1as en hacer otros planes. \ud83d\udd25\ud83c\udf1b\ud83d\ude80\ud83d\udc99",
+    "follow_request_sent": null,
+    "utc_offset": -10800
+  },
+  "quote_count": 0,
+  "lang": "es"
+}

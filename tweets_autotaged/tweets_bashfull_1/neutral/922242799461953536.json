@@ -1,0 +1,121 @@
+{
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "indices": [
+          0,
+          10
+        ],
+        "screen_name": "flandivar",
+        "name": "Facundo Land\u00edvar",
+        "id_str": "199240383",
+        "id": 199240383
+      }
+    ]
+  },
+  "in_reply_to_user_id": 199240383,
+  "created_at": "Sun Oct 22 23:26:32 +0000 2017",
+  "favorite_count": 0,
+  "lang": "es",
+  "reply_count": 0,
+  "id_str": "922242799461953536",
+  "in_reply_to_user_id_str": "199240383",
+  "in_reply_to_status_id": 922216362919055360,
+  "timestamp_ms": "1508714792491",
+  "truncated": false,
+  "text": "@flandivar te das cuenta que a ese paso , van a tener  que  correr  el l\u00edmite  de edad para votar  , por lo menos , hasta  80",
+  "user": {
+    "time_zone": "Buenos Aires",
+    "screen_name": "Qlahudyo",
+    "utc_offset": -10800,
+    "created_at": "Tue Jun 28 23:03:02 +0000 2011",
+    "profile_background_tile": false,
+    "notifications": null,
+    "lang": "es",
+    "default_profile": false,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/325828208/1504912681",
+    "id_str": "325828208",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/909806471164174336/xcQmdPgA_normal.jpg",
+    "name": "z\u01dddol o\u0131p\u00f1\u0250l\u0254",
+    "friends_count": 1825,
+    "translator_type": "regular",
+    "protected": false,
+    "following": null,
+    "is_translator": false,
+    "follow_request_sent": null,
+    "profile_text_color": "000000",
+    "listed_count": 16,
+    "profile_link_color": "E81C4F",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+    "url": null,
+    "id": 325828208,
+    "favourites_count": 35820,
+    "profile_background_color": "000000",
+    "followers_count": 1373,
+    "statuses_count": 28928,
+    "description": ".\ud83e\udd2b\ud83e\udd14\ud83e\udd14\ud83e\udd14\ud83e\udd14",
+    "location": "Argentina.",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+    "default_profile_image": false,
+    "verified": false,
+    "profile_sidebar_fill_color": "000000",
+    "profile_use_background_image": false,
+    "contributors_enabled": false,
+    "profile_sidebar_border_color": "000000",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/909806471164174336/xcQmdPgA_normal.jpg",
+    "geo_enabled": true
+  },
+  "geo": null,
+  "id": 922242799461953536,
+  "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+  "retweeted": false,
+  "filter_level": "low",
+  "in_reply_to_status_id_str": "922216362919055360",
+  "quote_count": 0,
+  "favorited": false,
+  "coordinates": null,
+  "display_text_range": [
+    11,
+    125
+  ],
+  "retweet_count": 0,
+  "is_quote_status": false,
+  "in_reply_to_screen_name": "flandivar",
+  "contributors": null,
+  "place": {
+    "bounding_box": {
+      "coordinates": [
+        [
+          [
+            -60.781306,
+            -33.033993
+          ],
+          [
+            -60.781306,
+            -32.869238
+          ],
+          [
+            -60.613506,
+            -32.869238
+          ],
+          [
+            -60.613506,
+            -33.033993
+          ]
+        ]
+      ],
+      "type": "Polygon"
+    },
+    "name": "Rosario",
+    "url": "https://api.twitter.com/1.1/geo/id/0079bbc151fa56d2.json",
+    "country_code": "AR",
+    "id": "0079bbc151fa56d2",
+    "place_type": "city",
+    "attributes": {},
+    "full_name": "Rosario, Argentina",
+    "country": "Argentina"
+  }
+}

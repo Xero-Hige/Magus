@@ -1,0 +1,130 @@
+{
+  "in_reply_to_user_id": 2846061201,
+  "contributors": null,
+  "id": 922057898309685249,
+  "retweeted": false,
+  "retweet_count": 0,
+  "timestamp_ms": "1508670708621",
+  "in_reply_to_status_id": 921743340076457989,
+  "id_str": "922057898309685249",
+  "created_at": "Sun Oct 22 11:11:48 +0000 2017",
+  "coordinates": null,
+  "favorite_count": 0,
+  "entities": {
+    "user_mentions": [
+      {
+        "indices": [
+          0,
+          11
+        ],
+        "name": "Desde \u00d1u\u00f1oa",
+        "screen_name": "DesdeNunoa",
+        "id": 2846061201,
+        "id_str": "2846061201"
+      },
+      {
+        "indices": [
+          12,
+          27
+        ],
+        "name": "lalovillarrica",
+        "screen_name": "silva_eduardo9",
+        "id": 1357004028,
+        "id_str": "1357004028"
+      }
+    ],
+    "symbols": [],
+    "hashtags": [],
+    "urls": []
+  },
+  "reply_count": 0,
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "place": {
+    "attributes": {},
+    "url": "https://api.twitter.com/1.1/geo/id/008be613029d4ca5.json",
+    "place_type": "city",
+    "id": "008be613029d4ca5",
+    "country_code": "CL",
+    "name": "Vi\u00f1a del Mar",
+    "country": "Chile",
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            -71.589833,
+            -33.104552
+          ],
+          [
+            -71.589833,
+            -32.948163
+          ],
+          [
+            -71.441459,
+            -32.948163
+          ],
+          [
+            -71.441459,
+            -33.104552
+          ]
+        ]
+      ]
+    },
+    "full_name": "Vi\u00f1a del Mar, Chile"
+  },
+  "truncated": false,
+  "in_reply_to_status_id_str": "921743340076457989",
+  "in_reply_to_screen_name": "DesdeNunoa",
+  "filter_level": "low",
+  "text": "@DesdeNunoa @silva_eduardo9 Hay a preguntarle a Sabat o creen q es verdad q se enferm\u00f3? Le vino la misma enfermedad q a Longueira",
+  "geo": null,
+  "in_reply_to_user_id_str": "2846061201",
+  "is_quote_status": false,
+  "display_text_range": [
+    12,
+    129
+  ],
+  "favorited": false,
+  "user": {
+    "verified": false,
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "statuses_count": 12434,
+    "screen_name": "SantiagoMTP",
+    "default_profile_image": false,
+    "time_zone": "Santiago",
+    "name": "Santiago MTP",
+    "id_str": "100575055",
+    "profile_sidebar_border_color": "C0DEED",
+    "created_at": "Wed Dec 30 19:22:43 +0000 2009",
+    "friends_count": 1737,
+    "url": null,
+    "profile_background_tile": false,
+    "protected": false,
+    "translator_type": "none",
+    "profile_text_color": "333333",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/592857813086576641/YRTxLAH6_normal.jpg",
+    "listed_count": 5,
+    "notifications": null,
+    "contributors_enabled": false,
+    "is_translator": false,
+    "location": null,
+    "profile_use_background_image": true,
+    "followers_count": 846,
+    "profile_sidebar_fill_color": "DDEEF6",
+    "geo_enabled": true,
+    "profile_link_color": "1DA1F2",
+    "favourites_count": 3301,
+    "following": null,
+    "default_profile": true,
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_color": "C0DEED",
+    "id": 100575055,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/592857813086576641/YRTxLAH6_normal.jpg",
+    "lang": "es",
+    "description": null,
+    "follow_request_sent": null,
+    "utc_offset": -10800
+  },
+  "quote_count": 0,
+  "lang": "es"
+}

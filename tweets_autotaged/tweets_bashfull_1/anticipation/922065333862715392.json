@@ -1,0 +1,114 @@
+{
+  "in_reply_to_user_id": null,
+  "contributors": null,
+  "in_reply_to_screen_name": null,
+  "retweeted": false,
+  "retweet_count": 0,
+  "timestamp_ms": "1508672481395",
+  "in_reply_to_status_id": null,
+  "id_str": "922065333862715392",
+  "created_at": "Sun Oct 22 11:41:21 +0000 2017",
+  "id": 922065333862715392,
+  "coordinates": null,
+  "favorite_count": 0,
+  "entities": {
+    "user_mentions": [],
+    "symbols": [],
+    "hashtags": [
+      {
+        "text": "EduardoBerteuris",
+        "indices": [
+          122,
+          139
+        ]
+      }
+    ],
+    "urls": []
+  },
+  "reply_count": 0,
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "place": {
+    "attributes": {},
+    "url": "https://api.twitter.com/1.1/geo/id/00c4b64e7affea25.json",
+    "place_type": "city",
+    "id": "00c4b64e7affea25",
+    "country_code": "CL",
+    "name": "Las Condes",
+    "country": "Chile",
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            -70.608694,
+            -33.486182
+          ],
+          [
+            -70.608694,
+            -33.364619
+          ],
+          [
+            -70.429141,
+            -33.364619
+          ],
+          [
+            -70.429141,
+            -33.486182
+          ]
+        ]
+      ]
+    },
+    "full_name": "Las Condes, Chile"
+  },
+  "truncated": false,
+  "in_reply_to_status_id_str": null,
+  "filter_level": "low",
+  "text": "Educ Pensamiento Enfocado en el Prop\u00f3sito:\nLogro objetivo, aprender a gestionar las emociones y const. de paz y felicidad.#EduardoBerteuris",
+  "geo": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": false,
+  "favorited": false,
+  "user": {
+    "verified": false,
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+    "statuses_count": 6846,
+    "screen_name": "cristiaraya",
+    "default_profile_image": false,
+    "time_zone": "Santiago",
+    "name": "Cristina Araya M.",
+    "id_str": "123622002",
+    "profile_sidebar_border_color": "EEEEEE",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/123622002/1422886244",
+    "created_at": "Tue Mar 16 17:49:52 +0000 2010",
+    "friends_count": 117,
+    "url": "http://www.konsultora.cl",
+    "profile_background_tile": false,
+    "protected": false,
+    "translator_type": "none",
+    "profile_text_color": "333333",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/622108990265262080/vHHCqiei_normal.jpg",
+    "listed_count": 29,
+    "notifications": null,
+    "contributors_enabled": false,
+    "is_translator": false,
+    "location": "Chile",
+    "profile_use_background_image": true,
+    "followers_count": 608,
+    "profile_sidebar_fill_color": "F6F6F6",
+    "geo_enabled": true,
+    "profile_link_color": "038543",
+    "favourites_count": 5129,
+    "following": null,
+    "default_profile": false,
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+    "profile_background_color": "ACDED6",
+    "id": 123622002,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/622108990265262080/vHHCqiei_normal.jpg",
+    "lang": "es",
+    "description": "Apasionada por vivir, aprender y compartir la vida.",
+    "follow_request_sent": null,
+    "utc_offset": -10800
+  },
+  "quote_count": 0,
+  "lang": "es"
+}

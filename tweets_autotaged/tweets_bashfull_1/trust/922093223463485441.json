@@ -1,0 +1,131 @@
+{
+  "in_reply_to_user_id": 614167767,
+  "contributors": null,
+  "id": 922093223463485441,
+  "retweeted": false,
+  "retweet_count": 0,
+  "timestamp_ms": "1508679130794",
+  "in_reply_to_status_id": 921837659164758017,
+  "id_str": "922093223463485441",
+  "created_at": "Sun Oct 22 13:32:10 +0000 2017",
+  "coordinates": null,
+  "favorite_count": 0,
+  "entities": {
+    "user_mentions": [
+      {
+        "indices": [
+          0,
+          12
+        ],
+        "name": "VESTAS BM Alarcos CR",
+        "screen_name": "bmalarcoscr",
+        "id": 614167767,
+        "id_str": "614167767"
+      },
+      {
+        "indices": [
+          39,
+          55
+        ],
+        "name": "Barbie Castel",
+        "screen_name": "BarbieCastelnau",
+        "id": 2224173162,
+        "id_str": "2224173162"
+      }
+    ],
+    "symbols": [],
+    "hashtags": [],
+    "urls": []
+  },
+  "reply_count": 0,
+  "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+  "place": {
+    "attributes": {},
+    "url": "https://api.twitter.com/1.1/geo/id/4afa2757051c5192.json",
+    "place_type": "admin",
+    "id": "4afa2757051c5192",
+    "country_code": "AR",
+    "name": "Buenos Aires",
+    "country": "Argentina",
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            -63.39386,
+            -41.035009
+          ],
+          [
+            -63.39386,
+            -33.260144
+          ],
+          [
+            -56.665836,
+            -33.260144
+          ],
+          [
+            -56.665836,
+            -41.035009
+          ]
+        ]
+      ]
+    },
+    "full_name": "Buenos Aires, Argentina"
+  },
+  "truncated": false,
+  "in_reply_to_status_id_str": "921837659164758017",
+  "in_reply_to_screen_name": "bmalarcoscr",
+  "filter_level": "low",
+  "text": "@bmalarcoscr La encargada es la se\u00f1ora @BarbieCastelnau. Febrero, fecha elegida. Otra vez con ustedes, amigos.",
+  "geo": null,
+  "in_reply_to_user_id_str": "614167767",
+  "is_quote_status": false,
+  "display_text_range": [
+    13,
+    110
+  ],
+  "favorited": false,
+  "user": {
+    "verified": false,
+    "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/629745085656268800/WsdcS9Hf.jpg",
+    "statuses_count": 14062,
+    "screen_name": "ROMANBRAVO10",
+    "default_profile_image": false,
+    "time_zone": null,
+    "name": "Rom\u00e1n Bravo",
+    "id_str": "1430054982",
+    "profile_sidebar_border_color": "000000",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1430054982/1508259844",
+    "created_at": "Wed May 15 09:53:06 +0000 2013",
+    "friends_count": 439,
+    "url": null,
+    "profile_background_tile": true,
+    "protected": false,
+    "translator_type": "none",
+    "profile_text_color": "333333",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/920278593925677056/gNq2JMoT_normal.jpg",
+    "listed_count": 16,
+    "notifications": null,
+    "contributors_enabled": false,
+    "is_translator": false,
+    "location": "Buenos Aires, Argentina",
+    "profile_use_background_image": true,
+    "followers_count": 2551,
+    "profile_sidebar_fill_color": "DDEEF6",
+    "geo_enabled": true,
+    "profile_link_color": "1B95E0",
+    "favourites_count": 3460,
+    "following": null,
+    "default_profile": false,
+    "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/629745085656268800/WsdcS9Hf.jpg",
+    "profile_background_color": "DD2E44",
+    "id": 1430054982,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/920278593925677056/gNq2JMoT_normal.jpg",
+    "lang": "es",
+    "description": "Periodista Deportivo. Comento #HandballEnDeporTV. Relato en #FeMeBalTV. Escribo en @superhandball. DT en @handballmitre. Los colores de mi coraz\u00f3n: @bmalarcoscr",
+    "follow_request_sent": null,
+    "utc_offset": null
+  },
+  "quote_count": 0,
+  "lang": "es"
+}

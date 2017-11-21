@@ -1,0 +1,131 @@
+{
+  "in_reply_to_user_id": 777937965557358592,
+  "contributors": null,
+  "id": 922135561237880832,
+  "retweeted": false,
+  "retweet_count": 0,
+  "timestamp_ms": "1508689224906",
+  "in_reply_to_status_id": 922133174616035328,
+  "id_str": "922135561237880832",
+  "created_at": "Sun Oct 22 16:20:24 +0000 2017",
+  "coordinates": null,
+  "favorite_count": 0,
+  "entities": {
+    "user_mentions": [
+      {
+        "indices": [
+          0,
+          14
+        ],
+        "name": "Pablo Echazarreta",
+        "screen_name": "pechazarreta1",
+        "id": 777937965557358592,
+        "id_str": "777937965557358592"
+      },
+      {
+        "indices": [
+          15,
+          29
+        ],
+        "name": "Dallas Cowboys",
+        "screen_name": "dallascowboys",
+        "id": 8824902,
+        "id_str": "8824902"
+      }
+    ],
+    "symbols": [],
+    "hashtags": [],
+    "urls": []
+  },
+  "reply_count": 0,
+  "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+  "place": {
+    "attributes": {},
+    "url": "https://api.twitter.com/1.1/geo/id/005ebcae757ae11d.json",
+    "place_type": "city",
+    "id": "005ebcae757ae11d",
+    "country_code": "AR",
+    "name": "Miramar",
+    "country": "Argentina",
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            -57.876017,
+            -38.286956
+          ],
+          [
+            -57.876017,
+            -38.21977
+          ],
+          [
+            -57.779186,
+            -38.21977
+          ],
+          [
+            -57.779186,
+            -38.286956
+          ]
+        ]
+      ]
+    },
+    "full_name": "Miramar, Argentina"
+  },
+  "truncated": false,
+  "in_reply_to_status_id_str": "922133174616035328",
+  "in_reply_to_screen_name": "pechazarreta1",
+  "filter_level": "low",
+  "text": "@pechazarreta1 @dallascowboys Seeeeee...agarrate. Somos unos muertos pero hoy damos la sorpresa.",
+  "geo": null,
+  "in_reply_to_user_id_str": "777937965557358592",
+  "is_quote_status": false,
+  "display_text_range": [
+    30,
+    96
+  ],
+  "favorited": false,
+  "user": {
+    "verified": false,
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+    "statuses_count": 31206,
+    "screen_name": "leocaserio",
+    "default_profile_image": false,
+    "time_zone": "Buenos Aires",
+    "name": "LEANDRO CASERIO",
+    "id_str": "173963390",
+    "profile_sidebar_border_color": "A8C7F7",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/173963390/1508089692",
+    "created_at": "Mon Aug 02 19:55:29 +0000 2010",
+    "friends_count": 5119,
+    "url": null,
+    "profile_background_tile": false,
+    "protected": false,
+    "translator_type": "none",
+    "profile_text_color": "333333",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/912316097617170432/u-vY9eT-_normal.jpg",
+    "listed_count": 135,
+    "notifications": null,
+    "contributors_enabled": false,
+    "is_translator": false,
+    "location": "Miramar/MDP/BsAs.- Argentina",
+    "profile_use_background_image": true,
+    "followers_count": 5242,
+    "profile_sidebar_fill_color": "C0DFEC",
+    "geo_enabled": true,
+    "profile_link_color": "0084B4",
+    "favourites_count": 5942,
+    "following": null,
+    "default_profile": false,
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+    "profile_background_color": "022330",
+    "id": 173963390,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/912316097617170432/u-vY9eT-_normal.jpg",
+    "lang": "es",
+    "description": "Cont. Pub (UNdMdP)/Magister #Impuestos (USal) #Taxation #Tax | Aficionado a #Econom\u00eda y #Finanzas | #Rock #HeavyMetal | #Deporte #GYM |",
+    "follow_request_sent": null,
+    "utc_offset": -10800
+  },
+  "quote_count": 0,
+  "lang": "es"
+}

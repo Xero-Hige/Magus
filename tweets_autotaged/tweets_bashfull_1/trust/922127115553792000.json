@@ -1,0 +1,106 @@
+{
+  "in_reply_to_user_id": null,
+  "contributors": null,
+  "in_reply_to_screen_name": null,
+  "retweeted": false,
+  "retweet_count": 0,
+  "timestamp_ms": "1508687211298",
+  "in_reply_to_status_id": null,
+  "id_str": "922127115553792000",
+  "created_at": "Sun Oct 22 15:46:51 +0000 2017",
+  "id": 922127115553792000,
+  "coordinates": null,
+  "favorite_count": 0,
+  "entities": {
+    "user_mentions": [],
+    "symbols": [],
+    "hashtags": [],
+    "urls": []
+  },
+  "reply_count": 0,
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "place": {
+    "attributes": {},
+    "url": "https://api.twitter.com/1.1/geo/id/019d28544dcd29e3.json",
+    "place_type": "city",
+    "id": "019d28544dcd29e3",
+    "country_code": "CL",
+    "name": "Puc\u00f3n",
+    "country": "Chile",
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            -72.065943,
+            -39.507656
+          ],
+          [
+            -72.065943,
+            -39.073263
+          ],
+          [
+            -71.50066,
+            -39.073263
+          ],
+          [
+            -71.50066,
+            -39.507656
+          ]
+        ]
+      ]
+    },
+    "full_name": "Puc\u00f3n, Chile"
+  },
+  "truncated": false,
+  "in_reply_to_status_id_str": null,
+  "filter_level": "low",
+  "text": "Lo verdaderamente importante es la celebraci\u00f3n de C\u00f3rdova en cada gol de Wanderers (?)",
+  "geo": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": false,
+  "favorited": false,
+  "user": {
+    "verified": false,
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "statuses_count": 9597,
+    "screen_name": "rzambranon",
+    "default_profile_image": false,
+    "time_zone": "Santiago",
+    "name": "Ronald Zambrano",
+    "id_str": "268984741",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/268984741/1458613559",
+    "created_at": "Sat Mar 19 21:47:22 +0000 2011",
+    "friends_count": 573,
+    "url": null,
+    "profile_background_tile": false,
+    "protected": false,
+    "translator_type": "none",
+    "profile_text_color": "333333",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/885960273982406656/Ayz_C75P_normal.jpg",
+    "listed_count": 4,
+    "notifications": null,
+    "contributors_enabled": false,
+    "is_translator": false,
+    "location": "Temuco ",
+    "profile_use_background_image": true,
+    "followers_count": 356,
+    "profile_sidebar_fill_color": "DDEEF6",
+    "geo_enabled": true,
+    "profile_link_color": "1DA1F2",
+    "favourites_count": 1084,
+    "following": null,
+    "default_profile": true,
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_color": "C0DEED",
+    "id": 268984741,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/885960273982406656/Ayz_C75P_normal.jpg",
+    "lang": "es",
+    "description": "Constructor e hincha de Deportes Temuco",
+    "follow_request_sent": null,
+    "utc_offset": -10800
+  },
+  "quote_count": 0,
+  "lang": "es"
+}

@@ -1,0 +1,167 @@
+{
+  "entities": {
+    "hashtags": [
+      {
+        "indices": [
+          31,
+          46
+        ],
+        "text": "eleccionesFEUU"
+      }
+    ],
+    "symbols": [],
+    "urls": [
+      {
+        "indices": [
+          117,
+          140
+        ],
+        "expanded_url": "https://twitter.com/i/web/status/922266665651404800",
+        "display_url": "twitter.com/i/web/status/9\u2026",
+        "url": "https://t.co/ex35g1i4dN"
+      }
+    ],
+    "user_mentions": [
+      {
+        "indices": [
+          80,
+          93
+        ],
+        "screen_name": "listacentros",
+        "name": "Lista de los Centros",
+        "id_str": "3956719624",
+        "id": 3956719624
+      }
+    ]
+  },
+  "in_reply_to_user_id": null,
+  "created_at": "Mon Oct 23 01:01:22 +0000 2017",
+  "favorite_count": 0,
+  "lang": "es",
+  "reply_count": 0,
+  "id_str": "922266665651404800",
+  "in_reply_to_user_id_str": null,
+  "extended_tweet": {
+    "entities": {
+      "hashtags": [
+        {
+          "indices": [
+            31,
+            46
+          ],
+          "text": "eleccionesFEUU"
+        }
+      ],
+      "symbols": [],
+      "urls": [],
+      "user_mentions": [
+        {
+          "indices": [
+            80,
+            93
+          ],
+          "screen_name": "listacentros",
+          "name": "Lista de los Centros",
+          "id_str": "3956719624",
+          "id": 3956719624
+        }
+      ]
+    },
+    "display_text_range": [
+      0,
+      169
+    ],
+    "full_text": "Cuando 'tas todo tomao por las #eleccionesFEUU y pasas cantando el jingle de la @listacentros todo el fin de semana. Porque defender los centros de estudiantes, siempre!"
+  },
+  "in_reply_to_status_id": null,
+  "timestamp_ms": "1508720482634",
+  "text": "Cuando 'tas todo tomao por las #eleccionesFEUU y pasas cantando el jingle de la @listacentros todo el fin de semana\u2026 https://t.co/ex35g1i4dN",
+  "user": {
+    "time_zone": "Buenos Aires",
+    "screen_name": "IvanRugnitz",
+    "utc_offset": -10800,
+    "created_at": "Fri Apr 15 00:32:27 +0000 2011",
+    "profile_background_tile": true,
+    "notifications": null,
+    "lang": "es",
+    "default_profile": false,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/282326254/1508203798",
+    "id_str": "282326254",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/920313979121143808/1Nnpefgz_normal.jpg",
+    "name": "DannyLeRouge",
+    "friends_count": 755,
+    "translator_type": "none",
+    "protected": false,
+    "following": null,
+    "is_translator": false,
+    "follow_request_sent": null,
+    "profile_text_color": "F2F2F2",
+    "listed_count": 4,
+    "profile_link_color": "1C52E6",
+    "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000037974844/d590c52b8add7a23ca90010c2ea5b505.jpeg",
+    "url": null,
+    "id": 282326254,
+    "favourites_count": 4279,
+    "profile_background_color": "030003",
+    "followers_count": 407,
+    "statuses_count": 957,
+    "description": "Estudiante de la Facultad de Ciencias Sociales. @cecsofeuu - @ir_uruguay - @el28_FA\n#Socialismo #Feminismo",
+    "location": "Montevideo, Uruguay",
+    "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000037974844/d590c52b8add7a23ca90010c2ea5b505.jpeg",
+    "default_profile_image": false,
+    "verified": false,
+    "profile_sidebar_fill_color": "4742C9",
+    "profile_use_background_image": true,
+    "contributors_enabled": false,
+    "profile_sidebar_border_color": "000000",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/920313979121143808/1Nnpefgz_normal.jpg",
+    "geo_enabled": true
+  },
+  "geo": null,
+  "id": 922266665651404800,
+  "quote_count": 0,
+  "retweeted": false,
+  "filter_level": "low",
+  "in_reply_to_status_id_str": null,
+  "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+  "favorited": false,
+  "coordinates": null,
+  "truncated": true,
+  "retweet_count": 0,
+  "is_quote_status": false,
+  "in_reply_to_screen_name": null,
+  "contributors": null,
+  "place": {
+    "bounding_box": {
+      "coordinates": [
+        [
+          [
+            -56.430439,
+            -34.937896
+          ],
+          [
+            -56.430439,
+            -34.701599
+          ],
+          [
+            -56.029341,
+            -34.701599
+          ],
+          [
+            -56.029341,
+            -34.937896
+          ]
+        ]
+      ],
+      "type": "Polygon"
+    },
+    "name": "Montevideo",
+    "url": "https://api.twitter.com/1.1/geo/id/01a9dbb9232f0fac.json",
+    "country_code": "UY",
+    "id": "01a9dbb9232f0fac",
+    "place_type": "admin",
+    "attributes": {},
+    "full_name": "Montevideo, Uruguay",
+    "country": "Uruguay"
+  }
+}

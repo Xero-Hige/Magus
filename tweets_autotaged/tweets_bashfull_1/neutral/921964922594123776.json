@@ -1,0 +1,151 @@
+{
+  "in_reply_to_user_id": 343549131,
+  "contributors": null,
+  "id": 921964922594123776,
+  "retweeted": false,
+  "retweet_count": 0,
+  "timestamp_ms": "1508648541483",
+  "in_reply_to_status_id": 921964422226219008,
+  "id_str": "921964922594123776",
+  "created_at": "Sun Oct 22 05:02:21 +0000 2017",
+  "coordinates": null,
+  "favorite_count": 0,
+  "entities": {
+    "user_mentions": [
+      {
+        "indices": [
+          0,
+          12
+        ],
+        "name": "Ro",
+        "screen_name": "Rosannassss",
+        "id": 343549131,
+        "id_str": "343549131"
+      },
+      {
+        "indices": [
+          13,
+          29
+        ],
+        "name": "Inf\u00aeriginal Carriz\u00a9",
+        "screen_name": "boleadorcharrua",
+        "id": 185473576,
+        "id_str": "185473576"
+      },
+      {
+        "indices": [
+          30,
+          44
+        ],
+        "name": "Charles Amorin",
+        "screen_name": "CharlesAmorin",
+        "id": 477164227,
+        "id_str": "477164227"
+      },
+      {
+        "indices": [
+          45,
+          58
+        ],
+        "name": "Met Florida Uruguay",
+        "screen_name": "MetFloridaUy",
+        "id": 3092461912,
+        "id_str": "3092461912"
+      }
+    ],
+    "symbols": [],
+    "hashtags": [],
+    "urls": []
+  },
+  "reply_count": 0,
+  "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+  "place": {
+    "attributes": {},
+    "url": "https://api.twitter.com/1.1/geo/id/d0f5be1262dee9aa.json",
+    "place_type": "country",
+    "id": "d0f5be1262dee9aa",
+    "country_code": "UY",
+    "name": "Uruguay",
+    "country": "Uruguay",
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            -58.491052,
+            -34.980163
+          ],
+          [
+            -58.491052,
+            -30.085693
+          ],
+          [
+            -53.071505,
+            -30.085693
+          ],
+          [
+            -53.071505,
+            -34.980163
+          ]
+        ]
+      ]
+    },
+    "full_name": "Uruguay"
+  },
+  "truncated": false,
+  "in_reply_to_status_id_str": "921964422226219008",
+  "in_reply_to_screen_name": "Rosannassss",
+  "filter_level": "low",
+  "text": "@Rosannassss @boleadorcharrua @CharlesAmorin @MetFloridaUy si se va la \u00faltima. hasta nuevo aviso lluvias, y si rota viento m\u00e1s frio todavia.",
+  "geo": null,
+  "in_reply_to_user_id_str": "343549131",
+  "is_quote_status": false,
+  "display_text_range": [
+    59,
+    140
+  ],
+  "favorited": false,
+  "user": {
+    "verified": false,
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "statuses_count": 1255,
+    "screen_name": "navegoYpirateo",
+    "default_profile_image": false,
+    "time_zone": "Pacific Time (US & Canada)",
+    "name": "NavegadorPirata",
+    "id_str": "3343350921",
+    "profile_sidebar_border_color": "000000",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/3343350921/1508529528",
+    "created_at": "Wed Jun 24 00:27:57 +0000 2015",
+    "friends_count": 3,
+    "url": null,
+    "profile_background_tile": false,
+    "protected": false,
+    "translator_type": "none",
+    "profile_text_color": "000000",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/615719397081092096/ufIvbWpi_normal.png",
+    "listed_count": 4,
+    "notifications": null,
+    "contributors_enabled": false,
+    "is_translator": false,
+    "location": null,
+    "profile_use_background_image": false,
+    "followers_count": 328,
+    "profile_sidebar_fill_color": "000000",
+    "geo_enabled": true,
+    "profile_link_color": "3B94D9",
+    "favourites_count": 398,
+    "following": null,
+    "default_profile": false,
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_color": "000000",
+    "id": 3343350921,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/615719397081092096/ufIvbWpi_normal.png",
+    "lang": "es",
+    "description": "Nada pasaba por aqui; y me detuve...",
+    "follow_request_sent": null,
+    "utc_offset": -25200
+  },
+  "quote_count": 0,
+  "lang": "es"
+}

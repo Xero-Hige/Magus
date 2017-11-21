@@ -1,0 +1,155 @@
+{
+  "in_reply_to_user_id": 2515418436,
+  "contributors": null,
+  "id": 922150264752222209,
+  "retweeted": false,
+  "retweet_count": 0,
+  "timestamp_ms": "1508692730497",
+  "in_reply_to_status_id": 922139639053418496,
+  "id_str": "922150264752222209",
+  "coordinates": null,
+  "created_at": "Sun Oct 22 17:18:50 +0000 2017",
+  "quote_count": 0,
+  "favorite_count": 0,
+  "entities": {
+    "user_mentions": [
+      {
+        "indices": [
+          0,
+          16
+        ],
+        "name": "Progres d Pto Madero",
+        "screen_name": "CamporaPoMadero",
+        "id": 2515418436,
+        "id_str": "2515418436"
+      }
+    ],
+    "symbols": [],
+    "hashtags": [],
+    "urls": [
+      {
+        "expanded_url": "https://twitter.com/i/web/status/922150264752222209",
+        "indices": [
+          117,
+          140
+        ],
+        "url": "https://t.co/bdAU6wD3y2",
+        "display_url": "twitter.com/i/web/status/9\u2026"
+      }
+    ]
+  },
+  "reply_count": 0,
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "place": {
+    "attributes": {},
+    "url": "https://api.twitter.com/1.1/geo/id/01651b883a556caf.json",
+    "place_type": "city",
+    "id": "01651b883a556caf",
+    "country_code": "AR",
+    "name": "Alejandro Petion",
+    "country": "Argentina",
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            -58.698349,
+            -35.005115
+          ],
+          [
+            -58.698349,
+            -34.971739
+          ],
+          [
+            -58.663036,
+            -34.971739
+          ],
+          [
+            -58.663036,
+            -35.005115
+          ]
+        ]
+      ]
+    },
+    "full_name": "Alejandro Petion, Argentina"
+  },
+  "truncated": true,
+  "in_reply_to_status_id_str": "922139639053418496",
+  "in_reply_to_screen_name": "CamporaPoMadero",
+  "filter_level": "low",
+  "text": "@CamporaPoMadero Colaborar\u00eda con la colecta, pero me compromet\u00ed a pagarle el caf\u00e9 con leche y tostado en Ezeiza a R\u2026 https://t.co/bdAU6wD3y2",
+  "geo": null,
+  "in_reply_to_user_id_str": "2515418436",
+  "is_quote_status": false,
+  "display_text_range": [
+    17,
+    140
+  ],
+  "favorited": false,
+  "user": {
+    "verified": false,
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "statuses_count": 1096,
+    "screen_name": "pshest",
+    "default_profile_image": false,
+    "time_zone": "Buenos Aires",
+    "name": "PabloS",
+    "id_str": "768510888",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/768510888/1448306892",
+    "created_at": "Mon Aug 20 00:33:13 +0000 2012",
+    "friends_count": 132,
+    "url": null,
+    "profile_background_tile": false,
+    "protected": false,
+    "translator_type": "none",
+    "profile_text_color": "333333",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/915341860444483585/YKvwZ3_5_normal.jpg",
+    "listed_count": 0,
+    "notifications": null,
+    "contributors_enabled": false,
+    "is_translator": false,
+    "location": "Ciudad Aut\u00f3noma de Buenos Aire",
+    "profile_use_background_image": true,
+    "followers_count": 79,
+    "profile_sidebar_fill_color": "DDEEF6",
+    "geo_enabled": true,
+    "profile_link_color": "1DA1F2",
+    "favourites_count": 369,
+    "following": null,
+    "default_profile": true,
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_color": "C0DEED",
+    "id": 768510888,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/915341860444483585/YKvwZ3_5_normal.jpg",
+    "lang": "es",
+    "description": "Padre de mellizos, incansable remador, gallina a muerte. Fanatico de la buena vida y el Nespresso.",
+    "follow_request_sent": null,
+    "utc_offset": -10800
+  },
+  "extended_tweet": {
+    "entities": {
+      "user_mentions": [
+        {
+          "indices": [
+            0,
+            16
+          ],
+          "name": "Progres d Pto Madero",
+          "screen_name": "CamporaPoMadero",
+          "id": 2515418436,
+          "id_str": "2515418436"
+        }
+      ],
+      "symbols": [],
+      "hashtags": [],
+      "urls": []
+    },
+    "display_text_range": [
+      17,
+      156
+    ],
+    "full_text": "@CamporaPoMadero Colaborar\u00eda con la colecta, pero me compromet\u00ed a pagarle el caf\u00e9 con leche y tostado en Ezeiza a Roberto Navarro.saldr\u00e1n en el mismo vuelo?"
+  },
+  "lang": "es"
+}

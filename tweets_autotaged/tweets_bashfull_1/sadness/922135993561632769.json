@@ -1,0 +1,155 @@
+{
+  "in_reply_to_user_id": 11061482,
+  "contributors": null,
+  "id": 922135993561632769,
+  "retweeted": false,
+  "retweet_count": 0,
+  "timestamp_ms": "1508689327980",
+  "in_reply_to_status_id": 921796814034137088,
+  "id_str": "922135993561632769",
+  "coordinates": null,
+  "created_at": "Sun Oct 22 16:22:07 +0000 2017",
+  "quote_count": 0,
+  "favorite_count": 0,
+  "entities": {
+    "user_mentions": [
+      {
+        "indices": [
+          0,
+          14
+        ],
+        "name": "Patricio Navia",
+        "screen_name": "patricionavia",
+        "id": 11061482,
+        "id_str": "11061482"
+      }
+    ],
+    "symbols": [],
+    "hashtags": [],
+    "urls": [
+      {
+        "expanded_url": "https://twitter.com/i/web/status/922135993561632769",
+        "indices": [
+          117,
+          140
+        ],
+        "url": "https://t.co/aE5k5tkH8p",
+        "display_url": "twitter.com/i/web/status/9\u2026"
+      }
+    ]
+  },
+  "reply_count": 0,
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "place": {
+    "attributes": {},
+    "url": "https://api.twitter.com/1.1/geo/id/0010b4cb51ca93d8.json",
+    "place_type": "city",
+    "id": "0010b4cb51ca93d8",
+    "country_code": "CL",
+    "name": "Santiago",
+    "country": "Chile",
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            -70.692959,
+            -33.478574
+          ],
+          [
+            -70.692959,
+            -33.425749
+          ],
+          [
+            -70.626272,
+            -33.425749
+          ],
+          [
+            -70.626272,
+            -33.478574
+          ]
+        ]
+      ]
+    },
+    "full_name": "Santiago, Chile"
+  },
+  "truncated": true,
+  "in_reply_to_status_id_str": "921796814034137088",
+  "in_reply_to_screen_name": "patricionavia",
+  "filter_level": "low",
+  "text": "@patricionavia Y que otra opci\u00f3n tienen, es como si todos los chilenos y chilenas estuvi\u00e9ramos felices con todos lo\u2026 https://t.co/aE5k5tkH8p",
+  "geo": null,
+  "in_reply_to_user_id_str": "11061482",
+  "is_quote_status": false,
+  "display_text_range": [
+    15,
+    140
+  ],
+  "favorited": false,
+  "user": {
+    "verified": false,
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "statuses_count": 1848,
+    "screen_name": "manuljorquera",
+    "default_profile_image": false,
+    "time_zone": "Santiago",
+    "name": "Manuel Jorquera",
+    "id_str": "104916581",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/104916581/1460461387",
+    "created_at": "Thu Jan 14 20:07:04 +0000 2010",
+    "friends_count": 469,
+    "url": "http://www.vivopositivo.cl",
+    "profile_background_tile": false,
+    "protected": false,
+    "translator_type": "none",
+    "profile_text_color": "333333",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/774912783536295936/72OR8FRX_normal.jpg",
+    "listed_count": 0,
+    "notifications": null,
+    "contributors_enabled": false,
+    "is_translator": false,
+    "location": "Chile",
+    "profile_use_background_image": true,
+    "followers_count": 188,
+    "profile_sidebar_fill_color": "DDEEF6",
+    "geo_enabled": true,
+    "profile_link_color": "1DA1F2",
+    "favourites_count": 838,
+    "following": null,
+    "default_profile": true,
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_color": "C0DEED",
+    "id": 104916581,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/774912783536295936/72OR8FRX_normal.jpg",
+    "lang": "es",
+    "description": "Defiendo Pol\u00edticas de Estado.    Director VIVO POSITIVO         +56976090534 whapp +56956591596 cel",
+    "follow_request_sent": null,
+    "utc_offset": -10800
+  },
+  "extended_tweet": {
+    "entities": {
+      "user_mentions": [
+        {
+          "indices": [
+            0,
+            14
+          ],
+          "name": "Patricio Navia",
+          "screen_name": "patricionavia",
+          "id": 11061482,
+          "id_str": "11061482"
+        }
+      ],
+      "symbols": [],
+      "hashtags": [],
+      "urls": []
+    },
+    "display_text_range": [
+      15,
+      295
+    ],
+    "full_text": "@patricionavia Y que otra opci\u00f3n tienen, es como si todos los chilenos y chilenas estuvi\u00e9ramos felices con todos los candidatos a la presidencia, ah\u00ed los culpables son los candidatos que corrompen el esp\u00edritu de la representaci\u00f3n territorial, uno apenas puede votar por el menos malo con cuea!!!"
+  },
+  "lang": "es"
+}

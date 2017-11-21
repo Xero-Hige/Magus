@@ -1,0 +1,121 @@
+{
+  "in_reply_to_user_id": 49153460,
+  "contributors": null,
+  "id": 922031102725935104,
+  "retweeted": false,
+  "retweet_count": 0,
+  "timestamp_ms": "1508664320056",
+  "in_reply_to_status_id": 921818528243683330,
+  "id_str": "922031102725935104",
+  "created_at": "Sun Oct 22 09:25:20 +0000 2017",
+  "coordinates": null,
+  "favorite_count": 0,
+  "entities": {
+    "user_mentions": [
+      {
+        "indices": [
+          0,
+          11
+        ],
+        "name": "Silvia Mercado",
+        "screen_name": "SilMercado",
+        "id": 49153460,
+        "id_str": "49153460"
+      }
+    ],
+    "symbols": [],
+    "hashtags": [],
+    "urls": []
+  },
+  "reply_count": 0,
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "place": {
+    "attributes": {},
+    "url": "https://api.twitter.com/1.1/geo/id/004b853c78703c20.json",
+    "place_type": "city",
+    "id": "004b853c78703c20",
+    "country_code": "AR",
+    "name": "Ciudad del Libertador General San Mart\u00edn",
+    "country": "Argentina",
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            -58.618436,
+            -34.597406
+          ],
+          [
+            -58.618436,
+            -34.491912
+          ],
+          [
+            -58.509913,
+            -34.491912
+          ],
+          [
+            -58.509913,
+            -34.597406
+          ]
+        ]
+      ]
+    },
+    "full_name": "Ciudad del Libertador General San Mart\u00edn, Argentina"
+  },
+  "truncated": false,
+  "in_reply_to_status_id_str": "921818528243683330",
+  "in_reply_to_screen_name": "SilMercado",
+  "filter_level": "low",
+  "text": "@SilMercado Hay gente de mierda, hay gente que es a\u00fan m\u00e1s mierda y arriba de todo est\u00e1 Silvia Mercado",
+  "geo": null,
+  "in_reply_to_user_id_str": "49153460",
+  "is_quote_status": false,
+  "display_text_range": [
+    12,
+    101
+  ],
+  "favorited": false,
+  "user": {
+    "verified": false,
+    "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/545648435/385408_255807851150424_115689108495633_715765_1432664796_n.jpg",
+    "statuses_count": 23654,
+    "screen_name": "rodmasf",
+    "default_profile_image": false,
+    "time_zone": "America/Argentina/Buenos_Aires",
+    "name": "Rodrigo Mas",
+    "id_str": "205737695",
+    "profile_sidebar_border_color": "EEEEEE",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/205737695/1427411699",
+    "created_at": "Thu Oct 21 14:08:52 +0000 2010",
+    "friends_count": 1589,
+    "url": "http://www.bastadepensamientounico.blogspot.com",
+    "profile_background_tile": true,
+    "protected": false,
+    "translator_type": "none",
+    "profile_text_color": "333333",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/651819063082123265/hzbs8gn0_normal.jpg",
+    "listed_count": 17,
+    "notifications": null,
+    "contributors_enabled": false,
+    "is_translator": false,
+    "location": "Buenos Aires",
+    "profile_use_background_image": true,
+    "followers_count": 1164,
+    "profile_sidebar_fill_color": "FFFFFF",
+    "geo_enabled": true,
+    "profile_link_color": "990F0F",
+    "favourites_count": 16127,
+    "following": null,
+    "default_profile": false,
+    "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/545648435/385408_255807851150424_115689108495633_715765_1432664796_n.jpg",
+    "profile_background_color": "B2DFDA",
+    "id": 205737695,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/651819063082123265/hzbs8gn0_normal.jpg",
+    "lang": "es",
+    "description": "Cristinista y Peronista. Periodista y Mel\u00f3mano. Dir y Productor de TV y ex Publicitario. Defensor Incondicional del Modelo Nacional y Popular. Gracias N\u00e9stor",
+    "follow_request_sent": null,
+    "utc_offset": -10800
+  },
+  "quote_count": 0,
+  "lang": "es"
+}

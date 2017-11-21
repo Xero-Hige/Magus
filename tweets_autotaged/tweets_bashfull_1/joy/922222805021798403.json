@@ -1,0 +1,121 @@
+{
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "indices": [
+          0,
+          15
+        ],
+        "screen_name": "cgonzalezlucay",
+        "name": "Carlos Gonz\u00e1lez L.",
+        "id_str": "115106321",
+        "id": 115106321
+      }
+    ]
+  },
+  "in_reply_to_user_id": 115106321,
+  "created_at": "Sun Oct 22 22:07:05 +0000 2017",
+  "favorite_count": 0,
+  "lang": "es",
+  "reply_count": 0,
+  "id_str": "922222805021798403",
+  "in_reply_to_user_id_str": "115106321",
+  "in_reply_to_status_id": 922222525576368128,
+  "timestamp_ms": "1508710025445",
+  "truncated": false,
+  "text": "@cgonzalezlucay Absolutamente oiga saludos y lo felicito por ser padre hace unos d\u00edas.",
+  "user": {
+    "time_zone": "Atlantic Time (Canada)",
+    "screen_name": "FelipeAgalaz95",
+    "utc_offset": -10800,
+    "created_at": "Tue May 15 04:10:16 +0000 2012",
+    "profile_background_tile": false,
+    "notifications": null,
+    "lang": "es",
+    "default_profile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/580525418/1494905465",
+    "id_str": "580525418",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/907429873978941441/CP054psh_normal.jpg",
+    "name": "FelipeAlexisGalazQ \u26bd",
+    "friends_count": 2951,
+    "translator_type": "none",
+    "protected": false,
+    "following": null,
+    "is_translator": false,
+    "follow_request_sent": null,
+    "profile_text_color": "333333",
+    "listed_count": 76,
+    "profile_link_color": "1DA1F2",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "url": "https://Instagram.com/FelipeAgalaz95",
+    "id": 580525418,
+    "favourites_count": 997,
+    "profile_background_color": "C0DEED",
+    "followers_count": 2432,
+    "statuses_count": 186295,
+    "description": "Veo F\u00fatbol, Basquetbol, Tenis y otros deportes, Musica y Rock, Viajo en micro, calvo, sigo algunas veces a Hermosas y guapas mujeres y trato de ser objetivo.",
+    "location": "Metropolitano y Campod\u00f3nico",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "default_profile_image": false,
+    "verified": false,
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_use_background_image": true,
+    "contributors_enabled": false,
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/907429873978941441/CP054psh_normal.jpg",
+    "geo_enabled": true
+  },
+  "geo": null,
+  "id": 922222805021798403,
+  "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+  "retweeted": false,
+  "filter_level": "low",
+  "in_reply_to_status_id_str": "922222525576368128",
+  "quote_count": 0,
+  "favorited": false,
+  "coordinates": null,
+  "display_text_range": [
+    16,
+    86
+  ],
+  "retweet_count": 0,
+  "is_quote_status": false,
+  "in_reply_to_screen_name": "cgonzalezlucay",
+  "contributors": null,
+  "place": {
+    "bounding_box": {
+      "coordinates": [
+        [
+          [
+            -70.949133,
+            -33.598472
+          ],
+          [
+            -70.949133,
+            -33.509275
+          ],
+          [
+            -70.778729,
+            -33.509275
+          ],
+          [
+            -70.778729,
+            -33.598472
+          ]
+        ]
+      ],
+      "type": "Polygon"
+    },
+    "name": "Padre Hurtado",
+    "url": "https://api.twitter.com/1.1/geo/id/01f363992f5937d7.json",
+    "country_code": "CL",
+    "id": "01f363992f5937d7",
+    "place_type": "city",
+    "attributes": {},
+    "full_name": "Padre Hurtado, Chile",
+    "country": "Chile"
+  }
+}

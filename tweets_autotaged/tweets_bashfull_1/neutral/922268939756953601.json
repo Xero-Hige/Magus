@@ -1,0 +1,128 @@
+{
+  "entities": {
+    "hashtags": [
+      {
+        "indices": [
+          1,
+          9
+        ],
+        "text": "Olimpia"
+      },
+      {
+        "indices": [
+          79,
+          87
+        ],
+        "text": "Olimpia"
+      },
+      {
+        "indices": [
+          88,
+          94
+        ],
+        "text": "970AM"
+      }
+    ],
+    "symbols": [],
+    "urls": [],
+    "user_mentions": []
+  },
+  "in_reply_to_user_id": null,
+  "created_at": "Mon Oct 23 01:10:24 +0000 2017",
+  "favorite_count": 0,
+  "lang": "es",
+  "reply_count": 0,
+  "id_str": "922268939756953601",
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_status_id": null,
+  "timestamp_ms": "1508721024823",
+  "text": "\"#Olimpia est\u00e1 con todas las pilas, los muchachos se entregaron\" Pedro Balotta #Olimpia #970AM",
+  "user": {
+    "time_zone": "Buenos Aires",
+    "screen_name": "Futgol970AM",
+    "utc_offset": -10800,
+    "created_at": "Wed Mar 02 14:39:28 +0000 2016",
+    "profile_background_tile": false,
+    "notifications": null,
+    "lang": "es",
+    "default_profile": false,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/705039826979065862/1500647884",
+    "id_str": "705039826979065862",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/915906982422466561/wC1nYOMb_normal.jpg",
+    "name": "Futgol 970 - Oficial",
+    "friends_count": 250,
+    "translator_type": "none",
+    "protected": false,
+    "following": null,
+    "is_translator": false,
+    "follow_request_sent": null,
+    "profile_text_color": "000000",
+    "listed_count": 76,
+    "profile_link_color": "F58EA8",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "url": null,
+    "id": 705039826979065862,
+    "favourites_count": 115,
+    "profile_background_color": "000000",
+    "followers_count": 24503,
+    "statuses_count": 62423,
+    "description": "Cuenta de Deportes de la @Radio970AM. Futgol 970: L a S de 12:00 a 14:00 y de 19:00 a 20:00. Adem\u00e1s, estamos en todas las transmisiones de F\u00fatbol.\u26bd\ufe0f \u00a1S\u00e9 parte!",
+    "location": "Asuncion, Paraguay",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "default_profile_image": false,
+    "verified": false,
+    "profile_sidebar_fill_color": "000000",
+    "profile_use_background_image": false,
+    "contributors_enabled": false,
+    "profile_sidebar_border_color": "000000",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/915906982422466561/wC1nYOMb_normal.jpg",
+    "geo_enabled": true
+  },
+  "geo": null,
+  "id": 922268939756953601,
+  "quote_count": 0,
+  "retweeted": false,
+  "filter_level": "low",
+  "in_reply_to_status_id_str": null,
+  "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+  "favorited": false,
+  "coordinates": null,
+  "truncated": false,
+  "retweet_count": 0,
+  "is_quote_status": false,
+  "in_reply_to_screen_name": null,
+  "contributors": null,
+  "place": {
+    "bounding_box": {
+      "coordinates": [
+        [
+          [
+            -62.64512,
+            -27.594325
+          ],
+          [
+            -62.64512,
+            -19.294041
+          ],
+          [
+            -54.258291,
+            -19.294041
+          ],
+          [
+            -54.258291,
+            -27.594325
+          ]
+        ]
+      ],
+      "type": "Polygon"
+    },
+    "name": "Paraguay",
+    "url": "https://api.twitter.com/1.1/geo/id/6cf2fd60a82329fc.json",
+    "country_code": "PY",
+    "id": "6cf2fd60a82329fc",
+    "place_type": "country",
+    "attributes": {},
+    "full_name": "Paraguay",
+    "country": "Paraguay"
+  }
+}

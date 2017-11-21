@@ -1,0 +1,106 @@
+{
+  "in_reply_to_user_id": null,
+  "contributors": null,
+  "in_reply_to_screen_name": null,
+  "retweeted": false,
+  "retweet_count": 0,
+  "timestamp_ms": "1508665384095",
+  "in_reply_to_status_id": null,
+  "id_str": "922035565629001728",
+  "created_at": "Sun Oct 22 09:43:04 +0000 2017",
+  "id": 922035565629001728,
+  "coordinates": null,
+  "favorite_count": 0,
+  "entities": {
+    "user_mentions": [],
+    "symbols": [],
+    "hashtags": [],
+    "urls": []
+  },
+  "reply_count": 0,
+  "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+  "place": {
+    "attributes": {},
+    "url": "https://api.twitter.com/1.1/geo/id/00054d3a0a8df14e.json",
+    "place_type": "city",
+    "id": "00054d3a0a8df14e",
+    "country_code": "AR",
+    "name": "Mendoza",
+    "country": "Argentina",
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            -68.91592,
+            -32.904531
+          ],
+          [
+            -68.91592,
+            -32.862154
+          ],
+          [
+            -68.817455,
+            -32.862154
+          ],
+          [
+            -68.817455,
+            -32.904531
+          ]
+        ]
+      ]
+    },
+    "full_name": "Mendoza, Argentina"
+  },
+  "truncated": false,
+  "in_reply_to_status_id_str": null,
+  "filter_level": "low",
+  "text": "Si me caliento el guiso de la cena a esta hora esta mal?  Esto de estudiar mucho me da hambre. Ahre que siempre tengo hambre",
+  "geo": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": false,
+  "favorited": false,
+  "user": {
+    "verified": false,
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "statuses_count": 6914,
+    "screen_name": "marcucho_bless",
+    "default_profile_image": false,
+    "time_zone": null,
+    "name": "Marcucho\u265a",
+    "id_str": "3378162646",
+    "profile_sidebar_border_color": "000000",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/3378162646/1471084606",
+    "created_at": "Thu Jul 16 00:52:43 +0000 2015",
+    "friends_count": 159,
+    "url": null,
+    "profile_background_tile": false,
+    "protected": false,
+    "translator_type": "none",
+    "profile_text_color": "000000",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/915992660434878466/C9RX8Yn4_normal.jpg",
+    "listed_count": 3,
+    "notifications": null,
+    "contributors_enabled": false,
+    "is_translator": false,
+    "location": null,
+    "profile_use_background_image": false,
+    "followers_count": 252,
+    "profile_sidebar_fill_color": "000000",
+    "geo_enabled": true,
+    "profile_link_color": "FF691F",
+    "favourites_count": 1045,
+    "following": null,
+    "default_profile": false,
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_color": "000000",
+    "id": 3378162646,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/915992660434878466/C9RX8Yn4_normal.jpg",
+    "lang": "es",
+    "description": "Rock and roll es todo lo que puedo dar Las Heras-Santa Cruz  En Mendoza City  19 a\u00f1os.  Tengo cama, porro , vino y paz",
+    "follow_request_sent": null,
+    "utc_offset": null
+  },
+  "quote_count": 0,
+  "lang": "es"
+}

@@ -1,0 +1,144 @@
+{
+  "in_reply_to_user_id": null,
+  "contributors": null,
+  "in_reply_to_screen_name": null,
+  "retweeted": false,
+  "retweet_count": 0,
+  "timestamp_ms": "1508649797992",
+  "in_reply_to_status_id": null,
+  "id_str": "921970192774811649",
+  "created_at": "Sun Oct 22 05:23:17 +0000 2017",
+  "id": 921970192774811649,
+  "coordinates": {
+    "type": "Point",
+    "coordinates": [
+      -71.6667,
+      -33.3667
+    ]
+  },
+  "favorite_count": 0,
+  "entities": {
+    "user_mentions": [],
+    "symbols": [],
+    "hashtags": [
+      {
+        "text": "titan",
+        "indices": [
+          3,
+          9
+        ]
+      },
+      {
+        "text": "algarrobo",
+        "indices": [
+          10,
+          20
+        ]
+      }
+    ],
+    "urls": [
+      {
+        "expanded_url": "https://www.instagram.com/p/BaidXHnDt94/",
+        "indices": [
+          92,
+          115
+        ],
+        "url": "https://t.co/OilArHCoMq",
+        "display_url": "instagram.com/p/BaidXHnDt94/"
+      }
+    ]
+  },
+  "reply_count": 0,
+  "source": "<a href=\"http://instagram.com\" rel=\"nofollow\">Instagram</a>",
+  "place": {
+    "attributes": {},
+    "url": "https://api.twitter.com/1.1/geo/id/0156549254faed3d.json",
+    "place_type": "city",
+    "id": "0156549254faed3d",
+    "country_code": "CL",
+    "name": "Algarrobo",
+    "country": "Chile",
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            -71.696117,
+            -33.402594
+          ],
+          [
+            -71.696117,
+            -33.251249
+          ],
+          [
+            -71.521288,
+            -33.251249
+          ],
+          [
+            -71.521288,
+            -33.402594
+          ]
+        ]
+      ]
+    },
+    "full_name": "Algarrobo, Chile"
+  },
+  "truncated": false,
+  "in_reply_to_status_id_str": null,
+  "filter_level": "low",
+  "text": "Mi #titan #algarrobo estuve d\u00edas sin poder verlo por la operaci\u00f3n necesito estar bien para\u2026 https://t.co/OilArHCoMq",
+  "geo": {
+    "type": "Point",
+    "coordinates": [
+      -33.3667,
+      -71.6667
+    ]
+  },
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": false,
+  "possibly_sensitive": false,
+  "favorited": false,
+  "user": {
+    "verified": false,
+    "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/30104967/foto_nuestra2.jpg",
+    "statuses_count": 2655,
+    "screen_name": "RealChilean",
+    "default_profile_image": false,
+    "time_zone": "Santiago",
+    "name": "RealChilean",
+    "id_str": "58240024",
+    "profile_sidebar_border_color": "55F022",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/58240024/1494633925",
+    "created_at": "Sun Jul 19 17:05:56 +0000 2009",
+    "friends_count": 1306,
+    "url": null,
+    "profile_background_tile": true,
+    "protected": false,
+    "translator_type": "none",
+    "profile_text_color": "333333",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000292791905/c5ca95187391499f7f3e6fe3cee73260_normal.jpeg",
+    "listed_count": 0,
+    "notifications": null,
+    "contributors_enabled": false,
+    "is_translator": false,
+    "location": "Algarrobo, Chile",
+    "profile_use_background_image": true,
+    "followers_count": 217,
+    "profile_sidebar_fill_color": "C7121B",
+    "geo_enabled": true,
+    "profile_link_color": "0084B4",
+    "favourites_count": 313,
+    "following": null,
+    "default_profile": false,
+    "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/30104967/foto_nuestra2.jpg",
+    "profile_background_color": "9AE4E8",
+    "id": 58240024,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/378800000292791905/c5ca95187391499f7f3e6fe3cee73260_normal.jpeg",
+    "lang": "es",
+    "description": "dise\u00f1os exclusivos en mosaico y restauraciones ,vivo de lo que m\u00e1s quiero, en un lugar hermoso",
+    "follow_request_sent": null,
+    "utc_offset": -10800
+  },
+  "quote_count": 0,
+  "lang": "es"
+}

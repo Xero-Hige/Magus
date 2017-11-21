@@ -1,0 +1,129 @@
+{
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "urls": [
+      {
+        "indices": [
+          117,
+          140
+        ],
+        "expanded_url": "https://twitter.com/i/web/status/922268319293550595",
+        "display_url": "twitter.com/i/web/status/9\u2026",
+        "url": "https://t.co/yFyhO0I61q"
+      }
+    ],
+    "user_mentions": []
+  },
+  "in_reply_to_user_id": null,
+  "created_at": "Mon Oct 23 01:07:56 +0000 2017",
+  "favorite_count": 0,
+  "lang": "es",
+  "reply_count": 0,
+  "id_str": "922268319293550595",
+  "in_reply_to_user_id_str": null,
+  "extended_tweet": {
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "urls": [],
+      "user_mentions": []
+    },
+    "display_text_range": [
+      0,
+      236
+    ],
+    "full_text": "Buenos Aires\n+ Elecciones\nSENADORES NACIONALES\nElectores totales: 12.251.329\nMesas escrutadas: 26.161 (73,51%)\nCAMBIEMOS BUENOS AIRES\n2.930.18742,19%\nUNIDAD CIUDADANA\n2.524.26536,35%\n1PAIS\n794.44011,44%\nFRENTE JUSTICIALISTA\n364.3865,25%"
+  },
+  "in_reply_to_status_id": null,
+  "timestamp_ms": "1508720876893",
+  "text": "Buenos Aires\n+ Elecciones\nSENADORES NACIONALES\nElectores totales: 12.251.329\nMesas escrutadas: 26.161 (73,51%)\nCAMB\u2026 https://t.co/yFyhO0I61q",
+  "user": {
+    "time_zone": "Buenos Aires",
+    "screen_name": "TorresMeRyOk",
+    "utc_offset": -10800,
+    "created_at": "Fri Nov 06 23:05:49 +0000 2009",
+    "profile_background_tile": false,
+    "notifications": null,
+    "lang": "es",
+    "default_profile": false,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/88056890/1499264391",
+    "id_str": "88056890",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/914292700626800640/E96OzM4E_normal.jpg",
+    "name": "\u24c2\u24d4\u24c7\u24e8 \uf8ff",
+    "friends_count": 1445,
+    "translator_type": "none",
+    "protected": false,
+    "following": null,
+    "is_translator": false,
+    "follow_request_sent": null,
+    "profile_text_color": "000000",
+    "listed_count": 11,
+    "profile_link_color": "3B94D9",
+    "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/703250451676930048/zmwRGKK5.jpg",
+    "url": "http://www.instagram.com/torresmeryok",
+    "id": 88056890,
+    "favourites_count": 45957,
+    "profile_background_color": "4A913C",
+    "followers_count": 5085,
+    "statuses_count": 82099,
+    "description": "Tener \u00e9xito es lograr lo que quieres, ser feliz es querer lo que logras // Sonre\u00edr y no amargarse la vida por nada ni por nadie, esa es la actitud.",
+    "location": "Capital Federal",
+    "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/703250451676930048/zmwRGKK5.jpg",
+    "default_profile_image": false,
+    "verified": false,
+    "profile_sidebar_fill_color": "000000",
+    "profile_use_background_image": true,
+    "contributors_enabled": false,
+    "profile_sidebar_border_color": "000000",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/914292700626800640/E96OzM4E_normal.jpg",
+    "geo_enabled": true
+  },
+  "geo": null,
+  "id": 922268319293550595,
+  "quote_count": 0,
+  "retweeted": false,
+  "filter_level": "low",
+  "in_reply_to_status_id_str": null,
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "favorited": false,
+  "coordinates": null,
+  "truncated": true,
+  "retweet_count": 0,
+  "is_quote_status": false,
+  "in_reply_to_screen_name": null,
+  "contributors": null,
+  "place": {
+    "bounding_box": {
+      "coordinates": [
+        [
+          [
+            -58.600305,
+            -34.530168
+          ],
+          [
+            -58.600305,
+            -34.450269
+          ],
+          [
+            -58.481209,
+            -34.450269
+          ],
+          [
+            -58.481209,
+            -34.530168
+          ]
+        ]
+      ],
+      "type": "Polygon"
+    },
+    "name": "San Isidro",
+    "url": "https://api.twitter.com/1.1/geo/id/0086c37e4416111e.json",
+    "country_code": "AR",
+    "id": "0086c37e4416111e",
+    "place_type": "city",
+    "attributes": {},
+    "full_name": "San Isidro, Argentina",
+    "country": "Argentina"
+  }
+}

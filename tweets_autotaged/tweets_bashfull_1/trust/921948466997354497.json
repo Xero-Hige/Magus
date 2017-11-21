@@ -1,0 +1,131 @@
+{
+  "in_reply_to_user_id": 2560410121,
+  "contributors": null,
+  "id": 921948466997354497,
+  "retweeted": false,
+  "retweet_count": 0,
+  "timestamp_ms": "1508644618163",
+  "in_reply_to_status_id": 921947680842113024,
+  "id_str": "921948466997354497",
+  "created_at": "Sun Oct 22 03:56:58 +0000 2017",
+  "coordinates": null,
+  "favorite_count": 0,
+  "entities": {
+    "user_mentions": [
+      {
+        "indices": [
+          0,
+          16
+        ],
+        "name": "Ema",
+        "screen_name": "Emaguerrero1317",
+        "id": 2560410121,
+        "id_str": "2560410121"
+      },
+      {
+        "indices": [
+          17,
+          28
+        ],
+        "name": "Alexander",
+        "screen_name": "Alexg_CARP",
+        "id": 3441810676,
+        "id_str": "3441810676"
+      }
+    ],
+    "symbols": [],
+    "hashtags": [],
+    "urls": []
+  },
+  "reply_count": 0,
+  "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+  "place": {
+    "attributes": {},
+    "url": "https://api.twitter.com/1.1/geo/id/00da7cec74df27ff.json",
+    "place_type": "city",
+    "id": "00da7cec74df27ff",
+    "country_code": "AR",
+    "name": "Neuqu\u00e9n",
+    "country": "Argentina",
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            -68.176283,
+            -38.984724
+          ],
+          [
+            -68.176283,
+            -38.921051
+          ],
+          [
+            -68.015162,
+            -38.921051
+          ],
+          [
+            -68.015162,
+            -38.984724
+          ]
+        ]
+      ]
+    },
+    "full_name": "Neuqu\u00e9n, Argentina"
+  },
+  "truncated": false,
+  "in_reply_to_status_id_str": "921947680842113024",
+  "in_reply_to_screen_name": "Emaguerrero1317",
+  "filter_level": "low",
+  "text": "@Emaguerrero1317 @Alexg_CARP si te llevas un equipo de f\u00fatbol profesional, como no vas a ganar? es reto es con el equipo de los muertos",
+  "geo": null,
+  "in_reply_to_user_id_str": "2560410121",
+  "is_quote_status": false,
+  "display_text_range": [
+    29,
+    135
+  ],
+  "favorited": false,
+  "user": {
+    "verified": false,
+    "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/693621705458257920/CTNu-3nd.jpg",
+    "statuses_count": 4389,
+    "screen_name": "Facu_Stanger",
+    "default_profile_image": false,
+    "time_zone": "Buenos Aires",
+    "name": "\ud83d\udc8e Linco",
+    "id_str": "2304650253",
+    "profile_sidebar_border_color": "000000",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/2304650253/1496002458",
+    "created_at": "Sun Jan 26 01:04:39 +0000 2014",
+    "friends_count": 262,
+    "url": null,
+    "profile_background_tile": false,
+    "protected": false,
+    "translator_type": "none",
+    "profile_text_color": "000000",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/868923181897310209/UWc2mu49_normal.jpg",
+    "listed_count": 0,
+    "notifications": null,
+    "contributors_enabled": false,
+    "is_translator": false,
+    "location": null,
+    "profile_use_background_image": true,
+    "followers_count": 115,
+    "profile_sidebar_fill_color": "000000",
+    "geo_enabled": true,
+    "profile_link_color": "000000",
+    "favourites_count": 2380,
+    "following": null,
+    "default_profile": false,
+    "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/693621705458257920/CTNu-3nd.jpg",
+    "profile_background_color": "022330",
+    "id": 2304650253,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/868923181897310209/UWc2mu49_normal.jpg",
+    "lang": "es",
+    "description": "Cargando...",
+    "follow_request_sent": null,
+    "utc_offset": -10800
+  },
+  "quote_count": 0,
+  "lang": "es"
+}

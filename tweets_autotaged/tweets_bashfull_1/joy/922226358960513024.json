@@ -1,0 +1,174 @@
+{
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "urls": [
+      {
+        "indices": [
+          117,
+          140
+        ],
+        "expanded_url": "https://twitter.com/i/web/status/922226358960513024",
+        "display_url": "twitter.com/i/web/status/9\u2026",
+        "url": "https://t.co/KHI21BXQC2"
+      }
+    ],
+    "user_mentions": [
+      {
+        "indices": [
+          0,
+          11
+        ],
+        "screen_name": "diegoelman",
+        "name": "Diego Elman",
+        "id_str": "40001689",
+        "id": 40001689
+      },
+      {
+        "indices": [
+          12,
+          25
+        ],
+        "screen_name": "alefiliberti",
+        "name": "Rep\u00fablica",
+        "id_str": "382425701",
+        "id": 382425701
+      }
+    ]
+  },
+  "in_reply_to_user_id": 40001689,
+  "created_at": "Sun Oct 22 22:21:12 +0000 2017",
+  "favorite_count": 0,
+  "lang": "es",
+  "reply_count": 0,
+  "id_str": "922226358960513024",
+  "in_reply_to_user_id_str": "40001689",
+  "extended_tweet": {
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "urls": [],
+      "user_mentions": [
+        {
+          "indices": [
+            0,
+            11
+          ],
+          "screen_name": "diegoelman",
+          "name": "Diego Elman",
+          "id_str": "40001689",
+          "id": 40001689
+        },
+        {
+          "indices": [
+            12,
+            25
+          ],
+          "screen_name": "alefiliberti",
+          "name": "Rep\u00fablica",
+          "id_str": "382425701",
+          "id": 382425701
+        }
+      ]
+    },
+    "display_text_range": [
+      26,
+      147
+    ],
+    "full_text": "@diegoelman @alefiliberti Totalmente, me emocion\u00e8 abrazando a un Gendarme que no era m\u00e0s que un pibe con un fusil , s\u00f2lo  agradecer y felicitarlos."
+  },
+  "in_reply_to_status_id": 922178623309742080,
+  "timestamp_ms": "1508710872770",
+  "truncated": true,
+  "text": "@diegoelman @alefiliberti Totalmente, me emocion\u00e8 abrazando a un Gendarme que no era m\u00e0s que un pibe con un fusil ,\u2026 https://t.co/KHI21BXQC2",
+  "user": {
+    "time_zone": null,
+    "screen_name": "ChechoPaternal",
+    "utc_offset": null,
+    "created_at": "Wed Mar 06 23:50:03 +0000 2013",
+    "profile_background_tile": false,
+    "notifications": null,
+    "lang": "es",
+    "default_profile": true,
+    "follow_request_sent": null,
+    "id_str": "1247513198",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/3694191379/7a0f93566bdd40a734e5a4e989f5e371_normal.jpeg",
+    "name": "Pablo Rocco",
+    "friends_count": 113,
+    "translator_type": "none",
+    "protected": false,
+    "following": null,
+    "is_translator": false,
+    "profile_text_color": "333333",
+    "listed_count": 3,
+    "profile_link_color": "1DA1F2",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "url": null,
+    "id": 1247513198,
+    "favourites_count": 18475,
+    "profile_background_color": "C0DEED",
+    "followers_count": 245,
+    "statuses_count": 16043,
+    "description": "Nunca es triste la verdad,lo que no tiene es remedio",
+    "location": null,
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "default_profile_image": false,
+    "verified": false,
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_use_background_image": true,
+    "contributors_enabled": false,
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/3694191379/7a0f93566bdd40a734e5a4e989f5e371_normal.jpeg",
+    "geo_enabled": true
+  },
+  "geo": null,
+  "id": 922226358960513024,
+  "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+  "retweeted": false,
+  "filter_level": "low",
+  "in_reply_to_status_id_str": "922178623309742080",
+  "quote_count": 0,
+  "favorited": false,
+  "coordinates": null,
+  "display_text_range": [
+    26,
+    140
+  ],
+  "retweet_count": 0,
+  "is_quote_status": false,
+  "in_reply_to_screen_name": "diegoelman",
+  "contributors": null,
+  "place": {
+    "bounding_box": {
+      "coordinates": [
+        [
+          [
+            -60.987875,
+            -34.632159
+          ],
+          [
+            -60.987875,
+            -34.556746
+          ],
+          [
+            -60.916278,
+            -34.556746
+          ],
+          [
+            -60.916278,
+            -34.632159
+          ]
+        ]
+      ],
+      "type": "Polygon"
+    },
+    "name": "Jun\u00edn",
+    "url": "https://api.twitter.com/1.1/geo/id/0166613a22e8bbe7.json",
+    "country_code": "AR",
+    "id": "0166613a22e8bbe7",
+    "place_type": "city",
+    "attributes": {},
+    "full_name": "Jun\u00edn, Argentina",
+    "country": "Argentina"
+  }
+}

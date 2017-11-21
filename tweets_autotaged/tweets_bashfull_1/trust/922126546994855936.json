@@ -1,0 +1,128 @@
+{
+  "in_reply_to_user_id": null,
+  "contributors": null,
+  "in_reply_to_screen_name": null,
+  "retweeted": false,
+  "retweet_count": 0,
+  "timestamp_ms": "1508687075743",
+  "in_reply_to_status_id": null,
+  "id_str": "922126546994855936",
+  "created_at": "Sun Oct 22 15:44:35 +0000 2017",
+  "id": 922126546994855936,
+  "coordinates": null,
+  "favorite_count": 0,
+  "entities": {
+    "user_mentions": [
+      {
+        "indices": [
+          21,
+          35
+        ],
+        "name": "Araucan\u00eda Noticias",
+        "screen_name": "araucanianews",
+        "id": 245067621,
+        "id_str": "245067621"
+      }
+    ],
+    "symbols": [],
+    "hashtags": [],
+    "urls": [
+      {
+        "expanded_url": "https://goo.gl/f8oH9f",
+        "indices": [
+          105,
+          128
+        ],
+        "url": "https://t.co/0eFB0vozJy",
+        "display_url": "goo.gl/f8oH9f"
+      }
+    ]
+  },
+  "reply_count": 0,
+  "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+  "place": {
+    "attributes": {},
+    "url": "https://api.twitter.com/1.1/geo/id/00c4b64e7affea25.json",
+    "place_type": "city",
+    "id": "00c4b64e7affea25",
+    "country_code": "CL",
+    "name": "Las Condes",
+    "country": "Chile",
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            -70.608694,
+            -33.486182
+          ],
+          [
+            -70.608694,
+            -33.364619
+          ],
+          [
+            -70.429141,
+            -33.364619
+          ],
+          [
+            -70.429141,
+            -33.486182
+          ]
+        ]
+      ]
+    },
+    "full_name": "Las Condes, Chile"
+  },
+  "truncated": false,
+  "in_reply_to_status_id_str": null,
+  "filter_level": "low",
+  "text": "Corporaci\u00f3n MATER en @araucanianews: M\u00e9dicos voluntarios operar\u00e1n a ni\u00f1os en lista de espera de Victoria https://t.co/0eFB0vozJy",
+  "geo": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": false,
+  "possibly_sensitive": false,
+  "favorited": false,
+  "user": {
+    "verified": false,
+    "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/454018632805122049/koC7wM-w.jpeg",
+    "statuses_count": 188,
+    "screen_name": "CorpMater",
+    "default_profile_image": false,
+    "time_zone": "Santiago",
+    "name": "Corporaci\u00f3n MATER",
+    "id_str": "2435913512",
+    "profile_sidebar_border_color": "FFFFFF",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/2435913512/1473277050",
+    "created_at": "Wed Apr 09 18:35:15 +0000 2014",
+    "friends_count": 327,
+    "url": "http://www.corporacionmater.cl",
+    "profile_background_tile": true,
+    "protected": false,
+    "translator_type": "none",
+    "profile_text_color": "333333",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/879696006543290368/VIbkdoGY_normal.jpg",
+    "listed_count": 6,
+    "notifications": null,
+    "contributors_enabled": false,
+    "is_translator": false,
+    "location": "San Miguel, Chile",
+    "profile_use_background_image": true,
+    "followers_count": 526,
+    "profile_sidebar_fill_color": "DDEEF6",
+    "geo_enabled": true,
+    "profile_link_color": "1B95E0",
+    "favourites_count": 33,
+    "following": null,
+    "default_profile": false,
+    "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/454018632805122049/koC7wM-w.jpeg",
+    "profile_background_color": "EB7309",
+    "id": 2435913512,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/879696006543290368/VIbkdoGY_normal.jpg",
+    "lang": "es",
+    "description": "Corporaci\u00f3n sin fines de lucro. M\u00e1s de 20 a\u00f1os contribuyendo a mejorar la salud renal de ni\u00f1os y ni\u00f1as de Chile.",
+    "follow_request_sent": null,
+    "utc_offset": -10800
+  },
+  "quote_count": 0,
+  "lang": "es"
+}

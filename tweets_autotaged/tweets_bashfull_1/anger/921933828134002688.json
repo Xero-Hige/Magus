@@ -1,0 +1,175 @@
+{
+  "in_reply_to_user_id": 573641719,
+  "contributors": null,
+  "id": 921933828134002688,
+  "retweeted": false,
+  "retweet_count": 0,
+  "timestamp_ms": "1508641127986",
+  "in_reply_to_status_id": 921664297025064963,
+  "id_str": "921933828134002688",
+  "coordinates": null,
+  "created_at": "Sun Oct 22 02:58:47 +0000 2017",
+  "quote_count": 0,
+  "favorite_count": 0,
+  "entities": {
+    "user_mentions": [
+      {
+        "indices": [
+          0,
+          14
+        ],
+        "name": "fabiolaquitralgloor",
+        "screen_name": "fquitralgloor",
+        "id": 573641719,
+        "id_str": "573641719"
+      },
+      {
+        "indices": [
+          15,
+          31
+        ],
+        "name": "claudia Nogueira",
+        "screen_name": "Nogueiradiputad",
+        "id": 159973705,
+        "id_str": "159973705"
+      }
+    ],
+    "symbols": [],
+    "hashtags": [],
+    "urls": [
+      {
+        "expanded_url": "https://twitter.com/i/web/status/921933828134002688",
+        "indices": [
+          117,
+          140
+        ],
+        "url": "https://t.co/UIhrVjyGLV",
+        "display_url": "twitter.com/i/web/status/9\u2026"
+      }
+    ]
+  },
+  "reply_count": 0,
+  "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+  "place": {
+    "attributes": {},
+    "url": "https://api.twitter.com/1.1/geo/id/00c4b64e7affea25.json",
+    "place_type": "city",
+    "id": "00c4b64e7affea25",
+    "country_code": "CL",
+    "name": "Las Condes",
+    "country": "Chile",
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            -70.608694,
+            -33.486182
+          ],
+          [
+            -70.608694,
+            -33.364619
+          ],
+          [
+            -70.429141,
+            -33.364619
+          ],
+          [
+            -70.429141,
+            -33.486182
+          ]
+        ]
+      ]
+    },
+    "full_name": "Las Condes, Chile"
+  },
+  "truncated": true,
+  "in_reply_to_status_id_str": "921664297025064963",
+  "in_reply_to_screen_name": "fquitralgloor",
+  "filter_level": "low",
+  "text": "@fquitralgloor @Nogueiradiputad LA LADRONA CLAUDIA NOGUEIRA NUEVAMENTE QUIERE ROBAR . FORMALIZADA EN DOS OPORTUNIDA\u2026 https://t.co/UIhrVjyGLV",
+  "geo": null,
+  "in_reply_to_user_id_str": "573641719",
+  "is_quote_status": false,
+  "display_text_range": [
+    32,
+    140
+  ],
+  "favorited": false,
+  "user": {
+    "verified": false,
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "statuses_count": 10413,
+    "screen_name": "GermanGsp28",
+    "default_profile_image": false,
+    "time_zone": null,
+    "name": "GERMAN SANCHEZ",
+    "id_str": "305736949",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/305736949/1435535264",
+    "created_at": "Thu May 26 18:28:29 +0000 2011",
+    "friends_count": 318,
+    "url": null,
+    "profile_background_tile": false,
+    "protected": false,
+    "translator_type": "none",
+    "profile_text_color": "333333",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/746839689957613568/UGWugfqc_normal.jpg",
+    "listed_count": 4,
+    "notifications": null,
+    "contributors_enabled": false,
+    "is_translator": false,
+    "location": null,
+    "profile_use_background_image": true,
+    "followers_count": 99,
+    "profile_sidebar_fill_color": "DDEEF6",
+    "geo_enabled": true,
+    "profile_link_color": "1DA1F2",
+    "favourites_count": 9,
+    "following": null,
+    "default_profile": true,
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_color": "C0DEED",
+    "id": 305736949,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/746839689957613568/UGWugfqc_normal.jpg",
+    "lang": "es",
+    "description": null,
+    "follow_request_sent": null,
+    "utc_offset": null
+  },
+  "extended_tweet": {
+    "entities": {
+      "user_mentions": [
+        {
+          "indices": [
+            0,
+            14
+          ],
+          "name": "fabiolaquitralgloor",
+          "screen_name": "fquitralgloor",
+          "id": 573641719,
+          "id_str": "573641719"
+        },
+        {
+          "indices": [
+            15,
+            31
+          ],
+          "name": "claudia Nogueira",
+          "screen_name": "Nogueiradiputad",
+          "id": 159973705,
+          "id_str": "159973705"
+        }
+      ],
+      "symbols": [],
+      "hashtags": [],
+      "urls": []
+    },
+    "display_text_range": [
+      32,
+      164
+    ],
+    "full_text": "@fquitralgloor @Nogueiradiputad LA LADRONA CLAUDIA NOGUEIRA NUEVAMENTE QUIERE ROBAR . FORMALIZADA EN DOS OPORTUNIDADES POR APROPIACION INDEBIDA DE DINEROS FISCALES."
+  },
+  "lang": "es"
+}

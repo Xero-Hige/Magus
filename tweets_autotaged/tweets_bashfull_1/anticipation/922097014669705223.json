@@ -1,0 +1,117 @@
+{
+  "in_reply_to_user_id": null,
+  "contributors": null,
+  "in_reply_to_screen_name": null,
+  "retweeted": false,
+  "retweet_count": 0,
+  "timestamp_ms": "1508680034688",
+  "in_reply_to_status_id": null,
+  "id_str": "922097014669705223",
+  "created_at": "Sun Oct 22 13:47:14 +0000 2017",
+  "id": 922097014669705223,
+  "coordinates": null,
+  "favorite_count": 0,
+  "entities": {
+    "user_mentions": [
+      {
+        "indices": [
+          17,
+          24
+        ],
+        "name": "Javier Milei",
+        "screen_name": "JMilei",
+        "id": 4020276615,
+        "id_str": "4020276615"
+      }
+    ],
+    "symbols": [],
+    "hashtags": [],
+    "urls": []
+  },
+  "reply_count": 0,
+  "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+  "place": {
+    "attributes": {},
+    "url": "https://api.twitter.com/1.1/geo/id/0079bbc151fa56d2.json",
+    "place_type": "city",
+    "id": "0079bbc151fa56d2",
+    "country_code": "AR",
+    "name": "Rosario",
+    "country": "Argentina",
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            -60.781306,
+            -33.033993
+          ],
+          [
+            -60.781306,
+            -32.869238
+          ],
+          [
+            -60.613506,
+            -32.869238
+          ],
+          [
+            -60.613506,
+            -33.033993
+          ]
+        ]
+      ]
+    },
+    "full_name": "Rosario, Argentina"
+  },
+  "truncated": false,
+  "in_reply_to_status_id_str": null,
+  "filter_level": "low",
+  "text": "Feliz cumplea\u00f1os @JMilei nos vemos el jueves en Expo Inversiones Rosario !",
+  "geo": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": false,
+  "favorited": false,
+  "user": {
+    "verified": false,
+    "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/722499667/56acb3987117d988a87ff69fdae0599f.jpeg",
+    "statuses_count": 41099,
+    "screen_name": "rosariofinanzas",
+    "default_profile_image": false,
+    "time_zone": "Buenos Aires",
+    "name": "Rosario Finanzas",
+    "id_str": "278733311",
+    "profile_sidebar_border_color": "FFFFFF",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/278733311/1353982510",
+    "created_at": "Thu Apr 07 21:28:26 +0000 2011",
+    "friends_count": 5539,
+    "url": "http://www.rosariofinanzas.com.ar",
+    "profile_background_tile": false,
+    "protected": false,
+    "translator_type": "none",
+    "profile_text_color": "333333",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/2900755423/34fae0aae5f2bfca1eab217788486383_normal.jpeg",
+    "listed_count": 135,
+    "notifications": null,
+    "contributors_enabled": false,
+    "is_translator": false,
+    "location": "Rosario - Argentina",
+    "profile_use_background_image": true,
+    "followers_count": 10774,
+    "profile_sidebar_fill_color": "DDEEF6",
+    "geo_enabled": true,
+    "profile_link_color": "0084B4",
+    "favourites_count": 1852,
+    "following": null,
+    "default_profile": false,
+    "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/722499667/56acb3987117d988a87ff69fdae0599f.jpeg",
+    "profile_background_color": "C0DEED",
+    "id": 278733311,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/2900755423/34fae0aae5f2bfca1eab217788486383_normal.jpeg",
+    "lang": "es",
+    "description": "Empresa que tiene por misi\u00f3n fomentar y difundir el uso de herramientas financieras.  +54 9 341 660-2043 #Einros17",
+    "follow_request_sent": null,
+    "utc_offset": -10800
+  },
+  "quote_count": 0,
+  "lang": "es"
+}

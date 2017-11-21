@@ -1,0 +1,121 @@
+{
+  "in_reply_to_user_id": 197658113,
+  "contributors": null,
+  "id": 921937911725150210,
+  "retweeted": false,
+  "retweet_count": 0,
+  "timestamp_ms": "1508642101590",
+  "in_reply_to_status_id": 921937182457303040,
+  "id_str": "921937911725150210",
+  "created_at": "Sun Oct 22 03:15:01 +0000 2017",
+  "coordinates": null,
+  "favorite_count": 0,
+  "entities": {
+    "user_mentions": [
+      {
+        "indices": [
+          0,
+          15
+        ],
+        "name": "Lauti",
+        "screen_name": "Lautiroman1995",
+        "id": 197658113,
+        "id_str": "197658113"
+      }
+    ],
+    "symbols": [],
+    "hashtags": [],
+    "urls": []
+  },
+  "reply_count": 0,
+  "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+  "place": {
+    "attributes": {},
+    "url": "https://api.twitter.com/1.1/geo/id/018f1cde6bad9747.json",
+    "place_type": "city",
+    "id": "018f1cde6bad9747",
+    "country_code": "AR",
+    "name": "Ciudad Aut\u00f3noma de Buenos Aires",
+    "country": "Argentina",
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            -58.531792,
+            -34.674453
+          ],
+          [
+            -58.531792,
+            -34.534177
+          ],
+          [
+            -58.353494,
+            -34.534177
+          ],
+          [
+            -58.353494,
+            -34.674453
+          ]
+        ]
+      ]
+    },
+    "full_name": "Ciudad Aut\u00f3noma de Buenos Aires, Argentina"
+  },
+  "truncated": false,
+  "in_reply_to_status_id_str": "921937182457303040",
+  "in_reply_to_screen_name": "Lautiroman1995",
+  "filter_level": "low",
+  "text": "@Lautiroman1995 Gente irrecuperable., les quemaron las neuronas durante 12 a\u00f1os",
+  "geo": null,
+  "in_reply_to_user_id_str": "197658113",
+  "is_quote_status": false,
+  "display_text_range": [
+    16,
+    79
+  ],
+  "favorited": false,
+  "user": {
+    "verified": false,
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "statuses_count": 9231,
+    "screen_name": "BayarskySilvia",
+    "default_profile_image": false,
+    "time_zone": "Buenos Aires",
+    "name": "Graciasalavida\ud83c\udf39",
+    "id_str": "2366544043",
+    "profile_sidebar_border_color": "000000",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/2366544043/1475166916",
+    "created_at": "Sat Mar 01 04:52:25 +0000 2014",
+    "friends_count": 389,
+    "url": null,
+    "profile_background_tile": false,
+    "protected": false,
+    "translator_type": "none",
+    "profile_text_color": "000000",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/786582573589856256/f4kEET-g_normal.jpg",
+    "listed_count": 10,
+    "notifications": null,
+    "contributors_enabled": false,
+    "is_translator": false,
+    "location": "Argentina",
+    "profile_use_background_image": false,
+    "followers_count": 263,
+    "profile_sidebar_fill_color": "000000",
+    "geo_enabled": true,
+    "profile_link_color": "981CEB",
+    "favourites_count": 1926,
+    "following": null,
+    "default_profile": false,
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_color": "000000",
+    "id": 2366544043,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/786582573589856256/f4kEET-g_normal.jpg",
+    "lang": "es",
+    "description": "Qui\u00e9n salva una vida salva al mundo entero (Talmud)\ud83c\udf3a",
+    "follow_request_sent": null,
+    "utc_offset": -10800
+  },
+  "quote_count": 0,
+  "lang": "es"
+}

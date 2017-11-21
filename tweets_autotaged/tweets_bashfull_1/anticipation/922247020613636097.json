@@ -1,0 +1,114 @@
+{
+  "entities": {
+    "hashtags": [
+      {
+        "indices": [
+          5,
+          15
+        ],
+        "text": "cambiemos"
+      }
+    ],
+    "symbols": [],
+    "urls": [],
+    "user_mentions": []
+  },
+  "in_reply_to_user_id": null,
+  "created_at": "Sun Oct 22 23:43:18 +0000 2017",
+  "favorite_count": 0,
+  "lang": "es",
+  "reply_count": 0,
+  "id_str": "922247020613636097",
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_status_id": null,
+  "timestamp_ms": "1508715798892",
+  "text": "Gan\u00f3 #cambiemos en Villa \u00c1ngela, que felicidad me da saber que no vuelven m\u00e1s!! Que lindo es saber que la gente quiere un cambio de verdad",
+  "user": {
+    "time_zone": null,
+    "screen_name": "TomasBendersky",
+    "utc_offset": null,
+    "created_at": "Thu Oct 18 20:23:21 +0000 2012",
+    "profile_background_tile": true,
+    "notifications": null,
+    "lang": "es",
+    "default_profile": false,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/889667870/1505160026",
+    "id_str": "889667870",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/917082809692512256/vzViLRjH_normal.jpg",
+    "name": "Tom\u00e1s \ud83c\udfcc\ud83c\udffc",
+    "friends_count": 675,
+    "translator_type": "none",
+    "protected": false,
+    "following": null,
+    "is_translator": false,
+    "follow_request_sent": null,
+    "profile_text_color": "333333",
+    "listed_count": 2,
+    "profile_link_color": "0084B4",
+    "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/833888954/23b2663f4e8b2304dbfcaa85457193c8.jpeg",
+    "url": null,
+    "id": 889667870,
+    "favourites_count": 18444,
+    "profile_background_color": "C0DEED",
+    "followers_count": 1243,
+    "statuses_count": 12456,
+    "description": "Born in Villa Angela - Chaco | Riverista a muerte | Pisciano | Enfermo del Basquet | #TeamMcGregor",
+    "location": "Villa angela chaco",
+    "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/833888954/23b2663f4e8b2304dbfcaa85457193c8.jpeg",
+    "default_profile_image": false,
+    "verified": false,
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_use_background_image": true,
+    "contributors_enabled": false,
+    "profile_sidebar_border_color": "000000",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/917082809692512256/vzViLRjH_normal.jpg",
+    "geo_enabled": true
+  },
+  "geo": null,
+  "id": 922247020613636097,
+  "quote_count": 0,
+  "retweeted": false,
+  "filter_level": "low",
+  "in_reply_to_status_id_str": null,
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "favorited": false,
+  "coordinates": null,
+  "truncated": false,
+  "retweet_count": 0,
+  "is_quote_status": false,
+  "in_reply_to_screen_name": null,
+  "contributors": null,
+  "place": {
+    "bounding_box": {
+      "coordinates": [
+        [
+          [
+            -63.427613,
+            -28.00003
+          ],
+          [
+            -63.427613,
+            -24.093138
+          ],
+          [
+            -58.363861,
+            -24.093138
+          ],
+          [
+            -58.363861,
+            -28.00003
+          ]
+        ]
+      ],
+      "type": "Polygon"
+    },
+    "name": "Chaco",
+    "url": "https://api.twitter.com/1.1/geo/id/7ef2a4f4beedc767.json",
+    "country_code": "AR",
+    "id": "7ef2a4f4beedc767",
+    "place_type": "admin",
+    "attributes": {},
+    "full_name": "Chaco, Argentina",
+    "country": "Argentina"
+  }
+}

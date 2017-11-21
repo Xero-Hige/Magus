@@ -1,0 +1,117 @@
+{
+  "in_reply_to_user_id": null,
+  "contributors": null,
+  "in_reply_to_screen_name": null,
+  "retweeted": false,
+  "retweet_count": 0,
+  "timestamp_ms": "1508681678542",
+  "in_reply_to_status_id": null,
+  "id_str": "922103909493112833",
+  "created_at": "Sun Oct 22 14:14:38 +0000 2017",
+  "id": 922103909493112833,
+  "coordinates": null,
+  "favorite_count": 0,
+  "entities": {
+    "user_mentions": [
+      {
+        "indices": [
+          6,
+          14
+        ],
+        "name": "infobae",
+        "screen_name": "infobae",
+        "id": 69416519,
+        "id_str": "69416519"
+      }
+    ],
+    "symbols": [],
+    "hashtags": [],
+    "urls": []
+  },
+  "reply_count": 0,
+  "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+  "place": {
+    "attributes": {},
+    "url": "https://api.twitter.com/1.1/geo/id/00d8a8dc3fc2de9d.json",
+    "place_type": "city",
+    "id": "00d8a8dc3fc2de9d",
+    "country_code": "AR",
+    "name": "Villaguay",
+    "country": "Argentina",
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            -59.050187,
+            -31.885469
+          ],
+          [
+            -59.050187,
+            -31.838499
+          ],
+          [
+            -59.010074,
+            -31.838499
+          ],
+          [
+            -59.010074,
+            -31.885469
+          ]
+        ]
+      ]
+    },
+    "full_name": "Villaguay, Argentina"
+  },
+  "truncated": false,
+  "in_reply_to_status_id_str": null,
+  "filter_level": "low",
+  "text": "A ver @infobae repite conmigo... \"Voto afirmativo, voto blanco, voto nulo, voto recurrido\"; \"impugnado no es una categor\u00eda de voto\"",
+  "geo": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": false,
+  "favorited": false,
+  "user": {
+    "verified": false,
+    "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/748118277/b0aac0134720c767705753ad05dca686.jpeg",
+    "statuses_count": 54783,
+    "screen_name": "Gabiepstein",
+    "default_profile_image": false,
+    "time_zone": "Buenos Aires",
+    "name": "\u05d2\u05d1\u05e8\u05d9\u05d0\u05dc \u05d0\u05e4\u05e9\u05d8\u05d9\u05d9\u05df GBE",
+    "id_str": "99771312",
+    "profile_sidebar_border_color": "000000",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/99771312/1482428943",
+    "created_at": "Sun Dec 27 19:56:33 +0000 2009",
+    "friends_count": 349,
+    "url": "http://gabiepstein.blogspot.com/",
+    "profile_background_tile": true,
+    "protected": false,
+    "translator_type": "none",
+    "profile_text_color": "333333",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/915335701943767040/8npLefTo_normal.jpg",
+    "listed_count": 9,
+    "notifications": null,
+    "contributors_enabled": false,
+    "is_translator": false,
+    "location": "San Salvador, Entre R\u00edos ",
+    "profile_use_background_image": true,
+    "followers_count": 841,
+    "profile_sidebar_fill_color": "EFEFEF",
+    "geo_enabled": true,
+    "profile_link_color": "009999",
+    "favourites_count": 4356,
+    "following": null,
+    "default_profile": false,
+    "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/748118277/b0aac0134720c767705753ad05dca686.jpeg",
+    "profile_background_color": "131516",
+    "id": 99771312,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/915335701943767040/8npLefTo_normal.jpg",
+    "lang": "es",
+    "description": "Abogado (Mat9277), milit\u00e9 en politica(UCR), Sionista; aspirante a caballero, soberbio, legalista, intento ser justo. Tweeteo ERRATICO y ECL\u00c9CTICO",
+    "follow_request_sent": null,
+    "utc_offset": -10800
+  },
+  "quote_count": 0,
+  "lang": "es"
+}

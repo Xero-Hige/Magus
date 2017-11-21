@@ -1,0 +1,316 @@
+{
+  "in_reply_to_user_id": null,
+  "contributors": null,
+  "id": 922008876039462912,
+  "retweeted": false,
+  "retweet_count": 0,
+  "timestamp_ms": "1508659020801",
+  "in_reply_to_status_id": null,
+  "id_str": "922008876039462912",
+  "coordinates": null,
+  "created_at": "Sun Oct 22 07:57:00 +0000 2017",
+  "quote_count": 0,
+  "favorite_count": 0,
+  "entities": {
+    "user_mentions": [
+      {
+        "indices": [
+          67,
+          81
+        ],
+        "name": "Toro Palladino",
+        "screen_name": "Toropalladino",
+        "id": 196652040,
+        "id_str": "196652040"
+      }
+    ],
+    "symbols": [],
+    "hashtags": [
+      {
+        "text": "MetodoCABB",
+        "indices": [
+          0,
+          11
+        ]
+      }
+    ],
+    "urls": [
+      {
+        "expanded_url": "https://twitter.com/i/web/status/922008876039462912",
+        "indices": [
+          104,
+          127
+        ],
+        "url": "https://t.co/XWmtkH3Xmb",
+        "display_url": "twitter.com/i/web/status/9\u2026"
+      }
+    ]
+  },
+  "reply_count": 0,
+  "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+  "place": {
+    "attributes": {},
+    "url": "https://api.twitter.com/1.1/geo/id/00f84d414936f28e.json",
+    "place_type": "city",
+    "id": "00f84d414936f28e",
+    "country_code": "AR",
+    "name": "C\u00f3rdoba",
+    "country": "Argentina",
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            -64.3195,
+            -31.523576
+          ],
+          [
+            -64.3195,
+            -31.307337
+          ],
+          [
+            -64.076551,
+            -31.307337
+          ],
+          [
+            -64.076551,
+            -31.523576
+          ]
+        ]
+      ]
+    },
+    "full_name": "C\u00f3rdoba, Argentina"
+  },
+  "truncated": true,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_screen_name": null,
+  "filter_level": "low",
+  "text": "#MetodoCABB fue otro de los temas tocados durante la entrevista de @Toropalladino \nEntrevista Completa\u2026 https://t.co/XWmtkH3Xmb",
+  "geo": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": false,
+  "possibly_sensitive": false,
+  "display_text_range": [
+    0,
+    140
+  ],
+  "favorited": false,
+  "user": {
+    "verified": false,
+    "profile_background_image_url": "",
+    "statuses_count": 1419,
+    "screen_name": "CbaBasquet",
+    "default_profile_image": false,
+    "time_zone": null,
+    "name": "cbaBasquet",
+    "id_str": "887332562603036674",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/887332562603036674/1501249910",
+    "created_at": "Tue Jul 18 15:25:43 +0000 2017",
+    "friends_count": 439,
+    "url": null,
+    "profile_background_tile": false,
+    "protected": false,
+    "translator_type": "none",
+    "profile_text_color": "333333",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/909825778002644992/I9M_qf3L_normal.jpg",
+    "listed_count": 0,
+    "notifications": null,
+    "contributors_enabled": false,
+    "is_translator": false,
+    "location": null,
+    "profile_use_background_image": true,
+    "followers_count": 157,
+    "profile_sidebar_fill_color": "DDEEF6",
+    "geo_enabled": true,
+    "profile_link_color": "1DA1F2",
+    "favourites_count": 9,
+    "following": null,
+    "default_profile": true,
+    "profile_background_image_url_https": "",
+    "profile_background_color": "F5F8FA",
+    "id": 887332562603036674,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/909825778002644992/I9M_qf3L_normal.jpg",
+    "lang": "es",
+    "description": "Todas las noticias del basquet, en un solo lugar",
+    "follow_request_sent": null,
+    "utc_offset": null
+  },
+  "extended_tweet": {
+    "entities": {
+      "user_mentions": [
+        {
+          "indices": [
+            67,
+            81
+          ],
+          "name": "Toro Palladino",
+          "screen_name": "Toropalladino",
+          "id": 196652040,
+          "id_str": "196652040"
+        }
+      ],
+      "symbols": [],
+      "hashtags": [
+        {
+          "text": "MetodoCABB",
+          "indices": [
+            0,
+            11
+          ]
+        }
+      ],
+      "urls": [
+        {
+          "expanded_url": "https://youtu.be/qWYO6r8PHCk",
+          "indices": [
+            103,
+            126
+          ],
+          "url": "https://t.co/byDpfJ5zwB",
+          "display_url": "youtu.be/qWYO6r8PHCk"
+        }
+      ],
+      "media": [
+        {
+          "indices": [
+            127,
+            150
+          ],
+          "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/922008394478866432/pu/img/tV-MLqKFdsytGxu7.jpg",
+          "video_info": {
+            "duration_millis": 50833,
+            "variants": [
+              {
+                "url": "https://video.twimg.com/ext_tw_video/922008394478866432/pu/pl/j_lLi52Y6EbrSLLq.m3u8",
+                "content_type": "application/x-mpegURL"
+              },
+              {
+                "bitrate": 832000,
+                "url": "https://video.twimg.com/ext_tw_video/922008394478866432/pu/vid/640x360/aMxwvG8OaLCZAZwx.mp4",
+                "content_type": "video/mp4"
+              },
+              {
+                "bitrate": 320000,
+                "url": "https://video.twimg.com/ext_tw_video/922008394478866432/pu/vid/320x180/OVdqe68F6a5lLQcY.mp4",
+                "content_type": "video/mp4"
+              },
+              {
+                "bitrate": 2176000,
+                "url": "https://video.twimg.com/ext_tw_video/922008394478866432/pu/vid/1280x720/faOOaZhlKfqmje6C.mp4",
+                "content_type": "video/mp4"
+              }
+            ],
+            "aspect_ratio": [
+              16,
+              9
+            ]
+          },
+          "url": "https://t.co/f9ME1QcNR9",
+          "expanded_url": "https://twitter.com/CbaBasquet/status/922008876039462912/video/1",
+          "id": 922008394478866432,
+          "sizes": {
+            "medium": {
+              "resize": "fit",
+              "w": 600,
+              "h": 338
+            },
+            "large": {
+              "resize": "fit",
+              "w": 1024,
+              "h": 576
+            },
+            "small": {
+              "resize": "fit",
+              "w": 340,
+              "h": 191
+            },
+            "thumb": {
+              "resize": "crop",
+              "w": 150,
+              "h": 150
+            }
+          },
+          "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/922008394478866432/pu/img/tV-MLqKFdsytGxu7.jpg",
+          "id_str": "922008394478866432",
+          "display_url": "pic.twitter.com/f9ME1QcNR9",
+          "type": "video"
+        }
+      ]
+    },
+    "display_text_range": [
+      0,
+      126
+    ],
+    "extended_entities": {
+      "media": [
+        {
+          "indices": [
+            127,
+            150
+          ],
+          "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/922008394478866432/pu/img/tV-MLqKFdsytGxu7.jpg",
+          "video_info": {
+            "duration_millis": 50833,
+            "variants": [
+              {
+                "url": "https://video.twimg.com/ext_tw_video/922008394478866432/pu/pl/j_lLi52Y6EbrSLLq.m3u8",
+                "content_type": "application/x-mpegURL"
+              },
+              {
+                "bitrate": 832000,
+                "url": "https://video.twimg.com/ext_tw_video/922008394478866432/pu/vid/640x360/aMxwvG8OaLCZAZwx.mp4",
+                "content_type": "video/mp4"
+              },
+              {
+                "bitrate": 320000,
+                "url": "https://video.twimg.com/ext_tw_video/922008394478866432/pu/vid/320x180/OVdqe68F6a5lLQcY.mp4",
+                "content_type": "video/mp4"
+              },
+              {
+                "bitrate": 2176000,
+                "url": "https://video.twimg.com/ext_tw_video/922008394478866432/pu/vid/1280x720/faOOaZhlKfqmje6C.mp4",
+                "content_type": "video/mp4"
+              }
+            ],
+            "aspect_ratio": [
+              16,
+              9
+            ]
+          },
+          "url": "https://t.co/f9ME1QcNR9",
+          "expanded_url": "https://twitter.com/CbaBasquet/status/922008876039462912/video/1",
+          "id": 922008394478866432,
+          "sizes": {
+            "medium": {
+              "resize": "fit",
+              "w": 600,
+              "h": 338
+            },
+            "large": {
+              "resize": "fit",
+              "w": 1024,
+              "h": 576
+            },
+            "small": {
+              "resize": "fit",
+              "w": 340,
+              "h": 191
+            },
+            "thumb": {
+              "resize": "crop",
+              "w": 150,
+              "h": 150
+            }
+          },
+          "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/922008394478866432/pu/img/tV-MLqKFdsytGxu7.jpg",
+          "id_str": "922008394478866432",
+          "display_url": "pic.twitter.com/f9ME1QcNR9",
+          "type": "video"
+        }
+      ]
+    },
+    "full_text": "#MetodoCABB fue otro de los temas tocados durante la entrevista de @Toropalladino \nEntrevista Completa\nhttps://t.co/byDpfJ5zwB https://t.co/f9ME1QcNR9"
+  },
+  "lang": "es"
+}

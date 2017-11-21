@@ -1,0 +1,155 @@
+{
+  "in_reply_to_user_id": 49650191,
+  "contributors": null,
+  "id": 922113829110247424,
+  "retweeted": false,
+  "retweet_count": 0,
+  "timestamp_ms": "1508684043563",
+  "in_reply_to_status_id": 922111547849302016,
+  "id_str": "922113829110247424",
+  "coordinates": null,
+  "created_at": "Sun Oct 22 14:54:03 +0000 2017",
+  "quote_count": 0,
+  "favorite_count": 0,
+  "entities": {
+    "user_mentions": [
+      {
+        "indices": [
+          0,
+          14
+        ],
+        "name": "Victor",
+        "screen_name": "VictorBSuerte",
+        "id": 49650191,
+        "id_str": "49650191"
+      }
+    ],
+    "symbols": [],
+    "hashtags": [],
+    "urls": [
+      {
+        "expanded_url": "https://twitter.com/i/web/status/922113829110247424",
+        "indices": [
+          117,
+          140
+        ],
+        "url": "https://t.co/XHWuJC42js",
+        "display_url": "twitter.com/i/web/status/9\u2026"
+      }
+    ]
+  },
+  "reply_count": 0,
+  "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+  "place": {
+    "attributes": {},
+    "url": "https://api.twitter.com/1.1/geo/id/018f1cde6bad9747.json",
+    "place_type": "city",
+    "id": "018f1cde6bad9747",
+    "country_code": "AR",
+    "name": "Ciudad Aut\u00f3noma de Buenos Aires",
+    "country": "Argentina",
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            -58.531792,
+            -34.674453
+          ],
+          [
+            -58.531792,
+            -34.534177
+          ],
+          [
+            -58.353494,
+            -34.534177
+          ],
+          [
+            -58.353494,
+            -34.674453
+          ]
+        ]
+      ]
+    },
+    "full_name": "Ciudad Aut\u00f3noma de Buenos Aires, Argentina"
+  },
+  "truncated": true,
+  "in_reply_to_status_id_str": "922111547849302016",
+  "in_reply_to_screen_name": "VictorBSuerte",
+  "filter_level": "low",
+  "text": "@VictorBSuerte El precio que se paga por ejercer la honestidad intelectual es caer de vez en cuando en la incorrecc\u2026 https://t.co/XHWuJC42js",
+  "geo": null,
+  "in_reply_to_user_id_str": "49650191",
+  "is_quote_status": false,
+  "display_text_range": [
+    15,
+    140
+  ],
+  "favorited": false,
+  "user": {
+    "verified": false,
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "statuses_count": 5499,
+    "screen_name": "blablableando",
+    "default_profile_image": false,
+    "time_zone": "Pacific Time (US & Canada)",
+    "name": "miguel angel vaccari",
+    "id_str": "150482929",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/150482929/1497749138",
+    "created_at": "Tue Jun 01 01:48:06 +0000 2010",
+    "friends_count": 150,
+    "url": null,
+    "profile_background_tile": false,
+    "protected": false,
+    "translator_type": "none",
+    "profile_text_color": "333333",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/874392517269237763/oVVWgUNP_normal.jpg",
+    "listed_count": 4,
+    "notifications": null,
+    "contributors_enabled": false,
+    "is_translator": false,
+    "location": "Lomas de Zamora, Argentina",
+    "profile_use_background_image": true,
+    "followers_count": 91,
+    "profile_sidebar_fill_color": "DDEEF6",
+    "geo_enabled": true,
+    "profile_link_color": "1DA1F2",
+    "favourites_count": 976,
+    "following": null,
+    "default_profile": true,
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_color": "C0DEED",
+    "id": 150482929,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/874392517269237763/oVVWgUNP_normal.jpg",
+    "lang": "es",
+    "description": "Sex simbol de la tercera edad. Pero no mucho.",
+    "follow_request_sent": null,
+    "utc_offset": -25200
+  },
+  "extended_tweet": {
+    "entities": {
+      "user_mentions": [
+        {
+          "indices": [
+            0,
+            14
+          ],
+          "name": "Victor",
+          "screen_name": "VictorBSuerte",
+          "id": 49650191,
+          "id_str": "49650191"
+        }
+      ],
+      "symbols": [],
+      "hashtags": [],
+      "urls": []
+    },
+    "display_text_range": [
+      15,
+      154
+    ],
+    "full_text": "@VictorBSuerte El precio que se paga por ejercer la honestidad intelectual es caer de vez en cuando en la incorrecci\u00f3n pol\u00edtica. Es una elecci\u00f3n personal."
+  },
+  "lang": "es"
+}

@@ -1,0 +1,151 @@
+{
+  "entities": {
+    "hashtags": [
+      {
+        "indices": [
+          35,
+          53
+        ],
+        "text": "maestrochasquilla"
+      },
+      {
+        "indices": [
+          54,
+          60
+        ],
+        "text": "gopro"
+      },
+      {
+        "indices": [
+          61,
+          67
+        ],
+        "text": "hero4"
+      }
+    ],
+    "symbols": [],
+    "urls": [
+      {
+        "indices": [
+          69,
+          92
+        ],
+        "expanded_url": "https://www.instagram.com/p/Baki7edH960Bg25WK2mkm3s6RQYOCKqOSUJKew0/",
+        "display_url": "instagram.com/p/Baki7edH960B\u2026",
+        "url": "https://t.co/1XJGXFZzF5"
+      }
+    ],
+    "user_mentions": []
+  },
+  "in_reply_to_user_id": null,
+  "created_at": "Mon Oct 23 00:50:27 +0000 2017",
+  "favorite_count": 0,
+  "lang": "es",
+  "reply_count": 0,
+  "id_str": "922263916888985600",
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_status_id": null,
+  "timestamp_ms": "1508719827278",
+  "possibly_sensitive": false,
+  "text": "probando el trabajo con los brocas #maestrochasquilla #gopro #hero4\u2026 https://t.co/1XJGXFZzF5",
+  "user": {
+    "time_zone": "Santiago",
+    "screen_name": "NlRlf",
+    "utc_offset": -10800,
+    "created_at": "Wed Feb 10 09:25:07 +0000 2010",
+    "profile_background_tile": false,
+    "notifications": null,
+    "lang": "es",
+    "default_profile": false,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/112980330/1403276355",
+    "id_str": "112980330",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/722737884562866177/5A8jCU59_normal.jpg",
+    "name": "Pelao Neil",
+    "friends_count": 158,
+    "translator_type": "none",
+    "protected": false,
+    "following": null,
+    "is_translator": false,
+    "follow_request_sent": null,
+    "profile_text_color": "666666",
+    "listed_count": 18,
+    "profile_link_color": "ABB8C2",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+    "url": "https://www.instagram.com/pelaoneil/",
+    "id": 112980330,
+    "favourites_count": 10,
+    "profile_background_color": "000000",
+    "followers_count": 173,
+    "statuses_count": 4239,
+    "description": null,
+    "location": "Renca, Santiago, Chile",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+    "default_profile_image": false,
+    "verified": false,
+    "profile_sidebar_fill_color": "252429",
+    "profile_use_background_image": true,
+    "contributors_enabled": false,
+    "profile_sidebar_border_color": "FFFFFF",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/722737884562866177/5A8jCU59_normal.jpg",
+    "geo_enabled": true
+  },
+  "geo": {
+    "coordinates": [
+      -33.31647,
+      -70.24487
+    ],
+    "type": "Point"
+  },
+  "id": 922263916888985600,
+  "quote_count": 0,
+  "retweeted": false,
+  "filter_level": "low",
+  "in_reply_to_status_id_str": null,
+  "source": "<a href=\"http://instagram.com\" rel=\"nofollow\">Instagram</a>",
+  "favorited": false,
+  "coordinates": {
+    "coordinates": [
+      -70.24487,
+      -33.31647
+    ],
+    "type": "Point"
+  },
+  "truncated": false,
+  "retweet_count": 0,
+  "is_quote_status": false,
+  "in_reply_to_screen_name": null,
+  "contributors": null,
+  "place": {
+    "bounding_box": {
+      "coordinates": [
+        [
+          [
+            -70.605726,
+            -33.491734
+          ],
+          [
+            -70.605726,
+            -33.095817
+          ],
+          [
+            -70.178091,
+            -33.095817
+          ],
+          [
+            -70.178091,
+            -33.491734
+          ]
+        ]
+      ],
+      "type": "Polygon"
+    },
+    "name": "Lo Barnechea",
+    "url": "https://api.twitter.com/1.1/geo/id/018d88364c2a57e4.json",
+    "country_code": "CL",
+    "id": "018d88364c2a57e4",
+    "place_type": "city",
+    "attributes": {},
+    "full_name": "Lo Barnechea, Chile",
+    "country": "Chile"
+  }
+}

@@ -1,0 +1,114 @@
+{
+  "in_reply_to_user_id": null,
+  "contributors": null,
+  "in_reply_to_screen_name": null,
+  "retweeted": false,
+  "retweet_count": 0,
+  "timestamp_ms": "1508678930263",
+  "in_reply_to_status_id": null,
+  "id_str": "922092382375510016",
+  "created_at": "Sun Oct 22 13:28:50 +0000 2017",
+  "id": 922092382375510016,
+  "coordinates": null,
+  "favorite_count": 0,
+  "entities": {
+    "user_mentions": [],
+    "symbols": [],
+    "hashtags": [
+      {
+        "text": "YaVot\u00e9",
+        "indices": [
+          109,
+          116
+        ]
+      }
+    ],
+    "urls": []
+  },
+  "reply_count": 0,
+  "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+  "place": {
+    "attributes": {},
+    "url": "https://api.twitter.com/1.1/geo/id/00f6b5cf7c1767b1.json",
+    "place_type": "city",
+    "id": "00f6b5cf7c1767b1",
+    "country_code": "AR",
+    "name": "Bah\u00eda Blanca",
+    "country": "Argentina",
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            -62.33948,
+            -38.789397
+          ],
+          [
+            -62.33948,
+            -38.654043
+          ],
+          [
+            -62.17072,
+            -38.654043
+          ],
+          [
+            -62.17072,
+            -38.789397
+          ]
+        ]
+      ]
+    },
+    "full_name": "Bah\u00eda Blanca, Argentina"
+  },
+  "truncated": false,
+  "in_reply_to_status_id_str": null,
+  "filter_level": "low",
+  "text": "Aunque la realidad sea muy triste, el contexto muy malo, siempre es una alegr\u00eda tener democracia y ejercerla #YaVot\u00e9",
+  "geo": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": false,
+  "favorited": false,
+  "user": {
+    "verified": false,
+    "profile_background_image_url": "",
+    "statuses_count": 4615,
+    "screen_name": "NachoAste",
+    "default_profile_image": false,
+    "time_zone": "Pacific Time (US & Canada)",
+    "name": "NachoAste",
+    "id_str": "4850267212",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/4850267212/1502135807",
+    "created_at": "Tue Jan 26 15:46:07 +0000 2016",
+    "friends_count": 4195,
+    "url": "https://www.instagram.com/nacho.aste/",
+    "profile_background_tile": false,
+    "protected": false,
+    "translator_type": "none",
+    "profile_text_color": "333333",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/884427880545099776/2D9RAkLx_normal.jpg",
+    "listed_count": 5,
+    "notifications": null,
+    "contributors_enabled": false,
+    "is_translator": false,
+    "location": "Bah\u00eda Blanca, Argentina",
+    "profile_use_background_image": true,
+    "followers_count": 4605,
+    "profile_sidebar_fill_color": "DDEEF6",
+    "geo_enabled": true,
+    "profile_link_color": "1DA1F2",
+    "favourites_count": 8498,
+    "following": null,
+    "default_profile": true,
+    "profile_background_image_url_https": "",
+    "profile_background_color": "F5F8FA",
+    "id": 4850267212,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/884427880545099776/2D9RAkLx_normal.jpg",
+    "lang": "es",
+    "description": "Derecho UNS - Boca Juniors - Rock Nacional  - Tengo una teor\u00eda para todo - Mejor pedir \"perd\u00f3n\" que \"permiso\" -",
+    "follow_request_sent": null,
+    "utc_offset": -25200
+  },
+  "quote_count": 0,
+  "lang": "es"
+}

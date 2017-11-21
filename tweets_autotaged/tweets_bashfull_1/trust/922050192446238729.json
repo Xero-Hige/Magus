@@ -1,0 +1,114 @@
+{
+  "in_reply_to_user_id": null,
+  "contributors": null,
+  "in_reply_to_screen_name": null,
+  "retweeted": false,
+  "retweet_count": 0,
+  "timestamp_ms": "1508668871400",
+  "in_reply_to_status_id": null,
+  "id_str": "922050192446238729",
+  "created_at": "Sun Oct 22 10:41:11 +0000 2017",
+  "id": 922050192446238729,
+  "coordinates": null,
+  "favorite_count": 0,
+  "entities": {
+    "user_mentions": [],
+    "symbols": [],
+    "hashtags": [
+      {
+        "text": "Gendarmer\u00eda",
+        "indices": [
+          90,
+          102
+        ]
+      }
+    ],
+    "urls": []
+  },
+  "reply_count": 0,
+  "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+  "place": {
+    "attributes": {},
+    "url": "https://api.twitter.com/1.1/geo/id/00a961d91f76dde8.json",
+    "place_type": "city",
+    "id": "00a961d91f76dde8",
+    "country_code": "AR",
+    "name": "Corrientes",
+    "country": "Argentina",
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            -58.855973,
+            -27.537017
+          ],
+          [
+            -58.855973,
+            -27.437049
+          ],
+          [
+            -58.736291,
+            -27.437049
+          ],
+          [
+            -58.736291,
+            -27.537017
+          ]
+        ]
+      ]
+    },
+    "full_name": "Corrientes, Argentina"
+  },
+  "truncated": false,
+  "in_reply_to_status_id_str": null,
+  "filter_level": "low",
+  "text": "Santiago Maldonado hoy y siempre presente! fuera ratas del gobierno, la carcel los espera #Gendarmer\u00eda",
+  "geo": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": false,
+  "favorited": false,
+  "user": {
+    "verified": false,
+    "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000110307087/301db6da6c2c712da2ed08d16032e4dd.jpeg",
+    "statuses_count": 6342,
+    "screen_name": "renniux",
+    "default_profile_image": false,
+    "time_zone": "Buenos Aires",
+    "name": "O_o",
+    "id_str": "150506258",
+    "profile_sidebar_border_color": "FFFFFF",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/150506258/1508580190",
+    "created_at": "Tue Jun 01 03:11:29 +0000 2010",
+    "friends_count": 639,
+    "url": null,
+    "profile_background_tile": true,
+    "protected": false,
+    "translator_type": "none",
+    "profile_text_color": "333333",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/896834374511079424/btqAhNVp_normal.jpg",
+    "listed_count": 2,
+    "notifications": null,
+    "contributors_enabled": false,
+    "is_translator": false,
+    "location": null,
+    "profile_use_background_image": true,
+    "followers_count": 634,
+    "profile_sidebar_fill_color": "EFEFEF",
+    "geo_enabled": true,
+    "profile_link_color": "3B94D9",
+    "favourites_count": 2055,
+    "following": null,
+    "default_profile": false,
+    "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000110307087/301db6da6c2c712da2ed08d16032e4dd.jpeg",
+    "profile_background_color": "131516",
+    "id": 150506258,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/896834374511079424/btqAhNVp_normal.jpg",
+    "lang": "es",
+    "description": "-Good bye father Mc Enroe. \n-Good bye Machuca",
+    "follow_request_sent": null,
+    "utc_offset": -10800
+  },
+  "quote_count": 0,
+  "lang": "es"
+}

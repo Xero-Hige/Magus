@@ -1,0 +1,130 @@
+{
+  "in_reply_to_user_id": 182923335,
+  "contributors": null,
+  "id": 922113141726687232,
+  "retweeted": false,
+  "retweet_count": 0,
+  "timestamp_ms": "1508683879678",
+  "in_reply_to_status_id": 922106356924108800,
+  "id_str": "922113141726687232",
+  "created_at": "Sun Oct 22 14:51:19 +0000 2017",
+  "coordinates": null,
+  "favorite_count": 0,
+  "entities": {
+    "user_mentions": [
+      {
+        "indices": [
+          0,
+          11
+        ],
+        "name": "Radio Mitre",
+        "screen_name": "radiomitre",
+        "id": 182923335,
+        "id_str": "182923335"
+      },
+      {
+        "indices": [
+          12,
+          21
+        ],
+        "name": "Alfredo Leuco OK",
+        "screen_name": "alfleuco",
+        "id": 2329247971,
+        "id_str": "2329247971"
+      }
+    ],
+    "symbols": [],
+    "hashtags": [],
+    "urls": []
+  },
+  "reply_count": 0,
+  "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+  "place": {
+    "attributes": {},
+    "url": "https://api.twitter.com/1.1/geo/id/00aadc5551cd4446.json",
+    "place_type": "city",
+    "id": "00aadc5551cd4446",
+    "country_code": "AR",
+    "name": "Caleta Olivia",
+    "country": "Argentina",
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            -67.556432,
+            -46.466223
+          ],
+          [
+            -67.556432,
+            -46.421264
+          ],
+          [
+            -67.496948,
+            -46.421264
+          ],
+          [
+            -67.496948,
+            -46.466223
+          ]
+        ]
+      ]
+    },
+    "full_name": "Caleta Olivia, Argentina"
+  },
+  "truncated": false,
+  "in_reply_to_status_id_str": "922106356924108800",
+  "in_reply_to_screen_name": "radiomitre",
+  "filter_level": "low",
+  "text": "@radiomitre @alfleuco con tanto anarquista suelto q marcha x la vida con molotov y maza xa destruir ,ES peligroso xa si mismo y xa los demas",
+  "geo": null,
+  "in_reply_to_user_id_str": "182923335",
+  "is_quote_status": false,
+  "display_text_range": [
+    12,
+    140
+  ],
+  "favorited": false,
+  "user": {
+    "verified": false,
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "statuses_count": 8852,
+    "screen_name": "GracielaReartes",
+    "default_profile_image": false,
+    "time_zone": null,
+    "name": "graciela reartes",
+    "id_str": "581093954",
+    "profile_sidebar_border_color": "C0DEED",
+    "created_at": "Tue May 15 17:40:14 +0000 2012",
+    "friends_count": 61,
+    "url": null,
+    "profile_background_tile": false,
+    "protected": false,
+    "translator_type": "none",
+    "profile_text_color": "333333",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000329877300/2d3d24e74bcbfa6b4a2561e45c71ac50_normal.jpeg",
+    "listed_count": 0,
+    "notifications": null,
+    "contributors_enabled": false,
+    "is_translator": false,
+    "location": null,
+    "profile_use_background_image": true,
+    "followers_count": 116,
+    "profile_sidebar_fill_color": "DDEEF6",
+    "geo_enabled": true,
+    "profile_link_color": "1DA1F2",
+    "favourites_count": 3449,
+    "following": null,
+    "default_profile": true,
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_color": "C0DEED",
+    "id": 581093954,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/378800000329877300/2d3d24e74bcbfa6b4a2561e45c71ac50_normal.jpeg",
+    "lang": "es",
+    "description": null,
+    "follow_request_sent": null,
+    "utc_offset": null
+  },
+  "quote_count": 0,
+  "lang": "es"
+}

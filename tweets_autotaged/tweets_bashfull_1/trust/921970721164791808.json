@@ -1,0 +1,175 @@
+{
+  "in_reply_to_user_id": 132360268,
+  "contributors": null,
+  "id": 921970721164791808,
+  "retweeted": false,
+  "retweet_count": 0,
+  "timestamp_ms": "1508649923970",
+  "in_reply_to_status_id": 921839893315313665,
+  "id_str": "921970721164791808",
+  "coordinates": null,
+  "created_at": "Sun Oct 22 05:25:23 +0000 2017",
+  "quote_count": 0,
+  "favorite_count": 0,
+  "entities": {
+    "user_mentions": [
+      {
+        "indices": [
+          0,
+          10
+        ],
+        "name": "Iv\u00e1n Schargrodsky",
+        "screen_name": "ischargro",
+        "id": 132360268,
+        "id_str": "132360268"
+      },
+      {
+        "indices": [
+          11,
+          24
+        ],
+        "name": "Genia y Figura",
+        "screen_name": "GeniayFigura",
+        "id": 521877693,
+        "id_str": "521877693"
+      }
+    ],
+    "symbols": [],
+    "hashtags": [],
+    "urls": [
+      {
+        "expanded_url": "https://twitter.com/i/web/status/921970721164791808",
+        "indices": [
+          117,
+          140
+        ],
+        "url": "https://t.co/ozurveiL6M",
+        "display_url": "twitter.com/i/web/status/9\u2026"
+      }
+    ]
+  },
+  "reply_count": 0,
+  "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+  "place": {
+    "attributes": {},
+    "url": "https://api.twitter.com/1.1/geo/id/0177894212b08f73.json",
+    "place_type": "city",
+    "id": "0177894212b08f73",
+    "country_code": "AR",
+    "name": "La Plata",
+    "country": "Argentina",
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            -58.160874,
+            -35.031373
+          ],
+          [
+            -58.160874,
+            -34.841264
+          ],
+          [
+            -57.865169,
+            -34.841264
+          ],
+          [
+            -57.865169,
+            -35.031373
+          ]
+        ]
+      ]
+    },
+    "full_name": "La Plata, Argentina"
+  },
+  "truncated": true,
+  "in_reply_to_status_id_str": "921839893315313665",
+  "in_reply_to_screen_name": "ischargro",
+  "filter_level": "low",
+  "text": "@ischargro @GeniayFigura Cambiemos y Marcos Pe\u00f1a con su trolls pagos ,obvio,son toxicos.Est\u00e1n mintiendo y le faltan\u2026 https://t.co/ozurveiL6M",
+  "geo": null,
+  "in_reply_to_user_id_str": "132360268",
+  "is_quote_status": false,
+  "display_text_range": [
+    25,
+    140
+  ],
+  "favorited": false,
+  "user": {
+    "verified": false,
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme3/bg.gif",
+    "statuses_count": 90877,
+    "screen_name": "gabissoul",
+    "default_profile_image": false,
+    "time_zone": "Buenos Aires",
+    "name": "SeamosLibresLoDmNoIm",
+    "id_str": "256087514",
+    "profile_sidebar_border_color": "000000",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/256087514/1363126819",
+    "created_at": "Tue Feb 22 16:46:40 +0000 2011",
+    "friends_count": 2028,
+    "url": null,
+    "profile_background_tile": false,
+    "protected": false,
+    "translator_type": "none",
+    "profile_text_color": "634047",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1651227364/6378828275_3dd55d8273_m_normal.jpg",
+    "listed_count": 42,
+    "notifications": null,
+    "contributors_enabled": false,
+    "is_translator": false,
+    "location": "Buenos aires Argentina",
+    "profile_use_background_image": true,
+    "followers_count": 2198,
+    "profile_sidebar_fill_color": "E3E2DE",
+    "geo_enabled": true,
+    "profile_link_color": "19CF86",
+    "favourites_count": 40904,
+    "following": null,
+    "default_profile": false,
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme3/bg.gif",
+    "profile_background_color": "EDECE9",
+    "id": 256087514,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1651227364/6378828275_3dd55d8273_m_normal.jpg",
+    "lang": "es",
+    "description": "En la m\u00fasica todos los sentimientos vuelven a su estado puro y el mundo no es sino m\u00fasica hecha realidad.",
+    "follow_request_sent": null,
+    "utc_offset": -10800
+  },
+  "extended_tweet": {
+    "entities": {
+      "user_mentions": [
+        {
+          "indices": [
+            0,
+            10
+          ],
+          "name": "Iv\u00e1n Schargrodsky",
+          "screen_name": "ischargro",
+          "id": 132360268,
+          "id_str": "132360268"
+        },
+        {
+          "indices": [
+            11,
+            24
+          ],
+          "name": "Genia y Figura",
+          "screen_name": "GeniayFigura",
+          "id": 521877693,
+          "id_str": "521877693"
+        }
+      ],
+      "symbols": [],
+      "hashtags": [],
+      "urls": []
+    },
+    "display_text_range": [
+      25,
+      150
+    ],
+    "full_text": "@ischargro @GeniayFigura Cambiemos y Marcos Pe\u00f1a con su trolls pagos ,obvio,son toxicos.Est\u00e1n mintiendo y le faltan el respeto a la familia Maldonado."
+  },
+  "lang": "es"
+}

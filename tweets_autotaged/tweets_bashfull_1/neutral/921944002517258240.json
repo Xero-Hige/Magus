@@ -1,0 +1,121 @@
+{
+  "in_reply_to_user_id": 2421360379,
+  "contributors": null,
+  "id": 921944002517258240,
+  "retweeted": false,
+  "retweet_count": 0,
+  "timestamp_ms": "1508643553748",
+  "in_reply_to_status_id": 921941829846781953,
+  "id_str": "921944002517258240",
+  "created_at": "Sun Oct 22 03:39:13 +0000 2017",
+  "coordinates": null,
+  "favorite_count": 0,
+  "entities": {
+    "user_mentions": [
+      {
+        "indices": [
+          0,
+          10
+        ],
+        "name": "Sole Salvatierra",
+        "screen_name": "solesalva",
+        "id": 2421360379,
+        "id_str": "2421360379"
+      }
+    ],
+    "symbols": [],
+    "hashtags": [],
+    "urls": []
+  },
+  "reply_count": 0,
+  "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+  "place": {
+    "attributes": {},
+    "url": "https://api.twitter.com/1.1/geo/id/005ca01756b27db6.json",
+    "place_type": "city",
+    "id": "005ca01756b27db6",
+    "country_code": "AR",
+    "name": "Villa Gesell",
+    "country": "Argentina",
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            -57.221674,
+            -37.549677
+          ],
+          [
+            -57.221674,
+            -37.19254
+          ],
+          [
+            -56.915133,
+            -37.19254
+          ],
+          [
+            -56.915133,
+            -37.549677
+          ]
+        ]
+      ]
+    },
+    "full_name": "Villa Gesell, Argentina"
+  },
+  "truncated": false,
+  "in_reply_to_status_id_str": "921941829846781953",
+  "in_reply_to_screen_name": "solesalva",
+  "filter_level": "low",
+  "text": "@solesalva No, hasta las 17.50 dale nom\u00e1s, acordate de ir a votar, nada mas, despu\u00e9s palante.",
+  "geo": null,
+  "in_reply_to_user_id_str": "2421360379",
+  "is_quote_status": false,
+  "display_text_range": [
+    11,
+    93
+  ],
+  "favorited": false,
+  "user": {
+    "verified": false,
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "statuses_count": 8717,
+    "screen_name": "EnriqueEnrijaki",
+    "default_profile_image": false,
+    "time_zone": "Pacific Time (US & Canada)",
+    "name": "Fil\u00f3n de Bizancio",
+    "id_str": "3847446622",
+    "profile_sidebar_border_color": "000000",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/3847446622/1504021078",
+    "created_at": "Fri Oct 02 23:55:17 +0000 2015",
+    "friends_count": 741,
+    "url": null,
+    "profile_background_tile": false,
+    "protected": false,
+    "translator_type": "none",
+    "profile_text_color": "000000",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/903430321760329728/6tqL13jM_normal.jpg",
+    "listed_count": 6,
+    "notifications": null,
+    "contributors_enabled": false,
+    "is_translator": false,
+    "location": "Villa Gesell, Argentina",
+    "profile_use_background_image": false,
+    "followers_count": 648,
+    "profile_sidebar_fill_color": "000000",
+    "geo_enabled": true,
+    "profile_link_color": "FF691F",
+    "favourites_count": 9347,
+    "following": null,
+    "default_profile": false,
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_color": "000000",
+    "id": 3847446622,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/903430321760329728/6tqL13jM_normal.jpg",
+    "lang": "es",
+    "description": "S\u00faper Anti K  - Ingeniero Mec\u00e1nico (por eso lo de Fil\u00f3n de Bizancio) - Capricorniano - Casi Ucraniano -  Villa Gesell, la \u00fanica",
+    "follow_request_sent": null,
+    "utc_offset": -25200
+  },
+  "quote_count": 0,
+  "lang": "es"
+}

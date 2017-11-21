@@ -1,0 +1,121 @@
+{
+  "in_reply_to_user_id": null,
+  "contributors": null,
+  "in_reply_to_screen_name": null,
+  "retweeted": false,
+  "retweet_count": 0,
+  "timestamp_ms": "1508686171536",
+  "in_reply_to_status_id": null,
+  "id_str": "922122754475941888",
+  "created_at": "Sun Oct 22 15:29:31 +0000 2017",
+  "id": 922122754475941888,
+  "coordinates": null,
+  "favorite_count": 0,
+  "entities": {
+    "user_mentions": [],
+    "symbols": [],
+    "hashtags": [
+      {
+        "text": "ElTrenDeLosRecuerdos",
+        "indices": [
+          41,
+          62
+        ]
+      },
+      {
+        "text": "RadioOceania",
+        "indices": [
+          69,
+          82
+        ]
+      }
+    ],
+    "urls": []
+  },
+  "reply_count": 0,
+  "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+  "place": {
+    "attributes": {},
+    "url": "https://api.twitter.com/1.1/geo/id/00c1fa062323b8ca.json",
+    "place_type": "city",
+    "id": "00c1fa062323b8ca",
+    "country_code": "CL",
+    "name": "Talcahuano",
+    "country": "Chile",
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            -73.162624,
+            -36.791361
+          ],
+          [
+            -73.162624,
+            -36.603748
+          ],
+          [
+            -73.010708,
+            -36.603748
+          ],
+          [
+            -73.010708,
+            -36.791361
+          ]
+        ]
+      ]
+    },
+    "full_name": "Talcahuano, Chile"
+  },
+  "truncated": false,
+  "in_reply_to_status_id_str": null,
+  "filter_level": "low",
+  "text": "Escuchando mi programa del fin de semana #ElTrenDeLosRecuerdos de la #RadioOceania.. \ud83d\ude0a",
+  "geo": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": false,
+  "favorited": false,
+  "user": {
+    "verified": false,
+    "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/499178868108828672/r2Yv-LuG.jpeg",
+    "statuses_count": 1317,
+    "screen_name": "Lesterways",
+    "default_profile_image": false,
+    "time_zone": "Santiago",
+    "name": "Lester",
+    "id_str": "171562986",
+    "profile_sidebar_border_color": "000000",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/171562986/1476066265",
+    "created_at": "Tue Jul 27 16:57:26 +0000 2010",
+    "friends_count": 795,
+    "url": "http://www.youtube.com/lesterway",
+    "profile_background_tile": true,
+    "protected": false,
+    "translator_type": "none",
+    "profile_text_color": "000000",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/921556050649763840/noCSy7lx_normal.jpg",
+    "listed_count": 0,
+    "notifications": null,
+    "contributors_enabled": false,
+    "is_translator": false,
+    "location": "Talcahuano ",
+    "profile_use_background_image": true,
+    "followers_count": 337,
+    "profile_sidebar_fill_color": "000000",
+    "geo_enabled": true,
+    "profile_link_color": "3CB300",
+    "favourites_count": 1328,
+    "following": null,
+    "default_profile": false,
+    "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/499178868108828672/r2Yv-LuG.jpeg",
+    "profile_background_color": "000000",
+    "id": 171562986,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/921556050649763840/noCSy7lx_normal.jpg",
+    "lang": "es",
+    "description": "#Chileno#Chorero\u2693 #DisfrutoLaVida\u270c #Sagitario\u2650 #ColeccionistaDeCanciones\ud83c\udfb6 #Numismatico\ud83d\udcb5 #Fot\u00f3grafoDocumental\ud83d\udcf9 #Cervecero\ud83c\udf7b #AdministradorDeEmpresas\ud83c\udfec #RRHH\ud83d\ude0e",
+    "follow_request_sent": null,
+    "utc_offset": -10800
+  },
+  "quote_count": 0,
+  "lang": "es"
+}

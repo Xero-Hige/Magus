@@ -1,0 +1,121 @@
+{
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "indices": [
+          0,
+          15
+        ],
+        "screen_name": "Cachimbayfarol",
+        "name": "Sofi \ud83d\udd8b",
+        "id_str": "142139041",
+        "id": 142139041
+      }
+    ]
+  },
+  "in_reply_to_user_id": 142139041,
+  "created_at": "Sun Oct 22 23:29:34 +0000 2017",
+  "favorite_count": 0,
+  "lang": "es",
+  "reply_count": 0,
+  "id_str": "922243563643113472",
+  "in_reply_to_user_id_str": "142139041",
+  "in_reply_to_status_id": 922243410739761152,
+  "timestamp_ms": "1508714974686",
+  "truncated": false,
+  "text": "@Cachimbayfarol No hagas caso, las bacterias de hoy son los anticuerpos de ma\u00f1ana",
+  "user": {
+    "time_zone": "Buenos Aires",
+    "screen_name": "RealGeeohenn",
+    "utc_offset": -10800,
+    "created_at": "Thu May 09 21:04:42 +0000 2013",
+    "profile_background_tile": false,
+    "notifications": null,
+    "lang": "es",
+    "default_profile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1416470059/1505412302",
+    "id_str": "1416470059",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/908393643005931521/yd_cSpgn_normal.jpg",
+    "name": "C\u00ednico Valley",
+    "friends_count": 336,
+    "translator_type": "none",
+    "protected": false,
+    "following": null,
+    "is_translator": false,
+    "follow_request_sent": null,
+    "profile_text_color": "333333",
+    "listed_count": 0,
+    "profile_link_color": "1DA1F2",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "url": null,
+    "id": 1416470059,
+    "favourites_count": 1242,
+    "profile_background_color": "C0DEED",
+    "followers_count": 102,
+    "statuses_count": 1241,
+    "description": "No soy vegetariano pero consumo animales que si lo son",
+    "location": "Colinas de Solymar, Canelones",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "default_profile_image": false,
+    "verified": false,
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_use_background_image": true,
+    "contributors_enabled": false,
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/908393643005931521/yd_cSpgn_normal.jpg",
+    "geo_enabled": true
+  },
+  "geo": null,
+  "id": 922243563643113472,
+  "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+  "retweeted": false,
+  "filter_level": "low",
+  "in_reply_to_status_id_str": "922243410739761152",
+  "quote_count": 0,
+  "favorited": false,
+  "coordinates": null,
+  "display_text_range": [
+    16,
+    81
+  ],
+  "retweet_count": 0,
+  "is_quote_status": false,
+  "in_reply_to_screen_name": "Cachimbayfarol",
+  "contributors": null,
+  "place": {
+    "bounding_box": {
+      "coordinates": [
+        [
+          [
+            -56.494047,
+            -34.88039
+          ],
+          [
+            -56.494047,
+            -34.207474
+          ],
+          [
+            -55.393215,
+            -34.207474
+          ],
+          [
+            -55.393215,
+            -34.88039
+          ]
+        ]
+      ],
+      "type": "Polygon"
+    },
+    "name": "Canelones",
+    "url": "https://api.twitter.com/1.1/geo/id/009b71fa17159ccc.json",
+    "country_code": "UY",
+    "id": "009b71fa17159ccc",
+    "place_type": "admin",
+    "attributes": {},
+    "full_name": "Canelones, Uruguay",
+    "country": "Uruguay"
+  }
+}

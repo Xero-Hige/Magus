@@ -1,0 +1,148 @@
+{
+  "in_reply_to_user_id": null,
+  "contributors": null,
+  "in_reply_to_screen_name": null,
+  "retweeted": false,
+  "retweet_count": 0,
+  "timestamp_ms": "1508694994042",
+  "in_reply_to_status_id": null,
+  "id_str": "922159758748024833",
+  "created_at": "Sun Oct 22 17:56:34 +0000 2017",
+  "id": 922159758748024833,
+  "coordinates": {
+    "type": "Point",
+    "coordinates": [
+      -70.66145582,
+      -33.46248676
+    ]
+  },
+  "favorite_count": 0,
+  "entities": {
+    "user_mentions": [
+      {
+        "indices": [
+          33,
+          47
+        ],
+        "name": "Movistar Chile",
+        "screen_name": "MovistarChile",
+        "id": 31141520,
+        "id_str": "31141520"
+      }
+    ],
+    "symbols": [],
+    "hashtags": [
+      {
+        "text": "wwesantiago",
+        "indices": [
+          0,
+          12
+        ]
+      }
+    ],
+    "urls": [
+      {
+        "expanded_url": "https://www.swarmapp.com/c/eargKX6B82W",
+        "indices": [
+          83,
+          106
+        ],
+        "url": "https://t.co/xWm10S2nxl",
+        "display_url": "swarmapp.com/c/eargKX6B82W"
+      }
+    ]
+  },
+  "reply_count": 0,
+  "source": "<a href=\"http://foursquare.com\" rel=\"nofollow\">Foursquare</a>",
+  "place": {
+    "attributes": {},
+    "url": "https://api.twitter.com/1.1/geo/id/0010b4cb51ca93d8.json",
+    "place_type": "city",
+    "id": "0010b4cb51ca93d8",
+    "country_code": "CL",
+    "name": "Santiago",
+    "country": "Chile",
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            -70.692959,
+            -33.478574
+          ],
+          [
+            -70.692959,
+            -33.425749
+          ],
+          [
+            -70.626272,
+            -33.425749
+          ],
+          [
+            -70.626272,
+            -33.478574
+          ]
+        ]
+      ]
+    },
+    "full_name": "Santiago, Chile"
+  },
+  "truncated": false,
+  "in_reply_to_status_id_str": null,
+  "filter_level": "low",
+  "text": "#wwesantiago (@ Movistar Arena - @movistarchile in Santiago, Regi\u00f3n Metropolitana) https://t.co/xWm10S2nxl",
+  "geo": {
+    "type": "Point",
+    "coordinates": [
+      -33.46248676,
+      -70.66145582
+    ]
+  },
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": false,
+  "possibly_sensitive": false,
+  "favorited": false,
+  "user": {
+    "verified": false,
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+    "statuses_count": 31788,
+    "screen_name": "gustalbo",
+    "default_profile_image": false,
+    "time_zone": "Santiago",
+    "name": "Gustavo D\u00e1vila",
+    "id_str": "130162853",
+    "profile_sidebar_border_color": "000000",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/130162853/1415666942",
+    "created_at": "Tue Apr 06 14:09:41 +0000 2010",
+    "friends_count": 3589,
+    "url": "http://www.guioteca.com/lucha-libre",
+    "profile_background_tile": false,
+    "protected": false,
+    "translator_type": "none",
+    "profile_text_color": "000000",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/709830332619595777/91xYh-HN_normal.jpg",
+    "listed_count": 9,
+    "notifications": null,
+    "contributors_enabled": false,
+    "is_translator": false,
+    "location": "Vi\u00f1a del Mar, Chile",
+    "profile_use_background_image": false,
+    "followers_count": 2080,
+    "profile_sidebar_fill_color": "000000",
+    "geo_enabled": true,
+    "profile_link_color": "ABB8C2",
+    "favourites_count": 2648,
+    "following": null,
+    "default_profile": false,
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+    "profile_background_color": "000000",
+    "id": 130162853,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/709830332619595777/91xYh-HN_normal.jpg",
+    "lang": "es",
+    "description": "Padre, Albo, Ing. Comercial independiente, Gu\u00eda de Lucha Libre en @Guioteca",
+    "follow_request_sent": null,
+    "utc_offset": -10800
+  },
+  "quote_count": 0,
+  "lang": "es"
+}

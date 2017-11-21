@@ -1,0 +1,136 @@
+{
+  "entities": {
+    "hashtags": [
+      {
+        "indices": [
+          0,
+          8
+        ],
+        "text": "Neuquen"
+      }
+    ],
+    "symbols": [],
+    "urls": [
+      {
+        "indices": [
+          90,
+          113
+        ],
+        "expanded_url": "https://www.lmneuquen.com/c568579",
+        "display_url": "lmneuquen.com/c568579",
+        "url": "https://t.co/5P7ae7dyz4"
+      }
+    ],
+    "user_mentions": [
+      {
+        "indices": [
+          118,
+          128
+        ],
+        "screen_name": "LMNeuquen",
+        "name": "LMNeuqu\u00e9n",
+        "id_str": "133714571",
+        "id": 133714571
+      }
+    ]
+  },
+  "in_reply_to_user_id": null,
+  "created_at": "Sun Oct 22 23:19:34 +0000 2017",
+  "favorite_count": 0,
+  "lang": "es",
+  "reply_count": 0,
+  "id_str": "922241044527316992",
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_status_id": null,
+  "timestamp_ms": "1508714374082",
+  "possibly_sensitive": false,
+  "text": "#Neuquen Con m\u00e1s de la mitad de las mesas escrutadas: Cambiemos se impone para concejales https://t.co/5P7ae7dyz4 v\u00eda @lmneuquen",
+  "user": {
+    "time_zone": "America/Argentina/Buenos_Aires",
+    "screen_name": "Nanoberries",
+    "utc_offset": -10800,
+    "created_at": "Fri Sep 18 04:59:28 +0000 2009",
+    "profile_background_tile": false,
+    "notifications": null,
+    "lang": "es",
+    "default_profile": false,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/75204080/1467494215",
+    "id_str": "75204080",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/921880416717561856/FfCnfwHH_normal.jpg",
+    "name": "Nanito",
+    "friends_count": 454,
+    "translator_type": "none",
+    "protected": false,
+    "following": null,
+    "is_translator": false,
+    "follow_request_sent": null,
+    "profile_text_color": "333333",
+    "listed_count": 4,
+    "profile_link_color": "4A913C",
+    "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/696876991/55db8a29c47b7f831c548ec726222540.jpeg",
+    "url": null,
+    "id": 75204080,
+    "favourites_count": 3344,
+    "profile_background_color": "1A1B1F",
+    "followers_count": 458,
+    "statuses_count": 10545,
+    "description": "Argentino, marido de Pablo, padre de Timoteo, Michelle y Logan.",
+    "location": "Neuqu\u00e9n, Argentina",
+    "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/696876991/55db8a29c47b7f831c548ec726222540.jpeg",
+    "default_profile_image": false,
+    "verified": false,
+    "profile_sidebar_fill_color": "F3F3F3",
+    "profile_use_background_image": true,
+    "contributors_enabled": false,
+    "profile_sidebar_border_color": "FFFFFF",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/921880416717561856/FfCnfwHH_normal.jpg",
+    "geo_enabled": true
+  },
+  "geo": null,
+  "id": 922241044527316992,
+  "quote_count": 0,
+  "retweeted": false,
+  "filter_level": "low",
+  "in_reply_to_status_id_str": null,
+  "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+  "favorited": false,
+  "coordinates": null,
+  "truncated": false,
+  "retweet_count": 0,
+  "is_quote_status": false,
+  "in_reply_to_screen_name": null,
+  "contributors": null,
+  "place": {
+    "bounding_box": {
+      "coordinates": [
+        [
+          [
+            -68.176283,
+            -38.984724
+          ],
+          [
+            -68.176283,
+            -38.921051
+          ],
+          [
+            -68.015162,
+            -38.921051
+          ],
+          [
+            -68.015162,
+            -38.984724
+          ]
+        ]
+      ],
+      "type": "Polygon"
+    },
+    "name": "Neuqu\u00e9n",
+    "url": "https://api.twitter.com/1.1/geo/id/00da7cec74df27ff.json",
+    "country_code": "AR",
+    "id": "00da7cec74df27ff",
+    "place_type": "city",
+    "attributes": {},
+    "full_name": "Neuqu\u00e9n, Argentina",
+    "country": "Argentina"
+  }
+}

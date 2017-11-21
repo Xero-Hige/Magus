@@ -1,0 +1,155 @@
+{
+  "in_reply_to_user_id": 118182660,
+  "contributors": null,
+  "id": 921973430769147904,
+  "retweeted": false,
+  "retweet_count": 0,
+  "timestamp_ms": "1508650569990",
+  "in_reply_to_status_id": 921972644089614336,
+  "id_str": "921973430769147904",
+  "coordinates": null,
+  "created_at": "Sun Oct 22 05:36:09 +0000 2017",
+  "quote_count": 0,
+  "favorite_count": 0,
+  "entities": {
+    "user_mentions": [
+      {
+        "indices": [
+          0,
+          13
+        ],
+        "name": "claumiotroyo",
+        "screen_name": "claumiotroyo",
+        "id": 118182660,
+        "id_str": "118182660"
+      }
+    ],
+    "symbols": [],
+    "hashtags": [],
+    "urls": [
+      {
+        "expanded_url": "https://twitter.com/i/web/status/921973430769147904",
+        "indices": [
+          116,
+          139
+        ],
+        "url": "https://t.co/mqsuWRFHde",
+        "display_url": "twitter.com/i/web/status/9\u2026"
+      }
+    ]
+  },
+  "reply_count": 0,
+  "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+  "place": {
+    "attributes": {},
+    "url": "https://api.twitter.com/1.1/geo/id/00c4b64e7affea25.json",
+    "place_type": "city",
+    "id": "00c4b64e7affea25",
+    "country_code": "CL",
+    "name": "Las Condes",
+    "country": "Chile",
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            -70.608694,
+            -33.486182
+          ],
+          [
+            -70.608694,
+            -33.364619
+          ],
+          [
+            -70.429141,
+            -33.364619
+          ],
+          [
+            -70.429141,
+            -33.486182
+          ]
+        ]
+      ]
+    },
+    "full_name": "Las Condes, Chile"
+  },
+  "truncated": true,
+  "in_reply_to_status_id_str": "921972644089614336",
+  "in_reply_to_screen_name": "claumiotroyo",
+  "filter_level": "low",
+  "text": "@claumiotroyo Somos de una linea. As\u00ed como los comunistas salen a garabatear y agredir, nos defendemos. Y son bien\u2026 https://t.co/mqsuWRFHde",
+  "geo": null,
+  "in_reply_to_user_id_str": "118182660",
+  "is_quote_status": false,
+  "display_text_range": [
+    14,
+    140
+  ],
+  "favorited": false,
+  "user": {
+    "verified": false,
+    "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000075943996/91f6a6ca2ca2ff3f30723ec4398c235b.jpeg",
+    "statuses_count": 177063,
+    "screen_name": "ericahenriquezo",
+    "default_profile_image": false,
+    "time_zone": "Santiago",
+    "name": "Erica Henriquez",
+    "id_str": "126695224",
+    "profile_sidebar_border_color": "FFFFFF",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/126695224/1402289705",
+    "created_at": "Fri Mar 26 18:03:29 +0000 2010",
+    "friends_count": 9731,
+    "url": null,
+    "profile_background_tile": true,
+    "protected": false,
+    "translator_type": "none",
+    "profile_text_color": "020214",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/885183738551951364/AsF_dITc_normal.jpg",
+    "listed_count": 163,
+    "notifications": null,
+    "contributors_enabled": false,
+    "is_translator": false,
+    "location": "Libre pensadora ",
+    "profile_use_background_image": true,
+    "followers_count": 13550,
+    "profile_sidebar_fill_color": "DEF1F7",
+    "geo_enabled": true,
+    "profile_link_color": "1B95E0",
+    "favourites_count": 115695,
+    "following": null,
+    "default_profile": false,
+    "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000075943996/91f6a6ca2ca2ff3f30723ec4398c235b.jpeg",
+    "profile_background_color": "0F9E8B",
+    "id": 126695224,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/885183738551951364/AsF_dITc_normal.jpg",
+    "lang": "es",
+    "description": "\u00a1Ese milagro comenz\u00f3 desde la concepci\u00f3n y te desarrollaste en el vientre de tu madre! ehoduo@gmail.com\nCansada de la mafia pol\u00edtica. Chile",
+    "follow_request_sent": null,
+    "utc_offset": -10800
+  },
+  "extended_tweet": {
+    "entities": {
+      "user_mentions": [
+        {
+          "indices": [
+            0,
+            13
+          ],
+          "name": "claumiotroyo",
+          "screen_name": "claumiotroyo",
+          "id": 118182660,
+          "id_str": "118182660"
+        }
+      ],
+      "symbols": [],
+      "hashtags": [],
+      "urls": []
+    },
+    "display_text_range": [
+      14,
+      141
+    ],
+    "full_text": "@claumiotroyo Somos de una linea. As\u00ed como los comunistas salen a garabatear y agredir, nos defendemos. Y son bien feos los insultos que dijo"
+  },
+  "lang": "es"
+}

@@ -1,0 +1,105 @@
+{
+  "in_reply_to_user_id": null,
+  "contributors": null,
+  "in_reply_to_screen_name": null,
+  "retweeted": false,
+  "retweet_count": 0,
+  "timestamp_ms": "1508680084900",
+  "in_reply_to_status_id": null,
+  "id_str": "922097225274097669",
+  "created_at": "Sun Oct 22 13:48:04 +0000 2017",
+  "id": 922097225274097669,
+  "coordinates": null,
+  "favorite_count": 0,
+  "entities": {
+    "user_mentions": [],
+    "symbols": [],
+    "hashtags": [],
+    "urls": []
+  },
+  "reply_count": 0,
+  "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+  "place": {
+    "attributes": {},
+    "url": "https://api.twitter.com/1.1/geo/id/0125e2c6210e06c0.json",
+    "place_type": "city",
+    "id": "0125e2c6210e06c0",
+    "country_code": "AR",
+    "name": "Dr. Manuel Belgrano",
+    "country": "Argentina",
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            -65.399937,
+            -24.264895
+          ],
+          [
+            -65.399937,
+            -24.149981
+          ],
+          [
+            -65.232274,
+            -24.149981
+          ],
+          [
+            -65.232274,
+            -24.264895
+          ]
+        ]
+      ]
+    },
+    "full_name": "Dr. Manuel Belgrano, Argentina"
+  },
+  "truncated": false,
+  "in_reply_to_status_id_str": null,
+  "filter_level": "low",
+  "text": "Un voto de confianza, a modo de pr\u00e9stamo; nunca uno de lealtad y adhesi\u00f3n incondicionales, para eso el fanatismo",
+  "geo": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": false,
+  "favorited": false,
+  "user": {
+    "verified": false,
+    "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/7281079/intercept_bkgrd.gif",
+    "statuses_count": 27154,
+    "screen_name": "Randux",
+    "default_profile_image": false,
+    "time_zone": "Buenos Aires",
+    "name": "David Rx",
+    "id_str": "18036125",
+    "profile_sidebar_border_color": "F5F5F5",
+    "created_at": "Thu Dec 11 00:53:39 +0000 2008",
+    "friends_count": 199,
+    "url": "http://www.google.com/pacman/",
+    "profile_background_tile": true,
+    "protected": false,
+    "translator_type": "none",
+    "profile_text_color": "AFADB0",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/609509717438808064/5PLtKiHX_normal.png",
+    "listed_count": 12,
+    "notifications": null,
+    "contributors_enabled": false,
+    "is_translator": false,
+    "location": "Argentina",
+    "profile_use_background_image": false,
+    "followers_count": 258,
+    "profile_sidebar_fill_color": "292929",
+    "geo_enabled": true,
+    "profile_link_color": "335577",
+    "favourites_count": 4786,
+    "following": null,
+    "default_profile": false,
+    "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/7281079/intercept_bkgrd.gif",
+    "profile_background_color": "4D4D4D",
+    "id": 18036125,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/609509717438808064/5PLtKiHX_normal.png",
+    "lang": "es",
+    "description": "Bio en reparaci\u00f3n.",
+    "follow_request_sent": null,
+    "utc_offset": -10800
+  },
+  "quote_count": 0,
+  "lang": "es"
+}

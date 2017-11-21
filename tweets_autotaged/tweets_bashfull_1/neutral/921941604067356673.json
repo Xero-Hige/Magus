@@ -1,0 +1,117 @@
+{
+  "in_reply_to_user_id": null,
+  "contributors": null,
+  "in_reply_to_screen_name": null,
+  "retweeted": false,
+  "retweet_count": 0,
+  "timestamp_ms": "1508642981913",
+  "in_reply_to_status_id": null,
+  "id_str": "921941604067356673",
+  "created_at": "Sun Oct 22 03:29:41 +0000 2017",
+  "id": 921941604067356673,
+  "coordinates": null,
+  "favorite_count": 0,
+  "entities": {
+    "user_mentions": [],
+    "symbols": [],
+    "hashtags": [],
+    "urls": [
+      {
+        "expanded_url": "https://www.youtube.com/watch?v=05_1U11HkHc",
+        "indices": [
+          80,
+          103
+        ],
+        "url": "https://t.co/jT0xCMPTQK",
+        "display_url": "youtube.com/watch?v=05_1U1\u2026"
+      }
+    ]
+  },
+  "reply_count": 0,
+  "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+  "place": {
+    "attributes": {},
+    "url": "https://api.twitter.com/1.1/geo/id/018f1cde6bad9747.json",
+    "place_type": "city",
+    "id": "018f1cde6bad9747",
+    "country_code": "AR",
+    "name": "Ciudad Aut\u00f3noma de Buenos Aires",
+    "country": "Argentina",
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            -58.531792,
+            -34.674453
+          ],
+          [
+            -58.531792,
+            -34.534177
+          ],
+          [
+            -58.353494,
+            -34.534177
+          ],
+          [
+            -58.353494,
+            -34.674453
+          ]
+        ]
+      ]
+    },
+    "full_name": "Ciudad Aut\u00f3noma de Buenos Aires, Argentina"
+  },
+  "truncated": false,
+  "in_reply_to_status_id_str": null,
+  "filter_level": "low",
+  "text": "Interesante entrevista a un integrante de Vuelta del R\u00edo, de la TV de El Bols\u00f3n https://t.co/jT0xCMPTQK",
+  "geo": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": false,
+  "possibly_sensitive": false,
+  "favorited": false,
+  "user": {
+    "verified": false,
+    "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000167702444/yzljQgW8.jpeg",
+    "statuses_count": 232332,
+    "screen_name": "pablovillaverde",
+    "default_profile_image": false,
+    "time_zone": "America/Argentina/Buenos_Aires",
+    "name": "pablo villaverde",
+    "id_str": "58413770",
+    "profile_sidebar_border_color": "36363C",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/58413770/1487310256",
+    "created_at": "Mon Jul 20 07:05:04 +0000 2009",
+    "friends_count": 7299,
+    "url": "http://about.me/pvillaverde",
+    "profile_background_tile": true,
+    "protected": false,
+    "translator_type": "none",
+    "profile_text_color": "DC7D80",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/871421725740847105/WJr4Fm18_normal.jpg",
+    "listed_count": 117,
+    "notifications": null,
+    "contributors_enabled": false,
+    "is_translator": false,
+    "location": "De Bariloche,vivo en CaBA",
+    "profile_use_background_image": true,
+    "followers_count": 7648,
+    "profile_sidebar_fill_color": "E1454C",
+    "geo_enabled": true,
+    "profile_link_color": "C7A1AA",
+    "favourites_count": 9610,
+    "following": null,
+    "default_profile": false,
+    "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000167702444/yzljQgW8.jpeg",
+    "profile_background_color": "B3C0BE",
+    "id": 58413770,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/871421725740847105/WJr4Fm18_normal.jpg",
+    "lang": "es",
+    "description": "Periodista, Columnista, Cronista de Boca en Radio y de Pol\u00edtica en Diarios Digitales. Social Media, conductor de HDP... https://audioboom.com/pablovillaverde",
+    "follow_request_sent": null,
+    "utc_offset": -10800
+  },
+  "quote_count": 0,
+  "lang": "es"
+}

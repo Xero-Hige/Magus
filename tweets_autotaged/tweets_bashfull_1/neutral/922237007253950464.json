@@ -1,0 +1,173 @@
+{
+  "entities": {
+    "hashtags": [
+      {
+        "indices": [
+          54,
+          65
+        ],
+        "text": "accesorios"
+      },
+      {
+        "indices": [
+          66,
+          78
+        ],
+        "text": "accessories"
+      },
+      {
+        "indices": [
+          79,
+          87
+        ],
+        "text": "fashion"
+      },
+      {
+        "indices": [
+          88,
+          93
+        ],
+        "text": "moda"
+      },
+      {
+        "indices": [
+          94,
+          101
+        ],
+        "text": "dise\u00f1o"
+      }
+    ],
+    "symbols": [],
+    "urls": [
+      {
+        "indices": [
+          0,
+          23
+        ],
+        "expanded_url": "http://www.vestige.cl",
+        "display_url": "vestige.cl",
+        "url": "https://t.co/7hrjNyKAZR"
+      },
+      {
+        "indices": [
+          103,
+          126
+        ],
+        "expanded_url": "https://www.instagram.com/p/BakWsObF4QS/",
+        "display_url": "instagram.com/p/BakWsObF4QS/",
+        "url": "https://t.co/R1nKuaJDb4"
+      }
+    ],
+    "user_mentions": []
+  },
+  "in_reply_to_user_id": null,
+  "created_at": "Sun Oct 22 23:03:31 +0000 2017",
+  "favorite_count": 0,
+  "lang": "es",
+  "reply_count": 0,
+  "id_str": "922237007253950464",
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_status_id": null,
+  "timestamp_ms": "1508713411521",
+  "possibly_sensitive": false,
+  "text": "https://t.co/7hrjNyKAZR Nuevos accesorios cada semana #accesorios #accessories #fashion #moda #dise\u00f1o\u2026 https://t.co/R1nKuaJDb4",
+  "user": {
+    "time_zone": null,
+    "screen_name": "YasFarSil",
+    "utc_offset": null,
+    "created_at": "Mon Mar 08 17:23:47 +0000 2010",
+    "profile_background_tile": false,
+    "notifications": null,
+    "lang": "es",
+    "default_profile": false,
+    "follow_request_sent": null,
+    "id_str": "121175457",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1039855989/_K7O8349_normal.jpg",
+    "name": "Yasna Far\u00edas Silva",
+    "friends_count": 358,
+    "translator_type": "none",
+    "protected": false,
+    "following": null,
+    "is_translator": false,
+    "profile_text_color": "000000",
+    "listed_count": 1,
+    "profile_link_color": "B31B1B",
+    "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/81517558/img2007082718513210a.jpg",
+    "url": "http://www.vestige.cl",
+    "id": 121175457,
+    "favourites_count": 85,
+    "profile_background_color": "F0C3DC",
+    "followers_count": 174,
+    "statuses_count": 633,
+    "description": "Dise\u00f1adora Multimedia, Traductora en Ingl\u00e9s, Due\u00f1a de Vestige - Accesorios para la Mujer.-",
+    "location": "Santiago",
+    "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/81517558/img2007082718513210a.jpg",
+    "default_profile_image": false,
+    "verified": false,
+    "profile_sidebar_fill_color": "FFF5F5",
+    "profile_use_background_image": true,
+    "contributors_enabled": false,
+    "profile_sidebar_border_color": "F5DDCE",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1039855989/_K7O8349_normal.jpg",
+    "geo_enabled": true
+  },
+  "geo": {
+    "coordinates": [
+      -33.43777778,
+      -70.65027778
+    ],
+    "type": "Point"
+  },
+  "id": 922237007253950464,
+  "quote_count": 0,
+  "retweeted": false,
+  "filter_level": "low",
+  "in_reply_to_status_id_str": null,
+  "source": "<a href=\"http://instagram.com\" rel=\"nofollow\">Instagram</a>",
+  "favorited": false,
+  "coordinates": {
+    "coordinates": [
+      -70.65027778,
+      -33.43777778
+    ],
+    "type": "Point"
+  },
+  "truncated": false,
+  "retweet_count": 0,
+  "is_quote_status": false,
+  "in_reply_to_screen_name": null,
+  "contributors": null,
+  "place": {
+    "bounding_box": {
+      "coordinates": [
+        [
+          [
+            -70.692959,
+            -33.478574
+          ],
+          [
+            -70.692959,
+            -33.425749
+          ],
+          [
+            -70.626272,
+            -33.425749
+          ],
+          [
+            -70.626272,
+            -33.478574
+          ]
+        ]
+      ],
+      "type": "Polygon"
+    },
+    "name": "Santiago",
+    "url": "https://api.twitter.com/1.1/geo/id/0010b4cb51ca93d8.json",
+    "country_code": "CL",
+    "id": "0010b4cb51ca93d8",
+    "place_type": "city",
+    "attributes": {},
+    "full_name": "Santiago, Chile",
+    "country": "Chile"
+  }
+}

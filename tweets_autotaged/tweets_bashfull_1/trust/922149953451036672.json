@@ -1,0 +1,114 @@
+{
+  "in_reply_to_user_id": null,
+  "contributors": null,
+  "in_reply_to_screen_name": null,
+  "retweeted": false,
+  "retweet_count": 0,
+  "timestamp_ms": "1508692656277",
+  "in_reply_to_status_id": null,
+  "id_str": "922149953451036672",
+  "created_at": "Sun Oct 22 17:17:36 +0000 2017",
+  "id": 922149953451036672,
+  "coordinates": null,
+  "favorite_count": 0,
+  "entities": {
+    "user_mentions": [],
+    "symbols": [],
+    "hashtags": [
+      {
+        "text": "Elecciones2017",
+        "indices": [
+          120,
+          135
+        ]
+      }
+    ],
+    "urls": []
+  },
+  "reply_count": 0,
+  "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+  "place": {
+    "attributes": {},
+    "url": "https://api.twitter.com/1.1/geo/id/00f84d414936f28e.json",
+    "place_type": "city",
+    "id": "00f84d414936f28e",
+    "country_code": "AR",
+    "name": "C\u00f3rdoba",
+    "country": "Argentina",
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            -64.3195,
+            -31.523576
+          ],
+          [
+            -64.3195,
+            -31.307337
+          ],
+          [
+            -64.076551,
+            -31.307337
+          ],
+          [
+            -64.076551,
+            -31.523576
+          ]
+        ]
+      ]
+    },
+    "full_name": "C\u00f3rdoba, Argentina"
+  },
+  "truncated": false,
+  "in_reply_to_status_id_str": null,
+  "filter_level": "low",
+  "text": "El pueblo tiene perdonado equivocarse. Tambi\u00e9n a nosotros nos ocurre cuando compramos confiando ciegamente en un autor. #Elecciones2017",
+  "geo": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": false,
+  "favorited": false,
+  "user": {
+    "verified": false,
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+    "statuses_count": 3918,
+    "screen_name": "pidotiempo",
+    "default_profile_image": false,
+    "time_zone": "Brasilia",
+    "name": "Pidotiempo",
+    "id_str": "2414189115",
+    "profile_sidebar_border_color": "000000",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/2414189115/1496160665",
+    "created_at": "Sun Mar 16 02:53:21 +0000 2014",
+    "friends_count": 5933,
+    "url": "http://www.pidotiempo.com",
+    "profile_background_tile": false,
+    "protected": false,
+    "translator_type": "none",
+    "profile_text_color": "000000",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/869586871864741888/az7o393b_normal.jpg",
+    "listed_count": 76,
+    "notifications": null,
+    "contributors_enabled": false,
+    "is_translator": false,
+    "location": null,
+    "profile_use_background_image": false,
+    "followers_count": 9437,
+    "profile_sidebar_fill_color": "000000",
+    "geo_enabled": true,
+    "profile_link_color": "3B94D9",
+    "favourites_count": 1160,
+    "following": null,
+    "default_profile": false,
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+    "profile_background_color": "000000",
+    "id": 2414189115,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/869586871864741888/az7o393b_normal.jpg",
+    "lang": "es",
+    "description": "Un blog con historias que tienen h\u00e1bito de convertirse en libros. Obsesionados con el tiempo, desde siempre. En instagram solo poemas y portadas bellas.",
+    "follow_request_sent": null,
+    "utc_offset": -7200
+  },
+  "quote_count": 0,
+  "lang": "es"
+}

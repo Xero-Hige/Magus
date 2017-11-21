@@ -1,0 +1,155 @@
+{
+  "in_reply_to_user_id": 32159476,
+  "contributors": null,
+  "id": 922161146467057667,
+  "retweeted": false,
+  "retweet_count": 0,
+  "timestamp_ms": "1508695324900",
+  "in_reply_to_status_id": 922160507607506944,
+  "id_str": "922161146467057667",
+  "coordinates": null,
+  "created_at": "Sun Oct 22 18:02:04 +0000 2017",
+  "quote_count": 0,
+  "favorite_count": 0,
+  "entities": {
+    "user_mentions": [
+      {
+        "indices": [
+          0,
+          16
+        ],
+        "name": "Manuel L. Rodr\u00edguez",
+        "screen_name": "RodriguezManuel",
+        "id": 32159476,
+        "id_str": "32159476"
+      }
+    ],
+    "symbols": [],
+    "hashtags": [],
+    "urls": [
+      {
+        "expanded_url": "https://twitter.com/i/web/status/922161146467057667",
+        "indices": [
+          117,
+          140
+        ],
+        "url": "https://t.co/RP9ADHvobf",
+        "display_url": "twitter.com/i/web/status/9\u2026"
+      }
+    ]
+  },
+  "reply_count": 0,
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "place": {
+    "attributes": {},
+    "url": "https://api.twitter.com/1.1/geo/id/00aae48175646039.json",
+    "place_type": "city",
+    "id": "00aae48175646039",
+    "country_code": "CL",
+    "name": "Punta Arenas",
+    "country": "Chile",
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            -74.693573,
+            -54.648191
+          ],
+          [
+            -74.693573,
+            -52.694724
+          ],
+          [
+            -70.195955,
+            -52.694724
+          ],
+          [
+            -70.195955,
+            -54.648191
+          ]
+        ]
+      ]
+    },
+    "full_name": "Punta Arenas, Chile"
+  },
+  "truncated": true,
+  "in_reply_to_status_id_str": "922160507607506944",
+  "in_reply_to_screen_name": "RodriguezManuel",
+  "filter_level": "low",
+  "text": "@RodriguezManuel Pero esas rondas m\u00e9dicas no dan a basto a una poblaci\u00f3n que ha crecido considerablemente; y las de\u2026 https://t.co/RP9ADHvobf",
+  "geo": null,
+  "in_reply_to_user_id_str": "32159476",
+  "is_quote_status": false,
+  "display_text_range": [
+    17,
+    140
+  ],
+  "favorited": false,
+  "user": {
+    "verified": false,
+    "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/459702877070450688/B3Bkc2Ht.jpeg",
+    "statuses_count": 20773,
+    "screen_name": "pammew",
+    "default_profile_image": false,
+    "time_zone": "Santiago",
+    "name": "P a m e",
+    "id_str": "134682874",
+    "profile_sidebar_border_color": "FFFFFF",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/134682874/1453410249",
+    "created_at": "Mon Apr 19 04:31:57 +0000 2010",
+    "friends_count": 863,
+    "url": "https://www.facebook.com/Gabinete-Juvenil-Magallanes-1492492691052347/",
+    "profile_background_tile": true,
+    "protected": false,
+    "translator_type": "none",
+    "profile_text_color": "0099CC",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/909987574390943744/fJQ9hHjp_normal.jpg",
+    "listed_count": 10,
+    "notifications": null,
+    "contributors_enabled": false,
+    "is_translator": false,
+    "location": "Punta Arenas, Magallanes",
+    "profile_use_background_image": true,
+    "followers_count": 1159,
+    "profile_sidebar_fill_color": "F6FFD1",
+    "geo_enabled": true,
+    "profile_link_color": "333333",
+    "favourites_count": 9130,
+    "following": null,
+    "default_profile": false,
+    "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/459702877070450688/B3Bkc2Ht.jpeg",
+    "profile_background_color": "FFFFFF",
+    "id": 134682874,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/909987574390943744/fJQ9hHjp_normal.jpg",
+    "lang": "es",
+    "description": "#Magallanica hasta la m\u00e9dula y Fueguina de adopci\u00f3n \ud83d\udc99\ud83d\udc9b - #TSocial #DC #SoyAzul #CatLover #DogLover #ViveCrueltyFree",
+    "follow_request_sent": null,
+    "utc_offset": -10800
+  },
+  "extended_tweet": {
+    "entities": {
+      "user_mentions": [
+        {
+          "indices": [
+            0,
+            16
+          ],
+          "name": "Manuel L. Rodr\u00edguez",
+          "screen_name": "RodriguezManuel",
+          "id": 32159476,
+          "id_str": "32159476"
+        }
+      ],
+      "symbols": [],
+      "hashtags": [],
+      "urls": []
+    },
+    "display_text_range": [
+      17,
+      146
+    ],
+    "full_text": "@RodriguezManuel Pero esas rondas m\u00e9dicas no dan a basto a una poblaci\u00f3n que ha crecido considerablemente; y las dentales, las proporciona la muni"
+  },
+  "lang": "es"
+}

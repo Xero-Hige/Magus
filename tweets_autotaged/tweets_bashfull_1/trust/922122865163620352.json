@@ -1,0 +1,116 @@
+{
+  "in_reply_to_user_id": 132360268,
+  "contributors": null,
+  "in_reply_to_screen_name": "ischargro",
+  "retweeted": false,
+  "retweet_count": 0,
+  "timestamp_ms": "1508686197926",
+  "in_reply_to_status_id": null,
+  "id_str": "922122865163620352",
+  "created_at": "Sun Oct 22 15:29:57 +0000 2017",
+  "id": 922122865163620352,
+  "coordinates": null,
+  "favorite_count": 0,
+  "entities": {
+    "user_mentions": [
+      {
+        "indices": [
+          0,
+          10
+        ],
+        "name": "Iv\u00e1n Schargrodsky",
+        "screen_name": "ischargro",
+        "id": 132360268,
+        "id_str": "132360268"
+      }
+    ],
+    "symbols": [],
+    "hashtags": [],
+    "urls": []
+  },
+  "reply_count": 0,
+  "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+  "place": {
+    "attributes": {},
+    "url": "https://api.twitter.com/1.1/geo/id/01153d1b33e1641b.json",
+    "place_type": "city",
+    "id": "01153d1b33e1641b",
+    "country_code": "AR",
+    "name": "Tigre",
+    "country": "Argentina",
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            -58.734553,
+            -34.537735
+          ],
+          [
+            -58.734553,
+            -34.350097
+          ],
+          [
+            -58.561445,
+            -34.350097
+          ],
+          [
+            -58.561445,
+            -34.537735
+          ]
+        ]
+      ]
+    },
+    "full_name": "Tigre, Argentina"
+  },
+  "truncated": false,
+  "in_reply_to_status_id_str": null,
+  "filter_level": "low",
+  "text": "@ischargro voto por 235 a\u00f1os mis \u00faltimos 3 de DNI Santiago Maldonado presente ahora y siempre",
+  "geo": null,
+  "in_reply_to_user_id_str": "132360268",
+  "is_quote_status": false,
+  "favorited": false,
+  "user": {
+    "verified": false,
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "statuses_count": 1281,
+    "screen_name": "pablogferre",
+    "default_profile_image": false,
+    "time_zone": "Buenos Aires",
+    "name": "Pablo Ferreira",
+    "id_str": "220718131",
+    "profile_sidebar_border_color": "C0DEED",
+    "created_at": "Sun Nov 28 16:52:26 +0000 2010",
+    "friends_count": 69,
+    "url": null,
+    "profile_background_tile": false,
+    "protected": false,
+    "translator_type": "none",
+    "profile_text_color": "333333",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1265010915/00014_normal.jpg",
+    "listed_count": 0,
+    "notifications": null,
+    "contributors_enabled": false,
+    "is_translator": false,
+    "location": "Tigre,Argentina",
+    "profile_use_background_image": true,
+    "followers_count": 16,
+    "profile_sidebar_fill_color": "DDEEF6",
+    "geo_enabled": true,
+    "profile_link_color": "1DA1F2",
+    "favourites_count": 41,
+    "following": null,
+    "default_profile": true,
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_color": "C0DEED",
+    "id": 220718131,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1265010915/00014_normal.jpg",
+    "lang": "es",
+    "description": "Empleado, Hincha de toda la Vida del Matador de Victoria",
+    "follow_request_sent": null,
+    "utc_offset": -10800
+  },
+  "quote_count": 0,
+  "lang": "es"
+}

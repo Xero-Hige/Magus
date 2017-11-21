@@ -1,0 +1,141 @@
+{
+  "in_reply_to_user_id": null,
+  "contributors": null,
+  "in_reply_to_screen_name": null,
+  "retweeted": false,
+  "retweet_count": 0,
+  "timestamp_ms": "1508672532256",
+  "in_reply_to_status_id": null,
+  "id_str": "922065547189252096",
+  "created_at": "Sun Oct 22 11:42:12 +0000 2017",
+  "id": 922065547189252096,
+  "coordinates": null,
+  "favorite_count": 0,
+  "entities": {
+    "user_mentions": [],
+    "symbols": [],
+    "hashtags": [
+      {
+        "text": "manipulaci\u00f3n",
+        "indices": [
+          0,
+          13
+        ]
+      },
+      {
+        "text": "inseguridad",
+        "indices": [
+          14,
+          26
+        ]
+      },
+      {
+        "text": "miedo",
+        "indices": [
+          27,
+          33
+        ]
+      },
+      {
+        "text": "menos",
+        "indices": [
+          34,
+          40
+        ]
+      },
+      {
+        "text": "no",
+        "indices": [
+          81,
+          84
+        ]
+      }
+    ],
+    "urls": []
+  },
+  "reply_count": 0,
+  "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+  "place": {
+    "attributes": {},
+    "url": "https://api.twitter.com/1.1/geo/id/013044056c4adf51.json",
+    "place_type": "city",
+    "id": "013044056c4adf51",
+    "country_code": "AR",
+    "name": "Monte Grande",
+    "country": "Argentina",
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            -58.515675,
+            -34.907559
+          ],
+          [
+            -58.515675,
+            -34.723106
+          ],
+          [
+            -58.43041,
+            -34.723106
+          ],
+          [
+            -58.43041,
+            -34.907559
+          ]
+        ]
+      ]
+    },
+    "full_name": "Monte Grande, Argentina"
+  },
+  "truncated": false,
+  "in_reply_to_status_id_str": null,
+  "filter_level": "low",
+  "text": "#manipulaci\u00f3n #inseguridad #miedo #menos mal que se me di\u00f3 por ver mi cronolog\u00eda #no me gusta nada",
+  "geo": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": false,
+  "favorited": false,
+  "user": {
+    "verified": false,
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+    "statuses_count": 3552,
+    "screen_name": "pandodiego",
+    "default_profile_image": false,
+    "time_zone": "Georgetown",
+    "name": "Diego Pando",
+    "id_str": "133979575",
+    "profile_sidebar_border_color": "EEEEEE",
+    "created_at": "Sat Apr 17 04:13:40 +0000 2010",
+    "friends_count": 3227,
+    "url": null,
+    "profile_background_tile": false,
+    "protected": false,
+    "translator_type": "none",
+    "profile_text_color": "333333",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/868101622978707457/l0gd5hqL_normal.jpg",
+    "listed_count": 12,
+    "notifications": null,
+    "contributors_enabled": false,
+    "is_translator": false,
+    "location": "Ciudad Aut\u00f3noma de Buenos Aire",
+    "profile_use_background_image": true,
+    "followers_count": 1544,
+    "profile_sidebar_fill_color": "EFEFEF",
+    "geo_enabled": true,
+    "profile_link_color": "009999",
+    "favourites_count": 5240,
+    "following": null,
+    "default_profile": false,
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+    "profile_background_color": "131516",
+    "id": 133979575,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/868101622978707457/l0gd5hqL_normal.jpg",
+    "lang": "es",
+    "description": "Productor Ejecutivo Paseo La Plaza\nProfesor de Historia  -Docente en ISER\nLocutor Integral de Radio y Televisi\u00f3n",
+    "follow_request_sent": null,
+    "utc_offset": -14400
+  },
+  "quote_count": 0,
+  "lang": "es"
+}

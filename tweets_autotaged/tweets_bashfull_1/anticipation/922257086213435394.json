@@ -1,0 +1,175 @@
+{
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "urls": [
+      {
+        "indices": [
+          117,
+          140
+        ],
+        "expanded_url": "https://twitter.com/i/web/status/922257086213435394",
+        "display_url": "twitter.com/i/web/status/9\u2026",
+        "url": "https://t.co/19eRayM5v9"
+      }
+    ],
+    "user_mentions": [
+      {
+        "indices": [
+          0,
+          12
+        ],
+        "screen_name": "GuidoAIRBAG",
+        "name": "Guido A. Sardelli",
+        "id_str": "355931279",
+        "id": 355931279
+      },
+      {
+        "indices": [
+          13,
+          26
+        ],
+        "screen_name": "SonyMusicArg",
+        "name": "Sony Music Argentina",
+        "id_str": "36767072",
+        "id": 36767072
+      }
+    ]
+  },
+  "in_reply_to_user_id": 355931279,
+  "created_at": "Mon Oct 23 00:23:18 +0000 2017",
+  "favorite_count": 0,
+  "lang": "es",
+  "reply_count": 0,
+  "id_str": "922257086213435394",
+  "in_reply_to_user_id_str": "355931279",
+  "extended_tweet": {
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "urls": [],
+      "user_mentions": [
+        {
+          "indices": [
+            0,
+            12
+          ],
+          "screen_name": "GuidoAIRBAG",
+          "name": "Guido A. Sardelli",
+          "id_str": "355931279",
+          "id": 355931279
+        },
+        {
+          "indices": [
+            13,
+            26
+          ],
+          "screen_name": "SonyMusicArg",
+          "name": "Sony Music Argentina",
+          "id_str": "36767072",
+          "id": 36767072
+        }
+      ]
+    },
+    "display_text_range": [
+      27,
+      145
+    ],
+    "full_text": "@GuidoAIRBAG @SonyMusicArg Me dio mucha felicidad ver est\u00e1 foto. Lo vi la semana pasada. Seminare en vivo sigue siendo magia, incre\u00edble David \u2764\u2764\u2764"
+  },
+  "in_reply_to_status_id": 922252606025674753,
+  "timestamp_ms": "1508718198718",
+  "truncated": true,
+  "text": "@GuidoAIRBAG @SonyMusicArg Me dio mucha felicidad ver est\u00e1 foto. Lo vi la semana pasada. Seminare en vivo sigue sie\u2026 https://t.co/19eRayM5v9",
+  "user": {
+    "time_zone": "Santiago",
+    "screen_name": "YasTalab",
+    "utc_offset": -10800,
+    "created_at": "Fri Aug 12 17:45:35 +0000 2011",
+    "profile_background_tile": true,
+    "notifications": null,
+    "lang": "es",
+    "default_profile": false,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/353817698/1507569208",
+    "id_str": "353817698",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/907459821418504192/498VTsb__normal.jpg",
+    "name": "Yas",
+    "friends_count": 280,
+    "translator_type": "none",
+    "protected": false,
+    "following": null,
+    "is_translator": false,
+    "follow_request_sent": null,
+    "profile_text_color": "333333",
+    "listed_count": 6,
+    "profile_link_color": "CC3366",
+    "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000053947212/0775dbb5f0e32e2100e618e2ecb269fb.jpeg",
+    "url": "http://instagram.com/yastalabm",
+    "id": 353817698,
+    "favourites_count": 1486,
+    "profile_background_color": "DBE9ED",
+    "followers_count": 650,
+    "statuses_count": 49824,
+    "description": "me tatu\u00e9 las reliquias de la muerte.\nbasta chicos",
+    "location": "en la ciudad de la furia",
+    "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000053947212/0775dbb5f0e32e2100e618e2ecb269fb.jpeg",
+    "default_profile_image": false,
+    "verified": false,
+    "profile_sidebar_fill_color": "E6F6F9",
+    "profile_use_background_image": true,
+    "contributors_enabled": false,
+    "profile_sidebar_border_color": "FFFFFF",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/907459821418504192/498VTsb__normal.jpg",
+    "geo_enabled": true
+  },
+  "geo": null,
+  "id": 922257086213435394,
+  "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+  "retweeted": false,
+  "filter_level": "low",
+  "in_reply_to_status_id_str": "922252606025674753",
+  "quote_count": 0,
+  "favorited": false,
+  "coordinates": null,
+  "display_text_range": [
+    27,
+    140
+  ],
+  "retweet_count": 0,
+  "is_quote_status": false,
+  "in_reply_to_screen_name": "GuidoAIRBAG",
+  "contributors": null,
+  "place": {
+    "bounding_box": {
+      "coordinates": [
+        [
+          [
+            -63.39386,
+            -41.035009
+          ],
+          [
+            -63.39386,
+            -33.260144
+          ],
+          [
+            -56.665836,
+            -33.260144
+          ],
+          [
+            -56.665836,
+            -41.035009
+          ]
+        ]
+      ],
+      "type": "Polygon"
+    },
+    "name": "Buenos Aires",
+    "url": "https://api.twitter.com/1.1/geo/id/4afa2757051c5192.json",
+    "country_code": "AR",
+    "id": "4afa2757051c5192",
+    "place_type": "admin",
+    "attributes": {},
+    "full_name": "Buenos Aires, Argentina",
+    "country": "Argentina"
+  }
+}

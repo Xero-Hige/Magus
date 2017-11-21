@@ -1,0 +1,125 @@
+{
+  "entities": {
+    "hashtags": [
+      {
+        "indices": [
+          16,
+          30
+        ],
+        "text": "25aniversario"
+      }
+    ],
+    "symbols": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "indices": [
+          0,
+          15
+        ],
+        "screen_name": "RigobertMenchu",
+        "name": "Rigoberta Mench\u00fa Tum",
+        "id_str": "274207983",
+        "id": 274207983
+      }
+    ]
+  },
+  "in_reply_to_user_id": 274207983,
+  "created_at": "Mon Oct 23 00:40:50 +0000 2017",
+  "favorite_count": 0,
+  "lang": "es",
+  "reply_count": 0,
+  "id_str": "922261498168266752",
+  "in_reply_to_user_id_str": "274207983",
+  "in_reply_to_status_id": null,
+  "timestamp_ms": "1508719250610",
+  "text": "@RigobertMenchu #25aniversario Premio Nobel de La Paz .\nUn abrazo y nuestro reconocimiento desde Chile",
+  "user": {
+    "time_zone": null,
+    "screen_name": "cineindigena",
+    "utc_offset": null,
+    "created_at": "Mon Apr 04 18:24:25 +0000 2011",
+    "profile_background_tile": false,
+    "notifications": null,
+    "lang": "es",
+    "default_profile": false,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/277108686/1506738572",
+    "id_str": "277108686",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/828968380178776064/-DawA5WC_normal.jpg",
+    "name": "cine+video indigena",
+    "friends_count": 1573,
+    "translator_type": "none",
+    "protected": false,
+    "following": null,
+    "is_translator": false,
+    "follow_request_sent": null,
+    "profile_text_color": "000000",
+    "listed_count": 38,
+    "profile_link_color": "4A913C",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+    "url": "https://www.facebook.com/pages/CineVideo-Indigena/483872525001180",
+    "id": 277108686,
+    "favourites_count": 3023,
+    "profile_background_color": "000000",
+    "followers_count": 3153,
+    "statuses_count": 9994,
+    "description": "11 a\u00f1os apoyando la difusi\u00f3n de pel\u00edculas y material audiovisual producido por y sobre los pueblos originarios de Chile, Latinoam\u00e9rica y el Mundo",
+    "location": "chile",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+    "default_profile_image": false,
+    "verified": false,
+    "profile_sidebar_fill_color": "000000",
+    "profile_use_background_image": false,
+    "contributors_enabled": false,
+    "profile_sidebar_border_color": "000000",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/828968380178776064/-DawA5WC_normal.jpg",
+    "geo_enabled": true
+  },
+  "geo": null,
+  "id": 922261498168266752,
+  "quote_count": 0,
+  "retweeted": false,
+  "filter_level": "low",
+  "in_reply_to_status_id_str": null,
+  "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+  "favorited": false,
+  "coordinates": null,
+  "truncated": false,
+  "retweet_count": 0,
+  "is_quote_status": false,
+  "in_reply_to_screen_name": "RigobertMenchu",
+  "contributors": null,
+  "place": {
+    "bounding_box": {
+      "coordinates": [
+        [
+          [
+            -70.608694,
+            -33.486182
+          ],
+          [
+            -70.608694,
+            -33.364619
+          ],
+          [
+            -70.429141,
+            -33.364619
+          ],
+          [
+            -70.429141,
+            -33.486182
+          ]
+        ]
+      ],
+      "type": "Polygon"
+    },
+    "name": "Las Condes",
+    "url": "https://api.twitter.com/1.1/geo/id/00c4b64e7affea25.json",
+    "country_code": "CL",
+    "id": "00c4b64e7affea25",
+    "place_type": "city",
+    "attributes": {},
+    "full_name": "Las Condes, Chile",
+    "country": "Chile"
+  }
+}

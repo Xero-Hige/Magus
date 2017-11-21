@@ -1,0 +1,428 @@
+{
+  "id_str": "922317978749857792",
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "in_reply_to_status_id": null,
+  "created_at": "Mon Oct 23 04:25:16 +0000 2017",
+  "retweet_count": 0,
+  "truncated": true,
+  "place": {
+    "id": "0a738ff13a08a7dd",
+    "country_code": "AR",
+    "name": "Santa Fe",
+    "bounding_box": {
+      "coordinates": [
+        [
+          [
+            -62.889222,
+            -34.384297
+          ],
+          [
+            -62.889222,
+            -27.993928
+          ],
+          [
+            -58.870821,
+            -27.993928
+          ],
+          [
+            -58.870821,
+            -34.384297
+          ]
+        ]
+      ],
+      "type": "Polygon"
+    },
+    "place_type": "admin",
+    "country": "Argentina",
+    "full_name": "Santa Fe, Argentina",
+    "url": "https://api.twitter.com/1.1/geo/id/0a738ff13a08a7dd.json",
+    "attributes": {}
+  },
+  "possibly_sensitive": false,
+  "text": "Gran elecci\u00f3n de @NikyCantard y todo el equipo de @cambiemos en Santa Fe! Esto reci\u00e9n empieza #YoNoAflojo\u2026 https://t.co/OXcLedo65Z",
+  "id": 922317978749857792,
+  "in_reply_to_screen_name": null,
+  "entities": {
+    "hashtags": [
+      {
+        "indices": [
+          94,
+          105
+        ],
+        "text": "YoNoAflojo"
+      }
+    ],
+    "urls": [
+      {
+        "indices": [
+          107,
+          130
+        ],
+        "expanded_url": "https://twitter.com/i/web/status/922317978749857792",
+        "display_url": "twitter.com/i/web/status/9\u2026",
+        "url": "https://t.co/OXcLedo65Z"
+      }
+    ],
+    "symbols": [],
+    "user_mentions": [
+      {
+        "id": 4405548435,
+        "id_str": "4405548435",
+        "indices": [
+          17,
+          29
+        ],
+        "screen_name": "NikyCantard",
+        "name": "Niky Cantard"
+      },
+      {
+        "id": 4341845367,
+        "id_str": "4341845367",
+        "indices": [
+          50,
+          60
+        ],
+        "screen_name": "cambiemos",
+        "name": "Cambiemos"
+      }
+    ]
+  },
+  "display_text_range": [
+    0,
+    140
+  ],
+  "quoted_status": {
+    "geo": null,
+    "user": {
+      "id_str": "271115758",
+      "favourites_count": 2451,
+      "contributors_enabled": false,
+      "name": "Lucas Incicco",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_background_tile": false,
+      "profile_background_color": "022E04",
+      "created_at": "Wed Mar 23 22:01:24 +0000 2011",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/271115758/1451226967",
+      "location": null,
+      "description": "Diputado de la Nacion por la Provincia de Santa Fe. PRO Propuesta Republicana. Cambiemos",
+      "listed_count": 39,
+      "follow_request_sent": null,
+      "default_profile_image": false,
+      "lang": "es",
+      "statuses_count": 6807,
+      "url": null,
+      "notifications": null,
+      "id": 271115758,
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+      "translator_type": "none",
+      "screen_name": "Lucas_Incicco",
+      "protected": false,
+      "profile_link_color": "0084B4",
+      "friends_count": 226,
+      "time_zone": "Buenos Aires",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+      "profile_text_color": "333333",
+      "is_translator": false,
+      "followers_count": 2834,
+      "default_profile": false,
+      "utc_offset": -10800,
+      "verified": false,
+      "following": null,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/864663680658456576/l1yBw_CS_normal.jpg",
+      "profile_use_background_image": true,
+      "profile_sidebar_border_color": "FFFFFF",
+      "geo_enabled": false,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/864663680658456576/l1yBw_CS_normal.jpg"
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "lang": "es",
+    "favorited": false,
+    "in_reply_to_status_id": null,
+    "created_at": "Mon Oct 23 04:17:59 +0000 2017",
+    "coordinates": null,
+    "quote_count": 0,
+    "truncated": true,
+    "place": null,
+    "retweet_count": 1,
+    "reply_count": 0,
+    "possibly_sensitive": false,
+    "text": "Felicitaciones @NikyCantard y todo el equipo de #CambiemosSantaFe Un enorme triunfo para que SFe se sume al cambio\u2026 https://t.co/57gLLWusjE",
+    "in_reply_to_user_id": null,
+    "extended_tweet": {
+      "full_text": "Felicitaciones @NikyCantard y todo el equipo de #CambiemosSantaFe Un enorme triunfo para que SFe se sume al cambio que necesita y merece. https://t.co/BYZNbYUrob",
+      "display_text_range": [
+        0,
+        137
+      ],
+      "entities": {
+        "hashtags": [
+          {
+            "indices": [
+              48,
+              65
+            ],
+            "text": "CambiemosSantaFe"
+          }
+        ],
+        "media": [
+          {
+            "id": 922316095188602880,
+            "sizes": {
+              "small": {
+                "h": 387,
+                "resize": "fit",
+                "w": 680
+              },
+              "medium": {
+                "h": 683,
+                "resize": "fit",
+                "w": 1200
+              },
+              "large": {
+                "h": 1166,
+                "resize": "fit",
+                "w": 2048
+              },
+              "thumb": {
+                "h": 150,
+                "resize": "crop",
+                "w": 150
+              }
+            },
+            "indices": [
+              138,
+              161
+            ],
+            "display_url": "pic.twitter.com/BYZNbYUrob",
+            "media_url": "http://pbs.twimg.com/media/DMy5mhhXkAAUC4-.jpg",
+            "type": "photo",
+            "media_url_https": "https://pbs.twimg.com/media/DMy5mhhXkAAUC4-.jpg",
+            "id_str": "922316095188602880",
+            "expanded_url": "https://twitter.com/Lucas_Incicco/status/922316145511854086/photo/1",
+            "url": "https://t.co/BYZNbYUrob"
+          }
+        ],
+        "urls": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "id": 4405548435,
+            "id_str": "4405548435",
+            "indices": [
+              15,
+              27
+            ],
+            "screen_name": "NikyCantard",
+            "name": "Niky Cantard"
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "id": 922316095188602880,
+            "sizes": {
+              "small": {
+                "h": 387,
+                "resize": "fit",
+                "w": 680
+              },
+              "medium": {
+                "h": 683,
+                "resize": "fit",
+                "w": 1200
+              },
+              "large": {
+                "h": 1166,
+                "resize": "fit",
+                "w": 2048
+              },
+              "thumb": {
+                "h": 150,
+                "resize": "crop",
+                "w": 150
+              }
+            },
+            "indices": [
+              138,
+              161
+            ],
+            "display_url": "pic.twitter.com/BYZNbYUrob",
+            "media_url": "http://pbs.twimg.com/media/DMy5mhhXkAAUC4-.jpg",
+            "type": "photo",
+            "media_url_https": "https://pbs.twimg.com/media/DMy5mhhXkAAUC4-.jpg",
+            "id_str": "922316095188602880",
+            "expanded_url": "https://twitter.com/Lucas_Incicco/status/922316145511854086/photo/1",
+            "url": "https://t.co/BYZNbYUrob"
+          }
+        ]
+      }
+    },
+    "id": 922316145511854086,
+    "favorite_count": 5,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "entities": {
+      "hashtags": [
+        {
+          "indices": [
+            48,
+            65
+          ],
+          "text": "CambiemosSantaFe"
+        }
+      ],
+      "urls": [
+        {
+          "indices": [
+            116,
+            139
+          ],
+          "expanded_url": "https://twitter.com/i/web/status/922316145511854086",
+          "display_url": "twitter.com/i/web/status/9\u2026",
+          "url": "https://t.co/57gLLWusjE"
+        }
+      ],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "id": 4405548435,
+          "id_str": "4405548435",
+          "indices": [
+            15,
+            27
+          ],
+          "screen_name": "NikyCantard",
+          "name": "Niky Cantard"
+        }
+      ]
+    },
+    "id_str": "922316145511854086",
+    "display_text_range": [
+      0,
+      140
+    ],
+    "filter_level": "low",
+    "retweeted": false,
+    "contributors": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false
+  },
+  "retweeted": false,
+  "timestamp_ms": "1508732716630",
+  "contributors": null,
+  "is_quote_status": true,
+  "quoted_status_id_str": "922316145511854086",
+  "user": {
+    "id_str": "484994837",
+    "favourites_count": 1558,
+    "contributors_enabled": false,
+    "name": "Germ\u00e1n Mastrocola",
+    "profile_sidebar_fill_color": "F6FFD1",
+    "profile_background_tile": false,
+    "profile_background_color": "FFF04D",
+    "created_at": "Mon Feb 06 18:26:51 +0000 2012",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/484994837/1490713598",
+    "location": "Rosario",
+    "description": "Diputado Provincial Cambiemos - Construyendo una alternativa de Gobierno en Santa Fe.",
+    "listed_count": 25,
+    "follow_request_sent": null,
+    "default_profile_image": false,
+    "lang": "es",
+    "statuses_count": 2267,
+    "url": "https://www.facebook.com/germastro?ref=hl",
+    "notifications": null,
+    "id": 484994837,
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme19/bg.gif",
+    "translator_type": "none",
+    "screen_name": "dipmastrocola",
+    "protected": false,
+    "profile_link_color": "0099CC",
+    "friends_count": 1422,
+    "time_zone": "Midway Island",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme19/bg.gif",
+    "profile_text_color": "333333",
+    "is_translator": false,
+    "followers_count": 2166,
+    "default_profile": false,
+    "utc_offset": -39600,
+    "verified": false,
+    "following": null,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/876183880193257472/BRHjX4AU_normal.jpg",
+    "profile_use_background_image": true,
+    "profile_sidebar_border_color": "FFF8AD",
+    "geo_enabled": true,
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/876183880193257472/BRHjX4AU_normal.jpg"
+  },
+  "favorited": false,
+  "coordinates": null,
+  "quote_count": 0,
+  "lang": "es",
+  "reply_count": 0,
+  "in_reply_to_user_id": null,
+  "extended_tweet": {
+    "full_text": "Gran elecci\u00f3n de @NikyCantard y todo el equipo de @cambiemos en Santa Fe! Esto reci\u00e9n empieza #YoNoAflojo #SigamosCambiandoJuntos https://t.co/ePe8FcyZh9",
+    "display_text_range": [
+      0,
+      129
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "indices": [
+            94,
+            105
+          ],
+          "text": "YoNoAflojo"
+        },
+        {
+          "indices": [
+            106,
+            129
+          ],
+          "text": "SigamosCambiandoJuntos"
+        }
+      ],
+      "urls": [
+        {
+          "indices": [
+            130,
+            153
+          ],
+          "expanded_url": "https://twitter.com/lucas_incicco/status/922316145511854086",
+          "display_url": "twitter.com/lucas_incicco/\u2026",
+          "url": "https://t.co/ePe8FcyZh9"
+        }
+      ],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "id": 4405548435,
+          "id_str": "4405548435",
+          "indices": [
+            17,
+            29
+          ],
+          "screen_name": "NikyCantard",
+          "name": "Niky Cantard"
+        },
+        {
+          "id": 4341845367,
+          "id_str": "4341845367",
+          "indices": [
+            50,
+            60
+          ],
+          "screen_name": "cambiemos",
+          "name": "Cambiemos"
+        }
+      ]
+    }
+  },
+  "favorite_count": 0,
+  "in_reply_to_status_id_str": null,
+  "geo": null,
+  "quoted_status_id": 922316145511854086,
+  "filter_level": "low",
+  "in_reply_to_user_id_str": null
+}

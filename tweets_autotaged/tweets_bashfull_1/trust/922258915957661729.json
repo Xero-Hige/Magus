@@ -1,0 +1,139 @@
+{
+  "entities": {
+    "hashtags": [
+      {
+        "indices": [
+          103,
+          112
+        ],
+        "text": "Elecci\u00f3n"
+      }
+    ],
+    "symbols": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "indices": [
+          0,
+          10
+        ],
+        "screen_name": "ffpuncas1",
+        "name": "CIPICA",
+        "id_str": "3359740011",
+        "id": 3359740011
+      },
+      {
+        "indices": [
+          11,
+          27
+        ],
+        "screen_name": "ignacioledesma0",
+        "name": "Ignacio",
+        "id_str": "453657308",
+        "id": 453657308
+      }
+    ]
+  },
+  "in_reply_to_user_id": 3359740011,
+  "created_at": "Mon Oct 23 00:30:34 +0000 2017",
+  "favorite_count": 0,
+  "lang": "es",
+  "reply_count": 0,
+  "id_str": "922258915957661729",
+  "in_reply_to_user_id_str": "3359740011",
+  "in_reply_to_status_id": 922258429128925184,
+  "timestamp_ms": "1508718634963",
+  "truncated": false,
+  "text": "@ffpuncas1 @ignacioledesma0 Ud. no entiende nada y mezcla un caso donde interviene la Justicia con una #Elecci\u00f3n Aprenda\u00a1\u00a1",
+  "user": {
+    "time_zone": "Buenos Aires",
+    "screen_name": "CarlosGlei",
+    "utc_offset": -10800,
+    "created_at": "Sun May 30 03:12:32 +0000 2010",
+    "profile_background_tile": true,
+    "notifications": null,
+    "lang": "es",
+    "default_profile": false,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/149741034/1479857013",
+    "id_str": "149741034",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/802867363825774592/kkf9N1Ph_normal.jpg",
+    "name": "Carlos",
+    "friends_count": 1156,
+    "translator_type": "none",
+    "protected": false,
+    "following": null,
+    "is_translator": false,
+    "follow_request_sent": null,
+    "profile_text_color": "333333",
+    "listed_count": 32,
+    "profile_link_color": "0084B4",
+    "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/540294754026549249/yY3Dx9k6.jpeg",
+    "url": null,
+    "id": 149741034,
+    "favourites_count": 27988,
+    "profile_background_color": "C0DEED",
+    "followers_count": 1420,
+    "statuses_count": 36013,
+    "description": "Corredor P\u00fablico. Peronista. Hincha de Boca. Esperando el Mes\u00edas...",
+    "location": null,
+    "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/540294754026549249/yY3Dx9k6.jpeg",
+    "default_profile_image": false,
+    "verified": false,
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_use_background_image": true,
+    "contributors_enabled": false,
+    "profile_sidebar_border_color": "000000",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/802867363825774592/kkf9N1Ph_normal.jpg",
+    "geo_enabled": true
+  },
+  "geo": null,
+  "id": 922258915957661729,
+  "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+  "retweeted": false,
+  "filter_level": "low",
+  "in_reply_to_status_id_str": "922258429128925184",
+  "quote_count": 0,
+  "favorited": false,
+  "coordinates": null,
+  "display_text_range": [
+    28,
+    122
+  ],
+  "retweet_count": 0,
+  "is_quote_status": false,
+  "in_reply_to_screen_name": "ffpuncas1",
+  "contributors": null,
+  "place": {
+    "bounding_box": {
+      "coordinates": [
+        [
+          [
+            -58.160874,
+            -35.031373
+          ],
+          [
+            -58.160874,
+            -34.841264
+          ],
+          [
+            -57.865169,
+            -34.841264
+          ],
+          [
+            -57.865169,
+            -35.031373
+          ]
+        ]
+      ],
+      "type": "Polygon"
+    },
+    "name": "La Plata",
+    "url": "https://api.twitter.com/1.1/geo/id/0177894212b08f73.json",
+    "country_code": "AR",
+    "id": "0177894212b08f73",
+    "place_type": "city",
+    "attributes": {},
+    "full_name": "La Plata, Argentina",
+    "country": "Argentina"
+  }
+}

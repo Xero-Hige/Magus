@@ -1,0 +1,116 @@
+{
+  "in_reply_to_user_id": null,
+  "contributors": null,
+  "in_reply_to_screen_name": null,
+  "retweeted": false,
+  "retweet_count": 0,
+  "timestamp_ms": "1508684927784",
+  "in_reply_to_status_id": null,
+  "id_str": "922117537801924609",
+  "created_at": "Sun Oct 22 15:08:47 +0000 2017",
+  "id": 922117537801924609,
+  "coordinates": null,
+  "favorite_count": 0,
+  "entities": {
+    "user_mentions": [],
+    "symbols": [],
+    "hashtags": [],
+    "urls": [
+      {
+        "expanded_url": "http://clar.in/2xfv7gj",
+        "indices": [
+          69,
+          92
+        ],
+        "url": "https://t.co/n4BXJfhMuj",
+        "display_url": "clar.in/2xfv7gj"
+      }
+    ]
+  },
+  "reply_count": 0,
+  "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+  "place": {
+    "attributes": {},
+    "url": "https://api.twitter.com/1.1/geo/id/01153d1b33e1641b.json",
+    "place_type": "city",
+    "id": "01153d1b33e1641b",
+    "country_code": "AR",
+    "name": "Tigre",
+    "country": "Argentina",
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            -58.734553,
+            -34.537735
+          ],
+          [
+            -58.734553,
+            -34.350097
+          ],
+          [
+            -58.561445,
+            -34.350097
+          ],
+          [
+            -58.561445,
+            -34.537735
+          ]
+        ]
+      ]
+    },
+    "full_name": "Tigre, Argentina"
+  },
+  "truncated": false,
+  "in_reply_to_status_id_str": null,
+  "filter_level": "low",
+  "text": "Caso Santiago Maldonado: liberaron al hermano de Facundo Jones Huala https://t.co/n4BXJfhMuj",
+  "geo": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": false,
+  "possibly_sensitive": false,
+  "favorited": false,
+  "user": {
+    "verified": false,
+    "profile_background_image_url": "",
+    "statuses_count": 8986,
+    "screen_name": "hadrianus2017",
+    "default_profile_image": false,
+    "time_zone": null,
+    "name": "Hadrianus",
+    "id_str": "766362682031218688",
+    "profile_sidebar_border_color": "C0DEED",
+    "created_at": "Thu Aug 18 19:54:36 +0000 2016",
+    "friends_count": 4047,
+    "url": null,
+    "profile_background_tile": false,
+    "protected": false,
+    "translator_type": "none",
+    "profile_text_color": "333333",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/766369021109428228/qICQdR0P_normal.jpg",
+    "listed_count": 6,
+    "notifications": null,
+    "contributors_enabled": false,
+    "is_translator": false,
+    "location": null,
+    "profile_use_background_image": true,
+    "followers_count": 2829,
+    "profile_sidebar_fill_color": "DDEEF6",
+    "geo_enabled": true,
+    "profile_link_color": "1DA1F2",
+    "favourites_count": 12334,
+    "following": null,
+    "default_profile": true,
+    "profile_background_image_url_https": "",
+    "profile_background_color": "F5F8FA",
+    "id": 766362682031218688,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/766369021109428228/qICQdR0P_normal.jpg",
+    "lang": "es",
+    "description": "Licenciada en Relaciones Internacionales. Divertida. Curiosa.",
+    "follow_request_sent": null,
+    "utc_offset": null
+  },
+  "quote_count": 0,
+  "lang": "es"
+}

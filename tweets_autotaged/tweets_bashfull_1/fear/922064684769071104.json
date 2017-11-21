@@ -1,0 +1,129 @@
+{
+  "in_reply_to_user_id": null,
+  "contributors": null,
+  "in_reply_to_screen_name": null,
+  "retweeted": false,
+  "retweet_count": 0,
+  "timestamp_ms": "1508672326639",
+  "in_reply_to_status_id": null,
+  "id_str": "922064684769071104",
+  "coordinates": null,
+  "created_at": "Sun Oct 22 11:38:46 +0000 2017",
+  "id": 922064684769071104,
+  "quote_count": 0,
+  "favorite_count": 0,
+  "entities": {
+    "user_mentions": [],
+    "symbols": [],
+    "hashtags": [],
+    "urls": [
+      {
+        "expanded_url": "https://twitter.com/i/web/status/922064684769071104",
+        "indices": [
+          117,
+          140
+        ],
+        "url": "https://t.co/K0s1HjEfZZ",
+        "display_url": "twitter.com/i/web/status/9\u2026"
+      }
+    ]
+  },
+  "reply_count": 0,
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "place": {
+    "attributes": {},
+    "url": "https://api.twitter.com/1.1/geo/id/01bd23a802fb1e24.json",
+    "place_type": "city",
+    "id": "01bd23a802fb1e24",
+    "country_code": "AR",
+    "name": "R\u00edo Cuarto",
+    "country": "Argentina",
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            -64.389839,
+            -33.159419
+          ],
+          [
+            -64.389839,
+            -33.088234
+          ],
+          [
+            -64.306209,
+            -33.088234
+          ],
+          [
+            -64.306209,
+            -33.159419
+          ]
+        ]
+      ]
+    },
+    "full_name": "R\u00edo Cuarto, Argentina"
+  },
+  "truncated": true,
+  "in_reply_to_status_id_str": null,
+  "filter_level": "low",
+  "text": "Me da pena lo de Maldonado pero luchar por sus id\u00e9ales no es encapucharse y marchar contra el gobierno de turno. Es\u2026 https://t.co/K0s1HjEfZZ",
+  "geo": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": false,
+  "favorited": false,
+  "user": {
+    "verified": false,
+    "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/802932887/6cd9910b15f3b09e48aa5ec39c2a2a73.jpeg",
+    "statuses_count": 5989,
+    "screen_name": "poglam",
+    "default_profile_image": false,
+    "time_zone": "Buenos Aires",
+    "name": "Pochi",
+    "id_str": "146713356",
+    "profile_sidebar_border_color": "FFFFFF",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/146713356/1467546896",
+    "created_at": "Sat May 22 04:24:19 +0000 2010",
+    "friends_count": 118,
+    "url": null,
+    "profile_background_tile": true,
+    "protected": false,
+    "translator_type": "none",
+    "profile_text_color": "B825B8",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/772996856255287297/fT2d1PrS_normal.jpg",
+    "listed_count": 4,
+    "notifications": null,
+    "contributors_enabled": false,
+    "is_translator": false,
+    "location": "R\u00edo Cuarto, Argentina",
+    "profile_use_background_image": true,
+    "followers_count": 139,
+    "profile_sidebar_fill_color": "ECCCFF",
+    "geo_enabled": true,
+    "profile_link_color": "D66275",
+    "favourites_count": 711,
+    "following": null,
+    "default_profile": false,
+    "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/802932887/6cd9910b15f3b09e48aa5ec39c2a2a73.jpeg",
+    "profile_background_color": "DB2CB8",
+    "id": 146713356,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/772996856255287297/fT2d1PrS_normal.jpg",
+    "lang": "es",
+    "description": "Camale\u00f3nica / La Hija Del Fletero",
+    "follow_request_sent": null,
+    "utc_offset": -10800
+  },
+  "extended_tweet": {
+    "entities": {
+      "user_mentions": [],
+      "symbols": [],
+      "hashtags": [],
+      "urls": []
+    },
+    "display_text_range": [
+      0,
+      217
+    ],
+    "full_text": "Me da pena lo de Maldonado pero luchar por sus id\u00e9ales no es encapucharse y marchar contra el gobierno de turno. Es levantarse todos los d\u00edas a estudiar, trabajar y tratar de construir un pa\u00eds mejor desde el esfuerzo!"
+  },
+  "lang": "es"
+}

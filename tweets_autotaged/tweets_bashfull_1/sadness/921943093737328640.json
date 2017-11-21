@@ -1,0 +1,129 @@
+{
+  "in_reply_to_user_id": null,
+  "contributors": null,
+  "in_reply_to_screen_name": null,
+  "retweeted": false,
+  "retweet_count": 0,
+  "timestamp_ms": "1508643337078",
+  "in_reply_to_status_id": null,
+  "id_str": "921943093737328640",
+  "coordinates": null,
+  "created_at": "Sun Oct 22 03:35:37 +0000 2017",
+  "id": 921943093737328640,
+  "quote_count": 0,
+  "favorite_count": 0,
+  "entities": {
+    "user_mentions": [],
+    "symbols": [],
+    "hashtags": [],
+    "urls": [
+      {
+        "expanded_url": "https://twitter.com/i/web/status/921943093737328640",
+        "indices": [
+          117,
+          140
+        ],
+        "url": "https://t.co/b1k9lexsyL",
+        "display_url": "twitter.com/i/web/status/9\u2026"
+      }
+    ]
+  },
+  "reply_count": 0,
+  "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+  "place": {
+    "attributes": {},
+    "url": "https://api.twitter.com/1.1/geo/id/01be81a62ba8647a.json",
+    "place_type": "city",
+    "id": "01be81a62ba8647a",
+    "country_code": "AR",
+    "name": "Gualeguaych\u00fa",
+    "country": "Argentina",
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            -58.568263,
+            -33.042626
+          ],
+          [
+            -58.568263,
+            -32.986095
+          ],
+          [
+            -58.487299,
+            -32.986095
+          ],
+          [
+            -58.487299,
+            -33.042626
+          ]
+        ]
+      ]
+    },
+    "full_name": "Gualeguaych\u00fa, Argentina"
+  },
+  "truncated": true,
+  "in_reply_to_status_id_str": null,
+  "filter_level": "low",
+  "text": "Espero que hablen los que saben. Mientras tanto cuento: en este pueblo veleidoso las autoridades municipales has sa\u2026 https://t.co/b1k9lexsyL",
+  "geo": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": false,
+  "favorited": false,
+  "user": {
+    "verified": false,
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+    "statuses_count": 18475,
+    "screen_name": "IsabdDG",
+    "default_profile_image": false,
+    "time_zone": "Buenos Aires",
+    "name": "Isabel Julia Duarte",
+    "id_str": "1149520501",
+    "profile_sidebar_border_color": "D9B17E",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1149520501/1479014493",
+    "created_at": "Tue Feb 05 00:56:23 +0000 2013",
+    "friends_count": 25,
+    "url": null,
+    "profile_background_tile": false,
+    "protected": false,
+    "translator_type": "none",
+    "profile_text_color": "333333",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/582874651614953472/-6x8UlXD_normal.jpg",
+    "listed_count": 5,
+    "notifications": null,
+    "contributors_enabled": false,
+    "is_translator": false,
+    "location": "Gualeguaych\u00fa, Argentina",
+    "profile_use_background_image": true,
+    "followers_count": 97,
+    "profile_sidebar_fill_color": "EADEAA",
+    "geo_enabled": true,
+    "profile_link_color": "9D582E",
+    "favourites_count": 4788,
+    "following": null,
+    "default_profile": false,
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+    "profile_background_color": "8B542B",
+    "id": 1149520501,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/582874651614953472/-6x8UlXD_normal.jpg",
+    "lang": "es",
+    "description": "M\u00e1s vale que pregunten.Qu\u00e9 quieren saber?",
+    "follow_request_sent": null,
+    "utc_offset": -10800
+  },
+  "extended_tweet": {
+    "entities": {
+      "user_mentions": [],
+      "symbols": [],
+      "hashtags": [],
+      "urls": []
+    },
+    "display_text_range": [
+      0,
+      275
+    ],
+    "full_text": "Espero que hablen los que saben. Mientras tanto cuento: en este pueblo veleidoso las autoridades municipales has sacado un comunicado artero y malicioso -desde mi punto de vista, que puede ser el errado-. Claro que en ese antro est\u00e1n los pichones de terroristas. Los c\u00e1mpora-"
+  },
+  "lang": "es"
+}

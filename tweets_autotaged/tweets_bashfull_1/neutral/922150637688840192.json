@@ -1,0 +1,106 @@
+{
+  "in_reply_to_user_id": null,
+  "contributors": null,
+  "in_reply_to_screen_name": null,
+  "retweeted": false,
+  "retweet_count": 0,
+  "timestamp_ms": "1508692819412",
+  "in_reply_to_status_id": null,
+  "id_str": "922150637688840192",
+  "created_at": "Sun Oct 22 17:20:19 +0000 2017",
+  "id": 922150637688840192,
+  "coordinates": null,
+  "favorite_count": 0,
+  "entities": {
+    "user_mentions": [],
+    "symbols": [],
+    "hashtags": [],
+    "urls": []
+  },
+  "reply_count": 0,
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "place": {
+    "attributes": {},
+    "url": "https://api.twitter.com/1.1/geo/id/01a9dbb9232f0fac.json",
+    "place_type": "admin",
+    "id": "01a9dbb9232f0fac",
+    "country_code": "UY",
+    "name": "Montevideo",
+    "country": "Uruguay",
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            -56.430439,
+            -34.937896
+          ],
+          [
+            -56.430439,
+            -34.701599
+          ],
+          [
+            -56.029341,
+            -34.701599
+          ],
+          [
+            -56.029341,
+            -34.937896
+          ]
+        ]
+      ]
+    },
+    "full_name": "Montevideo, Uruguay"
+  },
+  "truncated": false,
+  "in_reply_to_status_id_str": null,
+  "filter_level": "low",
+  "text": "\u00bfMe parece a mi o a Welcome lo televisan todas las semanas?",
+  "geo": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": false,
+  "favorited": false,
+  "user": {
+    "verified": false,
+    "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/346674531/1318695983redblackwhite.jpg",
+    "statuses_count": 49564,
+    "screen_name": "ChariFdezLeal",
+    "default_profile_image": false,
+    "time_zone": "Buenos Aires",
+    "name": "Charo",
+    "id_str": "151136941",
+    "profile_sidebar_border_color": "FFFFFF",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/151136941/1417112575",
+    "created_at": "Wed Jun 02 18:01:53 +0000 2010",
+    "friends_count": 541,
+    "url": "http://www.hinchadaaguatera.com",
+    "profile_background_tile": false,
+    "protected": false,
+    "translator_type": "regular",
+    "profile_text_color": "000000",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/887387108880650240/58Qil05u_normal.jpg",
+    "listed_count": 21,
+    "notifications": null,
+    "contributors_enabled": false,
+    "is_translator": false,
+    "location": "Montevideo,Uruguay",
+    "profile_use_background_image": true,
+    "followers_count": 1162,
+    "profile_sidebar_fill_color": "6EF079",
+    "geo_enabled": true,
+    "profile_link_color": "A10D02",
+    "favourites_count": 38380,
+    "following": null,
+    "default_profile": false,
+    "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/346674531/1318695983redblackwhite.jpg",
+    "profile_background_color": "048500",
+    "id": 151136941,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/887387108880650240/58Qil05u_normal.jpg",
+    "lang": "es",
+    "description": "De creencia Aguatera.Uruguaya de MVD.Biol\u00f3gicamente optimista.Tengo 8 estrellas,voto al PS.Nadie me cae bien.Mi locura mi orgullo.Seguirme es t\u00fa responsabilidad",
+    "follow_request_sent": null,
+    "utc_offset": -10800
+  },
+  "quote_count": 0,
+  "lang": "es"
+}

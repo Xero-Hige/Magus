@@ -1,0 +1,106 @@
+{
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "urls": [],
+    "user_mentions": []
+  },
+  "in_reply_to_user_id": null,
+  "created_at": "Mon Oct 23 00:09:45 +0000 2017",
+  "favorite_count": 0,
+  "lang": "es",
+  "reply_count": 0,
+  "id_str": "922253676856606725",
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_status_id": null,
+  "timestamp_ms": "1508717385864",
+  "text": "Est\u00e1 pasando todo igual que hace dos meses. Vamos a vivir todos todo lo que vivimos. Droga.",
+  "user": {
+    "time_zone": "Buenos Aires",
+    "screen_name": "_santiferrer",
+    "utc_offset": -10800,
+    "created_at": "Mon Dec 17 04:43:55 +0000 2012",
+    "profile_background_tile": false,
+    "notifications": null,
+    "lang": "es",
+    "default_profile": false,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1016687172/1456623060",
+    "id_str": "1016687172",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/907770346669002758/oOEZ2xQw_normal.jpg",
+    "name": "Santiago",
+    "friends_count": 456,
+    "translator_type": "none",
+    "protected": false,
+    "following": null,
+    "is_translator": false,
+    "follow_request_sent": null,
+    "profile_text_color": "333333",
+    "listed_count": 8,
+    "profile_link_color": "448899",
+    "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/434810989507125248/TIHPDSS_.jpeg",
+    "url": null,
+    "id": 1016687172,
+    "favourites_count": 12982,
+    "profile_background_color": "4A913C",
+    "followers_count": 372,
+    "statuses_count": 28134,
+    "description": "Soy un tipo com\u00fan, pero ser yo no es nada f\u00e1cil.",
+    "location": "Capital Federal, Argentina",
+    "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/434810989507125248/TIHPDSS_.jpeg",
+    "default_profile_image": false,
+    "verified": false,
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_use_background_image": true,
+    "contributors_enabled": false,
+    "profile_sidebar_border_color": "000000",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/907770346669002758/oOEZ2xQw_normal.jpg",
+    "geo_enabled": true
+  },
+  "geo": null,
+  "id": 922253676856606725,
+  "quote_count": 0,
+  "retweeted": false,
+  "filter_level": "low",
+  "in_reply_to_status_id_str": null,
+  "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+  "favorited": false,
+  "coordinates": null,
+  "truncated": false,
+  "retweet_count": 0,
+  "is_quote_status": false,
+  "in_reply_to_screen_name": null,
+  "contributors": null,
+  "place": {
+    "bounding_box": {
+      "coordinates": [
+        [
+          [
+            -58.531792,
+            -34.674453
+          ],
+          [
+            -58.531792,
+            -34.534177
+          ],
+          [
+            -58.353494,
+            -34.534177
+          ],
+          [
+            -58.353494,
+            -34.674453
+          ]
+        ]
+      ],
+      "type": "Polygon"
+    },
+    "name": "Ciudad Aut\u00f3noma de Buenos Aires",
+    "url": "https://api.twitter.com/1.1/geo/id/018f1cde6bad9747.json",
+    "country_code": "AR",
+    "id": "018f1cde6bad9747",
+    "place_type": "city",
+    "attributes": {},
+    "full_name": "Ciudad Aut\u00f3noma de Buenos Aires, Argentina",
+    "country": "Argentina"
+  }
+}

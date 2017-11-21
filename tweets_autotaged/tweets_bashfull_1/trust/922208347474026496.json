@@ -1,0 +1,121 @@
+{
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "indices": [
+          0,
+          15
+        ],
+        "screen_name": "PROFE_RESTREPO",
+        "name": "OSCAR RESTREPO",
+        "id_str": "952412653",
+        "id": 952412653
+      }
+    ]
+  },
+  "in_reply_to_user_id": 952412653,
+  "created_at": "Sun Oct 22 21:09:38 +0000 2017",
+  "favorite_count": 0,
+  "lang": "es",
+  "reply_count": 0,
+  "id_str": "922208347474026496",
+  "in_reply_to_user_id_str": "952412653",
+  "in_reply_to_status_id": 922204554745335808,
+  "timestamp_ms": "1508706578497",
+  "truncated": false,
+  "text": "@PROFE_RESTREPO Est\u00e1 muy agrandado y falta de respeto. No tiene respeto por sus compa\u00f1eros,el t\u00e9cnico y las autoridades",
+  "user": {
+    "time_zone": "Atlantic Time (Canada)",
+    "screen_name": "espiritullama",
+    "utc_offset": -10800,
+    "created_at": "Fri Feb 24 20:38:10 +0000 2012",
+    "profile_background_tile": false,
+    "notifications": null,
+    "lang": "es",
+    "default_profile": false,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/502115505/1444771319",
+    "id_str": "502115505",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/894122768123518983/mrAnyk8g_normal.jpg",
+    "name": "Omaro Aburto",
+    "friends_count": 495,
+    "translator_type": "none",
+    "protected": false,
+    "following": null,
+    "is_translator": false,
+    "follow_request_sent": null,
+    "profile_text_color": "333333",
+    "listed_count": 15,
+    "profile_link_color": "4169E1",
+    "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/769252081/7517cfbc9631e09691056e1b8f6030c3.jpeg",
+    "url": null,
+    "id": 502115505,
+    "favourites_count": 1053,
+    "profile_background_color": "040504",
+    "followers_count": 190,
+    "statuses_count": 6582,
+    "description": "#SoyUbb, #Freelancer, #Developer",
+    "location": "Chile",
+    "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/769252081/7517cfbc9631e09691056e1b8f6030c3.jpeg",
+    "default_profile_image": false,
+    "verified": false,
+    "profile_sidebar_fill_color": "F6FFD1",
+    "profile_use_background_image": true,
+    "contributors_enabled": false,
+    "profile_sidebar_border_color": "FFFFFF",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/894122768123518983/mrAnyk8g_normal.jpg",
+    "geo_enabled": true
+  },
+  "geo": null,
+  "id": 922208347474026496,
+  "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+  "retweeted": false,
+  "filter_level": "low",
+  "in_reply_to_status_id_str": "922204554745335808",
+  "quote_count": 0,
+  "favorited": false,
+  "coordinates": null,
+  "display_text_range": [
+    16,
+    119
+  ],
+  "retweet_count": 0,
+  "is_quote_status": false,
+  "in_reply_to_screen_name": "PROFE_RESTREPO",
+  "contributors": null,
+  "place": {
+    "bounding_box": {
+      "coordinates": [
+        [
+          [
+            -73.553208,
+            -37.100318
+          ],
+          [
+            -73.553208,
+            -36.901887
+          ],
+          [
+            -72.952923,
+            -36.901887
+          ],
+          [
+            -72.952923,
+            -37.100318
+          ]
+        ]
+      ],
+      "type": "Polygon"
+    },
+    "name": "Coronel",
+    "url": "https://api.twitter.com/1.1/geo/id/008ee35d0f80ef5d.json",
+    "country_code": "CL",
+    "id": "008ee35d0f80ef5d",
+    "place_type": "city",
+    "attributes": {},
+    "full_name": "Coronel, Chile",
+    "country": "Chile"
+  }
+}

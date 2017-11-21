@@ -1,0 +1,328 @@
+{
+  "in_reply_to_user_id": null,
+  "contributors": null,
+  "id": 922153005876736000,
+  "retweeted": false,
+  "retweet_count": 0,
+  "timestamp_ms": "1508693384032",
+  "in_reply_to_status_id": null,
+  "id_str": "922153005876736000",
+  "coordinates": null,
+  "created_at": "Sun Oct 22 17:29:44 +0000 2017",
+  "quote_count": 0,
+  "favorite_count": 0,
+  "entities": {
+    "user_mentions": [],
+    "symbols": [],
+    "hashtags": [
+      {
+        "text": "EleccionesArgentina",
+        "indices": [
+          82,
+          102
+        ]
+      },
+      {
+        "text": "YoYaVote",
+        "indices": [
+          103,
+          112
+        ]
+      }
+    ],
+    "urls": [
+      {
+        "expanded_url": "https://twitter.com/i/web/status/922153005876736000",
+        "indices": [
+          114,
+          137
+        ],
+        "url": "https://t.co/RPX1qptYwQ",
+        "display_url": "twitter.com/i/web/status/9\u2026"
+      }
+    ]
+  },
+  "reply_count": 0,
+  "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+  "place": {
+    "attributes": {},
+    "url": "https://api.twitter.com/1.1/geo/id/01d461fd3da860bd.json",
+    "place_type": "city",
+    "id": "01d461fd3da860bd",
+    "country_code": "CL",
+    "name": "Providencia",
+    "country": "Chile",
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            -70.637692,
+            -33.449973
+          ],
+          [
+            -70.637692,
+            -33.408997
+          ],
+          [
+            -70.583826,
+            -33.408997
+          ],
+          [
+            -70.583826,
+            -33.449973
+          ]
+        ]
+      ]
+    },
+    "full_name": "Providencia, Chile"
+  },
+  "truncated": true,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_screen_name": null,
+  "filter_level": "low",
+  "text": "No se valora el derecho a voto hasta que te dicen \"no est\u00e1 habilitado para votar\" #EleccionesArgentina #YoYaVote\u2026 https://t.co/RPX1qptYwQ",
+  "geo": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": false,
+  "possibly_sensitive": false,
+  "display_text_range": [
+    0,
+    140
+  ],
+  "favorited": false,
+  "user": {
+    "verified": false,
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+    "statuses_count": 3710,
+    "screen_name": "kanashirotweet",
+    "default_profile_image": false,
+    "time_zone": "Santiago",
+    "name": "Sr. Maltrato",
+    "id_str": "2190851065",
+    "profile_sidebar_border_color": "A8C7F7",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/2190851065/1499450125",
+    "created_at": "Tue Nov 12 18:43:21 +0000 2013",
+    "friends_count": 207,
+    "url": "https://gumroad.com/l/GUjDU",
+    "profile_background_tile": false,
+    "protected": false,
+    "translator_type": "none",
+    "profile_text_color": "333333",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/814799304921595904/ySA6G_0o_normal.jpg",
+    "listed_count": 20,
+    "notifications": null,
+    "contributors_enabled": false,
+    "is_translator": false,
+    "location": "Santiago, Chile",
+    "profile_use_background_image": true,
+    "followers_count": 151,
+    "profile_sidebar_fill_color": "C0DFEC",
+    "geo_enabled": true,
+    "profile_link_color": "195B73",
+    "favourites_count": 8640,
+    "following": null,
+    "default_profile": false,
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+    "profile_background_color": "022330",
+    "id": 2190851065,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/814799304921595904/ySA6G_0o_normal.jpg",
+    "lang": "es",
+    "description": "Trabajo en una consultora, no pidan excelencia.",
+    "follow_request_sent": null,
+    "utc_offset": -10800
+  },
+  "extended_tweet": {
+    "entities": {
+      "user_mentions": [],
+      "symbols": [],
+      "hashtags": [
+        {
+          "text": "EleccionesArgentina",
+          "indices": [
+            82,
+            102
+          ]
+        },
+        {
+          "text": "YoYaVote",
+          "indices": [
+            103,
+            112
+          ]
+        },
+        {
+          "text": "Santiago",
+          "indices": [
+            113,
+            122
+          ]
+        },
+        {
+          "text": "Chile",
+          "indices": [
+            123,
+            129
+          ]
+        }
+      ],
+      "urls": [],
+      "media": [
+        {
+          "indices": [
+            130,
+            153
+          ],
+          "media_url_https": "https://pbs.twimg.com/media/DMwlKwdW0AAsrOM.jpg",
+          "url": "https://t.co/JW9B1pL3ew",
+          "expanded_url": "https://twitter.com/kanashirotweet/status/922153005876736000/photo/1",
+          "id": 922152890441060352,
+          "sizes": {
+            "medium": {
+              "resize": "fit",
+              "w": 1200,
+              "h": 900
+            },
+            "large": {
+              "resize": "fit",
+              "w": 2048,
+              "h": 1536
+            },
+            "small": {
+              "resize": "fit",
+              "w": 680,
+              "h": 510
+            },
+            "thumb": {
+              "resize": "crop",
+              "w": 150,
+              "h": 150
+            }
+          },
+          "media_url": "http://pbs.twimg.com/media/DMwlKwdW0AAsrOM.jpg",
+          "id_str": "922152890441060352",
+          "display_url": "pic.twitter.com/JW9B1pL3ew",
+          "type": "photo"
+        },
+        {
+          "indices": [
+            130,
+            153
+          ],
+          "media_url_https": "https://pbs.twimg.com/media/DMwlPGGWkAETBiF.jpg",
+          "url": "https://t.co/JW9B1pL3ew",
+          "expanded_url": "https://twitter.com/kanashirotweet/status/922153005876736000/photo/1",
+          "id": 922152964969631745,
+          "sizes": {
+            "medium": {
+              "resize": "fit",
+              "w": 1200,
+              "h": 517
+            },
+            "large": {
+              "resize": "fit",
+              "w": 2048,
+              "h": 882
+            },
+            "small": {
+              "resize": "fit",
+              "w": 680,
+              "h": 293
+            },
+            "thumb": {
+              "resize": "crop",
+              "w": 150,
+              "h": 150
+            }
+          },
+          "media_url": "http://pbs.twimg.com/media/DMwlPGGWkAETBiF.jpg",
+          "id_str": "922152964969631745",
+          "display_url": "pic.twitter.com/JW9B1pL3ew",
+          "type": "photo"
+        }
+      ]
+    },
+    "display_text_range": [
+      0,
+      129
+    ],
+    "extended_entities": {
+      "media": [
+        {
+          "indices": [
+            130,
+            153
+          ],
+          "media_url_https": "https://pbs.twimg.com/media/DMwlKwdW0AAsrOM.jpg",
+          "url": "https://t.co/JW9B1pL3ew",
+          "expanded_url": "https://twitter.com/kanashirotweet/status/922153005876736000/photo/1",
+          "id": 922152890441060352,
+          "sizes": {
+            "medium": {
+              "resize": "fit",
+              "w": 1200,
+              "h": 900
+            },
+            "large": {
+              "resize": "fit",
+              "w": 2048,
+              "h": 1536
+            },
+            "small": {
+              "resize": "fit",
+              "w": 680,
+              "h": 510
+            },
+            "thumb": {
+              "resize": "crop",
+              "w": 150,
+              "h": 150
+            }
+          },
+          "media_url": "http://pbs.twimg.com/media/DMwlKwdW0AAsrOM.jpg",
+          "id_str": "922152890441060352",
+          "display_url": "pic.twitter.com/JW9B1pL3ew",
+          "type": "photo"
+        },
+        {
+          "indices": [
+            130,
+            153
+          ],
+          "media_url_https": "https://pbs.twimg.com/media/DMwlPGGWkAETBiF.jpg",
+          "url": "https://t.co/JW9B1pL3ew",
+          "expanded_url": "https://twitter.com/kanashirotweet/status/922153005876736000/photo/1",
+          "id": 922152964969631745,
+          "sizes": {
+            "medium": {
+              "resize": "fit",
+              "w": 1200,
+              "h": 517
+            },
+            "large": {
+              "resize": "fit",
+              "w": 2048,
+              "h": 882
+            },
+            "small": {
+              "resize": "fit",
+              "w": 680,
+              "h": 293
+            },
+            "thumb": {
+              "resize": "crop",
+              "w": 150,
+              "h": 150
+            }
+          },
+          "media_url": "http://pbs.twimg.com/media/DMwlPGGWkAETBiF.jpg",
+          "id_str": "922152964969631745",
+          "display_url": "pic.twitter.com/JW9B1pL3ew",
+          "type": "photo"
+        }
+      ]
+    },
+    "full_text": "No se valora el derecho a voto hasta que te dicen \"no est\u00e1 habilitado para votar\" #EleccionesArgentina #YoYaVote #Santiago #Chile https://t.co/JW9B1pL3ew"
+  },
+  "lang": "es"
+}

@@ -1,0 +1,154 @@
+{
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "urls": [
+      {
+        "indices": [
+          116,
+          139
+        ],
+        "expanded_url": "https://twitter.com/i/web/status/922221533396983808",
+        "display_url": "twitter.com/i/web/status/9\u2026",
+        "url": "https://t.co/uxworae13w"
+      }
+    ],
+    "user_mentions": [
+      {
+        "indices": [
+          0,
+          11
+        ],
+        "screen_name": "ecordova68",
+        "name": "Eduardo Cordova Diaz",
+        "id_str": "1155874477",
+        "id": 1155874477
+      }
+    ]
+  },
+  "in_reply_to_user_id": 1155874477,
+  "created_at": "Sun Oct 22 22:02:02 +0000 2017",
+  "favorite_count": 0,
+  "lang": "es",
+  "reply_count": 0,
+  "id_str": "922221533396983808",
+  "in_reply_to_user_id_str": "1155874477",
+  "extended_tweet": {
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "urls": [],
+      "user_mentions": [
+        {
+          "indices": [
+            0,
+            11
+          ],
+          "screen_name": "ecordova68",
+          "name": "Eduardo Cordova Diaz",
+          "id_str": "1155874477",
+          "id": 1155874477
+        }
+      ]
+    },
+    "display_text_range": [
+      12,
+      150
+    ],
+    "full_text": "@ecordova68 Es verdad, lo tenemos a \u00e9l. S\u00ed, con esa defensa, aunque sali\u00e9ramos 1\u00b0 y le gan\u00e1ramos a Arica, SW o PAL con el p\u00e1jaro Guti\u00e9rrez nos pasean."
+  },
+  "in_reply_to_status_id": 922220989357883392,
+  "timestamp_ms": "1508709722266",
+  "truncated": true,
+  "text": "@ecordova68 Es verdad, lo tenemos a \u00e9l. S\u00ed, con esa defensa, aunque sali\u00e9ramos 1\u00b0 y le gan\u00e1ramos a Arica, SW o PAL\u2026 https://t.co/uxworae13w",
+  "user": {
+    "time_zone": null,
+    "screen_name": "loino_santiago",
+    "utc_offset": null,
+    "created_at": "Sat Jun 25 17:03:22 +0000 2011",
+    "profile_background_tile": false,
+    "notifications": null,
+    "lang": "es",
+    "default_profile": true,
+    "follow_request_sent": null,
+    "id_str": "323910723",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/2799679159/7037c58ff9f7b55e8b7c79afa1a736db_normal.png",
+    "name": "Ra\u00fal de la Fuente",
+    "friends_count": 630,
+    "translator_type": "none",
+    "protected": false,
+    "following": null,
+    "is_translator": false,
+    "profile_text_color": "333333",
+    "listed_count": 0,
+    "profile_link_color": "1DA1F2",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "url": null,
+    "id": 323910723,
+    "favourites_count": 979,
+    "profile_background_color": "C0DEED",
+    "followers_count": 160,
+    "statuses_count": 4014,
+    "description": "Futbolero. Santiaguino de nacimiento y tal vez de por vida, hincha sufriente de un equipo que juega a 1500 KM de casa. Alg\u00fan d\u00eda volveremos...",
+    "location": null,
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "default_profile_image": false,
+    "verified": false,
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_use_background_image": true,
+    "contributors_enabled": false,
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/2799679159/7037c58ff9f7b55e8b7c79afa1a736db_normal.png",
+    "geo_enabled": true
+  },
+  "geo": null,
+  "id": 922221533396983808,
+  "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+  "retweeted": false,
+  "filter_level": "low",
+  "in_reply_to_status_id_str": "922220989357883392",
+  "quote_count": 0,
+  "favorited": false,
+  "coordinates": null,
+  "display_text_range": [
+    12,
+    140
+  ],
+  "retweet_count": 0,
+  "is_quote_status": false,
+  "in_reply_to_screen_name": "ecordova68",
+  "contributors": null,
+  "place": {
+    "bounding_box": {
+      "coordinates": [
+        [
+          [
+            -70.608694,
+            -33.486182
+          ],
+          [
+            -70.608694,
+            -33.364619
+          ],
+          [
+            -70.429141,
+            -33.364619
+          ],
+          [
+            -70.429141,
+            -33.486182
+          ]
+        ]
+      ],
+      "type": "Polygon"
+    },
+    "name": "Las Condes",
+    "url": "https://api.twitter.com/1.1/geo/id/00c4b64e7affea25.json",
+    "country_code": "CL",
+    "id": "00c4b64e7affea25",
+    "place_type": "city",
+    "attributes": {},
+    "full_name": "Las Condes, Chile",
+    "country": "Chile"
+  }
+}

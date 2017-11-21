@@ -1,0 +1,175 @@
+{
+  "in_reply_to_user_id": 175242018,
+  "contributors": null,
+  "id": 922095190646632449,
+  "retweeted": false,
+  "retweet_count": 0,
+  "timestamp_ms": "1508679599807",
+  "in_reply_to_status_id": 921704970663157762,
+  "id_str": "922095190646632449",
+  "coordinates": null,
+  "created_at": "Sun Oct 22 13:39:59 +0000 2017",
+  "quote_count": 0,
+  "favorite_count": 0,
+  "entities": {
+    "user_mentions": [
+      {
+        "indices": [
+          0,
+          10
+        ],
+        "name": "Eduardo Fabregat",
+        "screen_name": "EFabregat",
+        "id": 175242018,
+        "id_str": "175242018"
+      },
+      {
+        "indices": [
+          11,
+          21
+        ],
+        "name": "Horacio Roggero",
+        "screen_name": "H_Roggero",
+        "id": 1311735576,
+        "id_str": "1311735576"
+      }
+    ],
+    "symbols": [],
+    "hashtags": [],
+    "urls": [
+      {
+        "expanded_url": "https://twitter.com/i/web/status/922095190646632449",
+        "indices": [
+          117,
+          140
+        ],
+        "url": "https://t.co/pQHn1Y8IY5",
+        "display_url": "twitter.com/i/web/status/9\u2026"
+      }
+    ]
+  },
+  "reply_count": 0,
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "place": {
+    "attributes": {},
+    "url": "https://api.twitter.com/1.1/geo/id/0108c69f708ae783.json",
+    "place_type": "city",
+    "id": "0108c69f708ae783",
+    "country_code": "AR",
+    "name": "Avellaneda",
+    "country": "Argentina",
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            -58.40649,
+            -34.726948
+          ],
+          [
+            -58.40649,
+            -34.638333
+          ],
+          [
+            -58.297038,
+            -34.638333
+          ],
+          [
+            -58.297038,
+            -34.726948
+          ]
+        ]
+      ]
+    },
+    "full_name": "Avellaneda, Argentina"
+  },
+  "truncated": true,
+  "in_reply_to_status_id_str": "921704970663157762",
+  "in_reply_to_screen_name": "EFabregat",
+  "filter_level": "low",
+  "text": "@EFabregat @H_Roggero Los polic\u00edas, gendarmes no son muy inteligentes que digamos, son burros con uniforme y la bor\u2026 https://t.co/pQHn1Y8IY5",
+  "geo": null,
+  "in_reply_to_user_id_str": "175242018",
+  "is_quote_status": false,
+  "display_text_range": [
+    22,
+    140
+  ],
+  "favorited": false,
+  "user": {
+    "verified": false,
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "statuses_count": 6709,
+    "screen_name": "Solange_UltraK",
+    "default_profile_image": false,
+    "time_zone": null,
+    "name": "#PorMasKirchnerismo",
+    "id_str": "2176994659",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/2176994659/1383694267",
+    "created_at": "Tue Nov 05 23:24:38 +0000 2013",
+    "friends_count": 2728,
+    "url": null,
+    "profile_background_tile": false,
+    "protected": false,
+    "translator_type": "none",
+    "profile_text_color": "333333",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000700327252/f1a6ad20085a61bac2c45af80a84d96b_normal.jpeg",
+    "listed_count": 2,
+    "notifications": null,
+    "contributors_enabled": false,
+    "is_translator": false,
+    "location": "Wilde",
+    "profile_use_background_image": true,
+    "followers_count": 1868,
+    "profile_sidebar_fill_color": "DDEEF6",
+    "geo_enabled": true,
+    "profile_link_color": "1DA1F2",
+    "favourites_count": 9761,
+    "following": null,
+    "default_profile": true,
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_color": "C0DEED",
+    "id": 2176994659,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/378800000700327252/f1a6ad20085a61bac2c45af80a84d96b_normal.jpeg",
+    "lang": "es",
+    "description": "#CristinaConducci\u00f3n militante 100%",
+    "follow_request_sent": null,
+    "utc_offset": null
+  },
+  "extended_tweet": {
+    "entities": {
+      "user_mentions": [
+        {
+          "indices": [
+            0,
+            10
+          ],
+          "name": "Eduardo Fabregat",
+          "screen_name": "EFabregat",
+          "id": 175242018,
+          "id_str": "175242018"
+        },
+        {
+          "indices": [
+            11,
+            21
+          ],
+          "name": "Horacio Roggero",
+          "screen_name": "H_Roggero",
+          "id": 1311735576,
+          "id_str": "1311735576"
+        }
+      ],
+      "symbols": [],
+      "hashtags": [],
+      "urls": []
+    },
+    "display_text_range": [
+      22,
+      161
+    ],
+    "full_text": "@EFabregat @H_Roggero Los polic\u00edas, gendarmes no son muy inteligentes que digamos, son burros con uniforme y la borracha les cuida las espaldas por conveniencia!"
+  },
+  "lang": "es"
+}

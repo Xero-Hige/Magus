@@ -1,0 +1,117 @@
+{
+  "in_reply_to_user_id": null,
+  "contributors": null,
+  "in_reply_to_screen_name": null,
+  "retweeted": false,
+  "retweet_count": 0,
+  "timestamp_ms": "1508693906813",
+  "in_reply_to_status_id": null,
+  "id_str": "922155198579183616",
+  "created_at": "Sun Oct 22 17:38:26 +0000 2017",
+  "id": 922155198579183616,
+  "coordinates": null,
+  "favorite_count": 0,
+  "entities": {
+    "user_mentions": [
+      {
+        "indices": [
+          58,
+          65
+        ],
+        "name": "Javier Milei",
+        "screen_name": "JMilei",
+        "id": 4020276615,
+        "id_str": "4020276615"
+      }
+    ],
+    "symbols": [],
+    "hashtags": [],
+    "urls": []
+  },
+  "reply_count": 0,
+  "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+  "place": {
+    "attributes": {},
+    "url": "https://api.twitter.com/1.1/geo/id/00758a48394df3ce.json",
+    "place_type": "city",
+    "id": "00758a48394df3ce",
+    "country_code": "AR",
+    "name": "Villa Soldati",
+    "country": "Argentina",
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            -58.502543,
+            -34.705421
+          ],
+          [
+            -58.502543,
+            -34.613843
+          ],
+          [
+            -58.389939,
+            -34.613843
+          ],
+          [
+            -58.389939,
+            -34.705421
+          ]
+        ]
+      ]
+    },
+    "full_name": "Villa Soldati, Argentina"
+  },
+  "truncated": false,
+  "in_reply_to_status_id_str": null,
+  "filter_level": "low",
+  "text": "Espero dentro de un tiempo encontrarme poniendo su nombre @JMilei dentro de la urna\nFeliz cumplea\u00f1os, viva la libertad!",
+  "geo": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": false,
+  "favorited": false,
+  "user": {
+    "verified": false,
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+    "statuses_count": 8246,
+    "screen_name": "federicomacera",
+    "default_profile_image": false,
+    "time_zone": "Buenos Aires",
+    "name": "fedemacera",
+    "id_str": "150348412",
+    "profile_sidebar_border_color": "FFFFFF",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/150348412/1454272804",
+    "created_at": "Mon May 31 18:17:54 +0000 2010",
+    "friends_count": 1449,
+    "url": "https://www.instagram.com/fedemacera/",
+    "profile_background_tile": true,
+    "protected": false,
+    "translator_type": "none",
+    "profile_text_color": "333333",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/868569327410262017/YKmRfmwK_normal.jpg",
+    "listed_count": 2,
+    "notifications": null,
+    "contributors_enabled": false,
+    "is_translator": false,
+    "location": "Buenos Aires",
+    "profile_use_background_image": true,
+    "followers_count": 324,
+    "profile_sidebar_fill_color": "EFEFEF",
+    "geo_enabled": true,
+    "profile_link_color": "2D9DC2",
+    "favourites_count": 1742,
+    "following": null,
+    "default_profile": false,
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+    "profile_background_color": "131516",
+    "id": 150348412,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/868569327410262017/YKmRfmwK_normal.jpg",
+    "lang": "es",
+    "description": "What you think you become | Director de cuentas - 'e&t' | Estudiante de abogac\u00eda en UCA",
+    "follow_request_sent": null,
+    "utc_offset": -10800
+  },
+  "quote_count": 0,
+  "lang": "es"
+}

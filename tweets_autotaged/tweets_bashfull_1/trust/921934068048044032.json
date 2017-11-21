@@ -1,0 +1,144 @@
+{
+  "in_reply_to_user_id": null,
+  "contributors": null,
+  "in_reply_to_screen_name": null,
+  "retweeted": false,
+  "retweet_count": 0,
+  "timestamp_ms": "1508641185186",
+  "in_reply_to_status_id": null,
+  "id_str": "921934068048044032",
+  "created_at": "Sun Oct 22 02:59:45 +0000 2017",
+  "id": 921934068048044032,
+  "coordinates": {
+    "type": "Point",
+    "coordinates": [
+      -70.6661,
+      -33.4142
+    ]
+  },
+  "favorite_count": 0,
+  "entities": {
+    "user_mentions": [],
+    "symbols": [],
+    "hashtags": [
+      {
+        "text": "Ni\u00f1oJesusDePraga",
+        "indices": [
+          0,
+          17
+        ]
+      },
+      {
+        "text": "Santiagoapie",
+        "indices": [
+          21,
+          34
+        ]
+      }
+    ],
+    "urls": [
+      {
+        "expanded_url": "https://www.instagram.com/p/BaiM6iSgY2F/",
+        "indices": [
+          52,
+          75
+        ],
+        "url": "https://t.co/bRp3LLi9HV",
+        "display_url": "instagram.com/p/BaiM6iSgY2F/"
+      }
+    ]
+  },
+  "reply_count": 0,
+  "source": "<a href=\"http://instagram.com\" rel=\"nofollow\">Instagram</a>",
+  "place": {
+    "attributes": {},
+    "url": "https://api.twitter.com/1.1/geo/id/004da7ab4e8c1ab5.json",
+    "place_type": "city",
+    "id": "004da7ab4e8c1ab5",
+    "country_code": "CL",
+    "name": "Independencia",
+    "country": "Chile",
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            -70.683075,
+            -33.431842
+          ],
+          [
+            -70.683075,
+            -33.398912
+          ],
+          [
+            -70.651278,
+            -33.398912
+          ],
+          [
+            -70.651278,
+            -33.431842
+          ]
+        ]
+      ]
+    },
+    "full_name": "Independencia, Chile"
+  },
+  "truncated": false,
+  "in_reply_to_status_id_str": null,
+  "filter_level": "low",
+  "text": "#Ni\u00f1oJesusDePraga... #Santiagoapie en Independencia https://t.co/bRp3LLi9HV",
+  "geo": {
+    "type": "Point",
+    "coordinates": [
+      -33.4142,
+      -70.6661
+    ]
+  },
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": false,
+  "possibly_sensitive": false,
+  "favorited": false,
+  "user": {
+    "verified": false,
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+    "statuses_count": 8253,
+    "screen_name": "santiagoapie",
+    "default_profile_image": false,
+    "time_zone": "Brasilia",
+    "name": "Santiago a Pie",
+    "id_str": "407158793",
+    "profile_sidebar_border_color": "000000",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/407158793/1502992305",
+    "created_at": "Mon Nov 07 18:25:45 +0000 2011",
+    "friends_count": 21257,
+    "url": "http://Santiagoapie.weebly.com",
+    "profile_background_tile": false,
+    "protected": false,
+    "translator_type": "none",
+    "profile_text_color": "000000",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/871873477502009344/fbcpNG5j_normal.jpg",
+    "listed_count": 103,
+    "notifications": null,
+    "contributors_enabled": false,
+    "is_translator": false,
+    "location": "Santiago, Chile",
+    "profile_use_background_image": false,
+    "followers_count": 31076,
+    "profile_sidebar_fill_color": "000000",
+    "geo_enabled": true,
+    "profile_link_color": "FA743E",
+    "favourites_count": 953,
+    "following": null,
+    "default_profile": false,
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+    "profile_background_color": "000000",
+    "id": 407158793,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/871873477502009344/fbcpNG5j_normal.jpg",
+    "lang": "es",
+    "description": "Recorridos patrimoniales por el Santiago antiguo.",
+    "follow_request_sent": null,
+    "utc_offset": -7200
+  },
+  "quote_count": 0,
+  "lang": "es"
+}

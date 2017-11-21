@@ -1,0 +1,154 @@
+{
+  "in_reply_to_user_id": 148753334,
+  "contributors": null,
+  "id": 921938033653501952,
+  "retweeted": false,
+  "retweet_count": 0,
+  "timestamp_ms": "1508642130660",
+  "in_reply_to_status_id": 921496059553173504,
+  "id_str": "921938033653501952",
+  "coordinates": null,
+  "created_at": "Sun Oct 22 03:15:30 +0000 2017",
+  "quote_count": 0,
+  "favorite_count": 0,
+  "entities": {
+    "user_mentions": [
+      {
+        "indices": [
+          0,
+          13
+        ],
+        "name": "Angela Lerena \ud83c\udfdf",
+        "screen_name": "Angelalerena",
+        "id": 148753334,
+        "id_str": "148753334"
+      }
+    ],
+    "symbols": [],
+    "hashtags": [],
+    "urls": [
+      {
+        "expanded_url": "https://twitter.com/i/web/status/921938033653501952",
+        "indices": [
+          117,
+          140
+        ],
+        "url": "https://t.co/dNrg0fmS5T",
+        "display_url": "twitter.com/i/web/status/9\u2026"
+      }
+    ]
+  },
+  "reply_count": 0,
+  "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+  "place": {
+    "attributes": {},
+    "url": "https://api.twitter.com/1.1/geo/id/00f84d414936f28e.json",
+    "place_type": "city",
+    "id": "00f84d414936f28e",
+    "country_code": "AR",
+    "name": "C\u00f3rdoba",
+    "country": "Argentina",
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            -64.3195,
+            -31.523576
+          ],
+          [
+            -64.3195,
+            -31.307337
+          ],
+          [
+            -64.076551,
+            -31.307337
+          ],
+          [
+            -64.076551,
+            -31.523576
+          ]
+        ]
+      ]
+    },
+    "full_name": "C\u00f3rdoba, Argentina"
+  },
+  "truncated": true,
+  "in_reply_to_status_id_str": "921496059553173504",
+  "in_reply_to_screen_name": "Angelalerena",
+  "filter_level": "low",
+  "text": "@Angelalerena hay gente q se les inunda las casas xq los gobiernos populistas no hicieron una puta obra.Esa gente e\u2026 https://t.co/dNrg0fmS5T",
+  "geo": null,
+  "in_reply_to_user_id_str": "148753334",
+  "is_quote_status": false,
+  "display_text_range": [
+    14,
+    140
+  ],
+  "favorited": false,
+  "user": {
+    "verified": false,
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "statuses_count": 43073,
+    "screen_name": "plazza914",
+    "default_profile_image": false,
+    "time_zone": "Pacific Time (US & Canada)",
+    "name": "Dr. Lito Pla",
+    "id_str": "727120710",
+    "profile_sidebar_border_color": "C0DEED",
+    "created_at": "Mon Jul 30 23:57:37 +0000 2012",
+    "friends_count": 1362,
+    "url": null,
+    "profile_background_tile": false,
+    "protected": false,
+    "translator_type": "none",
+    "profile_text_color": "333333",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/613126166094979072/IdhrcncS_normal.jpg",
+    "listed_count": 11,
+    "notifications": null,
+    "contributors_enabled": false,
+    "is_translator": false,
+    "location": null,
+    "profile_use_background_image": true,
+    "followers_count": 1540,
+    "profile_sidebar_fill_color": "DDEEF6",
+    "geo_enabled": true,
+    "profile_link_color": "1DA1F2",
+    "favourites_count": 18307,
+    "following": null,
+    "default_profile": true,
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_color": "C0DEED",
+    "id": 727120710,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/613126166094979072/IdhrcncS_normal.jpg",
+    "lang": "es",
+    "description": "Desarrollista. No populista.Del Pro, de la primera hora. De Cambiemos, de la primera hora.",
+    "follow_request_sent": null,
+    "utc_offset": -25200
+  },
+  "extended_tweet": {
+    "entities": {
+      "user_mentions": [
+        {
+          "indices": [
+            0,
+            13
+          ],
+          "name": "Angela Lerena \ud83c\udfdf",
+          "screen_name": "Angelalerena",
+          "id": 148753334,
+          "id_str": "148753334"
+        }
+      ],
+      "symbols": [],
+      "hashtags": [],
+      "urls": []
+    },
+    "display_text_range": [
+      14,
+      154
+    ],
+    "full_text": "@Angelalerena hay gente q se les inunda las casas xq los gobiernos populistas no hicieron una puta obra.Esa gente est\u00e1 con mucha bronca,y no cobra un peso"
+  },
+  "lang": "es"
+}

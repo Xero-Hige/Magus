@@ -1,0 +1,121 @@
+{
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "indices": [
+          0,
+          8
+        ],
+        "screen_name": "Sylvi_9",
+        "name": "Sylvi",
+        "id_str": "558178060",
+        "id": 558178060
+      }
+    ]
+  },
+  "in_reply_to_user_id": 558178060,
+  "created_at": "Mon Oct 23 00:41:20 +0000 2017",
+  "favorite_count": 0,
+  "lang": "es",
+  "reply_count": 0,
+  "id_str": "922261622210662400",
+  "in_reply_to_user_id_str": "558178060",
+  "in_reply_to_status_id": 922260687442890752,
+  "timestamp_ms": "1508719280184",
+  "truncated": false,
+  "text": "@Sylvi_9 Muy buenas  noches Sylvi mi gran amiga...--Saludos con el mayor afecto y respeto a Ud, mi gran amiga ...",
+  "user": {
+    "time_zone": "Santiago",
+    "screen_name": "FernandoRubilar",
+    "utc_offset": -10800,
+    "created_at": "Tue Jan 26 18:05:20 +0000 2010",
+    "profile_background_tile": true,
+    "notifications": null,
+    "lang": "es",
+    "default_profile": false,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/108673482/1488081735",
+    "id_str": "108673482",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/378800000178180614/ae6b961bd63a0c3fa3c755be9fc6d0e2_normal.jpeg",
+    "name": "FernandoRubilar",
+    "friends_count": 6345,
+    "translator_type": "regular",
+    "protected": false,
+    "following": null,
+    "is_translator": false,
+    "follow_request_sent": null,
+    "profile_text_color": "333333",
+    "listed_count": 262,
+    "profile_link_color": "91D2FA",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "url": "https://twitter.com/FernandoRubilar",
+    "id": 108673482,
+    "favourites_count": 87132,
+    "profile_background_color": "89C9FA",
+    "followers_count": 17635,
+    "statuses_count": 73996,
+    "description": "Librepensador . Ciencia.Tecnolog\u00eda    .Independiente . #Cultura #UniversidadConcepci\u00f3n #AmantedelasMascotas.",
+    "location": "Talcahuano  8.\u00aa Regi\u00f3n   Chile",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "default_profile_image": false,
+    "verified": false,
+    "profile_sidebar_fill_color": "C0DFEC",
+    "profile_use_background_image": true,
+    "contributors_enabled": false,
+    "profile_sidebar_border_color": "A8C7F7",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000178180614/ae6b961bd63a0c3fa3c755be9fc6d0e2_normal.jpeg",
+    "geo_enabled": true
+  },
+  "geo": null,
+  "id": 922261622210662400,
+  "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+  "retweeted": false,
+  "filter_level": "low",
+  "in_reply_to_status_id_str": "922260687442890752",
+  "quote_count": 0,
+  "favorited": false,
+  "coordinates": null,
+  "display_text_range": [
+    9,
+    113
+  ],
+  "retweet_count": 0,
+  "is_quote_status": false,
+  "in_reply_to_screen_name": "Sylvi_9",
+  "contributors": null,
+  "place": {
+    "bounding_box": {
+      "coordinates": [
+        [
+          [
+            -73.091398,
+            -36.923936
+          ],
+          [
+            -73.091398,
+            -36.760435
+          ],
+          [
+            -72.845604,
+            -36.760435
+          ],
+          [
+            -72.845604,
+            -36.923936
+          ]
+        ]
+      ],
+      "type": "Polygon"
+    },
+    "name": "Concepci\u00f3n",
+    "url": "https://api.twitter.com/1.1/geo/id/0150459b5095a59f.json",
+    "country_code": "CL",
+    "id": "0150459b5095a59f",
+    "place_type": "city",
+    "attributes": {},
+    "full_name": "Concepci\u00f3n, Chile",
+    "country": "Chile"
+  }
+}

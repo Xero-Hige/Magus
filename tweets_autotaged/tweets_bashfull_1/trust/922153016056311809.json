@@ -1,0 +1,150 @@
+{
+  "in_reply_to_user_id": null,
+  "contributors": null,
+  "in_reply_to_screen_name": null,
+  "retweeted": false,
+  "retweet_count": 0,
+  "timestamp_ms": "1508693386459",
+  "in_reply_to_status_id": null,
+  "id_str": "922153016056311809",
+  "created_at": "Sun Oct 22 17:29:46 +0000 2017",
+  "id": 922153016056311809,
+  "coordinates": {
+    "type": "Point",
+    "coordinates": [
+      -70.66168236,
+      -33.46266989
+    ]
+  },
+  "favorite_count": 0,
+  "entities": {
+    "user_mentions": [
+      {
+        "indices": [
+          48,
+          62
+        ],
+        "name": "Movistar Chile",
+        "screen_name": "MovistarChile",
+        "id": 31141520,
+        "id_str": "31141520"
+      },
+      {
+        "indices": [
+          100,
+          112
+        ],
+        "name": "elizabeth Silva",
+        "screen_name": "elitaeizbel",
+        "id": 567833588,
+        "id_str": "567833588"
+      }
+    ],
+    "symbols": [],
+    "hashtags": [],
+    "urls": [
+      {
+        "expanded_url": "https://www.swarmapp.com/c/8KiXkUKUfO0",
+        "indices": [
+          114,
+          137
+        ],
+        "url": "https://t.co/tN1GePXMMS",
+        "display_url": "swarmapp.com/c/8KiXkUKUfO0"
+      }
+    ]
+  },
+  "reply_count": 0,
+  "source": "<a href=\"http://foursquare.com\" rel=\"nofollow\">Foursquare</a>",
+  "place": {
+    "attributes": {},
+    "url": "https://api.twitter.com/1.1/geo/id/0010b4cb51ca93d8.json",
+    "place_type": "city",
+    "id": "0010b4cb51ca93d8",
+    "country_code": "CL",
+    "name": "Santiago",
+    "country": "Chile",
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            -70.692959,
+            -33.478574
+          ],
+          [
+            -70.692959,
+            -33.425749
+          ],
+          [
+            -70.626272,
+            -33.425749
+          ],
+          [
+            -70.626272,
+            -33.478574
+          ]
+        ]
+      ]
+    },
+    "full_name": "Santiago, Chile"
+  },
+  "truncated": false,
+  "in_reply_to_status_id_str": null,
+  "filter_level": "low",
+  "text": "WWE SmackDown Live Santiago (@ Movistar Arena - @movistarchile in Santiago, Regi\u00f3n Metropolitana w/ @elitaeizbel) https://t.co/tN1GePXMMS",
+  "geo": {
+    "type": "Point",
+    "coordinates": [
+      -33.46266989,
+      -70.66168236
+    ]
+  },
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": false,
+  "possibly_sensitive": false,
+  "favorited": false,
+  "user": {
+    "verified": false,
+    "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/267941000/Kawapaper_One_Piece_0000031_1280x1024.jpg",
+    "statuses_count": 16103,
+    "screen_name": "MrKuro",
+    "default_profile_image": false,
+    "time_zone": "Santiago",
+    "name": "Mr. Kuro",
+    "id_str": "50546962",
+    "profile_sidebar_border_color": "A8C7F7",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/50546962/1495040462",
+    "created_at": "Thu Jun 25 04:13:55 +0000 2009",
+    "friends_count": 535,
+    "url": null,
+    "profile_background_tile": true,
+    "protected": false,
+    "translator_type": "none",
+    "profile_text_color": "333333",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/918661038068858880/Ca6lix1__normal.jpg",
+    "listed_count": 3,
+    "notifications": null,
+    "contributors_enabled": false,
+    "is_translator": false,
+    "location": "Santiago, Chile",
+    "profile_use_background_image": true,
+    "followers_count": 530,
+    "profile_sidebar_fill_color": "C0DFEC",
+    "geo_enabled": true,
+    "profile_link_color": "0084B4",
+    "favourites_count": 245,
+    "following": null,
+    "default_profile": false,
+    "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/267941000/Kawapaper_One_Piece_0000031_1280x1024.jpg",
+    "profile_background_color": "022330",
+    "id": 50546962,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/918661038068858880/Ca6lix1__normal.jpg",
+    "lang": "es",
+    "description": "All my tweet are belong to me.",
+    "follow_request_sent": null,
+    "utc_offset": -10800
+  },
+  "quote_count": 0,
+  "lang": "es"
+}

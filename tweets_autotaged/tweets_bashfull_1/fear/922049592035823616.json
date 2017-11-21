@@ -1,0 +1,175 @@
+{
+  "in_reply_to_user_id": 43814969,
+  "contributors": null,
+  "id": 922049592035823616,
+  "retweeted": false,
+  "retweet_count": 0,
+  "timestamp_ms": "1508668728251",
+  "in_reply_to_status_id": 921958324601589762,
+  "id_str": "922049592035823616",
+  "coordinates": null,
+  "created_at": "Sun Oct 22 10:38:48 +0000 2017",
+  "quote_count": 0,
+  "favorite_count": 0,
+  "entities": {
+    "user_mentions": [
+      {
+        "indices": [
+          0,
+          12
+        ],
+        "name": "Fernando A. Iglesias",
+        "screen_name": "FerIglesias",
+        "id": 43814969,
+        "id_str": "43814969"
+      },
+      {
+        "indices": [
+          13,
+          28
+        ],
+        "name": "Claudia Pi\u00f1eiro",
+        "screen_name": "claudiapineiro",
+        "id": 128205366,
+        "id_str": "128205366"
+      }
+    ],
+    "symbols": [],
+    "hashtags": [],
+    "urls": [
+      {
+        "expanded_url": "https://twitter.com/i/web/status/922049592035823616",
+        "indices": [
+          117,
+          140
+        ],
+        "url": "https://t.co/dXatyC9VfY",
+        "display_url": "twitter.com/i/web/status/9\u2026"
+      }
+    ]
+  },
+  "reply_count": 0,
+  "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+  "place": {
+    "attributes": {},
+    "url": "https://api.twitter.com/1.1/geo/id/018f1cde6bad9747.json",
+    "place_type": "city",
+    "id": "018f1cde6bad9747",
+    "country_code": "AR",
+    "name": "Ciudad Aut\u00f3noma de Buenos Aires",
+    "country": "Argentina",
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            -58.531792,
+            -34.674453
+          ],
+          [
+            -58.531792,
+            -34.534177
+          ],
+          [
+            -58.353494,
+            -34.534177
+          ],
+          [
+            -58.353494,
+            -34.674453
+          ]
+        ]
+      ]
+    },
+    "full_name": "Ciudad Aut\u00f3noma de Buenos Aires, Argentina"
+  },
+  "truncated": true,
+  "in_reply_to_status_id_str": "921958324601589762",
+  "in_reply_to_screen_name": "FerIglesias",
+  "filter_level": "low",
+  "text": "@FerIglesias @claudiapineiro  si un DELINCUENTE es descubierto cometiendo un DELITO y mientras huye lo atropella un\u2026 https://t.co/dXatyC9VfY",
+  "geo": null,
+  "in_reply_to_user_id_str": "43814969",
+  "is_quote_status": false,
+  "display_text_range": [
+    13,
+    140
+  ],
+  "favorited": false,
+  "user": {
+    "verified": false,
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "statuses_count": 2858,
+    "screen_name": "sorialemar",
+    "default_profile_image": false,
+    "time_zone": null,
+    "name": "Alejandro Soria",
+    "id_str": "2770595691",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/2770595691/1499624687",
+    "created_at": "Mon Sep 15 00:33:10 +0000 2014",
+    "friends_count": 75,
+    "url": null,
+    "profile_background_tile": false,
+    "protected": false,
+    "translator_type": "none",
+    "profile_text_color": "333333",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/909392259480682496/miaG3mnb_normal.jpg",
+    "listed_count": 0,
+    "notifications": null,
+    "contributors_enabled": false,
+    "is_translator": false,
+    "location": "CABA",
+    "profile_use_background_image": true,
+    "followers_count": 69,
+    "profile_sidebar_fill_color": "DDEEF6",
+    "geo_enabled": true,
+    "profile_link_color": "1DA1F2",
+    "favourites_count": 960,
+    "following": null,
+    "default_profile": true,
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_color": "C0DEED",
+    "id": 2770595691,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/909392259480682496/miaG3mnb_normal.jpg",
+    "lang": "es",
+    "description": "In your darkest hour,\n    when the demons come,\n        call on me brother,\nand we will fight them together.",
+    "follow_request_sent": null,
+    "utc_offset": null
+  },
+  "extended_tweet": {
+    "entities": {
+      "user_mentions": [
+        {
+          "indices": [
+            0,
+            12
+          ],
+          "name": "Fernando A. Iglesias",
+          "screen_name": "FerIglesias",
+          "id": 43814969,
+          "id_str": "43814969"
+        },
+        {
+          "indices": [
+            13,
+            28
+          ],
+          "name": "Claudia Pi\u00f1eiro",
+          "screen_name": "claudiapineiro",
+          "id": 128205366,
+          "id_str": "128205366"
+        }
+      ],
+      "symbols": [],
+      "hashtags": [],
+      "urls": []
+    },
+    "display_text_range": [
+      13,
+      143
+    ],
+    "full_text": "@FerIglesias @claudiapineiro  si un DELINCUENTE es descubierto cometiendo un DELITO y mientras huye lo atropella un cami\u00f3n, lo mat\u00f3 la polic\u00eda?"
+  },
+  "lang": "es"
+}

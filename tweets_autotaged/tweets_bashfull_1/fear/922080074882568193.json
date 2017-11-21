@@ -1,0 +1,175 @@
+{
+  "in_reply_to_user_id": 299930984,
+  "contributors": null,
+  "id": 922080074882568193,
+  "retweeted": false,
+  "retweet_count": 0,
+  "timestamp_ms": "1508675995928",
+  "in_reply_to_status_id": 921467302700306432,
+  "id_str": "922080074882568193",
+  "coordinates": null,
+  "created_at": "Sun Oct 22 12:39:55 +0000 2017",
+  "quote_count": 0,
+  "favorite_count": 0,
+  "entities": {
+    "user_mentions": [
+      {
+        "indices": [
+          0,
+          15
+        ],
+        "name": "Sebastian Gray",
+        "screen_name": "sebastian_gray",
+        "id": 299930984,
+        "id_str": "299930984"
+      },
+      {
+        "indices": [
+          16,
+          26
+        ],
+        "name": "Elisa Ber",
+        "screen_name": "elisaberm",
+        "id": 354471562,
+        "id_str": "354471562"
+      }
+    ],
+    "symbols": [],
+    "hashtags": [],
+    "urls": [
+      {
+        "expanded_url": "https://twitter.com/i/web/status/922080074882568193",
+        "indices": [
+          117,
+          140
+        ],
+        "url": "https://t.co/7Ch44MLb1W",
+        "display_url": "twitter.com/i/web/status/9\u2026"
+      }
+    ]
+  },
+  "reply_count": 0,
+  "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+  "place": {
+    "attributes": {},
+    "url": "https://api.twitter.com/1.1/geo/id/00938c431e3782f2.json",
+    "place_type": "city",
+    "id": "00938c431e3782f2",
+    "country_code": "CL",
+    "name": "Coquimbo",
+    "country": "Chile",
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            -71.669291,
+            -30.507841
+          ],
+          [
+            -71.669291,
+            -29.932931
+          ],
+          [
+            -71.110778,
+            -29.932931
+          ],
+          [
+            -71.110778,
+            -30.507841
+          ]
+        ]
+      ]
+    },
+    "full_name": "Coquimbo, Chile"
+  },
+  "truncated": true,
+  "in_reply_to_status_id_str": "921467302700306432",
+  "in_reply_to_screen_name": "sebastian_gray",
+  "filter_level": "low",
+  "text": "@sebastian_gray @elisaberm Bien dicho , el tiro x la culata , todo fue armado para da\u00f1ar la imagen d MB , ahora   q\u2026 https://t.co/7Ch44MLb1W",
+  "geo": null,
+  "in_reply_to_user_id_str": "299930984",
+  "is_quote_status": false,
+  "display_text_range": [
+    27,
+    140
+  ],
+  "favorited": false,
+  "user": {
+    "verified": false,
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "statuses_count": 58965,
+    "screen_name": "EduardoCorreaM3",
+    "default_profile_image": false,
+    "time_zone": null,
+    "name": "EduardoCorreaMartin",
+    "id_str": "1703275058",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1703275058/1377563543",
+    "created_at": "Tue Aug 27 00:10:47 +0000 2013",
+    "friends_count": 1695,
+    "url": null,
+    "profile_background_tile": false,
+    "protected": false,
+    "translator_type": "none",
+    "profile_text_color": "333333",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/551440607126622208/3raEkpsW_normal.jpeg",
+    "listed_count": 12,
+    "notifications": null,
+    "contributors_enabled": false,
+    "is_translator": false,
+    "location": null,
+    "profile_use_background_image": true,
+    "followers_count": 1292,
+    "profile_sidebar_fill_color": "DDEEF6",
+    "geo_enabled": true,
+    "profile_link_color": "1DA1F2",
+    "favourites_count": 23,
+    "following": null,
+    "default_profile": true,
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_color": "C0DEED",
+    "id": 1703275058,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/551440607126622208/3raEkpsW_normal.jpeg",
+    "lang": "es",
+    "description": "AMANTE DE LA NATURALEZA",
+    "follow_request_sent": null,
+    "utc_offset": null
+  },
+  "extended_tweet": {
+    "entities": {
+      "user_mentions": [
+        {
+          "indices": [
+            0,
+            15
+          ],
+          "name": "Sebastian Gray",
+          "screen_name": "sebastian_gray",
+          "id": 299930984,
+          "id_str": "299930984"
+        },
+        {
+          "indices": [
+            16,
+            26
+          ],
+          "name": "Elisa Ber",
+          "screen_name": "elisaberm",
+          "id": 354471562,
+          "id_str": "354471562"
+        }
+      ],
+      "symbols": [],
+      "hashtags": [],
+      "urls": []
+    },
+    "display_text_range": [
+      27,
+      165
+    ],
+    "full_text": "@sebastian_gray @elisaberm Bien dicho , el tiro x la culata , todo fue armado para da\u00f1ar la imagen d MB , ahora   q la ley haga pagar , con c\u00e1rcel  a qui\u00e9n lo merece"
+  },
+  "lang": "es"
+}

@@ -1,0 +1,114 @@
+{
+  "in_reply_to_user_id": null,
+  "contributors": null,
+  "in_reply_to_screen_name": null,
+  "retweeted": false,
+  "retweet_count": 0,
+  "timestamp_ms": "1508683446327",
+  "in_reply_to_status_id": null,
+  "id_str": "922111324120928257",
+  "created_at": "Sun Oct 22 14:44:06 +0000 2017",
+  "id": 922111324120928257,
+  "coordinates": null,
+  "favorite_count": 0,
+  "entities": {
+    "user_mentions": [],
+    "symbols": [],
+    "hashtags": [
+      {
+        "text": "eleccionesargentina",
+        "indices": [
+          105,
+          125
+        ]
+      }
+    ],
+    "urls": []
+  },
+  "reply_count": 0,
+  "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+  "place": {
+    "attributes": {},
+    "url": "https://api.twitter.com/1.1/geo/id/1ed82be977be0cfa.json",
+    "place_type": "admin",
+    "id": "1ed82be977be0cfa",
+    "country_code": "AR",
+    "name": "Buenos Aires City Region",
+    "country": "Argentina",
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            -58.531792,
+            -34.705421
+          ],
+          [
+            -58.531792,
+            -34.526466
+          ],
+          [
+            -58.335105,
+            -34.526466
+          ],
+          [
+            -58.335105,
+            -34.705421
+          ]
+        ]
+      ]
+    },
+    "full_name": "Buenos Aires City Region, Argentina"
+  },
+  "truncated": false,
+  "in_reply_to_status_id_str": null,
+  "filter_level": "low",
+  "text": "Qu\u00e9 bellos los domingos de elecciones donde cada uno, libremente, expresa su voto y ejerce la democracia #eleccionesargentina.",
+  "geo": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": false,
+  "favorited": false,
+  "user": {
+    "verified": false,
+    "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/435218813450080256/Tc1_ncXW.jpeg",
+    "statuses_count": 26499,
+    "screen_name": "AgustinaRivera",
+    "default_profile_image": false,
+    "time_zone": "Buenos Aires",
+    "name": "agustina",
+    "id_str": "159578685",
+    "profile_sidebar_border_color": "FFFFFF",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/159578685/1410307508",
+    "created_at": "Fri Jun 25 19:40:21 +0000 2010",
+    "friends_count": 216,
+    "url": "http://instagram.com/agustinarivera",
+    "profile_background_tile": true,
+    "protected": false,
+    "translator_type": "none",
+    "profile_text_color": "333333",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/909810014960934912/kXFQAEGT_normal.jpg",
+    "listed_count": 2,
+    "notifications": null,
+    "contributors_enabled": false,
+    "is_translator": false,
+    "location": "Capital Federal - Argentina",
+    "profile_use_background_image": true,
+    "followers_count": 303,
+    "profile_sidebar_fill_color": "C0DFEC",
+    "geo_enabled": true,
+    "profile_link_color": "0084B4",
+    "favourites_count": 5044,
+    "following": null,
+    "default_profile": false,
+    "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/435218813450080256/Tc1_ncXW.jpeg",
+    "profile_background_color": "022330",
+    "id": 159578685,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/909810014960934912/kXFQAEGT_normal.jpg",
+    "lang": "en",
+    "description": "Casi traductora p\u00fablica y profesora de ingl\u00e9s. Libertad ante todo.",
+    "follow_request_sent": null,
+    "utc_offset": -10800
+  },
+  "quote_count": 0,
+  "lang": "es"
+}

@@ -1,0 +1,121 @@
+{
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "indices": [
+          0,
+          16
+        ],
+        "screen_name": "juaniprovendola",
+        "name": "Juan I. Prov\u00e9ndola",
+        "id_str": "102158339",
+        "id": 102158339
+      }
+    ]
+  },
+  "in_reply_to_user_id": 102158339,
+  "created_at": "Sun Oct 22 23:11:03 +0000 2017",
+  "favorite_count": 0,
+  "lang": "es",
+  "reply_count": 0,
+  "id_str": "922238903750414336",
+  "in_reply_to_user_id_str": "102158339",
+  "in_reply_to_status_id": 922234778744705024,
+  "timestamp_ms": "1508713863681",
+  "truncated": false,
+  "text": "@juaniprovendola El coraz\u00f3n de la mitad de los porte\u00f1os es mucho mas fr\u00edo que el de Walt Disney, si es que tienen...",
+  "user": {
+    "time_zone": "Buenos Aires",
+    "screen_name": "Clmine2",
+    "utc_offset": -10800,
+    "created_at": "Sun Jun 22 01:37:22 +0000 2014",
+    "profile_background_tile": true,
+    "notifications": null,
+    "lang": "es",
+    "default_profile": false,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/2581362403/1463801801",
+    "id_str": "2581362403",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/789941792322060289/IsZ-6_DH_normal.jpg",
+    "name": "C\u00falmine",
+    "friends_count": 436,
+    "translator_type": "none",
+    "protected": false,
+    "following": null,
+    "is_translator": false,
+    "follow_request_sent": null,
+    "profile_text_color": "333333",
+    "listed_count": 6,
+    "profile_link_color": "0A0909",
+    "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/505550200467759104/yUsD4agD.jpeg",
+    "url": "http://clmine.bandcamp.com/",
+    "id": 2581362403,
+    "favourites_count": 1003,
+    "profile_background_color": "C0DEED",
+    "followers_count": 466,
+    "statuses_count": 2869,
+    "description": "Es  buscar,m\u00e1s que nada, la m\u00fasica como la compa\u00f1\u00eda de la soledad y el testimonio del dolor.\r\n\r\nhttps://www.facebook.com/ruidoculmine",
+    "location": "Fiske Menuco-R Negro-Patagonia",
+    "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/505550200467759104/yUsD4agD.jpeg",
+    "default_profile_image": false,
+    "verified": false,
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_use_background_image": true,
+    "contributors_enabled": false,
+    "profile_sidebar_border_color": "FFFFFF",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/789941792322060289/IsZ-6_DH_normal.jpg",
+    "geo_enabled": true
+  },
+  "geo": null,
+  "id": 922238903750414336,
+  "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+  "retweeted": false,
+  "filter_level": "low",
+  "in_reply_to_status_id_str": "922234778744705024",
+  "quote_count": 0,
+  "favorited": false,
+  "coordinates": null,
+  "display_text_range": [
+    17,
+    116
+  ],
+  "retweet_count": 0,
+  "is_quote_status": false,
+  "in_reply_to_screen_name": "juaniprovendola",
+  "contributors": null,
+  "place": {
+    "bounding_box": {
+      "coordinates": [
+        [
+          [
+            -67.610891,
+            -39.04632
+          ],
+          [
+            -67.610891,
+            -38.997645
+          ],
+          [
+            -67.528734,
+            -38.997645
+          ],
+          [
+            -67.528734,
+            -39.04632
+          ]
+        ]
+      ],
+      "type": "Polygon"
+    },
+    "name": "General Roca",
+    "url": "https://api.twitter.com/1.1/geo/id/0016a28c5fdad928.json",
+    "country_code": "AR",
+    "id": "0016a28c5fdad928",
+    "place_type": "city",
+    "attributes": {},
+    "full_name": "General Roca, Argentina",
+    "country": "Argentina"
+  }
+}

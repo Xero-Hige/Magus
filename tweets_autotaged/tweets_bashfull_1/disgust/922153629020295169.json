@@ -1,0 +1,106 @@
+{
+  "in_reply_to_user_id": null,
+  "contributors": null,
+  "in_reply_to_screen_name": null,
+  "retweeted": false,
+  "retweet_count": 0,
+  "timestamp_ms": "1508693532601",
+  "in_reply_to_status_id": null,
+  "id_str": "922153629020295169",
+  "created_at": "Sun Oct 22 17:32:12 +0000 2017",
+  "id": 922153629020295169,
+  "coordinates": null,
+  "favorite_count": 0,
+  "entities": {
+    "user_mentions": [],
+    "symbols": [],
+    "hashtags": [],
+    "urls": []
+  },
+  "reply_count": 0,
+  "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+  "place": {
+    "attributes": {},
+    "url": "https://api.twitter.com/1.1/geo/id/d0f5be1262dee9aa.json",
+    "place_type": "country",
+    "id": "d0f5be1262dee9aa",
+    "country_code": "UY",
+    "name": "Uruguay",
+    "country": "Uruguay",
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            -58.491052,
+            -34.980163
+          ],
+          [
+            -58.491052,
+            -30.085693
+          ],
+          [
+            -53.071505,
+            -30.085693
+          ],
+          [
+            -53.071505,
+            -34.980163
+          ]
+        ]
+      ]
+    },
+    "full_name": "Uruguay"
+  },
+  "truncated": false,
+  "in_reply_to_status_id_str": null,
+  "filter_level": "low",
+  "text": "Uruguay Uruguay Uruguay Uruguay",
+  "geo": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": false,
+  "favorited": false,
+  "user": {
+    "verified": false,
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "statuses_count": 244,
+    "screen_name": "MorelVique",
+    "default_profile_image": false,
+    "time_zone": null,
+    "name": "karolagustina lasamo",
+    "id_str": "917127809365094407",
+    "profile_sidebar_border_color": "000000",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/917127809365094407/1508693082",
+    "created_at": "Sun Oct 08 20:41:23 +0000 2017",
+    "friends_count": 429,
+    "url": null,
+    "profile_background_tile": false,
+    "protected": false,
+    "translator_type": "none",
+    "profile_text_color": "000000",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/921163145569325056/9b9zOYyg_normal.jpg",
+    "listed_count": 0,
+    "notifications": null,
+    "contributors_enabled": false,
+    "is_translator": false,
+    "location": null,
+    "profile_use_background_image": false,
+    "followers_count": 77,
+    "profile_sidebar_fill_color": "000000",
+    "geo_enabled": true,
+    "profile_link_color": "981CEB",
+    "favourites_count": 569,
+    "following": null,
+    "default_profile": false,
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_color": "000000",
+    "id": 917127809365094407,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/921163145569325056/9b9zOYyg_normal.jpg",
+    "lang": "es",
+    "description": "Karol sevilla te quiero mucho deseo conoserte te amoo \ud83d\ude0d\u2764\ufe0f\ud83d\udc95\ud83d\udc95\ud83d\udc9e",
+    "follow_request_sent": null,
+    "utc_offset": null
+  },
+  "quote_count": 0,
+  "lang": "es"
+}
