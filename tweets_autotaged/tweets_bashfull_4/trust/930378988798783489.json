@@ -1,0 +1,137 @@
+{
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "id": 930378988798783489,
+  "in_reply_to_user_id": 4119914644,
+  "coordinates": null,
+  "reply_count": 0,
+  "timestamp_ms": "1510654611192",
+  "geo": null,
+  "quote_count": 0,
+  "retweet_count": 0,
+  "is_quote_status": false,
+  "created_at": "Tue Nov 14 10:16:51 +0000 2017",
+  "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+  "favorite_count": 0,
+  "in_reply_to_screen_name": "mbachelet",
+  "text": "@mbachelet @GobiernodeChile  @Transantiago  falta. Locomoci\u00f3n desde cuidad SATELITE y villa el abrazo Maip\u00fa soa Bachelet haga algo buen d\u00eda",
+  "in_reply_to_status_id_str": null,
+  "place": {
+    "country": "Chile",
+    "name": "Maip\u00fa",
+    "id": "0113747966068613",
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            -70.930215,
+            -33.571733
+          ],
+          [
+            -70.930215,
+            -33.458483
+          ],
+          [
+            -70.71874,
+            -33.458483
+          ],
+          [
+            -70.71874,
+            -33.571733
+          ]
+        ]
+      ]
+    },
+    "country_code": "CL",
+    "place_type": "city",
+    "url": "https://api.twitter.com/1.1/geo/id/0113747966068613.json",
+    "attributes": {},
+    "full_name": "Maip\u00fa, Chile"
+  },
+  "contributors": null,
+  "entities": {
+    "hashtags": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "screen_name": "mbachelet",
+        "name": "Michelle Bachelet",
+        "id": 4119914644,
+        "id_str": "4119914644",
+        "indices": [
+          0,
+          10
+        ]
+      },
+      {
+        "screen_name": "GobiernodeChile",
+        "name": "Gobierno de Chile",
+        "id": 42102939,
+        "id_str": "42102939",
+        "indices": [
+          11,
+          27
+        ]
+      },
+      {
+        "screen_name": "Transantiago",
+        "name": "Transantiago",
+        "id": 174063327,
+        "id_str": "174063327",
+        "indices": [
+          29,
+          42
+        ]
+      }
+    ],
+    "symbols": []
+  },
+  "retweeted": false,
+  "id_str": "930378988798783489",
+  "user": {
+    "time_zone": null,
+    "follow_request_sent": null,
+    "id": 194193048,
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "translator_type": "none",
+    "screen_name": "sofiaanouka",
+    "profile_link_color": "1DA1F2",
+    "url": null,
+    "utc_offset": null,
+    "location": "Maip\u00fa, Chile",
+    "name": "negrita\ud83d\udc96\ud83d\udc96",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "description": null,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/194193048/1489328081",
+    "created_at": "Thu Sep 23 17:10:56 +0000 2010",
+    "protected": false,
+    "is_translator": false,
+    "listed_count": 9,
+    "statuses_count": 15511,
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "default_profile": true,
+    "default_profile_image": false,
+    "verified": false,
+    "notifications": null,
+    "friends_count": 553,
+    "profile_background_color": "C0DEED",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/840928703425183744/hFhzTMlt_normal.jpg",
+    "following": null,
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/840928703425183744/hFhzTMlt_normal.jpg",
+    "geo_enabled": true,
+    "profile_use_background_image": true,
+    "contributors_enabled": false,
+    "id_str": "194193048",
+    "profile_text_color": "333333",
+    "followers_count": 517,
+    "favourites_count": 40167,
+    "lang": "es",
+    "profile_background_tile": false
+  },
+  "filter_level": "low",
+  "in_reply_to_user_id_str": "4119914644",
+  "favorited": false,
+  "lang": "es"
+}

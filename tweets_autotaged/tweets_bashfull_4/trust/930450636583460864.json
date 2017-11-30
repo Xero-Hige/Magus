@@ -1,0 +1,311 @@
+{
+  "id": 930450636583460864,
+  "lang": "es",
+  "in_reply_to_status_id_str": null,
+  "truncated": true,
+  "place": {
+    "id": "cd43ea85d651af92",
+    "country": "Espa\u00f1a",
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            -2.98601,
+            43.213654
+          ],
+          [
+            -2.98601,
+            43.290145
+          ],
+          [
+            -2.880325,
+            43.290145
+          ],
+          [
+            -2.880325,
+            43.213654
+          ]
+        ]
+      ]
+    },
+    "url": "https://api.twitter.com/1.1/geo/id/cd43ea85d651af92.json",
+    "full_name": "Bilbao, Espa\u00f1a",
+    "attributes": {},
+    "name": "Bilbao",
+    "place_type": "city",
+    "country_code": "ES"
+  },
+  "favorite_count": 0,
+  "retweeted": false,
+  "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+  "is_quote_status": false,
+  "possibly_sensitive": false,
+  "geo": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_status_id": null,
+  "retweet_count": 0,
+  "quote_count": 0,
+  "timestamp_ms": "1510671693355",
+  "favorited": false,
+  "coordinates": null,
+  "filter_level": "low",
+  "entities": {
+    "urls": [
+      {
+        "indices": [
+          117,
+          140
+        ],
+        "display_url": "twitter.com/i/web/status/9\u2026",
+        "url": "https://t.co/eNoEa9p3Le",
+        "expanded_url": "https://twitter.com/i/web/status/930450636583460864"
+      }
+    ],
+    "symbols": [],
+    "user_mentions": [
+      {
+        "screen_name": "deusto",
+        "id": 18240228,
+        "name": "Universidad Deusto",
+        "indices": [
+          13,
+          20
+        ],
+        "id_str": "18240228"
+      },
+      {
+        "screen_name": "FomentoSS",
+        "id": 1006053961,
+        "name": "FomentoSS",
+        "indices": [
+          101,
+          111
+        ],
+        "id_str": "1006053961"
+      }
+    ],
+    "hashtags": [
+      {
+        "text": "DonostiaInnovationLeague",
+        "indices": [
+          60,
+          85
+        ]
+      }
+    ]
+  },
+  "reply_count": 0,
+  "in_reply_to_screen_name": null,
+  "display_text_range": [
+    0,
+    140
+  ],
+  "text": "El equipo de @deusto \u201cInnoflayers\u201d gana la 1\u00aa edici\u00f3n de la #DonostiaInnovationLeague organizada por @FomentoSS.  \u00a1\u2026 https://t.co/eNoEa9p3Le",
+  "extended_tweet": {
+    "display_text_range": [
+      0,
+      231
+    ],
+    "extended_entities": {
+      "media": [
+        {
+          "id": 930449870846033920,
+          "display_url": "pic.twitter.com/OFbU9qggiv",
+          "id_str": "930449870846033920",
+          "indices": [
+            232,
+            255
+          ],
+          "expanded_url": "https://twitter.com/ikeror/status/930450636583460864/photo/1",
+          "type": "photo",
+          "url": "https://t.co/OFbU9qggiv",
+          "media_url_https": "https://pbs.twimg.com/media/DOmfOlEWAAAMCQK.jpg",
+          "media_url": "http://pbs.twimg.com/media/DOmfOlEWAAAMCQK.jpg",
+          "sizes": {
+            "small": {
+              "w": 408,
+              "h": 680,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 1229,
+              "h": 2048,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 720,
+              "h": 1200,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "entities": {
+      "media": [
+        {
+          "id": 930449870846033920,
+          "display_url": "pic.twitter.com/OFbU9qggiv",
+          "id_str": "930449870846033920",
+          "indices": [
+            232,
+            255
+          ],
+          "expanded_url": "https://twitter.com/ikeror/status/930450636583460864/photo/1",
+          "type": "photo",
+          "url": "https://t.co/OFbU9qggiv",
+          "media_url_https": "https://pbs.twimg.com/media/DOmfOlEWAAAMCQK.jpg",
+          "media_url": "http://pbs.twimg.com/media/DOmfOlEWAAAMCQK.jpg",
+          "sizes": {
+            "small": {
+              "w": 408,
+              "h": 680,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 1229,
+              "h": 2048,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 720,
+              "h": 1200,
+              "resize": "fit"
+            }
+          }
+        }
+      ],
+      "urls": [
+        {
+          "indices": [
+            208,
+            231
+          ],
+          "display_url": "ow.ly/Om8130gyVzl",
+          "url": "https://t.co/nAjaZgnSzN",
+          "expanded_url": "http://ow.ly/Om8130gyVzl"
+        }
+      ],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "screen_name": "deusto",
+          "id": 18240228,
+          "name": "Universidad Deusto",
+          "indices": [
+            13,
+            20
+          ],
+          "id_str": "18240228"
+        },
+        {
+          "screen_name": "FomentoSS",
+          "id": 1006053961,
+          "name": "FomentoSS",
+          "indices": [
+            101,
+            111
+          ],
+          "id_str": "1006053961"
+        },
+        {
+          "screen_name": "iNNoVaNDiS",
+          "id": 54855318,
+          "name": "iNNoVaNDiS- U.Deusto",
+          "indices": [
+            169,
+            180
+          ],
+          "id_str": "54855318"
+        }
+      ],
+      "hashtags": [
+        {
+          "text": "DonostiaInnovationLeague",
+          "indices": [
+            60,
+            85
+          ]
+        },
+        {
+          "text": "13G",
+          "indices": [
+            181,
+            185
+          ]
+        },
+        {
+          "text": "FomentoSS",
+          "indices": [
+            186,
+            196
+          ]
+        },
+        {
+          "text": "reto",
+          "indices": [
+            197,
+            202
+          ]
+        }
+      ]
+    },
+    "full_text": "El equipo de @deusto \u201cInnoflayers\u201d gana la 1\u00aa edici\u00f3n de la #DonostiaInnovationLeague organizada por @FomentoSS.  \u00a1Zorionak a las ganadoras y a todos los participantes! @iNNoVaNDiS #13G #FomentoSS #reto &gt; https://t.co/nAjaZgnSzN https://t.co/OFbU9qggiv"
+  },
+  "user": {
+    "statuses_count": 5250,
+    "id": 281572735,
+    "default_profile": false,
+    "favourites_count": 32,
+    "url": "http://ikeror.wordpress.com",
+    "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/840050075/07e3116d9ce5c7fc12cb5883cf7ef647.jpeg",
+    "verified": false,
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/476832332364513280/6ikcSVGi_normal.jpeg",
+    "translator_type": "none",
+    "location": "Donostia-San Sebasti\u00e1n",
+    "geo_enabled": true,
+    "utc_offset": -10800,
+    "notifications": null,
+    "profile_background_tile": true,
+    "friends_count": 189,
+    "is_translator": false,
+    "follow_request_sent": null,
+    "default_profile_image": false,
+    "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/840050075/07e3116d9ce5c7fc12cb5883cf7ef647.jpeg",
+    "profile_background_color": "C6E2EE",
+    "profile_link_color": "1F98C7",
+    "profile_use_background_image": true,
+    "time_zone": "Greenland",
+    "name": "Iker Ormazabal",
+    "profile_text_color": "663B12",
+    "profile_sidebar_border_color": "FFFFFF",
+    "screen_name": "ikeror",
+    "lang": "es",
+    "following": null,
+    "listed_count": 42,
+    "protected": false,
+    "profile_sidebar_fill_color": "DAECF4",
+    "followers_count": 425,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/476832332364513280/6ikcSVGi_normal.jpeg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/281572735/1487866080",
+    "contributors_enabled": false,
+    "created_at": "Wed Apr 13 15:00:51 +0000 2011",
+    "id_str": "281572735",
+    "description": "Comunicaci\u00f3n & Marketing @deusto. La estrategia, el sentido de la oportunidad y del momento exacto son las altas cumbres del marketing.  Al Ries"
+  },
+  "created_at": "Tue Nov 14 15:01:33 +0000 2017",
+  "id_str": "930450636583460864",
+  "in_reply_to_user_id": null,
+  "contributors": null
+}

@@ -1,0 +1,116 @@
+{
+  "id": 930454763984031744,
+  "in_reply_to_status_id_str": null,
+  "truncated": false,
+  "place": {
+    "id": "3ad512d283f67a11",
+    "country": "M\u00e9xico",
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            -99.259495,
+            19.386371
+          ],
+          [
+            -99.259495,
+            19.473498
+          ],
+          [
+            -99.163526,
+            19.473498
+          ],
+          [
+            -99.163526,
+            19.386371
+          ]
+        ]
+      ]
+    },
+    "url": "https://api.twitter.com/1.1/geo/id/3ad512d283f67a11.json",
+    "full_name": "Miguel Hidalgo, Distrito Federal",
+    "attributes": {},
+    "name": "Miguel Hidalgo",
+    "place_type": "city",
+    "country_code": "MX"
+  },
+  "favorite_count": 0,
+  "retweeted": false,
+  "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+  "is_quote_status": false,
+  "in_reply_to_status_id": null,
+  "coordinates": null,
+  "in_reply_to_screen_name": "Uber_MEX",
+  "retweet_count": 0,
+  "quote_count": 0,
+  "timestamp_ms": "1510672677404",
+  "favorited": false,
+  "in_reply_to_user_id_str": "835663034",
+  "text": "@Uber_MEX ya puedo pagar con tarjeta de cr\u00e9dito Santander o hasta cuando van a arreglar ese problema?",
+  "entities": {
+    "urls": [],
+    "symbols": [],
+    "user_mentions": [
+      {
+        "screen_name": "Uber_MEX",
+        "id": 835663034,
+        "name": "Uber Mexico",
+        "indices": [
+          0,
+          9
+        ],
+        "id_str": "835663034"
+      }
+    ],
+    "hashtags": []
+  },
+  "reply_count": 0,
+  "geo": null,
+  "filter_level": "low",
+  "lang": "es",
+  "user": {
+    "statuses_count": 14505,
+    "id": 1666994046,
+    "default_profile": true,
+    "favourites_count": 52255,
+    "url": null,
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "verified": false,
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/818310852608671744/67QG8TJU_normal.jpg",
+    "translator_type": "none",
+    "location": "M\u00e9xico, D.F.",
+    "geo_enabled": true,
+    "utc_offset": -21600,
+    "notifications": null,
+    "profile_background_tile": false,
+    "friends_count": 873,
+    "is_translator": false,
+    "follow_request_sent": null,
+    "default_profile_image": false,
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_color": "C0DEED",
+    "profile_link_color": "1DA1F2",
+    "profile_use_background_image": true,
+    "time_zone": "Mexico City",
+    "name": "Se\u00f1or Kont",
+    "profile_text_color": "333333",
+    "profile_sidebar_border_color": "C0DEED",
+    "screen_name": "EdgarKont",
+    "lang": "es",
+    "following": null,
+    "listed_count": 12,
+    "protected": false,
+    "profile_sidebar_fill_color": "DDEEF6",
+    "followers_count": 999,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/818310852608671744/67QG8TJU_normal.jpg",
+    "contributors_enabled": false,
+    "created_at": "Tue Aug 13 06:46:07 +0000 2013",
+    "id_str": "1666994046",
+    "description": "Cuenta con contenido \u00fanico que no ver\u00e1s en Facebook. Se regalan gatitos. Si parla italiano!"
+  },
+  "created_at": "Tue Nov 14 15:17:57 +0000 2017",
+  "id_str": "930454763984031744",
+  "in_reply_to_user_id": 835663034,
+  "contributors": null
+}

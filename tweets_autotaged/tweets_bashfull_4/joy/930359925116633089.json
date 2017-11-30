@@ -1,0 +1,116 @@
+{
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "id": 930359925116633089,
+  "in_reply_to_user_id": 271768323,
+  "coordinates": null,
+  "reply_count": 0,
+  "timestamp_ms": "1510650066056",
+  "geo": null,
+  "quote_count": 0,
+  "retweet_count": 0,
+  "is_quote_status": false,
+  "created_at": "Tue Nov 14 09:01:06 +0000 2017",
+  "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+  "favorite_count": 0,
+  "in_reply_to_screen_name": "mati_bertolotti",
+  "text": "@mati_bertolotti  t dejo 1 msj d amor p q le digas a mi pap\u00e2 q cumplira 80 a\u00f1os..en chaco..yo vivo al sur en puerto Belgrano.gracias",
+  "in_reply_to_status_id_str": null,
+  "place": {
+    "country": "Argentina",
+    "name": "Coronel de Marina Leonardo Rosales",
+    "id": "00b5965621880c8a",
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            -62.114092,
+            -38.927103
+          ],
+          [
+            -62.114092,
+            -38.818204
+          ],
+          [
+            -61.997371,
+            -38.818204
+          ],
+          [
+            -61.997371,
+            -38.927103
+          ]
+        ]
+      ]
+    },
+    "country_code": "AR",
+    "place_type": "city",
+    "url": "https://api.twitter.com/1.1/geo/id/00b5965621880c8a.json",
+    "attributes": {},
+    "full_name": "Coronel de Marina Leonardo Rosales, Argentina"
+  },
+  "contributors": null,
+  "entities": {
+    "hashtags": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "screen_name": "mati_bertolotti",
+        "name": "Mat\u00edas Bertolotti",
+        "id": 271768323,
+        "id_str": "271768323",
+        "indices": [
+          0,
+          16
+        ]
+      }
+    ],
+    "symbols": []
+  },
+  "retweeted": false,
+  "id_str": "930359925116633089",
+  "user": {
+    "time_zone": null,
+    "follow_request_sent": null,
+    "id": 924806746606047232,
+    "profile_background_image_url": "",
+    "translator_type": "none",
+    "screen_name": "gladiss_avaloss",
+    "profile_link_color": "1DA1F2",
+    "url": null,
+    "utc_offset": null,
+    "location": "Buenos Aires, Argentina",
+    "name": "GLADISS AVALOSS",
+    "profile_background_image_url_https": "",
+    "description": null,
+    "created_at": "Mon Oct 30 01:14:45 +0000 2017",
+    "protected": false,
+    "is_translator": false,
+    "listed_count": 0,
+    "statuses_count": 49,
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "default_profile": true,
+    "default_profile_image": false,
+    "verified": false,
+    "notifications": null,
+    "friends_count": 203,
+    "profile_background_color": "F5F8FA",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/924930772984893440/Nvzm-3ZY_normal.jpg",
+    "following": null,
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/924930772984893440/Nvzm-3ZY_normal.jpg",
+    "geo_enabled": true,
+    "profile_use_background_image": true,
+    "contributors_enabled": false,
+    "id_str": "924806746606047232",
+    "profile_text_color": "333333",
+    "followers_count": 6,
+    "favourites_count": 28,
+    "lang": "es",
+    "profile_background_tile": false
+  },
+  "filter_level": "low",
+  "in_reply_to_user_id_str": "271768323",
+  "favorited": false,
+  "lang": "es"
+}

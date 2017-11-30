@@ -1,0 +1,131 @@
+{
+  "truncated": false,
+  "in_reply_to_status_id": 930327581718667264,
+  "id": 930381425706139648,
+  "in_reply_to_user_id": 193083688,
+  "coordinates": null,
+  "reply_count": 0,
+  "timestamp_ms": "1510655192196",
+  "geo": null,
+  "quote_count": 0,
+  "retweet_count": 0,
+  "is_quote_status": false,
+  "created_at": "Tue Nov 14 10:26:32 +0000 2017",
+  "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+  "favorite_count": 0,
+  "text": "@Well086 @ignasdelgrannas Y a esto le llaman periodistas... D\u00f3nde est\u00e1 la dignidad de los verdaderos   y honestos, que los hay .",
+  "in_reply_to_screen_name": "Well086",
+  "in_reply_to_status_id_str": "930327581718667264",
+  "place": {
+    "country": "Espanya",
+    "name": "Begues",
+    "id": "1d84c92e585a29b0",
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            1.847022,
+            41.278146
+          ],
+          [
+            1.847022,
+            41.35612
+          ],
+          [
+            1.962039,
+            41.35612
+          ],
+          [
+            1.962039,
+            41.278146
+          ]
+        ]
+      ]
+    },
+    "country_code": "ES",
+    "place_type": "city",
+    "url": "https://api.twitter.com/1.1/geo/id/1d84c92e585a29b0.json",
+    "attributes": {},
+    "full_name": "Begues, Espanya"
+  },
+  "contributors": null,
+  "entities": {
+    "hashtags": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "screen_name": "Well086",
+        "name": "Max",
+        "id": 193083688,
+        "id_str": "193083688",
+        "indices": [
+          0,
+          8
+        ]
+      },
+      {
+        "screen_name": "ignasdelgrannas",
+        "name": "Ignasi Barnich II*II",
+        "id": 266123451,
+        "id_str": "266123451",
+        "indices": [
+          9,
+          25
+        ]
+      }
+    ],
+    "symbols": []
+  },
+  "display_text_range": [
+    26,
+    128
+  ],
+  "retweeted": false,
+  "id_str": "930381425706139648",
+  "user": {
+    "time_zone": "Athens",
+    "follow_request_sent": null,
+    "id": 636821215,
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "translator_type": "none",
+    "screen_name": "TeresaPujolRoig",
+    "profile_link_color": "1DA1F2",
+    "url": null,
+    "utc_offset": 7200,
+    "location": null,
+    "name": "Teresa Pujol Roig",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "description": "La vida \u00e9s curta i s'ha d'aprofitar. Visca Catalunya i salut per a tothom.!!!!  II*II",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/636821215/1478971932",
+    "created_at": "Mon Jul 16 08:50:14 +0000 2012",
+    "protected": false,
+    "is_translator": false,
+    "listed_count": 6,
+    "statuses_count": 15514,
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "default_profile": true,
+    "default_profile_image": false,
+    "verified": false,
+    "notifications": null,
+    "friends_count": 1661,
+    "profile_background_color": "C0DEED",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/2749492736/90dc5a517657a62125f47188042f0b84_normal.jpeg",
+    "following": null,
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/2749492736/90dc5a517657a62125f47188042f0b84_normal.jpeg",
+    "geo_enabled": true,
+    "profile_use_background_image": true,
+    "contributors_enabled": false,
+    "id_str": "636821215",
+    "profile_text_color": "333333",
+    "followers_count": 989,
+    "favourites_count": 10679,
+    "lang": "ca",
+    "profile_background_tile": false
+  },
+  "filter_level": "low",
+  "in_reply_to_user_id_str": "193083688",
+  "favorited": false,
+  "lang": "es"
+}

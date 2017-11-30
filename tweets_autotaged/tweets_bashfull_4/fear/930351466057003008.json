@@ -1,0 +1,116 @@
+{
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "id": 930351466057003008,
+  "in_reply_to_user_id": null,
+  "coordinates": null,
+  "possibly_sensitive": false,
+  "reply_count": 0,
+  "timestamp_ms": "1510648049259",
+  "geo": null,
+  "quote_count": 0,
+  "retweet_count": 0,
+  "is_quote_status": false,
+  "created_at": "Tue Nov 14 08:27:29 +0000 2017",
+  "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+  "favorite_count": 0,
+  "in_reply_to_screen_name": null,
+  "text": "Es una verg\u00fcenza que la conexi\u00f3n con Meirama no se haya ejecutado ya como recomendaban los t\u00e9cnicos!! https://t.co/D1hfNwdf4Z",
+  "in_reply_to_status_id_str": null,
+  "place": {
+    "country": "Espa\u00f1a",
+    "name": "A Coru\u00f1a",
+    "id": "d16c1b8ae1635978",
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            -8.471284,
+            43.301377
+          ],
+          [
+            -8.471284,
+            43.389945
+          ],
+          [
+            -8.374342,
+            43.389945
+          ],
+          [
+            -8.374342,
+            43.301377
+          ]
+        ]
+      ]
+    },
+    "country_code": "ES",
+    "place_type": "city",
+    "url": "https://api.twitter.com/1.1/geo/id/d16c1b8ae1635978.json",
+    "attributes": {},
+    "full_name": "A Coru\u00f1a, Espa\u00f1a"
+  },
+  "contributors": null,
+  "entities": {
+    "hashtags": [],
+    "urls": [
+      {
+        "expanded_url": "https://www.lavozdegalicia.es/noticia/coruna/coruna/2017/11/14/sequia-provoca-primeras-restricciones-agua-10-anos/0003_201711H14C1995.htm",
+        "display_url": "lavozdegalicia.es/noticia/coruna\u2026",
+        "indices": [
+          102,
+          125
+        ],
+        "url": "https://t.co/D1hfNwdf4Z"
+      }
+    ],
+    "user_mentions": [],
+    "symbols": []
+  },
+  "retweeted": false,
+  "id_str": "930351466057003008",
+  "user": {
+    "time_zone": null,
+    "follow_request_sent": null,
+    "id": 2692722764,
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "translator_type": "none",
+    "screen_name": "jmperezfa",
+    "profile_link_color": "1DA1F2",
+    "url": null,
+    "utc_offset": null,
+    "location": null,
+    "name": "jose m. perez",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "description": null,
+    "created_at": "Wed Jul 30 12:02:17 +0000 2014",
+    "protected": false,
+    "is_translator": false,
+    "listed_count": 0,
+    "statuses_count": 954,
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "default_profile": true,
+    "default_profile_image": false,
+    "verified": false,
+    "notifications": null,
+    "friends_count": 202,
+    "profile_background_color": "C0DEED",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/666556070953934849/PG6acRfD_normal.jpg",
+    "following": null,
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/666556070953934849/PG6acRfD_normal.jpg",
+    "geo_enabled": true,
+    "profile_use_background_image": true,
+    "contributors_enabled": false,
+    "id_str": "2692722764",
+    "profile_text_color": "333333",
+    "followers_count": 172,
+    "favourites_count": 1553,
+    "lang": "es",
+    "profile_background_tile": false
+  },
+  "filter_level": "low",
+  "in_reply_to_user_id_str": null,
+  "favorited": false,
+  "lang": "es"
+}

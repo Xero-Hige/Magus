@@ -1,0 +1,127 @@
+{
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "id": 930334946484506624,
+  "in_reply_to_user_id": null,
+  "coordinates": null,
+  "possibly_sensitive": false,
+  "reply_count": 0,
+  "timestamp_ms": "1510644110686",
+  "geo": null,
+  "quote_count": 0,
+  "retweet_count": 0,
+  "is_quote_status": false,
+  "created_at": "Tue Nov 14 07:21:50 +0000 2017",
+  "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+  "favorite_count": 0,
+  "in_reply_to_screen_name": null,
+  "text": "Roures perdona 27 millones al gobierno de Puig para asegurarse el monopolio de la nueva TV valenciana https://t.co/t4C5BPuRp2 v\u00eda @okdiario",
+  "in_reply_to_status_id_str": null,
+  "place": {
+    "country": "Espa\u00f1a",
+    "name": "Torrevieja",
+    "id": "b538938ca48e6ea0",
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            -0.761144,
+            37.94106
+          ],
+          [
+            -0.761144,
+            38.04835
+          ],
+          [
+            -0.647318,
+            38.04835
+          ],
+          [
+            -0.647318,
+            37.94106
+          ]
+        ]
+      ]
+    },
+    "country_code": "ES",
+    "place_type": "city",
+    "url": "https://api.twitter.com/1.1/geo/id/b538938ca48e6ea0.json",
+    "attributes": {},
+    "full_name": "Torrevieja, Espa\u00f1a"
+  },
+  "contributors": null,
+  "entities": {
+    "hashtags": [],
+    "urls": [
+      {
+        "expanded_url": "https://okdiario.com/espana/comunidad-valenciana/2017/11/14/roures-perdona-27-millones-gobierno-puig-asegurarse-contratos-nueva-tv-valenciana-1510914?utm_source=sharebuttons?utm_medium=twitter",
+        "display_url": "okdiario.com/espana/comunid\u2026",
+        "indices": [
+          102,
+          125
+        ],
+        "url": "https://t.co/t4C5BPuRp2"
+      }
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "okdiario",
+        "name": "OKDIARIO",
+        "id": 3439292716,
+        "id_str": "3439292716",
+        "indices": [
+          130,
+          139
+        ]
+      }
+    ],
+    "symbols": []
+  },
+  "retweeted": false,
+  "id_str": "930334946484506624",
+  "user": {
+    "time_zone": null,
+    "follow_request_sent": null,
+    "id": 705706203796656128,
+    "profile_background_image_url": "",
+    "translator_type": "none",
+    "screen_name": "Jorosa47",
+    "profile_link_color": "1DA1F2",
+    "url": null,
+    "utc_offset": null,
+    "location": null,
+    "name": "Jos_ma",
+    "profile_background_image_url_https": "",
+    "description": "Un Espa\u00f1ol, orgulloso de serlo, al que no le gusta el socialismo de ning\u00fan tipo",
+    "created_at": "Fri Mar 04 10:47:25 +0000 2016",
+    "protected": false,
+    "is_translator": false,
+    "listed_count": 2,
+    "statuses_count": 16,
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "default_profile": true,
+    "default_profile_image": false,
+    "verified": false,
+    "notifications": null,
+    "friends_count": 229,
+    "profile_background_color": "F5F8FA",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/917512091178864640/4_kNPEGM_normal.jpg",
+    "following": null,
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/917512091178864640/4_kNPEGM_normal.jpg",
+    "geo_enabled": true,
+    "profile_use_background_image": true,
+    "contributors_enabled": false,
+    "id_str": "705706203796656128",
+    "profile_text_color": "333333",
+    "followers_count": 246,
+    "favourites_count": 1014,
+    "lang": "es",
+    "profile_background_tile": false
+  },
+  "filter_level": "low",
+  "in_reply_to_user_id_str": null,
+  "favorited": false,
+  "lang": "es"
+}

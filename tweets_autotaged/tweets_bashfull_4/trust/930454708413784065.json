@@ -1,0 +1,230 @@
+{
+  "id": 930454708413784065,
+  "lang": "es",
+  "in_reply_to_status_id_str": null,
+  "truncated": true,
+  "place": {
+    "id": "d0f5be1262dee9aa",
+    "country": "Uruguay",
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            -58.491052,
+            -34.980163
+          ],
+          [
+            -58.491052,
+            -30.085693
+          ],
+          [
+            -53.071505,
+            -30.085693
+          ],
+          [
+            -53.071505,
+            -34.980163
+          ]
+        ]
+      ]
+    },
+    "url": "https://api.twitter.com/1.1/geo/id/d0f5be1262dee9aa.json",
+    "full_name": "Uruguay",
+    "attributes": {},
+    "name": "Uruguay",
+    "place_type": "country",
+    "country_code": "UY"
+  },
+  "favorite_count": 0,
+  "retweeted": false,
+  "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+  "is_quote_status": false,
+  "possibly_sensitive": false,
+  "geo": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_status_id": null,
+  "retweet_count": 0,
+  "quote_count": 0,
+  "timestamp_ms": "1510672664155",
+  "favorited": false,
+  "coordinates": null,
+  "filter_level": "low",
+  "entities": {
+    "urls": [
+      {
+        "indices": [
+          115,
+          138
+        ],
+        "display_url": "twitter.com/i/web/status/9\u2026",
+        "url": "https://t.co/mGVKRyAc3L",
+        "expanded_url": "https://twitter.com/i/web/status/930454708413784065"
+      }
+    ],
+    "symbols": [],
+    "user_mentions": [],
+    "hashtags": []
+  },
+  "reply_count": 0,
+  "in_reply_to_screen_name": null,
+  "display_text_range": [
+    0,
+    140
+  ],
+  "text": "TERCERA | NACIONAL, l\u00edder del Clausura y la Anual, juega hoy ante Wanderers a las 16:00 hs en el Complejo Devoto.\u2026 https://t.co/mGVKRyAc3L",
+  "extended_tweet": {
+    "display_text_range": [
+      0,
+      156
+    ],
+    "extended_entities": {
+      "media": [
+        {
+          "id": 930454684418150400,
+          "display_url": "pic.twitter.com/XDnPLyDZe6",
+          "id_str": "930454684418150400",
+          "indices": [
+            157,
+            180
+          ],
+          "expanded_url": "https://twitter.com/PasionTricolor1/status/930454708413784065/photo/1",
+          "type": "photo",
+          "url": "https://t.co/XDnPLyDZe6",
+          "media_url_https": "https://pbs.twimg.com/media/DOmjmxBXkAAdhVX.jpg",
+          "media_url": "http://pbs.twimg.com/media/DOmjmxBXkAAdhVX.jpg",
+          "sizes": {
+            "small": {
+              "w": 680,
+              "h": 453,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 960,
+              "h": 640,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 960,
+              "h": 640,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "entities": {
+      "media": [
+        {
+          "id": 930454684418150400,
+          "display_url": "pic.twitter.com/XDnPLyDZe6",
+          "id_str": "930454684418150400",
+          "indices": [
+            157,
+            180
+          ],
+          "expanded_url": "https://twitter.com/PasionTricolor1/status/930454708413784065/photo/1",
+          "type": "photo",
+          "url": "https://t.co/XDnPLyDZe6",
+          "media_url_https": "https://pbs.twimg.com/media/DOmjmxBXkAAdhVX.jpg",
+          "media_url": "http://pbs.twimg.com/media/DOmjmxBXkAAdhVX.jpg",
+          "sizes": {
+            "small": {
+              "w": 680,
+              "h": 453,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 960,
+              "h": 640,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 960,
+              "h": 640,
+              "resize": "fit"
+            }
+          }
+        }
+      ],
+      "urls": [
+        {
+          "indices": [
+            133,
+            156
+          ],
+          "display_url": "pasiontricolor.com.uy",
+          "url": "https://t.co/ZAMm8MaeP4",
+          "expanded_url": "http://www.pasiontricolor.com.uy"
+        }
+      ],
+      "symbols": [],
+      "user_mentions": [],
+      "hashtags": [
+        {
+          "text": "CanteraInagotable",
+          "indices": [
+            114,
+            132
+          ]
+        }
+      ]
+    },
+    "full_text": "TERCERA | NACIONAL, l\u00edder del Clausura y la Anual, juega hoy ante Wanderers a las 16:00 hs en el Complejo Devoto. #CanteraInagotable https://t.co/ZAMm8MaeP4 https://t.co/XDnPLyDZe6"
+  },
+  "user": {
+    "statuses_count": 82389,
+    "id": 262613536,
+    "default_profile": false,
+    "favourites_count": 15780,
+    "url": "http://www.pasiontricolor.com.uy",
+    "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000085000122/3c5c9eb7574f77fdbf0943da1c063f58.jpeg",
+    "verified": false,
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/815574338703335424/Bb12Xtq3_normal.jpg",
+    "translator_type": "none",
+    "location": "Montevideo Uruguay",
+    "geo_enabled": true,
+    "utc_offset": -10800,
+    "notifications": null,
+    "profile_background_tile": true,
+    "friends_count": 454,
+    "is_translator": false,
+    "follow_request_sent": null,
+    "default_profile_image": false,
+    "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000085000122/3c5c9eb7574f77fdbf0943da1c063f58.jpeg",
+    "profile_background_color": "C0DEED",
+    "profile_link_color": "C20730",
+    "profile_use_background_image": true,
+    "time_zone": "Santiago",
+    "name": "PASI\u00d3N TRICOLOR",
+    "profile_text_color": "333333",
+    "profile_sidebar_border_color": "FFFFFF",
+    "screen_name": "PasionTricolor1",
+    "lang": "es",
+    "following": null,
+    "listed_count": 133,
+    "protected": false,
+    "profile_sidebar_fill_color": "DDEEF6",
+    "followers_count": 99007,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/815574338703335424/Bb12Xtq3_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/262613536/1483282997",
+    "contributors_enabled": false,
+    "created_at": "Tue Mar 08 11:47:01 +0000 2011",
+    "id_str": "262613536",
+    "description": "TWITTER OFICIAL de Pasi\u00f3n Tricolor 1010 Am \nAL AIRE cada vez que juega Nacional, y de lunes a viernes de 18:30 a 20:00 hs con el programa."
+  },
+  "created_at": "Tue Nov 14 15:17:44 +0000 2017",
+  "id_str": "930454708413784065",
+  "in_reply_to_user_id": null,
+  "contributors": null
+}

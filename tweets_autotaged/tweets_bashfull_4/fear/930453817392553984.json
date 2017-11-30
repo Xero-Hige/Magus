@@ -1,0 +1,155 @@
+{
+  "id": 930453817392553984,
+  "lang": "es",
+  "in_reply_to_status_id_str": "930452968914202624",
+  "truncated": true,
+  "place": {
+    "id": "dbf989427f114112",
+    "country": "Espa\u00f1a",
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            -3.879085,
+            40.324045
+          ],
+          [
+            -3.879085,
+            40.402915
+          ],
+          [
+            -3.788113,
+            40.402915
+          ],
+          [
+            -3.788113,
+            40.324045
+          ]
+        ]
+      ]
+    },
+    "url": "https://api.twitter.com/1.1/geo/id/dbf989427f114112.json",
+    "full_name": "Alcorc\u00f3n, Espa\u00f1a",
+    "attributes": {},
+    "name": "Alcorc\u00f3n",
+    "place_type": "city",
+    "country_code": "ES"
+  },
+  "favorite_count": 0,
+  "retweeted": false,
+  "source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+  "is_quote_status": false,
+  "in_reply_to_status_id": 930452968914202624,
+  "in_reply_to_user_id_str": "10123902",
+  "in_reply_to_screen_name": "danocho",
+  "retweet_count": 0,
+  "quote_count": 0,
+  "timestamp_ms": "1510672451719",
+  "favorited": false,
+  "coordinates": null,
+  "filter_level": "low",
+  "entities": {
+    "urls": [
+      {
+        "indices": [
+          117,
+          140
+        ],
+        "display_url": "twitter.com/i/web/status/9\u2026",
+        "url": "https://t.co/ZffOHOd1oo",
+        "expanded_url": "https://twitter.com/i/web/status/930453817392553984"
+      }
+    ],
+    "symbols": [],
+    "user_mentions": [
+      {
+        "screen_name": "danocho",
+        "id": 10123902,
+        "name": "Dani",
+        "indices": [
+          0,
+          8
+        ],
+        "id_str": "10123902"
+      }
+    ],
+    "hashtags": []
+  },
+  "reply_count": 0,
+  "geo": null,
+  "display_text_range": [
+    9,
+    140
+  ],
+  "text": "@danocho Las condiciones es 1.5%, si compras una barra de pan de 70cts seria perder 2 cts\u2026 no creo que nadie se arr\u2026 https://t.co/ZffOHOd1oo",
+  "extended_tweet": {
+    "display_text_range": [
+      9,
+      251
+    ],
+    "entities": {
+      "urls": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "screen_name": "danocho",
+          "id": 10123902,
+          "name": "Dani",
+          "indices": [
+            0,
+            8
+          ],
+          "id_str": "10123902"
+        }
+      ],
+      "hashtags": []
+    },
+    "full_text": "@danocho Las condiciones es 1.5%, si compras una barra de pan de 70cts seria perder 2 cts\u2026 no creo que nadie se arruine por eso, sin obligaci\u00f3n de ningun numero de operaciones\u2026 el problema de los bancos es que o haces X operaciones o te cobran un fijo"
+  },
+  "user": {
+    "statuses_count": 32339,
+    "id": 15747796,
+    "default_profile": false,
+    "favourites_count": 64,
+    "url": "http://www.treki23.com",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+    "verified": false,
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/451751629013123072/a_RdiZ1E_normal.jpeg",
+    "translator_type": "none",
+    "location": "Alcorc\u00f3n ",
+    "geo_enabled": true,
+    "utc_offset": 3600,
+    "notifications": null,
+    "profile_background_tile": false,
+    "friends_count": 1396,
+    "is_translator": false,
+    "follow_request_sent": null,
+    "default_profile_image": false,
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+    "profile_background_color": "0099B9",
+    "profile_link_color": "0099B9",
+    "profile_use_background_image": true,
+    "time_zone": "Madrid",
+    "name": "Ivan Alexis",
+    "profile_text_color": "3C3940",
+    "profile_sidebar_border_color": "5ED4DC",
+    "screen_name": "treki23",
+    "lang": "es",
+    "following": null,
+    "listed_count": 208,
+    "protected": false,
+    "profile_sidebar_fill_color": "95E8EC",
+    "followers_count": 2132,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/451751629013123072/a_RdiZ1E_normal.jpeg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/15747796/1426006404",
+    "contributors_enabled": false,
+    "created_at": "Wed Aug 06 08:52:43 +0000 2008",
+    "id_str": "15747796",
+    "description": "Amante de los animales,la tecnologia y StarTrek. Tras montar las Jpod13 y el GUMCAM, a coordinar http://www.twos.es. Autor de \u201cSaca partido a tu Apple Watch\u201d"
+  },
+  "created_at": "Tue Nov 14 15:14:11 +0000 2017",
+  "id_str": "930453817392553984",
+  "in_reply_to_user_id": 10123902,
+  "contributors": null
+}

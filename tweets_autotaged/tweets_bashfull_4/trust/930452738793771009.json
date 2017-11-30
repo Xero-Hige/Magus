@@ -1,0 +1,258 @@
+{
+  "id": 930452738793771009,
+  "lang": "es",
+  "in_reply_to_status_id_str": null,
+  "truncated": true,
+  "place": {
+    "id": "695f560eb8922977",
+    "country": "Dominican Republic",
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            -72.007302,
+            17.470156
+          ],
+          [
+            -72.007302,
+            19.932314
+          ],
+          [
+            -68.322785,
+            19.932314
+          ],
+          [
+            -68.322785,
+            17.470156
+          ]
+        ]
+      ]
+    },
+    "url": "https://api.twitter.com/1.1/geo/id/695f560eb8922977.json",
+    "full_name": "Dominican Republic",
+    "attributes": {},
+    "name": "Dominican Republic",
+    "place_type": "country",
+    "country_code": "DO"
+  },
+  "favorite_count": 0,
+  "retweeted": false,
+  "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+  "is_quote_status": false,
+  "possibly_sensitive": false,
+  "geo": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_status_id": null,
+  "retweet_count": 0,
+  "quote_count": 0,
+  "timestamp_ms": "1510672194561",
+  "favorited": false,
+  "coordinates": null,
+  "filter_level": "low",
+  "entities": {
+    "urls": [
+      {
+        "indices": [
+          117,
+          140
+        ],
+        "display_url": "twitter.com/i/web/status/9\u2026",
+        "url": "https://t.co/TSKLSnX6iw",
+        "expanded_url": "https://twitter.com/i/web/status/930452738793771009"
+      }
+    ],
+    "symbols": [],
+    "user_mentions": [],
+    "hashtags": []
+  },
+  "reply_count": 0,
+  "in_reply_to_screen_name": null,
+  "display_text_range": [
+    0,
+    140
+  ],
+  "text": "Presidente del Consejo del Poder Judicial inicia juicio disciplinario contra las juezas del Segundo Tribunal Colegi\u2026 https://t.co/TSKLSnX6iw",
+  "extended_tweet": {
+    "display_text_range": [
+      0,
+      171
+    ],
+    "extended_entities": {
+      "media": [
+        {
+          "id": 930452637148958723,
+          "display_url": "pic.twitter.com/zxY2vgWp9m",
+          "id_str": "930452637148958723",
+          "indices": [
+            172,
+            195
+          ],
+          "expanded_url": "https://twitter.com/SIN24Horas/status/930452738793771009/video/1",
+          "type": "video",
+          "url": "https://t.co/zxY2vgWp9m",
+          "video_info": {
+            "duration_millis": 21267,
+            "aspect_ratio": [
+              427,
+              240
+            ],
+            "variants": [
+              {
+                "url": "https://video.twimg.com/ext_tw_video/930452637148958723/pu/vid/320x180/lOJpKBWeaBN5JLv6.mp4",
+                "bitrate": 320000,
+                "content_type": "video/mp4"
+              },
+              {
+                "url": "https://video.twimg.com/ext_tw_video/930452637148958723/pu/pl/U2YWKgHAMY98OzNZ.m3u8",
+                "content_type": "application/x-mpegURL"
+              },
+              {
+                "url": "https://video.twimg.com/ext_tw_video/930452637148958723/pu/vid/640x360/gpjFNGxaxBmjvMoS.mp4",
+                "bitrate": 832000,
+                "content_type": "video/mp4"
+              }
+            ]
+          },
+          "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/930452637148958723/pu/img/Jb45H4OvooVnh0Lf.jpg",
+          "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/930452637148958723/pu/img/Jb45H4OvooVnh0Lf.jpg",
+          "sizes": {
+            "small": {
+              "w": 340,
+              "h": 191,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 854,
+              "h": 480,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 600,
+              "h": 337,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "entities": {
+      "media": [
+        {
+          "id": 930452637148958723,
+          "display_url": "pic.twitter.com/zxY2vgWp9m",
+          "id_str": "930452637148958723",
+          "indices": [
+            172,
+            195
+          ],
+          "expanded_url": "https://twitter.com/SIN24Horas/status/930452738793771009/video/1",
+          "type": "video",
+          "url": "https://t.co/zxY2vgWp9m",
+          "video_info": {
+            "duration_millis": 21267,
+            "aspect_ratio": [
+              427,
+              240
+            ],
+            "variants": [
+              {
+                "url": "https://video.twimg.com/ext_tw_video/930452637148958723/pu/vid/320x180/lOJpKBWeaBN5JLv6.mp4",
+                "bitrate": 320000,
+                "content_type": "video/mp4"
+              },
+              {
+                "url": "https://video.twimg.com/ext_tw_video/930452637148958723/pu/pl/U2YWKgHAMY98OzNZ.m3u8",
+                "content_type": "application/x-mpegURL"
+              },
+              {
+                "url": "https://video.twimg.com/ext_tw_video/930452637148958723/pu/vid/640x360/gpjFNGxaxBmjvMoS.mp4",
+                "bitrate": 832000,
+                "content_type": "video/mp4"
+              }
+            ]
+          },
+          "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/930452637148958723/pu/img/Jb45H4OvooVnh0Lf.jpg",
+          "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/930452637148958723/pu/img/Jb45H4OvooVnh0Lf.jpg",
+          "sizes": {
+            "small": {
+              "w": 340,
+              "h": 191,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 854,
+              "h": 480,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 600,
+              "h": 337,
+              "resize": "fit"
+            }
+          }
+        }
+      ],
+      "urls": [],
+      "symbols": [],
+      "user_mentions": [],
+      "hashtags": []
+    },
+    "full_text": "Presidente del Consejo del Poder Judicial inicia juicio disciplinario contra las juezas del Segundo Tribunal Colegiado de San Francisco de Macor\u00eds. M\u00e1s detalles a las 2pm. https://t.co/zxY2vgWp9m"
+  },
+  "user": {
+    "statuses_count": 299435,
+    "id": 55660696,
+    "default_profile": false,
+    "favourites_count": 1235,
+    "url": "http://www.noticiassin.com",
+    "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/567833458399903745/6eJBp2Ad.png",
+    "verified": true,
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/926086674651652096/49WAVTKK_normal.jpg",
+    "translator_type": "none",
+    "location": "Rep\u00fablica Dominicana",
+    "geo_enabled": true,
+    "utc_offset": -10800,
+    "notifications": null,
+    "profile_background_tile": false,
+    "friends_count": 621,
+    "is_translator": false,
+    "follow_request_sent": null,
+    "default_profile_image": false,
+    "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/567833458399903745/6eJBp2Ad.png",
+    "profile_background_color": "042D85",
+    "profile_link_color": "C90E0E",
+    "profile_use_background_image": true,
+    "time_zone": "Santiago",
+    "name": "Noticias SIN",
+    "profile_text_color": "0A066E",
+    "profile_sidebar_border_color": "FFFFFF",
+    "screen_name": "SIN24Horas",
+    "lang": "es",
+    "following": null,
+    "listed_count": 3067,
+    "protected": false,
+    "profile_sidebar_fill_color": "B8F1FF",
+    "followers_count": 1082215,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/926086674651652096/49WAVTKK_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/55660696/1488811208",
+    "contributors_enabled": false,
+    "created_at": "Fri Jul 10 20:52:16 +0000 2009",
+    "id_str": "55660696",
+    "description": "Periodismo Independiente \nLun-Vie 2PM, 7PM y 10PM.                             S\u00e1b-Dom 7PM."
+  },
+  "created_at": "Tue Nov 14 15:09:54 +0000 2017",
+  "id_str": "930452738793771009",
+  "in_reply_to_user_id": null,
+  "contributors": null
+}

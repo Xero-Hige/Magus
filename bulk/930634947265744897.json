@@ -1,0 +1,176 @@
+{
+  "in_reply_to_screen_name": null,
+  "geo": null,
+  "filter_level": "low",
+  "in_reply_to_status_id": null,
+  "lang": "es",
+  "favorite_count": 0,
+  "display_text_range": [0, 98],
+  "favorited": false,
+  "id": 930634947265744897,
+  "place": {
+    "name": "C\u00f3rdoba",
+    "full_name": "C\u00f3rdoba, Argentina",
+    "place_type": "admin",
+    "country": "Argentina",
+    "id": "0b79f7e718cb54b9",
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [[-65.778264, -34.998735], [-65.778264, -29.503325], [-61.777678, -29.503325], [-61.777678, -34.998735]]
+      ]
+    },
+    "attributes": {},
+    "url": "https://api.twitter.com/1.1/geo/id/0b79f7e718cb54b9.json",
+    "country_code": "AR"
+  },
+  "coordinates": null,
+  "entities": {
+    "media": [
+      {
+        "id_str": "930634943360847878",
+        "display_url": "pic.twitter.com/K3SlykFETf",
+        "url": "https://t.co/K3SlykFETf",
+        "expanded_url": "https://twitter.com/cata_gruppi/status/930634947265744897/photo/1",
+        "media_url_https": "https://pbs.twimg.com/media/DOpHjN6W0AY2M7u.jpg",
+        "id": 930634943360847878,
+        "type": "photo",
+        "indices": [99, 122],
+        "sizes": {
+          "medium": {
+            "h": 462,
+            "resize": "fit",
+            "w": 540
+          },
+          "thumb": {
+            "h": 150,
+            "resize": "crop",
+            "w": 150
+          },
+          "large": {
+            "h": 462,
+            "resize": "fit",
+            "w": 540
+          },
+          "small": {
+            "h": 462,
+            "resize": "fit",
+            "w": 540
+          }
+        },
+        "media_url": "http://pbs.twimg.com/media/DOpHjN6W0AY2M7u.jpg"
+      }
+    ],
+    "hashtags": [
+      {
+        "text": "Felices24Paulo",
+        "indices": [83, 98]
+      }
+    ],
+    "urls": [],
+    "symbols": [],
+    "user_mentions": [
+      {
+        "id": 451649471,
+        "id_str": "451649471",
+        "name": "Paulo Dybala",
+        "indices": [69, 82],
+        "screen_name": "PauDybala_JR"
+      }
+    ]
+  },
+  "extended_entities": {
+    "media": [
+      {
+        "id_str": "930634943360847878",
+        "display_url": "pic.twitter.com/K3SlykFETf",
+        "url": "https://t.co/K3SlykFETf",
+        "expanded_url": "https://twitter.com/cata_gruppi/status/930634947265744897/photo/1",
+        "media_url_https": "https://pbs.twimg.com/media/DOpHjN6W0AY2M7u.jpg",
+        "id": 930634943360847878,
+        "type": "photo",
+        "indices": [99, 122],
+        "sizes": {
+          "medium": {
+            "h": 462,
+            "resize": "fit",
+            "w": 540
+          },
+          "thumb": {
+            "h": 150,
+            "resize": "crop",
+            "w": 150
+          },
+          "large": {
+            "h": 462,
+            "resize": "fit",
+            "w": 540
+          },
+          "small": {
+            "h": 462,
+            "resize": "fit",
+            "w": 540
+          }
+        },
+        "media_url": "http://pbs.twimg.com/media/DOpHjN6W0AY2M7u.jpg"
+      }
+    ]
+  },
+  "possibly_sensitive": false,
+  "user": {
+    "followers_count": 746,
+    "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/526429485344645121/sv8O8fJz.jpeg",
+    "profile_background_color": "65E0CC",
+    "translator_type": "none",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/867186043128352769/nl2yZZvS_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/318063171/1492968558",
+    "default_profile": false,
+    "utc_offset": -7200,
+    "lang": "es",
+    "url": null,
+    "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/526429485344645121/sv8O8fJz.jpeg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/867186043128352769/nl2yZZvS_normal.jpg",
+    "time_zone": "Brasilia",
+    "profile_sidebar_border_color": "FFFFFF",
+    "profile_use_background_image": true,
+    "id": 318063171,
+    "profile_link_color": "89C9FA",
+    "profile_sidebar_fill_color": "F6F6F6",
+    "profile_background_tile": true,
+    "geo_enabled": true,
+    "id_str": "318063171",
+    "verified": false,
+    "name": "Cata",
+    "is_translator": false,
+    "notifications": null,
+    "following": null,
+    "friends_count": 538,
+    "contributors_enabled": false,
+    "screen_name": "cata_gruppi",
+    "created_at": "Wed Jun 15 22:22:42 +0000 2011",
+    "profile_text_color": "333333",
+    "favourites_count": 5584,
+    "follow_request_sent": null,
+    "description": "Volvere siempre a verte, por amor y porque as\u00ed lo siento || SAN CARLOS Y PAULO DYBALA || Ni la muerte nos va a separar\ud83d\udc8e\ud83d\udc99|| Bianconeri\u26aa\u26ab",
+    "default_profile_image": false,
+    "location": null,
+    "listed_count": 2,
+    "protected": false,
+    "statuses_count": 13720
+  },
+  "id_str": "930634947265744897",
+  "retweet_count": 0,
+  "retweeted": false,
+  "quote_count": 0,
+  "truncated": false,
+  "in_reply_to_status_id_str": null,
+  "reply_count": 0,
+  "created_at": "Wed Nov 15 03:13:56 +0000 2017",
+  "is_quote_status": false,
+  "in_reply_to_user_id": null,
+  "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+  "text": "Feliz cumplea\u00f1os, gracias por hacerme tan feliz, te amo con la vida\ud83d\udc99 @PauDybala_JR #Felices24Paulo https://t.co/K3SlykFETf",
+  "timestamp_ms": "1510715636446",
+  "in_reply_to_user_id_str": null,
+  "contributors": null
+}

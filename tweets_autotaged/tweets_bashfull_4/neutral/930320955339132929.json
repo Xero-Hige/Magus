@@ -1,0 +1,189 @@
+{
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "id": 930320955339132929,
+  "in_reply_to_user_id": null,
+  "coordinates": null,
+  "possibly_sensitive": false,
+  "reply_count": 0,
+  "timestamp_ms": "1510640774937",
+  "geo": null,
+  "quote_count": 0,
+  "retweet_count": 0,
+  "is_quote_status": false,
+  "created_at": "Tue Nov 14 06:26:14 +0000 2017",
+  "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+  "favorite_count": 0,
+  "text": "\"Lo Que Me Gusta Del Mar Es Que, A Cada Instante &amp; De Un Plumazo, Barre Toda Huella Del Pasado.\" https://t.co/heYbFmzk6F",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id_str": null,
+  "place": {
+    "country": "Colombia",
+    "name": "La Calera",
+    "id": "01fde51e65075aeb",
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            -74.045197,
+            4.574576
+          ],
+          [
+            -74.045197,
+            4.787987
+          ],
+          [
+            -73.805857,
+            4.787987
+          ],
+          [
+            -73.805857,
+            4.574576
+          ]
+        ]
+      ]
+    },
+    "country_code": "CO",
+    "place_type": "city",
+    "url": "https://api.twitter.com/1.1/geo/id/01fde51e65075aeb.json",
+    "attributes": {},
+    "full_name": "La Calera, Colombia"
+  },
+  "contributors": null,
+  "entities": {
+    "media": [
+      {
+        "type": "photo",
+        "url": "https://t.co/heYbFmzk6F",
+        "display_url": "pic.twitter.com/heYbFmzk6F",
+        "media_url_https": "https://pbs.twimg.com/media/DOkpz4xXcAAIo1P.jpg",
+        "id": 930320769418227712,
+        "sizes": {
+          "large": {
+            "w": 2048,
+            "resize": "fit",
+            "h": 2048
+          },
+          "thumb": {
+            "w": 150,
+            "resize": "crop",
+            "h": 150
+          },
+          "small": {
+            "w": 680,
+            "resize": "fit",
+            "h": 680
+          },
+          "medium": {
+            "w": 1200,
+            "resize": "fit",
+            "h": 1200
+          }
+        },
+        "expanded_url": "https://twitter.com/NataliaRozo2509/status/930320955339132929/photo/1",
+        "id_str": "930320769418227712",
+        "indices": [
+          101,
+          124
+        ],
+        "media_url": "http://pbs.twimg.com/media/DOkpz4xXcAAIo1P.jpg"
+      }
+    ],
+    "hashtags": [],
+    "urls": [],
+    "user_mentions": [],
+    "symbols": []
+  },
+  "display_text_range": [
+    0,
+    100
+  ],
+  "retweeted": false,
+  "id_str": "930320955339132929",
+  "user": {
+    "time_zone": "Pacific Time (US & Canada)",
+    "follow_request_sent": null,
+    "id": 719008848,
+    "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000092453214/2da88c682a6393df7eb5f8fac5b11e8a.jpeg",
+    "translator_type": "none",
+    "screen_name": "NataliaRozo2509",
+    "profile_link_color": "FF00E1",
+    "url": null,
+    "utc_offset": -28800,
+    "location": "La Calera, Colombia",
+    "name": "N\u00e4t\u00e4li\u00e4 R\u00f6z\u00f4",
+    "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000092453214/2da88c682a6393df7eb5f8fac5b11e8a.jpeg",
+    "description": "\u27641'Lo Que Empieza Jugando, Termina Gustando.'2\u2764\n\nFacebook : N\u00e4t\u00e4li\u00e4 R\u00f6z\u00f4\nSnapchat: natalia2509\nInstagram: natalia.rozo.2509",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/719008848/1500439169",
+    "created_at": "Thu Jul 26 23:43:07 +0000 2012",
+    "protected": false,
+    "is_translator": false,
+    "listed_count": 0,
+    "statuses_count": 113,
+    "profile_sidebar_border_color": "FFFFFF",
+    "profile_sidebar_fill_color": "7AC3EE",
+    "default_profile": false,
+    "default_profile_image": false,
+    "verified": false,
+    "notifications": null,
+    "friends_count": 65,
+    "profile_background_color": "642D8B",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/859081661392330753/bFeEGFmS_normal.jpg",
+    "following": null,
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/859081661392330753/bFeEGFmS_normal.jpg",
+    "geo_enabled": true,
+    "profile_use_background_image": true,
+    "contributors_enabled": false,
+    "id_str": "719008848",
+    "profile_text_color": "3D1957",
+    "followers_count": 62,
+    "favourites_count": 472,
+    "lang": "es",
+    "profile_background_tile": true
+  },
+  "extended_entities": {
+    "media": [
+      {
+        "type": "photo",
+        "url": "https://t.co/heYbFmzk6F",
+        "display_url": "pic.twitter.com/heYbFmzk6F",
+        "media_url_https": "https://pbs.twimg.com/media/DOkpz4xXcAAIo1P.jpg",
+        "id": 930320769418227712,
+        "sizes": {
+          "large": {
+            "w": 2048,
+            "resize": "fit",
+            "h": 2048
+          },
+          "thumb": {
+            "w": 150,
+            "resize": "crop",
+            "h": 150
+          },
+          "small": {
+            "w": 680,
+            "resize": "fit",
+            "h": 680
+          },
+          "medium": {
+            "w": 1200,
+            "resize": "fit",
+            "h": 1200
+          }
+        },
+        "expanded_url": "https://twitter.com/NataliaRozo2509/status/930320955339132929/photo/1",
+        "id_str": "930320769418227712",
+        "indices": [
+          101,
+          124
+        ],
+        "media_url": "http://pbs.twimg.com/media/DOkpz4xXcAAIo1P.jpg"
+      }
+    ]
+  },
+  "filter_level": "low",
+  "in_reply_to_user_id_str": null,
+  "favorited": false,
+  "lang": "es"
+}

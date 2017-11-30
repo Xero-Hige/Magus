@@ -1,0 +1,151 @@
+{
+  "truncated": true,
+  "in_reply_to_status_id": null,
+  "id": 930374104804483073,
+  "in_reply_to_user_id": 17676713,
+  "coordinates": null,
+  "reply_count": 0,
+  "extended_tweet": {
+    "full_text": "@publico_es Todo periodismo que no siga las lineas editoriales del gobierno ( lease PP) o del independentismo, es proscrito y sus opiniones e incluso informaciones contrastadas son puestas en solfa y vilipendiadas por los medios \"oficiales\"",
+    "display_text_range": [
+      0,
+      240
+    ],
+    "entities": {
+      "hashtags": [],
+      "urls": [],
+      "user_mentions": [
+        {
+          "screen_name": "publico_es",
+          "name": "P\u00fablico",
+          "id": 17676713,
+          "id_str": "17676713",
+          "indices": [
+            0,
+            11
+          ]
+        }
+      ],
+      "symbols": []
+    }
+  },
+  "timestamp_ms": "1510653446757",
+  "geo": null,
+  "quote_count": 0,
+  "retweet_count": 0,
+  "is_quote_status": false,
+  "created_at": "Tue Nov 14 09:57:26 +0000 2017",
+  "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+  "favorite_count": 0,
+  "in_reply_to_screen_name": "publico_es",
+  "text": "@publico_es Todo periodismo que no siga las lineas editoriales del gobierno ( lease PP) o del independentismo, es p\u2026 https://t.co/UsJAKkpHeW",
+  "in_reply_to_status_id_str": null,
+  "place": {
+    "country": "Espa\u00f1a",
+    "name": "C\u00e1ceres",
+    "id": "31f494a9d78689b0",
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            -6.802646,
+            39.155307
+          ],
+          [
+            -6.802646,
+            39.647136
+          ],
+          [
+            -6.078928,
+            39.647136
+          ],
+          [
+            -6.078928,
+            39.155307
+          ]
+        ]
+      ]
+    },
+    "country_code": "ES",
+    "place_type": "city",
+    "url": "https://api.twitter.com/1.1/geo/id/31f494a9d78689b0.json",
+    "attributes": {},
+    "full_name": "C\u00e1ceres, Espa\u00f1a"
+  },
+  "contributors": null,
+  "entities": {
+    "hashtags": [],
+    "urls": [
+      {
+        "expanded_url": "https://twitter.com/i/web/status/930374104804483073",
+        "display_url": "twitter.com/i/web/status/9\u2026",
+        "indices": [
+          117,
+          140
+        ],
+        "url": "https://t.co/UsJAKkpHeW"
+      }
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "publico_es",
+        "name": "P\u00fablico",
+        "id": 17676713,
+        "id_str": "17676713",
+        "indices": [
+          0,
+          11
+        ]
+      }
+    ],
+    "symbols": []
+  },
+  "retweeted": false,
+  "id_str": "930374104804483073",
+  "user": {
+    "time_zone": null,
+    "follow_request_sent": null,
+    "id": 2418981490,
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "translator_type": "none",
+    "screen_name": "LuengoSolis",
+    "profile_link_color": "1DA1F2",
+    "url": null,
+    "utc_offset": null,
+    "location": null,
+    "name": "Carlos Luengo Solis",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "description": null,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/2418981490/1448296809",
+    "created_at": "Tue Mar 18 02:15:49 +0000 2014",
+    "protected": false,
+    "is_translator": false,
+    "listed_count": 0,
+    "statuses_count": 212,
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "default_profile": true,
+    "default_profile_image": false,
+    "verified": false,
+    "notifications": null,
+    "friends_count": 47,
+    "profile_background_color": "C0DEED",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/661979797581651968/vFAHPeTw_normal.jpg",
+    "following": null,
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/661979797581651968/vFAHPeTw_normal.jpg",
+    "geo_enabled": true,
+    "profile_use_background_image": true,
+    "contributors_enabled": false,
+    "id_str": "2418981490",
+    "profile_text_color": "333333",
+    "followers_count": 10,
+    "favourites_count": 15,
+    "lang": "es",
+    "profile_background_tile": false
+  },
+  "filter_level": "low",
+  "in_reply_to_user_id_str": "17676713",
+  "favorited": false,
+  "lang": "es"
+}

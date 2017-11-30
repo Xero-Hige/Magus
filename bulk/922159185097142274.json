@@ -1,0 +1,129 @@
+{
+  "in_reply_to_user_id": null,
+  "contributors": null,
+  "in_reply_to_screen_name": null,
+  "retweeted": false,
+  "retweet_count": 0,
+  "timestamp_ms": "1508694857273",
+  "in_reply_to_status_id": null,
+  "id_str": "922159185097142274",
+  "created_at": "Sun Oct 22 17:54:17 +0000 2017",
+  "id": 922159185097142274,
+  "coordinates": {
+    "type": "Point",
+    "coordinates": [
+      -72.2167,
+      -39.2667
+    ]
+  },
+  "favorite_count": 0,
+  "entities": {
+    "user_mentions": [],
+    "symbols": [],
+    "hashtags": [],
+    "urls": [
+      {
+        "expanded_url": "https://www.instagram.com/p/BajzTWGFbYl/",
+        "indices": [
+          96,
+          119
+        ],
+        "url": "https://t.co/CzMzfqWQVp",
+        "display_url": "instagram.com/p/BajzTWGFbYl/"
+      }
+    ]
+  },
+  "reply_count": 0,
+  "source": "<a href=\"http://instagram.com\" rel=\"nofollow\">Instagram</a>",
+  "place": {
+    "attributes": {},
+    "url": "https://api.twitter.com/1.1/geo/id/01c4c97f44be9e2b.json",
+    "place_type": "city",
+    "id": "01c4c97f44be9e2b",
+    "country_code": "CL",
+    "name": "Villarrica",
+    "country": "Chile",
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            -72.431505,
+            -39.512957
+          ],
+          [
+            -72.431505,
+            -39.067336
+          ],
+          [
+            -71.907052,
+            -39.067336
+          ],
+          [
+            -71.907052,
+            -39.512957
+          ]
+        ]
+      ]
+    },
+    "full_name": "Villarrica, Chile"
+  },
+  "truncated": false,
+  "in_reply_to_status_id_str": null,
+  "filter_level": "low",
+  "text": "Feliz de compartir este momento tan especial con ustedes... Su felicidad es mi felicidad! \nLos\u2026 https://t.co/CzMzfqWQVp",
+  "geo": {
+    "type": "Point",
+    "coordinates": [
+      -39.2667,
+      -72.2167
+    ]
+  },
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": false,
+  "possibly_sensitive": false,
+  "favorited": false,
+  "user": {
+    "verified": false,
+    "profile_background_image_url": "",
+    "statuses_count": 353,
+    "screen_name": "rodrigoparrach",
+    "default_profile_image": false,
+    "time_zone": null,
+    "name": "Rodrigo Parra",
+    "id_str": "4680275852",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/4680275852/1470968276",
+    "created_at": "Wed Dec 30 23:13:24 +0000 2015",
+    "friends_count": 8,
+    "url": null,
+    "profile_background_tile": false,
+    "protected": false,
+    "translator_type": "none",
+    "profile_text_color": "333333",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/763922448190365698/MSmSwCwQ_normal.jpg",
+    "listed_count": 0,
+    "notifications": null,
+    "contributors_enabled": false,
+    "is_translator": false,
+    "location": "R\u00edo Negro, Argentina",
+    "profile_use_background_image": true,
+    "followers_count": 38,
+    "profile_sidebar_fill_color": "DDEEF6",
+    "geo_enabled": true,
+    "profile_link_color": "1DA1F2",
+    "favourites_count": 55,
+    "following": null,
+    "default_profile": true,
+    "profile_background_image_url_https": "",
+    "profile_background_color": "F5F8FA",
+    "id": 4680275852,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/763922448190365698/MSmSwCwQ_normal.jpg",
+    "lang": "es",
+    "description": null,
+    "follow_request_sent": null,
+    "utc_offset": null
+  },
+  "quote_count": 0,
+  "lang": "es"
+}

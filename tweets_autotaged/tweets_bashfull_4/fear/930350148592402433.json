@@ -1,0 +1,145 @@
+{
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "id": 930350148592402433,
+  "in_reply_to_user_id": null,
+  "coordinates": null,
+  "possibly_sensitive": false,
+  "reply_count": 0,
+  "timestamp_ms": "1510647735151",
+  "geo": null,
+  "quote_count": 0,
+  "retweet_count": 0,
+  "is_quote_status": false,
+  "created_at": "Tue Nov 14 08:22:15 +0000 2017",
+  "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+  "favorite_count": 0,
+  "in_reply_to_screen_name": null,
+  "text": "Duelo nacional hoy en #Ir\u00e1n por las v\u00edctimas del terremoto -por @llmhurtado https://t.co/g3ZtH2ZdxR v\u00eda @elmundoes",
+  "in_reply_to_status_id_str": null,
+  "place": {
+    "country": "Espa\u00f1a",
+    "name": "Madrid",
+    "id": "ea520f3528c9b3e4",
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            -4.579175,
+            39.884537
+          ],
+          [
+            -4.579175,
+            41.164911
+          ],
+          [
+            -3.053132,
+            41.164911
+          ],
+          [
+            -3.053132,
+            39.884537
+          ]
+        ]
+      ]
+    },
+    "country_code": "ES",
+    "place_type": "admin",
+    "url": "https://api.twitter.com/1.1/geo/id/ea520f3528c9b3e4.json",
+    "attributes": {},
+    "full_name": "Madrid, Comunidad de Madrid"
+  },
+  "contributors": null,
+  "entities": {
+    "hashtags": [
+      {
+        "indices": [
+          22,
+          27
+        ],
+        "text": "Ir\u00e1n"
+      }
+    ],
+    "urls": [
+      {
+        "expanded_url": "http://www.elmundo.es/internacional/2017/11/14/5a09eb7d468aebc4128b467f.html",
+        "display_url": "elmundo.es/internacional/\u2026",
+        "indices": [
+          76,
+          99
+        ],
+        "url": "https://t.co/g3ZtH2ZdxR"
+      }
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "llmhurtado",
+        "name": "Llu\u00eds Miquel Hurtado",
+        "id": 381499746,
+        "id_str": "381499746",
+        "indices": [
+          64,
+          75
+        ]
+      },
+      {
+        "screen_name": "elmundoes",
+        "name": "EL MUNDO",
+        "id": 14436030,
+        "id_str": "14436030",
+        "indices": [
+          104,
+          114
+        ]
+      }
+    ],
+    "symbols": []
+  },
+  "retweeted": false,
+  "id_str": "930350148592402433",
+  "user": {
+    "time_zone": "Madrid",
+    "follow_request_sent": null,
+    "id": 771678673,
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "translator_type": "none",
+    "screen_name": "sahagunfelipe",
+    "profile_link_color": "1DA1F2",
+    "url": "http://www.felipesahagun.es",
+    "utc_offset": 3600,
+    "location": null,
+    "name": "Felipe Sahag\u00fan",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "description": "Journalist and Prof. of International Relations at Complutense University (Madrid).",
+    "created_at": "Tue Aug 21 15:06:49 +0000 2012",
+    "protected": false,
+    "is_translator": false,
+    "listed_count": 828,
+    "statuses_count": 65519,
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "default_profile": true,
+    "default_profile_image": false,
+    "verified": false,
+    "notifications": null,
+    "friends_count": 2862,
+    "profile_background_color": "C0DEED",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/2528243171/ifgfsprd2j89kkm42p78_normal.jpeg",
+    "following": null,
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/2528243171/ifgfsprd2j89kkm42p78_normal.jpeg",
+    "geo_enabled": true,
+    "profile_use_background_image": true,
+    "contributors_enabled": false,
+    "id_str": "771678673",
+    "profile_text_color": "333333",
+    "followers_count": 19960,
+    "favourites_count": 266,
+    "lang": "es",
+    "profile_background_tile": false
+  },
+  "filter_level": "low",
+  "in_reply_to_user_id_str": null,
+  "favorited": false,
+  "lang": "es"
+}
