@@ -1,0 +1,106 @@
+{
+  "in_reply_to_user_id": null,
+  "contributors": null,
+  "in_reply_to_screen_name": null,
+  "retweeted": false,
+  "retweet_count": 0,
+  "timestamp_ms": "1508642904386",
+  "in_reply_to_status_id": null,
+  "id_str": "921941278895542272",
+  "created_at": "Sun Oct 22 03:28:24 +0000 2017",
+  "id": 921941278895542272,
+  "coordinates": null,
+  "favorite_count": 0,
+  "entities": {
+    "user_mentions": [],
+    "symbols": [],
+    "hashtags": [],
+    "urls": []
+  },
+  "reply_count": 0,
+  "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+  "place": {
+    "attributes": {},
+    "url": "https://api.twitter.com/1.1/geo/id/4afa2757051c5192.json",
+    "place_type": "admin",
+    "id": "4afa2757051c5192",
+    "country_code": "AR",
+    "name": "Buenos Aires",
+    "country": "Argentina",
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            -63.39386,
+            -41.035009
+          ],
+          [
+            -63.39386,
+            -33.260144
+          ],
+          [
+            -56.665836,
+            -33.260144
+          ],
+          [
+            -56.665836,
+            -41.035009
+          ]
+        ]
+      ]
+    },
+    "full_name": "Buenos Aires, Argentina"
+  },
+  "truncated": false,
+  "in_reply_to_status_id_str": null,
+  "filter_level": "low",
+  "text": "juro q nunca pens\u00e9 q el amor d Dios era tan real, me rompe todas las estructuras y me hace feliz",
+  "geo": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": false,
+  "favorited": false,
+  "user": {
+    "verified": false,
+    "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000180880701/tjHHrR2v.jpeg",
+    "statuses_count": 32399,
+    "screen_name": "Jimenayelen",
+    "default_profile_image": false,
+    "time_zone": "Santiago",
+    "name": "J\u00a1me.",
+    "id_str": "356613318",
+    "profile_sidebar_border_color": "FFFFFF",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/356613318/1485189777",
+    "created_at": "Wed Aug 17 03:23:12 +0000 2011",
+    "friends_count": 510,
+    "url": null,
+    "profile_background_tile": false,
+    "protected": false,
+    "translator_type": "none",
+    "profile_text_color": "E61271",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/884228047309819905/CDDvB3Io_normal.jpg",
+    "listed_count": 4,
+    "notifications": null,
+    "contributors_enabled": false,
+    "is_translator": false,
+    "location": null,
+    "profile_use_background_image": false,
+    "followers_count": 509,
+    "profile_sidebar_fill_color": "9EA0A1",
+    "geo_enabled": true,
+    "profile_link_color": "ABB8C2",
+    "favourites_count": 8469,
+    "following": null,
+    "default_profile": false,
+    "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000180880701/tjHHrR2v.jpeg",
+    "profile_background_color": "EDECE9",
+    "id": 356613318,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/884228047309819905/CDDvB3Io_normal.jpg",
+    "lang": "es",
+    "description": "Esto es amor, mi alma rescato.\u2728",
+    "follow_request_sent": null,
+    "utc_offset": -10800
+  },
+  "quote_count": 0,
+  "lang": "es"
+}

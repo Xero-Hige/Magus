@@ -1,1 +1,132 @@
-{"created_at": "Fri Nov 03 19:47:04 +0000 2017", "id": 926536222540955648, "id_str": "926536222540955648", "text": "@hans_jreimer @siegfried175 @Frau1maedmax1 @AnjaBoby @17plus9 @Aki_1900 @borussia ist weniger gut zum Zugucken, das geht alles so schnell", "display_text_range": [82, 137], "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>", "truncated": false, "in_reply_to_status_id": 926516563238445057, "in_reply_to_status_id_str": "926516563238445057", "in_reply_to_user_id": 3973516653, "in_reply_to_user_id_str": "3973516653", "in_reply_to_screen_name": "hans_jreimer", "user": {"id": 219075842, "id_str": "219075842", "name": "\ud83d\udc26 Ulla Fleu \ud83d\udc3e\ud83d\udc36", "screen_name": "GWsavedMYlife", "location": "Wetter (Ruhr), Deutschland", "url": "https://ullafleu.wordpress.com", "description": "Ich vermisse meinen Freund\ud83d\udd6fKlausi @1maedmax1 \u271d\ufe0f.", "translator_type": "regular", "protected": false, "verified": false, "followers_count": 323, "friends_count": 139, "listed_count": 29, "favourites_count": 21292, "statuses_count": 9802, "created_at": "Tue Nov 23 21:29:44 +0000 2010", "utc_offset": 3600, "time_zone": "Bern", "geo_enabled": true, "lang": "de", "contributors_enabled": false, "is_translator": false, "profile_background_color": "000000", "profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif", "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif", "profile_background_tile": false, "profile_link_color": "668CFF", "profile_sidebar_border_color": "000000", "profile_sidebar_fill_color": "000000", "profile_text_color": "000000", "profile_use_background_image": false, "profile_image_url": "http://pbs.twimg.com/profile_images/917847819918237701/69vspeIv_normal.jpg", "profile_image_url_https": "https://pbs.twimg.com/profile_images/917847819918237701/69vspeIv_normal.jpg", "profile_banner_url": "https://pbs.twimg.com/profile_banners/219075842/1507500076", "default_profile": false, "default_profile_image": false, "following": null, "follow_request_sent": null, "notifications": null}, "geo": null, "coordinates": null, "place": {"id": "ac1855c47d2ebf6b", "url": "https://api.twitter.com/1.1/geo/id/ac1855c47d2ebf6b.json", "place_type": "city", "name": "Wetter (Ruhr)", "full_name": "Wetter (Ruhr), Deutschland", "country_code": "DE", "country": "Deutschland", "bounding_box": {"type": "Polygon", "coordinates": [[[7.295515, 51.346447], [7.295515, 51.410217], [7.407506, 51.410217], [7.407506, 51.346447]]]}, "attributes": {}}, "contributors": null, "is_quote_status": false, "quote_count": 0, "reply_count": 0, "retweet_count": 0, "favorite_count": 0, "entities": {"hashtags": [], "urls": [], "user_mentions": [{"screen_name": "hans_jreimer", "name": "\ud83c\udde8\ud83c\udde6 \ud83c\udde8\ud83c\udde6 \ud83c\udde8\ud83c\udde6", "id": 3973516653, "id_str": "3973516653", "indices": [0, 13]}, {"screen_name": "siegfried175", "name": "siegfried", "id": 460292225, "id_str": "460292225", "indices": [14, 27]}, {"screen_name": "Frau1maedmax1", "name": "siggi", "id": 1318131584, "id_str": "1318131584", "indices": [28, 42]}, {"screen_name": "AnjaBoby", "name": "Anja", "id": 3307861049, "id_str": "3307861049", "indices": [43, 52]}, {"screen_name": "17plus9", "name": "Roman \ud83c\udf42\ud83c\udf41", "id": 3960064054, "id_str": "3960064054", "indices": [53, 61]}, {"screen_name": "Aki_1900", "name": "Aki", "id": 2659936302, "id_str": "2659936302", "indices": [62, 71]}, {"screen_name": "borussia", "name": "Borussia", "id": 80790735, "id_str": "80790735", "indices": [72, 81]}], "symbols": []}, "favorited": false, "retweeted": false, "filter_level": "low", "lang": "de", "timestamp_ms": "1509738424321"}
+{
+  "created_at": "Fri Nov 03 19:47:04 +0000 2017",
+  "id": 926536222540955648,
+  "id_str": "926536222540955648",
+  "text": "@hans_jreimer @siegfried175 @Frau1maedmax1 @AnjaBoby @17plus9 @Aki_1900 @borussia ist weniger gut zum Zugucken, das geht alles so schnell",
+  "display_text_range": [82, 137],
+  "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+  "truncated": false,
+  "in_reply_to_status_id": 926516563238445057,
+  "in_reply_to_status_id_str": "926516563238445057",
+  "in_reply_to_user_id": 3973516653,
+  "in_reply_to_user_id_str": "3973516653",
+  "in_reply_to_screen_name": "hans_jreimer",
+  "user": {
+    "id": 219075842,
+    "id_str": "219075842",
+    "name": "\ud83d\udc26 Ulla Fleu \ud83d\udc3e\ud83d\udc36",
+    "screen_name": "GWsavedMYlife",
+    "location": "Wetter (Ruhr), Deutschland",
+    "url": "https://ullafleu.wordpress.com",
+    "description": "Ich vermisse meinen Freund\ud83d\udd6fKlausi @1maedmax1 \u271d\ufe0f.",
+    "translator_type": "regular",
+    "protected": false,
+    "verified": false,
+    "followers_count": 323,
+    "friends_count": 139,
+    "listed_count": 29,
+    "favourites_count": 21292,
+    "statuses_count": 9802,
+    "created_at": "Tue Nov 23 21:29:44 +0000 2010",
+    "utc_offset": 3600,
+    "time_zone": "Bern",
+    "geo_enabled": true,
+    "lang": "de",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "000000",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+    "profile_background_tile": false,
+    "profile_link_color": "668CFF",
+    "profile_sidebar_border_color": "000000",
+    "profile_sidebar_fill_color": "000000",
+    "profile_text_color": "000000",
+    "profile_use_background_image": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/917847819918237701/69vspeIv_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/917847819918237701/69vspeIv_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/219075842/1507500076",
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": null,
+    "follow_request_sent": null,
+    "notifications": null
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": {
+    "id": "ac1855c47d2ebf6b",
+    "url": "https://api.twitter.com/1.1/geo/id/ac1855c47d2ebf6b.json",
+    "place_type": "city",
+    "name": "Wetter (Ruhr)",
+    "full_name": "Wetter (Ruhr), Deutschland",
+    "country_code": "DE",
+    "country": "Deutschland",
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [[[7.295515, 51.346447], [7.295515, 51.410217], [7.407506, 51.410217], [7.407506, 51.346447]]]
+    },
+    "attributes": {}
+  },
+  "contributors": null,
+  "is_quote_status": false,
+  "quote_count": 0,
+  "reply_count": 0,
+  "retweet_count": 0,
+  "favorite_count": 0,
+  "entities": {
+    "hashtags": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "screen_name": "hans_jreimer",
+        "name": "\ud83c\udde8\ud83c\udde6 \ud83c\udde8\ud83c\udde6 \ud83c\udde8\ud83c\udde6",
+        "id": 3973516653,
+        "id_str": "3973516653",
+        "indices": [0, 13]
+      }, {
+        "screen_name": "siegfried175",
+        "name": "siegfried",
+        "id": 460292225,
+        "id_str": "460292225",
+        "indices": [14, 27]
+      }, {
+        "screen_name": "Frau1maedmax1",
+        "name": "siggi",
+        "id": 1318131584,
+        "id_str": "1318131584",
+        "indices": [28, 42]
+      }, {
+        "screen_name": "AnjaBoby",
+        "name": "Anja",
+        "id": 3307861049,
+        "id_str": "3307861049",
+        "indices": [43, 52]
+      }, {
+        "screen_name": "17plus9",
+        "name": "Roman \ud83c\udf42\ud83c\udf41",
+        "id": 3960064054,
+        "id_str": "3960064054",
+        "indices": [53, 61]
+      }, {
+        "screen_name": "Aki_1900",
+        "name": "Aki",
+        "id": 2659936302,
+        "id_str": "2659936302",
+        "indices": [62, 71]
+      }, {
+        "screen_name": "borussia",
+        "name": "Borussia",
+        "id": 80790735,
+        "id_str": "80790735",
+        "indices": [72, 81]
+      }
+    ],
+    "symbols": []
+  },
+  "favorited": false,
+  "retweeted": false,
+  "filter_level": "low",
+  "lang": "de",
+  "timestamp_ms": "1509738424321"
+}

@@ -1,0 +1,279 @@
+{
+  "id_str": "922305510917005312",
+  "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+  "in_reply_to_status_id": null,
+  "created_at": "Mon Oct 23 03:35:44 +0000 2017",
+  "retweet_count": 0,
+  "truncated": false,
+  "place": {
+    "id": "0134e9670afa8f32",
+    "country_code": "AR",
+    "name": "Merlo",
+    "bounding_box": {
+      "coordinates": [
+        [
+          [
+            -58.855831,
+            -34.77089
+          ],
+          [
+            -58.855831,
+            -34.634721
+          ],
+          [
+            -58.641098,
+            -34.634721
+          ],
+          [
+            -58.641098,
+            -34.77089
+          ]
+        ]
+      ],
+      "type": "Polygon"
+    },
+    "place_type": "city",
+    "country": "Argentina",
+    "full_name": "Merlo, Argentina",
+    "url": "https://api.twitter.com/1.1/geo/id/0134e9670afa8f32.json",
+    "attributes": {}
+  },
+  "possibly_sensitive": false,
+  "text": "Lo m\u00e1s HERMOSO que vi,por dios\ud83d\udc96\ud83d\udc95\ud83d\udc9e \nEs la gloria y me encantar\u00eda que fuese as\u00ed con mi vieja \ud83d\udc9e https://t.co/ECIABNKRZx",
+  "id": 922305510917005312,
+  "in_reply_to_screen_name": null,
+  "entities": {
+    "hashtags": [],
+    "urls": [
+      {
+        "indices": [
+          93,
+          116
+        ],
+        "expanded_url": "https://twitter.com/luzvalenzuelam/status/921454577060405248",
+        "display_url": "twitter.com/luzvalenzuelam\u2026",
+        "url": "https://t.co/ECIABNKRZx"
+      }
+    ],
+    "symbols": [],
+    "user_mentions": []
+  },
+  "display_text_range": [
+    0,
+    92
+  ],
+  "quoted_status": {
+    "geo": null,
+    "user": {
+      "id_str": "107826936",
+      "favourites_count": 750,
+      "contributors_enabled": false,
+      "name": "L",
+      "profile_sidebar_fill_color": "E6F6F9",
+      "profile_background_tile": true,
+      "profile_background_color": "DBE9ED",
+      "created_at": "Sat Jan 23 21:57:33 +0000 2010",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/107826936/1505970784",
+      "location": "Hermosillo, Sonora",
+      "description": "No te olvidar\u00e9 \u03b5\u00ef\u0437 . M\ud83d\udc7c\ud83c\udffb... 2.6\ud83d\udc37\ud83d\udc95",
+      "listed_count": 4,
+      "follow_request_sent": null,
+      "default_profile_image": false,
+      "lang": "es",
+      "statuses_count": 9554,
+      "url": "http://instagram.com/luzvalenzuelam",
+      "notifications": null,
+      "id": 107826936,
+      "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/740229288/d529c151fb6d3cc0566cd27c811731fa.jpeg",
+      "translator_type": "none",
+      "screen_name": "luzvalenzuelam",
+      "protected": false,
+      "profile_link_color": "F5ABB5",
+      "friends_count": 299,
+      "time_zone": "Arizona",
+      "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/740229288/d529c151fb6d3cc0566cd27c811731fa.jpeg",
+      "profile_text_color": "333333",
+      "is_translator": false,
+      "followers_count": 761,
+      "default_profile": false,
+      "utc_offset": -25200,
+      "verified": false,
+      "following": null,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/911671379824709636/N4jzmHOw_normal.jpg",
+      "profile_use_background_image": true,
+      "profile_sidebar_border_color": "FFFFFF",
+      "geo_enabled": true,
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/911671379824709636/N4jzmHOw_normal.jpg"
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "lang": "es",
+    "favorited": false,
+    "in_reply_to_status_id": null,
+    "created_at": "Fri Oct 20 19:14:25 +0000 2017",
+    "coordinates": null,
+    "quote_count": 429,
+    "truncated": false,
+    "place": null,
+    "retweet_count": 4000,
+    "reply_count": 36,
+    "possibly_sensitive": false,
+    "extended_entities": {
+      "media": [
+        {
+          "id": 921454559913897984,
+          "sizes": {
+            "small": {
+              "h": 680,
+              "resize": "fit",
+              "w": 388
+            },
+            "medium": {
+              "h": 1171,
+              "resize": "fit",
+              "w": 668
+            },
+            "large": {
+              "h": 1171,
+              "resize": "fit",
+              "w": 668
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "indices": [
+            83,
+            106
+          ],
+          "display_url": "pic.twitter.com/LvSjmSdQAn",
+          "media_url": "http://pbs.twimg.com/media/DMmqCkhU8AA40r5.jpg",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/DMmqCkhU8AA40r5.jpg",
+          "id_str": "921454559913897984",
+          "expanded_url": "https://twitter.com/luzvalenzuelam/status/921454577060405248/photo/1",
+          "url": "https://t.co/LvSjmSdQAn"
+        }
+      ]
+    },
+    "text": "Mi abuela tiene 74 y su pap\u00e1 98.. \u00e9l a\u00fan la toma de la mano y ella le dice papi \ud83d\ude2d\ud83d\ude0d https://t.co/LvSjmSdQAn",
+    "in_reply_to_user_id": null,
+    "id": 921454577060405248,
+    "favorite_count": 20289,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_screen_name": null,
+    "entities": {
+      "hashtags": [],
+      "media": [
+        {
+          "id": 921454559913897984,
+          "sizes": {
+            "small": {
+              "h": 680,
+              "resize": "fit",
+              "w": 388
+            },
+            "medium": {
+              "h": 1171,
+              "resize": "fit",
+              "w": 668
+            },
+            "large": {
+              "h": 1171,
+              "resize": "fit",
+              "w": 668
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "indices": [
+            83,
+            106
+          ],
+          "display_url": "pic.twitter.com/LvSjmSdQAn",
+          "media_url": "http://pbs.twimg.com/media/DMmqCkhU8AA40r5.jpg",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/DMmqCkhU8AA40r5.jpg",
+          "id_str": "921454559913897984",
+          "expanded_url": "https://twitter.com/luzvalenzuelam/status/921454577060405248/photo/1",
+          "url": "https://t.co/LvSjmSdQAn"
+        }
+      ],
+      "urls": [],
+      "symbols": [],
+      "user_mentions": []
+    },
+    "id_str": "921454577060405248",
+    "display_text_range": [
+      0,
+      82
+    ],
+    "filter_level": "low",
+    "retweeted": false,
+    "contributors": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false
+  },
+  "retweeted": false,
+  "timestamp_ms": "1508729744067",
+  "contributors": null,
+  "is_quote_status": true,
+  "quoted_status_id_str": "921454577060405248",
+  "user": {
+    "id_str": "191195593",
+    "favourites_count": 5664,
+    "contributors_enabled": false,
+    "name": "\u2728Ann\u2728 \u200f",
+    "profile_sidebar_fill_color": "000000",
+    "profile_background_tile": false,
+    "profile_background_color": "F5ABB5",
+    "created_at": "Wed Sep 15 20:55:59 +0000 2010",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/191195593/1492831984",
+    "location": "Argentina",
+    "description": "\u300asi me seguis \u2b50\u2728 ,yo te sigo\u300bcualquier cosa,chupala.\n*7/2* 16\ud83c\udf43",
+    "listed_count": 1,
+    "follow_request_sent": null,
+    "default_profile_image": false,
+    "lang": "es",
+    "statuses_count": 14640,
+    "url": null,
+    "notifications": null,
+    "id": 191195593,
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "translator_type": "regular",
+    "screen_name": "anittaada",
+    "protected": false,
+    "profile_link_color": "7FDBB6",
+    "friends_count": 585,
+    "time_zone": "Buenos Aires",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_text_color": "000000",
+    "is_translator": false,
+    "followers_count": 562,
+    "default_profile": false,
+    "utc_offset": -10800,
+    "verified": false,
+    "following": null,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/921113130503155713/U5spyJt4_normal.jpg",
+    "profile_use_background_image": false,
+    "profile_sidebar_border_color": "000000",
+    "geo_enabled": true,
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/921113130503155713/U5spyJt4_normal.jpg"
+  },
+  "favorited": false,
+  "coordinates": null,
+  "quote_count": 0,
+  "lang": "es",
+  "reply_count": 0,
+  "in_reply_to_user_id": null,
+  "favorite_count": 0,
+  "in_reply_to_status_id_str": null,
+  "geo": null,
+  "quoted_status_id": 921454577060405248,
+  "filter_level": "low",
+  "in_reply_to_user_id_str": null
+}
