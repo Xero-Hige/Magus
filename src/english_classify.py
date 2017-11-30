@@ -4,17 +4,13 @@ import random
 from flask import Blueprint, redirect, render_template, request
 
 from classify_functions import classify_tweet_db, load_tweet
+from lexicons.lexicons import LEXICONS
 from libs.db_tweet import UNCLASIFIED
-from libs.lexicon import Lexicon
 
 APP_ROUTE = '/en'
 
 english_classify = Blueprint('english_classify', __name__,
                              template_folder='templates')
-
-LEXICONS = [Lexicon("./lexicons/en_lexicon.lx", lang="en"),
-            Lexicon("./lexicons/es_lexicon.lx", lang="es"),
-            Lexicon("./lexicons/pt_lexicon.lx", lang="pt")]
 
 
 @english_classify.route(APP_ROUTE + '/classify', methods=["GET"])
@@ -42,8 +38,8 @@ def validate_tag_get():
         auto = "UNCLASS"
         for lexicon in LEXICONS:
             if lexicon.get_associated_lang() in tweet["tweet_user_lang"].lower():
-                classification,level = lexicon.auto_tag_sentence(tweet["tweet_text"])
-                auto = "LEXICON {} with level ({})".format(lexicon.get_associated_lang(),level)
+                classification, level = lexicon.auto_tag_sentence(tweet["tweet_text"])
+                auto = "LEXICON {} with level ({})".format(lexicon.get_associated_lang(), level)
                 break
 
     return render_template("tag_validator.html", tweet=tweet, max=max, app_route=APP_ROUTE,

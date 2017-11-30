@@ -4,17 +4,13 @@ import random
 from flask import Blueprint, redirect, render_template, request
 
 from classify_functions import classify_tweet_db, load_tweet
+from lexicons.lexicons import LEXICONS
 from libs.db_tweet import UNCLASIFIED
-from libs.lexicon import Lexicon
 
 APP_ROUTE = '/es'
 
 spanish_classify = Blueprint('spanish_classify', __name__,
                              template_folder='templates')
-
-LEXICONS = [Lexicon("./lexicons/en_lexicon.lx", lang="en"),
-            Lexicon("./lexicons/es_lexicon.lx", lang="es"),
-            Lexicon("./lexicons/pt_lexicon.lx", lang="pt")]
 
 
 @spanish_classify.route(APP_ROUTE + '/classify', methods=["GET"])
