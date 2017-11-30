@@ -1,0 +1,121 @@
+{
+  "in_reply_to_user_id": 71305888,
+  "contributors": null,
+  "id": 921959978629582850,
+  "retweeted": false,
+  "retweet_count": 0,
+  "timestamp_ms": "1508647362750",
+  "in_reply_to_status_id": 921959530199699456,
+  "id_str": "921959978629582850",
+  "created_at": "Sun Oct 22 04:42:42 +0000 2017",
+  "coordinates": null,
+  "favorite_count": 0,
+  "entities": {
+    "user_mentions": [
+      {
+        "indices": [
+          0,
+          12
+        ],
+        "name": "ebles mancer",
+        "screen_name": "eblesmancer",
+        "id": 71305888,
+        "id_str": "71305888"
+      }
+    ],
+    "symbols": [],
+    "hashtags": [],
+    "urls": []
+  },
+  "reply_count": 0,
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "place": {
+    "attributes": {},
+    "url": "https://api.twitter.com/1.1/geo/id/00c4b64e7affea25.json",
+    "place_type": "city",
+    "id": "00c4b64e7affea25",
+    "country_code": "CL",
+    "name": "Las Condes",
+    "country": "Chile",
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            -70.608694,
+            -33.486182
+          ],
+          [
+            -70.608694,
+            -33.364619
+          ],
+          [
+            -70.429141,
+            -33.364619
+          ],
+          [
+            -70.429141,
+            -33.486182
+          ]
+        ]
+      ]
+    },
+    "full_name": "Las Condes, Chile"
+  },
+  "truncated": false,
+  "in_reply_to_status_id_str": "921959530199699456",
+  "in_reply_to_screen_name": "eblesmancer",
+  "filter_level": "low",
+  "text": "@eblesmancer Es la p\u00e1gina de la foto que citaste en el primer tuit de este hilo, pones un usuario y te da los porcentajes.",
+  "geo": null,
+  "in_reply_to_user_id_str": "71305888",
+  "is_quote_status": false,
+  "display_text_range": [
+    13,
+    122
+  ],
+  "favorited": false,
+  "user": {
+    "verified": false,
+    "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/738470423/9397cfc32b83f0be1debc2bb9a4ba2e8.jpeg",
+    "statuses_count": 13139,
+    "screen_name": "camiloetchepare",
+    "default_profile_image": false,
+    "time_zone": "Santiago",
+    "name": "Camilo",
+    "id_str": "447550508",
+    "profile_sidebar_border_color": "FFFFFF",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/447550508/1501038641",
+    "created_at": "Tue Dec 27 01:17:28 +0000 2011",
+    "friends_count": 1758,
+    "url": null,
+    "profile_background_tile": true,
+    "protected": false,
+    "translator_type": "none",
+    "profile_text_color": "6A6A6A",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/899804784768765952/Ys2XqOsD_normal.jpg",
+    "listed_count": 4,
+    "notifications": null,
+    "contributors_enabled": false,
+    "is_translator": false,
+    "location": "Chile",
+    "profile_use_background_image": true,
+    "followers_count": 1770,
+    "profile_sidebar_fill_color": "A0C5C7",
+    "geo_enabled": true,
+    "profile_link_color": "91D2FA",
+    "favourites_count": 35191,
+    "following": null,
+    "default_profile": false,
+    "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/738470423/9397cfc32b83f0be1debc2bb9a4ba2e8.jpeg",
+    "profile_background_color": "090226",
+    "id": 447550508,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/899804784768765952/Ys2XqOsD_normal.jpg",
+    "lang": "es",
+    "description": "20 a\u00f1os | No me gustan las biograf\u00edas, si no le gusta lo que ve ac\u00e1, next, siga de largo | #ProVida",
+    "follow_request_sent": null,
+    "utc_offset": -10800
+  },
+  "quote_count": 0,
+  "lang": "es"
+}

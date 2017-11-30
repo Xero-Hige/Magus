@@ -1,0 +1,122 @@
+{
+  "geo": null,
+  "filter_level": "low",
+  "in_reply_to_status_id": null,
+  "lang": "es",
+  "favorite_count": 0,
+  "coordinates": null,
+  "favorited": false,
+  "place": {
+    "name": "M\u00e9xico",
+    "full_name": "M\u00e9xico",
+    "place_type": "country",
+    "country": "M\u00e9xico",
+    "id": "25530ba03b7d90c6",
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [[-118.403857, 14.531918], [-118.403857, 32.718919], [-86.712218, 32.718919], [-86.712218, 14.531918]]
+      ]
+    },
+    "attributes": {},
+    "url": "https://api.twitter.com/1.1/geo/id/25530ba03b7d90c6.json",
+    "country_code": "MX"
+  },
+  "contributors": null,
+  "entities": {
+    "hashtags": [],
+    "urls": [
+      {
+        "display_url": "twitter.com/i/web/status/9\u2026",
+        "expanded_url": "https://twitter.com/i/web/status/930638111394148352",
+        "url": "https://t.co/lR5mUv1HRc",
+        "indices": [117, 140]
+      }
+    ],
+    "symbols": [],
+    "user_mentions": [
+      {
+        "id": 4265721,
+        "id_str": "4265721",
+        "name": "Le\u00f3n Krauze",
+        "indices": [0, 11],
+        "screen_name": "LeonKrauze"
+      }
+    ]
+  },
+  "id": 930638111394148352,
+  "user": {
+    "followers_count": 4256,
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_color": "000000",
+    "translator_type": "none",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/898734993496834048/b68GghVt_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/159381023/1510427137",
+    "default_profile": false,
+    "utc_offset": -21600,
+    "lang": "es",
+    "url": null,
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/898734993496834048/b68GghVt_normal.jpg",
+    "time_zone": "Central Time (US & Canada)",
+    "profile_sidebar_border_color": "000000",
+    "profile_use_background_image": false,
+    "id": 159381023,
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_fill_color": "000000",
+    "profile_background_tile": false,
+    "geo_enabled": true,
+    "id_str": "159381023",
+    "verified": false,
+    "name": "P\u00e1vel Zugaide",
+    "is_translator": false,
+    "notifications": null,
+    "following": null,
+    "friends_count": 3048,
+    "contributors_enabled": false,
+    "screen_name": "pavelzugaide",
+    "created_at": "Fri Jun 25 06:19:09 +0000 2010",
+    "profile_text_color": "000000",
+    "favourites_count": 2751,
+    "follow_request_sent": null,
+    "description": "\u00a1Orgulloso de ser Mexicano! \ud83c\uddf2\ud83c\uddfd Escuela Libre de Derecho @eld_oficial",
+    "default_profile_image": false,
+    "location": "Ciudad de M\u00e9xico ",
+    "listed_count": 17,
+    "protected": false,
+    "statuses_count": 14900
+  },
+  "id_str": "930638111394148352",
+  "retweet_count": 0,
+  "retweeted": false,
+  "quote_count": 0,
+  "truncated": true,
+  "in_reply_to_status_id_str": null,
+  "reply_count": 0,
+  "created_at": "Wed Nov 15 03:26:30 +0000 2017",
+  "is_quote_status": false,
+  "in_reply_to_user_id": 4265721,
+  "timestamp_ms": "1510716390833",
+  "text": "@LeonKrauze hace casi una semana empec\u00e9 a escuchar tu podcast de \u201cHistorias Perdidas\u201d hoy he finalizado todos los c\u2026 https://t.co/lR5mUv1HRc",
+  "extended_tweet": {
+    "full_text": "@LeonKrauze hace casi una semana empec\u00e9 a escuchar tu podcast de \u201cHistorias Perdidas\u201d hoy he finalizado todos los cap\u00edtulos, est\u00e1n incre\u00edbles por favor no dejes de subir m\u00e1s! A mi gusto los mejores: Al Capone y Alejandro Magno ojal\u00e1 haya m\u00e1s as\u00ed, saludos y felicidades!",
+    "display_text_range": [0, 269],
+    "entities": {
+      "hashtags": [],
+      "urls": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "id": 4265721,
+          "id_str": "4265721",
+          "name": "Le\u00f3n Krauze",
+          "indices": [0, 11],
+          "screen_name": "LeonKrauze"
+        }
+      ]
+    }
+  },
+  "in_reply_to_user_id_str": "4265721",
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "in_reply_to_screen_name": "LeonKrauze"
+}

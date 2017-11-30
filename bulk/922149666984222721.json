@@ -1,0 +1,121 @@
+{
+  "in_reply_to_user_id": 33989170,
+  "contributors": null,
+  "id": 922149666984222721,
+  "retweeted": false,
+  "retweet_count": 0,
+  "timestamp_ms": "1508692587978",
+  "in_reply_to_status_id": 922142474965078016,
+  "id_str": "922149666984222721",
+  "created_at": "Sun Oct 22 17:16:27 +0000 2017",
+  "coordinates": null,
+  "favorite_count": 0,
+  "entities": {
+    "user_mentions": [
+      {
+        "indices": [
+          0,
+          9
+        ],
+        "name": "LA NACION",
+        "screen_name": "LANACION",
+        "id": 33989170,
+        "id_str": "33989170"
+      }
+    ],
+    "symbols": [],
+    "hashtags": [],
+    "urls": []
+  },
+  "reply_count": 0,
+  "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+  "place": {
+    "attributes": {},
+    "url": "https://api.twitter.com/1.1/geo/id/014a38a754ca1dbc.json",
+    "place_type": "city",
+    "id": "014a38a754ca1dbc",
+    "country_code": "AR",
+    "name": "Mor\u00f3n",
+    "country": "Argentina",
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            -58.667431,
+            -34.704466
+          ],
+          [
+            -58.667431,
+            -34.588006
+          ],
+          [
+            -58.55608,
+            -34.588006
+          ],
+          [
+            -58.55608,
+            -34.704466
+          ]
+        ]
+      ]
+    },
+    "full_name": "Mor\u00f3n, Argentina"
+  },
+  "truncated": false,
+  "in_reply_to_status_id_str": "922142474965078016",
+  "in_reply_to_screen_name": "LANACION",
+  "filter_level": "low",
+  "text": "@LANACION Cansada de estos pol\u00edticos violentos. Estas situaciones le restan votos. Que verg\u00fcenza \ud83d\ude28",
+  "geo": null,
+  "in_reply_to_user_id_str": "33989170",
+  "is_quote_status": false,
+  "display_text_range": [
+    10,
+    98
+  ],
+  "favorited": false,
+  "user": {
+    "verified": false,
+    "profile_background_image_url": "",
+    "statuses_count": 1644,
+    "screen_name": "occhiuzzik96",
+    "default_profile_image": false,
+    "time_zone": null,
+    "name": "Kari de Moron",
+    "id_str": "716294401031540736",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/716294401031540736/1464184118",
+    "created_at": "Sat Apr 02 16:01:08 +0000 2016",
+    "friends_count": 234,
+    "url": null,
+    "profile_background_tile": false,
+    "protected": false,
+    "translator_type": "none",
+    "profile_text_color": "333333",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/795437189027033088/eLqy-4yz_normal.jpg",
+    "listed_count": 0,
+    "notifications": null,
+    "contributors_enabled": false,
+    "is_translator": false,
+    "location": null,
+    "profile_use_background_image": true,
+    "followers_count": 57,
+    "profile_sidebar_fill_color": "DDEEF6",
+    "geo_enabled": true,
+    "profile_link_color": "1DA1F2",
+    "favourites_count": 6312,
+    "following": null,
+    "default_profile": true,
+    "profile_background_image_url_https": "",
+    "profile_background_color": "F5F8FA",
+    "id": 716294401031540736,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/795437189027033088/eLqy-4yz_normal.jpg",
+    "lang": "es",
+    "description": "Soy Argentina y trabajo en Farmacia.  Santi ruego que aparezcas. Con esta situaci\u00f3n sabemos que en el Sur Argentino algo oscuro pasa \ud83d\ude22.",
+    "follow_request_sent": null,
+    "utc_offset": null
+  },
+  "quote_count": 0,
+  "lang": "es"
+}
