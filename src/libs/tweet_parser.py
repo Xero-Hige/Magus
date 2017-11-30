@@ -9,6 +9,7 @@ class TweetParser:
     USER_LOCATION = "user_location"
     DISPLAY_NAME = "display_name"
     AT_USER = "at_user"
+    TWEET_LANG = "tweet_lang"
 
     @staticmethod
     def parse_from_json_file(filename):
@@ -89,7 +90,7 @@ class TweetParser:
         if "retweeted_status" in tweet:
             tweet_dict[TweetParser.TWEET_ID] = tweet["retweeted_status"]["id_str"]
 
-        tweet_dict["tweet_lang"] = tweet.get("lang", "")
+        tweet_dict[TweetParser.TWEET_LANG] = tweet.get("lang", "")
 
         if tweet.get("place"):
             tweet_dict["tweet_place"] = tweet.get("place", {}).get("name", "")

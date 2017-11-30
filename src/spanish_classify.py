@@ -6,6 +6,7 @@ from flask import Blueprint, redirect, render_template, request
 from classify_functions import classify_tweet_db, load_tweet
 from lexicons.lexicons import LEXICONS
 from libs.db_tweet import UNCLASIFIED
+from libs.tweet_parser import TweetParser
 
 APP_ROUTE = '/es'
 
@@ -18,7 +19,11 @@ def classify_get():
     tweets = ["../tweets/{}".format(x) for x in os.listdir("../tweets")] \
              + ["../bulk/{}".format(x) for x in os.listdir("../bulk")]
 
-    tweet = load_tweet(random.choice(tweets))
+    random.shuffle(tweets)
+
+    tweet = load_tweet(tweets.pop())
+    while "es" not in tweet[TweetParser.TWEET_LANG].lower():
+        tweet = load_tweet(tweets.pop())
 
     return render_template("catalog_alternative.html", tweet=tweet, max=max, app_route=APP_ROUTE, lang='es')
 
