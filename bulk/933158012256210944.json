@@ -1,1 +1,97 @@
-{"created_at": "Wed Nov 22 02:19:42 +0000 2017", "id": 933158012256210944, "id_str": "933158012256210944", "text": "\u00c9 hoje.. #QueremosACopa #VamosAcabarComOPlaneta", "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>", "truncated": false, "in_reply_to_status_id": null, "in_reply_to_status_id_str": null, "in_reply_to_user_id": null, "in_reply_to_user_id_str": null, "in_reply_to_screen_name": null, "user": {"id": 209232686, "id_str": "209232686", "name": "Vem Planeta", "screen_name": "shimia83", "location": "Porto Alegre", "url": null, "description": "N\u00f3s vamos acabar com o Planeta!", "translator_type": "none", "protected": false, "verified": false, "followers_count": 299, "friends_count": 1129, "listed_count": 2, "favourites_count": 1554, "statuses_count": 9001, "created_at": "Thu Oct 28 19:45:33 +0000 2010", "utc_offset": -7200, "time_zone": "Brasilia", "geo_enabled": true, "lang": "pt", "contributors_enabled": false, "is_translator": false, "profile_background_color": "000000", "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/175526527/logo_ironmaiden.jpg", "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/175526527/logo_ironmaiden.jpg", "profile_background_tile": false, "profile_link_color": "B1D3E0", "profile_sidebar_border_color": "000000", "profile_sidebar_fill_color": "000000", "profile_text_color": "B1D3E0", "profile_use_background_image": true, "profile_image_url": "http://pbs.twimg.com/profile_images/814992929047642112/nitwCNIY_normal.jpg", "profile_image_url_https": "https://pbs.twimg.com/profile_images/814992929047642112/nitwCNIY_normal.jpg", "profile_banner_url": "https://pbs.twimg.com/profile_banners/209232686/1464305813", "default_profile": false, "default_profile_image": false, "following": null, "follow_request_sent": null, "notifications": null}, "geo": null, "coordinates": null, "place": {"id": "894146230dd1d42d", "url": "https://api.twitter.com/1.1/geo/id/894146230dd1d42d.json", "place_type": "city", "name": "Porto Alegre", "full_name": "Porto Alegre, Brasil", "country_code": "BR", "country": "Brasil", "bounding_box": {"type": "Polygon", "coordinates": [[[-51.306148, -30.268807], [-51.306148, -29.930865], [-51.012471, -29.930865], [-51.012471, -30.268807]]]}, "attributes": {}}, "contributors": null, "is_quote_status": false, "quote_count": 0, "reply_count": 0, "retweet_count": 0, "favorite_count": 0, "entities": {"hashtags": [{"text": "QueremosACopa", "indices": [9, 23]}, {"text": "VamosAcabarComOPlaneta", "indices": [24, 47]}], "urls": [], "user_mentions": [], "symbols": []}, "favorited": false, "retweeted": false, "filter_level": "low", "lang": "pt", "timestamp_ms": "1511317182016"}
+{
+  "created_at": "Wed Nov 22 02:19:42 +0000 2017",
+  "id": 933158012256210944,
+  "id_str": "933158012256210944",
+  "text": "\u00c9 hoje.. #QueremosACopa #VamosAcabarComOPlaneta",
+  "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 209232686,
+    "id_str": "209232686",
+    "name": "Vem Planeta",
+    "screen_name": "shimia83",
+    "location": "Porto Alegre",
+    "url": null,
+    "description": "N\u00f3s vamos acabar com o Planeta!",
+    "translator_type": "none",
+    "protected": false,
+    "verified": false,
+    "followers_count": 299,
+    "friends_count": 1129,
+    "listed_count": 2,
+    "favourites_count": 1554,
+    "statuses_count": 9001,
+    "created_at": "Thu Oct 28 19:45:33 +0000 2010",
+    "utc_offset": -7200,
+    "time_zone": "Brasilia",
+    "geo_enabled": true,
+    "lang": "pt",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "000000",
+    "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/175526527/logo_ironmaiden.jpg",
+    "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/175526527/logo_ironmaiden.jpg",
+    "profile_background_tile": false,
+    "profile_link_color": "B1D3E0",
+    "profile_sidebar_border_color": "000000",
+    "profile_sidebar_fill_color": "000000",
+    "profile_text_color": "B1D3E0",
+    "profile_use_background_image": true,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/814992929047642112/nitwCNIY_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/814992929047642112/nitwCNIY_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/209232686/1464305813",
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": null,
+    "follow_request_sent": null,
+    "notifications": null
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": {
+    "id": "894146230dd1d42d",
+    "url": "https://api.twitter.com/1.1/geo/id/894146230dd1d42d.json",
+    "place_type": "city",
+    "name": "Porto Alegre",
+    "full_name": "Porto Alegre, Brasil",
+    "country_code": "BR",
+    "country": "Brasil",
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [[-51.306148, -30.268807], [-51.306148, -29.930865], [-51.012471, -29.930865], [-51.012471, -30.268807]]
+      ]
+    },
+    "attributes": {}
+  },
+  "contributors": null,
+  "is_quote_status": false,
+  "quote_count": 0,
+  "reply_count": 0,
+  "retweet_count": 0,
+  "favorite_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "QueremosACopa",
+        "indices": [9, 23]
+      }, {
+        "text": "VamosAcabarComOPlaneta",
+        "indices": [24, 47]
+      }
+    ],
+    "urls": [],
+    "user_mentions": [],
+    "symbols": []
+  },
+  "favorited": false,
+  "retweeted": false,
+  "filter_level": "low",
+  "lang": "pt",
+  "timestamp_ms": "1511317182016"
+}
