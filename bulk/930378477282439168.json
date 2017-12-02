@@ -1,0 +1,125 @@
+{
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "id": 930378477282439168,
+  "in_reply_to_user_id": null,
+  "coordinates": null,
+  "reply_count": 0,
+  "timestamp_ms": "1510654489237",
+  "geo": null,
+  "quote_count": 0,
+  "retweet_count": 0,
+  "is_quote_status": false,
+  "created_at": "Tue Nov 14 10:14:49 +0000 2017",
+  "source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+  "favorite_count": 0,
+  "in_reply_to_screen_name": null,
+  "text": ".@ahorapodemos financi\u00f3 'las europeas' con la ilusi\u00f3n y el trabajo de la gente, no con fondos venezolanos. #juntsperesp",
+  "in_reply_to_status_id_str": null,
+  "place": {
+    "country": "Espa\u00f1a",
+    "name": "Granada",
+    "id": "387b00909c2e7031",
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            -3.699796,
+            37.135903
+          ],
+          [
+            -3.699796,
+            37.224915
+          ],
+          [
+            -3.496139,
+            37.224915
+          ],
+          [
+            -3.496139,
+            37.135903
+          ]
+        ]
+      ]
+    },
+    "country_code": "ES",
+    "place_type": "city",
+    "url": "https://api.twitter.com/1.1/geo/id/387b00909c2e7031.json",
+    "attributes": {},
+    "full_name": "Granada, Espa\u00f1a"
+  },
+  "contributors": null,
+  "entities": {
+    "hashtags": [
+      {
+        "indices": [
+          107,
+          119
+        ],
+        "text": "juntsperesp"
+      }
+    ],
+    "urls": [],
+    "user_mentions": [
+      {
+        "screen_name": "ahorapodemos",
+        "name": "PODEMOS",
+        "id": 2288138575,
+        "id_str": "2288138575",
+        "indices": [
+          1,
+          14
+        ]
+      }
+    ],
+    "symbols": []
+  },
+  "retweeted": false,
+  "id_str": "930378477282439168",
+  "user": {
+    "time_zone": "Madrid",
+    "follow_request_sent": null,
+    "id": 459119293,
+    "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/573070672/lf4fx93tf09mjka06ni7.jpeg",
+    "translator_type": "none",
+    "screen_name": "SalvadorFornell",
+    "profile_link_color": "9266CC",
+    "url": "http://www.salvadorfornell.com",
+    "utc_offset": 3600,
+    "location": "Granada",
+    "name": "Salvador Fornell",
+    "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/573070672/lf4fx93tf09mjka06ni7.jpeg",
+    "description": "Internacionalista e interdependiente en tiempos convulsos.\nCapto luces y sombras.\nAprendiendo cada d\u00eda.\nIn lak\u2019ech.",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/459119293/1510316052",
+    "created_at": "Mon Jan 09 09:19:02 +0000 2012",
+    "protected": false,
+    "is_translator": false,
+    "listed_count": 43,
+    "statuses_count": 7023,
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "default_profile": false,
+    "default_profile_image": false,
+    "verified": false,
+    "notifications": null,
+    "friends_count": 445,
+    "profile_background_color": "082900",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/613260818419970049/fL2vkxLF_normal.jpg",
+    "following": null,
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/613260818419970049/fL2vkxLF_normal.jpg",
+    "geo_enabled": true,
+    "profile_use_background_image": true,
+    "contributors_enabled": false,
+    "id_str": "459119293",
+    "profile_text_color": "333333",
+    "followers_count": 1276,
+    "favourites_count": 5183,
+    "lang": "es",
+    "profile_background_tile": false
+  },
+  "filter_level": "low",
+  "in_reply_to_user_id_str": null,
+  "favorited": false,
+  "lang": "es"
+}

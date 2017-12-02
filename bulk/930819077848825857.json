@@ -1,0 +1,134 @@
+{
+  "extended_tweet": {
+    "display_text_range": [0, 238],
+    "entities": {
+      "urls": [],
+      "symbols": [],
+      "hashtags": [],
+      "user_mentions": [
+        {
+          "indices": [6, 19],
+          "name": "RDemocr\u00e1tica",
+          "id_str": "434511852",
+          "screen_name": "RDemocratica",
+          "id": 434511852
+        }, {
+          "indices": [62, 75],
+          "name": "Fulvio Rossi",
+          "id_str": "129191358",
+          "screen_name": "FulvioRossiC",
+          "id": 129191358
+        }
+      ]
+    },
+    "full_text": "Desde @RDemocratica manifestamos toda nuestra solidaridad con @FulvioRossiC y su familia y esperamos su pronta recuperaci\u00f3n. En democracia las leg\u00edtimas diferencias se enfrentan en el debate de ideas. Rechazamos tajantemente la violencia."
+  },
+  "favorited": false,
+  "lang": "es",
+  "favorite_count": 0,
+  "reply_count": 0,
+  "geo": null,
+  "contributors": null,
+  "text": "Desde @RDemocratica manifestamos toda nuestra solidaridad con @FulvioRossiC y su familia y esperamos su pronta recu\u2026 https://t.co/PB3BzpFssa",
+  "created_at": "Wed Nov 15 15:25:36 +0000 2017",
+  "place": {
+    "place_type": "city",
+    "full_name": "Providencia, Chile",
+    "country": "Chile",
+    "name": "Providencia",
+    "url": "https://api.twitter.com/1.1/geo/id/01d461fd3da860bd.json",
+    "country_code": "CL",
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [[-70.637692, -33.449973], [-70.637692, -33.408997], [-70.583826, -33.408997], [-70.583826, -33.449973]]
+      ]
+    },
+    "id": "01d461fd3da860bd",
+    "attributes": {}
+  },
+  "user": {
+    "profile_text_color": "333333",
+    "lang": "es",
+    "location": "Santiago",
+    "friends_count": 2220,
+    "profile_link_color": "3B94D9",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/847855580660289537/UfSvqgEf_normal.jpg",
+    "contributors_enabled": false,
+    "following": null,
+    "is_translator": false,
+    "verified": false,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/226218714/1492711457",
+    "utc_offset": -18000,
+    "geo_enabled": true,
+    "profile_sidebar_border_color": "EEEEEE",
+    "created_at": "Mon Dec 13 16:38:44 +0000 2010",
+    "description": "Presidente de @RDemocratica. Aprend\u00ed de mi paso por la @Feuc y @Ciudadanoi, pero ahora mi mirada est\u00e1 en @elfrente_amplio!",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/847855580660289537/UfSvqgEf_normal.jpg",
+    "profile_background_color": "ACDED6",
+    "listed_count": 51,
+    "follow_request_sent": null,
+    "profile_background_tile": true,
+    "followers_count": 6338,
+    "name": "Rodrigo Echecopar",
+    "notifications": null,
+    "default_profile_image": false,
+    "url": "http://www.revoluciona.cl",
+    "favourites_count": 1233,
+    "screen_name": "r_echecopar",
+    "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/559233695/12_afiche_0PC_A.jpg",
+    "profile_sidebar_fill_color": "F6F6F6",
+    "profile_use_background_image": true,
+    "translator_type": "none",
+    "time_zone": "Eastern Time (US & Canada)",
+    "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/559233695/12_afiche_0PC_A.jpg",
+    "statuses_count": 12197,
+    "id": 226218714,
+    "default_profile": false,
+    "protected": false,
+    "id_str": "226218714"
+  },
+  "in_reply_to_user_id_str": null,
+  "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+  "filter_level": "low",
+  "is_quote_status": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_user_id": null,
+  "quote_count": 0,
+  "retweeted": false,
+  "in_reply_to_screen_name": null,
+  "retweet_count": 0,
+  "in_reply_to_status_id_str": null,
+  "coordinates": null,
+  "id": 930819077848825857,
+  "truncated": true,
+  "entities": {
+    "urls": [
+      {
+        "url": "https://t.co/PB3BzpFssa",
+        "display_url": "twitter.com/i/web/status/9\u2026",
+        "indices": [117, 140],
+        "expanded_url": "https://twitter.com/i/web/status/930819077848825857"
+      }
+    ],
+    "symbols": [],
+    "hashtags": [],
+    "user_mentions": [
+      {
+        "indices": [6, 19],
+        "name": "RDemocr\u00e1tica",
+        "id_str": "434511852",
+        "screen_name": "RDemocratica",
+        "id": 434511852
+      }, {
+        "indices": [62, 75],
+        "name": "Fulvio Rossi",
+        "id_str": "129191358",
+        "screen_name": "FulvioRossiC",
+        "id": 129191358
+      }
+    ]
+  },
+  "timestamp_ms": "1510759536598",
+  "id_str": "930819077848825857"
+}

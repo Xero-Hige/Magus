@@ -1,0 +1,128 @@
+{
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "id": 930330144824229888,
+  "in_reply_to_user_id": null,
+  "coordinates": null,
+  "possibly_sensitive": false,
+  "reply_count": 0,
+  "timestamp_ms": "1510642965881",
+  "geo": null,
+  "quote_count": 0,
+  "retweet_count": 0,
+  "is_quote_status": false,
+  "created_at": "Tue Nov 14 07:02:45 +0000 2017",
+  "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+  "favorite_count": 0,
+  "in_reply_to_screen_name": null,
+  "text": "Presidente Municipal de Quiroga: Respeto al derecho de la comunidad de Sta. Fe de la Laguna a adm... https://t.co/a59r5AkaKs v\u00eda @Change_Mex",
+  "in_reply_to_status_id_str": null,
+  "place": {
+    "country": "M\u00e9xico",
+    "name": "Pachuca de Soto",
+    "id": "8747ffc9cc7e7a12",
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            -98.863407,
+            20.023592
+          ],
+          [
+            -98.863407,
+            20.187683
+          ],
+          [
+            -98.688209,
+            20.187683
+          ],
+          [
+            -98.688209,
+            20.023592
+          ]
+        ]
+      ]
+    },
+    "country_code": "MX",
+    "place_type": "city",
+    "url": "https://api.twitter.com/1.1/geo/id/8747ffc9cc7e7a12.json",
+    "attributes": {},
+    "full_name": "Pachuca de Soto, Hidalgo"
+  },
+  "contributors": null,
+  "entities": {
+    "hashtags": [],
+    "urls": [
+      {
+        "expanded_url": "https://www.change.org/p/presidente-municipal-de-quiroga-respeto-al-derecho-de-la-comunidad-de-sta-fe-de-la-laguna-a-administrar-sus-recursos?recruiter=834302095&utm_campaign=signature_receipt&utm_medium=twitter&utm_source=share_petition",
+        "display_url": "change.org/p/presidente-m\u2026",
+        "indices": [
+          101,
+          124
+        ],
+        "url": "https://t.co/a59r5AkaKs"
+      }
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "Change_Mex",
+        "name": "Change.org M\u00e9xico",
+        "id": 921395508,
+        "id_str": "921395508",
+        "indices": [
+          129,
+          140
+        ]
+      }
+    ],
+    "symbols": []
+  },
+  "retweeted": false,
+  "id_str": "930330144824229888",
+  "user": {
+    "time_zone": null,
+    "follow_request_sent": null,
+    "id": 466846777,
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+    "translator_type": "none",
+    "screen_name": "ronquillonoe",
+    "profile_link_color": "1F98C7",
+    "url": null,
+    "utc_offset": null,
+    "location": "Pachuca de Soto, Hidalgo",
+    "name": "No\u00e9 Ronquillo Gorg\u00faa",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+    "description": "el hombre al servicio de la naturaleza...",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/466846777/1485719546",
+    "created_at": "Tue Jan 17 21:16:45 +0000 2012",
+    "protected": false,
+    "is_translator": false,
+    "listed_count": 0,
+    "statuses_count": 116,
+    "profile_sidebar_border_color": "C6E2EE",
+    "profile_sidebar_fill_color": "DAECF4",
+    "default_profile": false,
+    "default_profile_image": false,
+    "verified": false,
+    "notifications": null,
+    "friends_count": 704,
+    "profile_background_color": "C6E2EE",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/839880587401904128/8z3toYyu_normal.jpg",
+    "following": null,
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/839880587401904128/8z3toYyu_normal.jpg",
+    "geo_enabled": true,
+    "profile_use_background_image": true,
+    "contributors_enabled": false,
+    "id_str": "466846777",
+    "profile_text_color": "663B12",
+    "followers_count": 125,
+    "favourites_count": 28,
+    "lang": "es",
+    "profile_background_tile": false
+  },
+  "filter_level": "low",
+  "in_reply_to_user_id_str": null,
+  "favorited": false,
+  "lang": "es"
+}
