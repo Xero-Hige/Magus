@@ -49,7 +49,10 @@
   "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
   "lang": "es",
   "coordinates": null,
-  "display_text_range": [13, 82],
+  "display_text_range": [
+    13,
+    82
+  ],
   "created_at": "Tue Nov 14 16:27:00 +0000 2017",
   "favorite_count": 0,
   "contributors": null,
@@ -63,7 +66,10 @@
     "hashtags": [],
     "user_mentions": [
       {
-        "indices": [0, 12],
+        "indices": [
+          0,
+          12
+        ],
         "id_str": "1228535198",
         "name": "Agustin Reyero",
         "screen_name": "AgusReyero1",
@@ -90,7 +96,24 @@
     "bounding_box": {
       "type": "Polygon",
       "coordinates": [
-        [[-58.729283, -34.685879], [-58.729283, -34.594417], [-58.653444, -34.594417], [-58.653444, -34.685879]]
+        [
+          [
+            -58.729283,
+            -34.685879
+          ],
+          [
+            -58.729283,
+            -34.594417
+          ],
+          [
+            -58.653444,
+            -34.594417
+          ],
+          [
+            -58.653444,
+            -34.685879
+          ]
+        ]
       ]
     },
     "name": "Ituzaing\u00f3 Centro"

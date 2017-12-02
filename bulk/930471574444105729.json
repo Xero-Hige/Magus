@@ -50,7 +50,10 @@
   "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
   "lang": "es",
   "coordinates": null,
-  "display_text_range": [0, 140],
+  "display_text_range": [
+    0,
+    140
+  ],
   "created_at": "Tue Nov 14 16:24:45 +0000 2017",
   "favorite_count": 0,
   "contributors": null,
@@ -62,7 +65,10 @@
   "timestamp_ms": "1510676685330",
   "extended_tweet": {
     "full_text": "@orisabatini estoy gritando y llorando porque no estoy ahi contigo pero lo unico que me importa es verte con esa sonrisa que la pases demasiado bien que estes disfrutando con este gran Team\ud83c\udf08Que seas feliz estoy orgullosa de ti mereces todo lo bueno del mundo te amo te amo Te amo https://t.co/vCjb1vbIHy",
-    "display_text_range": [0, 279],
+    "display_text_range": [
+      0,
+      279
+    ],
     "extended_entities": {
       "media": [
         {
@@ -95,9 +101,13 @@
           },
           "media_url_https": "https://pbs.twimg.com/media/DOmy7oyX4AEM4vL.jpg",
           "media_url": "http://pbs.twimg.com/media/DOmy7oyX4AEM4vL.jpg",
-          "indices": [280, 303],
+          "indices": [
+            280,
+            303
+          ],
           "expanded_url": "https://twitter.com/kianaalissonram/status/930471574444105729/photo/1"
-        }, {
+        },
+        {
           "url": "https://t.co/vCjb1vbIHy",
           "display_url": "pic.twitter.com/vCjb1vbIHy",
           "id": 930471558178623488,
@@ -127,7 +137,10 @@
           },
           "media_url_https": "https://pbs.twimg.com/media/DOmy88rXUAAnuV7.jpg",
           "media_url": "http://pbs.twimg.com/media/DOmy88rXUAAnuV7.jpg",
-          "indices": [280, 303],
+          "indices": [
+            280,
+            303
+          ],
           "expanded_url": "https://twitter.com/kianaalissonram/status/930471574444105729/photo/1"
         }
       ]
@@ -136,7 +149,10 @@
       "hashtags": [],
       "user_mentions": [
         {
-          "indices": [0, 12],
+          "indices": [
+            0,
+            12
+          ],
           "id_str": "2876912169",
           "name": "Oriana Sabatini",
           "screen_name": "orisabatini",
@@ -176,9 +192,13 @@
           },
           "media_url_https": "https://pbs.twimg.com/media/DOmy7oyX4AEM4vL.jpg",
           "media_url": "http://pbs.twimg.com/media/DOmy7oyX4AEM4vL.jpg",
-          "indices": [280, 303],
+          "indices": [
+            280,
+            303
+          ],
           "expanded_url": "https://twitter.com/kianaalissonram/status/930471574444105729/photo/1"
-        }, {
+        },
+        {
           "url": "https://t.co/vCjb1vbIHy",
           "display_url": "pic.twitter.com/vCjb1vbIHy",
           "id": 930471558178623488,
@@ -208,7 +228,10 @@
           },
           "media_url_https": "https://pbs.twimg.com/media/DOmy88rXUAAnuV7.jpg",
           "media_url": "http://pbs.twimg.com/media/DOmy88rXUAAnuV7.jpg",
-          "indices": [280, 303],
+          "indices": [
+            280,
+            303
+          ],
           "expanded_url": "https://twitter.com/kianaalissonram/status/930471574444105729/photo/1"
         }
       ]
@@ -218,7 +241,10 @@
     "hashtags": [],
     "user_mentions": [
       {
-        "indices": [0, 12],
+        "indices": [
+          0,
+          12
+        ],
         "id_str": "2876912169",
         "name": "Oriana Sabatini",
         "screen_name": "orisabatini",
@@ -228,7 +254,10 @@
     "urls": [
       {
         "url": "https://t.co/Y7hise0sGK",
-        "indices": [117, 140],
+        "indices": [
+          117,
+          140
+        ],
         "expanded_url": "https://twitter.com/i/web/status/930471574444105729",
         "display_url": "twitter.com/i/web/status/9\u2026"
       }
@@ -252,7 +281,24 @@
     "bounding_box": {
       "type": "Polygon",
       "coordinates": [
-        [[-89.269806, 13.626244], [-89.269806, 13.736932], [-89.155121, 13.736932], [-89.155121, 13.626244]]
+        [
+          [
+            -89.269806,
+            13.626244
+          ],
+          [
+            -89.269806,
+            13.736932
+          ],
+          [
+            -89.155121,
+            13.736932
+          ],
+          [
+            -89.155121,
+            13.626244
+          ]
+        ]
       ]
     },
     "name": "Aguilares"
