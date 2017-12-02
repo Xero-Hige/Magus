@@ -60,7 +60,10 @@
   "timestamp_ms": "1510677954910",
   "extended_tweet": {
     "full_text": "Y si t digo q esta pena q siento s\u00f3lo me la pueden sacar tus besos, y si t digo q puedo morirme feliz mientras sea culpa de tu sexo, y si t digo q el resto nos mira como si estuvieran odiando lo nuestro y veo tu cara que no t importa nada\ud83c\udfb6",
-    "display_text_range": [0, 239],
+    "display_text_range": [
+      0,
+      239
+    ],
     "entities": {
       "hashtags": [],
       "user_mentions": [],
@@ -74,7 +77,10 @@
     "urls": [
       {
         "url": "https://t.co/qMr3whRSar",
-        "indices": [116, 139],
+        "indices": [
+          116,
+          139
+        ],
         "expanded_url": "https://twitter.com/i/web/status/930476899448578049",
         "display_url": "twitter.com/i/web/status/9\u2026"
       }
@@ -98,7 +104,24 @@
     "bounding_box": {
       "type": "Polygon",
       "coordinates": [
-        [[-64.3195, -31.523576], [-64.3195, -31.307337], [-64.076551, -31.307337], [-64.076551, -31.523576]]
+        [
+          [
+            -64.3195,
+            -31.523576
+          ],
+          [
+            -64.3195,
+            -31.307337
+          ],
+          [
+            -64.076551,
+            -31.307337
+          ],
+          [
+            -64.076551,
+            -31.523576
+          ]
+        ]
       ]
     },
     "name": "C\u00f3rdoba"
