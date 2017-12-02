@@ -13,9 +13,7 @@
 #  limitations under the License.
 """Convolutional Neural Network Estimator for MNIST, built with tf.layers."""
 
-from __future__ import absolute_import
-from __future__ import division
-from __future__ import print_function
+from __future__ import absolute_import, division, print_function
 
 from random import random
 
@@ -194,7 +192,7 @@ def train_model(model, train_data, train_labels):
 
 
 def get_input_data():
-    word_vectors = KeyedVectors.load('./mymodel.mdl')
+    word_vectors = KeyedVectors.load('./wordsEmbeddings.mdl')
     missing = []
     data = []
     with DB_Handler() as handler:

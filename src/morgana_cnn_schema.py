@@ -73,7 +73,7 @@ class MorganaCNNSchema(CNNSchema):
 
     @staticmethod
     def get_input_data():
-        word_vectors = KeyedVectors.load('./mymodel.mdl')
+        word_vectors = KeyedVectors.load('./wordsEmbeddings.mdl')
 
         data = []
         with DB_Handler() as handler:

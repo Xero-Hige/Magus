@@ -8,7 +8,7 @@ from libs.sentiments_handling import ANGER, ANTICIPATION, DISGUST, FEAR, JOY, NE
 from libs.tweet_parser import TweetParser
 from tokenizer.word_tokenizer import WordTokenizer
 
-MAX_WORDS = 80
+MAX_WORDS = 120
 
 EMOTION_LOOKUP = {
     JOY: 0,
@@ -64,7 +64,7 @@ class AttardiCNNSchema(CNNSchema):
 
     @staticmethod
     def get_input_data(embedding_size=300):
-        word_vectors = KeyedVectors.load('./mymodel.mdl')
+        word_vectors = KeyedVectors.load('./wordsEmbeddings.mdl')
 
         data = []
         with DB_Handler() as handler:
@@ -109,7 +109,13 @@ class AttardiCNNSchema(CNNSchema):
 
             labels.append(label)
 
-        features = np.asarray(features, dtype=np.float32)
+        try:
+            features = np.asarray(features, dtype=np.float32)
+        except ValueError as e:
+            for feat in features:
+                print(len(feat))
+            raise e
+
         labels = np.asarray(labels, dtype=np.float32)
 
         return features, labels

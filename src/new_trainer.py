@@ -26,11 +26,8 @@ import sys
 
 import numpy as np
 import tensorflow as tf
-from tensorflow.python.saved_model import builder as saved_model_builder
-from tensorflow.python.saved_model import signature_constants
-from tensorflow.python.saved_model import signature_def_utils
-from tensorflow.python.saved_model import tag_constants
-from tensorflow.python.saved_model import utils
+from tensorflow.python.saved_model import builder as saved_model_builder, signature_constants, signature_def_utils, \
+    tag_constants, utils
 from tensorflow.python.util import compat
 
 # training flags
@@ -103,7 +100,7 @@ def main(_):
     cnn = AttardiCNNSchema(
             sequence_length=x_train.shape[1],
             num_classes=y_train.shape[1],
-            vocab_size=80,
+            vocab_size=120,
             embedding_size=FLAGS.embedding_dim,
             filter_sizes=list(map(int, filters.split(","))),
             num_filters=n_filters,
