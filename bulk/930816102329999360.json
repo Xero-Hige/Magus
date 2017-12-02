@@ -1,9 +1,6 @@
 {
   "extended_tweet": {
-    "display_text_range": [
-      0,
-      199
-    ],
+    "display_text_range": [0, 199],
     "entities": {
       "urls": [],
       "symbols": [],
@@ -30,24 +27,7 @@
     "bounding_box": {
       "type": "Polygon",
       "coordinates": [
-        [
-          [
-            -80.20811,
-            26.080935
-          ],
-          [
-            -80.20811,
-            26.219801
-          ],
-          [
-            -80.090235,
-            26.219801
-          ],
-          [
-            -80.090235,
-            26.080935
-          ]
-        ]
+        [[-80.20811, 26.080935], [-80.20811, 26.219801], [-80.090235, 26.219801], [-80.090235, 26.080935]]
       ]
     },
     "id": "6c686af766d8429c",
@@ -113,10 +93,7 @@
       {
         "url": "https://t.co/LDvmLNQOY2",
         "display_url": "twitter.com/i/web/status/9\u2026",
-        "indices": [
-          116,
-          139
-        ],
+        "indices": [116, 139],
         "expanded_url": "https://twitter.com/i/web/status/930816102329999360"
       }
     ],

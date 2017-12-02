@@ -1,19 +1,13 @@
 {
   "extended_tweet": {
-    "display_text_range": [
-      0,
-      171
-    ],
+    "display_text_range": [0, 171],
     "entities": {
       "urls": [],
       "symbols": [],
       "hashtags": [],
       "user_mentions": [
         {
-          "indices": [
-            0,
-            8
-          ],
+          "indices": [0, 8],
           "name": "C\u03b1rolin\u03b1\u2661",
           "id_str": "809141156",
           "screen_name": "_caroge",
@@ -41,24 +35,7 @@
     "bounding_box": {
       "type": "Polygon",
       "coordinates": [
-        [
-          [
-            -100.421037,
-            25.480538
-          ],
-          [
-            -100.421037,
-            25.802899
-          ],
-          [
-            -100.166146,
-            25.802899
-          ],
-          [
-            -100.166146,
-            25.480538
-          ]
-        ]
+        [[-100.421037, 25.480538], [-100.421037, 25.802899], [-100.166146, 25.802899], [-100.166146, 25.480538]]
       ]
     },
     "id": "b19e24ce42ccd6aa",
@@ -124,10 +101,7 @@
       {
         "url": "https://t.co/V7UW4jqnu3",
         "display_url": "twitter.com/i/web/status/9\u2026",
-        "indices": [
-          117,
-          140
-        ],
+        "indices": [117, 140],
         "expanded_url": "https://twitter.com/i/web/status/930836123924025346"
       }
     ],
@@ -135,10 +109,7 @@
     "hashtags": [],
     "user_mentions": [
       {
-        "indices": [
-          0,
-          8
-        ],
+        "indices": [0, 8],
         "name": "C\u03b1rolin\u03b1\u2661",
         "id_str": "809141156",
         "screen_name": "_caroge",

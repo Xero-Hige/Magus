@@ -48,7 +48,10 @@
     "urls": [
       {
         "display_url": "twitter.com/i/web/status/9\u2026",
-        "indices": [117, 140],
+        "indices": [
+          117,
+          140
+        ],
         "expanded_url": "https://twitter.com/i/web/status/930470293780549634",
         "url": "https://t.co/Ip6PUGJWje"
       }
@@ -65,7 +68,26 @@
     "country": "Colombia",
     "id": "0161be1b3f98d6c3",
     "bounding_box": {
-      "coordinates": [[[-74.483289, 3.717432], [-74.483289, 4.807135], [-74.004053, 4.807135], [-74.004053, 3.717432]]],
+      "coordinates": [
+        [
+          [
+            -74.483289,
+            3.717432
+          ],
+          [
+            -74.483289,
+            4.807135
+          ],
+          [
+            -74.004053,
+            4.807135
+          ],
+          [
+            -74.004053,
+            3.717432
+          ]
+        ]
+      ],
       "type": "Polygon"
     },
     "name": "Bogot\u00e1, D.C.",
@@ -89,17 +111,26 @@
       "urls": [
         {
           "display_url": "twitter.com/_El_Patriota/s\u2026",
-          "indices": [250, 273],
+          "indices": [
+            250,
+            273
+          ],
           "expanded_url": "https://twitter.com/_El_Patriota/status/930453523241816064",
           "url": "https://t.co/7kWqmvqGmh"
         }
       ],
       "hashtags": []
     },
-    "display_text_range": [0, 249]
+    "display_text_range": [
+      0,
+      249
+    ]
   },
   "created_at": "Tue Nov 14 16:19:39 +0000 2017",
-  "display_text_range": [0, 140],
+  "display_text_range": [
+    0,
+    140
+  ],
   "possibly_sensitive": false,
   "contributors": null,
   "is_quote_status": true,
@@ -183,7 +214,10 @@
               }
             },
             "media_url": "http://pbs.twimg.com/media/DOmiiNKWsAANG8D.jpg",
-            "indices": [119, 142],
+            "indices": [
+              119,
+              142
+            ],
             "id_str": "930453506561060864",
             "id": 930453506561060864,
             "type": "photo",
@@ -201,13 +235,20 @@
             "id": 729705399855763457,
             "screen_name": "FARC_EPaz",
             "name": "FARC-EP",
-            "indices": [93, 103]
-          }, {
+            "indices": [
+              93,
+              103
+            ]
+          },
+          {
             "id_str": "61731614",
             "id": 61731614,
             "screen_name": "IntlCrimCourt",
             "name": "Int'l Criminal Court",
-            "indices": [104, 118]
+            "indices": [
+              104,
+              118
+            ]
           }
         ],
         "symbols": [],
@@ -238,7 +279,10 @@
               }
             },
             "media_url": "http://pbs.twimg.com/media/DOmiiNKWsAANG8D.jpg",
-            "indices": [119, 142],
+            "indices": [
+              119,
+              142
+            ],
             "id_str": "930453506561060864",
             "id": 930453506561060864,
             "type": "photo",
@@ -249,10 +293,16 @@
           }
         ]
       },
-      "display_text_range": [0, 118]
+      "display_text_range": [
+        0,
+        118
+      ]
     },
     "created_at": "Tue Nov 14 15:13:01 +0000 2017",
-    "display_text_range": [0, 140],
+    "display_text_range": [
+      0,
+      140
+    ],
     "possibly_sensitive": true,
     "id": 930453523241816064,
     "quote_count": 1,
@@ -271,14 +321,20 @@
           "id": 729705399855763457,
           "screen_name": "FARC_EPaz",
           "name": "FARC-EP",
-          "indices": [93, 103]
+          "indices": [
+            93,
+            103
+          ]
         }
       ],
       "symbols": [],
       "urls": [
         {
           "display_url": "twitter.com/i/web/status/9\u2026",
-          "indices": [105, 128],
+          "indices": [
+            105,
+            128
+          ],
           "expanded_url": "https://twitter.com/i/web/status/930453523241816064",
           "url": "https://t.co/DrIpjLpZhx"
         }

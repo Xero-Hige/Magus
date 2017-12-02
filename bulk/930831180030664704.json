@@ -1,10 +1,7 @@
 {
   "favorited": false,
   "lang": "es",
-  "display_text_range": [
-    0,
-    31
-  ],
+  "display_text_range": [0, 31],
   "favorite_count": 0,
   "reply_count": 0,
   "geo": null,
@@ -21,24 +18,7 @@
     "bounding_box": {
       "type": "Polygon",
       "coordinates": [
-        [
-          [
-            -99.248181,
-            19.498594
-          ],
-          [
-            -99.248181,
-            19.589272
-          ],
-          [
-            -99.080384,
-            19.589272
-          ],
-          [
-            -99.080384,
-            19.498594
-          ]
-        ]
+        [[-99.248181, 19.498594], [-99.248181, 19.589272], [-99.080384, 19.589272], [-99.080384, 19.498594]]
       ]
     },
     "id": "74704aa81e197418",
@@ -93,10 +73,7 @@
         "media_url": "http://pbs.twimg.com/tweet_video_thumb/DOr6BOrVQAAAEUz.jpg",
         "expanded_url": "https://twitter.com/balcazar_torres/status/930831180030664704/photo/1",
         "id_str": "930831172032086016",
-        "indices": [
-          32,
-          55
-        ],
+        "indices": [32, 55],
         "id": 930831172032086016,
         "url": "https://t.co/uUJf0D7DCP",
         "display_url": "pic.twitter.com/uUJf0D7DCP",
@@ -123,10 +100,7 @@
           }
         },
         "video_info": {
-          "aspect_ratio": [
-            61,
-            36
-          ],
+          "aspect_ratio": [61, 36],
           "variants": [
             {
               "url": "https://video.twimg.com/tweet_video/DOr6BOrVQAAAEUz.mp4",
@@ -161,10 +135,7 @@
         "media_url": "http://pbs.twimg.com/tweet_video_thumb/DOr6BOrVQAAAEUz.jpg",
         "expanded_url": "https://twitter.com/balcazar_torres/status/930831180030664704/photo/1",
         "id_str": "930831172032086016",
-        "indices": [
-          32,
-          55
-        ],
+        "indices": [32, 55],
         "id": 930831172032086016,
         "url": "https://t.co/uUJf0D7DCP",
         "display_url": "pic.twitter.com/uUJf0D7DCP",
@@ -197,10 +168,7 @@
     "hashtags": [
       {
         "text": "FelizMiercoles",
-        "indices": [
-          0,
-          15
-        ]
+        "indices": [0, 15]
       }
     ],
     "user_mentions": []
