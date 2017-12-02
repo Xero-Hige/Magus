@@ -1,10 +1,7 @@
 {
   "favorited": false,
   "lang": "es",
-  "display_text_range": [
-    0,
-    61
-  ],
+  "display_text_range": [0, 61],
   "favorite_count": 0,
   "reply_count": 0,
   "geo": null,
@@ -21,24 +18,7 @@
     "bounding_box": {
       "type": "Polygon",
       "coordinates": [
-        [
-          [
-            -99.18435,
-            19.399835
-          ],
-          [
-            -99.18435,
-            19.465837
-          ],
-          [
-            -99.122382,
-            19.465837
-          ],
-          [
-            -99.122382,
-            19.399835
-          ]
-        ]
+        [[-99.18435, 19.399835], [-99.18435, 19.465837], [-99.122382, 19.465837], [-99.122382, 19.399835]]
       ]
     },
     "id": "bfc35dcc7e63252a",
@@ -93,10 +73,7 @@
         "media_url": "http://pbs.twimg.com/media/DOr33mhVQAA7Tv5.jpg",
         "expanded_url": "https://twitter.com/AngellG29/status/930828824752791552/photo/1",
         "id_str": "930828807610646528",
-        "indices": [
-          62,
-          85
-        ],
+        "indices": [62, 85],
         "id": 930828807610646528,
         "url": "https://t.co/vNQkJFxvUe",
         "display_url": "pic.twitter.com/vNQkJFxvUe",
@@ -148,10 +125,7 @@
         "media_url": "http://pbs.twimg.com/media/DOr33mhVQAA7Tv5.jpg",
         "expanded_url": "https://twitter.com/AngellG29/status/930828824752791552/photo/1",
         "id_str": "930828807610646528",
-        "indices": [
-          62,
-          85
-        ],
+        "indices": [62, 85],
         "id": 930828807610646528,
         "url": "https://t.co/vNQkJFxvUe",
         "display_url": "pic.twitter.com/vNQkJFxvUe",
@@ -184,10 +158,7 @@
     "hashtags": [],
     "user_mentions": [
       {
-        "indices": [
-          30,
-          41
-        ],
+        "indices": [30, 41],
         "name": "Carlos Segundo",
         "id_str": "84318943",
         "screen_name": "Carlhillos",

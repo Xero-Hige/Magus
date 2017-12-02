@@ -1,9 +1,6 @@
 {
   "extended_tweet": {
-    "display_text_range": [
-      0,
-      178
-    ],
+    "display_text_range": [0, 178],
     "entities": {
       "urls": [],
       "media": [
@@ -15,10 +12,7 @@
           "media_url_https": "https://pbs.twimg.com/media/DOsCWVkUEAAw_Ap.jpg",
           "type": "photo",
           "id_str": "930840330751971328",
-          "indices": [
-            155,
-            178
-          ],
+          "indices": [155, 178],
           "id": 930840330751971328,
           "display_url": "pic.twitter.com/NDvF6Qod5c",
           "source_user_id": 4496048959,
@@ -52,10 +46,7 @@
       "hashtags": [],
       "user_mentions": [
         {
-          "indices": [
-            65,
-            77
-          ],
+          "indices": [65, 77],
           "name": "GloriaTrevi",
           "id_str": "86119466",
           "screen_name": "GloriaTrevi",
@@ -74,10 +65,7 @@
           "media_url_https": "https://pbs.twimg.com/media/DOsCWVkUEAAw_Ap.jpg",
           "type": "photo",
           "id_str": "930840330751971328",
-          "indices": [
-            155,
-            178
-          ],
+          "indices": [155, 178],
           "id": 930840330751971328,
           "display_url": "pic.twitter.com/NDvF6Qod5c",
           "source_user_id": 4496048959,
@@ -126,26 +114,7 @@
     "country_code": "CR",
     "bounding_box": {
       "type": "Polygon",
-      "coordinates": [
-        [
-          [
-            -84.59195,
-            9.065554
-          ],
-          [
-            -84.59195,
-            10.199165
-          ],
-          [
-            -83.429459,
-            10.199165
-          ],
-          [
-            -83.429459,
-            9.065554
-          ]
-        ]
-      ]
+      "coordinates": [[[-84.59195, 9.065554], [-84.59195, 10.199165], [-83.429459, 10.199165], [-83.429459, 9.065554]]]
     },
     "id": "0003557c7b244fd3",
     "attributes": {}
@@ -211,10 +180,7 @@
       {
         "url": "https://t.co/mxq2ACXvSA",
         "display_url": "twitter.com/i/web/status/9\u2026",
-        "indices": [
-          117,
-          140
-        ],
+        "indices": [117, 140],
         "expanded_url": "https://twitter.com/i/web/status/930840801575305217"
       }
     ],
@@ -222,10 +188,7 @@
     "hashtags": [],
     "user_mentions": [
       {
-        "indices": [
-          65,
-          77
-        ],
+        "indices": [65, 77],
         "name": "GloriaTrevi",
         "id_str": "86119466",
         "screen_name": "GloriaTrevi",

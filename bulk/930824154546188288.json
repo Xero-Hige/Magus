@@ -1,10 +1,7 @@
 {
   "favorited": false,
   "lang": "es",
-  "display_text_range": [
-    0,
-    96
-  ],
+  "display_text_range": [0, 96],
   "favorite_count": 0,
   "reply_count": 0,
   "geo": null,
@@ -21,24 +18,7 @@
     "bounding_box": {
       "type": "Polygon",
       "coordinates": [
-        [
-          [
-            -103.408633,
-            20.600585
-          ],
-          [
-            -103.408633,
-            20.752719
-          ],
-          [
-            -103.263131,
-            20.752719
-          ],
-          [
-            -103.263131,
-            20.600585
-          ]
-        ]
+        [[-103.408633, 20.600585], [-103.408633, 20.752719], [-103.263131, 20.752719], [-103.263131, 20.600585]]
       ]
     },
     "id": "7807880b17af73d8",
@@ -93,10 +73,7 @@
         "media_url": "http://pbs.twimg.com/media/DOrzoSOUEAATt3E.jpg",
         "expanded_url": "https://twitter.com/SusyGuzP/status/930824154546188288/photo/1",
         "id_str": "930824146417618944",
-        "indices": [
-          97,
-          120
-        ],
+        "indices": [97, 120],
         "id": 930824146417618944,
         "url": "https://t.co/ZcOtMSRfp4",
         "display_url": "pic.twitter.com/ZcOtMSRfp4",
@@ -148,10 +125,7 @@
         "media_url": "http://pbs.twimg.com/media/DOrzoSOUEAATt3E.jpg",
         "expanded_url": "https://twitter.com/SusyGuzP/status/930824154546188288/photo/1",
         "id_str": "930824146417618944",
-        "indices": [
-          97,
-          120
-        ],
+        "indices": [97, 120],
         "id": 930824146417618944,
         "url": "https://t.co/ZcOtMSRfp4",
         "display_url": "pic.twitter.com/ZcOtMSRfp4",
@@ -184,10 +158,7 @@
     "hashtags": [],
     "user_mentions": [
       {
-        "indices": [
-          22,
-          33
-        ],
+        "indices": [22, 33],
         "name": "Sergio Humberto Guzm",
         "id_str": "1872932018",
         "screen_name": "GuzmSergio",

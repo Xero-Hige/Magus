@@ -1,10 +1,7 @@
 {
   "favorited": false,
   "lang": "es",
-  "display_text_range": [
-    33,
-    106
-  ],
+  "display_text_range": [33, 106],
   "favorite_count": 0,
   "reply_count": 0,
   "geo": null,
@@ -21,24 +18,7 @@
     "bounding_box": {
       "type": "Polygon",
       "coordinates": [
-        [
-          [
-            -103.664175,
-            20.583418
-          ],
-          [
-            -103.664175,
-            20.997896
-          ],
-          [
-            -103.305374,
-            20.997896
-          ],
-          [
-            -103.305374,
-            20.583418
-          ]
-        ]
+        [[-103.664175, 20.583418], [-103.664175, 20.997896], [-103.305374, 20.997896], [-103.305374, 20.583418]]
       ]
     },
     "id": "8e098f6d686001a9",
@@ -105,20 +85,13 @@
     "hashtags": [],
     "user_mentions": [
       {
-        "indices": [
-          0,
-          16
-        ],
+        "indices": [0, 16],
         "name": "rodolfo torres",
         "id_str": "232410803",
         "screen_name": "rodolfotorres88",
         "id": 232410803
-      },
-      {
-        "indices": [
-          17,
-          32
-        ],
+      }, {
+        "indices": [17, 32],
         "name": "David P\u00e1ramo",
         "id_str": "473326646",
         "screen_name": "dparamooficial",
