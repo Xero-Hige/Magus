@@ -30,10 +30,11 @@ from tensorflow.python.saved_model import builder as saved_model_builder, signat
     tag_constants, utils
 from tensorflow.python.util import compat
 
-# training flags
-from attardi_cnn_schema import AttardiCNNSchema
+from attardi_cnn_schema import AttardiCNNSchema, MAX_WORDS
 
-VOCAB_SIZE = 120
+# training flags
+
+VOCAB_SIZE = MAX_WORDS
 EMBEDDINGS_LENGTH = 300
 NUM_CLASSES = 9
 
@@ -83,10 +84,11 @@ def batch_iter(x, y, batch_size, shuffle=True):
 
 
 def main(_):
-    filters = sys.argv[1]
-    n_filters = int(sys.argv[2])
-    output_folder = sys.argv[3]
-    model_version = int(sys.argv[4])
+    iterations = int(sys.argv[1])
+    filters = sys.argv[2]
+    n_filters = int(sys.argv[3])
+    output_folder = sys.argv[4]
+    model_version = int(sys.argv[5])
 
     # Train model
     print('Training model...')
@@ -113,7 +115,7 @@ def main(_):
 
     # train the model
     prediction_classes = y_train.shape[1]
-    for it in range(30):  # FLAGS.training_iteration):
+    for it in range(iterations):
         print("Iteration ", it)
         for batch in batch_iter(x_train, y_train, 50):
             train_step.run(feed_dict={cnn.input_x: batch[0], cnn.input_y: batch[1]})
@@ -206,8 +208,6 @@ def main(_):
 def get_train_data():
     print("Loading data...")
     x_text, y = AttardiCNNSchema.get_input_data()
-
-    max_document_length = FLAGS.embedding_dim
 
     x = x_text
 
