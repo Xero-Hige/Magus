@@ -22,6 +22,7 @@ Usage: mnist_export.py [--training_iteration=x] [--model_version=y] export_dir
 """
 
 import os
+import random
 import sys
 
 import numpy as np
@@ -58,14 +59,18 @@ def batch_iter(x, y, batch_size, shuffle=True):
 
     data_size = len(x)
 
-    data = np.array(list(zip(x, y)))
+    print(len(x), len(y))
+    # data = np.array(list(zip(x, y)))
+    data = list(zip(x, y))
 
     num_batches_per_epoch = int((len(x) - 1) / batch_size) + 1
 
     # Shuffle the data at each epoch
     if shuffle:
-        shuffle_indices = np.random.permutation(np.arange(data_size))
-        shuffled_data = data[shuffle_indices]
+        # shuffle_indices = np.random.permutation(np.arange(data_size))
+        # shuffled_data = data[shuffle_indices]
+        random.shuffle(data)
+        shuffled_data = data
     else:
         shuffled_data = data
 
@@ -103,7 +108,6 @@ def main(_):
     x_train, y_train = get_train_data()
 
     cnn = AttardiCNNSchema(
-            sequence_length=x_train.shape[1],
             num_classes=y_train.shape[1],
             vocab_size=VOCAB_SIZE,
             embedding_size=FLAGS.embedding_dim,
@@ -119,7 +123,11 @@ def main(_):
     prediction_classes = y_train.shape[1]
     for it in range(iterations):
         print("Iteration ", it)
+        batch_number = 1
+        total_batchs = len(x_train) //50
         for batch in batch_iter(x_train, y_train, 50):
+            print("Iteration: {} - Batch: {}/{}".format(it, batch_number, total_batchs))
+            batch_number+=1
             train_step.run(feed_dict={cnn.input_x: batch[0], cnn.input_y: batch[1]})
 
         feed_dict = {

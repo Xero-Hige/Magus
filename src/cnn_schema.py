@@ -8,7 +8,7 @@ class CNNSchema(object):
     """
 
     def __init__(
-            self, sequence_length, num_classes, vocab_size,
+            self, num_classes, vocab_size,
             embedding_size, filter_sizes, num_filters, l2_reg_lambda=0.0):
         pass
 

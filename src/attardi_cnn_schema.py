@@ -31,11 +31,11 @@ class AttardiCNNSchema(CNNSchema):
 
     MAPPER = EmbeddingMapper("./wordsEmbeddings.mdl", MAX_WORDS, 300)
 
-    def __init__(self, sequence_length, num_classes, vocab_size, embedding_size, filter_sizes, num_filters,
+    def __init__(self, num_classes, vocab_size, embedding_size, filter_sizes, num_filters,
                  l2_reg_lambda=0.0):
 
         # Placeholders for input, output and dropout
-        super().__init__(sequence_length, num_classes, vocab_size, embedding_size, filter_sizes, num_filters,
+        super().__init__(num_classes, vocab_size, embedding_size, filter_sizes, num_filters,
                          l2_reg_lambda)
         input_features, input_labels = self.create_input_layer(num_classes, embedding_size)
 
