@@ -33,6 +33,10 @@ from tensorflow.python.util import compat
 # training flags
 from attardi_cnn_schema import AttardiCNNSchema
 
+VOCAB_SIZE = 120
+EMBEDDINGS_LENGTH = 300
+NUM_CLASSES = 9
+
 tf.app.flags.DEFINE_integer('training_iteration', 1000, 'number of training iterations.')
 tf.app.flags.DEFINE_integer('model_version', 1, 'version number of the model.')
 tf.app.flags.DEFINE_string('work_dir', '/tmp', 'Working directory.')
@@ -44,9 +48,6 @@ tf.flags.DEFINE_float("dropout_keep_prob", 0.5, "Dropout keep probability (defau
 tf.flags.DEFINE_float("l2_reg_lambda", 0, "L2 regularization lambda (default: 0.0)")
 
 FLAGS = tf.app.flags.FLAGS
-
-embeddings_length = 300
-num_classes = 9
 
 
 def batch_iter(x, y, batch_size, shuffle=True):
@@ -100,7 +101,7 @@ def main(_):
     cnn = AttardiCNNSchema(
             sequence_length=x_train.shape[1],
             num_classes=y_train.shape[1],
-            vocab_size=120,
+            vocab_size=VOCAB_SIZE,
             embedding_size=FLAGS.embedding_dim,
             filter_sizes=list(map(int, filters.split(","))),
             num_filters=n_filters,
@@ -118,8 +119,8 @@ def main(_):
             train_step.run(feed_dict={cnn.input_x: batch[0], cnn.input_y: batch[1]})
 
         feed_dict = {
-            cnn.input_x: x_train,
-            cnn.input_y: y_train,
+            cnn.input_x:           x_train,
+            cnn.input_y:           y_train,
             cnn.dropout_keep_prob: 1.0
         }
         loss, accuracy = sess.run([cnn.loss, cnn.accuracy], feed_dict)
