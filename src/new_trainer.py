@@ -80,6 +80,8 @@ def batch_iter(x, y, batch_size, shuffle=True):
             x_list.append(shuffled_data[i][0])
             y_list.append(shuffled_data[i][1])
 
+        x_list = AttardiCNNSchema.map_batch(x_list)
+
         yield x_list, y_list
 
 

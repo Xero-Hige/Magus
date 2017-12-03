@@ -29,6 +29,8 @@ class AttardiCNNSchema(CNNSchema):
     Uses an embedding layer, followed by a convolutional, max-pooling and softmax layer.
     """
 
+    MAPPER = EmbeddingMapper("./wordsEmbeddings.mdl", MAX_WORDS, 300)
+
     def __init__(self, sequence_length, num_classes, vocab_size, embedding_size, filter_sizes, num_filters,
                  l2_reg_lambda=0.0):
 
@@ -83,30 +85,39 @@ class AttardiCNNSchema(CNNSchema):
         features = []
         labels = []
 
-        mapper = EmbeddingMapper("./wordsEmbeddings.mdl", MAX_WORDS, embedding_size)
-
         for tweet, tag in data:
             if tag not in EMOTION_LOOKUP:
                 continue
 
-            tokens = WordTokenizer.tokenize_raw(tweet)
-
-            tweet_vectors = mapper.map_features(tokens, tweet[TweetParser.TWEET_ID])
-
-            features.append(tweet_vectors)
+            features.append(str(tweet[TweetParser.TWEET_ID]))
 
             label = [0] * len(EMOTION_LOOKUP)
             label[EMOTION_LOOKUP[tag]] = 1
-
             labels.append(label)
 
-        try:
-            features = np.asarray(features, dtype=np.float32)
-        except ValueError as e:
-            for feat in features:
-                print(len(feat))
-            raise e
-
+        features = np.asarray(features, dtype=object)
         labels = np.asarray(labels, dtype=np.float32)
 
         return features, labels
+
+    @staticmethod
+    def map_batch(tweets):
+
+        maps = []
+
+        for t_id in tweets:
+            try:
+                tweet = TweetParser.parse_from_json_file("../bulk/{}.json".format(t_id))
+            except IOError:
+                try:
+                    tweet = TweetParser.parse_from_json_file("../tweets/{}.json".format(t_id))
+                except IOError:
+                    print("Missing tweet id: ", t_id)
+                    continue
+
+            tokens = WordTokenizer.tokenize_raw(tweet)
+            embed_tokens = AttardiCNNSchema.MAPPER.map_features(tokens, t_id)
+
+            maps.append(embed_tokens)
+
+        return np.asarray(maps)
