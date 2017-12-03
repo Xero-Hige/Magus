@@ -131,7 +131,7 @@ def main(_):
             train_step.run(feed_dict={cnn.input_x: batch[0], cnn.input_y: batch[1]})
 
         feed_dict = {
-            cnn.input_x:           x_train,
+            cnn.input_x:           AttardiCNNSchema.map_batch(x_train),
             cnn.input_y:           y_train,
             cnn.dropout_keep_prob: 1.0
         }
