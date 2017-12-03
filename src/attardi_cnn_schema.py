@@ -1,9 +1,9 @@
 import numpy as np
 import tensorflow as tf
-from gensim.models import KeyedVectors
 
 from cnn_schema import CNNSchema
 from libs.db_tweet import DB_Handler
+from libs.embedding_mapper import EmbeddingMapper
 from libs.sentiments_handling import ANGER, ANTICIPATION, DISGUST, FEAR, JOY, NEUTRAL, SADNESS, SURPRISE, TRUST
 from libs.tweet_parser import TweetParser
 from tokenizer.word_tokenizer import WordTokenizer
@@ -11,15 +11,15 @@ from tokenizer.word_tokenizer import WordTokenizer
 MAX_WORDS = 120
 
 EMOTION_LOOKUP = {
-    JOY: 0,
-    TRUST: 1,
-    FEAR: 2,
-    SURPRISE: 3,
-    SADNESS: 4,
-    DISGUST: 5,
-    ANGER: 6,
+    JOY:          0,
+    TRUST:        1,
+    FEAR:         2,
+    SURPRISE:     3,
+    SADNESS:      4,
+    DISGUST:      5,
+    ANGER:        6,
     ANTICIPATION: 7,
-    NEUTRAL: 8
+    NEUTRAL:      8
 }
 
 
@@ -64,8 +64,6 @@ class AttardiCNNSchema(CNNSchema):
 
     @staticmethod
     def get_input_data(embedding_size=300):
-        word_vectors = KeyedVectors.load('./wordsEmbeddings.mdl')
-
         data = []
         with DB_Handler() as handler:
             tagged_tweets = handler.get_all_tagged()
@@ -85,26 +83,19 @@ class AttardiCNNSchema(CNNSchema):
         features = []
         labels = []
 
+        mapper = EmbeddingMapper("./wordsEmbeddings.mdl", MAX_WORDS, embedding_size)
+
         for tweet, tag in data:
             if tag not in EMOTION_LOOKUP:
                 continue
 
-            tweet_vectors = []
             tokens = WordTokenizer.tokenize_raw(tweet)
 
-            for word in tokens:
-                tweet_vectors.append(AttardiCNNSchema._get_word_vector(word, word_vectors, embedding_size))
-
-            while len(tweet_vectors) < MAX_WORDS:
-                tweet_vectors.append([[0]] * 300)
-
-            if len(tweet_vectors) > MAX_WORDS:
-                print(tweet["tweet_id"])
+            tweet_vectors = mapper.map_features(tokens, tweet[TweetParser.TWEET_ID])
 
             features.append(tweet_vectors)
 
             label = [0] * len(EMOTION_LOOKUP)
-
             label[EMOTION_LOOKUP[tag]] = 1
 
             labels.append(label)

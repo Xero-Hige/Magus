@@ -31,7 +31,6 @@ class CNNSchema(object):
                             l2_loss=tf.constant(0.0),
                             bias=0.1,
                             prediction_f=lambda x: tf.argmax(x, 1)):
-
         # Final (unnormalized) scores and predictions
         with tf.name_scope("output-layer"):
             W = tf.get_variable(
@@ -126,10 +125,3 @@ class CNNSchema(object):
     @staticmethod
     def get_input_data(embedding_size):
         raise NotImplementedError
-
-    @staticmethod
-    def _get_word_vector(word, embedding_lookup, embedding_size):
-        if word in embedding_lookup:
-            return [(x,) for x in embedding_lookup[word]]
-
-        return [(0,)] * embedding_size
