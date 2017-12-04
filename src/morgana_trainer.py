@@ -22,6 +22,7 @@ Usage: mnist_export.py [--training_iteration=x] [--model_version=y] export_dir
 """
 
 import os
+import random
 import sys
 
 import numpy as np
@@ -30,9 +31,8 @@ from tensorflow.python.saved_model import builder as saved_model_builder, signat
     tag_constants, utils
 from tensorflow.python.util import compat
 
-from attardi_cnn_schema import AttardiCNNSchema, MAX_WORDS
-
 # training flags
+from morgana_cnn_schema import MAX_WORDS, MorganaCNNSchema
 
 VOCAB_SIZE = MAX_WORDS
 EMBEDDINGS_LENGTH = 300
@@ -58,14 +58,18 @@ def batch_iter(x, y, batch_size, shuffle=True):
 
     data_size = len(x)
 
-    data = np.array(list(zip(x, y)))
+    print(len(x), len(y))
+    # data = np.array(list(zip(x, y)))
+    data = list(zip(x, y))
 
     num_batches_per_epoch = int((len(x) - 1) / batch_size) + 1
 
     # Shuffle the data at each epoch
     if shuffle:
-        shuffle_indices = np.random.permutation(np.arange(data_size))
-        shuffled_data = data[shuffle_indices]
+        # shuffle_indices = np.random.permutation(np.arange(data_size))
+        # shuffled_data = data[shuffle_indices]
+        random.shuffle(data)
+        shuffled_data = data
     else:
         shuffled_data = data
 
@@ -79,6 +83,8 @@ def batch_iter(x, y, batch_size, shuffle=True):
         for i in range(start_index, end_index):
             x_list.append(shuffled_data[i][0])
             y_list.append(shuffled_data[i][1])
+
+        x_list = MorganaCNNSchema.map_batch(x_list)
 
         yield x_list, y_list
 
@@ -100,8 +106,7 @@ def main(_):
     # Build model
     x_train, y_train = get_train_data()
 
-    cnn = AttardiCNNSchema(
-            sequence_length=x_train.shape[1],
+    cnn = MorganaCNNSchema(
             num_classes=y_train.shape[1],
             vocab_size=VOCAB_SIZE,
             embedding_size=FLAGS.embedding_dim,
@@ -117,16 +122,38 @@ def main(_):
     prediction_classes = y_train.shape[1]
     for it in range(iterations):
         print("Iteration ", it)
+        batch_number = 1
+        total_batchs = len(x_train) // 50
         for batch in batch_iter(x_train, y_train, 50):
-            train_step.run(feed_dict={cnn.input_x: batch[0], cnn.input_y: batch[1]})
+            print("Iteration: {} - Batch: {}/{}".format(it, batch_number, total_batchs))
+            batch_number += 1
+            train_step.run(feed_dict={
+                cnn.input_x_words: batch[0],
+                cnn.input_x_chars: batch[0],
+                cnn.input_y: batch      [1]
+            })
 
-        feed_dict = {
-            cnn.input_x:           x_train,
-            cnn.input_y:           y_train,
-            cnn.dropout_keep_prob: 1.0
-        }
-        loss, accuracy = sess.run([cnn.loss, cnn.accuracy], feed_dict)
-        print('\n#####--{}--#####\nLoss: {}\nAccuracy: {}\n#####--{}--#####'.format(it, loss, accuracy, it))
+        print("Iteration training end")
+        total_batchs = 0
+        total_loss = 0
+        total_accuracy = 0
+        for batch in batch_iter(x_train, y_train, 200):
+            feed_dict = {
+                cnn.input_x_words: batch[0],
+                cnn.input_x_chars: batch[0],
+                cnn.input_y: batch      [1],
+                cnn.dropout_keep_prob:  1.0
+            }
+            loss, accuracy = sess.run([cnn.loss, cnn.accuracy], feed_dict)
+            total_batchs += 1
+            total_accuracy += accuracy
+            total_loss += loss
+
+        print('\n#####--{}--#####\nLoss: {}\nAccuracy: {}\n#####--{}--#####'.format(it,
+                                                                                    total_loss / total_accuracy,
+                                                                                    total_accuracy / total_batchs,
+                                                                                    it)
+              )
 
     print('Done training!')
 
@@ -207,7 +234,7 @@ def main(_):
 
 def get_train_data():
     print("Loading data...")
-    x_text, y = AttardiCNNSchema.get_input_data()
+    x_text, y = MorganaCNNSchema.get_input_data()
 
     x = x_text
 
