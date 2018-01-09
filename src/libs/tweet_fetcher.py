@@ -1,15 +1,17 @@
 from __future__ import absolute_import, print_function, unicode_literals
 
-import csv
 import os
 
 from twitter import *
 
+from libs.locations import get_coordinates_from_country
+
 WHOLE_WORLD_CORDINATES = "-180.0,-90.0, 180.0, 90.0"
+WHOLE_AMERICA_COORDINATES = "-178, -60, -21, 84.0"
 
 
 class TweetsFetcher():
-    def __init__(self, locations=(), topics=(), geo=""):
+    def __init__(self, locations=(), topics=(), langs=(), geo=""):
         self.CONSUMER_KEY = ""
         self.CONSUMER_SECRET = ""
         self.TOKEN_KEY = ""
@@ -18,6 +20,7 @@ class TweetsFetcher():
         self.locations = locations
         self.topics = ",".join(topics)
         self.geo = geo
+        self.langs = langs
 
         self.get_keys()
 
@@ -37,8 +40,10 @@ class TweetsFetcher():
             self.tweet_stream = twitter_stream.statuses.filter(track=self.topics)
         elif not self.topics and location_string:
             self.tweet_stream = twitter_stream.statuses.filter(locations=location_string)
+        elif self.langs:
+            self.tweet_stream = twitter_stream.statuses.filter(languages=self.langs, locations=WHOLE_WORLD_CORDINATES)
         else:
-            self.tweet_stream = twitter_stream.statuses.filter(locations=WHOLE_WORLD_CORDINATES)
+            self.tweet_stream = twitter_stream.statuses.filter(locations=WHOLE_AMERICA_COORDINATES)
 
     def get_location_string(self):
         boundaries = []
@@ -52,20 +57,17 @@ class TweetsFetcher():
     @staticmethod
     def get_boundaries_list(locations):
         bounds = []
-        with open("./libs/country_bounds.csv", 'r') as _file:
-            reader = csv.DictReader(_file)
+        for country in locations:
+            b_box = get_coordinates_from_country(country)
 
-            for country in reader:
+            if not b_box:
+                continue
 
-                if not country["country"].lower() in locations:
-                    continue
+            W, S, E, N = b_box
 
-                geo = "{},{},{},{}".format(country["longmin"],
-                                           country["latmin"],
-                                           country["longmax"],
-                                           country["latmax"])
+            geo = "{},{},{},{}".format(W, S, E, N)
 
-                bounds.append(geo)
+            bounds.append(geo)
 
         return bounds
 

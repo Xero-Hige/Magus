@@ -2,11 +2,12 @@ import sqlalchemy
 from sqlalchemy import Column, Integer, String
 from sqlalchemy.ext.declarative import declarative_base
 
-from libs.sentiments_handling import *
+from libs.sentiments_handling import ANGER, ANGRY, ANTICIPATION, DISGUST, FEAR, GROUPS, HAPPY, JOY, NEUTRAL, NONE, SAD, \
+    SADNESS, SURPRISE, TRUST, get_sentiment
 
 Base = declarative_base()
 
-UNCLASIFIED = "-"
+UNCLASIFIED = "unclassified"
 
 
 class TaggedTweet(Base):
@@ -26,6 +27,8 @@ class TaggedTweet(Base):
 
     totals = Column(Integer, nullable=False)
 
+    THRESHOLD = 0.40
+
     def get_emotions_list(self):
         """Returns a list of the emotions in the tweet as a tuple with the format
         (<percentage>,<emotion name>)"""
@@ -40,23 +43,34 @@ class TaggedTweet(Base):
                     [self.none / self.totals, NONE],
                     [self.none / self.totals, NONE]]
 
-        emotions.sort(reverse=True)
+        return emotions
 
-        normalized_value = len(emotions)
-        for i, emotion in enumerate(emotions):
-            if emotion[0] == 0:
-                normalized_value = 0
+    def get_emotions_dict(self):
+        """Returns a list of the emotions in the tweet as a tuple with the format
+        (<percentage>,<emotion name>)"""  # TODO: Change
 
-            must_reduce = i < len(emotions) - 1 and emotions[i][0] != emotions[i + 1][0]
-
-            emotion[0] = normalized_value
-
-            if must_reduce:
-                normalized_value = len(emotions) - (i + 1)
-
-            emotions[i] = tuple(emotion)
+        emotions = {JOY:          1 if self.joy / self.totals > self.THRESHOLD else 0,
+                    TRUST:        1 if self.trust / self.totals > self.THRESHOLD else 0,
+                    FEAR:         1 if self.fear / self.totals > self.THRESHOLD else 0,
+                    SURPRISE:     1 if self.surprise / self.totals > self.THRESHOLD else 0,
+                    DISGUST:      1 if self.disgust / self.totals > self.THRESHOLD else 0,
+                    ANGER:        1 if self.anger / self.totals > self.THRESHOLD else 0,
+                    ANTICIPATION: 1 if self.anticipation / self.totals > self.THRESHOLD else 0,
+                    SADNESS:      1 if self.sadness / self.totals > self.THRESHOLD else 0}
 
         return emotions
+
+    def get_tweet_emotion(self):
+        if self.totals < 3:
+            return UNCLASIFIED
+
+        emotions = self.get_emotions_dict()
+
+        for emotion, enabled in emotions.items():
+            if enabled:
+                return emotion
+
+        return NEUTRAL
 
     def get_sentiment_list(self):
         """Returns the list of sentiments asociated to the tweet as a list of tuples
