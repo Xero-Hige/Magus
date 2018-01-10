@@ -57,8 +57,6 @@ def batch_iter(x, y, batch_size, shuffle=True):
     """
 
     data_size = len(x)
-
-    print(len(x), len(y))
     # data = np.array(list(zip(x, y)))
     data = list(zip(x, y))
 
@@ -123,37 +121,42 @@ def main(_):
     for it in range(iterations):
         print("Iteration ", it)
         batch_number = 1
-        total_batchs = len(x_train) // 50
+        total_batches = len(x_train) // 50
         for batch in batch_iter(x_train, y_train, 50):
-            print("Iteration: {} - Batch: {}/{}".format(it, batch_number, total_batchs))
+            print("Iteration: {} - Batch: {}/{}".format(it, batch_number, total_batches))
             batch_number += 1
+
             train_step.run(feed_dict={
-                cnn.input_x_words: batch[0],
-                cnn.input_x_chars: batch[0],
-                cnn.input_y: batch      [1]
+                cnn.input_x_words: batch[0] [0],
+                cnn.input_x_chars: batch[0] [1],
+                cnn.input_x_rchars: batch[0][2],
+                cnn.input_y: batch          [1]
             })
 
         print("Iteration training end")
-        total_batchs = 0
-        total_loss = 0
-        total_accuracy = 0
-        for batch in batch_iter(x_train, y_train, 200):
-            feed_dict = {
-                cnn.input_x_words: batch[0],
-                cnn.input_x_chars: batch[0],
-                cnn.input_y: batch      [1],
-                cnn.dropout_keep_prob:  1.0
-            }
-            loss, accuracy = sess.run([cnn.loss, cnn.accuracy], feed_dict)
-            total_batchs += 1
-            total_accuracy += accuracy
-            total_loss += loss
 
-        print('\n#####--{}--#####\nLoss: {}\nAccuracy: {}\n#####--{}--#####'.format(it,
-                                                                                    total_loss / total_accuracy,
-                                                                                    total_accuracy / total_batchs,
-                                                                                    it)
-              )
+        if it % (iterations // 4) == 0:
+            total_batches = 0
+            total_loss = 0
+            total_accuracy = 0
+            for batch in batch_iter(x_train, y_train, 200):
+                feed_dict = {
+                    cnn.input_x_words: batch[0] [0],
+                    cnn.input_x_chars: batch[0] [1],
+                    cnn.input_x_rchars: batch[0][2],
+                    cnn.input_y: batch          [1],
+                    cnn.dropout_keep_prob:      1.0
+                }
+                loss, accuracy = sess.run([cnn.loss, cnn.accuracy], feed_dict)
+                total_batches += 1
+                total_accuracy += accuracy
+                total_loss += loss
+
+            print('\n#####--{}--#####\nLoss: {}\nAccuracy: {}\n#####--{}--#####'.format(it,
+                                                                                        total_loss / total_accuracy,
+                                                                                        total_accuracy / total_batches,
+                                                                                        it)
+                  )
 
     print('Done training!')
 
