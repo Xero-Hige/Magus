@@ -11,7 +11,7 @@ from tokenizer.raw_char_tokenizer import RawCharTokenizer
 from tokenizer.word_tokenizer import WordTokenizer
 
 MAX_WORDS = 120
-MAX_CHARS = 280
+MAX_CHARS = 320
 
 EMOTION_LOOKUP = {
     JOY:          0,
@@ -89,8 +89,8 @@ class MorganaCNNSchema(CNNSchema):
 
         dense_layers = tf.concat([words_dl, chars_dl, r_chars_dl], 1)
 
-        # dropout_layer_output = self.create_dropout_layer(dense_layers, dropout_prob=self.dropout_keep_prob)
-        scores, predictions, l2_loss = self.create_output_layer(dense_layers, num_classes * 9,
+        dropout_layer_output = self.create_dropout_layer(dense_layers, dropout_prob=self.dropout_keep_prob)
+        scores, predictions, l2_loss = self.create_output_layer(dropout_layer_output, num_classes * 9,
                                                                 9,
                                                                 l2_loss=l2_loss)
 
@@ -166,3 +166,26 @@ class MorganaCNNSchema(CNNSchema):
             maps_rchar.append(MorganaCNNSchema.R_MAPPER.map_features(tokens, t_id))
 
         return np.asarray(maps_words), np.asarray(maps_chars), np.asarray(maps_rchar)
+
+    @staticmethod
+    def map_entry(tweet_id):
+
+        try:
+            tweet = TweetParser.parse_from_json_file("../bulk/{}.json".format(tweet_id))
+        except IOError:
+            try:
+                tweet = TweetParser.parse_from_json_file("../tweets/{}.json".format(tweet_id))
+            except IOError:
+                print("Missing tweet id: ", tweet_id)
+                return
+
+        tokens = WordTokenizer.tokenize_raw(tweet)
+        words = MorganaCNNSchema.W_MAPPER.map_features(tokens, tweet_id)
+
+        tokens = CharTokenizer.tokenize_raw(tweet)
+        chars = MorganaCNNSchema.C_MAPPER.map_features(tokens, tweet_id)
+
+        tokens = RawCharTokenizer.tokenize_raw(tweet)
+        rchar = MorganaCNNSchema.R_MAPPER.map_features(tokens, tweet_id)
+
+        return np.asarray(words), np.asarray(chars), np.asarray(rchar)

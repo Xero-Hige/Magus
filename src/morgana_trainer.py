@@ -22,6 +22,7 @@ Usage: mnist_export.py [--training_iteration=x] [--model_version=y] export_dir
 """
 
 import os
+import pickle
 import random
 import sys
 
@@ -93,6 +94,7 @@ def main(_):
     n_filters = int(sys.argv[3])
     output_folder = sys.argv[4]
     model_version = int(sys.argv[5])
+    start_it = int(sys.argv[6])
 
     # Train model
     print('Training model...')
@@ -102,10 +104,10 @@ def main(_):
     sess = tf.InteractiveSession()
 
     # Build model
-    x_train, y_train = get_train_data()
+    # x_train, y_train = get_train_data()
 
     cnn = MorganaCNNSchema(
-            num_classes=y_train.shape[1],
+            num_classes=9,  # y_train.shape[1],
             vocab_size=VOCAB_SIZE,
             embedding_size=FLAGS.embedding_dim,
             filter_sizes=list(map(int, filters.split(","))),
@@ -117,47 +119,21 @@ def main(_):
     tf.initialize_all_variables().run()
 
     # train the model
-    prediction_classes = y_train.shape[1]
-    for it in range(iterations):
-        print("Iteration ", it)
-        batch_number = 1
-        total_batches = len(x_train) // 50
-        for batch in batch_iter(x_train, y_train, 50):
-            print("Iteration: {} - Batch: {}/{}".format(it, batch_number, total_batches))
-            batch_number += 1
+    prediction_classes = 9  # y_train.shape[1]
 
-            train_step.run(feed_dict={
-                cnn.input_x_words: batch[0] [0],
-                cnn.input_x_chars: batch[0] [1],
-                cnn.input_x_rchars: batch[0][2],
-                cnn.input_y: batch          [1]
-            })
+    saver = tf.train.Saver()
+    # it = 0
+    # if it != 0:
+    saver.restore(sess, "tmp/" + output_folder + "_{}.ckpt".format(start_it))
+    batches = ["/media/hige/320/train_data/batch_{}.dmp".format(x) for x in range(547)]
 
-        print("Iteration training end")
+    for it in range(start_it + 1, iterations):
+        do_train_step(batches, cnn, it, output_folder, saver, sess, train_step)
 
-        if it % (iterations // 4) == 0:
-            total_batches = 0
-            total_loss = 0
-            total_accuracy = 0
-            for batch in batch_iter(x_train, y_train, 200):
-                feed_dict = {
-                    cnn.input_x_words: batch[0] [0],
-                    cnn.input_x_chars: batch[0] [1],
-                    cnn.input_x_rchars: batch[0][2],
-                    cnn.input_y: batch          [1],
-                    cnn.dropout_keep_prob:      1.0
-                }
-                loss, accuracy = sess.run([cnn.loss, cnn.accuracy], feed_dict)
-                total_batches += 1
-                total_accuracy += accuracy
-                total_loss += loss
+        if it % (iterations // 4 + 1) == 0:
+            do_test_step(batches, cnn, sess)
 
-            print('\n#####--{}--#####\nLoss: {}\nAccuracy: {}\n#####--{}--#####'.format(it,
-                                                                                        total_loss / total_accuracy,
-                                                                                        total_accuracy / total_batches,
-                                                                                        it)
-                  )
-
+    do_test_step(batches, cnn, sess)
     print('Done training!')
 
     # Save the model
@@ -193,12 +169,16 @@ def main(_):
     # we can use them a number of ways
     # grabbing whatever inputs/outputs/models we want either on server
     # or via client
-    classification_inputs = utils.build_tensor_info(cnn.input_x)
+    classification_inputs_words = utils.build_tensor_info(cnn.input_x_words)
+    classification_inputs_chars = utils.build_tensor_info(cnn.input_x_chars)
+    classification_inputs_rchar = utils.build_tensor_info(cnn.input_x_rchars)
     classification_outputs_classes = utils.build_tensor_info(cnn.input_y)
     classification_outputs_scores = utils.build_tensor_info(cnn.scores)
 
     classification_signature = signature_def_utils.build_signature_def(
-            inputs={signature_constants.CLASSIFY_INPUTS: classification_inputs},
+            inputs={"words": classification_inputs_words,
+                    "chars": classification_inputs_chars,
+                    "rchar": classification_inputs_rchar},
             outputs={
                 signature_constants.CLASSIFY_OUTPUT_CLASSES:
                     classification_outputs_classes,
@@ -207,12 +187,13 @@ def main(_):
             },
             method_name=signature_constants.CLASSIFY_METHOD_NAME)
 
-    tensor_info_x = utils.build_tensor_info(cnn.input_x)
     tensor_info_scores = utils.build_tensor_info(cnn.scores)
     tensor_info_predictions = utils.build_tensor_info(cnn.predictions)
 
     prediction_signature = signature_def_utils.build_signature_def(
-            inputs={'tweet_features': tensor_info_x},
+            inputs={"words": classification_inputs_words,
+                    "chars": classification_inputs_chars,
+                    "rchar": classification_inputs_rchar},
             outputs={'scores': tensor_info_scores, 'predictions': tensor_info_predictions},
             method_name=signature_constants.PREDICT_METHOD_NAME)
 
@@ -233,6 +214,73 @@ def main(_):
     builder.save()
 
     print('Done exporting!')
+
+
+def do_train_step(batches, cnn, it, output_folder, saver, sess, train_step):
+    print("Iteration ", it)
+    random.shuffle(batches)
+    total_loss = 0
+    total_accuracy = 0
+    total_batches = 0
+    for batch_number in range(547):
+        with open(batches[batch_number], 'rb') as pickled:
+            batch_data = pickle.load(pickled)
+
+        print("Iteration: {} - Batch: {}/{}".format(it, batch_number + 1, len(batches)))
+
+        _, loss, accuracy = sess.run([train_step, cnn.loss, cnn.accuracy], feed_dict={
+            cnn.input_x_words: batch_data [0],
+            cnn.input_x_chars: batch_data [1],
+            cnn.input_x_rchars: batch_data[2],
+            cnn.input_y: batch_data       [3],
+            cnn.dropout_keep_prob:        0.5
+        })
+
+        total_batches += 1
+        total_accuracy += accuracy
+        total_loss += loss
+
+        print('\n####b--{}--b#####\nLoss: {}\nAccuracy: {}\n#####--{}--#####'.format(batch_number,
+                                                                                     loss,
+                                                                                     accuracy,
+                                                                                     batch_number)
+              )
+    print('\n#####--{}--#####\nLoss: {}\nAccuracy: {}\n#####--{}--#####'.format(it,
+                                                                                total_loss / total_accuracy,
+                                                                                total_accuracy / total_batches,
+                                                                                it)
+          )
+    save_path = saver.save(sess, "tmp/" + output_folder + "_{}.ckpt".format(it))
+    print("Iteration training end: {}".format(save_path))
+
+
+def do_test_step(batches, cnn, sess):
+    total_loss = 0
+    total_accuracy = 0
+    total_batches = 0
+    random.shuffle(batches)
+    for batch_number in range(547):
+        with open(batches[batch_number], 'rb') as pickled:
+            batch_data = pickle.load(pickled)
+
+        print("Test batch: {}/{}".format(batch_number, len(batches)))
+        feed_dict = {
+            cnn.input_x_words: batch_data [0],
+            cnn.input_x_chars: batch_data [1],
+            cnn.input_x_rchars: batch_data[2],
+            cnn.input_y: batch_data       [3],
+            cnn.dropout_keep_prob:        1.0
+        }
+
+        loss, accuracy = sess.run([cnn.loss, cnn.accuracy], feed_dict)
+        total_batches += 1
+        total_accuracy += accuracy
+        total_loss += loss
+    print('\n#####--{}--#####\nLoss: {}\nAccuracy: {}\n#####--{}--#####'.format("X",
+                                                                                total_loss / total_accuracy,
+                                                                                total_accuracy / total_batches,
+                                                                                "X")
+          )
 
 
 def get_train_data():
