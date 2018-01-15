@@ -14,5 +14,4 @@ class TrainSentenceGenerator():
                 for tweet_file in tweet_files:
                     path = os.path.join(directory, tweet_file)
                     tweet = TweetParser.parse_from_json_file(path)
-                    self.tokenizer.preprocess(tweet)
-                    yield self.tokenizer.tokenize(tweet)
+                    yield self.tokenizer.tokenize_raw(tweet)
