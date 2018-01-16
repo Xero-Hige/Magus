@@ -4,13 +4,13 @@ import signal
 import sys
 from sys import stdout
 
-from m_cores.core_word_embeding import WordEmbeddingCore
-
 if sys.version_info.major == 3:
     from m_cores.core_anonymize import AnonymizeCore
+    from m_cores.core_char_splitter import CharSplitterCore
     from m_cores.core_fetcher import FetcherCore
     from m_cores.core_hashtags_process import HashtagSplitterCore
     from m_cores.core_parser import ParserCore
+    from m_cores.core_word_embeding import WordEmbeddingCore
     from m_cores.core_word_lower import WordLowerCore
     from m_cores.core_word_shortener import WordShortenerCore
     from m_cores.core_word_splitter import WordSplitterCore
@@ -20,6 +20,7 @@ if sys.version_info.major == 3:
         "fetcher":       FetcherCore,
         "parser":        ParserCore,
         "anonymize":     AnonymizeCore,
+        "char_splitter": CharSplitterCore,
         "w_splitter":    WordSplitterCore,
         "w_shortener":   WordShortenerCore,
         "htag_splitter": HashtagSplitterCore,
