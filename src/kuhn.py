@@ -4,6 +4,7 @@ import signal
 import sys
 from sys import stdout
 
+
 if sys.version_info.major == 3:
     from m_cores.core_anonymize import AnonymizeCore
     from m_cores.core_char_splitter import CharSplitterCore
@@ -17,7 +18,8 @@ if sys.version_info.major == 3:
     from m_cores.core_word_lower import WordLowerCore
     from m_cores.core_word_splitter import WordSplitterCore
     from m_cores.emitter_core import EmitterCore
-    
+    from m_cores.core_joiner import JoinerCore
+
     CORES = {
         "fetcher":       FetcherCore,
         "parser":        ParserCore,
@@ -30,8 +32,8 @@ if sys.version_info.major == 3:
         "emitter":       EmitterCore,
         "rchar_embed":   RCharsEmbeddingCore,
         "char_embed":    CharsEmbeddingCore,
-
-        "w_embedding":   WordEmbeddingCore
+        "w_embedding":   WordEmbeddingCore,
+        "joiner":        JoinerCore
     }
 else:
     from m_cores.core_classifier import ClassifierCore
