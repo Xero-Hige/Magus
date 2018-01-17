@@ -11,7 +11,7 @@ from m_cores.magus_dump_core import MagusDumpCore
 class WordEmbeddingCore(MagusDumpCore):
     def __init__(self, input_queue, output_queue, tag="Word Embedding", worker_number=0):
         MagusCore.__init__(self, tag, worker_number, input_queue, output_queue)
-        self.embeddings = EmbeddingHandler("words", 300, 80)
+        self.embeddings = EmbeddingHandler("words", 300, 120)
 
     def run_core(self):
         def callback(tweet_string):
