@@ -5,7 +5,7 @@ from __future__ import absolute_import, print_function, unicode_literals
 from m_cores.magus_core import MagusCore
 
 
-class WordLowerCore(MagusCore):
+class LowerCore(MagusCore):
     def __init__(self, input_queue, output_queue, tag="Lower", worker_number=0):
         MagusCore.__init__(self, tag, worker_number, input_queue, output_queue)
 

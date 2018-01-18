@@ -5,20 +5,21 @@ import sys
 from sys import stdout
 
 
+
 if sys.version_info.major == 3:
     from m_cores.core_anonymize import AnonymizeCore
     from m_cores.core_char_splitter import CharSplitterCore
     from m_cores.core_chars_dumper import CharsEmbeddingCore
     from m_cores.core_fetcher import FetcherCore
     from m_cores.core_hashtags_process import HashtagSplitterCore
+    from m_cores.core_joiner import JoinerCore
+    from m_cores.core_lower import LowerCore
     from m_cores.core_parser import ParserCore
     from m_cores.core_rchars_dumper import RCharsEmbeddingCore
     from m_cores.core_shortener import ShortenerCore
     from m_cores.core_word_embeding import WordEmbeddingCore
-    from m_cores.core_word_lower import WordLowerCore
     from m_cores.core_word_splitter import WordSplitterCore
     from m_cores.emitter_core import EmitterCore
-    from m_cores.core_joiner import JoinerCore
 
     CORES = {
         "fetcher":       FetcherCore,
@@ -28,7 +29,7 @@ if sys.version_info.major == 3:
         "w_splitter":    WordSplitterCore,
         "shortener":     ShortenerCore,
         "htag_splitter": HashtagSplitterCore,
-        "w_lower":       WordLowerCore,
+        "lower":         LowerCore,
         "emitter":       EmitterCore,
         "rchar_embed":   RCharsEmbeddingCore,
         "char_embed":    CharsEmbeddingCore,
