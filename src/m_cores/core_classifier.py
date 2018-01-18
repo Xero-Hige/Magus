@@ -30,42 +30,51 @@ class ClassifierCore(MagusCore):
         self.stub = prediction_service_pb2.beta_create_PredictionService_stub(channel)
 
     def run_core(self):
-        def callback(tweet_string):
-            if not tweet_string:
+        def callback(tweet_id_string):
+            if not tweet_id_string:
                 return
 
-            tweet = self.serializer.loads(tweet_string, encoding="utf-8")
+            tweet_id = self.serializer.loads(tweet_id_string, encoding="utf-8")
 
-            if not tweet:
-                self._log("Can't deserialize tweet")
+            if not tweet_id:
+                self._log("Can't deserialize tweet_id")
                 return
 
-            self._log("Classify new tweet")
-            features_map = self.load_features_map(tweet[TweetParser.TWEET_ID])
-            result = self.make_request(features_map)
-            self._log("Classified new tweet: {}".format(result))
+            rchar_matrix = self.serializer.loads("vectors/rchar_matrix_{}".format(tweet_id), encoding="utf-8")
+            char_matrix = self.serializer.loads("vectors/char_matrix_{}".format(tweet_id), encoding="utf-8")
+            word_matrix = self.serializer.loads("vectors/word_matrix_{}".format(tweet_id), encoding="utf-8")
 
-            tweet_info = {"classification":          result,
-                          TweetParser.TWEET_ID: tweet[TweetParser.TWEET_ID],
-                          "tweet_lat": tweet         ["latitude"],
-                          "tweet_lon": tweet         ["longitude"]
+            self._log("Classify new tweet_id")
+            result = self.make_request(rchar_matrix, char_matrix, word_matrix)
+            self._log("Classified new tweet_id {} as {}".format(tweet_id, result))
+
+            tweet_info = {"classification":             result,
+                          TweetParser.TWEET_ID: tweet_id[TweetParser.TWEET_ID],
+                          # "tweet_lat": tweet_id         ["latitude"],
+                          # "tweet_lon": tweet_id         ["longitude"]
                           }
 
             self.out_queue.send_message(self.serializer.dumps(tweet_info))
 
         self.in_queue.receive_messages(callback)
 
-    def load_features_map(self, tweet_id):
-        return [[0.1 for _ in range(80)] for _ in range(300)]
+    # def load_features_map(self, tweet_id):
+    #    return [[0.1 for _ in range(80)] for _ in range(300)]
 
-    def make_request(self, features_map):
+    def make_request(self, rchar_matrix, char_matrix, word_matrix):
         request = predict_pb2.PredictRequest()
         request.model_spec.name = 'morgana'
         request.model_spec.signature_name = 'predict_tweets'
 
-        request.inputs['tweet_features'].CopyFrom(
-                tf.contrib.util.make_tensor_proto(features_map,
-                                                  shape=[1, 80, 300, 1]))
+        request.inputs['rchar'].CopyFrom(
+                tf.contrib.util.make_tensor_proto(rchar_matrix,
+                                                  shape=[1, 320, 300, 1]))
+        request.inputs['chars'].CopyFrom(
+                tf.contrib.util.make_tensor_proto(char_matrix,
+                                                  shape=[1, 320, 300, 1]))
+        request.inputs['words'].CopyFrom(
+                tf.contrib.util.make_tensor_proto(word_matrix,
+                                                  shape=[1, 120, 300, 1]))
 
         result = self.stub.Predict(request, 2)  # 1 secs timeout
         prediction_index = int(tensor_util.MakeNdarray(result.outputs["predictions"])[0])
