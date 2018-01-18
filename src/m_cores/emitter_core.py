@@ -2,6 +2,7 @@
 
 from __future__ import absolute_import, print_function, unicode_literals
 
+from libs.tweet_parser import TweetParser
 from m_cores.magus_core import MagusCore
 
 
@@ -20,13 +21,18 @@ class EmitterCore(MagusCore):
             if not tweet_info:
                 return
 
-            latitude, longitude = tweet_info["tweet_lat"], tweet_info["tweet_lon"]
+            # latitude, longitude = tweet_info["tweet_lat"], tweet_info["tweet_lon"]
             classification = tweet_info["classification"]
-            coordinates = (latitude, longitude)
-            message = (coordinates, classification)
+            tweet_id = tweet_info[TweetParser.TWEET_ID]
 
-            self._log("Sent {}".format(message))
+            with open("output_folder\classification.csv", 'w') as output:
+                output.write("{},{}\n".format(tweet_id, classification))
 
-            self.out_queue.send_message(self.serializer.dumps(message))
+                # coordinates = (latitude, longitude)
+                # message = (coordinates, classification)
+
+                # self._log("Sent {}".format(message))
+
+                #self.out_queue.send_message(self.serializer.dumps(message))
 
         self.in_queue.receive_messages(callback)
