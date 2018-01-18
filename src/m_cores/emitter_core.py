@@ -25,7 +25,7 @@ class EmitterCore(MagusCore):
             classification = tweet_info["classification"]
             tweet_id = tweet_info[TweetParser.TWEET_ID]
 
-            with open("output_folder\classification.csv", 'w') as output:
+            with open("/output_folder\classification.csv", 'a') as output:
                 output.write("{},{}\n".format(tweet_id, classification))
 
                 # coordinates = (latitude, longitude)
