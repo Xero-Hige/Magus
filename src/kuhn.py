@@ -4,8 +4,6 @@ import signal
 import sys
 from sys import stdout
 
-
-
 if sys.version_info.major == 3:
     from m_cores.core_anonymize import AnonymizeCore
     from m_cores.core_char_splitter import CharSplitterCore
@@ -20,11 +18,13 @@ if sys.version_info.major == 3:
     from m_cores.core_word_embeding import WordEmbeddingCore
     from m_cores.core_word_splitter import WordSplitterCore
     from m_cores.emitter_core import EmitterCore
+    from m_cores.core_strip_accents import StripAccentsCore
 
     CORES = {
         "fetcher":       FetcherCore,
         "parser":        ParserCore,
         "anonymize":     AnonymizeCore,
+        "s_accents":     StripAccentsCore,
         "char_splitter": CharSplitterCore,
         "w_splitter":    WordSplitterCore,
         "shortener":     ShortenerCore,
