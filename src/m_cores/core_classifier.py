@@ -48,8 +48,8 @@ class ClassifierCore(MagusCore):
             result = self.make_request(rchar_matrix, char_matrix, word_matrix)
             self._log("Classified new tweet_id {} as {}".format(tweet_id, result))
 
-            tweet_info = {"classification":             result,
-                          TweetParser.TWEET_ID: tweet_id[TweetParser.TWEET_ID],
+            tweet_info = {"classification":     result,
+                          TweetParser.TWEET_ID: tweet_id,
                           # "tweet_lat": tweet_id         ["latitude"],
                           # "tweet_lon": tweet_id         ["longitude"]
                           }
