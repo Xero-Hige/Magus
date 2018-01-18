@@ -1,2 +1,8 @@
 {
+  "classifier_core": {
+    "tag": "classifier",
+    "replicas": 3,
+    "input_queue": "joiner_output",
+    "output_queue": "classifier_output"
+  }
 }
