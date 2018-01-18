@@ -6,7 +6,7 @@ from m_cores.magus_core import MagusCore
 
 
 class WordLowerCore(MagusCore):
-    def __init__(self, input_queue, output_queue, tag="Word Lower", worker_number=0):
+    def __init__(self, input_queue, output_queue, tag="Lower", worker_number=0):
         MagusCore.__init__(self, tag, worker_number, input_queue, output_queue)
 
     def run_core(self):
@@ -21,8 +21,7 @@ class WordLowerCore(MagusCore):
                 return
 
             self._log("Lowering tweet")
-            for i in range(len(tweet["words"])):
-                tweet['words'][i] = tweet['words'][i].lower()
+            tweet["tweet_text"] = tweet["tweet_text"].lower()
             self._log("Lowered tweet")
 
             self.out_queue.send_message(self.serializer.dumps(tweet))
