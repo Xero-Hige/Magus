@@ -10,5 +10,4 @@ class MagusDumpCore(MagusCore):
 
     def __init__(self, input_queue, output_queue, tag, worker_number):
         MagusCore.__init__(self, tag, worker_number, input_queue, output_queue)
-        if output_queue:
-            self.dump_queue = RabbitHandler("MERGER")
+        self.dump_queue = RabbitHandler("MERGER")

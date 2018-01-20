@@ -3,7 +3,7 @@ import json
 from core_utils.debugger import debug_core_print_d
 from libs.rabbit_handler import RabbitHandler
 
-DEBUG = False
+DEBUG = True
 
 
 class MagusCore:
