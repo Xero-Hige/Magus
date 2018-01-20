@@ -24,6 +24,10 @@ class ParserCore(MagusCore):
                 self._log("Can't parse tweet")
                 return
 
+            if tweet["tweet_lang"].lower() != 'en':
+                self._log("Not english: {}".format(tweet["tweet_lang"]))
+                return
+
             self.out_queue.send_message(self.serializer.dumps(tweet))
 
         self.in_queue.receive_messages(callback)

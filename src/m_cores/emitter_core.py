@@ -16,6 +16,7 @@ class EmitterCore(MagusCore):
             if not tweet_string:
                 return
 
+            self._log("Incoming emitter tweet {}".format(tweet_string))
             tweet_info = self.serializer.loads(tweet_string)
 
             if not tweet_info:
@@ -25,8 +26,8 @@ class EmitterCore(MagusCore):
             classification = tweet_info["classification"]
             tweet_id = tweet_info[TweetParser.TWEET_ID]
 
-            with open("/output_folder\classification.csv", 'a') as output:
-                output.write("{},{}\n".format(tweet_id, classification))
+            with open("/output_folder/classification.html", 'a') as output:
+                output.write("<a href=\"https://twitter.com/statuses/{}\">{}</a><br>".format(tweet_id, classification))
 
                 # coordinates = (latitude, longitude)
                 # message = (coordinates, classification)
