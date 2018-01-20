@@ -21,8 +21,9 @@ services:
       - twitter.env
 
     volumes:
-      - ./vectors:/vectors
-      - ./models:/models
-      - ./bulk:/training
+      - ./vectors:/Magus/vectors
+      - ./w2v_models:/w2v_models
+      - ./output_folder:/output_folder
+      - ./temp_tweets:/tweets
 
     stop_signal: SIGINT
