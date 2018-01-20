@@ -64,7 +64,8 @@ class DetachedCore:
 
 
 def main():
-    print("Starting Kuhn")
+    print("Starting Kuhn: Cores {}".format(len(CORES)))
+    stdout.flush()
     cores = []
 
     if len(sys.argv) > 1:
