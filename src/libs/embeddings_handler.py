@@ -3,7 +3,7 @@ from gensim.models import KeyedVectors
 
 class EmbeddingHandler:
     def __init__(self, model_name, embedding_size, matrix_height):
-        self.features_vectors = KeyedVectors.load('w2v_models/{}.mdl'.format(model_name))
+        self.features_vectors = KeyedVectors.load('/w2v_models/{}.mdl'.format(model_name))
         self.embedding_size = embedding_size
         self.matrix_height = matrix_height
 
