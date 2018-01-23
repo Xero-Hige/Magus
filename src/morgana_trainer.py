@@ -122,18 +122,20 @@ def main(_):
     prediction_classes = 9  # y_train.shape[1]
 
     saver = tf.train.Saver()
-    # it = 0
-    # if it != 0:
-    saver.restore(sess, "tmp/" + output_folder + "_{}.ckpt".format(start_it))
-    batches = ["/media/hige/320/train_data/batch_{}.dmp".format(x) for x in range(547)]
+
+    if start_it != 0:
+        saver.restore(sess, "tmp/" + output_folder + "_{}.ckpt".format(start_it))
+
+    test_batches = ["/media/hige/320/train_data/batch_{}.dmp".format(x) for x in range(56)]
+    batches = ["/media/hige/320/train_data/batch_{}.dmp".format(x) for x in range(56, 547)]
 
     for it in range(start_it + 1, iterations):
         do_train_step(batches, cnn, it, output_folder, saver, sess, train_step)
 
-        if it % (iterations // 4 + 1) == 0:
-            do_test_step(batches, cnn, sess)
+        if it % (3) == 0:
+            do_test_step(test_batches, cnn, sess)
 
-    do_test_step(batches, cnn, sess)
+    do_test_step(test_batches, cnn, sess)
     print('Done training!')
 
     # Save the model
@@ -222,7 +224,7 @@ def do_train_step(batches, cnn, it, output_folder, saver, sess, train_step):
     total_loss = 0
     total_accuracy = 0
     total_batches = 0
-    for batch_number in range(547):
+    for batch_number in range(len(batches)):
         with open(batches[batch_number], 'rb') as pickled:
             batch_data = pickle.load(pickled)
 
@@ -259,7 +261,7 @@ def do_test_step(batches, cnn, sess):
     total_accuracy = 0
     total_batches = 0
     random.shuffle(batches)
-    for batch_number in range(547):
+    for batch_number in range(len(batches)):
         with open(batches[batch_number], 'rb') as pickled:
             batch_data = pickle.load(pickled)
 

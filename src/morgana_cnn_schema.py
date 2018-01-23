@@ -89,8 +89,8 @@ class MorganaCNNSchema(CNNSchema):
 
         dense_layers = tf.concat([words_dl, chars_dl, r_chars_dl], 1)
 
-        dropout_layer_output = self.create_dropout_layer(dense_layers, dropout_prob=self.dropout_keep_prob)
-        scores, predictions, l2_loss = self.create_output_layer(dropout_layer_output, num_classes * 9,
+        #dropout_layer_output = self.create_dropout_layer(dense_layers, dropout_prob=self.dropout_keep_prob)
+        scores, predictions, l2_loss = self.create_output_layer(dense_layers, num_classes * 9,
                                                                 9,
                                                                 l2_loss=l2_loss)
 
