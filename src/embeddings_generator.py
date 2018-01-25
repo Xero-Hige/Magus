@@ -15,14 +15,14 @@ def generate_word_embeddings():
 
 def generate_raw_chars_embeddings():
     sentences = TrainSentenceGenerator(["../tweets", "../bulk"], RawCharTokenizer)
-    model = gensim.models.Word2Vec(sentences, min_count=10, size=300)
+    model = gensim.models.Word2Vec(sentences, min_count=5, size=300)
     word_vector = model.wv
     word_vector.save('./rCharsEmbeddings.mdl')
 
 
 def generate_chars_embeddings():
     sentences = TrainSentenceGenerator(["../tweets", "../bulk"], CharTokenizer)
-    model = gensim.models.Word2Vec(sentences, min_count=10, size=300)
+    model = gensim.models.Word2Vec(sentences, min_count=5, size=300)
     word_vector = model.wv
     word_vector.save('./charsEmbeddings.mdl')
 

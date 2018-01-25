@@ -110,6 +110,10 @@ class MorganaCNNSchema(CNNSchema):
             tagged_tweets = handler.get_all_tagged()
 
             for tweet_data in tagged_tweets:
+                # TODO: Delete this
+                if "fx" not in tweet_data.id:
+                    continue
+
                 try:
                     tweet = TweetParser.parse_from_json_file("../bulk/{}.json".format(tweet_data.id))
                 except IOError:

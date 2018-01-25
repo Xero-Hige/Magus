@@ -126,8 +126,8 @@ def main(_):
     if start_it != 0:
         saver.restore(sess, "tmp/" + output_folder + "_{}.ckpt".format(start_it))
 
-    test_batches = ["/media/hige/320/train_data/batch_{}.dmp".format(x) for x in range(56)]
-    batches = ["/media/hige/320/train_data/batch_{}.dmp".format(x) for x in range(56, 547)]
+    test_batches = ["/media/hige/320/train_data/batch_{}.dmp".format(x) for x in range(14)]
+    batches = ["/media/hige/320/train_data/batch_{}.dmp".format(x) for x in range(14, 135)]
 
     for it in range(start_it + 1, iterations):
         do_train_step(batches, cnn, it, output_folder, saver, sess, train_step)
