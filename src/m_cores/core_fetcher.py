@@ -17,6 +17,8 @@ class FetcherCore(MagusCore):
     def run_core(self):
         for tweet in self.tweets_stream:
             self._log("Tweet received")
+            if not "id" in tweet:
+                continue
             tweet_string = json.dumps(tweet)
             self.out_queue.send_message(tweet_string)
             with open("/tweets/{}.json".format(tweet["id"]), 'w') as output:
