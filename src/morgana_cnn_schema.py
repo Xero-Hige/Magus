@@ -110,6 +110,10 @@ class MorganaCNNSchema(CNNSchema):
             tagged_tweets = handler.get_all_tagged()
 
             for tweet_data in tagged_tweets:
+                # TODO: Remove
+                if "fx" not in tweet_data.id:
+                    continue
+
                 try:
                     tweet = TweetParser.parse_from_json_file("../bulk/{}.json".format(tweet_data.id))
                 except IOError:
@@ -118,9 +122,6 @@ class MorganaCNNSchema(CNNSchema):
                     except IOError:
                         print("Missing tweet id: ", tweet_data.id)
                         continue
-
-                if "fx" not in tweet_data.id:
-                    continue
 
                 data.append((tweet, tweet_data.get_tweet_emotion()))
 
