@@ -23,7 +23,7 @@ class CNNSchema(object):
     def get_loss(input_labels, l2_loss, l2_reg_lambda, scores):
         # Calculate mean cross-entropy loss
         with tf.name_scope("loss"):
-            losses = tf.nn.softmax_cross_entropy_with_logits(logits=scores, labels=input_labels)
+            losses = tf.nn.sparse_softmax_cross_entropy_with_logits(logits=scores, labels=input_labels)
             return tf.reduce_mean(losses) + l2_reg_lambda * l2_loss
 
     @staticmethod

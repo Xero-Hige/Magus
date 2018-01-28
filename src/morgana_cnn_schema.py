@@ -4,7 +4,7 @@ import tensorflow as tf
 from cnn_schema import CNNSchema
 from libs.db_tweet import DB_Handler
 from libs.embedding_mapper import EmbeddingMapper
-from libs.sentiments_handling import ANGER, ANTICIPATION, DISGUST, FEAR, JOY, NEUTRAL, SADNESS, SURPRISE, TRUST
+from libs.sentiments_handling import ANGER, FEAR, JOY, NEUTRAL, SADNESS
 from libs.tweet_parser import TweetParser
 from tokenizer.char_tokenizer import CharTokenizer
 from tokenizer.raw_char_tokenizer import RawCharTokenizer
@@ -15,14 +15,14 @@ MAX_CHARS = 320
 
 EMOTION_LOOKUP = {
     JOY:          0,
-    TRUST:        1,
-    FEAR:         2,
-    SURPRISE:     3,
-    SADNESS:      4,
-    DISGUST:      5,
-    ANGER:        6,
-    ANTICIPATION: 7,
-    NEUTRAL:      8
+    # TRUST:        1,
+    FEAR:         1,
+    # SURPRISE:     3,
+    SADNESS:      2,
+    # DISGUST:      5,
+    ANGER:        3,
+    # ANTICIPATION: 7,
+    NEUTRAL:      4
 }
 
 
@@ -110,10 +110,6 @@ class MorganaCNNSchema(CNNSchema):
             tagged_tweets = handler.get_all_tagged()
 
             for tweet_data in tagged_tweets:
-                # TODO: Delete this
-                if "fx" not in tweet_data.id:
-                    continue
-
                 try:
                     tweet = TweetParser.parse_from_json_file("../bulk/{}.json".format(tweet_data.id))
                 except IOError:
@@ -122,6 +118,9 @@ class MorganaCNNSchema(CNNSchema):
                     except IOError:
                         print("Missing tweet id: ", tweet_data.id)
                         continue
+
+                if "fx" not in tweet_data.id:
+                    continue
 
                 data.append((tweet, tweet_data.get_tweet_emotion()))
 
