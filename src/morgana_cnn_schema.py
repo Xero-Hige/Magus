@@ -64,8 +64,8 @@ class MorganaCNNSchema(CNNSchema):
                                                                                       MAX_WORDS,
                                                                                       activation=tf.nn.tanh)
 
-        words_dl, l2_loss = self.create_dense_layer(convolution_layer_output_words, output_channels, num_classes * 3,
-                                                    name="words", l2_loss=l2_loss)
+        words_dl = self.create_dense_layer(convolution_layer_output_words, output_channels, num_classes * 3,
+                                           name="words", l2_loss=l2_loss)
 
         convolution_layer_output_chars, output_channels = self.create_conv_pool_layer(self.input_x_chars,
                                                                                       embedding_size,
@@ -74,8 +74,8 @@ class MorganaCNNSchema(CNNSchema):
                                                                                       MAX_CHARS,
                                                                                       activation=tf.nn.tanh)
 
-        chars_dl, l2_loss = self.create_dense_layer(convolution_layer_output_chars, output_channels, num_classes * 3,
-                                                    name="chars", l2_loss=l2_loss)
+        chars_dl = self.create_dense_layer(convolution_layer_output_chars, output_channels, num_classes * 3,
+                                           name="chars", l2_loss=l2_loss)
 
         convolution_layer_output_r_chars, output_channels = self.create_conv_pool_layer(self.input_x_rchars,
                                                                                         embedding_size,
@@ -84,15 +84,15 @@ class MorganaCNNSchema(CNNSchema):
                                                                                         MAX_CHARS,
                                                                                         activation=tf.nn.tanh)
 
-        r_chars_dl, l2_loss = self.create_dense_layer(convolution_layer_output_chars, output_channels, num_classes * 3,
-                                                      name="raw_chars", l2_loss=l2_loss)
+        r_chars_dl = self.create_dense_layer(convolution_layer_output_chars, output_channels, num_classes * 3,
+                                             name="raw_chars", l2_loss=l2_loss)
 
         dense_layers = tf.concat([words_dl, chars_dl, r_chars_dl], 1)
 
         #dropout_layer_output = self.create_dropout_layer(dense_layers, dropout_prob=self.dropout_keep_prob)
-        scores, predictions, l2_loss = self.create_output_layer(dense_layers, num_classes * 9,
-                                                                9,
-                                                                l2_loss=l2_loss)
+        scores, predictions = self.create_output_layer(dense_layers, num_classes * 9,
+                                                       num_classes,
+                                                       l2_loss=l2_loss)
 
         print("Scores", scores)
         print("Predict", predictions)

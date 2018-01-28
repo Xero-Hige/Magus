@@ -33,20 +33,23 @@ class CNNSchema(object):
                             prediction_f=lambda x: tf.argmax(x, 1)):
         # Final (unnormalized) scores and predictions
         with tf.name_scope("output-layer"):
-            W = tf.get_variable(
-                    name="W_out",
-                    shape=[input_size, num_classes],
-                    initializer=tf.contrib.layers.xavier_initializer())
+            # W = tf.get_variable(
+            #        name="W_out",
+            #        shape=[input_size, num_classes],
+            #        initializer=tf.contrib.layers.xavier_initializer())
 
-            b = tf.Variable(tf.constant(bias, shape=[num_classes]), name="b_out")
+            #b = tf.Variable(tf.constant(bias, shape=[num_classes]), name="b_out")
 
-            l2_loss += tf.nn.l2_loss(W)
-            l2_loss += tf.nn.l2_loss(b)
+            # l2_loss += tf.nn.l2_loss(W)
+            #l2_loss += tf.nn.l2_loss(b)
 
-            scores = tf.nn.xw_plus_b(input_layer, W, b, name="scores")
+            # scores = tf.nn.xw_plus_b(input_layer, W, b, name="scores")
+
+            scores = tf.layers.dense(inputs=input_layer, units=num_classes)
+
             predictions = prediction_f(scores)
 
-        return scores, predictions, l2_loss
+        return scores, predictions
 
     @staticmethod
     def create_dense_layer(input_layer, input_size, output_size,
@@ -54,19 +57,26 @@ class CNNSchema(object):
                            l2_loss=tf.constant(0.0),
                            bias=0.1):
         with tf.name_scope("dense-layer_" + name):
-            W = tf.get_variable(
-                    name="W_dense_" + name,
-                    shape=[input_size, output_size],
-                    initializer=tf.contrib.layers.xavier_initializer())
+            # W = tf.get_variable(
+            #        name="W_dense_" + name,
+            #        shape=[input_size, output_size],
+            #        initializer=tf.contrib.layers.xavier_initializer())
 
-            b = tf.Variable(tf.constant(bias, shape=[output_size]), name="b_dense_" + name)
+            # b = tf.Variable(tf.constant(bias, shape=[output_size]), name="b_dense_" + name)
 
-            l2_loss += tf.nn.l2_loss(W)
-            l2_loss += tf.nn.l2_loss(b)
+            # l2_loss += tf.nn.l2_loss(W)
+            # l2_loss += tf.nn.l2_loss(b)
 
-            dense_layer = tf.nn.xw_plus_b(input_layer, W, b)
+            # dense_layer = tf.nn.xw_plus_b(input_layer, W, b)
 
-        return dense_layer, l2_loss
+            dense_layer = tf.layers.dense(inputs=input_layer,
+                                          units=output_size,
+                                          activation=tf.nn.tanh,
+                                          use_bias=True,
+                                          kernel_initializer=tf.contrib.layers.xavier_initializer,
+                                          trainable=True)
+
+        return dense_layer  # , l2_loss
 
     @staticmethod
     def create_dropout_layer(input_layer,
@@ -129,7 +139,7 @@ class CNNSchema(object):
                 padding=padding,
                 name="convolution-layer")
 
-        # Apply nonlinearity
+        # Apply activation
         filter_layers = activation(tf.nn.bias_add(convolution_layer, filters_bias), name="activation")
         return filter_layers
 
