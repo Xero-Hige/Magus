@@ -33,11 +33,11 @@ from tensorflow.python.saved_model import builder as saved_model_builder, signat
 from tensorflow.python.util import compat
 
 # training flags
-from morgana_cnn_schema import MAX_WORDS, MorganaCNNSchema
+from morgana_cnn_schema import EMOTION_LOOKUP, MAX_WORDS, MorganaCNNSchema
 
 VOCAB_SIZE = MAX_WORDS
 EMBEDDINGS_LENGTH = 300
-NUM_CLASSES = 9
+NUM_CLASSES = len(EMOTION_LOOKUP)
 
 tf.app.flags.DEFINE_integer('training_iteration', 1000, 'number of training iterations.')
 tf.app.flags.DEFINE_integer('model_version', 1, 'version number of the model.')
@@ -107,7 +107,7 @@ def main(_):
     # x_train, y_train = get_train_data()
 
     cnn = MorganaCNNSchema(
-            num_classes=9,  # y_train.shape[1],
+            num_classes=NUM_CLASSES,
             vocab_size=VOCAB_SIZE,
             embedding_size=FLAGS.embedding_dim,
             filter_sizes=list(map(int, filters.split(","))),
