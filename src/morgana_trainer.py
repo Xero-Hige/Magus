@@ -119,8 +119,6 @@ def main(_):
     tf.initialize_all_variables().run()
 
     # train the model
-    prediction_classes = 9  # y_train.shape[1]
-
     saver = tf.train.Saver()
 
     if start_it != 0:

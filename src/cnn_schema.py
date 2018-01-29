@@ -16,7 +16,7 @@ class CNNSchema(object):
     def get_accuracy(input_labels, predictions):
         # Accuracy
         with tf.name_scope("accuracy"):
-            correct_predictions = tf.equal(predictions, tf.argmax(input_labels, 1))
+            correct_predictions = tf.equal(predictions, tf.cast(input_labels, "int64"))
             return tf.reduce_mean(tf.cast(correct_predictions, "float"), name="accuracy")
 
     @staticmethod
@@ -73,7 +73,7 @@ class CNNSchema(object):
                                           units=output_size,
                                           activation=tf.nn.tanh,
                                           use_bias=True,
-                                          kernel_initializer=tf.contrib.layers.xavier_initializer,
+                                          kernel_initializer=tf.contrib.layers.xavier_initializer(),
                                           trainable=True)
 
         return dense_layer  # , l2_loss
@@ -148,7 +148,7 @@ class CNNSchema(object):
         # shape of input = [batch, in_height, in_width, in_channels]
 
         input_x = tf.placeholder(tf.float32, [None, None, embeddings_length, 1], name="input_x" + name)
-        input_y = tf.placeholder(tf.int32, [None, num_classes], name="input_y" + name)
+        input_y = tf.placeholder(tf.int32, [num_classes], name="input_y" + name)
 
         return input_x, input_y
 

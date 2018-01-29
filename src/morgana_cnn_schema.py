@@ -134,9 +134,9 @@ class MorganaCNNSchema(CNNSchema):
 
             features.append(str(tweet[TweetParser.TWEET_ID]))
 
-            label = [0] * len(EMOTION_LOOKUP)
-            label[EMOTION_LOOKUP[tag]] = 1
-            labels.append(label)
+            #            label = [0] * len(EMOTION_LOOKUP)
+            #            label[EMOTION_LOOKUP[tag]] = 1
+            labels.append(EMOTION_LOOKUP[tag])
 
         features = np.asarray(features, dtype=object)
         labels = np.asarray(labels, dtype=np.float32)
