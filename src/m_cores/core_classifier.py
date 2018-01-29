@@ -13,11 +13,11 @@ from grpc.beta import implementations
 from tensorflow.python.framework import tensor_util
 from tensorflow_serving.apis import predict_pb2, prediction_service_pb2
 
-from libs.sentiments_handling import ANGER, ANTICIPATION, DISGUST, FEAR, JOY, NEUTRAL, SADNESS, SURPRISE, TRUST
+from libs.sentiments_handling import ANGER, FEAR, JOY, NEUTRAL, SADNESS
 from libs.tweet_parser import TweetParser
 from m_cores.magus_core import MagusCore
 
-EMOTION_LOOKUP = [JOY, TRUST, FEAR, SURPRISE, SADNESS, DISGUST, ANGER, ANTICIPATION, NEUTRAL]
+EMOTION_LOOKUP = [JOY, FEAR, SADNESS, ANGER, NEUTRAL]
 
 tf.app.flags.DEFINE_string('server',
                            '172.19.0.1:9000',
