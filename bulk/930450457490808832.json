@@ -1,0 +1,415 @@
+{
+  "id": 930450457490808832,
+  "lang": "es",
+  "in_reply_to_status_id_str": null,
+  "truncated": true,
+  "place": {
+    "id": "0060ebce4be75d6a",
+    "country": "Chile",
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            -71.14212,
+            -28.175618
+          ],
+          [
+            -71.14212,
+            -26.655298
+          ],
+          [
+            -68.263211,
+            -26.655298
+          ],
+          [
+            -68.263211,
+            -28.175618
+          ]
+        ]
+      ]
+    },
+    "url": "https://api.twitter.com/1.1/geo/id/0060ebce4be75d6a.json",
+    "full_name": "Copiap\u00f3, Chile",
+    "attributes": {},
+    "name": "Copiap\u00f3",
+    "place_type": "city",
+    "country_code": "CL"
+  },
+  "favorite_count": 0,
+  "retweeted": false,
+  "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+  "is_quote_status": false,
+  "possibly_sensitive": false,
+  "geo": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_status_id": null,
+  "retweet_count": 0,
+  "quote_count": 0,
+  "timestamp_ms": "1510671650656",
+  "favorited": false,
+  "coordinates": null,
+  "filter_level": "low",
+  "entities": {
+    "urls": [
+      {
+        "indices": [
+          117,
+          140
+        ],
+        "display_url": "twitter.com/i/web/status/9\u2026",
+        "url": "https://t.co/bsyqMpNnUY",
+        "expanded_url": "https://twitter.com/i/web/status/930450457490808832"
+      }
+    ],
+    "symbols": [],
+    "user_mentions": [
+      {
+        "screen_name": "VianaOpazo",
+        "id": 289135003,
+        "name": "Viana Opazo",
+        "indices": [
+          27,
+          38
+        ],
+        "id_str": "289135003"
+      }
+    ],
+    "hashtags": [
+      {
+        "text": "Copiap\u00f3",
+        "indices": [
+          97,
+          105
+        ]
+      }
+    ]
+  },
+  "reply_count": 0,
+  "in_reply_to_screen_name": null,
+  "display_text_range": [
+    0,
+    140
+  ],
+  "text": "Nuestra Directora Regional @VianaOpazo junto a autoridades de gobierno, presentes en la Feria de #Copiap\u00f3, informan\u2026 https://t.co/bsyqMpNnUY",
+  "extended_tweet": {
+    "display_text_range": [
+      0,
+      176
+    ],
+    "extended_entities": {
+      "media": [
+        {
+          "id": 930450387768893440,
+          "display_url": "pic.twitter.com/s6XfGRyKa9",
+          "id_str": "930450387768893440",
+          "indices": [
+            177,
+            200
+          ],
+          "expanded_url": "https://twitter.com/INJUVATACAMA/status/930450457490808832/photo/1",
+          "type": "photo",
+          "url": "https://t.co/s6XfGRyKa9",
+          "media_url_https": "https://pbs.twimg.com/media/DOmfsqwW4AAbMZA.jpg",
+          "media_url": "http://pbs.twimg.com/media/DOmfsqwW4AAbMZA.jpg",
+          "sizes": {
+            "small": {
+              "w": 680,
+              "h": 508,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 1280,
+              "h": 956,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 1200,
+              "h": 896,
+              "resize": "fit"
+            }
+          }
+        },
+        {
+          "id": 930450405460496390,
+          "display_url": "pic.twitter.com/s6XfGRyKa9",
+          "id_str": "930450405460496390",
+          "indices": [
+            177,
+            200
+          ],
+          "expanded_url": "https://twitter.com/INJUVATACAMA/status/930450457490808832/photo/1",
+          "type": "photo",
+          "url": "https://t.co/s6XfGRyKa9",
+          "media_url_https": "https://pbs.twimg.com/media/DOmftsqXUAYTAeL.jpg",
+          "media_url": "http://pbs.twimg.com/media/DOmftsqXUAYTAeL.jpg",
+          "sizes": {
+            "small": {
+              "w": 680,
+              "h": 508,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 1280,
+              "h": 956,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 1200,
+              "h": 896,
+              "resize": "fit"
+            }
+          }
+        },
+        {
+          "id": 930450438318641158,
+          "display_url": "pic.twitter.com/s6XfGRyKa9",
+          "id_str": "930450438318641158",
+          "indices": [
+            177,
+            200
+          ],
+          "expanded_url": "https://twitter.com/INJUVATACAMA/status/930450457490808832/photo/1",
+          "type": "photo",
+          "url": "https://t.co/s6XfGRyKa9",
+          "media_url_https": "https://pbs.twimg.com/media/DOmfvnEW0AY38m7.jpg",
+          "media_url": "http://pbs.twimg.com/media/DOmfvnEW0AY38m7.jpg",
+          "sizes": {
+            "small": {
+              "w": 680,
+              "h": 680,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 1251,
+              "h": 1251,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 1200,
+              "h": 1200,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "entities": {
+      "media": [
+        {
+          "id": 930450387768893440,
+          "display_url": "pic.twitter.com/s6XfGRyKa9",
+          "id_str": "930450387768893440",
+          "indices": [
+            177,
+            200
+          ],
+          "expanded_url": "https://twitter.com/INJUVATACAMA/status/930450457490808832/photo/1",
+          "type": "photo",
+          "url": "https://t.co/s6XfGRyKa9",
+          "media_url_https": "https://pbs.twimg.com/media/DOmfsqwW4AAbMZA.jpg",
+          "media_url": "http://pbs.twimg.com/media/DOmfsqwW4AAbMZA.jpg",
+          "sizes": {
+            "small": {
+              "w": 680,
+              "h": 508,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 1280,
+              "h": 956,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 1200,
+              "h": 896,
+              "resize": "fit"
+            }
+          }
+        },
+        {
+          "id": 930450405460496390,
+          "display_url": "pic.twitter.com/s6XfGRyKa9",
+          "id_str": "930450405460496390",
+          "indices": [
+            177,
+            200
+          ],
+          "expanded_url": "https://twitter.com/INJUVATACAMA/status/930450457490808832/photo/1",
+          "type": "photo",
+          "url": "https://t.co/s6XfGRyKa9",
+          "media_url_https": "https://pbs.twimg.com/media/DOmftsqXUAYTAeL.jpg",
+          "media_url": "http://pbs.twimg.com/media/DOmftsqXUAYTAeL.jpg",
+          "sizes": {
+            "small": {
+              "w": 680,
+              "h": 508,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 1280,
+              "h": 956,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 1200,
+              "h": 896,
+              "resize": "fit"
+            }
+          }
+        },
+        {
+          "id": 930450438318641158,
+          "display_url": "pic.twitter.com/s6XfGRyKa9",
+          "id_str": "930450438318641158",
+          "indices": [
+            177,
+            200
+          ],
+          "expanded_url": "https://twitter.com/INJUVATACAMA/status/930450457490808832/photo/1",
+          "type": "photo",
+          "url": "https://t.co/s6XfGRyKa9",
+          "media_url_https": "https://pbs.twimg.com/media/DOmfvnEW0AY38m7.jpg",
+          "media_url": "http://pbs.twimg.com/media/DOmfvnEW0AY38m7.jpg",
+          "sizes": {
+            "small": {
+              "w": 680,
+              "h": 680,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 1251,
+              "h": 1251,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 1200,
+              "h": 1200,
+              "resize": "fit"
+            }
+          }
+        }
+      ],
+      "urls": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "screen_name": "VianaOpazo",
+          "id": 289135003,
+          "name": "Viana Opazo",
+          "indices": [
+            27,
+            38
+          ],
+          "id_str": "289135003"
+        }
+      ],
+      "hashtags": [
+        {
+          "text": "Copiap\u00f3",
+          "indices": [
+            97,
+            105
+          ]
+        },
+        {
+          "text": "Elecciones2017",
+          "indices": [
+            143,
+            158
+          ]
+        },
+        {
+          "text": "YoDecido",
+          "indices": [
+            159,
+            168
+          ]
+        },
+        {
+          "text": "YoVoto",
+          "indices": [
+            169,
+            176
+          ]
+        }
+      ]
+    },
+    "full_text": "Nuestra Directora Regional @VianaOpazo junto a autoridades de gobierno, presentes en la Feria de #Copiap\u00f3, informando a la comunidad sobre las #Elecciones2017 #YoDecido #YoVoto https://t.co/s6XfGRyKa9"
+  },
+  "user": {
+    "statuses_count": 6760,
+    "id": 166731615,
+    "default_profile": false,
+    "favourites_count": 582,
+    "url": "http://www.injuv.cl",
+    "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/446310711967219712/TZoCMgmQ.png",
+    "verified": false,
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/882660251123757067/Ihi6cfS-_normal.jpg",
+    "translator_type": "none",
+    "location": "Atacama",
+    "geo_enabled": true,
+    "utc_offset": -10800,
+    "notifications": null,
+    "profile_background_tile": false,
+    "friends_count": 197,
+    "is_translator": false,
+    "follow_request_sent": null,
+    "default_profile_image": false,
+    "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/446310711967219712/TZoCMgmQ.png",
+    "profile_background_color": "C0DEED",
+    "profile_link_color": "0084B4",
+    "profile_use_background_image": true,
+    "time_zone": "Santiago",
+    "name": "INJUV ATACAMA",
+    "profile_text_color": "333333",
+    "profile_sidebar_border_color": "FFFFFF",
+    "screen_name": "INJUVATACAMA",
+    "lang": "es",
+    "following": null,
+    "listed_count": 28,
+    "protected": false,
+    "profile_sidebar_fill_color": "DDEEF6",
+    "followers_count": 2104,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/882660251123757067/Ihi6cfS-_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/166731615/1506687405",
+    "contributors_enabled": false,
+    "created_at": "Wed Jul 14 21:41:58 +0000 2010",
+    "id_str": "166731615",
+    "description": "Twitter oficial de INJUV en Atacama. Director Nacional Nicol\u00e1s Farf\u00e1n Cerda/ Directora Regional Viana Opazo Collao @VianaOpazo"
+  },
+  "created_at": "Tue Nov 14 15:00:50 +0000 2017",
+  "id_str": "930450457490808832",
+  "in_reply_to_user_id": null,
+  "contributors": null
+}

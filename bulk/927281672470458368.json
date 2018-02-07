@@ -1,1 +1,103 @@
-{"created_at": "Sun Nov 05 21:09:13 +0000 2017", "id": 927281672470458368, "id_str": "927281672470458368", "text": "@realdonovankidd @cinemasins Justice League will be 8xbetter than the Emoji movie", "display_text_range": [29, 81], "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>", "truncated": false, "in_reply_to_status_id": 927281255330320386, "in_reply_to_status_id_str": "927281255330320386", "in_reply_to_user_id": 3438306635, "in_reply_to_user_id_str": "3438306635", "in_reply_to_screen_name": "realdonovankidd", "user": {"id": 405052561, "id_str": "405052561", "name": "Trevor Hadley", "screen_name": "THadley4", "location": "Bothell, WA", "url": null, "description": "Bodybuilder and being awesome", "translator_type": "none", "protected": false, "verified": false, "followers_count": 198, "friends_count": 2394, "listed_count": 2, "favourites_count": 853, "statuses_count": 3182, "created_at": "Fri Nov 04 19:52:55 +0000 2011", "utc_offset": -18000, "time_zone": "Eastern Time (US & Canada)", "geo_enabled": true, "lang": "en", "contributors_enabled": false, "is_translator": false, "profile_background_color": "C0DEED", "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png", "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", "profile_background_tile": false, "profile_link_color": "1DA1F2", "profile_sidebar_border_color": "C0DEED", "profile_sidebar_fill_color": "DDEEF6", "profile_text_color": "333333", "profile_use_background_image": true, "profile_image_url": "http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png", "profile_image_url_https": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png", "default_profile": true, "default_profile_image": false, "following": null, "follow_request_sent": null, "notifications": null}, "geo": null, "coordinates": null, "place": {"id": "ac88a4f17a51c7fc", "url": "https://api.twitter.com/1.1/geo/id/ac88a4f17a51c7fc.json", "place_type": "city", "name": "Portland", "full_name": "Portland, OR", "country_code": "US", "country": "United States", "bounding_box": {"type": "Polygon", "coordinates": [[[-122.790065, 45.421863], [-122.790065, 45.650941], [-122.471751, 45.650941], [-122.471751, 45.421863]]]}, "attributes": {}}, "contributors": null, "is_quote_status": false, "quote_count": 0, "reply_count": 0, "retweet_count": 0, "favorite_count": 0, "entities": {"hashtags": [], "urls": [], "user_mentions": [{"screen_name": "realdonovankidd", "name": "Donovan Keed", "id": 3438306635, "id_str": "3438306635", "indices": [0, 16]}, {"screen_name": "cinemasins", "name": "cinemasins", "id": 1093769448, "id_str": "1093769448", "indices": [17, 28]}], "symbols": []}, "favorited": false, "retweeted": false, "filter_level": "low", "lang": "en", "timestamp_ms": "1509916153434"}
+{
+  "created_at": "Sun Nov 05 21:09:13 +0000 2017",
+  "id": 927281672470458368,
+  "id_str": "927281672470458368",
+  "text": "@realdonovankidd @cinemasins Justice League will be 8xbetter than the Emoji movie",
+  "display_text_range": [29, 81],
+  "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+  "truncated": false,
+  "in_reply_to_status_id": 927281255330320386,
+  "in_reply_to_status_id_str": "927281255330320386",
+  "in_reply_to_user_id": 3438306635,
+  "in_reply_to_user_id_str": "3438306635",
+  "in_reply_to_screen_name": "realdonovankidd",
+  "user": {
+    "id": 405052561,
+    "id_str": "405052561",
+    "name": "Trevor Hadley",
+    "screen_name": "THadley4",
+    "location": "Bothell, WA",
+    "url": null,
+    "description": "Bodybuilder and being awesome",
+    "translator_type": "none",
+    "protected": false,
+    "verified": false,
+    "followers_count": 198,
+    "friends_count": 2394,
+    "listed_count": 2,
+    "favourites_count": 853,
+    "statuses_count": 3182,
+    "created_at": "Fri Nov 04 19:52:55 +0000 2011",
+    "utc_offset": -18000,
+    "time_zone": "Eastern Time (US & Canada)",
+    "geo_enabled": true,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "C0DEED",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": false,
+    "profile_link_color": "1DA1F2",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "profile_image_url": "http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+    "profile_image_url_https": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": null,
+    "follow_request_sent": null,
+    "notifications": null
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": {
+    "id": "ac88a4f17a51c7fc",
+    "url": "https://api.twitter.com/1.1/geo/id/ac88a4f17a51c7fc.json",
+    "place_type": "city",
+    "name": "Portland",
+    "full_name": "Portland, OR",
+    "country_code": "US",
+    "country": "United States",
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [[-122.790065, 45.421863], [-122.790065, 45.650941], [-122.471751, 45.650941], [-122.471751, 45.421863]]
+      ]
+    },
+    "attributes": {}
+  },
+  "contributors": null,
+  "is_quote_status": false,
+  "quote_count": 0,
+  "reply_count": 0,
+  "retweet_count": 0,
+  "favorite_count": 0,
+  "entities": {
+    "hashtags": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "screen_name": "realdonovankidd",
+        "name": "Donovan Keed",
+        "id": 3438306635,
+        "id_str": "3438306635",
+        "indices": [0, 16]
+      }, {
+        "screen_name": "cinemasins",
+        "name": "cinemasins",
+        "id": 1093769448,
+        "id_str": "1093769448",
+        "indices": [17, 28]
+      }
+    ],
+    "symbols": []
+  },
+  "favorited": false,
+  "retweeted": false,
+  "filter_level": "low",
+  "lang": "en",
+  "timestamp_ms": "1509916153434"
+}

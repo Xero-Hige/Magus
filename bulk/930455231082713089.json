@@ -1,0 +1,284 @@
+{
+  "id": 930455231082713089,
+  "lang": "es",
+  "in_reply_to_status_id_str": null,
+  "truncated": true,
+  "place": {
+    "id": "00d56adc79da66a3",
+    "country": "Argentina",
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            -68.56829,
+            -31.559809
+          ],
+          [
+            -68.56829,
+            -31.50302
+          ],
+          [
+            -68.497409,
+            -31.50302
+          ],
+          [
+            -68.497409,
+            -31.559809
+          ]
+        ]
+      ]
+    },
+    "url": "https://api.twitter.com/1.1/geo/id/00d56adc79da66a3.json",
+    "full_name": "San Juan, Argentina",
+    "attributes": {},
+    "name": "San Juan",
+    "place_type": "city",
+    "country_code": "AR"
+  },
+  "favorite_count": 0,
+  "retweeted": false,
+  "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+  "is_quote_status": false,
+  "possibly_sensitive": true,
+  "geo": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_status_id": null,
+  "retweet_count": 0,
+  "quote_count": 0,
+  "timestamp_ms": "1510672788769",
+  "favorited": false,
+  "coordinates": null,
+  "filter_level": "low",
+  "entities": {
+    "urls": [
+      {
+        "indices": [
+          117,
+          140
+        ],
+        "display_url": "twitter.com/i/web/status/9\u2026",
+        "url": "https://t.co/N2wOZwcWAh",
+        "expanded_url": "https://twitter.com/i/web/status/930455231082713089"
+      }
+    ],
+    "symbols": [],
+    "user_mentions": [],
+    "hashtags": []
+  },
+  "reply_count": 0,
+  "in_reply_to_screen_name": null,
+  "display_text_range": [
+    0,
+    140
+  ],
+  "text": "Present\u00f3 la renuncia al cargo de Ministro de la Corte de Justicia de San Juan, Juan Carlos Caballero Vidal. Ayer el\u2026 https://t.co/N2wOZwcWAh",
+  "extended_tweet": {
+    "display_text_range": [
+      0,
+      260
+    ],
+    "extended_entities": {
+      "media": [
+        {
+          "id": 930454842782470144,
+          "display_url": "pic.twitter.com/BuzjHXE1q5",
+          "id_str": "930454842782470144",
+          "indices": [
+            261,
+            284
+          ],
+          "expanded_url": "https://twitter.com/GSugo/status/930455231082713089/photo/1",
+          "type": "photo",
+          "url": "https://t.co/BuzjHXE1q5",
+          "media_url_https": "https://pbs.twimg.com/media/DOmjv--XUAAg4Zj.jpg",
+          "media_url": "http://pbs.twimg.com/media/DOmjv--XUAAg4Zj.jpg",
+          "sizes": {
+            "small": {
+              "w": 408,
+              "h": 680,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 768,
+              "h": 1280,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 720,
+              "h": 1200,
+              "resize": "fit"
+            }
+          }
+        },
+        {
+          "id": 930454987561455618,
+          "display_url": "pic.twitter.com/BuzjHXE1q5",
+          "id_str": "930454987561455618",
+          "indices": [
+            261,
+            284
+          ],
+          "expanded_url": "https://twitter.com/GSugo/status/930455231082713089/photo/1",
+          "type": "photo",
+          "url": "https://t.co/BuzjHXE1q5",
+          "media_url_https": "https://pbs.twimg.com/media/DOmj4aUXUAIX0LF.jpg",
+          "media_url": "http://pbs.twimg.com/media/DOmj4aUXUAIX0LF.jpg",
+          "sizes": {
+            "small": {
+              "w": 680,
+              "h": 480,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 700,
+              "h": 494,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 700,
+              "h": 494,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "entities": {
+      "media": [
+        {
+          "id": 930454842782470144,
+          "display_url": "pic.twitter.com/BuzjHXE1q5",
+          "id_str": "930454842782470144",
+          "indices": [
+            261,
+            284
+          ],
+          "expanded_url": "https://twitter.com/GSugo/status/930455231082713089/photo/1",
+          "type": "photo",
+          "url": "https://t.co/BuzjHXE1q5",
+          "media_url_https": "https://pbs.twimg.com/media/DOmjv--XUAAg4Zj.jpg",
+          "media_url": "http://pbs.twimg.com/media/DOmjv--XUAAg4Zj.jpg",
+          "sizes": {
+            "small": {
+              "w": 408,
+              "h": 680,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 768,
+              "h": 1280,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 720,
+              "h": 1200,
+              "resize": "fit"
+            }
+          }
+        },
+        {
+          "id": 930454987561455618,
+          "display_url": "pic.twitter.com/BuzjHXE1q5",
+          "id_str": "930454987561455618",
+          "indices": [
+            261,
+            284
+          ],
+          "expanded_url": "https://twitter.com/GSugo/status/930455231082713089/photo/1",
+          "type": "photo",
+          "url": "https://t.co/BuzjHXE1q5",
+          "media_url_https": "https://pbs.twimg.com/media/DOmj4aUXUAIX0LF.jpg",
+          "media_url": "http://pbs.twimg.com/media/DOmj4aUXUAIX0LF.jpg",
+          "sizes": {
+            "small": {
+              "w": 680,
+              "h": 480,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 700,
+              "h": 494,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 700,
+              "h": 494,
+              "resize": "fit"
+            }
+          }
+        }
+      ],
+      "urls": [],
+      "symbols": [],
+      "user_mentions": [],
+      "hashtags": []
+    },
+    "full_text": "Present\u00f3 la renuncia al cargo de Ministro de la Corte de Justicia de San Juan, Juan Carlos Caballero Vidal. Ayer el Juez Federal Leopoldo Rago Gallo, hab\u00eda solicitado a Diputados que lo desafuere para indagarlo por delitos de Lesa Humanidad. Fin de la historia https://t.co/BuzjHXE1q5"
+  },
+  "user": {
+    "statuses_count": 8740,
+    "id": 357749009,
+    "default_profile": false,
+    "favourites_count": 372,
+    "url": null,
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "verified": false,
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/859120891971735552/8LR1FrtM_normal.jpg",
+    "translator_type": "none",
+    "location": "San Juan Argentina",
+    "geo_enabled": true,
+    "utc_offset": -10800,
+    "notifications": null,
+    "profile_background_tile": false,
+    "friends_count": 666,
+    "is_translator": false,
+    "follow_request_sent": null,
+    "default_profile_image": false,
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_color": "000000",
+    "profile_link_color": "FF691F",
+    "profile_use_background_image": false,
+    "time_zone": "Buenos Aires",
+    "name": "Gast\u00f3n Sugo",
+    "profile_text_color": "000000",
+    "profile_sidebar_border_color": "000000",
+    "screen_name": "GSugo",
+    "lang": "es",
+    "following": null,
+    "listed_count": 19,
+    "protected": false,
+    "profile_sidebar_fill_color": "000000",
+    "followers_count": 1709,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/859120891971735552/8LR1FrtM_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/357749009/1485028504",
+    "contributors_enabled": false,
+    "created_at": "Thu Aug 18 21:04:45 +0000 2011",
+    "id_str": "357749009",
+    "description": "Periodista. Conductor del programa @EsloquehaySJ que se emite de lunes a viernes de 9 a 14 y s\u00e1bados de 9 a 11. Director de Contenidos de Radio Light"
+  },
+  "created_at": "Tue Nov 14 15:19:48 +0000 2017",
+  "id_str": "930455231082713089",
+  "in_reply_to_user_id": null,
+  "contributors": null
+}

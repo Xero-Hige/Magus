@@ -1,0 +1,162 @@
+{
+  "id": 930453453977128960,
+  "lang": "es",
+  "in_reply_to_status_id_str": null,
+  "truncated": true,
+  "place": {
+    "id": "018f1cde6bad9747",
+    "country": "Argentina",
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            -58.531792,
+            -34.674453
+          ],
+          [
+            -58.531792,
+            -34.534177
+          ],
+          [
+            -58.353494,
+            -34.534177
+          ],
+          [
+            -58.353494,
+            -34.674453
+          ]
+        ]
+      ]
+    },
+    "url": "https://api.twitter.com/1.1/geo/id/018f1cde6bad9747.json",
+    "full_name": "Ciudad Aut\u00f3noma de Buenos Aires, Argentina",
+    "attributes": {},
+    "name": "Ciudad Aut\u00f3noma de Buenos Aires",
+    "place_type": "city",
+    "country_code": "AR"
+  },
+  "favorite_count": 0,
+  "retweeted": false,
+  "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+  "is_quote_status": false,
+  "possibly_sensitive": false,
+  "geo": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_status_id": null,
+  "retweet_count": 0,
+  "quote_count": 0,
+  "timestamp_ms": "1510672365074",
+  "favorited": false,
+  "coordinates": null,
+  "text": "Acabo de leer la carta de @MarcelaFeudale y la banco mucho! Marce es una laburante de a\u00f1os en los medios, excelente\u2026 https://t.co/ZItnrCmnps",
+  "entities": {
+    "urls": [
+      {
+        "indices": [
+          117,
+          140
+        ],
+        "display_url": "twitter.com/i/web/status/9\u2026",
+        "url": "https://t.co/ZItnrCmnps",
+        "expanded_url": "https://twitter.com/i/web/status/930453453977128960"
+      }
+    ],
+    "symbols": [],
+    "user_mentions": [
+      {
+        "screen_name": "MarcelaFeudale",
+        "id": 237828788,
+        "name": "Marcela Feudale",
+        "indices": [
+          26,
+          41
+        ],
+        "id_str": "237828788"
+      }
+    ],
+    "hashtags": []
+  },
+  "reply_count": 0,
+  "in_reply_to_screen_name": null,
+  "filter_level": "low",
+  "extended_tweet": {
+    "display_text_range": [
+      0,
+      189
+    ],
+    "entities": {
+      "urls": [
+        {
+          "indices": [
+            166,
+            189
+          ],
+          "display_url": "clarin.com/espectaculos/f\u2026",
+          "url": "https://t.co/46qB8ASaas",
+          "expanded_url": "https://www.clarin.com/espectaculos/fama/carta-abierta-marcela-feudale-alfredo-leuco_0_rk-zEjD1z.html"
+        }
+      ],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "screen_name": "MarcelaFeudale",
+          "id": 237828788,
+          "name": "Marcela Feudale",
+          "indices": [
+            26,
+            41
+          ],
+          "id_str": "237828788"
+        }
+      ],
+      "hashtags": []
+    },
+    "full_text": "Acabo de leer la carta de @MarcelaFeudale y la banco mucho! Marce es una laburante de a\u00f1os en los medios, excelente compa\u00f1era de trabajo y remadora profesional. \ud83d\udc4f\ud83d\udc4f\ud83d\udc4f\n\nhttps://t.co/46qB8ASaas"
+  },
+  "user": {
+    "statuses_count": 32822,
+    "id": 8272112,
+    "default_profile": false,
+    "favourites_count": 14115,
+    "url": "http://www.facebook.com/AlejandraBavera",
+    "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/150900652/DSC02353__Large_.JPG",
+    "verified": false,
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/839888998223003649/vYjciqfy_normal.jpg",
+    "translator_type": "none",
+    "location": "Buenos Aires",
+    "geo_enabled": true,
+    "utc_offset": -10800,
+    "notifications": null,
+    "profile_background_tile": false,
+    "friends_count": 1096,
+    "is_translator": false,
+    "follow_request_sent": null,
+    "default_profile_image": false,
+    "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/150900652/DSC02353__Large_.JPG",
+    "profile_background_color": "9AE4E8",
+    "profile_link_color": "0000FF",
+    "profile_use_background_image": true,
+    "time_zone": "Buenos Aires",
+    "name": "ale bavera",
+    "profile_text_color": "757075",
+    "profile_sidebar_border_color": "87BC44",
+    "screen_name": "aleli",
+    "lang": "es",
+    "following": null,
+    "listed_count": 74,
+    "protected": false,
+    "profile_sidebar_fill_color": "D3F5A6",
+    "followers_count": 6223,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/839888998223003649/vYjciqfy_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/8272112/1398630888",
+    "contributors_enabled": false,
+    "created_at": "Sat Aug 18 21:02:38 +0000 2007",
+    "id_str": "8272112",
+    "description": "Comediante #ClaroQueSi #SnorkelStandUp #AyEllas -Productora #CosaDeMinas -Radio - Guionista #TiposDeMinas -Escrib\u00ed un libro. Adicta al tomate - IG @alebavera"
+  },
+  "created_at": "Tue Nov 14 15:12:45 +0000 2017",
+  "id_str": "930453453977128960",
+  "in_reply_to_user_id": null,
+  "contributors": null
+}

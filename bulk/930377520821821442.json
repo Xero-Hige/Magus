@@ -1,0 +1,129 @@
+{
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "id": 930377520821821442,
+  "in_reply_to_user_id": null,
+  "coordinates": {
+    "type": "Point",
+    "coordinates": [
+      -70.64462149,
+      -33.44379654
+    ]
+  },
+  "possibly_sensitive": false,
+  "reply_count": 0,
+  "timestamp_ms": "1510654261199",
+  "geo": {
+    "type": "Point",
+    "coordinates": [
+      -33.44379654,
+      -70.64462149
+    ]
+  },
+  "quote_count": 0,
+  "retweet_count": 0,
+  "is_quote_status": false,
+  "created_at": "Tue Nov 14 10:11:01 +0000 2017",
+  "source": "<a href=\"http://foursquare.com\" rel=\"nofollow\">Foursquare</a>",
+  "favorite_count": 0,
+  "in_reply_to_screen_name": null,
+  "text": "I'm at San Isidro esq. Marcoleta in Santiago, Regi\u00f3n Metropolitana https://t.co/AJDVA8g3U3",
+  "in_reply_to_status_id_str": null,
+  "place": {
+    "country": "Chile",
+    "name": "Santiago",
+    "id": "0010b4cb51ca93d8",
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            -70.692959,
+            -33.478574
+          ],
+          [
+            -70.692959,
+            -33.425749
+          ],
+          [
+            -70.626272,
+            -33.425749
+          ],
+          [
+            -70.626272,
+            -33.478574
+          ]
+        ]
+      ]
+    },
+    "country_code": "CL",
+    "place_type": "city",
+    "url": "https://api.twitter.com/1.1/geo/id/0010b4cb51ca93d8.json",
+    "attributes": {},
+    "full_name": "Santiago, Chile"
+  },
+  "contributors": null,
+  "entities": {
+    "hashtags": [],
+    "urls": [
+      {
+        "expanded_url": "https://www.swarmapp.com/c/aANRqZbWehF",
+        "display_url": "swarmapp.com/c/aANRqZbWehF",
+        "indices": [
+          67,
+          90
+        ],
+        "url": "https://t.co/AJDVA8g3U3"
+      }
+    ],
+    "user_mentions": [],
+    "symbols": []
+  },
+  "retweeted": false,
+  "id_str": "930377520821821442",
+  "user": {
+    "time_zone": "Santiago",
+    "follow_request_sent": null,
+    "id": 42676070,
+    "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/230008750/wallpaper342954.jpg",
+    "translator_type": "none",
+    "screen_name": "Life_is_sharsha",
+    "profile_link_color": "2FC2EF",
+    "url": null,
+    "utc_offset": -10800,
+    "location": null,
+    "name": "\u2605Jean Lobos\u2605",
+    "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/230008750/wallpaper342954.jpg",
+    "description": "You think, you know?, but you have no idea",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/42676070/1347985665",
+    "created_at": "Tue May 26 17:48:01 +0000 2009",
+    "protected": false,
+    "is_translator": false,
+    "listed_count": 12,
+    "statuses_count": 32146,
+    "profile_sidebar_border_color": "181A1E",
+    "profile_sidebar_fill_color": "252429",
+    "default_profile": false,
+    "default_profile_image": false,
+    "verified": false,
+    "notifications": null,
+    "friends_count": 481,
+    "profile_background_color": "1A1B1F",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/378800000038956332/0576e5bbab2881d2e03d22f3e2949d72_normal.jpeg",
+    "following": null,
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000038956332/0576e5bbab2881d2e03d22f3e2949d72_normal.jpeg",
+    "geo_enabled": true,
+    "profile_use_background_image": true,
+    "contributors_enabled": false,
+    "id_str": "42676070",
+    "profile_text_color": "666666",
+    "followers_count": 225,
+    "favourites_count": 13,
+    "lang": "es",
+    "profile_background_tile": false
+  },
+  "filter_level": "low",
+  "in_reply_to_user_id_str": null,
+  "favorited": false,
+  "lang": "es"
+}

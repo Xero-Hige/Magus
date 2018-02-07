@@ -1,0 +1,129 @@
+{
+  "truncated": false,
+  "in_reply_to_status_id": 930342806345859073,
+  "id": 930342809961316352,
+  "in_reply_to_user_id": 1181997601,
+  "coordinates": {
+    "type": "Point",
+    "coordinates": [
+      -99.1329,
+      19.4319
+    ]
+  },
+  "possibly_sensitive": false,
+  "reply_count": 0,
+  "timestamp_ms": "1510645985485",
+  "geo": {
+    "type": "Point",
+    "coordinates": [
+      19.4319,
+      -99.1329
+    ]
+  },
+  "quote_count": 0,
+  "retweet_count": 0,
+  "is_quote_status": false,
+  "created_at": "Tue Nov 14 07:53:05 +0000 2017",
+  "source": "<a href=\"http://trendinalia.com\" rel=\"nofollow\">Trendinalia M\u00e9xico</a>",
+  "favorite_count": 0,
+  "in_reply_to_screen_name": "trendinaliaMX",
+  "text": "\ud83d\udcfa Este v\u00eddeo de EL PAPAS - En Directo acaba de ocupar la 14\u00aa posici\u00f3n en la lista de tendencias de YouTube en M\u00e9xico https://t.co/F0QZ8hCyYd",
+  "in_reply_to_status_id_str": "930342806345859073",
+  "place": {
+    "country": "M\u00e9xico",
+    "name": "Cuauht\u00e9moc",
+    "id": "bfc35dcc7e63252a",
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            -99.18435,
+            19.399835
+          ],
+          [
+            -99.18435,
+            19.465837
+          ],
+          [
+            -99.122382,
+            19.465837
+          ],
+          [
+            -99.122382,
+            19.399835
+          ]
+        ]
+      ]
+    },
+    "country_code": "MX",
+    "place_type": "city",
+    "url": "https://api.twitter.com/1.1/geo/id/bfc35dcc7e63252a.json",
+    "attributes": {},
+    "full_name": "Cuauht\u00e9moc, Distrito Federal"
+  },
+  "contributors": null,
+  "entities": {
+    "hashtags": [],
+    "urls": [
+      {
+        "expanded_url": "http://www.youtube.com/watch?v=rMXQRAW7arw",
+        "display_url": "youtube.com/watch?v=rMXQRA\u2026",
+        "indices": [
+          117,
+          140
+        ],
+        "url": "https://t.co/F0QZ8hCyYd"
+      }
+    ],
+    "user_mentions": [],
+    "symbols": []
+  },
+  "retweeted": false,
+  "id_str": "930342809961316352",
+  "user": {
+    "time_zone": "Mexico City",
+    "follow_request_sent": null,
+    "id": 1181997601,
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "translator_type": "none",
+    "screen_name": "trendinaliaMX",
+    "profile_link_color": "1DA1F2",
+    "url": "http://trendinalia.com/twitter-trending-topics/mexico/",
+    "utc_offset": -21600,
+    "location": "M\u00e9xico",
+    "name": "Trendinalia M\u00e9xico",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "description": "Informaci\u00f3n sobre los Temas del Momento de la geograf\u00eda Mexicana #TrendingTopics \u2014 #trndnl",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1181997601/1454891635",
+    "created_at": "Fri Feb 15 10:40:54 +0000 2013",
+    "protected": false,
+    "is_translator": false,
+    "listed_count": 529,
+    "statuses_count": 594979,
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "default_profile": true,
+    "default_profile_image": false,
+    "verified": false,
+    "notifications": null,
+    "friends_count": 51,
+    "profile_background_color": "C0DEED",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/696492480196247552/XTcVoknr_normal.png",
+    "following": null,
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/696492480196247552/XTcVoknr_normal.png",
+    "geo_enabled": true,
+    "profile_use_background_image": true,
+    "contributors_enabled": false,
+    "id_str": "1181997601",
+    "profile_text_color": "333333",
+    "followers_count": 97536,
+    "favourites_count": 18,
+    "lang": "es",
+    "profile_background_tile": false
+  },
+  "filter_level": "low",
+  "in_reply_to_user_id_str": "1181997601",
+  "favorited": false,
+  "lang": "es"
+}

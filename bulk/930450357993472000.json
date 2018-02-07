@@ -1,0 +1,188 @@
+{
+  "id": 930450357993472000,
+  "lang": "es",
+  "in_reply_to_status_id_str": null,
+  "truncated": true,
+  "place": {
+    "id": "25530ba03b7d90c6",
+    "country": "M\u00e9xico",
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            -118.403857,
+            14.531918
+          ],
+          [
+            -118.403857,
+            32.718919
+          ],
+          [
+            -86.712218,
+            32.718919
+          ],
+          [
+            -86.712218,
+            14.531918
+          ]
+        ]
+      ]
+    },
+    "url": "https://api.twitter.com/1.1/geo/id/25530ba03b7d90c6.json",
+    "full_name": "M\u00e9xico",
+    "attributes": {},
+    "name": "M\u00e9xico",
+    "place_type": "country",
+    "country_code": "MX"
+  },
+  "favorite_count": 0,
+  "retweeted": false,
+  "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+  "is_quote_status": false,
+  "possibly_sensitive": false,
+  "geo": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_status_id": null,
+  "retweet_count": 0,
+  "quote_count": 0,
+  "timestamp_ms": "1510671626934",
+  "favorited": false,
+  "coordinates": null,
+  "text": "China, un protagonista de peso para el crecimiento de M\u00e9xico.  @L_Scandolari, Socio l\u00edder de #Deals, comparte los d\u2026 https://t.co/xZRTRSfBx1",
+  "entities": {
+    "urls": [
+      {
+        "indices": [
+          117,
+          140
+        ],
+        "display_url": "twitter.com/i/web/status/9\u2026",
+        "url": "https://t.co/xZRTRSfBx1",
+        "expanded_url": "https://twitter.com/i/web/status/930450357993472000"
+      }
+    ],
+    "symbols": [],
+    "user_mentions": [
+      {
+        "screen_name": "L_Scandolari",
+        "id": 743153438607892480,
+        "name": "Luciano Scandolari",
+        "indices": [
+          63,
+          76
+        ],
+        "id_str": "743153438607892480"
+      }
+    ],
+    "hashtags": [
+      {
+        "text": "Deals",
+        "indices": [
+          93,
+          99
+        ]
+      }
+    ]
+  },
+  "reply_count": 0,
+  "in_reply_to_screen_name": null,
+  "filter_level": "low",
+  "extended_tweet": {
+    "display_text_range": [
+      0,
+      233
+    ],
+    "entities": {
+      "urls": [
+        {
+          "indices": [
+            210,
+            233
+          ],
+          "display_url": "bit.ly/2zD89Eg",
+          "url": "https://t.co/VwdqSLWvvZ",
+          "expanded_url": "http://bit.ly/2zD89Eg"
+        }
+      ],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "screen_name": "L_Scandolari",
+          "id": 743153438607892480,
+          "name": "Luciano Scandolari",
+          "indices": [
+            63,
+            76
+          ],
+          "id_str": "743153438607892480"
+        },
+        {
+          "screen_name": "Forbes_Mexico",
+          "id": 948683648,
+          "name": "Forbes M\u00e9xico",
+          "indices": [
+            195,
+            209
+          ],
+          "id_str": "948683648"
+        }
+      ],
+      "hashtags": [
+        {
+          "text": "Deals",
+          "indices": [
+            93,
+            99
+          ]
+        }
+      ]
+    },
+    "full_text": "China, un protagonista de peso para el crecimiento de M\u00e9xico.  @L_Scandolari, Socio l\u00edder de #Deals, comparte los desaf\u00edos y oportunidades a los que se enfrenta el pa\u00eds en el entorno actual, v\u00eda @Forbes_Mexico https://t.co/VwdqSLWvvZ"
+  },
+  "user": {
+    "statuses_count": 22344,
+    "id": 89228812,
+    "default_profile": false,
+    "favourites_count": 2802,
+    "url": "http://www.pwc.com/mx",
+    "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/326930921/Twitter_PwC_all.png",
+    "verified": true,
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/458717103361515520/-bQKvpwq_normal.png",
+    "translator_type": "none",
+    "location": "Mexico City",
+    "geo_enabled": true,
+    "utc_offset": -21600,
+    "notifications": null,
+    "profile_background_tile": false,
+    "friends_count": 106,
+    "is_translator": false,
+    "follow_request_sent": null,
+    "default_profile_image": false,
+    "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/326930921/Twitter_PwC_all.png",
+    "profile_background_color": "FFFFFF",
+    "profile_link_color": "DC6900",
+    "profile_use_background_image": true,
+    "time_zone": "Mexico City",
+    "name": "PwC M\u00e9xico",
+    "profile_text_color": "4A4444",
+    "profile_sidebar_border_color": "F8991D",
+    "screen_name": "PwC_Mexico",
+    "lang": "es",
+    "following": null,
+    "listed_count": 413,
+    "protected": false,
+    "profile_sidebar_fill_color": "FFFFFF",
+    "followers_count": 18805,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/458717103361515520/-bQKvpwq_normal.png",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/89228812/1510108241",
+    "contributors_enabled": false,
+    "created_at": "Wed Nov 11 16:58:51 +0000 2009",
+    "id_str": "89228812",
+    "description": "Somos una red de profesionales que ofrecen soluciones integrales para construir confianza en la sociedad y resolver problemas importantes."
+  },
+  "created_at": "Tue Nov 14 15:00:26 +0000 2017",
+  "id_str": "930450357993472000",
+  "in_reply_to_user_id": null,
+  "contributors": null
+}

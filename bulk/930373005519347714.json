@@ -1,0 +1,208 @@
+{
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "id": 930373005519347714,
+  "in_reply_to_user_id": null,
+  "coordinates": null,
+  "possibly_sensitive": false,
+  "reply_count": 0,
+  "timestamp_ms": "1510653184667",
+  "geo": null,
+  "quote_count": 0,
+  "retweet_count": 0,
+  "is_quote_status": false,
+  "created_at": "Tue Nov 14 09:53:04 +0000 2017",
+  "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+  "favorite_count": 0,
+  "text": "ASFEL en @Hygienalia dando apoyo al sector de #Limpieza y a sus asociados https://t.co/24LjMtXP7X",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id_str": null,
+  "place": {
+    "country": "Espa\u00f1a",
+    "name": "Valencia",
+    "id": "071a52d3a927a1b8",
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            -0.432545,
+            39.278381
+          ],
+          [
+            -0.432545,
+            39.566588
+          ],
+          [
+            -0.272513,
+            39.566588
+          ],
+          [
+            -0.272513,
+            39.278381
+          ]
+        ]
+      ]
+    },
+    "country_code": "ES",
+    "place_type": "city",
+    "url": "https://api.twitter.com/1.1/geo/id/071a52d3a927a1b8.json",
+    "attributes": {},
+    "full_name": "Valencia, Espa\u00f1a"
+  },
+  "contributors": null,
+  "entities": {
+    "media": [
+      {
+        "type": "photo",
+        "url": "https://t.co/24LjMtXP7X",
+        "display_url": "pic.twitter.com/24LjMtXP7X",
+        "media_url_https": "https://pbs.twimg.com/media/DOlZDLwWkAAdLWK.jpg",
+        "id": 930372709258792960,
+        "sizes": {
+          "large": {
+            "w": 807,
+            "resize": "fit",
+            "h": 747
+          },
+          "thumb": {
+            "w": 150,
+            "resize": "crop",
+            "h": 150
+          },
+          "small": {
+            "w": 680,
+            "resize": "fit",
+            "h": 629
+          },
+          "medium": {
+            "w": 807,
+            "resize": "fit",
+            "h": 747
+          }
+        },
+        "expanded_url": "https://twitter.com/ArvetAsociacion/status/930373005519347714/photo/1",
+        "id_str": "930372709258792960",
+        "indices": [
+          74,
+          97
+        ],
+        "media_url": "http://pbs.twimg.com/media/DOlZDLwWkAAdLWK.jpg"
+      }
+    ],
+    "hashtags": [
+      {
+        "indices": [
+          46,
+          55
+        ],
+        "text": "Limpieza"
+      }
+    ],
+    "urls": [],
+    "user_mentions": [
+      {
+        "screen_name": "Hygienalia",
+        "name": "Hygienalia+Pulire",
+        "id": 91084741,
+        "id_str": "91084741",
+        "indices": [
+          9,
+          20
+        ]
+      }
+    ],
+    "symbols": []
+  },
+  "display_text_range": [
+    0,
+    73
+  ],
+  "retweeted": false,
+  "id_str": "930373005519347714",
+  "user": {
+    "time_zone": "Madrid",
+    "follow_request_sent": null,
+    "id": 3588009736,
+    "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/641243990206119936/AYIAtwLk.jpg",
+    "translator_type": "none",
+    "screen_name": "ArvetAsociacion",
+    "profile_link_color": "CFBA69",
+    "url": "http://www.arvet.es",
+    "utc_offset": 3600,
+    "location": "Valencia, Comunidad Valenciana",
+    "name": "Arvet.Asociacion",
+    "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/641243990206119936/AYIAtwLk.jpg",
+    "description": null,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/3588009736/1441882822",
+    "created_at": "Tue Sep 08 13:20:32 +0000 2015",
+    "protected": false,
+    "is_translator": false,
+    "listed_count": 16,
+    "statuses_count": 328,
+    "profile_sidebar_border_color": "000000",
+    "profile_sidebar_fill_color": "000000",
+    "default_profile": false,
+    "default_profile_image": false,
+    "verified": false,
+    "notifications": null,
+    "friends_count": 1944,
+    "profile_background_color": "C0DEED",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/641240392382423040/EZu6Nu0X_normal.jpg",
+    "following": null,
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/641240392382423040/EZu6Nu0X_normal.jpg",
+    "geo_enabled": true,
+    "profile_use_background_image": true,
+    "contributors_enabled": false,
+    "id_str": "3588009736",
+    "profile_text_color": "000000",
+    "followers_count": 868,
+    "favourites_count": 148,
+    "lang": "es",
+    "profile_background_tile": false
+  },
+  "extended_entities": {
+    "media": [
+      {
+        "type": "photo",
+        "url": "https://t.co/24LjMtXP7X",
+        "display_url": "pic.twitter.com/24LjMtXP7X",
+        "media_url_https": "https://pbs.twimg.com/media/DOlZDLwWkAAdLWK.jpg",
+        "id": 930372709258792960,
+        "sizes": {
+          "large": {
+            "w": 807,
+            "resize": "fit",
+            "h": 747
+          },
+          "thumb": {
+            "w": 150,
+            "resize": "crop",
+            "h": 150
+          },
+          "small": {
+            "w": 680,
+            "resize": "fit",
+            "h": 629
+          },
+          "medium": {
+            "w": 807,
+            "resize": "fit",
+            "h": 747
+          }
+        },
+        "expanded_url": "https://twitter.com/ArvetAsociacion/status/930373005519347714/photo/1",
+        "id_str": "930372709258792960",
+        "indices": [
+          74,
+          97
+        ],
+        "media_url": "http://pbs.twimg.com/media/DOlZDLwWkAAdLWK.jpg"
+      }
+    ]
+  },
+  "filter_level": "low",
+  "in_reply_to_user_id_str": null,
+  "favorited": false,
+  "lang": "es"
+}

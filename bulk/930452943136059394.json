@@ -1,0 +1,155 @@
+{
+  "id": 930452943136059394,
+  "lang": "es",
+  "in_reply_to_status_id_str": "930422588706377728",
+  "truncated": true,
+  "place": {
+    "id": "0ac8a42f23e8f736",
+    "country": "M\u00e9xico",
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            -98.289206,
+            18.83765
+          ],
+          [
+            -98.289206,
+            19.226809
+          ],
+          [
+            -98.019327,
+            19.226809
+          ],
+          [
+            -98.019327,
+            18.83765
+          ]
+        ]
+      ]
+    },
+    "url": "https://api.twitter.com/1.1/geo/id/0ac8a42f23e8f736.json",
+    "full_name": "Puebla, M\u00e9xico",
+    "attributes": {},
+    "name": "Puebla",
+    "place_type": "city",
+    "country_code": "MX"
+  },
+  "favorite_count": 0,
+  "retweeted": false,
+  "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+  "is_quote_status": false,
+  "in_reply_to_status_id": 930422588706377728,
+  "in_reply_to_user_id_str": "183227610",
+  "in_reply_to_screen_name": "sandra_ov",
+  "retweet_count": 0,
+  "quote_count": 0,
+  "timestamp_ms": "1510672243280",
+  "favorited": false,
+  "coordinates": null,
+  "filter_level": "low",
+  "entities": {
+    "urls": [
+      {
+        "indices": [
+          117,
+          140
+        ],
+        "display_url": "twitter.com/i/web/status/9\u2026",
+        "url": "https://t.co/suEmcQxKze",
+        "expanded_url": "https://twitter.com/i/web/status/930452943136059394"
+      }
+    ],
+    "symbols": [],
+    "user_mentions": [
+      {
+        "screen_name": "sandra_ov",
+        "id": 183227610,
+        "name": "\u1515\u15e9\u144e\u15ea\u1587\u15e9 O\u1587TI\u1614",
+        "indices": [
+          0,
+          10
+        ],
+        "id_str": "183227610"
+      }
+    ],
+    "hashtags": []
+  },
+  "reply_count": 0,
+  "geo": null,
+  "display_text_range": [
+    11,
+    140
+  ],
+  "text": "@sandra_ov Yo soy diab\u00e9tico desde hace 18 a\u00f1os, es complicado pero llevadero y m\u00e1s con ejercicio y dieta controlada\u2026 https://t.co/suEmcQxKze",
+  "extended_tweet": {
+    "display_text_range": [
+      11,
+      170
+    ],
+    "entities": {
+      "urls": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "screen_name": "sandra_ov",
+          "id": 183227610,
+          "name": "\u1515\u15e9\u144e\u15ea\u1587\u15e9 O\u1587TI\u1614",
+          "indices": [
+            0,
+            10
+          ],
+          "id_str": "183227610"
+        }
+      ],
+      "hashtags": []
+    },
+    "full_text": "@sandra_ov Yo soy diab\u00e9tico desde hace 18 a\u00f1os, es complicado pero llevadero y m\u00e1s con ejercicio y dieta controlada, creo que no te mata, pero si el descuido y el exceso."
+  },
+  "user": {
+    "statuses_count": 10544,
+    "id": 242144668,
+    "default_profile": true,
+    "favourites_count": 545,
+    "url": "http://www.gonzalezyasociados.com.mx",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "verified": false,
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/748324332372262912/YBxC3FYT_normal.jpg",
+    "translator_type": "none",
+    "location": "P\u00faebla",
+    "geo_enabled": true,
+    "utc_offset": null,
+    "notifications": null,
+    "profile_background_tile": false,
+    "friends_count": 1195,
+    "is_translator": false,
+    "follow_request_sent": null,
+    "default_profile_image": false,
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_color": "C0DEED",
+    "profile_link_color": "1DA1F2",
+    "profile_use_background_image": true,
+    "time_zone": null,
+    "name": "Luis Gonzalez",
+    "profile_text_color": "333333",
+    "profile_sidebar_border_color": "C0DEED",
+    "screen_name": "Luisglez59",
+    "lang": "es",
+    "following": null,
+    "listed_count": 7,
+    "protected": false,
+    "profile_sidebar_fill_color": "DDEEF6",
+    "followers_count": 622,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/748324332372262912/YBxC3FYT_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/242144668/1426054093",
+    "contributors_enabled": false,
+    "created_at": "Mon Jan 24 02:03:14 +0000 2011",
+    "id_str": "242144668",
+    "description": "Abogado dedicado a los litigios donde se involucre cualquier bien inmueble y a la comercializacion de estos mediante el arrendamiento y la venta."
+  },
+  "created_at": "Tue Nov 14 15:10:43 +0000 2017",
+  "id_str": "930452943136059394",
+  "in_reply_to_user_id": 183227610,
+  "contributors": null
+}

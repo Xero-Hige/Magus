@@ -1,0 +1,151 @@
+{
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "id": 930368146699034624,
+  "in_reply_to_user_id": null,
+  "coordinates": {
+    "type": "Point",
+    "coordinates": [
+      -64.1833,
+      -31.4
+    ]
+  },
+  "possibly_sensitive": false,
+  "reply_count": 0,
+  "timestamp_ms": "1510652026234",
+  "geo": {
+    "type": "Point",
+    "coordinates": [
+      -31.4,
+      -64.1833
+    ]
+  },
+  "quote_count": 0,
+  "retweet_count": 0,
+  "is_quote_status": false,
+  "created_at": "Tue Nov 14 09:33:46 +0000 2017",
+  "source": "<a href=\"http://instagram.com\" rel=\"nofollow\">Instagram</a>",
+  "favorite_count": 0,
+  "in_reply_to_screen_name": null,
+  "text": "Es #triste ver al #mundo desangrado de #dolor. S\u00f3lo hay que salir de\u2026 https://t.co/hMBVOyKhoa",
+  "in_reply_to_status_id_str": null,
+  "place": {
+    "country": "Argentina",
+    "name": "C\u00f3rdoba",
+    "id": "00f84d414936f28e",
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            -64.3195,
+            -31.523576
+          ],
+          [
+            -64.3195,
+            -31.307337
+          ],
+          [
+            -64.076551,
+            -31.307337
+          ],
+          [
+            -64.076551,
+            -31.523576
+          ]
+        ]
+      ]
+    },
+    "country_code": "AR",
+    "place_type": "city",
+    "url": "https://api.twitter.com/1.1/geo/id/00f84d414936f28e.json",
+    "attributes": {},
+    "full_name": "C\u00f3rdoba, Argentina"
+  },
+  "contributors": null,
+  "entities": {
+    "hashtags": [
+      {
+        "indices": [
+          3,
+          10
+        ],
+        "text": "triste"
+      },
+      {
+        "indices": [
+          18,
+          24
+        ],
+        "text": "mundo"
+      },
+      {
+        "indices": [
+          39,
+          45
+        ],
+        "text": "dolor"
+      }
+    ],
+    "urls": [
+      {
+        "expanded_url": "https://www.instagram.com/p/BbeITmglx1ah5_XjpjnN866nPuZYdw5aoeMhvM0/",
+        "display_url": "instagram.com/p/BbeITmglx1ah\u2026",
+        "indices": [
+          70,
+          93
+        ],
+        "url": "https://t.co/hMBVOyKhoa"
+      }
+    ],
+    "user_mentions": [],
+    "symbols": []
+  },
+  "retweeted": false,
+  "id_str": "930368146699034624",
+  "user": {
+    "time_zone": "Buenos Aires",
+    "follow_request_sent": null,
+    "id": 151155207,
+    "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/620880994690842625/X_Vxpxej.jpg",
+    "translator_type": "none",
+    "screen_name": "santiago_mdp89",
+    "profile_link_color": "7D2181",
+    "url": "https://www.facebook.com/santiago.oscar.morales/about?section=bio&pnref=about",
+    "utc_offset": -10800,
+    "location": "Mar del Plata, Argentina",
+    "name": "Santu",
+    "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/620880994690842625/X_Vxpxej.jpg",
+    "description": "Marplatense. Cazador de estrellas. Futuro Ingeniero en Inform\u00e1tica. So\u00f1ador. Idealista. Rom\u00e1ntico a mi pesar. Morado y radical. Cat\u00f3lico. Cuervo y pe\u00f1arolense.",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/151155207/1449723345",
+    "created_at": "Wed Jun 02 18:56:54 +0000 2010",
+    "protected": false,
+    "is_translator": false,
+    "listed_count": 13,
+    "statuses_count": 22543,
+    "profile_sidebar_border_color": "FFFFFF",
+    "profile_sidebar_fill_color": "7AC3EE",
+    "default_profile": false,
+    "default_profile_image": false,
+    "verified": false,
+    "notifications": null,
+    "friends_count": 645,
+    "profile_background_color": "000000",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/627206856772059136/EiDd1KKg_normal.jpg",
+    "following": null,
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/627206856772059136/EiDd1KKg_normal.jpg",
+    "geo_enabled": true,
+    "profile_use_background_image": true,
+    "contributors_enabled": false,
+    "id_str": "151155207",
+    "profile_text_color": "3D1957",
+    "followers_count": 797,
+    "favourites_count": 82,
+    "lang": "es",
+    "profile_background_tile": false
+  },
+  "filter_level": "low",
+  "in_reply_to_user_id_str": null,
+  "favorited": false,
+  "lang": "es"
+}

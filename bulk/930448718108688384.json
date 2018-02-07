@@ -1,0 +1,151 @@
+{
+  "id": 930448718108688384,
+  "lang": "es",
+  "in_reply_to_status_id_str": null,
+  "truncated": true,
+  "place": {
+    "id": "08eb5d76dc74e0e9",
+    "country": "Espa\u00f1a",
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            -1.69462,
+            42.789017
+          ],
+          [
+            -1.69462,
+            42.842457
+          ],
+          [
+            -1.604581,
+            42.842457
+          ],
+          [
+            -1.604581,
+            42.789017
+          ]
+        ]
+      ]
+    },
+    "url": "https://api.twitter.com/1.1/geo/id/08eb5d76dc74e0e9.json",
+    "full_name": "Pamplona, Espa\u00f1a",
+    "attributes": {},
+    "name": "Pamplona",
+    "place_type": "city",
+    "country_code": "ES"
+  },
+  "favorite_count": 0,
+  "retweeted": false,
+  "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+  "is_quote_status": false,
+  "possibly_sensitive": false,
+  "geo": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_status_id": null,
+  "retweet_count": 0,
+  "quote_count": 0,
+  "timestamp_ms": "1510671235955",
+  "favorited": false,
+  "coordinates": null,
+  "text": "\ud83d\udcf9Para hacer pol\u00edtica es necesario escuchar a los agentes sociales. Hemos pedido hoy la comparecencia de representan\u2026 https://t.co/XY4dczGh7B",
+  "entities": {
+    "urls": [
+      {
+        "indices": [
+          117,
+          140
+        ],
+        "display_url": "twitter.com/i/web/status/9\u2026",
+        "url": "https://t.co/XY4dczGh7B",
+        "expanded_url": "https://twitter.com/i/web/status/930448718108688384"
+      }
+    ],
+    "symbols": [],
+    "user_mentions": [],
+    "hashtags": []
+  },
+  "reply_count": 0,
+  "in_reply_to_screen_name": null,
+  "filter_level": "low",
+  "extended_tweet": {
+    "display_text_range": [
+      0,
+      248
+    ],
+    "entities": {
+      "urls": [
+        {
+          "indices": [
+            225,
+            248
+          ],
+          "display_url": "youtu.be/bAr7aAL6Yrw",
+          "url": "https://t.co/GhTr8Loe3S",
+          "expanded_url": "https://youtu.be/bAr7aAL6Yrw"
+        }
+      ],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "screen_name": "ELAsindikatua",
+          "id": 224175827,
+          "name": "ELA sindikatua",
+          "indices": [
+            122,
+            136
+          ],
+          "id_str": "224175827"
+        }
+      ],
+      "hashtags": []
+    },
+    "full_text": "\ud83d\udcf9Para hacer pol\u00edtica es necesario escuchar a los agentes sociales. Hemos pedido hoy la comparecencia de representantes de @ELAsindikatua en relaci\u00f3n con la reforma de la Ley de Garant\u00eda de Ingresos y para la Inclusi\u00f3n Social\nhttps://t.co/GhTr8Loe3S"
+  },
+  "user": {
+    "statuses_count": 29624,
+    "id": 2299803774,
+    "default_profile": false,
+    "favourites_count": 1466,
+    "url": "https://www.facebook.com/podemoseuskadi?ref=hl",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "verified": true,
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/898855571666939904/LjP5eptI_normal.jpg",
+    "translator_type": "none",
+    "location": null,
+    "geo_enabled": true,
+    "utc_offset": 3600,
+    "notifications": null,
+    "profile_background_tile": false,
+    "friends_count": 1439,
+    "is_translator": false,
+    "follow_request_sent": null,
+    "default_profile_image": false,
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_color": "FFFFFF",
+    "profile_link_color": "612D62",
+    "profile_use_background_image": false,
+    "time_zone": "Madrid",
+    "name": "Podemos Euskadi",
+    "profile_text_color": "333333",
+    "profile_sidebar_border_color": "FFFFFF",
+    "screen_name": "PodemosEuskadi_",
+    "lang": "es",
+    "following": null,
+    "listed_count": 186,
+    "protected": false,
+    "profile_sidebar_fill_color": "DDEEF6",
+    "followers_count": 10678,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/898855571666939904/LjP5eptI_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/2299803774/1503138722",
+    "contributors_enabled": false,
+    "created_at": "Sun Jan 19 14:44:17 +0000 2014",
+    "id_str": "2299803774",
+    "description": "Twitter oficial de Podemos Euskadi. Podemos Euskadiren twitter ofiziala."
+  },
+  "created_at": "Tue Nov 14 14:53:55 +0000 2017",
+  "id_str": "930448718108688384",
+  "in_reply_to_user_id": null,
+  "contributors": null
+}

@@ -1,0 +1,120 @@
+{
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "id": 930335507938234368,
+  "in_reply_to_user_id": null,
+  "coordinates": null,
+  "reply_count": 0,
+  "timestamp_ms": "1510644244547",
+  "geo": null,
+  "quote_count": 0,
+  "retweet_count": 0,
+  "is_quote_status": false,
+  "created_at": "Tue Nov 14 07:24:04 +0000 2017",
+  "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+  "favorite_count": 0,
+  "in_reply_to_screen_name": null,
+  "text": "\u00a1\u00a1Marca 1 grado!! Bbbrrr, menuda torta de fr\u00edo, as\u00ed, sin anestesia... #Madrid #WinterIsHere #\u2615",
+  "in_reply_to_status_id_str": null,
+  "place": {
+    "country": "Espa\u00f1a",
+    "name": "Las Rozas de Madrid",
+    "id": "0ab1cfe1d3945a22",
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            -3.94958,
+            40.475009
+          ],
+          [
+            -3.94958,
+            40.574489
+          ],
+          [
+            -3.83319,
+            40.574489
+          ],
+          [
+            -3.83319,
+            40.475009
+          ]
+        ]
+      ]
+    },
+    "country_code": "ES",
+    "place_type": "city",
+    "url": "https://api.twitter.com/1.1/geo/id/0ab1cfe1d3945a22.json",
+    "attributes": {},
+    "full_name": "Las Rozas de Madrid, Espa\u00f1a"
+  },
+  "contributors": null,
+  "entities": {
+    "hashtags": [
+      {
+        "indices": [
+          70,
+          77
+        ],
+        "text": "Madrid"
+      },
+      {
+        "indices": [
+          78,
+          91
+        ],
+        "text": "WinterIsHere"
+      }
+    ],
+    "urls": [],
+    "user_mentions": [],
+    "symbols": []
+  },
+  "retweeted": false,
+  "id_str": "930335507938234368",
+  "user": {
+    "time_zone": "Madrid",
+    "follow_request_sent": null,
+    "id": 403742728,
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+    "translator_type": "none",
+    "screen_name": "IsaLpEcheberria",
+    "profile_link_color": "0099B9",
+    "url": null,
+    "utc_offset": 3600,
+    "location": "Madrid",
+    "name": "Isa Lopez Echeberria",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+    "description": null,
+    "created_at": "Wed Nov 02 23:01:45 +0000 2011",
+    "protected": false,
+    "is_translator": false,
+    "listed_count": 6,
+    "statuses_count": 4652,
+    "profile_sidebar_border_color": "5ED4DC",
+    "profile_sidebar_fill_color": "95E8EC",
+    "default_profile": false,
+    "default_profile_image": false,
+    "verified": false,
+    "notifications": null,
+    "friends_count": 1390,
+    "profile_background_color": "0099B9",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/525396205246091264/Vm_cBgCW_normal.jpeg",
+    "following": null,
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/525396205246091264/Vm_cBgCW_normal.jpeg",
+    "geo_enabled": true,
+    "profile_use_background_image": true,
+    "contributors_enabled": false,
+    "id_str": "403742728",
+    "profile_text_color": "3C3940",
+    "followers_count": 460,
+    "favourites_count": 9881,
+    "lang": "es",
+    "profile_background_tile": false
+  },
+  "filter_level": "low",
+  "in_reply_to_user_id_str": null,
+  "favorited": false,
+  "lang": "es"
+}

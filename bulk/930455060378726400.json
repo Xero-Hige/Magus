@@ -1,0 +1,378 @@
+{
+  "id": 930455060378726400,
+  "lang": "es",
+  "in_reply_to_status_id_str": "929555402466918400",
+  "truncated": true,
+  "place": {
+    "id": "80e00b1e20e85786",
+    "country": "M\u00e9xico",
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            -99.341179,
+            18.842003
+          ],
+          [
+            -99.341179,
+            19.025621
+          ],
+          [
+            -99.180459,
+            19.025621
+          ],
+          [
+            -99.180459,
+            18.842003
+          ]
+        ]
+      ]
+    },
+    "url": "https://api.twitter.com/1.1/geo/id/80e00b1e20e85786.json",
+    "full_name": "Cuernavaca, Morelos",
+    "attributes": {},
+    "name": "Cuernavaca",
+    "place_type": "city",
+    "country_code": "MX"
+  },
+  "favorite_count": 0,
+  "retweeted": false,
+  "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+  "is_quote_status": false,
+  "possibly_sensitive": false,
+  "geo": null,
+  "in_reply_to_user_id_str": "130262203",
+  "in_reply_to_status_id": 929555402466918400,
+  "retweet_count": 0,
+  "quote_count": 0,
+  "timestamp_ms": "1510672748070",
+  "favorited": false,
+  "coordinates": null,
+  "filter_level": "low",
+  "entities": {
+    "urls": [
+      {
+        "indices": [
+          116,
+          139
+        ],
+        "display_url": "twitter.com/i/web/status/9\u2026",
+        "url": "https://t.co/1aBSsIA2jG",
+        "expanded_url": "https://twitter.com/i/web/status/930455060378726400"
+      }
+    ],
+    "symbols": [],
+    "user_mentions": [
+      {
+        "screen_name": "DannaGarcia",
+        "id": 130262203,
+        "name": "Danna Garcia",
+        "indices": [
+          0,
+          12
+        ],
+        "id_str": "130262203"
+      }
+    ],
+    "hashtags": []
+  },
+  "reply_count": 0,
+  "in_reply_to_screen_name": "DannaGarcia",
+  "display_text_range": [
+    13,
+    140
+  ],
+  "text": "@DannaGarcia Jam\u00e1s olvides que tu vida es m\u00e1s grande que tus miedos, que tus\nfuerzas son mayores que tus dudas que\u2026 https://t.co/1aBSsIA2jG",
+  "extended_tweet": {
+    "display_text_range": [
+      13,
+      191
+    ],
+    "extended_entities": {
+      "media": [
+        {
+          "id": 930454929797509121,
+          "display_url": "pic.twitter.com/HkUQtRcAIa",
+          "id_str": "930454929797509121",
+          "indices": [
+            192,
+            215
+          ],
+          "expanded_url": "https://twitter.com/ciudadanosvig/status/930455060378726400/photo/1",
+          "type": "photo",
+          "url": "https://t.co/HkUQtRcAIa",
+          "media_url_https": "https://pbs.twimg.com/media/DOmj1DIXcAEjLA7.jpg",
+          "media_url": "http://pbs.twimg.com/media/DOmj1DIXcAEjLA7.jpg",
+          "sizes": {
+            "small": {
+              "w": 680,
+              "h": 510,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 768,
+              "h": 576,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 768,
+              "h": 576,
+              "resize": "fit"
+            }
+          }
+        },
+        {
+          "id": 930455032729886725,
+          "display_url": "pic.twitter.com/HkUQtRcAIa",
+          "id_str": "930455032729886725",
+          "indices": [
+            192,
+            215
+          ],
+          "expanded_url": "https://twitter.com/ciudadanosvig/status/930455060378726400/photo/1",
+          "type": "photo",
+          "url": "https://t.co/HkUQtRcAIa",
+          "media_url_https": "https://pbs.twimg.com/media/DOmj7ClW4AUhvjq.jpg",
+          "media_url": "http://pbs.twimg.com/media/DOmj7ClW4AUhvjq.jpg",
+          "sizes": {
+            "small": {
+              "w": 536,
+              "h": 680,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 537,
+              "h": 681,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 537,
+              "h": 681,
+              "resize": "fit"
+            }
+          }
+        },
+        {
+          "id": 930455033434517505,
+          "display_url": "pic.twitter.com/HkUQtRcAIa",
+          "id_str": "930455033434517505",
+          "indices": [
+            192,
+            215
+          ],
+          "expanded_url": "https://twitter.com/ciudadanosvig/status/930455060378726400/photo/1",
+          "type": "photo",
+          "url": "https://t.co/HkUQtRcAIa",
+          "media_url_https": "https://pbs.twimg.com/media/DOmj7FNWsAE-MTQ.jpg",
+          "media_url": "http://pbs.twimg.com/media/DOmj7FNWsAE-MTQ.jpg",
+          "sizes": {
+            "small": {
+              "w": 400,
+              "h": 600,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 400,
+              "h": 600,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 400,
+              "h": 600,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "entities": {
+      "media": [
+        {
+          "id": 930454929797509121,
+          "display_url": "pic.twitter.com/HkUQtRcAIa",
+          "id_str": "930454929797509121",
+          "indices": [
+            192,
+            215
+          ],
+          "expanded_url": "https://twitter.com/ciudadanosvig/status/930455060378726400/photo/1",
+          "type": "photo",
+          "url": "https://t.co/HkUQtRcAIa",
+          "media_url_https": "https://pbs.twimg.com/media/DOmj1DIXcAEjLA7.jpg",
+          "media_url": "http://pbs.twimg.com/media/DOmj1DIXcAEjLA7.jpg",
+          "sizes": {
+            "small": {
+              "w": 680,
+              "h": 510,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 768,
+              "h": 576,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 768,
+              "h": 576,
+              "resize": "fit"
+            }
+          }
+        },
+        {
+          "id": 930455032729886725,
+          "display_url": "pic.twitter.com/HkUQtRcAIa",
+          "id_str": "930455032729886725",
+          "indices": [
+            192,
+            215
+          ],
+          "expanded_url": "https://twitter.com/ciudadanosvig/status/930455060378726400/photo/1",
+          "type": "photo",
+          "url": "https://t.co/HkUQtRcAIa",
+          "media_url_https": "https://pbs.twimg.com/media/DOmj7ClW4AUhvjq.jpg",
+          "media_url": "http://pbs.twimg.com/media/DOmj7ClW4AUhvjq.jpg",
+          "sizes": {
+            "small": {
+              "w": 536,
+              "h": 680,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 537,
+              "h": 681,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 537,
+              "h": 681,
+              "resize": "fit"
+            }
+          }
+        },
+        {
+          "id": 930455033434517505,
+          "display_url": "pic.twitter.com/HkUQtRcAIa",
+          "id_str": "930455033434517505",
+          "indices": [
+            192,
+            215
+          ],
+          "expanded_url": "https://twitter.com/ciudadanosvig/status/930455060378726400/photo/1",
+          "type": "photo",
+          "url": "https://t.co/HkUQtRcAIa",
+          "media_url_https": "https://pbs.twimg.com/media/DOmj7FNWsAE-MTQ.jpg",
+          "media_url": "http://pbs.twimg.com/media/DOmj7FNWsAE-MTQ.jpg",
+          "sizes": {
+            "small": {
+              "w": 400,
+              "h": 600,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 400,
+              "h": 600,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 400,
+              "h": 600,
+              "resize": "fit"
+            }
+          }
+        }
+      ],
+      "urls": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "screen_name": "DannaGarcia",
+          "id": 130262203,
+          "name": "Danna Garcia",
+          "indices": [
+            0,
+            12
+          ],
+          "id_str": "130262203"
+        }
+      ],
+      "hashtags": []
+    },
+    "full_text": "@DannaGarcia Jam\u00e1s olvides que tu vida es m\u00e1s grande que tus miedos, que tus\nfuerzas son mayores que tus dudas que aunque tu mente este confundida tu coraz\u00f3n sabr\u00e1 la respuesta Tu Bello Angel https://t.co/HkUQtRcAIa"
+  },
+  "user": {
+    "statuses_count": 1000,
+    "id": 917879224056336384,
+    "default_profile": true,
+    "favourites_count": 647,
+    "url": null,
+    "profile_background_image_url_https": "",
+    "verified": false,
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/917883778856574976/1-Ye5h3T_normal.jpg",
+    "translator_type": "none",
+    "location": null,
+    "geo_enabled": true,
+    "utc_offset": -28800,
+    "notifications": null,
+    "profile_background_tile": false,
+    "friends_count": 817,
+    "is_translator": false,
+    "follow_request_sent": null,
+    "default_profile_image": false,
+    "profile_background_image_url": "",
+    "profile_background_color": "F5F8FA",
+    "profile_link_color": "1DA1F2",
+    "profile_use_background_image": true,
+    "time_zone": "Pacific Time (US & Canada)",
+    "name": "ciudadanos vigilante",
+    "profile_text_color": "333333",
+    "profile_sidebar_border_color": "C0DEED",
+    "screen_name": "ciudadanosvig",
+    "lang": "es",
+    "following": null,
+    "listed_count": 0,
+    "protected": false,
+    "profile_sidebar_fill_color": "DDEEF6",
+    "followers_count": 85,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/917883778856574976/1-Ye5h3T_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/917879224056336384/1507675352",
+    "contributors_enabled": false,
+    "created_at": "Tue Oct 10 22:27:15 +0000 2017",
+    "id_str": "917879224056336384",
+    "description": null
+  },
+  "created_at": "Tue Nov 14 15:19:08 +0000 2017",
+  "id_str": "930455060378726400",
+  "in_reply_to_user_id": 130262203,
+  "contributors": null
+}

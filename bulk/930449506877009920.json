@@ -1,0 +1,155 @@
+{
+  "id": 930449506877009920,
+  "lang": "es",
+  "in_reply_to_status_id_str": "930434846500978688",
+  "truncated": true,
+  "place": {
+    "id": "018f1cde6bad9747",
+    "country": "Argentina",
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            -58.531792,
+            -34.674453
+          ],
+          [
+            -58.531792,
+            -34.534177
+          ],
+          [
+            -58.353494,
+            -34.534177
+          ],
+          [
+            -58.353494,
+            -34.674453
+          ]
+        ]
+      ]
+    },
+    "url": "https://api.twitter.com/1.1/geo/id/018f1cde6bad9747.json",
+    "full_name": "Ciudad Aut\u00f3noma de Buenos Aires, Argentina",
+    "attributes": {},
+    "name": "Ciudad Aut\u00f3noma de Buenos Aires",
+    "place_type": "city",
+    "country_code": "AR"
+  },
+  "favorite_count": 0,
+  "retweeted": false,
+  "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+  "is_quote_status": false,
+  "in_reply_to_status_id": 930434846500978688,
+  "in_reply_to_user_id_str": "871512666224947200",
+  "in_reply_to_screen_name": "NunkMasKK",
+  "retweet_count": 0,
+  "quote_count": 0,
+  "timestamp_ms": "1510671424012",
+  "favorited": false,
+  "coordinates": null,
+  "filter_level": "low",
+  "entities": {
+    "urls": [
+      {
+        "indices": [
+          117,
+          140
+        ],
+        "display_url": "twitter.com/i/web/status/9\u2026",
+        "url": "https://t.co/F7LPDUXg5C",
+        "expanded_url": "https://twitter.com/i/web/status/930449506877009920"
+      }
+    ],
+    "symbols": [],
+    "user_mentions": [
+      {
+        "screen_name": "NunkMasKK",
+        "id": 871512666224947200,
+        "name": "Sushiplanero",
+        "indices": [
+          0,
+          10
+        ],
+        "id_str": "871512666224947200"
+      }
+    ],
+    "hashtags": []
+  },
+  "reply_count": 0,
+  "geo": null,
+  "display_text_range": [
+    11,
+    140
+  ],
+  "text": "@NunkMasKK Y por lo menos deber\u00edan ganarse lo q consumen (pero eso implicar\u00eda un largo debate sobre el espantoso es\u2026 https://t.co/F7LPDUXg5C",
+  "extended_tweet": {
+    "display_text_range": [
+      11,
+      213
+    ],
+    "entities": {
+      "urls": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "screen_name": "NunkMasKK",
+          "id": 871512666224947200,
+          "name": "Sushiplanero",
+          "indices": [
+            0,
+            10
+          ],
+          "id_str": "871512666224947200"
+        }
+      ],
+      "hashtags": []
+    },
+    "full_text": "@NunkMasKK Y por lo menos deber\u00edan ganarse lo q consumen (pero eso implicar\u00eda un largo debate sobre el espantoso estado de las c\u00e1rceles aqu\u00ed) donde se les paga salario para compensar las deficiencias edilicias etc"
+  },
+  "user": {
+    "statuses_count": 354146,
+    "id": 1861063610,
+    "default_profile": true,
+    "favourites_count": 15581,
+    "url": null,
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "verified": false,
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000452110267/dc48f052f26f1cda68d2349ab456b730_normal.jpeg",
+    "translator_type": "none",
+    "location": "Ciudad Aut\u00f3noma de Buenos Aire",
+    "geo_enabled": true,
+    "utc_offset": null,
+    "notifications": null,
+    "profile_background_tile": false,
+    "friends_count": 2482,
+    "is_translator": false,
+    "follow_request_sent": null,
+    "default_profile_image": false,
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_color": "C0DEED",
+    "profile_link_color": "1DA1F2",
+    "profile_use_background_image": true,
+    "time_zone": null,
+    "name": "Elybet",
+    "profile_text_color": "333333",
+    "profile_sidebar_border_color": "C0DEED",
+    "screen_name": "ElybetCa",
+    "lang": "es",
+    "following": null,
+    "listed_count": 101,
+    "protected": false,
+    "profile_sidebar_fill_color": "DDEEF6",
+    "followers_count": 3455,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/378800000452110267/dc48f052f26f1cda68d2349ab456b730_normal.jpeg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1861063610/1379089346",
+    "contributors_enabled": false,
+    "created_at": "Fri Sep 13 16:19:51 +0000 2013",
+    "id_str": "1861063610",
+    "description": "Amante de la vida ,la pintura y la musica x sobre todo la paz"
+  },
+  "created_at": "Tue Nov 14 14:57:04 +0000 2017",
+  "id_str": "930449506877009920",
+  "in_reply_to_user_id": 871512666224947200,
+  "contributors": null
+}

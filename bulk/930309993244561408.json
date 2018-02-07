@@ -1,0 +1,189 @@
+{
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "id": 930309993244561408,
+  "in_reply_to_user_id": null,
+  "coordinates": null,
+  "possibly_sensitive": false,
+  "reply_count": 0,
+  "timestamp_ms": "1510638161370",
+  "geo": null,
+  "quote_count": 0,
+  "retweet_count": 0,
+  "is_quote_status": false,
+  "created_at": "Tue Nov 14 05:42:41 +0000 2017",
+  "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+  "favorite_count": 0,
+  "text": "En serio, este tipo acaba de dar otra falsa alarma. No le hagan caso, esa muerte es falsa. https://t.co/PqsEraQ6Fe",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id_str": null,
+  "place": {
+    "country": "Peru",
+    "name": "Peru",
+    "id": "2dfa9ecb0179a4e4",
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            -81.328148,
+            -18.349728
+          ],
+          [
+            -81.328148,
+            -0.03884
+          ],
+          [
+            -68.673088,
+            -0.03884
+          ],
+          [
+            -68.673088,
+            -18.349728
+          ]
+        ]
+      ]
+    },
+    "country_code": "PE",
+    "place_type": "country",
+    "url": "https://api.twitter.com/1.1/geo/id/2dfa9ecb0179a4e4.json",
+    "attributes": {},
+    "full_name": "Peru"
+  },
+  "contributors": null,
+  "entities": {
+    "media": [
+      {
+        "type": "photo",
+        "url": "https://t.co/PqsEraQ6Fe",
+        "display_url": "pic.twitter.com/PqsEraQ6Fe",
+        "media_url_https": "https://pbs.twimg.com/media/DOkfyv-X0AARFTa.jpg",
+        "id": 930309754760712192,
+        "sizes": {
+          "large": {
+            "w": 1600,
+            "resize": "fit",
+            "h": 900
+          },
+          "thumb": {
+            "w": 150,
+            "resize": "crop",
+            "h": 150
+          },
+          "small": {
+            "w": 680,
+            "resize": "fit",
+            "h": 383
+          },
+          "medium": {
+            "w": 1200,
+            "resize": "fit",
+            "h": 675
+          }
+        },
+        "expanded_url": "https://twitter.com/bobsparz/status/930309993244561408/photo/1",
+        "id_str": "930309754760712192",
+        "indices": [
+          91,
+          114
+        ],
+        "media_url": "http://pbs.twimg.com/media/DOkfyv-X0AARFTa.jpg"
+      }
+    ],
+    "hashtags": [],
+    "urls": [],
+    "user_mentions": [],
+    "symbols": []
+  },
+  "display_text_range": [
+    0,
+    90
+  ],
+  "retweeted": false,
+  "id_str": "930309993244561408",
+  "user": {
+    "time_zone": "Mountain Time (US & Canada)",
+    "follow_request_sent": null,
+    "id": 58714177,
+    "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/658296416/6oic6qmcr6tff55cgtwk.jpeg",
+    "translator_type": "none",
+    "screen_name": "bobsparz",
+    "profile_link_color": "3B94D9",
+    "url": "http://soundcloud.com/roberto-esparza",
+    "utc_offset": -25200,
+    "location": "Lima Per\u00fa",
+    "name": "Bobsparz",
+    "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/658296416/6oic6qmcr6tff55cgtwk.jpeg",
+    "description": "Cuando pierdas la fe en la humanidad piensa en todas las personas que hacen tutoriales. \ud83e\udd2a\n\nPor cierto, hago canciones.",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/58714177/1448037293",
+    "created_at": "Tue Jul 21 05:23:47 +0000 2009",
+    "protected": false,
+    "is_translator": false,
+    "listed_count": 169,
+    "statuses_count": 140106,
+    "profile_sidebar_border_color": "1A1F4A",
+    "profile_sidebar_fill_color": "4083C7",
+    "default_profile": false,
+    "default_profile_image": false,
+    "verified": false,
+    "notifications": null,
+    "friends_count": 1426,
+    "profile_background_color": "394682",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/743374801956397056/AEHZ_GWo_normal.jpg",
+    "following": null,
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/743374801956397056/AEHZ_GWo_normal.jpg",
+    "geo_enabled": true,
+    "profile_use_background_image": true,
+    "contributors_enabled": false,
+    "id_str": "58714177",
+    "profile_text_color": "1C2120",
+    "followers_count": 3130,
+    "favourites_count": 606,
+    "lang": "es",
+    "profile_background_tile": false
+  },
+  "extended_entities": {
+    "media": [
+      {
+        "type": "photo",
+        "url": "https://t.co/PqsEraQ6Fe",
+        "display_url": "pic.twitter.com/PqsEraQ6Fe",
+        "media_url_https": "https://pbs.twimg.com/media/DOkfyv-X0AARFTa.jpg",
+        "id": 930309754760712192,
+        "sizes": {
+          "large": {
+            "w": 1600,
+            "resize": "fit",
+            "h": 900
+          },
+          "thumb": {
+            "w": 150,
+            "resize": "crop",
+            "h": 150
+          },
+          "small": {
+            "w": 680,
+            "resize": "fit",
+            "h": 383
+          },
+          "medium": {
+            "w": 1200,
+            "resize": "fit",
+            "h": 675
+          }
+        },
+        "expanded_url": "https://twitter.com/bobsparz/status/930309993244561408/photo/1",
+        "id_str": "930309754760712192",
+        "indices": [
+          91,
+          114
+        ],
+        "media_url": "http://pbs.twimg.com/media/DOkfyv-X0AARFTa.jpg"
+      }
+    ]
+  },
+  "filter_level": "low",
+  "in_reply_to_user_id_str": null,
+  "favorited": false,
+  "lang": "es"
+}

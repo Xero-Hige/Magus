@@ -1,0 +1,114 @@
+{
+  "in_reply_to_user_id": null,
+  "contributors": null,
+  "in_reply_to_screen_name": null,
+  "retweeted": false,
+  "retweet_count": 0,
+  "timestamp_ms": "1508679934859",
+  "in_reply_to_status_id": null,
+  "id_str": "922096595956531201",
+  "created_at": "Sun Oct 22 13:45:34 +0000 2017",
+  "id": 922096595956531201,
+  "coordinates": null,
+  "favorite_count": 0,
+  "entities": {
+    "user_mentions": [],
+    "symbols": [],
+    "hashtags": [
+      {
+        "text": "FelizDomingo",
+        "indices": [
+          0,
+          13
+        ]
+      }
+    ],
+    "urls": []
+  },
+  "reply_count": 0,
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "place": {
+    "attributes": {},
+    "url": "https://api.twitter.com/1.1/geo/id/018247693a6733dc.json",
+    "place_type": "city",
+    "id": "018247693a6733dc",
+    "country_code": "CL",
+    "name": "San Miguel",
+    "country": "Chile",
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            -70.6719,
+            -33.518827
+          ],
+          [
+            -70.6719,
+            -33.476474
+          ],
+          [
+            -70.637476,
+            -33.476474
+          ],
+          [
+            -70.637476,
+            -33.518827
+          ]
+        ]
+      ]
+    },
+    "full_name": "San Miguel, Chile"
+  },
+  "truncated": false,
+  "in_reply_to_status_id_str": null,
+  "filter_level": "low",
+  "text": "#FelizDomingo a todos, \u00faltimo d\u00eda, aprovechar de estar con familia y descansar, ma\u00f1ana empieza una nueva semana de oportunidades! \ud83d\ude01",
+  "geo": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": false,
+  "favorited": false,
+  "user": {
+    "verified": false,
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "statuses_count": 118,
+    "screen_name": "gmofuentes97",
+    "default_profile_image": false,
+    "time_zone": null,
+    "name": "Guillermo Fuentes",
+    "id_str": "2934098758",
+    "profile_sidebar_border_color": "000000",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/2934098758/1498011350",
+    "created_at": "Sat Dec 20 19:11:45 +0000 2014",
+    "friends_count": 216,
+    "url": null,
+    "profile_background_tile": false,
+    "protected": false,
+    "translator_type": "none",
+    "profile_text_color": "000000",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/916477038764183552/wcHP9DOt_normal.jpg",
+    "listed_count": 0,
+    "notifications": null,
+    "contributors_enabled": false,
+    "is_translator": false,
+    "location": "\u00d1u\u00f1oa, Chile",
+    "profile_use_background_image": false,
+    "followers_count": 19,
+    "profile_sidebar_fill_color": "000000",
+    "geo_enabled": true,
+    "profile_link_color": "89C9FA",
+    "favourites_count": 66,
+    "following": null,
+    "default_profile": false,
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_color": "000000",
+    "id": 2934098758,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/916477038764183552/wcHP9DOt_normal.jpg",
+    "lang": "es",
+    "description": "Amigo, estudiante, ciudadano, poblador del mundo.",
+    "follow_request_sent": null,
+    "utc_offset": null
+  },
+  "quote_count": 0,
+  "lang": "es"
+}

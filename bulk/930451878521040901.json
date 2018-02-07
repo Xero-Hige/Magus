@@ -1,0 +1,284 @@
+{
+  "id": 930451878521040901,
+  "lang": "es",
+  "in_reply_to_status_id_str": null,
+  "truncated": true,
+  "place": {
+    "id": "6111ac0b325ea0f6",
+    "country": "Espa\u00f1a",
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            -5.913725,
+            40.228559
+          ],
+          [
+            -5.913725,
+            40.311103
+          ],
+          [
+            -5.76302,
+            40.311103
+          ],
+          [
+            -5.76302,
+            40.228559
+          ]
+        ]
+      ]
+    },
+    "url": "https://api.twitter.com/1.1/geo/id/6111ac0b325ea0f6.json",
+    "full_name": "Herv\u00e1s, Espa\u00f1a",
+    "attributes": {},
+    "name": "Herv\u00e1s",
+    "place_type": "city",
+    "country_code": "ES"
+  },
+  "favorite_count": 0,
+  "retweeted": false,
+  "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+  "is_quote_status": false,
+  "possibly_sensitive": false,
+  "geo": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_status_id": null,
+  "retweet_count": 0,
+  "quote_count": 0,
+  "timestamp_ms": "1510671989456",
+  "favorited": false,
+  "coordinates": null,
+  "filter_level": "low",
+  "entities": {
+    "urls": [
+      {
+        "indices": [
+          106,
+          129
+        ],
+        "display_url": "twitter.com/i/web/status/9\u2026",
+        "url": "https://t.co/67oT7c9f8I",
+        "expanded_url": "https://twitter.com/i/web/status/930451878521040901"
+      }
+    ],
+    "symbols": [],
+    "user_mentions": [],
+    "hashtags": [
+      {
+        "text": "flamenco",
+        "indices": [
+          10,
+          19
+        ]
+      },
+      {
+        "text": "copla",
+        "indices": [
+          31,
+          37
+        ]
+      },
+      {
+        "text": "Herv\u00e1s",
+        "indices": [
+          96,
+          103
+        ]
+      }
+    ]
+  },
+  "reply_count": 0,
+  "in_reply_to_screen_name": null,
+  "display_text_range": [
+    0,
+    140
+  ],
+  "text": "Encuentro #flamenco de cante y #copla. S\u00e1bado 18 de noviembre, 22:00h., cine teatro juventud de #Herv\u00e1s.\u2026 https://t.co/67oT7c9f8I",
+  "extended_tweet": {
+    "display_text_range": [
+      0,
+      151
+    ],
+    "extended_entities": {
+      "media": [
+        {
+          "id": 930451436135206912,
+          "display_url": "pic.twitter.com/yNCdcn2pdA",
+          "id_str": "930451436135206912",
+          "indices": [
+            152,
+            175
+          ],
+          "expanded_url": "https://twitter.com/valleambroz/status/930451878521040901/photo/1",
+          "type": "photo",
+          "url": "https://t.co/yNCdcn2pdA",
+          "media_url_https": "https://pbs.twimg.com/media/DOmgpsOXUAAldGy.jpg",
+          "media_url": "http://pbs.twimg.com/media/DOmgpsOXUAAldGy.jpg",
+          "sizes": {
+            "small": {
+              "w": 480,
+              "h": 680,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 678,
+              "h": 960,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 678,
+              "h": 960,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "entities": {
+      "media": [
+        {
+          "id": 930451436135206912,
+          "display_url": "pic.twitter.com/yNCdcn2pdA",
+          "id_str": "930451436135206912",
+          "indices": [
+            152,
+            175
+          ],
+          "expanded_url": "https://twitter.com/valleambroz/status/930451878521040901/photo/1",
+          "type": "photo",
+          "url": "https://t.co/yNCdcn2pdA",
+          "media_url_https": "https://pbs.twimg.com/media/DOmgpsOXUAAldGy.jpg",
+          "media_url": "http://pbs.twimg.com/media/DOmgpsOXUAAldGy.jpg",
+          "sizes": {
+            "small": {
+              "w": 480,
+              "h": 680,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 678,
+              "h": 960,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 678,
+              "h": 960,
+              "resize": "fit"
+            }
+          }
+        }
+      ],
+      "urls": [],
+      "symbols": [],
+      "user_mentions": [],
+      "hashtags": [
+        {
+          "text": "flamenco",
+          "indices": [
+            10,
+            19
+          ]
+        },
+        {
+          "text": "copla",
+          "indices": [
+            31,
+            37
+          ]
+        },
+        {
+          "text": "Herv\u00e1s",
+          "indices": [
+            96,
+            103
+          ]
+        },
+        {
+          "text": "otonomagico",
+          "indices": [
+            105,
+            117
+          ]
+        },
+        {
+          "text": "valleambroz",
+          "indices": [
+            118,
+            130
+          ]
+        },
+        {
+          "text": "musicaenvivo",
+          "indices": [
+            131,
+            144
+          ]
+        },
+        {
+          "text": "Spain",
+          "indices": [
+            145,
+            151
+          ]
+        }
+      ]
+    },
+    "full_text": "Encuentro #flamenco de cante y #copla. S\u00e1bado 18 de noviembre, 22:00h., cine teatro juventud de #Herv\u00e1s. #otonomagico #valleambroz #musicaenvivo #Spain https://t.co/yNCdcn2pdA"
+  },
+  "user": {
+    "statuses_count": 4364,
+    "id": 273467351,
+    "default_profile": false,
+    "favourites_count": 3170,
+    "url": "http://visitambroz.com",
+    "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/582840344770826244/t7z2KERm.jpg",
+    "verified": false,
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/805397156328783872/FWQgWT5x_normal.jpg",
+    "translator_type": "none",
+    "location": "facebook.com/valleambroz",
+    "geo_enabled": true,
+    "utc_offset": null,
+    "notifications": null,
+    "profile_background_tile": true,
+    "friends_count": 2890,
+    "is_translator": false,
+    "follow_request_sent": null,
+    "default_profile_image": false,
+    "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/582840344770826244/t7z2KERm.jpg",
+    "profile_background_color": "C0DEED",
+    "profile_link_color": "4A913C",
+    "profile_use_background_image": true,
+    "time_zone": null,
+    "name": "DIVA-AMBROZ",
+    "profile_text_color": "333333",
+    "profile_sidebar_border_color": "FFFFFF",
+    "screen_name": "valleambroz",
+    "lang": "es",
+    "following": null,
+    "listed_count": 62,
+    "protected": false,
+    "profile_sidebar_fill_color": "DDEEF6",
+    "followers_count": 2792,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/805397156328783872/FWQgWT5x_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/273467351/1508840308",
+    "contributors_enabled": false,
+    "created_at": "Mon Mar 28 15:07:21 +0000 2011",
+    "id_str": "273467351",
+    "description": "Asociaci\u00f3n de Desarrollo del Valle del Ambroz, lucha por mejorar esta comarca de Extremadura."
+  },
+  "created_at": "Tue Nov 14 15:06:29 +0000 2017",
+  "id_str": "930451878521040901",
+  "in_reply_to_user_id": null,
+  "contributors": null
+}

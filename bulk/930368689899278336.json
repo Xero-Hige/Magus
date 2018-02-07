@@ -1,0 +1,121 @@
+{
+  "truncated": false,
+  "in_reply_to_status_id": 930251143808278529,
+  "id": 930368689899278336,
+  "in_reply_to_user_id": 117660336,
+  "coordinates": null,
+  "reply_count": 0,
+  "timestamp_ms": "1510652155743",
+  "geo": null,
+  "quote_count": 0,
+  "retweet_count": 0,
+  "is_quote_status": false,
+  "created_at": "Tue Nov 14 09:35:55 +0000 2017",
+  "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+  "favorite_count": 0,
+  "text": "@juan_amorin t\u00edpico del Patr\u00f3n de Estancia, ser\u00e1s servil de por vida o caer\u00e1s en desgracia.. memoria e historia...muy triste..",
+  "in_reply_to_screen_name": "juan_amorin",
+  "in_reply_to_status_id_str": "930251143808278529",
+  "place": {
+    "country": "Argentina",
+    "name": "La Plata",
+    "id": "0177894212b08f73",
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            -58.160874,
+            -35.031373
+          ],
+          [
+            -58.160874,
+            -34.841264
+          ],
+          [
+            -57.865169,
+            -34.841264
+          ],
+          [
+            -57.865169,
+            -35.031373
+          ]
+        ]
+      ]
+    },
+    "country_code": "AR",
+    "place_type": "city",
+    "url": "https://api.twitter.com/1.1/geo/id/0177894212b08f73.json",
+    "attributes": {},
+    "full_name": "La Plata, Argentina"
+  },
+  "contributors": null,
+  "entities": {
+    "hashtags": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "screen_name": "juan_amorin",
+        "name": "Juan Amor\u00edn",
+        "id": 117660336,
+        "id_str": "117660336",
+        "indices": [
+          0,
+          12
+        ]
+      }
+    ],
+    "symbols": []
+  },
+  "display_text_range": [
+    13,
+    126
+  ],
+  "retweeted": false,
+  "id_str": "930368689899278336",
+  "user": {
+    "time_zone": "Buenos Aires",
+    "follow_request_sent": null,
+    "id": 156952262,
+    "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/468336723210952704/BBJQNBuP.jpeg",
+    "translator_type": "none",
+    "screen_name": "aurelioadf",
+    "profile_link_color": "038543",
+    "url": null,
+    "utc_offset": -10800,
+    "location": "La Plata - Pcia Buenos Aires",
+    "name": "Aurelio Di Francesco",
+    "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/468336723210952704/BBJQNBuP.jpeg",
+    "description": "Argentino, Platense, Ingeniero en Telecomunicaciones, aficionado a todo medio de transporte. Docente.Opin\u00f3logo. Resabios de Astrolog\u00eda y Astronom\u00eda.",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/156952262/1421165019",
+    "created_at": "Fri Jun 18 11:49:20 +0000 2010",
+    "protected": false,
+    "is_translator": false,
+    "listed_count": 37,
+    "statuses_count": 82251,
+    "profile_sidebar_border_color": "FFFFFF",
+    "profile_sidebar_fill_color": "F6F6F6",
+    "default_profile": false,
+    "default_profile_image": false,
+    "verified": false,
+    "notifications": null,
+    "friends_count": 2198,
+    "profile_background_color": "ACDED6",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/499246569091133440/QtaWs7SF_normal.jpeg",
+    "following": null,
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/499246569091133440/QtaWs7SF_normal.jpeg",
+    "geo_enabled": true,
+    "profile_use_background_image": true,
+    "contributors_enabled": false,
+    "id_str": "156952262",
+    "profile_text_color": "333333",
+    "followers_count": 2048,
+    "favourites_count": 71286,
+    "lang": "es",
+    "profile_background_tile": true
+  },
+  "filter_level": "low",
+  "in_reply_to_user_id_str": "117660336",
+  "favorited": false,
+  "lang": "es"
+}

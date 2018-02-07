@@ -1,0 +1,120 @@
+{
+  "id": 930450902804254720,
+  "in_reply_to_status_id_str": "930432138125692928",
+  "truncated": false,
+  "place": {
+    "id": "018f1cde6bad9747",
+    "country": "Argentina",
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            -58.531792,
+            -34.674453
+          ],
+          [
+            -58.531792,
+            -34.534177
+          ],
+          [
+            -58.353494,
+            -34.534177
+          ],
+          [
+            -58.353494,
+            -34.674453
+          ]
+        ]
+      ]
+    },
+    "url": "https://api.twitter.com/1.1/geo/id/018f1cde6bad9747.json",
+    "full_name": "Ciudad Aut\u00f3noma de Buenos Aires, Argentina",
+    "attributes": {},
+    "name": "Ciudad Aut\u00f3noma de Buenos Aires",
+    "place_type": "city",
+    "country_code": "AR"
+  },
+  "favorite_count": 0,
+  "retweeted": false,
+  "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+  "is_quote_status": false,
+  "in_reply_to_status_id": 930432138125692928,
+  "coordinates": null,
+  "in_reply_to_screen_name": "PaisPPT",
+  "retweet_count": 0,
+  "quote_count": 0,
+  "timestamp_ms": "1510671756827",
+  "favorited": false,
+  "in_reply_to_user_id_str": "533573263",
+  "filter_level": "low",
+  "entities": {
+    "urls": [],
+    "symbols": [],
+    "user_mentions": [
+      {
+        "screen_name": "PaisPPT",
+        "id": 533573263,
+        "name": "Pa\u00eds PPT",
+        "indices": [
+          0,
+          8
+        ],
+        "id_str": "533573263"
+      }
+    ],
+    "hashtags": []
+  },
+  "reply_count": 0,
+  "geo": null,
+  "display_text_range": [
+    9,
+    83
+  ],
+  "text": "@PaisPPT de acuerdo en casi todo,te discuto lo de los creditos y el volver a crecer",
+  "lang": "es",
+  "user": {
+    "statuses_count": 2776,
+    "id": 285678160,
+    "default_profile": false,
+    "favourites_count": 425,
+    "url": null,
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "verified": false,
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/562624878428188672/pDoZpkjY_normal.jpeg",
+    "translator_type": "none",
+    "location": "1 y 57",
+    "geo_enabled": true,
+    "utc_offset": -10800,
+    "notifications": null,
+    "profile_background_tile": false,
+    "friends_count": 428,
+    "is_translator": false,
+    "follow_request_sent": null,
+    "default_profile_image": false,
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_color": "000000",
+    "profile_link_color": "ABB8C2",
+    "profile_use_background_image": false,
+    "time_zone": "Santiago",
+    "name": "sergio cabrera",
+    "profile_text_color": "000000",
+    "profile_sidebar_border_color": "000000",
+    "screen_name": "oakyelpincha",
+    "lang": "es",
+    "following": null,
+    "listed_count": 2,
+    "protected": false,
+    "profile_sidebar_fill_color": "000000",
+    "followers_count": 63,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/562624878428188672/pDoZpkjY_normal.jpeg",
+    "contributors_enabled": false,
+    "created_at": "Thu Apr 21 15:50:51 +0000 2011",
+    "id_str": "285678160",
+    "description": "del pincha hasta que me muera"
+  },
+  "created_at": "Tue Nov 14 15:02:36 +0000 2017",
+  "id_str": "930450902804254720",
+  "in_reply_to_user_id": 533573263,
+  "contributors": null
+}

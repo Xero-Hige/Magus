@@ -1,0 +1,121 @@
+{
+  "truncated": false,
+  "in_reply_to_status_id": 930093565824393217,
+  "id": 930353125248073733,
+  "in_reply_to_user_id": 251240507,
+  "coordinates": null,
+  "reply_count": 0,
+  "timestamp_ms": "1510648444841",
+  "geo": null,
+  "quote_count": 0,
+  "retweet_count": 0,
+  "is_quote_status": false,
+  "created_at": "Tue Nov 14 08:34:04 +0000 2017",
+  "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+  "favorite_count": 0,
+  "text": "@usesantiago Muchas gracias Eusebio. Trasladamos tus amables palabras a nuestros profesionales. Un saludo",
+  "in_reply_to_screen_name": "usesantiago",
+  "in_reply_to_status_id_str": "930093565824393217",
+  "place": {
+    "country": "Espa\u00f1a",
+    "name": "Coslada",
+    "id": "ae24a749d89baaf8",
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            -3.57964,
+            40.410488
+          ],
+          [
+            -3.57964,
+            40.44687
+          ],
+          [
+            -3.526537,
+            40.44687
+          ],
+          [
+            -3.526537,
+            40.410488
+          ]
+        ]
+      ]
+    },
+    "country_code": "ES",
+    "place_type": "city",
+    "url": "https://api.twitter.com/1.1/geo/id/ae24a749d89baaf8.json",
+    "attributes": {},
+    "full_name": "Coslada, Espa\u00f1a"
+  },
+  "contributors": null,
+  "entities": {
+    "hashtags": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "screen_name": "usesantiago",
+        "name": "Eusebio Santiago",
+        "id": 251240507,
+        "id_str": "251240507",
+        "indices": [
+          0,
+          12
+        ]
+      }
+    ],
+    "symbols": []
+  },
+  "display_text_range": [
+    13,
+    105
+  ],
+  "retweeted": false,
+  "id_str": "930353125248073733",
+  "user": {
+    "time_zone": "Madrid",
+    "follow_request_sent": null,
+    "id": 737538492499038208,
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "translator_type": "none",
+    "screen_name": "OximesaTRD",
+    "profile_link_color": "00AF3F",
+    "url": "http://www.oximesa.es",
+    "utc_offset": 3600,
+    "location": "Espa\u00f1a",
+    "name": "OXIMESA",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "description": "L\u00edder en servicios de Atenci\u00f3n Domiciliaria. Comprometidos con tu Salud y Calidad de Vida. #TerapiasRespiratoriasDomiciliarias #gasesmedicinales. @PraxairESP",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/737538492499038208/1510017538",
+    "created_at": "Tue May 31 06:57:34 +0000 2016",
+    "protected": false,
+    "is_translator": false,
+    "listed_count": 19,
+    "statuses_count": 1181,
+    "profile_sidebar_border_color": "000000",
+    "profile_sidebar_fill_color": "000000",
+    "default_profile": false,
+    "default_profile_image": false,
+    "verified": false,
+    "notifications": null,
+    "friends_count": 298,
+    "profile_background_color": "000000",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/895534560607391744/UM-I9Z3o_normal.jpg",
+    "following": null,
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/895534560607391744/UM-I9Z3o_normal.jpg",
+    "geo_enabled": true,
+    "profile_use_background_image": false,
+    "contributors_enabled": false,
+    "id_str": "737538492499038208",
+    "profile_text_color": "000000",
+    "followers_count": 590,
+    "favourites_count": 178,
+    "lang": "es",
+    "profile_background_tile": false
+  },
+  "filter_level": "low",
+  "in_reply_to_user_id_str": "251240507",
+  "favorited": false,
+  "lang": "es"
+}

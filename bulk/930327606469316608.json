@@ -1,0 +1,127 @@
+{
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "id": 930327606469316608,
+  "in_reply_to_user_id": null,
+  "coordinates": null,
+  "possibly_sensitive": false,
+  "reply_count": 0,
+  "timestamp_ms": "1510642360690",
+  "geo": null,
+  "quote_count": 0,
+  "retweet_count": 0,
+  "is_quote_status": false,
+  "created_at": "Tue Nov 14 06:52:40 +0000 2017",
+  "source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+  "favorite_count": 0,
+  "in_reply_to_screen_name": null,
+  "text": "En @elconfidencial: El Govern planeaba un 'ej\u00e9rcito' de 22.000 efectivos para un escenario a la ucraniana https://t.co/605oUS5hL7",
+  "in_reply_to_status_id_str": null,
+  "place": {
+    "country": "Espa\u00f1a",
+    "name": "Madrid",
+    "id": "206c436ce43a43a3",
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            -3.889005,
+            40.312071
+          ],
+          [
+            -3.889005,
+            40.643518
+          ],
+          [
+            -3.51801,
+            40.643518
+          ],
+          [
+            -3.51801,
+            40.312071
+          ]
+        ]
+      ]
+    },
+    "country_code": "ES",
+    "place_type": "city",
+    "url": "https://api.twitter.com/1.1/geo/id/206c436ce43a43a3.json",
+    "attributes": {},
+    "full_name": "Madrid, Espa\u00f1a"
+  },
+  "contributors": null,
+  "entities": {
+    "hashtags": [],
+    "urls": [
+      {
+        "expanded_url": "https://www.elconfidencial.com/espana/2017-11-13/independencia-cataluna-govern-planeo-ejercito-22000mossos-escenario-ucrania_1476976/?utm_source=twitter&utm_medium=social&utm_campaign=BotoneraWeb",
+        "display_url": "elconfidencial.com/espana/2017-11\u2026",
+        "indices": [
+          106,
+          129
+        ],
+        "url": "https://t.co/605oUS5hL7"
+      }
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "elconfidencial",
+        "name": "El Confidencial",
+        "id": 17229160,
+        "id_str": "17229160",
+        "indices": [
+          3,
+          18
+        ]
+      }
+    ],
+    "symbols": []
+  },
+  "retweeted": false,
+  "id_str": "930327606469316608",
+  "user": {
+    "time_zone": null,
+    "follow_request_sent": null,
+    "id": 266094094,
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "translator_type": "none",
+    "screen_name": "ximocl",
+    "profile_link_color": "1DA1F2",
+    "url": null,
+    "utc_offset": null,
+    "location": "Espa\u00f1a",
+    "name": "JCarrascol",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "description": "El valor es saber vivir con el miedo",
+    "created_at": "Mon Mar 14 17:00:09 +0000 2011",
+    "protected": false,
+    "is_translator": false,
+    "listed_count": 1,
+    "statuses_count": 6335,
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "default_profile": true,
+    "default_profile_image": false,
+    "verified": false,
+    "notifications": null,
+    "friends_count": 318,
+    "profile_background_color": "C0DEED",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/924006906175385602/18gjStuH_normal.jpg",
+    "following": null,
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/924006906175385602/18gjStuH_normal.jpg",
+    "geo_enabled": true,
+    "profile_use_background_image": true,
+    "contributors_enabled": false,
+    "id_str": "266094094",
+    "profile_text_color": "333333",
+    "followers_count": 95,
+    "favourites_count": 134,
+    "lang": "es",
+    "profile_background_tile": false
+  },
+  "filter_level": "low",
+  "in_reply_to_user_id_str": null,
+  "favorited": false,
+  "lang": "es"
+}

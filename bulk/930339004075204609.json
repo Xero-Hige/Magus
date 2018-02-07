@@ -1,0 +1,204 @@
+{
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "id": 930339004075204609,
+  "in_reply_to_user_id": null,
+  "coordinates": null,
+  "possibly_sensitive": false,
+  "reply_count": 0,
+  "timestamp_ms": "1510645078091",
+  "geo": null,
+  "quote_count": 0,
+  "retweet_count": 0,
+  "is_quote_status": false,
+  "created_at": "Tue Nov 14 07:37:58 +0000 2017",
+  "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+  "favorite_count": 0,
+  "text": "Lo bueno de tener clases en este cine es que puedes mostrarle a todos lo cool que son tus medias. #Astorkino #bin\u00e4r https://t.co/oYkV6wBmc6",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id_str": null,
+  "place": {
+    "country": "Germany",
+    "name": "ASTOR Grand Cinema",
+    "id": "0952963be0561000",
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            9.73307,
+            52.38044
+          ],
+          [
+            9.73307,
+            52.38044
+          ],
+          [
+            9.73307,
+            52.38044
+          ],
+          [
+            9.73307,
+            52.38044
+          ]
+        ]
+      ]
+    },
+    "country_code": "DE",
+    "place_type": "poi",
+    "url": "https://api.twitter.com/1.1/geo/id/0952963be0561000.json",
+    "attributes": {},
+    "full_name": "ASTOR Grand Cinema"
+  },
+  "contributors": null,
+  "entities": {
+    "media": [
+      {
+        "type": "photo",
+        "url": "https://t.co/oYkV6wBmc6",
+        "display_url": "pic.twitter.com/oYkV6wBmc6",
+        "media_url_https": "https://pbs.twimg.com/media/DOk6YVsX4AANegj.jpg",
+        "id": 930338987843248128,
+        "sizes": {
+          "large": {
+            "w": 720,
+            "resize": "fit",
+            "h": 960
+          },
+          "thumb": {
+            "w": 150,
+            "resize": "crop",
+            "h": 150
+          },
+          "small": {
+            "w": 510,
+            "resize": "fit",
+            "h": 680
+          },
+          "medium": {
+            "w": 720,
+            "resize": "fit",
+            "h": 960
+          }
+        },
+        "expanded_url": "https://twitter.com/AniMillan/status/930339004075204609/photo/1",
+        "id_str": "930338987843248128",
+        "indices": [
+          116,
+          139
+        ],
+        "media_url": "http://pbs.twimg.com/media/DOk6YVsX4AANegj.jpg"
+      }
+    ],
+    "hashtags": [
+      {
+        "indices": [
+          98,
+          108
+        ],
+        "text": "Astorkino"
+      },
+      {
+        "indices": [
+          109,
+          115
+        ],
+        "text": "bin\u00e4r"
+      }
+    ],
+    "urls": [],
+    "user_mentions": [],
+    "symbols": []
+  },
+  "display_text_range": [
+    0,
+    115
+  ],
+  "retweeted": false,
+  "id_str": "930339004075204609",
+  "user": {
+    "time_zone": "Caracas",
+    "follow_request_sent": null,
+    "id": 50122815,
+    "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/384987395/tumblr_krqida2FhI1qzdy9xo1_400.jpg",
+    "translator_type": "none",
+    "screen_name": "AniMillan",
+    "profile_link_color": "000000",
+    "url": "http://www.animillan.tumblr.com",
+    "utc_offset": -14400,
+    "location": "Hanover, Lower Saxony",
+    "name": "Anais Mill\u00e1n Cerezo",
+    "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/384987395/tumblr_krqida2FhI1qzdy9xo1_400.jpg",
+    "description": "20. Venezolana en Alemania. Estudiante de Mecatr\u00f3nica en la Leibniz Universit\u00e4t Hannover",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/50122815/1386937941",
+    "created_at": "Tue Jun 23 22:23:52 +0000 2009",
+    "protected": false,
+    "is_translator": false,
+    "listed_count": 0,
+    "statuses_count": 1604,
+    "profile_sidebar_border_color": "000000",
+    "profile_sidebar_fill_color": "960986",
+    "default_profile": false,
+    "default_profile_image": false,
+    "verified": false,
+    "notifications": null,
+    "friends_count": 123,
+    "profile_background_color": "A108D4",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/928004746849538048/e4XMAFet_normal.jpg",
+    "following": null,
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/928004746849538048/e4XMAFet_normal.jpg",
+    "geo_enabled": true,
+    "profile_use_background_image": true,
+    "contributors_enabled": false,
+    "id_str": "50122815",
+    "profile_text_color": "000000",
+    "followers_count": 155,
+    "favourites_count": 29,
+    "lang": "en",
+    "profile_background_tile": true
+  },
+  "extended_entities": {
+    "media": [
+      {
+        "type": "photo",
+        "url": "https://t.co/oYkV6wBmc6",
+        "display_url": "pic.twitter.com/oYkV6wBmc6",
+        "media_url_https": "https://pbs.twimg.com/media/DOk6YVsX4AANegj.jpg",
+        "id": 930338987843248128,
+        "sizes": {
+          "large": {
+            "w": 720,
+            "resize": "fit",
+            "h": 960
+          },
+          "thumb": {
+            "w": 150,
+            "resize": "crop",
+            "h": 150
+          },
+          "small": {
+            "w": 510,
+            "resize": "fit",
+            "h": 680
+          },
+          "medium": {
+            "w": 720,
+            "resize": "fit",
+            "h": 960
+          }
+        },
+        "expanded_url": "https://twitter.com/AniMillan/status/930339004075204609/photo/1",
+        "id_str": "930338987843248128",
+        "indices": [
+          116,
+          139
+        ],
+        "media_url": "http://pbs.twimg.com/media/DOk6YVsX4AANegj.jpg"
+      }
+    ]
+  },
+  "filter_level": "low",
+  "in_reply_to_user_id_str": null,
+  "favorited": false,
+  "lang": "es"
+}

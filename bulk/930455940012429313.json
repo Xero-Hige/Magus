@@ -1,0 +1,316 @@
+{
+  "id": 930455940012429313,
+  "lang": "es",
+  "in_reply_to_status_id_str": null,
+  "truncated": true,
+  "place": {
+    "id": "00c4b64e7affea25",
+    "country": "Chile",
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            -70.608694,
+            -33.486182
+          ],
+          [
+            -70.608694,
+            -33.364619
+          ],
+          [
+            -70.429141,
+            -33.364619
+          ],
+          [
+            -70.429141,
+            -33.486182
+          ]
+        ]
+      ]
+    },
+    "url": "https://api.twitter.com/1.1/geo/id/00c4b64e7affea25.json",
+    "full_name": "Las Condes, Chile",
+    "attributes": {},
+    "name": "Las Condes",
+    "place_type": "city",
+    "country_code": "CL"
+  },
+  "favorite_count": 0,
+  "retweeted": false,
+  "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+  "is_quote_status": false,
+  "possibly_sensitive": false,
+  "geo": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_status_id": null,
+  "retweet_count": 0,
+  "quote_count": 0,
+  "timestamp_ms": "1510672957791",
+  "favorited": false,
+  "coordinates": null,
+  "filter_level": "low",
+  "entities": {
+    "urls": [
+      {
+        "indices": [
+          117,
+          140
+        ],
+        "display_url": "twitter.com/i/web/status/9\u2026",
+        "url": "https://t.co/753BBMLWLJ",
+        "expanded_url": "https://twitter.com/i/web/status/930455940012429313"
+      }
+    ],
+    "symbols": [],
+    "user_mentions": [],
+    "hashtags": []
+  },
+  "reply_count": 0,
+  "in_reply_to_screen_name": null,
+  "display_text_range": [
+    0,
+    140
+  ],
+  "text": "Te invitamos a conocer todas las soluciones de capacitaci\u00f3n para la industria productiva Pharma y foods.\n\nM\u00e1s infor\u2026 https://t.co/753BBMLWLJ",
+  "extended_tweet": {
+    "display_text_range": [
+      0,
+      253
+    ],
+    "extended_entities": {
+      "media": [
+        {
+          "id": 930455901219229696,
+          "display_url": "pic.twitter.com/NZ3mzEXlJN",
+          "id_str": "930455901219229696",
+          "indices": [
+            254,
+            277
+          ],
+          "expanded_url": "https://twitter.com/UsecapChile/status/930455940012429313/photo/1",
+          "type": "photo",
+          "url": "https://t.co/NZ3mzEXlJN",
+          "media_url_https": "https://pbs.twimg.com/media/DOmktl9WkAAVESU.jpg",
+          "media_url": "http://pbs.twimg.com/media/DOmktl9WkAAVESU.jpg",
+          "sizes": {
+            "small": {
+              "w": 680,
+              "h": 330,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 1536,
+              "h": 746,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 1200,
+              "h": 583,
+              "resize": "fit"
+            }
+          }
+        },
+        {
+          "id": 930455901458313216,
+          "display_url": "pic.twitter.com/NZ3mzEXlJN",
+          "id_str": "930455901458313216",
+          "indices": [
+            254,
+            277
+          ],
+          "expanded_url": "https://twitter.com/UsecapChile/status/930455940012429313/photo/1",
+          "type": "photo",
+          "url": "https://t.co/NZ3mzEXlJN",
+          "media_url_https": "https://pbs.twimg.com/media/DOmktm2WsAAq-IG.jpg",
+          "media_url": "http://pbs.twimg.com/media/DOmktm2WsAAq-IG.jpg",
+          "sizes": {
+            "small": {
+              "w": 680,
+              "h": 453,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 1600,
+              "h": 1066,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 1200,
+              "h": 800,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "entities": {
+      "media": [
+        {
+          "id": 930455901219229696,
+          "display_url": "pic.twitter.com/NZ3mzEXlJN",
+          "id_str": "930455901219229696",
+          "indices": [
+            254,
+            277
+          ],
+          "expanded_url": "https://twitter.com/UsecapChile/status/930455940012429313/photo/1",
+          "type": "photo",
+          "url": "https://t.co/NZ3mzEXlJN",
+          "media_url_https": "https://pbs.twimg.com/media/DOmktl9WkAAVESU.jpg",
+          "media_url": "http://pbs.twimg.com/media/DOmktl9WkAAVESU.jpg",
+          "sizes": {
+            "small": {
+              "w": 680,
+              "h": 330,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 1536,
+              "h": 746,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 1200,
+              "h": 583,
+              "resize": "fit"
+            }
+          }
+        },
+        {
+          "id": 930455901458313216,
+          "display_url": "pic.twitter.com/NZ3mzEXlJN",
+          "id_str": "930455901458313216",
+          "indices": [
+            254,
+            277
+          ],
+          "expanded_url": "https://twitter.com/UsecapChile/status/930455940012429313/photo/1",
+          "type": "photo",
+          "url": "https://t.co/NZ3mzEXlJN",
+          "media_url_https": "https://pbs.twimg.com/media/DOmktm2WsAAq-IG.jpg",
+          "media_url": "http://pbs.twimg.com/media/DOmktm2WsAAq-IG.jpg",
+          "sizes": {
+            "small": {
+              "w": 680,
+              "h": 453,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 1600,
+              "h": 1066,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 1200,
+              "h": 800,
+              "resize": "fit"
+            }
+          }
+        }
+      ],
+      "urls": [
+        {
+          "indices": [
+            125,
+            148
+          ],
+          "display_url": "usecap.cl/industria-prod\u2026",
+          "url": "https://t.co/X2s8idOTJg",
+          "expanded_url": "http://usecap.cl/industria-productiva.html"
+        }
+      ],
+      "symbols": [],
+      "user_mentions": [],
+      "hashtags": [
+        {
+          "text": "capacitaci\u00f3n",
+          "indices": [
+            197,
+            210
+          ]
+        },
+        {
+          "text": "desarrolloprofesional",
+          "indices": [
+            211,
+            233
+          ]
+        },
+        {
+          "text": "desarrollopersonal",
+          "indices": [
+            234,
+            253
+          ]
+        }
+      ]
+    },
+    "full_text": "Te invitamos a conocer todas las soluciones de capacitaci\u00f3n para la industria productiva Pharma y foods.\n\nM\u00e1s informaci\u00f3n en https://t.co/X2s8idOTJg\no ll\u00e1manos al 2-32244420 \u00a1te asesoramos gratis!\n#capacitaci\u00f3n #desarrolloprofesional #desarrollopersonal https://t.co/NZ3mzEXlJN"
+  },
+  "user": {
+    "statuses_count": 10,
+    "id": 925462614926417920,
+    "default_profile": true,
+    "favourites_count": 7,
+    "url": null,
+    "profile_background_image_url_https": "",
+    "verified": false,
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/925466716808806400/qa2Vscoo_normal.jpg",
+    "translator_type": "none",
+    "location": "Santiago, Chile",
+    "geo_enabled": true,
+    "utc_offset": null,
+    "notifications": null,
+    "profile_background_tile": false,
+    "friends_count": 62,
+    "is_translator": false,
+    "follow_request_sent": null,
+    "default_profile_image": false,
+    "profile_background_image_url": "",
+    "profile_background_color": "F5F8FA",
+    "profile_link_color": "1DA1F2",
+    "profile_use_background_image": true,
+    "time_zone": null,
+    "name": "Usecap Capacitaci\u00f3n",
+    "profile_text_color": "333333",
+    "profile_sidebar_border_color": "C0DEED",
+    "screen_name": "UsecapChile",
+    "lang": "es",
+    "following": null,
+    "listed_count": 0,
+    "protected": false,
+    "profile_sidebar_fill_color": "DDEEF6",
+    "followers_count": 5,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/925466716808806400/qa2Vscoo_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/925462614926417920/1509483477",
+    "contributors_enabled": false,
+    "created_at": "Tue Oct 31 20:40:56 +0000 2017",
+    "id_str": "925462614926417920",
+    "description": "Nos mueve dar soluciones innovadoras a las necesidades de capacitaci\u00f3n de nuestros clientes."
+  },
+  "created_at": "Tue Nov 14 15:22:37 +0000 2017",
+  "id_str": "930455940012429313",
+  "in_reply_to_user_id": null,
+  "contributors": null
+}

@@ -1,0 +1,175 @@
+{
+  "truncated": true,
+  "in_reply_to_status_id": 930117654307856384,
+  "id": 930357395590705152,
+  "in_reply_to_user_id": 331897934,
+  "coordinates": null,
+  "reply_count": 0,
+  "extended_tweet": {
+    "full_text": "@GGilsanz @museodelprado El Prado deber\u00eda finalizar (a mi entender) con Goya y sus contempor\u00e1neos. El resto del s.XIX es poco relevante y liberar\u00eda espacio para otras grandes piezas, como bien indicas.",
+    "display_text_range": [
+      25,
+      201
+    ],
+    "entities": {
+      "hashtags": [],
+      "urls": [],
+      "user_mentions": [
+        {
+          "screen_name": "GGilsanz",
+          "name": "Gerardo Gilsanz",
+          "id": 331897934,
+          "id_str": "331897934",
+          "indices": [
+            0,
+            9
+          ]
+        },
+        {
+          "screen_name": "museodelprado",
+          "name": "Museo del Prado",
+          "id": 16576356,
+          "id_str": "16576356",
+          "indices": [
+            10,
+            24
+          ]
+        }
+      ],
+      "symbols": []
+    }
+  },
+  "timestamp_ms": "1510649462970",
+  "geo": null,
+  "quote_count": 0,
+  "retweet_count": 0,
+  "is_quote_status": false,
+  "created_at": "Tue Nov 14 08:51:02 +0000 2017",
+  "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+  "favorite_count": 0,
+  "text": "@GGilsanz @museodelprado El Prado deber\u00eda finalizar (a mi entender) con Goya y sus contempor\u00e1neos. El resto del s.X\u2026 https://t.co/Vmb9qKxS2L",
+  "in_reply_to_screen_name": "GGilsanz",
+  "in_reply_to_status_id_str": "930117654307856384",
+  "place": {
+    "country": "Espa\u00f1a",
+    "name": "Madrid",
+    "id": "ea520f3528c9b3e4",
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            -4.579175,
+            39.884537
+          ],
+          [
+            -4.579175,
+            41.164911
+          ],
+          [
+            -3.053132,
+            41.164911
+          ],
+          [
+            -3.053132,
+            39.884537
+          ]
+        ]
+      ]
+    },
+    "country_code": "ES",
+    "place_type": "admin",
+    "url": "https://api.twitter.com/1.1/geo/id/ea520f3528c9b3e4.json",
+    "attributes": {},
+    "full_name": "Madrid, Comunidad de Madrid"
+  },
+  "contributors": null,
+  "entities": {
+    "hashtags": [],
+    "urls": [
+      {
+        "expanded_url": "https://twitter.com/i/web/status/930357395590705152",
+        "display_url": "twitter.com/i/web/status/9\u2026",
+        "indices": [
+          117,
+          140
+        ],
+        "url": "https://t.co/Vmb9qKxS2L"
+      }
+    ],
+    "user_mentions": [
+      {
+        "screen_name": "GGilsanz",
+        "name": "Gerardo Gilsanz",
+        "id": 331897934,
+        "id_str": "331897934",
+        "indices": [
+          0,
+          9
+        ]
+      },
+      {
+        "screen_name": "museodelprado",
+        "name": "Museo del Prado",
+        "id": 16576356,
+        "id_str": "16576356",
+        "indices": [
+          10,
+          24
+        ]
+      }
+    ],
+    "symbols": []
+  },
+  "display_text_range": [
+    25,
+    140
+  ],
+  "retweeted": false,
+  "id_str": "930357395590705152",
+  "user": {
+    "time_zone": "Madrid",
+    "follow_request_sent": null,
+    "id": 271350791,
+    "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/497747729989124097/zEQ2Ut8r.jpeg",
+    "translator_type": "none",
+    "screen_name": "KurtBravo",
+    "profile_link_color": "19CF86",
+    "url": "http://www.reinadodecarlosii.blogspot.com",
+    "utc_offset": 3600,
+    "location": "Madrid, Comunidad de Madrid",
+    "name": "Ioannes Austriacus",
+    "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/497747729989124097/zEQ2Ut8r.jpeg",
+    "description": "Economista e historiador, autor del blog http://www.reinadodecarlosii.blogspot.com amante de Tool y Dinosaur Jr",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/271350791/1491486088",
+    "created_at": "Thu Mar 24 10:02:44 +0000 2011",
+    "protected": false,
+    "is_translator": false,
+    "listed_count": 47,
+    "statuses_count": 28746,
+    "profile_sidebar_border_color": "FFFFFF",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "default_profile": false,
+    "default_profile_image": false,
+    "verified": false,
+    "notifications": null,
+    "friends_count": 924,
+    "profile_background_color": "C0DEED",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/830096607353925632/KxE0szHw_normal.jpg",
+    "following": null,
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/830096607353925632/KxE0szHw_normal.jpg",
+    "geo_enabled": true,
+    "profile_use_background_image": true,
+    "contributors_enabled": false,
+    "id_str": "271350791",
+    "profile_text_color": "333333",
+    "followers_count": 894,
+    "favourites_count": 36361,
+    "lang": "es",
+    "profile_background_tile": true
+  },
+  "filter_level": "low",
+  "in_reply_to_user_id_str": "331897934",
+  "favorited": false,
+  "lang": "es"
+}

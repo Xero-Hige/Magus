@@ -1,0 +1,155 @@
+{
+  "id": 930452941856796672,
+  "lang": "es",
+  "in_reply_to_status_id_str": "930433031705329664",
+  "truncated": true,
+  "place": {
+    "id": "01e6f0de7086875b",
+    "country": "Chile",
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            -70.615011,
+            -33.409388
+          ],
+          [
+            -70.615011,
+            -33.350861
+          ],
+          [
+            -70.519568,
+            -33.350861
+          ],
+          [
+            -70.519568,
+            -33.409388
+          ]
+        ]
+      ]
+    },
+    "url": "https://api.twitter.com/1.1/geo/id/01e6f0de7086875b.json",
+    "full_name": "Vitacura, Chile",
+    "attributes": {},
+    "name": "Vitacura",
+    "place_type": "city",
+    "country_code": "CL"
+  },
+  "favorite_count": 0,
+  "retweeted": false,
+  "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+  "is_quote_status": false,
+  "in_reply_to_status_id": 930433031705329664,
+  "in_reply_to_user_id_str": "251882678",
+  "in_reply_to_screen_name": "AldoDuqueSantos",
+  "retweet_count": 0,
+  "quote_count": 0,
+  "timestamp_ms": "1510672242975",
+  "favorited": false,
+  "coordinates": null,
+  "filter_level": "low",
+  "entities": {
+    "urls": [
+      {
+        "indices": [
+          117,
+          140
+        ],
+        "display_url": "twitter.com/i/web/status/9\u2026",
+        "url": "https://t.co/lsMCvRWnvu",
+        "expanded_url": "https://twitter.com/i/web/status/930452941856796672"
+      }
+    ],
+    "symbols": [],
+    "user_mentions": [
+      {
+        "screen_name": "AldoDuqueSantos",
+        "id": 251882678,
+        "name": "Aldo Duque",
+        "indices": [
+          0,
+          16
+        ],
+        "id_str": "251882678"
+      }
+    ],
+    "hashtags": []
+  },
+  "reply_count": 0,
+  "geo": null,
+  "display_text_range": [
+    17,
+    140
+  ],
+  "text": "@AldoDuqueSantos el despilfarro viene de los robos generados por carabineros, el ejercito \u00a1ah\u00ed si que hay enormes c\u2026 https://t.co/lsMCvRWnvu",
+  "extended_tweet": {
+    "display_text_range": [
+      17,
+      275
+    ],
+    "entities": {
+      "urls": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "screen_name": "AldoDuqueSantos",
+          "id": 251882678,
+          "name": "Aldo Duque",
+          "indices": [
+            0,
+            16
+          ],
+          "id_str": "251882678"
+        }
+      ],
+      "hashtags": []
+    },
+    "full_text": "@AldoDuqueSantos el despilfarro viene de los robos generados por carabineros, el ejercito \u00a1ah\u00ed si que hay enormes cantidades!.. y seguro que esta son maniobras que vienen desde los 70s. nadie rindi\u00f3 cuentas, un dictador que muere millonario y una viuda estafadora y ladrona.."
+  },
+  "user": {
+    "statuses_count": 2971,
+    "id": 31203775,
+    "default_profile": false,
+    "favourites_count": 2850,
+    "url": "https://myspace.com/sergiogimeneztoro",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+    "verified": false,
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/909933943994175489/ByXAUagH_normal.jpg",
+    "translator_type": "none",
+    "location": "santiago r.m. chile",
+    "geo_enabled": true,
+    "utc_offset": -10800,
+    "notifications": null,
+    "profile_background_tile": true,
+    "friends_count": 1748,
+    "is_translator": false,
+    "follow_request_sent": null,
+    "default_profile_image": false,
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+    "profile_background_color": "131516",
+    "profile_link_color": "6B6B6B",
+    "profile_use_background_image": true,
+    "time_zone": "Santiago",
+    "name": "sergio gimenez toro",
+    "profile_text_color": "FFFFFF",
+    "profile_sidebar_border_color": "9C9C9C",
+    "screen_name": "sggt",
+    "lang": "es",
+    "following": null,
+    "listed_count": 3,
+    "protected": false,
+    "profile_sidebar_fill_color": "919191",
+    "followers_count": 289,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/909933943994175489/ByXAUagH_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/31203775/1456716180",
+    "contributors_enabled": false,
+    "created_at": "Tue Apr 14 19:33:49 +0000 2009",
+    "id_str": "31203775",
+    "description": "my activity starts on april 14, 2009, long before twitter it became so famous in the world .. sergio guillermo gim\u00e9nez toro (stgo/chile)"
+  },
+  "created_at": "Tue Nov 14 15:10:42 +0000 2017",
+  "id_str": "930452941856796672",
+  "in_reply_to_user_id": 251882678,
+  "contributors": null
+}

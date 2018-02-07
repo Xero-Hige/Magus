@@ -1,0 +1,217 @@
+{
+  "id": 930453171759190019,
+  "in_reply_to_status_id_str": null,
+  "truncated": false,
+  "place": {
+    "id": "01566b25bbe7a6d3",
+    "country": "M\u00e9xico",
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [
+            -89.798197,
+            20.695104
+          ],
+          [
+            -89.798197,
+            21.186966
+          ],
+          [
+            -89.449025,
+            21.186966
+          ],
+          [
+            -89.449025,
+            20.695104
+          ]
+        ]
+      ]
+    },
+    "url": "https://api.twitter.com/1.1/geo/id/01566b25bbe7a6d3.json",
+    "full_name": "M\u00e9rida, Yucat\u00e1n",
+    "attributes": {},
+    "name": "M\u00e9rida",
+    "place_type": "city",
+    "country_code": "MX"
+  },
+  "favorite_count": 0,
+  "retweeted": false,
+  "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+  "is_quote_status": false,
+  "possibly_sensitive": false,
+  "geo": null,
+  "coordinates": null,
+  "in_reply_to_status_id": null,
+  "retweet_count": 0,
+  "quote_count": 0,
+  "timestamp_ms": "1510672297788",
+  "favorited": false,
+  "in_reply_to_user_id_str": null,
+  "filter_level": "low",
+  "entities": {
+    "media": [
+      {
+        "id": 930453160895926272,
+        "display_url": "pic.twitter.com/m9BhYM9Agr",
+        "id_str": "930453160895926272",
+        "indices": [
+          59,
+          82
+        ],
+        "expanded_url": "https://twitter.com/dondeempenos/status/930453171759190019/photo/1",
+        "type": "photo",
+        "url": "https://t.co/m9BhYM9Agr",
+        "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/DOmiOFdXUAAykQu.jpg",
+        "media_url": "http://pbs.twimg.com/tweet_video_thumb/DOmiOFdXUAAykQu.jpg",
+        "sizes": {
+          "small": {
+            "w": 480,
+            "h": 204,
+            "resize": "fit"
+          },
+          "large": {
+            "w": 480,
+            "h": 204,
+            "resize": "fit"
+          },
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "medium": {
+            "w": 480,
+            "h": 204,
+            "resize": "fit"
+          }
+        }
+      }
+    ],
+    "urls": [],
+    "symbols": [],
+    "user_mentions": [],
+    "hashtags": [
+      {
+        "text": "TresPalabrasQueDuelen",
+        "indices": [
+          0,
+          22
+        ]
+      },
+      {
+        "text": "FelizMartes",
+        "indices": [
+          46,
+          58
+        ]
+      }
+    ]
+  },
+  "reply_count": 0,
+  "in_reply_to_screen_name": null,
+  "display_text_range": [
+    0,
+    58
+  ],
+  "extended_entities": {
+    "media": [
+      {
+        "id": 930453160895926272,
+        "display_url": "pic.twitter.com/m9BhYM9Agr",
+        "id_str": "930453160895926272",
+        "indices": [
+          59,
+          82
+        ],
+        "expanded_url": "https://twitter.com/dondeempenos/status/930453171759190019/photo/1",
+        "type": "animated_gif",
+        "url": "https://t.co/m9BhYM9Agr",
+        "video_info": {
+          "variants": [
+            {
+              "url": "https://video.twimg.com/tweet_video/DOmiOFdXUAAykQu.mp4",
+              "bitrate": 0,
+              "content_type": "video/mp4"
+            }
+          ],
+          "aspect_ratio": [
+            40,
+            17
+          ]
+        },
+        "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/DOmiOFdXUAAykQu.jpg",
+        "media_url": "http://pbs.twimg.com/tweet_video_thumb/DOmiOFdXUAAykQu.jpg",
+        "sizes": {
+          "small": {
+            "w": 480,
+            "h": 204,
+            "resize": "fit"
+          },
+          "large": {
+            "w": 480,
+            "h": 204,
+            "resize": "fit"
+          },
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "medium": {
+            "w": 480,
+            "h": 204,
+            "resize": "fit"
+          }
+        }
+      }
+    ]
+  },
+  "text": "#TresPalabrasQueDuelen  \"no han depositado\" \ud83d\ude41 #FelizMartes https://t.co/m9BhYM9Agr",
+  "lang": "es",
+  "user": {
+    "statuses_count": 1182,
+    "id": 2507969533,
+    "default_profile": false,
+    "favourites_count": 62,
+    "url": "http://www.dondeempenos.com.mx",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "verified": false,
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/927585359776673792/YDcQkmAr_normal.jpg",
+    "translator_type": "none",
+    "location": "Av. Paseo de Montejo 39 y 41",
+    "geo_enabled": true,
+    "utc_offset": -21600,
+    "notifications": null,
+    "profile_background_tile": false,
+    "friends_count": 436,
+    "is_translator": false,
+    "follow_request_sent": null,
+    "default_profile_image": false,
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_color": "00A850",
+    "profile_link_color": "9FC54D",
+    "profile_use_background_image": true,
+    "time_zone": "Mexico City",
+    "name": "Fundaci\u00f3n Dond\u00e9",
+    "profile_text_color": "333333",
+    "profile_sidebar_border_color": "FFFFFF",
+    "screen_name": "dondeempenos",
+    "lang": "es",
+    "following": null,
+    "listed_count": 1,
+    "protected": false,
+    "profile_sidebar_fill_color": "DDEEF6",
+    "followers_count": 892,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/927585359776673792/YDcQkmAr_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/2507969533/1510180833",
+    "contributors_enabled": false,
+    "created_at": "Mon May 19 17:15:10 +0000 2014",
+    "id_str": "2507969533",
+    "description": "Somos el \u00e1rea de servicios de empe\u00f1os de Fundaci\u00f3n Dond\u00e9 desde hace m\u00e1s de 30 a\u00f1os en todo M\u00e9xico a trav\u00e9s de nuestras 338 sucursales. Aceptamos \ud83d\udc8d,\ud83d\udcf1,\ud83d\ude98 y m\u00e1s."
+  },
+  "created_at": "Tue Nov 14 15:11:37 +0000 2017",
+  "id_str": "930453171759190019",
+  "in_reply_to_user_id": null,
+  "contributors": null
+}
