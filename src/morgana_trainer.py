@@ -134,8 +134,8 @@ def main(_):
     if start_it != 0:
         saver.restore(sess, "tmp/" + output_folder + "_{}.ckpt".format(start_it))
 
-    test_batches = ["/media/hige/320/train_data/train_batch_{}.dmp".format(1)]
-    batches = ["/media/hige/320/train_data/train_batch_{}.dmp".format(2)]
+    test_batches = ["/media/hige/320/train_data/train_batch_{}.dmp".format(3)]
+    batches = ["/media/hige/320/train_data/train_batch_{}.dmp".format(x) for x in range(3)]
 
     start_it -= 1 if start_it != 0 else 0
 
@@ -163,8 +163,8 @@ def main(_):
         #                                            global_trainer, cnn.loss, cnn.accuracy, name="Global",
         #                                            prev_acc=acc_global)
 
-            # if (it % 3) == 0:
-            #    do_test_step(test_batches, cnn, sess)
+        # if (it % 3) == 0:
+        #    do_test_step(test_batches, cnn, sess)
 
     do_test_step(test_batches, cnn, sess)
     print('Done training!')

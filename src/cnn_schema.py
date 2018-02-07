@@ -55,26 +55,24 @@ class CNNSchema(object):
     def create_dense_layer(input_layer, input_size, output_size,
                            name,
                            l2_loss=tf.constant(0.0),
-                           bias=0.1):
-        with tf.name_scope("dense-layer_" + name):
-            # W = tf.get_variable(
-            #        name="W_dense_" + name,
-            #        shape=[input_size, output_size],
-            #        initializer=tf.contrib.layers.xavier_initializer())
+                           bias=0.1, prefix=""):
+        # with tf.name_scope("dense-layer_" + name):
+        W = tf.get_variable(
+                name="W_dense_" + name,
+                shape=[input_size, output_size],
+                initializer=tf.contrib.layers.xavier_initializer())
 
-            # b = tf.Variable(tf.constant(bias, shape=[output_size]), name="b_dense_" + name)
+        b = tf.Variable(tf.constant(bias, shape=[output_size]), name="b_dense_" + name)
 
-            # l2_loss += tf.nn.l2_loss(W)
-            # l2_loss += tf.nn.l2_loss(b)
+        dense_layer = tf.nn.xw_plus_b(input_layer, W, b)
 
-            # dense_layer = tf.nn.xw_plus_b(input_layer, W, b)
-
-            dense_layer = tf.layers.dense(inputs=input_layer,
-                                          units=output_size,
-                                          activation=tf.nn.tanh,
-                                          use_bias=True,
-                                          kernel_initializer=tf.contrib.layers.xavier_initializer(),
-                                          trainable=True)
+        # dense_layer = tf.layers.dense(inputs=input_layer,
+        #                                  units=output_size,
+        #                                  activation=tf.nn.tanh,
+        #                                  use_bias=True,
+        #                                  kernel_initializer=tf.contrib.layers.xavier_initializer(),
+        #                                  trainable=True,
+        #                                  name="{}/dense_{}".format(prefix,name))
 
         return dense_layer  # , l2_loss
 
