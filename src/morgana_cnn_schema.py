@@ -90,21 +90,16 @@ class MorganaCNNSchema(CNNSchema):
         self.rchar_loss = self.get_loss(self.input_y, l2_loss, l2_reg_lambda, r_chars_dl)
         self.rchar_accuracy = self.get_accuracy(self.input_y, rchar_predictions)
 
-
         with tf.name_scope("global"):
             dense_layers = tf.concat([hidden_words, hidden_chars, hidden_rchar], 1)
-            convolution_layer_output, output_channels = self.create_conv_pool_layer(
-                    tf.reshape(dense_layers, [-1, int(output_layers_size * 102.4) * 3, 1, 1]),
-                    1,
-                    [num_classes * 3],
-                    int(num_classes * 102.4),
-                    num_classes * 3,
-                    activation=tf.nn.tanh)
+            dropout_concat = self.create_dropout_layer(dense_layers, dropout_prob=self.dropout_keep_prob)
 
-            dropout = self.create_dropout_layer(convolution_layer_output, dropout_prob=self.dropout_keep_prob)
+            dense_layer = MorganaCNNSchema.create_dense_layer(dropout_concat, int(output_layers_size * 102.4) * 3,
+                                                              int(output_layers_size * 102.4), "Extract")
+            dropout_redux = self.create_dropout_layer(dense_layer, dropout_prob=self.dropout_keep_prob)
 
-            scores, predictions = self.create_output_layer(dropout,
-                                                           output_channels,
+            scores, predictions = self.create_output_layer(dropout_redux,
+                                                           int(output_layers_size * 102.4),
                                                            num_classes,
                                                            l2_loss=l2_loss)
 
