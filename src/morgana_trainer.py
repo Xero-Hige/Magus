@@ -20,11 +20,7 @@ export the trained model with proper signatures that can be loaded by standard
 tensorflow_model_server.
 Usage: mnist_export.py [--training_iteration=x] [--model_version=y] export_dir
 """
-<<<<<<< HEAD
 import datetime
-=======
-
->>>>>>> b23f0e37de1dde1aaccbb9f0c55cae6eec6fa363
 import os
 import pickle
 import random
