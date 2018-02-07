@@ -115,7 +115,7 @@ def main(_):
             l2_reg_lambda=FLAGS.l2_reg_lambda)
 
     train_vars = tf.get_collection(tf.GraphKeys.TRAINABLE_VARIABLES, "global")
-    global_trainer = tf.train.AdamOptimizer(1e-3).minimize(cnn.loss, var_list=train_vars)
+    # global_trainer = tf.train.AdamOptimizer(1e-3).minimize(cnn.loss, var_list=train_vars)
 
     train_vars = tf.get_collection(tf.GraphKeys.TRAINABLE_VARIABLES, "words_stream")
     word_trainer = tf.train.AdamOptimizer(1e-3).minimize(cnn.word_loss, var_list=train_vars)
@@ -145,6 +145,8 @@ def main(_):
 
     acc_global = 0
 
+    file_writer = tf.summary.FileWriter('train/MorganaReborn', sess.graph)
+
     for it in range(start_it + 1, iterations):
         acc_word, loss_word = do_train_step(batches, cnn, it, output_folder, saver, sess,
                                             word_trainer, cnn.word_loss, cnn.word_accuracy, name="Words",
@@ -156,10 +158,10 @@ def main(_):
                                               rchar_trainer, cnn.rchar_loss, cnn.rchar_accuracy, name="Rchar",
                                               prev_acc=acc_rchar)
 
-        if (acc_word > 0.6 or acc_char > 0.6 or acc_rchar > 0.6):
-            acc_global, loss_global = do_train_step(batches, cnn, it, output_folder, saver, sess,
-                                                    global_trainer, cnn.loss, cnn.accuracy, name="Global",
-                                                    prev_acc=acc_global)
+        # if (acc_word > 0.6 or acc_char > 0.6 or acc_rchar > 0.6):
+        #    acc_global, loss_global = do_train_step(batches, cnn, it, output_folder, saver, sess,
+        #                                            global_trainer, cnn.loss, cnn.accuracy, name="Global",
+        #                                            prev_acc=acc_global)
 
             # if (it % 3) == 0:
             #    do_test_step(test_batches, cnn, sess)
