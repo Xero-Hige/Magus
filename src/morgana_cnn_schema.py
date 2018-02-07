@@ -63,7 +63,8 @@ class MorganaCNNSchema(CNNSchema):
             hidden_words, words_dl = self.create_first_combs(self.input_x_words, embedding_size, filter_sizes, l2_loss,
                                                              num_filters, MAX_WORDS, "words",
                                                              output_size=output_layers_size,
-                                                             hidden_layer_size=int(output_layers_size * 102.4))
+                                                             hidden_layer_size=int(output_layers_size * 102.4),
+                                                             prefix="words_stream")
 
             word_predictions = tf.argmax(words_dl, 1)
         self.word_loss = self.get_loss(self.input_y, l2_loss, l2_reg_lambda, words_dl)
@@ -73,7 +74,8 @@ class MorganaCNNSchema(CNNSchema):
             hidden_chars, chars_dl = self.create_first_combs(self.input_x_chars, embedding_size, filter_sizes, l2_loss,
                                                              num_filters, MAX_CHARS, "chars",
                                                              output_size=output_layers_size,
-                                                             hidden_layer_size=int(output_layers_size * 102.4))
+                                                             hidden_layer_size=int(output_layers_size * 102.4),
+                                                             prefix="chars_stream")
 
             char_predictions = tf.argmax(chars_dl, 1)
         self.char_loss = self.get_loss(self.input_y, l2_loss, l2_reg_lambda, chars_dl)
@@ -84,7 +86,8 @@ class MorganaCNNSchema(CNNSchema):
                                                                l2_loss,
                                                                num_filters, MAX_CHARS, "rchars",
                                                                output_size=output_layers_size,
-                                                               hidden_layer_size=int(output_layers_size * 102.4))
+                                                               hidden_layer_size=int(output_layers_size * 102.4),
+                                                               prefix="rchar_stream")
 
             rchar_predictions = tf.argmax(r_chars_dl, 1)
         self.rchar_loss = self.get_loss(self.input_y, l2_loss, l2_reg_lambda, r_chars_dl)
@@ -95,7 +98,8 @@ class MorganaCNNSchema(CNNSchema):
             dropout_concat = self.create_dropout_layer(dense_layers, dropout_prob=self.dropout_keep_prob)
 
             dense_layer = MorganaCNNSchema.create_dense_layer(dropout_concat, int(output_layers_size * 102.4) * 3,
-                                                              int(output_layers_size * 102.4), "Extract")
+                                                              int(output_layers_size * 102.4), "Extract",
+                                                              prefix="global")
             dropout_redux = self.create_dropout_layer(dense_layer, dropout_prob=self.dropout_keep_prob)
 
             scores, predictions = self.create_output_layer(dropout_redux,
@@ -118,7 +122,8 @@ class MorganaCNNSchema(CNNSchema):
                            number_of_features,
                            name,
                            output_size,
-                           hidden_layer_size=1024):
+                           hidden_layer_size=1024,
+                           prefix=""):
 
         convolution_layer_output, output_channels = self.create_conv_pool_layer(input_layer,
                                                                                 embedding_size,
@@ -128,12 +133,12 @@ class MorganaCNNSchema(CNNSchema):
                                                                                 activation=tf.nn.tanh)
 
         dense_layer = self.create_dense_layer(convolution_layer_output, output_channels, hidden_layer_size,
-                                              name=name, l2_loss=l2_loss)
+                                              name=name, l2_loss=l2_loss, prefix=prefix)
 
         dropout = self.create_dropout_layer(dense_layer, dropout_prob=self.dropout_keep_prob)
 
         redux_dense_layer = self.create_dense_layer(dropout, hidden_layer_size, output_size,
-                                                    name="redux_{}".format(name), l2_loss=l2_loss)
+                                                    name="redux_{}".format(name), l2_loss=l2_loss, prefix=prefix)
         return dense_layer, redux_dense_layer
 
     @staticmethod

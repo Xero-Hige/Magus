@@ -58,7 +58,7 @@ class CNNSchema(object):
                            bias=0.1, prefix=""):
         # with tf.name_scope("dense-layer_" + name):
         W = tf.get_variable(
-                name="W_dense_" + name,
+                name="{}/W_dense_{}".format(prefix, name),
                 shape=[input_size, output_size],
                 initializer=tf.contrib.layers.xavier_initializer())
 

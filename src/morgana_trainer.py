@@ -263,6 +263,7 @@ def do_train_step(batches, cnn, it, output_folder, saver, sess, trainer, trainig
         print("[{}] Iteration{}: {} - Batch: {}/{}".format(datetime.datetime.now(), name, it, batch_number + 1,
                                                            len(batches)))
         drop = .75 if prev_acc < .54 else .5
+        drop = 1 if prev_acc < .40 else drop
 
         _, loss, accuracy = sess.run([trainer, trainig_loss, training_accuracy], feed_dict={
             cnn.input_x_words: batch_data [0],
