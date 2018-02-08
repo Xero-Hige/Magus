@@ -115,7 +115,7 @@ def main(_):
             l2_reg_lambda=FLAGS.l2_reg_lambda)
 
     train_vars = tf.get_collection(tf.GraphKeys.TRAINABLE_VARIABLES, "global")
-    # global_trainer = tf.train.AdamOptimizer(1e-3).minimize(cnn.loss, var_list=train_vars)
+    global_trainer = tf.train.AdamOptimizer(1e-3).minimize(cnn.loss, var_list=train_vars)
 
     train_vars = tf.get_collection(tf.GraphKeys.TRAINABLE_VARIABLES, "words_stream")
     word_trainer = tf.train.AdamOptimizer(1e-3).minimize(cnn.word_loss, var_list=train_vars)
@@ -135,7 +135,7 @@ def main(_):
         saver.restore(sess, "tmp/" + output_folder + "_{}.ckpt".format(start_it))
 
     test_batches = ["/media/hige/320/train_data/train_batch_{}.dmp".format(3)]
-    batches = ["/media/hige/320/train_data/train_batch_{}.dmp".format(x) for x in range(3)]
+    batches = ["/media/hige/320/train_data/train_batch_{}.dmp".format(x) for x in range(1)]
 
     start_it -= 1 if start_it != 0 else 0
 
@@ -158,13 +158,13 @@ def main(_):
                                               rchar_trainer, cnn.rchar_loss, cnn.rchar_accuracy, name="Rchar",
                                               prev_acc=acc_rchar)
 
-        # if (acc_word > 0.6 or acc_char > 0.6 or acc_rchar > 0.6):
-        #    acc_global, loss_global = do_train_step(batches, cnn, it, output_folder, saver, sess,
-        #                                            global_trainer, cnn.loss, cnn.accuracy, name="Global",
-        #                                            prev_acc=acc_global)
+        if (acc_word > 0.6 or acc_char > 0.6 or acc_rchar > 0.6):
+            acc_global, loss_global = do_train_step(batches, cnn, it, output_folder, saver, sess,
+                                                    global_trainer, cnn.loss, cnn.accuracy, name="Global",
+                                                    prev_acc=acc_global)
 
-        # if (it % 3) == 0:
-        #    do_test_step(test_batches, cnn, sess)
+            # if (it % 3) == 0:
+            #    do_test_step(test_batches, cnn, sess)
 
     do_test_step(test_batches, cnn, sess)
     print('Done training!')

@@ -105,7 +105,8 @@ class MorganaCNNSchema(CNNSchema):
             scores, predictions = self.create_output_layer(dropout_redux,
                                                            int(output_layers_size * 102.4),
                                                            num_classes,
-                                                           l2_loss=l2_loss)
+                                                           l2_loss=l2_loss,
+                                                           prefix="global")
 
         self.scores = scores
         self.predictions = predictions

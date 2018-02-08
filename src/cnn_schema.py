@@ -30,9 +30,10 @@ class CNNSchema(object):
     def create_output_layer(input_layer, input_size, num_classes,
                             l2_loss=tf.constant(0.0),
                             bias=0.1,
-                            prediction_f=lambda x: tf.argmax(x, 1)):
+                            prediction_f=lambda x: tf.argmax(x, 1),
+                            prefix="OUT"):
         # Final (unnormalized) scores and predictions
-        with tf.name_scope("output-layer"):
+        # with tf.name_scope("output-layer"):
             # W = tf.get_variable(
             #        name="W_out",
             #        shape=[input_size, num_classes],
@@ -41,13 +42,15 @@ class CNNSchema(object):
             # b = tf.Variable(tf.constant(bias, shape=[num_classes]), name="b_out")
 
             # l2_loss += tf.nn.l2_loss(W)
-            #l2_loss += tf.nn.l2_loss(b)
+        # l2_loss += tf.nn.l2_loss(b)
 
             # scores = tf.nn.xw_plus_b(input_layer, W, b, name="scores")
 
-            scores = tf.layers.dense(inputs=input_layer, units=num_classes)
+        scores = CNNSchema.create_dense_layer(input_layer, input_size, output_size=num_classes, name="output",
+                                              prefix=prefix)
+        #    tf.layers.dense(inputs=input_layer, units=num_classes)
 
-            predictions = prediction_f(scores)
+        predictions = prediction_f(scores)
 
         return scores, predictions
 
