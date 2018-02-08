@@ -163,8 +163,8 @@ def main(_):
                                                     global_trainer, cnn.loss, cnn.accuracy, name="Global",
                                                     prev_acc=acc_global)
 
-            # if (it % 3) == 0:
-            #    do_test_step(test_batches, cnn, sess)
+        if (it % 5) == 0:
+            do_test_step(test_batches, cnn, sess)
 
     do_test_step(test_batches, cnn, sess)
     print('Done training!')
@@ -277,16 +277,9 @@ def do_train_step(batches, cnn, it, output_folder, saver, sess, trainer, trainig
         total_accuracy += float(accuracy)
         total_loss += float(loss)
 
-        # if not name:
-        # print('\n####b--{}--b#####\nLoss: {}\nAccuracy: {}\n#####--{}--#####'.format(batch_number,
-        #                                                                              loss,
-        #                                                                              accuracy,
-        #                                                                              batch_number)
-        #       )
-    print('\n##{}##--{}--##{}##\nLoss: {}\nAccuracy: {}\n#####--{}--#####'.format(name, it, name,
-                                                                                  total_loss / total_batches,
-                                                                                  total_accuracy / total_batches,
-                                                                                  it)
+    print('Step[{}]<{}>\n\tLoss: {}\n\tAccuracy:{}'.format(name, it,
+                                                           total_loss / total_batches,
+                                                           total_accuracy / total_batches)
           )
     save_path = saver.save(sess, "tmp/" + output_folder + "_{}.ckpt".format(it))
     print("Iteration training end: {}".format(save_path))
@@ -298,6 +291,11 @@ def do_test_step(batches, cnn, sess):
     total_loss = 0
     total_accuracy = 0
     total_batches = 0
+
+    word = 0
+    char = 0
+    rchar = 0
+
     random.shuffle(batches)
     for batch_number in range(len(batches)):
         with open(batches[batch_number], 'rb') as pickled:
@@ -312,15 +310,21 @@ def do_test_step(batches, cnn, sess):
             cnn.dropout_keep_prob:        1
         }
 
-        loss, accuracy = sess.run([cnn.loss, cnn.accuracy], feed_dict)
+        loss, accuracy, w_acc, c_acc, r_acc = sess.run(
+                [cnn.loss, cnn.accuracy, cnn.word_accuracy, cnn.char_accuracy, cnn.rchar_accuracy], feed_dict)
         total_batches += 1
-        total_accuracy += float(accuracy)
-        total_loss += float(loss)
-    print('\n#####--{}--#####\nLoss: {}\nAccuracy: {}\n#####--{}--#####'.format("X",
-                                                                                total_loss / total_batches,
-                                                                                total_accuracy / total_batches,
-                                                                                "X")
-          )
+        total_accuracy += accuracy
+        word += w_acc
+        char += c_acc
+        rchar += r_acc
+        total_loss += loss
+    print('Test Step: \n\tTotal Loss:{}\n\tTotal Acc:{}\n\tWord Acc:{}\n\tChar Acc:{}\n\tRcha Acc:{}'.format(
+            total_loss / total_batches,
+            total_accuracy / total_batches,
+            word / total_batches,
+            char / total_batches,
+            rchar / total_batches)
+    )
 
     return total_accuracy / total_batches, total_loss / total_batches
 
