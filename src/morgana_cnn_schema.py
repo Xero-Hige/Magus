@@ -93,6 +93,27 @@ class MorganaCNNSchema(CNNSchema):
         self.rchar_loss = self.get_loss(self.input_y, l2_loss, l2_reg_lambda, r_chars_dl)
         self.rchar_accuracy = self.get_accuracy(self.input_y, rchar_predictions)
 
+        with tf.name_scope("partial"):
+            dense_layers = tf.concat([words_dl, chars_dl, r_chars_dl], 1)
+            dropout_concat = self.create_dropout_layer(dense_layers, dropout_prob=self.dropout_keep_prob)
+
+            dense_layer = MorganaCNNSchema.create_dense_layer(dropout_concat, output_layers_size * 3,
+                                                              int(output_layers_size * 102.4), "Extract",
+                                                              prefix="partial")
+            dropout_redux = self.create_dropout_layer(dense_layer, dropout_prob=self.dropout_keep_prob)
+
+            scores, predictions = self.create_output_layer(dropout_redux,
+                                                           int(output_layers_size * 102.4),
+                                                           num_classes,
+                                                           l2_loss=l2_loss,
+                                                           prefix="partial")
+
+        self.partial_scores = scores
+        self.partial_predictions = predictions
+
+        self.partial_loss = self.get_loss(self.input_y, l2_loss, l2_reg_lambda, scores)
+        self.partial_accuracy = self.get_accuracy(self.input_y, predictions)
+
         with tf.name_scope("global"):
             dense_layers = tf.concat([hidden_words, hidden_chars, hidden_rchar], 1)
             dropout_concat = self.create_dropout_layer(dense_layers, dropout_prob=self.dropout_keep_prob)

@@ -117,6 +117,9 @@ def main(_):
     train_vars = tf.get_collection(tf.GraphKeys.TRAINABLE_VARIABLES, "global")
     global_trainer = tf.train.AdamOptimizer(1e-3).minimize(cnn.loss, var_list=train_vars)
 
+    train_vars = tf.get_collection(tf.GraphKeys.TRAINABLE_VARIABLES, "partial")
+    partial_trainer = tf.train.AdamOptimizer(1e-3).minimize(cnn.loss, var_list=train_vars)
+
     train_vars = tf.get_collection(tf.GraphKeys.TRAINABLE_VARIABLES, "words_stream")
     word_trainer = tf.train.AdamOptimizer(1e-3).minimize(cnn.word_loss, var_list=train_vars)
 
@@ -144,25 +147,29 @@ def main(_):
     acc_rchar = 0
 
     acc_global = 0
+    acc_partial = 0
 
-    file_writer = tf.summary.FileWriter('train/MorganaReborn', sess.graph)
+    tf.summary.FileWriter('train/MorganaReborn', sess.graph)
 
     for it in range(start_it + 1, iterations):
         acc_word, loss_word = do_train_step(batches, cnn, it, output_folder, saver, sess,
-                                            word_trainer, cnn.word_loss, cnn.word_accuracy, name="Words",
-                                            prev_acc=acc_word)
+                                            word_trainer, cnn.word_loss, cnn.word_accuracy,
+                                            name="Words", prev_acc=acc_word)
         acc_char, loss_char = do_train_step(batches, cnn, it, output_folder, saver, sess,
-                                            char_trainer, cnn.char_loss, cnn.char_accuracy, name="Chars",
-                                            prev_acc=acc_char)
+                                            char_trainer, cnn.char_loss, cnn.char_accuracy,
+                                            name="Chars", prev_acc=acc_char)
         acc_rchar, loss_rchar = do_train_step(batches, cnn, it, output_folder, saver, sess,
-                                              rchar_trainer, cnn.rchar_loss, cnn.rchar_accuracy, name="Rchar",
-                                              prev_acc=acc_rchar)
+                                              rchar_trainer, cnn.rchar_loss, cnn.rchar_accuracy,
+                                              name="Rchar", prev_acc=acc_rchar)
 
-        if (acc_word > 0.6 or acc_char > 0.6 or acc_rchar > 0.6):
+        if acc_word > 0.6 or acc_char > 0.6 or acc_rchar > 0.6:
             acc_global, loss_global = do_train_step(batches, cnn, it, output_folder, saver, sess,
-                                                    global_trainer, cnn.loss, cnn.accuracy, name="Global",
-                                                    prev_acc=acc_global)
+                                                    global_trainer, cnn.loss, cnn.accuracy,
+                                                    name="Global", prev_acc=acc_global)
 
+            acc_partial, loss_partial = do_train_step(batches, cnn, it, output_folder, saver, sess,
+                                                      partial_trainer, cnn.partial_loss, cnn.partial_accuracy,
+                                                      name="Partial", prev_acc=acc_partial)
         if (it % 5) == 0:
             do_test_step(test_batches, cnn, sess)
 
@@ -288,13 +295,13 @@ def do_train_step(batches, cnn, it, output_folder, saver, sess, trainer, trainig
 
 
 def do_test_step(batches, cnn, sess):
-    total_loss = 0
     total_accuracy = 0
     total_batches = 0
 
     word = 0
     char = 0
     rchar = 0
+    partial = 0
 
     random.shuffle(batches)
     for batch_number in range(len(batches)):
@@ -310,23 +317,20 @@ def do_test_step(batches, cnn, sess):
             cnn.dropout_keep_prob:        1
         }
 
-        loss, accuracy, w_acc, c_acc, r_acc = sess.run(
-                [cnn.loss, cnn.accuracy, cnn.word_accuracy, cnn.char_accuracy, cnn.rchar_accuracy], feed_dict)
+        accuracy, w_acc, c_acc, r_acc, partial_acc = sess.run(
+                [cnn.accuracy, cnn.word_accuracy, cnn.char_accuracy, cnn.rchar_accuracy, cnn.partial_accuracy],
+                feed_dict)
         total_batches += 1
         total_accuracy += accuracy
         word += w_acc
         char += c_acc
         rchar += r_acc
-        total_loss += loss
-    print('Test Step: \n\tTotal Loss:{}\n\tTotal Acc:{}\n\tWord Acc:{}\n\tChar Acc:{}\n\tRcha Acc:{}'.format(
-            total_loss / total_batches,
-            total_accuracy / total_batches,
-            word / total_batches,
-            char / total_batches,
-            rchar / total_batches)
-    )
+        partial += partial_acc
 
-    return total_accuracy / total_batches, total_loss / total_batches
+    print('Test Step: \n\tTotal Acc:{}\n\tPart Acc:{}\n\tWord Acc:{}\n\tChar Acc:{}\n\tRcha Acc:{}'.format(
+            total_accuracy / total_batches, partial / total_batches,
+            word / total_batches, char / total_batches, rchar / total_batches)
+    )
 
 
 def get_train_data():
