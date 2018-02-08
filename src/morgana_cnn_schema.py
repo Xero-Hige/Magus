@@ -95,9 +95,8 @@ class MorganaCNNSchema(CNNSchema):
 
         with tf.name_scope("partial"):
             dense_layers = tf.concat([words_dl, chars_dl, r_chars_dl], 1)
-            dropout_concat = self.create_dropout_layer(dense_layers, dropout_prob=self.dropout_keep_prob)
 
-            dense_layer = MorganaCNNSchema.create_dense_layer(dropout_concat, output_layers_size * 3,
+            dense_layer = MorganaCNNSchema.create_dense_layer(dense_layers, output_layers_size * 3,
                                                               int(output_layers_size * 102.4), "Extract",
                                                               prefix="partial")
             dropout_redux = self.create_dropout_layer(dense_layer, dropout_prob=self.dropout_keep_prob)

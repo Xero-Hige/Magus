@@ -118,7 +118,7 @@ def main(_):
     global_trainer = tf.train.AdamOptimizer(1e-3).minimize(cnn.loss, var_list=train_vars)
 
     train_vars = tf.get_collection(tf.GraphKeys.TRAINABLE_VARIABLES, "partial")
-    partial_trainer = tf.train.AdamOptimizer(1e-3).minimize(cnn.loss, var_list=train_vars)
+    partial_trainer = tf.train.AdamOptimizer(1e-3).minimize(cnn.partial_loss, var_list=train_vars)
 
     train_vars = tf.get_collection(tf.GraphKeys.TRAINABLE_VARIABLES, "words_stream")
     word_trainer = tf.train.AdamOptimizer(1e-3).minimize(cnn.word_loss, var_list=train_vars)
@@ -137,8 +137,8 @@ def main(_):
     if start_it != 0:
         saver.restore(sess, "tmp/" + output_folder + "_{}.ckpt".format(start_it))
 
-    test_batches = ["/media/hige/320/train_data/train_batch_{}.dmp".format(3)]
-    batches = ["/media/hige/320/train_data/train_batch_{}.dmp".format(x) for x in range(1)]
+    test_batches = ["/media/hige/320/train_data/test_batch_{}.dmp".format(x) for x in range(19)]
+    batches = ["/media/hige/320/train_data/train_batch_{}.dmp".format(x) for x in range(148)]
 
     start_it -= 1 if start_it != 0 else 0
 
