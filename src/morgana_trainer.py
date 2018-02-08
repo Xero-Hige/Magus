@@ -173,6 +173,14 @@ def main(_):
         if (it % 5) == 0:
             do_test_step(test_batches, cnn, sess)
 
+        with open("train_steps.csv", "a") as log:
+            log.write("{},{},{},{},{},{}\n".format(it,
+                                                   acc_global,
+                                                   acc_partial,
+                                                   acc_word,
+                                                   acc_char,
+                                                   acc_rchar))
+
     do_test_step(test_batches, cnn, sess)
     print('Done training!')
 
@@ -331,6 +339,13 @@ def do_test_step(batches, cnn, sess):
             total_accuracy / total_batches, partial / total_batches,
             word / total_batches, char / total_batches, rchar / total_batches)
     )
+
+    with open("test_steps.csv", "a") as log:
+        log.write("{},{},{},{},{}\n".format(total_accuracy / total_batches,
+                                            partial / total_batches,
+                                            word / total_batches,
+                                            char / total_batches,
+                                            rchar / total_batches))
 
 
 def get_train_data():
