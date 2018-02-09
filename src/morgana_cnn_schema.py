@@ -33,8 +33,8 @@ class MorganaCNNSchema(CNNSchema):
     """
 
     W_MAPPER = EmbeddingMapper("./wordsEmbeddings.mdl", MAX_WORDS, 300)
-    C_MAPPER = EmbeddingMapper("./charsEmbeddings.mdl", MAX_CHARS, 300)
-    R_MAPPER = EmbeddingMapper("./rCharsEmbeddings.mdl", MAX_CHARS, 300)
+    C_MAPPER = EmbeddingMapper("./charsEmbeddings.mdl", MAX_CHARS, 150)
+    R_MAPPER = EmbeddingMapper("./rCharsEmbeddings.mdl", MAX_CHARS, 150)
 
     def __init__(self, num_classes, vocab_size, embedding_size, filter_sizes, num_filters,
                  l2_reg_lambda=0.0):
@@ -63,7 +63,7 @@ class MorganaCNNSchema(CNNSchema):
             hidden_words, words_dl = self.create_first_combs(self.input_x_words, embedding_size, filter_sizes, l2_loss,
                                                              num_filters, MAX_WORDS, "words",
                                                              output_size=output_layers_size,
-                                                             hidden_layer_size=int(output_layers_size * 102.4),
+                                                             hidden_layer_size=int(1024),
                                                              prefix="words_stream")
 
             word_predictions = tf.argmax(words_dl, 1)
@@ -117,7 +117,8 @@ class MorganaCNNSchema(CNNSchema):
             dense_layers = tf.concat([hidden_words, hidden_chars, hidden_rchar], 1)
             dropout_concat = self.create_dropout_layer(dense_layers, dropout_prob=self.dropout_keep_prob)
 
-            dense_layer = MorganaCNNSchema.create_dense_layer(dropout_concat, int(output_layers_size * 102.4) * 3,
+            dense_layer = MorganaCNNSchema.create_dense_layer(dropout_concat,
+                                                              int(output_layers_size * 102.4) * 2 + 1024,
                                                               int(output_layers_size * 102.4), "Extract",
                                                               prefix="global")
             dropout_redux = self.create_dropout_layer(dense_layer, dropout_prob=self.dropout_keep_prob)
