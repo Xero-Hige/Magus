@@ -148,8 +148,8 @@ class CNNSchema(object):
     def create_input_layer(num_classes, embeddings_length, name=""):
         # shape of input = [batch, in_height, in_width, in_channels]
 
-        input_x = tf.placeholder(tf.float32, [50, None, embeddings_length, 1], name="input_x" + name)
-        input_y = tf.placeholder(tf.int32, [50], name="input_y" + name)
+        input_x = tf.placeholder(tf.float32, [None, None, embeddings_length, 1], name="input_x" + name)
+        input_y = tf.placeholder(tf.int32, [None], name="input_y" + name)
 
         return input_x, input_y
 
