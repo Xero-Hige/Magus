@@ -129,6 +129,9 @@ def main(_):
     train_vars = tf.get_collection(tf.GraphKeys.TRAINABLE_VARIABLES, "rchar_stream")
     rchar_trainer = tf.train.AdamOptimizer(1e-3).minimize(cnn.rchar_loss, var_list=train_vars)
 
+    global_full_trainer = tf.train.AdamOptimizer(1e-3).minimize(cnn.loss)
+    partial_full_trainer = tf.train.AdamOptimizer(1e-3).minimize(cnn.partial_loss)
+
     tf.initialize_all_variables().run()
 
     # train the model
@@ -163,12 +166,14 @@ def main(_):
                                               name="Rchar", prev_acc=acc_rchar)
 
         if acc_word > 0.6 or acc_char > 0.6 or acc_rchar > 0.6:
+            trainer = global_full_trainer if it % 5 == 1 else global_trainer
             acc_global, loss_global = do_train_step(batches, cnn, it, output_folder, saver, sess,
-                                                    global_trainer, cnn.loss, cnn.accuracy,
+                                                    trainer, cnn.loss, cnn.accuracy,
                                                     name="Global", prev_acc=acc_global)
 
+            trainer = partial_full_trainer if it % 5 == 1 else partial_trainer
             acc_partial, loss_partial = do_train_step(batches, cnn, it, output_folder, saver, sess,
-                                                      partial_trainer, cnn.partial_loss, cnn.partial_accuracy,
+                                                      trainer, cnn.partial_loss, cnn.partial_accuracy,
                                                       name="Partial", prev_acc=acc_partial)
         if (it % 5) == 0:
             do_test_step(test_batches, cnn, sess)
@@ -285,7 +290,7 @@ def do_train_step(batches, cnn, it, output_folder, saver, sess, trainer, trainig
             cnn.input_x_chars: batch_data [1],
             cnn.input_x_rchars: batch_data[2],
             cnn.input_y: batch_data       [3],
-            cnn.dropout_keep_prob:        drop
+            cnn.dropout_keep_prob:        .5  # drop
         })
 
         total_batches += 1
