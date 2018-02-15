@@ -71,7 +71,7 @@ class MorganaCNNSchema(CNNSchema):
         self.word_accuracy = self.get_accuracy(self.input_y, word_predictions)
 
         with tf.name_scope("chars_stream"):
-            hidden_chars, chars_dl = self.create_first_combs(self.input_x_chars, 150, filter_sizes, l2_loss,
+            hidden_chars, chars_dl = self.create_first_combs(self.input_x_chars, 150, [3, 5, 7, 7], l2_loss,
                                                              num_filters, MAX_CHARS, "chars",
                                                              output_size=output_layers_size,
                                                              hidden_layer_size=int(output_layers_size * 102.4),
@@ -82,7 +82,7 @@ class MorganaCNNSchema(CNNSchema):
         self.char_accuracy = self.get_accuracy(self.input_y, char_predictions)
 
         with tf.name_scope("rchar_stream"):
-            hidden_rchar, r_chars_dl = self.create_first_combs(self.input_x_rchars, 150, filter_sizes,
+            hidden_rchar, r_chars_dl = self.create_first_combs(self.input_x_rchars, 150, [3, 5, 7, 7],
                                                                l2_loss,
                                                                num_filters, MAX_CHARS, "rchars",
                                                                output_size=output_layers_size,
