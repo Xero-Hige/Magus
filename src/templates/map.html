@@ -1,12 +1,331 @@
 <!DOCTYPE html>
-<html lang="en">
+<html>
 <head>
-    <meta charset="UTF-8">
-    <title>Title</title>
-    {{map.js}}
+    <meta charset='utf-8'/>
+    <title>Cosas locas</title>
+    <meta name='viewport' content='initial-scale=1,maximum-scale=1,user-scalable=no'/>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.js" type="text/javascript"></script>
+    <script src="https://cdn.pubnub.com/sdk/javascript/pubnub.4.20.1.js"></script>
+    <script src='https://api.mapbox.com/mapbox-gl-js/v0.44.1/mapbox-gl.js'></script>
+    <link href='https://api.mapbox.com/mapbox-gl-js/v0.44.1/mapbox-gl.css' rel='stylesheet'/>
 
+    <!-- Include Slider -->
+    <script type="text/javascript"
+            src="https://cdnjs.cloudflare.com/ajax/libs/bootstrap-slider/10.0.0/bootstrap-slider.js"></script>
+    <link rel="stylesheet" type="text/css"
+          href="https://cdnjs.cloudflare.com/ajax/libs/bootstrap-slider/10.0.0/css/bootstrap-slider.css"/>
+
+    <style>
+        body, html {
+            height: 100%;
+        }
+
+        #map_container {
+            height: 94%
+        }
+
+        #map {
+            height: 100%;
+        }
+
+        .filter-group {
+            font: 12px/20px 'Helvetica Neue', Arial, Helvetica, sans-serif;
+            font-weight: 300;
+            position: absolute;
+            left: 1em;
+            z-index: 1;
+            border-radius: 3px;
+            width: 120px;
+            color: #fff;
+        }
+
+        .filter-group input[type=text] {
+            border-radius: 3px 3px 3px 3px;
+            border: none;
+            width: 160px;
+        }
+
+        .filter-group input[type=checkbox]:first-child + label {
+            border-radius: 3px 3px 0 0;
+        }
+
+        .filter-group label:last-child {
+            border-radius: 0 0 3px 3px;
+            border: none;
+        }
+
+        .filter-group input[type=checkbox] {
+            display: none;
+        }
+
+        .filter-group input[type=checkbox] + label, input[type=text] {
+            background-color: #3386c0;
+            display: block;
+            cursor: pointer;
+            padding: 5px;
+            border-bottom: 1px solid rgba(0, 0, 0, 0.25);
+        }
+
+        .filter-group input[type=checkbox] + label, input[type=text] {
+            background-color: #3386c0;
+            text-transform: capitalize;
+        }
+
+        .filter-group input[type=checkbox] + label:hover,
+        .filter-group input[type=checkbox]:checked + label {
+            background-color: #4ea0da;
+        }
+
+        .filter-group input[type=checkbox]:checked + label:before {
+            content: '✔';
+            margin-right: 5px;
+        }
+
+    </style>
 </head>
 <body>
-{{map.html}}
+
+<div id="map_container">
+    <nav id='filter-group-categoria' class='filter-group' style='top: 4em;'></nav>
+    <!--         <div class="side-by-side clearfix" style="position:absolute;left:1em;top:24em;z-index: 1;border-radius: 3px 3px 3px 3px; background-color: #3386c0;            display: block;cursor: pointer;padding: 5px;width:0px">
+            </div> -->
+    <nav class="filter-group" id='filter-rating' style='top:32em'></nav>
+    <div id='map'></div>
+</div>
+
+<script>
+    var pubnub = new PubNub({
+        subscribeKey: "sub-c-1d2d27fc-12bd-11e8-91c1-eac6831c625c",
+        publishKey: "pub-c-7a828306-4ddf-425c-80ec-1e4f8763c088",
+        ssl: true
+    });
+    pubnub.subscribe({
+        channels: ['happy']
+    });
+
+
+    mapboxgl.accessToken = 'pk.eyJ1IjoieGVyby1oaWdlIiwiYSI6ImNqZG9zZ2dsZjFlMmUycW80Zm5rNmk0cXgifQ.vCOrMcBB5WsK2SW2XrS_Qw';
+    var map = new mapboxgl.Map({
+        container: 'map',
+        style: 'mapbox://styles/mapbox/light-v9',
+        center: [-122.414, 37.776],
+        zoom: 6
+    });
+
+    let start = {
+        "type": "FeatureCollection",
+        "features": []
+    };
+
+    pubnub.addListener({
+        message: function (m) {
+            // handle message
+            var actualChannel = m.actualChannel;
+            let feature = {
+                "type": "Feature",
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [m.message.lat,m.message.long]
+                }};
+
+            start.features.push(feature);
+            map.getSource("observations").setData(start);
+            console.log("New Message!!", m);
+        }
+    });
+
+
+    h = {'cat1': true, 'cat2': true, 'cat3': true, 'cat4': true, 'cat5': true, 'cat6': true, 'cat7': true}
+
+    /*function construct_filter(h, r_t=1) {
+     v = ["any"]
+     if (h["cat1"]) v.push(["==", "category", "cat1"]);
+     if (h["cat2"]) v.push(["==", "category", "cat2"]);
+     if (h["cat3"]) v.push(["==", "category", "cat3"]);
+     if (h["cat4"]) v.push(["==", "category", "cat4"]);
+     if (h["cat5"]) v.push(["==", "category", "cat5"]);
+     if (h["cat6"]) v.push(["==", "category", "cat6"]);
+     if (h["cat7"]) v.push(["==", "category", "cat7"]);
+     v_ = ["all", v]
+     v_.push([">=", "score", r_t]);
+     return v_;
+     }
+
+     var filterCategoria = construct_filter(h);
+     */
+
+    map.on('load', function () {
+        map.addSource('observations', {
+            "type": "geojson",
+            "data": start,
+            buffer: 0
+        });
+
+        map.addControl(new mapboxgl.NavigationControl());
+
+        map.addLayer({
+            "id": "observations-heat",
+            "type": "heatmap",
+            "source": "observations",
+            "paint": {
+                "heatmap-intensity": {
+                    "stops": [
+                        [8, 1],
+                        [15, 3]
+                    ]
+                },
+                "heatmap-color": [
+                    "interpolate",
+                    ["linear"],
+                    ["heatmap-density"],
+                    0, "rgba(173,255,47,25)",
+                    0.2, "rgba(173,255,47,50)",
+                    0.4, "rgba(34,139,34,100)",
+                    0.6, "rgba(34,139,34,150)",
+                    0.8, "rgba(0,128,0,200)",
+                    1, "rgba(0,100,0,255)"
+                ],
+                "heatmap-radius": {
+                    "stops": [
+                        [10, 10],
+                        [15, 20]
+                    ]
+                },
+                "heatmap-opacity": {
+                    "default": 1,
+                    "stops": [
+                        [14, 1],
+                        [15, 0]
+                    ]
+                }
+            }
+        }, 'waterway-label');
+
+        /*map.addLayer({
+         "id": "observations-point",
+         "type": "circle",
+         "source": "observations",
+         "minzoom": 10,
+         "paint": {
+         "circle-color": {
+         "property": "category",
+         "type": "categorical",
+         "stops": [
+         ['aberturas', 'red'],
+         ['vidrieria', 'green'],
+         ['constructora', '#72a0e5'],
+         ['arquitecto', 'purple'],
+         ['carpinteria metalurgica', 'black'],
+         ['carpinteria de aluminio', 'gray'],
+         ['carpinteria de plastico', '#98FB98']
+         ]
+         },
+         "circle-stroke-color": "white",
+         "circle-stroke-width": 1,
+         "circle-opacity": {
+         "stops": [
+         [7, 0],
+         [8, 1]
+         ]
+         },
+         'circle-radius': {
+         property: 'rating',
+         type: 'interval',
+         stops: [
+         [1, 2],
+         [2, 4],
+         [3, 6],
+         [4, 8],
+         [5, 10],
+         [6, 12],
+         [7, 14]
+         ]
+         },
+         }
+         }, 'waterway-label');
+
+         map.setFilter('observations-point', filterCategoria);
+
+         var filterGroupCategoria = document.getElementById('filter-group-categoria');
+
+         function agregar_opcion_filtro(filter_group, opt_name) {
+         var inputNew = document.createElement('input');
+         inputNew.type = 'checkbox';
+         inputNew.id = opt_name.replace(/ /g, "-");
+         inputNew.checked = true;
+         filter_group.appendChild(inputNew);
+
+         var labelNew = document.createElement('label');
+         labelNew.setAttribute('for', opt_name.replace(/ /g, "-"));
+         labelNew.textContent = opt_name;
+         filter_group.appendChild(labelNew);
+
+         inputNew.addEventListener('change', function (e) {
+         map.setFilter('observations-point', null);
+         map.setFilter('observations-heat', null);
+         h[opt_name] = inputNew.checked;
+         filterCategoria = construct_filter(h);
+         map.setFilter('observations-point', filterCategoria);
+         map.setFilter('observations-heat', filterCategoria);
+         });
+         }
+
+         agregar_opcion_filtro(filterGroupCategoria, 'cat1');
+         agregar_opcion_filtro(filterGroupCategoria, 'cat2');
+         agregar_opcion_filtro(filterGroupCategoria, 'cat3');
+         agregar_opcion_filtro(filterGroupCategoria, 'cat4');
+         agregar_opcion_filtro(filterGroupCategoria, 'cat5');
+         agregar_opcion_filtro(filterGroupCategoria, 'cat6');
+         agregar_opcion_filtro(filterGroupCategoria, 'cat7');
+         */
+
+        var filterRating = document.getElementById('filter-rating');
+        var inputRating = document.createElement('input');
+        inputRating.type = 'text';
+        inputRating.name = "rating";
+        inputRating.id = "rating-slider";
+        filterRating.appendChild(inputRating);
+
+        $("#rating-slider").slider({
+            step: 1,
+            min: 1,
+            max: 7,
+            orientation: 'vertical',
+            tooltip_position: 'right',
+            value: 1,
+            reversed: true
+        });
+
+        $('#rating-slider').on('slide', function (ev, picker) {
+            map.setFilter('observations-point', null);
+            map.setFilter('observations-heat', null);
+            filterCategoria = construct_filter(h, ev.value);
+            map.setFilter('observations-point', filterCategoria);
+            map.setFilter('observations-heat', filterCategoria);
+            console.log(ev.value);
+            console.log(filterCategoria);
+        });
+
+        var popup = new mapboxgl.Popup({
+            closeButton: false,
+            closeOnClick: false
+        });
+
+        /*map.on('mouseenter', 'observations-point', function (e) {
+         map.getCanvas().style.cursor = 'pointer';
+
+         popup.setLngLat(e.features[0].geometry.coordinates)
+         .setHTML(e.features[0].properties.category + " - " + e.features[0].properties.name)
+         .addTo(map);
+         });
+
+         map.on('mouseleave', 'observations-point', function () {
+         map.getCanvas().style.cursor = '';
+         popup.remove();
+         });*/
+
+    });
+</script>
+
 </body>
 </html>
