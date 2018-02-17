@@ -16,8 +16,9 @@ pubnub.subscribe().channels('happy').execute()
 while True:
     from pubnub.exceptions import PubNubException
 
+    channel = random.choice(["happy", "angry", "sad", "fear"])
     try:
-        envelope = pubnub.publish().channel("happy").message({
+        envelope = pubnub.publish().channel(channel).message({
             "status": True,
             'lat':    random.choice([-124, -123, -122, -121, -120]) + random.random(),
             'long':   random.choice([35, 36, 37, 38, 39]) + random.random()
