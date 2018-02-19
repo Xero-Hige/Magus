@@ -22,7 +22,7 @@ services:
 
     volumes:
       - ./vectors:/Magus/vectors
-      - ./w2v_models:/w2v_models
+      - ./src/w2v_models:/w2v_models
       - ./output_folder:/output_folder
       - ./temp_tweets:/tweets
 
