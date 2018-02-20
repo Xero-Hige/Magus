@@ -2,12 +2,11 @@
 
 from __future__ import absolute_import, print_function, unicode_literals
 
+from libs.text_reducer import reduce_text
 from m_cores.magus_core import MagusCore
 
-REP_SIZE = 3
 
-
-class WordShortenerCore(MagusCore):
+class ShortenerCore(MagusCore):
     def __init__(self, input_queue, output_queue, tag="Word Shortener", worker_number=0):
         MagusCore.__init__(self, tag, worker_number, input_queue, output_queue)
 
@@ -22,10 +21,11 @@ class WordShortenerCore(MagusCore):
                 self._log("Can't deserialize tweet")
                 return
 
-            self._log("Splitting tweet")
-            for i in range(len(tweet["words"])):
-                tweet['words'][i] = tweet['words'][i]  # FIXME word_shorten(tweet['words'][i])
-            self._log("Splited tweet")
+            self._log("Shortening tweet")
+
+            tweet["tweet_text"] = reduce_text(tweet["tweet_text"])
+
+            self._log("Shortened tweet")
 
             self.out_queue.send_message(self.serializer.dumps(tweet))
 

@@ -1,8 +1,8 @@
 {
-  "fetcher_core": {
+  "classifier_core": {
     "tag": "classifier",
-    "replicas": 1,
-    "input_queue": "classifier_input",
+    "replicas": 3,
+    "input_queue": "joiner_output",
     "output_queue": "classifier_output"
   }
 }

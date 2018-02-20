@@ -17,40 +17,76 @@
     "input_queue": "parser_output",
     "output_queue": "anonymize_output"
   },
+  "char_split": {
+    "tag": "char_splitter",
+    "replicas": 2,
+    "input_queue": "anonymize_output",
+    "output_queue": "char_split_out"
+  },
+  "rchar_dump": {
+    "tag": "rchar_embed",
+    "replicas": 3,
+    "input_queue": "char_split_out",
+    "output_queue": "rchar_output"
+  },
+  "lower_core": {
+    "tag": "lower",
+    "replicas": 2,
+    "input_queue": "rchar_output",
+    "output_queue": "lower_output"
+  },
+  "cleaner_core_2": {
+    "tag": "anonymize",
+    "replicas": 2,
+    "input_queue": "lower_output",
+    "output_queue": "anonymize_2_output"
+  },
+  "char_split_2": {
+    "tag": "char_splitter",
+    "replicas": 2,
+    "input_queue": "anonymize_2_output",
+    "output_queue": "char_split_2_out"
+  },
+  "char_dump": {
+    "tag": "char_embed",
+    "replicas": 3,
+    "input_queue": "char_split_2_out",
+    "output_queue": "char_output"
+  },
+  "shortener_core": {
+    "tag": "shortener",
+    "replicas": 2,
+    "input_queue": "char_output",
+    "output_queue": "shortener_output"
+  },
+  "generalizer_core": {
+    "tag": "s_accents",
+    "replicas": 2,
+    "input_queue": "shortener_output",
+    "output_queue": "generalizer_output"
+  },
   "word_splitter_core": {
     "tag": "w_splitter",
     "replicas": 2,
-    "input_queue": "anonymize_output",
-    "output_queue": "splitter_output"
+    "input_queue": "generalizer_output",
+    "output_queue": "word_splitter_output"
   },
-  "word_shortener_core": {
-    "tag": "w_shortener",
-    "replicas": 2,
-    "input_queue": "splitter_output",
-    "output_queue": "shortener_1_output"
+  "word_dump": {
+    "tag": "w_embedding",
+    "replicas": 3,
+    "input_queue": "word_splitter_output",
+    "output_queue": "nothing"
   },
-  "htag_splitter_core": {
-    "tag": "htag_splitter",
-    "replicas": 2,
-    "input_queue": "shortener_1_output",
-    "output_queue": "htag_output"
+  "joiner_core": {
+    "tag": "joiner",
+    "replicas": 1,
+    "input_queue": "MERGER",
+    "output_queue": "joiner_output"
   },
-  "w_lower_core": {
-    "tag": "w_lower",
-    "replicas": 2,
-    "input_queue": "htag_output",
-    "output_queue": "lower_output"
-  },
-  "word2_shortener_core": {
-    "tag": "w_shortener",
-    "replicas": 2,
-    "input_queue": "lower_output",
-    "output_queue": "classifier_input"
-  },
-  "emitter_core": {
+  "emitter": {
     "tag": "emitter",
     "replicas": 2,
     "input_queue": "classifier_output",
-    "output_queue": "output"
+    "output_queue": "nothing"
   }
 }
