@@ -225,13 +225,15 @@ def main(_):
     classification_inputs_words = utils.build_tensor_info(cnn.input_x_words)
     classification_inputs_chars = utils.build_tensor_info(cnn.input_x_chars)
     classification_inputs_rchar = utils.build_tensor_info(cnn.input_x_rchars)
+    classification_inputs_keep_prob = utils.build_tensor_info(cnn.dropout_keep_prob)
     classification_outputs_classes = utils.build_tensor_info(cnn.input_y)
     classification_outputs_scores = utils.build_tensor_info(cnn.scores)
 
     classification_signature = signature_def_utils.build_signature_def(
             inputs={"words": classification_inputs_words,
                     "chars": classification_inputs_chars,
-                    "rchar": classification_inputs_rchar},
+                    "rchar": classification_inputs_rchar,
+                    "loss":  classification_inputs_keep_prob},
             outputs={
                 signature_constants.CLASSIFY_OUTPUT_CLASSES:
                     classification_outputs_classes,
@@ -246,7 +248,8 @@ def main(_):
     prediction_signature = signature_def_utils.build_signature_def(
             inputs={"words": classification_inputs_words,
                     "chars": classification_inputs_chars,
-                    "rchar": classification_inputs_rchar},
+                    "rchar": classification_inputs_rchar,
+                    "loss":  classification_inputs_keep_prob},
             outputs={'scores': tensor_info_scores, 'predictions': tensor_info_predictions},
             method_name=signature_constants.PREDICT_METHOD_NAME)
 
