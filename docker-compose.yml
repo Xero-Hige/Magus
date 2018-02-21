@@ -16,14 +16,14 @@ services:
 
     depends_on:
       - rabbitmq
-      - morgana
+#      - morgana
 
     env_file:
       - twitter.env
 
     volumes:
       - ./vectors:/Magus/vectors
-      - ./src/w2v_models:/w2v_models
+      - ./w2v_models:/w2v_models
       - ./output_folder:/output_folder
       - ./temp_tweets:/tweets
 
@@ -42,15 +42,15 @@ services:
 
     stop_signal: SIGINT
 
-  morgana:
-    build:
-      context: .
-      dockerfile: dockerfile-Morgana
-
-    ports:
-      - "9000:9000"
-
-    volumes:
-      - ./BaseMorgana:/MorganaModel
-
-    stop_signal: SIGINT
+#  morgana:
+#    build:
+#      context: .
+#      dockerfile: dockerfile-Morgana
+#
+#    ports:
+#      - "9000:9000"
+#
+#    volumes:
+#      - ./BaseMorgana:/MorganaModel
+#
+#    stop_signal: SIGINT
