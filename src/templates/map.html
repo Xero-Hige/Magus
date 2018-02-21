@@ -145,7 +145,7 @@
     });
 
     pubnub.subscribe({
-        channels: ['happy', 'sad', 'angry', 'fear']
+        channels: ['happy', 'sad', 'anger', 'fear']
     });
 
     //Mapbox init
@@ -194,9 +194,9 @@
             } else if (channel === "sad") {
                 sad_buffer.features.push(feature);
                 map.getSource("sad").setData(sad_buffer);
-            } else if (channel === "angry") {
+            } else if (channel === "anger") {
                 angry_buffer.features.push(feature);
-                map.getSource("angry").setData(angry_buffer);
+                map.getSource("anger").setData(angry_buffer);
             } else if (channel === "fear") {
                 fear_buffer.features.push(feature);
                 map.getSource("fear").setData(fear_buffer);
@@ -239,7 +239,7 @@
             buffer: 0
         });
 
-        map.addSource('angry', {
+        map.addSource('anger', {
             "type": "geojson",
             "data": angry_buffer,
             buffer: 0
@@ -336,7 +336,7 @@
         map.addLayer({
             "id": "Anger",
             "type": "heatmap",
-            "source": "angry",
+            "source": "anger",
             "layout": {
                 'visibility': 'visible'
             },
