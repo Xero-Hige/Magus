@@ -35,16 +35,17 @@ class ClassifierCore(MagusCore):
         self._log("Started Classifier")
 
     def run_core(self):
-        def callback(tweet_id_string):
-            if not tweet_id_string:
+        def callback(tweet_string):
+            if not tweet_string:
                 return
 
-            tweet_id = self.serializer.loads(tweet_id_string, encoding="utf-8")
+            tweet_info = self.serializer.loads(tweet_string, encoding="utf-8")
 
-            if not tweet_id:
-                self._log("Can't deserialize tweet_id")
+            if not tweet_info:
+                self._log("Can't deserialize tweet")
                 return
 
+            tweet_id = tweet_info["ID"]
             self._log("Classify {}".format(tweet_id))
 
             rchar_matrix = numpy.load("vectors/rchar_matrix_{}.npy".format(tweet_id), allow_pickle=True,
@@ -65,11 +66,12 @@ class ClassifierCore(MagusCore):
             if result is None:
                 return
 
-            tweet_info = {"classification":     result,
-                          TweetParser.TWEET_ID: tweet_id,
-                          # "tweet_lat": tweet_id         ["latitude"],
-                          # "tweet_lon": tweet_id         ["longitude"]
-                          }
+            tweet_info = {
+                "classification":      result,
+                TweetParser.TWEET_ID:  tweet_id,
+                "tweet_lat": tweet_info["Latitude"],
+                "tweet_lon": tweet_info["Longitude"]
+            }
 
             self.out_queue.send_message(self.serializer.dumps(tweet_info))
             self._log("Sent {}".format(tweet_id))
@@ -86,17 +88,17 @@ class ClassifierCore(MagusCore):
 
         request.inputs['rchar'].CopyFrom(
                 tf.contrib.util.make_tensor_proto(rchar_matrix,
-                                                  shape=[1, 320, 300, 1],
+                                                  shape=[1, 320, 150, 1],
                                                   dtype=tf.float32))
         request.inputs['chars'].CopyFrom(
                 tf.contrib.util.make_tensor_proto(char_matrix,
-                                                  shape=[1, 320, 300, 1],
+                                                  shape=[1, 320, 150, 1],
                                                   dtype=tf.float32))
         request.inputs['words'].CopyFrom(
                 tf.contrib.util.make_tensor_proto(word_matrix,
                                                   shape=[1, 120, 300, 1],
                                                   dtype=tf.float32))
-        request.inputs['loss'].CopyFrom(1)
+        request.inputs['loss'].CopyFrom(tf.contrib.util.make_tensor_proto(1, dtype=tf.float32))
 
         try:
             result = self.stub.Predict(request, 2)  # 1 secs timeout
