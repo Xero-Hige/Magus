@@ -16,16 +16,17 @@ def main(tag, worker_number, input_queue, output_queue):
 
     lookup = {}
 
-    def callback(incoming_msg):
-        if not incoming_msg:
+    def callback(serialized_advice):
+        if not serialized_advice:
             return
 
-        msg = Serializer.loads(incoming_msg)
+        advice = Serializer.loads(serialized_advice)
 
-        if not msg:
+        if not advice:
             return
 
-        tweet_id, dumper = msg
+        tweet_id = advice["ID"]
+        dumper = advice["MatrixFile"]
 
         if tweet_id not in lookup:
             lookup[tweet_id] = {dumper: True}
@@ -37,7 +38,8 @@ def main(tag, worker_number, input_queue, output_queue):
             return
 
         lookup.pop(tweet_id)
-        writer.send_message(Serializer.dumps(tweet_id))
+        advice.pop("MatrixFile")
+        writer.send_message(Serializer.dumps(advice))
 
         debug_core_print_d(tag, worker_number, "Emited {}".format(tweet_id))
 

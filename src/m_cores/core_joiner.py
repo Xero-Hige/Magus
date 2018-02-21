@@ -16,23 +16,25 @@ class JoinerCore(MagusCore):
             if not info_string:
                 return
 
-            tweet_info = self.serializer.loads(info_string)
+            advice = self.serializer.loads(info_string)
 
-            if not tweet_info:
+            if not advice:
                 return
 
-            t_id, matrix_filename = tweet_info
+            tweet_id = advice["ID"]
+            matrix_filename = advice["MatrixFile"]
 
-            id_accumulator = self.accumulator.get(t_id, {})
+            id_accumulator = self.accumulator.get(tweet_id, {})
             id_accumulator[matrix_filename] = None
 
             if len(id_accumulator) == 3:
-                self.out_queue.send_message(self.serializer.dumps(t_id))
-                self.accumulator.pop(t_id)
+                self.accumulator.pop(tweet_id)
+                advice.pop("MatrixFile")
+                self.out_queue.send_message(self.serializer.dumps(advice))
 
-                self._log("Joined {}".format(t_id))
+                self._log("Joimed {}".format(tweet_id))
                 return
 
-            self.accumulator[t_id] = id_accumulator
+            self.accumulator[tweet_id] = id_accumulator
 
         self.in_queue.receive_messages(callback)
