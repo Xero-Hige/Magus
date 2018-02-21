@@ -86,17 +86,17 @@ class ClassifierCore(MagusCore):
 
         request.inputs['rchar'].CopyFrom(
                 tf.contrib.util.make_tensor_proto(rchar_matrix,
-                                                  shape=[1, 320, 300, 1],
+                                                  shape=[1, 320, 150, 1],
                                                   dtype=tf.float32))
         request.inputs['chars'].CopyFrom(
                 tf.contrib.util.make_tensor_proto(char_matrix,
-                                                  shape=[1, 320, 300, 1],
+                                                  shape=[1, 320, 150, 1],
                                                   dtype=tf.float32))
         request.inputs['words'].CopyFrom(
                 tf.contrib.util.make_tensor_proto(word_matrix,
                                                   shape=[1, 120, 300, 1],
                                                   dtype=tf.float32))
-        request.inputs['loss'].CopyFrom(1)
+        request.inputs['loss'].CopyFrom(tf.contrib.util.make_tensor_proto(1, dtype=tf.float32))
 
         try:
             result = self.stub.Predict(request, 2)  # 1 secs timeout
