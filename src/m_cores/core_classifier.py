@@ -47,11 +47,11 @@ class ClassifierCore(MagusCore):
 
             self._log("Classify {}".format(tweet_id))
 
-            rchar_matrix = numpy.load("vectors/rchar_matrix_{}.npy".format(tweet_id), allow_pickle=False,
+            rchar_matrix = numpy.load("vectors/rchar_matrix_{}.npy".format(tweet_id), allow_pickle=True,
                                       fix_imports=True)
-            char_matrix = numpy.load("vectors/char_matrix_{}.npy".format(tweet_id), allow_pickle=False,
+            char_matrix = numpy.load("vectors/char_matrix_{}.npy".format(tweet_id), allow_pickle=True,
                                      fix_imports=True)
-            word_matrix = numpy.load("vectors/word_matrix_{}.npy".format(tweet_id), allow_pickle=False,
+            word_matrix = numpy.load("vectors/word_matrix_{}.npy".format(tweet_id), allow_pickle=True,
                                      fix_imports=True)
 
             os.remove("vectors/rchar_matrix_{}.npy".format(tweet_id))
@@ -96,6 +96,7 @@ class ClassifierCore(MagusCore):
                 tf.contrib.util.make_tensor_proto(word_matrix,
                                                   shape=[1, 120, 300, 1],
                                                   dtype=tf.float32))
+
         try:
             result = self.stub.Predict(request, 2)  # 1 secs timeout
         except grpc.framework.interfaces.face.face.ExpirationError as e:
