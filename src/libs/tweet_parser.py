@@ -9,6 +9,8 @@ class TweetParser:
     USER_LOCATION = "user_location"
     DISPLAY_NAME = "display_name"
     AT_USER = "at_user"
+    LONGITUDE = "longitude"
+    LATITUDE = "latitude"
 
     @staticmethod
     def parse_from_json_file(filename):
@@ -35,8 +37,6 @@ class TweetParser:
 
         tweet_dict["publish_date"] = tweet["created_at"].split()[1:4]
 
-        tweet_dict["publish_date"] = tweet["created_at"].split()[1:4]
-
         if "truncated" in tweet and "extended_tweet" in tweet:
             tweet_dict[TweetParser.TWEET_TEXT] = tweet["extended_tweet"]["full_text"].encode("utf-8", 'replace').decode(
                     "utf-8")
@@ -52,32 +52,32 @@ class TweetParser:
 
         try:
             if "coordinates" in tweet and tweet["coordinates"]:
-                tweet_dict["latitude"] = tweet["coordinates"]["coordinates"][1]
-                tweet_dict["longitude"] = tweet["coordinates"]["coordinates"][0]
+                tweet_dict[TweetParser.LATITUDE] = tweet["coordinates"]["coordinates"][1]
+                tweet_dict[TweetParser.LONGITUDE] = tweet["coordinates"]["coordinates"][0]
 
             elif "geo" in tweet and tweet["geo"]:
-                tweet_dict["latitude"] = tweet["geo"]["coordinates"][1]
-                tweet_dict["longitude"] = tweet["geo"]["coordinates"][0]
+                tweet_dict[TweetParser.LATITUDE] = tweet["geo"]["coordinates"][1]
+                tweet_dict[TweetParser.LONGITUDE] = tweet["geo"]["coordinates"][0]
 
             elif "place" in tweet and tweet["place"]:
-                tweet_dict["latitude"] = tweet["place"]["bounding_box"]["coordinates"][0][0][1]
-                tweet_dict["latitude"] += tweet["place"]["bounding_box"]["coordinates"][0][1][1]
-                tweet_dict["latitude"] += tweet["place"]["bounding_box"]["coordinates"][0][2][1]
-                tweet_dict["latitude"] += tweet["place"]["bounding_box"]["coordinates"][0][3][1]
-                tweet_dict["latitude"] /= 4
+                tweet_dict[TweetParser.LATITUDE] = tweet["place"]["bounding_box"]["coordinates"][0][0][1]
+                tweet_dict[TweetParser.LATITUDE] += tweet["place"]["bounding_box"]["coordinates"][0][1][1]
+                tweet_dict[TweetParser.LATITUDE] += tweet["place"]["bounding_box"]["coordinates"][0][2][1]
+                tweet_dict[TweetParser.LATITUDE] += tweet["place"]["bounding_box"]["coordinates"][0][3][1]
+                tweet_dict[TweetParser.LATITUDE] /= 4
 
-                tweet_dict["longitude"] = tweet["place"]["bounding_box"]["coordinates"][0][0][0]
-                tweet_dict["longitude"] += tweet["place"]["bounding_box"]["coordinates"][0][1][0]
-                tweet_dict["longitude"] += tweet["place"]["bounding_box"]["coordinates"][0][2][0]
-                tweet_dict["longitude"] += tweet["place"]["bounding_box"]["coordinates"][0][3][0]
-                tweet_dict["longitude"] /= 4
+                tweet_dict[TweetParser.LONGITUDE] = tweet["place"]["bounding_box"]["coordinates"][0][0][0]
+                tweet_dict[TweetParser.LONGITUDE] += tweet["place"]["bounding_box"]["coordinates"][0][1][0]
+                tweet_dict[TweetParser.LONGITUDE] += tweet["place"]["bounding_box"]["coordinates"][0][2][0]
+                tweet_dict[TweetParser.LONGITUDE] += tweet["place"]["bounding_box"]["coordinates"][0][3][0]
+                tweet_dict[TweetParser.LONGITUDE] /= 4
             else:
-                tweet_dict["latitude"] = 0
-                tweet_dict["longitude"] = 0
+                tweet_dict[TweetParser.LATITUDE] = 0
+                tweet_dict[TweetParser.LONGITUDE] = 0
 
         except Exception as e:
-            tweet_dict["latitude"] = 0
-            tweet_dict["longitude"] = 0
+            tweet_dict[TweetParser.LATITUDE] = 0
+            tweet_dict[TweetParser.LONGITUDE] = 0
 
         if "place" in tweet and tweet["place"]:
             tweet_dict["country"] = tweet["place"]["country"]
