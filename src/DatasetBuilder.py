@@ -1,18 +1,8 @@
 import pickle
 
 import numpy as np
-import tensorflow as tf
 
 from morgana_cnn_schema import MorganaCNNSchema
-
-
-def _float_feature(value):
-    return tf.train.Feature(bytes_list=tf.train.FloatList(value=[value]))
-
-
-tfrecords_filename = 'tweets.tfrecords'
-
-writer = tf.python_io.TFRecordWriter(tfrecords_filename)
 
 
 def get_train_data():
