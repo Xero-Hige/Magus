@@ -7,9 +7,7 @@ class CNNSchema(object):
     Uses an embedding layer, followed by a convolutional, max-pooling and softmax layer.
     """
 
-    def __init__(
-            self, num_classes, vocab_size,
-            embedding_size, filter_sizes, num_filters, l2_reg_lambda=0.0):
+    def __init__(self, l2_reg_lambda=0.0):
         pass
 
     @staticmethod
@@ -34,17 +32,17 @@ class CNNSchema(object):
                             prefix="OUT"):
         # Final (unnormalized) scores and predictions
         # with tf.name_scope("output-layer"):
-            # W = tf.get_variable(
-            #        name="W_out",
-            #        shape=[input_size, num_classes],
-            #        initializer=tf.contrib.layers.xavier_initializer())
+        # W = tf.get_variable(
+        #        name="W_out",
+        #        shape=[input_size, num_classes],
+        #        initializer=tf.contrib.layers.xavier_initializer())
 
-            # b = tf.Variable(tf.constant(bias, shape=[num_classes]), name="b_out")
+        # b = tf.Variable(tf.constant(bias, shape=[num_classes]), name="b_out")
 
-            # l2_loss += tf.nn.l2_loss(W)
+        # l2_loss += tf.nn.l2_loss(W)
         # l2_loss += tf.nn.l2_loss(b)
 
-            # scores = tf.nn.xw_plus_b(input_layer, W, b, name="scores")
+        # scores = tf.nn.xw_plus_b(input_layer, W, b, name="scores")
 
         scores = CNNSchema.create_dense_layer(input_layer, input_size, output_size=num_classes, name="output",
                                               prefix=prefix)
@@ -154,5 +152,5 @@ class CNNSchema(object):
         return input_x, input_y
 
     @staticmethod
-    def get_input_data(embedding_size):
+    def get_input_data():
         raise NotImplementedError
