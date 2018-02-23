@@ -1,184 +1,122 @@
-# Copyright 2016 Google Inc. All Rights Reserved.
-#
-# Licensed under the Apache License, Version 2.0 (the "License");
-# you may not use this file except in compliance with the License.
-# You may obtain a copy of the License at
-#
-#     http://www.apache.org/licenses/LICENSE-2.0
-#
-# Unless required by applicable law or agreed to in writing, software
-# distributed under the License is distributed on an "AS IS" BASIS,
-# WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
-# See the License for the specific language governing permissions and
-# limitations under the License.
-# ==============================================================================
+# Based on Google Inc MINST model training example
 
-"""Train and export a simple Softmax Regression TensorFlow model.
-The model is from the TensorFlow "MNIST For ML Beginner" tutorial. This program
-simply follows all its training instructions, and uses TensorFlow SavedModel to
-export the trained model with proper signatures that can be loaded by standard
-tensorflow_model_server.
-Usage: mnist_export.py [--training_iteration=x] [--model_version=y] export_dir
-"""
 import datetime
 import os
 import pickle
 import random
 import sys
 
-import numpy as np
 import tensorflow as tf
 from tensorflow.python.saved_model import builder as saved_model_builder, signature_constants, signature_def_utils, \
     tag_constants, utils
 from tensorflow.python.util import compat
 
-# training flags
-from morgana_cnn_schema import EMOTION_LOOKUP, MAX_WORDS, MorganaCNNSchema
+from morgana_cnn_schema import MorganaCNNSchema
 
-VOCAB_SIZE = MAX_WORDS
-EMBEDDINGS_LENGTH = 300
-NUM_CLASSES = len(EMOTION_LOOKUP)
+TEST_STEP = 5
 
-tf.app.flags.DEFINE_integer('training_iteration', 1000, 'number of training iterations.')
-tf.app.flags.DEFINE_integer('model_version', 1, 'version number of the model.')
-tf.app.flags.DEFINE_string('work_dir', '/tmp', 'Working directory.')
-
-tf.flags.DEFINE_integer("embedding_dim", 300, "Dimensionality of character embedding (default: 128)")
-tf.flags.DEFINE_string("filter_sizes", "7,7,7", "Comma-separated filter sizes (default: '3,4,5')")
-tf.flags.DEFINE_integer("num_filters", 200, "Number of filters per filter size (default: 128)")
-tf.flags.DEFINE_float("dropout_keep_prob", 0.5, "Dropout keep probability (default: 0.5)")
-tf.flags.DEFINE_float("l2_reg_lambda", 0, "L2 regularization lambda (default: 0.0)")
-
-FLAGS = tf.app.flags.FLAGS
-
-
-def batch_iter(x, y, batch_size, shuffle=True):
-    """
-    Generates a batch iterator for a dataset.
-    """
-
-    data_size = len(x)
-    # data = np.array(list(zip(x, y)))
-    data = list(zip(x, y))
-
-    num_batches_per_epoch = int((len(x) - 1) / batch_size) + 1
-
-    # Shuffle the data at each epoch
-    if shuffle:
-        # shuffle_indices = np.random.permutation(np.arange(data_size))
-        # shuffled_data = data[shuffle_indices]
-        random.shuffle(data)
-        shuffled_data = data
-    else:
-        shuffled_data = data
-
-    for batch_num in range(num_batches_per_epoch):
-
-        start_index = batch_num * batch_size
-        end_index = min((batch_num + 1) * batch_size, data_size)
-
-        x_list = []
-        y_list = []
-        for i in range(start_index, end_index):
-            x_list.append(shuffled_data[i][0])
-            y_list.append(shuffled_data[i][1])
-
-        x_list = MorganaCNNSchema.map_batch(x_list)
-
-        yield x_list, y_list
+MIN_STREAM_ACC = 0.6
 
 
 def main(_):
+    # Unpack args
     iterations = int(sys.argv[1])
-    filters = sys.argv[2]
-    n_filters = int(sys.argv[3])
-    output_folder = sys.argv[4]
-    model_version = int(sys.argv[5])
-    start_it = int(sys.argv[6])
+    model_name = sys.argv[2]
+    model_version = int(sys.argv[3])
+    start_it = int(sys.argv[4])
 
-    # Train model
-    print('Training model...')
+    # Create session
+    session = tf.InteractiveSession()
 
-    # Read the data and format it
+    # Create model
+    cnn = MorganaCNNSchema()
 
-    sess = tf.InteractiveSession()
-
-    # Build model
-    # x_train, y_train = get_train_data()
-
-    cnn = MorganaCNNSchema(
-            num_classes=NUM_CLASSES,
-            vocab_size=VOCAB_SIZE,
-            embedding_size=FLAGS.embedding_dim,
-            filter_sizes=list(map(int, filters.split(","))),
-            num_filters=n_filters,
-            l2_reg_lambda=FLAGS.l2_reg_lambda)
-
+    ###
+    # Trainers
+    ###
+    ## Global trainer (trains only global stream variables)
     train_vars = tf.get_collection(tf.GraphKeys.TRAINABLE_VARIABLES, "global")
     global_trainer = tf.train.AdamOptimizer(1e-3).minimize(cnn.loss, var_list=train_vars)
 
+    ## Partial trainer (trains only partial stream variables)
     train_vars = tf.get_collection(tf.GraphKeys.TRAINABLE_VARIABLES, "partial")
     partial_trainer = tf.train.AdamOptimizer(1e-3).minimize(cnn.partial_loss, var_list=train_vars)
 
+    ## Words trainer (trains only words stream variables)
     train_vars = tf.get_collection(tf.GraphKeys.TRAINABLE_VARIABLES, "words_stream")
     word_trainer = tf.train.AdamOptimizer(1e-3).minimize(cnn.word_loss, var_list=train_vars)
 
+    ## Chars trainer (trains only chars stream variables)
     train_vars = tf.get_collection(tf.GraphKeys.TRAINABLE_VARIABLES, "chars_stream")
     char_trainer = tf.train.AdamOptimizer(1e-3).minimize(cnn.char_loss, var_list=train_vars)
 
+    ## Raw Chars trainer (trains only rchar stream variables)
     train_vars = tf.get_collection(tf.GraphKeys.TRAINABLE_VARIABLES, "rchar_stream")
     rchar_trainer = tf.train.AdamOptimizer(1e-3).minimize(cnn.rchar_loss, var_list=train_vars)
 
+    ## Full trainers (trains variables from every connected stream)
     global_full_trainer = tf.train.AdamOptimizer(1e-3).minimize(cnn.loss)
     partial_full_trainer = tf.train.AdamOptimizer(1e-3).minimize(cnn.partial_loss)
+    ###
 
     tf.initialize_all_variables().run()
 
-    # train the model
-    saver = tf.train.Saver()
+    ###
+    ## Checkpoints saver
+    ###
+    checkpoint_saver = tf.train.Saver()
 
+    # Reload checkpoint if exists
     if start_it != 0:
-        saver.restore(sess, "tmp/" + output_folder + "_{}.ckpt".format(start_it))
+        checkpoint_saver.restore(session, "tmp/" + model_name + "_{}.ckpt".format(start_it))
 
-    test_batches = ["/media/hige/320/train_data/test_batch_{}.dmp".format(x) for x in range(19)]
-    batches = ["/media/hige/320/train_data/train_batch_{}.dmp".format(x) for x in range(148)]
-
+    # Redo last iteration because it could be not completed
     start_it -= 1 if start_it != 0 else 0
 
-    acc_word = 0
-    acc_char = 0
-    acc_rchar = 0
+    # Stores a summary of the model, so it can be checked at tensorboard for debugging
+    tf.summary.FileWriter('summary/{}'.format(model_name), session.graph)
 
+    # Load batches
+    train_batches, test_batches = load_batch_files()
+
+    acc_char = 0
+    acc_word = 0
+    acc_rchar = 0
     acc_global = 0
     acc_partial = 0
 
-    tf.summary.FileWriter('train/MorganaReborn', sess.graph)
+    # Training
+    print('Training model {}<{}>'.format(model_name, model_version))
 
     for it in range(start_it + 1, iterations):
-        acc_word, loss_word = do_train_step(batches, cnn, it, output_folder, saver, sess,
+        # Train the first streams
+        acc_word, loss_word = do_train_step(train_batches, cnn, it, model_name, checkpoint_saver, session,
                                             word_trainer, cnn.word_loss, cnn.word_accuracy,
                                             name="Words", prev_acc=acc_word)
-        acc_char, loss_char = do_train_step(batches, cnn, it, output_folder, saver, sess,
+        acc_char, loss_char = do_train_step(train_batches, cnn, it, model_name, checkpoint_saver, session,
                                             char_trainer, cnn.char_loss, cnn.char_accuracy,
                                             name="Chars", prev_acc=acc_char)
-        acc_rchar, loss_rchar = do_train_step(batches, cnn, it, output_folder, saver, sess,
+        acc_rchar, loss_rchar = do_train_step(train_batches, cnn, it, model_name, checkpoint_saver, session,
                                               rchar_trainer, cnn.rchar_loss, cnn.rchar_accuracy,
                                               name="Rchar", prev_acc=acc_rchar)
 
-        if acc_word > 0.6 or acc_char > 0.6 or acc_rchar > 0.6:
-            trainer = global_full_trainer if it % 5 == 1 else global_trainer
-            acc_global, loss_global = do_train_step(batches, cnn, it, output_folder, saver, sess,
+        # Trains the lasts streams if any of the first streams reached the minimun accuracy at train
+        if acc_word > MIN_STREAM_ACC or acc_char > MIN_STREAM_ACC or acc_rchar > MIN_STREAM_ACC:
+            # Trains the full net, only 1 of TEST_STEP times, and only after the test step
+            trainer = global_full_trainer if it % TEST_STEP == 1 else global_trainer
+            acc_global, loss_global = do_train_step(train_batches, cnn, it, model_name, checkpoint_saver, session,
                                                     trainer, cnn.loss, cnn.accuracy,
                                                     name="Global", prev_acc=acc_global)
 
-            trainer = partial_full_trainer if it % 5 == 1 else partial_trainer
-            acc_partial, loss_partial = do_train_step(batches, cnn, it, output_folder, saver, sess,
+            trainer = partial_full_trainer if it % TEST_STEP == 1 else partial_trainer
+            acc_partial, loss_partial = do_train_step(train_batches, cnn, it, model_name, checkpoint_saver, session,
                                                       trainer, cnn.partial_loss, cnn.partial_accuracy,
                                                       name="Partial", prev_acc=acc_partial)
-        if (it % 5) == 0:
-            do_test_step(test_batches, cnn, sess)
+        if (it % TEST_STEP) == 0:
+            do_test_step(test_batches, cnn, session)
 
-        with open("train_steps.csv", "a") as log:
+        # Keeps track of the training accuracy of the model
+        with open("{}_train_steps.csv".format(model_name), "a") as log:
             log.write("{},{},{},{},{},{}\n".format(it,
                                                    acc_global,
                                                    acc_partial,
@@ -186,114 +124,106 @@ def main(_):
                                                    acc_char,
                                                    acc_rchar))
 
-    do_test_step(test_batches, cnn, sess)
+    # Do a final test step
+    do_test_step(test_batches, cnn, session)
     print('Done training!')
 
     # Save the model
+    print("Storing the model")
+    store_servable_model(model_name, session, cnn, model_version)
+    print("Stored {}".format(model_name))
 
-    # where to save to?
-    export_path_base = output_folder
+
+def store_servable_model(model_name, session, model, model_version):
+    """Stores the trained model in a way that could be served
+    by the tensorflow model server"""
+
+    # Define export dir
+    export_path_base = model_name
     export_path = os.path.join(
             compat.as_bytes(export_path_base),
             compat.as_bytes(str(model_version)))
 
-    print('Exporting trained model to', export_path)
-
-    # This creates a SERVABLE from our model
-    # saves a "snapshot" of the trained model to reliable storage
-    # so that it can be loaded later for inference.
-    # can save as many version as necessary
-
-    # the tensoroflow serving main file tensorflow_model_server
-    # will create a SOURCE out of it, the source
-    # can house state that is shared across multiple servables
-    # or versions
-
-    # we can later create a LOADER from it using tf.saved_model.loader.load
-
-    # then the MANAGER decides how to handle its lifecycle
-
     builder = saved_model_builder.SavedModelBuilder(export_path)
 
-    # Build the signature_def_map.
-    # Signature specifies what type of model is being exported,
-    # and the input/output tensors to bind to when running inference.
-    # think of them as annotiations on the graph for serving
-    # we can use them a number of ways
-    # grabbing whatever inputs/outputs/models we want either on server
-    # or via client
-    classification_inputs_words = utils.build_tensor_info(cnn.input_x_words)
-    classification_inputs_chars = utils.build_tensor_info(cnn.input_x_chars)
-    classification_inputs_rchar = utils.build_tensor_info(cnn.input_x_rchars)
-    classification_inputs_keep_prob = utils.build_tensor_info(cnn.dropout_keep_prob)
-    classification_outputs_classes = utils.build_tensor_info(cnn.input_y)
-    classification_outputs_scores = utils.build_tensor_info(cnn.scores)
+    # Creates the tensor info for the inputs and outputs
+    classification_inputs_words = utils.build_tensor_info(model.words_features)
+    classification_inputs_chars = utils.build_tensor_info(model.chars_features)
+    classification_inputs_rchar = utils.build_tensor_info(model.raw_chars_features)
+    classification_inputs_keep_prob = utils.build_tensor_info(model.dropout_keep_prob)
+    classification_outputs_classes = utils.build_tensor_info(model.predictions)
+    classification_outputs_scores = utils.build_tensor_info(model.scores)
 
-    classification_signature = signature_def_utils.build_signature_def(
-            inputs={"words": classification_inputs_words,
-                    "chars": classification_inputs_chars,
-                    "rchar": classification_inputs_rchar,
-                    "loss":  classification_inputs_keep_prob},
-            outputs={
-                signature_constants.CLASSIFY_OUTPUT_CLASSES:
-                    classification_outputs_classes,
-                signature_constants.CLASSIFY_OUTPUT_SCORES:
-                    classification_outputs_scores
-            },
-            method_name=signature_constants.CLASSIFY_METHOD_NAME)
+    # classification_outputs_classes = utils.build_tensor_info(model.input_y)
+    # classification_outputs_scores = utils.build_tensor_info(model.scores)
+    # classification_signature = signature_def_utils.build_signature_def(
+    #         inputs={"words": classification_inputs_words,
+    #                 "chars": classification_inputs_chars,
+    #                 "rchar": classification_inputs_rchar,
+    #                 "loss":  classification_inputs_keep_prob},
+    #         outputs={
+    #             signature_constants.CLASSIFY_OUTPUT_CLASSES:
+    #                 classification_outputs_classes,
+    #             signature_constants.CLASSIFY_OUTPUT_SCORES:
+    #                 classification_outputs_scores
+    #         },
+    #         method_name=signature_constants.CLASSIFY_METHOD_NAME)
 
-    tensor_info_scores = utils.build_tensor_info(cnn.scores)
-    tensor_info_predictions = utils.build_tensor_info(cnn.predictions)
-
+    # Creates a signature
     prediction_signature = signature_def_utils.build_signature_def(
             inputs={"words": classification_inputs_words,
                     "chars": classification_inputs_chars,
                     "rchar": classification_inputs_rchar,
                     "loss":  classification_inputs_keep_prob},
-            outputs={'scores': tensor_info_scores, 'predictions': tensor_info_predictions},
+            outputs={'scores': classification_outputs_scores, 'predictions': classification_outputs_classes},
             method_name=signature_constants.PREDICT_METHOD_NAME)
-
     legacy_init_op = tf.group(tf.tables_initializer(), name='legacy_init_op')
 
-    # add the sigs to the servable
+    # Adds the signature to the servable model
     builder.add_meta_graph_and_variables(
-            sess, [tag_constants.SERVING],
+            session, [tag_constants.SERVING],
             signature_def_map={
-                'predict_tweets':
-                    prediction_signature,
-                signature_constants.DEFAULT_SERVING_SIGNATURE_DEF_KEY:
-                    classification_signature,
+                'predict_tweets': prediction_signature
             },
             legacy_init_op=legacy_init_op)
 
-    # save it!
     builder.save()
 
-    print('Done exporting!')
+
+def load_batch_files():
+    """Loads the list of aviable batchs for both training and testing.
+    Returns firts the list of paths to train batches, and second the list to test batches"""
+    batch_files = os.listdir("/media/hige/320/train_data/")
+    train_batches = ["/media/hige/320/train_data/" + x for x in batch_files if "train_batch" in x]
+    test_batches = ["/media/hige/320/train_data/" + x for x in batch_files if "test_batch" in x]
+    return train_batches, test_batches
 
 
-def do_train_step(batches, cnn, it, output_folder, saver, sess, trainer, trainig_loss, training_accuracy, name="",
+def do_train_step(batches, cnn, it, output_folder, saver, sess, trainer, training_loss, training_accuracy, name="",
                   prev_acc=1):
+    """Does a train step for the given trainer, using the passed batches.
+    Returns the average accuracy and loss among all batches used"""
     print("Iteration <{}>".format(name), it)
     random.shuffle(batches)
     total_loss = 0
     total_accuracy = 0
     total_batches = 0
     for batch_number in range(len(batches)):
+        # Loads the pickled batch
         with open(batches[batch_number], 'rb') as pickled:
             batch_data = pickle.load(pickled)
 
+        # Training takes a while, so, some kind of info serves as some kind of heartbeat
         print("[{}] Iteration{}: {} - Batch: {}/{}".format(datetime.datetime.now(), name, it, batch_number + 1,
                                                            len(batches)))
-        drop = .75 if prev_acc < .54 else .5
-        drop = 1 if prev_acc < .40 else drop
 
-        _, loss, accuracy = sess.run([trainer, trainig_loss, training_accuracy], feed_dict={
-            cnn.input_x_words: batch_data [0],
-            cnn.input_x_chars: batch_data [1],
-            cnn.input_x_rchars: batch_data[2],
-            cnn.input_y: batch_data       [3],
-            cnn.dropout_keep_prob:        .5  # drop
+        # Runs the trainer and gets the asociated loss and accuracy values
+        _, loss, accuracy = sess.run([trainer, training_loss, training_accuracy], feed_dict={
+            cnn.words_features: batch_data    [0],
+            cnn.chars_features: batch_data    [1],
+            cnn.raw_chars_features: batch_data[2],
+            cnn.input_y: batch_data           [3],
+            cnn.dropout_keep_prob:            .5  # drop
         })
 
         total_batches += 1
@@ -311,6 +241,8 @@ def do_train_step(batches, cnn, it, output_folder, saver, sess, trainer, trainig
 
 
 def do_test_step(batches, cnn, sess):
+    """Does a test step for the full model, using the passed batches."""
+
     total_accuracy = 0
     total_batches = 0
 
@@ -326,11 +258,11 @@ def do_test_step(batches, cnn, sess):
 
         print("Test batch: {}/{}".format(batch_number, len(batches)))
         feed_dict = {
-            cnn.input_x_words: batch_data [0],
-            cnn.input_x_chars: batch_data [1],
-            cnn.input_x_rchars: batch_data[2],
-            cnn.input_y: batch_data       [3],
-            cnn.dropout_keep_prob:        1
+            cnn.words_features: batch_data    [0],
+            cnn.chars_features: batch_data    [1],
+            cnn.raw_chars_features: batch_data[2],
+            cnn.input_y: batch_data           [3],
+            cnn.dropout_keep_prob:            1
         }
 
         accuracy, w_acc, c_acc, r_acc, partial_acc = sess.run(
@@ -354,26 +286,6 @@ def do_test_step(batches, cnn, sess):
                                             word / total_batches,
                                             char / total_batches,
                                             rchar / total_batches))
-
-
-def get_train_data():
-    print("Loading data...")
-    x_text, y = MorganaCNNSchema.get_input_data()
-
-    x = x_text
-
-    np.random.seed(10)
-    shuffle_indices = np.random.permutation(np.arange(len(y)))
-    x_shuffled = x[shuffle_indices]
-    y_shuffled = y[shuffle_indices]
-
-    # dev_sample_index = -1 * int(FLAGS.dev_sample_percentage * float(len(y)))
-    x_train, x_dev = x_shuffled, x_shuffled  # x_shuffled[:dev_sample_index], x_shuffled[dev_sample_index:]
-    y_train, y_dev = y_shuffled, y_shuffled  # y_shuffled[:dev_sample_index], y_shuffled[dev_sample_index:]
-
-    print("Vocabulary Size: {:d}".format(70))
-    print("Train/Dev split: {:d}/{:d}".format(len(x_train), len(x_dev)))
-    return x_train, y_train
 
 
 if __name__ == '__main__':
