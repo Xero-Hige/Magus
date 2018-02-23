@@ -139,8 +139,8 @@
 <script>
     //PubNub init
     var pubnub = new PubNub({
-        subscribeKey: "sub-c-1d2d27fc-12bd-11e8-91c1-eac6831c625c",
-        publishKey: "pub-c-7a828306-4ddf-425c-80ec-1e4f8763c088",
+        subscribeKey: {{subscribe_key}} ,
+        publishKey: {{publish_key}},
         ssl: true
     });
 
@@ -149,12 +149,12 @@
     });
 
     //Mapbox init
-    mapboxgl.accessToken = 'pk.eyJ1IjoieGVyby1oaWdlIiwiYSI6ImNqZG9zZ2dsZjFlMmUycW80Zm5rNmk0cXgifQ.vCOrMcBB5WsK2SW2XrS_Qw';
+    mapboxgl.accessToken = {{map_access_token}};
     var map = new mapboxgl.Map({
         container: 'map',
         style: 'mapbox://styles/mapbox/light-v9',
-        center: [-122.414, 37.776],
-        zoom: 6
+        center: [-58, -34],
+        zoom: 3
     });
 
     //Buffers
@@ -190,15 +190,27 @@
 
             if (channel === "happy") {
                 happy_buffer.features.push(feature);
+                if(happy_buffer.length > {{buffer_max_size}}){
+                  happy_buffer.shift();
+                }
                 map.getSource("happy").setData(happy_buffer);
             } else if (channel === "sad") {
                 sad_buffer.features.push(feature);
+                if(sad_buffer.length > {{buffer_max_size}}){
+                  sad_buffer.shift();
+                }
                 map.getSource("sad").setData(sad_buffer);
             } else if (channel === "anger") {
                 angry_buffer.features.push(feature);
+                if(angry_buffer.length > {{buffer_max_size}}){
+                  angry_buffer.shift();
+                }
                 map.getSource("anger").setData(angry_buffer);
             } else if (channel === "fear") {
                 fear_buffer.features.push(feature);
+                if(fear_buffer.length > {{buffer_max_size}}){
+                  fear_buffer.shift();
+                }
                 map.getSource("fear").setData(fear_buffer);
             }
 
