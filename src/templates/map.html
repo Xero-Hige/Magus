@@ -190,25 +190,25 @@
 
             if (channel === "happy") {
                 happy_buffer.features.push(feature);
-                if(happy_buffer.length > {{buffer_max_size}}){
+                while (happy_buffer.length > {{buffer_max_size}}){
                   happy_buffer.shift();
                 }
                 map.getSource("happy").setData(happy_buffer);
             } else if (channel === "sad") {
                 sad_buffer.features.push(feature);
-                if(sad_buffer.length > {{buffer_max_size}}){
+                while (sad_buffer.length > {{buffer_max_size}}){
                   sad_buffer.shift();
                 }
                 map.getSource("sad").setData(sad_buffer);
             } else if (channel === "anger") {
                 angry_buffer.features.push(feature);
-                if(angry_buffer.length > {{buffer_max_size}}){
+                while (angry_buffer.length > {{buffer_max_size}}){
                   angry_buffer.shift();
                 }
                 map.getSource("anger").setData(angry_buffer);
             } else if (channel === "fear") {
                 fear_buffer.features.push(feature);
-                if(fear_buffer.length > {{buffer_max_size}}){
+                while (fear_buffer.length > {{buffer_max_size}}){
                   fear_buffer.shift();
                 }
                 map.getSource("fear").setData(fear_buffer);
