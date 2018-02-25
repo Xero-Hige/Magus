@@ -16,9 +16,7 @@ RUN apt-get update && \
     rm -rf /var/lib/apt/lists/* && \
     aptitude clean
 
-RUN pip3 install pika --no-cache-dir && \
-    pip3 install flask --no-cache-dir && \
-    pip3 install flask-googlemaps --no-cache-dir && \
+RUN pip3 install flask --no-cache-dir && \
     pip3 install gunicorn --no-cache-dir
 
 COPY /src /TheWorld

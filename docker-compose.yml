@@ -2,6 +2,7 @@ version: '3'
 
 services:
   rabbitmq:
+    # Rabbit MQ broker
     image: rabbitmq
 
     ports:
@@ -10,47 +11,51 @@ services:
       - "5671:5671"
 
   magus:
+    # Magus Image
     build:
       context: .
       dockerfile: dockerfile-Magus
 
     depends_on:
+      # Rabbit MQ to interconect cores
       - rabbitmq
-#      - morgana
+      # Morgana to classify
+      - morgana
 
     env_file:
+      # Keys enviroment file
       - twitter.env
 
     volumes:
+      # Temporal stores
       - ./vectors:/Magus/vectors
+      # Word2Vec models folder
       - ./w2v_models:/w2v_models
-      - ./output_folder:/output_folder
+      # New downloaded tweets folder
       - ./temp_tweets:/tweets
 
     stop_signal: SIGINT
 
   the_world:
+    # Web Frontend (Interactive world map)
     build:
       context: .
       dockerfile: dockerfile-TheWorld
 
-    depends_on:
-      - rabbitmq
-
     ports:
+      # Frontend port
       - "8000:8000"
 
     stop_signal: SIGINT
 
-#  morgana:
-#    build:
-#      context: .
-#      dockerfile: dockerfile-Morgana
-#
-#    ports:
-#      - "9000:9000"
-#
-#    volumes:
-#      - ./BaseMorgana:/MorganaModel
-#
-#    stop_signal: SIGINT
+  morgana:
+    # Tensorflow server for the CNN model
+    build:
+      context: .
+      dockerfile: dockerfile-Morgana
+
+    volumes:
+      # Model folder
+      - ./cnn_model:/MorganaModel
+
+    stop_signal: SIGINT
