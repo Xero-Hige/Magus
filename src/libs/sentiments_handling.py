@@ -34,15 +34,15 @@ SUBMISSION = "submission"
 # Emotions
 NONE = "none"
 ANTICIPATION = "anticipation"
-ANGER = "anger"
+ANGER = "Anger"
 DISGUST = "disgust"
-SADNESS = "sadness"
+SADNESS = "Sadness"
 SURPRISE = "surprise"
-FEAR = "fear"
+FEAR = "Fear"
 LOVE = "love"
 TRUST = "trust"
-JOY = "joy"
-NEUTRAL = "neutral"
+JOY = "Joy"
+NEUTRAL = "Neutral"
 
 DYADS = {
     (JOY, TRUST):             LOVE,
