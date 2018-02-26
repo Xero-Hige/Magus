@@ -46,6 +46,10 @@ services:
       # Frontend port
       - "8000:8000"
 
+    env_file:
+      # Keys enviroment file
+      - the_world.env
+
     stop_signal: SIGINT
 
   morgana:
@@ -56,6 +60,6 @@ services:
 
     volumes:
       # Model folder
-      - ./cnn_model:/MorganaModel
+      - ./Sphinx:/MorganaModel
 
     stop_signal: SIGINT
