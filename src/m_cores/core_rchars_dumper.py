@@ -12,7 +12,7 @@ from m_cores.magus_dump_core import MagusDumpCore
 class RCharsEmbeddingCore(MagusDumpCore):
     def __init__(self, input_queue, output_queue, tag="Rchars Embedding", worker_number=0):
         MagusDumpCore.__init__(self, input_queue, output_queue, tag, worker_number)
-        self.embeddings = EmbeddingHandler("rCharsEmbeddings", 150, 320)
+        self.embeddings = EmbeddingHandler("raw_chars_embeddings", 150, 320)
 
     def run_core(self):
         def callback(tweet_string):
