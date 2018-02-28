@@ -139,104 +139,23 @@
 <script>
     //PubNub init
     var pubnub = new PubNub({
-        subscribeKey: {{subscribe_key}} ,
-        publishKey: {{publish_key}},
+        subscribeKey: '{{subscribe_key}}',
+        publishKey: '{{publish_key}}',
         ssl: true
     });
 
     pubnub.subscribe({
-        channels: ['happy', 'sad', 'anger', 'fear']
+        channels: ['Joy', 'Sadness', 'Anger', 'Fear']
     });
 
     //Mapbox init
-    mapboxgl.accessToken = {{map_access_token}};
+    mapboxgl.accessToken = '{{map_access_token}}';
     var map = new mapboxgl.Map({
         container: 'map',
         style: 'mapbox://styles/mapbox/light-v9',
         center: [-58, -34],
         zoom: 3
     });
-
-    //Buffers
-    let happy_buffer = {
-        "type": "FeatureCollection",
-        "features": []
-    };
-    let sad_buffer = {
-        "type": "FeatureCollection",
-        "features": []
-    };
-    let angry_buffer = {
-        "type": "FeatureCollection",
-        "features": []
-    };
-    let fear_buffer = {
-        "type": "FeatureCollection",
-        "features": []
-    };
-
-    //PubNub callback
-    pubnub.addListener({
-        message: function (m) {
-            var channel = m.channel;
-
-            let feature = {
-                "type": "Feature",
-                "geometry": {
-                    "type": "Point",
-                    "coordinates": [m.message.lat, m.message.long]
-                }
-            };
-
-            if (channel === "happy") {
-                happy_buffer.features.push(feature);
-                while (happy_buffer.length > {{buffer_max_size}}){
-                  happy_buffer.shift();
-                }
-                map.getSource("happy").setData(happy_buffer);
-            } else if (channel === "sad") {
-                sad_buffer.features.push(feature);
-                while (sad_buffer.length > {{buffer_max_size}}){
-                  sad_buffer.shift();
-                }
-                map.getSource("sad").setData(sad_buffer);
-            } else if (channel === "anger") {
-                angry_buffer.features.push(feature);
-                while (angry_buffer.length > {{buffer_max_size}}){
-                  angry_buffer.shift();
-                }
-                map.getSource("anger").setData(angry_buffer);
-            } else if (channel === "fear") {
-                fear_buffer.features.push(feature);
-                while (fear_buffer.length > {{buffer_max_size}}){
-                  fear_buffer.shift();
-                }
-                map.getSource("fear").setData(fear_buffer);
-            }
-
-            console.log("New point at: ", channel);
-        }
-    });
-
-
-    h = {'cat1': true, 'cat2': true, 'cat3': true, 'cat4': true, 'cat5': true, 'cat6': true, 'cat7': true};
-
-    /*function construct_filter(h, r_t=1) {
-     v = ["any"]
-     if (h["cat1"]) v.push(["==", "category", "cat1"]);
-     if (h["cat2"]) v.push(["==", "category", "cat2"]);
-     if (h["cat3"]) v.push(["==", "category", "cat3"]);
-     if (h["cat4"]) v.push(["==", "category", "cat4"]);
-     if (h["cat5"]) v.push(["==", "category", "cat5"]);
-     if (h["cat6"]) v.push(["==", "category", "cat6"]);
-     if (h["cat7"]) v.push(["==", "category", "cat7"]);
-     v_ = ["all", v]
-     v_.push([">=", "score", r_t]);
-     return v_;
-     }
-
-     var filterCategoria = construct_filter(h);
-     */
 
     map.on('load', function () {
         map.addSource('happy', {
@@ -297,7 +216,7 @@
                     ]
                 },
                 "heatmap-opacity": {
-                    "default": 1,
+                    "default": 0.45,
                     "stops": [
                         [14, 1],
                         [15, 0]
@@ -337,7 +256,7 @@
                     ]
                 },
                 "heatmap-opacity": {
-                    "default": 1,
+                    "default": 0.45,
                     "stops": [
                         [14, 1],
                         [15, 0]
@@ -551,6 +470,105 @@
          });*/
 
     });
+
+
+    //Buffers
+    let happy_buffer = {
+        "type": "FeatureCollection",
+        "features": []
+    };
+    let sad_buffer = {
+        "type": "FeatureCollection",
+        "features": []
+    };
+    let angry_buffer = {
+        "type": "FeatureCollection",
+        "features": []
+    };
+    let fear_buffer = {
+        "type": "FeatureCollection",
+        "features": []
+    };
+
+    //PubNub callback
+    pubnub.addListener({
+        message: function (m) {
+            var channel = m.channel;
+
+            let feature = {
+                "type": "Feature",
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [m.message.lat, m.message.long]
+                }
+            };
+
+            if (channel === "Joy") {
+                happy_buffer.features.push(feature);
+                while (happy_buffer.length > {{buffer_max_size}}) {
+                    happy_buffer.shift();
+                }
+                try {
+                    map.getSource("happy").setData(happy_buffer);
+                } catch (err) { //Needed because there is a race condition that breaks this
+                    console.log("Not posted");
+                }
+            } else if (channel === "Sadness") {
+                sad_buffer.features.push(feature);
+                while (sad_buffer.length > {{buffer_max_size}}) {
+                    sad_buffer.shift();
+                }
+                try {
+                    map.getSource("sad").setData(sad_buffer);
+                } catch (err) { //Needed because there is a race condition that breaks this
+                    console.log("Not posted");
+                }
+            } else if (channel === "Anger") {
+                angry_buffer.features.push(feature);
+                while (angry_buffer.length > {{buffer_max_size}}) {
+                    angry_buffer.shift();
+                }
+                try {
+                    map.getSource("anger").setData(angry_buffer);
+                } catch (err) { //Needed because there is a race condition that breaks this
+                    console.log("Not posted");
+                }
+            } else if (channel === "Fear") {
+                fear_buffer.features.push(feature);
+                while (fear_buffer.length > {{buffer_max_size}}) {
+                    fear_buffer.shift();
+                }
+                try {
+                    map.getSource("fear").setData(fear_buffer);
+                } catch (err) { //Needed because there is a race condition that breaks this
+                    console.log("Not posted");
+                }
+            }
+
+            console.log("New point at: ", channel);
+        }
+    });
+
+
+    h = {'cat1': true, 'cat2': true, 'cat3': true, 'cat4': true, 'cat5': true, 'cat6': true, 'cat7': true};
+
+    /*function construct_filter(h, r_t=1) {
+     v = ["any"]
+     if (h["cat1"]) v.push(["==", "category", "cat1"]);
+     if (h["cat2"]) v.push(["==", "category", "cat2"]);
+     if (h["cat3"]) v.push(["==", "category", "cat3"]);
+     if (h["cat4"]) v.push(["==", "category", "cat4"]);
+     if (h["cat5"]) v.push(["==", "category", "cat5"]);
+     if (h["cat6"]) v.push(["==", "category", "cat6"]);
+     if (h["cat7"]) v.push(["==", "category", "cat7"]);
+     v_ = ["all", v]
+     v_.push([">=", "score", r_t]);
+     return v_;
+     }
+
+     var filterCategoria = construct_filter(h);
+     */
+
 
     var toggleableLayerIds = ['Happy', 'Anger', 'Sad', 'Fear'];
 
