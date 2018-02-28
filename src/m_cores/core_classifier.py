@@ -73,6 +73,9 @@ class ClassifierCore(MagusCore):
                 "tweet_lon": tweet_info["Longitude"]
             }
 
+            with open("/tweets/list.csv".format(tweet_id), 'a') as output:
+                output.write("{},{}\n".format(tweet_id, result))
+
             self.out_queue.send_message(self.serializer.dumps(tweet_info))
             self._log("Sent {}".format(tweet_id))
 
