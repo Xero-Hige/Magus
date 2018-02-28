@@ -1,0 +1,104 @@
+{
+  "created_at": "Tue Dec 06 15:02:59 +0000 2011",
+  "id": 144069328873074688,
+  "id_str": "144069328873074688",
+  "text": "It is cold in Houston.  A day for accessories. If you do not understand the joy of that, you are not old enough to be told. #joy",
+  "truncated": false,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "joy",
+        "indices": [124, 128]
+      }
+    ],
+    "symbols": [],
+    "user_mentions": [],
+    "urls": []
+  },
+  "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 162409606,
+    "id_str": "162409606",
+    "name": "Timothy Frederick",
+    "screen_name": "timeyee",
+    "location": "Georgetown, Texas",
+    "description": "Photographer / Barber I love #coffee shops, #Barber shops, #art, #photography, #liberty, beautiful #light, & #faces.",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": []
+      }
+    },
+    "protected": false,
+    "followers_count": 394,
+    "friends_count": 462,
+    "listed_count": 21,
+    "created_at": "Sat Jul 03 15:40:49 +0000 2010",
+    "favourites_count": 7300,
+    "utc_offset": -21600,
+    "time_zone": "Central Time (US & Canada)",
+    "geo_enabled": true,
+    "verified": false,
+    "statuses_count": 7517,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "is_translation_enabled": false,
+    "profile_background_color": "C6E2EE",
+    "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/411270789/BARB2.jpg",
+    "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/411270789/BARB2.jpg",
+    "profile_background_tile": true,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/868834590340808704/yB-KnjTQ_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/868834590340808704/yB-KnjTQ_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/162409606/1398210346",
+    "profile_link_color": "1F98C7",
+    "profile_sidebar_border_color": "FFFFFF",
+    "profile_sidebar_fill_color": "DAECF4",
+    "profile_text_color": "663B12",
+    "profile_use_background_image": true,
+    "has_extended_profile": false,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false,
+    "translator_type": "none"
+  },
+  "geo": {
+    "type": "Point",
+    "coordinates": [29.74207859, -95.39277981]
+  },
+  "coordinates": {
+    "type": "Point",
+    "coordinates": [-95.39277981, 29.74207859]
+  },
+  "place": {
+    "id": "1c69a67ad480e1b1",
+    "url": "https://api.twitter.com/1.1/geo/id/1c69a67ad480e1b1.json",
+    "place_type": "city",
+    "name": "Houston",
+    "full_name": "Houston, TX",
+    "country_code": "US",
+    "country": "Estados Unidos",
+    "contained_within": [],
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [[-95.823268, 29.522325], [-95.069705, 29.522325], [-95.069705, 30.1546646], [-95.823268, 30.1546646]]
+      ]
+    },
+    "attributes": {}
+  },
+  "contributors": null,
+  "is_quote_status": false,
+  "retweet_count": 0,
+  "favorite_count": 0,
+  "favorited": false,
+  "retweeted": false,
+  "lang": "en"
+}

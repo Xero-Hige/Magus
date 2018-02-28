@@ -1,0 +1,94 @@
+{
+  "created_at": "Sat Nov 19 15:13:17 +0000 2011",
+  "id": 137911327179014144,
+  "id_str": "137911327179014144",
+  "text": "Confirmed. #SFML fails to load texture properly on a Macbook Air with Intel GPU. Runs fine on AMD Radeon Desktop. #sadness",
+  "truncated": false,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "SFML",
+        "indices": [11, 16]
+      }, {
+        "text": "sadness",
+        "indices": [114, 122]
+      }
+    ],
+    "symbols": [],
+    "user_mentions": [],
+    "urls": []
+  },
+  "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 11625022,
+    "id_str": "11625022",
+    "name": "miniorb",
+    "screen_name": "miniorb",
+    "location": "India",
+    "description": "A part time stormtrooper. @9Circuits",
+    "url": "http://t.co/cNRmHdqqNy",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://t.co/cNRmHdqqNy",
+            "expanded_url": "http://www.miniorb.in",
+            "display_url": "miniorb.in",
+            "indices": [0, 22]
+          }
+        ]
+      },
+      "description": {
+        "urls": []
+      }
+    },
+    "protected": false,
+    "followers_count": 158,
+    "friends_count": 61,
+    "listed_count": 11,
+    "created_at": "Sat Dec 29 08:40:12 +0000 2007",
+    "favourites_count": 61,
+    "utc_offset": 19800,
+    "time_zone": "New Delhi",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 5022,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "is_translation_enabled": false,
+    "profile_background_color": "C0DEED",
+    "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/320863906/twitter.png",
+    "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/320863906/twitter.png",
+    "profile_background_tile": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/537437590/foo_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/537437590/foo_normal.jpg",
+    "profile_link_color": "0084B4",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "has_extended_profile": false,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false,
+    "translator_type": "none"
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "is_quote_status": false,
+  "retweet_count": 0,
+  "favorite_count": 0,
+  "favorited": false,
+  "retweeted": false,
+  "lang": "en"
+}

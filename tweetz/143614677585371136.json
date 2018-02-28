@@ -1,0 +1,127 @@
+{
+  "created_at": "Mon Dec 05 08:56:22 +0000 2011",
+  "id": 143614677585371136,
+  "id_str": "143614677585371136",
+  "text": "Not getting married to @Danielle_Magoc because of #GirlHangover = #NoCats #AllGuineaPigs #Sadness late night talks hahaha @ashmarie_a",
+  "truncated": false,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "GirlHangover",
+        "indices": [50, 63]
+      }, {
+        "text": "NoCats",
+        "indices": [66, 73]
+      }, {
+        "text": "AllGuineaPigs",
+        "indices": [74, 88]
+      }, {
+        "text": "Sadness",
+        "indices": [89, 97]
+      }
+    ],
+    "symbols": [],
+    "user_mentions": [
+      {
+        "screen_name": "Danielle_Magoc",
+        "name": "Danielle Magoc",
+        "id": 410437392,
+        "id_str": "410437392",
+        "indices": [23, 38]
+      }, {
+        "screen_name": "ashmarie_a",
+        "name": "ash",
+        "id": 4921738040,
+        "id_str": "4921738040",
+        "indices": [122, 133]
+      }
+    ],
+    "urls": []
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 216898738,
+    "id_str": "216898738",
+    "name": "Tyler Flachs",
+    "screen_name": "OneManWolfFlak",
+    "location": "Flak Shak",
+    "description": "MJP Football Coach, UMSL Grad #TridentUp",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": []
+      }
+    },
+    "protected": false,
+    "followers_count": 411,
+    "friends_count": 507,
+    "listed_count": 3,
+    "created_at": "Thu Nov 18 00:58:13 +0000 2010",
+    "favourites_count": 5502,
+    "utc_offset": -21600,
+    "time_zone": "Central Time (US & Canada)",
+    "geo_enabled": true,
+    "verified": false,
+    "statuses_count": 20467,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "is_translation_enabled": false,
+    "profile_background_color": "C6E2EE",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+    "profile_background_tile": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/707241679703543809/1MCe5Ig7_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/707241679703543809/1MCe5Ig7_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/216898738/1441018221",
+    "profile_link_color": "1F98C7",
+    "profile_sidebar_border_color": "C6E2EE",
+    "profile_sidebar_fill_color": "DAECF4",
+    "profile_text_color": "663B12",
+    "profile_use_background_image": true,
+    "has_extended_profile": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false,
+    "translator_type": "none"
+  },
+  "geo": {
+    "type": "Point",
+    "coordinates": [37.20020785, -93.27966143]
+  },
+  "coordinates": {
+    "type": "Point",
+    "coordinates": [-93.27966143, 37.20020785]
+  },
+  "place": {
+    "id": "ce1765e3abafe93e",
+    "url": "https://api.twitter.com/1.1/geo/id/ce1765e3abafe93e.json",
+    "place_type": "city",
+    "name": "Springfield",
+    "full_name": "Springfield, IL",
+    "country_code": "US",
+    "country": "Estados Unidos",
+    "contained_within": [],
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [[-89.7731855, 39.673272], [-89.546193, 39.673272], [-89.546193, 39.87542], [-89.7731855, 39.87542]]
+      ]
+    },
+    "attributes": {}
+  },
+  "contributors": null,
+  "is_quote_status": false,
+  "retweet_count": 1,
+  "favorite_count": 0,
+  "favorited": false,
+  "retweeted": false,
+  "lang": "en"
+}

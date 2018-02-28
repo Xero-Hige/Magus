@@ -1,0 +1,92 @@
+{
+  "created_at": "Fri Dec 09 15:49:49 +0000 2011",
+  "id": 145168278875160577,
+  "id_str": "145168278875160577",
+  "text": "My wife has just started using twitter & she's telling me who *I* should be following... because they are people I \"need to listen to\" #joy",
+  "truncated": false,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "joy",
+        "indices": [135, 139]
+      }
+    ],
+    "symbols": [],
+    "user_mentions": [],
+    "urls": []
+  },
+  "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 32193,
+    "id_str": "32193",
+    "name": "\ud83e\udd84 Paul Johnston \ud83e\udd84",
+    "screen_name": "PaulDJohnston",
+    "location": "Wolverton, Milton Keynes, UK",
+    "description": "AWS Serverless Developer Advocate, Cofounder JeffConf, ex CTO @Movivo, Startups, Techie, Geek and Christian Green profile pic: #ClimateChange. Views are my own",
+    "url": "https://t.co/3fqq2Huyzf",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "https://t.co/3fqq2Huyzf",
+            "expanded_url": "http://medium.com/@PaulDJohnston",
+            "display_url": "medium.com/@PaulDJohnston",
+            "indices": [0, 23]
+          }
+        ]
+      },
+      "description": {
+        "urls": []
+      }
+    },
+    "protected": false,
+    "followers_count": 3509,
+    "friends_count": 1914,
+    "listed_count": 250,
+    "created_at": "Thu Nov 30 11:53:49 +0000 2006",
+    "favourites_count": 6423,
+    "utc_offset": 0,
+    "time_zone": "London",
+    "geo_enabled": true,
+    "verified": false,
+    "statuses_count": 22015,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "is_translation_enabled": false,
+    "profile_background_color": "000000",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+    "profile_background_tile": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/870585930436030464/5_pcsAsc_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/870585930436030464/5_pcsAsc_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/32193/1398270417",
+    "profile_link_color": "19CF86",
+    "profile_sidebar_border_color": "000000",
+    "profile_sidebar_fill_color": "000000",
+    "profile_text_color": "000000",
+    "profile_use_background_image": false,
+    "has_extended_profile": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false,
+    "translator_type": "none"
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "is_quote_status": false,
+  "retweet_count": 0,
+  "favorite_count": 0,
+  "favorited": false,
+  "retweeted": false,
+  "lang": "en"
+}

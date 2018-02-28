@@ -1,0 +1,96 @@
+{
+  "created_at": "Mon Nov 21 23:20:37 +0000 2011",
+  "id": 138758746196291585,
+  "id_str": "138758746196291585",
+  "text": "More lifeguard training tomorrow evening. #joy",
+  "truncated": false,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "joy",
+        "indices": [42, 46]
+      }
+    ],
+    "symbols": [],
+    "user_mentions": [],
+    "urls": []
+  },
+  "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 81105423,
+    "id_str": "81105423",
+    "name": "Rob Britton",
+    "screen_name": "rpbritton",
+    "location": "Bristol, England",
+    "description": "UoR Computer Science Graduate. Co-Founder & Director of @AlternateUK / DJ / Bristol Rovers & Chelsea Fan / Cheese connoisseur",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": []
+      }
+    },
+    "protected": false,
+    "followers_count": 626,
+    "friends_count": 765,
+    "listed_count": 9,
+    "created_at": "Fri Oct 09 13:14:33 +0000 2009",
+    "favourites_count": 350,
+    "utc_offset": 0,
+    "time_zone": "London",
+    "geo_enabled": true,
+    "verified": false,
+    "statuses_count": 15920,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "is_translation_enabled": false,
+    "profile_background_color": "C6E2EE",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+    "profile_background_tile": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/558074137394966528/FGG5xqo5_normal.jpeg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/558074137394966528/FGG5xqo5_normal.jpeg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/81105423/1483729532",
+    "profile_link_color": "1F98C7",
+    "profile_sidebar_border_color": "C6E2EE",
+    "profile_sidebar_fill_color": "DAECF4",
+    "profile_text_color": "663B12",
+    "profile_use_background_image": true,
+    "has_extended_profile": false,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false,
+    "translator_type": "none"
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": {
+    "id": "917f05e8dd09575f",
+    "url": "https://api.twitter.com/1.1/geo/id/917f05e8dd09575f.json",
+    "place_type": "admin",
+    "name": "Bristol",
+    "full_name": "Bristol, Inglaterra",
+    "country_code": "GB",
+    "country": "Reino Unido",
+    "contained_within": [],
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [[[-2.72358, 51.397279], [-2.510429, 51.397279], [-2.510429, 51.54442], [-2.72358, 51.54442]]]
+    },
+    "attributes": {}
+  },
+  "contributors": null,
+  "is_quote_status": false,
+  "retweet_count": 0,
+  "favorite_count": 0,
+  "favorited": false,
+  "retweeted": false,
+  "lang": "en"
+}

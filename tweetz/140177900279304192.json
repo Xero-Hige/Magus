@@ -1,0 +1,103 @@
+{
+  "created_at": "Fri Nov 25 21:19:50 +0000 2011",
+  "id": 140177900279304192,
+  "id_str": "140177900279304192",
+  "text": "How come I was never in a huge food fight growing up? #sadness",
+  "truncated": false,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "sadness",
+        "indices": [54, 62]
+      }
+    ],
+    "symbols": [],
+    "user_mentions": [],
+    "urls": []
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 249512404,
+    "id_str": "249512404",
+    "name": "kate",
+    "screen_name": "keightypi",
+    "location": "412",
+    "description": "would I rather be feared or loved? easy, both. I want people to be afraid of how much they love me.",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": []
+      }
+    },
+    "protected": false,
+    "followers_count": 366,
+    "friends_count": 252,
+    "listed_count": 4,
+    "created_at": "Wed Feb 09 05:51:18 +0000 2011",
+    "favourites_count": 3392,
+    "utc_offset": -18000,
+    "time_zone": "Eastern Time (US & Canada)",
+    "geo_enabled": true,
+    "verified": false,
+    "statuses_count": 17740,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "is_translation_enabled": false,
+    "profile_background_color": "F26864",
+    "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/436974960586678273/gJpnQrDf.png",
+    "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/436974960586678273/gJpnQrDf.png",
+    "profile_background_tile": true,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/948311046967693312/PiGGYPsE_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/948311046967693312/PiGGYPsE_normal.jpg",
+    "profile_link_color": "C26861",
+    "profile_sidebar_border_color": "D4CFA4",
+    "profile_sidebar_fill_color": "ABB690",
+    "profile_text_color": "829D7A",
+    "profile_use_background_image": false,
+    "has_extended_profile": false,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false,
+    "translator_type": "none"
+  },
+  "geo": {
+    "type": "Point",
+    "coordinates": [41.04354823, -80.61555261]
+  },
+  "coordinates": {
+    "type": "Point",
+    "coordinates": [-80.61555261, 41.04354823]
+  },
+  "place": {
+    "id": "de599025180e2ee7",
+    "url": "https://api.twitter.com/1.1/geo/id/de599025180e2ee7.json",
+    "place_type": "admin",
+    "name": "Ohio",
+    "full_name": "Ohio, USA",
+    "country_code": "US",
+    "country": "Estados Unidos",
+    "contained_within": [],
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [[-84.8203089, 38.403186], [-80.518626, 38.403186], [-80.518626, 42.327133], [-84.8203089, 42.327133]]
+      ]
+    },
+    "attributes": {}
+  },
+  "contributors": null,
+  "is_quote_status": false,
+  "retweet_count": 0,
+  "favorite_count": 0,
+  "favorited": false,
+  "retweeted": false,
+  "lang": "en"
+}

@@ -1,0 +1,111 @@
+{
+  "created_at": "Mon Nov 21 20:05:56 +0000 2011",
+  "id": 138709751226843136,
+  "id_str": "138709751226843136",
+  "text": "Oh null you thought it was fa play play #surprise",
+  "truncated": false,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "surprise",
+        "indices": [40, 49]
+      }
+    ],
+    "symbols": [],
+    "user_mentions": [],
+    "urls": []
+  },
+  "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 45974102,
+    "id_str": "45974102",
+    "name": "Just Fink",
+    "screen_name": "JF_POLO_POSTALE",
+    "location": "ALABAMA",
+    "description": "SPEAK METAPHORICALLY TO SURVIVE PHYSICALLY #PRATTCITY #205 #ROLLTIDE #MYASU #MMH #TEAM10 #BBG #KATBW #TRECLUB #\u0391\u0394\u03a8 #9ASTY http://t.co/79mbQnjFi8",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": [
+          {
+            "url": "http://t.co/79mbQnjFi8",
+            "expanded_url": "http://facebook.com/JFINKLEY",
+            "display_url": "facebook.com/JFINKLEY",
+            "indices": [122, 144]
+          }
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 940,
+    "friends_count": 1016,
+    "listed_count": 5,
+    "created_at": "Tue Jun 09 23:16:15 +0000 2009",
+    "favourites_count": 85,
+    "utc_offset": -21600,
+    "time_zone": "Central Time (US & Canada)",
+    "geo_enabled": true,
+    "verified": false,
+    "statuses_count": 18842,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "is_translation_enabled": false,
+    "profile_background_color": "121414",
+    "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/185624921/SNAP...SNAP...DRIVE.jpg",
+    "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/185624921/SNAP...SNAP...DRIVE.jpg",
+    "profile_background_tile": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/378800000042399315/de65c2f5948680865bba1402f431ee6e_normal.jpeg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000042399315/de65c2f5948680865bba1402f431ee6e_normal.jpeg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/45974102/1349104175",
+    "profile_link_color": "0084B4",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "DDFFCC",
+    "profile_text_color": "918957",
+    "profile_use_background_image": true,
+    "has_extended_profile": false,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false,
+    "translator_type": "none"
+  },
+  "geo": {
+    "type": "Point",
+    "coordinates": [32.3663965, -86.2999727]
+  },
+  "coordinates": {
+    "type": "Point",
+    "coordinates": [-86.2999727, 32.3663965]
+  },
+  "place": {
+    "id": "7f061ded71fdc974",
+    "url": "https://api.twitter.com/1.1/geo/id/7f061ded71fdc974.json",
+    "place_type": "city",
+    "name": "Montgomery",
+    "full_name": "Montgomery, AL",
+    "country_code": "US",
+    "country": "Estados Unidos",
+    "contained_within": [],
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [[-86.418059, 32.2845933], [-86.071398, 32.2845933], [-86.071398, 32.443697], [-86.418059, 32.443697]]
+      ]
+    },
+    "attributes": {}
+  },
+  "contributors": null,
+  "is_quote_status": false,
+  "retweet_count": 0,
+  "favorite_count": 0,
+  "favorited": false,
+  "retweeted": false,
+  "lang": "en"
+}

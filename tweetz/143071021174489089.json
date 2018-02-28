@@ -1,0 +1,104 @@
+{
+  "created_at": "Sat Dec 03 20:56:04 +0000 2011",
+  "id": 143071021174489089,
+  "id_str": "143071021174489089",
+  "text": "I'm ready to go to sleep. But no..I have a cheer competition. #joy",
+  "truncated": false,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "joy",
+        "indices": [62, 66]
+      }
+    ],
+    "symbols": [],
+    "user_mentions": [],
+    "urls": []
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 324457695,
+    "id_str": "324457695",
+    "name": "Haley Winslow",
+    "screen_name": "haleywinslow",
+    "location": "Memphis, TN",
+    "description": "everday may not be good, but there's something good in everyday",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": []
+      }
+    },
+    "protected": false,
+    "followers_count": 742,
+    "friends_count": 687,
+    "listed_count": 5,
+    "created_at": "Sun Jun 26 17:11:50 +0000 2011",
+    "favourites_count": 18821,
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": true,
+    "verified": false,
+    "statuses_count": 8174,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "is_translation_enabled": false,
+    "profile_background_color": "C0DEED",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/920884280116555776/MKxxeuNm_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/920884280116555776/MKxxeuNm_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/324457695/1493807550",
+    "profile_link_color": "1DA1F2",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "has_extended_profile": true,
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false,
+    "translator_type": "none"
+  },
+  "geo": {
+    "type": "Point",
+    "coordinates": [39.9665508, -105.05059772]
+  },
+  "coordinates": {
+    "type": "Point",
+    "coordinates": [-105.05059772, 39.9665508]
+  },
+  "place": {
+    "id": "ae16b37f106a1b0b",
+    "url": "https://api.twitter.com/1.1/geo/id/ae16b37f106a1b0b.json",
+    "place_type": "city",
+    "name": "Broomfield",
+    "full_name": "Broomfield, CO",
+    "country_code": "US",
+    "country": "Estados Unidos",
+    "contained_within": [],
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [[-105.165623, 39.889064], [-104.961411, 39.889064], [-104.961411, 40.018552], [-105.165623, 40.018552]]
+      ]
+    },
+    "attributes": {}
+  },
+  "contributors": null,
+  "is_quote_status": false,
+  "retweet_count": 0,
+  "favorite_count": 0,
+  "favorited": false,
+  "retweeted": false,
+  "lang": "en"
+}

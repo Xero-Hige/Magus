@@ -1,0 +1,116 @@
+{
+  "created_at": "Wed Dec 07 16:14:35 +0000 2011",
+  "id": 144449737217679360,
+  "id_str": "144449737217679360",
+  "text": "@liamadamsiii life around me. You bring out the worse in people #anger #frustration #violence",
+  "truncated": false,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "anger",
+        "indices": [64, 70]
+      }, {
+        "text": "frustration",
+        "indices": [71, 83]
+      }, {
+        "text": "violence",
+        "indices": [84, 93]
+      }
+    ],
+    "symbols": [],
+    "user_mentions": [
+      {
+        "screen_name": "liamadamsiii",
+        "name": "liamadamsiii",
+        "id": 1004363329,
+        "id_str": "1004363329",
+        "indices": [0, 13]
+      }
+    ],
+    "urls": []
+  },
+  "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 263114079,
+    "id_str": "263114079",
+    "name": "rip_it_up",
+    "screen_name": "SpitOutTheViews",
+    "location": "",
+    "description": "",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": []
+      }
+    },
+    "protected": false,
+    "followers_count": 119,
+    "friends_count": 204,
+    "listed_count": 0,
+    "created_at": "Wed Mar 09 12:10:42 +0000 2011",
+    "favourites_count": 76,
+    "utc_offset": 0,
+    "time_zone": "London",
+    "geo_enabled": true,
+    "verified": false,
+    "statuses_count": 11760,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "is_translation_enabled": false,
+    "profile_background_color": "F7EB03",
+    "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/593183867/5m9du81lkrntnqtdqim1.jpeg",
+    "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/593183867/5m9du81lkrntnqtdqim1.jpeg",
+    "profile_background_tile": true,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/2844008194/a7b3bd999e8e0e18c0e8b411a1037587_normal.jpeg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/2844008194/a7b3bd999e8e0e18c0e8b411a1037587_normal.jpeg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/263114079/1352805635",
+    "profile_link_color": "0710BD",
+    "profile_sidebar_border_color": "1C1C16",
+    "profile_sidebar_fill_color": "33CCA6",
+    "profile_text_color": "08F00F",
+    "profile_use_background_image": true,
+    "has_extended_profile": false,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false,
+    "translator_type": "none"
+  },
+  "geo": {
+    "type": "Point",
+    "coordinates": [52.5684709, 0.822063]
+  },
+  "coordinates": {
+    "type": "Point",
+    "coordinates": [0.822063, 52.5684709]
+  },
+  "place": {
+    "id": "c304f986982e6fb4",
+    "url": "https://api.twitter.com/1.1/geo/id/c304f986982e6fb4.json",
+    "place_type": "city",
+    "name": "Breckland",
+    "full_name": "Breckland, England",
+    "country_code": "GB",
+    "country": "Reino Unido",
+    "contained_within": [],
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [[[0.530507, 52.369519], [1.108297, 52.369519], [1.108297, 52.811127], [0.530507, 52.811127]]]
+    },
+    "attributes": {}
+  },
+  "contributors": null,
+  "is_quote_status": false,
+  "retweet_count": 0,
+  "favorite_count": 0,
+  "favorited": false,
+  "retweeted": false,
+  "lang": "en"
+}

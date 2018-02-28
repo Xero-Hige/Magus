@@ -1,0 +1,123 @@
+{
+  "created_at": "Sun Nov 27 05:50:00 +0000 2011",
+  "id": 140668675064729600,
+  "id_str": "140668675064729600",
+  "text": "Successful marketing comes down to fulfilling four basic humans needs #Happiness #Joy #Peace and #Love. Sounds easy but it's not easy.",
+  "truncated": false,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "Happiness",
+        "indices": [70, 80]
+      }, {
+        "text": "Joy",
+        "indices": [81, 85]
+      }, {
+        "text": "Peace",
+        "indices": [86, 92]
+      }, {
+        "text": "Love",
+        "indices": [97, 102]
+      }
+    ],
+    "symbols": [],
+    "user_mentions": [],
+    "urls": []
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 14958570,
+    "id_str": "14958570",
+    "name": "David Prince",
+    "screen_name": "David_A_Prince",
+    "location": "New York",
+    "description": "Director Strategic Planning at UWG",
+    "url": "https://t.co/8OzfPaZX32",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "https://t.co/8OzfPaZX32",
+            "expanded_url": "http://Instagram.com/david_a_prince",
+            "display_url": "Instagram.com/david_a_prince",
+            "indices": [0, 23]
+          }
+        ]
+      },
+      "description": {
+        "urls": []
+      }
+    },
+    "protected": false,
+    "followers_count": 540,
+    "friends_count": 923,
+    "listed_count": 18,
+    "created_at": "Fri May 30 22:30:58 +0000 2008",
+    "favourites_count": 87,
+    "utc_offset": -18000,
+    "time_zone": "Eastern Time (US & Canada)",
+    "geo_enabled": true,
+    "verified": false,
+    "statuses_count": 3403,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "is_translation_enabled": false,
+    "profile_background_color": "EBEBEB",
+    "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/671782344/98b300b7b00bf9a5e27dbe943162f5fa.png",
+    "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/671782344/98b300b7b00bf9a5e27dbe943162f5fa.png",
+    "profile_background_tile": true,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/933189083098206208/e-iSrSBj_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/933189083098206208/e-iSrSBj_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/14958570/1476996643",
+    "profile_link_color": "45099E",
+    "profile_sidebar_border_color": "FFFFFF",
+    "profile_sidebar_fill_color": "F3F3F3",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "has_extended_profile": false,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false,
+    "translator_type": "none"
+  },
+  "geo": {
+    "type": "Point",
+    "coordinates": [39.95590804, -74.8147357]
+  },
+  "coordinates": {
+    "type": "Point",
+    "coordinates": [-74.8147357, 39.95590804]
+  },
+  "place": {
+    "id": "ce7a0a2bc5aeec2f",
+    "url": "https://api.twitter.com/1.1/geo/id/ce7a0a2bc5aeec2f.json",
+    "place_type": "city",
+    "name": "Lumberton",
+    "full_name": "Lumberton, NJ",
+    "country_code": "US",
+    "country": "Estados Unidos",
+    "contained_within": [],
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [[-74.862729, 39.931234], [-74.750103, 39.931234], [-74.750103, 39.988204], [-74.862729, 39.988204]]
+      ]
+    },
+    "attributes": {}
+  },
+  "contributors": null,
+  "is_quote_status": false,
+  "retweet_count": 0,
+  "favorite_count": 0,
+  "favorited": false,
+  "retweeted": false,
+  "lang": "en"
+}

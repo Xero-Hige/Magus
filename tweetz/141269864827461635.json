@@ -1,0 +1,104 @@
+{
+  "created_at": "Mon Nov 28 21:38:55 +0000 2011",
+  "id": 141269864827461635,
+  "id_str": "141269864827461635",
+  "text": "Just got sick....ewww and I was kinda looking forward to basketball damn flu #sadness :(",
+  "truncated": false,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "sadness",
+        "indices": [77, 85]
+      }
+    ],
+    "symbols": [],
+    "user_mentions": [],
+    "urls": []
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 267437734,
+    "id_str": "267437734",
+    "name": "Paige Farley",
+    "screen_name": "paigefarley656",
+    "location": "",
+    "description": "\u2600\ufe0f",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": []
+      }
+    },
+    "protected": false,
+    "followers_count": 144,
+    "friends_count": 103,
+    "listed_count": 0,
+    "created_at": "Wed Mar 16 23:29:08 +0000 2011",
+    "favourites_count": 731,
+    "utc_offset": -18000,
+    "time_zone": "Quito",
+    "geo_enabled": true,
+    "verified": false,
+    "statuses_count": 3290,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "is_translation_enabled": false,
+    "profile_background_color": "EDECE9",
+    "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/675154756/c9fcefd0c5e891728877f946b9662c6a.jpeg",
+    "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/675154756/c9fcefd0c5e891728877f946b9662c6a.jpeg",
+    "profile_background_tile": true,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/898974439051677696/em3foVEL_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/898974439051677696/em3foVEL_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/267437734/1488339464",
+    "profile_link_color": "088253",
+    "profile_sidebar_border_color": "FFFFFF",
+    "profile_sidebar_fill_color": "29F552",
+    "profile_text_color": "923EC2",
+    "profile_use_background_image": true,
+    "has_extended_profile": false,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false,
+    "translator_type": "none"
+  },
+  "geo": {
+    "type": "Point",
+    "coordinates": [43.66108417, -73.03836548]
+  },
+  "coordinates": {
+    "type": "Point",
+    "coordinates": [-73.03836548, 43.66108417]
+  },
+  "place": {
+    "id": "074d51cce2703639",
+    "url": "https://api.twitter.com/1.1/geo/id/074d51cce2703639.json",
+    "place_type": "city",
+    "name": "Proctor",
+    "full_name": "Proctor, VT",
+    "country_code": "US",
+    "country": "Estados Unidos",
+    "contained_within": [],
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [[-73.061441, 43.610751], [-73.008125, 43.610751], [-73.008125, 43.692382], [-73.061441, 43.692382]]
+      ]
+    },
+    "attributes": {}
+  },
+  "contributors": null,
+  "is_quote_status": false,
+  "retweet_count": 0,
+  "favorite_count": 0,
+  "favorited": false,
+  "retweeted": false,
+  "lang": "en"
+}

@@ -1,0 +1,97 @@
+{
+  "created_at": "Thu Dec 01 11:21:13 +0000 2011",
+  "id": 142201582631665664,
+  "id_str": "142201582631665664",
+  "text": "I feel I end up crying tears of #joy when I really stop and think about it",
+  "truncated": false,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "joy",
+        "indices": [32, 36]
+      }
+    ],
+    "symbols": [],
+    "user_mentions": [],
+    "urls": []
+  },
+  "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">PenguinTime for Mac</a>",
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 398938534,
+    "id_str": "398938534",
+    "name": "Helen Byrne",
+    "screen_name": "helenrbyrne",
+    "location": "wi 53910",
+    "description": "",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": []
+      }
+    },
+    "protected": false,
+    "followers_count": 102,
+    "friends_count": 537,
+    "listed_count": 1,
+    "created_at": "Wed Oct 26 19:20:09 +0000 2011",
+    "favourites_count": 0,
+    "utc_offset": -28800,
+    "time_zone": "Pacific Time (US & Canada)",
+    "geo_enabled": true,
+    "verified": false,
+    "statuses_count": 1353,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "is_translation_enabled": false,
+    "profile_background_color": "FF4209",
+    "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/355660868/12469535d9116c026b9ad968713b05bb.gif",
+    "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/355660868/12469535d9116c026b9ad968713b05bb.gif",
+    "profile_background_tile": true,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1614590494/c02288962258e5066f4911b47778dc7f_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1614590494/c02288962258e5066f4911b47778dc7f_normal.jpg",
+    "profile_link_color": "CDB5CD",
+    "profile_sidebar_border_color": "3360FF",
+    "profile_sidebar_fill_color": "E82A53",
+    "profile_text_color": "E740FF",
+    "profile_use_background_image": true,
+    "has_extended_profile": false,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false,
+    "translator_type": "none"
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": {
+    "id": "7337ebddad0f4f64",
+    "url": "https://api.twitter.com/1.1/geo/id/7337ebddad0f4f64.json",
+    "place_type": "city",
+    "name": "Quincy",
+    "full_name": "Quincy, WI",
+    "country_code": "US",
+    "country": "Estados Unidos",
+    "contained_within": [],
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [[-89.981684, 43.817992], [-89.837256, 43.817992], [-89.837256, 43.966421], [-89.981684, 43.966421]]
+      ]
+    },
+    "attributes": {}
+  },
+  "contributors": null,
+  "is_quote_status": false,
+  "retweet_count": 0,
+  "favorite_count": 0,
+  "favorited": false,
+  "retweeted": false,
+  "lang": "en"
+}

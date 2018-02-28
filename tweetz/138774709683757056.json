@@ -1,0 +1,98 @@
+{
+  "created_at": "Tue Nov 22 00:24:03 +0000 2011",
+  "id": 138774709683757056,
+  "id_str": "138774709683757056",
+  "text": "hey, jesse can hit threes when he doesn't rush them! #surprise",
+  "truncated": false,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "surprise",
+        "indices": [53, 62]
+      }
+    ],
+    "symbols": [],
+    "user_mentions": [],
+    "urls": []
+  },
+  "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 98250464,
+    "id_str": "98250464",
+    "name": "Fight \ud83d\udc15\ud83c\udfc3\u231b Mass",
+    "screen_name": "FightMass",
+    "location": "somewhere better than Kingston",
+    "description": "friends of the show. always been high on (dionte) christmas.",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": []
+      }
+    },
+    "protected": false,
+    "followers_count": 649,
+    "friends_count": 548,
+    "listed_count": 26,
+    "created_at": "Mon Dec 21 01:32:32 +0000 2009",
+    "favourites_count": 6330,
+    "utc_offset": -18000,
+    "time_zone": "Eastern Time (US & Canada)",
+    "geo_enabled": true,
+    "verified": false,
+    "statuses_count": 31902,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "is_translation_enabled": false,
+    "profile_background_color": "7D0000",
+    "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/450101746006642689/WPbV7aPT.jpeg",
+    "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/450101746006642689/WPbV7aPT.jpeg",
+    "profile_background_tile": true,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/933416412504313857/L2Rqa4df_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/933416412504313857/L2Rqa4df_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/98250464/1515974248",
+    "profile_link_color": "0084B4",
+    "profile_sidebar_border_color": "FFFFFF",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "has_extended_profile": false,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false,
+    "translator_type": "none"
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": {
+    "id": "44b901e1ff58ddc2",
+    "url": "https://api.twitter.com/1.1/geo/id/44b901e1ff58ddc2.json",
+    "place_type": "city",
+    "name": "Windham",
+    "full_name": "Windham, NH",
+    "country_code": "US",
+    "country": "Estados Unidos",
+    "contained_within": [],
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [[-71.366101, 42.760108], [-71.236387, 42.760108], [-71.236387, 42.85073], [-71.366101, 42.85073]]
+      ]
+    },
+    "attributes": {}
+  },
+  "contributors": null,
+  "is_quote_status": false,
+  "retweet_count": 0,
+  "favorite_count": 0,
+  "favorited": false,
+  "retweeted": false,
+  "lang": "en"
+}

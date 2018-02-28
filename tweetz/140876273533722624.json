@@ -1,0 +1,119 @@
+{
+  "created_at": "Sun Nov 27 19:34:55 +0000 2011",
+  "id": 140876273533722624,
+  "id_str": "140876273533722624",
+  "text": "Reliving it all...Documentary of #Ayrton #Senna...greatest driver of all times... #sadness",
+  "truncated": false,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "Ayrton",
+        "indices": [33, 40]
+      }, {
+        "text": "Senna",
+        "indices": [41, 47]
+      }, {
+        "text": "sadness",
+        "indices": [82, 90]
+      }
+    ],
+    "symbols": [],
+    "user_mentions": [],
+    "urls": []
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 135462967,
+    "id_str": "135462967",
+    "name": "Allan Sedney",
+    "screen_name": "asedney",
+    "location": "Netherlands",
+    "description": "Headhunter, business partner, people connector",
+    "url": "http://t.co/XfhmUwvtOI",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://t.co/XfhmUwvtOI",
+            "expanded_url": "http://www.badenochandclark.nl",
+            "display_url": "badenochandclark.nl",
+            "indices": [0, 22]
+          }
+        ]
+      },
+      "description": {
+        "urls": []
+      }
+    },
+    "protected": false,
+    "followers_count": 88,
+    "friends_count": 141,
+    "listed_count": 3,
+    "created_at": "Wed Apr 21 11:13:22 +0000 2010",
+    "favourites_count": 11,
+    "utc_offset": 3600,
+    "time_zone": "Amsterdam",
+    "geo_enabled": true,
+    "verified": false,
+    "statuses_count": 446,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "is_translation_enabled": false,
+    "profile_background_color": "D1F8FF",
+    "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/99934066/xeabab47fc14ddbc246331187b27840a.png",
+    "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/99934066/xeabab47fc14ddbc246331187b27840a.png",
+    "profile_background_tile": true,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/560913083942850561/QpIlaZR2_normal.jpeg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/560913083942850561/QpIlaZR2_normal.jpeg",
+    "profile_link_color": "F0059D",
+    "profile_sidebar_border_color": "F7DDBE",
+    "profile_sidebar_fill_color": "ECE2D9",
+    "profile_text_color": "526063",
+    "profile_use_background_image": true,
+    "has_extended_profile": false,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false,
+    "translator_type": "none"
+  },
+  "geo": {
+    "type": "Point",
+    "coordinates": [51.95596483, 4.58984619]
+  },
+  "coordinates": {
+    "type": "Point",
+    "coordinates": [4.58984619, 51.95596483]
+  },
+  "place": {
+    "id": "3cbbd1a2f7b3cd7f",
+    "url": "https://api.twitter.com/1.1/geo/id/3cbbd1a2f7b3cd7f.json",
+    "place_type": "city",
+    "name": "Capelle aan den IJssel",
+    "full_name": "Capelle aan den IJssel, Nederland",
+    "country_code": "NL",
+    "country": "Holanda",
+    "contained_within": [],
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [[4.5372224, 51.9060528], [4.6194205, 51.9060528], [4.6194205, 51.9654768], [4.5372224, 51.9654768]]
+      ]
+    },
+    "attributes": {}
+  },
+  "contributors": null,
+  "is_quote_status": false,
+  "retweet_count": 0,
+  "favorite_count": 0,
+  "favorited": false,
+  "retweeted": false,
+  "lang": "en"
+}

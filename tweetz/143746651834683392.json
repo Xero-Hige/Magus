@@ -1,0 +1,107 @@
+{
+  "created_at": "Mon Dec 05 17:40:47 +0000 2011",
+  "id": 143746651834683392,
+  "id_str": "143746651834683392",
+  "text": "Damn I get in my car n I got a full tank!!! #surprise",
+  "truncated": false,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "surprise",
+        "indices": [44, 53]
+      }
+    ],
+    "symbols": [],
+    "user_mentions": [],
+    "urls": []
+  },
+  "source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iOS</a>",
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 104264647,
+    "id_str": "104264647",
+    "name": "Apryll Mone't",
+    "screen_name": "Apryll_monet",
+    "location": "Chicago",
+    "description": "\ue240Independent woman,who believes in money over niggas #teambadbitch #teamtaurus #teamsingle #teammakemoney #teamindependent\ue12f",
+    "url": "http://t.co/eA3vYCnFoO",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://t.co/eA3vYCnFoO",
+            "expanded_url": "http://facebook.com/amonetw",
+            "display_url": "facebook.com/amonetw",
+            "indices": [0, 22]
+          }
+        ]
+      },
+      "description": {
+        "urls": []
+      }
+    },
+    "protected": false,
+    "followers_count": 181,
+    "friends_count": 158,
+    "listed_count": 0,
+    "created_at": "Tue Jan 12 20:32:04 +0000 2010",
+    "favourites_count": 5,
+    "utc_offset": -18000,
+    "time_zone": "Eastern Time (US & Canada)",
+    "geo_enabled": true,
+    "verified": false,
+    "statuses_count": 2942,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "is_translation_enabled": false,
+    "profile_background_color": "709397",
+    "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/134911330/31733_1340240263036_1142040296_30823519_901901_n.jpg",
+    "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/134911330/31733_1340240263036_1142040296_30823519_901901_n.jpg",
+    "profile_background_tile": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/2435699210/E7C39D9A-F8CE-4540-BDB5-87C9FBC3AAA9_normal",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/2435699210/E7C39D9A-F8CE-4540-BDB5-87C9FBC3AAA9_normal",
+    "profile_link_color": "FF3300",
+    "profile_sidebar_border_color": "86A4A6",
+    "profile_sidebar_fill_color": "A0C5C7",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "has_extended_profile": false,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false,
+    "translator_type": "none"
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": {
+    "id": "99700cd6fc455c13",
+    "url": "https://api.twitter.com/1.1/geo/id/99700cd6fc455c13.json",
+    "place_type": "city",
+    "name": "Hammond",
+    "full_name": "Hammond, IN",
+    "country_code": "US",
+    "country": "Estados Unidos",
+    "contained_within": [],
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [[-87.525341, 41.566265], [-87.432288, 41.566265], [-87.432288, 41.710116], [-87.525341, 41.710116]]
+      ]
+    },
+    "attributes": {}
+  },
+  "contributors": null,
+  "is_quote_status": false,
+  "retweet_count": 0,
+  "favorite_count": 0,
+  "favorited": false,
+  "retweeted": false,
+  "lang": "en"
+}

@@ -1,0 +1,103 @@
+{
+  "created_at": "Sat Dec 10 03:39:51 +0000 2011",
+  "id": 145346966342213632,
+  "id_str": "145346966342213632",
+  "text": "This officially ends my stint at karaoke. RIP Mrs. Kelli's. I will never forget your WOW shots and the many attempts at Afroman. #sadness",
+  "truncated": false,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "sadness",
+        "indices": [129, 137]
+      }
+    ],
+    "symbols": [],
+    "user_mentions": [],
+    "urls": []
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 174061209,
+    "id_str": "174061209",
+    "name": "Adam Smith",
+    "screen_name": "Bucky_1201",
+    "location": "",
+    "description": "",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": []
+      }
+    },
+    "protected": false,
+    "followers_count": 149,
+    "friends_count": 91,
+    "listed_count": 2,
+    "created_at": "Tue Aug 03 00:52:11 +0000 2010",
+    "favourites_count": 85,
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": true,
+    "verified": false,
+    "statuses_count": 2690,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "is_translation_enabled": false,
+    "profile_background_color": "C0DEED",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/2201990234/image_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/2201990234/image_normal.jpg",
+    "profile_link_color": "1DA1F2",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "has_extended_profile": false,
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false,
+    "translator_type": "none"
+  },
+  "geo": {
+    "type": "Point",
+    "coordinates": [36.15089105, -86.79642504]
+  },
+  "coordinates": {
+    "type": "Point",
+    "coordinates": [-86.79642504, 36.15089105]
+  },
+  "place": {
+    "id": "67eb74af40bb4766",
+    "url": "https://api.twitter.com/1.1/geo/id/67eb74af40bb4766.json",
+    "place_type": "city",
+    "name": "Nashville",
+    "full_name": "Nashville, TN",
+    "country_code": "US",
+    "country": "Estados Unidos",
+    "contained_within": [],
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [[-87.054766, 35.967785], [-86.515588, 35.967785], [-86.515588, 36.405496], [-87.054766, 36.405496]]
+      ]
+    },
+    "attributes": {}
+  },
+  "contributors": null,
+  "is_quote_status": false,
+  "retweet_count": 0,
+  "favorite_count": 0,
+  "favorited": false,
+  "retweeted": false,
+  "lang": "en"
+}

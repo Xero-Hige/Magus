@@ -1,0 +1,115 @@
+{
+  "created_at": "Wed Nov 23 00:41:21 +0000 2011",
+  "id": 139141449370451969,
+  "id_str": "139141449370451969",
+  "text": "Have u found #joy in your life and has your life brought joy to others? Maybe this is how we should define our progress in #life.",
+  "truncated": false,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "joy",
+        "indices": [13, 17]
+      }, {
+        "text": "life",
+        "indices": [123, 128]
+      }
+    ],
+    "symbols": [],
+    "user_mentions": [],
+    "urls": []
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 384800170,
+    "id_str": "384800170",
+    "name": "k e cracknell",
+    "screen_name": "kecracknell",
+    "location": "uk",
+    "description": "Complimentary therapist, author of The Stone Circle Shiatsu therapist, Kinesiologist, Dowser, Energy worker, Osteomyologist Angel Healing",
+    "url": "http://t.co/6W1OQlXcUV",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://t.co/6W1OQlXcUV",
+            "expanded_url": "http://www.angelhealing.co.uk",
+            "display_url": "angelhealing.co.uk",
+            "indices": [0, 22]
+          }
+        ]
+      },
+      "description": {
+        "urls": []
+      }
+    },
+    "protected": false,
+    "followers_count": 423,
+    "friends_count": 458,
+    "listed_count": 4,
+    "created_at": "Tue Oct 04 10:39:28 +0000 2011",
+    "favourites_count": 0,
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": true,
+    "verified": false,
+    "statuses_count": 434,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "is_translation_enabled": false,
+    "profile_background_color": "C0DEED",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/2740578036/6c64e2de2315bc10e7d5443e0fbacf59_normal.png",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/2740578036/6c64e2de2315bc10e7d5443e0fbacf59_normal.png",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/384800170/1370815013",
+    "profile_link_color": "1DA1F2",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "has_extended_profile": false,
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false,
+    "translator_type": "none"
+  },
+  "geo": {
+    "type": "Point",
+    "coordinates": [51.24322122, 0.0134015]
+  },
+  "coordinates": {
+    "type": "Point",
+    "coordinates": [0.0134015, 51.24322122]
+  },
+  "place": {
+    "id": "4d70f2d3fbf306d3",
+    "url": "https://api.twitter.com/1.1/geo/id/4d70f2d3fbf306d3.json",
+    "place_type": "city",
+    "name": "Tandridge",
+    "full_name": "Tandridge, England",
+    "country_code": "GB",
+    "country": "Reino Unido",
+    "contained_within": [],
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [[[-0.15498, 51.136767], [0.058108, 51.136767], [0.058108, 51.338696], [-0.15498, 51.338696]]]
+    },
+    "attributes": {}
+  },
+  "contributors": null,
+  "is_quote_status": false,
+  "retweet_count": 0,
+  "favorite_count": 0,
+  "favorited": false,
+  "retweeted": false,
+  "lang": "en"
+}

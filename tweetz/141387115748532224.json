@@ -1,0 +1,114 @@
+{
+  "created_at": "Tue Nov 29 05:24:49 +0000 2011",
+  "id": 141387115748532224,
+  "id_str": "141387115748532224",
+  "text": "Jesus. Others. Yourself. Let's all focus on #JOY this season.",
+  "truncated": false,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "JOY",
+        "indices": [44, 48]
+      }
+    ],
+    "symbols": [],
+    "user_mentions": [],
+    "urls": []
+  },
+  "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 33111081,
+    "id_str": "33111081",
+    "name": "Andy",
+    "screen_name": "adwolter",
+    "location": "Newhall, IA  ",
+    "description": "Twins enthusiast, Dairyman, Student in cow school",
+    "url": "https://t.co/qnPZTBGeVj",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "https://t.co/qnPZTBGeVj",
+            "expanded_url": "http://instagram.com/adwolter",
+            "display_url": "instagram.com/adwolter",
+            "indices": [0, 23]
+          }
+        ]
+      },
+      "description": {
+        "urls": []
+      }
+    },
+    "protected": false,
+    "followers_count": 196,
+    "friends_count": 289,
+    "listed_count": 1,
+    "created_at": "Sun Apr 19 03:12:00 +0000 2009",
+    "favourites_count": 5078,
+    "utc_offset": -21600,
+    "time_zone": "Central Time (US & Canada)",
+    "geo_enabled": true,
+    "verified": false,
+    "statuses_count": 4914,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "is_translation_enabled": false,
+    "profile_background_color": "022330",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+    "profile_background_tile": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/877734708708298753/VwsV2Zr__normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/877734708708298753/VwsV2Zr__normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/33111081/1405177632",
+    "profile_link_color": "0084B4",
+    "profile_sidebar_border_color": "A8C7F7",
+    "profile_sidebar_fill_color": "C0DFEC",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "has_extended_profile": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false,
+    "translator_type": "none"
+  },
+  "geo": {
+    "type": "Point",
+    "coordinates": [41.8405832, -94.1060257]
+  },
+  "coordinates": {
+    "type": "Point",
+    "coordinates": [-94.1060257, 41.8405832]
+  },
+  "place": {
+    "id": "ff2cac555c49a373",
+    "url": "https://api.twitter.com/1.1/geo/id/ff2cac555c49a373.json",
+    "place_type": "city",
+    "name": "Perry",
+    "full_name": "Perry, IA",
+    "country_code": "US",
+    "country": "Estados Unidos",
+    "contained_within": [],
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [[-94.145046, 41.82401], [-94.069204, 41.82401], [-94.069204, 41.8603095], [-94.145046, 41.8603095]]
+      ]
+    },
+    "attributes": {}
+  },
+  "contributors": null,
+  "is_quote_status": false,
+  "retweet_count": 0,
+  "favorite_count": 0,
+  "favorited": false,
+  "retweeted": false,
+  "lang": "en"
+}

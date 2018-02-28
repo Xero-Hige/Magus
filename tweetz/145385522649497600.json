@@ -1,0 +1,122 @@
+{
+  "created_at": "Sat Dec 10 06:13:04 +0000 2011",
+  "id": 145385522649497600,
+  "id_str": "145385522649497600",
+  "text": "@peymckenzie_13 :) good!! i really thought you hated me for a minute /: #sadness",
+  "truncated": false,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "sadness",
+        "indices": [72, 80]
+      }
+    ],
+    "symbols": [],
+    "user_mentions": [
+      {
+        "screen_name": "peymckenzie_13",
+        "name": "Peyton Skyles",
+        "id": 433116283,
+        "id_str": "433116283",
+        "indices": [0, 15]
+      }
+    ],
+    "urls": []
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "in_reply_to_status_id": 145385103328161792,
+  "in_reply_to_status_id_str": "145385103328161792",
+  "in_reply_to_user_id": 433116283,
+  "in_reply_to_user_id_str": "433116283",
+  "in_reply_to_screen_name": "peymckenzie_13",
+  "user": {
+    "id": 377150736,
+    "id_str": "377150736",
+    "name": "Bailey Stephens",
+    "screen_name": "bcstephens_11",
+    "location": "where the wild things are",
+    "description": "figuring out life...by doing all the wrong things. twice.",
+    "url": "https://t.co/ZRHi40EZ3D",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "https://t.co/ZRHi40EZ3D",
+            "expanded_url": "https://twitter.com/lorealparis",
+            "display_url": "twitter.com/lorealparis",
+            "indices": [0, 23]
+          }
+        ]
+      },
+      "description": {
+        "urls": []
+      }
+    },
+    "protected": false,
+    "followers_count": 199,
+    "friends_count": 309,
+    "listed_count": 0,
+    "created_at": "Wed Sep 21 03:13:16 +0000 2011",
+    "favourites_count": 1166,
+    "utc_offset": -21600,
+    "time_zone": "Central Time (US & Canada)",
+    "geo_enabled": true,
+    "verified": false,
+    "statuses_count": 3634,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "is_translation_enabled": false,
+    "profile_background_color": "8A27D1",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": true,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/701963069228978176/ZwgbL_Ub_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/701963069228978176/ZwgbL_Ub_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/377150736/1456341417",
+    "profile_link_color": "21EDBA",
+    "profile_sidebar_border_color": "E196ED",
+    "profile_sidebar_fill_color": "88D4EB",
+    "profile_text_color": "A660DB",
+    "profile_use_background_image": true,
+    "has_extended_profile": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false,
+    "translator_type": "none"
+  },
+  "geo": {
+    "type": "Point",
+    "coordinates": [35.08380333, -85.63175205]
+  },
+  "coordinates": {
+    "type": "Point",
+    "coordinates": [-85.63175205, 35.08380333]
+  },
+  "place": {
+    "id": "d8844b5b0e427b9a",
+    "url": "https://api.twitter.com/1.1/geo/id/d8844b5b0e427b9a.json",
+    "place_type": "city",
+    "name": "Jasper",
+    "full_name": "Jasper, TN",
+    "country_code": "US",
+    "country": "Estados Unidos",
+    "contained_within": [],
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [[-85.651972, 35.024969], [-85.592408, 35.024969], [-85.592408, 35.10362], [-85.651972, 35.10362]]
+      ]
+    },
+    "attributes": {}
+  },
+  "contributors": null,
+  "is_quote_status": false,
+  "retweet_count": 0,
+  "favorite_count": 0,
+  "favorited": false,
+  "retweeted": false,
+  "lang": "en"
+}

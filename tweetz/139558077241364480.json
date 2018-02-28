@@ -1,0 +1,128 @@
+{
+  "created_at": "Thu Nov 24 04:16:53 +0000 2011",
+  "id": 139558077241364480,
+  "id_str": "139558077241364480",
+  "text": "@C_My_DIMPLEz @l_chelle Me either. Got sick from my meds at work. Migraine and nauseated all day long. And I can't find my debit card. #joy",
+  "truncated": false,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "joy",
+        "indices": [135, 139]
+      }
+    ],
+    "symbols": [],
+    "user_mentions": [
+      {
+        "screen_name": "C_My_DIMPLEz",
+        "name": "MJ",
+        "id": 348505363,
+        "id_str": "348505363",
+        "indices": [0, 13]
+      }, {
+        "screen_name": "L_Chelle",
+        "name": "Laura Ashcraft",
+        "id": 359192282,
+        "id_str": "359192282",
+        "indices": [14, 23]
+      }
+    ],
+    "urls": []
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "in_reply_to_status_id": 139353723964100609,
+  "in_reply_to_status_id_str": "139353723964100609",
+  "in_reply_to_user_id": 348505363,
+  "in_reply_to_user_id_str": "348505363",
+  "in_reply_to_screen_name": "C_My_DIMPLEz",
+  "user": {
+    "id": 101316855,
+    "id_str": "101316855",
+    "name": "PrincessJessie",
+    "screen_name": "jesserella09",
+    "location": "",
+    "description": "Fall down 7, stand up 8",
+    "url": "http://t.co/2HCGoM6rpP",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://t.co/2HCGoM6rpP",
+            "expanded_url": "http://thestuffthatgoesthrumymind.blogspot.com",
+            "display_url": "\u2026estuffthatgoesthrumymind.blogspot.com",
+            "indices": [0, 22]
+          }
+        ]
+      },
+      "description": {
+        "urls": []
+      }
+    },
+    "protected": false,
+    "followers_count": 100,
+    "friends_count": 225,
+    "listed_count": 0,
+    "created_at": "Sat Jan 02 21:23:38 +0000 2010",
+    "favourites_count": 135,
+    "utc_offset": -21600,
+    "time_zone": "Central Time (US & Canada)",
+    "geo_enabled": true,
+    "verified": false,
+    "statuses_count": 4550,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "is_translation_enabled": false,
+    "profile_background_color": "D134A7",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/463669477746696192/3Mb9k7Ol_normal.jpeg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/463669477746696192/3Mb9k7Ol_normal.jpeg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/101316855/1395102303",
+    "profile_link_color": "D3EBDF",
+    "profile_sidebar_border_color": "EEEEEE",
+    "profile_sidebar_fill_color": "F6F6F6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "has_extended_profile": false,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false,
+    "translator_type": "none"
+  },
+  "geo": {
+    "type": "Point",
+    "coordinates": [34.25532151, -92.11674337]
+  },
+  "coordinates": {
+    "type": "Point",
+    "coordinates": [-92.11674337, 34.25532151]
+  },
+  "place": {
+    "id": "90c9433d3b8487c9",
+    "url": "https://api.twitter.com/1.1/geo/id/90c9433d3b8487c9.json",
+    "place_type": "city",
+    "name": "White Hall",
+    "full_name": "White Hall, AR",
+    "country_code": "US",
+    "country": "Estados Unidos",
+    "contained_within": [],
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [[-92.122846, 34.2435999], [-92.0627118, 34.2435999], [-92.0627118, 34.300688], [-92.122846, 34.300688]]
+      ]
+    },
+    "attributes": {}
+  },
+  "contributors": null,
+  "is_quote_status": false,
+  "retweet_count": 0,
+  "favorite_count": 0,
+  "favorited": false,
+  "retweeted": false,
+  "lang": "en"
+}

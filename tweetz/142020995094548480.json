@@ -1,0 +1,98 @@
+{
+  "created_at": "Wed Nov 30 23:23:38 +0000 2011",
+  "id": 142020995094548480,
+  "id_str": "142020995094548480",
+  "text": "@dozin4dayz all i wanted for my birthday was to see your beautiful face. #sadness",
+  "truncated": false,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "sadness",
+        "indices": [73, 81]
+      }
+    ],
+    "symbols": [],
+    "user_mentions": [],
+    "urls": []
+  },
+  "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+  "in_reply_to_status_id": 142020374182363136,
+  "in_reply_to_status_id_str": "142020374182363136",
+  "in_reply_to_user_id": 223376619,
+  "in_reply_to_user_id_str": "223376619",
+  "in_reply_to_screen_name": "kendyll_ann",
+  "user": {
+    "id": 23709692,
+    "id_str": "23709692",
+    "name": "hello, it\u2019s beej.",
+    "screen_name": "brittmiller",
+    "location": "",
+    "description": "who cares.",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": []
+      }
+    },
+    "protected": false,
+    "followers_count": 300,
+    "friends_count": 447,
+    "listed_count": 10,
+    "created_at": "Wed Mar 11 02:44:26 +0000 2009",
+    "favourites_count": 12534,
+    "utc_offset": -18000,
+    "time_zone": "Eastern Time (US & Canada)",
+    "geo_enabled": true,
+    "verified": false,
+    "statuses_count": 22879,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "is_translation_enabled": false,
+    "profile_background_color": "ABB8C2",
+    "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/594986913/xg2kcbxhwkkn8ej6d030.jpeg",
+    "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/594986913/xg2kcbxhwkkn8ej6d030.jpeg",
+    "profile_background_tile": true,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/733864136702988288/ZsjrgoNr_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/733864136702988288/ZsjrgoNr_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/23709692/1470858273",
+    "profile_link_color": "A5A7A8",
+    "profile_sidebar_border_color": "000000",
+    "profile_sidebar_fill_color": "40116B",
+    "profile_text_color": "2E292E",
+    "profile_use_background_image": false,
+    "has_extended_profile": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false,
+    "translator_type": "none"
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": {
+    "id": "c6a1f1f8e7db637a",
+    "url": "https://api.twitter.com/1.1/geo/id/c6a1f1f8e7db637a.json",
+    "place_type": "city",
+    "name": "Madrid",
+    "full_name": "Madrid, Espa\u00f1a",
+    "country_code": "ES",
+    "country": "Espa\u00f1a",
+    "contained_within": [],
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [[-3.8890049, 40.3120713], [-3.5180102, 40.3120713], [-3.5180102, 40.6435181], [-3.8890049, 40.6435181]]
+      ]
+    },
+    "attributes": {}
+  },
+  "contributors": null,
+  "is_quote_status": false,
+  "retweet_count": 0,
+  "favorite_count": 0,
+  "favorited": false,
+  "retweeted": false,
+  "lang": "en"
+}

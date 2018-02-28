@@ -1,0 +1,114 @@
+{
+  "created_at": "Mon Nov 21 17:55:25 +0000 2011",
+  "id": 138676906689179650,
+  "id_str": "138676906689179650",
+  "text": "With outlook my work has also stalled....out comes th kindle...#joy",
+  "truncated": false,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "joy",
+        "indices": [63, 67]
+      }
+    ],
+    "symbols": [],
+    "user_mentions": [],
+    "urls": []
+  },
+  "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 75737687,
+    "id_str": "75737687",
+    "name": "BhikuBhai",
+    "screen_name": "Bhiku_Bhai",
+    "location": "Hyderabad, India",
+    "description": "Take my tweets with a shot of RUM, they taste better that way!!!",
+    "url": "https://t.co/ixOrkAAzZp",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "https://t.co/ixOrkAAzZp",
+            "expanded_url": "http://www.adducelebrity.blogspot.com",
+            "display_url": "adducelebrity.blogspot.com",
+            "indices": [0, 23]
+          }
+        ]
+      },
+      "description": {
+        "urls": []
+      }
+    },
+    "protected": false,
+    "followers_count": 222,
+    "friends_count": 509,
+    "listed_count": 5,
+    "created_at": "Sun Sep 20 06:51:04 +0000 2009",
+    "favourites_count": 129,
+    "utc_offset": -36000,
+    "time_zone": "Hawaii",
+    "geo_enabled": true,
+    "verified": false,
+    "statuses_count": 8916,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "is_translation_enabled": false,
+    "profile_background_color": "001329",
+    "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/575136967/nasa9_792_167279.jpg",
+    "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/575136967/nasa9_792_167279.jpg",
+    "profile_background_tile": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/706120918486024193/9QBvUalL_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/706120918486024193/9QBvUalL_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/75737687/1457187321",
+    "profile_link_color": "448668",
+    "profile_sidebar_border_color": "F7B565",
+    "profile_sidebar_fill_color": "000B17",
+    "profile_text_color": "004358",
+    "profile_use_background_image": true,
+    "has_extended_profile": false,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false,
+    "translator_type": "none"
+  },
+  "geo": {
+    "type": "Point",
+    "coordinates": [41.372163, -72.9272224]
+  },
+  "coordinates": {
+    "type": "Point",
+    "coordinates": [-72.9272224, 41.372163]
+  },
+  "place": {
+    "id": "d9a65d67a7839c1c",
+    "url": "https://api.twitter.com/1.1/geo/id/d9a65d67a7839c1c.json",
+    "place_type": "city",
+    "name": "Hamden",
+    "full_name": "Hamden, CT",
+    "country_code": "US",
+    "country": "Estados Unidos",
+    "contained_within": [],
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [[-72.975111, 41.327195], [-72.85136, 41.327195], [-72.85136, 41.464097], [-72.975111, 41.464097]]
+      ]
+    },
+    "attributes": {}
+  },
+  "contributors": null,
+  "is_quote_status": false,
+  "retweet_count": 0,
+  "favorite_count": 0,
+  "favorited": false,
+  "retweeted": false,
+  "lang": "en"
+}

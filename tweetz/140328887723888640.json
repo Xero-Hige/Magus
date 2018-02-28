@@ -1,0 +1,115 @@
+{
+  "created_at": "Sat Nov 26 07:19:48 +0000 2011",
+  "id": 140328887723888640,
+  "id_str": "140328887723888640",
+  "text": "Fix your gaze on Jesus today! #life #joy",
+  "truncated": false,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "life",
+        "indices": [30, 35]
+      }, {
+        "text": "joy",
+        "indices": [36, 40]
+      }
+    ],
+    "symbols": [],
+    "user_mentions": [],
+    "urls": []
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 63936687,
+    "id_str": "63936687",
+    "name": "Dan Frammingham",
+    "screen_name": "danfram",
+    "location": "United Kingdom",
+    "description": "Follower of Christ. Husband. Father. Strength Coach. Fitness Tutor",
+    "url": "https://t.co/5W8PVr70A8",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "https://t.co/5W8PVr70A8",
+            "expanded_url": "http://www.throwdownleagues.com/",
+            "display_url": "throwdownleagues.com",
+            "indices": [0, 23]
+          }
+        ]
+      },
+      "description": {
+        "urls": []
+      }
+    },
+    "protected": false,
+    "followers_count": 288,
+    "friends_count": 97,
+    "listed_count": 13,
+    "created_at": "Sat Aug 08 08:47:28 +0000 2009",
+    "favourites_count": 1350,
+    "utc_offset": 0,
+    "time_zone": "London",
+    "geo_enabled": true,
+    "verified": false,
+    "statuses_count": 6345,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "is_translation_enabled": false,
+    "profile_background_color": "1A1B1F",
+    "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/291606606/photo.JPG",
+    "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/291606606/photo.JPG",
+    "profile_background_tile": true,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/909444921723154438/7xvWwsJ0_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/909444921723154438/7xvWwsJ0_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/63936687/1498729991",
+    "profile_link_color": "2FC2EF",
+    "profile_sidebar_border_color": "181A1E",
+    "profile_sidebar_fill_color": "252429",
+    "profile_text_color": "666666",
+    "profile_use_background_image": true,
+    "has_extended_profile": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false,
+    "translator_type": "none"
+  },
+  "geo": {
+    "type": "Point",
+    "coordinates": [51.43544301, -0.09691524]
+  },
+  "coordinates": {
+    "type": "Point",
+    "coordinates": [-0.09691524, 51.43544301]
+  },
+  "place": {
+    "id": "2641d0d645fad2ab",
+    "url": "https://api.twitter.com/1.1/geo/id/2641d0d645fad2ab.json",
+    "place_type": "city",
+    "name": "Lambeth",
+    "full_name": "Lambeth, England",
+    "country_code": "GB",
+    "country": "Reino Unido",
+    "contained_within": [],
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [[[-0.15191, 51.410792], [-0.078902, 51.410792], [-0.078902, 51.509887], [-0.15191, 51.509887]]]
+    },
+    "attributes": {}
+  },
+  "contributors": null,
+  "is_quote_status": false,
+  "retweet_count": 0,
+  "favorite_count": 0,
+  "favorited": false,
+  "retweeted": false,
+  "lang": "en"
+}

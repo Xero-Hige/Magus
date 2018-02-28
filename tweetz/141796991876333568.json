@@ -1,0 +1,105 @@
+{
+  "created_at": "Wed Nov 30 08:33:31 +0000 2011",
+  "id": 141796991876333568,
+  "id_str": "141796991876333568",
+  "text": "#Surprise #dtv iemand getrokken die ajaxspullen vraagt. heeft iemand n creatief idee hoe ik een brandblusser kan maken;)",
+  "truncated": false,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "Surprise",
+        "indices": [0, 9]
+      }, {
+        "text": "dtv",
+        "indices": [10, 14]
+      }
+    ],
+    "symbols": [],
+    "user_mentions": [],
+    "urls": []
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 219757697,
+    "id_str": "219757697",
+    "name": "A g e e t h",
+    "screen_name": "Ageethvdh",
+    "location": "",
+    "description": "",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": []
+      }
+    },
+    "protected": false,
+    "followers_count": 44,
+    "friends_count": 70,
+    "listed_count": 0,
+    "created_at": "Thu Nov 25 19:56:41 +0000 2010",
+    "favourites_count": 28,
+    "utc_offset": 3600,
+    "time_zone": "Amsterdam",
+    "geo_enabled": true,
+    "verified": false,
+    "statuses_count": 729,
+    "lang": "nl",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "is_translation_enabled": false,
+    "profile_background_color": "0099B9",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+    "profile_background_tile": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/378800000548405638/e82845f5f9644eb1e0229cce6dc5881e_normal.jpeg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000548405638/e82845f5f9644eb1e0229cce6dc5881e_normal.jpeg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/219757697/1493803266",
+    "profile_link_color": "0099B9",
+    "profile_sidebar_border_color": "5ED4DC",
+    "profile_sidebar_fill_color": "95E8EC",
+    "profile_text_color": "3C3940",
+    "profile_use_background_image": true,
+    "has_extended_profile": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false,
+    "translator_type": "none"
+  },
+  "geo": {
+    "type": "Point",
+    "coordinates": [52.47053804, 4.75040806]
+  },
+  "coordinates": {
+    "type": "Point",
+    "coordinates": [4.75040806, 52.47053804]
+  },
+  "place": {
+    "id": "8390fb85a49ea97e",
+    "url": "https://api.twitter.com/1.1/geo/id/8390fb85a49ea97e.json",
+    "place_type": "city",
+    "name": "Zaanstad",
+    "full_name": "Zaanstad, Nederland",
+    "country_code": "NL",
+    "country": "Holanda",
+    "contained_within": [],
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [[[4.6748243, 52.4165236], [4.862646, 52.4165236], [4.862646, 52.520406], [4.6748243, 52.520406]]]
+    },
+    "attributes": {}
+  },
+  "contributors": null,
+  "is_quote_status": false,
+  "retweet_count": 0,
+  "favorite_count": 0,
+  "favorited": false,
+  "retweeted": false,
+  "lang": "nl"
+}

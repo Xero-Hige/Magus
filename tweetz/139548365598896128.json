@@ -1,0 +1,104 @@
+{
+  "created_at": "Thu Nov 24 03:38:17 +0000 2011",
+  "id": 139548365598896128,
+  "id_str": "139548365598896128",
+  "text": "Watching Greasy Reesey get naughty with Marky Mark tonight #fear",
+  "truncated": false,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "fear",
+        "indices": [59, 64]
+      }
+    ],
+    "symbols": [],
+    "user_mentions": [],
+    "urls": []
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 118404934,
+    "id_str": "118404934",
+    "name": "joemaxwell",
+    "screen_name": "jmxwll",
+    "location": "los angeles",
+    "description": "no longer a twitter app user",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": []
+      }
+    },
+    "protected": false,
+    "followers_count": 739,
+    "friends_count": 313,
+    "listed_count": 3,
+    "created_at": "Sun Feb 28 15:43:44 +0000 2010",
+    "favourites_count": 7034,
+    "utc_offset": -21600,
+    "time_zone": "Central Time (US & Canada)",
+    "geo_enabled": true,
+    "verified": false,
+    "statuses_count": 13055,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "is_translation_enabled": false,
+    "profile_background_color": "382738",
+    "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/479441342884360192/M3cau7by.jpeg",
+    "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/479441342884360192/M3cau7by.jpeg",
+    "profile_background_tile": true,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/934841396522917888/AYLCLHIG_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/934841396522917888/AYLCLHIG_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/118404934/1511718533",
+    "profile_link_color": "C22929",
+    "profile_sidebar_border_color": "000000",
+    "profile_sidebar_fill_color": "A0C5C7",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "has_extended_profile": false,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false,
+    "translator_type": "none"
+  },
+  "geo": {
+    "type": "Point",
+    "coordinates": [33.38053492, -111.92720874]
+  },
+  "coordinates": {
+    "type": "Point",
+    "coordinates": [-111.92720874, 33.38053492]
+  },
+  "place": {
+    "id": "7cb7440bcf83d464",
+    "url": "https://api.twitter.com/1.1/geo/id/7cb7440bcf83d464.json",
+    "place_type": "city",
+    "name": "Tempe",
+    "full_name": "Tempe, AZ",
+    "country_code": "US",
+    "country": "Estados Unidos",
+    "contained_within": [],
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [[-111.979047, 33.3199453], [-111.877237, 33.3199453], [-111.877237, 33.465823], [-111.979047, 33.465823]]
+      ]
+    },
+    "attributes": {}
+  },
+  "contributors": null,
+  "is_quote_status": false,
+  "retweet_count": 0,
+  "favorite_count": 0,
+  "favorited": false,
+  "retweeted": false,
+  "lang": "en"
+}

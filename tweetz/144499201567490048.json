@@ -1,0 +1,107 @@
+{
+  "created_at": "Wed Dec 07 19:31:08 +0000 2011",
+  "id": 144499201567490048,
+  "id_str": "144499201567490048",
+  "text": "In the mood to play #fear and #fear2? Anyone recommend it?",
+  "truncated": false,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "fear",
+        "indices": [20, 25]
+      }, {
+        "text": "fear2",
+        "indices": [30, 36]
+      }
+    ],
+    "symbols": [],
+    "user_mentions": [],
+    "urls": []
+  },
+  "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 315567423,
+    "id_str": "315567423",
+    "name": "Marshall Aviles",
+    "screen_name": "MGSMarshalldbdx",
+    "location": "jacks fucked up mind",
+    "description": "good vibes! #punkhead #gloveon #foxhound 1-26-13",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": []
+      }
+    },
+    "protected": false,
+    "followers_count": 127,
+    "friends_count": 133,
+    "listed_count": 2,
+    "created_at": "Sun Jun 12 02:55:21 +0000 2011",
+    "favourites_count": 291,
+    "utc_offset": -18000,
+    "time_zone": "Eastern Time (US & Canada)",
+    "geo_enabled": true,
+    "verified": false,
+    "statuses_count": 10762,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "is_translation_enabled": false,
+    "profile_background_color": "000000",
+    "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/670505599/4491ccc9708ebb5a81251658183892a9.jpeg",
+    "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/670505599/4491ccc9708ebb5a81251658183892a9.jpeg",
+    "profile_background_tile": true,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/747964154477150208/orljQySl_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/747964154477150208/orljQySl_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/315567423/1414945319",
+    "profile_link_color": "0084B4",
+    "profile_sidebar_border_color": "000000",
+    "profile_sidebar_fill_color": "5C0303",
+    "profile_text_color": "000000",
+    "profile_use_background_image": true,
+    "has_extended_profile": false,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false,
+    "translator_type": "none"
+  },
+  "geo": {
+    "type": "Point",
+    "coordinates": [40.76817335, -74.02768335]
+  },
+  "coordinates": {
+    "type": "Point",
+    "coordinates": [-74.02768335, 40.76817335]
+  },
+  "place": {
+    "id": "e140ee270249a06e",
+    "url": "https://api.twitter.com/1.1/geo/id/e140ee270249a06e.json",
+    "place_type": "city",
+    "name": "Weehawken",
+    "full_name": "Weehawken, NJ",
+    "country_code": "US",
+    "country": "Estados Unidos",
+    "contained_within": [],
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [[-74.032699, 40.756601], [-74.001327, 40.756601], [-74.001327, 40.780685], [-74.032699, 40.780685]]
+      ]
+    },
+    "attributes": {}
+  },
+  "contributors": null,
+  "is_quote_status": false,
+  "retweet_count": 0,
+  "favorite_count": 0,
+  "favorited": false,
+  "retweeted": false,
+  "lang": "en"
+}

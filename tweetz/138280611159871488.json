@@ -1,0 +1,111 @@
+{
+  "created_at": "Sun Nov 20 15:40:41 +0000 2011",
+  "id": 138280611159871488,
+  "id_str": "138280611159871488",
+  "text": "Vorrei che le persone con cui parlo su twitter fossero i miei 'amici' di tutti i giorni. #sadness",
+  "truncated": false,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "sadness",
+        "indices": [89, 97]
+      }
+    ],
+    "symbols": [],
+    "user_mentions": [],
+    "urls": []
+  },
+  "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 91793078,
+    "id_str": "91793078",
+    "name": "Sharon",
+    "screen_name": "bethfuckoff",
+    "location": "Napoli, Campania",
+    "description": "We are living in a dream, but who is the dreamer?",
+    "url": "https://t.co/xwFYrhwim8",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "https://t.co/xwFYrhwim8",
+            "expanded_url": "http://www.dischirotti.com",
+            "display_url": "dischirotti.com",
+            "indices": [0, 23]
+          }
+        ]
+      },
+      "description": {
+        "urls": []
+      }
+    },
+    "protected": false,
+    "followers_count": 1624,
+    "friends_count": 444,
+    "listed_count": 10,
+    "created_at": "Sun Nov 22 13:54:11 +0000 2009",
+    "favourites_count": 4534,
+    "utc_offset": 3600,
+    "time_zone": "Europe/Rome",
+    "geo_enabled": true,
+    "verified": false,
+    "statuses_count": 82054,
+    "lang": "it",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "is_translation_enabled": false,
+    "profile_background_color": "FFFFFF",
+    "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/448163759534522368/4YYiKrfu.png",
+    "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/448163759534522368/4YYiKrfu.png",
+    "profile_background_tile": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/965611013528870912/77piqftf_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/965611013528870912/77piqftf_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/91793078/1519054985",
+    "profile_link_color": "91D2FA",
+    "profile_sidebar_border_color": "FFFFFF",
+    "profile_sidebar_fill_color": "78C0A8",
+    "profile_text_color": "F294EF",
+    "profile_use_background_image": false,
+    "has_extended_profile": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false,
+    "translator_type": "regular"
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": {
+    "id": "5d838f7a011f4a2d",
+    "url": "https://api.twitter.com/1.1/geo/id/5d838f7a011f4a2d.json",
+    "place_type": "admin",
+    "name": "London",
+    "full_name": "London, England",
+    "country_code": "GB",
+    "country": "Reino Unido",
+    "contained_within": [],
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [-0.510364798739281, 51.2867019756122], [0.334043461659515, 51.2867019756122],
+          [0.334043461659515, 51.6918240878432], [-0.510364798739281, 51.6918240878432]
+        ]
+      ]
+    },
+    "attributes": {}
+  },
+  "contributors": null,
+  "is_quote_status": false,
+  "retweet_count": 7,
+  "favorite_count": 0,
+  "favorited": false,
+  "retweeted": false,
+  "lang": "it"
+}

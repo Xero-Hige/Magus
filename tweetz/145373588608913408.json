@@ -1,0 +1,101 @@
+{
+  "created_at": "Sat Dec 10 05:25:39 +0000 2011",
+  "id": 145373588608913408,
+  "id_str": "145373588608913408",
+  "text": "Can't go to bed .. I keep looking at the window hoping that my car won't be robbed\n:( #fear , #vacation",
+  "truncated": false,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "fear",
+        "indices": [86, 91]
+      }, {
+        "text": "vacation",
+        "indices": [94, 103]
+      }
+    ],
+    "symbols": [],
+    "user_mentions": [],
+    "urls": []
+  },
+  "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 243516130,
+    "id_str": "243516130",
+    "name": "Abadi Ismail",
+    "screen_name": "FollowAbadi",
+    "location": "",
+    "description": "SuperBowl #XLVIII, #12th, @Seahawks Fan.",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": []
+      }
+    },
+    "protected": false,
+    "followers_count": 312,
+    "friends_count": 719,
+    "listed_count": 16,
+    "created_at": "Thu Jan 27 06:21:23 +0000 2011",
+    "favourites_count": 69,
+    "utc_offset": -21600,
+    "time_zone": "Central Time (US & Canada)",
+    "geo_enabled": true,
+    "verified": false,
+    "statuses_count": 5178,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "is_translation_enabled": false,
+    "profile_background_color": "49BB4D",
+    "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/345888903/1905.jpg",
+    "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/345888903/1905.jpg",
+    "profile_background_tile": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/716850019458879489/2Fs13Ht5_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/716850019458879489/2Fs13Ht5_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/243516130/1474695148",
+    "profile_link_color": "49BB4D",
+    "profile_sidebar_border_color": "2E5983",
+    "profile_sidebar_fill_color": "2E5983",
+    "profile_text_color": "04163C",
+    "profile_use_background_image": true,
+    "has_extended_profile": false,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false,
+    "translator_type": "none"
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": {
+    "id": "a3df7faf80ceea6b",
+    "url": "https://api.twitter.com/1.1/geo/id/a3df7faf80ceea6b.json",
+    "place_type": "city",
+    "name": "Midland",
+    "full_name": "Midland, TX",
+    "country_code": "US",
+    "country": "Estados Unidos",
+    "contained_within": [],
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [[-102.229316, 31.923379], [-101.979938, 31.923379], [-101.979938, 32.0652206], [-102.229316, 32.0652206]]
+      ]
+    },
+    "attributes": {}
+  },
+  "contributors": null,
+  "is_quote_status": false,
+  "retweet_count": 0,
+  "favorite_count": 0,
+  "favorited": false,
+  "retweeted": false,
+  "lang": "en"
+}

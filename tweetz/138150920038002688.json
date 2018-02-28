@@ -1,0 +1,116 @@
+{
+  "created_at": "Sun Nov 20 07:05:20 +0000 2011",
+  "id": 138150920038002688,
+  "id_str": "138150920038002688",
+  "text": "@neilhimself  my copy of fragile things is gone, either Cthulhu ate it...or the police at the occupy rallies have been in my room. #sadness",
+  "truncated": false,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "sadness",
+        "indices": [131, 139]
+      }
+    ],
+    "symbols": [],
+    "user_mentions": [
+      {
+        "screen_name": "neilhimself",
+        "name": "Neil Gaiman",
+        "id": 18393773,
+        "id_str": "18393773",
+        "indices": [0, 12]
+      }
+    ],
+    "urls": []
+  },
+  "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": 18393773,
+  "in_reply_to_user_id_str": "18393773",
+  "in_reply_to_screen_name": "neilhimself",
+  "user": {
+    "id": 9852922,
+    "id_str": "9852922",
+    "name": "Chris Eaton",
+    "screen_name": "chriseaton",
+    "location": "McKenzie, TN",
+    "description": "Christian. Husband. Straight-Edge. Teacher. Wrestling Fan. Gamer. Nerd.",
+    "url": "https://t.co/UT3tYD2WjP",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "https://t.co/UT3tYD2WjP",
+            "expanded_url": "http://christophereaton.tumblr.com/",
+            "display_url": "christophereaton.tumblr.com",
+            "indices": [0, 23]
+          }
+        ]
+      },
+      "description": {
+        "urls": []
+      }
+    },
+    "protected": false,
+    "followers_count": 187,
+    "friends_count": 492,
+    "listed_count": 12,
+    "created_at": "Thu Nov 01 13:46:37 +0000 2007",
+    "favourites_count": 398,
+    "utc_offset": -21600,
+    "time_zone": "Central Time (US & Canada)",
+    "geo_enabled": true,
+    "verified": false,
+    "statuses_count": 3893,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "is_translation_enabled": false,
+    "profile_background_color": "131516",
+    "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/580003791/3ng6sxbtti7xm9hvsdta.jpeg",
+    "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/580003791/3ng6sxbtti7xm9hvsdta.jpeg",
+    "profile_background_tile": true,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/673534404246020097/NZiF86zD_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/673534404246020097/NZiF86zD_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/9852922/1518918825",
+    "profile_link_color": "B12F2F",
+    "profile_sidebar_border_color": "4C57BD",
+    "profile_sidebar_fill_color": "BABABA",
+    "profile_text_color": "000000",
+    "profile_use_background_image": true,
+    "has_extended_profile": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false,
+    "translator_type": "none"
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": {
+    "id": "7f7d58e5229c6b6c",
+    "url": "https://api.twitter.com/1.1/geo/id/7f7d58e5229c6b6c.json",
+    "place_type": "admin",
+    "name": "Tennessee",
+    "full_name": "Tennessee, USA",
+    "country_code": "US",
+    "country": "Estados Unidos",
+    "contained_within": [],
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [[-90.310298, 34.982924], [-81.646901, 34.982924], [-81.646901, 36.678119], [-90.310298, 36.678119]]
+      ]
+    },
+    "attributes": {}
+  },
+  "contributors": null,
+  "is_quote_status": false,
+  "retweet_count": 0,
+  "favorite_count": 0,
+  "favorited": false,
+  "retweeted": false,
+  "lang": "en"
+}

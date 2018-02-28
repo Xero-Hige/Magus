@@ -1,0 +1,102 @@
+{
+  "created_at": "Tue Dec 06 17:52:31 +0000 2011",
+  "id": 144111993060737025,
+  "id_str": "144111993060737025",
+  "text": "Wood burner is on...cuppa in hand! #joy",
+  "truncated": false,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "joy",
+        "indices": [35, 39]
+      }
+    ],
+    "symbols": [],
+    "user_mentions": [],
+    "urls": []
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 21010988,
+    "id_str": "21010988",
+    "name": "Kate Westbury",
+    "screen_name": "Katew17",
+    "location": "",
+    "description": "90% Wanderlust, 10% Tea...",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": []
+      }
+    },
+    "protected": false,
+    "followers_count": 157,
+    "friends_count": 577,
+    "listed_count": 13,
+    "created_at": "Mon Feb 16 18:30:48 +0000 2009",
+    "favourites_count": 321,
+    "utc_offset": 0,
+    "time_zone": "London",
+    "geo_enabled": true,
+    "verified": false,
+    "statuses_count": 7612,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "is_translation_enabled": false,
+    "profile_background_color": "379F9F",
+    "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/188557936/x5536f2aa8924ffa208602cce045b537.png",
+    "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/188557936/x5536f2aa8924ffa208602cce045b537.png",
+    "profile_background_tile": true,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/788480263839969282/TX7rAMoW_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/788480263839969282/TX7rAMoW_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/21010988/1503916853",
+    "profile_link_color": "6C328F",
+    "profile_sidebar_border_color": "A98EB3",
+    "profile_sidebar_fill_color": "B2CBA3",
+    "profile_text_color": "4D52CD",
+    "profile_use_background_image": true,
+    "has_extended_profile": false,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false,
+    "translator_type": "none"
+  },
+  "geo": {
+    "type": "Point",
+    "coordinates": [50.90325777, -4.37965938]
+  },
+  "coordinates": {
+    "type": "Point",
+    "coordinates": [-4.37965938, 50.90325777]
+  },
+  "place": {
+    "id": "522eb8c95224cdff",
+    "url": "https://api.twitter.com/1.1/geo/id/522eb8c95224cdff.json",
+    "place_type": "city",
+    "name": "Torridge",
+    "full_name": "Torridge, England",
+    "country_code": "GB",
+    "country": "Reino Unido",
+    "contained_within": [],
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [[[-4.551777, 50.646438], [-3.88401, 50.646438], [-3.88401, 51.078791], [-4.551777, 51.078791]]]
+    },
+    "attributes": {}
+  },
+  "contributors": null,
+  "is_quote_status": false,
+  "retweet_count": 0,
+  "favorite_count": 0,
+  "favorited": false,
+  "retweeted": false,
+  "lang": "en"
+}

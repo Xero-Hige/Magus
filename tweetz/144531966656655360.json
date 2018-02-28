@@ -1,0 +1,104 @@
+{
+  "created_at": "Wed Dec 07 21:41:20 +0000 2011",
+  "id": 144531966656655360,
+  "id_str": "144531966656655360",
+  "text": "When your stomach hurts from laughing so hard. #joy",
+  "truncated": false,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "joy",
+        "indices": [47, 51]
+      }
+    ],
+    "symbols": [],
+    "user_mentions": [],
+    "urls": []
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 410315838,
+    "id_str": "410315838",
+    "name": "Allyssa Walker",
+    "screen_name": "AllyssaHunt",
+    "location": "Oregon/Alaska",
+    "description": "Married. July 11th 2014. Army Strong. IG:allyssamorgan",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": []
+      }
+    },
+    "protected": false,
+    "followers_count": 426,
+    "friends_count": 249,
+    "listed_count": 0,
+    "created_at": "Fri Nov 11 23:07:16 +0000 2011",
+    "favourites_count": 13080,
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": true,
+    "verified": false,
+    "statuses_count": 13812,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "is_translation_enabled": false,
+    "profile_background_color": "C0DEED",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/698753275638591489/N-zRK57c_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/698753275638591489/N-zRK57c_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/410315838/1389689246",
+    "profile_link_color": "1DA1F2",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "has_extended_profile": false,
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false,
+    "translator_type": "none"
+  },
+  "geo": {
+    "type": "Point",
+    "coordinates": [43.21444119, -123.3532372]
+  },
+  "coordinates": {
+    "type": "Point",
+    "coordinates": [-123.3532372, 43.21444119]
+  },
+  "place": {
+    "id": "22d56ab4bcf65a60",
+    "url": "https://api.twitter.com/1.1/geo/id/22d56ab4bcf65a60.json",
+    "place_type": "city",
+    "name": "Roseburg",
+    "full_name": "Roseburg, OR",
+    "country_code": "US",
+    "country": "Estados Unidos",
+    "contained_within": [],
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [[-123.398205, 43.192228], [-123.295953, 43.192228], [-123.295953, 43.259091], [-123.398205, 43.259091]]
+      ]
+    },
+    "attributes": {}
+  },
+  "contributors": null,
+  "is_quote_status": false,
+  "retweet_count": 0,
+  "favorite_count": 0,
+  "favorited": false,
+  "retweeted": false,
+  "lang": "en"
+}

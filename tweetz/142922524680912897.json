@@ -1,0 +1,116 @@
+{
+  "created_at": "Sat Dec 03 11:05:59 +0000 2011",
+  "id": 142922524680912897,
+  "id_str": "142922524680912897",
+  "text": "\"Sometimes it takes #sadness to know #happiness, noise to #appreciate #silence and absence to value #presence\" ~ Unknown #fact #sotrue",
+  "truncated": false,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "sadness",
+        "indices": [20, 28]
+      }, {
+        "text": "happiness",
+        "indices": [37, 47]
+      }, {
+        "text": "appreciate",
+        "indices": [58, 69]
+      }, {
+        "text": "silence",
+        "indices": [70, 78]
+      }, {
+        "text": "presence",
+        "indices": [100, 109]
+      }, {
+        "text": "fact",
+        "indices": [121, 126]
+      }, {
+        "text": "sotrue",
+        "indices": [127, 134]
+      }
+    ],
+    "symbols": [],
+    "user_mentions": [],
+    "urls": []
+  },
+  "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 186632667,
+    "id_str": "186632667",
+    "name": "StelliFerous",
+    "screen_name": "gullnatimabil",
+    "location": "ODTU / METU",
+    "description": "'I am not perfect but perfectly imperfect. Still cannot believe how I survived myself.'",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": []
+      }
+    },
+    "protected": false,
+    "followers_count": 3296,
+    "friends_count": 146,
+    "listed_count": 7,
+    "created_at": "Fri Sep 03 23:57:33 +0000 2010",
+    "favourites_count": 24642,
+    "utc_offset": 10800,
+    "time_zone": "Istanbul",
+    "geo_enabled": true,
+    "verified": false,
+    "statuses_count": 23537,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "is_translation_enabled": true,
+    "profile_background_color": "F5ABB5",
+    "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/647471353705181184/ldHTiPrB.png",
+    "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/647471353705181184/ldHTiPrB.png",
+    "profile_background_tile": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/917992151438553088/sM25JfjK_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/917992151438553088/sM25JfjK_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/186632667/1465152008",
+    "profile_link_color": "CC3366",
+    "profile_sidebar_border_color": "FFFFFF",
+    "profile_sidebar_fill_color": "DB779F",
+    "profile_text_color": "00010F",
+    "profile_use_background_image": true,
+    "has_extended_profile": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false,
+    "translator_type": "none"
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": {
+    "id": "682c5a667856ef42",
+    "url": "https://api.twitter.com/1.1/geo/id/682c5a667856ef42.json",
+    "place_type": "country",
+    "name": "Turqu\u00eda",
+    "full_name": "Turqu\u00eda",
+    "country_code": "TR",
+    "country": "Turqu\u00eda",
+    "contained_within": [],
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [[25.668509, 35.8084193], [44.817931, 35.8084193], [44.817931, 42.1047857], [25.668509, 42.1047857]]
+      ]
+    },
+    "attributes": {}
+  },
+  "contributors": null,
+  "is_quote_status": false,
+  "retweet_count": 0,
+  "favorite_count": 0,
+  "favorited": false,
+  "retweeted": false,
+  "lang": "en"
+}

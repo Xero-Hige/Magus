@@ -1,0 +1,112 @@
+{
+  "created_at": "Sat Nov 26 00:06:23 +0000 2011",
+  "id": 140219813724291073,
+  "id_str": "140219813724291073",
+  "text": "Could happily die but wouldn't die happy. #Sadness",
+  "truncated": false,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "Sadness",
+        "indices": [42, 50]
+      }
+    ],
+    "symbols": [],
+    "user_mentions": [],
+    "urls": []
+  },
+  "source": "<a href=\"http://blackberry.com/twitter\" rel=\"nofollow\">Twitter for BlackBerry\u00ae</a>",
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 369781488,
+    "id_str": "369781488",
+    "name": "sb",
+    "screen_name": "StaticBeatzUK",
+    "location": "Manchester, England",
+    "description": "Mancunian superstar of Germany\u2800\u2800\u2800 \u2800\u2800\u2800 \u2800\u2800\u2800 \u2800\u2800\u2800 || under construction... ||\u2800\u2800\u2800 \u2800\u2800\u2800\u2800 \u2800\u2800\u2800\u2800 \u2800\u2800\u2800 \u2800\u2800\u2800\u2800 \u2800\u2800\u2800 \u2800 \u2800\u2800 \u2800\u2800\u2800 \u2800\u2800\u2800\u2800 #PeoplesPhone: +49 1517 1409081 / WhatsApp",
+    "url": "https://t.co/30qh2R0Kuw",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "https://t.co/30qh2R0Kuw",
+            "expanded_url": "http://Instagram.com/staticbeatz",
+            "display_url": "Instagram.com/staticbeatz",
+            "indices": [0, 23]
+          }
+        ]
+      },
+      "description": {
+        "urls": []
+      }
+    },
+    "protected": false,
+    "followers_count": 1287,
+    "friends_count": 388,
+    "listed_count": 19,
+    "created_at": "Wed Sep 07 23:04:35 +0000 2011",
+    "favourites_count": 1456,
+    "utc_offset": 0,
+    "time_zone": "Lisbon",
+    "geo_enabled": true,
+    "verified": false,
+    "statuses_count": 25093,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "is_translation_enabled": false,
+    "profile_background_color": "0040FF",
+    "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/629887709004341248/nt_x-v_W.jpg",
+    "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/629887709004341248/nt_x-v_W.jpg",
+    "profile_background_tile": true,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/893504107620839425/2MxOqxMR_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/893504107620839425/2MxOqxMR_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/369781488/1511167141",
+    "profile_link_color": "7700FF",
+    "profile_sidebar_border_color": "FF0DE3",
+    "profile_sidebar_fill_color": "000000",
+    "profile_text_color": "FF0000",
+    "profile_use_background_image": true,
+    "has_extended_profile": false,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false,
+    "translator_type": "none"
+  },
+  "geo": {
+    "type": "Point",
+    "coordinates": [53.43328, -2.24393]
+  },
+  "coordinates": {
+    "type": "Point",
+    "coordinates": [-2.24393, 53.43328]
+  },
+  "place": {
+    "id": "6e2453d6a2f968cb",
+    "url": "https://api.twitter.com/1.1/geo/id/6e2453d6a2f968cb.json",
+    "place_type": "admin",
+    "name": "Manchester",
+    "full_name": "Manchester, England",
+    "country_code": "GB",
+    "country": "Reino Unido",
+    "contained_within": [],
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [[[-2.319934, 53.340121], [-2.147026, 53.340121], [-2.147026, 53.544603], [-2.319934, 53.544603]]]
+    },
+    "attributes": {}
+  },
+  "contributors": null,
+  "is_quote_status": false,
+  "retweet_count": 0,
+  "favorite_count": 0,
+  "favorited": false,
+  "retweeted": false,
+  "lang": "en"
+}

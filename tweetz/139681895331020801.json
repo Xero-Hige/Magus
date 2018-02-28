@@ -1,0 +1,108 @@
+{
+  "created_at": "Thu Nov 24 12:28:53 +0000 2011",
+  "id": 139681895331020801,
+  "id_str": "139681895331020801",
+  "text": "Just now my tasks over the past 2 years over and done. So the christmas spirit is back in town #joy",
+  "truncated": false,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "joy",
+        "indices": [95, 99]
+      }
+    ],
+    "symbols": [],
+    "user_mentions": [],
+    "urls": []
+  },
+  "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 15426018,
+    "id_str": "15426018",
+    "name": "Frank Vilhelmsen \u2620",
+    "screen_name": "frankvilhelmsen",
+    "location": "Frank Vilhelmsen",
+    "description": "Internet engineer - Clojure Hacker & DMARC advocate. Mentor and Commercial Photographer.",
+    "url": "http://t.co/QCU4NY2ow3",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://t.co/QCU4NY2ow3",
+            "expanded_url": "http://www.frankvilhelmsen.com",
+            "display_url": "frankvilhelmsen.com",
+            "indices": [0, 22]
+          }
+        ]
+      },
+      "description": {
+        "urls": []
+      }
+    },
+    "protected": false,
+    "followers_count": 466,
+    "friends_count": 217,
+    "listed_count": 81,
+    "created_at": "Mon Jul 14 12:56:13 +0000 2008",
+    "favourites_count": 1277,
+    "utc_offset": 3600,
+    "time_zone": "Copenhagen",
+    "geo_enabled": true,
+    "verified": false,
+    "statuses_count": 7930,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "is_translation_enabled": false,
+    "profile_background_color": "EBEBEB",
+    "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/6496297/fv_banner.png",
+    "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/6496297/fv_banner.png",
+    "profile_background_tile": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1098244172/2055368994_3efc5d5cae_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1098244172/2055368994_3efc5d5cae_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/15426018/1398234804",
+    "profile_link_color": "990000",
+    "profile_sidebar_border_color": "DDFFFF",
+    "profile_sidebar_fill_color": "FAFAFA",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "has_extended_profile": false,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false,
+    "translator_type": "none"
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": {
+    "id": "315be5b98a49ae29",
+    "url": "https://api.twitter.com/1.1/geo/id/315be5b98a49ae29.json",
+    "place_type": "city",
+    "name": "N\u00e6stved",
+    "full_name": "N\u00e6stved, Danmark",
+    "country_code": "DK",
+    "country": "Dinamarca",
+    "contained_within": [],
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [[11.4350729, 55.1149445], [12.047818, 55.1149445], [12.047818, 55.4087845], [11.4350729, 55.4087845]]
+      ]
+    },
+    "attributes": {}
+  },
+  "contributors": null,
+  "is_quote_status": false,
+  "retweet_count": 0,
+  "favorite_count": 0,
+  "favorited": false,
+  "retweeted": false,
+  "lang": "en"
+}

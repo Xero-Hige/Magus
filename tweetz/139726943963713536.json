@@ -1,0 +1,116 @@
+{
+  "created_at": "Thu Nov 24 15:27:54 +0000 2011",
+  "id": 139726943963713536,
+  "id_str": "139726943963713536",
+  "text": "@AurelienMSohet @ABlodola After tmrw you won't have the pleasure of my positive, bubbly, smiley presence! What are u going to do?? #sadness",
+  "truncated": false,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "sadness",
+        "indices": [131, 139]
+      }
+    ],
+    "symbols": [],
+    "user_mentions": [
+      {
+        "screen_name": "AurelienMSohet",
+        "name": "Aur\u00e9lienM",
+        "id": 376116251,
+        "id_str": "376116251",
+        "indices": [0, 15]
+      }
+    ],
+    "urls": []
+  },
+  "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": 376116251,
+  "in_reply_to_user_id_str": "376116251",
+  "in_reply_to_screen_name": "AurelienMSohet",
+  "user": {
+    "id": 121613094,
+    "id_str": "121613094",
+    "name": "M. Daniela",
+    "screen_name": "blstapicciridda",
+    "location": "Mentally in Italy",
+    "description": "Board Member, @lganimalrescue | 3rd Culture Kid | Wanderlust Satisfier | Bikram Yogini | Social Media Marketer | Former Paris Expat | Rescue Mom",
+    "url": "https://t.co/8gOIKNcXqX",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "https://t.co/8gOIKNcXqX",
+            "expanded_url": "http://about.me/mdraciti",
+            "display_url": "about.me/mdraciti",
+            "indices": [0, 23]
+          }
+        ]
+      },
+      "description": {
+        "urls": []
+      }
+    },
+    "protected": false,
+    "followers_count": 1241,
+    "friends_count": 1908,
+    "listed_count": 85,
+    "created_at": "Wed Mar 10 01:51:38 +0000 2010",
+    "favourites_count": 6212,
+    "utc_offset": -18000,
+    "time_zone": "Eastern Time (US & Canada)",
+    "geo_enabled": true,
+    "verified": false,
+    "statuses_count": 13311,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "is_translation_enabled": false,
+    "profile_background_color": "D7E7E6",
+    "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000177940179/QX3wHXEl.jpeg",
+    "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000177940179/QX3wHXEl.jpeg",
+    "profile_background_tile": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/428674959301300224/cXORSU1C_normal.jpeg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/428674959301300224/cXORSU1C_normal.jpeg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/121613094/1391032583",
+    "profile_link_color": "CF2D4E",
+    "profile_sidebar_border_color": "000000",
+    "profile_sidebar_fill_color": "C1D9D0",
+    "profile_text_color": "C28C77",
+    "profile_use_background_image": true,
+    "has_extended_profile": false,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false,
+    "translator_type": "none"
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": {
+    "id": "3102b24b5af90698",
+    "url": "https://api.twitter.com/1.1/geo/id/3102b24b5af90698.json",
+    "place_type": "admin",
+    "name": "Par\u00eds",
+    "full_name": "Par\u00eds, Isla de Francia",
+    "country_code": "FR",
+    "country": "Francia",
+    "contained_within": [],
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [[2.2241006, 48.8155214], [2.4699053, 48.8155214], [2.4699053, 48.9021461], [2.2241006, 48.9021461]]
+      ]
+    },
+    "attributes": {}
+  },
+  "contributors": null,
+  "is_quote_status": false,
+  "retweet_count": 0,
+  "favorite_count": 0,
+  "favorited": false,
+  "retweeted": false,
+  "lang": "en"
+}

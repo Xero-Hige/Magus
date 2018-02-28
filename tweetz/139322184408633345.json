@@ -1,0 +1,98 @@
+{
+  "created_at": "Wed Nov 23 12:39:31 +0000 2011",
+  "id": 139322184408633345,
+  "id_str": "139322184408633345",
+  "text": "finished early today. in 7 minutes to be exact! #joy",
+  "truncated": false,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "joy",
+        "indices": [48, 52]
+      }
+    ],
+    "symbols": [],
+    "user_mentions": [],
+    "urls": []
+  },
+  "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 47447022,
+    "id_str": "47447022",
+    "name": "kristiniqui",
+    "screen_name": "kristiniiqui",
+    "location": "\u2665 manchester united \u2665",
+    "description": "excuse my english, it's stuck in mexico. like my soul.",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": []
+      }
+    },
+    "protected": false,
+    "followers_count": 311,
+    "friends_count": 377,
+    "listed_count": 15,
+    "created_at": "Mon Jun 15 21:16:23 +0000 2009",
+    "favourites_count": 1118,
+    "utc_offset": -21600,
+    "time_zone": "Mexico City",
+    "geo_enabled": true,
+    "verified": false,
+    "statuses_count": 37718,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "is_translation_enabled": false,
+    "profile_background_color": "B5B9B1",
+    "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/740177574/9fa55e3e9c17ac493e10fc5eea99b713.jpeg",
+    "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/740177574/9fa55e3e9c17ac493e10fc5eea99b713.jpeg",
+    "profile_background_tile": true,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/2621928091/z4fnd7tb49yhtfpfhkwx_normal.jpeg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/2621928091/z4fnd7tb49yhtfpfhkwx_normal.jpeg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/47447022/1364714878",
+    "profile_link_color": "990000",
+    "profile_sidebar_border_color": "FFFFFF",
+    "profile_sidebar_fill_color": "F2F2F2",
+    "profile_text_color": "46454D",
+    "profile_use_background_image": true,
+    "has_extended_profile": false,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false,
+    "translator_type": "none"
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": {
+    "id": "e3e4cd2fba492b3a",
+    "url": "https://api.twitter.com/1.1/geo/id/e3e4cd2fba492b3a.json",
+    "place_type": "city",
+    "name": "Vads\u00f8",
+    "full_name": "Vads\u00f8, Norge",
+    "country_code": "NO",
+    "country": "Noruega",
+    "contained_within": [],
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [[28.986955, 69.9207152], [30.5518483, 69.9207152], [30.5518483, 70.4776058], [28.986955, 70.4776058]]
+      ]
+    },
+    "attributes": {}
+  },
+  "contributors": null,
+  "is_quote_status": false,
+  "retweet_count": 0,
+  "favorite_count": 0,
+  "favorited": false,
+  "retweeted": false,
+  "lang": "en"
+}

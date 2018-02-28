@@ -1,0 +1,101 @@
+{
+  "created_at": "Fri Dec 02 18:05:27 +0000 2011",
+  "id": 142665695681982464,
+  "id_str": "142665695681982464",
+  "text": "Its days like today that make wonder if I have a floating sign over my head that says \"Screw me over\". #NotHappy #Surprise",
+  "truncated": false,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "NotHappy",
+        "indices": [103, 112]
+      }, {
+        "text": "Surprise",
+        "indices": [113, 122]
+      }
+    ],
+    "symbols": [],
+    "user_mentions": [],
+    "urls": []
+  },
+  "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 185919125,
+    "id_str": "185919125",
+    "name": "Tyrannosaurus Bex",
+    "screen_name": "beckythetechie",
+    "location": "Exit 9, NJ",
+    "description": "Bari sax/lady vox for @BackyardSuper. Sassy caffeine-fueled firecracker, operations ninja, cat lady, cactus-grower, lover, sister, friend.",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": []
+      }
+    },
+    "protected": false,
+    "followers_count": 440,
+    "friends_count": 357,
+    "listed_count": 18,
+    "created_at": "Thu Sep 02 03:59:35 +0000 2010",
+    "favourites_count": 6142,
+    "utc_offset": -18000,
+    "time_zone": "Eastern Time (US & Canada)",
+    "geo_enabled": true,
+    "verified": false,
+    "statuses_count": 23303,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "is_translation_enabled": false,
+    "profile_background_color": "FFFFFF",
+    "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000069794329/4446b03e4641dcb8200f7a85b70c8222.jpeg",
+    "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000069794329/4446b03e4641dcb8200f7a85b70c8222.jpeg",
+    "profile_background_tile": true,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/951329747744718848/It2U349f_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/951329747744718848/It2U349f_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/185919125/1473912722",
+    "profile_link_color": "404040",
+    "profile_sidebar_border_color": "FFFFFF",
+    "profile_sidebar_fill_color": "000000",
+    "profile_text_color": "999999",
+    "profile_use_background_image": true,
+    "has_extended_profile": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false,
+    "translator_type": "none"
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": {
+    "id": "1bcca4fea94a9c6e",
+    "url": "https://api.twitter.com/1.1/geo/id/1bcca4fea94a9c6e.json",
+    "place_type": "city",
+    "name": "East Brunswick",
+    "full_name": "East Brunswick, NJ",
+    "country_code": "US",
+    "country": "Estados Unidos",
+    "contained_within": [],
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [[-74.497788, 40.371099], [-74.340874, 40.371099], [-74.340874, 40.487356], [-74.497788, 40.487356]]
+      ]
+    },
+    "attributes": {}
+  },
+  "contributors": null,
+  "is_quote_status": false,
+  "retweet_count": 0,
+  "favorite_count": 0,
+  "favorited": false,
+  "retweeted": false,
+  "lang": "en"
+}

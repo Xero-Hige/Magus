@@ -1,0 +1,114 @@
+{
+  "created_at": "Mon Nov 28 07:47:49 +0000 2011",
+  "id": 141060714394689537,
+  "id_str": "141060714394689537",
+  "text": "Watching the Vice Guide to Liberia at 3am was a bad idea #sadness",
+  "truncated": false,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "sadness",
+        "indices": [57, 65]
+      }
+    ],
+    "symbols": [],
+    "user_mentions": [],
+    "urls": []
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 40423786,
+    "id_str": "40423786",
+    "name": "Gabriel",
+    "screen_name": "asigabeitweet",
+    "location": "Brooklyn, NY",
+    "description": "General Enthusiast",
+    "url": "http://t.co/EzGBH5Xcda",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://t.co/EzGBH5Xcda",
+            "expanded_url": "http://iloveyouasaperson.com",
+            "display_url": "iloveyouasaperson.com",
+            "indices": [0, 22]
+          }
+        ]
+      },
+      "description": {
+        "urls": []
+      }
+    },
+    "protected": false,
+    "followers_count": 236,
+    "friends_count": 395,
+    "listed_count": 5,
+    "created_at": "Sat May 16 06:40:28 +0000 2009",
+    "favourites_count": 36,
+    "utc_offset": -21600,
+    "time_zone": "Central Time (US & Canada)",
+    "geo_enabled": true,
+    "verified": false,
+    "statuses_count": 5356,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "is_translation_enabled": false,
+    "profile_background_color": "D4C3A3",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+    "profile_background_tile": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1709226834/194413_10100555500918584_8354398_71469580_3523099_o_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1709226834/194413_10100555500918584_8354398_71469580_3523099_o_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/40423786/1388957569",
+    "profile_link_color": "2FC2EF",
+    "profile_sidebar_border_color": "181A1E",
+    "profile_sidebar_fill_color": "1A2117",
+    "profile_text_color": "B35335",
+    "profile_use_background_image": false,
+    "has_extended_profile": false,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false,
+    "translator_type": "none"
+  },
+  "geo": {
+    "type": "Point",
+    "coordinates": [40.7179616, -73.94993168]
+  },
+  "coordinates": {
+    "type": "Point",
+    "coordinates": [-73.94993168, 40.7179616]
+  },
+  "place": {
+    "id": "27485069891a7938",
+    "url": "https://api.twitter.com/1.1/geo/id/27485069891a7938.json",
+    "place_type": "admin",
+    "name": "New York",
+    "full_name": "New York, NY",
+    "country_code": "US",
+    "country": "Estados Unidos",
+    "contained_within": [],
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [[-74.255641, 40.495865], [-73.699793, 40.495865], [-73.699793, 40.91533], [-74.255641, 40.91533]]
+      ]
+    },
+    "attributes": {}
+  },
+  "contributors": null,
+  "is_quote_status": false,
+  "retweet_count": 0,
+  "favorite_count": 0,
+  "favorited": false,
+  "retweeted": false,
+  "lang": "en"
+}
