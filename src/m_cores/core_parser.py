@@ -29,7 +29,7 @@ class ParserCore(MagusCore):
 
             if tweet["tweet_lang"].lower() != 'es':
                 self._log("Not spanish: {}".format(tweet["tweet_lang"]))
-                with open("/tweets/{}.json".format(tweet["id"]), 'w') as _:
+                with open("/tweets/{}.json".format(tweet[TweetParser.TWEET_ID]), 'w') as _:
                     return
 
             tweet[TweetParser.TWEET_TEXT] = self.translator.translate(tweet[TweetParser.TWEET_TEXT])

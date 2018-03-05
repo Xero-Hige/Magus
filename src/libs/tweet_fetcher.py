@@ -41,7 +41,7 @@ class TweetsFetcher():
         elif not self.topics and location_string:
             self.tweet_stream = twitter_stream.statuses.filter(locations=location_string)
         elif self.langs:
-            self.tweet_stream = twitter_stream.statuses.filter(languages=self.langs, locations=WHOLE_WORLD_CORDINATES)
+            self.tweet_stream = twitter_stream.statuses.filter(languages=["es"], locations=WHOLE_AMERICA_COORDINATES)
         else:
             self.tweet_stream = twitter_stream.statuses.filter(locations=WHOLE_AMERICA_COORDINATES)
 
