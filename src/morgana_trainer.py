@@ -59,7 +59,7 @@ def main(_):
     partial_full_trainer = tf.train.AdamOptimizer(1e-3).minimize(cnn.partial_loss)
     ###
 
-    tf.initialize_all_variables().run()
+    tf.global_variables_initializer().run()
 
     ###
     ## Checkpoints saver
@@ -237,6 +237,10 @@ def do_test_step(batches, cnn, sess):
     partial = 0
 
     random.shuffle(batches)
+
+    confusion_matrix_global = [[0 for _ in range(5)] for _ in range(5)]
+    confusion_matrix_partial = [[0 for _ in range(5)] for _ in range(5)]
+
     for batch_number in range(len(batches)):
         with open(batches[batch_number], 'rb') as pickled:
             batch_data = pickle.load(pickled)
@@ -250,9 +254,14 @@ def do_test_step(batches, cnn, sess):
             cnn.dropout_keep_prob:            1
         }
 
-        accuracy, w_acc, c_acc, r_acc, partial_acc = sess.run(
-                [cnn.accuracy, cnn.word_accuracy, cnn.char_accuracy, cnn.rchar_accuracy, cnn.partial_accuracy],
+        accuracy, predictions, \
+        w_acc, c_acc, r_acc, \
+        partial_acc, partial_pred = sess.run(
+                [cnn.accuracy, cnn.predictions,
+                 cnn.word_accuracy, cnn.char_accuracy, cnn.rchar_accuracy,
+                 cnn.partial_accuracy, cnn.partial_predictions],
                 feed_dict)
+
         total_batches += 1
         total_accuracy += accuracy
         word += w_acc
@@ -260,10 +269,33 @@ def do_test_step(batches, cnn, sess):
         rchar += r_acc
         partial += partial_acc
 
+        for i in range(len(batch_data[3])):
+            correct_class = int(batch_data[3][i])
+            partial_predicted = int(partial_pred[i])
+            global_predicted = int(predictions[i])
+
+            confusion_matrix_global[global_predicted][correct_class] += 1
+            confusion_matrix_partial[partial_predicted][correct_class] += 1
+
     print('Test Step: \n\tTotal Acc:{}\n\tPart Acc:{}\n\tWord Acc:{}\n\tChar Acc:{}\n\tRcha Acc:{}'.format(
             total_accuracy / total_batches, partial / total_batches,
-            word / total_batches, char / total_batches, rchar / total_batches)
-    )
+            word / total_batches, char / total_batches, rchar / total_batches))
+
+    print("Fscore Global")
+    total_fscore = 0
+    for label in range(5):
+        f_score = get_f_score_for_label(label, confusion_matrix_global)
+        print("Label: {} - Fscore {}".format(label, f_score))
+        total_fscore += f_score
+    print("Mean Fscore {}".format(total_fscore / 5))
+
+    print("Fscore Partial")
+    total_fscore = 0
+    for label in range(5):
+        f_score = get_f_score_for_label(label, confusion_matrix_partial)
+        print("Label: {} - Fscore {}".format(label, f_score))
+        total_fscore += f_score
+    print("Mean Fscore {}".format(total_fscore / 5))
 
     with open("test_steps.csv", "a") as log:
         log.write("{},{},{},{},{}\n".format(total_accuracy / total_batches,
@@ -271,6 +303,25 @@ def do_test_step(batches, cnn, sess):
                                             word / total_batches,
                                             char / total_batches,
                                             rchar / total_batches))
+
+
+def get_f_score_for_label(label, matrix):
+    true_positives = 0
+    false_positives = 0
+    false_negatives = 0
+    for row_num, row in enumerate(matrix):
+        if row_num == label:
+            for column_num, column in enumerate(row):
+                if column_num == label:
+                    true_positives += column
+                else:
+                    false_positives += column
+            continue
+        false_negatives += row[label]
+    precision = true_positives / (true_positives + false_positives)
+    recall = true_positives / (true_positives + false_negatives)
+    f_score = 2 * ((precision * recall) / (precision + recall))
+    return f_score
 
 
 if __name__ == '__main__':
