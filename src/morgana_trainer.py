@@ -154,21 +154,6 @@ def store_servable_model(model_name, session, model, model_version):
     classification_outputs_classes = utils.build_tensor_info(model.predictions)
     classification_outputs_scores = utils.build_tensor_info(model.scores)
 
-    # classification_outputs_classes = utils.build_tensor_info(model.input_y)
-    # classification_outputs_scores = utils.build_tensor_info(model.scores)
-    # classification_signature = signature_def_utils.build_signature_def(
-    #         inputs={"words": classification_inputs_words,
-    #                 "chars": classification_inputs_chars,
-    #                 "rchar": classification_inputs_rchar,
-    #                 "loss":  classification_inputs_keep_prob},
-    #         outputs={
-    #             signature_constants.CLASSIFY_OUTPUT_CLASSES:
-    #                 classification_outputs_classes,
-    #             signature_constants.CLASSIFY_OUTPUT_SCORES:
-    #                 classification_outputs_scores
-    #         },
-    #         method_name=signature_constants.CLASSIFY_METHOD_NAME)
-
     # Creates a signature
     prediction_signature = signature_def_utils.build_signature_def(
             inputs={"words": classification_inputs_words,

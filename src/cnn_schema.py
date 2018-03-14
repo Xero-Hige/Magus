@@ -30,24 +30,9 @@ class CNNSchema(object):
                             bias=0.1,
                             prediction_f=lambda x: tf.argmax(x, 1),
                             prefix="OUT"):
-        # Final (unnormalized) scores and predictions
-        # with tf.name_scope("output-layer"):
-        # W = tf.get_variable(
-        #        name="W_out",
-        #        shape=[input_size, num_classes],
-        #        initializer=tf.contrib.layers.xavier_initializer())
-
-        # b = tf.Variable(tf.constant(bias, shape=[num_classes]), name="b_out")
-
-        # l2_loss += tf.nn.l2_loss(W)
-        # l2_loss += tf.nn.l2_loss(b)
-
-        # scores = tf.nn.xw_plus_b(input_layer, W, b, name="scores")
 
         scores = CNNSchema.create_dense_layer(input_layer, input_size, output_size=num_classes, name="output",
                                               prefix=prefix)
-        #    tf.layers.dense(inputs=input_layer, units=num_classes)
-
         predictions = prediction_f(scores)
 
         return scores, predictions
@@ -66,14 +51,6 @@ class CNNSchema(object):
         b = tf.Variable(tf.constant(bias, shape=[output_size]), name="b_dense_" + name)
 
         dense_layer = tf.nn.xw_plus_b(input_layer, W, b)
-
-        # dense_layer = tf.layers.dense(inputs=input_layer,
-        #                                  units=output_size,
-        #                                  activation=tf.nn.tanh,
-        #                                  use_bias=True,
-        #                                  kernel_initializer=tf.contrib.layers.xavier_initializer(),
-        #                                  trainable=True,
-        #                                  name="{}/dense_{}".format(prefix,name))
 
         return dense_layer  # , l2_loss
 
