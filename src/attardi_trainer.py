@@ -50,7 +50,8 @@ print("")
 
 # Load data
 print("Loading data...")
-x_text, y = AttardiCNNSchema.get_input_data()  # load_data_and_labels(FLAGS.positive_data_file, FLAGS.negative_data_file)
+x_text, y = AttardiCNNSchema.get_input_data()  # load_data_and_labels(FLAGS.positive_data_file,
+# FLAGS.negative_data_file)
 
 # Build vocabulary
 max_document_length = EMBEDINGS_SIZE  # max([len(x.split(" ")) for x in x_text])

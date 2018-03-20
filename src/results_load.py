@@ -66,4 +66,3 @@ for folder, _, filenames in os.walk("results"):
 
             output.write("{} ".format(word) * words[word])
             output.write("\n")
-

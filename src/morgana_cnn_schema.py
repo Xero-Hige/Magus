@@ -7,8 +7,9 @@ from cnn_schema import CNNSchema
 from libs.db_tweet import DB_Handler
 from libs.embedding_mapper import EmbeddingMapper
 from libs.tweet_parser import TweetParser
-from morgana_config_handler import EMBEDDINGS_FILES, EMBEDDING_SIZES, ENABLED_EMOTIONS, FILTER_SIZES, \
-    HIDDEN_LAYERS_SIZE, MAX_FEATURES, NUMBER_OF_EMOTIONS, NUMBER_OF_FILTERS, TWEETS_DIRS
+from morgana_config_handler import (EMBEDDINGS_FILES, EMBEDDING_SIZES, ENABLED_EMOTIONS, FILTER_SIZES,
+                                    HIDDEN_LAYERS_SIZE, MAX_FEATURES, NUMBER_OF_EMOTIONS, NUMBER_OF_FILTERS,
+                                    TWEETS_DIRS)
 from tokenizer.char_tokenizer import CharTokenizer
 from tokenizer.raw_char_tokenizer import RawCharTokenizer
 from tokenizer.word_tokenizer import WordTokenizer

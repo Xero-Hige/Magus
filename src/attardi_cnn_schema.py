@@ -11,15 +11,15 @@ from tokenizer.word_tokenizer import WordTokenizer
 MAX_WORDS = 120
 
 EMOTION_LOOKUP = {
-    JOY:          0,
-    TRUST:        1,
-    FEAR:         2,
-    SURPRISE:     3,
-    SADNESS:      4,
-    DISGUST:      5,
-    ANGER:        6,
+    JOY: 0,
+    TRUST: 1,
+    FEAR: 2,
+    SURPRISE: 3,
+    SADNESS: 4,
+    DISGUST: 5,
+    ANGER: 6,
     ANTICIPATION: 7,
-    NEUTRAL:      8
+    NEUTRAL: 8
 }
 
 

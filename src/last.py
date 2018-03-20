@@ -14,13 +14,13 @@ MAX_WORDS = 120
 MAX_CHARS = 320
 
 EMOTION_LOOKUP = {
-    JOY:     0,
+    JOY: 0,
     # TRUST:        1,
-    FEAR:    1,
+    FEAR: 1,
     # SURPRISE:     3,
     SADNESS: 2,
     # DISGUST:      5,
-    ANGER:   3,
+    ANGER: 3,
     # ANTICIPATION: 7,
     NEUTRAL: 4
 }
