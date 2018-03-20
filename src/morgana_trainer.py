@@ -7,8 +7,8 @@ import random
 import sys
 
 import tensorflow as tf
-from tensorflow.python.saved_model import builder as saved_model_builder, signature_constants, signature_def_utils, \
-    tag_constants, utils
+from tensorflow.python.saved_model import (builder as saved_model_builder, signature_constants, signature_def_utils,
+                                           tag_constants, utils)
 from tensorflow.python.util import compat
 
 from morgana_cnn_schema import MorganaCNNSchema
@@ -35,27 +35,27 @@ def main(_):
     ###
     # Trainers
     ###
-    ## Global trainer (trains only global stream variables)
+    # Global trainer (trains only global stream variables)
     train_vars = tf.get_collection(tf.GraphKeys.TRAINABLE_VARIABLES, "global")
     global_trainer = tf.train.AdamOptimizer(1e-3).minimize(cnn.loss, var_list=train_vars)
 
-    ## Partial trainer (trains only partial stream variables)
+    # Partial trainer (trains only partial stream variables)
     train_vars = tf.get_collection(tf.GraphKeys.TRAINABLE_VARIABLES, "partial")
     partial_trainer = tf.train.AdamOptimizer(1e-3).minimize(cnn.partial_loss, var_list=train_vars)
 
-    ## Words trainer (trains only words stream variables)
+    # Words trainer (trains only words stream variables)
     train_vars = tf.get_collection(tf.GraphKeys.TRAINABLE_VARIABLES, "words_stream")
     word_trainer = tf.train.AdamOptimizer(1e-3).minimize(cnn.word_loss, var_list=train_vars)
 
-    ## Chars trainer (trains only chars stream variables)
+    # Chars trainer (trains only chars stream variables)
     train_vars = tf.get_collection(tf.GraphKeys.TRAINABLE_VARIABLES, "chars_stream")
     char_trainer = tf.train.AdamOptimizer(1e-3).minimize(cnn.char_loss, var_list=train_vars)
 
-    ## Raw Chars trainer (trains only rchar stream variables)
+    # Raw Chars trainer (trains only rchar stream variables)
     train_vars = tf.get_collection(tf.GraphKeys.TRAINABLE_VARIABLES, "rchar_stream")
     rchar_trainer = tf.train.AdamOptimizer(1e-3).minimize(cnn.rchar_loss, var_list=train_vars)
 
-    ## Full trainers (trains variables from every connected stream)
+    # Full trainers (trains variables from every connected stream)
     global_full_trainer = tf.train.AdamOptimizer(1e-3).minimize(cnn.loss)
     partial_full_trainer = tf.train.AdamOptimizer(1e-3).minimize(cnn.partial_loss)
     ###
@@ -63,7 +63,7 @@ def main(_):
     tf.global_variables_initializer().run()
 
     ###
-    ## Checkpoints saver
+    # Checkpoints saver
     ###
     checkpoint_saver = tf.train.Saver()
 
@@ -160,7 +160,7 @@ def store_servable_model(model_name, session, model, model_version):
             inputs={"words": classification_inputs_words,
                     "chars": classification_inputs_chars,
                     "rchar": classification_inputs_rchar,
-                    "loss":  classification_inputs_keep_prob},
+                    "loss": classification_inputs_keep_prob},
             outputs={'scores': classification_outputs_scores, 'predictions': classification_outputs_classes},
             method_name=signature_constants.PREDICT_METHOD_NAME)
     legacy_init_op = tf.group(tf.tables_initializer(), name='legacy_init_op')
@@ -205,11 +205,11 @@ def do_train_step(batches, cnn, it, output_folder, saver, sess, trainer, trainin
 
         # Runs the trainer and gets the asociated loss and accuracy values
         _, loss, accuracy = sess.run([trainer, training_loss, training_accuracy], feed_dict={
-            cnn.words_features: batch_data    [0],
-            cnn.chars_features: batch_data    [1],
+            cnn.words_features: batch_data[0],
+            cnn.chars_features: batch_data[1],
             cnn.raw_chars_features: batch_data[2],
-            cnn.input_y: batch_data           [3],
-            cnn.dropout_keep_prob:            .5  # drop
+            cnn.input_y: batch_data[3],
+            cnn.dropout_keep_prob: .5  # drop
         })
 
         total_batches += 1
@@ -254,11 +254,11 @@ def do_test_step(batches, cnn, sess):
 
         print("Test batch: {}/{}".format(batch_number, len(batches)))
         feed_dict = {
-            cnn.words_features: batch_data    [0],
-            cnn.chars_features: batch_data    [1],
+            cnn.words_features: batch_data[0],
+            cnn.chars_features: batch_data[1],
             cnn.raw_chars_features: batch_data[2],
-            cnn.input_y: batch_data           [3],
-            cnn.dropout_keep_prob:            1
+            cnn.input_y: batch_data[3],
+            cnn.dropout_keep_prob: 1
         }
 
         accuracy, predictions, \
