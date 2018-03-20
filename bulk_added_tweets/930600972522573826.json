@@ -1,1 +1,128 @@
-{"geo": null, "filter_level": "low", "in_reply_to_status_id": null, "lang": "es", "favorite_count": 0, "coordinates": null, "favorited": false, "place": {"name": "Puente Alto", "full_name": "Puente Alto, Chile", "place_type": "city", "country": "Chile", "id": "009bffed2486be17", "bounding_box": {"type": "Polygon", "coordinates": [[[-70.631948, -33.644147], [-70.631948, -33.542929], [-70.486735, -33.542929], [-70.486735, -33.644147]]]}, "attributes": {}, "url": "https://api.twitter.com/1.1/geo/id/009bffed2486be17.json", "country_code": "CL"}, "contributors": null, "entities": {"hashtags": [], "urls": [{"display_url": "twitter.com/i/web/status/9\u2026", "expanded_url": "https://twitter.com/i/web/status/930600972522573826", "url": "https://t.co/cz7qbv0OOM", "indices": [117, 140]}], "symbols": [], "user_mentions": [{"id": 4119914644, "id_str": "4119914644", "name": "Michelle Bachelet", "indices": [0, 10], "screen_name": "mbachelet"}]}, "id": 930600972522573826, "user": {"followers_count": 514, "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000170584691/20cRwhpd.jpeg", "profile_background_color": "19D12F", "translator_type": "none", "profile_image_url": "http://pbs.twimg.com/profile_images/922814508506238976/BlNZt6iV_normal.jpg", "profile_banner_url": "https://pbs.twimg.com/profile_banners/981895478/1510621595", "default_profile": false, "utc_offset": null, "lang": "es", "url": null, "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000170584691/20cRwhpd.jpeg", "profile_image_url_https": "https://pbs.twimg.com/profile_images/922814508506238976/BlNZt6iV_normal.jpg", "time_zone": null, "profile_sidebar_border_color": "FFFFFF", "profile_use_background_image": true, "id": 981895478, "profile_link_color": "3C2FEB", "profile_sidebar_fill_color": "EFEFEF", "profile_background_tile": false, "geo_enabled": true, "id_str": "981895478", "verified": false, "name": "V\u00edctor Fa\u00fandez \ud83c\udde8\ud83c\uddf1", "is_translator": false, "notifications": null, "following": null, "friends_count": 2650, "contributors_enabled": false, "screen_name": "vfaundez1979", "created_at": "Sat Dec 01 05:33:44 +0000 2012", "profile_text_color": "333333", "favourites_count": 4650, "follow_request_sent": null, "description": "casado , so\u00f1ador , pasiente , simpaticon ... taurino ... #(catlover)# ... Traiguenino  de corazon  /= info. de vez en cuando.", "default_profile_image": false, "location": "Santiago, Chile", "listed_count": 1, "protected": false, "statuses_count": 5852}, "id_str": "930600972522573826", "retweet_count": 0, "retweeted": false, "quote_count": 0, "truncated": true, "in_reply_to_status_id_str": null, "reply_count": 0, "created_at": "Wed Nov 15 00:58:56 +0000 2017", "is_quote_status": false, "in_reply_to_user_id": 4119914644, "timestamp_ms": "1510707536236", "text": "@mbachelet estimada presidenta qu\u00e9 pas\u00f3 con esta ni\u00f1a con dificultad neurol\u00f3gica que sali\u00f3 vocal de mesa y debe pag\u2026 https://t.co/cz7qbv0OOM", "extended_tweet": {"full_text": "@mbachelet estimada presidenta qu\u00e9 pas\u00f3 con esta ni\u00f1a con dificultad neurol\u00f3gica que sali\u00f3 vocal de mesa y debe pagar 230 mil pesos , es absurdo . reportaje de @CHVNoticiascl", "display_text_range": [0, 174], "entities": {"hashtags": [], "urls": [], "symbols": [], "user_mentions": [{"id": 4119914644, "id_str": "4119914644", "name": "Michelle Bachelet", "indices": [0, 10], "screen_name": "mbachelet"}, {"id": 2461798062, "id_str": "2461798062", "name": "Chilevisi\u00f3n Noticias", "indices": [160, 174], "screen_name": "CHVNoticiascl"}]}}, "in_reply_to_user_id_str": "4119914644", "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>", "in_reply_to_screen_name": "mbachelet"}
+{
+  "geo": null,
+  "filter_level": "low",
+  "in_reply_to_status_id": null,
+  "lang": "es",
+  "favorite_count": 0,
+  "coordinates": null,
+  "favorited": false,
+  "place": {
+    "name": "Puente Alto",
+    "full_name": "Puente Alto, Chile",
+    "place_type": "city",
+    "country": "Chile",
+    "id": "009bffed2486be17",
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [[-70.631948, -33.644147], [-70.631948, -33.542929], [-70.486735, -33.542929], [-70.486735, -33.644147]]
+      ]
+    },
+    "attributes": {},
+    "url": "https://api.twitter.com/1.1/geo/id/009bffed2486be17.json",
+    "country_code": "CL"
+  },
+  "contributors": null,
+  "entities": {
+    "hashtags": [],
+    "urls": [
+      {
+        "display_url": "twitter.com/i/web/status/9\u2026",
+        "expanded_url": "https://twitter.com/i/web/status/930600972522573826",
+        "url": "https://t.co/cz7qbv0OOM",
+        "indices": [117, 140]
+      }
+    ],
+    "symbols": [],
+    "user_mentions": [
+      {
+        "id": 4119914644,
+        "id_str": "4119914644",
+        "name": "Michelle Bachelet",
+        "indices": [0, 10],
+        "screen_name": "mbachelet"
+      }
+    ]
+  },
+  "id": 930600972522573826,
+  "user": {
+    "followers_count": 514,
+    "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000170584691/20cRwhpd.jpeg",
+    "profile_background_color": "19D12F",
+    "translator_type": "none",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/922814508506238976/BlNZt6iV_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/981895478/1510621595",
+    "default_profile": false,
+    "utc_offset": null,
+    "lang": "es",
+    "url": null,
+    "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000170584691/20cRwhpd.jpeg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/922814508506238976/BlNZt6iV_normal.jpg",
+    "time_zone": null,
+    "profile_sidebar_border_color": "FFFFFF",
+    "profile_use_background_image": true,
+    "id": 981895478,
+    "profile_link_color": "3C2FEB",
+    "profile_sidebar_fill_color": "EFEFEF",
+    "profile_background_tile": false,
+    "geo_enabled": true,
+    "id_str": "981895478",
+    "verified": false,
+    "name": "V\u00edctor Fa\u00fandez \ud83c\udde8\ud83c\uddf1",
+    "is_translator": false,
+    "notifications": null,
+    "following": null,
+    "friends_count": 2650,
+    "contributors_enabled": false,
+    "screen_name": "vfaundez1979",
+    "created_at": "Sat Dec 01 05:33:44 +0000 2012",
+    "profile_text_color": "333333",
+    "favourites_count": 4650,
+    "follow_request_sent": null,
+    "description": "casado , so\u00f1ador , pasiente , simpaticon ... taurino ... #(catlover)# ... Traiguenino  de corazon  /= info. de vez en cuando.",
+    "default_profile_image": false,
+    "location": "Santiago, Chile",
+    "listed_count": 1,
+    "protected": false,
+    "statuses_count": 5852
+  },
+  "id_str": "930600972522573826",
+  "retweet_count": 0,
+  "retweeted": false,
+  "quote_count": 0,
+  "truncated": true,
+  "in_reply_to_status_id_str": null,
+  "reply_count": 0,
+  "created_at": "Wed Nov 15 00:58:56 +0000 2017",
+  "is_quote_status": false,
+  "in_reply_to_user_id": 4119914644,
+  "timestamp_ms": "1510707536236",
+  "text": "@mbachelet estimada presidenta qu\u00e9 pas\u00f3 con esta ni\u00f1a con dificultad neurol\u00f3gica que sali\u00f3 vocal de mesa y debe pag\u2026 https://t.co/cz7qbv0OOM",
+  "extended_tweet": {
+    "full_text": "@mbachelet estimada presidenta qu\u00e9 pas\u00f3 con esta ni\u00f1a con dificultad neurol\u00f3gica que sali\u00f3 vocal de mesa y debe pagar 230 mil pesos , es absurdo . reportaje de @CHVNoticiascl",
+    "display_text_range": [0, 174],
+    "entities": {
+      "hashtags": [],
+      "urls": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "id": 4119914644,
+          "id_str": "4119914644",
+          "name": "Michelle Bachelet",
+          "indices": [0, 10],
+          "screen_name": "mbachelet"
+        }, {
+          "id": 2461798062,
+          "id_str": "2461798062",
+          "name": "Chilevisi\u00f3n Noticias",
+          "indices": [160, 174],
+          "screen_name": "CHVNoticiascl"
+        }
+      ]
+    }
+  },
+  "in_reply_to_user_id_str": "4119914644",
+  "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+  "in_reply_to_screen_name": "mbachelet"
+}

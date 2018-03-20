@@ -1,1 +1,120 @@
-{"reply_count": 0, "user": {"notifications": null, "following": null, "profile_background_color": "000000", "url": null, "utc_offset": -14400, "follow_request_sent": null, "translator_type": "none", "profile_text_color": "000000", "id_str": "144605690", "favourites_count": 348, "friends_count": 1302, "followers_count": 1034, "id": 144605690, "geo_enabled": true, "profile_sidebar_border_color": "000000", "profile_image_url_https": "https://pbs.twimg.com/profile_images/3562935597/956a089b04d0001b7d2b719d28f92f4e_normal.png", "statuses_count": 8841, "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif", "protected": false, "listed_count": 6, "screen_name": "libertadj2012", "profile_sidebar_fill_color": "000000", "location": "Cuman\u00e1-Venezuela", "created_at": "Sun May 16 20:04:14 +0000 2010", "default_profile": false, "time_zone": "Caracas", "verified": false, "contributors_enabled": false, "profile_image_url": "http://pbs.twimg.com/profile_images/3562935597/956a089b04d0001b7d2b719d28f92f4e_normal.png", "lang": "es", "name": "libertad", "profile_link_color": "3B94D9", "is_translator": false, "description": "Tendencia pol\u00edtica: izquierda / Creyente de Dios   Respetar\u00e9 tu opini\u00f3n pero  no la manipulaci\u00f3n", "profile_use_background_image": false, "default_profile_image": false, "profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif", "profile_background_tile": false}, "contributors": null, "id_str": "930598321907011585", "in_reply_to_screen_name": "sundde_ve", "in_reply_to_user_id_str": "130563392", "in_reply_to_status_id": 930456037399908352, "in_reply_to_status_id_str": "930456037399908352", "display_text_range": [11, 140], "in_reply_to_user_id": 130563392, "id": 930598321907011585, "favorite_count": 0, "entities": {"user_mentions": [{"id": 130563392, "indices": [0, 10], "screen_name": "sundde_ve", "id_str": "130563392", "name": "Sundde"}], "hashtags": [], "symbols": [], "urls": [{"expanded_url": "https://twitter.com/i/web/status/930598321907011585", "url": "https://t.co/qmzNJFAPs5", "display_url": "twitter.com/i/web/status/9\u2026", "indices": [116, 139]}]}, "created_at": "Wed Nov 15 00:48:24 +0000 2017", "extended_tweet": {"entities": {"user_mentions": [{"id": 130563392, "indices": [0, 10], "screen_name": "sundde_ve", "id_str": "130563392", "name": "Sundde"}], "hashtags": [], "symbols": [], "urls": []}, "display_text_range": [11, 224], "full_text": "@sundde_ve En makro parte de los productos q llegan se van entre los due\u00f1os de bodegas y los propios trabajadores. Mientras haya esta situaci\u00f3n no deber\u00edan vender bultos sino una cantidad determinada de productos por persona"}, "favorited": false, "timestamp_ms": "1510706904280", "quote_count": 0, "place": {"country_code": "VE", "bounding_box": {"coordinates": [[[-73.354073, 0.648837], [-73.354073, 12.196802], [-59.80378, 12.196802], [-59.80378, 0.648837]]], "type": "Polygon"}, "attributes": {}, "url": "https://api.twitter.com/1.1/geo/id/043383f8b2b79918.json", "name": "Venezuela", "id": "043383f8b2b79918", "place_type": "country", "country": "Venezuela", "full_name": "Venezuela"}, "text": "@sundde_ve En makro parte de los productos q llegan se van entre los due\u00f1os de bodegas y los propios trabajadores.\u2026 https://t.co/qmzNJFAPs5", "geo": null, "retweeted": false, "retweet_count": 0, "filter_level": "low", "lang": "es", "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>", "is_quote_status": false, "coordinates": null, "truncated": true}
+{
+  "reply_count": 0,
+  "user": {
+    "notifications": null,
+    "following": null,
+    "profile_background_color": "000000",
+    "url": null,
+    "utc_offset": -14400,
+    "follow_request_sent": null,
+    "translator_type": "none",
+    "profile_text_color": "000000",
+    "id_str": "144605690",
+    "favourites_count": 348,
+    "friends_count": 1302,
+    "followers_count": 1034,
+    "id": 144605690,
+    "geo_enabled": true,
+    "profile_sidebar_border_color": "000000",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/3562935597/956a089b04d0001b7d2b719d28f92f4e_normal.png",
+    "statuses_count": 8841,
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+    "protected": false,
+    "listed_count": 6,
+    "screen_name": "libertadj2012",
+    "profile_sidebar_fill_color": "000000",
+    "location": "Cuman\u00e1-Venezuela",
+    "created_at": "Sun May 16 20:04:14 +0000 2010",
+    "default_profile": false,
+    "time_zone": "Caracas",
+    "verified": false,
+    "contributors_enabled": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/3562935597/956a089b04d0001b7d2b719d28f92f4e_normal.png",
+    "lang": "es",
+    "name": "libertad",
+    "profile_link_color": "3B94D9",
+    "is_translator": false,
+    "description": "Tendencia pol\u00edtica: izquierda / Creyente de Dios   Respetar\u00e9 tu opini\u00f3n pero  no la manipulaci\u00f3n",
+    "profile_use_background_image": false,
+    "default_profile_image": false,
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+    "profile_background_tile": false
+  },
+  "contributors": null,
+  "id_str": "930598321907011585",
+  "in_reply_to_screen_name": "sundde_ve",
+  "in_reply_to_user_id_str": "130563392",
+  "in_reply_to_status_id": 930456037399908352,
+  "in_reply_to_status_id_str": "930456037399908352",
+  "display_text_range": [11, 140],
+  "in_reply_to_user_id": 130563392,
+  "id": 930598321907011585,
+  "favorite_count": 0,
+  "entities": {
+    "user_mentions": [
+      {
+        "id": 130563392,
+        "indices": [0, 10],
+        "screen_name": "sundde_ve",
+        "id_str": "130563392",
+        "name": "Sundde"
+      }
+    ],
+    "hashtags": [],
+    "symbols": [],
+    "urls": [
+      {
+        "expanded_url": "https://twitter.com/i/web/status/930598321907011585",
+        "url": "https://t.co/qmzNJFAPs5",
+        "display_url": "twitter.com/i/web/status/9\u2026",
+        "indices": [116, 139]
+      }
+    ]
+  },
+  "created_at": "Wed Nov 15 00:48:24 +0000 2017",
+  "extended_tweet": {
+    "entities": {
+      "user_mentions": [
+        {
+          "id": 130563392,
+          "indices": [0, 10],
+          "screen_name": "sundde_ve",
+          "id_str": "130563392",
+          "name": "Sundde"
+        }
+      ],
+      "hashtags": [],
+      "symbols": [],
+      "urls": []
+    },
+    "display_text_range": [11, 224],
+    "full_text": "@sundde_ve En makro parte de los productos q llegan se van entre los due\u00f1os de bodegas y los propios trabajadores. Mientras haya esta situaci\u00f3n no deber\u00edan vender bultos sino una cantidad determinada de productos por persona"
+  },
+  "favorited": false,
+  "timestamp_ms": "1510706904280",
+  "quote_count": 0,
+  "place": {
+    "country_code": "VE",
+    "bounding_box": {
+      "coordinates": [[[-73.354073, 0.648837], [-73.354073, 12.196802], [-59.80378, 12.196802], [-59.80378, 0.648837]]],
+      "type": "Polygon"
+    },
+    "attributes": {},
+    "url": "https://api.twitter.com/1.1/geo/id/043383f8b2b79918.json",
+    "name": "Venezuela",
+    "id": "043383f8b2b79918",
+    "place_type": "country",
+    "country": "Venezuela",
+    "full_name": "Venezuela"
+  },
+  "text": "@sundde_ve En makro parte de los productos q llegan se van entre los due\u00f1os de bodegas y los propios trabajadores.\u2026 https://t.co/qmzNJFAPs5",
+  "geo": null,
+  "retweeted": false,
+  "retweet_count": 0,
+  "filter_level": "low",
+  "lang": "es",
+  "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+  "is_quote_status": false,
+  "coordinates": null,
+  "truncated": true
+}

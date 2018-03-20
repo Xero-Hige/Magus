@@ -1,1 +1,111 @@
-{"extended_tweet": {"display_text_range": [0, 209], "entities": {"urls": [], "symbols": [], "hashtags": [{"text": "BuenasTardes", "indices": [195, 208]}], "user_mentions": []}, "full_text": "A veces hay que correr para ganar y otras hay que esperar, pero el fin \u00faltimo es ganar, ya que de cualquier manera,en nuestra existencia no hay ni una part\u00edcula que explique la actitud perdedora #BuenasTardes."}, "favorited": false, "lang": "es", "favorite_count": 0, "reply_count": 0, "geo": null, "contributors": null, "text": "A veces hay que correr para ganar y otras hay que esperar, pero el fin \u00faltimo es ganar, ya que de cualquier manera,\u2026 https://t.co/6hwnjjJV53", "created_at": "Wed Nov 15 15:38:29 +0000 2017", "place": {"place_type": "city", "full_name": "\u00d1u\u00f1oa, Chile", "country": "Chile", "name": "\u00d1u\u00f1oa", "url": "https://api.twitter.com/1.1/geo/id/019f2f4e187ace41.json", "country_code": "CL", "bounding_box": {"type": "Polygon", "coordinates": [[[-70.63278, -33.474911], [-70.63278, -33.433917], [-70.572535, -33.433917], [-70.572535, -33.474911]]]}, "id": "019f2f4e187ace41", "attributes": {}}, "user": {"profile_text_color": "333333", "lang": "es", "location": "VENEZUELA ESTADO ZULIA", "friends_count": 208, "profile_link_color": "009999", "profile_image_url_https": "https://pbs.twimg.com/profile_images/923727368698712065/CaX-IbBn_normal.jpg", "contributors_enabled": false, "following": null, "is_translator": false, "verified": false, "profile_banner_url": "https://pbs.twimg.com/profile_banners/360083043/1366922182", "utc_offset": -14400, "geo_enabled": true, "profile_sidebar_border_color": "EEEEEE", "created_at": "Mon Aug 22 17:17:24 +0000 2011", "description": "Ing. En Construcci\u00f3n CIVIL", "profile_image_url": "http://pbs.twimg.com/profile_images/923727368698712065/CaX-IbBn_normal.jpg", "profile_background_color": "131516", "listed_count": 3, "follow_request_sent": null, "profile_background_tile": true, "followers_count": 33, "name": "Yorbi Rivas", "notifications": null, "default_profile_image": false, "url": null, "favourites_count": 11, "screen_name": "YorbiRivasJC", "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif", "profile_sidebar_fill_color": "EFEFEF", "profile_use_background_image": true, "translator_type": "none", "time_zone": "Caracas", "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif", "statuses_count": 42, "id": 360083043, "default_profile": false, "protected": false, "id_str": "360083043"}, "in_reply_to_user_id_str": null, "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>", "filter_level": "low", "is_quote_status": false, "in_reply_to_status_id": null, "in_reply_to_user_id": null, "quote_count": 0, "retweeted": false, "in_reply_to_screen_name": null, "retweet_count": 0, "in_reply_to_status_id_str": null, "coordinates": null, "id": 930822321576738817, "truncated": true, "entities": {"urls": [{"url": "https://t.co/6hwnjjJV53", "display_url": "twitter.com/i/web/status/9\u2026", "indices": [117, 140], "expanded_url": "https://twitter.com/i/web/status/930822321576738817"}], "symbols": [], "hashtags": [], "user_mentions": []}, "timestamp_ms": "1510760309963", "id_str": "930822321576738817"}
+{
+  "extended_tweet": {
+    "display_text_range": [0, 209],
+    "entities": {
+      "urls": [],
+      "symbols": [],
+      "hashtags": [
+        {
+          "text": "BuenasTardes",
+          "indices": [195, 208]
+        }
+      ],
+      "user_mentions": []
+    },
+    "full_text": "A veces hay que correr para ganar y otras hay que esperar, pero el fin \u00faltimo es ganar, ya que de cualquier manera,en nuestra existencia no hay ni una part\u00edcula que explique la actitud perdedora #BuenasTardes."
+  },
+  "favorited": false,
+  "lang": "es",
+  "favorite_count": 0,
+  "reply_count": 0,
+  "geo": null,
+  "contributors": null,
+  "text": "A veces hay que correr para ganar y otras hay que esperar, pero el fin \u00faltimo es ganar, ya que de cualquier manera,\u2026 https://t.co/6hwnjjJV53",
+  "created_at": "Wed Nov 15 15:38:29 +0000 2017",
+  "place": {
+    "place_type": "city",
+    "full_name": "\u00d1u\u00f1oa, Chile",
+    "country": "Chile",
+    "name": "\u00d1u\u00f1oa",
+    "url": "https://api.twitter.com/1.1/geo/id/019f2f4e187ace41.json",
+    "country_code": "CL",
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [[-70.63278, -33.474911], [-70.63278, -33.433917], [-70.572535, -33.433917], [-70.572535, -33.474911]]
+      ]
+    },
+    "id": "019f2f4e187ace41",
+    "attributes": {}
+  },
+  "user": {
+    "profile_text_color": "333333",
+    "lang": "es",
+    "location": "VENEZUELA ESTADO ZULIA",
+    "friends_count": 208,
+    "profile_link_color": "009999",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/923727368698712065/CaX-IbBn_normal.jpg",
+    "contributors_enabled": false,
+    "following": null,
+    "is_translator": false,
+    "verified": false,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/360083043/1366922182",
+    "utc_offset": -14400,
+    "geo_enabled": true,
+    "profile_sidebar_border_color": "EEEEEE",
+    "created_at": "Mon Aug 22 17:17:24 +0000 2011",
+    "description": "Ing. En Construcci\u00f3n CIVIL",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/923727368698712065/CaX-IbBn_normal.jpg",
+    "profile_background_color": "131516",
+    "listed_count": 3,
+    "follow_request_sent": null,
+    "profile_background_tile": true,
+    "followers_count": 33,
+    "name": "Yorbi Rivas",
+    "notifications": null,
+    "default_profile_image": false,
+    "url": null,
+    "favourites_count": 11,
+    "screen_name": "YorbiRivasJC",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+    "profile_sidebar_fill_color": "EFEFEF",
+    "profile_use_background_image": true,
+    "translator_type": "none",
+    "time_zone": "Caracas",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+    "statuses_count": 42,
+    "id": 360083043,
+    "default_profile": false,
+    "protected": false,
+    "id_str": "360083043"
+  },
+  "in_reply_to_user_id_str": null,
+  "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+  "filter_level": "low",
+  "is_quote_status": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_user_id": null,
+  "quote_count": 0,
+  "retweeted": false,
+  "in_reply_to_screen_name": null,
+  "retweet_count": 0,
+  "in_reply_to_status_id_str": null,
+  "coordinates": null,
+  "id": 930822321576738817,
+  "truncated": true,
+  "entities": {
+    "urls": [
+      {
+        "url": "https://t.co/6hwnjjJV53",
+        "display_url": "twitter.com/i/web/status/9\u2026",
+        "indices": [117, 140],
+        "expanded_url": "https://twitter.com/i/web/status/930822321576738817"
+      }
+    ],
+    "symbols": [],
+    "hashtags": [],
+    "user_mentions": []
+  },
+  "timestamp_ms": "1510760309963",
+  "id_str": "930822321576738817"
+}

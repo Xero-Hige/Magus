@@ -1,1 +1,126 @@
-{"geo": null, "filter_level": "low", "in_reply_to_status_id": null, "lang": "es", "favorite_count": 0, "coordinates": null, "favorited": false, "place": {"name": "Venezuela", "full_name": "Venezuela", "place_type": "country", "country": "Venezuela", "id": "043383f8b2b79918", "bounding_box": {"type": "Polygon", "coordinates": [[[-73.354073, 0.648837], [-73.354073, 12.196802], [-59.80378, 12.196802], [-59.80378, 0.648837]]]}, "attributes": {}, "url": "https://api.twitter.com/1.1/geo/id/043383f8b2b79918.json", "country_code": "VE"}, "contributors": null, "entities": {"hashtags": [], "urls": [{"display_url": "twitter.com/i/web/status/9\u2026", "expanded_url": "https://twitter.com/i/web/status/930641560999464963", "url": "https://t.co/msz6JlZrG3", "indices": [102, 125]}], "symbols": [], "user_mentions": [{"id": 4744395743, "id_str": "4744395743", "name": "Asamblea Nacional", "indices": [22, 33], "screen_name": "AsambleaVE"}]}, "id": 930641560999464963, "user": {"followers_count": 698, "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png", "profile_background_color": "C0DEED", "translator_type": "none", "profile_image_url": "http://pbs.twimg.com/profile_images/919794325835468800/xzqDBrmd_normal.jpg", "profile_banner_url": "https://pbs.twimg.com/profile_banners/274272105/1500484453", "default_profile": true, "utc_offset": -14400, "lang": "es", "url": null, "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", "profile_image_url_https": "https://pbs.twimg.com/profile_images/919794325835468800/xzqDBrmd_normal.jpg", "time_zone": "Caracas", "profile_sidebar_border_color": "C0DEED", "profile_use_background_image": true, "id": 274272105, "profile_link_color": "1DA1F2", "profile_sidebar_fill_color": "DDEEF6", "profile_background_tile": false, "geo_enabled": true, "id_str": "274272105", "verified": false, "name": "Carlos E. Gonzalez R", "is_translator": false, "notifications": null, "following": null, "friends_count": 648, "contributors_enabled": false, "screen_name": "karlosgonsalez", "created_at": "Wed Mar 30 01:51:41 +0000 2011", "profile_text_color": "333333", "favourites_count": 94, "follow_request_sent": null, "description": "Hecho en Venezuela, Por Venezolanos.", "default_profile_image": false, "location": null, "listed_count": 10, "protected": false, "statuses_count": 31526}, "id_str": "930641560999464963", "retweet_count": 0, "retweeted": false, "quote_count": 0, "truncated": true, "in_reply_to_status_id_str": null, "reply_count": 0, "created_at": "Wed Nov 15 03:40:13 +0000 2017", "is_quote_status": false, "in_reply_to_user_id": null, "timestamp_ms": "1510717213283", "text": "LO QUE FALTABA\u2026 En la @AsambleaVE ahora habr\u00e1 una segunda fracci\u00f3n parlamentaria de la oposici\u00f3n....\u2026 https://t.co/msz6JlZrG3", "extended_tweet": {"full_text": "LO QUE FALTABA\u2026 En la @AsambleaVE ahora habr\u00e1 una segunda fracci\u00f3n parlamentaria de la oposici\u00f3n.... @RichardBlancoOf, inform\u00f3 que un grupo de 13 parlamentarios, cre\u00f3 una nueva fracci\u00f3n parlamentaria que lleva por nombre \u201c16 de Julio\u201d.", "display_text_range": [0, 235], "entities": {"hashtags": [], "urls": [], "symbols": [], "user_mentions": [{"id": 4744395743, "id_str": "4744395743", "name": "Asamblea Nacional", "indices": [22, 33], "screen_name": "AsambleaVE"}, {"id": 66453332, "id_str": "66453332", "name": "Dip.Richard Blanco", "indices": [101, 117], "screen_name": "RichardBlancoOf"}]}}, "in_reply_to_user_id_str": null, "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>", "in_reply_to_screen_name": null}
+{
+  "geo": null,
+  "filter_level": "low",
+  "in_reply_to_status_id": null,
+  "lang": "es",
+  "favorite_count": 0,
+  "coordinates": null,
+  "favorited": false,
+  "place": {
+    "name": "Venezuela",
+    "full_name": "Venezuela",
+    "place_type": "country",
+    "country": "Venezuela",
+    "id": "043383f8b2b79918",
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [[[-73.354073, 0.648837], [-73.354073, 12.196802], [-59.80378, 12.196802], [-59.80378, 0.648837]]]
+    },
+    "attributes": {},
+    "url": "https://api.twitter.com/1.1/geo/id/043383f8b2b79918.json",
+    "country_code": "VE"
+  },
+  "contributors": null,
+  "entities": {
+    "hashtags": [],
+    "urls": [
+      {
+        "display_url": "twitter.com/i/web/status/9\u2026",
+        "expanded_url": "https://twitter.com/i/web/status/930641560999464963",
+        "url": "https://t.co/msz6JlZrG3",
+        "indices": [102, 125]
+      }
+    ],
+    "symbols": [],
+    "user_mentions": [
+      {
+        "id": 4744395743,
+        "id_str": "4744395743",
+        "name": "Asamblea Nacional",
+        "indices": [22, 33],
+        "screen_name": "AsambleaVE"
+      }
+    ]
+  },
+  "id": 930641560999464963,
+  "user": {
+    "followers_count": 698,
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_color": "C0DEED",
+    "translator_type": "none",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/919794325835468800/xzqDBrmd_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/274272105/1500484453",
+    "default_profile": true,
+    "utc_offset": -14400,
+    "lang": "es",
+    "url": null,
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/919794325835468800/xzqDBrmd_normal.jpg",
+    "time_zone": "Caracas",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_use_background_image": true,
+    "id": 274272105,
+    "profile_link_color": "1DA1F2",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_background_tile": false,
+    "geo_enabled": true,
+    "id_str": "274272105",
+    "verified": false,
+    "name": "Carlos E. Gonzalez R",
+    "is_translator": false,
+    "notifications": null,
+    "following": null,
+    "friends_count": 648,
+    "contributors_enabled": false,
+    "screen_name": "karlosgonsalez",
+    "created_at": "Wed Mar 30 01:51:41 +0000 2011",
+    "profile_text_color": "333333",
+    "favourites_count": 94,
+    "follow_request_sent": null,
+    "description": "Hecho en Venezuela, Por Venezolanos.",
+    "default_profile_image": false,
+    "location": null,
+    "listed_count": 10,
+    "protected": false,
+    "statuses_count": 31526
+  },
+  "id_str": "930641560999464963",
+  "retweet_count": 0,
+  "retweeted": false,
+  "quote_count": 0,
+  "truncated": true,
+  "in_reply_to_status_id_str": null,
+  "reply_count": 0,
+  "created_at": "Wed Nov 15 03:40:13 +0000 2017",
+  "is_quote_status": false,
+  "in_reply_to_user_id": null,
+  "timestamp_ms": "1510717213283",
+  "text": "LO QUE FALTABA\u2026 En la @AsambleaVE ahora habr\u00e1 una segunda fracci\u00f3n parlamentaria de la oposici\u00f3n....\u2026 https://t.co/msz6JlZrG3",
+  "extended_tweet": {
+    "full_text": "LO QUE FALTABA\u2026 En la @AsambleaVE ahora habr\u00e1 una segunda fracci\u00f3n parlamentaria de la oposici\u00f3n.... @RichardBlancoOf, inform\u00f3 que un grupo de 13 parlamentarios, cre\u00f3 una nueva fracci\u00f3n parlamentaria que lleva por nombre \u201c16 de Julio\u201d.",
+    "display_text_range": [0, 235],
+    "entities": {
+      "hashtags": [],
+      "urls": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "id": 4744395743,
+          "id_str": "4744395743",
+          "name": "Asamblea Nacional",
+          "indices": [22, 33],
+          "screen_name": "AsambleaVE"
+        }, {
+          "id": 66453332,
+          "id_str": "66453332",
+          "name": "Dip.Richard Blanco",
+          "indices": [101, 117],
+          "screen_name": "RichardBlancoOf"
+        }
+      ]
+    }
+  },
+  "in_reply_to_user_id_str": null,
+  "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+  "in_reply_to_screen_name": null
+}

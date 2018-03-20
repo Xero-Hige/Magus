@@ -1,1 +1,117 @@
-{"reply_count": 0, "user": {"profile_banner_url": "https://pbs.twimg.com/profile_banners/40533752/1505146094", "following": null, "profile_background_color": "FFFFFF", "url": "http://www.rcnradio.com", "utc_offset": -18000, "follow_request_sent": null, "translator_type": "none", "profile_text_color": "333333", "id_str": "40533752", "favourites_count": 566, "friends_count": 464, "followers_count": 2550072, "id": 40533752, "geo_enabled": true, "profile_sidebar_border_color": "FFFFFF", "profile_image_url_https": "https://pbs.twimg.com/profile_images/805738433956216832/M1A3pSG5_normal.jpg", "statuses_count": 667971, "notifications": null, "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/840921968/718b0906a91371eaf732c24de4ddd60f.jpeg", "protected": false, "listed_count": 7001, "screen_name": "rcnradio", "profile_sidebar_fill_color": "C0DFEC", "location": "Bogot\u00e1, Colombia", "created_at": "Sat May 16 20:16:58 +0000 2009", "default_profile": false, "time_zone": "Bogota", "verified": true, "contributors_enabled": false, "profile_image_url": "http://pbs.twimg.com/profile_images/805738433956216832/M1A3pSG5_normal.jpg", "lang": "es", "name": "RCN Radio", "profile_link_color": "0C70B4", "is_translator": false, "description": "Las noticias de Colombia y el mundo est\u00e1n en @rcnradio / http://www.rcnradio.com o http://facebook.com/rcnradio", "profile_use_background_image": true, "default_profile_image": false, "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/840921968/718b0906a91371eaf732c24de4ddd60f.jpeg", "profile_background_tile": false}, "contributors": null, "id_str": "930634826226585600", "in_reply_to_screen_name": null, "in_reply_to_user_id_str": null, "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>", "in_reply_to_status_id_str": null, "in_reply_to_user_id": null, "id": 930634826226585600, "in_reply_to_status_id": null, "favorite_count": 0, "entities": {"user_mentions": [], "hashtags": [], "symbols": [], "urls": [{"expanded_url": "https://twitter.com/i/web/status/930634826226585600", "url": "https://t.co/8oZ3lMaxJI", "display_url": "twitter.com/i/web/status/9\u2026", "indices": [116, 139]}]}, "created_at": "Wed Nov 15 03:13:27 +0000 2017", "extended_tweet": {"entities": {"user_mentions": [{"id": 64839766, "indices": [243, 257], "screen_name": "JuanManSantos", "id_str": "64839766", "name": "Juan Manuel Santos"}], "hashtags": [{"text": "RCNRadio", "indices": [258, 267]}], "symbols": [], "urls": []}, "display_text_range": [0, 267], "full_text": "\"La llamada JEP es la forma de garantizar los derechos de las victimas a la justicia, a la verdad, a la reparaci\u00f3n y a la no repetici\u00f3n. Es la forma de garantizar la no impunidad de los cr\u00edmenes m\u00e1s graves cometidos con ocasi\u00f3n del conflicto\" @JuanManSantos #RCNRadio"}, "favorited": false, "timestamp_ms": "1510715607588", "quote_count": 0, "place": {"country_code": "CO", "bounding_box": {"coordinates": [[[-74.483289, 3.717432], [-74.483289, 4.807135], [-74.004053, 4.807135], [-74.004053, 3.717432]]], "type": "Polygon"}, "attributes": {}, "url": "https://api.twitter.com/1.1/geo/id/0161be1b3f98d6c3.json", "name": "Bogot\u00e1, D.C.", "id": "0161be1b3f98d6c3", "place_type": "city", "country": "Colombia", "full_name": "Bogot\u00e1, D.C., Colombia"}, "text": "\"La llamada JEP es la forma de garantizar los derechos de las victimas a la justicia, a la verdad, a la reparaci\u00f3n\u2026 https://t.co/8oZ3lMaxJI", "geo": null, "retweeted": false, "retweet_count": 0, "filter_level": "low", "lang": "es", "is_quote_status": false, "coordinates": null, "truncated": true}
+{
+  "reply_count": 0,
+  "user": {
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/40533752/1505146094",
+    "following": null,
+    "profile_background_color": "FFFFFF",
+    "url": "http://www.rcnradio.com",
+    "utc_offset": -18000,
+    "follow_request_sent": null,
+    "translator_type": "none",
+    "profile_text_color": "333333",
+    "id_str": "40533752",
+    "favourites_count": 566,
+    "friends_count": 464,
+    "followers_count": 2550072,
+    "id": 40533752,
+    "geo_enabled": true,
+    "profile_sidebar_border_color": "FFFFFF",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/805738433956216832/M1A3pSG5_normal.jpg",
+    "statuses_count": 667971,
+    "notifications": null,
+    "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/840921968/718b0906a91371eaf732c24de4ddd60f.jpeg",
+    "protected": false,
+    "listed_count": 7001,
+    "screen_name": "rcnradio",
+    "profile_sidebar_fill_color": "C0DFEC",
+    "location": "Bogot\u00e1, Colombia",
+    "created_at": "Sat May 16 20:16:58 +0000 2009",
+    "default_profile": false,
+    "time_zone": "Bogota",
+    "verified": true,
+    "contributors_enabled": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/805738433956216832/M1A3pSG5_normal.jpg",
+    "lang": "es",
+    "name": "RCN Radio",
+    "profile_link_color": "0C70B4",
+    "is_translator": false,
+    "description": "Las noticias de Colombia y el mundo est\u00e1n en @rcnradio / http://www.rcnradio.com o http://facebook.com/rcnradio",
+    "profile_use_background_image": true,
+    "default_profile_image": false,
+    "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/840921968/718b0906a91371eaf732c24de4ddd60f.jpeg",
+    "profile_background_tile": false
+  },
+  "contributors": null,
+  "id_str": "930634826226585600",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_user_id_str": null,
+  "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "id": 930634826226585600,
+  "in_reply_to_status_id": null,
+  "favorite_count": 0,
+  "entities": {
+    "user_mentions": [],
+    "hashtags": [],
+    "symbols": [],
+    "urls": [
+      {
+        "expanded_url": "https://twitter.com/i/web/status/930634826226585600",
+        "url": "https://t.co/8oZ3lMaxJI",
+        "display_url": "twitter.com/i/web/status/9\u2026",
+        "indices": [116, 139]
+      }
+    ]
+  },
+  "created_at": "Wed Nov 15 03:13:27 +0000 2017",
+  "extended_tweet": {
+    "entities": {
+      "user_mentions": [
+        {
+          "id": 64839766,
+          "indices": [243, 257],
+          "screen_name": "JuanManSantos",
+          "id_str": "64839766",
+          "name": "Juan Manuel Santos"
+        }
+      ],
+      "hashtags": [
+        {
+          "text": "RCNRadio",
+          "indices": [258, 267]
+        }
+      ],
+      "symbols": [],
+      "urls": []
+    },
+    "display_text_range": [0, 267],
+    "full_text": "\"La llamada JEP es la forma de garantizar los derechos de las victimas a la justicia, a la verdad, a la reparaci\u00f3n y a la no repetici\u00f3n. Es la forma de garantizar la no impunidad de los cr\u00edmenes m\u00e1s graves cometidos con ocasi\u00f3n del conflicto\" @JuanManSantos #RCNRadio"
+  },
+  "favorited": false,
+  "timestamp_ms": "1510715607588",
+  "quote_count": 0,
+  "place": {
+    "country_code": "CO",
+    "bounding_box": {
+      "coordinates": [[[-74.483289, 3.717432], [-74.483289, 4.807135], [-74.004053, 4.807135], [-74.004053, 3.717432]]],
+      "type": "Polygon"
+    },
+    "attributes": {},
+    "url": "https://api.twitter.com/1.1/geo/id/0161be1b3f98d6c3.json",
+    "name": "Bogot\u00e1, D.C.",
+    "id": "0161be1b3f98d6c3",
+    "place_type": "city",
+    "country": "Colombia",
+    "full_name": "Bogot\u00e1, D.C., Colombia"
+  },
+  "text": "\"La llamada JEP es la forma de garantizar los derechos de las victimas a la justicia, a la verdad, a la reparaci\u00f3n\u2026 https://t.co/8oZ3lMaxJI",
+  "geo": null,
+  "retweeted": false,
+  "retweet_count": 0,
+  "filter_level": "low",
+  "lang": "es",
+  "is_quote_status": false,
+  "coordinates": null,
+  "truncated": true
+}

@@ -1,1 +1,179 @@
-{"in_reply_to_screen_name": null, "geo": null, "filter_level": "low", "in_reply_to_status_id": null, "lang": "es", "favorite_count": 0, "display_text_range": [0, 106], "favorited": false, "id": 930632632127447042, "place": {"name": "Pereira", "full_name": "Pereira, Colombia", "place_type": "city", "country": "Colombia", "id": "0000ffd41ff0eaac", "bounding_box": {"type": "Polygon", "coordinates": [[[-75.990759, 4.63867], [-75.990759, 4.885687], [-75.465481, 4.885687], [-75.465481, 4.63867]]]}, "attributes": {}, "url": "https://api.twitter.com/1.1/geo/id/0000ffd41ff0eaac.json", "country_code": "CO"}, "coordinates": null, "entities": {"media": [{"id_str": "930632624456065024", "display_url": "pic.twitter.com/CMXswkuZTx", "url": "https://t.co/CMXswkuZTx", "expanded_url": "https://twitter.com/TavoGermanotta/status/930632632127447042/photo/1", "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/DOpFcPUX4AA9zpm.jpg", "id": 930632624456065024, "type": "photo", "indices": [107, 130], "sizes": {"medium": {"h": 180, "resize": "fit", "w": 350}, "thumb": {"h": 150, "resize": "crop", "w": 150}, "large": {"h": 180, "resize": "fit", "w": 350}, "small": {"h": 180, "resize": "fit", "w": 350}}, "media_url": "http://pbs.twimg.com/tweet_video_thumb/DOpFcPUX4AA9zpm.jpg"}], "hashtags": [{"text": "basura", "indices": [89, 96]}, {"text": "Corrupto", "indices": [97, 106]}], "urls": [], "symbols": [], "user_mentions": []}, "extended_entities": {"media": [{"id_str": "930632624456065024", "display_url": "pic.twitter.com/CMXswkuZTx", "url": "https://t.co/CMXswkuZTx", "expanded_url": "https://twitter.com/TavoGermanotta/status/930632632127447042/photo/1", "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/DOpFcPUX4AA9zpm.jpg", "video_info": {"variants": [{"content_type": "video/mp4", "url": "https://video.twimg.com/tweet_video/DOpFcPUX4AA9zpm.mp4", "bitrate": 0}], "aspect_ratio": [35, 18]}, "id": 930632624456065024, "type": "animated_gif", "indices": [107, 130], "sizes": {"medium": {"h": 180, "resize": "fit", "w": 350}, "thumb": {"h": 150, "resize": "crop", "w": 150}, "large": {"h": 180, "resize": "fit", "w": 350}, "small": {"h": 180, "resize": "fit", "w": 350}}, "media_url": "http://pbs.twimg.com/tweet_video_thumb/DOpFcPUX4AA9zpm.jpg"}]}, "possibly_sensitive": false, "user": {"followers_count": 1206, "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/438435999723425792/4WFiPmDO.jpeg", "profile_background_color": "FED105", "translator_type": "regular", "profile_image_url": "http://pbs.twimg.com/profile_images/927361055688404993/3fNlx6wH_normal.jpg", "profile_banner_url": "https://pbs.twimg.com/profile_banners/49882882/1503630883", "default_profile": false, "utc_offset": -18000, "lang": "es", "url": "http://www.instagram.com/tavoparracr7", "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/438435999723425792/4WFiPmDO.jpeg", "profile_image_url_https": "https://pbs.twimg.com/profile_images/927361055688404993/3fNlx6wH_normal.jpg", "time_zone": "Bogota", "profile_sidebar_border_color": "FFFFFF", "profile_use_background_image": true, "id": 49882882, "profile_link_color": "3B94D9", "profile_sidebar_fill_color": "3B3B3B", "profile_background_tile": true, "geo_enabled": true, "id_str": "49882882", "verified": false, "name": "Gustavo Parra\u00ae #CR7", "is_translator": false, "notifications": null, "following": null, "friends_count": 665, "contributors_enabled": false, "screen_name": "TavoGermanotta", "created_at": "Tue Jun 23 04:21:47 +0000 2009", "profile_text_color": "E9BF05", "favourites_count": 21744, "follow_request_sent": null, "description": "IG: tavoparracr7 \ud83d\udcf7 | Catador de Cerveza \ud83c\udf7b | Hala Madrid \u26bd | Su Majestad Roger Federer \ud83c\udfbe | DIOS GU\u00cdA MIS PASOS \ud83d\ude07 #LadyGaga \ud83d\udc83", "default_profile_image": false, "location": "Pereira, Colombia", "listed_count": 17, "protected": false, "statuses_count": 20493}, "id_str": "930632632127447042", "retweet_count": 0, "retweeted": false, "quote_count": 0, "truncated": false, "in_reply_to_status_id_str": null, "reply_count": 0, "created_at": "Wed Nov 15 03:04:44 +0000 2017", "is_quote_status": false, "in_reply_to_user_id": null, "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>", "text": "Ohhh empieza a hablar el \"honorable\" presidente Santos. Es hora de apagar el televisor \ud83d\udcfa\ud83e\udd18#basura #Corrupto https://t.co/CMXswkuZTx", "timestamp_ms": "1510715084474", "in_reply_to_user_id_str": null, "contributors": null}
+{
+  "in_reply_to_screen_name": null,
+  "geo": null,
+  "filter_level": "low",
+  "in_reply_to_status_id": null,
+  "lang": "es",
+  "favorite_count": 0,
+  "display_text_range": [0, 106],
+  "favorited": false,
+  "id": 930632632127447042,
+  "place": {
+    "name": "Pereira",
+    "full_name": "Pereira, Colombia",
+    "place_type": "city",
+    "country": "Colombia",
+    "id": "0000ffd41ff0eaac",
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [[[-75.990759, 4.63867], [-75.990759, 4.885687], [-75.465481, 4.885687], [-75.465481, 4.63867]]]
+    },
+    "attributes": {},
+    "url": "https://api.twitter.com/1.1/geo/id/0000ffd41ff0eaac.json",
+    "country_code": "CO"
+  },
+  "coordinates": null,
+  "entities": {
+    "media": [
+      {
+        "id_str": "930632624456065024",
+        "display_url": "pic.twitter.com/CMXswkuZTx",
+        "url": "https://t.co/CMXswkuZTx",
+        "expanded_url": "https://twitter.com/TavoGermanotta/status/930632632127447042/photo/1",
+        "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/DOpFcPUX4AA9zpm.jpg",
+        "id": 930632624456065024,
+        "type": "photo",
+        "indices": [107, 130],
+        "sizes": {
+          "medium": {
+            "h": 180,
+            "resize": "fit",
+            "w": 350
+          },
+          "thumb": {
+            "h": 150,
+            "resize": "crop",
+            "w": 150
+          },
+          "large": {
+            "h": 180,
+            "resize": "fit",
+            "w": 350
+          },
+          "small": {
+            "h": 180,
+            "resize": "fit",
+            "w": 350
+          }
+        },
+        "media_url": "http://pbs.twimg.com/tweet_video_thumb/DOpFcPUX4AA9zpm.jpg"
+      }
+    ],
+    "hashtags": [
+      {
+        "text": "basura",
+        "indices": [89, 96]
+      }, {
+        "text": "Corrupto",
+        "indices": [97, 106]
+      }
+    ],
+    "urls": [],
+    "symbols": [],
+    "user_mentions": []
+  },
+  "extended_entities": {
+    "media": [
+      {
+        "id_str": "930632624456065024",
+        "display_url": "pic.twitter.com/CMXswkuZTx",
+        "url": "https://t.co/CMXswkuZTx",
+        "expanded_url": "https://twitter.com/TavoGermanotta/status/930632632127447042/photo/1",
+        "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/DOpFcPUX4AA9zpm.jpg",
+        "video_info": {
+          "variants": [
+            {
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/tweet_video/DOpFcPUX4AA9zpm.mp4",
+              "bitrate": 0
+            }
+          ],
+          "aspect_ratio": [35, 18]
+        },
+        "id": 930632624456065024,
+        "type": "animated_gif",
+        "indices": [107, 130],
+        "sizes": {
+          "medium": {
+            "h": 180,
+            "resize": "fit",
+            "w": 350
+          },
+          "thumb": {
+            "h": 150,
+            "resize": "crop",
+            "w": 150
+          },
+          "large": {
+            "h": 180,
+            "resize": "fit",
+            "w": 350
+          },
+          "small": {
+            "h": 180,
+            "resize": "fit",
+            "w": 350
+          }
+        },
+        "media_url": "http://pbs.twimg.com/tweet_video_thumb/DOpFcPUX4AA9zpm.jpg"
+      }
+    ]
+  },
+  "possibly_sensitive": false,
+  "user": {
+    "followers_count": 1206,
+    "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/438435999723425792/4WFiPmDO.jpeg",
+    "profile_background_color": "FED105",
+    "translator_type": "regular",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/927361055688404993/3fNlx6wH_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/49882882/1503630883",
+    "default_profile": false,
+    "utc_offset": -18000,
+    "lang": "es",
+    "url": "http://www.instagram.com/tavoparracr7",
+    "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/438435999723425792/4WFiPmDO.jpeg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/927361055688404993/3fNlx6wH_normal.jpg",
+    "time_zone": "Bogota",
+    "profile_sidebar_border_color": "FFFFFF",
+    "profile_use_background_image": true,
+    "id": 49882882,
+    "profile_link_color": "3B94D9",
+    "profile_sidebar_fill_color": "3B3B3B",
+    "profile_background_tile": true,
+    "geo_enabled": true,
+    "id_str": "49882882",
+    "verified": false,
+    "name": "Gustavo Parra\u00ae #CR7",
+    "is_translator": false,
+    "notifications": null,
+    "following": null,
+    "friends_count": 665,
+    "contributors_enabled": false,
+    "screen_name": "TavoGermanotta",
+    "created_at": "Tue Jun 23 04:21:47 +0000 2009",
+    "profile_text_color": "E9BF05",
+    "favourites_count": 21744,
+    "follow_request_sent": null,
+    "description": "IG: tavoparracr7 \ud83d\udcf7 | Catador de Cerveza \ud83c\udf7b | Hala Madrid \u26bd | Su Majestad Roger Federer \ud83c\udfbe | DIOS GU\u00cdA MIS PASOS \ud83d\ude07 #LadyGaga \ud83d\udc83",
+    "default_profile_image": false,
+    "location": "Pereira, Colombia",
+    "listed_count": 17,
+    "protected": false,
+    "statuses_count": 20493
+  },
+  "id_str": "930632632127447042",
+  "retweet_count": 0,
+  "retweeted": false,
+  "quote_count": 0,
+  "truncated": false,
+  "in_reply_to_status_id_str": null,
+  "reply_count": 0,
+  "created_at": "Wed Nov 15 03:04:44 +0000 2017",
+  "is_quote_status": false,
+  "in_reply_to_user_id": null,
+  "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+  "text": "Ohhh empieza a hablar el \"honorable\" presidente Santos. Es hora de apagar el televisor \ud83d\udcfa\ud83e\udd18#basura #Corrupto https://t.co/CMXswkuZTx",
+  "timestamp_ms": "1510715084474",
+  "in_reply_to_user_id_str": null,
+  "contributors": null
+}

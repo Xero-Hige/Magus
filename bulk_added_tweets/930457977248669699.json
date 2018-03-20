@@ -1,1 +1,178 @@
-{"id": 930457977248669699, "lang": "es", "in_reply_to_status_id_str": null, "truncated": true, "place": {"id": "765e433145f71368", "country": "Myanmar", "bounding_box": {"type": "Polygon", "coordinates": [[[92.189278, 9.606167], [92.189278, 28.543249], [101.176781, 28.543249], [101.176781, 9.606167]]]}, "url": "https://api.twitter.com/1.1/geo/id/765e433145f71368.json", "full_name": "Myanmar", "attributes": {}, "name": "Myanmar", "place_type": "country", "country_code": "MM"}, "favorite_count": 0, "retweeted": false, "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>", "is_quote_status": false, "possibly_sensitive": false, "geo": null, "in_reply_to_user_id_str": null, "in_reply_to_status_id": null, "retweet_count": 0, "quote_count": 0, "timestamp_ms": "1510673443506", "favorited": false, "coordinates": null, "filter_level": "low", "entities": {"urls": [{"indices": [117, 140], "display_url": "twitter.com/i/web/status/9\u2026", "url": "https://t.co/pKc9jnhyvl", "expanded_url": "https://twitter.com/i/web/status/930457977248669699"}], "symbols": [], "user_mentions": [], "hashtags": []}, "reply_count": 0, "in_reply_to_screen_name": null, "display_text_range": [0, 140], "text": "Siempre me sorprende encontrar semejanzas entre Asia y Latinoam\u00e9rica.\n\nHoy: \u201cceviche\u201d como comida tradicional en Bo\u2026 https://t.co/pKc9jnhyvl", "extended_tweet": {"display_text_range": [0, 146], "extended_entities": {"media": [{"id": 930457965534081024, "display_url": "pic.twitter.com/V10G48qmxG", "id_str": "930457965534081024", "indices": [147, 170], "expanded_url": "https://twitter.com/leOnelaaaa/status/930457977248669699/photo/1", "type": "photo", "url": "https://t.co/V10G48qmxG", "media_url_https": "https://pbs.twimg.com/media/DOmmlwIXcAAK7bl.jpg", "media_url": "http://pbs.twimg.com/media/DOmmlwIXcAAK7bl.jpg", "sizes": {"small": {"w": 523, "h": 680, "resize": "fit"}, "large": {"w": 749, "h": 973, "resize": "fit"}, "thumb": {"w": 150, "h": 150, "resize": "crop"}, "medium": {"w": 749, "h": 973, "resize": "fit"}}}]}, "entities": {"media": [{"id": 930457965534081024, "display_url": "pic.twitter.com/V10G48qmxG", "id_str": "930457965534081024", "indices": [147, 170], "expanded_url": "https://twitter.com/leOnelaaaa/status/930457977248669699/photo/1", "type": "photo", "url": "https://t.co/V10G48qmxG", "media_url_https": "https://pbs.twimg.com/media/DOmmlwIXcAAK7bl.jpg", "media_url": "http://pbs.twimg.com/media/DOmmlwIXcAAK7bl.jpg", "sizes": {"small": {"w": 523, "h": 680, "resize": "fit"}, "large": {"w": 749, "h": 973, "resize": "fit"}, "thumb": {"w": 150, "h": 150, "resize": "crop"}, "medium": {"w": 749, "h": 973, "resize": "fit"}}}], "urls": [], "symbols": [], "user_mentions": [], "hashtags": []}, "full_text": "Siempre me sorprende encontrar semejanzas entre Asia y Latinoam\u00e9rica.\n\nHoy: \u201cceviche\u201d como comida tradicional en Borneo de Malasia, Kota Kinabalu. https://t.co/V10G48qmxG"}, "user": {"statuses_count": 8132, "id": 102254736, "default_profile": false, "favourites_count": 259, "url": null, "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/562110865747353600/k34Ad2YM.jpeg", "verified": false, "profile_image_url_https": "https://pbs.twimg.com/profile_images/709111861267054592/iNgEl1SA_normal.jpg", "translator_type": "none", "location": "Myanmar", "geo_enabled": true, "utc_offset": -18000, "notifications": null, "profile_background_tile": false, "friends_count": 446, "is_translator": false, "follow_request_sent": null, "default_profile_image": false, "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/562110865747353600/k34Ad2YM.jpeg", "profile_background_color": "20201E", "profile_link_color": "C8A86F", "profile_use_background_image": true, "time_zone": "Quito", "name": "Leonela Jaramillo", "profile_text_color": "897856", "profile_sidebar_border_color": "FFFFFF", "screen_name": "leOnelaaaa", "lang": "es", "following": null, "listed_count": 10, "protected": false, "profile_sidebar_fill_color": "20201E", "followers_count": 441, "profile_image_url": "http://pbs.twimg.com/profile_images/709111861267054592/iNgEl1SA_normal.jpg", "profile_banner_url": "https://pbs.twimg.com/profile_banners/102254736/1422853026", "contributors_enabled": false, "created_at": "Wed Jan 06 03:14:24 +0000 2010", "id_str": "102254736", "description": "Yangon \ud83c\udf0f"}, "created_at": "Tue Nov 14 15:30:43 +0000 2017", "id_str": "930457977248669699", "in_reply_to_user_id": null, "contributors": null}
+{
+  "id": 930457977248669699,
+  "lang": "es",
+  "in_reply_to_status_id_str": null,
+  "truncated": true,
+  "place": {
+    "id": "765e433145f71368",
+    "country": "Myanmar",
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [[[92.189278, 9.606167], [92.189278, 28.543249], [101.176781, 28.543249], [101.176781, 9.606167]]]
+    },
+    "url": "https://api.twitter.com/1.1/geo/id/765e433145f71368.json",
+    "full_name": "Myanmar",
+    "attributes": {},
+    "name": "Myanmar",
+    "place_type": "country",
+    "country_code": "MM"
+  },
+  "favorite_count": 0,
+  "retweeted": false,
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "is_quote_status": false,
+  "possibly_sensitive": false,
+  "geo": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_status_id": null,
+  "retweet_count": 0,
+  "quote_count": 0,
+  "timestamp_ms": "1510673443506",
+  "favorited": false,
+  "coordinates": null,
+  "filter_level": "low",
+  "entities": {
+    "urls": [
+      {
+        "indices": [117, 140],
+        "display_url": "twitter.com/i/web/status/9\u2026",
+        "url": "https://t.co/pKc9jnhyvl",
+        "expanded_url": "https://twitter.com/i/web/status/930457977248669699"
+      }
+    ],
+    "symbols": [],
+    "user_mentions": [],
+    "hashtags": []
+  },
+  "reply_count": 0,
+  "in_reply_to_screen_name": null,
+  "display_text_range": [0, 140],
+  "text": "Siempre me sorprende encontrar semejanzas entre Asia y Latinoam\u00e9rica.\n\nHoy: \u201cceviche\u201d como comida tradicional en Bo\u2026 https://t.co/pKc9jnhyvl",
+  "extended_tweet": {
+    "display_text_range": [0, 146],
+    "extended_entities": {
+      "media": [
+        {
+          "id": 930457965534081024,
+          "display_url": "pic.twitter.com/V10G48qmxG",
+          "id_str": "930457965534081024",
+          "indices": [147, 170],
+          "expanded_url": "https://twitter.com/leOnelaaaa/status/930457977248669699/photo/1",
+          "type": "photo",
+          "url": "https://t.co/V10G48qmxG",
+          "media_url_https": "https://pbs.twimg.com/media/DOmmlwIXcAAK7bl.jpg",
+          "media_url": "http://pbs.twimg.com/media/DOmmlwIXcAAK7bl.jpg",
+          "sizes": {
+            "small": {
+              "w": 523,
+              "h": 680,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 749,
+              "h": 973,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 749,
+              "h": 973,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "entities": {
+      "media": [
+        {
+          "id": 930457965534081024,
+          "display_url": "pic.twitter.com/V10G48qmxG",
+          "id_str": "930457965534081024",
+          "indices": [147, 170],
+          "expanded_url": "https://twitter.com/leOnelaaaa/status/930457977248669699/photo/1",
+          "type": "photo",
+          "url": "https://t.co/V10G48qmxG",
+          "media_url_https": "https://pbs.twimg.com/media/DOmmlwIXcAAK7bl.jpg",
+          "media_url": "http://pbs.twimg.com/media/DOmmlwIXcAAK7bl.jpg",
+          "sizes": {
+            "small": {
+              "w": 523,
+              "h": 680,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 749,
+              "h": 973,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 749,
+              "h": 973,
+              "resize": "fit"
+            }
+          }
+        }
+      ],
+      "urls": [],
+      "symbols": [],
+      "user_mentions": [],
+      "hashtags": []
+    },
+    "full_text": "Siempre me sorprende encontrar semejanzas entre Asia y Latinoam\u00e9rica.\n\nHoy: \u201cceviche\u201d como comida tradicional en Borneo de Malasia, Kota Kinabalu. https://t.co/V10G48qmxG"
+  },
+  "user": {
+    "statuses_count": 8132,
+    "id": 102254736,
+    "default_profile": false,
+    "favourites_count": 259,
+    "url": null,
+    "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/562110865747353600/k34Ad2YM.jpeg",
+    "verified": false,
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/709111861267054592/iNgEl1SA_normal.jpg",
+    "translator_type": "none",
+    "location": "Myanmar",
+    "geo_enabled": true,
+    "utc_offset": -18000,
+    "notifications": null,
+    "profile_background_tile": false,
+    "friends_count": 446,
+    "is_translator": false,
+    "follow_request_sent": null,
+    "default_profile_image": false,
+    "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/562110865747353600/k34Ad2YM.jpeg",
+    "profile_background_color": "20201E",
+    "profile_link_color": "C8A86F",
+    "profile_use_background_image": true,
+    "time_zone": "Quito",
+    "name": "Leonela Jaramillo",
+    "profile_text_color": "897856",
+    "profile_sidebar_border_color": "FFFFFF",
+    "screen_name": "leOnelaaaa",
+    "lang": "es",
+    "following": null,
+    "listed_count": 10,
+    "protected": false,
+    "profile_sidebar_fill_color": "20201E",
+    "followers_count": 441,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/709111861267054592/iNgEl1SA_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/102254736/1422853026",
+    "contributors_enabled": false,
+    "created_at": "Wed Jan 06 03:14:24 +0000 2010",
+    "id_str": "102254736",
+    "description": "Yangon \ud83c\udf0f"
+  },
+  "created_at": "Tue Nov 14 15:30:43 +0000 2017",
+  "id_str": "930457977248669699",
+  "in_reply_to_user_id": null,
+  "contributors": null
+}

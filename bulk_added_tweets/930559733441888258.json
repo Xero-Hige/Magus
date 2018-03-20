@@ -1,1 +1,94 @@
-{"is_quote_status": false, "in_reply_to_user_id_str": null, "created_at": "Tue Nov 14 22:15:04 +0000 2017", "favorite_count": 0, "in_reply_to_status_id": null, "id_str": "930559733441888258", "filter_level": "low", "reply_count": 0, "timestamp_ms": "1510697704073", "id": 930559733441888258, "coordinates": null, "in_reply_to_screen_name": null, "truncated": false, "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>", "place": {"bounding_box": {"coordinates": [[[-56.430439, -34.937896], [-56.430439, -34.701599], [-56.029341, -34.701599], [-56.029341, -34.937896]]], "type": "Polygon"}, "url": "https://api.twitter.com/1.1/geo/id/01a9dbb9232f0fac.json", "country_code": "UY", "name": "Montevideo", "full_name": "Montevideo, Uruguay", "id": "01a9dbb9232f0fac", "place_type": "admin", "attributes": {}, "country": "Uruguay"}, "retweet_count": 0, "quote_count": 0, "favorited": false, "text": "Se vino el calor.. ya ves a las chicas mostrando las nalgas y los chicos sin camiseta. #Vivaladesnudez \ud83d\ude48\ud83d\ude48\ud83d\ude48\ud83d\ude48\ud83d\ude48\ud83d\ude48\ud83d\ude48\ud83d\ude48\ud83d\ude02", "in_reply_to_user_id": null, "geo": null, "lang": "es", "contributors": null, "in_reply_to_status_id_str": null, "user": {"protected": false, "following": null, "profile_text_color": "333333", "profile_background_color": "131516", "statuses_count": 646, "default_profile": false, "favourites_count": 855, "friends_count": 342, "follow_request_sent": null, "profile_sidebar_fill_color": "EFEFEF", "translator_type": "none", "notifications": null, "id_str": "871183202", "screen_name": "SPeigonet", "profile_banner_url": "https://pbs.twimg.com/profile_banners/871183202/1492397967", "verified": false, "id": 871183202, "profile_use_background_image": true, "description": "La Chiqui", "utc_offset": null, "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/687402829/1f65f94d81b52f2df406e912b41ca4a3.jpeg", "is_translator": false, "listed_count": 1, "default_profile_image": false, "contributors_enabled": false, "followers_count": 71, "location": "Montevideo Uruguay", "created_at": "Wed Oct 10 05:34:29 +0000 2012", "profile_image_url_https": "https://pbs.twimg.com/profile_images/922242565830832128/XbSd1DKm_normal.jpg", "geo_enabled": true, "time_zone": null, "profile_image_url": "http://pbs.twimg.com/profile_images/922242565830832128/XbSd1DKm_normal.jpg", "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/687402829/1f65f94d81b52f2df406e912b41ca4a3.jpeg", "profile_link_color": "5C0099", "lang": "es", "name": "Stephy Peigonet", "profile_background_tile": false, "url": null, "profile_sidebar_border_color": "FFFFFF"}, "entities": {"user_mentions": [], "urls": [], "symbols": [], "hashtags": [{"text": "Vivaladesnudez", "indices": [87, 102]}]}, "retweeted": false}
+{
+  "is_quote_status": false,
+  "in_reply_to_user_id_str": null,
+  "created_at": "Tue Nov 14 22:15:04 +0000 2017",
+  "favorite_count": 0,
+  "in_reply_to_status_id": null,
+  "id_str": "930559733441888258",
+  "filter_level": "low",
+  "reply_count": 0,
+  "timestamp_ms": "1510697704073",
+  "id": 930559733441888258,
+  "coordinates": null,
+  "in_reply_to_screen_name": null,
+  "truncated": false,
+  "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+  "place": {
+    "bounding_box": {
+      "coordinates": [
+        [[-56.430439, -34.937896], [-56.430439, -34.701599], [-56.029341, -34.701599], [-56.029341, -34.937896]]
+      ],
+      "type": "Polygon"
+    },
+    "url": "https://api.twitter.com/1.1/geo/id/01a9dbb9232f0fac.json",
+    "country_code": "UY",
+    "name": "Montevideo",
+    "full_name": "Montevideo, Uruguay",
+    "id": "01a9dbb9232f0fac",
+    "place_type": "admin",
+    "attributes": {},
+    "country": "Uruguay"
+  },
+  "retweet_count": 0,
+  "quote_count": 0,
+  "favorited": false,
+  "text": "Se vino el calor.. ya ves a las chicas mostrando las nalgas y los chicos sin camiseta. #Vivaladesnudez \ud83d\ude48\ud83d\ude48\ud83d\ude48\ud83d\ude48\ud83d\ude48\ud83d\ude48\ud83d\ude48\ud83d\ude48\ud83d\ude02",
+  "in_reply_to_user_id": null,
+  "geo": null,
+  "lang": "es",
+  "contributors": null,
+  "in_reply_to_status_id_str": null,
+  "user": {
+    "protected": false,
+    "following": null,
+    "profile_text_color": "333333",
+    "profile_background_color": "131516",
+    "statuses_count": 646,
+    "default_profile": false,
+    "favourites_count": 855,
+    "friends_count": 342,
+    "follow_request_sent": null,
+    "profile_sidebar_fill_color": "EFEFEF",
+    "translator_type": "none",
+    "notifications": null,
+    "id_str": "871183202",
+    "screen_name": "SPeigonet",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/871183202/1492397967",
+    "verified": false,
+    "id": 871183202,
+    "profile_use_background_image": true,
+    "description": "La Chiqui",
+    "utc_offset": null,
+    "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/687402829/1f65f94d81b52f2df406e912b41ca4a3.jpeg",
+    "is_translator": false,
+    "listed_count": 1,
+    "default_profile_image": false,
+    "contributors_enabled": false,
+    "followers_count": 71,
+    "location": "Montevideo Uruguay",
+    "created_at": "Wed Oct 10 05:34:29 +0000 2012",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/922242565830832128/XbSd1DKm_normal.jpg",
+    "geo_enabled": true,
+    "time_zone": null,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/922242565830832128/XbSd1DKm_normal.jpg",
+    "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/687402829/1f65f94d81b52f2df406e912b41ca4a3.jpeg",
+    "profile_link_color": "5C0099",
+    "lang": "es",
+    "name": "Stephy Peigonet",
+    "profile_background_tile": false,
+    "url": null,
+    "profile_sidebar_border_color": "FFFFFF"
+  },
+  "entities": {
+    "user_mentions": [],
+    "urls": [],
+    "symbols": [],
+    "hashtags": [
+      {
+        "text": "Vivaladesnudez",
+        "indices": [87, 102]
+      }
+    ]
+  },
+  "retweeted": false
+}

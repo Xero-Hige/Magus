@@ -1,1 +1,116 @@
-{"geo": null, "filter_level": "low", "in_reply_to_status_id": null, "lang": "es", "favorite_count": 0, "coordinates": null, "favorited": false, "place": {"name": "Victoria", "full_name": "Victoria, Tamaulipas", "place_type": "city", "country": "Mexico", "id": "b8779fa4f42b81de", "bounding_box": {"type": "Polygon", "coordinates": [[[-99.42842, 23.389556], [-99.42842, 23.982312], [-98.947388, 23.982312], [-98.947388, 23.389556]]]}, "attributes": {}, "url": "https://api.twitter.com/1.1/geo/id/b8779fa4f42b81de.json", "country_code": "MX"}, "contributors": null, "entities": {"hashtags": [{"text": "CdVictoria", "indices": [68, 79]}], "urls": [{"display_url": "twitter.com/i/web/status/9\u2026", "expanded_url": "https://twitter.com/i/web/status/930596747302309888", "url": "https://t.co/k4x9qgnLoh", "indices": [117, 140]}], "symbols": [], "user_mentions": []}, "id": 930596747302309888, "user": {"followers_count": 699, "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/671109786/ee8d45e2057cf135b47da681cf87d847.jpeg", "profile_background_color": "0099B9", "translator_type": "none", "profile_image_url": "http://pbs.twimg.com/profile_images/882433626914390017/zKrJ5Wyo_normal.jpg", "profile_banner_url": "https://pbs.twimg.com/profile_banners/120229017/1507168105", "default_profile": false, "utc_offset": -21600, "lang": "en", "url": null, "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/671109786/ee8d45e2057cf135b47da681cf87d847.jpeg", "profile_image_url_https": "https://pbs.twimg.com/profile_images/882433626914390017/zKrJ5Wyo_normal.jpg", "time_zone": "Mexico City", "profile_sidebar_border_color": "FFFFFF", "profile_use_background_image": true, "id": 120229017, "profile_link_color": "0099B9", "profile_sidebar_fill_color": "95E8EC", "profile_background_tile": true, "geo_enabled": true, "id_str": "120229017", "verified": false, "name": "Doraly Soto", "is_translator": false, "notifications": null, "following": null, "friends_count": 771, "contributors_enabled": false, "screen_name": "doralysoto", "created_at": "Fri Mar 05 21:27:23 +0000 2010", "profile_text_color": "3C3940", "favourites_count": 9537, "follow_request_sent": null, "description": "Mi sonrisa siempre ha sido mi mejor arma, amo hacer cupcakes, me apasionan los atardeceres \u2665 Norte\u00f1a de coraz\u00f3n \ud83d\udc34\ud83e\udd20\u2665 #cowboysnation", "default_profile_image": false, "location": "Victoria, Tamaulipas", "listed_count": 10, "protected": false, "statuses_count": 26264}, "id_str": "930596747302309888", "retweet_count": 0, "retweeted": false, "quote_count": 0, "truncated": true, "in_reply_to_status_id_str": null, "reply_count": 0, "created_at": "Wed Nov 15 00:42:08 +0000 2017", "is_quote_status": false, "in_reply_to_user_id": null, "timestamp_ms": "1510706528865", "text": "Se\u00f1oras y se\u00f1ores que asisten a las instalaciones del planetario en #CdVictoria habemos gente que no llegamos en co\u2026 https://t.co/k4x9qgnLoh", "extended_tweet": {"full_text": "Se\u00f1oras y se\u00f1ores que asisten a las instalaciones del planetario en #CdVictoria habemos gente que no llegamos en coche as\u00ed que nos convertimos en peatones vamos a lo mismo que ustedes a ejercitarnos, manejen con mayor precauci\u00f3n y bajen su velocidad! En pocas palabras no mamen!", "display_text_range": [0, 278], "entities": {"hashtags": [{"text": "CdVictoria", "indices": [68, 79]}], "urls": [], "symbols": [], "user_mentions": []}}, "in_reply_to_user_id_str": null, "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>", "in_reply_to_screen_name": null}
+{
+  "geo": null,
+  "filter_level": "low",
+  "in_reply_to_status_id": null,
+  "lang": "es",
+  "favorite_count": 0,
+  "coordinates": null,
+  "favorited": false,
+  "place": {
+    "name": "Victoria",
+    "full_name": "Victoria, Tamaulipas",
+    "place_type": "city",
+    "country": "Mexico",
+    "id": "b8779fa4f42b81de",
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [[-99.42842, 23.389556], [-99.42842, 23.982312], [-98.947388, 23.982312], [-98.947388, 23.389556]]
+      ]
+    },
+    "attributes": {},
+    "url": "https://api.twitter.com/1.1/geo/id/b8779fa4f42b81de.json",
+    "country_code": "MX"
+  },
+  "contributors": null,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "CdVictoria",
+        "indices": [68, 79]
+      }
+    ],
+    "urls": [
+      {
+        "display_url": "twitter.com/i/web/status/9\u2026",
+        "expanded_url": "https://twitter.com/i/web/status/930596747302309888",
+        "url": "https://t.co/k4x9qgnLoh",
+        "indices": [117, 140]
+      }
+    ],
+    "symbols": [],
+    "user_mentions": []
+  },
+  "id": 930596747302309888,
+  "user": {
+    "followers_count": 699,
+    "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/671109786/ee8d45e2057cf135b47da681cf87d847.jpeg",
+    "profile_background_color": "0099B9",
+    "translator_type": "none",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/882433626914390017/zKrJ5Wyo_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/120229017/1507168105",
+    "default_profile": false,
+    "utc_offset": -21600,
+    "lang": "en",
+    "url": null,
+    "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/671109786/ee8d45e2057cf135b47da681cf87d847.jpeg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/882433626914390017/zKrJ5Wyo_normal.jpg",
+    "time_zone": "Mexico City",
+    "profile_sidebar_border_color": "FFFFFF",
+    "profile_use_background_image": true,
+    "id": 120229017,
+    "profile_link_color": "0099B9",
+    "profile_sidebar_fill_color": "95E8EC",
+    "profile_background_tile": true,
+    "geo_enabled": true,
+    "id_str": "120229017",
+    "verified": false,
+    "name": "Doraly Soto",
+    "is_translator": false,
+    "notifications": null,
+    "following": null,
+    "friends_count": 771,
+    "contributors_enabled": false,
+    "screen_name": "doralysoto",
+    "created_at": "Fri Mar 05 21:27:23 +0000 2010",
+    "profile_text_color": "3C3940",
+    "favourites_count": 9537,
+    "follow_request_sent": null,
+    "description": "Mi sonrisa siempre ha sido mi mejor arma, amo hacer cupcakes, me apasionan los atardeceres \u2665 Norte\u00f1a de coraz\u00f3n \ud83d\udc34\ud83e\udd20\u2665 #cowboysnation",
+    "default_profile_image": false,
+    "location": "Victoria, Tamaulipas",
+    "listed_count": 10,
+    "protected": false,
+    "statuses_count": 26264
+  },
+  "id_str": "930596747302309888",
+  "retweet_count": 0,
+  "retweeted": false,
+  "quote_count": 0,
+  "truncated": true,
+  "in_reply_to_status_id_str": null,
+  "reply_count": 0,
+  "created_at": "Wed Nov 15 00:42:08 +0000 2017",
+  "is_quote_status": false,
+  "in_reply_to_user_id": null,
+  "timestamp_ms": "1510706528865",
+  "text": "Se\u00f1oras y se\u00f1ores que asisten a las instalaciones del planetario en #CdVictoria habemos gente que no llegamos en co\u2026 https://t.co/k4x9qgnLoh",
+  "extended_tweet": {
+    "full_text": "Se\u00f1oras y se\u00f1ores que asisten a las instalaciones del planetario en #CdVictoria habemos gente que no llegamos en coche as\u00ed que nos convertimos en peatones vamos a lo mismo que ustedes a ejercitarnos, manejen con mayor precauci\u00f3n y bajen su velocidad! En pocas palabras no mamen!",
+    "display_text_range": [0, 278],
+    "entities": {
+      "hashtags": [
+        {
+          "text": "CdVictoria",
+          "indices": [68, 79]
+        }
+      ],
+      "urls": [],
+      "symbols": [],
+      "user_mentions": []
+    }
+  },
+  "in_reply_to_user_id_str": null,
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "in_reply_to_screen_name": null
+}

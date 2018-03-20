@@ -1,1 +1,116 @@
-{"is_quote_status": false, "in_reply_to_user_id_str": null, "created_at": "Tue Nov 14 21:33:21 +0000 2017", "favorite_count": 0, "in_reply_to_status_id": null, "id_str": "930549235161935872", "filter_level": "low", "reply_count": 0, "timestamp_ms": "1510695201088", "id": 930549235161935872, "coordinates": null, "in_reply_to_screen_name": null, "truncated": true, "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>", "place": {"bounding_box": {"coordinates": [[[-74.925765, 10.869528], [-74.925765, 11.046618], [-74.774101, 11.046618], [-74.774101, 10.869528]]], "type": "Polygon"}, "url": "https://api.twitter.com/1.1/geo/id/0105a80417c159b4.json", "country_code": "CO", "name": "Barranquilla", "full_name": "Barranquilla, Colombia", "id": "0105a80417c159b4", "place_type": "city", "attributes": {}, "country": "Colombia"}, "retweet_count": 0, "extended_tweet": {"display_text_range": [0, 213], "entities": {"user_mentions": [], "urls": [], "symbols": [], "hashtags": [{"text": "NivelDeEliminatoria", "indices": [0, 20]}]}, "full_text": "#NivelDeEliminatoria Saludos desde Barranquilla, hoy la selecci\u00f3n Colombia jug\u00f3 como un verdadero equipo, excelente juego colectivo y lo m\u00e1s importante los volantes pasando el bal\u00f3n a los delanteros, sin ego\u00edsmos."}, "quote_count": 0, "favorited": false, "text": "#NivelDeEliminatoria Saludos desde Barranquilla, hoy la selecci\u00f3n Colombia jug\u00f3 como un verdadero equipo, excelente\u2026 https://t.co/TqH0JG2Uz1", "in_reply_to_user_id": null, "geo": null, "lang": "es", "contributors": null, "in_reply_to_status_id_str": null, "user": {"protected": false, "following": null, "profile_text_color": "333333", "profile_background_color": "C0DEED", "statuses_count": 3613, "default_profile": true, "favourites_count": 1410, "friends_count": 316, "follow_request_sent": null, "profile_sidebar_fill_color": "DDEEF6", "translator_type": "none", "notifications": null, "id_str": "2349778841", "screen_name": "YezRohenes", "profile_banner_url": "https://pbs.twimg.com/profile_banners/2349778841/1502475697", "verified": false, "id": 2349778841, "profile_use_background_image": true, "description": "Buscando un poco de humor, defendiendo a @JuniorClubSA de todos los envidiosos...\n\nUribe desmovizate, tu familia te espera.", "utc_offset": null, "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", "is_translator": false, "listed_count": 0, "default_profile_image": false, "contributors_enabled": false, "followers_count": 109, "location": "Barranquilla, Colombia", "created_at": "Tue Feb 18 02:26:51 +0000 2014", "profile_image_url_https": "https://pbs.twimg.com/profile_images/909977860512862209/NX5Bqpfk_normal.jpg", "geo_enabled": true, "time_zone": null, "profile_image_url": "http://pbs.twimg.com/profile_images/909977860512862209/NX5Bqpfk_normal.jpg", "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png", "profile_link_color": "1DA1F2", "lang": "es", "name": "Yezid Rohenes \ud83d\udd2e", "profile_background_tile": false, "url": null, "profile_sidebar_border_color": "C0DEED"}, "entities": {"user_mentions": [], "urls": [{"expanded_url": "https://twitter.com/i/web/status/930549235161935872", "url": "https://t.co/TqH0JG2Uz1", "indices": [117, 140], "display_url": "twitter.com/i/web/status/9\u2026"}], "symbols": [], "hashtags": [{"text": "NivelDeEliminatoria", "indices": [0, 20]}]}, "retweeted": false}
+{
+  "is_quote_status": false,
+  "in_reply_to_user_id_str": null,
+  "created_at": "Tue Nov 14 21:33:21 +0000 2017",
+  "favorite_count": 0,
+  "in_reply_to_status_id": null,
+  "id_str": "930549235161935872",
+  "filter_level": "low",
+  "reply_count": 0,
+  "timestamp_ms": "1510695201088",
+  "id": 930549235161935872,
+  "coordinates": null,
+  "in_reply_to_screen_name": null,
+  "truncated": true,
+  "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+  "place": {
+    "bounding_box": {
+      "coordinates": [
+        [[-74.925765, 10.869528], [-74.925765, 11.046618], [-74.774101, 11.046618], [-74.774101, 10.869528]]
+      ],
+      "type": "Polygon"
+    },
+    "url": "https://api.twitter.com/1.1/geo/id/0105a80417c159b4.json",
+    "country_code": "CO",
+    "name": "Barranquilla",
+    "full_name": "Barranquilla, Colombia",
+    "id": "0105a80417c159b4",
+    "place_type": "city",
+    "attributes": {},
+    "country": "Colombia"
+  },
+  "retweet_count": 0,
+  "extended_tweet": {
+    "display_text_range": [0, 213],
+    "entities": {
+      "user_mentions": [],
+      "urls": [],
+      "symbols": [],
+      "hashtags": [
+        {
+          "text": "NivelDeEliminatoria",
+          "indices": [0, 20]
+        }
+      ]
+    },
+    "full_text": "#NivelDeEliminatoria Saludos desde Barranquilla, hoy la selecci\u00f3n Colombia jug\u00f3 como un verdadero equipo, excelente juego colectivo y lo m\u00e1s importante los volantes pasando el bal\u00f3n a los delanteros, sin ego\u00edsmos."
+  },
+  "quote_count": 0,
+  "favorited": false,
+  "text": "#NivelDeEliminatoria Saludos desde Barranquilla, hoy la selecci\u00f3n Colombia jug\u00f3 como un verdadero equipo, excelente\u2026 https://t.co/TqH0JG2Uz1",
+  "in_reply_to_user_id": null,
+  "geo": null,
+  "lang": "es",
+  "contributors": null,
+  "in_reply_to_status_id_str": null,
+  "user": {
+    "protected": false,
+    "following": null,
+    "profile_text_color": "333333",
+    "profile_background_color": "C0DEED",
+    "statuses_count": 3613,
+    "default_profile": true,
+    "favourites_count": 1410,
+    "friends_count": 316,
+    "follow_request_sent": null,
+    "profile_sidebar_fill_color": "DDEEF6",
+    "translator_type": "none",
+    "notifications": null,
+    "id_str": "2349778841",
+    "screen_name": "YezRohenes",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/2349778841/1502475697",
+    "verified": false,
+    "id": 2349778841,
+    "profile_use_background_image": true,
+    "description": "Buscando un poco de humor, defendiendo a @JuniorClubSA de todos los envidiosos...\n\nUribe desmovizate, tu familia te espera.",
+    "utc_offset": null,
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "is_translator": false,
+    "listed_count": 0,
+    "default_profile_image": false,
+    "contributors_enabled": false,
+    "followers_count": 109,
+    "location": "Barranquilla, Colombia",
+    "created_at": "Tue Feb 18 02:26:51 +0000 2014",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/909977860512862209/NX5Bqpfk_normal.jpg",
+    "geo_enabled": true,
+    "time_zone": null,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/909977860512862209/NX5Bqpfk_normal.jpg",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_link_color": "1DA1F2",
+    "lang": "es",
+    "name": "Yezid Rohenes \ud83d\udd2e",
+    "profile_background_tile": false,
+    "url": null,
+    "profile_sidebar_border_color": "C0DEED"
+  },
+  "entities": {
+    "user_mentions": [],
+    "urls": [
+      {
+        "expanded_url": "https://twitter.com/i/web/status/930549235161935872",
+        "url": "https://t.co/TqH0JG2Uz1",
+        "indices": [117, 140],
+        "display_url": "twitter.com/i/web/status/9\u2026"
+      }
+    ],
+    "symbols": [],
+    "hashtags": [
+      {
+        "text": "NivelDeEliminatoria",
+        "indices": [0, 20]
+      }
+    ]
+  },
+  "retweeted": false
+}

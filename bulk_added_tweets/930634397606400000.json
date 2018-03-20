@@ -1,1 +1,135 @@
-{"in_reply_to_screen_name": "Jimmychinchay", "geo": null, "user": {"followers_count": 132, "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png", "profile_background_color": "C0DEED", "translator_type": "regular", "profile_image_url": "http://pbs.twimg.com/profile_images/850099778323189760/mFdEOLMX_normal.jpg", "profile_banner_url": "https://pbs.twimg.com/profile_banners/242508937/1483236518", "default_profile": true, "utc_offset": null, "lang": "es", "url": null, "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", "profile_image_url_https": "https://pbs.twimg.com/profile_images/850099778323189760/mFdEOLMX_normal.jpg", "time_zone": null, "profile_sidebar_border_color": "C0DEED", "profile_use_background_image": true, "id": 242508937, "profile_link_color": "1DA1F2", "profile_sidebar_fill_color": "DDEEF6", "profile_background_tile": false, "geo_enabled": true, "id_str": "242508937", "verified": false, "name": "Guillermo Donayre", "is_translator": false, "notifications": null, "following": null, "friends_count": 249, "contributors_enabled": false, "screen_name": "elsoldelnorte", "created_at": "Mon Jan 24 23:23:34 +0000 2011", "profile_text_color": "333333", "favourites_count": 786, "follow_request_sent": null, "description": null, "default_profile_image": false, "location": "Santiago de Surco-Lima-Per\u00fa", "listed_count": 3, "protected": false, "statuses_count": 19215}, "filter_level": "low", "in_reply_to_status_id": 930527465675505664, "lang": "es", "display_text_range": [24, 140], "favorited": false, "place": {"name": "Peru", "full_name": "Peru", "place_type": "country", "country": "Peru", "id": "2dfa9ecb0179a4e4", "bounding_box": {"type": "Polygon", "coordinates": [[[-81.328148, -18.349728], [-81.328148, -0.03884], [-68.673088, -0.03884], [-68.673088, -18.349728]]]}, "attributes": {}, "url": "https://api.twitter.com/1.1/geo/id/2dfa9ecb0179a4e4.json", "country_code": "PE"}, "coordinates": null, "entities": {"hashtags": [], "urls": [{"display_url": "twitter.com/i/web/status/9\u2026", "expanded_url": "https://twitter.com/i/web/status/930634397606400000", "url": "https://t.co/uvHujH81qW", "indices": [117, 140]}], "symbols": [], "user_mentions": [{"id": 70770612, "id_str": "70770612", "name": "Jimmy Chinchay", "indices": [0, 14], "screen_name": "Jimmychinchay"}, {"id": 248692867, "id_str": "248692867", "name": "Canal N", "indices": [15, 23], "screen_name": "canalN_"}]}, "id": 930634397606400000, "in_reply_to_user_id_str": "70770612", "id_str": "930634397606400000", "retweet_count": 0, "retweeted": false, "quote_count": 0, "truncated": true, "in_reply_to_status_id_str": "930527465675505664", "reply_count": 0, "created_at": "Wed Nov 15 03:11:45 +0000 2017", "is_quote_status": false, "in_reply_to_user_id": 70770612, "timestamp_ms": "1510715505397", "text": "@Jimmychinchay @canalN_ No van a trabajar\"si clasifica\"la Mayoria Congresal de Fuerza Popular y su Lideresa  dice q\u2026 https://t.co/uvHujH81qW", "extended_tweet": {"full_text": "@Jimmychinchay @canalN_ No van a trabajar\"si clasifica\"la Mayoria Congresal de Fuerza Popular y su Lideresa  dice que el Per\u00f9 necesita trabajar ?? Pura \"finta\" demagogia burda !! PUEBLO PERUANO TRABAJADOR DESPIERTEN NOS QUIEREN \"\"METER  LA YUCA  DE FUJIMORFI \"\"", "display_text_range": [24, 261], "entities": {"hashtags": [], "urls": [], "symbols": [], "user_mentions": [{"id": 70770612, "id_str": "70770612", "name": "Jimmy Chinchay", "indices": [0, 14], "screen_name": "Jimmychinchay"}, {"id": 248692867, "id_str": "248692867", "name": "Canal N", "indices": [15, 23], "screen_name": "canalN_"}]}}, "favorite_count": 0, "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>", "contributors": null}
+{
+  "in_reply_to_screen_name": "Jimmychinchay",
+  "geo": null,
+  "user": {
+    "followers_count": 132,
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_color": "C0DEED",
+    "translator_type": "regular",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/850099778323189760/mFdEOLMX_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/242508937/1483236518",
+    "default_profile": true,
+    "utc_offset": null,
+    "lang": "es",
+    "url": null,
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/850099778323189760/mFdEOLMX_normal.jpg",
+    "time_zone": null,
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_use_background_image": true,
+    "id": 242508937,
+    "profile_link_color": "1DA1F2",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_background_tile": false,
+    "geo_enabled": true,
+    "id_str": "242508937",
+    "verified": false,
+    "name": "Guillermo Donayre",
+    "is_translator": false,
+    "notifications": null,
+    "following": null,
+    "friends_count": 249,
+    "contributors_enabled": false,
+    "screen_name": "elsoldelnorte",
+    "created_at": "Mon Jan 24 23:23:34 +0000 2011",
+    "profile_text_color": "333333",
+    "favourites_count": 786,
+    "follow_request_sent": null,
+    "description": null,
+    "default_profile_image": false,
+    "location": "Santiago de Surco-Lima-Per\u00fa",
+    "listed_count": 3,
+    "protected": false,
+    "statuses_count": 19215
+  },
+  "filter_level": "low",
+  "in_reply_to_status_id": 930527465675505664,
+  "lang": "es",
+  "display_text_range": [24, 140],
+  "favorited": false,
+  "place": {
+    "name": "Peru",
+    "full_name": "Peru",
+    "place_type": "country",
+    "country": "Peru",
+    "id": "2dfa9ecb0179a4e4",
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [[-81.328148, -18.349728], [-81.328148, -0.03884], [-68.673088, -0.03884], [-68.673088, -18.349728]]
+      ]
+    },
+    "attributes": {},
+    "url": "https://api.twitter.com/1.1/geo/id/2dfa9ecb0179a4e4.json",
+    "country_code": "PE"
+  },
+  "coordinates": null,
+  "entities": {
+    "hashtags": [],
+    "urls": [
+      {
+        "display_url": "twitter.com/i/web/status/9\u2026",
+        "expanded_url": "https://twitter.com/i/web/status/930634397606400000",
+        "url": "https://t.co/uvHujH81qW",
+        "indices": [117, 140]
+      }
+    ],
+    "symbols": [],
+    "user_mentions": [
+      {
+        "id": 70770612,
+        "id_str": "70770612",
+        "name": "Jimmy Chinchay",
+        "indices": [0, 14],
+        "screen_name": "Jimmychinchay"
+      }, {
+        "id": 248692867,
+        "id_str": "248692867",
+        "name": "Canal N",
+        "indices": [15, 23],
+        "screen_name": "canalN_"
+      }
+    ]
+  },
+  "id": 930634397606400000,
+  "in_reply_to_user_id_str": "70770612",
+  "id_str": "930634397606400000",
+  "retweet_count": 0,
+  "retweeted": false,
+  "quote_count": 0,
+  "truncated": true,
+  "in_reply_to_status_id_str": "930527465675505664",
+  "reply_count": 0,
+  "created_at": "Wed Nov 15 03:11:45 +0000 2017",
+  "is_quote_status": false,
+  "in_reply_to_user_id": 70770612,
+  "timestamp_ms": "1510715505397",
+  "text": "@Jimmychinchay @canalN_ No van a trabajar\"si clasifica\"la Mayoria Congresal de Fuerza Popular y su Lideresa  dice q\u2026 https://t.co/uvHujH81qW",
+  "extended_tweet": {
+    "full_text": "@Jimmychinchay @canalN_ No van a trabajar\"si clasifica\"la Mayoria Congresal de Fuerza Popular y su Lideresa  dice que el Per\u00f9 necesita trabajar ?? Pura \"finta\" demagogia burda !! PUEBLO PERUANO TRABAJADOR DESPIERTEN NOS QUIEREN \"\"METER  LA YUCA  DE FUJIMORFI \"\"",
+    "display_text_range": [24, 261],
+    "entities": {
+      "hashtags": [],
+      "urls": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "id": 70770612,
+          "id_str": "70770612",
+          "name": "Jimmy Chinchay",
+          "indices": [0, 14],
+          "screen_name": "Jimmychinchay"
+        }, {
+          "id": 248692867,
+          "id_str": "248692867",
+          "name": "Canal N",
+          "indices": [15, 23],
+          "screen_name": "canalN_"
+        }
+      ]
+    }
+  },
+  "favorite_count": 0,
+  "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+  "contributors": null
+}

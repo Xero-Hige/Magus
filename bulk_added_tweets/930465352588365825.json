@@ -1,1 +1,101 @@
-{"id": 930465352588365825, "in_reply_to_status_id_str": null, "truncated": false, "place": {"id": "c4747caad10d1497", "country": "Espa\u00f1a", "bounding_box": {"type": "Polygon", "coordinates": [[[-7.957398, 43.6865], [-7.957398, 43.773475], [-7.850043, 43.773475], [-7.850043, 43.6865]]]}, "url": "https://api.twitter.com/1.1/geo/id/c4747caad10d1497.json", "full_name": "Cari\u00f1o, Espa\u00f1a", "attributes": {}, "name": "Cari\u00f1o", "place_type": "city", "country_code": "ES"}, "favorite_count": 0, "retweeted": false, "source": "<a href=\"http://sandaysoft.com/\" rel=\"nofollow\">Sandaysoft Cumulus</a>", "is_quote_status": false, "possibly_sensitive": false, "geo": {"type": "Point", "coordinates": [43.73666667, -7.87722222]}, "coordinates": {"type": "Point", "coordinates": [-7.87722222, 43.73666667]}, "in_reply_to_status_id": null, "retweet_count": 0, "quote_count": 0, "timestamp_ms": "1510675201924", "favorited": false, "in_reply_to_user_id_str": null, "text": "14/11/2017 a las 16:00h UTC\nTemperatura 14,6\u00b0C\nHumedad 70%\nPresi\u00f3n 1023,71 mb\nViento 8 Km/h E\nLluvia hoy 0,0 mm\nhttps://t.co/elcCRCN83u", "entities": {"urls": [{"indices": [112, 135], "display_url": "ortegal.org", "url": "https://t.co/elcCRCN83u", "expanded_url": "http://www.ortegal.org"}], "symbols": [], "user_mentions": [], "hashtags": []}, "reply_count": 0, "in_reply_to_screen_name": null, "filter_level": "low", "lang": "es", "user": {"statuses_count": 29142, "id": 164699909, "default_profile": true, "favourites_count": 5, "url": "http://www.ea1ay.es", "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", "verified": false, "profile_image_url_https": "https://pbs.twimg.com/profile_images/2383056603/jds7u88hssp5nbs4qzry_normal.jpeg", "translator_type": "none", "location": "IN52RU & IN63BR", "geo_enabled": true, "utc_offset": 3600, "notifications": null, "profile_background_tile": false, "friends_count": 601, "is_translator": false, "follow_request_sent": null, "default_profile_image": false, "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png", "profile_background_color": "C0DEED", "profile_link_color": "1DA1F2", "profile_use_background_image": true, "time_zone": "Madrid", "name": "Jose P\u00e9rez", "profile_text_color": "333333", "profile_sidebar_border_color": "C0DEED", "screen_name": "ea1ay", "lang": "es", "following": null, "listed_count": 10, "protected": false, "profile_sidebar_fill_color": "DDEEF6", "followers_count": 824, "profile_image_url": "http://pbs.twimg.com/profile_images/2383056603/jds7u88hssp5nbs4qzry_normal.jpeg", "profile_banner_url": "https://pbs.twimg.com/profile_banners/164699909/1401436056", "contributors_enabled": false, "created_at": "Fri Jul 09 14:41:50 +0000 2010", "id_str": "164699909", "description": "Spanish Amateur Radio Station :: Meteo iNFO http://www.ortegal.org"}, "created_at": "Tue Nov 14 16:00:01 +0000 2017", "id_str": "930465352588365825", "in_reply_to_user_id": null, "contributors": null}
+{
+  "id": 930465352588365825,
+  "in_reply_to_status_id_str": null,
+  "truncated": false,
+  "place": {
+    "id": "c4747caad10d1497",
+    "country": "Espa\u00f1a",
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [[[-7.957398, 43.6865], [-7.957398, 43.773475], [-7.850043, 43.773475], [-7.850043, 43.6865]]]
+    },
+    "url": "https://api.twitter.com/1.1/geo/id/c4747caad10d1497.json",
+    "full_name": "Cari\u00f1o, Espa\u00f1a",
+    "attributes": {},
+    "name": "Cari\u00f1o",
+    "place_type": "city",
+    "country_code": "ES"
+  },
+  "favorite_count": 0,
+  "retweeted": false,
+  "source": "<a href=\"http://sandaysoft.com/\" rel=\"nofollow\">Sandaysoft Cumulus</a>",
+  "is_quote_status": false,
+  "possibly_sensitive": false,
+  "geo": {
+    "type": "Point",
+    "coordinates": [43.73666667, -7.87722222]
+  },
+  "coordinates": {
+    "type": "Point",
+    "coordinates": [-7.87722222, 43.73666667]
+  },
+  "in_reply_to_status_id": null,
+  "retweet_count": 0,
+  "quote_count": 0,
+  "timestamp_ms": "1510675201924",
+  "favorited": false,
+  "in_reply_to_user_id_str": null,
+  "text": "14/11/2017 a las 16:00h UTC\nTemperatura 14,6\u00b0C\nHumedad 70%\nPresi\u00f3n 1023,71 mb\nViento 8 Km/h E\nLluvia hoy 0,0 mm\nhttps://t.co/elcCRCN83u",
+  "entities": {
+    "urls": [
+      {
+        "indices": [112, 135],
+        "display_url": "ortegal.org",
+        "url": "https://t.co/elcCRCN83u",
+        "expanded_url": "http://www.ortegal.org"
+      }
+    ],
+    "symbols": [],
+    "user_mentions": [],
+    "hashtags": []
+  },
+  "reply_count": 0,
+  "in_reply_to_screen_name": null,
+  "filter_level": "low",
+  "lang": "es",
+  "user": {
+    "statuses_count": 29142,
+    "id": 164699909,
+    "default_profile": true,
+    "favourites_count": 5,
+    "url": "http://www.ea1ay.es",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "verified": false,
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/2383056603/jds7u88hssp5nbs4qzry_normal.jpeg",
+    "translator_type": "none",
+    "location": "IN52RU & IN63BR",
+    "geo_enabled": true,
+    "utc_offset": 3600,
+    "notifications": null,
+    "profile_background_tile": false,
+    "friends_count": 601,
+    "is_translator": false,
+    "follow_request_sent": null,
+    "default_profile_image": false,
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_color": "C0DEED",
+    "profile_link_color": "1DA1F2",
+    "profile_use_background_image": true,
+    "time_zone": "Madrid",
+    "name": "Jose P\u00e9rez",
+    "profile_text_color": "333333",
+    "profile_sidebar_border_color": "C0DEED",
+    "screen_name": "ea1ay",
+    "lang": "es",
+    "following": null,
+    "listed_count": 10,
+    "protected": false,
+    "profile_sidebar_fill_color": "DDEEF6",
+    "followers_count": 824,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/2383056603/jds7u88hssp5nbs4qzry_normal.jpeg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/164699909/1401436056",
+    "contributors_enabled": false,
+    "created_at": "Fri Jul 09 14:41:50 +0000 2010",
+    "id_str": "164699909",
+    "description": "Spanish Amateur Radio Station :: Meteo iNFO http://www.ortegal.org"
+  },
+  "created_at": "Tue Nov 14 16:00:01 +0000 2017",
+  "id_str": "930465352588365825",
+  "in_reply_to_user_id": null,
+  "contributors": null
+}

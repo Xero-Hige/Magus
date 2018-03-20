@@ -1,1 +1,106 @@
-{"geo": null, "filter_level": "low", "in_reply_to_status_id": null, "lang": "es", "favorite_count": 0, "coordinates": null, "favorited": false, "place": {"name": "Guatemala", "full_name": "Guatemala", "place_type": "country", "country": "Guatemala", "id": "13d479b108707983", "bounding_box": {"type": "Polygon", "coordinates": [[[-92.227387, 13.72873], [-92.227387, 17.816205], [-88.221055, 17.816205], [-88.221055, 13.72873]]]}, "attributes": {}, "url": "https://api.twitter.com/1.1/geo/id/13d479b108707983.json", "country_code": "GT"}, "contributors": null, "entities": {"hashtags": [], "urls": [{"display_url": "twitter.com/i/web/status/9\u2026", "expanded_url": "https://twitter.com/i/web/status/930660801442205696", "url": "https://t.co/Go2CT8VFJt", "indices": [117, 140]}], "symbols": [], "user_mentions": []}, "id": 930660801442205696, "user": {"followers_count": 180, "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/541508122/plur.jpg", "profile_background_color": "C0DEED", "translator_type": "none", "profile_image_url": "http://pbs.twimg.com/profile_images/899805666759540737/UwlFvSCl_normal.jpg", "profile_banner_url": "https://pbs.twimg.com/profile_banners/248930620/1487830104", "default_profile": false, "utc_offset": -28800, "lang": "es", "url": null, "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/541508122/plur.jpg", "profile_image_url_https": "https://pbs.twimg.com/profile_images/899805666759540737/UwlFvSCl_normal.jpg", "time_zone": "Pacific Time (US & Canada)", "profile_sidebar_border_color": "586F7A", "profile_use_background_image": true, "id": 248930620, "profile_link_color": "0084B4", "profile_sidebar_fill_color": "276132", "profile_background_tile": false, "geo_enabled": true, "id_str": "248930620", "verified": false, "name": "Juan Alvarado", "is_translator": false, "notifications": null, "following": null, "friends_count": 258, "contributors_enabled": false, "screen_name": "Juancho_sound", "created_at": "Tue Feb 08 00:54:28 +0000 2011", "profile_text_color": "6B0A1B", "favourites_count": 1428, "follow_request_sent": null, "description": "Pasi\u00f3n por el buen sonido.", "default_profile_image": false, "location": "Guatemala", "listed_count": 3, "protected": false, "statuses_count": 1995}, "id_str": "930660801442205696", "retweet_count": 0, "retweeted": false, "quote_count": 0, "truncated": true, "in_reply_to_status_id_str": null, "reply_count": 0, "created_at": "Wed Nov 15 04:56:40 +0000 2017", "is_quote_status": false, "in_reply_to_user_id": null, "timestamp_ms": "1510721800562", "text": "Tengo una mezcla de cansancio y stress que se siente como coraz\u00f3n roto, lo jodido es que no tengo una razon para se\u2026 https://t.co/Go2CT8VFJt", "extended_tweet": {"full_text": "Tengo una mezcla de cansancio y stress que se siente como coraz\u00f3n roto, lo jodido es que no tengo una razon para sentirme roto, maldito cansancio, saca lo peor de mi.", "display_text_range": [0, 166], "entities": {"hashtags": [], "urls": [], "symbols": [], "user_mentions": []}}, "in_reply_to_user_id_str": null, "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>", "in_reply_to_screen_name": null}
+{
+  "geo": null,
+  "filter_level": "low",
+  "in_reply_to_status_id": null,
+  "lang": "es",
+  "favorite_count": 0,
+  "coordinates": null,
+  "favorited": false,
+  "place": {
+    "name": "Guatemala",
+    "full_name": "Guatemala",
+    "place_type": "country",
+    "country": "Guatemala",
+    "id": "13d479b108707983",
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [[-92.227387, 13.72873], [-92.227387, 17.816205], [-88.221055, 17.816205], [-88.221055, 13.72873]]
+      ]
+    },
+    "attributes": {},
+    "url": "https://api.twitter.com/1.1/geo/id/13d479b108707983.json",
+    "country_code": "GT"
+  },
+  "contributors": null,
+  "entities": {
+    "hashtags": [],
+    "urls": [
+      {
+        "display_url": "twitter.com/i/web/status/9\u2026",
+        "expanded_url": "https://twitter.com/i/web/status/930660801442205696",
+        "url": "https://t.co/Go2CT8VFJt",
+        "indices": [117, 140]
+      }
+    ],
+    "symbols": [],
+    "user_mentions": []
+  },
+  "id": 930660801442205696,
+  "user": {
+    "followers_count": 180,
+    "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/541508122/plur.jpg",
+    "profile_background_color": "C0DEED",
+    "translator_type": "none",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/899805666759540737/UwlFvSCl_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/248930620/1487830104",
+    "default_profile": false,
+    "utc_offset": -28800,
+    "lang": "es",
+    "url": null,
+    "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/541508122/plur.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/899805666759540737/UwlFvSCl_normal.jpg",
+    "time_zone": "Pacific Time (US & Canada)",
+    "profile_sidebar_border_color": "586F7A",
+    "profile_use_background_image": true,
+    "id": 248930620,
+    "profile_link_color": "0084B4",
+    "profile_sidebar_fill_color": "276132",
+    "profile_background_tile": false,
+    "geo_enabled": true,
+    "id_str": "248930620",
+    "verified": false,
+    "name": "Juan Alvarado",
+    "is_translator": false,
+    "notifications": null,
+    "following": null,
+    "friends_count": 258,
+    "contributors_enabled": false,
+    "screen_name": "Juancho_sound",
+    "created_at": "Tue Feb 08 00:54:28 +0000 2011",
+    "profile_text_color": "6B0A1B",
+    "favourites_count": 1428,
+    "follow_request_sent": null,
+    "description": "Pasi\u00f3n por el buen sonido.",
+    "default_profile_image": false,
+    "location": "Guatemala",
+    "listed_count": 3,
+    "protected": false,
+    "statuses_count": 1995
+  },
+  "id_str": "930660801442205696",
+  "retweet_count": 0,
+  "retweeted": false,
+  "quote_count": 0,
+  "truncated": true,
+  "in_reply_to_status_id_str": null,
+  "reply_count": 0,
+  "created_at": "Wed Nov 15 04:56:40 +0000 2017",
+  "is_quote_status": false,
+  "in_reply_to_user_id": null,
+  "timestamp_ms": "1510721800562",
+  "text": "Tengo una mezcla de cansancio y stress que se siente como coraz\u00f3n roto, lo jodido es que no tengo una razon para se\u2026 https://t.co/Go2CT8VFJt",
+  "extended_tweet": {
+    "full_text": "Tengo una mezcla de cansancio y stress que se siente como coraz\u00f3n roto, lo jodido es que no tengo una razon para sentirme roto, maldito cansancio, saca lo peor de mi.",
+    "display_text_range": [0, 166],
+    "entities": {
+      "hashtags": [],
+      "urls": [],
+      "symbols": [],
+      "user_mentions": []
+    }
+  },
+  "in_reply_to_user_id_str": null,
+  "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+  "in_reply_to_screen_name": null
+}

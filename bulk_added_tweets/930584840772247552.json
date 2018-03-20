@@ -1,1 +1,144 @@
-{"geo": null, "filter_level": "low", "in_reply_to_status_id": null, "lang": "es", "favorite_count": 0, "coordinates": null, "favorited": false, "place": {"name": "Barcelona", "full_name": "Barcelona, Espa\u00f1a", "place_type": "city", "country": "Espa\u00f1a", "id": "1a27537478dd8e38", "bounding_box": {"type": "Polygon", "coordinates": [[[2.052477, 41.317048], [2.052477, 41.468266], [2.229978, 41.468266], [2.229978, 41.317048]]]}, "attributes": {}, "url": "https://api.twitter.com/1.1/geo/id/1a27537478dd8e38.json", "country_code": "ES"}, "contributors": null, "entities": {"hashtags": [], "urls": [{"display_url": "twitter.com/i/web/status/9\u2026", "expanded_url": "https://twitter.com/i/web/status/930584840772247552", "url": "https://t.co/9A1UqEVxv7", "indices": [117, 140]}], "symbols": [], "user_mentions": [{"id": 11611502, "id_str": "11611502", "name": "Carles Puigdemont \ud83c\udf97", "indices": [8, 13], "screen_name": "KRLS"}, {"id": 31416615, "id_str": "31416615", "name": "Oriol Junqueras", "indices": [14, 24], "screen_name": "junqueras"}]}, "id": 930584840772247552, "user": {"followers_count": 8185, "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png", "profile_background_color": "C0DEED", "translator_type": "none", "profile_image_url": "http://pbs.twimg.com/profile_images/825428648056516608/eidxmD9E_normal.jpg", "profile_banner_url": "https://pbs.twimg.com/profile_banners/364801118/1485632502", "default_profile": true, "utc_offset": 3600, "lang": "es", "url": "http://www.periospot.com", "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", "profile_image_url_https": "https://pbs.twimg.com/profile_images/825428648056516608/eidxmD9E_normal.jpg", "time_zone": "Madrid", "profile_sidebar_border_color": "C0DEED", "profile_use_background_image": true, "id": 364801118, "profile_link_color": "1DA1F2", "profile_sidebar_fill_color": "DDEEF6", "profile_background_tile": false, "geo_enabled": true, "id_str": "364801118", "verified": false, "name": "Francisco T. Barbosa", "is_translator": false, "notifications": null, "following": null, "friends_count": 8533, "contributors_enabled": false, "screen_name": "Cisco_research", "created_at": "Tue Aug 30 11:01:59 +0000 2011", "profile_text_color": "333333", "favourites_count": 18377, "follow_request_sent": null, "description": "DDS. Author of several iBooks about implant #dentistry. International speaker. Periospot cofounder.Unfortunately Bluetooth is not a dental term. \ud83c\uddf5\ud83c\uddf9\ud83c\uddea\ud83c\uddf8\ud83c\uddea\ud83c\uddfa", "default_profile_image": false, "location": "Barcelona-Guimar\u0101es", "listed_count": 138, "protected": false, "statuses_count": 21836}, "id_str": "930584840772247552", "retweet_count": 0, "retweeted": false, "quote_count": 0, "truncated": true, "in_reply_to_status_id_str": null, "reply_count": 0, "created_at": "Tue Nov 14 23:54:50 +0000 2017", "is_quote_status": false, "in_reply_to_user_id": null, "timestamp_ms": "1510703690127", "text": "Gracias @KRLS @junqueras y todos vosotros que hab\u00e9is dividido familias y amistades. Gracias a vosotros hasta mi mat\u2026 https://t.co/9A1UqEVxv7", "extended_tweet": {"full_text": "Gracias @KRLS @junqueras y todos vosotros que hab\u00e9is dividido familias y amistades. Gracias a vosotros hasta mi matrimonio est\u00e1 dividido. Cuento con vosotros para pagar la pensi\u00f3n por mis 4 hijos y quiz\u00e1s @omnium y la @assemblea puedan ayudar tambi\u00e9n.", "display_text_range": [0, 251], "entities": {"hashtags": [], "urls": [], "symbols": [], "user_mentions": [{"id": 11611502, "id_str": "11611502", "name": "Carles Puigdemont \ud83c\udf97", "indices": [8, 13], "screen_name": "KRLS"}, {"id": 31416615, "id_str": "31416615", "name": "Oriol Junqueras", "indices": [14, 24], "screen_name": "junqueras"}, {"id": 14274516, "id_str": "14274516", "name": "\u00d2mnium Cultural", "indices": [205, 212], "screen_name": "omnium"}, {"id": 256025198, "id_str": "256025198", "name": "Assemblea Nacional", "indices": [218, 228], "screen_name": "assemblea"}]}}, "in_reply_to_user_id_str": null, "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>", "in_reply_to_screen_name": null}
+{
+  "geo": null,
+  "filter_level": "low",
+  "in_reply_to_status_id": null,
+  "lang": "es",
+  "favorite_count": 0,
+  "coordinates": null,
+  "favorited": false,
+  "place": {
+    "name": "Barcelona",
+    "full_name": "Barcelona, Espa\u00f1a",
+    "place_type": "city",
+    "country": "Espa\u00f1a",
+    "id": "1a27537478dd8e38",
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [[[2.052477, 41.317048], [2.052477, 41.468266], [2.229978, 41.468266], [2.229978, 41.317048]]]
+    },
+    "attributes": {},
+    "url": "https://api.twitter.com/1.1/geo/id/1a27537478dd8e38.json",
+    "country_code": "ES"
+  },
+  "contributors": null,
+  "entities": {
+    "hashtags": [],
+    "urls": [
+      {
+        "display_url": "twitter.com/i/web/status/9\u2026",
+        "expanded_url": "https://twitter.com/i/web/status/930584840772247552",
+        "url": "https://t.co/9A1UqEVxv7",
+        "indices": [117, 140]
+      }
+    ],
+    "symbols": [],
+    "user_mentions": [
+      {
+        "id": 11611502,
+        "id_str": "11611502",
+        "name": "Carles Puigdemont \ud83c\udf97",
+        "indices": [8, 13],
+        "screen_name": "KRLS"
+      }, {
+        "id": 31416615,
+        "id_str": "31416615",
+        "name": "Oriol Junqueras",
+        "indices": [14, 24],
+        "screen_name": "junqueras"
+      }
+    ]
+  },
+  "id": 930584840772247552,
+  "user": {
+    "followers_count": 8185,
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_color": "C0DEED",
+    "translator_type": "none",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/825428648056516608/eidxmD9E_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/364801118/1485632502",
+    "default_profile": true,
+    "utc_offset": 3600,
+    "lang": "es",
+    "url": "http://www.periospot.com",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/825428648056516608/eidxmD9E_normal.jpg",
+    "time_zone": "Madrid",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_use_background_image": true,
+    "id": 364801118,
+    "profile_link_color": "1DA1F2",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_background_tile": false,
+    "geo_enabled": true,
+    "id_str": "364801118",
+    "verified": false,
+    "name": "Francisco T. Barbosa",
+    "is_translator": false,
+    "notifications": null,
+    "following": null,
+    "friends_count": 8533,
+    "contributors_enabled": false,
+    "screen_name": "Cisco_research",
+    "created_at": "Tue Aug 30 11:01:59 +0000 2011",
+    "profile_text_color": "333333",
+    "favourites_count": 18377,
+    "follow_request_sent": null,
+    "description": "DDS. Author of several iBooks about implant #dentistry. International speaker. Periospot cofounder.Unfortunately Bluetooth is not a dental term. \ud83c\uddf5\ud83c\uddf9\ud83c\uddea\ud83c\uddf8\ud83c\uddea\ud83c\uddfa",
+    "default_profile_image": false,
+    "location": "Barcelona-Guimar\u0101es",
+    "listed_count": 138,
+    "protected": false,
+    "statuses_count": 21836
+  },
+  "id_str": "930584840772247552",
+  "retweet_count": 0,
+  "retweeted": false,
+  "quote_count": 0,
+  "truncated": true,
+  "in_reply_to_status_id_str": null,
+  "reply_count": 0,
+  "created_at": "Tue Nov 14 23:54:50 +0000 2017",
+  "is_quote_status": false,
+  "in_reply_to_user_id": null,
+  "timestamp_ms": "1510703690127",
+  "text": "Gracias @KRLS @junqueras y todos vosotros que hab\u00e9is dividido familias y amistades. Gracias a vosotros hasta mi mat\u2026 https://t.co/9A1UqEVxv7",
+  "extended_tweet": {
+    "full_text": "Gracias @KRLS @junqueras y todos vosotros que hab\u00e9is dividido familias y amistades. Gracias a vosotros hasta mi matrimonio est\u00e1 dividido. Cuento con vosotros para pagar la pensi\u00f3n por mis 4 hijos y quiz\u00e1s @omnium y la @assemblea puedan ayudar tambi\u00e9n.",
+    "display_text_range": [0, 251],
+    "entities": {
+      "hashtags": [],
+      "urls": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "id": 11611502,
+          "id_str": "11611502",
+          "name": "Carles Puigdemont \ud83c\udf97",
+          "indices": [8, 13],
+          "screen_name": "KRLS"
+        }, {
+          "id": 31416615,
+          "id_str": "31416615",
+          "name": "Oriol Junqueras",
+          "indices": [14, 24],
+          "screen_name": "junqueras"
+        }, {
+          "id": 14274516,
+          "id_str": "14274516",
+          "name": "\u00d2mnium Cultural",
+          "indices": [205, 212],
+          "screen_name": "omnium"
+        }, {
+          "id": 256025198,
+          "id_str": "256025198",
+          "name": "Assemblea Nacional",
+          "indices": [218, 228],
+          "screen_name": "assemblea"
+        }
+      ]
+    }
+  },
+  "in_reply_to_user_id_str": null,
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "in_reply_to_screen_name": null
+}

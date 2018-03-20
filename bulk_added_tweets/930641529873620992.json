@@ -1,1 +1,119 @@
-{"in_reply_to_screen_name": "CARLOSFMEJIA", "geo": null, "filter_level": "low", "in_reply_to_status_id": 930585522636050432, "lang": "es", "favorite_count": 0, "display_text_range": [73, 140], "favorited": false, "place": {"name": "Bogot\u00e1, D.C.", "full_name": "Bogot\u00e1, D.C., Colombia", "place_type": "city", "country": "Colombia", "id": "0161be1b3f98d6c3", "bounding_box": {"type": "Polygon", "coordinates": [[[-74.483289, 3.717432], [-74.483289, 4.807135], [-74.004053, 4.807135], [-74.004053, 3.717432]]]}, "attributes": {}, "url": "https://api.twitter.com/1.1/geo/id/0161be1b3f98d6c3.json", "country_code": "CO"}, "coordinates": null, "entities": {"hashtags": [], "urls": [], "symbols": [], "user_mentions": [{"id": 277206820, "id_str": "277206820", "name": "Carlos Felipe Mej\u00eda", "indices": [0, 13], "screen_name": "CARLOSFMEJIA"}, {"id": 1201567172, "id_str": "1201567172", "name": "General Naranjo", "indices": [14, 25], "screen_name": "Gr_Naranjo"}, {"id": 432655805, "id_str": "432655805", "name": "S\u00e1bados Felices", "indices": [26, 41], "screen_name": "SabadosFelices"}, {"id": 1115440213, "id_str": "1115440213", "name": "Centro Democr\u00e1tico", "indices": [42, 56], "screen_name": "CeDemocratico"}, {"id": 61097151, "id_str": "61097151", "name": "\u00c1lvaro Uribe V\u00e9lez", "indices": [57, 72], "screen_name": "AlvaroUribeVel"}]}, "id": 930641529873620992, "user": {"followers_count": 104, "profile_background_image_url": "", "profile_background_color": "F5F8FA", "translator_type": "none", "profile_image_url": "http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png", "default_profile": true, "utc_offset": null, "lang": "es", "url": null, "profile_background_image_url_https": "", "profile_image_url_https": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png", "time_zone": null, "profile_sidebar_border_color": "C0DEED", "profile_use_background_image": true, "id": 763083307466780672, "profile_link_color": "1DA1F2", "profile_sidebar_fill_color": "DDEEF6", "profile_background_tile": false, "geo_enabled": true, "id_str": "763083307466780672", "verified": false, "name": "Juan Manuel", "is_translator": false, "notifications": null, "following": null, "friends_count": 5, "contributors_enabled": false, "screen_name": "jmcharrias", "created_at": "Tue Aug 09 18:43:32 +0000 2016", "profile_text_color": "333333", "favourites_count": 14, "follow_request_sent": null, "description": null, "default_profile_image": false, "location": null, "listed_count": 2, "protected": false, "statuses_count": 19462}, "id_str": "930641529873620992", "retweet_count": 0, "retweeted": false, "quote_count": 0, "truncated": false, "in_reply_to_status_id_str": "930585522636050432", "reply_count": 0, "created_at": "Wed Nov 15 03:40:05 +0000 2017", "is_quote_status": false, "in_reply_to_user_id": 277206820, "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>", "text": "@CARLOSFMEJIA @Gr_Naranjo @SabadosFelices @CeDemocratico @AlvaroUribeVel Naranjo cr\u00e9tino sinverguenza mentiroso respete al pa\u00eds a la policia", "timestamp_ms": "1510717205862", "in_reply_to_user_id_str": "277206820", "contributors": null}
+{
+  "in_reply_to_screen_name": "CARLOSFMEJIA",
+  "geo": null,
+  "filter_level": "low",
+  "in_reply_to_status_id": 930585522636050432,
+  "lang": "es",
+  "favorite_count": 0,
+  "display_text_range": [73, 140],
+  "favorited": false,
+  "place": {
+    "name": "Bogot\u00e1, D.C.",
+    "full_name": "Bogot\u00e1, D.C., Colombia",
+    "place_type": "city",
+    "country": "Colombia",
+    "id": "0161be1b3f98d6c3",
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [[[-74.483289, 3.717432], [-74.483289, 4.807135], [-74.004053, 4.807135], [-74.004053, 3.717432]]]
+    },
+    "attributes": {},
+    "url": "https://api.twitter.com/1.1/geo/id/0161be1b3f98d6c3.json",
+    "country_code": "CO"
+  },
+  "coordinates": null,
+  "entities": {
+    "hashtags": [],
+    "urls": [],
+    "symbols": [],
+    "user_mentions": [
+      {
+        "id": 277206820,
+        "id_str": "277206820",
+        "name": "Carlos Felipe Mej\u00eda",
+        "indices": [0, 13],
+        "screen_name": "CARLOSFMEJIA"
+      }, {
+        "id": 1201567172,
+        "id_str": "1201567172",
+        "name": "General Naranjo",
+        "indices": [14, 25],
+        "screen_name": "Gr_Naranjo"
+      }, {
+        "id": 432655805,
+        "id_str": "432655805",
+        "name": "S\u00e1bados Felices",
+        "indices": [26, 41],
+        "screen_name": "SabadosFelices"
+      }, {
+        "id": 1115440213,
+        "id_str": "1115440213",
+        "name": "Centro Democr\u00e1tico",
+        "indices": [42, 56],
+        "screen_name": "CeDemocratico"
+      }, {
+        "id": 61097151,
+        "id_str": "61097151",
+        "name": "\u00c1lvaro Uribe V\u00e9lez",
+        "indices": [57, 72],
+        "screen_name": "AlvaroUribeVel"
+      }
+    ]
+  },
+  "id": 930641529873620992,
+  "user": {
+    "followers_count": 104,
+    "profile_background_image_url": "",
+    "profile_background_color": "F5F8FA",
+    "translator_type": "none",
+    "profile_image_url": "http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+    "default_profile": true,
+    "utc_offset": null,
+    "lang": "es",
+    "url": null,
+    "profile_background_image_url_https": "",
+    "profile_image_url_https": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+    "time_zone": null,
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_use_background_image": true,
+    "id": 763083307466780672,
+    "profile_link_color": "1DA1F2",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_background_tile": false,
+    "geo_enabled": true,
+    "id_str": "763083307466780672",
+    "verified": false,
+    "name": "Juan Manuel",
+    "is_translator": false,
+    "notifications": null,
+    "following": null,
+    "friends_count": 5,
+    "contributors_enabled": false,
+    "screen_name": "jmcharrias",
+    "created_at": "Tue Aug 09 18:43:32 +0000 2016",
+    "profile_text_color": "333333",
+    "favourites_count": 14,
+    "follow_request_sent": null,
+    "description": null,
+    "default_profile_image": false,
+    "location": null,
+    "listed_count": 2,
+    "protected": false,
+    "statuses_count": 19462
+  },
+  "id_str": "930641529873620992",
+  "retweet_count": 0,
+  "retweeted": false,
+  "quote_count": 0,
+  "truncated": false,
+  "in_reply_to_status_id_str": "930585522636050432",
+  "reply_count": 0,
+  "created_at": "Wed Nov 15 03:40:05 +0000 2017",
+  "is_quote_status": false,
+  "in_reply_to_user_id": 277206820,
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "text": "@CARLOSFMEJIA @Gr_Naranjo @SabadosFelices @CeDemocratico @AlvaroUribeVel Naranjo cr\u00e9tino sinverguenza mentiroso respete al pa\u00eds a la policia",
+  "timestamp_ms": "1510717205862",
+  "in_reply_to_user_id_str": "277206820",
+  "contributors": null
+}

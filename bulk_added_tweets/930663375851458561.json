@@ -1,1 +1,103 @@
-{"geo": {"type": "Point", "coordinates": [-34.9239943, -57.93292522]}, "filter_level": "low", "in_reply_to_status_id": null, "lang": "es", "favorite_count": 0, "coordinates": {"type": "Point", "coordinates": [-57.93292522, -34.9239943]}, "favorited": false, "place": {"name": "La Plata", "full_name": "La Plata, Argentina", "place_type": "city", "country": "Argentina", "id": "0177894212b08f73", "bounding_box": {"type": "Polygon", "coordinates": [[[-58.160874, -35.031373], [-58.160874, -34.841264], [-57.865169, -34.841264], [-57.865169, -35.031373]]]}, "attributes": {}, "url": "https://api.twitter.com/1.1/geo/id/0177894212b08f73.json", "country_code": "AR"}, "contributors": null, "entities": {"hashtags": [], "urls": [{"display_url": "instagram.com/p/BbgOjvvhBQy/", "expanded_url": "https://www.instagram.com/p/BbgOjvvhBQy/", "url": "https://t.co/PtHSDrHH3J", "indices": [98, 121]}], "symbols": [], "user_mentions": []}, "id": 930663375851458561, "possibly_sensitive": false, "user": {"followers_count": 665, "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/793662444/dea16c7019869f66d3b5c8a787d2ab0a.jpeg", "profile_background_color": "18F0D0", "translator_type": "none", "profile_image_url": "http://pbs.twimg.com/profile_images/2472615917/3ry3jga2xi2hrgng69c0_normal.jpeg", "profile_banner_url": "https://pbs.twimg.com/profile_banners/273986371/1501806140", "default_profile": false, "utc_offset": -10800, "lang": "es", "url": "https://web.facebook.com/cinefilosabordo/", "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/793662444/dea16c7019869f66d3b5c8a787d2ab0a.jpeg", "profile_image_url_https": "https://pbs.twimg.com/profile_images/2472615917/3ry3jga2xi2hrgng69c0_normal.jpeg", "time_zone": "America/Argentina/Buenos_Aires", "profile_sidebar_border_color": "FFFFFF", "profile_use_background_image": true, "id": 273986371, "profile_link_color": "981CEB", "profile_sidebar_fill_color": "7AC3EE", "profile_background_tile": true, "geo_enabled": true, "id_str": "273986371", "verified": false, "name": "Lidia Coria", "is_translator": false, "notifications": null, "following": null, "friends_count": 817, "contributors_enabled": false, "screen_name": "liXoria", "created_at": "Tue Mar 29 14:16:29 +0000 2011", "profile_text_color": "3D1957", "favourites_count": 4624, "follow_request_sent": null, "description": "Cin\u00e9fila/Geek/ Escribo en Revista Express de @elancasti/ Hablo de cine en @RadioAncasti 98.5 y @radiovalleviejo 104.1 todos los jueves", "default_profile_image": false, "location": "Argentina", "listed_count": 15, "protected": false, "statuses_count": 10971}, "id_str": "930663375851458561", "retweet_count": 0, "retweeted": false, "quote_count": 0, "truncated": false, "in_reply_to_status_id_str": null, "reply_count": 0, "created_at": "Wed Nov 15 05:06:54 +0000 2017", "is_quote_status": false, "in_reply_to_user_id": null, "source": "<a href=\"http://instagram.com\" rel=\"nofollow\">Instagram</a>", "text": "Tomando unas cervecitas en la noche m\u00e1s calurosa de La Plata. Gracias totales juanignacio.molina\u2026 https://t.co/PtHSDrHH3J", "timestamp_ms": "1510722414349", "in_reply_to_user_id_str": null, "in_reply_to_screen_name": null}
+{
+  "geo": {
+    "type": "Point",
+    "coordinates": [-34.9239943, -57.93292522]
+  },
+  "filter_level": "low",
+  "in_reply_to_status_id": null,
+  "lang": "es",
+  "favorite_count": 0,
+  "coordinates": {
+    "type": "Point",
+    "coordinates": [-57.93292522, -34.9239943]
+  },
+  "favorited": false,
+  "place": {
+    "name": "La Plata",
+    "full_name": "La Plata, Argentina",
+    "place_type": "city",
+    "country": "Argentina",
+    "id": "0177894212b08f73",
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [[-58.160874, -35.031373], [-58.160874, -34.841264], [-57.865169, -34.841264], [-57.865169, -35.031373]]
+      ]
+    },
+    "attributes": {},
+    "url": "https://api.twitter.com/1.1/geo/id/0177894212b08f73.json",
+    "country_code": "AR"
+  },
+  "contributors": null,
+  "entities": {
+    "hashtags": [],
+    "urls": [
+      {
+        "display_url": "instagram.com/p/BbgOjvvhBQy/",
+        "expanded_url": "https://www.instagram.com/p/BbgOjvvhBQy/",
+        "url": "https://t.co/PtHSDrHH3J",
+        "indices": [98, 121]
+      }
+    ],
+    "symbols": [],
+    "user_mentions": []
+  },
+  "id": 930663375851458561,
+  "possibly_sensitive": false,
+  "user": {
+    "followers_count": 665,
+    "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/793662444/dea16c7019869f66d3b5c8a787d2ab0a.jpeg",
+    "profile_background_color": "18F0D0",
+    "translator_type": "none",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/2472615917/3ry3jga2xi2hrgng69c0_normal.jpeg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/273986371/1501806140",
+    "default_profile": false,
+    "utc_offset": -10800,
+    "lang": "es",
+    "url": "https://web.facebook.com/cinefilosabordo/",
+    "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/793662444/dea16c7019869f66d3b5c8a787d2ab0a.jpeg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/2472615917/3ry3jga2xi2hrgng69c0_normal.jpeg",
+    "time_zone": "America/Argentina/Buenos_Aires",
+    "profile_sidebar_border_color": "FFFFFF",
+    "profile_use_background_image": true,
+    "id": 273986371,
+    "profile_link_color": "981CEB",
+    "profile_sidebar_fill_color": "7AC3EE",
+    "profile_background_tile": true,
+    "geo_enabled": true,
+    "id_str": "273986371",
+    "verified": false,
+    "name": "Lidia Coria",
+    "is_translator": false,
+    "notifications": null,
+    "following": null,
+    "friends_count": 817,
+    "contributors_enabled": false,
+    "screen_name": "liXoria",
+    "created_at": "Tue Mar 29 14:16:29 +0000 2011",
+    "profile_text_color": "3D1957",
+    "favourites_count": 4624,
+    "follow_request_sent": null,
+    "description": "Cin\u00e9fila/Geek/ Escribo en Revista Express de @elancasti/ Hablo de cine en @RadioAncasti 98.5 y @radiovalleviejo 104.1 todos los jueves",
+    "default_profile_image": false,
+    "location": "Argentina",
+    "listed_count": 15,
+    "protected": false,
+    "statuses_count": 10971
+  },
+  "id_str": "930663375851458561",
+  "retweet_count": 0,
+  "retweeted": false,
+  "quote_count": 0,
+  "truncated": false,
+  "in_reply_to_status_id_str": null,
+  "reply_count": 0,
+  "created_at": "Wed Nov 15 05:06:54 +0000 2017",
+  "is_quote_status": false,
+  "in_reply_to_user_id": null,
+  "source": "<a href=\"http://instagram.com\" rel=\"nofollow\">Instagram</a>",
+  "text": "Tomando unas cervecitas en la noche m\u00e1s calurosa de La Plata. Gracias totales juanignacio.molina\u2026 https://t.co/PtHSDrHH3J",
+  "timestamp_ms": "1510722414349",
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null
+}

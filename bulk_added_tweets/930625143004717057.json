@@ -1,1 +1,115 @@
-{"geo": null, "filter_level": "low", "in_reply_to_status_id": null, "lang": "es", "favorite_count": 0, "coordinates": null, "favorited": false, "place": {"name": "La Plata", "full_name": "La Plata, Argentina", "place_type": "city", "country": "Argentina", "id": "0177894212b08f73", "bounding_box": {"type": "Polygon", "coordinates": [[[-58.160874, -35.031373], [-58.160874, -34.841264], [-57.865169, -34.841264], [-57.865169, -35.031373]]]}, "attributes": {}, "url": "https://api.twitter.com/1.1/geo/id/0177894212b08f73.json", "country_code": "AR"}, "contributors": null, "entities": {"hashtags": [{"text": "presupuesto2018", "indices": [66, 82]}], "urls": [{"display_url": "twitter.com/i/web/status/9\u2026", "expanded_url": "https://twitter.com/i/web/status/930625143004717057", "url": "https://t.co/7ZAb87n6EQ", "indices": [117, 140]}], "symbols": [], "user_mentions": []}, "id": 930625143004717057, "user": {"followers_count": 479, "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png", "profile_background_color": "000000", "translator_type": "none", "profile_image_url": "http://pbs.twimg.com/profile_images/855939842873716738/3ftMWQX0_normal.jpg", "default_profile": false, "utc_offset": null, "lang": "es", "url": null, "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", "profile_image_url_https": "https://pbs.twimg.com/profile_images/855939842873716738/3ftMWQX0_normal.jpg", "time_zone": null, "profile_sidebar_border_color": "000000", "profile_use_background_image": false, "id": 932880674, "profile_link_color": "DD2E44", "profile_sidebar_fill_color": "000000", "profile_background_tile": false, "geo_enabled": true, "id_str": "932880674", "verified": false, "name": "Colo duarte", "is_translator": false, "notifications": null, "following": null, "friends_count": 364, "contributors_enabled": false, "screen_name": "coloduartee", "created_at": "Wed Nov 07 20:32:12 +0000 2012", "profile_text_color": "000000", "favourites_count": 38, "follow_request_sent": null, "description": "25 a\u00f1os - Director de Enlace Legislativo - Abogado UNLP - Adscripto Derecho de Familia", "default_profile_image": false, "location": "La Plata, Argentina", "listed_count": 1, "protected": false, "statuses_count": 26}, "id_str": "930625143004717057", "retweet_count": 0, "retweeted": false, "quote_count": 0, "truncated": true, "in_reply_to_status_id_str": null, "reply_count": 0, "created_at": "Wed Nov 15 02:34:58 +0000 2017", "is_quote_status": false, "in_reply_to_user_id": null, "timestamp_ms": "1510713298928", "text": "Un gobierno que con di\u00e1logo genera hechos pol\u00edticos. Se aprob\u00f3 el #presupuesto2018 para seguir profundizando el cam\u2026 https://t.co/7ZAb87n6EQ", "extended_tweet": {"full_text": "Un gobierno que con di\u00e1logo genera hechos pol\u00edticos. Se aprob\u00f3 el #presupuesto2018 para seguir profundizando el cambio en la provincia de Buenos Aires.", "display_text_range": [0, 151], "entities": {"hashtags": [{"text": "presupuesto2018", "indices": [66, 82]}], "urls": [], "symbols": [], "user_mentions": []}}, "in_reply_to_user_id_str": null, "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>", "in_reply_to_screen_name": null}
+{
+  "geo": null,
+  "filter_level": "low",
+  "in_reply_to_status_id": null,
+  "lang": "es",
+  "favorite_count": 0,
+  "coordinates": null,
+  "favorited": false,
+  "place": {
+    "name": "La Plata",
+    "full_name": "La Plata, Argentina",
+    "place_type": "city",
+    "country": "Argentina",
+    "id": "0177894212b08f73",
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [[-58.160874, -35.031373], [-58.160874, -34.841264], [-57.865169, -34.841264], [-57.865169, -35.031373]]
+      ]
+    },
+    "attributes": {},
+    "url": "https://api.twitter.com/1.1/geo/id/0177894212b08f73.json",
+    "country_code": "AR"
+  },
+  "contributors": null,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "presupuesto2018",
+        "indices": [66, 82]
+      }
+    ],
+    "urls": [
+      {
+        "display_url": "twitter.com/i/web/status/9\u2026",
+        "expanded_url": "https://twitter.com/i/web/status/930625143004717057",
+        "url": "https://t.co/7ZAb87n6EQ",
+        "indices": [117, 140]
+      }
+    ],
+    "symbols": [],
+    "user_mentions": []
+  },
+  "id": 930625143004717057,
+  "user": {
+    "followers_count": 479,
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_color": "000000",
+    "translator_type": "none",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/855939842873716738/3ftMWQX0_normal.jpg",
+    "default_profile": false,
+    "utc_offset": null,
+    "lang": "es",
+    "url": null,
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/855939842873716738/3ftMWQX0_normal.jpg",
+    "time_zone": null,
+    "profile_sidebar_border_color": "000000",
+    "profile_use_background_image": false,
+    "id": 932880674,
+    "profile_link_color": "DD2E44",
+    "profile_sidebar_fill_color": "000000",
+    "profile_background_tile": false,
+    "geo_enabled": true,
+    "id_str": "932880674",
+    "verified": false,
+    "name": "Colo duarte",
+    "is_translator": false,
+    "notifications": null,
+    "following": null,
+    "friends_count": 364,
+    "contributors_enabled": false,
+    "screen_name": "coloduartee",
+    "created_at": "Wed Nov 07 20:32:12 +0000 2012",
+    "profile_text_color": "000000",
+    "favourites_count": 38,
+    "follow_request_sent": null,
+    "description": "25 a\u00f1os - Director de Enlace Legislativo - Abogado UNLP - Adscripto Derecho de Familia",
+    "default_profile_image": false,
+    "location": "La Plata, Argentina",
+    "listed_count": 1,
+    "protected": false,
+    "statuses_count": 26
+  },
+  "id_str": "930625143004717057",
+  "retweet_count": 0,
+  "retweeted": false,
+  "quote_count": 0,
+  "truncated": true,
+  "in_reply_to_status_id_str": null,
+  "reply_count": 0,
+  "created_at": "Wed Nov 15 02:34:58 +0000 2017",
+  "is_quote_status": false,
+  "in_reply_to_user_id": null,
+  "timestamp_ms": "1510713298928",
+  "text": "Un gobierno que con di\u00e1logo genera hechos pol\u00edticos. Se aprob\u00f3 el #presupuesto2018 para seguir profundizando el cam\u2026 https://t.co/7ZAb87n6EQ",
+  "extended_tweet": {
+    "full_text": "Un gobierno que con di\u00e1logo genera hechos pol\u00edticos. Se aprob\u00f3 el #presupuesto2018 para seguir profundizando el cambio en la provincia de Buenos Aires.",
+    "display_text_range": [0, 151],
+    "entities": {
+      "hashtags": [
+        {
+          "text": "presupuesto2018",
+          "indices": [66, 82]
+        }
+      ],
+      "urls": [],
+      "symbols": [],
+      "user_mentions": []
+    }
+  },
+  "in_reply_to_user_id_str": null,
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "in_reply_to_screen_name": null
+}

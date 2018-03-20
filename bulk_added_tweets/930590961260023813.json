@@ -1,1 +1,108 @@
-{"geo": {"type": "Point", "coordinates": [-12.05812309, -77.08325386]}, "filter_level": "low", "in_reply_to_status_id": null, "lang": "es", "favorite_count": 0, "coordinates": {"type": "Point", "coordinates": [-77.08325386, -12.05812309]}, "favorited": false, "place": {"name": "Lima", "full_name": "Lima, Peru", "place_type": "city", "country": "Peru", "id": "006099b7317c8404", "bounding_box": {"type": "Polygon", "coordinates": [[[-77.088074, -12.080577], [-77.088074, -12.030359], [-76.999859, -12.030359], [-76.999859, -12.080577]]]}, "attributes": {}, "url": "https://api.twitter.com/1.1/geo/id/006099b7317c8404.json", "country_code": "PE"}, "contributors": null, "entities": {"hashtags": [{"text": "REVOLUTIONRADIOTOUR", "indices": [10, 30]}], "urls": [{"display_url": "swarmapp.com/c/4xC4A1X3DDD", "expanded_url": "https://www.swarmapp.com/c/4xC4A1X3DDD", "url": "https://t.co/iyGGSK6xLq", "indices": [104, 127]}], "symbols": [], "user_mentions": []}, "id": 930590961260023813, "possibly_sensitive": false, "user": {"followers_count": 168, "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif", "profile_background_color": "131516", "translator_type": "none", "profile_image_url": "http://pbs.twimg.com/profile_images/897131781157244930/7Xk1I37e_normal.jpg", "profile_banner_url": "https://pbs.twimg.com/profile_banners/2177249489/1474946477", "default_profile": false, "utc_offset": -21600, "lang": "es", "url": null, "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif", "profile_image_url_https": "https://pbs.twimg.com/profile_images/897131781157244930/7Xk1I37e_normal.jpg", "time_zone": "Central Time (US & Canada)", "profile_sidebar_border_color": "000000", "profile_use_background_image": true, "id": 2177249489, "profile_link_color": "4A913C", "profile_sidebar_fill_color": "000000", "profile_background_tile": true, "geo_enabled": true, "id_str": "2177249489", "verified": false, "name": "El Francesc \ud83d\udd2a", "is_translator": false, "notifications": null, "following": null, "friends_count": 162, "contributors_enabled": false, "screen_name": "francescterry", "created_at": "Mon Nov 11 19:31:10 +0000 2013", "profile_text_color": "000000", "favourites_count": 1216, "follow_request_sent": null, "description": "SNAPCHAT: francesterry", "default_profile_image": false, "location": "Lima, Peru", "listed_count": 9, "protected": false, "statuses_count": 8798}, "id_str": "930590961260023813", "retweet_count": 0, "retweeted": false, "quote_count": 0, "truncated": false, "in_reply_to_status_id_str": null, "reply_count": 0, "created_at": "Wed Nov 15 00:19:09 +0000 2017", "is_quote_status": false, "in_reply_to_user_id": null, "source": "<a href=\"http://foursquare.com\" rel=\"nofollow\">Foursquare</a>", "text": "Green Day #REVOLUTIONRADIOTOUR (@ Estadio de la Universidad Nacional Mayor de San Marcos for Green Day) https://t.co/iyGGSK6xLq", "timestamp_ms": "1510705149365", "in_reply_to_user_id_str": null, "in_reply_to_screen_name": null}
+{
+  "geo": {
+    "type": "Point",
+    "coordinates": [-12.05812309, -77.08325386]
+  },
+  "filter_level": "low",
+  "in_reply_to_status_id": null,
+  "lang": "es",
+  "favorite_count": 0,
+  "coordinates": {
+    "type": "Point",
+    "coordinates": [-77.08325386, -12.05812309]
+  },
+  "favorited": false,
+  "place": {
+    "name": "Lima",
+    "full_name": "Lima, Peru",
+    "place_type": "city",
+    "country": "Peru",
+    "id": "006099b7317c8404",
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [[-77.088074, -12.080577], [-77.088074, -12.030359], [-76.999859, -12.030359], [-76.999859, -12.080577]]
+      ]
+    },
+    "attributes": {},
+    "url": "https://api.twitter.com/1.1/geo/id/006099b7317c8404.json",
+    "country_code": "PE"
+  },
+  "contributors": null,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "REVOLUTIONRADIOTOUR",
+        "indices": [10, 30]
+      }
+    ],
+    "urls": [
+      {
+        "display_url": "swarmapp.com/c/4xC4A1X3DDD",
+        "expanded_url": "https://www.swarmapp.com/c/4xC4A1X3DDD",
+        "url": "https://t.co/iyGGSK6xLq",
+        "indices": [104, 127]
+      }
+    ],
+    "symbols": [],
+    "user_mentions": []
+  },
+  "id": 930590961260023813,
+  "possibly_sensitive": false,
+  "user": {
+    "followers_count": 168,
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+    "profile_background_color": "131516",
+    "translator_type": "none",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/897131781157244930/7Xk1I37e_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/2177249489/1474946477",
+    "default_profile": false,
+    "utc_offset": -21600,
+    "lang": "es",
+    "url": null,
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/897131781157244930/7Xk1I37e_normal.jpg",
+    "time_zone": "Central Time (US & Canada)",
+    "profile_sidebar_border_color": "000000",
+    "profile_use_background_image": true,
+    "id": 2177249489,
+    "profile_link_color": "4A913C",
+    "profile_sidebar_fill_color": "000000",
+    "profile_background_tile": true,
+    "geo_enabled": true,
+    "id_str": "2177249489",
+    "verified": false,
+    "name": "El Francesc \ud83d\udd2a",
+    "is_translator": false,
+    "notifications": null,
+    "following": null,
+    "friends_count": 162,
+    "contributors_enabled": false,
+    "screen_name": "francescterry",
+    "created_at": "Mon Nov 11 19:31:10 +0000 2013",
+    "profile_text_color": "000000",
+    "favourites_count": 1216,
+    "follow_request_sent": null,
+    "description": "SNAPCHAT: francesterry",
+    "default_profile_image": false,
+    "location": "Lima, Peru",
+    "listed_count": 9,
+    "protected": false,
+    "statuses_count": 8798
+  },
+  "id_str": "930590961260023813",
+  "retweet_count": 0,
+  "retweeted": false,
+  "quote_count": 0,
+  "truncated": false,
+  "in_reply_to_status_id_str": null,
+  "reply_count": 0,
+  "created_at": "Wed Nov 15 00:19:09 +0000 2017",
+  "is_quote_status": false,
+  "in_reply_to_user_id": null,
+  "source": "<a href=\"http://foursquare.com\" rel=\"nofollow\">Foursquare</a>",
+  "text": "Green Day #REVOLUTIONRADIOTOUR (@ Estadio de la Universidad Nacional Mayor de San Marcos for Green Day) https://t.co/iyGGSK6xLq",
+  "timestamp_ms": "1510705149365",
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null
+}

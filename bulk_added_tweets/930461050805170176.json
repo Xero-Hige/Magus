@@ -1,1 +1,103 @@
-{"id": 930461050805170176, "in_reply_to_status_id_str": null, "truncated": false, "place": {"id": "0010b4cb51ca93d8", "country": "Chile", "bounding_box": {"type": "Polygon", "coordinates": [[[-70.692959, -33.478574], [-70.692959, -33.425749], [-70.626272, -33.425749], [-70.626272, -33.478574]]]}, "url": "https://api.twitter.com/1.1/geo/id/0010b4cb51ca93d8.json", "full_name": "Santiago, Chile", "attributes": {}, "name": "Santiago", "place_type": "city", "country_code": "CL"}, "favorite_count": 0, "retweeted": false, "source": "<a href=\"http://instagram.com\" rel=\"nofollow\">Instagram</a>", "is_quote_status": false, "possibly_sensitive": true, "geo": {"type": "Point", "coordinates": [-33.43777778, -70.65027778]}, "coordinates": {"type": "Point", "coordinates": [-70.65027778, -33.43777778]}, "in_reply_to_status_id": null, "retweet_count": 0, "quote_count": 0, "timestamp_ms": "1510674176299", "favorited": false, "in_reply_to_user_id_str": null, "text": "Sal\u00ed Mr Furry por amigos de WhatsApp jejeje en Santiago Metropolitan Region https://t.co/tP7v1N7qe3", "entities": {"urls": [{"indices": [76, 99], "display_url": "instagram.com/p/BbeyjPLF4o-/", "url": "https://t.co/tP7v1N7qe3", "expanded_url": "https://www.instagram.com/p/BbeyjPLF4o-/"}], "symbols": [], "user_mentions": [], "hashtags": []}, "reply_count": 0, "in_reply_to_screen_name": null, "filter_level": "low", "lang": "es", "user": {"statuses_count": 2175, "id": 170930413, "default_profile": true, "favourites_count": 3376, "url": null, "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", "verified": false, "profile_image_url_https": "https://pbs.twimg.com/profile_images/760299773119303688/JxxUMw8n_normal.jpg", "translator_type": "none", "location": "Mi casa", "geo_enabled": true, "utc_offset": -14400, "notifications": null, "profile_background_tile": false, "friends_count": 542, "is_translator": false, "follow_request_sent": null, "default_profile_image": false, "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png", "profile_background_color": "C0DEED", "profile_link_color": "1DA1F2", "profile_use_background_image": true, "time_zone": "Atlantic Time (Canada)", "name": "Ramiro", "profile_text_color": "333333", "profile_sidebar_border_color": "C0DEED", "screen_name": "javoampuero", "lang": "es", "following": null, "listed_count": 5, "protected": false, "profile_sidebar_fill_color": "DDEEF6", "followers_count": 292, "profile_image_url": "http://pbs.twimg.com/profile_images/760299773119303688/JxxUMw8n_normal.jpg", "profile_banner_url": "https://pbs.twimg.com/profile_banners/170930413/1470104565", "contributors_enabled": false, "created_at": "Mon Jul 26 04:00:47 +0000 2010", "id_str": "170930413", "description": "Muy feliz de la vida"}, "created_at": "Tue Nov 14 15:42:56 +0000 2017", "id_str": "930461050805170176", "in_reply_to_user_id": null, "contributors": null}
+{
+  "id": 930461050805170176,
+  "in_reply_to_status_id_str": null,
+  "truncated": false,
+  "place": {
+    "id": "0010b4cb51ca93d8",
+    "country": "Chile",
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [[-70.692959, -33.478574], [-70.692959, -33.425749], [-70.626272, -33.425749], [-70.626272, -33.478574]]
+      ]
+    },
+    "url": "https://api.twitter.com/1.1/geo/id/0010b4cb51ca93d8.json",
+    "full_name": "Santiago, Chile",
+    "attributes": {},
+    "name": "Santiago",
+    "place_type": "city",
+    "country_code": "CL"
+  },
+  "favorite_count": 0,
+  "retweeted": false,
+  "source": "<a href=\"http://instagram.com\" rel=\"nofollow\">Instagram</a>",
+  "is_quote_status": false,
+  "possibly_sensitive": true,
+  "geo": {
+    "type": "Point",
+    "coordinates": [-33.43777778, -70.65027778]
+  },
+  "coordinates": {
+    "type": "Point",
+    "coordinates": [-70.65027778, -33.43777778]
+  },
+  "in_reply_to_status_id": null,
+  "retweet_count": 0,
+  "quote_count": 0,
+  "timestamp_ms": "1510674176299",
+  "favorited": false,
+  "in_reply_to_user_id_str": null,
+  "text": "Sal\u00ed Mr Furry por amigos de WhatsApp jejeje en Santiago Metropolitan Region https://t.co/tP7v1N7qe3",
+  "entities": {
+    "urls": [
+      {
+        "indices": [76, 99],
+        "display_url": "instagram.com/p/BbeyjPLF4o-/",
+        "url": "https://t.co/tP7v1N7qe3",
+        "expanded_url": "https://www.instagram.com/p/BbeyjPLF4o-/"
+      }
+    ],
+    "symbols": [],
+    "user_mentions": [],
+    "hashtags": []
+  },
+  "reply_count": 0,
+  "in_reply_to_screen_name": null,
+  "filter_level": "low",
+  "lang": "es",
+  "user": {
+    "statuses_count": 2175,
+    "id": 170930413,
+    "default_profile": true,
+    "favourites_count": 3376,
+    "url": null,
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "verified": false,
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/760299773119303688/JxxUMw8n_normal.jpg",
+    "translator_type": "none",
+    "location": "Mi casa",
+    "geo_enabled": true,
+    "utc_offset": -14400,
+    "notifications": null,
+    "profile_background_tile": false,
+    "friends_count": 542,
+    "is_translator": false,
+    "follow_request_sent": null,
+    "default_profile_image": false,
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_color": "C0DEED",
+    "profile_link_color": "1DA1F2",
+    "profile_use_background_image": true,
+    "time_zone": "Atlantic Time (Canada)",
+    "name": "Ramiro",
+    "profile_text_color": "333333",
+    "profile_sidebar_border_color": "C0DEED",
+    "screen_name": "javoampuero",
+    "lang": "es",
+    "following": null,
+    "listed_count": 5,
+    "protected": false,
+    "profile_sidebar_fill_color": "DDEEF6",
+    "followers_count": 292,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/760299773119303688/JxxUMw8n_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/170930413/1470104565",
+    "contributors_enabled": false,
+    "created_at": "Mon Jul 26 04:00:47 +0000 2010",
+    "id_str": "170930413",
+    "description": "Muy feliz de la vida"
+  },
+  "created_at": "Tue Nov 14 15:42:56 +0000 2017",
+  "id_str": "930461050805170176",
+  "in_reply_to_user_id": null,
+  "contributors": null
+}

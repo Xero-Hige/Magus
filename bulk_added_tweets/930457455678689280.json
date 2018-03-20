@@ -1,1 +1,159 @@
-{"id": 930457455678689280, "lang": "es", "in_reply_to_status_id_str": "930455914636644352", "truncated": true, "place": {"id": "0077cc1035dbc780", "country": "Uruguay", "bounding_box": {"type": "Polygon", "coordinates": [[[-58.491052, -33.961552], [-58.491052, -33.000153], [-57.080719, -33.000153], [-57.080719, -33.961552]]]}, "url": "https://api.twitter.com/1.1/geo/id/0077cc1035dbc780.json", "full_name": "Soriano, Uruguay", "attributes": {}, "name": "Soriano", "place_type": "admin", "country_code": "UY"}, "favorite_count": 0, "retweeted": false, "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>", "is_quote_status": false, "in_reply_to_status_id": 930455914636644352, "in_reply_to_user_id_str": "625195572", "in_reply_to_screen_name": "MariaCr17259812", "retweet_count": 0, "quote_count": 0, "timestamp_ms": "1510673319154", "favorited": false, "coordinates": null, "filter_level": "low", "entities": {"urls": [{"indices": [117, 140], "display_url": "twitter.com/i/web/status/9\u2026", "url": "https://t.co/nxFT1IhzbR", "expanded_url": "https://twitter.com/i/web/status/930457455678689280"}], "symbols": [], "user_mentions": [{"screen_name": "MariaCr17259812", "id": 625195572, "name": "Maria Cristina Gonz\u00e1", "indices": [0, 16], "id_str": "625195572"}, {"screen_name": "cmenghi", "id": 14797292, "name": "Cristian Menghi", "indices": [17, 25], "id_str": "14797292"}, {"screen_name": "cachila61", "id": 150497792, "name": "Angel Ferreira", "indices": [26, 36], "id_str": "150497792"}, {"screen_name": "leohaberkorn", "id": 75852361, "name": "Leonardo Haberkorn", "indices": [37, 50], "id_str": "75852361"}], "hashtags": []}, "reply_count": 0, "geo": null, "display_text_range": [51, 140], "text": "@MariaCr17259812 @cmenghi @cachila61 @leohaberkorn No. En Mercedes solo en la de Bascou, lo que pasa q en otras loc\u2026 https://t.co/nxFT1IhzbR", "extended_tweet": {"display_text_range": [51, 319], "entities": {"urls": [], "symbols": [], "user_mentions": [{"screen_name": "MariaCr17259812", "id": 625195572, "name": "Maria Cristina Gonz\u00e1", "indices": [0, 16], "id_str": "625195572"}, {"screen_name": "cmenghi", "id": 14797292, "name": "Cristian Menghi", "indices": [17, 25], "id_str": "14797292"}, {"screen_name": "cachila61", "id": 150497792, "name": "Angel Ferreira", "indices": [26, 36], "id_str": "150497792"}, {"screen_name": "leohaberkorn", "id": 75852361, "name": "Leonardo Haberkorn", "indices": [37, 50], "id_str": "75852361"}], "hashtags": []}, "full_text": "@MariaCr17259812 @cmenghi @cachila61 @leohaberkorn No. En Mercedes solo en la de Bascou, lo que pasa q en otras localidades cargaban en la de otros due\u00f1os x eso el % en el total del depart es menor a 100. Con Besozzi si cargaban en las dos de Mdes. Tengo un amigo chofer de la Int, el me conto, ademas de yo mismo verlo"}, "user": {"statuses_count": 21736, "id": 2782878216, "default_profile": true, "favourites_count": 47335, "url": null, "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", "verified": false, "profile_image_url_https": "https://pbs.twimg.com/profile_images/917834398833238016/bEfPMeT__normal.jpg", "translator_type": "none", "location": "Mercedes, Uruguay", "geo_enabled": true, "utc_offset": null, "notifications": null, "profile_background_tile": false, "friends_count": 830, "is_translator": false, "follow_request_sent": null, "default_profile_image": false, "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png", "profile_background_color": "C0DEED", "profile_link_color": "1DA1F2", "profile_use_background_image": true, "time_zone": null, "name": "Mart\u00edn Irigoyen", "profile_text_color": "333333", "profile_sidebar_border_color": "C0DEED", "screen_name": "tinchonegriazul", "lang": "es", "following": null, "listed_count": 8, "protected": false, "profile_sidebar_fill_color": "DDEEF6", "followers_count": 840, "profile_image_url": "http://pbs.twimg.com/profile_images/917834398833238016/bEfPMeT__normal.jpg", "profile_banner_url": "https://pbs.twimg.com/profile_banners/2782878216/1494638279", "contributors_enabled": false, "created_at": "Sun Aug 31 20:49:40 +0000 2014", "id_str": "2782878216", "description": "Uruguayo.Artiguista .Ing Agronomo. Ateo . Socialdemocrata y Agrozurdo. Astorista. Socio de Liverpool FC y fanatico del rugby.Casado . Papa de Facu y Nacho.\u26ab\u2b55"}, "created_at": "Tue Nov 14 15:28:39 +0000 2017", "id_str": "930457455678689280", "in_reply_to_user_id": 625195572, "contributors": null}
+{
+  "id": 930457455678689280,
+  "lang": "es",
+  "in_reply_to_status_id_str": "930455914636644352",
+  "truncated": true,
+  "place": {
+    "id": "0077cc1035dbc780",
+    "country": "Uruguay",
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [[-58.491052, -33.961552], [-58.491052, -33.000153], [-57.080719, -33.000153], [-57.080719, -33.961552]]
+      ]
+    },
+    "url": "https://api.twitter.com/1.1/geo/id/0077cc1035dbc780.json",
+    "full_name": "Soriano, Uruguay",
+    "attributes": {},
+    "name": "Soriano",
+    "place_type": "admin",
+    "country_code": "UY"
+  },
+  "favorite_count": 0,
+  "retweeted": false,
+  "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+  "is_quote_status": false,
+  "in_reply_to_status_id": 930455914636644352,
+  "in_reply_to_user_id_str": "625195572",
+  "in_reply_to_screen_name": "MariaCr17259812",
+  "retweet_count": 0,
+  "quote_count": 0,
+  "timestamp_ms": "1510673319154",
+  "favorited": false,
+  "coordinates": null,
+  "filter_level": "low",
+  "entities": {
+    "urls": [
+      {
+        "indices": [117, 140],
+        "display_url": "twitter.com/i/web/status/9\u2026",
+        "url": "https://t.co/nxFT1IhzbR",
+        "expanded_url": "https://twitter.com/i/web/status/930457455678689280"
+      }
+    ],
+    "symbols": [],
+    "user_mentions": [
+      {
+        "screen_name": "MariaCr17259812",
+        "id": 625195572,
+        "name": "Maria Cristina Gonz\u00e1",
+        "indices": [0, 16],
+        "id_str": "625195572"
+      }, {
+        "screen_name": "cmenghi",
+        "id": 14797292,
+        "name": "Cristian Menghi",
+        "indices": [17, 25],
+        "id_str": "14797292"
+      }, {
+        "screen_name": "cachila61",
+        "id": 150497792,
+        "name": "Angel Ferreira",
+        "indices": [26, 36],
+        "id_str": "150497792"
+      }, {
+        "screen_name": "leohaberkorn",
+        "id": 75852361,
+        "name": "Leonardo Haberkorn",
+        "indices": [37, 50],
+        "id_str": "75852361"
+      }
+    ],
+    "hashtags": []
+  },
+  "reply_count": 0,
+  "geo": null,
+  "display_text_range": [51, 140],
+  "text": "@MariaCr17259812 @cmenghi @cachila61 @leohaberkorn No. En Mercedes solo en la de Bascou, lo que pasa q en otras loc\u2026 https://t.co/nxFT1IhzbR",
+  "extended_tweet": {
+    "display_text_range": [51, 319],
+    "entities": {
+      "urls": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "screen_name": "MariaCr17259812",
+          "id": 625195572,
+          "name": "Maria Cristina Gonz\u00e1",
+          "indices": [0, 16],
+          "id_str": "625195572"
+        }, {
+          "screen_name": "cmenghi",
+          "id": 14797292,
+          "name": "Cristian Menghi",
+          "indices": [17, 25],
+          "id_str": "14797292"
+        }, {
+          "screen_name": "cachila61",
+          "id": 150497792,
+          "name": "Angel Ferreira",
+          "indices": [26, 36],
+          "id_str": "150497792"
+        }, {
+          "screen_name": "leohaberkorn",
+          "id": 75852361,
+          "name": "Leonardo Haberkorn",
+          "indices": [37, 50],
+          "id_str": "75852361"
+        }
+      ],
+      "hashtags": []
+    },
+    "full_text": "@MariaCr17259812 @cmenghi @cachila61 @leohaberkorn No. En Mercedes solo en la de Bascou, lo que pasa q en otras localidades cargaban en la de otros due\u00f1os x eso el % en el total del depart es menor a 100. Con Besozzi si cargaban en las dos de Mdes. Tengo un amigo chofer de la Int, el me conto, ademas de yo mismo verlo"
+  },
+  "user": {
+    "statuses_count": 21736,
+    "id": 2782878216,
+    "default_profile": true,
+    "favourites_count": 47335,
+    "url": null,
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "verified": false,
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/917834398833238016/bEfPMeT__normal.jpg",
+    "translator_type": "none",
+    "location": "Mercedes, Uruguay",
+    "geo_enabled": true,
+    "utc_offset": null,
+    "notifications": null,
+    "profile_background_tile": false,
+    "friends_count": 830,
+    "is_translator": false,
+    "follow_request_sent": null,
+    "default_profile_image": false,
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_color": "C0DEED",
+    "profile_link_color": "1DA1F2",
+    "profile_use_background_image": true,
+    "time_zone": null,
+    "name": "Mart\u00edn Irigoyen",
+    "profile_text_color": "333333",
+    "profile_sidebar_border_color": "C0DEED",
+    "screen_name": "tinchonegriazul",
+    "lang": "es",
+    "following": null,
+    "listed_count": 8,
+    "protected": false,
+    "profile_sidebar_fill_color": "DDEEF6",
+    "followers_count": 840,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/917834398833238016/bEfPMeT__normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/2782878216/1494638279",
+    "contributors_enabled": false,
+    "created_at": "Sun Aug 31 20:49:40 +0000 2014",
+    "id_str": "2782878216",
+    "description": "Uruguayo.Artiguista .Ing Agronomo. Ateo . Socialdemocrata y Agrozurdo. Astorista. Socio de Liverpool FC y fanatico del rugby.Casado . Papa de Facu y Nacho.\u26ab\u2b55"
+  },
+  "created_at": "Tue Nov 14 15:28:39 +0000 2017",
+  "id_str": "930457455678689280",
+  "in_reply_to_user_id": 625195572,
+  "contributors": null
+}

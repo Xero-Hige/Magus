@@ -1,1 +1,104 @@
-{"geo": null, "filter_level": "low", "in_reply_to_status_id": null, "lang": "es", "favorite_count": 0, "coordinates": null, "favorited": false, "place": {"name": "Venezuela", "full_name": "Venezuela", "place_type": "country", "country": "Venezuela", "id": "043383f8b2b79918", "bounding_box": {"type": "Polygon", "coordinates": [[[-73.354073, 0.648837], [-73.354073, 12.196802], [-59.80378, 12.196802], [-59.80378, 0.648837]]]}, "attributes": {}, "url": "https://api.twitter.com/1.1/geo/id/043383f8b2b79918.json", "country_code": "VE"}, "contributors": null, "entities": {"hashtags": [], "urls": [{"display_url": "twitter.com/i/web/status/9\u2026", "expanded_url": "https://twitter.com/i/web/status/930596429030141953", "url": "https://t.co/s5AahbEh4C", "indices": [117, 140]}], "symbols": [], "user_mentions": []}, "id": 930596429030141953, "user": {"followers_count": 1766, "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/484585001086763008/FHgWQlY-.jpeg", "profile_background_color": "FFFFFF", "translator_type": "regular", "profile_image_url": "http://pbs.twimg.com/profile_images/930393439329546241/ydKERWKD_normal.jpg", "profile_banner_url": "https://pbs.twimg.com/profile_banners/2601134455/1510657271", "default_profile": false, "utc_offset": -14400, "lang": "es", "url": null, "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/484585001086763008/FHgWQlY-.jpeg", "profile_image_url_https": "https://pbs.twimg.com/profile_images/930393439329546241/ydKERWKD_normal.jpg", "time_zone": "Caracas", "profile_sidebar_border_color": "FFFFFF", "profile_use_background_image": true, "id": 2601134455, "profile_link_color": "FF6E4A", "profile_sidebar_fill_color": "DDEEF6", "profile_background_tile": true, "geo_enabled": true, "id_str": "2601134455", "verified": false, "name": "Rosmary Deu Sella", "is_translator": false, "notifications": null, "following": null, "friends_count": 784, "contributors_enabled": false, "screen_name": "rosmarydeusella", "created_at": "Thu Jul 03 05:57:44 +0000 2014", "profile_text_color": "333333", "favourites_count": 13743, "follow_request_sent": null, "description": "17. Con las tremendas ganas de emigrar.", "default_profile_image": false, "location": "Caracas, Venezuela", "listed_count": 197, "protected": false, "statuses_count": 13025}, "id_str": "930596429030141953", "retweet_count": 0, "retweeted": false, "quote_count": 0, "truncated": true, "in_reply_to_status_id_str": null, "reply_count": 0, "created_at": "Wed Nov 15 00:40:52 +0000 2017", "is_quote_status": false, "in_reply_to_user_id": null, "timestamp_ms": "1510706452983", "text": "Creo que ya super\u00e9 la etapa de ir a fiestas con ''multa a -16'' jaja, prefiero pagar mi multa -18 en una disco buen\u2026 https://t.co/s5AahbEh4C", "extended_tweet": {"full_text": "Creo que ya super\u00e9 la etapa de ir a fiestas con ''multa a -16'' jaja, prefiero pagar mi multa -18 en una disco buena, con m\u00fasica variada, gente diferente y mis amigas a mi lado.", "display_text_range": [0, 177], "entities": {"hashtags": [], "urls": [], "symbols": [], "user_mentions": []}}, "in_reply_to_user_id_str": null, "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>", "in_reply_to_screen_name": null}
+{
+  "geo": null,
+  "filter_level": "low",
+  "in_reply_to_status_id": null,
+  "lang": "es",
+  "favorite_count": 0,
+  "coordinates": null,
+  "favorited": false,
+  "place": {
+    "name": "Venezuela",
+    "full_name": "Venezuela",
+    "place_type": "country",
+    "country": "Venezuela",
+    "id": "043383f8b2b79918",
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [[[-73.354073, 0.648837], [-73.354073, 12.196802], [-59.80378, 12.196802], [-59.80378, 0.648837]]]
+    },
+    "attributes": {},
+    "url": "https://api.twitter.com/1.1/geo/id/043383f8b2b79918.json",
+    "country_code": "VE"
+  },
+  "contributors": null,
+  "entities": {
+    "hashtags": [],
+    "urls": [
+      {
+        "display_url": "twitter.com/i/web/status/9\u2026",
+        "expanded_url": "https://twitter.com/i/web/status/930596429030141953",
+        "url": "https://t.co/s5AahbEh4C",
+        "indices": [117, 140]
+      }
+    ],
+    "symbols": [],
+    "user_mentions": []
+  },
+  "id": 930596429030141953,
+  "user": {
+    "followers_count": 1766,
+    "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/484585001086763008/FHgWQlY-.jpeg",
+    "profile_background_color": "FFFFFF",
+    "translator_type": "regular",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/930393439329546241/ydKERWKD_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/2601134455/1510657271",
+    "default_profile": false,
+    "utc_offset": -14400,
+    "lang": "es",
+    "url": null,
+    "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/484585001086763008/FHgWQlY-.jpeg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/930393439329546241/ydKERWKD_normal.jpg",
+    "time_zone": "Caracas",
+    "profile_sidebar_border_color": "FFFFFF",
+    "profile_use_background_image": true,
+    "id": 2601134455,
+    "profile_link_color": "FF6E4A",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_background_tile": true,
+    "geo_enabled": true,
+    "id_str": "2601134455",
+    "verified": false,
+    "name": "Rosmary Deu Sella",
+    "is_translator": false,
+    "notifications": null,
+    "following": null,
+    "friends_count": 784,
+    "contributors_enabled": false,
+    "screen_name": "rosmarydeusella",
+    "created_at": "Thu Jul 03 05:57:44 +0000 2014",
+    "profile_text_color": "333333",
+    "favourites_count": 13743,
+    "follow_request_sent": null,
+    "description": "17. Con las tremendas ganas de emigrar.",
+    "default_profile_image": false,
+    "location": "Caracas, Venezuela",
+    "listed_count": 197,
+    "protected": false,
+    "statuses_count": 13025
+  },
+  "id_str": "930596429030141953",
+  "retweet_count": 0,
+  "retweeted": false,
+  "quote_count": 0,
+  "truncated": true,
+  "in_reply_to_status_id_str": null,
+  "reply_count": 0,
+  "created_at": "Wed Nov 15 00:40:52 +0000 2017",
+  "is_quote_status": false,
+  "in_reply_to_user_id": null,
+  "timestamp_ms": "1510706452983",
+  "text": "Creo que ya super\u00e9 la etapa de ir a fiestas con ''multa a -16'' jaja, prefiero pagar mi multa -18 en una disco buen\u2026 https://t.co/s5AahbEh4C",
+  "extended_tweet": {
+    "full_text": "Creo que ya super\u00e9 la etapa de ir a fiestas con ''multa a -16'' jaja, prefiero pagar mi multa -18 en una disco buena, con m\u00fasica variada, gente diferente y mis amigas a mi lado.",
+    "display_text_range": [0, 177],
+    "entities": {
+      "hashtags": [],
+      "urls": [],
+      "symbols": [],
+      "user_mentions": []
+    }
+  },
+  "in_reply_to_user_id_str": null,
+  "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+  "in_reply_to_screen_name": null
+}

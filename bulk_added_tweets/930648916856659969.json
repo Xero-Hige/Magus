@@ -1,1 +1,104 @@
-{"geo": null, "filter_level": "low", "in_reply_to_status_id": null, "lang": "es", "favorite_count": 0, "coordinates": null, "favorited": false, "place": {"name": "Venezuela", "full_name": "Venezuela", "place_type": "country", "country": "Venezuela", "id": "043383f8b2b79918", "bounding_box": {"type": "Polygon", "coordinates": [[[-73.354073, 0.648837], [-73.354073, 12.196802], [-59.80378, 12.196802], [-59.80378, 0.648837]]]}, "attributes": {}, "url": "https://api.twitter.com/1.1/geo/id/043383f8b2b79918.json", "country_code": "VE"}, "contributors": null, "entities": {"hashtags": [], "urls": [{"display_url": "twitter.com/i/web/status/9\u2026", "expanded_url": "https://twitter.com/i/web/status/930648916856659969", "url": "https://t.co/tJnteO1CAG", "indices": [117, 140]}], "symbols": [], "user_mentions": []}, "id": 930648916856659969, "user": {"followers_count": 801, "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000103721143/d151cfbd8296b22d6c8d9f8f4e76eb1b.jpeg", "profile_background_color": "022330", "translator_type": "none", "profile_image_url": "http://pbs.twimg.com/profile_images/926997293630410753/kVHNLlJi_normal.jpg", "profile_banner_url": "https://pbs.twimg.com/profile_banners/75942919/1502959005", "default_profile": false, "utc_offset": -14400, "lang": "es", "url": "http://falsoparadojico.tumblr.com", "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000103721143/d151cfbd8296b22d6c8d9f8f4e76eb1b.jpeg", "profile_image_url_https": "https://pbs.twimg.com/profile_images/926997293630410753/kVHNLlJi_normal.jpg", "time_zone": "Caracas", "profile_sidebar_border_color": "FFFFFF", "profile_use_background_image": true, "id": 75942919, "profile_link_color": "ABB8C2", "profile_sidebar_fill_color": "C0DFEC", "profile_background_tile": true, "geo_enabled": true, "id_str": "75942919", "verified": false, "name": "Jos\u00e9 Miguel", "is_translator": false, "notifications": null, "following": null, "friends_count": 469, "contributors_enabled": false, "screen_name": "alasfatales", "created_at": "Mon Sep 21 02:55:50 +0000 2009", "profile_text_color": "333333", "favourites_count": 789, "follow_request_sent": null, "description": "Avasalla la noche https://www.smashwords.com/profile/view/jmnavas", "default_profile_image": false, "location": "Sur Am\u00e9rica", "listed_count": 10, "protected": false, "statuses_count": 22732}, "id_str": "930648916856659969", "retweet_count": 0, "retweeted": false, "quote_count": 0, "truncated": true, "in_reply_to_status_id_str": null, "reply_count": 0, "created_at": "Wed Nov 15 04:09:27 +0000 2017", "is_quote_status": false, "in_reply_to_user_id": null, "timestamp_ms": "1510718967056", "text": "\ud83d\udca7 26% menos de agua dulce disponible\n\n\ud83d\ude4d 35% aumento de la poblaci\u00f3n humana\n\n\ud83d\udc26 29% p\u00e9rdida de especies\n\nEn los \u00faltim\u2026 https://t.co/tJnteO1CAG", "extended_tweet": {"full_text": "\ud83d\udca7 26% menos de agua dulce disponible\n\n\ud83d\ude4d 35% aumento de la poblaci\u00f3n humana\n\n\ud83d\udc26 29% p\u00e9rdida de especies\n\nEn los \u00faltimos 25 a\u00f1os, las mayor\u00eda de amenazas a la Tierra han empeorado.", "display_text_range": [0, 177], "entities": {"hashtags": [], "urls": [], "symbols": [], "user_mentions": []}}, "in_reply_to_user_id_str": null, "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>", "in_reply_to_screen_name": null}
+{
+  "geo": null,
+  "filter_level": "low",
+  "in_reply_to_status_id": null,
+  "lang": "es",
+  "favorite_count": 0,
+  "coordinates": null,
+  "favorited": false,
+  "place": {
+    "name": "Venezuela",
+    "full_name": "Venezuela",
+    "place_type": "country",
+    "country": "Venezuela",
+    "id": "043383f8b2b79918",
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [[[-73.354073, 0.648837], [-73.354073, 12.196802], [-59.80378, 12.196802], [-59.80378, 0.648837]]]
+    },
+    "attributes": {},
+    "url": "https://api.twitter.com/1.1/geo/id/043383f8b2b79918.json",
+    "country_code": "VE"
+  },
+  "contributors": null,
+  "entities": {
+    "hashtags": [],
+    "urls": [
+      {
+        "display_url": "twitter.com/i/web/status/9\u2026",
+        "expanded_url": "https://twitter.com/i/web/status/930648916856659969",
+        "url": "https://t.co/tJnteO1CAG",
+        "indices": [117, 140]
+      }
+    ],
+    "symbols": [],
+    "user_mentions": []
+  },
+  "id": 930648916856659969,
+  "user": {
+    "followers_count": 801,
+    "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000103721143/d151cfbd8296b22d6c8d9f8f4e76eb1b.jpeg",
+    "profile_background_color": "022330",
+    "translator_type": "none",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/926997293630410753/kVHNLlJi_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/75942919/1502959005",
+    "default_profile": false,
+    "utc_offset": -14400,
+    "lang": "es",
+    "url": "http://falsoparadojico.tumblr.com",
+    "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000103721143/d151cfbd8296b22d6c8d9f8f4e76eb1b.jpeg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/926997293630410753/kVHNLlJi_normal.jpg",
+    "time_zone": "Caracas",
+    "profile_sidebar_border_color": "FFFFFF",
+    "profile_use_background_image": true,
+    "id": 75942919,
+    "profile_link_color": "ABB8C2",
+    "profile_sidebar_fill_color": "C0DFEC",
+    "profile_background_tile": true,
+    "geo_enabled": true,
+    "id_str": "75942919",
+    "verified": false,
+    "name": "Jos\u00e9 Miguel",
+    "is_translator": false,
+    "notifications": null,
+    "following": null,
+    "friends_count": 469,
+    "contributors_enabled": false,
+    "screen_name": "alasfatales",
+    "created_at": "Mon Sep 21 02:55:50 +0000 2009",
+    "profile_text_color": "333333",
+    "favourites_count": 789,
+    "follow_request_sent": null,
+    "description": "Avasalla la noche https://www.smashwords.com/profile/view/jmnavas",
+    "default_profile_image": false,
+    "location": "Sur Am\u00e9rica",
+    "listed_count": 10,
+    "protected": false,
+    "statuses_count": 22732
+  },
+  "id_str": "930648916856659969",
+  "retweet_count": 0,
+  "retweeted": false,
+  "quote_count": 0,
+  "truncated": true,
+  "in_reply_to_status_id_str": null,
+  "reply_count": 0,
+  "created_at": "Wed Nov 15 04:09:27 +0000 2017",
+  "is_quote_status": false,
+  "in_reply_to_user_id": null,
+  "timestamp_ms": "1510718967056",
+  "text": "\ud83d\udca7 26% menos de agua dulce disponible\n\n\ud83d\ude4d 35% aumento de la poblaci\u00f3n humana\n\n\ud83d\udc26 29% p\u00e9rdida de especies\n\nEn los \u00faltim\u2026 https://t.co/tJnteO1CAG",
+  "extended_tweet": {
+    "full_text": "\ud83d\udca7 26% menos de agua dulce disponible\n\n\ud83d\ude4d 35% aumento de la poblaci\u00f3n humana\n\n\ud83d\udc26 29% p\u00e9rdida de especies\n\nEn los \u00faltimos 25 a\u00f1os, las mayor\u00eda de amenazas a la Tierra han empeorado.",
+    "display_text_range": [0, 177],
+    "entities": {
+      "hashtags": [],
+      "urls": [],
+      "symbols": [],
+      "user_mentions": []
+    }
+  },
+  "in_reply_to_user_id_str": null,
+  "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+  "in_reply_to_screen_name": null
+}

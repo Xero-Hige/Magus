@@ -1,1 +1,163 @@
-{"reply_count": 0, "user": {"profile_banner_url": "https://pbs.twimg.com/profile_banners/956312414/1498085443", "following": null, "profile_background_color": "C0DEED", "url": null, "utc_offset": -18000, "follow_request_sent": null, "translator_type": "none", "profile_text_color": "333333", "id_str": "956312414", "favourites_count": 1708, "friends_count": 242, "followers_count": 265, "id": 956312414, "geo_enabled": true, "profile_sidebar_border_color": "C0DEED", "profile_image_url_https": "https://pbs.twimg.com/profile_images/891101773863301122/aZ65xLfm_normal.jpg", "statuses_count": 1264, "notifications": null, "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", "protected": false, "listed_count": 1, "screen_name": "israelverdugoo", "profile_sidebar_fill_color": "DDEEF6", "location": null, "created_at": "Sun Nov 18 22:06:41 +0000 2012", "default_profile": true, "time_zone": "Quito", "verified": false, "contributors_enabled": false, "profile_image_url": "http://pbs.twimg.com/profile_images/891101773863301122/aZ65xLfm_normal.jpg", "lang": "es", "name": "Israel Verdugo O", "profile_link_color": "1DA1F2", "is_translator": false, "description": "Abogado, apasionado por el deporte. Coordinador Zonal 5", "profile_use_background_image": true, "default_profile_image": false, "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png", "profile_background_tile": false}, "contributors": null, "id_str": "930576147561242624", "in_reply_to_screen_name": null, "in_reply_to_user_id_str": null, "in_reply_to_status_id": null, "in_reply_to_status_id_str": null, "display_text_range": [0, 95], "in_reply_to_user_id": null, "id": 930576147561242624, "possibly_sensitive": false, "favorite_count": 0, "entities": {"user_mentions": [], "media": [{"display_url": "pic.twitter.com/cO1vTyN3XT", "expanded_url": "https://twitter.com/israelverdugoo/status/930576147561242624/photo/1", "indices": [96, 119], "url": "https://t.co/cO1vTyN3XT", "sizes": {"large": {"resize": "fit", "w": 1280, "h": 853}, "medium": {"resize": "fit", "w": 1200, "h": 800}, "small": {"resize": "fit", "w": 680, "h": 453}, "thumb": {"resize": "crop", "w": 150, "h": 150}}, "id": 930576140468740096, "media_url": "http://pbs.twimg.com/media/DOoSEcEX4AArMZi.jpg", "media_url_https": "https://pbs.twimg.com/media/DOoSEcEX4AArMZi.jpg", "id_str": "930576140468740096", "type": "photo"}], "hashtags": [], "symbols": [], "urls": []}, "created_at": "Tue Nov 14 23:20:17 +0000 2017", "favorited": false, "timestamp_ms": "1510701617504", "quote_count": 0, "place": {"country_code": "EC", "bounding_box": {"coordinates": [[[-80.068017, -2.065155], [-80.068017, -1.77466], [-79.843111, -1.77466], [-79.843111, -2.065155]]], "type": "Polygon"}, "attributes": {}, "url": "https://api.twitter.com/1.1/geo/id/00f4a3c038acc3c5.json", "name": "Daule", "id": "00f4a3c038acc3c5", "place_type": "city", "country": "Ecuador", "full_name": "Daule, Ecuador"}, "text": "Grande lenin felicitaciones la constancia y humildad te hacen una gran persona ORO para Ecuador https://t.co/cO1vTyN3XT", "geo": null, "retweeted": false, "retweet_count": 0, "filter_level": "low", "lang": "es", "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>", "is_quote_status": false, "extended_entities": {"media": [{"display_url": "pic.twitter.com/cO1vTyN3XT", "expanded_url": "https://twitter.com/israelverdugoo/status/930576147561242624/photo/1", "indices": [96, 119], "url": "https://t.co/cO1vTyN3XT", "sizes": {"large": {"resize": "fit", "w": 1280, "h": 853}, "medium": {"resize": "fit", "w": 1200, "h": 800}, "small": {"resize": "fit", "w": 680, "h": 453}, "thumb": {"resize": "crop", "w": 150, "h": 150}}, "id": 930576140468740096, "media_url": "http://pbs.twimg.com/media/DOoSEcEX4AArMZi.jpg", "media_url_https": "https://pbs.twimg.com/media/DOoSEcEX4AArMZi.jpg", "id_str": "930576140468740096", "type": "photo"}]}, "coordinates": null, "truncated": false}
+{
+  "reply_count": 0,
+  "user": {
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/956312414/1498085443",
+    "following": null,
+    "profile_background_color": "C0DEED",
+    "url": null,
+    "utc_offset": -18000,
+    "follow_request_sent": null,
+    "translator_type": "none",
+    "profile_text_color": "333333",
+    "id_str": "956312414",
+    "favourites_count": 1708,
+    "friends_count": 242,
+    "followers_count": 265,
+    "id": 956312414,
+    "geo_enabled": true,
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/891101773863301122/aZ65xLfm_normal.jpg",
+    "statuses_count": 1264,
+    "notifications": null,
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "protected": false,
+    "listed_count": 1,
+    "screen_name": "israelverdugoo",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "location": null,
+    "created_at": "Sun Nov 18 22:06:41 +0000 2012",
+    "default_profile": true,
+    "time_zone": "Quito",
+    "verified": false,
+    "contributors_enabled": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/891101773863301122/aZ65xLfm_normal.jpg",
+    "lang": "es",
+    "name": "Israel Verdugo O",
+    "profile_link_color": "1DA1F2",
+    "is_translator": false,
+    "description": "Abogado, apasionado por el deporte. Coordinador Zonal 5",
+    "profile_use_background_image": true,
+    "default_profile_image": false,
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": false
+  },
+  "contributors": null,
+  "id_str": "930576147561242624",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "display_text_range": [0, 95],
+  "in_reply_to_user_id": null,
+  "id": 930576147561242624,
+  "possibly_sensitive": false,
+  "favorite_count": 0,
+  "entities": {
+    "user_mentions": [],
+    "media": [
+      {
+        "display_url": "pic.twitter.com/cO1vTyN3XT",
+        "expanded_url": "https://twitter.com/israelverdugoo/status/930576147561242624/photo/1",
+        "indices": [96, 119],
+        "url": "https://t.co/cO1vTyN3XT",
+        "sizes": {
+          "large": {
+            "resize": "fit",
+            "w": 1280,
+            "h": 853
+          },
+          "medium": {
+            "resize": "fit",
+            "w": 1200,
+            "h": 800
+          },
+          "small": {
+            "resize": "fit",
+            "w": 680,
+            "h": 453
+          },
+          "thumb": {
+            "resize": "crop",
+            "w": 150,
+            "h": 150
+          }
+        },
+        "id": 930576140468740096,
+        "media_url": "http://pbs.twimg.com/media/DOoSEcEX4AArMZi.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/DOoSEcEX4AArMZi.jpg",
+        "id_str": "930576140468740096",
+        "type": "photo"
+      }
+    ],
+    "hashtags": [],
+    "symbols": [],
+    "urls": []
+  },
+  "created_at": "Tue Nov 14 23:20:17 +0000 2017",
+  "favorited": false,
+  "timestamp_ms": "1510701617504",
+  "quote_count": 0,
+  "place": {
+    "country_code": "EC",
+    "bounding_box": {
+      "coordinates": [
+        [[-80.068017, -2.065155], [-80.068017, -1.77466], [-79.843111, -1.77466], [-79.843111, -2.065155]]
+      ],
+      "type": "Polygon"
+    },
+    "attributes": {},
+    "url": "https://api.twitter.com/1.1/geo/id/00f4a3c038acc3c5.json",
+    "name": "Daule",
+    "id": "00f4a3c038acc3c5",
+    "place_type": "city",
+    "country": "Ecuador",
+    "full_name": "Daule, Ecuador"
+  },
+  "text": "Grande lenin felicitaciones la constancia y humildad te hacen una gran persona ORO para Ecuador https://t.co/cO1vTyN3XT",
+  "geo": null,
+  "retweeted": false,
+  "retweet_count": 0,
+  "filter_level": "low",
+  "lang": "es",
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "is_quote_status": false,
+  "extended_entities": {
+    "media": [
+      {
+        "display_url": "pic.twitter.com/cO1vTyN3XT",
+        "expanded_url": "https://twitter.com/israelverdugoo/status/930576147561242624/photo/1",
+        "indices": [96, 119],
+        "url": "https://t.co/cO1vTyN3XT",
+        "sizes": {
+          "large": {
+            "resize": "fit",
+            "w": 1280,
+            "h": 853
+          },
+          "medium": {
+            "resize": "fit",
+            "w": 1200,
+            "h": 800
+          },
+          "small": {
+            "resize": "fit",
+            "w": 680,
+            "h": 453
+          },
+          "thumb": {
+            "resize": "crop",
+            "w": 150,
+            "h": 150
+          }
+        },
+        "id": 930576140468740096,
+        "media_url": "http://pbs.twimg.com/media/DOoSEcEX4AArMZi.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/DOoSEcEX4AArMZi.jpg",
+        "id_str": "930576140468740096",
+        "type": "photo"
+      }
+    ]
+  },
+  "coordinates": null,
+  "truncated": false
+}

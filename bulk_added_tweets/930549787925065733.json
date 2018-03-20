@@ -1,1 +1,94 @@
-{"is_quote_status": false, "in_reply_to_user_id_str": null, "created_at": "Tue Nov 14 21:35:32 +0000 2017", "favorite_count": 0, "in_reply_to_status_id": null, "id_str": "930549787925065733", "filter_level": "low", "reply_count": 0, "timestamp_ms": "1510695332877", "id": 930549787925065733, "coordinates": null, "in_reply_to_screen_name": null, "truncated": false, "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>", "place": {"bounding_box": {"coordinates": [[[-81.328148, -18.349728], [-81.328148, -0.03884], [-68.673088, -0.03884], [-68.673088, -18.349728]]], "type": "Polygon"}, "url": "https://api.twitter.com/1.1/geo/id/2dfa9ecb0179a4e4.json", "country_code": "PE", "name": "Peru", "full_name": "Peru", "id": "2dfa9ecb0179a4e4", "place_type": "country", "attributes": {}, "country": "Peru"}, "retweet_count": 0, "quote_count": 0, "favorited": false, "text": "#LeyAcosoPol\u00edticoAhora Sanciona la violencia hacia las mujeres autoridades de comunidades campesinas", "in_reply_to_user_id": null, "geo": null, "lang": "es", "contributors": null, "in_reply_to_status_id_str": null, "user": {"protected": false, "following": null, "profile_text_color": "333333", "profile_background_color": "992266", "statuses_count": 11382, "default_profile": false, "favourites_count": 1233, "friends_count": 1664, "follow_request_sent": null, "profile_sidebar_fill_color": "E6F6F9", "translator_type": "none", "notifications": null, "id_str": "1589933941", "screen_name": "DemusPeru", "profile_banner_url": "https://pbs.twimg.com/profile_banners/1589933941/1510259482", "verified": false, "id": 1589933941, "profile_use_background_image": false, "description": "Organizaci\u00f3n feminista que enfrenta el machismo, la misoginia y toda forma de discriminaci\u00f3n y violaci\u00f3n de los derechos de las mujeres. \u00a1Por autonom\u00eda sexual!", "utc_offset": -18000, "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/522133486530875392/-sWGCz1y.png", "is_translator": false, "listed_count": 70, "default_profile_image": false, "contributors_enabled": false, "followers_count": 6921, "location": "Per\u00fa", "created_at": "Sat Jul 13 02:09:06 +0000 2013", "profile_image_url_https": "https://pbs.twimg.com/profile_images/869237995748171777/PXpo8z5s_normal.jpg", "geo_enabled": true, "time_zone": "Quito", "profile_image_url": "http://pbs.twimg.com/profile_images/869237995748171777/PXpo8z5s_normal.jpg", "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/522133486530875392/-sWGCz1y.png", "profile_link_color": "992266", "lang": "es", "name": "DEMUS", "profile_background_tile": false, "url": "http://www.demus.org.pe", "profile_sidebar_border_color": "FFFFFF"}, "entities": {"user_mentions": [], "urls": [], "symbols": [], "hashtags": [{"text": "LeyAcosoPol\u00edticoAhora", "indices": [0, 22]}]}, "retweeted": false}
+{
+  "is_quote_status": false,
+  "in_reply_to_user_id_str": null,
+  "created_at": "Tue Nov 14 21:35:32 +0000 2017",
+  "favorite_count": 0,
+  "in_reply_to_status_id": null,
+  "id_str": "930549787925065733",
+  "filter_level": "low",
+  "reply_count": 0,
+  "timestamp_ms": "1510695332877",
+  "id": 930549787925065733,
+  "coordinates": null,
+  "in_reply_to_screen_name": null,
+  "truncated": false,
+  "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+  "place": {
+    "bounding_box": {
+      "coordinates": [
+        [[-81.328148, -18.349728], [-81.328148, -0.03884], [-68.673088, -0.03884], [-68.673088, -18.349728]]
+      ],
+      "type": "Polygon"
+    },
+    "url": "https://api.twitter.com/1.1/geo/id/2dfa9ecb0179a4e4.json",
+    "country_code": "PE",
+    "name": "Peru",
+    "full_name": "Peru",
+    "id": "2dfa9ecb0179a4e4",
+    "place_type": "country",
+    "attributes": {},
+    "country": "Peru"
+  },
+  "retweet_count": 0,
+  "quote_count": 0,
+  "favorited": false,
+  "text": "#LeyAcosoPol\u00edticoAhora Sanciona la violencia hacia las mujeres autoridades de comunidades campesinas",
+  "in_reply_to_user_id": null,
+  "geo": null,
+  "lang": "es",
+  "contributors": null,
+  "in_reply_to_status_id_str": null,
+  "user": {
+    "protected": false,
+    "following": null,
+    "profile_text_color": "333333",
+    "profile_background_color": "992266",
+    "statuses_count": 11382,
+    "default_profile": false,
+    "favourites_count": 1233,
+    "friends_count": 1664,
+    "follow_request_sent": null,
+    "profile_sidebar_fill_color": "E6F6F9",
+    "translator_type": "none",
+    "notifications": null,
+    "id_str": "1589933941",
+    "screen_name": "DemusPeru",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1589933941/1510259482",
+    "verified": false,
+    "id": 1589933941,
+    "profile_use_background_image": false,
+    "description": "Organizaci\u00f3n feminista que enfrenta el machismo, la misoginia y toda forma de discriminaci\u00f3n y violaci\u00f3n de los derechos de las mujeres. \u00a1Por autonom\u00eda sexual!",
+    "utc_offset": -18000,
+    "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/522133486530875392/-sWGCz1y.png",
+    "is_translator": false,
+    "listed_count": 70,
+    "default_profile_image": false,
+    "contributors_enabled": false,
+    "followers_count": 6921,
+    "location": "Per\u00fa",
+    "created_at": "Sat Jul 13 02:09:06 +0000 2013",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/869237995748171777/PXpo8z5s_normal.jpg",
+    "geo_enabled": true,
+    "time_zone": "Quito",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/869237995748171777/PXpo8z5s_normal.jpg",
+    "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/522133486530875392/-sWGCz1y.png",
+    "profile_link_color": "992266",
+    "lang": "es",
+    "name": "DEMUS",
+    "profile_background_tile": false,
+    "url": "http://www.demus.org.pe",
+    "profile_sidebar_border_color": "FFFFFF"
+  },
+  "entities": {
+    "user_mentions": [],
+    "urls": [],
+    "symbols": [],
+    "hashtags": [
+      {
+        "text": "LeyAcosoPol\u00edticoAhora",
+        "indices": [0, 22]
+      }
+    ]
+  },
+  "retweeted": false
+}

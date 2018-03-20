@@ -1,1 +1,123 @@
-{"in_reply_to_screen_name": "GarbarzAriel", "geo": null, "user": {"followers_count": 3876, "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png", "profile_background_color": "000000", "translator_type": "none", "profile_image_url": "http://pbs.twimg.com/profile_images/2928271082/b0b6312c93e9e5212fb5a4e6b16d662e_normal.jpeg", "profile_banner_url": "https://pbs.twimg.com/profile_banners/987262435/1485949814", "default_profile": false, "utc_offset": -10800, "lang": "es", "url": "https://soundcloud.com/ignacio-valle-657638031", "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", "profile_image_url_https": "https://pbs.twimg.com/profile_images/2928271082/b0b6312c93e9e5212fb5a4e6b16d662e_normal.jpeg", "time_zone": "Buenos Aires", "profile_sidebar_border_color": "000000", "profile_use_background_image": false, "id": 987262435, "profile_link_color": "FAB81E", "profile_sidebar_fill_color": "000000", "profile_background_tile": false, "geo_enabled": true, "id_str": "987262435", "verified": false, "name": "Ignacio Valle", "is_translator": false, "notifications": null, "following": null, "friends_count": 3563, "contributors_enabled": false, "screen_name": "IgnacioValle3", "created_at": "Mon Dec 03 19:17:52 +0000 2012", "profile_text_color": "000000", "favourites_count": 97496, "follow_request_sent": null, "description": "There's no darkness beyond our own blindness... Twitter fu\u00e9 destru\u00eddo, quien no tolere el asunto como est\u00e1 me bloquea de inmediato, no hay problema. \u270c\ufe0f", "default_profile_image": false, "location": null, "listed_count": 50, "protected": false, "statuses_count": 134125}, "filter_level": "low", "in_reply_to_status_id": 930585713694953472, "lang": "es", "display_text_range": [14, 140], "favorited": false, "place": {"name": "Almirante Brown", "full_name": "Almirante Brown, Argentina", "place_type": "city", "country": "Argentina", "id": "014c3ff137d87084", "bounding_box": {"type": "Polygon", "coordinates": [[[-58.447767, -34.90991], [-58.447767, -34.754352], [-58.30982, -34.754352], [-58.30982, -34.90991]]]}, "attributes": {}, "url": "https://api.twitter.com/1.1/geo/id/014c3ff137d87084.json", "country_code": "AR"}, "coordinates": null, "entities": {"hashtags": [], "urls": [{"display_url": "twitter.com/i/web/status/9\u2026", "expanded_url": "https://twitter.com/i/web/status/930635827037790209", "url": "https://t.co/iq0dJ6eSx9", "indices": [117, 140]}], "symbols": [], "user_mentions": [{"id": 3112019957, "id_str": "3112019957", "name": "Ariel Garbarz", "indices": [0, 13], "screen_name": "GarbarzAriel"}]}, "id": 930635827037790209, "in_reply_to_user_id_str": "3112019957", "id_str": "930635827037790209", "retweet_count": 0, "retweeted": false, "quote_count": 0, "truncated": true, "in_reply_to_status_id_str": "930585713694953472", "reply_count": 0, "created_at": "Wed Nov 15 03:17:26 +0000 2017", "is_quote_status": false, "in_reply_to_user_id": 3112019957, "timestamp_ms": "1510715846200", "text": "@GarbarzAriel Es obvio que saben lo que pas\u00f3, Ariel, y no quieren testigos calificados, mucho menos que sean perito\u2026 https://t.co/iq0dJ6eSx9", "extended_tweet": {"full_text": "@GarbarzAriel Es obvio que saben lo que pas\u00f3, Ariel, y no quieren testigos calificados, mucho menos que sean peritos quienes atestiguen verificaciones/resultados.", "display_text_range": [14, 162], "entities": {"hashtags": [], "urls": [], "symbols": [], "user_mentions": [{"id": 3112019957, "id_str": "3112019957", "name": "Ariel Garbarz", "indices": [0, 13], "screen_name": "GarbarzAriel"}]}}, "favorite_count": 0, "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>", "contributors": null}
+{
+  "in_reply_to_screen_name": "GarbarzAriel",
+  "geo": null,
+  "user": {
+    "followers_count": 3876,
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_color": "000000",
+    "translator_type": "none",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/2928271082/b0b6312c93e9e5212fb5a4e6b16d662e_normal.jpeg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/987262435/1485949814",
+    "default_profile": false,
+    "utc_offset": -10800,
+    "lang": "es",
+    "url": "https://soundcloud.com/ignacio-valle-657638031",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/2928271082/b0b6312c93e9e5212fb5a4e6b16d662e_normal.jpeg",
+    "time_zone": "Buenos Aires",
+    "profile_sidebar_border_color": "000000",
+    "profile_use_background_image": false,
+    "id": 987262435,
+    "profile_link_color": "FAB81E",
+    "profile_sidebar_fill_color": "000000",
+    "profile_background_tile": false,
+    "geo_enabled": true,
+    "id_str": "987262435",
+    "verified": false,
+    "name": "Ignacio Valle",
+    "is_translator": false,
+    "notifications": null,
+    "following": null,
+    "friends_count": 3563,
+    "contributors_enabled": false,
+    "screen_name": "IgnacioValle3",
+    "created_at": "Mon Dec 03 19:17:52 +0000 2012",
+    "profile_text_color": "000000",
+    "favourites_count": 97496,
+    "follow_request_sent": null,
+    "description": "There's no darkness beyond our own blindness... Twitter fu\u00e9 destru\u00eddo, quien no tolere el asunto como est\u00e1 me bloquea de inmediato, no hay problema. \u270c\ufe0f",
+    "default_profile_image": false,
+    "location": null,
+    "listed_count": 50,
+    "protected": false,
+    "statuses_count": 134125
+  },
+  "filter_level": "low",
+  "in_reply_to_status_id": 930585713694953472,
+  "lang": "es",
+  "display_text_range": [14, 140],
+  "favorited": false,
+  "place": {
+    "name": "Almirante Brown",
+    "full_name": "Almirante Brown, Argentina",
+    "place_type": "city",
+    "country": "Argentina",
+    "id": "014c3ff137d87084",
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [[-58.447767, -34.90991], [-58.447767, -34.754352], [-58.30982, -34.754352], [-58.30982, -34.90991]]
+      ]
+    },
+    "attributes": {},
+    "url": "https://api.twitter.com/1.1/geo/id/014c3ff137d87084.json",
+    "country_code": "AR"
+  },
+  "coordinates": null,
+  "entities": {
+    "hashtags": [],
+    "urls": [
+      {
+        "display_url": "twitter.com/i/web/status/9\u2026",
+        "expanded_url": "https://twitter.com/i/web/status/930635827037790209",
+        "url": "https://t.co/iq0dJ6eSx9",
+        "indices": [117, 140]
+      }
+    ],
+    "symbols": [],
+    "user_mentions": [
+      {
+        "id": 3112019957,
+        "id_str": "3112019957",
+        "name": "Ariel Garbarz",
+        "indices": [0, 13],
+        "screen_name": "GarbarzAriel"
+      }
+    ]
+  },
+  "id": 930635827037790209,
+  "in_reply_to_user_id_str": "3112019957",
+  "id_str": "930635827037790209",
+  "retweet_count": 0,
+  "retweeted": false,
+  "quote_count": 0,
+  "truncated": true,
+  "in_reply_to_status_id_str": "930585713694953472",
+  "reply_count": 0,
+  "created_at": "Wed Nov 15 03:17:26 +0000 2017",
+  "is_quote_status": false,
+  "in_reply_to_user_id": 3112019957,
+  "timestamp_ms": "1510715846200",
+  "text": "@GarbarzAriel Es obvio que saben lo que pas\u00f3, Ariel, y no quieren testigos calificados, mucho menos que sean perito\u2026 https://t.co/iq0dJ6eSx9",
+  "extended_tweet": {
+    "full_text": "@GarbarzAriel Es obvio que saben lo que pas\u00f3, Ariel, y no quieren testigos calificados, mucho menos que sean peritos quienes atestiguen verificaciones/resultados.",
+    "display_text_range": [14, 162],
+    "entities": {
+      "hashtags": [],
+      "urls": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "id": 3112019957,
+          "id_str": "3112019957",
+          "name": "Ariel Garbarz",
+          "indices": [0, 13],
+          "screen_name": "GarbarzAriel"
+        }
+      ]
+    }
+  },
+  "favorite_count": 0,
+  "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+  "contributors": null
+}

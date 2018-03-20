@@ -1,1 +1,122 @@
-{"id": 930460060416868352, "lang": "es", "in_reply_to_status_id_str": null, "truncated": true, "place": {"id": "3b98b02fba3f9753", "country": "Estados Unidos", "bounding_box": {"type": "Polygon", "coordinates": [[[-84.321948, 33.752879], [-84.321948, 36.588118], [-75.40012, 36.588118], [-75.40012, 33.752879]]]}, "url": "https://api.twitter.com/1.1/geo/id/3b98b02fba3f9753.json", "full_name": "Carolina del Norte, USA", "attributes": {}, "name": "Carolina del Norte", "place_type": "admin", "country_code": "US"}, "favorite_count": 0, "retweeted": false, "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>", "is_quote_status": false, "in_reply_to_status_id": null, "in_reply_to_user_id_str": "720376169304952832", "in_reply_to_screen_name": "DDLQV", "retweet_count": 0, "quote_count": 0, "timestamp_ms": "1510673940172", "favorited": false, "coordinates": null, "text": "@DDLQV muchachos, Gallardo jugo la copa Lib. Porque Ramon Diaz sali\u00f3 campe\u00f3n Local... un saludo de la barra en Caro\u2026 https://t.co/jBXnFSJniB", "entities": {"urls": [{"indices": [117, 140], "display_url": "twitter.com/i/web/status/9\u2026", "url": "https://t.co/jBXnFSJniB", "expanded_url": "https://twitter.com/i/web/status/930460060416868352"}], "symbols": [], "user_mentions": [{"screen_name": "DDLQV", "id": 720376169304952832, "name": "Detr\u00e1sDeLoQueVemos", "indices": [0, 6], "id_str": "720376169304952832"}], "hashtags": []}, "reply_count": 0, "geo": null, "filter_level": "low", "extended_tweet": {"display_text_range": [0, 160], "entities": {"urls": [], "symbols": [], "user_mentions": [{"screen_name": "DDLQV", "id": 720376169304952832, "name": "Detr\u00e1sDeLoQueVemos", "indices": [0, 6], "id_str": "720376169304952832"}], "hashtags": []}, "full_text": "@DDLQV muchachos, Gallardo jugo la copa Lib. Porque Ramon Diaz sali\u00f3 campe\u00f3n Local... un saludo de la barra en Carolina del Norte, los escuchamos todos los d\u00edas"}, "user": {"statuses_count": 844, "id": 1482212798, "default_profile": false, "favourites_count": 990, "url": "http://www.newslatinotoday.com", "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/885565581/101059a083a0650894836041956ee082.png", "verified": false, "profile_image_url_https": "https://pbs.twimg.com/profile_images/922258737599049728/xPc19yLV_normal.jpg", "translator_type": "none", "location": "North Carolina, USA", "geo_enabled": true, "utc_offset": null, "notifications": null, "profile_background_tile": false, "friends_count": 204, "is_translator": false, "follow_request_sent": null, "default_profile_image": false, "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/885565581/101059a083a0650894836041956ee082.png", "profile_background_color": "C0DEED", "profile_link_color": "0084B4", "profile_use_background_image": true, "time_zone": null, "name": "News Latino Today", "profile_text_color": "333333", "profile_sidebar_border_color": "FFFFFF", "screen_name": "NewsLatinoToday", "lang": "es", "following": null, "listed_count": 1, "protected": false, "profile_sidebar_fill_color": "DDEEF6", "followers_count": 88, "profile_image_url": "http://pbs.twimg.com/profile_images/922258737599049728/xPc19yLV_normal.jpg", "profile_banner_url": "https://pbs.twimg.com/profile_banners/1482212798/1508718594", "contributors_enabled": false, "created_at": "Tue Jun 04 12:51:39 +0000 2013", "id_str": "1482212798", "description": "A link between the Latino community and the world, noticias locales, nacionales e internacionales sobre la actualidad y el deporte de la comunidad Latina."}, "created_at": "Tue Nov 14 15:39:00 +0000 2017", "id_str": "930460060416868352", "in_reply_to_user_id": 720376169304952832, "contributors": null}
+{
+  "id": 930460060416868352,
+  "lang": "es",
+  "in_reply_to_status_id_str": null,
+  "truncated": true,
+  "place": {
+    "id": "3b98b02fba3f9753",
+    "country": "Estados Unidos",
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [[-84.321948, 33.752879], [-84.321948, 36.588118], [-75.40012, 36.588118], [-75.40012, 33.752879]]
+      ]
+    },
+    "url": "https://api.twitter.com/1.1/geo/id/3b98b02fba3f9753.json",
+    "full_name": "Carolina del Norte, USA",
+    "attributes": {},
+    "name": "Carolina del Norte",
+    "place_type": "admin",
+    "country_code": "US"
+  },
+  "favorite_count": 0,
+  "retweeted": false,
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "is_quote_status": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_user_id_str": "720376169304952832",
+  "in_reply_to_screen_name": "DDLQV",
+  "retweet_count": 0,
+  "quote_count": 0,
+  "timestamp_ms": "1510673940172",
+  "favorited": false,
+  "coordinates": null,
+  "text": "@DDLQV muchachos, Gallardo jugo la copa Lib. Porque Ramon Diaz sali\u00f3 campe\u00f3n Local... un saludo de la barra en Caro\u2026 https://t.co/jBXnFSJniB",
+  "entities": {
+    "urls": [
+      {
+        "indices": [117, 140],
+        "display_url": "twitter.com/i/web/status/9\u2026",
+        "url": "https://t.co/jBXnFSJniB",
+        "expanded_url": "https://twitter.com/i/web/status/930460060416868352"
+      }
+    ],
+    "symbols": [],
+    "user_mentions": [
+      {
+        "screen_name": "DDLQV",
+        "id": 720376169304952832,
+        "name": "Detr\u00e1sDeLoQueVemos",
+        "indices": [0, 6],
+        "id_str": "720376169304952832"
+      }
+    ],
+    "hashtags": []
+  },
+  "reply_count": 0,
+  "geo": null,
+  "filter_level": "low",
+  "extended_tweet": {
+    "display_text_range": [0, 160],
+    "entities": {
+      "urls": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "screen_name": "DDLQV",
+          "id": 720376169304952832,
+          "name": "Detr\u00e1sDeLoQueVemos",
+          "indices": [0, 6],
+          "id_str": "720376169304952832"
+        }
+      ],
+      "hashtags": []
+    },
+    "full_text": "@DDLQV muchachos, Gallardo jugo la copa Lib. Porque Ramon Diaz sali\u00f3 campe\u00f3n Local... un saludo de la barra en Carolina del Norte, los escuchamos todos los d\u00edas"
+  },
+  "user": {
+    "statuses_count": 844,
+    "id": 1482212798,
+    "default_profile": false,
+    "favourites_count": 990,
+    "url": "http://www.newslatinotoday.com",
+    "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/885565581/101059a083a0650894836041956ee082.png",
+    "verified": false,
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/922258737599049728/xPc19yLV_normal.jpg",
+    "translator_type": "none",
+    "location": "North Carolina, USA",
+    "geo_enabled": true,
+    "utc_offset": null,
+    "notifications": null,
+    "profile_background_tile": false,
+    "friends_count": 204,
+    "is_translator": false,
+    "follow_request_sent": null,
+    "default_profile_image": false,
+    "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/885565581/101059a083a0650894836041956ee082.png",
+    "profile_background_color": "C0DEED",
+    "profile_link_color": "0084B4",
+    "profile_use_background_image": true,
+    "time_zone": null,
+    "name": "News Latino Today",
+    "profile_text_color": "333333",
+    "profile_sidebar_border_color": "FFFFFF",
+    "screen_name": "NewsLatinoToday",
+    "lang": "es",
+    "following": null,
+    "listed_count": 1,
+    "protected": false,
+    "profile_sidebar_fill_color": "DDEEF6",
+    "followers_count": 88,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/922258737599049728/xPc19yLV_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1482212798/1508718594",
+    "contributors_enabled": false,
+    "created_at": "Tue Jun 04 12:51:39 +0000 2013",
+    "id_str": "1482212798",
+    "description": "A link between the Latino community and the world, noticias locales, nacionales e internacionales sobre la actualidad y el deporte de la comunidad Latina."
+  },
+  "created_at": "Tue Nov 14 15:39:00 +0000 2017",
+  "id_str": "930460060416868352",
+  "in_reply_to_user_id": 720376169304952832,
+  "contributors": null
+}

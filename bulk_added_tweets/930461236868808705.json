@@ -1,1 +1,120 @@
-{"id": 930461236868808705, "lang": "es", "in_reply_to_status_id_str": "930426124416503808", "truncated": true, "place": {"id": "043383f8b2b79918", "country": "Venezuela", "bounding_box": {"type": "Polygon", "coordinates": [[[-73.354073, 0.648837], [-73.354073, 12.196802], [-59.80378, 12.196802], [-59.80378, 0.648837]]]}, "url": "https://api.twitter.com/1.1/geo/id/043383f8b2b79918.json", "full_name": "Venezuela", "attributes": {}, "name": "Venezuela", "place_type": "country", "country_code": "VE"}, "favorite_count": 0, "retweeted": false, "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>", "is_quote_status": false, "in_reply_to_status_id": 930426124416503808, "in_reply_to_user_id_str": "12493262", "in_reply_to_screen_name": "lubrio", "retweet_count": 0, "quote_count": 0, "timestamp_ms": "1510674220660", "favorited": false, "coordinates": null, "filter_level": "low", "entities": {"urls": [{"indices": [116, 139], "display_url": "twitter.com/i/web/status/9\u2026", "url": "https://t.co/mZXhoXSSej", "expanded_url": "https://twitter.com/i/web/status/930461236868808705"}], "symbols": [], "user_mentions": [{"screen_name": "lubrio", "id": 12493262, "name": "Luigino Bracci Roa", "indices": [0, 7], "id_str": "12493262"}], "hashtags": []}, "reply_count": 0, "geo": null, "display_text_range": [8, 140], "text": "@lubrio Y mientras tanto, no lejos de all\u00ed...\n-Epale Jefe, \u00bfViste q Emilio d la carnicer\u00eda le ha subido 20 mil m\u00e1s\u2026 https://t.co/mZXhoXSSej", "extended_tweet": {"display_text_range": [8, 286], "entities": {"urls": [], "symbols": [], "user_mentions": [{"screen_name": "lubrio", "id": 12493262, "name": "Luigino Bracci Roa", "indices": [0, 7], "id_str": "12493262"}], "hashtags": []}, "full_text": "@lubrio Y mientras tanto, no lejos de all\u00ed...\n-Epale Jefe, \u00bfViste q Emilio d la carnicer\u00eda le ha subido 20 mil m\u00e1s al pollo?\n-S\u00ed, muy preocupante!, y eso?\n-Pq ley\u00f3 q S&amp;P declar\u00f3 a Vzla en default y quiso aumentarle\n-Compremos en otro lado!\n-Imposible! No hay producci\u00f3n en este pa\u00eds"}, "user": {"statuses_count": 2626, "id": 142067366, "default_profile": true, "favourites_count": 51, "url": null, "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", "verified": false, "profile_image_url_https": "https://pbs.twimg.com/profile_images/886748518899216389/gcPKMibM_normal.jpg", "translator_type": "none", "location": "Venezuela", "geo_enabled": true, "utc_offset": -28800, "notifications": null, "profile_background_tile": false, "friends_count": 129, "is_translator": false, "follow_request_sent": null, "default_profile_image": false, "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png", "profile_background_color": "C0DEED", "profile_link_color": "1DA1F2", "profile_use_background_image": true, "time_zone": "Pacific Time (US & Canada)", "name": "Alfredo Herrera", "profile_text_color": "333333", "profile_sidebar_border_color": "C0DEED", "screen_name": "Alfredohelobo", "lang": "es", "following": null, "listed_count": 1, "protected": false, "profile_sidebar_fill_color": "DDEEF6", "followers_count": 72, "profile_image_url": "http://pbs.twimg.com/profile_images/886748518899216389/gcPKMibM_normal.jpg", "contributors_enabled": false, "created_at": "Sun May 09 21:25:59 +0000 2010", "id_str": "142067366", "description": "Abogado. Economista. Administrador. Enemigo del comunismo dnd quiera se desarrolle. En guerra abierta contra el totalitarismo y x la Democracia y Libertad Vzla."}, "created_at": "Tue Nov 14 15:43:40 +0000 2017", "id_str": "930461236868808705", "in_reply_to_user_id": 12493262, "contributors": null}
+{
+  "id": 930461236868808705,
+  "lang": "es",
+  "in_reply_to_status_id_str": "930426124416503808",
+  "truncated": true,
+  "place": {
+    "id": "043383f8b2b79918",
+    "country": "Venezuela",
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [[[-73.354073, 0.648837], [-73.354073, 12.196802], [-59.80378, 12.196802], [-59.80378, 0.648837]]]
+    },
+    "url": "https://api.twitter.com/1.1/geo/id/043383f8b2b79918.json",
+    "full_name": "Venezuela",
+    "attributes": {},
+    "name": "Venezuela",
+    "place_type": "country",
+    "country_code": "VE"
+  },
+  "favorite_count": 0,
+  "retweeted": false,
+  "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+  "is_quote_status": false,
+  "in_reply_to_status_id": 930426124416503808,
+  "in_reply_to_user_id_str": "12493262",
+  "in_reply_to_screen_name": "lubrio",
+  "retweet_count": 0,
+  "quote_count": 0,
+  "timestamp_ms": "1510674220660",
+  "favorited": false,
+  "coordinates": null,
+  "filter_level": "low",
+  "entities": {
+    "urls": [
+      {
+        "indices": [116, 139],
+        "display_url": "twitter.com/i/web/status/9\u2026",
+        "url": "https://t.co/mZXhoXSSej",
+        "expanded_url": "https://twitter.com/i/web/status/930461236868808705"
+      }
+    ],
+    "symbols": [],
+    "user_mentions": [
+      {
+        "screen_name": "lubrio",
+        "id": 12493262,
+        "name": "Luigino Bracci Roa",
+        "indices": [0, 7],
+        "id_str": "12493262"
+      }
+    ],
+    "hashtags": []
+  },
+  "reply_count": 0,
+  "geo": null,
+  "display_text_range": [8, 140],
+  "text": "@lubrio Y mientras tanto, no lejos de all\u00ed...\n-Epale Jefe, \u00bfViste q Emilio d la carnicer\u00eda le ha subido 20 mil m\u00e1s\u2026 https://t.co/mZXhoXSSej",
+  "extended_tweet": {
+    "display_text_range": [8, 286],
+    "entities": {
+      "urls": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "screen_name": "lubrio",
+          "id": 12493262,
+          "name": "Luigino Bracci Roa",
+          "indices": [0, 7],
+          "id_str": "12493262"
+        }
+      ],
+      "hashtags": []
+    },
+    "full_text": "@lubrio Y mientras tanto, no lejos de all\u00ed...\n-Epale Jefe, \u00bfViste q Emilio d la carnicer\u00eda le ha subido 20 mil m\u00e1s al pollo?\n-S\u00ed, muy preocupante!, y eso?\n-Pq ley\u00f3 q S&amp;P declar\u00f3 a Vzla en default y quiso aumentarle\n-Compremos en otro lado!\n-Imposible! No hay producci\u00f3n en este pa\u00eds"
+  },
+  "user": {
+    "statuses_count": 2626,
+    "id": 142067366,
+    "default_profile": true,
+    "favourites_count": 51,
+    "url": null,
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "verified": false,
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/886748518899216389/gcPKMibM_normal.jpg",
+    "translator_type": "none",
+    "location": "Venezuela",
+    "geo_enabled": true,
+    "utc_offset": -28800,
+    "notifications": null,
+    "profile_background_tile": false,
+    "friends_count": 129,
+    "is_translator": false,
+    "follow_request_sent": null,
+    "default_profile_image": false,
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_color": "C0DEED",
+    "profile_link_color": "1DA1F2",
+    "profile_use_background_image": true,
+    "time_zone": "Pacific Time (US & Canada)",
+    "name": "Alfredo Herrera",
+    "profile_text_color": "333333",
+    "profile_sidebar_border_color": "C0DEED",
+    "screen_name": "Alfredohelobo",
+    "lang": "es",
+    "following": null,
+    "listed_count": 1,
+    "protected": false,
+    "profile_sidebar_fill_color": "DDEEF6",
+    "followers_count": 72,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/886748518899216389/gcPKMibM_normal.jpg",
+    "contributors_enabled": false,
+    "created_at": "Sun May 09 21:25:59 +0000 2010",
+    "id_str": "142067366",
+    "description": "Abogado. Economista. Administrador. Enemigo del comunismo dnd quiera se desarrolle. En guerra abierta contra el totalitarismo y x la Democracia y Libertad Vzla."
+  },
+  "created_at": "Tue Nov 14 15:43:40 +0000 2017",
+  "id_str": "930461236868808705",
+  "in_reply_to_user_id": 12493262,
+  "contributors": null
+}

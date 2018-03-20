@@ -1,1 +1,140 @@
-{"retweet_count": 0, "place": {"place_type": "city", "country": "Argentina", "name": "Posadas", "id": "01ef53325401a80c", "url": "https://api.twitter.com/1.1/geo/id/01ef53325401a80c.json", "full_name": "Posadas, Argentina", "bounding_box": {"coordinates": [[[-55.959513, -27.45917], [-55.959513, -27.350172], [-55.859909, -27.350172], [-55.859909, -27.45917]]], "type": "Polygon"}, "country_code": "AR", "attributes": {}}, "favorited": false, "extended_tweet": {"display_text_range": [0, 170], "entities": {"symbols": [], "user_mentions": [{"screen_name": "GonzalezUCR", "name": "Gustavo Gonz\u00e1lez", "id_str": "2241913434", "id": 2241913434, "indices": [122, 134]}, {"screen_name": "ucrmisiones", "name": "UCR Misiones", "id_str": "191984420", "id": 191984420, "indices": [135, 147]}, {"screen_name": "UCRNacional", "name": "Uni\u00f3n C\u00edvica Radical", "id_str": "114582574", "id": 114582574, "indices": [148, 160]}, {"screen_name": "Jmo2011", "name": "juan manuel ortiz", "id_str": "239661056", "id": 239661056, "indices": [162, 170]}], "urls": [{"url": "https://t.co/9jKE5a07mf", "expanded_url": "https://www.limiteinformativo.com/index.php/locales/9581-cuestionan-al-tribunal-electoral-por-no-convalidar-la-reforma-de-la-carta-organica-de-el-soberbio", "display_url": "limiteinformativo.com/index.php/loca\u2026", "indices": [98, 121]}], "hashtags": []}, "full_text": "Cuestionan al Tribunal Electoral por no convalidar la reforma de la Carta Org\u00e1nica de El Soberbio https://t.co/9jKE5a07mf @GonzalezUCR @ucrmisiones @UCRNacional  @Jmo2011"}, "quote_count": 0, "in_reply_to_user_id_str": null, "user": {"utc_offset": -28800, "verified": false, "profile_background_tile": false, "location": "Apostoles - Misiones ", "profile_link_color": "1B95E0", "notifications": null, "profile_use_background_image": false, "protected": false, "following": null, "profile_sidebar_fill_color": "000000", "description": "Grupo Period\u00edstico L\u00edmite Informativo - http://limiteinformativo.com y L I Radio 99.1 FM Apostoles -", "time_zone": "Pacific Time (US & Canada)", "is_translator": false, "listed_count": 3, "contributors_enabled": false, "translator_type": "none", "profile_text_color": "000000", "follow_request_sent": null, "favourites_count": 195, "statuses_count": 2839, "lang": "es", "default_profile": false, "name": "Limite Informativo", "id_str": "787638751455506432", "profile_background_color": "000000", "profile_banner_url": "https://pbs.twimg.com/profile_banners/787638751455506432/1484225128", "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png", "default_profile_image": false, "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", "screen_name": "SpasiukLuis", "created_at": "Sun Oct 16 12:58:07 +0000 2016", "profile_image_url": "http://pbs.twimg.com/profile_images/787663993225764864/mgTZOtKx_normal.jpg", "id": 787638751455506432, "geo_enabled": true, "url": "http://www.limiteinformativo.com", "followers_count": 257, "profile_sidebar_border_color": "000000", "friends_count": 450, "profile_image_url_https": "https://pbs.twimg.com/profile_images/787663993225764864/mgTZOtKx_normal.jpg"}, "in_reply_to_status_id": null, "in_reply_to_screen_name": null, "entities": {"symbols": [], "user_mentions": [], "urls": [{"url": "https://t.co/IXi95jppcc", "expanded_url": "https://twitter.com/i/web/status/930502116078125057", "display_url": "twitter.com/i/web/status/9\u2026", "indices": [99, 122]}], "hashtags": []}, "reply_count": 0, "geo": null, "contributors": null, "favorite_count": 0, "possibly_sensitive": false, "lang": "es", "text": "Cuestionan al Tribunal Electoral por no convalidar la reforma de la Carta Org\u00e1nica de El Soberbio\u2026 https://t.co/IXi95jppcc", "timestamp_ms": "1510683967023", "id_str": "930502116078125057", "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>", "truncated": true, "retweeted": false, "in_reply_to_user_id": null, "created_at": "Tue Nov 14 18:26:07 +0000 2017", "coordinates": null, "in_reply_to_status_id_str": null, "id": 930502116078125057, "filter_level": "low", "is_quote_status": false}
+{
+  "retweet_count": 0,
+  "place": {
+    "place_type": "city",
+    "country": "Argentina",
+    "name": "Posadas",
+    "id": "01ef53325401a80c",
+    "url": "https://api.twitter.com/1.1/geo/id/01ef53325401a80c.json",
+    "full_name": "Posadas, Argentina",
+    "bounding_box": {
+      "coordinates": [
+        [[-55.959513, -27.45917], [-55.959513, -27.350172], [-55.859909, -27.350172], [-55.859909, -27.45917]]
+      ],
+      "type": "Polygon"
+    },
+    "country_code": "AR",
+    "attributes": {}
+  },
+  "favorited": false,
+  "extended_tweet": {
+    "display_text_range": [0, 170],
+    "entities": {
+      "symbols": [],
+      "user_mentions": [
+        {
+          "screen_name": "GonzalezUCR",
+          "name": "Gustavo Gonz\u00e1lez",
+          "id_str": "2241913434",
+          "id": 2241913434,
+          "indices": [122, 134]
+        }, {
+          "screen_name": "ucrmisiones",
+          "name": "UCR Misiones",
+          "id_str": "191984420",
+          "id": 191984420,
+          "indices": [135, 147]
+        }, {
+          "screen_name": "UCRNacional",
+          "name": "Uni\u00f3n C\u00edvica Radical",
+          "id_str": "114582574",
+          "id": 114582574,
+          "indices": [148, 160]
+        }, {
+          "screen_name": "Jmo2011",
+          "name": "juan manuel ortiz",
+          "id_str": "239661056",
+          "id": 239661056,
+          "indices": [162, 170]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/9jKE5a07mf",
+          "expanded_url": "https://www.limiteinformativo.com/index.php/locales/9581-cuestionan-al-tribunal-electoral-por-no-convalidar-la-reforma-de-la-carta-organica-de-el-soberbio",
+          "display_url": "limiteinformativo.com/index.php/loca\u2026",
+          "indices": [98, 121]
+        }
+      ],
+      "hashtags": []
+    },
+    "full_text": "Cuestionan al Tribunal Electoral por no convalidar la reforma de la Carta Org\u00e1nica de El Soberbio https://t.co/9jKE5a07mf @GonzalezUCR @ucrmisiones @UCRNacional  @Jmo2011"
+  },
+  "quote_count": 0,
+  "in_reply_to_user_id_str": null,
+  "user": {
+    "utc_offset": -28800,
+    "verified": false,
+    "profile_background_tile": false,
+    "location": "Apostoles - Misiones ",
+    "profile_link_color": "1B95E0",
+    "notifications": null,
+    "profile_use_background_image": false,
+    "protected": false,
+    "following": null,
+    "profile_sidebar_fill_color": "000000",
+    "description": "Grupo Period\u00edstico L\u00edmite Informativo - http://limiteinformativo.com y L I Radio 99.1 FM Apostoles -",
+    "time_zone": "Pacific Time (US & Canada)",
+    "is_translator": false,
+    "listed_count": 3,
+    "contributors_enabled": false,
+    "translator_type": "none",
+    "profile_text_color": "000000",
+    "follow_request_sent": null,
+    "favourites_count": 195,
+    "statuses_count": 2839,
+    "lang": "es",
+    "default_profile": false,
+    "name": "Limite Informativo",
+    "id_str": "787638751455506432",
+    "profile_background_color": "000000",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/787638751455506432/1484225128",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "default_profile_image": false,
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "screen_name": "SpasiukLuis",
+    "created_at": "Sun Oct 16 12:58:07 +0000 2016",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/787663993225764864/mgTZOtKx_normal.jpg",
+    "id": 787638751455506432,
+    "geo_enabled": true,
+    "url": "http://www.limiteinformativo.com",
+    "followers_count": 257,
+    "profile_sidebar_border_color": "000000",
+    "friends_count": 450,
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/787663993225764864/mgTZOtKx_normal.jpg"
+  },
+  "in_reply_to_status_id": null,
+  "in_reply_to_screen_name": null,
+  "entities": {
+    "symbols": [],
+    "user_mentions": [],
+    "urls": [
+      {
+        "url": "https://t.co/IXi95jppcc",
+        "expanded_url": "https://twitter.com/i/web/status/930502116078125057",
+        "display_url": "twitter.com/i/web/status/9\u2026",
+        "indices": [99, 122]
+      }
+    ],
+    "hashtags": []
+  },
+  "reply_count": 0,
+  "geo": null,
+  "contributors": null,
+  "favorite_count": 0,
+  "possibly_sensitive": false,
+  "lang": "es",
+  "text": "Cuestionan al Tribunal Electoral por no convalidar la reforma de la Carta Org\u00e1nica de El Soberbio\u2026 https://t.co/IXi95jppcc",
+  "timestamp_ms": "1510683967023",
+  "id_str": "930502116078125057",
+  "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+  "truncated": true,
+  "retweeted": false,
+  "in_reply_to_user_id": null,
+  "created_at": "Tue Nov 14 18:26:07 +0000 2017",
+  "coordinates": null,
+  "in_reply_to_status_id_str": null,
+  "id": 930502116078125057,
+  "filter_level": "low",
+  "is_quote_status": false
+}

@@ -1,1 +1,135 @@
-{"in_reply_to_screen_name": "SoledadOnetto", "geo": null, "user": {"followers_count": 3, "profile_background_image_url": "", "profile_background_color": "F5F8FA", "translator_type": "none", "profile_image_url": "http://pbs.twimg.com/profile_images/872901571708956672/vv_Liz4d_normal.jpg", "profile_banner_url": "https://pbs.twimg.com/profile_banners/872884546013995008/1496950925", "default_profile": true, "utc_offset": null, "lang": "es", "url": null, "profile_background_image_url_https": "", "profile_image_url_https": "https://pbs.twimg.com/profile_images/872901571708956672/vv_Liz4d_normal.jpg", "time_zone": null, "profile_sidebar_border_color": "C0DEED", "profile_use_background_image": true, "id": 872884546013995008, "profile_link_color": "1DA1F2", "profile_sidebar_fill_color": "DDEEF6", "profile_background_tile": false, "geo_enabled": true, "id_str": "872884546013995008", "verified": false, "name": "Bienestaryrecreacion", "is_translator": false, "notifications": null, "following": null, "friends_count": 20, "contributors_enabled": false, "screen_name": "Bienestaryrecr1", "created_at": "Thu Jun 08 18:34:28 +0000 2017", "profile_text_color": "333333", "favourites_count": 52, "follow_request_sent": null, "description": "Asociada independiente de HERBALIFE", "default_profile_image": false, "location": "Pedro De Valdivia 1783; L;127", "listed_count": 0, "protected": false, "statuses_count": 87}, "filter_level": "low", "in_reply_to_status_id": 930213819972050944, "lang": "es", "display_text_range": [32, 140], "favorited": false, "place": {"name": "\u00d1u\u00f1oa", "full_name": "\u00d1u\u00f1oa, Chile", "place_type": "city", "country": "Chile", "id": "019f2f4e187ace41", "bounding_box": {"type": "Polygon", "coordinates": [[[-70.63278, -33.474911], [-70.63278, -33.433917], [-70.572535, -33.433917], [-70.572535, -33.474911]]]}, "attributes": {}, "url": "https://api.twitter.com/1.1/geo/id/019f2f4e187ace41.json", "country_code": "CL"}, "coordinates": null, "entities": {"hashtags": [], "urls": [{"display_url": "twitter.com/i/web/status/9\u2026", "expanded_url": "https://twitter.com/i/web/status/930605601582927872", "url": "https://t.co/qcjFTiMCTw", "indices": [117, 140]}], "symbols": [], "user_mentions": [{"id": 29222150, "id_str": "29222150", "name": "Soledad Onetto G.", "indices": [0, 14], "screen_name": "SoledadOnetto"}, {"id": 58048133, "id_str": "58048133", "name": "Ahora Noticias", "indices": [15, 31], "screen_name": "ahoranoticiasAN"}]}, "id": 930605601582927872, "in_reply_to_user_id_str": "29222150", "id_str": "930605601582927872", "retweet_count": 0, "retweeted": false, "quote_count": 0, "truncated": true, "in_reply_to_status_id_str": "930213819972050944", "reply_count": 0, "created_at": "Wed Nov 15 01:17:19 +0000 2017", "is_quote_status": false, "in_reply_to_user_id": 29222150, "timestamp_ms": "1510708639890", "text": "@SoledadOnetto @ahoranoticiasAN Felicitaciones Soledad, un equipo profesional espectacular, mejor todav\u00eda ya que er\u2026 https://t.co/qcjFTiMCTw", "extended_tweet": {"full_text": "@SoledadOnetto @ahoranoticiasAN Felicitaciones Soledad, un equipo profesional espectacular, mejor todav\u00eda ya que eres nuestro rostro oficial de HERBALIFE CHILE y consumes los productos y la nutrici\u00f3n externa", "display_text_range": [32, 207], "entities": {"hashtags": [], "urls": [], "symbols": [], "user_mentions": [{"id": 29222150, "id_str": "29222150", "name": "Soledad Onetto G.", "indices": [0, 14], "screen_name": "SoledadOnetto"}, {"id": 58048133, "id_str": "58048133", "name": "Ahora Noticias", "indices": [15, 31], "screen_name": "ahoranoticiasAN"}]}}, "favorite_count": 0, "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>", "contributors": null}
+{
+  "in_reply_to_screen_name": "SoledadOnetto",
+  "geo": null,
+  "user": {
+    "followers_count": 3,
+    "profile_background_image_url": "",
+    "profile_background_color": "F5F8FA",
+    "translator_type": "none",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/872901571708956672/vv_Liz4d_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/872884546013995008/1496950925",
+    "default_profile": true,
+    "utc_offset": null,
+    "lang": "es",
+    "url": null,
+    "profile_background_image_url_https": "",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/872901571708956672/vv_Liz4d_normal.jpg",
+    "time_zone": null,
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_use_background_image": true,
+    "id": 872884546013995008,
+    "profile_link_color": "1DA1F2",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_background_tile": false,
+    "geo_enabled": true,
+    "id_str": "872884546013995008",
+    "verified": false,
+    "name": "Bienestaryrecreacion",
+    "is_translator": false,
+    "notifications": null,
+    "following": null,
+    "friends_count": 20,
+    "contributors_enabled": false,
+    "screen_name": "Bienestaryrecr1",
+    "created_at": "Thu Jun 08 18:34:28 +0000 2017",
+    "profile_text_color": "333333",
+    "favourites_count": 52,
+    "follow_request_sent": null,
+    "description": "Asociada independiente de HERBALIFE",
+    "default_profile_image": false,
+    "location": "Pedro De Valdivia 1783; L;127",
+    "listed_count": 0,
+    "protected": false,
+    "statuses_count": 87
+  },
+  "filter_level": "low",
+  "in_reply_to_status_id": 930213819972050944,
+  "lang": "es",
+  "display_text_range": [32, 140],
+  "favorited": false,
+  "place": {
+    "name": "\u00d1u\u00f1oa",
+    "full_name": "\u00d1u\u00f1oa, Chile",
+    "place_type": "city",
+    "country": "Chile",
+    "id": "019f2f4e187ace41",
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [[-70.63278, -33.474911], [-70.63278, -33.433917], [-70.572535, -33.433917], [-70.572535, -33.474911]]
+      ]
+    },
+    "attributes": {},
+    "url": "https://api.twitter.com/1.1/geo/id/019f2f4e187ace41.json",
+    "country_code": "CL"
+  },
+  "coordinates": null,
+  "entities": {
+    "hashtags": [],
+    "urls": [
+      {
+        "display_url": "twitter.com/i/web/status/9\u2026",
+        "expanded_url": "https://twitter.com/i/web/status/930605601582927872",
+        "url": "https://t.co/qcjFTiMCTw",
+        "indices": [117, 140]
+      }
+    ],
+    "symbols": [],
+    "user_mentions": [
+      {
+        "id": 29222150,
+        "id_str": "29222150",
+        "name": "Soledad Onetto G.",
+        "indices": [0, 14],
+        "screen_name": "SoledadOnetto"
+      }, {
+        "id": 58048133,
+        "id_str": "58048133",
+        "name": "Ahora Noticias",
+        "indices": [15, 31],
+        "screen_name": "ahoranoticiasAN"
+      }
+    ]
+  },
+  "id": 930605601582927872,
+  "in_reply_to_user_id_str": "29222150",
+  "id_str": "930605601582927872",
+  "retweet_count": 0,
+  "retweeted": false,
+  "quote_count": 0,
+  "truncated": true,
+  "in_reply_to_status_id_str": "930213819972050944",
+  "reply_count": 0,
+  "created_at": "Wed Nov 15 01:17:19 +0000 2017",
+  "is_quote_status": false,
+  "in_reply_to_user_id": 29222150,
+  "timestamp_ms": "1510708639890",
+  "text": "@SoledadOnetto @ahoranoticiasAN Felicitaciones Soledad, un equipo profesional espectacular, mejor todav\u00eda ya que er\u2026 https://t.co/qcjFTiMCTw",
+  "extended_tweet": {
+    "full_text": "@SoledadOnetto @ahoranoticiasAN Felicitaciones Soledad, un equipo profesional espectacular, mejor todav\u00eda ya que eres nuestro rostro oficial de HERBALIFE CHILE y consumes los productos y la nutrici\u00f3n externa",
+    "display_text_range": [32, 207],
+    "entities": {
+      "hashtags": [],
+      "urls": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "id": 29222150,
+          "id_str": "29222150",
+          "name": "Soledad Onetto G.",
+          "indices": [0, 14],
+          "screen_name": "SoledadOnetto"
+        }, {
+          "id": 58048133,
+          "id_str": "58048133",
+          "name": "Ahora Noticias",
+          "indices": [15, 31],
+          "screen_name": "ahoranoticiasAN"
+        }
+      ]
+    }
+  },
+  "favorite_count": 0,
+  "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+  "contributors": null
+}

@@ -1,1 +1,123 @@
-{"in_reply_to_screen_name": "LG_RDT", "geo": null, "user": {"followers_count": 262, "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png", "profile_background_color": "000000", "translator_type": "none", "profile_image_url": "http://pbs.twimg.com/profile_images/920820665091022848/vg-UfCUp_normal.jpg", "profile_banner_url": "https://pbs.twimg.com/profile_banners/829797432187813888/1487254261", "default_profile": false, "utc_offset": null, "lang": "es", "url": null, "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", "profile_image_url_https": "https://pbs.twimg.com/profile_images/920820665091022848/vg-UfCUp_normal.jpg", "time_zone": null, "profile_sidebar_border_color": "000000", "profile_use_background_image": false, "id": 829797432187813888, "profile_link_color": "981CEB", "profile_sidebar_fill_color": "000000", "profile_background_tile": false, "geo_enabled": true, "id_str": "829797432187813888", "verified": false, "name": "Hugo Lopez Tanco", "is_translator": false, "notifications": null, "following": null, "friends_count": 239, "contributors_enabled": false, "screen_name": "HugoTanco", "created_at": "Thu Feb 09 21:01:39 +0000 2017", "profile_text_color": "000000", "favourites_count": 3108, "follow_request_sent": null, "description": "Polit\u00f3logo. S\u00f3lo tintos, gracias...", "default_profile_image": false, "location": "Buenos Aires, Argentina", "listed_count": 3, "protected": false, "statuses_count": 27159}, "filter_level": "low", "in_reply_to_status_id": 930429871712604160, "lang": "es", "display_text_range": [8, 140], "favorited": false, "place": {"name": "Ciudad Aut\u00f3noma de Buenos Aires", "full_name": "Ciudad Aut\u00f3noma de Buenos Aires, Argentina", "place_type": "city", "country": "Argentina", "id": "018f1cde6bad9747", "bounding_box": {"type": "Polygon", "coordinates": [[[-58.531792, -34.674453], [-58.531792, -34.534177], [-58.353494, -34.534177], [-58.353494, -34.674453]]]}, "attributes": {}, "url": "https://api.twitter.com/1.1/geo/id/018f1cde6bad9747.json", "country_code": "AR"}, "coordinates": null, "entities": {"hashtags": [], "urls": [{"display_url": "twitter.com/i/web/status/9\u2026", "expanded_url": "https://twitter.com/i/web/status/930609716144889856", "url": "https://t.co/D79DwYxsFK", "indices": [117, 140]}], "symbols": [], "user_mentions": [{"id": 212420616, "id_str": "212420616", "name": "LG", "indices": [0, 7], "screen_name": "LG_RDT"}]}, "id": 930609716144889856, "in_reply_to_user_id_str": "212420616", "id_str": "930609716144889856", "retweet_count": 0, "retweeted": false, "quote_count": 0, "truncated": true, "in_reply_to_status_id_str": "930429871712604160", "reply_count": 0, "created_at": "Wed Nov 15 01:33:40 +0000 2017", "is_quote_status": false, "in_reply_to_user_id": 212420616, "timestamp_ms": "1510709620878", "text": "@LG_RDT Depende...un pantal\u00f3n de lino, camisa de voile y saco de lino con corbata es 10 veces m\u00e1s fresco que un jea\u2026 https://t.co/D79DwYxsFK", "extended_tweet": {"full_text": "@LG_RDT Depende...un pantal\u00f3n de lino, camisa de voile y saco de lino con corbata es 10 veces m\u00e1s fresco que un jean con borcegos y remera negra como veo miles", "display_text_range": [8, 159], "entities": {"hashtags": [], "urls": [], "symbols": [], "user_mentions": [{"id": 212420616, "id_str": "212420616", "name": "LG", "indices": [0, 7], "screen_name": "LG_RDT"}]}}, "favorite_count": 0, "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>", "contributors": null}
+{
+  "in_reply_to_screen_name": "LG_RDT",
+  "geo": null,
+  "user": {
+    "followers_count": 262,
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_color": "000000",
+    "translator_type": "none",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/920820665091022848/vg-UfCUp_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/829797432187813888/1487254261",
+    "default_profile": false,
+    "utc_offset": null,
+    "lang": "es",
+    "url": null,
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/920820665091022848/vg-UfCUp_normal.jpg",
+    "time_zone": null,
+    "profile_sidebar_border_color": "000000",
+    "profile_use_background_image": false,
+    "id": 829797432187813888,
+    "profile_link_color": "981CEB",
+    "profile_sidebar_fill_color": "000000",
+    "profile_background_tile": false,
+    "geo_enabled": true,
+    "id_str": "829797432187813888",
+    "verified": false,
+    "name": "Hugo Lopez Tanco",
+    "is_translator": false,
+    "notifications": null,
+    "following": null,
+    "friends_count": 239,
+    "contributors_enabled": false,
+    "screen_name": "HugoTanco",
+    "created_at": "Thu Feb 09 21:01:39 +0000 2017",
+    "profile_text_color": "000000",
+    "favourites_count": 3108,
+    "follow_request_sent": null,
+    "description": "Polit\u00f3logo. S\u00f3lo tintos, gracias...",
+    "default_profile_image": false,
+    "location": "Buenos Aires, Argentina",
+    "listed_count": 3,
+    "protected": false,
+    "statuses_count": 27159
+  },
+  "filter_level": "low",
+  "in_reply_to_status_id": 930429871712604160,
+  "lang": "es",
+  "display_text_range": [8, 140],
+  "favorited": false,
+  "place": {
+    "name": "Ciudad Aut\u00f3noma de Buenos Aires",
+    "full_name": "Ciudad Aut\u00f3noma de Buenos Aires, Argentina",
+    "place_type": "city",
+    "country": "Argentina",
+    "id": "018f1cde6bad9747",
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [[-58.531792, -34.674453], [-58.531792, -34.534177], [-58.353494, -34.534177], [-58.353494, -34.674453]]
+      ]
+    },
+    "attributes": {},
+    "url": "https://api.twitter.com/1.1/geo/id/018f1cde6bad9747.json",
+    "country_code": "AR"
+  },
+  "coordinates": null,
+  "entities": {
+    "hashtags": [],
+    "urls": [
+      {
+        "display_url": "twitter.com/i/web/status/9\u2026",
+        "expanded_url": "https://twitter.com/i/web/status/930609716144889856",
+        "url": "https://t.co/D79DwYxsFK",
+        "indices": [117, 140]
+      }
+    ],
+    "symbols": [],
+    "user_mentions": [
+      {
+        "id": 212420616,
+        "id_str": "212420616",
+        "name": "LG",
+        "indices": [0, 7],
+        "screen_name": "LG_RDT"
+      }
+    ]
+  },
+  "id": 930609716144889856,
+  "in_reply_to_user_id_str": "212420616",
+  "id_str": "930609716144889856",
+  "retweet_count": 0,
+  "retweeted": false,
+  "quote_count": 0,
+  "truncated": true,
+  "in_reply_to_status_id_str": "930429871712604160",
+  "reply_count": 0,
+  "created_at": "Wed Nov 15 01:33:40 +0000 2017",
+  "is_quote_status": false,
+  "in_reply_to_user_id": 212420616,
+  "timestamp_ms": "1510709620878",
+  "text": "@LG_RDT Depende...un pantal\u00f3n de lino, camisa de voile y saco de lino con corbata es 10 veces m\u00e1s fresco que un jea\u2026 https://t.co/D79DwYxsFK",
+  "extended_tweet": {
+    "full_text": "@LG_RDT Depende...un pantal\u00f3n de lino, camisa de voile y saco de lino con corbata es 10 veces m\u00e1s fresco que un jean con borcegos y remera negra como veo miles",
+    "display_text_range": [8, 159],
+    "entities": {
+      "hashtags": [],
+      "urls": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "id": 212420616,
+          "id_str": "212420616",
+          "name": "LG",
+          "indices": [0, 7],
+          "screen_name": "LG_RDT"
+        }
+      ]
+    }
+  },
+  "favorite_count": 0,
+  "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+  "contributors": null
+}

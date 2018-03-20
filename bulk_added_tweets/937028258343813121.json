@@ -1,1 +1,162 @@
-{"created_at": "Sat Dec 02 18:38:40 +0000 2017", "id": 937028258343813121, "id_str": "937028258343813121", "text": "Insanely excellent pictures today imo https://t.co/j9Ys7PF80D", "display_text_range": [0, 37], "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>", "truncated": false, "in_reply_to_status_id": null, "in_reply_to_status_id_str": null, "in_reply_to_user_id": null, "in_reply_to_user_id_str": null, "in_reply_to_screen_name": null, "user": {"id": 700749367557246976, "id_str": "700749367557246976", "name": "Suzanne Stein", "screen_name": "suzannesteinLA", "location": "Manhattan, NY", "url": null, "description": "Street And Documentary Photography......My Twitter account is my personal diary, and almost exclusively IPhone 7plus", "translator_type": "none", "protected": false, "verified": false, "followers_count": 44, "friends_count": 23, "listed_count": 3, "favourites_count": 145, "statuses_count": 1658, "created_at": "Fri Feb 19 18:30:43 +0000 2016", "utc_offset": null, "time_zone": null, "geo_enabled": true, "lang": "en", "contributors_enabled": false, "is_translator": false, "profile_background_color": "F5F8FA", "profile_background_image_url": "", "profile_background_image_url_https": "", "profile_background_tile": false, "profile_link_color": "1DA1F2", "profile_sidebar_border_color": "C0DEED", "profile_sidebar_fill_color": "DDEEF6", "profile_text_color": "333333", "profile_use_background_image": true, "profile_image_url": "http://pbs.twimg.com/profile_images/700750644685111296/sdAz3Kzu_normal.jpg", "profile_image_url_https": "https://pbs.twimg.com/profile_images/700750644685111296/sdAz3Kzu_normal.jpg", "default_profile": true, "default_profile_image": false, "following": null, "follow_request_sent": null, "notifications": null}, "geo": null, "coordinates": null, "place": {"id": "07d9e382da486000", "url": "https://api.twitter.com/1.1/geo/id/07d9e382da486000.json", "place_type": "poi", "name": "Herald Square", "full_name": "Herald Square", "country_code": "US", "country": "United States", "bounding_box": {"type": "Polygon", "coordinates": [[[-73.987963, 40.749825], [-73.987963, 40.749825], [-73.987963, 40.749825], [-73.987963, 40.749825]]]}, "attributes": {}}, "contributors": null, "is_quote_status": false, "quote_count": 0, "reply_count": 0, "retweet_count": 0, "favorite_count": 0, "entities": {"hashtags": [], "urls": [], "user_mentions": [], "symbols": [], "media": [{"id": 937028256343252994, "id_str": "937028256343252994", "indices": [38, 61], "media_url": "http://pbs.twimg.com/media/DQD-PAvX4AIoI_v.jpg", "media_url_https": "https://pbs.twimg.com/media/DQD-PAvX4AIoI_v.jpg", "url": "https://t.co/j9Ys7PF80D", "display_url": "pic.twitter.com/j9Ys7PF80D", "expanded_url": "https://twitter.com/suzannesteinLA/status/937028258343813121/photo/1", "type": "photo", "sizes": {"thumb": {"w": 150, "h": 150, "resize": "crop"}, "large": {"w": 2048, "h": 1536, "resize": "fit"}, "medium": {"w": 1200, "h": 900, "resize": "fit"}, "small": {"w": 680, "h": 510, "resize": "fit"}}}]}, "extended_entities": {"media": [{"id": 937028256343252994, "id_str": "937028256343252994", "indices": [38, 61], "media_url": "http://pbs.twimg.com/media/DQD-PAvX4AIoI_v.jpg", "media_url_https": "https://pbs.twimg.com/media/DQD-PAvX4AIoI_v.jpg", "url": "https://t.co/j9Ys7PF80D", "display_url": "pic.twitter.com/j9Ys7PF80D", "expanded_url": "https://twitter.com/suzannesteinLA/status/937028258343813121/photo/1", "type": "photo", "sizes": {"thumb": {"w": 150, "h": 150, "resize": "crop"}, "large": {"w": 2048, "h": 1536, "resize": "fit"}, "medium": {"w": 1200, "h": 900, "resize": "fit"}, "small": {"w": 680, "h": 510, "resize": "fit"}}}]}, "favorited": false, "retweeted": false, "possibly_sensitive": false, "filter_level": "low", "lang": "en", "timestamp_ms": "1512239920589"}
+{
+  "created_at": "Sat Dec 02 18:38:40 +0000 2017",
+  "id": 937028258343813121,
+  "id_str": "937028258343813121",
+  "text": "Insanely excellent pictures today imo https://t.co/j9Ys7PF80D",
+  "display_text_range": [0, 37],
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 700749367557246976,
+    "id_str": "700749367557246976",
+    "name": "Suzanne Stein",
+    "screen_name": "suzannesteinLA",
+    "location": "Manhattan, NY",
+    "url": null,
+    "description": "Street And Documentary Photography......My Twitter account is my personal diary, and almost exclusively IPhone 7plus",
+    "translator_type": "none",
+    "protected": false,
+    "verified": false,
+    "followers_count": 44,
+    "friends_count": 23,
+    "listed_count": 3,
+    "favourites_count": 145,
+    "statuses_count": 1658,
+    "created_at": "Fri Feb 19 18:30:43 +0000 2016",
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": true,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "F5F8FA",
+    "profile_background_image_url": "",
+    "profile_background_image_url_https": "",
+    "profile_background_tile": false,
+    "profile_link_color": "1DA1F2",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/700750644685111296/sdAz3Kzu_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/700750644685111296/sdAz3Kzu_normal.jpg",
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": null,
+    "follow_request_sent": null,
+    "notifications": null
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": {
+    "id": "07d9e382da486000",
+    "url": "https://api.twitter.com/1.1/geo/id/07d9e382da486000.json",
+    "place_type": "poi",
+    "name": "Herald Square",
+    "full_name": "Herald Square",
+    "country_code": "US",
+    "country": "United States",
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [[-73.987963, 40.749825], [-73.987963, 40.749825], [-73.987963, 40.749825], [-73.987963, 40.749825]]
+      ]
+    },
+    "attributes": {}
+  },
+  "contributors": null,
+  "is_quote_status": false,
+  "quote_count": 0,
+  "reply_count": 0,
+  "retweet_count": 0,
+  "favorite_count": 0,
+  "entities": {
+    "hashtags": [],
+    "urls": [],
+    "user_mentions": [],
+    "symbols": [],
+    "media": [
+      {
+        "id": 937028256343252994,
+        "id_str": "937028256343252994",
+        "indices": [38, 61],
+        "media_url": "http://pbs.twimg.com/media/DQD-PAvX4AIoI_v.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/DQD-PAvX4AIoI_v.jpg",
+        "url": "https://t.co/j9Ys7PF80D",
+        "display_url": "pic.twitter.com/j9Ys7PF80D",
+        "expanded_url": "https://twitter.com/suzannesteinLA/status/937028258343813121/photo/1",
+        "type": "photo",
+        "sizes": {
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "large": {
+            "w": 2048,
+            "h": 1536,
+            "resize": "fit"
+          },
+          "medium": {
+            "w": 1200,
+            "h": 900,
+            "resize": "fit"
+          },
+          "small": {
+            "w": 680,
+            "h": 510,
+            "resize": "fit"
+          }
+        }
+      }
+    ]
+  },
+  "extended_entities": {
+    "media": [
+      {
+        "id": 937028256343252994,
+        "id_str": "937028256343252994",
+        "indices": [38, 61],
+        "media_url": "http://pbs.twimg.com/media/DQD-PAvX4AIoI_v.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/DQD-PAvX4AIoI_v.jpg",
+        "url": "https://t.co/j9Ys7PF80D",
+        "display_url": "pic.twitter.com/j9Ys7PF80D",
+        "expanded_url": "https://twitter.com/suzannesteinLA/status/937028258343813121/photo/1",
+        "type": "photo",
+        "sizes": {
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "large": {
+            "w": 2048,
+            "h": 1536,
+            "resize": "fit"
+          },
+          "medium": {
+            "w": 1200,
+            "h": 900,
+            "resize": "fit"
+          },
+          "small": {
+            "w": 680,
+            "h": 510,
+            "resize": "fit"
+          }
+        }
+      }
+    ]
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false,
+  "filter_level": "low",
+  "lang": "en",
+  "timestamp_ms": "1512239920589"
+}

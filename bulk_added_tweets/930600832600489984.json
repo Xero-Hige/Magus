@@ -1,1 +1,114 @@
-{"geo": {"type": "Point", "coordinates": [-18.08583333, -39.55083333]}, "filter_level": "low", "in_reply_to_status_id": null, "lang": "es", "favorite_count": 0, "coordinates": {"type": "Point", "coordinates": [-39.55083333, -18.08583333]}, "favorited": false, "place": {"name": "Mucuri", "full_name": "Mucuri, Brasil", "place_type": "city", "country": "Brasil", "id": "758032d34c511015", "bounding_box": {"type": "Polygon", "coordinates": [[[-40.2657, -18.323487], [-40.2657, -17.730893], [-39.486162, -17.730893], [-39.486162, -18.323487]]]}, "attributes": {}, "url": "https://api.twitter.com/1.1/geo/id/758032d34c511015.json", "country_code": "BR"}, "contributors": null, "entities": {"hashtags": [{"text": "CONFIRMADO", "indices": [0, 11]}, {"text": "ALISSONENEIDE", "indices": [13, 27]}, {"text": "COMPARTILHE", "indices": [29, 41]}], "urls": [{"display_url": "instagram.com/p/BbfxqEHBmTYW\u2026", "expanded_url": "https://www.instagram.com/p/BbfxqEHBmTYWXbG7BRubgL25IdjhulBgqBxTO40/", "url": "https://t.co/wCnZPkv3sH", "indices": [62, 85]}], "symbols": [], "user_mentions": []}, "id": 930600832600489984, "possibly_sensitive": false, "user": {"followers_count": 880, "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png", "profile_background_color": "C0DEED", "translator_type": "none", "profile_image_url": "http://pbs.twimg.com/profile_images/903055156966817793/ei0qKSd3_normal.jpg", "profile_banner_url": "https://pbs.twimg.com/profile_banners/2147607948/1489401479", "default_profile": true, "utc_offset": -7200, "lang": "pt", "url": null, "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", "profile_image_url_https": "https://pbs.twimg.com/profile_images/903055156966817793/ei0qKSd3_normal.jpg", "time_zone": "Mid-Atlantic", "profile_sidebar_border_color": "C0DEED", "profile_use_background_image": true, "id": 2147607948, "profile_link_color": "1DA1F2", "profile_sidebar_fill_color": "DDEEF6", "profile_background_tile": false, "geo_enabled": true, "id_str": "2147607948", "verified": false, "name": "Marcos Martins", "is_translator": false, "notifications": null, "following": null, "friends_count": 1570, "contributors_enabled": false, "screen_name": "Martins_Pastor", "created_at": "Mon Oct 21 19:36:04 +0000 2013", "profile_text_color": "333333", "favourites_count": 1271, "follow_request_sent": null, "description": "A servi\u00e7o do Rei Jesus. Casado com Lucimara, pai de tr\u00eas lindos filhos. Moramos em Mucuri - Cariacica-ES, Brasil", "default_profile_image": false, "location": "Mucuri - Cariacica", "listed_count": 0, "protected": false, "statuses_count": 4953}, "id_str": "930600832600489984", "retweet_count": 0, "retweeted": false, "quote_count": 0, "truncated": false, "in_reply_to_status_id_str": null, "reply_count": 0, "created_at": "Wed Nov 15 00:58:22 +0000 2017", "is_quote_status": false, "in_reply_to_user_id": null, "source": "<a href=\"http://instagram.com\" rel=\"nofollow\">Instagram</a>", "text": "#CONFIRMADO\n\n#ALISSONENEIDE\n\n#COMPARTILHE\n\nEst\u00e1 confirmado a\u2026 https://t.co/wCnZPkv3sH", "timestamp_ms": "1510707502876", "in_reply_to_user_id_str": null, "in_reply_to_screen_name": null}
+{
+  "geo": {
+    "type": "Point",
+    "coordinates": [-18.08583333, -39.55083333]
+  },
+  "filter_level": "low",
+  "in_reply_to_status_id": null,
+  "lang": "es",
+  "favorite_count": 0,
+  "coordinates": {
+    "type": "Point",
+    "coordinates": [-39.55083333, -18.08583333]
+  },
+  "favorited": false,
+  "place": {
+    "name": "Mucuri",
+    "full_name": "Mucuri, Brasil",
+    "place_type": "city",
+    "country": "Brasil",
+    "id": "758032d34c511015",
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [[-40.2657, -18.323487], [-40.2657, -17.730893], [-39.486162, -17.730893], [-39.486162, -18.323487]]
+      ]
+    },
+    "attributes": {},
+    "url": "https://api.twitter.com/1.1/geo/id/758032d34c511015.json",
+    "country_code": "BR"
+  },
+  "contributors": null,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "CONFIRMADO",
+        "indices": [0, 11]
+      }, {
+        "text": "ALISSONENEIDE",
+        "indices": [13, 27]
+      }, {
+        "text": "COMPARTILHE",
+        "indices": [29, 41]
+      }
+    ],
+    "urls": [
+      {
+        "display_url": "instagram.com/p/BbfxqEHBmTYW\u2026",
+        "expanded_url": "https://www.instagram.com/p/BbfxqEHBmTYWXbG7BRubgL25IdjhulBgqBxTO40/",
+        "url": "https://t.co/wCnZPkv3sH",
+        "indices": [62, 85]
+      }
+    ],
+    "symbols": [],
+    "user_mentions": []
+  },
+  "id": 930600832600489984,
+  "possibly_sensitive": false,
+  "user": {
+    "followers_count": 880,
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_color": "C0DEED",
+    "translator_type": "none",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/903055156966817793/ei0qKSd3_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/2147607948/1489401479",
+    "default_profile": true,
+    "utc_offset": -7200,
+    "lang": "pt",
+    "url": null,
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/903055156966817793/ei0qKSd3_normal.jpg",
+    "time_zone": "Mid-Atlantic",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_use_background_image": true,
+    "id": 2147607948,
+    "profile_link_color": "1DA1F2",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_background_tile": false,
+    "geo_enabled": true,
+    "id_str": "2147607948",
+    "verified": false,
+    "name": "Marcos Martins",
+    "is_translator": false,
+    "notifications": null,
+    "following": null,
+    "friends_count": 1570,
+    "contributors_enabled": false,
+    "screen_name": "Martins_Pastor",
+    "created_at": "Mon Oct 21 19:36:04 +0000 2013",
+    "profile_text_color": "333333",
+    "favourites_count": 1271,
+    "follow_request_sent": null,
+    "description": "A servi\u00e7o do Rei Jesus. Casado com Lucimara, pai de tr\u00eas lindos filhos. Moramos em Mucuri - Cariacica-ES, Brasil",
+    "default_profile_image": false,
+    "location": "Mucuri - Cariacica",
+    "listed_count": 0,
+    "protected": false,
+    "statuses_count": 4953
+  },
+  "id_str": "930600832600489984",
+  "retweet_count": 0,
+  "retweeted": false,
+  "quote_count": 0,
+  "truncated": false,
+  "in_reply_to_status_id_str": null,
+  "reply_count": 0,
+  "created_at": "Wed Nov 15 00:58:22 +0000 2017",
+  "is_quote_status": false,
+  "in_reply_to_user_id": null,
+  "source": "<a href=\"http://instagram.com\" rel=\"nofollow\">Instagram</a>",
+  "text": "#CONFIRMADO\n\n#ALISSONENEIDE\n\n#COMPARTILHE\n\nEst\u00e1 confirmado a\u2026 https://t.co/wCnZPkv3sH",
+  "timestamp_ms": "1510707502876",
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null
+}

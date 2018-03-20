@@ -1,1 +1,127 @@
-{"extended_tweet": {"display_text_range": [0, 160], "entities": {"urls": [], "symbols": [], "hashtags": [], "user_mentions": [{"indices": [0, 10], "name": "Polic\u00eda Nacional RD", "id_str": "305445462", "screen_name": "PoliciaRD", "id": 305445462}, {"indices": [144, 160], "name": "Jean Alain Rodr\u00edguez", "id_str": "1262435682", "screen_name": "JeanARodriguezS", "id": 1262435682}]}, "full_text": "@PoliciaRD Se que la Polic\u00eda Nacional en busca de seguir mejorando su imagen y aumentando su apoyo social, har\u00e1 una investigaci\u00f3n sobre el tema @JeanARodriguezS"}, "favorited": false, "lang": "es", "favorite_count": 0, "reply_count": 0, "geo": null, "contributors": null, "text": "@PoliciaRD Se que la Polic\u00eda Nacional en busca de seguir mejorando su imagen y aumentando su apoyo social, har\u00e1 una\u2026 https://t.co/11MMk7TXmq", "created_at": "Wed Nov 15 15:33:00 +0000 2017", "place": {"place_type": "country", "full_name": "Dominican Republic", "country": "Dominican Republic", "name": "Dominican Republic", "url": "https://api.twitter.com/1.1/geo/id/695f560eb8922977.json", "country_code": "DO", "bounding_box": {"type": "Polygon", "coordinates": [[[-72.007302, 17.470156], [-72.007302, 19.932314], [-68.322785, 19.932314], [-68.322785, 17.470156]]]}, "id": "695f560eb8922977", "attributes": {}}, "user": {"profile_text_color": "000000", "lang": "es", "location": "Hig\u00fcey, La Altagracia", "friends_count": 2407, "profile_link_color": "0099B9", "profile_image_url_https": "https://pbs.twimg.com/profile_images/916792080566951936/4QJxJA5P_normal.jpg", "contributors_enabled": false, "following": null, "is_translator": false, "verified": false, "utc_offset": -18000, "geo_enabled": true, "profile_sidebar_border_color": "000000", "created_at": "Thu Mar 04 15:03:51 +0000 2010", "description": "Reportero grupo Telemicro. Ganador del Premio Nacional de Periodismo Turismo 2014. Director de las emisoras La Kalle y Primera FM en La Altagracia", "profile_image_url": "http://pbs.twimg.com/profile_images/916792080566951936/4QJxJA5P_normal.jpg", "profile_background_color": "0099B9", "listed_count": 18, "follow_request_sent": null, "profile_background_tile": false, "followers_count": 5478, "name": "Robert Antonio", "notifications": null, "default_profile_image": false, "url": "http://www.robertnoticias.com", "favourites_count": 10315, "screen_name": "arobert32", "profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif", "profile_sidebar_fill_color": "000000", "profile_use_background_image": false, "translator_type": "none", "time_zone": "Quito", "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif", "statuses_count": 49329, "id": 119754059, "default_profile": false, "protected": false, "id_str": "119754059"}, "in_reply_to_user_id_str": "305445462", "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>", "filter_level": "low", "is_quote_status": false, "in_reply_to_status_id": null, "in_reply_to_user_id": 305445462, "quote_count": 0, "retweeted": false, "in_reply_to_screen_name": "PoliciaRD", "retweet_count": 0, "in_reply_to_status_id_str": null, "coordinates": null, "id": 930820939889238018, "truncated": true, "entities": {"urls": [{"url": "https://t.co/11MMk7TXmq", "display_url": "twitter.com/i/web/status/9\u2026", "indices": [117, 140], "expanded_url": "https://twitter.com/i/web/status/930820939889238018"}], "symbols": [], "hashtags": [], "user_mentions": [{"indices": [0, 10], "name": "Polic\u00eda Nacional RD", "id_str": "305445462", "screen_name": "PoliciaRD", "id": 305445462}]}, "timestamp_ms": "1510759980543", "id_str": "930820939889238018"}
+{
+  "extended_tweet": {
+    "display_text_range": [0, 160],
+    "entities": {
+      "urls": [],
+      "symbols": [],
+      "hashtags": [],
+      "user_mentions": [
+        {
+          "indices": [0, 10],
+          "name": "Polic\u00eda Nacional RD",
+          "id_str": "305445462",
+          "screen_name": "PoliciaRD",
+          "id": 305445462
+        }, {
+          "indices": [144, 160],
+          "name": "Jean Alain Rodr\u00edguez",
+          "id_str": "1262435682",
+          "screen_name": "JeanARodriguezS",
+          "id": 1262435682
+        }
+      ]
+    },
+    "full_text": "@PoliciaRD Se que la Polic\u00eda Nacional en busca de seguir mejorando su imagen y aumentando su apoyo social, har\u00e1 una investigaci\u00f3n sobre el tema @JeanARodriguezS"
+  },
+  "favorited": false,
+  "lang": "es",
+  "favorite_count": 0,
+  "reply_count": 0,
+  "geo": null,
+  "contributors": null,
+  "text": "@PoliciaRD Se que la Polic\u00eda Nacional en busca de seguir mejorando su imagen y aumentando su apoyo social, har\u00e1 una\u2026 https://t.co/11MMk7TXmq",
+  "created_at": "Wed Nov 15 15:33:00 +0000 2017",
+  "place": {
+    "place_type": "country",
+    "full_name": "Dominican Republic",
+    "country": "Dominican Republic",
+    "name": "Dominican Republic",
+    "url": "https://api.twitter.com/1.1/geo/id/695f560eb8922977.json",
+    "country_code": "DO",
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [[-72.007302, 17.470156], [-72.007302, 19.932314], [-68.322785, 19.932314], [-68.322785, 17.470156]]
+      ]
+    },
+    "id": "695f560eb8922977",
+    "attributes": {}
+  },
+  "user": {
+    "profile_text_color": "000000",
+    "lang": "es",
+    "location": "Hig\u00fcey, La Altagracia",
+    "friends_count": 2407,
+    "profile_link_color": "0099B9",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/916792080566951936/4QJxJA5P_normal.jpg",
+    "contributors_enabled": false,
+    "following": null,
+    "is_translator": false,
+    "verified": false,
+    "utc_offset": -18000,
+    "geo_enabled": true,
+    "profile_sidebar_border_color": "000000",
+    "created_at": "Thu Mar 04 15:03:51 +0000 2010",
+    "description": "Reportero grupo Telemicro. Ganador del Premio Nacional de Periodismo Turismo 2014. Director de las emisoras La Kalle y Primera FM en La Altagracia",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/916792080566951936/4QJxJA5P_normal.jpg",
+    "profile_background_color": "0099B9",
+    "listed_count": 18,
+    "follow_request_sent": null,
+    "profile_background_tile": false,
+    "followers_count": 5478,
+    "name": "Robert Antonio",
+    "notifications": null,
+    "default_profile_image": false,
+    "url": "http://www.robertnoticias.com",
+    "favourites_count": 10315,
+    "screen_name": "arobert32",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+    "profile_sidebar_fill_color": "000000",
+    "profile_use_background_image": false,
+    "translator_type": "none",
+    "time_zone": "Quito",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+    "statuses_count": 49329,
+    "id": 119754059,
+    "default_profile": false,
+    "protected": false,
+    "id_str": "119754059"
+  },
+  "in_reply_to_user_id_str": "305445462",
+  "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+  "filter_level": "low",
+  "is_quote_status": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_user_id": 305445462,
+  "quote_count": 0,
+  "retweeted": false,
+  "in_reply_to_screen_name": "PoliciaRD",
+  "retweet_count": 0,
+  "in_reply_to_status_id_str": null,
+  "coordinates": null,
+  "id": 930820939889238018,
+  "truncated": true,
+  "entities": {
+    "urls": [
+      {
+        "url": "https://t.co/11MMk7TXmq",
+        "display_url": "twitter.com/i/web/status/9\u2026",
+        "indices": [117, 140],
+        "expanded_url": "https://twitter.com/i/web/status/930820939889238018"
+      }
+    ],
+    "symbols": [],
+    "hashtags": [],
+    "user_mentions": [
+      {
+        "indices": [0, 10],
+        "name": "Polic\u00eda Nacional RD",
+        "id_str": "305445462",
+        "screen_name": "PoliciaRD",
+        "id": 305445462
+      }
+    ]
+  },
+  "timestamp_ms": "1510759980543",
+  "id_str": "930820939889238018"
+}

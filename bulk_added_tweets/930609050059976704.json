@@ -1,1 +1,120 @@
-{"geo": null, "filter_level": "low", "in_reply_to_status_id": null, "lang": "es", "favorite_count": 0, "coordinates": null, "favorited": false, "place": {"name": "Bogot\u00e1, D.C.", "full_name": "Bogot\u00e1, D.C., Colombia", "place_type": "city", "country": "Colombia", "id": "0161be1b3f98d6c3", "bounding_box": {"type": "Polygon", "coordinates": [[[-74.483289, 3.717432], [-74.483289, 4.807135], [-74.004053, 4.807135], [-74.004053, 3.717432]]]}, "attributes": {}, "url": "https://api.twitter.com/1.1/geo/id/0161be1b3f98d6c3.json", "country_code": "CO"}, "contributors": null, "entities": {"hashtags": [], "urls": [{"display_url": "twitter.com/i/web/status/9\u2026", "expanded_url": "https://twitter.com/i/web/status/930609050059976704", "url": "https://t.co/z9zoXutVaT", "indices": [117, 140]}], "symbols": [], "user_mentions": [{"id": 262814659, "id_str": "262814659", "name": "\u00d3scar Iv\u00e1n Zuluaga", "indices": [29, 39], "screen_name": "OIZuluaga"}]}, "id": 930609050059976704, "user": {"followers_count": 28613, "profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif", "profile_background_color": "ABB8C2", "translator_type": "none", "profile_image_url": "http://pbs.twimg.com/profile_images/746095775898173440/16yoVxvr_normal.jpg", "profile_banner_url": "https://pbs.twimg.com/profile_banners/1490720324/1506125836", "default_profile": false, "utc_offset": -18000, "lang": "es", "url": null, "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif", "profile_image_url_https": "https://pbs.twimg.com/profile_images/746095775898173440/16yoVxvr_normal.jpg", "time_zone": "Eastern Time (US & Canada)", "profile_sidebar_border_color": "000000", "profile_use_background_image": true, "id": 1490720324, "profile_link_color": "19CF86", "profile_sidebar_fill_color": "000000", "profile_background_tile": false, "geo_enabled": true, "id_str": "1490720324", "verified": false, "name": "Gustavo Rodriguez", "is_translator": false, "notifications": null, "following": null, "friends_count": 28642, "contributors_enabled": false, "screen_name": "gurozu", "created_at": "Fri Jun 07 16:02:44 +0000 2013", "profile_text_color": "000000", "favourites_count": 70, "follow_request_sent": null, "description": "\u00a1\u00a1\u00a1SIGANME LOS BUENOS!!!                      El Hombre vive, hasta que muere ING sistemas #TeamUnidoS #MGWV  #TeamFollowBack", "default_profile_image": false, "location": "Ca\u00f1o Cristales", "listed_count": 59, "protected": false, "statuses_count": 103740}, "id_str": "930609050059976704", "retweet_count": 0, "retweeted": false, "quote_count": 0, "truncated": true, "in_reply_to_status_id_str": null, "reply_count": 0, "created_at": "Wed Nov 15 01:31:02 +0000 2017", "is_quote_status": false, "in_reply_to_user_id": null, "timestamp_ms": "1510709462071", "text": "Otra gran mentira del mu\u00f1eco @OIZuluaga \nEn campa\u00f1a, todos los d\u00edas repet\u00eda:\nYo fui ministro de hacienda, y se de d\u2026 https://t.co/z9zoXutVaT", "extended_tweet": {"full_text": "Otra gran mentira del mu\u00f1eco @OIZuluaga \nEn campa\u00f1a, todos los d\u00edas repet\u00eda:\nYo fui ministro de hacienda, y se de donde salen los recursos. \n\u00bfComo pues, no sabe de donde sal\u00edan las consignaciones a su campa\u00f1a.", "display_text_range": [0, 209], "entities": {"hashtags": [], "urls": [], "symbols": [], "user_mentions": [{"id": 262814659, "id_str": "262814659", "name": "\u00d3scar Iv\u00e1n Zuluaga", "indices": [29, 39], "screen_name": "OIZuluaga"}]}}, "in_reply_to_user_id_str": null, "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>", "in_reply_to_screen_name": null}
+{
+  "geo": null,
+  "filter_level": "low",
+  "in_reply_to_status_id": null,
+  "lang": "es",
+  "favorite_count": 0,
+  "coordinates": null,
+  "favorited": false,
+  "place": {
+    "name": "Bogot\u00e1, D.C.",
+    "full_name": "Bogot\u00e1, D.C., Colombia",
+    "place_type": "city",
+    "country": "Colombia",
+    "id": "0161be1b3f98d6c3",
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [[[-74.483289, 3.717432], [-74.483289, 4.807135], [-74.004053, 4.807135], [-74.004053, 3.717432]]]
+    },
+    "attributes": {},
+    "url": "https://api.twitter.com/1.1/geo/id/0161be1b3f98d6c3.json",
+    "country_code": "CO"
+  },
+  "contributors": null,
+  "entities": {
+    "hashtags": [],
+    "urls": [
+      {
+        "display_url": "twitter.com/i/web/status/9\u2026",
+        "expanded_url": "https://twitter.com/i/web/status/930609050059976704",
+        "url": "https://t.co/z9zoXutVaT",
+        "indices": [117, 140]
+      }
+    ],
+    "symbols": [],
+    "user_mentions": [
+      {
+        "id": 262814659,
+        "id_str": "262814659",
+        "name": "\u00d3scar Iv\u00e1n Zuluaga",
+        "indices": [29, 39],
+        "screen_name": "OIZuluaga"
+      }
+    ]
+  },
+  "id": 930609050059976704,
+  "user": {
+    "followers_count": 28613,
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+    "profile_background_color": "ABB8C2",
+    "translator_type": "none",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/746095775898173440/16yoVxvr_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1490720324/1506125836",
+    "default_profile": false,
+    "utc_offset": -18000,
+    "lang": "es",
+    "url": null,
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/746095775898173440/16yoVxvr_normal.jpg",
+    "time_zone": "Eastern Time (US & Canada)",
+    "profile_sidebar_border_color": "000000",
+    "profile_use_background_image": true,
+    "id": 1490720324,
+    "profile_link_color": "19CF86",
+    "profile_sidebar_fill_color": "000000",
+    "profile_background_tile": false,
+    "geo_enabled": true,
+    "id_str": "1490720324",
+    "verified": false,
+    "name": "Gustavo Rodriguez",
+    "is_translator": false,
+    "notifications": null,
+    "following": null,
+    "friends_count": 28642,
+    "contributors_enabled": false,
+    "screen_name": "gurozu",
+    "created_at": "Fri Jun 07 16:02:44 +0000 2013",
+    "profile_text_color": "000000",
+    "favourites_count": 70,
+    "follow_request_sent": null,
+    "description": "\u00a1\u00a1\u00a1SIGANME LOS BUENOS!!!                      El Hombre vive, hasta que muere ING sistemas #TeamUnidoS #MGWV  #TeamFollowBack",
+    "default_profile_image": false,
+    "location": "Ca\u00f1o Cristales",
+    "listed_count": 59,
+    "protected": false,
+    "statuses_count": 103740
+  },
+  "id_str": "930609050059976704",
+  "retweet_count": 0,
+  "retweeted": false,
+  "quote_count": 0,
+  "truncated": true,
+  "in_reply_to_status_id_str": null,
+  "reply_count": 0,
+  "created_at": "Wed Nov 15 01:31:02 +0000 2017",
+  "is_quote_status": false,
+  "in_reply_to_user_id": null,
+  "timestamp_ms": "1510709462071",
+  "text": "Otra gran mentira del mu\u00f1eco @OIZuluaga \nEn campa\u00f1a, todos los d\u00edas repet\u00eda:\nYo fui ministro de hacienda, y se de d\u2026 https://t.co/z9zoXutVaT",
+  "extended_tweet": {
+    "full_text": "Otra gran mentira del mu\u00f1eco @OIZuluaga \nEn campa\u00f1a, todos los d\u00edas repet\u00eda:\nYo fui ministro de hacienda, y se de donde salen los recursos. \n\u00bfComo pues, no sabe de donde sal\u00edan las consignaciones a su campa\u00f1a.",
+    "display_text_range": [0, 209],
+    "entities": {
+      "hashtags": [],
+      "urls": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "id": 262814659,
+          "id_str": "262814659",
+          "name": "\u00d3scar Iv\u00e1n Zuluaga",
+          "indices": [29, 39],
+          "screen_name": "OIZuluaga"
+        }
+      ]
+    }
+  },
+  "in_reply_to_user_id_str": null,
+  "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+  "in_reply_to_screen_name": null
+}

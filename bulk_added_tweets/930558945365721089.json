@@ -1,1 +1,193 @@
-{"is_quote_status": false, "quote_count": 0, "in_reply_to_user_id_str": null, "favorite_count": 0, "in_reply_to_status_id": null, "id_str": "930558945365721089", "filter_level": "low", "reply_count": 0, "timestamp_ms": "1510697516181", "id": 930558945365721089, "display_text_range": [0, 140], "coordinates": null, "in_reply_to_screen_name": null, "truncated": true, "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>", "place": {"bounding_box": {"coordinates": [[[-102.588385, 21.622938], [-102.588385, 22.07598], [-102.066029, 22.07598], [-102.066029, 21.622938]]], "type": "Polygon"}, "url": "https://api.twitter.com/1.1/geo/id/5970723cbb8cc66e.json", "country_code": "MX", "name": "Aguascalientes", "full_name": "Aguascalientes, M\u00e9xico", "id": "5970723cbb8cc66e", "place_type": "city", "attributes": {}, "country": "M\u00e9xico"}, "retweet_count": 0, "extended_tweet": {"display_text_range": [0, 118], "entities": {"user_mentions": [], "urls": [], "symbols": [], "hashtags": [{"text": "Motivaci\u00f3n", "indices": [0, 11]}, {"text": "Herbalife", "indices": [108, 118]}], "media": [{"media_url_https": "https://pbs.twimg.com/media/DOoCWHvX4AA5VEB.jpg", "expanded_url": "https://twitter.com/Lalo_vzla/status/930558945365721089/photo/1", "id_str": "930558852063551488", "media_url": "http://pbs.twimg.com/media/DOoCWHvX4AA5VEB.jpg", "display_url": "pic.twitter.com/pSFuY8BUZc", "id": 930558852063551488, "indices": [119, 142], "type": "photo", "url": "https://t.co/pSFuY8BUZc", "sizes": {"small": {"resize": "fit", "h": 676, "w": 680}, "medium": {"resize": "fit", "h": 716, "w": 720}, "thumb": {"resize": "crop", "h": 150, "w": 150}, "large": {"resize": "fit", "h": 716, "w": 720}}}]}, "extended_entities": {"media": [{"media_url_https": "https://pbs.twimg.com/media/DOoCWHvX4AA5VEB.jpg", "expanded_url": "https://twitter.com/Lalo_vzla/status/930558945365721089/photo/1", "id_str": "930558852063551488", "media_url": "http://pbs.twimg.com/media/DOoCWHvX4AA5VEB.jpg", "display_url": "pic.twitter.com/pSFuY8BUZc", "id": 930558852063551488, "indices": [119, 142], "type": "photo", "url": "https://t.co/pSFuY8BUZc", "sizes": {"small": {"resize": "fit", "h": 676, "w": 680}, "medium": {"resize": "fit", "h": 716, "w": 720}, "thumb": {"resize": "crop", "h": 150, "w": 150}, "large": {"resize": "fit", "h": 716, "w": 720}}}]}, "full_text": "#Motivaci\u00f3n Los pasos peque\u00f1os tienen resultados grandes. Esfu\u00e9rzate para mejorar tu persona todos los d\u00edas #Herbalife https://t.co/pSFuY8BUZc"}, "created_at": "Tue Nov 14 22:11:56 +0000 2017", "favorited": false, "text": "#Motivaci\u00f3n Los pasos peque\u00f1os tienen resultados grandes. Esfu\u00e9rzate para mejorar tu persona todos los d\u00edas\u2026 https://t.co/qpcQOJnZgR", "in_reply_to_user_id": null, "geo": null, "lang": "es", "contributors": null, "in_reply_to_status_id_str": null, "user": {"protected": false, "following": null, "profile_text_color": "333333", "profile_background_color": "131516", "statuses_count": 22215, "default_profile": false, "favourites_count": 7055, "friends_count": 2733, "follow_request_sent": null, "profile_sidebar_fill_color": "EFEFEF", "translator_type": "none", "notifications": null, "id_str": "758375154", "screen_name": "Lalo_vzla", "profile_banner_url": "https://pbs.twimg.com/profile_banners/758375154/1507152793", "verified": false, "id": 758375154, "profile_use_background_image": true, "description": "Venezolano viviendo en Aguascalientes, M\u00e9xico. Nac\u00ed un 31 de diciembre, soy hijo \u00fanico. Particip\u00e9 en QQSM, estuve detenido por el r\u00e9gimen en protestas 2014. UCV", "utc_offset": -14400, "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/478677154310262784/BFvrMocV.jpeg", "is_translator": false, "listed_count": 7, "default_profile_image": false, "contributors_enabled": false, "followers_count": 2201, "location": "Venezuela", "created_at": "Wed Aug 15 02:33:10 +0000 2012", "profile_image_url_https": "https://pbs.twimg.com/profile_images/915689719240859648/YeX0Gv8j_normal.jpg", "geo_enabled": true, "time_zone": "Caracas", "profile_image_url": "http://pbs.twimg.com/profile_images/915689719240859648/YeX0Gv8j_normal.jpg", "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/478677154310262784/BFvrMocV.jpeg", "profile_link_color": "3B94D9", "lang": "es", "name": "Eduardo Rodr\u00edguez", "profile_background_tile": true, "url": "https://www.instagram.com/rodriguezedu31/", "profile_sidebar_border_color": "FFFFFF"}, "possibly_sensitive": false, "entities": {"user_mentions": [], "urls": [{"expanded_url": "https://twitter.com/i/web/status/930558945365721089", "url": "https://t.co/qpcQOJnZgR", "indices": [109, 132], "display_url": "twitter.com/i/web/status/9\u2026"}], "symbols": [], "hashtags": [{"text": "Motivaci\u00f3n", "indices": [0, 11]}]}, "retweeted": false}
+{
+  "is_quote_status": false,
+  "quote_count": 0,
+  "in_reply_to_user_id_str": null,
+  "favorite_count": 0,
+  "in_reply_to_status_id": null,
+  "id_str": "930558945365721089",
+  "filter_level": "low",
+  "reply_count": 0,
+  "timestamp_ms": "1510697516181",
+  "id": 930558945365721089,
+  "display_text_range": [0, 140],
+  "coordinates": null,
+  "in_reply_to_screen_name": null,
+  "truncated": true,
+  "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+  "place": {
+    "bounding_box": {
+      "coordinates": [
+        [[-102.588385, 21.622938], [-102.588385, 22.07598], [-102.066029, 22.07598], [-102.066029, 21.622938]]
+      ],
+      "type": "Polygon"
+    },
+    "url": "https://api.twitter.com/1.1/geo/id/5970723cbb8cc66e.json",
+    "country_code": "MX",
+    "name": "Aguascalientes",
+    "full_name": "Aguascalientes, M\u00e9xico",
+    "id": "5970723cbb8cc66e",
+    "place_type": "city",
+    "attributes": {},
+    "country": "M\u00e9xico"
+  },
+  "retweet_count": 0,
+  "extended_tweet": {
+    "display_text_range": [0, 118],
+    "entities": {
+      "user_mentions": [],
+      "urls": [],
+      "symbols": [],
+      "hashtags": [
+        {
+          "text": "Motivaci\u00f3n",
+          "indices": [0, 11]
+        }, {
+          "text": "Herbalife",
+          "indices": [108, 118]
+        }
+      ],
+      "media": [
+        {
+          "media_url_https": "https://pbs.twimg.com/media/DOoCWHvX4AA5VEB.jpg",
+          "expanded_url": "https://twitter.com/Lalo_vzla/status/930558945365721089/photo/1",
+          "id_str": "930558852063551488",
+          "media_url": "http://pbs.twimg.com/media/DOoCWHvX4AA5VEB.jpg",
+          "display_url": "pic.twitter.com/pSFuY8BUZc",
+          "id": 930558852063551488,
+          "indices": [119, 142],
+          "type": "photo",
+          "url": "https://t.co/pSFuY8BUZc",
+          "sizes": {
+            "small": {
+              "resize": "fit",
+              "h": 676,
+              "w": 680
+            },
+            "medium": {
+              "resize": "fit",
+              "h": 716,
+              "w": 720
+            },
+            "thumb": {
+              "resize": "crop",
+              "h": 150,
+              "w": 150
+            },
+            "large": {
+              "resize": "fit",
+              "h": 716,
+              "w": 720
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "media_url_https": "https://pbs.twimg.com/media/DOoCWHvX4AA5VEB.jpg",
+          "expanded_url": "https://twitter.com/Lalo_vzla/status/930558945365721089/photo/1",
+          "id_str": "930558852063551488",
+          "media_url": "http://pbs.twimg.com/media/DOoCWHvX4AA5VEB.jpg",
+          "display_url": "pic.twitter.com/pSFuY8BUZc",
+          "id": 930558852063551488,
+          "indices": [119, 142],
+          "type": "photo",
+          "url": "https://t.co/pSFuY8BUZc",
+          "sizes": {
+            "small": {
+              "resize": "fit",
+              "h": 676,
+              "w": 680
+            },
+            "medium": {
+              "resize": "fit",
+              "h": 716,
+              "w": 720
+            },
+            "thumb": {
+              "resize": "crop",
+              "h": 150,
+              "w": 150
+            },
+            "large": {
+              "resize": "fit",
+              "h": 716,
+              "w": 720
+            }
+          }
+        }
+      ]
+    },
+    "full_text": "#Motivaci\u00f3n Los pasos peque\u00f1os tienen resultados grandes. Esfu\u00e9rzate para mejorar tu persona todos los d\u00edas #Herbalife https://t.co/pSFuY8BUZc"
+  },
+  "created_at": "Tue Nov 14 22:11:56 +0000 2017",
+  "favorited": false,
+  "text": "#Motivaci\u00f3n Los pasos peque\u00f1os tienen resultados grandes. Esfu\u00e9rzate para mejorar tu persona todos los d\u00edas\u2026 https://t.co/qpcQOJnZgR",
+  "in_reply_to_user_id": null,
+  "geo": null,
+  "lang": "es",
+  "contributors": null,
+  "in_reply_to_status_id_str": null,
+  "user": {
+    "protected": false,
+    "following": null,
+    "profile_text_color": "333333",
+    "profile_background_color": "131516",
+    "statuses_count": 22215,
+    "default_profile": false,
+    "favourites_count": 7055,
+    "friends_count": 2733,
+    "follow_request_sent": null,
+    "profile_sidebar_fill_color": "EFEFEF",
+    "translator_type": "none",
+    "notifications": null,
+    "id_str": "758375154",
+    "screen_name": "Lalo_vzla",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/758375154/1507152793",
+    "verified": false,
+    "id": 758375154,
+    "profile_use_background_image": true,
+    "description": "Venezolano viviendo en Aguascalientes, M\u00e9xico. Nac\u00ed un 31 de diciembre, soy hijo \u00fanico. Particip\u00e9 en QQSM, estuve detenido por el r\u00e9gimen en protestas 2014. UCV",
+    "utc_offset": -14400,
+    "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/478677154310262784/BFvrMocV.jpeg",
+    "is_translator": false,
+    "listed_count": 7,
+    "default_profile_image": false,
+    "contributors_enabled": false,
+    "followers_count": 2201,
+    "location": "Venezuela",
+    "created_at": "Wed Aug 15 02:33:10 +0000 2012",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/915689719240859648/YeX0Gv8j_normal.jpg",
+    "geo_enabled": true,
+    "time_zone": "Caracas",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/915689719240859648/YeX0Gv8j_normal.jpg",
+    "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/478677154310262784/BFvrMocV.jpeg",
+    "profile_link_color": "3B94D9",
+    "lang": "es",
+    "name": "Eduardo Rodr\u00edguez",
+    "profile_background_tile": true,
+    "url": "https://www.instagram.com/rodriguezedu31/",
+    "profile_sidebar_border_color": "FFFFFF"
+  },
+  "possibly_sensitive": false,
+  "entities": {
+    "user_mentions": [],
+    "urls": [
+      {
+        "expanded_url": "https://twitter.com/i/web/status/930558945365721089",
+        "url": "https://t.co/qpcQOJnZgR",
+        "indices": [109, 132],
+        "display_url": "twitter.com/i/web/status/9\u2026"
+      }
+    ],
+    "symbols": [],
+    "hashtags": [
+      {
+        "text": "Motivaci\u00f3n",
+        "indices": [0, 11]
+      }
+    ]
+  },
+  "retweeted": false
+}

@@ -1,1 +1,106 @@
-{"reply_count": 0, "user": {"profile_banner_url": "https://pbs.twimg.com/profile_banners/882746682609475584/1499298689", "following": null, "profile_background_color": "F5F8FA", "url": null, "utc_offset": null, "follow_request_sent": null, "translator_type": "none", "profile_text_color": "333333", "id_str": "882746682609475584", "favourites_count": 1, "friends_count": 3, "followers_count": 3, "id": 882746682609475584, "geo_enabled": true, "profile_sidebar_border_color": "C0DEED", "profile_image_url_https": "https://pbs.twimg.com/profile_images/913194711095136258/-mEVwzMh_normal.jpg", "statuses_count": 2059, "notifications": null, "profile_background_image_url_https": "", "protected": false, "listed_count": 0, "screen_name": "PImputada", "profile_sidebar_fill_color": "DDEEF6", "location": "chile", "created_at": "Wed Jul 05 23:43:04 +0000 2017", "default_profile": true, "time_zone": null, "verified": false, "contributors_enabled": false, "profile_image_url": "http://pbs.twimg.com/profile_images/913194711095136258/-mEVwzMh_normal.jpg", "lang": "es", "name": "ASPERGER. SUE\u00d1OS DE DA VINCI", "profile_link_color": "1DA1F2", "is_translator": false, "description": null, "profile_use_background_image": true, "default_profile_image": false, "profile_background_image_url": "", "profile_background_tile": false}, "contributors": null, "id_str": "930534378870136835", "in_reply_to_screen_name": null, "in_reply_to_user_id_str": null, "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>", "in_reply_to_status_id_str": null, "in_reply_to_user_id": null, "id": 930534378870136835, "in_reply_to_status_id": null, "favorite_count": 0, "entities": {"user_mentions": [], "hashtags": [], "symbols": [], "urls": [{"expanded_url": "https://twitter.com/i/web/status/930534378870136835", "url": "https://t.co/cNY8YOpaJs", "display_url": "twitter.com/i/web/status/9\u2026", "indices": [117, 140]}]}, "created_at": "Tue Nov 14 20:34:19 +0000 2017", "extended_tweet": {"entities": {"user_mentions": [], "hashtags": [], "symbols": [], "urls": []}, "display_text_range": [0, 276], "full_text": "16' - Sabes madre, le dijo levant\u00e1ndose y encamin\u00e1ndose a las escaleras. Sabes, te perdono, perdono a mi padre tambi\u00e9n por el poco cari\u00f1o, por las pocas preguntas que me hicieron, por la disciplina de los azotes, por los d\u00edas sin comida. Sabes, s\u00f3lo as\u00ed me podr\u00e9 perdonar a mi"}, "favorited": false, "timestamp_ms": "1510691659072", "quote_count": 0, "place": {"country_code": "CL", "bounding_box": {"coordinates": [[[-73.091398, -36.923936], [-73.091398, -36.760435], [-72.845604, -36.760435], [-72.845604, -36.923936]]], "type": "Polygon"}, "attributes": {}, "url": "https://api.twitter.com/1.1/geo/id/0150459b5095a59f.json", "name": "Concepci\u00f3n", "id": "0150459b5095a59f", "place_type": "city", "country": "Chile", "full_name": "Concepci\u00f3n, Chile"}, "text": "16' - Sabes madre, le dijo levant\u00e1ndose y encamin\u00e1ndose a las escaleras. Sabes, te perdono, perdono a mi padre tamb\u2026 https://t.co/cNY8YOpaJs", "geo": null, "retweeted": false, "retweet_count": 0, "filter_level": "low", "lang": "es", "is_quote_status": false, "coordinates": null, "truncated": true}
+{
+  "reply_count": 0,
+  "user": {
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/882746682609475584/1499298689",
+    "following": null,
+    "profile_background_color": "F5F8FA",
+    "url": null,
+    "utc_offset": null,
+    "follow_request_sent": null,
+    "translator_type": "none",
+    "profile_text_color": "333333",
+    "id_str": "882746682609475584",
+    "favourites_count": 1,
+    "friends_count": 3,
+    "followers_count": 3,
+    "id": 882746682609475584,
+    "geo_enabled": true,
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/913194711095136258/-mEVwzMh_normal.jpg",
+    "statuses_count": 2059,
+    "notifications": null,
+    "profile_background_image_url_https": "",
+    "protected": false,
+    "listed_count": 0,
+    "screen_name": "PImputada",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "location": "chile",
+    "created_at": "Wed Jul 05 23:43:04 +0000 2017",
+    "default_profile": true,
+    "time_zone": null,
+    "verified": false,
+    "contributors_enabled": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/913194711095136258/-mEVwzMh_normal.jpg",
+    "lang": "es",
+    "name": "ASPERGER. SUE\u00d1OS DE DA VINCI",
+    "profile_link_color": "1DA1F2",
+    "is_translator": false,
+    "description": null,
+    "profile_use_background_image": true,
+    "default_profile_image": false,
+    "profile_background_image_url": "",
+    "profile_background_tile": false
+  },
+  "contributors": null,
+  "id_str": "930534378870136835",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_user_id_str": null,
+  "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "id": 930534378870136835,
+  "in_reply_to_status_id": null,
+  "favorite_count": 0,
+  "entities": {
+    "user_mentions": [],
+    "hashtags": [],
+    "symbols": [],
+    "urls": [
+      {
+        "expanded_url": "https://twitter.com/i/web/status/930534378870136835",
+        "url": "https://t.co/cNY8YOpaJs",
+        "display_url": "twitter.com/i/web/status/9\u2026",
+        "indices": [117, 140]
+      }
+    ]
+  },
+  "created_at": "Tue Nov 14 20:34:19 +0000 2017",
+  "extended_tweet": {
+    "entities": {
+      "user_mentions": [],
+      "hashtags": [],
+      "symbols": [],
+      "urls": []
+    },
+    "display_text_range": [0, 276],
+    "full_text": "16' - Sabes madre, le dijo levant\u00e1ndose y encamin\u00e1ndose a las escaleras. Sabes, te perdono, perdono a mi padre tambi\u00e9n por el poco cari\u00f1o, por las pocas preguntas que me hicieron, por la disciplina de los azotes, por los d\u00edas sin comida. Sabes, s\u00f3lo as\u00ed me podr\u00e9 perdonar a mi"
+  },
+  "favorited": false,
+  "timestamp_ms": "1510691659072",
+  "quote_count": 0,
+  "place": {
+    "country_code": "CL",
+    "bounding_box": {
+      "coordinates": [
+        [[-73.091398, -36.923936], [-73.091398, -36.760435], [-72.845604, -36.760435], [-72.845604, -36.923936]]
+      ],
+      "type": "Polygon"
+    },
+    "attributes": {},
+    "url": "https://api.twitter.com/1.1/geo/id/0150459b5095a59f.json",
+    "name": "Concepci\u00f3n",
+    "id": "0150459b5095a59f",
+    "place_type": "city",
+    "country": "Chile",
+    "full_name": "Concepci\u00f3n, Chile"
+  },
+  "text": "16' - Sabes madre, le dijo levant\u00e1ndose y encamin\u00e1ndose a las escaleras. Sabes, te perdono, perdono a mi padre tamb\u2026 https://t.co/cNY8YOpaJs",
+  "geo": null,
+  "retweeted": false,
+  "retweet_count": 0,
+  "filter_level": "low",
+  "lang": "es",
+  "is_quote_status": false,
+  "coordinates": null,
+  "truncated": true
+}

@@ -1,1 +1,173 @@
-{"in_reply_to_screen_name": null, "geo": null, "filter_level": "low", "in_reply_to_status_id": null, "lang": "es", "favorite_count": 0, "display_text_range": [0, 59], "favorited": false, "id": 930630602755330049, "place": {"name": "Puerto Vallarta", "full_name": "Puerto Vallarta, Jalisco", "place_type": "city", "country": "M\u00e9xico", "id": "a227cb4ffca3acf7", "bounding_box": {"type": "Polygon", "coordinates": [[[-105.324392, 20.471599], [-105.324392, 20.922506], [-104.972769, 20.922506], [-104.972769, 20.471599]]]}, "attributes": {}, "url": "https://api.twitter.com/1.1/geo/id/a227cb4ffca3acf7.json", "country_code": "MX"}, "coordinates": null, "entities": {"media": [{"id_str": "930630591992668160", "display_url": "pic.twitter.com/YzQf5z5KLv", "url": "https://t.co/YzQf5z5KLv", "expanded_url": "https://twitter.com/076Ary/status/930630602755330049/photo/1", "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/DOpDl7zVoAAcPtA.jpg", "id": 930630591992668160, "type": "photo", "indices": [60, 83], "sizes": {"medium": {"h": 360, "resize": "fit", "w": 480}, "thumb": {"h": 150, "resize": "crop", "w": 150}, "large": {"h": 360, "resize": "fit", "w": 480}, "small": {"h": 360, "resize": "fit", "w": 480}}, "media_url": "http://pbs.twimg.com/tweet_video_thumb/DOpDl7zVoAAcPtA.jpg"}], "hashtags": [], "urls": [], "symbols": [], "user_mentions": []}, "extended_entities": {"media": [{"id_str": "930630591992668160", "display_url": "pic.twitter.com/YzQf5z5KLv", "url": "https://t.co/YzQf5z5KLv", "expanded_url": "https://twitter.com/076Ary/status/930630602755330049/photo/1", "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/DOpDl7zVoAAcPtA.jpg", "video_info": {"variants": [{"content_type": "video/mp4", "url": "https://video.twimg.com/tweet_video/DOpDl7zVoAAcPtA.mp4", "bitrate": 0}], "aspect_ratio": [4, 3]}, "id": 930630591992668160, "type": "animated_gif", "indices": [60, 83], "sizes": {"medium": {"h": 360, "resize": "fit", "w": 480}, "thumb": {"h": 150, "resize": "crop", "w": 150}, "large": {"h": 360, "resize": "fit", "w": 480}, "small": {"h": 360, "resize": "fit", "w": 480}}, "media_url": "http://pbs.twimg.com/tweet_video_thumb/DOpDl7zVoAAcPtA.jpg"}]}, "possibly_sensitive": false, "user": {"followers_count": 7, "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png", "profile_background_color": "C0DEED", "translator_type": "none", "profile_image_url": "http://pbs.twimg.com/profile_images/930579424361222147/KCDGAuf1_normal.jpg", "profile_banner_url": "https://pbs.twimg.com/profile_banners/3140752927/1510702397", "default_profile": true, "utc_offset": null, "lang": "es", "url": null, "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", "profile_image_url_https": "https://pbs.twimg.com/profile_images/930579424361222147/KCDGAuf1_normal.jpg", "time_zone": null, "profile_sidebar_border_color": "C0DEED", "profile_use_background_image": true, "id": 3140752927, "profile_link_color": "1DA1F2", "profile_sidebar_fill_color": "DDEEF6", "profile_background_tile": false, "geo_enabled": true, "id_str": "3140752927", "verified": false, "name": "Aracely cuevas ", "is_translator": false, "notifications": null, "following": null, "friends_count": 7, "contributors_enabled": false, "screen_name": "076Ary", "created_at": "Sun Apr 05 20:38:35 +0000 2015", "profile_text_color": "333333", "favourites_count": 3, "follow_request_sent": null, "description": "Hoy se vive ma\u00f1ana solo el sabe", "default_profile_image": false, "location": "Puerto Vallarta, Jalisco", "listed_count": 0, "protected": false, "statuses_count": 3}, "id_str": "930630602755330049", "retweet_count": 0, "retweeted": false, "quote_count": 0, "truncated": false, "in_reply_to_status_id_str": null, "reply_count": 0, "created_at": "Wed Nov 15 02:56:40 +0000 2017", "is_quote_status": false, "in_reply_to_user_id": null, "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>", "text": "No hay locuras Sin un loco y no hay loko k no haga lokuras. https://t.co/YzQf5z5KLv", "timestamp_ms": "1510714600634", "in_reply_to_user_id_str": null, "contributors": null}
+{
+  "in_reply_to_screen_name": null,
+  "geo": null,
+  "filter_level": "low",
+  "in_reply_to_status_id": null,
+  "lang": "es",
+  "favorite_count": 0,
+  "display_text_range": [0, 59],
+  "favorited": false,
+  "id": 930630602755330049,
+  "place": {
+    "name": "Puerto Vallarta",
+    "full_name": "Puerto Vallarta, Jalisco",
+    "place_type": "city",
+    "country": "M\u00e9xico",
+    "id": "a227cb4ffca3acf7",
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [[-105.324392, 20.471599], [-105.324392, 20.922506], [-104.972769, 20.922506], [-104.972769, 20.471599]]
+      ]
+    },
+    "attributes": {},
+    "url": "https://api.twitter.com/1.1/geo/id/a227cb4ffca3acf7.json",
+    "country_code": "MX"
+  },
+  "coordinates": null,
+  "entities": {
+    "media": [
+      {
+        "id_str": "930630591992668160",
+        "display_url": "pic.twitter.com/YzQf5z5KLv",
+        "url": "https://t.co/YzQf5z5KLv",
+        "expanded_url": "https://twitter.com/076Ary/status/930630602755330049/photo/1",
+        "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/DOpDl7zVoAAcPtA.jpg",
+        "id": 930630591992668160,
+        "type": "photo",
+        "indices": [60, 83],
+        "sizes": {
+          "medium": {
+            "h": 360,
+            "resize": "fit",
+            "w": 480
+          },
+          "thumb": {
+            "h": 150,
+            "resize": "crop",
+            "w": 150
+          },
+          "large": {
+            "h": 360,
+            "resize": "fit",
+            "w": 480
+          },
+          "small": {
+            "h": 360,
+            "resize": "fit",
+            "w": 480
+          }
+        },
+        "media_url": "http://pbs.twimg.com/tweet_video_thumb/DOpDl7zVoAAcPtA.jpg"
+      }
+    ],
+    "hashtags": [],
+    "urls": [],
+    "symbols": [],
+    "user_mentions": []
+  },
+  "extended_entities": {
+    "media": [
+      {
+        "id_str": "930630591992668160",
+        "display_url": "pic.twitter.com/YzQf5z5KLv",
+        "url": "https://t.co/YzQf5z5KLv",
+        "expanded_url": "https://twitter.com/076Ary/status/930630602755330049/photo/1",
+        "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/DOpDl7zVoAAcPtA.jpg",
+        "video_info": {
+          "variants": [
+            {
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/tweet_video/DOpDl7zVoAAcPtA.mp4",
+              "bitrate": 0
+            }
+          ],
+          "aspect_ratio": [4, 3]
+        },
+        "id": 930630591992668160,
+        "type": "animated_gif",
+        "indices": [60, 83],
+        "sizes": {
+          "medium": {
+            "h": 360,
+            "resize": "fit",
+            "w": 480
+          },
+          "thumb": {
+            "h": 150,
+            "resize": "crop",
+            "w": 150
+          },
+          "large": {
+            "h": 360,
+            "resize": "fit",
+            "w": 480
+          },
+          "small": {
+            "h": 360,
+            "resize": "fit",
+            "w": 480
+          }
+        },
+        "media_url": "http://pbs.twimg.com/tweet_video_thumb/DOpDl7zVoAAcPtA.jpg"
+      }
+    ]
+  },
+  "possibly_sensitive": false,
+  "user": {
+    "followers_count": 7,
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_color": "C0DEED",
+    "translator_type": "none",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/930579424361222147/KCDGAuf1_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/3140752927/1510702397",
+    "default_profile": true,
+    "utc_offset": null,
+    "lang": "es",
+    "url": null,
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/930579424361222147/KCDGAuf1_normal.jpg",
+    "time_zone": null,
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_use_background_image": true,
+    "id": 3140752927,
+    "profile_link_color": "1DA1F2",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_background_tile": false,
+    "geo_enabled": true,
+    "id_str": "3140752927",
+    "verified": false,
+    "name": "Aracely cuevas ",
+    "is_translator": false,
+    "notifications": null,
+    "following": null,
+    "friends_count": 7,
+    "contributors_enabled": false,
+    "screen_name": "076Ary",
+    "created_at": "Sun Apr 05 20:38:35 +0000 2015",
+    "profile_text_color": "333333",
+    "favourites_count": 3,
+    "follow_request_sent": null,
+    "description": "Hoy se vive ma\u00f1ana solo el sabe",
+    "default_profile_image": false,
+    "location": "Puerto Vallarta, Jalisco",
+    "listed_count": 0,
+    "protected": false,
+    "statuses_count": 3
+  },
+  "id_str": "930630602755330049",
+  "retweet_count": 0,
+  "retweeted": false,
+  "quote_count": 0,
+  "truncated": false,
+  "in_reply_to_status_id_str": null,
+  "reply_count": 0,
+  "created_at": "Wed Nov 15 02:56:40 +0000 2017",
+  "is_quote_status": false,
+  "in_reply_to_user_id": null,
+  "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+  "text": "No hay locuras Sin un loco y no hay loko k no haga lokuras. https://t.co/YzQf5z5KLv",
+  "timestamp_ms": "1510714600634",
+  "in_reply_to_user_id_str": null,
+  "contributors": null
+}

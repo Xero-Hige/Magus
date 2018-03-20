@@ -1,1 +1,121 @@
-{"reply_count": 0, "user": {"profile_banner_url": "https://pbs.twimg.com/profile_banners/1694276930/1459249672", "following": null, "profile_background_color": "000000", "url": "http://www.iturbeabogados.com.ar", "utc_offset": -10800, "follow_request_sent": null, "translator_type": "none", "profile_text_color": "000000", "id_str": "1694276930", "favourites_count": 3901, "friends_count": 1182, "followers_count": 399, "id": 1694276930, "geo_enabled": true, "profile_sidebar_border_color": "000000", "profile_image_url_https": "https://pbs.twimg.com/profile_images/714770218573234178/YRoXQMlY_normal.jpg", "statuses_count": 6476, "notifications": null, "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", "protected": false, "listed_count": 3, "screen_name": "iturbealejandro", "profile_sidebar_fill_color": "000000", "location": "Carlos Casares-Argentina", "created_at": "Fri Aug 23 16:34:47 +0000 2013", "default_profile": false, "time_zone": "Buenos Aires", "verified": false, "contributors_enabled": false, "profile_image_url": "http://pbs.twimg.com/profile_images/714770218573234178/YRoXQMlY_normal.jpg", "lang": "es", "name": "Alejandro Iturbe", "profile_link_color": "4A913C", "is_translator": false, "description": "Soy lo poco que he hecho con lo que PinkFloyd, el jazz, la UBA, Borges y mis padres y abuelo hicieron de mi.\nNo me gusta el queso.", "profile_use_background_image": false, "default_profile_image": false, "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png", "profile_background_tile": false}, "contributors": null, "id_str": "930567784991510528", "in_reply_to_screen_name": "sangarciacorre", "in_reply_to_user_id_str": "131557285", "in_reply_to_status_id": 930256779950329862, "in_reply_to_status_id_str": "930256779950329862", "display_text_range": [16, 140], "in_reply_to_user_id": 131557285, "id": 930567784991510528, "favorite_count": 0, "entities": {"user_mentions": [{"id": 131557285, "indices": [0, 15], "screen_name": "sangarciacorre", "id_str": "131557285", "name": "Santiago Garc\u00eda"}], "hashtags": [], "symbols": [], "urls": [{"expanded_url": "https://twitter.com/i/web/status/930567784991510528", "url": "https://t.co/Uh02L7OxG1", "display_url": "twitter.com/i/web/status/9\u2026", "indices": [117, 140]}]}, "created_at": "Tue Nov 14 22:47:03 +0000 2017", "extended_tweet": {"entities": {"user_mentions": [{"id": 131557285, "indices": [0, 15], "screen_name": "sangarciacorre", "id_str": "131557285", "name": "Santiago Garc\u00eda"}], "hashtags": [], "symbols": [], "urls": []}, "display_text_range": [16, 159], "full_text": "@sangarciacorre Corea del Centro es testigo de una violaci\u00f3n pero no interviene para defender a la victima e impide que lo haga nadie m\u00e1s porque \u201ces complejo\u201d."}, "favorited": false, "timestamp_ms": "1510699623712", "quote_count": 0, "place": {"country_code": "CH", "bounding_box": {"coordinates": [[[8.448081, 47.320217], [8.448081, 47.434721], [8.625442, 47.434721], [8.625442, 47.320217]]], "type": "Polygon"}, "attributes": {}, "url": "https://api.twitter.com/1.1/geo/id/3acb748d0f1e9265.json", "name": "Z\u00farich", "id": "3acb748d0f1e9265", "place_type": "city", "country": "Suiza", "full_name": "Z\u00farich, Suiza"}, "text": "@sangarciacorre Corea del Centro es testigo de una violaci\u00f3n pero no interviene para defender a la victima e impide\u2026 https://t.co/Uh02L7OxG1", "geo": null, "retweeted": false, "retweet_count": 0, "filter_level": "low", "lang": "es", "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>", "is_quote_status": false, "coordinates": null, "truncated": true}
+{
+  "reply_count": 0,
+  "user": {
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1694276930/1459249672",
+    "following": null,
+    "profile_background_color": "000000",
+    "url": "http://www.iturbeabogados.com.ar",
+    "utc_offset": -10800,
+    "follow_request_sent": null,
+    "translator_type": "none",
+    "profile_text_color": "000000",
+    "id_str": "1694276930",
+    "favourites_count": 3901,
+    "friends_count": 1182,
+    "followers_count": 399,
+    "id": 1694276930,
+    "geo_enabled": true,
+    "profile_sidebar_border_color": "000000",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/714770218573234178/YRoXQMlY_normal.jpg",
+    "statuses_count": 6476,
+    "notifications": null,
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "protected": false,
+    "listed_count": 3,
+    "screen_name": "iturbealejandro",
+    "profile_sidebar_fill_color": "000000",
+    "location": "Carlos Casares-Argentina",
+    "created_at": "Fri Aug 23 16:34:47 +0000 2013",
+    "default_profile": false,
+    "time_zone": "Buenos Aires",
+    "verified": false,
+    "contributors_enabled": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/714770218573234178/YRoXQMlY_normal.jpg",
+    "lang": "es",
+    "name": "Alejandro Iturbe",
+    "profile_link_color": "4A913C",
+    "is_translator": false,
+    "description": "Soy lo poco que he hecho con lo que PinkFloyd, el jazz, la UBA, Borges y mis padres y abuelo hicieron de mi.\nNo me gusta el queso.",
+    "profile_use_background_image": false,
+    "default_profile_image": false,
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": false
+  },
+  "contributors": null,
+  "id_str": "930567784991510528",
+  "in_reply_to_screen_name": "sangarciacorre",
+  "in_reply_to_user_id_str": "131557285",
+  "in_reply_to_status_id": 930256779950329862,
+  "in_reply_to_status_id_str": "930256779950329862",
+  "display_text_range": [16, 140],
+  "in_reply_to_user_id": 131557285,
+  "id": 930567784991510528,
+  "favorite_count": 0,
+  "entities": {
+    "user_mentions": [
+      {
+        "id": 131557285,
+        "indices": [0, 15],
+        "screen_name": "sangarciacorre",
+        "id_str": "131557285",
+        "name": "Santiago Garc\u00eda"
+      }
+    ],
+    "hashtags": [],
+    "symbols": [],
+    "urls": [
+      {
+        "expanded_url": "https://twitter.com/i/web/status/930567784991510528",
+        "url": "https://t.co/Uh02L7OxG1",
+        "display_url": "twitter.com/i/web/status/9\u2026",
+        "indices": [117, 140]
+      }
+    ]
+  },
+  "created_at": "Tue Nov 14 22:47:03 +0000 2017",
+  "extended_tweet": {
+    "entities": {
+      "user_mentions": [
+        {
+          "id": 131557285,
+          "indices": [0, 15],
+          "screen_name": "sangarciacorre",
+          "id_str": "131557285",
+          "name": "Santiago Garc\u00eda"
+        }
+      ],
+      "hashtags": [],
+      "symbols": [],
+      "urls": []
+    },
+    "display_text_range": [16, 159],
+    "full_text": "@sangarciacorre Corea del Centro es testigo de una violaci\u00f3n pero no interviene para defender a la victima e impide que lo haga nadie m\u00e1s porque \u201ces complejo\u201d."
+  },
+  "favorited": false,
+  "timestamp_ms": "1510699623712",
+  "quote_count": 0,
+  "place": {
+    "country_code": "CH",
+    "bounding_box": {
+      "coordinates": [[[8.448081, 47.320217], [8.448081, 47.434721], [8.625442, 47.434721], [8.625442, 47.320217]]],
+      "type": "Polygon"
+    },
+    "attributes": {},
+    "url": "https://api.twitter.com/1.1/geo/id/3acb748d0f1e9265.json",
+    "name": "Z\u00farich",
+    "id": "3acb748d0f1e9265",
+    "place_type": "city",
+    "country": "Suiza",
+    "full_name": "Z\u00farich, Suiza"
+  },
+  "text": "@sangarciacorre Corea del Centro es testigo de una violaci\u00f3n pero no interviene para defender a la victima e impide\u2026 https://t.co/Uh02L7OxG1",
+  "geo": null,
+  "retweeted": false,
+  "retweet_count": 0,
+  "filter_level": "low",
+  "lang": "es",
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "is_quote_status": false,
+  "coordinates": null,
+  "truncated": true
+}

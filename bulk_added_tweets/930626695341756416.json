@@ -1,1 +1,94 @@
-{"geo": null, "filter_level": "low", "in_reply_to_status_id": null, "lang": "es", "favorite_count": 0, "coordinates": null, "favorited": false, "place": {"name": "Maip\u00fa", "full_name": "Maip\u00fa, Chile", "place_type": "city", "country": "Chile", "id": "0113747966068613", "bounding_box": {"type": "Polygon", "coordinates": [[[-70.930215, -33.571733], [-70.930215, -33.458483], [-70.71874, -33.458483], [-70.71874, -33.571733]]]}, "attributes": {}, "url": "https://api.twitter.com/1.1/geo/id/0113747966068613.json", "country_code": "CL"}, "contributors": null, "entities": {"hashtags": [{"text": "HolayAdios", "indices": [0, 11]}], "urls": [], "symbols": [], "user_mentions": []}, "id": 930626695341756416, "user": {"followers_count": 42, "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png", "profile_background_color": "C0DEED", "translator_type": "none", "profile_image_url": "http://pbs.twimg.com/profile_images/847642033145626627/DTDl9cqi_normal.jpg", "profile_banner_url": "https://pbs.twimg.com/profile_banners/760390190/1507124204", "default_profile": true, "utc_offset": -14400, "lang": "es", "url": null, "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", "profile_image_url_https": "https://pbs.twimg.com/profile_images/847642033145626627/DTDl9cqi_normal.jpg", "time_zone": "Atlantic Time (Canada)", "profile_sidebar_border_color": "C0DEED", "profile_use_background_image": true, "id": 760390190, "profile_link_color": "1DA1F2", "profile_sidebar_fill_color": "DDEEF6", "profile_background_tile": false, "geo_enabled": true, "id_str": "760390190", "verified": false, "name": "Angelica Alejandra", "is_translator": false, "notifications": null, "following": null, "friends_count": 217, "contributors_enabled": false, "screen_name": "angelitomq", "created_at": "Wed Aug 15 23:36:23 +0000 2012", "profile_text_color": "333333", "favourites_count": 697, "follow_request_sent": null, "description": null, "default_profile_image": false, "location": null, "listed_count": 0, "protected": false, "statuses_count": 887}, "id_str": "930626695341756416", "retweet_count": 0, "retweeted": false, "quote_count": 0, "truncated": false, "in_reply_to_status_id_str": null, "reply_count": 0, "created_at": "Wed Nov 15 02:41:09 +0000 2017", "is_quote_status": false, "in_reply_to_user_id": null, "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>", "text": "#HolayAdios 7 meses sin ver a la novia japonesa. Que mino el novio. Me ofresco a consolarlo cuando quede solito \ud83d\ude04\ud83d\ude04\ud83d\ude08", "timestamp_ms": "1510713669034", "in_reply_to_user_id_str": null, "in_reply_to_screen_name": null}
+{
+  "geo": null,
+  "filter_level": "low",
+  "in_reply_to_status_id": null,
+  "lang": "es",
+  "favorite_count": 0,
+  "coordinates": null,
+  "favorited": false,
+  "place": {
+    "name": "Maip\u00fa",
+    "full_name": "Maip\u00fa, Chile",
+    "place_type": "city",
+    "country": "Chile",
+    "id": "0113747966068613",
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [[-70.930215, -33.571733], [-70.930215, -33.458483], [-70.71874, -33.458483], [-70.71874, -33.571733]]
+      ]
+    },
+    "attributes": {},
+    "url": "https://api.twitter.com/1.1/geo/id/0113747966068613.json",
+    "country_code": "CL"
+  },
+  "contributors": null,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "HolayAdios",
+        "indices": [0, 11]
+      }
+    ],
+    "urls": [],
+    "symbols": [],
+    "user_mentions": []
+  },
+  "id": 930626695341756416,
+  "user": {
+    "followers_count": 42,
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_color": "C0DEED",
+    "translator_type": "none",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/847642033145626627/DTDl9cqi_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/760390190/1507124204",
+    "default_profile": true,
+    "utc_offset": -14400,
+    "lang": "es",
+    "url": null,
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/847642033145626627/DTDl9cqi_normal.jpg",
+    "time_zone": "Atlantic Time (Canada)",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_use_background_image": true,
+    "id": 760390190,
+    "profile_link_color": "1DA1F2",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_background_tile": false,
+    "geo_enabled": true,
+    "id_str": "760390190",
+    "verified": false,
+    "name": "Angelica Alejandra",
+    "is_translator": false,
+    "notifications": null,
+    "following": null,
+    "friends_count": 217,
+    "contributors_enabled": false,
+    "screen_name": "angelitomq",
+    "created_at": "Wed Aug 15 23:36:23 +0000 2012",
+    "profile_text_color": "333333",
+    "favourites_count": 697,
+    "follow_request_sent": null,
+    "description": null,
+    "default_profile_image": false,
+    "location": null,
+    "listed_count": 0,
+    "protected": false,
+    "statuses_count": 887
+  },
+  "id_str": "930626695341756416",
+  "retweet_count": 0,
+  "retweeted": false,
+  "quote_count": 0,
+  "truncated": false,
+  "in_reply_to_status_id_str": null,
+  "reply_count": 0,
+  "created_at": "Wed Nov 15 02:41:09 +0000 2017",
+  "is_quote_status": false,
+  "in_reply_to_user_id": null,
+  "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+  "text": "#HolayAdios 7 meses sin ver a la novia japonesa. Que mino el novio. Me ofresco a consolarlo cuando quede solito \ud83d\ude04\ud83d\ude04\ud83d\ude08",
+  "timestamp_ms": "1510713669034",
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null
+}

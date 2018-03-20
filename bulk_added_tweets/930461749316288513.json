@@ -1,1 +1,132 @@
-{"id": 930461749316288513, "lang": "es", "in_reply_to_status_id_str": null, "truncated": true, "place": {"id": "018f1cde6bad9747", "country": "Argentina", "bounding_box": {"type": "Polygon", "coordinates": [[[-58.531792, -34.674453], [-58.531792, -34.534177], [-58.353494, -34.534177], [-58.353494, -34.674453]]]}, "url": "https://api.twitter.com/1.1/geo/id/018f1cde6bad9747.json", "full_name": "Ciudad Aut\u00f3noma de Buenos Aires, Argentina", "attributes": {}, "name": "Ciudad Aut\u00f3noma de Buenos Aires", "place_type": "city", "country_code": "AR"}, "favorite_count": 0, "retweeted": false, "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>", "is_quote_status": false, "in_reply_to_status_id": null, "in_reply_to_user_id_str": null, "in_reply_to_screen_name": null, "retweet_count": 0, "quote_count": 0, "timestamp_ms": "1510674342837", "favorited": false, "coordinates": null, "text": "#LaMa\u00f1anaDelMundo|@luispetri: \"Esperamos que a partir del testimonio de Vandenbroele se pueda develar el entramado\u2026 https://t.co/U4BA4BqK2W", "entities": {"urls": [{"indices": [116, 139], "display_url": "twitter.com/i/web/status/9\u2026", "url": "https://t.co/U4BA4BqK2W", "expanded_url": "https://twitter.com/i/web/status/930461749316288513"}], "symbols": [], "user_mentions": [{"screen_name": "luispetri", "id": 52439980, "name": "Luis Petri", "indices": [18, 28], "id_str": "52439980"}], "hashtags": [{"text": "LaMa\u00f1anaDelMundo", "indices": [0, 17]}]}, "reply_count": 0, "geo": null, "filter_level": "low", "extended_tweet": {"display_text_range": [0, 143], "entities": {"urls": [], "symbols": [], "user_mentions": [{"screen_name": "luispetri", "id": 52439980, "name": "Luis Petri", "indices": [18, 28], "id_str": "52439980"}], "hashtags": [{"text": "LaMa\u00f1anaDelMundo", "indices": [0, 17]}]}, "full_text": "#LaMa\u00f1anaDelMundo|@luispetri: \"Esperamos que a partir del testimonio de Vandenbroele se pueda develar el entramado y los hechos de corrupci\u00f3n\"."}, "user": {"statuses_count": 78133, "id": 3095677228, "default_profile": true, "favourites_count": 4859, "url": "http://www.elmundo1070.com", "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", "verified": true, "profile_image_url_https": "https://pbs.twimg.com/profile_images/868105511337680896/AXqtJqse_normal.jpg", "translator_type": "none", "location": "Buenos Aires, Argentina", "geo_enabled": true, "utc_offset": -10800, "notifications": null, "profile_background_tile": false, "friends_count": 633, "is_translator": false, "follow_request_sent": null, "default_profile_image": false, "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png", "profile_background_color": "C0DEED", "profile_link_color": "1DA1F2", "profile_use_background_image": true, "time_zone": "Buenos Aires", "name": "Radio El Mundo 1070", "profile_text_color": "333333", "profile_sidebar_border_color": "C0DEED", "screen_name": "ElMundoAM1070", "lang": "es", "following": null, "listed_count": 128, "protected": false, "profile_sidebar_fill_color": "DDEEF6", "followers_count": 14397, "profile_image_url": "http://pbs.twimg.com/profile_images/868105511337680896/AXqtJqse_normal.jpg", "profile_banner_url": "https://pbs.twimg.com/profile_banners/3095677228/1495807380", "contributors_enabled": false, "created_at": "Wed Mar 18 23:23:23 +0000 2015", "id_str": "3095677228", "description": "#80A\u00f1osDeRadio \nTel\u00e9fonos: 4535-2525 \nWhatsapp: 15-4447-5629.  \nSeguinos en Facebook: https://www.facebook.com/ElMundoAM1070/"}, "created_at": "Tue Nov 14 15:45:42 +0000 2017", "id_str": "930461749316288513", "in_reply_to_user_id": null, "contributors": null}
+{
+  "id": 930461749316288513,
+  "lang": "es",
+  "in_reply_to_status_id_str": null,
+  "truncated": true,
+  "place": {
+    "id": "018f1cde6bad9747",
+    "country": "Argentina",
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [[-58.531792, -34.674453], [-58.531792, -34.534177], [-58.353494, -34.534177], [-58.353494, -34.674453]]
+      ]
+    },
+    "url": "https://api.twitter.com/1.1/geo/id/018f1cde6bad9747.json",
+    "full_name": "Ciudad Aut\u00f3noma de Buenos Aires, Argentina",
+    "attributes": {},
+    "name": "Ciudad Aut\u00f3noma de Buenos Aires",
+    "place_type": "city",
+    "country_code": "AR"
+  },
+  "favorite_count": 0,
+  "retweeted": false,
+  "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+  "is_quote_status": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "retweet_count": 0,
+  "quote_count": 0,
+  "timestamp_ms": "1510674342837",
+  "favorited": false,
+  "coordinates": null,
+  "text": "#LaMa\u00f1anaDelMundo|@luispetri: \"Esperamos que a partir del testimonio de Vandenbroele se pueda develar el entramado\u2026 https://t.co/U4BA4BqK2W",
+  "entities": {
+    "urls": [
+      {
+        "indices": [116, 139],
+        "display_url": "twitter.com/i/web/status/9\u2026",
+        "url": "https://t.co/U4BA4BqK2W",
+        "expanded_url": "https://twitter.com/i/web/status/930461749316288513"
+      }
+    ],
+    "symbols": [],
+    "user_mentions": [
+      {
+        "screen_name": "luispetri",
+        "id": 52439980,
+        "name": "Luis Petri",
+        "indices": [18, 28],
+        "id_str": "52439980"
+      }
+    ],
+    "hashtags": [
+      {
+        "text": "LaMa\u00f1anaDelMundo",
+        "indices": [0, 17]
+      }
+    ]
+  },
+  "reply_count": 0,
+  "geo": null,
+  "filter_level": "low",
+  "extended_tweet": {
+    "display_text_range": [0, 143],
+    "entities": {
+      "urls": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "screen_name": "luispetri",
+          "id": 52439980,
+          "name": "Luis Petri",
+          "indices": [18, 28],
+          "id_str": "52439980"
+        }
+      ],
+      "hashtags": [
+        {
+          "text": "LaMa\u00f1anaDelMundo",
+          "indices": [0, 17]
+        }
+      ]
+    },
+    "full_text": "#LaMa\u00f1anaDelMundo|@luispetri: \"Esperamos que a partir del testimonio de Vandenbroele se pueda develar el entramado y los hechos de corrupci\u00f3n\"."
+  },
+  "user": {
+    "statuses_count": 78133,
+    "id": 3095677228,
+    "default_profile": true,
+    "favourites_count": 4859,
+    "url": "http://www.elmundo1070.com",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "verified": true,
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/868105511337680896/AXqtJqse_normal.jpg",
+    "translator_type": "none",
+    "location": "Buenos Aires, Argentina",
+    "geo_enabled": true,
+    "utc_offset": -10800,
+    "notifications": null,
+    "profile_background_tile": false,
+    "friends_count": 633,
+    "is_translator": false,
+    "follow_request_sent": null,
+    "default_profile_image": false,
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_color": "C0DEED",
+    "profile_link_color": "1DA1F2",
+    "profile_use_background_image": true,
+    "time_zone": "Buenos Aires",
+    "name": "Radio El Mundo 1070",
+    "profile_text_color": "333333",
+    "profile_sidebar_border_color": "C0DEED",
+    "screen_name": "ElMundoAM1070",
+    "lang": "es",
+    "following": null,
+    "listed_count": 128,
+    "protected": false,
+    "profile_sidebar_fill_color": "DDEEF6",
+    "followers_count": 14397,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/868105511337680896/AXqtJqse_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/3095677228/1495807380",
+    "contributors_enabled": false,
+    "created_at": "Wed Mar 18 23:23:23 +0000 2015",
+    "id_str": "3095677228",
+    "description": "#80A\u00f1osDeRadio \nTel\u00e9fonos: 4535-2525 \nWhatsapp: 15-4447-5629.  \nSeguinos en Facebook: https://www.facebook.com/ElMundoAM1070/"
+  },
+  "created_at": "Tue Nov 14 15:45:42 +0000 2017",
+  "id_str": "930461749316288513",
+  "in_reply_to_user_id": null,
+  "contributors": null
+}

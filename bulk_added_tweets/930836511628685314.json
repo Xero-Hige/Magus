@@ -1,1 +1,193 @@
-{"extended_tweet": {"display_text_range": [0, 224], "entities": {"urls": [], "media": [{"type": "photo", "media_url": "http://pbs.twimg.com/media/DOr-3dMXkAEe-lC.jpg", "expanded_url": "https://twitter.com/macaponsenadora/status/930836511628685314/photo/1", "id_str": "930836501688193025", "indices": [225, 248], "id": 930836501688193025, "url": "https://t.co/QURigESVPi", "display_url": "pic.twitter.com/QURigESVPi", "sizes": {"large": {"w": 1080, "resize": "fit", "h": 1080}, "thumb": {"w": 150, "resize": "crop", "h": 150}, "medium": {"w": 1080, "resize": "fit", "h": 1080}, "small": {"w": 680, "resize": "fit", "h": 680}}, "media_url_https": "https://pbs.twimg.com/media/DOr-3dMXkAEe-lC.jpg"}], "symbols": [], "hashtags": [{"text": "TiemposMejores", "indices": [103, 118]}], "user_mentions": [{"indices": [210, 219], "name": "Hugo Rey Mart\u00ednez", "id_str": "209312944", "screen_name": "HugoReyM", "id": 209312944}]}, "full_text": "Mateada en Rauco junto a mujeres trabajadoras, jefas de hogar y llenas de esperanzas por la llegada de #TiemposMejores. Este 19 de noviembre vota por el equipo curicano Senadora Macarena Pons  P-36  y Diputado @HugoReyM P-87 https://t.co/QURigESVPi", "extended_entities": {"media": [{"type": "photo", "media_url": "http://pbs.twimg.com/media/DOr-3dMXkAEe-lC.jpg", "expanded_url": "https://twitter.com/macaponsenadora/status/930836511628685314/photo/1", "id_str": "930836501688193025", "indices": [225, 248], "id": 930836501688193025, "url": "https://t.co/QURigESVPi", "display_url": "pic.twitter.com/QURigESVPi", "sizes": {"large": {"w": 1080, "resize": "fit", "h": 1080}, "thumb": {"w": 150, "resize": "crop", "h": 150}, "medium": {"w": 1080, "resize": "fit", "h": 1080}, "small": {"w": 680, "resize": "fit", "h": 680}}, "media_url_https": "https://pbs.twimg.com/media/DOr-3dMXkAEe-lC.jpg"}]}}, "favorited": false, "lang": "es", "display_text_range": [0, 140], "favorite_count": 0, "reply_count": 0, "geo": null, "contributors": null, "text": "Mateada en Rauco junto a mujeres trabajadoras, jefas de hogar y llenas de esperanzas por la llegada de\u2026 https://t.co/O5AkZ2UUtY", "created_at": "Wed Nov 15 16:34:53 +0000 2017", "place": {"place_type": "city", "full_name": "Rauco, Chile", "country": "Chile", "name": "Rauco", "url": "https://api.twitter.com/1.1/geo/id/007452120b66aec2.json", "country_code": "CL", "bounding_box": {"type": "Polygon", "coordinates": [[[-71.595792, -35.05646], [-71.595792, -34.831382], [-71.258416, -34.831382], [-71.258416, -35.05646]]]}, "id": "007452120b66aec2", "attributes": {}}, "user": {"profile_text_color": "333333", "lang": "es", "location": "Curic\u00f3, Chile", "friends_count": 4422, "profile_link_color": "1DA1F2", "profile_image_url_https": "https://pbs.twimg.com/profile_images/907317570394640389/XQckFUi9_normal.jpg", "contributors_enabled": false, "following": null, "is_translator": false, "verified": false, "profile_banner_url": "https://pbs.twimg.com/profile_banners/879988495519027202/1504238590", "utc_offset": null, "geo_enabled": true, "profile_sidebar_border_color": "C0DEED", "created_at": "Wed Jun 28 09:03:01 +0000 2017", "description": "Candidata RN a Senadora por la Regi\u00f3n del Maule P-36 #UnaVozCuricanaAlSenado", "profile_image_url": "http://pbs.twimg.com/profile_images/907317570394640389/XQckFUi9_normal.jpg", "profile_background_color": "F5F8FA", "listed_count": 2, "follow_request_sent": null, "profile_background_tile": false, "followers_count": 749, "name": "Macarena Pons", "notifications": null, "default_profile_image": false, "url": null, "favourites_count": 284, "screen_name": "macaponsenadora", "profile_background_image_url": "", "profile_sidebar_fill_color": "DDEEF6", "profile_use_background_image": true, "translator_type": "none", "time_zone": null, "profile_background_image_url_https": "", "statuses_count": 212, "id": 879988495519027202, "default_profile": true, "protected": false, "id_str": "879988495519027202"}, "in_reply_to_user_id_str": null, "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>", "filter_level": "low", "is_quote_status": false, "in_reply_to_status_id": null, "in_reply_to_user_id": null, "quote_count": 0, "retweeted": false, "possibly_sensitive": false, "in_reply_to_screen_name": null, "retweet_count": 0, "in_reply_to_status_id_str": null, "coordinates": null, "id": 930836511628685314, "truncated": true, "entities": {"urls": [{"url": "https://t.co/O5AkZ2UUtY", "display_url": "twitter.com/i/web/status/9\u2026", "indices": [104, 127], "expanded_url": "https://twitter.com/i/web/status/930836511628685314"}], "symbols": [], "hashtags": [], "user_mentions": []}, "timestamp_ms": "1510763693135", "id_str": "930836511628685314"}
+{
+  "extended_tweet": {
+    "display_text_range": [0, 224],
+    "entities": {
+      "urls": [],
+      "media": [
+        {
+          "type": "photo",
+          "media_url": "http://pbs.twimg.com/media/DOr-3dMXkAEe-lC.jpg",
+          "expanded_url": "https://twitter.com/macaponsenadora/status/930836511628685314/photo/1",
+          "id_str": "930836501688193025",
+          "indices": [225, 248],
+          "id": 930836501688193025,
+          "url": "https://t.co/QURigESVPi",
+          "display_url": "pic.twitter.com/QURigESVPi",
+          "sizes": {
+            "large": {
+              "w": 1080,
+              "resize": "fit",
+              "h": 1080
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 1080,
+              "resize": "fit",
+              "h": 1080
+            },
+            "small": {
+              "w": 680,
+              "resize": "fit",
+              "h": 680
+            }
+          },
+          "media_url_https": "https://pbs.twimg.com/media/DOr-3dMXkAEe-lC.jpg"
+        }
+      ],
+      "symbols": [],
+      "hashtags": [
+        {
+          "text": "TiemposMejores",
+          "indices": [103, 118]
+        }
+      ],
+      "user_mentions": [
+        {
+          "indices": [210, 219],
+          "name": "Hugo Rey Mart\u00ednez",
+          "id_str": "209312944",
+          "screen_name": "HugoReyM",
+          "id": 209312944
+        }
+      ]
+    },
+    "full_text": "Mateada en Rauco junto a mujeres trabajadoras, jefas de hogar y llenas de esperanzas por la llegada de #TiemposMejores. Este 19 de noviembre vota por el equipo curicano Senadora Macarena Pons  P-36  y Diputado @HugoReyM P-87 https://t.co/QURigESVPi",
+    "extended_entities": {
+      "media": [
+        {
+          "type": "photo",
+          "media_url": "http://pbs.twimg.com/media/DOr-3dMXkAEe-lC.jpg",
+          "expanded_url": "https://twitter.com/macaponsenadora/status/930836511628685314/photo/1",
+          "id_str": "930836501688193025",
+          "indices": [225, 248],
+          "id": 930836501688193025,
+          "url": "https://t.co/QURigESVPi",
+          "display_url": "pic.twitter.com/QURigESVPi",
+          "sizes": {
+            "large": {
+              "w": 1080,
+              "resize": "fit",
+              "h": 1080
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 1080,
+              "resize": "fit",
+              "h": 1080
+            },
+            "small": {
+              "w": 680,
+              "resize": "fit",
+              "h": 680
+            }
+          },
+          "media_url_https": "https://pbs.twimg.com/media/DOr-3dMXkAEe-lC.jpg"
+        }
+      ]
+    }
+  },
+  "favorited": false,
+  "lang": "es",
+  "display_text_range": [0, 140],
+  "favorite_count": 0,
+  "reply_count": 0,
+  "geo": null,
+  "contributors": null,
+  "text": "Mateada en Rauco junto a mujeres trabajadoras, jefas de hogar y llenas de esperanzas por la llegada de\u2026 https://t.co/O5AkZ2UUtY",
+  "created_at": "Wed Nov 15 16:34:53 +0000 2017",
+  "place": {
+    "place_type": "city",
+    "full_name": "Rauco, Chile",
+    "country": "Chile",
+    "name": "Rauco",
+    "url": "https://api.twitter.com/1.1/geo/id/007452120b66aec2.json",
+    "country_code": "CL",
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [[-71.595792, -35.05646], [-71.595792, -34.831382], [-71.258416, -34.831382], [-71.258416, -35.05646]]
+      ]
+    },
+    "id": "007452120b66aec2",
+    "attributes": {}
+  },
+  "user": {
+    "profile_text_color": "333333",
+    "lang": "es",
+    "location": "Curic\u00f3, Chile",
+    "friends_count": 4422,
+    "profile_link_color": "1DA1F2",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/907317570394640389/XQckFUi9_normal.jpg",
+    "contributors_enabled": false,
+    "following": null,
+    "is_translator": false,
+    "verified": false,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/879988495519027202/1504238590",
+    "utc_offset": null,
+    "geo_enabled": true,
+    "profile_sidebar_border_color": "C0DEED",
+    "created_at": "Wed Jun 28 09:03:01 +0000 2017",
+    "description": "Candidata RN a Senadora por la Regi\u00f3n del Maule P-36 #UnaVozCuricanaAlSenado",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/907317570394640389/XQckFUi9_normal.jpg",
+    "profile_background_color": "F5F8FA",
+    "listed_count": 2,
+    "follow_request_sent": null,
+    "profile_background_tile": false,
+    "followers_count": 749,
+    "name": "Macarena Pons",
+    "notifications": null,
+    "default_profile_image": false,
+    "url": null,
+    "favourites_count": 284,
+    "screen_name": "macaponsenadora",
+    "profile_background_image_url": "",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_use_background_image": true,
+    "translator_type": "none",
+    "time_zone": null,
+    "profile_background_image_url_https": "",
+    "statuses_count": 212,
+    "id": 879988495519027202,
+    "default_profile": true,
+    "protected": false,
+    "id_str": "879988495519027202"
+  },
+  "in_reply_to_user_id_str": null,
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "filter_level": "low",
+  "is_quote_status": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_user_id": null,
+  "quote_count": 0,
+  "retweeted": false,
+  "possibly_sensitive": false,
+  "in_reply_to_screen_name": null,
+  "retweet_count": 0,
+  "in_reply_to_status_id_str": null,
+  "coordinates": null,
+  "id": 930836511628685314,
+  "truncated": true,
+  "entities": {
+    "urls": [
+      {
+        "url": "https://t.co/O5AkZ2UUtY",
+        "display_url": "twitter.com/i/web/status/9\u2026",
+        "indices": [104, 127],
+        "expanded_url": "https://twitter.com/i/web/status/930836511628685314"
+      }
+    ],
+    "symbols": [],
+    "hashtags": [],
+    "user_mentions": []
+  },
+  "timestamp_ms": "1510763693135",
+  "id_str": "930836511628685314"
+}

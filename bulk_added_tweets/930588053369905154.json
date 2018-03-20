@@ -1,1 +1,97 @@
-{"geo": null, "filter_level": "low", "in_reply_to_status_id": null, "lang": "es", "favorite_count": 0, "coordinates": null, "favorited": false, "place": {"name": "Xalapa", "full_name": "Xalapa, Veracruz de Ignacio de la Llave", "place_type": "city", "country": "Mexico", "id": "8b16d56e258b0278", "bounding_box": {"type": "Polygon", "coordinates": [[[-96.971524, 19.48425], [-96.971524, 19.599858], [-96.800642, 19.599858], [-96.800642, 19.48425]]]}, "attributes": {}, "url": "https://api.twitter.com/1.1/geo/id/8b16d56e258b0278.json", "country_code": "MX"}, "contributors": null, "entities": {"hashtags": [], "urls": [], "symbols": [], "user_mentions": [{"id": 57896926, "id_str": "57896926", "name": "Sheila Flores", "indices": [37, 50], "screen_name": "sheilaflores"}]}, "id": 930588053369905154, "user": {"followers_count": 324, "profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif", "profile_background_color": "C6E2EE", "translator_type": "none", "profile_image_url": "http://pbs.twimg.com/profile_images/930587862889848832/ExgHPVS2_normal.jpg", "profile_banner_url": "https://pbs.twimg.com/profile_banners/49900671/1510132535", "default_profile": false, "utc_offset": -21600, "lang": "en", "url": null, "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif", "profile_image_url_https": "https://pbs.twimg.com/profile_images/930587862889848832/ExgHPVS2_normal.jpg", "time_zone": "Central Time (US & Canada)", "profile_sidebar_border_color": "C6E2EE", "profile_use_background_image": true, "id": 49900671, "profile_link_color": "1F98C7", "profile_sidebar_fill_color": "DAECF4", "profile_background_tile": false, "geo_enabled": true, "id_str": "49900671", "verified": false, "name": "Carlos Dom\u00ednguez", "is_translator": false, "notifications": null, "following": null, "friends_count": 513, "contributors_enabled": false, "screen_name": "carlosdz", "created_at": "Tue Jun 23 05:55:56 +0000 2009", "profile_text_color": "663B12", "favourites_count": 15788, "follow_request_sent": null, "description": null, "default_profile_image": false, "location": "Xalapa, Veracruz", "listed_count": 17, "protected": false, "statuses_count": 12704}, "id_str": "930588053369905154", "retweet_count": 0, "retweeted": false, "quote_count": 0, "truncated": false, "in_reply_to_status_id_str": null, "reply_count": 0, "created_at": "Wed Nov 15 00:07:36 +0000 2017", "is_quote_status": false, "in_reply_to_user_id": null, "source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>", "text": "Muchas felicidades por tu cumplea\u00f1os @sheilaflores te mando un abrazo afectuoso desde Xalapa.", "timestamp_ms": "1510704456070", "in_reply_to_user_id_str": null, "in_reply_to_screen_name": null}
+{
+  "geo": null,
+  "filter_level": "low",
+  "in_reply_to_status_id": null,
+  "lang": "es",
+  "favorite_count": 0,
+  "coordinates": null,
+  "favorited": false,
+  "place": {
+    "name": "Xalapa",
+    "full_name": "Xalapa, Veracruz de Ignacio de la Llave",
+    "place_type": "city",
+    "country": "Mexico",
+    "id": "8b16d56e258b0278",
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [[-96.971524, 19.48425], [-96.971524, 19.599858], [-96.800642, 19.599858], [-96.800642, 19.48425]]
+      ]
+    },
+    "attributes": {},
+    "url": "https://api.twitter.com/1.1/geo/id/8b16d56e258b0278.json",
+    "country_code": "MX"
+  },
+  "contributors": null,
+  "entities": {
+    "hashtags": [],
+    "urls": [],
+    "symbols": [],
+    "user_mentions": [
+      {
+        "id": 57896926,
+        "id_str": "57896926",
+        "name": "Sheila Flores",
+        "indices": [37, 50],
+        "screen_name": "sheilaflores"
+      }
+    ]
+  },
+  "id": 930588053369905154,
+  "user": {
+    "followers_count": 324,
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+    "profile_background_color": "C6E2EE",
+    "translator_type": "none",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/930587862889848832/ExgHPVS2_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/49900671/1510132535",
+    "default_profile": false,
+    "utc_offset": -21600,
+    "lang": "en",
+    "url": null,
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/930587862889848832/ExgHPVS2_normal.jpg",
+    "time_zone": "Central Time (US & Canada)",
+    "profile_sidebar_border_color": "C6E2EE",
+    "profile_use_background_image": true,
+    "id": 49900671,
+    "profile_link_color": "1F98C7",
+    "profile_sidebar_fill_color": "DAECF4",
+    "profile_background_tile": false,
+    "geo_enabled": true,
+    "id_str": "49900671",
+    "verified": false,
+    "name": "Carlos Dom\u00ednguez",
+    "is_translator": false,
+    "notifications": null,
+    "following": null,
+    "friends_count": 513,
+    "contributors_enabled": false,
+    "screen_name": "carlosdz",
+    "created_at": "Tue Jun 23 05:55:56 +0000 2009",
+    "profile_text_color": "663B12",
+    "favourites_count": 15788,
+    "follow_request_sent": null,
+    "description": null,
+    "default_profile_image": false,
+    "location": "Xalapa, Veracruz",
+    "listed_count": 17,
+    "protected": false,
+    "statuses_count": 12704
+  },
+  "id_str": "930588053369905154",
+  "retweet_count": 0,
+  "retweeted": false,
+  "quote_count": 0,
+  "truncated": false,
+  "in_reply_to_status_id_str": null,
+  "reply_count": 0,
+  "created_at": "Wed Nov 15 00:07:36 +0000 2017",
+  "is_quote_status": false,
+  "in_reply_to_user_id": null,
+  "source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+  "text": "Muchas felicidades por tu cumplea\u00f1os @sheilaflores te mando un abrazo afectuoso desde Xalapa.",
+  "timestamp_ms": "1510704456070",
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null
+}

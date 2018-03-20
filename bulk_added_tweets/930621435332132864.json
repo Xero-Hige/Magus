@@ -1,1 +1,120 @@
-{"geo": null, "filter_level": "low", "in_reply_to_status_id": null, "lang": "es", "favorite_count": 0, "coordinates": null, "favorited": false, "place": {"name": "Venezuela", "full_name": "Venezuela", "place_type": "country", "country": "Venezuela", "id": "043383f8b2b79918", "bounding_box": {"type": "Polygon", "coordinates": [[[-73.354073, 0.648837], [-73.354073, 12.196802], [-59.80378, 12.196802], [-59.80378, 0.648837]]]}, "attributes": {}, "url": "https://api.twitter.com/1.1/geo/id/043383f8b2b79918.json", "country_code": "VE"}, "contributors": null, "entities": {"hashtags": [], "urls": [{"display_url": "twitter.com/i/web/status/9\u2026", "expanded_url": "https://twitter.com/i/web/status/930621435332132864", "url": "https://t.co/gFHhIAb9Dj", "indices": [117, 140]}], "symbols": [], "user_mentions": [{"id": 3408697085, "id_str": "3408697085", "name": "Justo Noguera Pietri", "indices": [0, 14], "screen_name": "JustoNogueraP"}]}, "id": 930621435332132864, "user": {"followers_count": 29, "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png", "profile_background_color": "C0DEED", "translator_type": "none", "profile_image_url": "http://pbs.twimg.com/profile_images/889315220044337156/OJnHMf6n_normal.jpg", "profile_banner_url": "https://pbs.twimg.com/profile_banners/2523024216/1500864177", "default_profile": true, "utc_offset": null, "lang": "es", "url": null, "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", "profile_image_url_https": "https://pbs.twimg.com/profile_images/889315220044337156/OJnHMf6n_normal.jpg", "time_zone": null, "profile_sidebar_border_color": "C0DEED", "profile_use_background_image": true, "id": 2523024216, "profile_link_color": "1DA1F2", "profile_sidebar_fill_color": "DDEEF6", "profile_background_tile": false, "geo_enabled": true, "id_str": "2523024216", "verified": false, "name": "josefina sanchez", "is_translator": false, "notifications": null, "following": null, "friends_count": 99, "contributors_enabled": false, "screen_name": "JosefSanchez84", "created_at": "Sun May 25 16:27:42 +0000 2014", "profile_text_color": "333333", "favourites_count": 111, "follow_request_sent": null, "description": "lo mas bello mi hija preciosa", "default_profile_image": false, "location": "Ciudad Bolivar, Venezuela", "listed_count": 1, "protected": false, "statuses_count": 256}, "id_str": "930621435332132864", "retweet_count": 0, "retweeted": false, "quote_count": 0, "truncated": true, "in_reply_to_status_id_str": null, "reply_count": 0, "created_at": "Wed Nov 15 02:20:14 +0000 2017", "is_quote_status": false, "in_reply_to_user_id": 3408697085, "timestamp_ms": "1510712414950", "text": "@JustoNogueraP ESAS MADRES SOLICITAN UNA ALTERNATIVA PARA VERIFICARSE SI SON BENEFICIADAS CON EL BONO PARA PODER CO\u2026 https://t.co/gFHhIAb9Dj", "extended_tweet": {"full_text": "@JustoNogueraP ESAS MADRES SOLICITAN UNA ALTERNATIVA PARA VERIFICARSE SI SON BENEFICIADAS CON EL BONO PARA PODER COBRARLO AYUDA EN ESO GRACIAS Y  LE AGRADEZCO CUA\u00d1LQUIER AYUDA A ESAS MADRES QUE QUIEREN SABER", "display_text_range": [0, 207], "entities": {"hashtags": [], "urls": [], "symbols": [], "user_mentions": [{"id": 3408697085, "id_str": "3408697085", "name": "Justo Noguera Pietri", "indices": [0, 14], "screen_name": "JustoNogueraP"}]}}, "in_reply_to_user_id_str": "3408697085", "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>", "in_reply_to_screen_name": "JustoNogueraP"}
+{
+  "geo": null,
+  "filter_level": "low",
+  "in_reply_to_status_id": null,
+  "lang": "es",
+  "favorite_count": 0,
+  "coordinates": null,
+  "favorited": false,
+  "place": {
+    "name": "Venezuela",
+    "full_name": "Venezuela",
+    "place_type": "country",
+    "country": "Venezuela",
+    "id": "043383f8b2b79918",
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [[[-73.354073, 0.648837], [-73.354073, 12.196802], [-59.80378, 12.196802], [-59.80378, 0.648837]]]
+    },
+    "attributes": {},
+    "url": "https://api.twitter.com/1.1/geo/id/043383f8b2b79918.json",
+    "country_code": "VE"
+  },
+  "contributors": null,
+  "entities": {
+    "hashtags": [],
+    "urls": [
+      {
+        "display_url": "twitter.com/i/web/status/9\u2026",
+        "expanded_url": "https://twitter.com/i/web/status/930621435332132864",
+        "url": "https://t.co/gFHhIAb9Dj",
+        "indices": [117, 140]
+      }
+    ],
+    "symbols": [],
+    "user_mentions": [
+      {
+        "id": 3408697085,
+        "id_str": "3408697085",
+        "name": "Justo Noguera Pietri",
+        "indices": [0, 14],
+        "screen_name": "JustoNogueraP"
+      }
+    ]
+  },
+  "id": 930621435332132864,
+  "user": {
+    "followers_count": 29,
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_color": "C0DEED",
+    "translator_type": "none",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/889315220044337156/OJnHMf6n_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/2523024216/1500864177",
+    "default_profile": true,
+    "utc_offset": null,
+    "lang": "es",
+    "url": null,
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/889315220044337156/OJnHMf6n_normal.jpg",
+    "time_zone": null,
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_use_background_image": true,
+    "id": 2523024216,
+    "profile_link_color": "1DA1F2",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_background_tile": false,
+    "geo_enabled": true,
+    "id_str": "2523024216",
+    "verified": false,
+    "name": "josefina sanchez",
+    "is_translator": false,
+    "notifications": null,
+    "following": null,
+    "friends_count": 99,
+    "contributors_enabled": false,
+    "screen_name": "JosefSanchez84",
+    "created_at": "Sun May 25 16:27:42 +0000 2014",
+    "profile_text_color": "333333",
+    "favourites_count": 111,
+    "follow_request_sent": null,
+    "description": "lo mas bello mi hija preciosa",
+    "default_profile_image": false,
+    "location": "Ciudad Bolivar, Venezuela",
+    "listed_count": 1,
+    "protected": false,
+    "statuses_count": 256
+  },
+  "id_str": "930621435332132864",
+  "retweet_count": 0,
+  "retweeted": false,
+  "quote_count": 0,
+  "truncated": true,
+  "in_reply_to_status_id_str": null,
+  "reply_count": 0,
+  "created_at": "Wed Nov 15 02:20:14 +0000 2017",
+  "is_quote_status": false,
+  "in_reply_to_user_id": 3408697085,
+  "timestamp_ms": "1510712414950",
+  "text": "@JustoNogueraP ESAS MADRES SOLICITAN UNA ALTERNATIVA PARA VERIFICARSE SI SON BENEFICIADAS CON EL BONO PARA PODER CO\u2026 https://t.co/gFHhIAb9Dj",
+  "extended_tweet": {
+    "full_text": "@JustoNogueraP ESAS MADRES SOLICITAN UNA ALTERNATIVA PARA VERIFICARSE SI SON BENEFICIADAS CON EL BONO PARA PODER COBRARLO AYUDA EN ESO GRACIAS Y  LE AGRADEZCO CUA\u00d1LQUIER AYUDA A ESAS MADRES QUE QUIEREN SABER",
+    "display_text_range": [0, 207],
+    "entities": {
+      "hashtags": [],
+      "urls": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "id": 3408697085,
+          "id_str": "3408697085",
+          "name": "Justo Noguera Pietri",
+          "indices": [0, 14],
+          "screen_name": "JustoNogueraP"
+        }
+      ]
+    }
+  },
+  "in_reply_to_user_id_str": "3408697085",
+  "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+  "in_reply_to_screen_name": "JustoNogueraP"
+}

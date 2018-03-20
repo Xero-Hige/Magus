@@ -1,1 +1,121 @@
-{"geo": null, "filter_level": "low", "in_reply_to_status_id": null, "lang": "es", "favorite_count": 0, "coordinates": null, "favorited": false, "place": {"name": "Villarrica", "full_name": "Villarrica, Paraguay", "place_type": "city", "country": "Paraguay", "id": "00bc1ad414ce4f99", "bounding_box": {"type": "Polygon", "coordinates": [[[-56.463833, -25.807276], [-56.463833, -25.763159], [-56.426655, -25.763159], [-56.426655, -25.807276]]]}, "attributes": {}, "url": "https://api.twitter.com/1.1/geo/id/00bc1ad414ce4f99.json", "country_code": "PY"}, "contributors": null, "entities": {"hashtags": [], "urls": [{"display_url": "twitter.com/i/web/status/9\u2026", "expanded_url": "https://twitter.com/i/web/status/930619628371529728", "url": "https://t.co/YF8yQuZA7r", "indices": [116, 139]}], "symbols": [], "user_mentions": [{"id": 117188319, "id_str": "117188319", "name": "Luis Bareiro", "indices": [0, 12], "screen_name": "LuisBareiro"}]}, "id": 930619628371529728, "user": {"followers_count": 950, "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png", "profile_background_color": "C0DEED", "translator_type": "none", "profile_image_url": "http://pbs.twimg.com/profile_images/888184361392250881/TFSJZGft_normal.jpg", "default_profile": true, "utc_offset": null, "lang": "es", "url": null, "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", "profile_image_url_https": "https://pbs.twimg.com/profile_images/888184361392250881/TFSJZGft_normal.jpg", "time_zone": null, "profile_sidebar_border_color": "C0DEED", "profile_use_background_image": true, "id": 2972437666, "profile_link_color": "1DA1F2", "profile_sidebar_fill_color": "DDEEF6", "profile_background_tile": false, "geo_enabled": true, "id_str": "2972437666", "verified": false, "name": "Rodolfo M. Friedmann", "is_translator": false, "notifications": null, "following": null, "friends_count": 1861, "contributors_enabled": false, "screen_name": "rmfc1955", "created_at": "Sun Jan 11 02:00:15 +0000 2015", "profile_text_color": "333333", "favourites_count": 1896, "follow_request_sent": null, "description": "Abogado y Empresario", "default_profile_image": false, "location": "Villarrica Paraguay", "listed_count": 0, "protected": false, "statuses_count": 1961}, "id_str": "930619628371529728", "retweet_count": 0, "retweeted": false, "quote_count": 0, "truncated": true, "in_reply_to_status_id_str": null, "reply_count": 0, "created_at": "Wed Nov 15 02:13:04 +0000 2017", "is_quote_status": false, "in_reply_to_user_id": 117188319, "timestamp_ms": "1510711984137", "text": "@LuisBareiro desde luego muy muy contento, con el rescate soy padre de 6 hijos y abuelo de 8 nietos, como no, pero\u2026 https://t.co/YF8yQuZA7r", "extended_tweet": {"full_text": "@LuisBareiro desde luego muy muy contento, con el rescate soy padre de 6 hijos y abuelo de 8 nietos, como no, pero as\u00ed como no creo en Dios,solo creo en lo que Veo ni Santos ni  v\u00edrgenes, quiero verle a la Polic\u00eda por las calles y no cuidando a pol\u00edticos y parlamentarios. \ud83d\udcaa", "display_text_range": [0, 274], "entities": {"hashtags": [], "urls": [], "symbols": [], "user_mentions": [{"id": 117188319, "id_str": "117188319", "name": "Luis Bareiro", "indices": [0, 12], "screen_name": "LuisBareiro"}]}}, "in_reply_to_user_id_str": "117188319", "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>", "in_reply_to_screen_name": "LuisBareiro"}
+{
+  "geo": null,
+  "filter_level": "low",
+  "in_reply_to_status_id": null,
+  "lang": "es",
+  "favorite_count": 0,
+  "coordinates": null,
+  "favorited": false,
+  "place": {
+    "name": "Villarrica",
+    "full_name": "Villarrica, Paraguay",
+    "place_type": "city",
+    "country": "Paraguay",
+    "id": "00bc1ad414ce4f99",
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [[-56.463833, -25.807276], [-56.463833, -25.763159], [-56.426655, -25.763159], [-56.426655, -25.807276]]
+      ]
+    },
+    "attributes": {},
+    "url": "https://api.twitter.com/1.1/geo/id/00bc1ad414ce4f99.json",
+    "country_code": "PY"
+  },
+  "contributors": null,
+  "entities": {
+    "hashtags": [],
+    "urls": [
+      {
+        "display_url": "twitter.com/i/web/status/9\u2026",
+        "expanded_url": "https://twitter.com/i/web/status/930619628371529728",
+        "url": "https://t.co/YF8yQuZA7r",
+        "indices": [116, 139]
+      }
+    ],
+    "symbols": [],
+    "user_mentions": [
+      {
+        "id": 117188319,
+        "id_str": "117188319",
+        "name": "Luis Bareiro",
+        "indices": [0, 12],
+        "screen_name": "LuisBareiro"
+      }
+    ]
+  },
+  "id": 930619628371529728,
+  "user": {
+    "followers_count": 950,
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_color": "C0DEED",
+    "translator_type": "none",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/888184361392250881/TFSJZGft_normal.jpg",
+    "default_profile": true,
+    "utc_offset": null,
+    "lang": "es",
+    "url": null,
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/888184361392250881/TFSJZGft_normal.jpg",
+    "time_zone": null,
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_use_background_image": true,
+    "id": 2972437666,
+    "profile_link_color": "1DA1F2",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_background_tile": false,
+    "geo_enabled": true,
+    "id_str": "2972437666",
+    "verified": false,
+    "name": "Rodolfo M. Friedmann",
+    "is_translator": false,
+    "notifications": null,
+    "following": null,
+    "friends_count": 1861,
+    "contributors_enabled": false,
+    "screen_name": "rmfc1955",
+    "created_at": "Sun Jan 11 02:00:15 +0000 2015",
+    "profile_text_color": "333333",
+    "favourites_count": 1896,
+    "follow_request_sent": null,
+    "description": "Abogado y Empresario",
+    "default_profile_image": false,
+    "location": "Villarrica Paraguay",
+    "listed_count": 0,
+    "protected": false,
+    "statuses_count": 1961
+  },
+  "id_str": "930619628371529728",
+  "retweet_count": 0,
+  "retweeted": false,
+  "quote_count": 0,
+  "truncated": true,
+  "in_reply_to_status_id_str": null,
+  "reply_count": 0,
+  "created_at": "Wed Nov 15 02:13:04 +0000 2017",
+  "is_quote_status": false,
+  "in_reply_to_user_id": 117188319,
+  "timestamp_ms": "1510711984137",
+  "text": "@LuisBareiro desde luego muy muy contento, con el rescate soy padre de 6 hijos y abuelo de 8 nietos, como no, pero\u2026 https://t.co/YF8yQuZA7r",
+  "extended_tweet": {
+    "full_text": "@LuisBareiro desde luego muy muy contento, con el rescate soy padre de 6 hijos y abuelo de 8 nietos, como no, pero as\u00ed como no creo en Dios,solo creo en lo que Veo ni Santos ni  v\u00edrgenes, quiero verle a la Polic\u00eda por las calles y no cuidando a pol\u00edticos y parlamentarios. \ud83d\udcaa",
+    "display_text_range": [0, 274],
+    "entities": {
+      "hashtags": [],
+      "urls": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "id": 117188319,
+          "id_str": "117188319",
+          "name": "Luis Bareiro",
+          "indices": [0, 12],
+          "screen_name": "LuisBareiro"
+        }
+      ]
+    }
+  },
+  "in_reply_to_user_id_str": "117188319",
+  "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+  "in_reply_to_screen_name": "LuisBareiro"
+}

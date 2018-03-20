@@ -1,1 +1,124 @@
-{"reply_count": 0, "user": {"profile_banner_url": "https://pbs.twimg.com/profile_banners/438478720/1413086694", "following": null, "profile_background_color": "709397", "url": null, "utc_offset": -18000, "follow_request_sent": null, "translator_type": "none", "profile_text_color": "333333", "id_str": "438478720", "favourites_count": 6624, "friends_count": 1398, "followers_count": 613, "id": 438478720, "geo_enabled": true, "profile_sidebar_border_color": "FFFFFF", "profile_image_url_https": "https://pbs.twimg.com/profile_images/861395086638280704/0ee7qymD_normal.jpg", "statuses_count": 8473, "notifications": null, "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/800568448/2d57a2474ae4f7bbf32b443af3974e2d.jpeg", "protected": false, "listed_count": 30, "screen_name": "JulioEnrique_86", "profile_sidebar_fill_color": "A0C5C7", "location": "Guayaquil - Ecuador", "created_at": "Fri Dec 16 16:49:48 +0000 2011", "default_profile": false, "time_zone": "Quito", "verified": false, "contributors_enabled": false, "profile_image_url": "http://pbs.twimg.com/profile_images/861395086638280704/0ee7qymD_normal.jpg", "lang": "es", "name": "JulioEnrique", "profile_link_color": "0048FF", "is_translator": false, "description": "#SysAdmin en #Networking #Mikrotik #MTCNA #Linux", "profile_use_background_image": true, "default_profile_image": false, "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/800568448/2d57a2474ae4f7bbf32b443af3974e2d.jpeg", "profile_background_tile": true}, "contributors": null, "id_str": "930665058736144386", "in_reply_to_screen_name": null, "in_reply_to_user_id_str": null, "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>", "in_reply_to_status_id_str": null, "in_reply_to_user_id": null, "id": 930665058736144386, "in_reply_to_status_id": null, "favorite_count": 0, "entities": {"user_mentions": [], "hashtags": [{"text": "JusticeLeague", "indices": [49, 63]}], "symbols": [], "urls": [{"expanded_url": "https://twitter.com/i/web/status/930665058736144386", "url": "https://t.co/vsw45K6aFt", "display_url": "twitter.com/i/web/status/9\u2026", "indices": [117, 140]}]}, "created_at": "Wed Nov 15 05:13:35 +0000 2017", "extended_tweet": {"entities": {"user_mentions": [{"id": 329746058, "indices": [254, 265], "screen_name": "BenAffleck", "id_str": "329746058", "name": "Ben Affleck"}], "hashtags": [{"text": "JusticeLeague", "indices": [49, 63]}], "symbols": [], "urls": []}, "display_text_range": [0, 265], "full_text": "A algunos YouTubers llevaron a que conozcan a la #JusticeLeague a Londres y ha pesar de que dicen haberse emocionado su reacci\u00f3n es toda seca. Maricon, si yo hubiese estado ah\u00ed me hubiera vuelto loco y tendr\u00edan que llamar a un guardia para despegarme de @BenAffleck"}, "favorited": false, "timestamp_ms": "1510722815580", "quote_count": 0, "place": {"country_code": "EC", "bounding_box": {"coordinates": [[[-80.467605, -3.063716], [-80.467605, -1.962274], [-79.714781, -1.962274], [-79.714781, -3.063716]]], "type": "Polygon"}, "attributes": {}, "url": "https://api.twitter.com/1.1/geo/id/009924a469d7ace1.json", "name": "Guayaquil", "id": "009924a469d7ace1", "place_type": "city", "country": "Ecuador", "full_name": "Guayaquil, Ecuador"}, "text": "A algunos YouTubers llevaron a que conozcan a la #JusticeLeague a Londres y ha pesar de que dicen haberse emocionad\u2026 https://t.co/vsw45K6aFt", "geo": null, "retweeted": false, "retweet_count": 0, "filter_level": "low", "lang": "es", "is_quote_status": false, "coordinates": null, "truncated": true}
+{
+  "reply_count": 0,
+  "user": {
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/438478720/1413086694",
+    "following": null,
+    "profile_background_color": "709397",
+    "url": null,
+    "utc_offset": -18000,
+    "follow_request_sent": null,
+    "translator_type": "none",
+    "profile_text_color": "333333",
+    "id_str": "438478720",
+    "favourites_count": 6624,
+    "friends_count": 1398,
+    "followers_count": 613,
+    "id": 438478720,
+    "geo_enabled": true,
+    "profile_sidebar_border_color": "FFFFFF",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/861395086638280704/0ee7qymD_normal.jpg",
+    "statuses_count": 8473,
+    "notifications": null,
+    "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/800568448/2d57a2474ae4f7bbf32b443af3974e2d.jpeg",
+    "protected": false,
+    "listed_count": 30,
+    "screen_name": "JulioEnrique_86",
+    "profile_sidebar_fill_color": "A0C5C7",
+    "location": "Guayaquil - Ecuador",
+    "created_at": "Fri Dec 16 16:49:48 +0000 2011",
+    "default_profile": false,
+    "time_zone": "Quito",
+    "verified": false,
+    "contributors_enabled": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/861395086638280704/0ee7qymD_normal.jpg",
+    "lang": "es",
+    "name": "JulioEnrique",
+    "profile_link_color": "0048FF",
+    "is_translator": false,
+    "description": "#SysAdmin en #Networking #Mikrotik #MTCNA #Linux",
+    "profile_use_background_image": true,
+    "default_profile_image": false,
+    "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/800568448/2d57a2474ae4f7bbf32b443af3974e2d.jpeg",
+    "profile_background_tile": true
+  },
+  "contributors": null,
+  "id_str": "930665058736144386",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_user_id_str": null,
+  "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "id": 930665058736144386,
+  "in_reply_to_status_id": null,
+  "favorite_count": 0,
+  "entities": {
+    "user_mentions": [],
+    "hashtags": [
+      {
+        "text": "JusticeLeague",
+        "indices": [49, 63]
+      }
+    ],
+    "symbols": [],
+    "urls": [
+      {
+        "expanded_url": "https://twitter.com/i/web/status/930665058736144386",
+        "url": "https://t.co/vsw45K6aFt",
+        "display_url": "twitter.com/i/web/status/9\u2026",
+        "indices": [117, 140]
+      }
+    ]
+  },
+  "created_at": "Wed Nov 15 05:13:35 +0000 2017",
+  "extended_tweet": {
+    "entities": {
+      "user_mentions": [
+        {
+          "id": 329746058,
+          "indices": [254, 265],
+          "screen_name": "BenAffleck",
+          "id_str": "329746058",
+          "name": "Ben Affleck"
+        }
+      ],
+      "hashtags": [
+        {
+          "text": "JusticeLeague",
+          "indices": [49, 63]
+        }
+      ],
+      "symbols": [],
+      "urls": []
+    },
+    "display_text_range": [0, 265],
+    "full_text": "A algunos YouTubers llevaron a que conozcan a la #JusticeLeague a Londres y ha pesar de que dicen haberse emocionado su reacci\u00f3n es toda seca. Maricon, si yo hubiese estado ah\u00ed me hubiera vuelto loco y tendr\u00edan que llamar a un guardia para despegarme de @BenAffleck"
+  },
+  "favorited": false,
+  "timestamp_ms": "1510722815580",
+  "quote_count": 0,
+  "place": {
+    "country_code": "EC",
+    "bounding_box": {
+      "coordinates": [
+        [[-80.467605, -3.063716], [-80.467605, -1.962274], [-79.714781, -1.962274], [-79.714781, -3.063716]]
+      ],
+      "type": "Polygon"
+    },
+    "attributes": {},
+    "url": "https://api.twitter.com/1.1/geo/id/009924a469d7ace1.json",
+    "name": "Guayaquil",
+    "id": "009924a469d7ace1",
+    "place_type": "city",
+    "country": "Ecuador",
+    "full_name": "Guayaquil, Ecuador"
+  },
+  "text": "A algunos YouTubers llevaron a que conozcan a la #JusticeLeague a Londres y ha pesar de que dicen haberse emocionad\u2026 https://t.co/vsw45K6aFt",
+  "geo": null,
+  "retweeted": false,
+  "retweet_count": 0,
+  "filter_level": "low",
+  "lang": "es",
+  "is_quote_status": false,
+  "coordinates": null,
+  "truncated": true
+}

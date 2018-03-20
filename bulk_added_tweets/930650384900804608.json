@@ -1,1 +1,134 @@
-{"in_reply_to_screen_name": "VILLALVAZO13", "geo": null, "user": {"followers_count": 125, "profile_background_image_url": "", "profile_background_color": "F5F8FA", "translator_type": "none", "profile_image_url": "http://pbs.twimg.com/profile_images/825828116203466752/3AeVZCWo_normal.jpg", "default_profile": true, "utc_offset": null, "lang": "es", "url": null, "profile_background_image_url_https": "", "profile_image_url_https": "https://pbs.twimg.com/profile_images/825828116203466752/3AeVZCWo_normal.jpg", "time_zone": null, "profile_sidebar_border_color": "C0DEED", "profile_use_background_image": true, "id": 767938358165118976, "profile_link_color": "1DA1F2", "profile_sidebar_fill_color": "DDEEF6", "profile_background_tile": false, "geo_enabled": true, "id_str": "767938358165118976", "verified": false, "name": "Karim", "is_translator": false, "notifications": null, "following": null, "friends_count": 48, "contributors_enabled": false, "screen_name": "karimperez1969", "created_at": "Tue Aug 23 04:15:47 +0000 2016", "profile_text_color": "333333", "favourites_count": 3606, "follow_request_sent": null, "description": "luchador social de izquierda, sue\u00f1o con un M\u00e9xico de verdad transformado", "default_profile_image": false, "location": "Distrito Federal, M\u00e9xico", "listed_count": 1, "protected": false, "statuses_count": 4579}, "filter_level": "low", "in_reply_to_status_id": 930641185500143616, "lang": "es", "display_text_range": [26, 140], "favorited": false, "place": {"name": "Toluca", "full_name": "Toluca, M\u00e9xico", "place_type": "city", "country": "M\u00e9xico", "id": "7027ba8eb532eb33", "bounding_box": {"type": "Polygon", "coordinates": [[[-99.782579, 19.076393], [-99.782579, 19.49225], [-99.528773, 19.49225], [-99.528773, 19.076393]]]}, "attributes": {}, "url": "https://api.twitter.com/1.1/geo/id/7027ba8eb532eb33.json", "country_code": "MX"}, "coordinates": null, "entities": {"hashtags": [], "urls": [{"display_url": "twitter.com/i/web/status/9\u2026", "expanded_url": "https://twitter.com/i/web/status/930650384900804608", "url": "https://t.co/ewlhK2COsQ", "indices": [117, 140]}], "symbols": [], "user_mentions": [{"id": 102817149, "id_str": "102817149", "name": "ALEJANDRO VILLALVAZO", "indices": [0, 13], "screen_name": "VILLALVAZO13"}, {"id": 561471584, "id_str": "561471584", "name": "Procuradur\u00eda CDMX", "indices": [14, 25], "screen_name": "PGJDF_CDMX"}]}, "id": 930650384900804608, "in_reply_to_user_id_str": "102817149", "id_str": "930650384900804608", "retweet_count": 0, "retweeted": false, "quote_count": 0, "truncated": true, "in_reply_to_status_id_str": "930641185500143616", "reply_count": 0, "created_at": "Wed Nov 15 04:15:17 +0000 2017", "is_quote_status": false, "in_reply_to_user_id": 102817149, "timestamp_ms": "1510719317065", "text": "@VILLALVAZO13 @PGJDF_CDMX Hace 30 a\u00f1os le\u00ed un articulo que hablaban de los anticonceptivos para estos tiempos, y de\u2026 https://t.co/ewlhK2COsQ", "extended_tweet": {"full_text": "@VILLALVAZO13 @PGJDF_CDMX Hace 30 a\u00f1os le\u00ed un articulo que hablaban de los anticonceptivos para estos tiempos, y dec\u00eda que ser\u00eda una aplicaci\u00f3n que durar\u00eda 5-6 a\u00f1os, si esto existiera ya se hubiera regulado la poblaci\u00f3n, pero hay intereses atr\u00e1s de esto y no les conviene que salga, a parte de lo moral.", "display_text_range": [26, 303], "entities": {"hashtags": [], "urls": [], "symbols": [], "user_mentions": [{"id": 102817149, "id_str": "102817149", "name": "ALEJANDRO VILLALVAZO", "indices": [0, 13], "screen_name": "VILLALVAZO13"}, {"id": 561471584, "id_str": "561471584", "name": "Procuradur\u00eda CDMX", "indices": [14, 25], "screen_name": "PGJDF_CDMX"}]}}, "favorite_count": 0, "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>", "contributors": null}
+{
+  "in_reply_to_screen_name": "VILLALVAZO13",
+  "geo": null,
+  "user": {
+    "followers_count": 125,
+    "profile_background_image_url": "",
+    "profile_background_color": "F5F8FA",
+    "translator_type": "none",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/825828116203466752/3AeVZCWo_normal.jpg",
+    "default_profile": true,
+    "utc_offset": null,
+    "lang": "es",
+    "url": null,
+    "profile_background_image_url_https": "",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/825828116203466752/3AeVZCWo_normal.jpg",
+    "time_zone": null,
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_use_background_image": true,
+    "id": 767938358165118976,
+    "profile_link_color": "1DA1F2",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_background_tile": false,
+    "geo_enabled": true,
+    "id_str": "767938358165118976",
+    "verified": false,
+    "name": "Karim",
+    "is_translator": false,
+    "notifications": null,
+    "following": null,
+    "friends_count": 48,
+    "contributors_enabled": false,
+    "screen_name": "karimperez1969",
+    "created_at": "Tue Aug 23 04:15:47 +0000 2016",
+    "profile_text_color": "333333",
+    "favourites_count": 3606,
+    "follow_request_sent": null,
+    "description": "luchador social de izquierda, sue\u00f1o con un M\u00e9xico de verdad transformado",
+    "default_profile_image": false,
+    "location": "Distrito Federal, M\u00e9xico",
+    "listed_count": 1,
+    "protected": false,
+    "statuses_count": 4579
+  },
+  "filter_level": "low",
+  "in_reply_to_status_id": 930641185500143616,
+  "lang": "es",
+  "display_text_range": [26, 140],
+  "favorited": false,
+  "place": {
+    "name": "Toluca",
+    "full_name": "Toluca, M\u00e9xico",
+    "place_type": "city",
+    "country": "M\u00e9xico",
+    "id": "7027ba8eb532eb33",
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [[-99.782579, 19.076393], [-99.782579, 19.49225], [-99.528773, 19.49225], [-99.528773, 19.076393]]
+      ]
+    },
+    "attributes": {},
+    "url": "https://api.twitter.com/1.1/geo/id/7027ba8eb532eb33.json",
+    "country_code": "MX"
+  },
+  "coordinates": null,
+  "entities": {
+    "hashtags": [],
+    "urls": [
+      {
+        "display_url": "twitter.com/i/web/status/9\u2026",
+        "expanded_url": "https://twitter.com/i/web/status/930650384900804608",
+        "url": "https://t.co/ewlhK2COsQ",
+        "indices": [117, 140]
+      }
+    ],
+    "symbols": [],
+    "user_mentions": [
+      {
+        "id": 102817149,
+        "id_str": "102817149",
+        "name": "ALEJANDRO VILLALVAZO",
+        "indices": [0, 13],
+        "screen_name": "VILLALVAZO13"
+      }, {
+        "id": 561471584,
+        "id_str": "561471584",
+        "name": "Procuradur\u00eda CDMX",
+        "indices": [14, 25],
+        "screen_name": "PGJDF_CDMX"
+      }
+    ]
+  },
+  "id": 930650384900804608,
+  "in_reply_to_user_id_str": "102817149",
+  "id_str": "930650384900804608",
+  "retweet_count": 0,
+  "retweeted": false,
+  "quote_count": 0,
+  "truncated": true,
+  "in_reply_to_status_id_str": "930641185500143616",
+  "reply_count": 0,
+  "created_at": "Wed Nov 15 04:15:17 +0000 2017",
+  "is_quote_status": false,
+  "in_reply_to_user_id": 102817149,
+  "timestamp_ms": "1510719317065",
+  "text": "@VILLALVAZO13 @PGJDF_CDMX Hace 30 a\u00f1os le\u00ed un articulo que hablaban de los anticonceptivos para estos tiempos, y de\u2026 https://t.co/ewlhK2COsQ",
+  "extended_tweet": {
+    "full_text": "@VILLALVAZO13 @PGJDF_CDMX Hace 30 a\u00f1os le\u00ed un articulo que hablaban de los anticonceptivos para estos tiempos, y dec\u00eda que ser\u00eda una aplicaci\u00f3n que durar\u00eda 5-6 a\u00f1os, si esto existiera ya se hubiera regulado la poblaci\u00f3n, pero hay intereses atr\u00e1s de esto y no les conviene que salga, a parte de lo moral.",
+    "display_text_range": [26, 303],
+    "entities": {
+      "hashtags": [],
+      "urls": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "id": 102817149,
+          "id_str": "102817149",
+          "name": "ALEJANDRO VILLALVAZO",
+          "indices": [0, 13],
+          "screen_name": "VILLALVAZO13"
+        }, {
+          "id": 561471584,
+          "id_str": "561471584",
+          "name": "Procuradur\u00eda CDMX",
+          "indices": [14, 25],
+          "screen_name": "PGJDF_CDMX"
+        }
+      ]
+    }
+  },
+  "favorite_count": 0,
+  "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+  "contributors": null
+}

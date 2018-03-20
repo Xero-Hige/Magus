@@ -1,1 +1,163 @@
-{"is_quote_status": false, "in_reply_to_user_id_str": null, "created_at": "Tue Nov 14 22:02:06 +0000 2017", "favorite_count": 0, "in_reply_to_status_id": null, "id_str": "930556473616330754", "filter_level": "low", "reply_count": 0, "timestamp_ms": "1510696926870", "id": 930556473616330754, "display_text_range": [0, 53], "coordinates": null, "in_reply_to_screen_name": null, "truncated": false, "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>", "place": {"bounding_box": {"coordinates": [[[-77.088074, -12.080577], [-77.088074, -12.030359], [-76.999859, -12.030359], [-76.999859, -12.080577]]], "type": "Polygon"}, "url": "https://api.twitter.com/1.1/geo/id/006099b7317c8404.json", "country_code": "PE", "name": "Lima", "full_name": "Lima, Peru", "id": "006099b7317c8404", "place_type": "city", "attributes": {}, "country": "Peru"}, "extended_entities": {"media": [{"media_url_https": "https://pbs.twimg.com/media/DOoAHkNWkAEnPSx.jpg", "expanded_url": "https://twitter.com/ginaloz62742140/status/930556473616330754/photo/1", "id_str": "930556402984194049", "media_url": "http://pbs.twimg.com/media/DOoAHkNWkAEnPSx.jpg", "display_url": "pic.twitter.com/L4ywv8iuvI", "id": 930556402984194049, "indices": [54, 77], "type": "photo", "url": "https://t.co/L4ywv8iuvI", "sizes": {"medium": {"resize": "fit", "h": 1200, "w": 900}, "small": {"resize": "fit", "h": 680, "w": 510}, "thumb": {"resize": "crop", "h": 150, "w": 150}, "large": {"resize": "fit", "h": 1280, "w": 960}}}]}, "retweet_count": 0, "quote_count": 0, "favorited": false, "text": "Maravillosamente imperfecta, escandalosamente feliz \ud83d\udc97 https://t.co/L4ywv8iuvI", "in_reply_to_user_id": null, "geo": null, "lang": "es", "contributors": null, "in_reply_to_status_id_str": null, "user": {"protected": false, "following": null, "profile_text_color": "000000", "profile_background_color": "000000", "statuses_count": 234, "default_profile": false, "favourites_count": 11, "friends_count": 2040, "follow_request_sent": null, "profile_sidebar_fill_color": "000000", "translator_type": "none", "notifications": null, "id_str": "819735080725835776", "screen_name": "ginaloz62742140", "profile_banner_url": "https://pbs.twimg.com/profile_banners/819735080725835776/1507875449", "verified": false, "id": 819735080725835776, "profile_use_background_image": false, "description": "Sagitario\u2650 \ud83c\udf34Los Viajes son la mejor universidad\ud83d\udeeb\u2764 \u2600\ud83c\udf08\ud83c\udf31Amante de la naturaleza\ud83d\ude0d \ud83c\udf3aLa VIDA esta hecha para VIVIRLA\ud83c\udf3a", "utc_offset": null, "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", "is_translator": false, "listed_count": 13, "default_profile_image": false, "contributors_enabled": false, "followers_count": 709, "location": "La Molina, Peru", "created_at": "Fri Jan 13 02:37:28 +0000 2017", "profile_image_url_https": "https://pbs.twimg.com/profile_images/920195566830784512/g8dsk7ft_normal.jpg", "geo_enabled": true, "time_zone": null, "profile_image_url": "http://pbs.twimg.com/profile_images/920195566830784512/g8dsk7ft_normal.jpg", "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png", "profile_link_color": "F58EA8", "lang": "es", "name": "\ud83d\udc30\ud83c\udf38G e\ud83c\udf69rgina\ud83c\udf38\ud83c\udf35\ud83d\udc8b", "profile_background_tile": false, "url": null, "profile_sidebar_border_color": "000000"}, "possibly_sensitive": false, "entities": {"user_mentions": [], "urls": [], "symbols": [], "hashtags": [], "media": [{"media_url_https": "https://pbs.twimg.com/media/DOoAHkNWkAEnPSx.jpg", "expanded_url": "https://twitter.com/ginaloz62742140/status/930556473616330754/photo/1", "id_str": "930556402984194049", "media_url": "http://pbs.twimg.com/media/DOoAHkNWkAEnPSx.jpg", "display_url": "pic.twitter.com/L4ywv8iuvI", "id": 930556402984194049, "indices": [54, 77], "type": "photo", "url": "https://t.co/L4ywv8iuvI", "sizes": {"medium": {"resize": "fit", "h": 1200, "w": 900}, "small": {"resize": "fit", "h": 680, "w": 510}, "thumb": {"resize": "crop", "h": 150, "w": 150}, "large": {"resize": "fit", "h": 1280, "w": 960}}}]}, "retweeted": false}
+{
+  "is_quote_status": false,
+  "in_reply_to_user_id_str": null,
+  "created_at": "Tue Nov 14 22:02:06 +0000 2017",
+  "favorite_count": 0,
+  "in_reply_to_status_id": null,
+  "id_str": "930556473616330754",
+  "filter_level": "low",
+  "reply_count": 0,
+  "timestamp_ms": "1510696926870",
+  "id": 930556473616330754,
+  "display_text_range": [0, 53],
+  "coordinates": null,
+  "in_reply_to_screen_name": null,
+  "truncated": false,
+  "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+  "place": {
+    "bounding_box": {
+      "coordinates": [
+        [[-77.088074, -12.080577], [-77.088074, -12.030359], [-76.999859, -12.030359], [-76.999859, -12.080577]]
+      ],
+      "type": "Polygon"
+    },
+    "url": "https://api.twitter.com/1.1/geo/id/006099b7317c8404.json",
+    "country_code": "PE",
+    "name": "Lima",
+    "full_name": "Lima, Peru",
+    "id": "006099b7317c8404",
+    "place_type": "city",
+    "attributes": {},
+    "country": "Peru"
+  },
+  "extended_entities": {
+    "media": [
+      {
+        "media_url_https": "https://pbs.twimg.com/media/DOoAHkNWkAEnPSx.jpg",
+        "expanded_url": "https://twitter.com/ginaloz62742140/status/930556473616330754/photo/1",
+        "id_str": "930556402984194049",
+        "media_url": "http://pbs.twimg.com/media/DOoAHkNWkAEnPSx.jpg",
+        "display_url": "pic.twitter.com/L4ywv8iuvI",
+        "id": 930556402984194049,
+        "indices": [54, 77],
+        "type": "photo",
+        "url": "https://t.co/L4ywv8iuvI",
+        "sizes": {
+          "medium": {
+            "resize": "fit",
+            "h": 1200,
+            "w": 900
+          },
+          "small": {
+            "resize": "fit",
+            "h": 680,
+            "w": 510
+          },
+          "thumb": {
+            "resize": "crop",
+            "h": 150,
+            "w": 150
+          },
+          "large": {
+            "resize": "fit",
+            "h": 1280,
+            "w": 960
+          }
+        }
+      }
+    ]
+  },
+  "retweet_count": 0,
+  "quote_count": 0,
+  "favorited": false,
+  "text": "Maravillosamente imperfecta, escandalosamente feliz \ud83d\udc97 https://t.co/L4ywv8iuvI",
+  "in_reply_to_user_id": null,
+  "geo": null,
+  "lang": "es",
+  "contributors": null,
+  "in_reply_to_status_id_str": null,
+  "user": {
+    "protected": false,
+    "following": null,
+    "profile_text_color": "000000",
+    "profile_background_color": "000000",
+    "statuses_count": 234,
+    "default_profile": false,
+    "favourites_count": 11,
+    "friends_count": 2040,
+    "follow_request_sent": null,
+    "profile_sidebar_fill_color": "000000",
+    "translator_type": "none",
+    "notifications": null,
+    "id_str": "819735080725835776",
+    "screen_name": "ginaloz62742140",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/819735080725835776/1507875449",
+    "verified": false,
+    "id": 819735080725835776,
+    "profile_use_background_image": false,
+    "description": "Sagitario\u2650 \ud83c\udf34Los Viajes son la mejor universidad\ud83d\udeeb\u2764 \u2600\ud83c\udf08\ud83c\udf31Amante de la naturaleza\ud83d\ude0d \ud83c\udf3aLa VIDA esta hecha para VIVIRLA\ud83c\udf3a",
+    "utc_offset": null,
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "is_translator": false,
+    "listed_count": 13,
+    "default_profile_image": false,
+    "contributors_enabled": false,
+    "followers_count": 709,
+    "location": "La Molina, Peru",
+    "created_at": "Fri Jan 13 02:37:28 +0000 2017",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/920195566830784512/g8dsk7ft_normal.jpg",
+    "geo_enabled": true,
+    "time_zone": null,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/920195566830784512/g8dsk7ft_normal.jpg",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_link_color": "F58EA8",
+    "lang": "es",
+    "name": "\ud83d\udc30\ud83c\udf38G e\ud83c\udf69rgina\ud83c\udf38\ud83c\udf35\ud83d\udc8b",
+    "profile_background_tile": false,
+    "url": null,
+    "profile_sidebar_border_color": "000000"
+  },
+  "possibly_sensitive": false,
+  "entities": {
+    "user_mentions": [],
+    "urls": [],
+    "symbols": [],
+    "hashtags": [],
+    "media": [
+      {
+        "media_url_https": "https://pbs.twimg.com/media/DOoAHkNWkAEnPSx.jpg",
+        "expanded_url": "https://twitter.com/ginaloz62742140/status/930556473616330754/photo/1",
+        "id_str": "930556402984194049",
+        "media_url": "http://pbs.twimg.com/media/DOoAHkNWkAEnPSx.jpg",
+        "display_url": "pic.twitter.com/L4ywv8iuvI",
+        "id": 930556402984194049,
+        "indices": [54, 77],
+        "type": "photo",
+        "url": "https://t.co/L4ywv8iuvI",
+        "sizes": {
+          "medium": {
+            "resize": "fit",
+            "h": 1200,
+            "w": 900
+          },
+          "small": {
+            "resize": "fit",
+            "h": 680,
+            "w": 510
+          },
+          "thumb": {
+            "resize": "crop",
+            "h": 150,
+            "w": 150
+          },
+          "large": {
+            "resize": "fit",
+            "h": 1280,
+            "w": 960
+          }
+        }
+      }
+    ]
+  },
+  "retweeted": false
+}

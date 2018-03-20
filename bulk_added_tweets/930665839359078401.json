@@ -1,1 +1,106 @@
-{"geo": null, "filter_level": "low", "in_reply_to_status_id": null, "lang": "es", "favorite_count": 0, "coordinates": null, "favorited": false, "place": {"name": "Esquel", "full_name": "Esquel, Argentina", "place_type": "city", "country": "Argentina", "id": "0014e5be2018f233", "bounding_box": {"type": "Polygon", "coordinates": [[[-71.353361, -42.925891], [-71.353361, -42.895976], [-71.291781, -42.895976], [-71.291781, -42.925891]]]}, "attributes": {}, "url": "https://api.twitter.com/1.1/geo/id/0014e5be2018f233.json", "country_code": "AR"}, "contributors": null, "entities": {"hashtags": [], "urls": [{"display_url": "twitter.com/i/web/status/9\u2026", "expanded_url": "https://twitter.com/i/web/status/930665839359078401", "url": "https://t.co/S91UeRNlfT", "indices": [117, 140]}], "symbols": [], "user_mentions": []}, "id": 930665839359078401, "user": {"followers_count": 605, "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/550027286854909952/PGFRsDKb.jpeg", "profile_background_color": "DD2E44", "translator_type": "none", "profile_image_url": "http://pbs.twimg.com/profile_images/928416372576653312/CEP8IlYn_normal.jpg", "profile_banner_url": "https://pbs.twimg.com/profile_banners/2951844112/1510186814", "default_profile": false, "utc_offset": null, "lang": "es", "url": "https://instagram.com/lauuponce_/", "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/550027286854909952/PGFRsDKb.jpeg", "profile_image_url_https": "https://pbs.twimg.com/profile_images/928416372576653312/CEP8IlYn_normal.jpg", "time_zone": null, "profile_sidebar_border_color": "C0DEED", "profile_use_background_image": true, "id": 2951844112, "profile_link_color": "F58EA8", "profile_sidebar_fill_color": "DDEEF6", "profile_background_tile": true, "geo_enabled": true, "id_str": "2951844112", "verified": false, "name": "Ponch", "is_translator": false, "notifications": null, "following": null, "friends_count": 516, "contributors_enabled": false, "screen_name": "Lauponce90", "created_at": "Tue Dec 30 20:28:36 +0000 2014", "profile_text_color": "333333", "favourites_count": 6026, "follow_request_sent": null, "description": "Si estas tan triste mi amor, sonre\u00ed, el cosmos juega a favor!", "default_profile_image": false, "location": "Esquel chubut -Cordoba capital", "listed_count": 2, "protected": false, "statuses_count": 30353}, "id_str": "930665839359078401", "retweet_count": 0, "retweeted": false, "quote_count": 0, "truncated": true, "in_reply_to_status_id_str": null, "reply_count": 0, "created_at": "Wed Nov 15 05:16:41 +0000 2017", "is_quote_status": false, "in_reply_to_user_id": null, "timestamp_ms": "1510723001695", "text": "Prohibido olvidar cuando milu entro cantando a un negocio \"hola se\u00f1or kiosquero ando en busca de su dinero\" y termi\u2026 https://t.co/S91UeRNlfT", "extended_tweet": {"full_text": "Prohibido olvidar cuando milu entro cantando a un negocio \"hola se\u00f1or kiosquero ando en busca de su dinero\" y terminamos comprando 10 promos de fernet", "display_text_range": [0, 150], "entities": {"hashtags": [], "urls": [], "symbols": [], "user_mentions": []}}, "in_reply_to_user_id_str": null, "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>", "in_reply_to_screen_name": null}
+{
+  "geo": null,
+  "filter_level": "low",
+  "in_reply_to_status_id": null,
+  "lang": "es",
+  "favorite_count": 0,
+  "coordinates": null,
+  "favorited": false,
+  "place": {
+    "name": "Esquel",
+    "full_name": "Esquel, Argentina",
+    "place_type": "city",
+    "country": "Argentina",
+    "id": "0014e5be2018f233",
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [[-71.353361, -42.925891], [-71.353361, -42.895976], [-71.291781, -42.895976], [-71.291781, -42.925891]]
+      ]
+    },
+    "attributes": {},
+    "url": "https://api.twitter.com/1.1/geo/id/0014e5be2018f233.json",
+    "country_code": "AR"
+  },
+  "contributors": null,
+  "entities": {
+    "hashtags": [],
+    "urls": [
+      {
+        "display_url": "twitter.com/i/web/status/9\u2026",
+        "expanded_url": "https://twitter.com/i/web/status/930665839359078401",
+        "url": "https://t.co/S91UeRNlfT",
+        "indices": [117, 140]
+      }
+    ],
+    "symbols": [],
+    "user_mentions": []
+  },
+  "id": 930665839359078401,
+  "user": {
+    "followers_count": 605,
+    "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/550027286854909952/PGFRsDKb.jpeg",
+    "profile_background_color": "DD2E44",
+    "translator_type": "none",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/928416372576653312/CEP8IlYn_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/2951844112/1510186814",
+    "default_profile": false,
+    "utc_offset": null,
+    "lang": "es",
+    "url": "https://instagram.com/lauuponce_/",
+    "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/550027286854909952/PGFRsDKb.jpeg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/928416372576653312/CEP8IlYn_normal.jpg",
+    "time_zone": null,
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_use_background_image": true,
+    "id": 2951844112,
+    "profile_link_color": "F58EA8",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_background_tile": true,
+    "geo_enabled": true,
+    "id_str": "2951844112",
+    "verified": false,
+    "name": "Ponch",
+    "is_translator": false,
+    "notifications": null,
+    "following": null,
+    "friends_count": 516,
+    "contributors_enabled": false,
+    "screen_name": "Lauponce90",
+    "created_at": "Tue Dec 30 20:28:36 +0000 2014",
+    "profile_text_color": "333333",
+    "favourites_count": 6026,
+    "follow_request_sent": null,
+    "description": "Si estas tan triste mi amor, sonre\u00ed, el cosmos juega a favor!",
+    "default_profile_image": false,
+    "location": "Esquel chubut -Cordoba capital",
+    "listed_count": 2,
+    "protected": false,
+    "statuses_count": 30353
+  },
+  "id_str": "930665839359078401",
+  "retweet_count": 0,
+  "retweeted": false,
+  "quote_count": 0,
+  "truncated": true,
+  "in_reply_to_status_id_str": null,
+  "reply_count": 0,
+  "created_at": "Wed Nov 15 05:16:41 +0000 2017",
+  "is_quote_status": false,
+  "in_reply_to_user_id": null,
+  "timestamp_ms": "1510723001695",
+  "text": "Prohibido olvidar cuando milu entro cantando a un negocio \"hola se\u00f1or kiosquero ando en busca de su dinero\" y termi\u2026 https://t.co/S91UeRNlfT",
+  "extended_tweet": {
+    "full_text": "Prohibido olvidar cuando milu entro cantando a un negocio \"hola se\u00f1or kiosquero ando en busca de su dinero\" y terminamos comprando 10 promos de fernet",
+    "display_text_range": [0, 150],
+    "entities": {
+      "hashtags": [],
+      "urls": [],
+      "symbols": [],
+      "user_mentions": []
+    }
+  },
+  "in_reply_to_user_id_str": null,
+  "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+  "in_reply_to_screen_name": null
+}

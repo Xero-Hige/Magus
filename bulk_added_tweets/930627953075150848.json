@@ -1,1 +1,121 @@
-{"in_reply_to_screen_name": "FelipeChapman", "geo": null, "user": {"followers_count": 774, "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png", "profile_background_color": "000000", "translator_type": "none", "profile_image_url": "http://pbs.twimg.com/profile_images/696248698842394624/kseQmqnT_normal.jpg", "profile_banner_url": "https://pbs.twimg.com/profile_banners/200468038/1434709779", "default_profile": false, "utc_offset": -21600, "lang": "es", "url": null, "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", "profile_image_url_https": "https://pbs.twimg.com/profile_images/696248698842394624/kseQmqnT_normal.jpg", "time_zone": "Central Time (US & Canada)", "profile_sidebar_border_color": "000000", "profile_use_background_image": false, "id": 200468038, "profile_link_color": "1B95E0", "profile_sidebar_fill_color": "000000", "profile_background_tile": false, "geo_enabled": true, "id_str": "200468038", "verified": false, "name": "Humberto E. Reynolds", "is_translator": false, "notifications": null, "following": null, "friends_count": 37, "contributors_enabled": false, "screen_name": "reynoldshumbert", "created_at": "Sat Oct 09 11:21:55 +0000 2010", "profile_text_color": "000000", "favourites_count": 12302, "follow_request_sent": null, "description": "Ingeniero Civil. Miembro Emerito e Insigne de la SPIA. Miembro activo de CAPAC Ingenieros Asesores. American Military Engineers. American Society of Civil Eng.", "default_profile_image": false, "location": "Panam\u00e1", "listed_count": 20, "protected": false, "statuses_count": 43538}, "filter_level": "low", "in_reply_to_status_id": 930486486700576768, "lang": "es", "display_text_range": [15, 140], "favorited": false, "place": {"name": "Panam\u00e1", "full_name": "Panam\u00e1", "place_type": "country", "country": "Panam\u00e1", "id": "9d8ae4b0fac2036a", "bounding_box": {"type": "Polygon", "coordinates": [[[-83.051445, 7.20386], [-83.051445, 9.639486], [-77.13939, 9.639486], [-77.13939, 7.20386]]]}, "attributes": {}, "url": "https://api.twitter.com/1.1/geo/id/9d8ae4b0fac2036a.json", "country_code": "PA"}, "coordinates": null, "entities": {"hashtags": [], "urls": [{"display_url": "twitter.com/i/web/status/9\u2026", "expanded_url": "https://twitter.com/i/web/status/930627953075150848", "url": "https://t.co/KIAmvhslOd", "indices": [116, 139]}], "symbols": [], "user_mentions": [{"id": 39160002, "id_str": "39160002", "name": "Felipe Chapman", "indices": [0, 14], "screen_name": "FelipeChapman"}]}, "id": 930627953075150848, "in_reply_to_user_id_str": "39160002", "id_str": "930627953075150848", "retweet_count": 0, "retweeted": false, "quote_count": 0, "truncated": true, "in_reply_to_status_id_str": "930486486700576768", "reply_count": 0, "created_at": "Wed Nov 15 02:46:08 +0000 2017", "is_quote_status": false, "in_reply_to_user_id": 39160002, "timestamp_ms": "1510713968901", "text": "@FelipeChapman !ME DUELE PANAM\u00c1! TANTOS ESFUERZOS QUE HEMOS HECHO ATRAV\u00c9S DE NUESTRO PASO. HOY TODO ESTA EMBARRADO\u2026 https://t.co/KIAmvhslOd", "extended_tweet": {"full_text": "@FelipeChapman !ME DUELE PANAM\u00c1! TANTOS ESFUERZOS QUE HEMOS HECHO ATRAV\u00c9S DE NUESTRO PASO. HOY TODO ESTA EMBARRADO DE \"CORRUPCI\u00d3N\" MALOS HIJOS DE LA PATRIA LA MANCILLAN A DIARIO. PENA Y VERGUENZA ANTE TANTA CORRUPCI\u00d3N. ING. REYNOLDS", "display_text_range": [15, 232], "entities": {"hashtags": [], "urls": [], "symbols": [], "user_mentions": [{"id": 39160002, "id_str": "39160002", "name": "Felipe Chapman", "indices": [0, 14], "screen_name": "FelipeChapman"}]}}, "favorite_count": 0, "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>", "contributors": null}
+{
+  "in_reply_to_screen_name": "FelipeChapman",
+  "geo": null,
+  "user": {
+    "followers_count": 774,
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_color": "000000",
+    "translator_type": "none",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/696248698842394624/kseQmqnT_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/200468038/1434709779",
+    "default_profile": false,
+    "utc_offset": -21600,
+    "lang": "es",
+    "url": null,
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/696248698842394624/kseQmqnT_normal.jpg",
+    "time_zone": "Central Time (US & Canada)",
+    "profile_sidebar_border_color": "000000",
+    "profile_use_background_image": false,
+    "id": 200468038,
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_fill_color": "000000",
+    "profile_background_tile": false,
+    "geo_enabled": true,
+    "id_str": "200468038",
+    "verified": false,
+    "name": "Humberto E. Reynolds",
+    "is_translator": false,
+    "notifications": null,
+    "following": null,
+    "friends_count": 37,
+    "contributors_enabled": false,
+    "screen_name": "reynoldshumbert",
+    "created_at": "Sat Oct 09 11:21:55 +0000 2010",
+    "profile_text_color": "000000",
+    "favourites_count": 12302,
+    "follow_request_sent": null,
+    "description": "Ingeniero Civil. Miembro Emerito e Insigne de la SPIA. Miembro activo de CAPAC Ingenieros Asesores. American Military Engineers. American Society of Civil Eng.",
+    "default_profile_image": false,
+    "location": "Panam\u00e1",
+    "listed_count": 20,
+    "protected": false,
+    "statuses_count": 43538
+  },
+  "filter_level": "low",
+  "in_reply_to_status_id": 930486486700576768,
+  "lang": "es",
+  "display_text_range": [15, 140],
+  "favorited": false,
+  "place": {
+    "name": "Panam\u00e1",
+    "full_name": "Panam\u00e1",
+    "place_type": "country",
+    "country": "Panam\u00e1",
+    "id": "9d8ae4b0fac2036a",
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [[[-83.051445, 7.20386], [-83.051445, 9.639486], [-77.13939, 9.639486], [-77.13939, 7.20386]]]
+    },
+    "attributes": {},
+    "url": "https://api.twitter.com/1.1/geo/id/9d8ae4b0fac2036a.json",
+    "country_code": "PA"
+  },
+  "coordinates": null,
+  "entities": {
+    "hashtags": [],
+    "urls": [
+      {
+        "display_url": "twitter.com/i/web/status/9\u2026",
+        "expanded_url": "https://twitter.com/i/web/status/930627953075150848",
+        "url": "https://t.co/KIAmvhslOd",
+        "indices": [116, 139]
+      }
+    ],
+    "symbols": [],
+    "user_mentions": [
+      {
+        "id": 39160002,
+        "id_str": "39160002",
+        "name": "Felipe Chapman",
+        "indices": [0, 14],
+        "screen_name": "FelipeChapman"
+      }
+    ]
+  },
+  "id": 930627953075150848,
+  "in_reply_to_user_id_str": "39160002",
+  "id_str": "930627953075150848",
+  "retweet_count": 0,
+  "retweeted": false,
+  "quote_count": 0,
+  "truncated": true,
+  "in_reply_to_status_id_str": "930486486700576768",
+  "reply_count": 0,
+  "created_at": "Wed Nov 15 02:46:08 +0000 2017",
+  "is_quote_status": false,
+  "in_reply_to_user_id": 39160002,
+  "timestamp_ms": "1510713968901",
+  "text": "@FelipeChapman !ME DUELE PANAM\u00c1! TANTOS ESFUERZOS QUE HEMOS HECHO ATRAV\u00c9S DE NUESTRO PASO. HOY TODO ESTA EMBARRADO\u2026 https://t.co/KIAmvhslOd",
+  "extended_tweet": {
+    "full_text": "@FelipeChapman !ME DUELE PANAM\u00c1! TANTOS ESFUERZOS QUE HEMOS HECHO ATRAV\u00c9S DE NUESTRO PASO. HOY TODO ESTA EMBARRADO DE \"CORRUPCI\u00d3N\" MALOS HIJOS DE LA PATRIA LA MANCILLAN A DIARIO. PENA Y VERGUENZA ANTE TANTA CORRUPCI\u00d3N. ING. REYNOLDS",
+    "display_text_range": [15, 232],
+    "entities": {
+      "hashtags": [],
+      "urls": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "id": 39160002,
+          "id_str": "39160002",
+          "name": "Felipe Chapman",
+          "indices": [0, 14],
+          "screen_name": "FelipeChapman"
+        }
+      ]
+    }
+  },
+  "favorite_count": 0,
+  "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+  "contributors": null
+}

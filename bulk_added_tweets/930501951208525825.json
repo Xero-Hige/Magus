@@ -1,1 +1,103 @@
-{"retweet_count": 0, "place": {"place_type": "city", "country": "Espa\u00f1a", "name": "Logro\u00f1o", "id": "342f9faf7392d4ce", "url": "https://api.twitter.com/1.1/geo/id/342f9faf7392d4ce.json", "full_name": "Logro\u00f1o, Espa\u00f1a", "bounding_box": {"coordinates": [[[-2.542232, 42.429049], [-2.542232, 42.519984], [-2.341476, 42.519984], [-2.341476, 42.429049]]], "type": "Polygon"}, "country_code": "ES", "attributes": {}}, "favorited": false, "extended_tweet": {"display_text_range": [0, 229], "entities": {"symbols": [], "user_mentions": [], "urls": [], "hashtags": []}, "full_text": "Testigo de cargo, pel\u00edcula, de culto, que se ha pasado en el Senado para notoriedad el propio testigo, el cual se hab\u00eda llevado varios zascas ante la Justicia.  Una pregunta: habr\u00e1 o\u00eddo hablar el testigo de marras de deontolog\u00eda."}, "quote_count": 0, "in_reply_to_user_id_str": null, "user": {"utc_offset": null, "verified": false, "profile_background_tile": false, "location": "La Rioja", "profile_link_color": "1DA1F2", "notifications": null, "profile_use_background_image": true, "protected": false, "following": null, "profile_sidebar_fill_color": "DDEEF6", "description": "Soy escritor y agricultor autosuficiente. Matem\u00e1tico de profesi\u00f3n. Mi \u00faltima novela publicada El diario de Antonio D\u00edaz . En la l\u00ednea de salida Silencios Rotosi", "time_zone": null, "is_translator": false, "listed_count": 41, "contributors_enabled": false, "translator_type": "none", "profile_text_color": "333333", "favourites_count": 12184, "statuses_count": 46129, "lang": "es", "default_profile": true, "name": "Javier Ba\u00f1ares Caro", "id_str": "494068256", "profile_background_color": "C0DEED", "follow_request_sent": null, "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png", "default_profile_image": false, "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", "screen_name": "BaaresCaro", "created_at": "Thu Feb 16 13:53:37 +0000 2012", "profile_image_url": "http://pbs.twimg.com/profile_images/801133946759155713/M3CEVXWJ_normal.jpg", "id": 494068256, "geo_enabled": true, "url": "http://jbanarescaro.blogspot.com", "followers_count": 3686, "profile_sidebar_border_color": "C0DEED", "friends_count": 3469, "profile_image_url_https": "https://pbs.twimg.com/profile_images/801133946759155713/M3CEVXWJ_normal.jpg"}, "in_reply_to_status_id": null, "in_reply_to_screen_name": null, "entities": {"symbols": [], "user_mentions": [], "urls": [{"url": "https://t.co/12Z1TH2ghF", "expanded_url": "https://twitter.com/i/web/status/930501951208525825", "display_url": "twitter.com/i/web/status/9\u2026", "indices": [117, 140]}], "hashtags": []}, "reply_count": 0, "geo": null, "contributors": null, "favorite_count": 0, "lang": "es", "text": "Testigo de cargo, pel\u00edcula, de culto, que se ha pasado en el Senado para notoriedad el propio testigo, el cual se h\u2026 https://t.co/12Z1TH2ghF", "timestamp_ms": "1510683927715", "id_str": "930501951208525825", "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>", "truncated": true, "retweeted": false, "in_reply_to_user_id": null, "created_at": "Tue Nov 14 18:25:27 +0000 2017", "coordinates": null, "in_reply_to_status_id_str": null, "id": 930501951208525825, "filter_level": "low", "is_quote_status": false}
+{
+  "retweet_count": 0,
+  "place": {
+    "place_type": "city",
+    "country": "Espa\u00f1a",
+    "name": "Logro\u00f1o",
+    "id": "342f9faf7392d4ce",
+    "url": "https://api.twitter.com/1.1/geo/id/342f9faf7392d4ce.json",
+    "full_name": "Logro\u00f1o, Espa\u00f1a",
+    "bounding_box": {
+      "coordinates": [[[-2.542232, 42.429049], [-2.542232, 42.519984], [-2.341476, 42.519984], [-2.341476, 42.429049]]],
+      "type": "Polygon"
+    },
+    "country_code": "ES",
+    "attributes": {}
+  },
+  "favorited": false,
+  "extended_tweet": {
+    "display_text_range": [0, 229],
+    "entities": {
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [],
+      "hashtags": []
+    },
+    "full_text": "Testigo de cargo, pel\u00edcula, de culto, que se ha pasado en el Senado para notoriedad el propio testigo, el cual se hab\u00eda llevado varios zascas ante la Justicia.  Una pregunta: habr\u00e1 o\u00eddo hablar el testigo de marras de deontolog\u00eda."
+  },
+  "quote_count": 0,
+  "in_reply_to_user_id_str": null,
+  "user": {
+    "utc_offset": null,
+    "verified": false,
+    "profile_background_tile": false,
+    "location": "La Rioja",
+    "profile_link_color": "1DA1F2",
+    "notifications": null,
+    "profile_use_background_image": true,
+    "protected": false,
+    "following": null,
+    "profile_sidebar_fill_color": "DDEEF6",
+    "description": "Soy escritor y agricultor autosuficiente. Matem\u00e1tico de profesi\u00f3n. Mi \u00faltima novela publicada El diario de Antonio D\u00edaz . En la l\u00ednea de salida Silencios Rotosi",
+    "time_zone": null,
+    "is_translator": false,
+    "listed_count": 41,
+    "contributors_enabled": false,
+    "translator_type": "none",
+    "profile_text_color": "333333",
+    "favourites_count": 12184,
+    "statuses_count": 46129,
+    "lang": "es",
+    "default_profile": true,
+    "name": "Javier Ba\u00f1ares Caro",
+    "id_str": "494068256",
+    "profile_background_color": "C0DEED",
+    "follow_request_sent": null,
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "default_profile_image": false,
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "screen_name": "BaaresCaro",
+    "created_at": "Thu Feb 16 13:53:37 +0000 2012",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/801133946759155713/M3CEVXWJ_normal.jpg",
+    "id": 494068256,
+    "geo_enabled": true,
+    "url": "http://jbanarescaro.blogspot.com",
+    "followers_count": 3686,
+    "profile_sidebar_border_color": "C0DEED",
+    "friends_count": 3469,
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/801133946759155713/M3CEVXWJ_normal.jpg"
+  },
+  "in_reply_to_status_id": null,
+  "in_reply_to_screen_name": null,
+  "entities": {
+    "symbols": [],
+    "user_mentions": [],
+    "urls": [
+      {
+        "url": "https://t.co/12Z1TH2ghF",
+        "expanded_url": "https://twitter.com/i/web/status/930501951208525825",
+        "display_url": "twitter.com/i/web/status/9\u2026",
+        "indices": [117, 140]
+      }
+    ],
+    "hashtags": []
+  },
+  "reply_count": 0,
+  "geo": null,
+  "contributors": null,
+  "favorite_count": 0,
+  "lang": "es",
+  "text": "Testigo de cargo, pel\u00edcula, de culto, que se ha pasado en el Senado para notoriedad el propio testigo, el cual se h\u2026 https://t.co/12Z1TH2ghF",
+  "timestamp_ms": "1510683927715",
+  "id_str": "930501951208525825",
+  "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+  "truncated": true,
+  "retweeted": false,
+  "in_reply_to_user_id": null,
+  "created_at": "Tue Nov 14 18:25:27 +0000 2017",
+  "coordinates": null,
+  "in_reply_to_status_id_str": null,
+  "id": 930501951208525825,
+  "filter_level": "low",
+  "is_quote_status": false
+}

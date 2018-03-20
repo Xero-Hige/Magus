@@ -1,1 +1,190 @@
-{"id": 930456412219523073, "lang": "es", "in_reply_to_status_id_str": null, "truncated": true, "place": {"id": "c4d6470e33ae2c80", "country": "M\u00e9xico", "bounding_box": {"type": "Polygon", "coordinates": [[[-103.279886, 20.48749], [-103.279886, 20.798194], [-102.871677, 20.798194], [-102.871677, 20.48749]]]}, "url": "https://api.twitter.com/1.1/geo/id/c4d6470e33ae2c80.json", "full_name": "Zapotlanejo, Jalisco", "attributes": {}, "name": "Zapotlanejo", "place_type": "city", "country_code": "MX"}, "favorite_count": 0, "retweeted": false, "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>", "is_quote_status": false, "possibly_sensitive": false, "geo": null, "in_reply_to_user_id_str": null, "in_reply_to_status_id": null, "retweet_count": 0, "quote_count": 0, "timestamp_ms": "1510673070374", "favorited": false, "coordinates": null, "filter_level": "low", "entities": {"urls": [{"indices": [117, 140], "display_url": "twitter.com/i/web/status/9\u2026", "url": "https://t.co/Z3Ye99oeuG", "expanded_url": "https://twitter.com/i/web/status/930456412219523073"}], "symbols": [], "user_mentions": [], "hashtags": [{"text": "Juanacatl\u00e1n", "indices": [74, 86]}]}, "reply_count": 0, "in_reply_to_screen_name": null, "display_text_range": [0, 140], "text": "BUENOS COMPA\u00d1EROS DE TRABAJO.\n\nRefugio Vel\u00e1zquez, Presidente Municipal de #Juanacatl\u00e1n, con quien guard\u00f3 grandes si\u2026 https://t.co/Z3Ye99oeuG", "extended_tweet": {"display_text_range": [0, 210], "extended_entities": {"media": [{"id": 930456409321467904, "display_url": "pic.twitter.com/hMV0DBNShK", "id_str": "930456409321467904", "indices": [211, 234], "expanded_url": "https://twitter.com/Hector_Alv_Con/status/930456412219523073/photo/1", "type": "photo", "url": "https://t.co/hMV0DBNShK", "media_url_https": "https://pbs.twimg.com/media/DOmlLKyXcAAvBhK.jpg", "media_url": "http://pbs.twimg.com/media/DOmlLKyXcAAvBhK.jpg", "sizes": {"small": {"w": 510, "h": 680, "resize": "fit"}, "large": {"w": 768, "h": 1024, "resize": "fit"}, "thumb": {"w": 150, "h": 150, "resize": "crop"}, "medium": {"w": 768, "h": 1024, "resize": "fit"}}}]}, "entities": {"media": [{"id": 930456409321467904, "display_url": "pic.twitter.com/hMV0DBNShK", "id_str": "930456409321467904", "indices": [211, 234], "expanded_url": "https://twitter.com/Hector_Alv_Con/status/930456412219523073/photo/1", "type": "photo", "url": "https://t.co/hMV0DBNShK", "media_url_https": "https://pbs.twimg.com/media/DOmlLKyXcAAvBhK.jpg", "media_url": "http://pbs.twimg.com/media/DOmlLKyXcAAvBhK.jpg", "sizes": {"small": {"w": 510, "h": 680, "resize": "fit"}, "large": {"w": 768, "h": 1024, "resize": "fit"}, "thumb": {"w": 150, "h": 150, "resize": "crop"}, "medium": {"w": 768, "h": 1024, "resize": "fit"}}}], "urls": [], "symbols": [], "user_mentions": [], "hashtags": [{"text": "Juanacatl\u00e1n", "indices": [74, 86]}]}, "full_text": "BUENOS COMPA\u00d1EROS DE TRABAJO.\n\nRefugio Vel\u00e1zquez, Presidente Municipal de #Juanacatl\u00e1n, con quien guard\u00f3 grandes similitudes y a quien le tengo aprecio y respeto. \n\nAnimo Cuco todav\u00eda tenemos mucho que hacer!!! https://t.co/hMV0DBNShK"}, "user": {"statuses_count": 2454, "id": 2892621351, "default_profile": false, "favourites_count": 79, "url": "http://hectoralvarezcontreras.com/", "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", "verified": false, "profile_image_url_https": "https://pbs.twimg.com/profile_images/836244328938774528/vb_bagiQ_normal.jpg", "translator_type": "none", "location": "Zapotlanejo, Jalisco", "geo_enabled": true, "utc_offset": -28800, "notifications": null, "profile_background_tile": false, "friends_count": 1977, "is_translator": false, "follow_request_sent": null, "default_profile_image": false, "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png", "profile_background_color": "000000", "profile_link_color": "FA743E", "profile_use_background_image": false, "time_zone": "Pacific Time (US & Canada)", "name": "H\u00e9ctor \u00c1lvarez", "profile_text_color": "000000", "profile_sidebar_border_color": "000000", "screen_name": "Hector_Alv_Con", "lang": "es", "following": null, "listed_count": 10, "protected": false, "profile_sidebar_fill_color": "000000", "followers_count": 1257, "profile_image_url": "http://pbs.twimg.com/profile_images/836244328938774528/vb_bagiQ_normal.jpg", "profile_banner_url": "https://pbs.twimg.com/profile_banners/2892621351/1456291411", "contributors_enabled": false, "created_at": "Tue Nov 25 22:55:03 +0000 2014", "id_str": "2892621351", "description": "Presidente de Zapotlanejo jal."}, "created_at": "Tue Nov 14 15:24:30 +0000 2017", "id_str": "930456412219523073", "in_reply_to_user_id": null, "contributors": null}
+{
+  "id": 930456412219523073,
+  "lang": "es",
+  "in_reply_to_status_id_str": null,
+  "truncated": true,
+  "place": {
+    "id": "c4d6470e33ae2c80",
+    "country": "M\u00e9xico",
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [[-103.279886, 20.48749], [-103.279886, 20.798194], [-102.871677, 20.798194], [-102.871677, 20.48749]]
+      ]
+    },
+    "url": "https://api.twitter.com/1.1/geo/id/c4d6470e33ae2c80.json",
+    "full_name": "Zapotlanejo, Jalisco",
+    "attributes": {},
+    "name": "Zapotlanejo",
+    "place_type": "city",
+    "country_code": "MX"
+  },
+  "favorite_count": 0,
+  "retweeted": false,
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "is_quote_status": false,
+  "possibly_sensitive": false,
+  "geo": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_status_id": null,
+  "retweet_count": 0,
+  "quote_count": 0,
+  "timestamp_ms": "1510673070374",
+  "favorited": false,
+  "coordinates": null,
+  "filter_level": "low",
+  "entities": {
+    "urls": [
+      {
+        "indices": [117, 140],
+        "display_url": "twitter.com/i/web/status/9\u2026",
+        "url": "https://t.co/Z3Ye99oeuG",
+        "expanded_url": "https://twitter.com/i/web/status/930456412219523073"
+      }
+    ],
+    "symbols": [],
+    "user_mentions": [],
+    "hashtags": [
+      {
+        "text": "Juanacatl\u00e1n",
+        "indices": [74, 86]
+      }
+    ]
+  },
+  "reply_count": 0,
+  "in_reply_to_screen_name": null,
+  "display_text_range": [0, 140],
+  "text": "BUENOS COMPA\u00d1EROS DE TRABAJO.\n\nRefugio Vel\u00e1zquez, Presidente Municipal de #Juanacatl\u00e1n, con quien guard\u00f3 grandes si\u2026 https://t.co/Z3Ye99oeuG",
+  "extended_tweet": {
+    "display_text_range": [0, 210],
+    "extended_entities": {
+      "media": [
+        {
+          "id": 930456409321467904,
+          "display_url": "pic.twitter.com/hMV0DBNShK",
+          "id_str": "930456409321467904",
+          "indices": [211, 234],
+          "expanded_url": "https://twitter.com/Hector_Alv_Con/status/930456412219523073/photo/1",
+          "type": "photo",
+          "url": "https://t.co/hMV0DBNShK",
+          "media_url_https": "https://pbs.twimg.com/media/DOmlLKyXcAAvBhK.jpg",
+          "media_url": "http://pbs.twimg.com/media/DOmlLKyXcAAvBhK.jpg",
+          "sizes": {
+            "small": {
+              "w": 510,
+              "h": 680,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 768,
+              "h": 1024,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 768,
+              "h": 1024,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "entities": {
+      "media": [
+        {
+          "id": 930456409321467904,
+          "display_url": "pic.twitter.com/hMV0DBNShK",
+          "id_str": "930456409321467904",
+          "indices": [211, 234],
+          "expanded_url": "https://twitter.com/Hector_Alv_Con/status/930456412219523073/photo/1",
+          "type": "photo",
+          "url": "https://t.co/hMV0DBNShK",
+          "media_url_https": "https://pbs.twimg.com/media/DOmlLKyXcAAvBhK.jpg",
+          "media_url": "http://pbs.twimg.com/media/DOmlLKyXcAAvBhK.jpg",
+          "sizes": {
+            "small": {
+              "w": 510,
+              "h": 680,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 768,
+              "h": 1024,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 768,
+              "h": 1024,
+              "resize": "fit"
+            }
+          }
+        }
+      ],
+      "urls": [],
+      "symbols": [],
+      "user_mentions": [],
+      "hashtags": [
+        {
+          "text": "Juanacatl\u00e1n",
+          "indices": [74, 86]
+        }
+      ]
+    },
+    "full_text": "BUENOS COMPA\u00d1EROS DE TRABAJO.\n\nRefugio Vel\u00e1zquez, Presidente Municipal de #Juanacatl\u00e1n, con quien guard\u00f3 grandes similitudes y a quien le tengo aprecio y respeto. \n\nAnimo Cuco todav\u00eda tenemos mucho que hacer!!! https://t.co/hMV0DBNShK"
+  },
+  "user": {
+    "statuses_count": 2454,
+    "id": 2892621351,
+    "default_profile": false,
+    "favourites_count": 79,
+    "url": "http://hectoralvarezcontreras.com/",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "verified": false,
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/836244328938774528/vb_bagiQ_normal.jpg",
+    "translator_type": "none",
+    "location": "Zapotlanejo, Jalisco",
+    "geo_enabled": true,
+    "utc_offset": -28800,
+    "notifications": null,
+    "profile_background_tile": false,
+    "friends_count": 1977,
+    "is_translator": false,
+    "follow_request_sent": null,
+    "default_profile_image": false,
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_color": "000000",
+    "profile_link_color": "FA743E",
+    "profile_use_background_image": false,
+    "time_zone": "Pacific Time (US & Canada)",
+    "name": "H\u00e9ctor \u00c1lvarez",
+    "profile_text_color": "000000",
+    "profile_sidebar_border_color": "000000",
+    "screen_name": "Hector_Alv_Con",
+    "lang": "es",
+    "following": null,
+    "listed_count": 10,
+    "protected": false,
+    "profile_sidebar_fill_color": "000000",
+    "followers_count": 1257,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/836244328938774528/vb_bagiQ_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/2892621351/1456291411",
+    "contributors_enabled": false,
+    "created_at": "Tue Nov 25 22:55:03 +0000 2014",
+    "id_str": "2892621351",
+    "description": "Presidente de Zapotlanejo jal."
+  },
+  "created_at": "Tue Nov 14 15:24:30 +0000 2017",
+  "id_str": "930456412219523073",
+  "in_reply_to_user_id": null,
+  "contributors": null
+}

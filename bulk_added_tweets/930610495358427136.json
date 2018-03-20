@@ -1,1 +1,94 @@
-{"geo": null, "filter_level": "low", "in_reply_to_status_id": null, "lang": "es", "favorite_count": 0, "coordinates": null, "favorited": false, "place": {"name": "Vicente L\u00f3pez", "full_name": "Vicente L\u00f3pez, Argentina", "place_type": "city", "country": "Argentina", "id": "00577114384dea2b", "bounding_box": {"type": "Polygon", "coordinates": [[[-58.553703, -34.569273], [-58.553703, -34.490491], [-58.463067, -34.490491], [-58.463067, -34.569273]]]}, "attributes": {}, "url": "https://api.twitter.com/1.1/geo/id/00577114384dea2b.json", "country_code": "AR"}, "contributors": null, "entities": {"hashtags": [{"text": "LasEstrellas", "indices": [79, 92]}], "urls": [], "symbols": [], "user_mentions": []}, "id": 930610495358427136, "user": {"followers_count": 4992, "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png", "profile_background_color": "000000", "translator_type": "none", "profile_image_url": "http://pbs.twimg.com/profile_images/930483781651312641/dOwnvbu4_normal.jpg", "profile_banner_url": "https://pbs.twimg.com/profile_banners/4839403654/1510679630", "default_profile": false, "utc_offset": -28800, "lang": "es", "url": "https://twitter.com/barbarammzz/status/771192425314328576", "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", "profile_image_url_https": "https://pbs.twimg.com/profile_images/930483781651312641/dOwnvbu4_normal.jpg", "time_zone": "Pacific Time (US & Canada)", "profile_sidebar_border_color": "000000", "profile_use_background_image": false, "id": 4839403654, "profile_link_color": "000000", "profile_sidebar_fill_color": "000000", "profile_background_tile": false, "geo_enabled": true, "id_str": "4839403654", "verified": false, "name": "vick vaporub \ud83e\udd8b", "is_translator": false, "notifications": null, "following": null, "friends_count": 913, "contributors_enabled": false, "screen_name": "BNTFANCY", "created_at": "Sat Jan 23 18:27:53 +0000 2016", "profile_text_color": "000000", "favourites_count": 17838, "follow_request_sent": null, "description": "\u201cuna de las pocas cosas que no tienen definici\u00f3n exacta son el amor y el arte\u201d -bm", "default_profile_image": false, "location": "visiting badlands", "listed_count": 24, "protected": false, "statuses_count": 30798}, "id_str": "930610495358427136", "retweet_count": 0, "retweeted": false, "quote_count": 0, "truncated": false, "in_reply_to_status_id_str": null, "reply_count": 0, "created_at": "Wed Nov 15 01:36:46 +0000 2017", "is_quote_status": false, "in_reply_to_user_id": null, "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>", "text": "que paja ser Mario y revivir, yo me quedo muerta que soy m\u00e1s feliz seguro ahre #LasEstrellas", "timestamp_ms": "1510709806657", "in_reply_to_user_id_str": null, "in_reply_to_screen_name": null}
+{
+  "geo": null,
+  "filter_level": "low",
+  "in_reply_to_status_id": null,
+  "lang": "es",
+  "favorite_count": 0,
+  "coordinates": null,
+  "favorited": false,
+  "place": {
+    "name": "Vicente L\u00f3pez",
+    "full_name": "Vicente L\u00f3pez, Argentina",
+    "place_type": "city",
+    "country": "Argentina",
+    "id": "00577114384dea2b",
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [[-58.553703, -34.569273], [-58.553703, -34.490491], [-58.463067, -34.490491], [-58.463067, -34.569273]]
+      ]
+    },
+    "attributes": {},
+    "url": "https://api.twitter.com/1.1/geo/id/00577114384dea2b.json",
+    "country_code": "AR"
+  },
+  "contributors": null,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "LasEstrellas",
+        "indices": [79, 92]
+      }
+    ],
+    "urls": [],
+    "symbols": [],
+    "user_mentions": []
+  },
+  "id": 930610495358427136,
+  "user": {
+    "followers_count": 4992,
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_color": "000000",
+    "translator_type": "none",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/930483781651312641/dOwnvbu4_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/4839403654/1510679630",
+    "default_profile": false,
+    "utc_offset": -28800,
+    "lang": "es",
+    "url": "https://twitter.com/barbarammzz/status/771192425314328576",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/930483781651312641/dOwnvbu4_normal.jpg",
+    "time_zone": "Pacific Time (US & Canada)",
+    "profile_sidebar_border_color": "000000",
+    "profile_use_background_image": false,
+    "id": 4839403654,
+    "profile_link_color": "000000",
+    "profile_sidebar_fill_color": "000000",
+    "profile_background_tile": false,
+    "geo_enabled": true,
+    "id_str": "4839403654",
+    "verified": false,
+    "name": "vick vaporub \ud83e\udd8b",
+    "is_translator": false,
+    "notifications": null,
+    "following": null,
+    "friends_count": 913,
+    "contributors_enabled": false,
+    "screen_name": "BNTFANCY",
+    "created_at": "Sat Jan 23 18:27:53 +0000 2016",
+    "profile_text_color": "000000",
+    "favourites_count": 17838,
+    "follow_request_sent": null,
+    "description": "\u201cuna de las pocas cosas que no tienen definici\u00f3n exacta son el amor y el arte\u201d -bm",
+    "default_profile_image": false,
+    "location": "visiting badlands",
+    "listed_count": 24,
+    "protected": false,
+    "statuses_count": 30798
+  },
+  "id_str": "930610495358427136",
+  "retweet_count": 0,
+  "retweeted": false,
+  "quote_count": 0,
+  "truncated": false,
+  "in_reply_to_status_id_str": null,
+  "reply_count": 0,
+  "created_at": "Wed Nov 15 01:36:46 +0000 2017",
+  "is_quote_status": false,
+  "in_reply_to_user_id": null,
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "text": "que paja ser Mario y revivir, yo me quedo muerta que soy m\u00e1s feliz seguro ahre #LasEstrellas",
+  "timestamp_ms": "1510709806657",
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null
+}

@@ -1,1 +1,111 @@
-{"geo": null, "filter_level": "low", "in_reply_to_status_id": null, "lang": "es", "favorite_count": 0, "coordinates": null, "favorited": false, "place": {"name": "Toluca", "full_name": "Toluca, M\u00e9xico", "place_type": "city", "country": "M\u00e9xico", "id": "7027ba8eb532eb33", "bounding_box": {"type": "Polygon", "coordinates": [[[-99.782579, 19.076393], [-99.782579, 19.49225], [-99.528773, 19.49225], [-99.528773, 19.076393]]]}, "attributes": {}, "url": "https://api.twitter.com/1.1/geo/id/7027ba8eb532eb33.json", "country_code": "MX"}, "contributors": null, "entities": {"hashtags": [], "urls": [{"display_url": "twitter.com/i/web/status/9\u2026", "expanded_url": "https://twitter.com/i/web/status/930608832539189249", "url": "https://t.co/mfMcsDgClb", "indices": [117, 140]}], "symbols": [], "user_mentions": []}, "id": 930608832539189249, "user": {"followers_count": 4252, "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/706215590/b068f5a453ed411bab7e4c446365e8ce.jpeg", "profile_background_color": "EDC0DE", "translator_type": "none", "profile_image_url": "http://pbs.twimg.com/profile_images/908749180226564097/ngshXGsI_normal.jpg", "profile_banner_url": "https://pbs.twimg.com/profile_banners/185706128/1505932336", "default_profile": false, "utc_offset": -21600, "lang": "es", "url": "http://www.facebook.com/JoseLuisCruzFloresGomez", "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/706215590/b068f5a453ed411bab7e4c446365e8ce.jpeg", "profile_image_url_https": "https://pbs.twimg.com/profile_images/908749180226564097/ngshXGsI_normal.jpg", "time_zone": "Mexico City", "profile_sidebar_border_color": "FFFFFF", "profile_use_background_image": true, "id": 185706128, "profile_link_color": "84A38E", "profile_sidebar_fill_color": "DDEEF6", "profile_background_tile": true, "geo_enabled": true, "id_str": "185706128", "verified": false, "name": "Jose Luis Flores", "is_translator": false, "notifications": null, "following": null, "friends_count": 581, "contributors_enabled": false, "screen_name": "JL_FloresG", "created_at": "Wed Sep 01 16:54:37 +0000 2010", "profile_text_color": "333333", "favourites_count": 274, "follow_request_sent": null, "description": "Mexicano, Comprometido con mi estado, Delegado Federal de SEDESOL en el Estado de M\u00e9xico.", "default_profile_image": false, "location": "Ecatepec de Morelos", "listed_count": 61, "protected": false, "statuses_count": 8642}, "id_str": "930608832539189249", "retweet_count": 0, "retweeted": false, "quote_count": 0, "truncated": true, "in_reply_to_status_id_str": null, "reply_count": 0, "created_at": "Wed Nov 15 01:30:10 +0000 2017", "is_quote_status": false, "in_reply_to_user_id": null, "timestamp_ms": "1510709410210", "text": "La Estrategia Nacional de Inclusi\u00f3n,utiliza la medici\u00f3n multi-dimensional de la pobreza para identificar los rezago\u2026 https://t.co/mfMcsDgClb", "extended_tweet": {"full_text": "La Estrategia Nacional de Inclusi\u00f3n,utiliza la medici\u00f3n multi-dimensional de la pobreza para identificar los rezagos, definir objetivos y evaluar los avances, esta respaldada por un documento rector firmado por los integrantes del Gabinete M\u00e9xico Incluyente. #SEDESOLPresente", "display_text_range": [0, 275], "entities": {"hashtags": [{"text": "SEDESOLPresente", "indices": [259, 275]}], "urls": [], "symbols": [], "user_mentions": []}}, "in_reply_to_user_id_str": null, "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>", "in_reply_to_screen_name": null}
+{
+  "geo": null,
+  "filter_level": "low",
+  "in_reply_to_status_id": null,
+  "lang": "es",
+  "favorite_count": 0,
+  "coordinates": null,
+  "favorited": false,
+  "place": {
+    "name": "Toluca",
+    "full_name": "Toluca, M\u00e9xico",
+    "place_type": "city",
+    "country": "M\u00e9xico",
+    "id": "7027ba8eb532eb33",
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [[-99.782579, 19.076393], [-99.782579, 19.49225], [-99.528773, 19.49225], [-99.528773, 19.076393]]
+      ]
+    },
+    "attributes": {},
+    "url": "https://api.twitter.com/1.1/geo/id/7027ba8eb532eb33.json",
+    "country_code": "MX"
+  },
+  "contributors": null,
+  "entities": {
+    "hashtags": [],
+    "urls": [
+      {
+        "display_url": "twitter.com/i/web/status/9\u2026",
+        "expanded_url": "https://twitter.com/i/web/status/930608832539189249",
+        "url": "https://t.co/mfMcsDgClb",
+        "indices": [117, 140]
+      }
+    ],
+    "symbols": [],
+    "user_mentions": []
+  },
+  "id": 930608832539189249,
+  "user": {
+    "followers_count": 4252,
+    "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/706215590/b068f5a453ed411bab7e4c446365e8ce.jpeg",
+    "profile_background_color": "EDC0DE",
+    "translator_type": "none",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/908749180226564097/ngshXGsI_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/185706128/1505932336",
+    "default_profile": false,
+    "utc_offset": -21600,
+    "lang": "es",
+    "url": "http://www.facebook.com/JoseLuisCruzFloresGomez",
+    "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/706215590/b068f5a453ed411bab7e4c446365e8ce.jpeg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/908749180226564097/ngshXGsI_normal.jpg",
+    "time_zone": "Mexico City",
+    "profile_sidebar_border_color": "FFFFFF",
+    "profile_use_background_image": true,
+    "id": 185706128,
+    "profile_link_color": "84A38E",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_background_tile": true,
+    "geo_enabled": true,
+    "id_str": "185706128",
+    "verified": false,
+    "name": "Jose Luis Flores",
+    "is_translator": false,
+    "notifications": null,
+    "following": null,
+    "friends_count": 581,
+    "contributors_enabled": false,
+    "screen_name": "JL_FloresG",
+    "created_at": "Wed Sep 01 16:54:37 +0000 2010",
+    "profile_text_color": "333333",
+    "favourites_count": 274,
+    "follow_request_sent": null,
+    "description": "Mexicano, Comprometido con mi estado, Delegado Federal de SEDESOL en el Estado de M\u00e9xico.",
+    "default_profile_image": false,
+    "location": "Ecatepec de Morelos",
+    "listed_count": 61,
+    "protected": false,
+    "statuses_count": 8642
+  },
+  "id_str": "930608832539189249",
+  "retweet_count": 0,
+  "retweeted": false,
+  "quote_count": 0,
+  "truncated": true,
+  "in_reply_to_status_id_str": null,
+  "reply_count": 0,
+  "created_at": "Wed Nov 15 01:30:10 +0000 2017",
+  "is_quote_status": false,
+  "in_reply_to_user_id": null,
+  "timestamp_ms": "1510709410210",
+  "text": "La Estrategia Nacional de Inclusi\u00f3n,utiliza la medici\u00f3n multi-dimensional de la pobreza para identificar los rezago\u2026 https://t.co/mfMcsDgClb",
+  "extended_tweet": {
+    "full_text": "La Estrategia Nacional de Inclusi\u00f3n,utiliza la medici\u00f3n multi-dimensional de la pobreza para identificar los rezagos, definir objetivos y evaluar los avances, esta respaldada por un documento rector firmado por los integrantes del Gabinete M\u00e9xico Incluyente. #SEDESOLPresente",
+    "display_text_range": [0, 275],
+    "entities": {
+      "hashtags": [
+        {
+          "text": "SEDESOLPresente",
+          "indices": [259, 275]
+        }
+      ],
+      "urls": [],
+      "symbols": [],
+      "user_mentions": []
+    }
+  },
+  "in_reply_to_user_id_str": null,
+  "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+  "in_reply_to_screen_name": null
+}

@@ -1,1 +1,145 @@
-{"reply_count": 0, "user": {"profile_banner_url": "https://pbs.twimg.com/profile_banners/591155233/1480897057", "following": null, "profile_background_color": "FFF04D", "url": null, "utc_offset": null, "follow_request_sent": null, "translator_type": "none", "profile_text_color": "333333", "id_str": "591155233", "favourites_count": 1401, "friends_count": 412, "followers_count": 280, "id": 591155233, "geo_enabled": true, "profile_sidebar_border_color": "FFF8AD", "profile_image_url_https": "https://pbs.twimg.com/profile_images/782983675940044801/_w-7gOt9_normal.jpg", "statuses_count": 13696, "notifications": null, "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme19/bg.gif", "protected": false, "listed_count": 6, "screen_name": "HECTORfelino", "profile_sidebar_fill_color": "F6FFD1", "location": null, "created_at": "Sat May 26 18:42:17 +0000 2012", "default_profile": false, "time_zone": null, "verified": false, "contributors_enabled": false, "profile_image_url": "http://pbs.twimg.com/profile_images/782983675940044801/_w-7gOt9_normal.jpg", "lang": "es", "name": "H\u00c9CTOR H LORENZANA", "profile_link_color": "0099CC", "is_translator": false, "description": "Administrador agropecuario, Colombia", "profile_use_background_image": true, "default_profile_image": false, "profile_background_image_url": "http://abs.twimg.com/images/themes/theme19/bg.gif", "profile_background_tile": false}, "contributors": null, "id_str": "930538133317410816", "in_reply_to_screen_name": "KiweNasa", "in_reply_to_user_id_str": "284257995", "in_reply_to_status_id": 930536861793226752, "in_reply_to_status_id_str": "930536861793226752", "display_text_range": [10, 140], "in_reply_to_user_id": 284257995, "id": 930538133317410816, "favorite_count": 0, "entities": {"user_mentions": [{"id": 284257995, "indices": [0, 9], "screen_name": "KiweNasa", "id_str": "284257995", "name": "Kiwe Nasa"}, {"id": 16465385, "indices": [23, 34], "screen_name": "NobelPrize", "id_str": "16465385", "name": "The Nobel Prize"}, {"id": 64839766, "indices": [37, 51], "screen_name": "JuanManSantos", "id_str": "64839766", "name": "Juan Manuel Santos"}], "hashtags": [], "symbols": [], "urls": [{"expanded_url": "https://twitter.com/i/web/status/930538133317410816", "url": "https://t.co/rOEw0zCjPf", "display_url": "twitter.com/i/web/status/9\u2026", "indices": [116, 139]}]}, "created_at": "Tue Nov 14 20:49:14 +0000 2017", "extended_tweet": {"entities": {"user_mentions": [{"id": 284257995, "indices": [0, 9], "screen_name": "KiweNasa", "id_str": "284257995", "name": "Kiwe Nasa"}, {"id": 16465385, "indices": [23, 34], "screen_name": "NobelPrize", "id_str": "16465385", "name": "The Nobel Prize"}, {"id": 64839766, "indices": [37, 51], "screen_name": "JuanManSantos", "id_str": "64839766", "name": "Juan Manuel Santos"}], "hashtags": [], "symbols": [], "urls": []}, "display_text_range": [10, 147], "full_text": "@KiweNasa sale caro el @NobelPrize a @JuanManSantos si haya que entregar el metro de Bogot\u00e1 a la corrupci\u00f3n, y los paramos de Colombia a la Muerte."}, "favorited": false, "timestamp_ms": "1510692554202", "quote_count": 0, "place": {"country_code": "CO", "bounding_box": {"coordinates": [[[-74.483289, 3.717432], [-74.483289, 4.807135], [-74.004053, 4.807135], [-74.004053, 3.717432]]], "type": "Polygon"}, "attributes": {}, "url": "https://api.twitter.com/1.1/geo/id/0161be1b3f98d6c3.json", "name": "Bogot\u00e1, D.C.", "id": "0161be1b3f98d6c3", "place_type": "city", "country": "Colombia", "full_name": "Bogot\u00e1, D.C., Colombia"}, "text": "@KiweNasa sale caro el @NobelPrize a @JuanManSantos si haya que entregar el metro de Bogot\u00e1 a la corrupci\u00f3n, y los\u2026 https://t.co/rOEw0zCjPf", "geo": null, "retweeted": false, "retweet_count": 0, "filter_level": "low", "lang": "es", "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>", "is_quote_status": false, "coordinates": null, "truncated": true}
+{
+  "reply_count": 0,
+  "user": {
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/591155233/1480897057",
+    "following": null,
+    "profile_background_color": "FFF04D",
+    "url": null,
+    "utc_offset": null,
+    "follow_request_sent": null,
+    "translator_type": "none",
+    "profile_text_color": "333333",
+    "id_str": "591155233",
+    "favourites_count": 1401,
+    "friends_count": 412,
+    "followers_count": 280,
+    "id": 591155233,
+    "geo_enabled": true,
+    "profile_sidebar_border_color": "FFF8AD",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/782983675940044801/_w-7gOt9_normal.jpg",
+    "statuses_count": 13696,
+    "notifications": null,
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme19/bg.gif",
+    "protected": false,
+    "listed_count": 6,
+    "screen_name": "HECTORfelino",
+    "profile_sidebar_fill_color": "F6FFD1",
+    "location": null,
+    "created_at": "Sat May 26 18:42:17 +0000 2012",
+    "default_profile": false,
+    "time_zone": null,
+    "verified": false,
+    "contributors_enabled": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/782983675940044801/_w-7gOt9_normal.jpg",
+    "lang": "es",
+    "name": "H\u00c9CTOR H LORENZANA",
+    "profile_link_color": "0099CC",
+    "is_translator": false,
+    "description": "Administrador agropecuario, Colombia",
+    "profile_use_background_image": true,
+    "default_profile_image": false,
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme19/bg.gif",
+    "profile_background_tile": false
+  },
+  "contributors": null,
+  "id_str": "930538133317410816",
+  "in_reply_to_screen_name": "KiweNasa",
+  "in_reply_to_user_id_str": "284257995",
+  "in_reply_to_status_id": 930536861793226752,
+  "in_reply_to_status_id_str": "930536861793226752",
+  "display_text_range": [10, 140],
+  "in_reply_to_user_id": 284257995,
+  "id": 930538133317410816,
+  "favorite_count": 0,
+  "entities": {
+    "user_mentions": [
+      {
+        "id": 284257995,
+        "indices": [0, 9],
+        "screen_name": "KiweNasa",
+        "id_str": "284257995",
+        "name": "Kiwe Nasa"
+      }, {
+        "id": 16465385,
+        "indices": [23, 34],
+        "screen_name": "NobelPrize",
+        "id_str": "16465385",
+        "name": "The Nobel Prize"
+      }, {
+        "id": 64839766,
+        "indices": [37, 51],
+        "screen_name": "JuanManSantos",
+        "id_str": "64839766",
+        "name": "Juan Manuel Santos"
+      }
+    ],
+    "hashtags": [],
+    "symbols": [],
+    "urls": [
+      {
+        "expanded_url": "https://twitter.com/i/web/status/930538133317410816",
+        "url": "https://t.co/rOEw0zCjPf",
+        "display_url": "twitter.com/i/web/status/9\u2026",
+        "indices": [116, 139]
+      }
+    ]
+  },
+  "created_at": "Tue Nov 14 20:49:14 +0000 2017",
+  "extended_tweet": {
+    "entities": {
+      "user_mentions": [
+        {
+          "id": 284257995,
+          "indices": [0, 9],
+          "screen_name": "KiweNasa",
+          "id_str": "284257995",
+          "name": "Kiwe Nasa"
+        }, {
+          "id": 16465385,
+          "indices": [23, 34],
+          "screen_name": "NobelPrize",
+          "id_str": "16465385",
+          "name": "The Nobel Prize"
+        }, {
+          "id": 64839766,
+          "indices": [37, 51],
+          "screen_name": "JuanManSantos",
+          "id_str": "64839766",
+          "name": "Juan Manuel Santos"
+        }
+      ],
+      "hashtags": [],
+      "symbols": [],
+      "urls": []
+    },
+    "display_text_range": [10, 147],
+    "full_text": "@KiweNasa sale caro el @NobelPrize a @JuanManSantos si haya que entregar el metro de Bogot\u00e1 a la corrupci\u00f3n, y los paramos de Colombia a la Muerte."
+  },
+  "favorited": false,
+  "timestamp_ms": "1510692554202",
+  "quote_count": 0,
+  "place": {
+    "country_code": "CO",
+    "bounding_box": {
+      "coordinates": [[[-74.483289, 3.717432], [-74.483289, 4.807135], [-74.004053, 4.807135], [-74.004053, 3.717432]]],
+      "type": "Polygon"
+    },
+    "attributes": {},
+    "url": "https://api.twitter.com/1.1/geo/id/0161be1b3f98d6c3.json",
+    "name": "Bogot\u00e1, D.C.",
+    "id": "0161be1b3f98d6c3",
+    "place_type": "city",
+    "country": "Colombia",
+    "full_name": "Bogot\u00e1, D.C., Colombia"
+  },
+  "text": "@KiweNasa sale caro el @NobelPrize a @JuanManSantos si haya que entregar el metro de Bogot\u00e1 a la corrupci\u00f3n, y los\u2026 https://t.co/rOEw0zCjPf",
+  "geo": null,
+  "retweeted": false,
+  "retweet_count": 0,
+  "filter_level": "low",
+  "lang": "es",
+  "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+  "is_quote_status": false,
+  "coordinates": null,
+  "truncated": true
+}

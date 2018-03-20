@@ -1,1 +1,193 @@
-{"is_quote_status": false, "quote_count": 0, "in_reply_to_user_id_str": null, "favorite_count": 0, "in_reply_to_status_id": null, "id_str": "930547284080840704", "filter_level": "low", "reply_count": 0, "timestamp_ms": "1510694735914", "id": 930547284080840704, "display_text_range": [0, 140], "coordinates": null, "in_reply_to_screen_name": null, "truncated": true, "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>", "place": {"bounding_box": {"coordinates": [[[-80.467605, -3.063716], [-80.467605, -1.962274], [-79.714781, -1.962274], [-79.714781, -3.063716]]], "type": "Polygon"}, "url": "https://api.twitter.com/1.1/geo/id/009924a469d7ace1.json", "country_code": "EC", "name": "Guayaquil", "full_name": "Guayaquil, Ecuador", "id": "009924a469d7ace1", "place_type": "city", "attributes": {}, "country": "Ecuador"}, "retweet_count": 0, "extended_tweet": {"display_text_range": [0, 143], "entities": {"user_mentions": [{"id": 449818902, "screen_name": "PetroamazonasEP", "id_str": "449818902", "indices": [127, 143], "name": "Petroamazonas EP"}], "urls": [], "symbols": [], "hashtags": [{"text": "DesarrolloResponsable", "indices": [104, 126]}], "media": [{"media_url_https": "https://pbs.twimg.com/media/DOn3qL4WsAASCr1.jpg", "expanded_url": "https://twitter.com/PetroamazonasEP/status/930547284080840704/photo/1", "id_str": "930547102144442368", "media_url": "http://pbs.twimg.com/media/DOn3qL4WsAASCr1.jpg", "display_url": "pic.twitter.com/XpEC2tJ3Gz", "id": 930547102144442368, "indices": [144, 167], "type": "photo", "url": "https://t.co/XpEC2tJ3Gz", "sizes": {"large": {"resize": "fit", "h": 713, "w": 1280}, "small": {"resize": "fit", "h": 379, "w": 680}, "thumb": {"resize": "crop", "h": 150, "w": 150}, "medium": {"resize": "fit", "h": 668, "w": 1200}}}]}, "extended_entities": {"media": [{"media_url_https": "https://pbs.twimg.com/media/DOn3qL4WsAASCr1.jpg", "expanded_url": "https://twitter.com/PetroamazonasEP/status/930547284080840704/photo/1", "id_str": "930547102144442368", "media_url": "http://pbs.twimg.com/media/DOn3qL4WsAASCr1.jpg", "display_url": "pic.twitter.com/XpEC2tJ3Gz", "id": 930547102144442368, "indices": [144, 167], "type": "photo", "url": "https://t.co/XpEC2tJ3Gz", "sizes": {"large": {"resize": "fit", "h": 713, "w": 1280}, "small": {"resize": "fit", "h": 379, "w": 680}, "thumb": {"resize": "crop", "h": 150, "w": 150}, "medium": {"resize": "fit", "h": 668, "w": 1200}}}]}, "full_text": "En este a\u00f1o obtenemos resultados eficientes de producci\u00f3n con optimizaci\u00f3n de recursos del presupuesto. #DesarrolloResponsable @PetroamazonasEP https://t.co/XpEC2tJ3Gz"}, "created_at": "Tue Nov 14 21:25:35 +0000 2017", "favorited": false, "text": "En este a\u00f1o obtenemos resultados eficientes de producci\u00f3n con optimizaci\u00f3n de recursos del presupuesto.\u2026 https://t.co/Yy31bBP1Js", "in_reply_to_user_id": null, "geo": null, "lang": "es", "contributors": null, "in_reply_to_status_id_str": null, "user": {"protected": false, "following": null, "profile_text_color": "333333", "profile_background_color": "3B94D9", "statuses_count": 23385, "default_profile": false, "favourites_count": 1671, "friends_count": 789, "follow_request_sent": null, "profile_sidebar_fill_color": "DDEEF6", "translator_type": "none", "notifications": null, "id_str": "449818902", "screen_name": "PetroamazonasEP", "profile_banner_url": "https://pbs.twimg.com/profile_banners/449818902/1510001616", "verified": true, "id": 449818902, "profile_use_background_image": true, "description": "Empresa p\u00fablica de exploraci\u00f3n y explotaci\u00f3n de hidrocarburos del #Ecuador.", "utc_offset": -18000, "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/565576739196125184/E-bcSFlT.jpeg", "is_translator": false, "listed_count": 74, "default_profile_image": false, "contributors_enabled": false, "followers_count": 46033, "location": "Ecuador", "created_at": "Thu Dec 29 14:49:24 +0000 2011", "profile_image_url_https": "https://pbs.twimg.com/profile_images/921547149757878272/F96-RCu__normal.jpg", "geo_enabled": true, "time_zone": "Quito", "profile_image_url": "http://pbs.twimg.com/profile_images/921547149757878272/F96-RCu__normal.jpg", "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/565576739196125184/E-bcSFlT.jpeg", "profile_link_color": "93A644", "lang": "es", "name": "Petroamazonas EP", "profile_background_tile": false, "url": "http://www.petroamazonas.gob.ec/", "profile_sidebar_border_color": "FFFFFF"}, "possibly_sensitive": false, "entities": {"user_mentions": [], "urls": [{"expanded_url": "https://twitter.com/i/web/status/930547284080840704", "url": "https://t.co/Yy31bBP1Js", "indices": [105, 128], "display_url": "twitter.com/i/web/status/9\u2026"}], "symbols": [], "hashtags": []}, "retweeted": false}
+{
+  "is_quote_status": false,
+  "quote_count": 0,
+  "in_reply_to_user_id_str": null,
+  "favorite_count": 0,
+  "in_reply_to_status_id": null,
+  "id_str": "930547284080840704",
+  "filter_level": "low",
+  "reply_count": 0,
+  "timestamp_ms": "1510694735914",
+  "id": 930547284080840704,
+  "display_text_range": [0, 140],
+  "coordinates": null,
+  "in_reply_to_screen_name": null,
+  "truncated": true,
+  "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+  "place": {
+    "bounding_box": {
+      "coordinates": [
+        [[-80.467605, -3.063716], [-80.467605, -1.962274], [-79.714781, -1.962274], [-79.714781, -3.063716]]
+      ],
+      "type": "Polygon"
+    },
+    "url": "https://api.twitter.com/1.1/geo/id/009924a469d7ace1.json",
+    "country_code": "EC",
+    "name": "Guayaquil",
+    "full_name": "Guayaquil, Ecuador",
+    "id": "009924a469d7ace1",
+    "place_type": "city",
+    "attributes": {},
+    "country": "Ecuador"
+  },
+  "retweet_count": 0,
+  "extended_tweet": {
+    "display_text_range": [0, 143],
+    "entities": {
+      "user_mentions": [
+        {
+          "id": 449818902,
+          "screen_name": "PetroamazonasEP",
+          "id_str": "449818902",
+          "indices": [127, 143],
+          "name": "Petroamazonas EP"
+        }
+      ],
+      "urls": [],
+      "symbols": [],
+      "hashtags": [
+        {
+          "text": "DesarrolloResponsable",
+          "indices": [104, 126]
+        }
+      ],
+      "media": [
+        {
+          "media_url_https": "https://pbs.twimg.com/media/DOn3qL4WsAASCr1.jpg",
+          "expanded_url": "https://twitter.com/PetroamazonasEP/status/930547284080840704/photo/1",
+          "id_str": "930547102144442368",
+          "media_url": "http://pbs.twimg.com/media/DOn3qL4WsAASCr1.jpg",
+          "display_url": "pic.twitter.com/XpEC2tJ3Gz",
+          "id": 930547102144442368,
+          "indices": [144, 167],
+          "type": "photo",
+          "url": "https://t.co/XpEC2tJ3Gz",
+          "sizes": {
+            "large": {
+              "resize": "fit",
+              "h": 713,
+              "w": 1280
+            },
+            "small": {
+              "resize": "fit",
+              "h": 379,
+              "w": 680
+            },
+            "thumb": {
+              "resize": "crop",
+              "h": 150,
+              "w": 150
+            },
+            "medium": {
+              "resize": "fit",
+              "h": 668,
+              "w": 1200
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "media_url_https": "https://pbs.twimg.com/media/DOn3qL4WsAASCr1.jpg",
+          "expanded_url": "https://twitter.com/PetroamazonasEP/status/930547284080840704/photo/1",
+          "id_str": "930547102144442368",
+          "media_url": "http://pbs.twimg.com/media/DOn3qL4WsAASCr1.jpg",
+          "display_url": "pic.twitter.com/XpEC2tJ3Gz",
+          "id": 930547102144442368,
+          "indices": [144, 167],
+          "type": "photo",
+          "url": "https://t.co/XpEC2tJ3Gz",
+          "sizes": {
+            "large": {
+              "resize": "fit",
+              "h": 713,
+              "w": 1280
+            },
+            "small": {
+              "resize": "fit",
+              "h": 379,
+              "w": 680
+            },
+            "thumb": {
+              "resize": "crop",
+              "h": 150,
+              "w": 150
+            },
+            "medium": {
+              "resize": "fit",
+              "h": 668,
+              "w": 1200
+            }
+          }
+        }
+      ]
+    },
+    "full_text": "En este a\u00f1o obtenemos resultados eficientes de producci\u00f3n con optimizaci\u00f3n de recursos del presupuesto. #DesarrolloResponsable @PetroamazonasEP https://t.co/XpEC2tJ3Gz"
+  },
+  "created_at": "Tue Nov 14 21:25:35 +0000 2017",
+  "favorited": false,
+  "text": "En este a\u00f1o obtenemos resultados eficientes de producci\u00f3n con optimizaci\u00f3n de recursos del presupuesto.\u2026 https://t.co/Yy31bBP1Js",
+  "in_reply_to_user_id": null,
+  "geo": null,
+  "lang": "es",
+  "contributors": null,
+  "in_reply_to_status_id_str": null,
+  "user": {
+    "protected": false,
+    "following": null,
+    "profile_text_color": "333333",
+    "profile_background_color": "3B94D9",
+    "statuses_count": 23385,
+    "default_profile": false,
+    "favourites_count": 1671,
+    "friends_count": 789,
+    "follow_request_sent": null,
+    "profile_sidebar_fill_color": "DDEEF6",
+    "translator_type": "none",
+    "notifications": null,
+    "id_str": "449818902",
+    "screen_name": "PetroamazonasEP",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/449818902/1510001616",
+    "verified": true,
+    "id": 449818902,
+    "profile_use_background_image": true,
+    "description": "Empresa p\u00fablica de exploraci\u00f3n y explotaci\u00f3n de hidrocarburos del #Ecuador.",
+    "utc_offset": -18000,
+    "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/565576739196125184/E-bcSFlT.jpeg",
+    "is_translator": false,
+    "listed_count": 74,
+    "default_profile_image": false,
+    "contributors_enabled": false,
+    "followers_count": 46033,
+    "location": "Ecuador",
+    "created_at": "Thu Dec 29 14:49:24 +0000 2011",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/921547149757878272/F96-RCu__normal.jpg",
+    "geo_enabled": true,
+    "time_zone": "Quito",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/921547149757878272/F96-RCu__normal.jpg",
+    "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/565576739196125184/E-bcSFlT.jpeg",
+    "profile_link_color": "93A644",
+    "lang": "es",
+    "name": "Petroamazonas EP",
+    "profile_background_tile": false,
+    "url": "http://www.petroamazonas.gob.ec/",
+    "profile_sidebar_border_color": "FFFFFF"
+  },
+  "possibly_sensitive": false,
+  "entities": {
+    "user_mentions": [],
+    "urls": [
+      {
+        "expanded_url": "https://twitter.com/i/web/status/930547284080840704",
+        "url": "https://t.co/Yy31bBP1Js",
+        "indices": [105, 128],
+        "display_url": "twitter.com/i/web/status/9\u2026"
+      }
+    ],
+    "symbols": [],
+    "hashtags": []
+  },
+  "retweeted": false
+}

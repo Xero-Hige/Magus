@@ -1,1 +1,112 @@
-{"geo": {"type": "Point", "coordinates": [37.3772, -5.98694]}, "filter_level": "low", "in_reply_to_status_id": null, "lang": "es", "favorite_count": 0, "coordinates": {"type": "Point", "coordinates": [-5.98694, 37.3772]}, "favorited": false, "place": {"name": "Sevilla", "full_name": "Sevilla, Espa\u00f1a", "place_type": "city", "country": "Espa\u00f1a", "id": "8c86b8b4cb716103", "bounding_box": {"type": "Polygon", "coordinates": [[[-6.02843, 37.313613], [-6.02843, 37.452783], [-5.81866, 37.452783], [-5.81866, 37.313613]]]}, "attributes": {}, "url": "https://api.twitter.com/1.1/geo/id/8c86b8b4cb716103.json", "country_code": "ES"}, "contributors": null, "entities": {"hashtags": [{"text": "Sevilla", "indices": [38, 46]}, {"text": "Azulejos", "indices": [47, 56]}, {"text": "LosDelRio", "indices": [57, 67]}], "urls": [{"display_url": "instagram.com/p/BbfqejDj2nf/", "expanded_url": "https://www.instagram.com/p/BbfqejDj2nf/", "url": "https://t.co/OkzfvqFwU2", "indices": [86, 109]}], "symbols": [], "user_mentions": []}, "id": 930584033196630016, "possibly_sensitive": false, "user": {"followers_count": 337, "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/862053858/01c053b47794d178c46221ab3234edee.jpeg", "profile_background_color": "999999", "translator_type": "none", "profile_image_url": "http://pbs.twimg.com/profile_images/548618314264481792/Ferm2kMA_normal.png", "profile_banner_url": "https://pbs.twimg.com/profile_banners/347314013/1419636207", "default_profile": false, "utc_offset": -18000, "lang": "es", "url": "http://about.me/catalinagraphic", "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/862053858/01c053b47794d178c46221ab3234edee.jpeg", "profile_image_url_https": "https://pbs.twimg.com/profile_images/548618314264481792/Ferm2kMA_normal.png", "time_zone": "Bogota", "profile_sidebar_border_color": "FFFFFF", "profile_use_background_image": false, "id": 347314013, "profile_link_color": "ABB8C2", "profile_sidebar_fill_color": "5BAED4", "profile_background_tile": true, "geo_enabled": true, "id_str": "347314013", "verified": false, "name": "Catalina Jaramillo", "is_translator": false, "notifications": null, "following": null, "friends_count": 584, "contributors_enabled": false, "screen_name": "catalinagraphic", "created_at": "Tue Aug 02 16:14:20 +0000 2011", "profile_text_color": "333333", "favourites_count": 52, "follow_request_sent": null, "description": "Graphic designer and Illustrator", "default_profile_image": false, "location": "Medell\u00edn", "listed_count": 24, "protected": false, "statuses_count": 2514}, "id_str": "930584033196630016", "retweet_count": 0, "retweeted": false, "quote_count": 0, "truncated": false, "in_reply_to_status_id_str": null, "reply_count": 0, "created_at": "Tue Nov 14 23:51:37 +0000 2017", "is_quote_status": false, "in_reply_to_user_id": null, "source": "<a href=\"http://instagram.com\" rel=\"nofollow\">Instagram</a>", "text": "Sevilla tiene un color especial...  \ud83c\udfb6 #Sevilla #Azulejos #LosDelRio en Seville, Spain https://t.co/OkzfvqFwU2", "timestamp_ms": "1510703497586", "in_reply_to_user_id_str": null, "in_reply_to_screen_name": null}
+{
+  "geo": {
+    "type": "Point",
+    "coordinates": [37.3772, -5.98694]
+  },
+  "filter_level": "low",
+  "in_reply_to_status_id": null,
+  "lang": "es",
+  "favorite_count": 0,
+  "coordinates": {
+    "type": "Point",
+    "coordinates": [-5.98694, 37.3772]
+  },
+  "favorited": false,
+  "place": {
+    "name": "Sevilla",
+    "full_name": "Sevilla, Espa\u00f1a",
+    "place_type": "city",
+    "country": "Espa\u00f1a",
+    "id": "8c86b8b4cb716103",
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [[[-6.02843, 37.313613], [-6.02843, 37.452783], [-5.81866, 37.452783], [-5.81866, 37.313613]]]
+    },
+    "attributes": {},
+    "url": "https://api.twitter.com/1.1/geo/id/8c86b8b4cb716103.json",
+    "country_code": "ES"
+  },
+  "contributors": null,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "Sevilla",
+        "indices": [38, 46]
+      }, {
+        "text": "Azulejos",
+        "indices": [47, 56]
+      }, {
+        "text": "LosDelRio",
+        "indices": [57, 67]
+      }
+    ],
+    "urls": [
+      {
+        "display_url": "instagram.com/p/BbfqejDj2nf/",
+        "expanded_url": "https://www.instagram.com/p/BbfqejDj2nf/",
+        "url": "https://t.co/OkzfvqFwU2",
+        "indices": [86, 109]
+      }
+    ],
+    "symbols": [],
+    "user_mentions": []
+  },
+  "id": 930584033196630016,
+  "possibly_sensitive": false,
+  "user": {
+    "followers_count": 337,
+    "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/862053858/01c053b47794d178c46221ab3234edee.jpeg",
+    "profile_background_color": "999999",
+    "translator_type": "none",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/548618314264481792/Ferm2kMA_normal.png",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/347314013/1419636207",
+    "default_profile": false,
+    "utc_offset": -18000,
+    "lang": "es",
+    "url": "http://about.me/catalinagraphic",
+    "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/862053858/01c053b47794d178c46221ab3234edee.jpeg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/548618314264481792/Ferm2kMA_normal.png",
+    "time_zone": "Bogota",
+    "profile_sidebar_border_color": "FFFFFF",
+    "profile_use_background_image": false,
+    "id": 347314013,
+    "profile_link_color": "ABB8C2",
+    "profile_sidebar_fill_color": "5BAED4",
+    "profile_background_tile": true,
+    "geo_enabled": true,
+    "id_str": "347314013",
+    "verified": false,
+    "name": "Catalina Jaramillo",
+    "is_translator": false,
+    "notifications": null,
+    "following": null,
+    "friends_count": 584,
+    "contributors_enabled": false,
+    "screen_name": "catalinagraphic",
+    "created_at": "Tue Aug 02 16:14:20 +0000 2011",
+    "profile_text_color": "333333",
+    "favourites_count": 52,
+    "follow_request_sent": null,
+    "description": "Graphic designer and Illustrator",
+    "default_profile_image": false,
+    "location": "Medell\u00edn",
+    "listed_count": 24,
+    "protected": false,
+    "statuses_count": 2514
+  },
+  "id_str": "930584033196630016",
+  "retweet_count": 0,
+  "retweeted": false,
+  "quote_count": 0,
+  "truncated": false,
+  "in_reply_to_status_id_str": null,
+  "reply_count": 0,
+  "created_at": "Tue Nov 14 23:51:37 +0000 2017",
+  "is_quote_status": false,
+  "in_reply_to_user_id": null,
+  "source": "<a href=\"http://instagram.com\" rel=\"nofollow\">Instagram</a>",
+  "text": "Sevilla tiene un color especial...  \ud83c\udfb6 #Sevilla #Azulejos #LosDelRio en Seville, Spain https://t.co/OkzfvqFwU2",
+  "timestamp_ms": "1510703497586",
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null
+}

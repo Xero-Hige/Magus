@@ -1,1 +1,117 @@
-{"geo": {"type": "Point", "coordinates": [21.52114573, -104.92177936]}, "filter_level": "low", "in_reply_to_status_id": null, "lang": "es", "favorite_count": 0, "coordinates": {"type": "Point", "coordinates": [-104.92177936, 21.52114573]}, "favorited": false, "place": {"name": "Tepic", "full_name": "Tepic, Nayarit", "place_type": "city", "country": "Mexico", "id": "d9ffc2207e1cee0c", "bounding_box": {"type": "Polygon", "coordinates": [[[-105.147236, 21.393999], [-105.147236, 21.859333], [-104.597879, 21.859333], [-104.597879, 21.393999]]]}, "attributes": {}, "url": "https://api.twitter.com/1.1/geo/id/d9ffc2207e1cee0c.json", "country_code": "MX"}, "contributors": null, "entities": {"hashtags": [{"text": "Bimbo", "indices": [8, 14]}, {"text": "Ricolino", "indices": [23, 32]}, {"text": "JusticeLeague", "indices": [69, 83]}, {"text": "candies", "indices": [88, 96]}], "urls": [{"display_url": "instagram.com/p/BbfzhT_n_ux/", "expanded_url": "https://www.instagram.com/p/BbfzhT_n_ux/", "url": "https://t.co/4xex49tEQO", "indices": [98, 121]}], "symbols": [], "user_mentions": []}, "id": 930603918618394631, "possibly_sensitive": false, "user": {"followers_count": 352, "profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif", "profile_background_color": "ACDED6", "translator_type": "none", "profile_image_url": "http://pbs.twimg.com/profile_images/907986847153999873/LXH5NxIP_normal.jpg", "profile_banner_url": "https://pbs.twimg.com/profile_banners/51337405/1416082022", "default_profile": false, "utc_offset": -25200, "lang": "en", "url": "http://www.facebook.com/rignchavez", "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif", "profile_image_url_https": "https://pbs.twimg.com/profile_images/907986847153999873/LXH5NxIP_normal.jpg", "time_zone": "Mountain Time (US & Canada)", "profile_sidebar_border_color": "EEEEEE", "profile_use_background_image": true, "id": 51337405, "profile_link_color": "1D854F", "profile_sidebar_fill_color": "F6F6F6", "profile_background_tile": false, "geo_enabled": true, "id_str": "51337405", "verified": false, "name": "Ra\u00fal Ch\u00e1vez", "is_translator": false, "notifications": null, "following": null, "friends_count": 1447, "contributors_enabled": false, "screen_name": "rign_chavez", "created_at": "Sat Jun 27 03:51:41 +0000 2009", "profile_text_color": "333333", "favourites_count": 1568, "follow_request_sent": null, "description": "Radio Dj, CM Audio Producer, English Teacher, Collector, I Love Music, Cinema, Sci.Fi and HD DC Comics fan I'm from Nayarit, Mexico, =) Wanna know more??", "default_profile_image": false, "location": "Tepic, Nayarit Mexico", "listed_count": 0, "protected": false, "statuses_count": 5394}, "id_str": "930603918618394631", "retweet_count": 0, "retweeted": false, "quote_count": 0, "truncated": false, "in_reply_to_status_id_str": null, "reply_count": 0, "created_at": "Wed Nov 15 01:10:38 +0000 2017", "is_quote_status": false, "in_reply_to_user_id": null, "source": "<a href=\"http://instagram.com\" rel=\"nofollow\">Instagram</a>", "text": "Primero #Bimbo y ahora #Ricolino. \ud83d\ude31\ud83d\ude30\ud83d\udc37\ud83d\udc16 todo sea por tener todo lo de #JusticeLeague \ud83e\udd13\ud83d\ude48\n\n#candies\u2026 https://t.co/4xex49tEQO", "timestamp_ms": "1510708238640", "in_reply_to_user_id_str": null, "in_reply_to_screen_name": null}
+{
+  "geo": {
+    "type": "Point",
+    "coordinates": [21.52114573, -104.92177936]
+  },
+  "filter_level": "low",
+  "in_reply_to_status_id": null,
+  "lang": "es",
+  "favorite_count": 0,
+  "coordinates": {
+    "type": "Point",
+    "coordinates": [-104.92177936, 21.52114573]
+  },
+  "favorited": false,
+  "place": {
+    "name": "Tepic",
+    "full_name": "Tepic, Nayarit",
+    "place_type": "city",
+    "country": "Mexico",
+    "id": "d9ffc2207e1cee0c",
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [[-105.147236, 21.393999], [-105.147236, 21.859333], [-104.597879, 21.859333], [-104.597879, 21.393999]]
+      ]
+    },
+    "attributes": {},
+    "url": "https://api.twitter.com/1.1/geo/id/d9ffc2207e1cee0c.json",
+    "country_code": "MX"
+  },
+  "contributors": null,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "Bimbo",
+        "indices": [8, 14]
+      }, {
+        "text": "Ricolino",
+        "indices": [23, 32]
+      }, {
+        "text": "JusticeLeague",
+        "indices": [69, 83]
+      }, {
+        "text": "candies",
+        "indices": [88, 96]
+      }
+    ],
+    "urls": [
+      {
+        "display_url": "instagram.com/p/BbfzhT_n_ux/",
+        "expanded_url": "https://www.instagram.com/p/BbfzhT_n_ux/",
+        "url": "https://t.co/4xex49tEQO",
+        "indices": [98, 121]
+      }
+    ],
+    "symbols": [],
+    "user_mentions": []
+  },
+  "id": 930603918618394631,
+  "possibly_sensitive": false,
+  "user": {
+    "followers_count": 352,
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+    "profile_background_color": "ACDED6",
+    "translator_type": "none",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/907986847153999873/LXH5NxIP_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/51337405/1416082022",
+    "default_profile": false,
+    "utc_offset": -25200,
+    "lang": "en",
+    "url": "http://www.facebook.com/rignchavez",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/907986847153999873/LXH5NxIP_normal.jpg",
+    "time_zone": "Mountain Time (US & Canada)",
+    "profile_sidebar_border_color": "EEEEEE",
+    "profile_use_background_image": true,
+    "id": 51337405,
+    "profile_link_color": "1D854F",
+    "profile_sidebar_fill_color": "F6F6F6",
+    "profile_background_tile": false,
+    "geo_enabled": true,
+    "id_str": "51337405",
+    "verified": false,
+    "name": "Ra\u00fal Ch\u00e1vez",
+    "is_translator": false,
+    "notifications": null,
+    "following": null,
+    "friends_count": 1447,
+    "contributors_enabled": false,
+    "screen_name": "rign_chavez",
+    "created_at": "Sat Jun 27 03:51:41 +0000 2009",
+    "profile_text_color": "333333",
+    "favourites_count": 1568,
+    "follow_request_sent": null,
+    "description": "Radio Dj, CM Audio Producer, English Teacher, Collector, I Love Music, Cinema, Sci.Fi and HD DC Comics fan I'm from Nayarit, Mexico, =) Wanna know more??",
+    "default_profile_image": false,
+    "location": "Tepic, Nayarit Mexico",
+    "listed_count": 0,
+    "protected": false,
+    "statuses_count": 5394
+  },
+  "id_str": "930603918618394631",
+  "retweet_count": 0,
+  "retweeted": false,
+  "quote_count": 0,
+  "truncated": false,
+  "in_reply_to_status_id_str": null,
+  "reply_count": 0,
+  "created_at": "Wed Nov 15 01:10:38 +0000 2017",
+  "is_quote_status": false,
+  "in_reply_to_user_id": null,
+  "source": "<a href=\"http://instagram.com\" rel=\"nofollow\">Instagram</a>",
+  "text": "Primero #Bimbo y ahora #Ricolino. \ud83d\ude31\ud83d\ude30\ud83d\udc37\ud83d\udc16 todo sea por tener todo lo de #JusticeLeague \ud83e\udd13\ud83d\ude48\n\n#candies\u2026 https://t.co/4xex49tEQO",
+  "timestamp_ms": "1510708238640",
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null
+}

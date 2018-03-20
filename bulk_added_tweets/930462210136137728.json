@@ -1,1 +1,132 @@
-{"id": 930462210136137728, "lang": "es", "in_reply_to_status_id_str": null, "truncated": true, "place": {"id": "1d9a5370a355ab0c", "country": "United States", "bounding_box": {"type": "Polygon", "coordinates": [[[-87.940033, 41.644102], [-87.940033, 42.023067], [-87.523993, 42.023067], [-87.523993, 41.644102]]]}, "url": "https://api.twitter.com/1.1/geo/id/1d9a5370a355ab0c.json", "full_name": "Chicago, IL", "attributes": {}, "name": "Chicago", "place_type": "city", "country_code": "US"}, "favorite_count": 0, "retweeted": false, "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>", "is_quote_status": false, "in_reply_to_status_id": null, "in_reply_to_user_id_str": "103766959", "in_reply_to_screen_name": "EnriqueOchoaR", "retweet_count": 0, "quote_count": 0, "timestamp_ms": "1510674452705", "favorited": false, "coordinates": null, "text": "@EnriqueOchoaR Mexico es uno de los paises donde los pol\u00edticos son los m\u00e1s corruptos del mundo y no valen madre, no\u2026 https://t.co/3MKXyuJPMp", "entities": {"urls": [{"indices": [117, 140], "display_url": "twitter.com/i/web/status/9\u2026", "url": "https://t.co/3MKXyuJPMp", "expanded_url": "https://twitter.com/i/web/status/930462210136137728"}], "symbols": [], "user_mentions": [{"screen_name": "EnriqueOchoaR", "id": 103766959, "name": "Enrique Ochoa Reza", "indices": [0, 14], "id_str": "103766959"}], "hashtags": []}, "reply_count": 0, "geo": null, "filter_level": "low", "extended_tweet": {"display_text_range": [0, 178], "entities": {"urls": [], "symbols": [], "user_mentions": [{"screen_name": "EnriqueOchoaR", "id": 103766959, "name": "Enrique Ochoa Reza", "indices": [0, 14], "id_str": "103766959"}], "hashtags": [{"text": "achingarsumadre", "indices": [141, 157]}, {"text": "YaBasta", "indices": [158, 166]}, {"text": "no", "indices": [167, 170]}]}, "full_text": "@EnriqueOchoaR Mexico es uno de los paises donde los pol\u00edticos son los m\u00e1s corruptos del mundo y no valen madre, no trabajan para el pueblo. #achingarsumadre #YaBasta #no m\u00e1s PRI"}, "user": {"statuses_count": 1689, "id": 948999654, "default_profile": true, "favourites_count": 314, "url": null, "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", "verified": false, "profile_image_url_https": "https://pbs.twimg.com/profile_images/3495665273/72d42793d2ae97a46da801ad8ab276ac_normal.jpeg", "translator_type": "none", "location": "chicago ill", "geo_enabled": true, "utc_offset": null, "notifications": null, "profile_background_tile": false, "friends_count": 134, "is_translator": false, "follow_request_sent": null, "default_profile_image": false, "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png", "profile_background_color": "C0DEED", "profile_link_color": "1DA1F2", "profile_use_background_image": true, "time_zone": null, "name": "leonardo chavez", "profile_text_color": "333333", "profile_sidebar_border_color": "C0DEED", "screen_name": "bandaprestigio1", "lang": "en", "following": null, "listed_count": 1, "protected": false, "profile_sidebar_fill_color": "DDEEF6", "followers_count": 36, "profile_image_url": "http://pbs.twimg.com/profile_images/3495665273/72d42793d2ae97a46da801ad8ab276ac_normal.jpeg", "contributors_enabled": false, "created_at": "Thu Nov 15 03:54:41 +0000 2012", "id_str": "948999654", "description": "Am\u00e9ricanista y Mexicano oh yeah"}, "created_at": "Tue Nov 14 15:47:32 +0000 2017", "id_str": "930462210136137728", "in_reply_to_user_id": 103766959, "contributors": null}
+{
+  "id": 930462210136137728,
+  "lang": "es",
+  "in_reply_to_status_id_str": null,
+  "truncated": true,
+  "place": {
+    "id": "1d9a5370a355ab0c",
+    "country": "United States",
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [[-87.940033, 41.644102], [-87.940033, 42.023067], [-87.523993, 42.023067], [-87.523993, 41.644102]]
+      ]
+    },
+    "url": "https://api.twitter.com/1.1/geo/id/1d9a5370a355ab0c.json",
+    "full_name": "Chicago, IL",
+    "attributes": {},
+    "name": "Chicago",
+    "place_type": "city",
+    "country_code": "US"
+  },
+  "favorite_count": 0,
+  "retweeted": false,
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "is_quote_status": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_user_id_str": "103766959",
+  "in_reply_to_screen_name": "EnriqueOchoaR",
+  "retweet_count": 0,
+  "quote_count": 0,
+  "timestamp_ms": "1510674452705",
+  "favorited": false,
+  "coordinates": null,
+  "text": "@EnriqueOchoaR Mexico es uno de los paises donde los pol\u00edticos son los m\u00e1s corruptos del mundo y no valen madre, no\u2026 https://t.co/3MKXyuJPMp",
+  "entities": {
+    "urls": [
+      {
+        "indices": [117, 140],
+        "display_url": "twitter.com/i/web/status/9\u2026",
+        "url": "https://t.co/3MKXyuJPMp",
+        "expanded_url": "https://twitter.com/i/web/status/930462210136137728"
+      }
+    ],
+    "symbols": [],
+    "user_mentions": [
+      {
+        "screen_name": "EnriqueOchoaR",
+        "id": 103766959,
+        "name": "Enrique Ochoa Reza",
+        "indices": [0, 14],
+        "id_str": "103766959"
+      }
+    ],
+    "hashtags": []
+  },
+  "reply_count": 0,
+  "geo": null,
+  "filter_level": "low",
+  "extended_tweet": {
+    "display_text_range": [0, 178],
+    "entities": {
+      "urls": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "screen_name": "EnriqueOchoaR",
+          "id": 103766959,
+          "name": "Enrique Ochoa Reza",
+          "indices": [0, 14],
+          "id_str": "103766959"
+        }
+      ],
+      "hashtags": [
+        {
+          "text": "achingarsumadre",
+          "indices": [141, 157]
+        }, {
+          "text": "YaBasta",
+          "indices": [158, 166]
+        }, {
+          "text": "no",
+          "indices": [167, 170]
+        }
+      ]
+    },
+    "full_text": "@EnriqueOchoaR Mexico es uno de los paises donde los pol\u00edticos son los m\u00e1s corruptos del mundo y no valen madre, no trabajan para el pueblo. #achingarsumadre #YaBasta #no m\u00e1s PRI"
+  },
+  "user": {
+    "statuses_count": 1689,
+    "id": 948999654,
+    "default_profile": true,
+    "favourites_count": 314,
+    "url": null,
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "verified": false,
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/3495665273/72d42793d2ae97a46da801ad8ab276ac_normal.jpeg",
+    "translator_type": "none",
+    "location": "chicago ill",
+    "geo_enabled": true,
+    "utc_offset": null,
+    "notifications": null,
+    "profile_background_tile": false,
+    "friends_count": 134,
+    "is_translator": false,
+    "follow_request_sent": null,
+    "default_profile_image": false,
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_color": "C0DEED",
+    "profile_link_color": "1DA1F2",
+    "profile_use_background_image": true,
+    "time_zone": null,
+    "name": "leonardo chavez",
+    "profile_text_color": "333333",
+    "profile_sidebar_border_color": "C0DEED",
+    "screen_name": "bandaprestigio1",
+    "lang": "en",
+    "following": null,
+    "listed_count": 1,
+    "protected": false,
+    "profile_sidebar_fill_color": "DDEEF6",
+    "followers_count": 36,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/3495665273/72d42793d2ae97a46da801ad8ab276ac_normal.jpeg",
+    "contributors_enabled": false,
+    "created_at": "Thu Nov 15 03:54:41 +0000 2012",
+    "id_str": "948999654",
+    "description": "Am\u00e9ricanista y Mexicano oh yeah"
+  },
+  "created_at": "Tue Nov 14 15:47:32 +0000 2017",
+  "id_str": "930462210136137728",
+  "in_reply_to_user_id": 103766959,
+  "contributors": null
+}

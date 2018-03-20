@@ -1,1 +1,122 @@
-{"id": 930463106689654784, "lang": "es", "in_reply_to_status_id_str": "930461907781341186", "truncated": true, "place": {"id": "01b40b49265b126c", "country": "Argentina", "bounding_box": {"type": "Polygon", "coordinates": [[[-60.764198, -31.684295], [-60.764198, -31.553978], [-60.585606, -31.553978], [-60.585606, -31.684295]]]}, "url": "https://api.twitter.com/1.1/geo/id/01b40b49265b126c.json", "full_name": "Santa F\u00e9, Argentina", "attributes": {}, "name": "Santa F\u00e9", "place_type": "city", "country_code": "AR"}, "favorite_count": 0, "retweeted": false, "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>", "is_quote_status": false, "in_reply_to_status_id": 930461907781341186, "in_reply_to_user_id_str": "35839931", "in_reply_to_screen_name": "andy_tow", "retweet_count": 0, "quote_count": 0, "timestamp_ms": "1510674666460", "favorited": false, "coordinates": null, "filter_level": "low", "entities": {"urls": [{"indices": [116, 139], "display_url": "twitter.com/i/web/status/9\u2026", "url": "https://t.co/Grs3dS3xtw", "expanded_url": "https://twitter.com/i/web/status/930463106689654784"}], "symbols": [], "user_mentions": [{"screen_name": "andy_tow", "id": 35839931, "name": "Andy Tow", "indices": [0, 9], "id_str": "35839931"}], "hashtags": []}, "reply_count": 0, "geo": null, "display_text_range": [10, 140], "text": "@andy_tow Y en este caso el \"Leucocito\" lejos de ser infamante, hace honor a la \"defensa\" del hijo ante ataques al\u2026 https://t.co/Grs3dS3xtw", "extended_tweet": {"display_text_range": [10, 274], "entities": {"urls": [], "symbols": [], "user_mentions": [{"screen_name": "andy_tow", "id": 35839931, "name": "Andy Tow", "indices": [0, 9], "id_str": "35839931"}], "hashtags": []}, "full_text": "@andy_tow Y en este caso el \"Leucocito\" lejos de ser infamante, hace honor a la \"defensa\" del hijo ante ataques al padre. Por lo dicho, archivese. Eso no obsta a que Ursu sea una tilinga. La pifi\u00f3, antes y despu\u00e9s. Aunque no acuerdo con su despido. La contrataste, bancatela"}, "user": {"statuses_count": 4224, "id": 721862042399981571, "default_profile": false, "favourites_count": 1053, "url": null, "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", "verified": false, "profile_image_url_https": "https://pbs.twimg.com/profile_images/915670055731564545/BEwAh70l_normal.jpg", "translator_type": "none", "location": null, "geo_enabled": true, "utc_offset": -28800, "notifications": null, "profile_background_tile": false, "friends_count": 104, "is_translator": false, "follow_request_sent": null, "default_profile_image": false, "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png", "profile_background_color": "000000", "profile_link_color": "FAB81E", "profile_use_background_image": false, "time_zone": "Pacific Time (US & Canada)", "name": "Dr Meterete", "profile_text_color": "000000", "profile_sidebar_border_color": "000000", "screen_name": "DrMeterete", "lang": "es", "following": null, "listed_count": 17, "protected": false, "profile_sidebar_fill_color": "000000", "followers_count": 51, "profile_image_url": "http://pbs.twimg.com/profile_images/915670055731564545/BEwAh70l_normal.jpg", "contributors_enabled": false, "created_at": "Mon Apr 18 00:44:57 +0000 2016", "id_str": "721862042399981571", "description": "Abogado, cr\u00edtico de todo, mi opinion es mi doctrina. Solo se que no se nadar   #Noalvotoelectronico"}, "created_at": "Tue Nov 14 15:51:06 +0000 2017", "id_str": "930463106689654784", "in_reply_to_user_id": 35839931, "contributors": null}
+{
+  "id": 930463106689654784,
+  "lang": "es",
+  "in_reply_to_status_id_str": "930461907781341186",
+  "truncated": true,
+  "place": {
+    "id": "01b40b49265b126c",
+    "country": "Argentina",
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [[-60.764198, -31.684295], [-60.764198, -31.553978], [-60.585606, -31.553978], [-60.585606, -31.684295]]
+      ]
+    },
+    "url": "https://api.twitter.com/1.1/geo/id/01b40b49265b126c.json",
+    "full_name": "Santa F\u00e9, Argentina",
+    "attributes": {},
+    "name": "Santa F\u00e9",
+    "place_type": "city",
+    "country_code": "AR"
+  },
+  "favorite_count": 0,
+  "retweeted": false,
+  "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+  "is_quote_status": false,
+  "in_reply_to_status_id": 930461907781341186,
+  "in_reply_to_user_id_str": "35839931",
+  "in_reply_to_screen_name": "andy_tow",
+  "retweet_count": 0,
+  "quote_count": 0,
+  "timestamp_ms": "1510674666460",
+  "favorited": false,
+  "coordinates": null,
+  "filter_level": "low",
+  "entities": {
+    "urls": [
+      {
+        "indices": [116, 139],
+        "display_url": "twitter.com/i/web/status/9\u2026",
+        "url": "https://t.co/Grs3dS3xtw",
+        "expanded_url": "https://twitter.com/i/web/status/930463106689654784"
+      }
+    ],
+    "symbols": [],
+    "user_mentions": [
+      {
+        "screen_name": "andy_tow",
+        "id": 35839931,
+        "name": "Andy Tow",
+        "indices": [0, 9],
+        "id_str": "35839931"
+      }
+    ],
+    "hashtags": []
+  },
+  "reply_count": 0,
+  "geo": null,
+  "display_text_range": [10, 140],
+  "text": "@andy_tow Y en este caso el \"Leucocito\" lejos de ser infamante, hace honor a la \"defensa\" del hijo ante ataques al\u2026 https://t.co/Grs3dS3xtw",
+  "extended_tweet": {
+    "display_text_range": [10, 274],
+    "entities": {
+      "urls": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "screen_name": "andy_tow",
+          "id": 35839931,
+          "name": "Andy Tow",
+          "indices": [0, 9],
+          "id_str": "35839931"
+        }
+      ],
+      "hashtags": []
+    },
+    "full_text": "@andy_tow Y en este caso el \"Leucocito\" lejos de ser infamante, hace honor a la \"defensa\" del hijo ante ataques al padre. Por lo dicho, archivese. Eso no obsta a que Ursu sea una tilinga. La pifi\u00f3, antes y despu\u00e9s. Aunque no acuerdo con su despido. La contrataste, bancatela"
+  },
+  "user": {
+    "statuses_count": 4224,
+    "id": 721862042399981571,
+    "default_profile": false,
+    "favourites_count": 1053,
+    "url": null,
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "verified": false,
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/915670055731564545/BEwAh70l_normal.jpg",
+    "translator_type": "none",
+    "location": null,
+    "geo_enabled": true,
+    "utc_offset": -28800,
+    "notifications": null,
+    "profile_background_tile": false,
+    "friends_count": 104,
+    "is_translator": false,
+    "follow_request_sent": null,
+    "default_profile_image": false,
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_color": "000000",
+    "profile_link_color": "FAB81E",
+    "profile_use_background_image": false,
+    "time_zone": "Pacific Time (US & Canada)",
+    "name": "Dr Meterete",
+    "profile_text_color": "000000",
+    "profile_sidebar_border_color": "000000",
+    "screen_name": "DrMeterete",
+    "lang": "es",
+    "following": null,
+    "listed_count": 17,
+    "protected": false,
+    "profile_sidebar_fill_color": "000000",
+    "followers_count": 51,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/915670055731564545/BEwAh70l_normal.jpg",
+    "contributors_enabled": false,
+    "created_at": "Mon Apr 18 00:44:57 +0000 2016",
+    "id_str": "721862042399981571",
+    "description": "Abogado, cr\u00edtico de todo, mi opinion es mi doctrina. Solo se que no se nadar   #Noalvotoelectronico"
+  },
+  "created_at": "Tue Nov 14 15:51:06 +0000 2017",
+  "id_str": "930463106689654784",
+  "in_reply_to_user_id": 35839931,
+  "contributors": null
+}

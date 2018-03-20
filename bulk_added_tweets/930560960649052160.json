@@ -1,1 +1,106 @@
-{"is_quote_status": false, "in_reply_to_user_id_str": null, "created_at": "Tue Nov 14 22:19:56 +0000 2017", "favorite_count": 0, "in_reply_to_status_id": null, "id_str": "930560960649052160", "filter_level": "low", "reply_count": 0, "timestamp_ms": "1510697996662", "id": 930560960649052160, "coordinates": null, "in_reply_to_screen_name": null, "truncated": true, "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>", "place": {"bounding_box": {"coordinates": [[[-96.971524, 19.48425], [-96.971524, 19.599858], [-96.800642, 19.599858], [-96.800642, 19.48425]]], "type": "Polygon"}, "url": "https://api.twitter.com/1.1/geo/id/8b16d56e258b0278.json", "country_code": "MX", "name": "Xalapa", "full_name": "Xalapa, Veracruz de Ignacio de la Llave", "id": "8b16d56e258b0278", "place_type": "city", "attributes": {}, "country": "M\u00e9xico"}, "retweet_count": 0, "extended_tweet": {"display_text_range": [0, 153], "entities": {"user_mentions": [], "urls": [], "symbols": [], "hashtags": []}, "full_text": "Y como olvidar a ese viejo gru\u00f1\u00f3n, que un d\u00eda sin avisar al cielo se escapo y como olvidar su mirada de amor, su sonrisa, su voz... Que mi Dios se llevo."}, "quote_count": 0, "favorited": false, "text": "Y como olvidar a ese viejo gru\u00f1\u00f3n, que un d\u00eda sin avisar al cielo se escapo y como olvidar su mirada de amor, su so\u2026 https://t.co/URC1EaUUfF", "in_reply_to_user_id": null, "geo": null, "lang": "es", "contributors": null, "in_reply_to_status_id_str": null, "user": {"protected": false, "following": null, "profile_text_color": "666666", "profile_background_color": "131516", "statuses_count": 6727, "default_profile": false, "favourites_count": 1025, "friends_count": 459, "follow_request_sent": null, "profile_sidebar_fill_color": "252429", "translator_type": "none", "notifications": null, "id_str": "378846385", "screen_name": "BJMunozR", "profile_banner_url": "https://pbs.twimg.com/profile_banners/378846385/1352737294", "verified": false, "id": 378846385, "profile_use_background_image": true, "description": "El Tigre y el Le\u00f3n podr\u00e1n ser los m\u00e1s fuertes, pero el Lobo no trabaja para el Circo...\ud83d\udc3a#DeshiBasara", "utc_offset": -21600, "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/570267589/vs4ytnrtlodyufnfg00x.jpeg", "is_translator": false, "listed_count": 0, "default_profile_image": false, "contributors_enabled": false, "followers_count": 570, "location": "Xalapa", "created_at": "Fri Sep 23 22:38:59 +0000 2011", "profile_image_url_https": "https://pbs.twimg.com/profile_images/875212434503483392/lJtIKoFE_normal.jpg", "geo_enabled": true, "time_zone": "Mexico City", "profile_image_url": "http://pbs.twimg.com/profile_images/875212434503483392/lJtIKoFE_normal.jpg", "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/570267589/vs4ytnrtlodyufnfg00x.jpeg", "profile_link_color": "009999", "lang": "es", "name": "BJ Mu\u00f1oz Reyes", "profile_background_tile": false, "url": null, "profile_sidebar_border_color": "000000"}, "entities": {"user_mentions": [], "urls": [{"expanded_url": "https://twitter.com/i/web/status/930560960649052160", "url": "https://t.co/URC1EaUUfF", "indices": [117, 140], "display_url": "twitter.com/i/web/status/9\u2026"}], "symbols": [], "hashtags": []}, "retweeted": false}
+{
+  "is_quote_status": false,
+  "in_reply_to_user_id_str": null,
+  "created_at": "Tue Nov 14 22:19:56 +0000 2017",
+  "favorite_count": 0,
+  "in_reply_to_status_id": null,
+  "id_str": "930560960649052160",
+  "filter_level": "low",
+  "reply_count": 0,
+  "timestamp_ms": "1510697996662",
+  "id": 930560960649052160,
+  "coordinates": null,
+  "in_reply_to_screen_name": null,
+  "truncated": true,
+  "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+  "place": {
+    "bounding_box": {
+      "coordinates": [
+        [[-96.971524, 19.48425], [-96.971524, 19.599858], [-96.800642, 19.599858], [-96.800642, 19.48425]]
+      ],
+      "type": "Polygon"
+    },
+    "url": "https://api.twitter.com/1.1/geo/id/8b16d56e258b0278.json",
+    "country_code": "MX",
+    "name": "Xalapa",
+    "full_name": "Xalapa, Veracruz de Ignacio de la Llave",
+    "id": "8b16d56e258b0278",
+    "place_type": "city",
+    "attributes": {},
+    "country": "M\u00e9xico"
+  },
+  "retweet_count": 0,
+  "extended_tweet": {
+    "display_text_range": [0, 153],
+    "entities": {
+      "user_mentions": [],
+      "urls": [],
+      "symbols": [],
+      "hashtags": []
+    },
+    "full_text": "Y como olvidar a ese viejo gru\u00f1\u00f3n, que un d\u00eda sin avisar al cielo se escapo y como olvidar su mirada de amor, su sonrisa, su voz... Que mi Dios se llevo."
+  },
+  "quote_count": 0,
+  "favorited": false,
+  "text": "Y como olvidar a ese viejo gru\u00f1\u00f3n, que un d\u00eda sin avisar al cielo se escapo y como olvidar su mirada de amor, su so\u2026 https://t.co/URC1EaUUfF",
+  "in_reply_to_user_id": null,
+  "geo": null,
+  "lang": "es",
+  "contributors": null,
+  "in_reply_to_status_id_str": null,
+  "user": {
+    "protected": false,
+    "following": null,
+    "profile_text_color": "666666",
+    "profile_background_color": "131516",
+    "statuses_count": 6727,
+    "default_profile": false,
+    "favourites_count": 1025,
+    "friends_count": 459,
+    "follow_request_sent": null,
+    "profile_sidebar_fill_color": "252429",
+    "translator_type": "none",
+    "notifications": null,
+    "id_str": "378846385",
+    "screen_name": "BJMunozR",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/378846385/1352737294",
+    "verified": false,
+    "id": 378846385,
+    "profile_use_background_image": true,
+    "description": "El Tigre y el Le\u00f3n podr\u00e1n ser los m\u00e1s fuertes, pero el Lobo no trabaja para el Circo...\ud83d\udc3a#DeshiBasara",
+    "utc_offset": -21600,
+    "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/570267589/vs4ytnrtlodyufnfg00x.jpeg",
+    "is_translator": false,
+    "listed_count": 0,
+    "default_profile_image": false,
+    "contributors_enabled": false,
+    "followers_count": 570,
+    "location": "Xalapa",
+    "created_at": "Fri Sep 23 22:38:59 +0000 2011",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/875212434503483392/lJtIKoFE_normal.jpg",
+    "geo_enabled": true,
+    "time_zone": "Mexico City",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/875212434503483392/lJtIKoFE_normal.jpg",
+    "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/570267589/vs4ytnrtlodyufnfg00x.jpeg",
+    "profile_link_color": "009999",
+    "lang": "es",
+    "name": "BJ Mu\u00f1oz Reyes",
+    "profile_background_tile": false,
+    "url": null,
+    "profile_sidebar_border_color": "000000"
+  },
+  "entities": {
+    "user_mentions": [],
+    "urls": [
+      {
+        "expanded_url": "https://twitter.com/i/web/status/930560960649052160",
+        "url": "https://t.co/URC1EaUUfF",
+        "indices": [117, 140],
+        "display_url": "twitter.com/i/web/status/9\u2026"
+      }
+    ],
+    "symbols": [],
+    "hashtags": []
+  },
+  "retweeted": false
+}

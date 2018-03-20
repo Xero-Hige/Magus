@@ -1,1 +1,106 @@
-{"geo": null, "filter_level": "low", "in_reply_to_status_id": null, "lang": "es", "favorite_count": 0, "coordinates": null, "favorited": false, "place": {"name": "Miguel Hidalgo", "full_name": "Miguel Hidalgo, Distrito Federal", "place_type": "city", "country": "M\u00e9xico", "id": "3ad512d283f67a11", "bounding_box": {"type": "Polygon", "coordinates": [[[-99.259495, 19.386371], [-99.259495, 19.473498], [-99.163526, 19.473498], [-99.163526, 19.386371]]]}, "attributes": {}, "url": "https://api.twitter.com/1.1/geo/id/3ad512d283f67a11.json", "country_code": "MX"}, "contributors": null, "entities": {"hashtags": [], "urls": [{"display_url": "twitter.com/i/web/status/9\u2026", "expanded_url": "https://twitter.com/i/web/status/930676874828812292", "url": "https://t.co/7xfNSsqoNS", "indices": [117, 140]}], "symbols": [], "user_mentions": []}, "id": 930676874828812292, "user": {"followers_count": 2746, "profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif", "profile_background_color": "000000", "translator_type": "none", "profile_image_url": "http://pbs.twimg.com/profile_images/913262781213810688/bLF2aA7D_normal.jpg", "profile_banner_url": "https://pbs.twimg.com/profile_banners/19172063/1510682482", "default_profile": false, "utc_offset": -21600, "lang": "es", "url": "http://fredalvarez.blogspot.com/", "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif", "profile_image_url_https": "https://pbs.twimg.com/profile_images/913262781213810688/bLF2aA7D_normal.jpg", "time_zone": "Mexico City", "profile_sidebar_border_color": "000000", "profile_use_background_image": false, "id": 19172063, "profile_link_color": "F58EA8", "profile_sidebar_fill_color": "000000", "profile_background_tile": false, "geo_enabled": true, "id_str": "19172063", "verified": false, "name": "Fred Alvarez Palafox", "is_translator": false, "notifications": null, "following": null, "friends_count": 1255, "contributors_enabled": false, "screen_name": "fredalvarez", "created_at": "Mon Jan 19 04:29:45 +0000 2009", "profile_text_color": "000000", "favourites_count": 16817, "follow_request_sent": null, "description": "Ego sum qui sum!; analista pol\u00edtico, so\u00f1ador enamorado de la vida, y un aficionado a la poes\u00eda. \u00a1Ah! tambi\u00e9n soy un creyente: I'm a Believer!", "default_profile_image": false, "location": null, "listed_count": 37, "protected": false, "statuses_count": 54878}, "id_str": "930676874828812292", "retweet_count": 0, "retweeted": false, "quote_count": 0, "truncated": true, "in_reply_to_status_id_str": null, "reply_count": 0, "created_at": "Wed Nov 15 06:00:32 +0000 2017", "is_quote_status": false, "in_reply_to_user_id": null, "timestamp_ms": "1510725632756", "text": "A veces me parece\nque estamos en el centro\nde la fiesta\nsin embargo\nen el centro de la fiesta\nno hay nadie\nEn el ce\u2026 https://t.co/7xfNSsqoNS", "extended_tweet": {"full_text": "A veces me parece\nque estamos en el centro\nde la fiesta\nsin embargo\nen el centro de la fiesta\nno hay nadie\nEn el centro de la fiesta\nest\u00e1 el vac\u00edo\nPero en el centro del vac\u00edo\nhay otra fiesta...\" Juarroz...", "display_text_range": [0, 205], "entities": {"hashtags": [], "urls": [], "symbols": [], "user_mentions": []}}, "in_reply_to_user_id_str": null, "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>", "in_reply_to_screen_name": null}
+{
+  "geo": null,
+  "filter_level": "low",
+  "in_reply_to_status_id": null,
+  "lang": "es",
+  "favorite_count": 0,
+  "coordinates": null,
+  "favorited": false,
+  "place": {
+    "name": "Miguel Hidalgo",
+    "full_name": "Miguel Hidalgo, Distrito Federal",
+    "place_type": "city",
+    "country": "M\u00e9xico",
+    "id": "3ad512d283f67a11",
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [[-99.259495, 19.386371], [-99.259495, 19.473498], [-99.163526, 19.473498], [-99.163526, 19.386371]]
+      ]
+    },
+    "attributes": {},
+    "url": "https://api.twitter.com/1.1/geo/id/3ad512d283f67a11.json",
+    "country_code": "MX"
+  },
+  "contributors": null,
+  "entities": {
+    "hashtags": [],
+    "urls": [
+      {
+        "display_url": "twitter.com/i/web/status/9\u2026",
+        "expanded_url": "https://twitter.com/i/web/status/930676874828812292",
+        "url": "https://t.co/7xfNSsqoNS",
+        "indices": [117, 140]
+      }
+    ],
+    "symbols": [],
+    "user_mentions": []
+  },
+  "id": 930676874828812292,
+  "user": {
+    "followers_count": 2746,
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+    "profile_background_color": "000000",
+    "translator_type": "none",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/913262781213810688/bLF2aA7D_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/19172063/1510682482",
+    "default_profile": false,
+    "utc_offset": -21600,
+    "lang": "es",
+    "url": "http://fredalvarez.blogspot.com/",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/913262781213810688/bLF2aA7D_normal.jpg",
+    "time_zone": "Mexico City",
+    "profile_sidebar_border_color": "000000",
+    "profile_use_background_image": false,
+    "id": 19172063,
+    "profile_link_color": "F58EA8",
+    "profile_sidebar_fill_color": "000000",
+    "profile_background_tile": false,
+    "geo_enabled": true,
+    "id_str": "19172063",
+    "verified": false,
+    "name": "Fred Alvarez Palafox",
+    "is_translator": false,
+    "notifications": null,
+    "following": null,
+    "friends_count": 1255,
+    "contributors_enabled": false,
+    "screen_name": "fredalvarez",
+    "created_at": "Mon Jan 19 04:29:45 +0000 2009",
+    "profile_text_color": "000000",
+    "favourites_count": 16817,
+    "follow_request_sent": null,
+    "description": "Ego sum qui sum!; analista pol\u00edtico, so\u00f1ador enamorado de la vida, y un aficionado a la poes\u00eda. \u00a1Ah! tambi\u00e9n soy un creyente: I'm a Believer!",
+    "default_profile_image": false,
+    "location": null,
+    "listed_count": 37,
+    "protected": false,
+    "statuses_count": 54878
+  },
+  "id_str": "930676874828812292",
+  "retweet_count": 0,
+  "retweeted": false,
+  "quote_count": 0,
+  "truncated": true,
+  "in_reply_to_status_id_str": null,
+  "reply_count": 0,
+  "created_at": "Wed Nov 15 06:00:32 +0000 2017",
+  "is_quote_status": false,
+  "in_reply_to_user_id": null,
+  "timestamp_ms": "1510725632756",
+  "text": "A veces me parece\nque estamos en el centro\nde la fiesta\nsin embargo\nen el centro de la fiesta\nno hay nadie\nEn el ce\u2026 https://t.co/7xfNSsqoNS",
+  "extended_tweet": {
+    "full_text": "A veces me parece\nque estamos en el centro\nde la fiesta\nsin embargo\nen el centro de la fiesta\nno hay nadie\nEn el centro de la fiesta\nest\u00e1 el vac\u00edo\nPero en el centro del vac\u00edo\nhay otra fiesta...\" Juarroz...",
+    "display_text_range": [0, 205],
+    "entities": {
+      "hashtags": [],
+      "urls": [],
+      "symbols": [],
+      "user_mentions": []
+    }
+  },
+  "in_reply_to_user_id_str": null,
+  "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+  "in_reply_to_screen_name": null
+}

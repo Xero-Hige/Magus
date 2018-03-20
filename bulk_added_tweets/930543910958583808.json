@@ -1,1 +1,119 @@
-{"is_quote_status": false, "in_reply_to_user_id_str": null, "created_at": "Tue Nov 14 21:12:11 +0000 2017", "favorite_count": 0, "in_reply_to_status_id": null, "id_str": "930543910958583808", "filter_level": "low", "reply_count": 0, "timestamp_ms": "1510693931699", "id": 930543910958583808, "coordinates": null, "in_reply_to_screen_name": null, "truncated": true, "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>", "place": {"bounding_box": {"coordinates": [[[-87.079237, 5.286348], [-87.079237, 11.216819], [-82.555992, 11.216819], [-82.555992, 5.286348]]], "type": "Polygon"}, "url": "https://api.twitter.com/1.1/geo/id/e44e7dc5a2e1c3f1.json", "country_code": "CR", "name": "Costa Rica", "full_name": "Costa Rica", "id": "e44e7dc5a2e1c3f1", "place_type": "country", "attributes": {}, "country": "Costa Rica"}, "retweet_count": 0, "extended_tweet": {"display_text_range": [0, 162], "entities": {"user_mentions": [], "urls": [], "symbols": [], "hashtags": [{"text": "CRC", "indices": [32, 36]}, {"text": "USA", "indices": [153, 157]}]}, "full_text": "Entre enero y junio de este a\u00f1o #CRC sum\u00f3 6 partidos sin ganar. \n\nCon la derrota ante Hungr\u00eda, si vuelven a dar 6 sin triunfar, esto despu\u00e9s de ganarl a #USA 0-2."}, "quote_count": 0, "favorited": false, "text": "Entre enero y junio de este a\u00f1o #CRC sum\u00f3 6 partidos sin ganar. \n\nCon la derrota ante Hungr\u00eda, si vuelven a dar 6 s\u2026 https://t.co/MsmlWUCcwB", "in_reply_to_user_id": null, "geo": null, "lang": "es", "contributors": null, "in_reply_to_status_id_str": null, "user": {"protected": false, "following": null, "profile_text_color": "000000", "profile_background_color": "000000", "statuses_count": 35898, "default_profile": false, "favourites_count": 36, "friends_count": 2043, "follow_request_sent": null, "profile_sidebar_fill_color": "000000", "translator_type": "none", "notifications": null, "id_str": "2518157492", "screen_name": "satdep23", "profile_banner_url": "https://pbs.twimg.com/profile_banners/2518157492/1474681744", "verified": false, "id": 2518157492, "profile_use_background_image": false, "description": "Luis Quir\u00f3s, desde Heredia para el mundo. Ex Canal 7 y Deportes Repretel.", "utc_offset": -21600, "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", "is_translator": false, "listed_count": 20, "default_profile_image": false, "contributors_enabled": false, "followers_count": 2548, "location": "Costa Rica", "created_at": "Fri May 23 16:02:50 +0000 2014", "profile_image_url_https": "https://pbs.twimg.com/profile_images/779497365153599488/2gsMgBqp_normal.jpg", "geo_enabled": true, "time_zone": "Central America", "profile_image_url": "http://pbs.twimg.com/profile_images/779497365153599488/2gsMgBqp_normal.jpg", "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png", "profile_link_color": "3B94D9", "lang": "es", "name": "Sat\u00e9lite Deportivo", "profile_background_tile": false, "url": null, "profile_sidebar_border_color": "000000"}, "entities": {"user_mentions": [], "urls": [{"expanded_url": "https://twitter.com/i/web/status/930543910958583808", "url": "https://t.co/MsmlWUCcwB", "indices": [117, 140], "display_url": "twitter.com/i/web/status/9\u2026"}], "symbols": [], "hashtags": [{"text": "CRC", "indices": [32, 36]}]}, "retweeted": false}
+{
+  "is_quote_status": false,
+  "in_reply_to_user_id_str": null,
+  "created_at": "Tue Nov 14 21:12:11 +0000 2017",
+  "favorite_count": 0,
+  "in_reply_to_status_id": null,
+  "id_str": "930543910958583808",
+  "filter_level": "low",
+  "reply_count": 0,
+  "timestamp_ms": "1510693931699",
+  "id": 930543910958583808,
+  "coordinates": null,
+  "in_reply_to_screen_name": null,
+  "truncated": true,
+  "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+  "place": {
+    "bounding_box": {
+      "coordinates": [
+        [[-87.079237, 5.286348], [-87.079237, 11.216819], [-82.555992, 11.216819], [-82.555992, 5.286348]]
+      ],
+      "type": "Polygon"
+    },
+    "url": "https://api.twitter.com/1.1/geo/id/e44e7dc5a2e1c3f1.json",
+    "country_code": "CR",
+    "name": "Costa Rica",
+    "full_name": "Costa Rica",
+    "id": "e44e7dc5a2e1c3f1",
+    "place_type": "country",
+    "attributes": {},
+    "country": "Costa Rica"
+  },
+  "retweet_count": 0,
+  "extended_tweet": {
+    "display_text_range": [0, 162],
+    "entities": {
+      "user_mentions": [],
+      "urls": [],
+      "symbols": [],
+      "hashtags": [
+        {
+          "text": "CRC",
+          "indices": [32, 36]
+        }, {
+          "text": "USA",
+          "indices": [153, 157]
+        }
+      ]
+    },
+    "full_text": "Entre enero y junio de este a\u00f1o #CRC sum\u00f3 6 partidos sin ganar. \n\nCon la derrota ante Hungr\u00eda, si vuelven a dar 6 sin triunfar, esto despu\u00e9s de ganarl a #USA 0-2."
+  },
+  "quote_count": 0,
+  "favorited": false,
+  "text": "Entre enero y junio de este a\u00f1o #CRC sum\u00f3 6 partidos sin ganar. \n\nCon la derrota ante Hungr\u00eda, si vuelven a dar 6 s\u2026 https://t.co/MsmlWUCcwB",
+  "in_reply_to_user_id": null,
+  "geo": null,
+  "lang": "es",
+  "contributors": null,
+  "in_reply_to_status_id_str": null,
+  "user": {
+    "protected": false,
+    "following": null,
+    "profile_text_color": "000000",
+    "profile_background_color": "000000",
+    "statuses_count": 35898,
+    "default_profile": false,
+    "favourites_count": 36,
+    "friends_count": 2043,
+    "follow_request_sent": null,
+    "profile_sidebar_fill_color": "000000",
+    "translator_type": "none",
+    "notifications": null,
+    "id_str": "2518157492",
+    "screen_name": "satdep23",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/2518157492/1474681744",
+    "verified": false,
+    "id": 2518157492,
+    "profile_use_background_image": false,
+    "description": "Luis Quir\u00f3s, desde Heredia para el mundo. Ex Canal 7 y Deportes Repretel.",
+    "utc_offset": -21600,
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "is_translator": false,
+    "listed_count": 20,
+    "default_profile_image": false,
+    "contributors_enabled": false,
+    "followers_count": 2548,
+    "location": "Costa Rica",
+    "created_at": "Fri May 23 16:02:50 +0000 2014",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/779497365153599488/2gsMgBqp_normal.jpg",
+    "geo_enabled": true,
+    "time_zone": "Central America",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/779497365153599488/2gsMgBqp_normal.jpg",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_link_color": "3B94D9",
+    "lang": "es",
+    "name": "Sat\u00e9lite Deportivo",
+    "profile_background_tile": false,
+    "url": null,
+    "profile_sidebar_border_color": "000000"
+  },
+  "entities": {
+    "user_mentions": [],
+    "urls": [
+      {
+        "expanded_url": "https://twitter.com/i/web/status/930543910958583808",
+        "url": "https://t.co/MsmlWUCcwB",
+        "indices": [117, 140],
+        "display_url": "twitter.com/i/web/status/9\u2026"
+      }
+    ],
+    "symbols": [],
+    "hashtags": [
+      {
+        "text": "CRC",
+        "indices": [32, 36]
+      }
+    ]
+  },
+  "retweeted": false
+}

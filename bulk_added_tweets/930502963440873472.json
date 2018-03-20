@@ -1,1 +1,138 @@
-{"display_text_range": [14, 140], "retweet_count": 0, "place": {"place_type": "city", "country": "Espa\u00f1a", "name": "Utebo", "id": "7064329708b07896", "url": "https://api.twitter.com/1.1/geo/id/7064329708b07896.json", "full_name": "Utebo, Espa\u00f1a", "bounding_box": {"coordinates": [[[-1.040901, 41.691162], [-1.040901, 41.744413], [-0.966696, 41.744413], [-0.966696, 41.691162]]], "type": "Polygon"}, "country_code": "ES", "attributes": {}}, "favorited": false, "extended_tweet": {"display_text_range": [14, 149], "entities": {"symbols": [], "user_mentions": [{"screen_name": "JesusCintora", "name": "Jes\u00fas Cintora", "id_str": "235234497", "id": 235234497, "indices": [0, 13]}, {"screen_name": "eduardoinda", "name": "Eduardo Inda", "id_str": "698104968105095170", "id": 698104968105095170, "indices": [92, 104]}], "urls": [], "hashtags": [{"indices": [134, 149], "text": "PerraCloaquera"}]}, "full_text": "@JesusCintora dizque pago 10.000 euracos en expresion fisica ay q ver q implosion d empaque @eduardoinda pero ser\u00e1s pa los restos una #PerraCloaquera"}, "quote_count": 0, "in_reply_to_user_id_str": "235234497", "user": {"utc_offset": null, "verified": false, "profile_background_tile": true, "location": "Ciudad Inmortal (Spain)", "profile_link_color": "9266CC", "notifications": null, "profile_use_background_image": true, "protected": false, "following": null, "profile_sidebar_fill_color": "000000", "description": "Me dan pampurrias q a veces n se le sepa decir las cosas a la gente q insulta q ningunea la ilusion del cambio est\u00e1n q trinan y eso HUMOR q n falte", "time_zone": null, "is_translator": false, "listed_count": 5, "contributors_enabled": false, "translator_type": "none", "profile_text_color": "000000", "follow_request_sent": null, "favourites_count": 5679, "statuses_count": 8455, "lang": "es", "default_profile": false, "name": "Bu\u00f1uel O.", "id_str": "3391298271", "profile_background_color": "9266CC", "profile_banner_url": "https://pbs.twimg.com/profile_banners/3391298271/1499262245", "profile_background_image_url": "http://abs.twimg.com/images/themes/theme10/bg.gif", "default_profile_image": false, "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme10/bg.gif", "screen_name": "HectorMann8", "created_at": "Tue Jul 28 02:27:16 +0000 2015", "profile_image_url": "http://pbs.twimg.com/profile_images/735116357658943489/WMA0Eflv_normal.jpg", "id": 3391298271, "geo_enabled": true, "url": null, "followers_count": 403, "profile_sidebar_border_color": "000000", "friends_count": 1218, "profile_image_url_https": "https://pbs.twimg.com/profile_images/735116357658943489/WMA0Eflv_normal.jpg"}, "in_reply_to_status_id": 930238925997772800, "in_reply_to_screen_name": "JesusCintora", "entities": {"symbols": [], "user_mentions": [{"screen_name": "JesusCintora", "name": "Jes\u00fas Cintora", "id_str": "235234497", "id": 235234497, "indices": [0, 13]}, {"screen_name": "eduardoinda", "name": "Eduardo Inda", "id_str": "698104968105095170", "id": 698104968105095170, "indices": [92, 104]}], "urls": [{"url": "https://t.co/XRBBOu3zRP", "expanded_url": "https://twitter.com/i/web/status/930502963440873472", "display_url": "twitter.com/i/web/status/9\u2026", "indices": [117, 140]}], "hashtags": []}, "reply_count": 0, "geo": null, "contributors": null, "favorite_count": 0, "lang": "es", "text": "@JesusCintora dizque pago 10.000 euracos en expresion fisica ay q ver q implosion d empaque @eduardoinda pero ser\u00e1s\u2026 https://t.co/XRBBOu3zRP", "timestamp_ms": "1510684169050", "id_str": "930502963440873472", "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>", "truncated": true, "retweeted": false, "in_reply_to_user_id": 235234497, "created_at": "Tue Nov 14 18:29:29 +0000 2017", "coordinates": null, "in_reply_to_status_id_str": "930238925997772800", "id": 930502963440873472, "filter_level": "low", "is_quote_status": false}
+{
+  "display_text_range": [14, 140],
+  "retweet_count": 0,
+  "place": {
+    "place_type": "city",
+    "country": "Espa\u00f1a",
+    "name": "Utebo",
+    "id": "7064329708b07896",
+    "url": "https://api.twitter.com/1.1/geo/id/7064329708b07896.json",
+    "full_name": "Utebo, Espa\u00f1a",
+    "bounding_box": {
+      "coordinates": [[[-1.040901, 41.691162], [-1.040901, 41.744413], [-0.966696, 41.744413], [-0.966696, 41.691162]]],
+      "type": "Polygon"
+    },
+    "country_code": "ES",
+    "attributes": {}
+  },
+  "favorited": false,
+  "extended_tweet": {
+    "display_text_range": [14, 149],
+    "entities": {
+      "symbols": [],
+      "user_mentions": [
+        {
+          "screen_name": "JesusCintora",
+          "name": "Jes\u00fas Cintora",
+          "id_str": "235234497",
+          "id": 235234497,
+          "indices": [0, 13]
+        }, {
+          "screen_name": "eduardoinda",
+          "name": "Eduardo Inda",
+          "id_str": "698104968105095170",
+          "id": 698104968105095170,
+          "indices": [92, 104]
+        }
+      ],
+      "urls": [],
+      "hashtags": [
+        {
+          "indices": [134, 149],
+          "text": "PerraCloaquera"
+        }
+      ]
+    },
+    "full_text": "@JesusCintora dizque pago 10.000 euracos en expresion fisica ay q ver q implosion d empaque @eduardoinda pero ser\u00e1s pa los restos una #PerraCloaquera"
+  },
+  "quote_count": 0,
+  "in_reply_to_user_id_str": "235234497",
+  "user": {
+    "utc_offset": null,
+    "verified": false,
+    "profile_background_tile": true,
+    "location": "Ciudad Inmortal (Spain)",
+    "profile_link_color": "9266CC",
+    "notifications": null,
+    "profile_use_background_image": true,
+    "protected": false,
+    "following": null,
+    "profile_sidebar_fill_color": "000000",
+    "description": "Me dan pampurrias q a veces n se le sepa decir las cosas a la gente q insulta q ningunea la ilusion del cambio est\u00e1n q trinan y eso HUMOR q n falte",
+    "time_zone": null,
+    "is_translator": false,
+    "listed_count": 5,
+    "contributors_enabled": false,
+    "translator_type": "none",
+    "profile_text_color": "000000",
+    "follow_request_sent": null,
+    "favourites_count": 5679,
+    "statuses_count": 8455,
+    "lang": "es",
+    "default_profile": false,
+    "name": "Bu\u00f1uel O.",
+    "id_str": "3391298271",
+    "profile_background_color": "9266CC",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/3391298271/1499262245",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme10/bg.gif",
+    "default_profile_image": false,
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme10/bg.gif",
+    "screen_name": "HectorMann8",
+    "created_at": "Tue Jul 28 02:27:16 +0000 2015",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/735116357658943489/WMA0Eflv_normal.jpg",
+    "id": 3391298271,
+    "geo_enabled": true,
+    "url": null,
+    "followers_count": 403,
+    "profile_sidebar_border_color": "000000",
+    "friends_count": 1218,
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/735116357658943489/WMA0Eflv_normal.jpg"
+  },
+  "in_reply_to_status_id": 930238925997772800,
+  "in_reply_to_screen_name": "JesusCintora",
+  "entities": {
+    "symbols": [],
+    "user_mentions": [
+      {
+        "screen_name": "JesusCintora",
+        "name": "Jes\u00fas Cintora",
+        "id_str": "235234497",
+        "id": 235234497,
+        "indices": [0, 13]
+      }, {
+        "screen_name": "eduardoinda",
+        "name": "Eduardo Inda",
+        "id_str": "698104968105095170",
+        "id": 698104968105095170,
+        "indices": [92, 104]
+      }
+    ],
+    "urls": [
+      {
+        "url": "https://t.co/XRBBOu3zRP",
+        "expanded_url": "https://twitter.com/i/web/status/930502963440873472",
+        "display_url": "twitter.com/i/web/status/9\u2026",
+        "indices": [117, 140]
+      }
+    ],
+    "hashtags": []
+  },
+  "reply_count": 0,
+  "geo": null,
+  "contributors": null,
+  "favorite_count": 0,
+  "lang": "es",
+  "text": "@JesusCintora dizque pago 10.000 euracos en expresion fisica ay q ver q implosion d empaque @eduardoinda pero ser\u00e1s\u2026 https://t.co/XRBBOu3zRP",
+  "timestamp_ms": "1510684169050",
+  "id_str": "930502963440873472",
+  "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+  "truncated": true,
+  "retweeted": false,
+  "in_reply_to_user_id": 235234497,
+  "created_at": "Tue Nov 14 18:29:29 +0000 2017",
+  "coordinates": null,
+  "in_reply_to_status_id_str": "930238925997772800",
+  "id": 930502963440873472,
+  "filter_level": "low",
+  "is_quote_status": false
+}

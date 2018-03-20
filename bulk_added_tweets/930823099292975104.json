@@ -1,1 +1,122 @@
-{"extended_tweet": {"display_text_range": [0, 274], "entities": {"urls": [], "symbols": [], "hashtags": [], "user_mentions": [{"indices": [60, 76], "name": "Municipalidad Trelew", "id_str": "4426536375", "screen_name": "TWMunicipalidad", "id": 4426536375}]}, "full_text": "Hab\u00eda una vez un funcionario d desarrollo territorial de la @TWMunicipalidad q se parece a cabello de \u00e1ngel de condorito, q al grito d \"vieja trae el arma\" no se puso d acuerdo con otro tipo de ladr\u00f3n a el, sobre la cometa d la obra de la plaza que ten\u00eda gurdada en su casa."}, "favorited": false, "lang": "es", "favorite_count": 0, "reply_count": 0, "geo": null, "contributors": null, "text": "Hab\u00eda una vez un funcionario d desarrollo territorial de la @TWMunicipalidad q se parece a cabello de \u00e1ngel de cond\u2026 https://t.co/LJNCW3EjFd", "created_at": "Wed Nov 15 15:41:35 +0000 2017", "place": {"place_type": "city", "full_name": "Trelew, Argentina", "country": "Argentina", "name": "Trelew", "url": "https://api.twitter.com/1.1/geo/id/00aecc853a5cea98.json", "country_code": "AR", "bounding_box": {"type": "Polygon", "coordinates": [[[-65.380571, -43.279256], [-65.380571, -43.232858], [-65.274193, -43.232858], [-65.274193, -43.279256]]]}, "id": "00aecc853a5cea98", "attributes": {}}, "user": {"profile_text_color": "333333", "lang": "es", "location": "Trelew, Argentina", "friends_count": 240, "profile_link_color": "1DA1F2", "profile_image_url_https": "https://pbs.twimg.com/profile_images/921028669975523328/AJxCG6FH_normal.jpg", "contributors_enabled": false, "following": null, "is_translator": false, "verified": false, "profile_banner_url": "https://pbs.twimg.com/profile_banners/607249899/1479788260", "utc_offset": 0, "geo_enabled": true, "profile_sidebar_border_color": "C0DEED", "created_at": "Wed Jun 13 12:28:04 +0000 2012", "description": null, "profile_image_url": "http://pbs.twimg.com/profile_images/921028669975523328/AJxCG6FH_normal.jpg", "profile_background_color": "C0DEED", "listed_count": 0, "follow_request_sent": null, "profile_background_tile": false, "followers_count": 84, "name": "LewisJones", "notifications": null, "default_profile_image": false, "url": null, "favourites_count": 223, "screen_name": "Petardo77", "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png", "profile_sidebar_fill_color": "DDEEF6", "profile_use_background_image": true, "translator_type": "none", "time_zone": "London", "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", "statuses_count": 815, "id": 607249899, "default_profile": true, "protected": false, "id_str": "607249899"}, "in_reply_to_user_id_str": null, "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>", "filter_level": "low", "is_quote_status": false, "in_reply_to_status_id": null, "in_reply_to_user_id": null, "quote_count": 0, "retweeted": false, "in_reply_to_screen_name": null, "retweet_count": 0, "in_reply_to_status_id_str": null, "coordinates": null, "id": 930823099292975104, "truncated": true, "entities": {"urls": [{"url": "https://t.co/LJNCW3EjFd", "display_url": "twitter.com/i/web/status/9\u2026", "indices": [117, 140], "expanded_url": "https://twitter.com/i/web/status/930823099292975104"}], "symbols": [], "hashtags": [], "user_mentions": [{"indices": [60, 76], "name": "Municipalidad Trelew", "id_str": "4426536375", "screen_name": "TWMunicipalidad", "id": 4426536375}]}, "timestamp_ms": "1510760495385", "id_str": "930823099292975104"}
+{
+  "extended_tweet": {
+    "display_text_range": [0, 274],
+    "entities": {
+      "urls": [],
+      "symbols": [],
+      "hashtags": [],
+      "user_mentions": [
+        {
+          "indices": [60, 76],
+          "name": "Municipalidad Trelew",
+          "id_str": "4426536375",
+          "screen_name": "TWMunicipalidad",
+          "id": 4426536375
+        }
+      ]
+    },
+    "full_text": "Hab\u00eda una vez un funcionario d desarrollo territorial de la @TWMunicipalidad q se parece a cabello de \u00e1ngel de condorito, q al grito d \"vieja trae el arma\" no se puso d acuerdo con otro tipo de ladr\u00f3n a el, sobre la cometa d la obra de la plaza que ten\u00eda gurdada en su casa."
+  },
+  "favorited": false,
+  "lang": "es",
+  "favorite_count": 0,
+  "reply_count": 0,
+  "geo": null,
+  "contributors": null,
+  "text": "Hab\u00eda una vez un funcionario d desarrollo territorial de la @TWMunicipalidad q se parece a cabello de \u00e1ngel de cond\u2026 https://t.co/LJNCW3EjFd",
+  "created_at": "Wed Nov 15 15:41:35 +0000 2017",
+  "place": {
+    "place_type": "city",
+    "full_name": "Trelew, Argentina",
+    "country": "Argentina",
+    "name": "Trelew",
+    "url": "https://api.twitter.com/1.1/geo/id/00aecc853a5cea98.json",
+    "country_code": "AR",
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [[-65.380571, -43.279256], [-65.380571, -43.232858], [-65.274193, -43.232858], [-65.274193, -43.279256]]
+      ]
+    },
+    "id": "00aecc853a5cea98",
+    "attributes": {}
+  },
+  "user": {
+    "profile_text_color": "333333",
+    "lang": "es",
+    "location": "Trelew, Argentina",
+    "friends_count": 240,
+    "profile_link_color": "1DA1F2",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/921028669975523328/AJxCG6FH_normal.jpg",
+    "contributors_enabled": false,
+    "following": null,
+    "is_translator": false,
+    "verified": false,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/607249899/1479788260",
+    "utc_offset": 0,
+    "geo_enabled": true,
+    "profile_sidebar_border_color": "C0DEED",
+    "created_at": "Wed Jun 13 12:28:04 +0000 2012",
+    "description": null,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/921028669975523328/AJxCG6FH_normal.jpg",
+    "profile_background_color": "C0DEED",
+    "listed_count": 0,
+    "follow_request_sent": null,
+    "profile_background_tile": false,
+    "followers_count": 84,
+    "name": "LewisJones",
+    "notifications": null,
+    "default_profile_image": false,
+    "url": null,
+    "favourites_count": 223,
+    "screen_name": "Petardo77",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_use_background_image": true,
+    "translator_type": "none",
+    "time_zone": "London",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "statuses_count": 815,
+    "id": 607249899,
+    "default_profile": true,
+    "protected": false,
+    "id_str": "607249899"
+  },
+  "in_reply_to_user_id_str": null,
+  "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+  "filter_level": "low",
+  "is_quote_status": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_user_id": null,
+  "quote_count": 0,
+  "retweeted": false,
+  "in_reply_to_screen_name": null,
+  "retweet_count": 0,
+  "in_reply_to_status_id_str": null,
+  "coordinates": null,
+  "id": 930823099292975104,
+  "truncated": true,
+  "entities": {
+    "urls": [
+      {
+        "url": "https://t.co/LJNCW3EjFd",
+        "display_url": "twitter.com/i/web/status/9\u2026",
+        "indices": [117, 140],
+        "expanded_url": "https://twitter.com/i/web/status/930823099292975104"
+      }
+    ],
+    "symbols": [],
+    "hashtags": [],
+    "user_mentions": [
+      {
+        "indices": [60, 76],
+        "name": "Municipalidad Trelew",
+        "id_str": "4426536375",
+        "screen_name": "TWMunicipalidad",
+        "id": 4426536375
+      }
+    ]
+  },
+  "timestamp_ms": "1510760495385",
+  "id_str": "930823099292975104"
+}

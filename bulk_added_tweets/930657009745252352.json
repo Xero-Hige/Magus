@@ -1,1 +1,106 @@
-{"geo": null, "filter_level": "low", "in_reply_to_status_id": null, "lang": "es", "favorite_count": 0, "coordinates": null, "favorited": false, "place": {"name": "San Vicente", "full_name": "San Vicente, Argentina", "place_type": "city", "country": "Argentina", "id": "01c0a65e1a84b613", "bounding_box": {"type": "Polygon", "coordinates": [[[-58.440701, -35.045825], [-58.440701, -34.948166], [-58.351194, -34.948166], [-58.351194, -35.045825]]]}, "attributes": {}, "url": "https://api.twitter.com/1.1/geo/id/01c0a65e1a84b613.json", "country_code": "AR"}, "contributors": null, "entities": {"hashtags": [], "urls": [{"display_url": "twitter.com/i/web/status/9\u2026", "expanded_url": "https://twitter.com/i/web/status/930657009745252352", "url": "https://t.co/7v6rreu49H", "indices": [117, 140]}], "symbols": [], "user_mentions": []}, "id": 930657009745252352, "user": {"followers_count": 47, "profile_background_image_url": "", "profile_background_color": "F5F8FA", "translator_type": "none", "profile_image_url": "http://pbs.twimg.com/profile_images/925196950516977665/E5Fwzzl9_normal.jpg", "profile_banner_url": "https://pbs.twimg.com/profile_banners/861711080489463809/1509687570", "default_profile": true, "utc_offset": null, "lang": "es", "url": "https://www.facebook.com/profile.php?id=100004294868236", "profile_background_image_url_https": "", "profile_image_url_https": "https://pbs.twimg.com/profile_images/925196950516977665/E5Fwzzl9_normal.jpg", "time_zone": null, "profile_sidebar_border_color": "C0DEED", "profile_use_background_image": true, "id": 861711080489463809, "profile_link_color": "1DA1F2", "profile_sidebar_fill_color": "DDEEF6", "profile_background_tile": false, "geo_enabled": true, "id_str": "861711080489463809", "verified": false, "name": "Gusty casla", "is_translator": false, "notifications": null, "following": null, "friends_count": 514, "contributors_enabled": false, "screen_name": "GustyMoreno7", "created_at": "Mon May 08 22:35:06 +0000 2017", "profile_text_color": "333333", "favourites_count": 3418, "follow_request_sent": null, "description": "Algunos persiguen la felicidad, yo la cre\u00f3. \ud83d\udcab\u264f\nSan Lorenzo y f\u00fatbol amor interminable 7 buffarini \ud83d\udc99\u2764\ud83d\udc99", "default_profile_image": false, "location": "San Vicente, Argentina", "listed_count": 0, "protected": false, "statuses_count": 1028}, "id_str": "930657009745252352", "retweet_count": 0, "retweeted": false, "quote_count": 0, "truncated": true, "in_reply_to_status_id_str": null, "reply_count": 0, "created_at": "Wed Nov 15 04:41:36 +0000 2017", "is_quote_status": false, "in_reply_to_user_id": null, "timestamp_ms": "1510720896551", "text": "Seamos afectuosos, porque si perdieramos a ciertas personas, probablemente nos arrepentir\u00edamos profundamente por no\u2026 https://t.co/7v6rreu49H", "extended_tweet": {"full_text": "Seamos afectuosos, porque si perdieramos a ciertas personas, probablemente nos arrepentir\u00edamos profundamente por no haber dicho lo que sent\u00edamos y realmente disfrutar el tiempo compartido. Seamos afectuosos, porque nunca sabemos cu\u00e1ndo va a ser la \u00faltima vez con aquella persona.", "display_text_range": [0, 279], "entities": {"hashtags": [], "urls": [], "symbols": [], "user_mentions": []}}, "in_reply_to_user_id_str": null, "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>", "in_reply_to_screen_name": null}
+{
+  "geo": null,
+  "filter_level": "low",
+  "in_reply_to_status_id": null,
+  "lang": "es",
+  "favorite_count": 0,
+  "coordinates": null,
+  "favorited": false,
+  "place": {
+    "name": "San Vicente",
+    "full_name": "San Vicente, Argentina",
+    "place_type": "city",
+    "country": "Argentina",
+    "id": "01c0a65e1a84b613",
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [[-58.440701, -35.045825], [-58.440701, -34.948166], [-58.351194, -34.948166], [-58.351194, -35.045825]]
+      ]
+    },
+    "attributes": {},
+    "url": "https://api.twitter.com/1.1/geo/id/01c0a65e1a84b613.json",
+    "country_code": "AR"
+  },
+  "contributors": null,
+  "entities": {
+    "hashtags": [],
+    "urls": [
+      {
+        "display_url": "twitter.com/i/web/status/9\u2026",
+        "expanded_url": "https://twitter.com/i/web/status/930657009745252352",
+        "url": "https://t.co/7v6rreu49H",
+        "indices": [117, 140]
+      }
+    ],
+    "symbols": [],
+    "user_mentions": []
+  },
+  "id": 930657009745252352,
+  "user": {
+    "followers_count": 47,
+    "profile_background_image_url": "",
+    "profile_background_color": "F5F8FA",
+    "translator_type": "none",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/925196950516977665/E5Fwzzl9_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/861711080489463809/1509687570",
+    "default_profile": true,
+    "utc_offset": null,
+    "lang": "es",
+    "url": "https://www.facebook.com/profile.php?id=100004294868236",
+    "profile_background_image_url_https": "",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/925196950516977665/E5Fwzzl9_normal.jpg",
+    "time_zone": null,
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_use_background_image": true,
+    "id": 861711080489463809,
+    "profile_link_color": "1DA1F2",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_background_tile": false,
+    "geo_enabled": true,
+    "id_str": "861711080489463809",
+    "verified": false,
+    "name": "Gusty casla",
+    "is_translator": false,
+    "notifications": null,
+    "following": null,
+    "friends_count": 514,
+    "contributors_enabled": false,
+    "screen_name": "GustyMoreno7",
+    "created_at": "Mon May 08 22:35:06 +0000 2017",
+    "profile_text_color": "333333",
+    "favourites_count": 3418,
+    "follow_request_sent": null,
+    "description": "Algunos persiguen la felicidad, yo la cre\u00f3. \ud83d\udcab\u264f\nSan Lorenzo y f\u00fatbol amor interminable 7 buffarini \ud83d\udc99\u2764\ud83d\udc99",
+    "default_profile_image": false,
+    "location": "San Vicente, Argentina",
+    "listed_count": 0,
+    "protected": false,
+    "statuses_count": 1028
+  },
+  "id_str": "930657009745252352",
+  "retweet_count": 0,
+  "retweeted": false,
+  "quote_count": 0,
+  "truncated": true,
+  "in_reply_to_status_id_str": null,
+  "reply_count": 0,
+  "created_at": "Wed Nov 15 04:41:36 +0000 2017",
+  "is_quote_status": false,
+  "in_reply_to_user_id": null,
+  "timestamp_ms": "1510720896551",
+  "text": "Seamos afectuosos, porque si perdieramos a ciertas personas, probablemente nos arrepentir\u00edamos profundamente por no\u2026 https://t.co/7v6rreu49H",
+  "extended_tweet": {
+    "full_text": "Seamos afectuosos, porque si perdieramos a ciertas personas, probablemente nos arrepentir\u00edamos profundamente por no haber dicho lo que sent\u00edamos y realmente disfrutar el tiempo compartido. Seamos afectuosos, porque nunca sabemos cu\u00e1ndo va a ser la \u00faltima vez con aquella persona.",
+    "display_text_range": [0, 279],
+    "entities": {
+      "hashtags": [],
+      "urls": [],
+      "symbols": [],
+      "user_mentions": []
+    }
+  },
+  "in_reply_to_user_id_str": null,
+  "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+  "in_reply_to_screen_name": null
+}

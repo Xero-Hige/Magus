@@ -1,1 +1,125 @@
-{"geo": null, "filter_level": "low", "in_reply_to_status_id": null, "lang": "es", "favorite_count": 0, "coordinates": null, "favorited": false, "place": {"name": "Ju\u00e1rez", "full_name": "Ju\u00e1rez, Chihuahua", "place_type": "city", "country": "M\u00e9xico", "id": "77d45fff09fe6f8a", "bounding_box": {"type": "Polygon", "coordinates": [[[-106.950638, 31.120681], [-106.950638, 31.783867], [-106.185378, 31.783867], [-106.185378, 31.120681]]]}, "attributes": {}, "url": "https://api.twitter.com/1.1/geo/id/77d45fff09fe6f8a.json", "country_code": "MX"}, "contributors": null, "entities": {"hashtags": [{"text": "Spurs", "indices": [6, 12]}, {"text": "Mavs", "indices": [84, 89]}], "urls": [{"display_url": "twitter.com/i/web/status/9\u2026", "expanded_url": "https://twitter.com/i/web/status/930644512090804224", "url": "https://t.co/Fd2kDXF3gS", "indices": [117, 140]}], "symbols": [], "user_mentions": []}, "id": 930644512090804224, "user": {"followers_count": 151, "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/278271877/Spurs_00.jpg", "profile_background_color": "131516", "translator_type": "regular", "profile_image_url": "http://pbs.twimg.com/profile_images/920707690841673728/ABYbE2JG_normal.jpg", "profile_banner_url": "https://pbs.twimg.com/profile_banners/156782176/1401636976", "default_profile": false, "utc_offset": -21600, "lang": "es", "url": null, "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/278271877/Spurs_00.jpg", "profile_image_url_https": "https://pbs.twimg.com/profile_images/920707690841673728/ABYbE2JG_normal.jpg", "time_zone": "Mexico City", "profile_sidebar_border_color": "FFFFFF", "profile_use_background_image": true, "id": 156782176, "profile_link_color": "009999", "profile_sidebar_fill_color": "EFEFEF", "profile_background_tile": false, "geo_enabled": true, "id_str": "156782176", "verified": false, "name": "Dave Betancourt", "is_translator": false, "notifications": null, "following": null, "friends_count": 517, "contributors_enabled": false, "screen_name": "duncanba21", "created_at": "Thu Jun 17 22:24:47 +0000 2010", "profile_text_color": "333333", "favourites_count": 1519, "follow_request_sent": null, "description": "#GoSpursGo", "default_profile_image": false, "location": "Todo M\u00e9xico.", "listed_count": 0, "protected": false, "statuses_count": 8835}, "id_str": "930644512090804224", "retweet_count": 0, "retweeted": false, "quote_count": 0, "truncated": true, "in_reply_to_status_id_str": null, "reply_count": 0, "created_at": "Wed Nov 15 03:51:56 +0000 2017", "is_quote_status": false, "in_reply_to_user_id": null, "timestamp_ms": "1510717916878", "text": "Cerca #Spurs de concretar victoria en Dallas sin hacer un papel fuera de serie. Los #Mavs no levantan y parecen ser\u2026 https://t.co/Fd2kDXF3gS", "extended_tweet": {"full_text": "Cerca #Spurs de concretar victoria en Dallas sin hacer un papel fuera de serie. Los #Mavs no levantan y parecen ser un proyecto destinado a mediano plazo. La transici\u00f3n exitosa de una generaci\u00f3n a otra en el deporte es un arte. #NBA", "display_text_range": [0, 232], "entities": {"hashtags": [{"text": "Spurs", "indices": [6, 12]}, {"text": "Mavs", "indices": [84, 89]}, {"text": "NBA", "indices": [228, 232]}], "urls": [], "symbols": [], "user_mentions": []}}, "in_reply_to_user_id_str": null, "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>", "in_reply_to_screen_name": null}
+{
+  "geo": null,
+  "filter_level": "low",
+  "in_reply_to_status_id": null,
+  "lang": "es",
+  "favorite_count": 0,
+  "coordinates": null,
+  "favorited": false,
+  "place": {
+    "name": "Ju\u00e1rez",
+    "full_name": "Ju\u00e1rez, Chihuahua",
+    "place_type": "city",
+    "country": "M\u00e9xico",
+    "id": "77d45fff09fe6f8a",
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [[-106.950638, 31.120681], [-106.950638, 31.783867], [-106.185378, 31.783867], [-106.185378, 31.120681]]
+      ]
+    },
+    "attributes": {},
+    "url": "https://api.twitter.com/1.1/geo/id/77d45fff09fe6f8a.json",
+    "country_code": "MX"
+  },
+  "contributors": null,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "Spurs",
+        "indices": [6, 12]
+      }, {
+        "text": "Mavs",
+        "indices": [84, 89]
+      }
+    ],
+    "urls": [
+      {
+        "display_url": "twitter.com/i/web/status/9\u2026",
+        "expanded_url": "https://twitter.com/i/web/status/930644512090804224",
+        "url": "https://t.co/Fd2kDXF3gS",
+        "indices": [117, 140]
+      }
+    ],
+    "symbols": [],
+    "user_mentions": []
+  },
+  "id": 930644512090804224,
+  "user": {
+    "followers_count": 151,
+    "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/278271877/Spurs_00.jpg",
+    "profile_background_color": "131516",
+    "translator_type": "regular",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/920707690841673728/ABYbE2JG_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/156782176/1401636976",
+    "default_profile": false,
+    "utc_offset": -21600,
+    "lang": "es",
+    "url": null,
+    "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/278271877/Spurs_00.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/920707690841673728/ABYbE2JG_normal.jpg",
+    "time_zone": "Mexico City",
+    "profile_sidebar_border_color": "FFFFFF",
+    "profile_use_background_image": true,
+    "id": 156782176,
+    "profile_link_color": "009999",
+    "profile_sidebar_fill_color": "EFEFEF",
+    "profile_background_tile": false,
+    "geo_enabled": true,
+    "id_str": "156782176",
+    "verified": false,
+    "name": "Dave Betancourt",
+    "is_translator": false,
+    "notifications": null,
+    "following": null,
+    "friends_count": 517,
+    "contributors_enabled": false,
+    "screen_name": "duncanba21",
+    "created_at": "Thu Jun 17 22:24:47 +0000 2010",
+    "profile_text_color": "333333",
+    "favourites_count": 1519,
+    "follow_request_sent": null,
+    "description": "#GoSpursGo",
+    "default_profile_image": false,
+    "location": "Todo M\u00e9xico.",
+    "listed_count": 0,
+    "protected": false,
+    "statuses_count": 8835
+  },
+  "id_str": "930644512090804224",
+  "retweet_count": 0,
+  "retweeted": false,
+  "quote_count": 0,
+  "truncated": true,
+  "in_reply_to_status_id_str": null,
+  "reply_count": 0,
+  "created_at": "Wed Nov 15 03:51:56 +0000 2017",
+  "is_quote_status": false,
+  "in_reply_to_user_id": null,
+  "timestamp_ms": "1510717916878",
+  "text": "Cerca #Spurs de concretar victoria en Dallas sin hacer un papel fuera de serie. Los #Mavs no levantan y parecen ser\u2026 https://t.co/Fd2kDXF3gS",
+  "extended_tweet": {
+    "full_text": "Cerca #Spurs de concretar victoria en Dallas sin hacer un papel fuera de serie. Los #Mavs no levantan y parecen ser un proyecto destinado a mediano plazo. La transici\u00f3n exitosa de una generaci\u00f3n a otra en el deporte es un arte. #NBA",
+    "display_text_range": [0, 232],
+    "entities": {
+      "hashtags": [
+        {
+          "text": "Spurs",
+          "indices": [6, 12]
+        }, {
+          "text": "Mavs",
+          "indices": [84, 89]
+        }, {
+          "text": "NBA",
+          "indices": [228, 232]
+        }
+      ],
+      "urls": [],
+      "symbols": [],
+      "user_mentions": []
+    }
+  },
+  "in_reply_to_user_id_str": null,
+  "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+  "in_reply_to_screen_name": null
+}

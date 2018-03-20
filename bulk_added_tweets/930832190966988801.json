@@ -1,1 +1,103 @@
-{"extended_tweet": {"display_text_range": [0, 219], "entities": {"urls": [], "symbols": [], "hashtags": [], "user_mentions": []}, "full_text": "Me han atendido tres mujeres distintas. Trato amable y considerado. Diligencias solucionadas. Por momentos me parec\u00eda estar conversando con  un familiar (con el que solo se coincide en las navidades o en los funerales)."}, "favorited": false, "lang": "es", "favorite_count": 0, "reply_count": 0, "geo": null, "contributors": null, "text": "Me han atendido tres mujeres distintas. Trato amable y considerado. Diligencias solucionadas. Por momentos me parec\u2026 https://t.co/WO4ztaWoE3", "created_at": "Wed Nov 15 16:17:43 +0000 2017", "place": {"place_type": "city", "full_name": "Barcelona, Espa\u00f1a", "country": "Espa\u00f1a", "name": "Barcelona", "url": "https://api.twitter.com/1.1/geo/id/1a27537478dd8e38.json", "country_code": "ES", "bounding_box": {"type": "Polygon", "coordinates": [[[2.052477, 41.317048], [2.052477, 41.468266], [2.229978, 41.468266], [2.229978, 41.317048]]]}, "id": "1a27537478dd8e38", "attributes": {}}, "user": {"profile_text_color": "787878", "lang": "es", "location": null, "friends_count": 482, "profile_link_color": "990000", "profile_image_url_https": "https://pbs.twimg.com/profile_images/539487140984258560/aKztlmbA_normal.jpeg", "contributors_enabled": false, "following": null, "is_translator": false, "verified": false, "utc_offset": -10800, "geo_enabled": true, "profile_sidebar_border_color": "969696", "created_at": "Wed Aug 10 13:52:08 +0000 2011", "description": null, "profile_image_url": "http://pbs.twimg.com/profile_images/539487140984258560/aKztlmbA_normal.jpeg", "profile_background_color": "131516", "listed_count": 26, "follow_request_sent": null, "profile_background_tile": true, "followers_count": 2433, "name": "Didac Alcaraz", "notifications": null, "default_profile_image": false, "url": "http://didacalcaraz.bigcartel.com/", "favourites_count": 5, "screen_name": "didac_alcaraz", "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif", "profile_sidebar_fill_color": "2B282B", "profile_use_background_image": true, "translator_type": "none", "time_zone": "Greenland", "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif", "statuses_count": 10138, "id": 352343097, "default_profile": false, "protected": false, "id_str": "352343097"}, "in_reply_to_user_id_str": "352343097", "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>", "filter_level": "low", "is_quote_status": false, "in_reply_to_status_id": 930832101099954176, "in_reply_to_user_id": 352343097, "quote_count": 0, "retweeted": false, "in_reply_to_screen_name": "didac_alcaraz", "retweet_count": 0, "in_reply_to_status_id_str": "930832101099954176", "coordinates": null, "id": 930832190966988801, "truncated": true, "entities": {"urls": [{"url": "https://t.co/WO4ztaWoE3", "display_url": "twitter.com/i/web/status/9\u2026", "indices": [117, 140], "expanded_url": "https://twitter.com/i/web/status/930832190966988801"}], "symbols": [], "hashtags": [], "user_mentions": []}, "timestamp_ms": "1510762663009", "id_str": "930832190966988801"}
+{
+  "extended_tweet": {
+    "display_text_range": [0, 219],
+    "entities": {
+      "urls": [],
+      "symbols": [],
+      "hashtags": [],
+      "user_mentions": []
+    },
+    "full_text": "Me han atendido tres mujeres distintas. Trato amable y considerado. Diligencias solucionadas. Por momentos me parec\u00eda estar conversando con  un familiar (con el que solo se coincide en las navidades o en los funerales)."
+  },
+  "favorited": false,
+  "lang": "es",
+  "favorite_count": 0,
+  "reply_count": 0,
+  "geo": null,
+  "contributors": null,
+  "text": "Me han atendido tres mujeres distintas. Trato amable y considerado. Diligencias solucionadas. Por momentos me parec\u2026 https://t.co/WO4ztaWoE3",
+  "created_at": "Wed Nov 15 16:17:43 +0000 2017",
+  "place": {
+    "place_type": "city",
+    "full_name": "Barcelona, Espa\u00f1a",
+    "country": "Espa\u00f1a",
+    "name": "Barcelona",
+    "url": "https://api.twitter.com/1.1/geo/id/1a27537478dd8e38.json",
+    "country_code": "ES",
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [[[2.052477, 41.317048], [2.052477, 41.468266], [2.229978, 41.468266], [2.229978, 41.317048]]]
+    },
+    "id": "1a27537478dd8e38",
+    "attributes": {}
+  },
+  "user": {
+    "profile_text_color": "787878",
+    "lang": "es",
+    "location": null,
+    "friends_count": 482,
+    "profile_link_color": "990000",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/539487140984258560/aKztlmbA_normal.jpeg",
+    "contributors_enabled": false,
+    "following": null,
+    "is_translator": false,
+    "verified": false,
+    "utc_offset": -10800,
+    "geo_enabled": true,
+    "profile_sidebar_border_color": "969696",
+    "created_at": "Wed Aug 10 13:52:08 +0000 2011",
+    "description": null,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/539487140984258560/aKztlmbA_normal.jpeg",
+    "profile_background_color": "131516",
+    "listed_count": 26,
+    "follow_request_sent": null,
+    "profile_background_tile": true,
+    "followers_count": 2433,
+    "name": "Didac Alcaraz",
+    "notifications": null,
+    "default_profile_image": false,
+    "url": "http://didacalcaraz.bigcartel.com/",
+    "favourites_count": 5,
+    "screen_name": "didac_alcaraz",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+    "profile_sidebar_fill_color": "2B282B",
+    "profile_use_background_image": true,
+    "translator_type": "none",
+    "time_zone": "Greenland",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+    "statuses_count": 10138,
+    "id": 352343097,
+    "default_profile": false,
+    "protected": false,
+    "id_str": "352343097"
+  },
+  "in_reply_to_user_id_str": "352343097",
+  "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+  "filter_level": "low",
+  "is_quote_status": false,
+  "in_reply_to_status_id": 930832101099954176,
+  "in_reply_to_user_id": 352343097,
+  "quote_count": 0,
+  "retweeted": false,
+  "in_reply_to_screen_name": "didac_alcaraz",
+  "retweet_count": 0,
+  "in_reply_to_status_id_str": "930832101099954176",
+  "coordinates": null,
+  "id": 930832190966988801,
+  "truncated": true,
+  "entities": {
+    "urls": [
+      {
+        "url": "https://t.co/WO4ztaWoE3",
+        "display_url": "twitter.com/i/web/status/9\u2026",
+        "indices": [117, 140],
+        "expanded_url": "https://twitter.com/i/web/status/930832190966988801"
+      }
+    ],
+    "symbols": [],
+    "hashtags": [],
+    "user_mentions": []
+  },
+  "timestamp_ms": "1510762663009",
+  "id_str": "930832190966988801"
+}

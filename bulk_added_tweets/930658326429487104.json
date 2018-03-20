@@ -1,1 +1,111 @@
-{"geo": null, "filter_level": "low", "in_reply_to_status_id": 930656911401345025, "lang": "es", "favorite_count": 0, "coordinates": null, "favorited": false, "place": {"name": "San Rafael", "full_name": "San Rafael, Argentina", "place_type": "city", "country": "Argentina", "id": "0149fa643de6c639", "bounding_box": {"type": "Polygon", "coordinates": [[[-68.391296, -34.651038], [-68.391296, -34.589803], [-68.269548, -34.589803], [-68.269548, -34.651038]]]}, "attributes": {}, "url": "https://api.twitter.com/1.1/geo/id/0149fa643de6c639.json", "country_code": "AR"}, "contributors": null, "entities": {"hashtags": [], "urls": [{"display_url": "twitter.com/i/web/status/9\u2026", "expanded_url": "https://twitter.com/i/web/status/930658326429487104", "url": "https://t.co/4UloJdVZW0", "indices": [117, 140]}], "symbols": [], "user_mentions": []}, "id": 930658326429487104, "user": {"followers_count": 123050, "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/657037960458670080/HOVw4LiP.jpg", "profile_background_color": "C6E2EE", "translator_type": "regular", "profile_image_url": "http://pbs.twimg.com/profile_images/785337347256774656/W7KQlLic_normal.jpg", "profile_banner_url": "https://pbs.twimg.com/profile_banners/863335338/1468551704", "default_profile": false, "utc_offset": -10800, "lang": "es", "url": "http://eruditodigital.blogspot.com.ar/", "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/657037960458670080/HOVw4LiP.jpg", "profile_image_url_https": "https://pbs.twimg.com/profile_images/785337347256774656/W7KQlLic_normal.jpg", "time_zone": "Buenos Aires", "profile_sidebar_border_color": "FFFFFF", "profile_use_background_image": true, "id": 863335338, "profile_link_color": "1F98C7", "profile_sidebar_fill_color": "DAECF4", "profile_background_tile": true, "geo_enabled": true, "id_str": "863335338", "verified": false, "name": "Nicolas.A.Delsouc", "is_translator": false, "notifications": null, "following": null, "friends_count": 123509, "contributors_enabled": false, "screen_name": "nickdelsouc", "created_at": "Fri Oct 05 16:45:50 +0000 2012", "profile_text_color": "663B12", "favourites_count": 2835, "follow_request_sent": null, "description": "Nicolas.A.Delsouc D Gr\u00e1fico Publicitario,nacido en Chubut 23/02 Piscis actualmente estudiando Lic en Cs de la Comunicaci\u00f3n (Casi periodista) eruditodigital", "default_profile_image": false, "location": "Rennes-le-Ch\u00e2teau, Francia", "listed_count": 82, "protected": false, "statuses_count": 13752}, "id_str": "930658326429487104", "retweet_count": 0, "retweeted": false, "quote_count": 0, "truncated": true, "in_reply_to_status_id_str": "930656911401345025", "reply_count": 0, "created_at": "Wed Nov 15 04:46:50 +0000 2017", "is_quote_status": false, "in_reply_to_user_id": 863335338, "timestamp_ms": "1510721210473", "text": "Son pobre gente con intelecto mediocre, gente fracasada que nunca llego a nada y nunca van a llegar , siempre van a\u2026 https://t.co/4UloJdVZW0", "extended_tweet": {"full_text": "Son pobre gente con intelecto mediocre, gente fracasada que nunca llego a nada y nunca van a llegar , siempre van a ser par\u00e1sitos de otros van a ir a mendigar como los miserables que son por los canales y en el congreso por un puesto porque es lo \u00fanico que saben hacer #DARPENA", "display_text_range": [0, 277], "entities": {"hashtags": [{"text": "DARPENA", "indices": [269, 277]}], "urls": [], "symbols": [], "user_mentions": []}}, "in_reply_to_user_id_str": "863335338", "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>", "in_reply_to_screen_name": "nickdelsouc"}
+{
+  "geo": null,
+  "filter_level": "low",
+  "in_reply_to_status_id": 930656911401345025,
+  "lang": "es",
+  "favorite_count": 0,
+  "coordinates": null,
+  "favorited": false,
+  "place": {
+    "name": "San Rafael",
+    "full_name": "San Rafael, Argentina",
+    "place_type": "city",
+    "country": "Argentina",
+    "id": "0149fa643de6c639",
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [[-68.391296, -34.651038], [-68.391296, -34.589803], [-68.269548, -34.589803], [-68.269548, -34.651038]]
+      ]
+    },
+    "attributes": {},
+    "url": "https://api.twitter.com/1.1/geo/id/0149fa643de6c639.json",
+    "country_code": "AR"
+  },
+  "contributors": null,
+  "entities": {
+    "hashtags": [],
+    "urls": [
+      {
+        "display_url": "twitter.com/i/web/status/9\u2026",
+        "expanded_url": "https://twitter.com/i/web/status/930658326429487104",
+        "url": "https://t.co/4UloJdVZW0",
+        "indices": [117, 140]
+      }
+    ],
+    "symbols": [],
+    "user_mentions": []
+  },
+  "id": 930658326429487104,
+  "user": {
+    "followers_count": 123050,
+    "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/657037960458670080/HOVw4LiP.jpg",
+    "profile_background_color": "C6E2EE",
+    "translator_type": "regular",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/785337347256774656/W7KQlLic_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/863335338/1468551704",
+    "default_profile": false,
+    "utc_offset": -10800,
+    "lang": "es",
+    "url": "http://eruditodigital.blogspot.com.ar/",
+    "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/657037960458670080/HOVw4LiP.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/785337347256774656/W7KQlLic_normal.jpg",
+    "time_zone": "Buenos Aires",
+    "profile_sidebar_border_color": "FFFFFF",
+    "profile_use_background_image": true,
+    "id": 863335338,
+    "profile_link_color": "1F98C7",
+    "profile_sidebar_fill_color": "DAECF4",
+    "profile_background_tile": true,
+    "geo_enabled": true,
+    "id_str": "863335338",
+    "verified": false,
+    "name": "Nicolas.A.Delsouc",
+    "is_translator": false,
+    "notifications": null,
+    "following": null,
+    "friends_count": 123509,
+    "contributors_enabled": false,
+    "screen_name": "nickdelsouc",
+    "created_at": "Fri Oct 05 16:45:50 +0000 2012",
+    "profile_text_color": "663B12",
+    "favourites_count": 2835,
+    "follow_request_sent": null,
+    "description": "Nicolas.A.Delsouc D Gr\u00e1fico Publicitario,nacido en Chubut 23/02 Piscis actualmente estudiando Lic en Cs de la Comunicaci\u00f3n (Casi periodista) eruditodigital",
+    "default_profile_image": false,
+    "location": "Rennes-le-Ch\u00e2teau, Francia",
+    "listed_count": 82,
+    "protected": false,
+    "statuses_count": 13752
+  },
+  "id_str": "930658326429487104",
+  "retweet_count": 0,
+  "retweeted": false,
+  "quote_count": 0,
+  "truncated": true,
+  "in_reply_to_status_id_str": "930656911401345025",
+  "reply_count": 0,
+  "created_at": "Wed Nov 15 04:46:50 +0000 2017",
+  "is_quote_status": false,
+  "in_reply_to_user_id": 863335338,
+  "timestamp_ms": "1510721210473",
+  "text": "Son pobre gente con intelecto mediocre, gente fracasada que nunca llego a nada y nunca van a llegar , siempre van a\u2026 https://t.co/4UloJdVZW0",
+  "extended_tweet": {
+    "full_text": "Son pobre gente con intelecto mediocre, gente fracasada que nunca llego a nada y nunca van a llegar , siempre van a ser par\u00e1sitos de otros van a ir a mendigar como los miserables que son por los canales y en el congreso por un puesto porque es lo \u00fanico que saben hacer #DARPENA",
+    "display_text_range": [0, 277],
+    "entities": {
+      "hashtags": [
+        {
+          "text": "DARPENA",
+          "indices": [269, 277]
+        }
+      ],
+      "urls": [],
+      "symbols": [],
+      "user_mentions": []
+    }
+  },
+  "in_reply_to_user_id_str": "863335338",
+  "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+  "in_reply_to_screen_name": "nickdelsouc"
+}

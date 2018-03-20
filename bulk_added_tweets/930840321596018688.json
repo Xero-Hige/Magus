@@ -1,1 +1,128 @@
-{"extended_tweet": {"display_text_range": [0, 150], "entities": {"urls": [], "symbols": [], "hashtags": [{"text": "AlcaldesaUsaqu\u00e9nMiente", "indices": [0, 23]}], "user_mentions": [{"indices": [120, 133], "name": "Miguel Uribe Turbay", "id_str": "163341528", "screen_name": "MiguelUribeT", "id": 163341528}, {"indices": [134, 150], "name": "Mayda Vel\u00e1squez R", "id_str": "116465115", "screen_name": "mayda_velasquez", "id": 116465115}]}, "full_text": "#AlcaldesaUsaqu\u00e9nMiente realizaron reuni\u00f3n para firmar actas de vecindad donde confirmaron que si intervendr\u00edan la v\u00eda. @MiguelUribeT @mayda_velasquez"}, "favorited": false, "lang": "es", "favorite_count": 0, "reply_count": 0, "geo": null, "contributors": null, "text": "#AlcaldesaUsaqu\u00e9nMiente realizaron reuni\u00f3n para firmar actas de vecindad donde confirmaron que si intervendr\u00edan la\u2026 https://t.co/PoBY4RG7Rj", "created_at": "Wed Nov 15 16:50:01 +0000 2017", "place": {"place_type": "city", "full_name": "Bogot\u00e1, D.C., Colombia", "country": "Colombia", "name": "Bogot\u00e1, D.C.", "url": "https://api.twitter.com/1.1/geo/id/0161be1b3f98d6c3.json", "country_code": "CO", "bounding_box": {"type": "Polygon", "coordinates": [[[-74.483289, 3.717432], [-74.483289, 4.807135], [-74.004053, 4.807135], [-74.004053, 3.717432]]]}, "id": "0161be1b3f98d6c3", "attributes": {}}, "user": {"profile_text_color": "333333", "lang": "es", "location": "Colombia", "friends_count": 1878, "profile_link_color": "009999", "profile_image_url_https": "https://pbs.twimg.com/profile_images/904486438129082368/GjzP4KtG_normal.jpg", "contributors_enabled": false, "following": null, "is_translator": false, "verified": false, "profile_banner_url": "https://pbs.twimg.com/profile_banners/68797435/1504481321", "utc_offset": -18000, "geo_enabled": true, "profile_sidebar_border_color": "EEEEEE", "created_at": "Tue Aug 25 20:24:18 +0000 2009", "description": "Edil de Usaqu\u00e9n por el Centro Democr\u00e1tico. Fundador Asoc. CREO Colombia. Sergista. Cel 3144815549 #DuquePresidente", "profile_image_url": "http://pbs.twimg.com/profile_images/904486438129082368/GjzP4KtG_normal.jpg", "profile_background_color": "131516", "listed_count": 28, "follow_request_sent": null, "profile_background_tile": true, "followers_count": 7424, "name": "Carlos Florez S.", "notifications": null, "default_profile_image": false, "url": "http://www.carlosflorez.co", "favourites_count": 1552, "screen_name": "CarlosFlorezS", "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/616016462/yimyuxbfzmtwb1mdq9j5.png", "profile_sidebar_fill_color": "EFEFEF", "profile_use_background_image": true, "translator_type": "none", "time_zone": "Bogota", "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/616016462/yimyuxbfzmtwb1mdq9j5.png", "statuses_count": 12857, "id": 68797435, "default_profile": false, "protected": false, "id_str": "68797435"}, "in_reply_to_user_id_str": null, "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>", "filter_level": "low", "is_quote_status": false, "in_reply_to_status_id": null, "in_reply_to_user_id": null, "quote_count": 0, "retweeted": false, "in_reply_to_screen_name": null, "retweet_count": 0, "in_reply_to_status_id_str": null, "coordinates": null, "id": 930840321596018688, "truncated": true, "entities": {"urls": [{"url": "https://t.co/PoBY4RG7Rj", "display_url": "twitter.com/i/web/status/9\u2026", "indices": [116, 139], "expanded_url": "https://twitter.com/i/web/status/930840321596018688"}], "symbols": [], "hashtags": [{"text": "AlcaldesaUsaqu\u00e9nMiente", "indices": [0, 23]}], "user_mentions": []}, "timestamp_ms": "1510764601502", "id_str": "930840321596018688"}
+{
+  "extended_tweet": {
+    "display_text_range": [0, 150],
+    "entities": {
+      "urls": [],
+      "symbols": [],
+      "hashtags": [
+        {
+          "text": "AlcaldesaUsaqu\u00e9nMiente",
+          "indices": [0, 23]
+        }
+      ],
+      "user_mentions": [
+        {
+          "indices": [120, 133],
+          "name": "Miguel Uribe Turbay",
+          "id_str": "163341528",
+          "screen_name": "MiguelUribeT",
+          "id": 163341528
+        }, {
+          "indices": [134, 150],
+          "name": "Mayda Vel\u00e1squez R",
+          "id_str": "116465115",
+          "screen_name": "mayda_velasquez",
+          "id": 116465115
+        }
+      ]
+    },
+    "full_text": "#AlcaldesaUsaqu\u00e9nMiente realizaron reuni\u00f3n para firmar actas de vecindad donde confirmaron que si intervendr\u00edan la v\u00eda. @MiguelUribeT @mayda_velasquez"
+  },
+  "favorited": false,
+  "lang": "es",
+  "favorite_count": 0,
+  "reply_count": 0,
+  "geo": null,
+  "contributors": null,
+  "text": "#AlcaldesaUsaqu\u00e9nMiente realizaron reuni\u00f3n para firmar actas de vecindad donde confirmaron que si intervendr\u00edan la\u2026 https://t.co/PoBY4RG7Rj",
+  "created_at": "Wed Nov 15 16:50:01 +0000 2017",
+  "place": {
+    "place_type": "city",
+    "full_name": "Bogot\u00e1, D.C., Colombia",
+    "country": "Colombia",
+    "name": "Bogot\u00e1, D.C.",
+    "url": "https://api.twitter.com/1.1/geo/id/0161be1b3f98d6c3.json",
+    "country_code": "CO",
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [[[-74.483289, 3.717432], [-74.483289, 4.807135], [-74.004053, 4.807135], [-74.004053, 3.717432]]]
+    },
+    "id": "0161be1b3f98d6c3",
+    "attributes": {}
+  },
+  "user": {
+    "profile_text_color": "333333",
+    "lang": "es",
+    "location": "Colombia",
+    "friends_count": 1878,
+    "profile_link_color": "009999",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/904486438129082368/GjzP4KtG_normal.jpg",
+    "contributors_enabled": false,
+    "following": null,
+    "is_translator": false,
+    "verified": false,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/68797435/1504481321",
+    "utc_offset": -18000,
+    "geo_enabled": true,
+    "profile_sidebar_border_color": "EEEEEE",
+    "created_at": "Tue Aug 25 20:24:18 +0000 2009",
+    "description": "Edil de Usaqu\u00e9n por el Centro Democr\u00e1tico. Fundador Asoc. CREO Colombia. Sergista. Cel 3144815549 #DuquePresidente",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/904486438129082368/GjzP4KtG_normal.jpg",
+    "profile_background_color": "131516",
+    "listed_count": 28,
+    "follow_request_sent": null,
+    "profile_background_tile": true,
+    "followers_count": 7424,
+    "name": "Carlos Florez S.",
+    "notifications": null,
+    "default_profile_image": false,
+    "url": "http://www.carlosflorez.co",
+    "favourites_count": 1552,
+    "screen_name": "CarlosFlorezS",
+    "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/616016462/yimyuxbfzmtwb1mdq9j5.png",
+    "profile_sidebar_fill_color": "EFEFEF",
+    "profile_use_background_image": true,
+    "translator_type": "none",
+    "time_zone": "Bogota",
+    "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/616016462/yimyuxbfzmtwb1mdq9j5.png",
+    "statuses_count": 12857,
+    "id": 68797435,
+    "default_profile": false,
+    "protected": false,
+    "id_str": "68797435"
+  },
+  "in_reply_to_user_id_str": null,
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "filter_level": "low",
+  "is_quote_status": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_user_id": null,
+  "quote_count": 0,
+  "retweeted": false,
+  "in_reply_to_screen_name": null,
+  "retweet_count": 0,
+  "in_reply_to_status_id_str": null,
+  "coordinates": null,
+  "id": 930840321596018688,
+  "truncated": true,
+  "entities": {
+    "urls": [
+      {
+        "url": "https://t.co/PoBY4RG7Rj",
+        "display_url": "twitter.com/i/web/status/9\u2026",
+        "indices": [116, 139],
+        "expanded_url": "https://twitter.com/i/web/status/930840321596018688"
+      }
+    ],
+    "symbols": [],
+    "hashtags": [
+      {
+        "text": "AlcaldesaUsaqu\u00e9nMiente",
+        "indices": [0, 23]
+      }
+    ],
+    "user_mentions": []
+  },
+  "timestamp_ms": "1510764601502",
+  "id_str": "930840321596018688"
+}

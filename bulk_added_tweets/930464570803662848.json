@@ -1,1 +1,121 @@
-{"id": 930464570803662848, "lang": "es", "in_reply_to_status_id_str": "930461635579383808", "truncated": true, "place": {"id": "d16c1b8ae1635978", "country": "Espa\u00f1a", "bounding_box": {"type": "Polygon", "coordinates": [[[-8.471284, 43.301377], [-8.471284, 43.389945], [-8.374342, 43.389945], [-8.374342, 43.301377]]]}, "url": "https://api.twitter.com/1.1/geo/id/d16c1b8ae1635978.json", "full_name": "A Coru\u00f1a, Espa\u00f1a", "attributes": {}, "name": "A Coru\u00f1a", "place_type": "city", "country_code": "ES"}, "favorite_count": 0, "retweeted": false, "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>", "is_quote_status": false, "in_reply_to_status_id": 930461635579383808, "in_reply_to_user_id_str": "1638151070", "in_reply_to_screen_name": "eslatarde", "retweet_count": 0, "quote_count": 0, "timestamp_ms": "1510675015532", "favorited": false, "coordinates": null, "filter_level": "low", "entities": {"urls": [{"indices": [117, 140], "display_url": "twitter.com/i/web/status/9\u2026", "url": "https://t.co/DFRQGkCwdI", "expanded_url": "https://twitter.com/i/web/status/930464570803662848"}], "symbols": [], "user_mentions": [{"screen_name": "eslatarde", "id": 1638151070, "name": "La tarde de Dieter", "indices": [0, 10], "id_str": "1638151070"}], "hashtags": []}, "reply_count": 0, "geo": null, "display_text_range": [11, 140], "text": "@eslatarde El Centro Dram\u00e1tico Galego, aprovechando que la obra de Valle Incl\u00e1n pasaba a ser de dominio p\u00fablico tra\u2026 https://t.co/DFRQGkCwdI", "extended_tweet": {"display_text_range": [11, 253], "entities": {"urls": [], "symbols": [], "user_mentions": [{"screen_name": "eslatarde", "id": 1638151070, "name": "La tarde de Dieter", "indices": [0, 10], "id_str": "1638151070"}], "hashtags": []}, "full_text": "@eslatarde El Centro Dram\u00e1tico Galego, aprovechando que la obra de Valle Incl\u00e1n pasaba a ser de dominio p\u00fablico tradujo y estren\u00f3 una obra de don Ram\u00f3n. El hombre sigue revolvi\u00e9ndose en su tumba. Ah, el traductor cobr\u00f3 por un texto que todos conoc\u00edamos."}, "user": {"statuses_count": 89, "id": 4909757836, "default_profile": false, "favourites_count": 5, "url": null, "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", "verified": false, "profile_image_url_https": "https://pbs.twimg.com/profile_images/735397631363538944/Q34X3B6__normal.jpg", "translator_type": "none", "location": "Santiago de Compostela, Espa\u00f1a", "geo_enabled": true, "utc_offset": null, "notifications": null, "profile_background_tile": false, "friends_count": 135, "is_translator": false, "follow_request_sent": null, "default_profile_image": false, "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png", "profile_background_color": "000000", "profile_link_color": "FAB81E", "profile_use_background_image": false, "time_zone": null, "name": "Lucas Herrador", "profile_text_color": "000000", "profile_sidebar_border_color": "000000", "screen_name": "herrador_lucas", "lang": "es", "following": null, "listed_count": 0, "protected": false, "profile_sidebar_fill_color": "000000", "followers_count": 27, "profile_image_url": "http://pbs.twimg.com/profile_images/735397631363538944/Q34X3B6__normal.jpg", "profile_banner_url": "https://pbs.twimg.com/profile_banners/4909757836/1456869497", "contributors_enabled": false, "created_at": "Sun Feb 14 17:28:51 +0000 2016", "id_str": "4909757836", "description": "Creador y profesor de teatro"}, "created_at": "Tue Nov 14 15:56:55 +0000 2017", "id_str": "930464570803662848", "in_reply_to_user_id": 1638151070, "contributors": null}
+{
+  "id": 930464570803662848,
+  "lang": "es",
+  "in_reply_to_status_id_str": "930461635579383808",
+  "truncated": true,
+  "place": {
+    "id": "d16c1b8ae1635978",
+    "country": "Espa\u00f1a",
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [[[-8.471284, 43.301377], [-8.471284, 43.389945], [-8.374342, 43.389945], [-8.374342, 43.301377]]]
+    },
+    "url": "https://api.twitter.com/1.1/geo/id/d16c1b8ae1635978.json",
+    "full_name": "A Coru\u00f1a, Espa\u00f1a",
+    "attributes": {},
+    "name": "A Coru\u00f1a",
+    "place_type": "city",
+    "country_code": "ES"
+  },
+  "favorite_count": 0,
+  "retweeted": false,
+  "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+  "is_quote_status": false,
+  "in_reply_to_status_id": 930461635579383808,
+  "in_reply_to_user_id_str": "1638151070",
+  "in_reply_to_screen_name": "eslatarde",
+  "retweet_count": 0,
+  "quote_count": 0,
+  "timestamp_ms": "1510675015532",
+  "favorited": false,
+  "coordinates": null,
+  "filter_level": "low",
+  "entities": {
+    "urls": [
+      {
+        "indices": [117, 140],
+        "display_url": "twitter.com/i/web/status/9\u2026",
+        "url": "https://t.co/DFRQGkCwdI",
+        "expanded_url": "https://twitter.com/i/web/status/930464570803662848"
+      }
+    ],
+    "symbols": [],
+    "user_mentions": [
+      {
+        "screen_name": "eslatarde",
+        "id": 1638151070,
+        "name": "La tarde de Dieter",
+        "indices": [0, 10],
+        "id_str": "1638151070"
+      }
+    ],
+    "hashtags": []
+  },
+  "reply_count": 0,
+  "geo": null,
+  "display_text_range": [11, 140],
+  "text": "@eslatarde El Centro Dram\u00e1tico Galego, aprovechando que la obra de Valle Incl\u00e1n pasaba a ser de dominio p\u00fablico tra\u2026 https://t.co/DFRQGkCwdI",
+  "extended_tweet": {
+    "display_text_range": [11, 253],
+    "entities": {
+      "urls": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "screen_name": "eslatarde",
+          "id": 1638151070,
+          "name": "La tarde de Dieter",
+          "indices": [0, 10],
+          "id_str": "1638151070"
+        }
+      ],
+      "hashtags": []
+    },
+    "full_text": "@eslatarde El Centro Dram\u00e1tico Galego, aprovechando que la obra de Valle Incl\u00e1n pasaba a ser de dominio p\u00fablico tradujo y estren\u00f3 una obra de don Ram\u00f3n. El hombre sigue revolvi\u00e9ndose en su tumba. Ah, el traductor cobr\u00f3 por un texto que todos conoc\u00edamos."
+  },
+  "user": {
+    "statuses_count": 89,
+    "id": 4909757836,
+    "default_profile": false,
+    "favourites_count": 5,
+    "url": null,
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "verified": false,
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/735397631363538944/Q34X3B6__normal.jpg",
+    "translator_type": "none",
+    "location": "Santiago de Compostela, Espa\u00f1a",
+    "geo_enabled": true,
+    "utc_offset": null,
+    "notifications": null,
+    "profile_background_tile": false,
+    "friends_count": 135,
+    "is_translator": false,
+    "follow_request_sent": null,
+    "default_profile_image": false,
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_color": "000000",
+    "profile_link_color": "FAB81E",
+    "profile_use_background_image": false,
+    "time_zone": null,
+    "name": "Lucas Herrador",
+    "profile_text_color": "000000",
+    "profile_sidebar_border_color": "000000",
+    "screen_name": "herrador_lucas",
+    "lang": "es",
+    "following": null,
+    "listed_count": 0,
+    "protected": false,
+    "profile_sidebar_fill_color": "000000",
+    "followers_count": 27,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/735397631363538944/Q34X3B6__normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/4909757836/1456869497",
+    "contributors_enabled": false,
+    "created_at": "Sun Feb 14 17:28:51 +0000 2016",
+    "id_str": "4909757836",
+    "description": "Creador y profesor de teatro"
+  },
+  "created_at": "Tue Nov 14 15:56:55 +0000 2017",
+  "id_str": "930464570803662848",
+  "in_reply_to_user_id": 1638151070,
+  "contributors": null
+}

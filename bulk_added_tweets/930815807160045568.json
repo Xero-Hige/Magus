@@ -1,1 +1,127 @@
-{"extended_tweet": {"display_text_range": [0, 183], "entities": {"urls": [], "symbols": [], "hashtags": [{"text": "NomasDelincuenciaenChile", "indices": [158, 183]}], "user_mentions": [{"indices": [96, 112], "name": "Gobierno de Chile", "id_str": "42102939", "screen_name": "GobiernodeChile", "id": 42102939}]}, "full_text": "Lamento lo sucedido al diputado Fulvio Rossi no es santo de mi devoci\u00f3n pero lamentablemente el @GobiernodeChile  le di\u00f3 cancha Tiro y lado a la delincuencia #NomasDelincuenciaenChile"}, "favorited": false, "lang": "es", "favorite_count": 0, "reply_count": 0, "geo": null, "contributors": null, "text": "Lamento lo sucedido al diputado Fulvio Rossi no es santo de mi devoci\u00f3n pero lamentablemente el @GobiernodeChile  l\u2026 https://t.co/cxe11kxe4x", "created_at": "Wed Nov 15 15:12:36 +0000 2017", "place": {"place_type": "city", "full_name": "Rancagua, Chile", "country": "Chile", "name": "Rancagua", "url": "https://api.twitter.com/1.1/geo/id/00b596506d9933be.json", "country_code": "CL", "bounding_box": {"type": "Polygon", "coordinates": [[[-70.941151, -34.215222], [-70.941151, -34.027843], [-70.677001, -34.027843], [-70.677001, -34.215222]]]}, "id": "00b596506d9933be", "attributes": {}}, "user": {"profile_text_color": "333333", "lang": "es", "location": "Rancagua. Chile", "friends_count": 1377, "profile_link_color": "89C9FA", "profile_image_url_https": "https://pbs.twimg.com/profile_images/2674866871/6116deb757d936f5d3dae9527ccbc2f8_normal.png", "contributors_enabled": false, "following": null, "is_translator": false, "verified": false, "profile_banner_url": "https://pbs.twimg.com/profile_banners/65452106/1407941537", "utc_offset": -10800, "geo_enabled": true, "profile_sidebar_border_color": "86A4A6", "created_at": "Thu Aug 13 19:58:19 +0000 2009", "description": "Algo m\u00e1s que 140 caracteres Rancag\u00fcino de tomo y lomo, Emprendedor, Ohigginiano hasta la muerte pero vivo en Vi\u00f1a del Mar", "profile_image_url": "http://pbs.twimg.com/profile_images/2674866871/6116deb757d936f5d3dae9527ccbc2f8_normal.png", "profile_background_color": "709397", "listed_count": 5, "follow_request_sent": null, "profile_background_tile": true, "followers_count": 530, "name": "Roberto Vargas Pino", "notifications": null, "default_profile_image": false, "url": null, "favourites_count": 839, "screen_name": "robertovargasp", "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/281563245/PHOT0035.jpg", "profile_sidebar_fill_color": "97C6C9", "profile_use_background_image": true, "translator_type": "none", "time_zone": "America/Santiago", "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/281563245/PHOT0035.jpg", "statuses_count": 6881, "id": 65452106, "default_profile": false, "protected": false, "id_str": "65452106"}, "in_reply_to_user_id_str": null, "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>", "filter_level": "low", "is_quote_status": false, "in_reply_to_status_id": null, "in_reply_to_user_id": null, "quote_count": 0, "retweeted": false, "in_reply_to_screen_name": null, "retweet_count": 0, "in_reply_to_status_id_str": null, "coordinates": null, "id": 930815807160045568, "truncated": true, "entities": {"urls": [{"url": "https://t.co/cxe11kxe4x", "display_url": "twitter.com/i/web/status/9\u2026", "indices": [117, 140], "expanded_url": "https://twitter.com/i/web/status/930815807160045568"}], "symbols": [], "hashtags": [], "user_mentions": [{"indices": [96, 112], "name": "Gobierno de Chile", "id_str": "42102939", "screen_name": "GobiernodeChile", "id": 42102939}]}, "timestamp_ms": "1510758756805", "id_str": "930815807160045568"}
+{
+  "extended_tweet": {
+    "display_text_range": [0, 183],
+    "entities": {
+      "urls": [],
+      "symbols": [],
+      "hashtags": [
+        {
+          "text": "NomasDelincuenciaenChile",
+          "indices": [158, 183]
+        }
+      ],
+      "user_mentions": [
+        {
+          "indices": [96, 112],
+          "name": "Gobierno de Chile",
+          "id_str": "42102939",
+          "screen_name": "GobiernodeChile",
+          "id": 42102939
+        }
+      ]
+    },
+    "full_text": "Lamento lo sucedido al diputado Fulvio Rossi no es santo de mi devoci\u00f3n pero lamentablemente el @GobiernodeChile  le di\u00f3 cancha Tiro y lado a la delincuencia #NomasDelincuenciaenChile"
+  },
+  "favorited": false,
+  "lang": "es",
+  "favorite_count": 0,
+  "reply_count": 0,
+  "geo": null,
+  "contributors": null,
+  "text": "Lamento lo sucedido al diputado Fulvio Rossi no es santo de mi devoci\u00f3n pero lamentablemente el @GobiernodeChile  l\u2026 https://t.co/cxe11kxe4x",
+  "created_at": "Wed Nov 15 15:12:36 +0000 2017",
+  "place": {
+    "place_type": "city",
+    "full_name": "Rancagua, Chile",
+    "country": "Chile",
+    "name": "Rancagua",
+    "url": "https://api.twitter.com/1.1/geo/id/00b596506d9933be.json",
+    "country_code": "CL",
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [[-70.941151, -34.215222], [-70.941151, -34.027843], [-70.677001, -34.027843], [-70.677001, -34.215222]]
+      ]
+    },
+    "id": "00b596506d9933be",
+    "attributes": {}
+  },
+  "user": {
+    "profile_text_color": "333333",
+    "lang": "es",
+    "location": "Rancagua. Chile",
+    "friends_count": 1377,
+    "profile_link_color": "89C9FA",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/2674866871/6116deb757d936f5d3dae9527ccbc2f8_normal.png",
+    "contributors_enabled": false,
+    "following": null,
+    "is_translator": false,
+    "verified": false,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/65452106/1407941537",
+    "utc_offset": -10800,
+    "geo_enabled": true,
+    "profile_sidebar_border_color": "86A4A6",
+    "created_at": "Thu Aug 13 19:58:19 +0000 2009",
+    "description": "Algo m\u00e1s que 140 caracteres Rancag\u00fcino de tomo y lomo, Emprendedor, Ohigginiano hasta la muerte pero vivo en Vi\u00f1a del Mar",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/2674866871/6116deb757d936f5d3dae9527ccbc2f8_normal.png",
+    "profile_background_color": "709397",
+    "listed_count": 5,
+    "follow_request_sent": null,
+    "profile_background_tile": true,
+    "followers_count": 530,
+    "name": "Roberto Vargas Pino",
+    "notifications": null,
+    "default_profile_image": false,
+    "url": null,
+    "favourites_count": 839,
+    "screen_name": "robertovargasp",
+    "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/281563245/PHOT0035.jpg",
+    "profile_sidebar_fill_color": "97C6C9",
+    "profile_use_background_image": true,
+    "translator_type": "none",
+    "time_zone": "America/Santiago",
+    "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/281563245/PHOT0035.jpg",
+    "statuses_count": 6881,
+    "id": 65452106,
+    "default_profile": false,
+    "protected": false,
+    "id_str": "65452106"
+  },
+  "in_reply_to_user_id_str": null,
+  "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+  "filter_level": "low",
+  "is_quote_status": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_user_id": null,
+  "quote_count": 0,
+  "retweeted": false,
+  "in_reply_to_screen_name": null,
+  "retweet_count": 0,
+  "in_reply_to_status_id_str": null,
+  "coordinates": null,
+  "id": 930815807160045568,
+  "truncated": true,
+  "entities": {
+    "urls": [
+      {
+        "url": "https://t.co/cxe11kxe4x",
+        "display_url": "twitter.com/i/web/status/9\u2026",
+        "indices": [117, 140],
+        "expanded_url": "https://twitter.com/i/web/status/930815807160045568"
+      }
+    ],
+    "symbols": [],
+    "hashtags": [],
+    "user_mentions": [
+      {
+        "indices": [96, 112],
+        "name": "Gobierno de Chile",
+        "id_str": "42102939",
+        "screen_name": "GobiernodeChile",
+        "id": 42102939
+      }
+    ]
+  },
+  "timestamp_ms": "1510758756805",
+  "id_str": "930815807160045568"
+}

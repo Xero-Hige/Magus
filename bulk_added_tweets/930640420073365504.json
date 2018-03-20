@@ -1,1 +1,106 @@
-{"geo": null, "filter_level": "low", "in_reply_to_status_id": null, "lang": "es", "favorite_count": 0, "coordinates": null, "favorited": false, "place": {"name": "Acapulco de Ju\u00e1rez", "full_name": "Acapulco de Ju\u00e1rez, Guerrero", "place_type": "city", "country": "M\u00e9xico", "id": "f1b0438c137d4e04", "bounding_box": {"type": "Polygon", "coordinates": [[[-99.995232, 16.684013], [-99.995232, 17.233886], [-99.476067, 17.233886], [-99.476067, 16.684013]]]}, "attributes": {}, "url": "https://api.twitter.com/1.1/geo/id/f1b0438c137d4e04.json", "country_code": "MX"}, "contributors": null, "entities": {"hashtags": [], "urls": [{"display_url": "twitter.com/i/web/status/9\u2026", "expanded_url": "https://twitter.com/i/web/status/930640420073365504", "url": "https://t.co/naLpeWwkjx", "indices": [117, 140]}], "symbols": [], "user_mentions": []}, "id": 930640420073365504, "user": {"followers_count": 50, "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/851617311/e9d8ec9faee14ecb71995843472832c6.png", "profile_background_color": "DB21C5", "translator_type": "none", "profile_image_url": "http://pbs.twimg.com/profile_images/892865049814904832/ZmDqSsC1_normal.jpg", "profile_banner_url": "https://pbs.twimg.com/profile_banners/831530226/1366845914", "default_profile": false, "utc_offset": -18000, "lang": "es", "url": null, "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/851617311/e9d8ec9faee14ecb71995843472832c6.png", "profile_image_url_https": "https://pbs.twimg.com/profile_images/892865049814904832/ZmDqSsC1_normal.jpg", "time_zone": "Eastern Time (US & Canada)", "profile_sidebar_border_color": "000000", "profile_use_background_image": true, "id": 831530226, "profile_link_color": "CC3196", "profile_sidebar_fill_color": "F4AF01", "profile_background_tile": true, "geo_enabled": true, "id_str": "831530226", "verified": false, "name": "Pierre.Petipu", "is_translator": false, "notifications": null, "following": null, "friends_count": 89, "contributors_enabled": false, "screen_name": "pierrepetipu", "created_at": "Tue Sep 18 17:40:39 +0000 2012", "profile_text_color": "FFFFFF", "favourites_count": 605, "follow_request_sent": null, "description": "SOY LA LIJA QUE ESMERILA Y EL OJO QUE TODO LO VE!! (Mezcalero)", "default_profile_image": false, "location": "Bahia de Santa Lucia", "listed_count": 0, "protected": false, "statuses_count": 5567}, "id_str": "930640420073365504", "retweet_count": 0, "retweeted": false, "quote_count": 0, "truncated": true, "in_reply_to_status_id_str": null, "reply_count": 0, "created_at": "Wed Nov 15 03:35:41 +0000 2017", "is_quote_status": false, "in_reply_to_user_id": null, "timestamp_ms": "1510716941265", "text": "Las diputadas no se comportaron a la altura d su cargo y como mujeres como piden respeto irrespetando a un compa\u00f1er\u2026 https://t.co/naLpeWwkjx", "extended_tweet": {"full_text": "Las diputadas no se comportaron a la altura d su cargo y como mujeres como piden respeto irrespetando a un compa\u00f1ero se hacen tontas solas gritaron lo que todos dicen que gritaron (no somos tontos) y ellas lo saben\nY SI DEBERIAN PEDIR DISCULPAS CLARO SI SU EGO NO FUERA TAN GRANDE", "display_text_range": [0, 280], "entities": {"hashtags": [], "urls": [], "symbols": [], "user_mentions": []}}, "in_reply_to_user_id_str": null, "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>", "in_reply_to_screen_name": null}
+{
+  "geo": null,
+  "filter_level": "low",
+  "in_reply_to_status_id": null,
+  "lang": "es",
+  "favorite_count": 0,
+  "coordinates": null,
+  "favorited": false,
+  "place": {
+    "name": "Acapulco de Ju\u00e1rez",
+    "full_name": "Acapulco de Ju\u00e1rez, Guerrero",
+    "place_type": "city",
+    "country": "M\u00e9xico",
+    "id": "f1b0438c137d4e04",
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [[-99.995232, 16.684013], [-99.995232, 17.233886], [-99.476067, 17.233886], [-99.476067, 16.684013]]
+      ]
+    },
+    "attributes": {},
+    "url": "https://api.twitter.com/1.1/geo/id/f1b0438c137d4e04.json",
+    "country_code": "MX"
+  },
+  "contributors": null,
+  "entities": {
+    "hashtags": [],
+    "urls": [
+      {
+        "display_url": "twitter.com/i/web/status/9\u2026",
+        "expanded_url": "https://twitter.com/i/web/status/930640420073365504",
+        "url": "https://t.co/naLpeWwkjx",
+        "indices": [117, 140]
+      }
+    ],
+    "symbols": [],
+    "user_mentions": []
+  },
+  "id": 930640420073365504,
+  "user": {
+    "followers_count": 50,
+    "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/851617311/e9d8ec9faee14ecb71995843472832c6.png",
+    "profile_background_color": "DB21C5",
+    "translator_type": "none",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/892865049814904832/ZmDqSsC1_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/831530226/1366845914",
+    "default_profile": false,
+    "utc_offset": -18000,
+    "lang": "es",
+    "url": null,
+    "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/851617311/e9d8ec9faee14ecb71995843472832c6.png",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/892865049814904832/ZmDqSsC1_normal.jpg",
+    "time_zone": "Eastern Time (US & Canada)",
+    "profile_sidebar_border_color": "000000",
+    "profile_use_background_image": true,
+    "id": 831530226,
+    "profile_link_color": "CC3196",
+    "profile_sidebar_fill_color": "F4AF01",
+    "profile_background_tile": true,
+    "geo_enabled": true,
+    "id_str": "831530226",
+    "verified": false,
+    "name": "Pierre.Petipu",
+    "is_translator": false,
+    "notifications": null,
+    "following": null,
+    "friends_count": 89,
+    "contributors_enabled": false,
+    "screen_name": "pierrepetipu",
+    "created_at": "Tue Sep 18 17:40:39 +0000 2012",
+    "profile_text_color": "FFFFFF",
+    "favourites_count": 605,
+    "follow_request_sent": null,
+    "description": "SOY LA LIJA QUE ESMERILA Y EL OJO QUE TODO LO VE!! (Mezcalero)",
+    "default_profile_image": false,
+    "location": "Bahia de Santa Lucia",
+    "listed_count": 0,
+    "protected": false,
+    "statuses_count": 5567
+  },
+  "id_str": "930640420073365504",
+  "retweet_count": 0,
+  "retweeted": false,
+  "quote_count": 0,
+  "truncated": true,
+  "in_reply_to_status_id_str": null,
+  "reply_count": 0,
+  "created_at": "Wed Nov 15 03:35:41 +0000 2017",
+  "is_quote_status": false,
+  "in_reply_to_user_id": null,
+  "timestamp_ms": "1510716941265",
+  "text": "Las diputadas no se comportaron a la altura d su cargo y como mujeres como piden respeto irrespetando a un compa\u00f1er\u2026 https://t.co/naLpeWwkjx",
+  "extended_tweet": {
+    "full_text": "Las diputadas no se comportaron a la altura d su cargo y como mujeres como piden respeto irrespetando a un compa\u00f1ero se hacen tontas solas gritaron lo que todos dicen que gritaron (no somos tontos) y ellas lo saben\nY SI DEBERIAN PEDIR DISCULPAS CLARO SI SU EGO NO FUERA TAN GRANDE",
+    "display_text_range": [0, 280],
+    "entities": {
+      "hashtags": [],
+      "urls": [],
+      "symbols": [],
+      "user_mentions": []
+    }
+  },
+  "in_reply_to_user_id_str": null,
+  "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+  "in_reply_to_screen_name": null
+}

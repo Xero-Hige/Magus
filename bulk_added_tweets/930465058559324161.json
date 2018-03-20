@@ -1,1 +1,122 @@
-{"id": 930465058559324161, "lang": "es", "in_reply_to_status_id_str": null, "truncated": true, "place": {"id": "018f1cde6bad9747", "country": "Argentina", "bounding_box": {"type": "Polygon", "coordinates": [[[-58.531792, -34.674453], [-58.531792, -34.534177], [-58.353494, -34.534177], [-58.353494, -34.674453]]]}, "url": "https://api.twitter.com/1.1/geo/id/018f1cde6bad9747.json", "full_name": "Ciudad Aut\u00f3noma de Buenos Aires, Argentina", "attributes": {}, "name": "Ciudad Aut\u00f3noma de Buenos Aires", "place_type": "city", "country_code": "AR"}, "favorite_count": 0, "retweeted": false, "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>", "is_quote_status": false, "in_reply_to_status_id": null, "in_reply_to_user_id_str": null, "in_reply_to_screen_name": null, "retweet_count": 0, "quote_count": 0, "timestamp_ms": "1510675131822", "favorited": false, "coordinates": null, "text": "Los jubilados, pensionados cagaron con el bono de fin de a\u00f1o. \nAs\u00ed no era el ajuste @mauriciomacri era para el que\u2026 https://t.co/MIZVZn7ayP", "entities": {"urls": [{"indices": [116, 139], "display_url": "twitter.com/i/web/status/9\u2026", "url": "https://t.co/MIZVZn7ayP", "expanded_url": "https://twitter.com/i/web/status/930465058559324161"}], "symbols": [], "user_mentions": [{"screen_name": "mauriciomacri", "id": 24900072, "name": "Mauricio Macri", "indices": [84, 98], "id_str": "24900072"}], "hashtags": []}, "reply_count": 0, "geo": null, "filter_level": "low", "extended_tweet": {"display_text_range": [0, 202], "entities": {"urls": [], "symbols": [], "user_mentions": [{"screen_name": "mauriciomacri", "id": 24900072, "name": "Mauricio Macri", "indices": [84, 98], "id_str": "24900072"}], "hashtags": []}, "full_text": "Los jubilados, pensionados cagaron con el bono de fin de a\u00f1o. \nAs\u00ed no era el ajuste @mauriciomacri era para el que no labura y cobra planes sociales pap\u00e1. Esto es muy feo. \nRevertir las medidas urgentes"}, "user": {"statuses_count": 84512, "id": 3218086960, "default_profile": false, "favourites_count": 74427, "url": null, "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", "verified": false, "profile_image_url_https": "https://pbs.twimg.com/profile_images/913046680928387073/tEY1uPmA_normal.jpg", "translator_type": "none", "location": "Argentina", "geo_enabled": true, "utc_offset": -14400, "notifications": null, "profile_background_tile": false, "friends_count": 569, "is_translator": false, "follow_request_sent": null, "default_profile_image": false, "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png", "profile_background_color": "000000", "profile_link_color": "1B95E0", "profile_use_background_image": false, "time_zone": "Atlantic Time (Canada)", "name": "adriana", "profile_text_color": "000000", "profile_sidebar_border_color": "000000", "screen_name": "yosoygemma1", "lang": "es", "following": null, "listed_count": 18, "protected": false, "profile_sidebar_fill_color": "000000", "followers_count": 3288, "profile_image_url": "http://pbs.twimg.com/profile_images/913046680928387073/tEY1uPmA_normal.jpg", "profile_banner_url": "https://pbs.twimg.com/profile_banners/3218086960/1503925488", "contributors_enabled": false, "created_at": "Tue Apr 28 17:29:39 +0000 2015", "id_str": "3218086960", "description": "MUY ANTI K Y ANTI PERONISTA. NO SOY MACRISTA PERO VOTO CAMBIEMOS\nMUY AGN\u00d3STICA."}, "created_at": "Tue Nov 14 15:58:51 +0000 2017", "id_str": "930465058559324161", "in_reply_to_user_id": null, "contributors": null}
+{
+  "id": 930465058559324161,
+  "lang": "es",
+  "in_reply_to_status_id_str": null,
+  "truncated": true,
+  "place": {
+    "id": "018f1cde6bad9747",
+    "country": "Argentina",
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [[-58.531792, -34.674453], [-58.531792, -34.534177], [-58.353494, -34.534177], [-58.353494, -34.674453]]
+      ]
+    },
+    "url": "https://api.twitter.com/1.1/geo/id/018f1cde6bad9747.json",
+    "full_name": "Ciudad Aut\u00f3noma de Buenos Aires, Argentina",
+    "attributes": {},
+    "name": "Ciudad Aut\u00f3noma de Buenos Aires",
+    "place_type": "city",
+    "country_code": "AR"
+  },
+  "favorite_count": 0,
+  "retweeted": false,
+  "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+  "is_quote_status": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "retweet_count": 0,
+  "quote_count": 0,
+  "timestamp_ms": "1510675131822",
+  "favorited": false,
+  "coordinates": null,
+  "text": "Los jubilados, pensionados cagaron con el bono de fin de a\u00f1o. \nAs\u00ed no era el ajuste @mauriciomacri era para el que\u2026 https://t.co/MIZVZn7ayP",
+  "entities": {
+    "urls": [
+      {
+        "indices": [116, 139],
+        "display_url": "twitter.com/i/web/status/9\u2026",
+        "url": "https://t.co/MIZVZn7ayP",
+        "expanded_url": "https://twitter.com/i/web/status/930465058559324161"
+      }
+    ],
+    "symbols": [],
+    "user_mentions": [
+      {
+        "screen_name": "mauriciomacri",
+        "id": 24900072,
+        "name": "Mauricio Macri",
+        "indices": [84, 98],
+        "id_str": "24900072"
+      }
+    ],
+    "hashtags": []
+  },
+  "reply_count": 0,
+  "geo": null,
+  "filter_level": "low",
+  "extended_tweet": {
+    "display_text_range": [0, 202],
+    "entities": {
+      "urls": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "screen_name": "mauriciomacri",
+          "id": 24900072,
+          "name": "Mauricio Macri",
+          "indices": [84, 98],
+          "id_str": "24900072"
+        }
+      ],
+      "hashtags": []
+    },
+    "full_text": "Los jubilados, pensionados cagaron con el bono de fin de a\u00f1o. \nAs\u00ed no era el ajuste @mauriciomacri era para el que no labura y cobra planes sociales pap\u00e1. Esto es muy feo. \nRevertir las medidas urgentes"
+  },
+  "user": {
+    "statuses_count": 84512,
+    "id": 3218086960,
+    "default_profile": false,
+    "favourites_count": 74427,
+    "url": null,
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "verified": false,
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/913046680928387073/tEY1uPmA_normal.jpg",
+    "translator_type": "none",
+    "location": "Argentina",
+    "geo_enabled": true,
+    "utc_offset": -14400,
+    "notifications": null,
+    "profile_background_tile": false,
+    "friends_count": 569,
+    "is_translator": false,
+    "follow_request_sent": null,
+    "default_profile_image": false,
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_color": "000000",
+    "profile_link_color": "1B95E0",
+    "profile_use_background_image": false,
+    "time_zone": "Atlantic Time (Canada)",
+    "name": "adriana",
+    "profile_text_color": "000000",
+    "profile_sidebar_border_color": "000000",
+    "screen_name": "yosoygemma1",
+    "lang": "es",
+    "following": null,
+    "listed_count": 18,
+    "protected": false,
+    "profile_sidebar_fill_color": "000000",
+    "followers_count": 3288,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/913046680928387073/tEY1uPmA_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/3218086960/1503925488",
+    "contributors_enabled": false,
+    "created_at": "Tue Apr 28 17:29:39 +0000 2015",
+    "id_str": "3218086960",
+    "description": "MUY ANTI K Y ANTI PERONISTA. NO SOY MACRISTA PERO VOTO CAMBIEMOS\nMUY AGN\u00d3STICA."
+  },
+  "created_at": "Tue Nov 14 15:58:51 +0000 2017",
+  "id_str": "930465058559324161",
+  "in_reply_to_user_id": null,
+  "contributors": null
+}

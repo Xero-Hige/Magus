@@ -1,1 +1,103 @@
-{"geo": {"type": "Point", "coordinates": [32.68145377, -97.35207728]}, "filter_level": "low", "in_reply_to_status_id": null, "lang": "es", "favorite_count": 0, "coordinates": {"type": "Point", "coordinates": [-97.35207728, 32.68145377]}, "favorited": false, "place": {"name": "Fort Worth", "full_name": "Fort Worth, TX", "place_type": "city", "country": "Estados Unidos", "id": "42e46bc3663a4b5f", "bounding_box": {"type": "Polygon", "coordinates": [[[-97.538285, 32.569477], [-97.538285, 32.990456], [-97.033542, 32.990456], [-97.033542, 32.569477]]]}, "attributes": {}, "url": "https://api.twitter.com/1.1/geo/id/42e46bc3663a4b5f.json", "country_code": "US"}, "contributors": null, "entities": {"hashtags": [], "urls": [{"display_url": "instagram.com/p/Bbf_LIYFOa-/", "expanded_url": "https://www.instagram.com/p/Bbf_LIYFOa-/", "url": "https://t.co/87RfLX0UI2", "indices": [100, 123]}], "symbols": [], "user_mentions": []}, "id": 930629542716329985, "possibly_sensitive": false, "user": {"followers_count": 150, "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png", "profile_background_color": "C0DEED", "translator_type": "none", "profile_image_url": "http://pbs.twimg.com/profile_images/836639143555969024/bvzBddOu_normal.jpg", "profile_banner_url": "https://pbs.twimg.com/profile_banners/1547135377/1506669266", "default_profile": true, "utc_offset": null, "lang": "es", "url": "http://facebook.com/mikyrm", "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", "profile_image_url_https": "https://pbs.twimg.com/profile_images/836639143555969024/bvzBddOu_normal.jpg", "time_zone": null, "profile_sidebar_border_color": "C0DEED", "profile_use_background_image": true, "id": 1547135377, "profile_link_color": "1DA1F2", "profile_sidebar_fill_color": "DDEEF6", "profile_background_tile": false, "geo_enabled": true, "id_str": "1547135377", "verified": false, "name": "Miguel Ram\u00edrez", "is_translator": false, "notifications": null, "following": null, "friends_count": 136, "contributors_enabled": false, "screen_name": "mikyramirez1410", "created_at": "Wed Jun 26 02:14:53 +0000 2013", "profile_text_color": "333333", "favourites_count": 169, "follow_request_sent": null, "description": "Picher de los Diablos Rojos del M\u00e9xico \u26be\nsnap: miky_rmz14\ninstagram: Miguelramirez141", "default_profile_image": false, "location": "Monterrey, Nuevo Le\u00f3n", "listed_count": 1, "protected": false, "statuses_count": 205}, "id_str": "930629542716329985", "retweet_count": 0, "retweeted": false, "quote_count": 0, "truncated": false, "in_reply_to_status_id_str": null, "reply_count": 0, "created_at": "Wed Nov 15 02:52:27 +0000 2017", "is_quote_status": false, "in_reply_to_user_id": null, "source": "<a href=\"http://instagram.com\" rel=\"nofollow\">Instagram</a>", "text": "El exito no es la clave de la felicidad; La felicidad es la clave del exito\ud83d\udcaf\ud83d\udd46 en Guanajuato, Mexico https://t.co/87RfLX0UI2", "timestamp_ms": "1510714347901", "in_reply_to_user_id_str": null, "in_reply_to_screen_name": null}
+{
+  "geo": {
+    "type": "Point",
+    "coordinates": [32.68145377, -97.35207728]
+  },
+  "filter_level": "low",
+  "in_reply_to_status_id": null,
+  "lang": "es",
+  "favorite_count": 0,
+  "coordinates": {
+    "type": "Point",
+    "coordinates": [-97.35207728, 32.68145377]
+  },
+  "favorited": false,
+  "place": {
+    "name": "Fort Worth",
+    "full_name": "Fort Worth, TX",
+    "place_type": "city",
+    "country": "Estados Unidos",
+    "id": "42e46bc3663a4b5f",
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [[-97.538285, 32.569477], [-97.538285, 32.990456], [-97.033542, 32.990456], [-97.033542, 32.569477]]
+      ]
+    },
+    "attributes": {},
+    "url": "https://api.twitter.com/1.1/geo/id/42e46bc3663a4b5f.json",
+    "country_code": "US"
+  },
+  "contributors": null,
+  "entities": {
+    "hashtags": [],
+    "urls": [
+      {
+        "display_url": "instagram.com/p/Bbf_LIYFOa-/",
+        "expanded_url": "https://www.instagram.com/p/Bbf_LIYFOa-/",
+        "url": "https://t.co/87RfLX0UI2",
+        "indices": [100, 123]
+      }
+    ],
+    "symbols": [],
+    "user_mentions": []
+  },
+  "id": 930629542716329985,
+  "possibly_sensitive": false,
+  "user": {
+    "followers_count": 150,
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_color": "C0DEED",
+    "translator_type": "none",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/836639143555969024/bvzBddOu_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1547135377/1506669266",
+    "default_profile": true,
+    "utc_offset": null,
+    "lang": "es",
+    "url": "http://facebook.com/mikyrm",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/836639143555969024/bvzBddOu_normal.jpg",
+    "time_zone": null,
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_use_background_image": true,
+    "id": 1547135377,
+    "profile_link_color": "1DA1F2",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_background_tile": false,
+    "geo_enabled": true,
+    "id_str": "1547135377",
+    "verified": false,
+    "name": "Miguel Ram\u00edrez",
+    "is_translator": false,
+    "notifications": null,
+    "following": null,
+    "friends_count": 136,
+    "contributors_enabled": false,
+    "screen_name": "mikyramirez1410",
+    "created_at": "Wed Jun 26 02:14:53 +0000 2013",
+    "profile_text_color": "333333",
+    "favourites_count": 169,
+    "follow_request_sent": null,
+    "description": "Picher de los Diablos Rojos del M\u00e9xico \u26be\nsnap: miky_rmz14\ninstagram: Miguelramirez141",
+    "default_profile_image": false,
+    "location": "Monterrey, Nuevo Le\u00f3n",
+    "listed_count": 1,
+    "protected": false,
+    "statuses_count": 205
+  },
+  "id_str": "930629542716329985",
+  "retweet_count": 0,
+  "retweeted": false,
+  "quote_count": 0,
+  "truncated": false,
+  "in_reply_to_status_id_str": null,
+  "reply_count": 0,
+  "created_at": "Wed Nov 15 02:52:27 +0000 2017",
+  "is_quote_status": false,
+  "in_reply_to_user_id": null,
+  "source": "<a href=\"http://instagram.com\" rel=\"nofollow\">Instagram</a>",
+  "text": "El exito no es la clave de la felicidad; La felicidad es la clave del exito\ud83d\udcaf\ud83d\udd46 en Guanajuato, Mexico https://t.co/87RfLX0UI2",
+  "timestamp_ms": "1510714347901",
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null
+}

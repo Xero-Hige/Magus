@@ -1,1 +1,121 @@
-{"in_reply_to_screen_name": "CarlosJ52128735", "geo": null, "user": {"followers_count": 703, "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png", "profile_background_color": "C0DEED", "translator_type": "none", "profile_image_url": "http://pbs.twimg.com/profile_images/620042285040967680/aTWyHDNW_normal.jpg", "profile_banner_url": "https://pbs.twimg.com/profile_banners/447890574/1440584357", "default_profile": true, "utc_offset": 7200, "lang": "es", "url": null, "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", "profile_image_url_https": "https://pbs.twimg.com/profile_images/620042285040967680/aTWyHDNW_normal.jpg", "time_zone": "Athens", "profile_sidebar_border_color": "C0DEED", "profile_use_background_image": true, "id": 447890574, "profile_link_color": "1DA1F2", "profile_sidebar_fill_color": "DDEEF6", "profile_background_tile": false, "geo_enabled": true, "id_str": "447890574", "verified": false, "name": "cerumu", "is_translator": false, "notifications": null, "following": null, "friends_count": 715, "contributors_enabled": false, "screen_name": "cerumu", "created_at": "Tue Dec 27 11:17:16 +0000 2011", "profile_text_color": "333333", "favourites_count": 3061, "follow_request_sent": null, "description": null, "default_profile_image": false, "location": null, "listed_count": 4, "protected": false, "statuses_count": 15307}, "filter_level": "low", "in_reply_to_status_id": 930586958241435648, "lang": "es", "display_text_range": [17, 140], "favorited": false, "place": {"name": "Rivas-Vaciamadrid", "full_name": "Rivas-Vaciamadrid, Espa\u00f1a", "place_type": "city", "country": "Espa\u00f1a", "id": "da488f9634588a45", "bounding_box": {"type": "Polygon", "coordinates": [[[-3.585036, 40.287603], [-3.585036, 40.41127], [-3.469876, 40.41127], [-3.469876, 40.287603]]]}, "attributes": {}, "url": "https://api.twitter.com/1.1/geo/id/da488f9634588a45.json", "country_code": "ES"}, "coordinates": null, "entities": {"hashtags": [], "urls": [{"display_url": "twitter.com/i/web/status/9\u2026", "expanded_url": "https://twitter.com/i/web/status/930588526906957824", "url": "https://t.co/3Qrc2rquwR", "indices": [116, 139]}], "symbols": [], "user_mentions": [{"id": 920598155464454145, "id_str": "920598155464454145", "name": "Carlos Javier", "indices": [0, 16], "screen_name": "CarlosJ52128735"}]}, "id": 930588526906957824, "in_reply_to_user_id_str": "920598155464454145", "id_str": "930588526906957824", "retweet_count": 0, "retweeted": false, "quote_count": 0, "truncated": true, "in_reply_to_status_id_str": "930586958241435648", "reply_count": 0, "created_at": "Wed Nov 15 00:09:28 +0000 2017", "is_quote_status": false, "in_reply_to_user_id": 920598155464454145, "timestamp_ms": "1510704568970", "text": "@CarlosJ52128735 Catalu\u00f1a paga 37.000 M/a\u00f1o y recibe 19.000M/a\u00f1o con esa diferencia Rajoy puede repartir sobres de\u2026 https://t.co/3Qrc2rquwR", "extended_tweet": {"full_text": "@CarlosJ52128735 Catalu\u00f1a paga 37.000 M/a\u00f1o y recibe 19.000M/a\u00f1o con esa diferencia Rajoy puede repartir sobres de dinero negro, reformar sus sedes, pagar campa\u00f1as electorales, los que bajaros las prestaciones a parados, dependientes, etc fue el PP, con aquello de \" que se jodan los parados\".", "display_text_range": [17, 293], "entities": {"hashtags": [], "urls": [], "symbols": [], "user_mentions": [{"id": 920598155464454145, "id_str": "920598155464454145", "name": "Carlos Javier", "indices": [0, 16], "screen_name": "CarlosJ52128735"}]}}, "favorite_count": 0, "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>", "contributors": null}
+{
+  "in_reply_to_screen_name": "CarlosJ52128735",
+  "geo": null,
+  "user": {
+    "followers_count": 703,
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_color": "C0DEED",
+    "translator_type": "none",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/620042285040967680/aTWyHDNW_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/447890574/1440584357",
+    "default_profile": true,
+    "utc_offset": 7200,
+    "lang": "es",
+    "url": null,
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/620042285040967680/aTWyHDNW_normal.jpg",
+    "time_zone": "Athens",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_use_background_image": true,
+    "id": 447890574,
+    "profile_link_color": "1DA1F2",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_background_tile": false,
+    "geo_enabled": true,
+    "id_str": "447890574",
+    "verified": false,
+    "name": "cerumu",
+    "is_translator": false,
+    "notifications": null,
+    "following": null,
+    "friends_count": 715,
+    "contributors_enabled": false,
+    "screen_name": "cerumu",
+    "created_at": "Tue Dec 27 11:17:16 +0000 2011",
+    "profile_text_color": "333333",
+    "favourites_count": 3061,
+    "follow_request_sent": null,
+    "description": null,
+    "default_profile_image": false,
+    "location": null,
+    "listed_count": 4,
+    "protected": false,
+    "statuses_count": 15307
+  },
+  "filter_level": "low",
+  "in_reply_to_status_id": 930586958241435648,
+  "lang": "es",
+  "display_text_range": [17, 140],
+  "favorited": false,
+  "place": {
+    "name": "Rivas-Vaciamadrid",
+    "full_name": "Rivas-Vaciamadrid, Espa\u00f1a",
+    "place_type": "city",
+    "country": "Espa\u00f1a",
+    "id": "da488f9634588a45",
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [[[-3.585036, 40.287603], [-3.585036, 40.41127], [-3.469876, 40.41127], [-3.469876, 40.287603]]]
+    },
+    "attributes": {},
+    "url": "https://api.twitter.com/1.1/geo/id/da488f9634588a45.json",
+    "country_code": "ES"
+  },
+  "coordinates": null,
+  "entities": {
+    "hashtags": [],
+    "urls": [
+      {
+        "display_url": "twitter.com/i/web/status/9\u2026",
+        "expanded_url": "https://twitter.com/i/web/status/930588526906957824",
+        "url": "https://t.co/3Qrc2rquwR",
+        "indices": [116, 139]
+      }
+    ],
+    "symbols": [],
+    "user_mentions": [
+      {
+        "id": 920598155464454145,
+        "id_str": "920598155464454145",
+        "name": "Carlos Javier",
+        "indices": [0, 16],
+        "screen_name": "CarlosJ52128735"
+      }
+    ]
+  },
+  "id": 930588526906957824,
+  "in_reply_to_user_id_str": "920598155464454145",
+  "id_str": "930588526906957824",
+  "retweet_count": 0,
+  "retweeted": false,
+  "quote_count": 0,
+  "truncated": true,
+  "in_reply_to_status_id_str": "930586958241435648",
+  "reply_count": 0,
+  "created_at": "Wed Nov 15 00:09:28 +0000 2017",
+  "is_quote_status": false,
+  "in_reply_to_user_id": 920598155464454145,
+  "timestamp_ms": "1510704568970",
+  "text": "@CarlosJ52128735 Catalu\u00f1a paga 37.000 M/a\u00f1o y recibe 19.000M/a\u00f1o con esa diferencia Rajoy puede repartir sobres de\u2026 https://t.co/3Qrc2rquwR",
+  "extended_tweet": {
+    "full_text": "@CarlosJ52128735 Catalu\u00f1a paga 37.000 M/a\u00f1o y recibe 19.000M/a\u00f1o con esa diferencia Rajoy puede repartir sobres de dinero negro, reformar sus sedes, pagar campa\u00f1as electorales, los que bajaros las prestaciones a parados, dependientes, etc fue el PP, con aquello de \" que se jodan los parados\".",
+    "display_text_range": [17, 293],
+    "entities": {
+      "hashtags": [],
+      "urls": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "id": 920598155464454145,
+          "id_str": "920598155464454145",
+          "name": "Carlos Javier",
+          "indices": [0, 16],
+          "screen_name": "CarlosJ52128735"
+        }
+      ]
+    }
+  },
+  "favorite_count": 0,
+  "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+  "contributors": null
+}

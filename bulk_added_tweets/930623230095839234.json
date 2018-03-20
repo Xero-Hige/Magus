@@ -1,1 +1,102 @@
-{"geo": null, "filter_level": "low", "in_reply_to_status_id": null, "lang": "es", "favorite_count": 0, "coordinates": null, "favorited": false, "place": {"name": "Concepci\u00f3n", "full_name": "Concepci\u00f3n, Chile", "place_type": "city", "country": "Chile", "id": "0150459b5095a59f", "bounding_box": {"type": "Polygon", "coordinates": [[[-73.091398, -36.923936], [-73.091398, -36.760435], [-72.845604, -36.760435], [-72.845604, -36.923936]]]}, "attributes": {}, "url": "https://api.twitter.com/1.1/geo/id/0150459b5095a59f.json", "country_code": "CL"}, "contributors": null, "entities": {"hashtags": [{"text": "HolayAdios", "indices": [66, 77]}], "urls": [], "symbols": [], "user_mentions": [{"id": 37966027, "id_str": "37966027", "name": "Monserrat \u00c1lvarez", "indices": [50, 64], "screen_name": "alvarez_monse"}]}, "id": 930623230095839234, "user": {"followers_count": 4126, "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png", "profile_background_color": "C0DEED", "translator_type": "none", "profile_image_url": "http://pbs.twimg.com/profile_images/378800000585273595/6c603ef94572a53d431fb1adaaa9500e_normal.jpeg", "profile_banner_url": "https://pbs.twimg.com/profile_banners/102478173/1443374782", "default_profile": true, "utc_offset": -28800, "lang": "es", "url": null, "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", "profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000585273595/6c603ef94572a53d431fb1adaaa9500e_normal.jpeg", "time_zone": "Pacific Time (US & Canada)", "profile_sidebar_border_color": "C0DEED", "profile_use_background_image": true, "id": 102478173, "profile_link_color": "1DA1F2", "profile_sidebar_fill_color": "DDEEF6", "profile_background_tile": false, "geo_enabled": true, "id_str": "102478173", "verified": false, "name": "marcelo paredes", "is_translator": false, "notifications": null, "following": null, "friends_count": 5003, "contributors_enabled": false, "screen_name": "marce77pc", "created_at": "Wed Jan 06 21:00:13 +0000 2010", "profile_text_color": "333333", "favourites_count": 23138, "follow_request_sent": null, "description": "Ingeniero en Administracion DuocUC, Consejero Regional partido progresista de Chile, Amante de las artes escenicas, polemico...", "default_profile_image": false, "location": "concepcion chile", "listed_count": 20, "protected": false, "statuses_count": 5673}, "id_str": "930623230095839234", "retweet_count": 0, "retweeted": false, "quote_count": 0, "truncated": false, "in_reply_to_status_id_str": null, "reply_count": 0, "created_at": "Wed Nov 15 02:27:22 +0000 2017", "is_quote_status": false, "in_reply_to_user_id": null, "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>", "text": "Q simple pero emocionante el programa\nFelicidades @alvarez_monse \n#HolayAdios", "timestamp_ms": "1510712842855", "in_reply_to_user_id_str": null, "in_reply_to_screen_name": null}
+{
+  "geo": null,
+  "filter_level": "low",
+  "in_reply_to_status_id": null,
+  "lang": "es",
+  "favorite_count": 0,
+  "coordinates": null,
+  "favorited": false,
+  "place": {
+    "name": "Concepci\u00f3n",
+    "full_name": "Concepci\u00f3n, Chile",
+    "place_type": "city",
+    "country": "Chile",
+    "id": "0150459b5095a59f",
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [[-73.091398, -36.923936], [-73.091398, -36.760435], [-72.845604, -36.760435], [-72.845604, -36.923936]]
+      ]
+    },
+    "attributes": {},
+    "url": "https://api.twitter.com/1.1/geo/id/0150459b5095a59f.json",
+    "country_code": "CL"
+  },
+  "contributors": null,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "HolayAdios",
+        "indices": [66, 77]
+      }
+    ],
+    "urls": [],
+    "symbols": [],
+    "user_mentions": [
+      {
+        "id": 37966027,
+        "id_str": "37966027",
+        "name": "Monserrat \u00c1lvarez",
+        "indices": [50, 64],
+        "screen_name": "alvarez_monse"
+      }
+    ]
+  },
+  "id": 930623230095839234,
+  "user": {
+    "followers_count": 4126,
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_color": "C0DEED",
+    "translator_type": "none",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/378800000585273595/6c603ef94572a53d431fb1adaaa9500e_normal.jpeg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/102478173/1443374782",
+    "default_profile": true,
+    "utc_offset": -28800,
+    "lang": "es",
+    "url": null,
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000585273595/6c603ef94572a53d431fb1adaaa9500e_normal.jpeg",
+    "time_zone": "Pacific Time (US & Canada)",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_use_background_image": true,
+    "id": 102478173,
+    "profile_link_color": "1DA1F2",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_background_tile": false,
+    "geo_enabled": true,
+    "id_str": "102478173",
+    "verified": false,
+    "name": "marcelo paredes",
+    "is_translator": false,
+    "notifications": null,
+    "following": null,
+    "friends_count": 5003,
+    "contributors_enabled": false,
+    "screen_name": "marce77pc",
+    "created_at": "Wed Jan 06 21:00:13 +0000 2010",
+    "profile_text_color": "333333",
+    "favourites_count": 23138,
+    "follow_request_sent": null,
+    "description": "Ingeniero en Administracion DuocUC, Consejero Regional partido progresista de Chile, Amante de las artes escenicas, polemico...",
+    "default_profile_image": false,
+    "location": "concepcion chile",
+    "listed_count": 20,
+    "protected": false,
+    "statuses_count": 5673
+  },
+  "id_str": "930623230095839234",
+  "retweet_count": 0,
+  "retweeted": false,
+  "quote_count": 0,
+  "truncated": false,
+  "in_reply_to_status_id_str": null,
+  "reply_count": 0,
+  "created_at": "Wed Nov 15 02:27:22 +0000 2017",
+  "is_quote_status": false,
+  "in_reply_to_user_id": null,
+  "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+  "text": "Q simple pero emocionante el programa\nFelicidades @alvarez_monse \n#HolayAdios",
+  "timestamp_ms": "1510712842855",
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null
+}

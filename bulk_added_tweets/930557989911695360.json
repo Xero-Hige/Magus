@@ -1,1 +1,109 @@
-{"is_quote_status": false, "in_reply_to_user_id_str": null, "created_at": "Tue Nov 14 22:08:08 +0000 2017", "favorite_count": 0, "in_reply_to_status_id": null, "id_str": "930557989911695360", "filter_level": "low", "reply_count": 0, "timestamp_ms": "1510697288383", "id": 930557989911695360, "coordinates": null, "in_reply_to_screen_name": null, "truncated": true, "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>", "place": {"bounding_box": {"coordinates": [[[-3.889005, 40.312071], [-3.889005, 40.643518], [-3.51801, 40.643518], [-3.51801, 40.312071]]], "type": "Polygon"}, "url": "https://api.twitter.com/1.1/geo/id/206c436ce43a43a3.json", "country_code": "ES", "name": "Madrid", "full_name": "Madrid, Espa\u00f1a", "id": "206c436ce43a43a3", "place_type": "city", "attributes": {}, "country": "Espa\u00f1a"}, "retweet_count": 0, "extended_tweet": {"display_text_range": [0, 273], "entities": {"user_mentions": [], "urls": [], "symbols": [], "hashtags": [{"text": "280caracteres", "indices": [259, 273]}]}, "full_text": "Qu\u00e9 lindo cuando jam\u00e1s se acaban los temas de conversaci\u00f3n con alguien, o s\u00ed, pero los silencios no son inc\u00f3modos. Qu\u00e9 lindo cuando te dejan pensando, cuando te hacen ver cosas que no ve\u00edas. Qu\u00e9 lindo poder ser vos, sin miedos. Qu\u00e9 lindo conectar con el otro #280caracteres"}, "quote_count": 0, "favorited": false, "text": "Qu\u00e9 lindo cuando jam\u00e1s se acaban los temas de conversaci\u00f3n con alguien, o s\u00ed, pero los silencios no son inc\u00f3modos.\u2026 https://t.co/BfaUrNq7P3", "in_reply_to_user_id": null, "geo": null, "lang": "es", "contributors": null, "in_reply_to_status_id_str": null, "user": {"protected": false, "following": null, "profile_text_color": "000000", "profile_background_color": "000000", "statuses_count": 1509, "default_profile": false, "favourites_count": 2536, "friends_count": 292, "follow_request_sent": null, "profile_sidebar_fill_color": "000000", "translator_type": "none", "notifications": null, "id_str": "3237939032", "screen_name": "fuchsestefani1", "profile_banner_url": "https://pbs.twimg.com/profile_banners/3237939032/1510367771", "verified": false, "id": 3237939032, "profile_use_background_image": false, "description": "boluda en ascenso \ud83c\udde6\ud83c\uddf7 \ud83d\udc7b estefanifuchs", "utc_offset": null, "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif", "is_translator": false, "listed_count": 5, "default_profile_image": false, "contributors_enabled": false, "followers_count": 152, "location": "Madrid, Espa\u00f1a", "created_at": "Sat Jun 06 13:58:46 +0000 2015", "profile_image_url_https": "https://pbs.twimg.com/profile_images/912065389483429888/JYPFM2_3_normal.jpg", "geo_enabled": true, "time_zone": null, "profile_image_url": "http://pbs.twimg.com/profile_images/912065389483429888/JYPFM2_3_normal.jpg", "profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif", "profile_link_color": "19CF86", "lang": "es", "name": "estefani fuchs\ud83c\udf40", "profile_background_tile": false, "url": null, "profile_sidebar_border_color": "000000"}, "entities": {"user_mentions": [], "urls": [{"expanded_url": "https://twitter.com/i/web/status/930557989911695360", "url": "https://t.co/BfaUrNq7P3", "indices": [116, 139], "display_url": "twitter.com/i/web/status/9\u2026"}], "symbols": [], "hashtags": []}, "retweeted": false}
+{
+  "is_quote_status": false,
+  "in_reply_to_user_id_str": null,
+  "created_at": "Tue Nov 14 22:08:08 +0000 2017",
+  "favorite_count": 0,
+  "in_reply_to_status_id": null,
+  "id_str": "930557989911695360",
+  "filter_level": "low",
+  "reply_count": 0,
+  "timestamp_ms": "1510697288383",
+  "id": 930557989911695360,
+  "coordinates": null,
+  "in_reply_to_screen_name": null,
+  "truncated": true,
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "place": {
+    "bounding_box": {
+      "coordinates": [[[-3.889005, 40.312071], [-3.889005, 40.643518], [-3.51801, 40.643518], [-3.51801, 40.312071]]],
+      "type": "Polygon"
+    },
+    "url": "https://api.twitter.com/1.1/geo/id/206c436ce43a43a3.json",
+    "country_code": "ES",
+    "name": "Madrid",
+    "full_name": "Madrid, Espa\u00f1a",
+    "id": "206c436ce43a43a3",
+    "place_type": "city",
+    "attributes": {},
+    "country": "Espa\u00f1a"
+  },
+  "retweet_count": 0,
+  "extended_tweet": {
+    "display_text_range": [0, 273],
+    "entities": {
+      "user_mentions": [],
+      "urls": [],
+      "symbols": [],
+      "hashtags": [
+        {
+          "text": "280caracteres",
+          "indices": [259, 273]
+        }
+      ]
+    },
+    "full_text": "Qu\u00e9 lindo cuando jam\u00e1s se acaban los temas de conversaci\u00f3n con alguien, o s\u00ed, pero los silencios no son inc\u00f3modos. Qu\u00e9 lindo cuando te dejan pensando, cuando te hacen ver cosas que no ve\u00edas. Qu\u00e9 lindo poder ser vos, sin miedos. Qu\u00e9 lindo conectar con el otro #280caracteres"
+  },
+  "quote_count": 0,
+  "favorited": false,
+  "text": "Qu\u00e9 lindo cuando jam\u00e1s se acaban los temas de conversaci\u00f3n con alguien, o s\u00ed, pero los silencios no son inc\u00f3modos.\u2026 https://t.co/BfaUrNq7P3",
+  "in_reply_to_user_id": null,
+  "geo": null,
+  "lang": "es",
+  "contributors": null,
+  "in_reply_to_status_id_str": null,
+  "user": {
+    "protected": false,
+    "following": null,
+    "profile_text_color": "000000",
+    "profile_background_color": "000000",
+    "statuses_count": 1509,
+    "default_profile": false,
+    "favourites_count": 2536,
+    "friends_count": 292,
+    "follow_request_sent": null,
+    "profile_sidebar_fill_color": "000000",
+    "translator_type": "none",
+    "notifications": null,
+    "id_str": "3237939032",
+    "screen_name": "fuchsestefani1",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/3237939032/1510367771",
+    "verified": false,
+    "id": 3237939032,
+    "profile_use_background_image": false,
+    "description": "boluda en ascenso \ud83c\udde6\ud83c\uddf7 \ud83d\udc7b estefanifuchs",
+    "utc_offset": null,
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+    "is_translator": false,
+    "listed_count": 5,
+    "default_profile_image": false,
+    "contributors_enabled": false,
+    "followers_count": 152,
+    "location": "Madrid, Espa\u00f1a",
+    "created_at": "Sat Jun 06 13:58:46 +0000 2015",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/912065389483429888/JYPFM2_3_normal.jpg",
+    "geo_enabled": true,
+    "time_zone": null,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/912065389483429888/JYPFM2_3_normal.jpg",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+    "profile_link_color": "19CF86",
+    "lang": "es",
+    "name": "estefani fuchs\ud83c\udf40",
+    "profile_background_tile": false,
+    "url": null,
+    "profile_sidebar_border_color": "000000"
+  },
+  "entities": {
+    "user_mentions": [],
+    "urls": [
+      {
+        "expanded_url": "https://twitter.com/i/web/status/930557989911695360",
+        "url": "https://t.co/BfaUrNq7P3",
+        "indices": [116, 139],
+        "display_url": "twitter.com/i/web/status/9\u2026"
+      }
+    ],
+    "symbols": [],
+    "hashtags": []
+  },
+  "retweeted": false
+}

@@ -1,1 +1,121 @@
-{"id": 930457008343535616, "lang": "es", "in_reply_to_status_id_str": null, "truncated": true, "place": {"id": "01d13f2529da75c4", "country": "Argentina", "bounding_box": {"type": "Polygon", "coordinates": [[[-60.573516, -31.814193], [-60.573516, -31.706162], [-60.452815, -31.706162], [-60.452815, -31.814193]]]}, "url": "https://api.twitter.com/1.1/geo/id/01d13f2529da75c4.json", "full_name": "Paran\u00e1, Argentina", "attributes": {}, "name": "Paran\u00e1", "place_type": "city", "country_code": "AR"}, "favorite_count": 0, "retweeted": false, "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>", "is_quote_status": false, "in_reply_to_status_id": null, "in_reply_to_user_id_str": "1214150514", "in_reply_to_screen_name": "SergioF_Varisco", "retweet_count": 0, "quote_count": 0, "timestamp_ms": "1510673212501", "favorited": false, "coordinates": null, "text": "@SergioF_Varisco una verg\u00fcenza el descontrol de los bomberos, toda la vida fueron voluntarios, no es posible que el\u2026 https://t.co/XzNvSfPJOo", "entities": {"urls": [{"indices": [117, 140], "display_url": "twitter.com/i/web/status/9\u2026", "url": "https://t.co/XzNvSfPJOo", "expanded_url": "https://twitter.com/i/web/status/930457008343535616"}], "symbols": [], "user_mentions": [{"screen_name": "SergioF_Varisco", "id": 1214150514, "name": "Sergio Varisco", "indices": [0, 16], "id_str": "1214150514"}], "hashtags": []}, "reply_count": 0, "geo": null, "filter_level": "low", "extended_tweet": {"display_text_range": [0, 201], "entities": {"urls": [], "symbols": [], "user_mentions": [{"screen_name": "SergioF_Varisco", "id": 1214150514, "name": "Sergio Varisco", "indices": [0, 16], "id_str": "1214150514"}], "hashtags": []}, "full_text": "@SergioF_Varisco una verg\u00fcenza el descontrol de los bomberos, toda la vida fueron voluntarios, no es posible que el municipio permita esto, hay personas enfermas que soportan las sirenas toda la ma\u00f1ana"}, "user": {"statuses_count": 1437, "id": 1395604669, "default_profile": false, "favourites_count": 89, "url": null, "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme12/bg.gif", "verified": false, "profile_image_url_https": "https://pbs.twimg.com/profile_images/3618166037/e7228500554c3240d82dbbcd1b355db7_normal.png", "translator_type": "none", "location": null, "geo_enabled": true, "utc_offset": -10800, "notifications": null, "profile_background_tile": false, "friends_count": 358, "is_translator": false, "follow_request_sent": null, "default_profile_image": false, "profile_background_image_url": "http://abs.twimg.com/images/themes/theme12/bg.gif", "profile_background_color": "BADFCD", "profile_link_color": "FF0000", "profile_use_background_image": true, "time_zone": "Santiago", "name": "almadepiru", "profile_text_color": "0C3E53", "profile_sidebar_border_color": "F2E195", "screen_name": "almadepiru", "lang": "es", "following": null, "listed_count": 0, "protected": false, "profile_sidebar_fill_color": "FFF7CC", "followers_count": 15, "profile_image_url": "http://pbs.twimg.com/profile_images/3618166037/e7228500554c3240d82dbbcd1b355db7_normal.png", "contributors_enabled": false, "created_at": "Wed May 01 21:14:22 +0000 2013", "id_str": "1395604669", "description": null}, "created_at": "Tue Nov 14 15:26:52 +0000 2017", "id_str": "930457008343535616", "in_reply_to_user_id": 1214150514, "contributors": null}
+{
+  "id": 930457008343535616,
+  "lang": "es",
+  "in_reply_to_status_id_str": null,
+  "truncated": true,
+  "place": {
+    "id": "01d13f2529da75c4",
+    "country": "Argentina",
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [[-60.573516, -31.814193], [-60.573516, -31.706162], [-60.452815, -31.706162], [-60.452815, -31.814193]]
+      ]
+    },
+    "url": "https://api.twitter.com/1.1/geo/id/01d13f2529da75c4.json",
+    "full_name": "Paran\u00e1, Argentina",
+    "attributes": {},
+    "name": "Paran\u00e1",
+    "place_type": "city",
+    "country_code": "AR"
+  },
+  "favorite_count": 0,
+  "retweeted": false,
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "is_quote_status": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_user_id_str": "1214150514",
+  "in_reply_to_screen_name": "SergioF_Varisco",
+  "retweet_count": 0,
+  "quote_count": 0,
+  "timestamp_ms": "1510673212501",
+  "favorited": false,
+  "coordinates": null,
+  "text": "@SergioF_Varisco una verg\u00fcenza el descontrol de los bomberos, toda la vida fueron voluntarios, no es posible que el\u2026 https://t.co/XzNvSfPJOo",
+  "entities": {
+    "urls": [
+      {
+        "indices": [117, 140],
+        "display_url": "twitter.com/i/web/status/9\u2026",
+        "url": "https://t.co/XzNvSfPJOo",
+        "expanded_url": "https://twitter.com/i/web/status/930457008343535616"
+      }
+    ],
+    "symbols": [],
+    "user_mentions": [
+      {
+        "screen_name": "SergioF_Varisco",
+        "id": 1214150514,
+        "name": "Sergio Varisco",
+        "indices": [0, 16],
+        "id_str": "1214150514"
+      }
+    ],
+    "hashtags": []
+  },
+  "reply_count": 0,
+  "geo": null,
+  "filter_level": "low",
+  "extended_tweet": {
+    "display_text_range": [0, 201],
+    "entities": {
+      "urls": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "screen_name": "SergioF_Varisco",
+          "id": 1214150514,
+          "name": "Sergio Varisco",
+          "indices": [0, 16],
+          "id_str": "1214150514"
+        }
+      ],
+      "hashtags": []
+    },
+    "full_text": "@SergioF_Varisco una verg\u00fcenza el descontrol de los bomberos, toda la vida fueron voluntarios, no es posible que el municipio permita esto, hay personas enfermas que soportan las sirenas toda la ma\u00f1ana"
+  },
+  "user": {
+    "statuses_count": 1437,
+    "id": 1395604669,
+    "default_profile": false,
+    "favourites_count": 89,
+    "url": null,
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme12/bg.gif",
+    "verified": false,
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/3618166037/e7228500554c3240d82dbbcd1b355db7_normal.png",
+    "translator_type": "none",
+    "location": null,
+    "geo_enabled": true,
+    "utc_offset": -10800,
+    "notifications": null,
+    "profile_background_tile": false,
+    "friends_count": 358,
+    "is_translator": false,
+    "follow_request_sent": null,
+    "default_profile_image": false,
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme12/bg.gif",
+    "profile_background_color": "BADFCD",
+    "profile_link_color": "FF0000",
+    "profile_use_background_image": true,
+    "time_zone": "Santiago",
+    "name": "almadepiru",
+    "profile_text_color": "0C3E53",
+    "profile_sidebar_border_color": "F2E195",
+    "screen_name": "almadepiru",
+    "lang": "es",
+    "following": null,
+    "listed_count": 0,
+    "protected": false,
+    "profile_sidebar_fill_color": "FFF7CC",
+    "followers_count": 15,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/3618166037/e7228500554c3240d82dbbcd1b355db7_normal.png",
+    "contributors_enabled": false,
+    "created_at": "Wed May 01 21:14:22 +0000 2013",
+    "id_str": "1395604669",
+    "description": null
+  },
+  "created_at": "Tue Nov 14 15:26:52 +0000 2017",
+  "id_str": "930457008343535616",
+  "in_reply_to_user_id": 1214150514,
+  "contributors": null
+}

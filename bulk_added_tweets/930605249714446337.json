@@ -1,1 +1,120 @@
-{"geo": null, "filter_level": "low", "in_reply_to_status_id": null, "lang": "es", "favorite_count": 0, "coordinates": null, "favorited": false, "place": {"name": "Peru", "full_name": "Peru", "place_type": "country", "country": "Peru", "id": "2dfa9ecb0179a4e4", "bounding_box": {"type": "Polygon", "coordinates": [[[-81.328148, -18.349728], [-81.328148, -0.03884], [-68.673088, -0.03884], [-68.673088, -18.349728]]]}, "attributes": {}, "url": "https://api.twitter.com/1.1/geo/id/2dfa9ecb0179a4e4.json", "country_code": "PE"}, "contributors": null, "entities": {"hashtags": [], "urls": [{"display_url": "twitter.com/i/web/status/9\u2026", "expanded_url": "https://twitter.com/i/web/status/930605249714446337", "url": "https://t.co/jQPUBcPPP9", "indices": [117, 140]}], "symbols": [], "user_mentions": []}, "id": 930605249714446337, "user": {"followers_count": 1256, "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png", "profile_background_color": "000000", "translator_type": "none", "profile_image_url": "http://pbs.twimg.com/profile_images/914604310071300101/E3bTSCVo_normal.jpg", "profile_banner_url": "https://pbs.twimg.com/profile_banners/140670882/1492477076", "default_profile": false, "utc_offset": -18000, "lang": "es", "url": null, "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", "profile_image_url_https": "https://pbs.twimg.com/profile_images/914604310071300101/E3bTSCVo_normal.jpg", "time_zone": "Lima", "profile_sidebar_border_color": "000000", "profile_use_background_image": false, "id": 140670882, "profile_link_color": "116A8A", "profile_sidebar_fill_color": "000000", "profile_background_tile": false, "geo_enabled": true, "id_str": "140670882", "verified": false, "name": "Jean Martin Due\u00f1as", "is_translator": false, "notifications": null, "following": null, "friends_count": 1829, "contributors_enabled": false, "screen_name": "JeanMartinD", "created_at": "Thu May 06 03:32:22 +0000 2010", "profile_text_color": "000000", "favourites_count": 1561, "follow_request_sent": null, "description": "Periodista en @rppdeportes. AC Milan, el club m\u00e1s titulado del mundo.", "default_profile_image": false, "location": "Lima,Per\u00fa", "listed_count": 15, "protected": false, "statuses_count": 6964}, "id_str": "930605249714446337", "retweet_count": 0, "retweeted": false, "quote_count": 0, "truncated": true, "in_reply_to_status_id_str": null, "reply_count": 0, "created_at": "Wed Nov 15 01:15:55 +0000 2017", "is_quote_status": false, "in_reply_to_user_id": null, "timestamp_ms": "1510708555998", "text": "CONFIRMADO El equipo de Per\u00fa para jugar ante Nueva Zelanda: Gallese; Adv\u00edncula, Ramos, Rodr\u00edguez, Trauco; Tapia, Fl\u2026 https://t.co/jQPUBcPPP9", "extended_tweet": {"full_text": "CONFIRMADO El equipo de Per\u00fa para jugar ante Nueva Zelanda: Gallese; Adv\u00edncula, Ramos, Rodr\u00edguez, Trauco; Tapia, Flores; Carrillo, Cueva, Farf\u00e1n y Ruid\u00edaz v\u00eda @milenamerino @FutComoCancha", "display_text_range": [0, 187], "entities": {"hashtags": [], "urls": [], "symbols": [], "user_mentions": [{"id": 208101726, "id_str": "208101726", "name": "MM", "indices": [159, 172], "screen_name": "milenamerino"}, {"id": 821131313835081729, "id_str": "821131313835081729", "name": "F\u00fatbol Como Cancha", "indices": [173, 187], "screen_name": "FutComoCancha"}]}}, "in_reply_to_user_id_str": null, "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>", "in_reply_to_screen_name": null}
+{
+  "geo": null,
+  "filter_level": "low",
+  "in_reply_to_status_id": null,
+  "lang": "es",
+  "favorite_count": 0,
+  "coordinates": null,
+  "favorited": false,
+  "place": {
+    "name": "Peru",
+    "full_name": "Peru",
+    "place_type": "country",
+    "country": "Peru",
+    "id": "2dfa9ecb0179a4e4",
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [[-81.328148, -18.349728], [-81.328148, -0.03884], [-68.673088, -0.03884], [-68.673088, -18.349728]]
+      ]
+    },
+    "attributes": {},
+    "url": "https://api.twitter.com/1.1/geo/id/2dfa9ecb0179a4e4.json",
+    "country_code": "PE"
+  },
+  "contributors": null,
+  "entities": {
+    "hashtags": [],
+    "urls": [
+      {
+        "display_url": "twitter.com/i/web/status/9\u2026",
+        "expanded_url": "https://twitter.com/i/web/status/930605249714446337",
+        "url": "https://t.co/jQPUBcPPP9",
+        "indices": [117, 140]
+      }
+    ],
+    "symbols": [],
+    "user_mentions": []
+  },
+  "id": 930605249714446337,
+  "user": {
+    "followers_count": 1256,
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_color": "000000",
+    "translator_type": "none",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/914604310071300101/E3bTSCVo_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/140670882/1492477076",
+    "default_profile": false,
+    "utc_offset": -18000,
+    "lang": "es",
+    "url": null,
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/914604310071300101/E3bTSCVo_normal.jpg",
+    "time_zone": "Lima",
+    "profile_sidebar_border_color": "000000",
+    "profile_use_background_image": false,
+    "id": 140670882,
+    "profile_link_color": "116A8A",
+    "profile_sidebar_fill_color": "000000",
+    "profile_background_tile": false,
+    "geo_enabled": true,
+    "id_str": "140670882",
+    "verified": false,
+    "name": "Jean Martin Due\u00f1as",
+    "is_translator": false,
+    "notifications": null,
+    "following": null,
+    "friends_count": 1829,
+    "contributors_enabled": false,
+    "screen_name": "JeanMartinD",
+    "created_at": "Thu May 06 03:32:22 +0000 2010",
+    "profile_text_color": "000000",
+    "favourites_count": 1561,
+    "follow_request_sent": null,
+    "description": "Periodista en @rppdeportes. AC Milan, el club m\u00e1s titulado del mundo.",
+    "default_profile_image": false,
+    "location": "Lima,Per\u00fa",
+    "listed_count": 15,
+    "protected": false,
+    "statuses_count": 6964
+  },
+  "id_str": "930605249714446337",
+  "retweet_count": 0,
+  "retweeted": false,
+  "quote_count": 0,
+  "truncated": true,
+  "in_reply_to_status_id_str": null,
+  "reply_count": 0,
+  "created_at": "Wed Nov 15 01:15:55 +0000 2017",
+  "is_quote_status": false,
+  "in_reply_to_user_id": null,
+  "timestamp_ms": "1510708555998",
+  "text": "CONFIRMADO El equipo de Per\u00fa para jugar ante Nueva Zelanda: Gallese; Adv\u00edncula, Ramos, Rodr\u00edguez, Trauco; Tapia, Fl\u2026 https://t.co/jQPUBcPPP9",
+  "extended_tweet": {
+    "full_text": "CONFIRMADO El equipo de Per\u00fa para jugar ante Nueva Zelanda: Gallese; Adv\u00edncula, Ramos, Rodr\u00edguez, Trauco; Tapia, Flores; Carrillo, Cueva, Farf\u00e1n y Ruid\u00edaz v\u00eda @milenamerino @FutComoCancha",
+    "display_text_range": [0, 187],
+    "entities": {
+      "hashtags": [],
+      "urls": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "id": 208101726,
+          "id_str": "208101726",
+          "name": "MM",
+          "indices": [159, 172],
+          "screen_name": "milenamerino"
+        }, {
+          "id": 821131313835081729,
+          "id_str": "821131313835081729",
+          "name": "F\u00fatbol Como Cancha",
+          "indices": [173, 187],
+          "screen_name": "FutComoCancha"
+        }
+      ]
+    }
+  },
+  "in_reply_to_user_id_str": null,
+  "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+  "in_reply_to_screen_name": null
+}

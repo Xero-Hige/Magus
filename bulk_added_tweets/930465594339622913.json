@@ -1,1 +1,131 @@
-{"id": 930465594339622913, "lang": "es", "in_reply_to_status_id_str": "930212138341294081", "truncated": true, "place": {"id": "9d8ae4b0fac2036a", "country": "Panam\u00e1", "bounding_box": {"type": "Polygon", "coordinates": [[[-83.051445, 7.20386], [-83.051445, 9.639486], [-77.13939, 9.639486], [-77.13939, 7.20386]]]}, "url": "https://api.twitter.com/1.1/geo/id/9d8ae4b0fac2036a.json", "full_name": "Panam\u00e1", "attributes": {}, "name": "Panam\u00e1", "place_type": "country", "country_code": "PA"}, "favorite_count": 0, "retweeted": false, "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>", "is_quote_status": false, "in_reply_to_status_id": 930212138341294081, "in_reply_to_user_id_str": "222210386", "in_reply_to_screen_name": "Patygibe", "retweet_count": 0, "quote_count": 0, "timestamp_ms": "1510675259562", "favorited": false, "coordinates": null, "filter_level": "low", "entities": {"urls": [{"indices": [117, 140], "display_url": "twitter.com/i/web/status/9\u2026", "url": "https://t.co/LiIT4txc3k", "expanded_url": "https://twitter.com/i/web/status/930465594339622913"}], "symbols": [], "user_mentions": [{"screen_name": "Patygibe", "id": 222210386, "name": "shereshira", "indices": [0, 9], "id_str": "222210386"}], "hashtags": [{"text": "TarjetaMetrobus", "indices": [59, 75]}]}, "reply_count": 0, "geo": null, "display_text_range": [10, 140], "text": "@Patygibe Hola Shereshira. Nosotros como cuenta oficial de #TarjetaMetrobus, ni los buses ni sus rutas son operados\u2026 https://t.co/LiIT4txc3k", "extended_tweet": {"display_text_range": [10, 245], "entities": {"urls": [], "symbols": [], "user_mentions": [{"screen_name": "Patygibe", "id": 222210386, "name": "shereshira", "indices": [0, 9], "id_str": "222210386"}], "hashtags": [{"text": "TarjetaMetrobus", "indices": [59, 75]}]}, "full_text": "@Patygibe Hola Shereshira. Nosotros como cuenta oficial de #TarjetaMetrobus, ni los buses ni sus rutas son operados por nuestra empresa. Si tienes dudas o comentarios sobre recarga o servicios de la tarjeta, estamos a la orden siempre. \u00a1Saludos!"}, "user": {"statuses_count": 1745, "id": 556165028, "default_profile": false, "favourites_count": 57, "url": "http://www.tarjetametrobus.com", "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000091819575/6971b3106d24cbbb7be7c8fad32a0e06.png", "verified": false, "profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000576267665/a780b6e25a4da5a45ca524dadf8f829a_normal.png", "translator_type": "none", "location": "Panam\u00e1", "geo_enabled": true, "utc_offset": -18000, "notifications": null, "profile_background_tile": false, "friends_count": 1974, "is_translator": false, "follow_request_sent": null, "default_profile_image": false, "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000091819575/6971b3106d24cbbb7be7c8fad32a0e06.png", "profile_background_color": "C0DEED", "profile_link_color": "0084B4", "profile_use_background_image": true, "time_zone": "Eastern Time (US & Canada)", "name": "Tarjeta Metrobus", "profile_text_color": "333333", "profile_sidebar_border_color": "FFFFFF", "screen_name": "TarjetaMetrobus", "lang": "es", "following": null, "listed_count": 5, "protected": false, "profile_sidebar_fill_color": "DDEEF6", "followers_count": 1558, "profile_image_url": "http://pbs.twimg.com/profile_images/378800000576267665/a780b6e25a4da5a45ca524dadf8f829a_normal.png", "profile_banner_url": "https://pbs.twimg.com/profile_banners/556165028/1381423779", "contributors_enabled": false, "created_at": "Tue Apr 17 18:05:32 +0000 2012", "id_str": "556165028", "description": "Cuenta oficial de la Tarjeta Metrobus"}, "created_at": "Tue Nov 14 16:00:59 +0000 2017", "id_str": "930465594339622913", "in_reply_to_user_id": 222210386, "contributors": null}
+{
+  "id": 930465594339622913,
+  "lang": "es",
+  "in_reply_to_status_id_str": "930212138341294081",
+  "truncated": true,
+  "place": {
+    "id": "9d8ae4b0fac2036a",
+    "country": "Panam\u00e1",
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [[[-83.051445, 7.20386], [-83.051445, 9.639486], [-77.13939, 9.639486], [-77.13939, 7.20386]]]
+    },
+    "url": "https://api.twitter.com/1.1/geo/id/9d8ae4b0fac2036a.json",
+    "full_name": "Panam\u00e1",
+    "attributes": {},
+    "name": "Panam\u00e1",
+    "place_type": "country",
+    "country_code": "PA"
+  },
+  "favorite_count": 0,
+  "retweeted": false,
+  "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+  "is_quote_status": false,
+  "in_reply_to_status_id": 930212138341294081,
+  "in_reply_to_user_id_str": "222210386",
+  "in_reply_to_screen_name": "Patygibe",
+  "retweet_count": 0,
+  "quote_count": 0,
+  "timestamp_ms": "1510675259562",
+  "favorited": false,
+  "coordinates": null,
+  "filter_level": "low",
+  "entities": {
+    "urls": [
+      {
+        "indices": [117, 140],
+        "display_url": "twitter.com/i/web/status/9\u2026",
+        "url": "https://t.co/LiIT4txc3k",
+        "expanded_url": "https://twitter.com/i/web/status/930465594339622913"
+      }
+    ],
+    "symbols": [],
+    "user_mentions": [
+      {
+        "screen_name": "Patygibe",
+        "id": 222210386,
+        "name": "shereshira",
+        "indices": [0, 9],
+        "id_str": "222210386"
+      }
+    ],
+    "hashtags": [
+      {
+        "text": "TarjetaMetrobus",
+        "indices": [59, 75]
+      }
+    ]
+  },
+  "reply_count": 0,
+  "geo": null,
+  "display_text_range": [10, 140],
+  "text": "@Patygibe Hola Shereshira. Nosotros como cuenta oficial de #TarjetaMetrobus, ni los buses ni sus rutas son operados\u2026 https://t.co/LiIT4txc3k",
+  "extended_tweet": {
+    "display_text_range": [10, 245],
+    "entities": {
+      "urls": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "screen_name": "Patygibe",
+          "id": 222210386,
+          "name": "shereshira",
+          "indices": [0, 9],
+          "id_str": "222210386"
+        }
+      ],
+      "hashtags": [
+        {
+          "text": "TarjetaMetrobus",
+          "indices": [59, 75]
+        }
+      ]
+    },
+    "full_text": "@Patygibe Hola Shereshira. Nosotros como cuenta oficial de #TarjetaMetrobus, ni los buses ni sus rutas son operados por nuestra empresa. Si tienes dudas o comentarios sobre recarga o servicios de la tarjeta, estamos a la orden siempre. \u00a1Saludos!"
+  },
+  "user": {
+    "statuses_count": 1745,
+    "id": 556165028,
+    "default_profile": false,
+    "favourites_count": 57,
+    "url": "http://www.tarjetametrobus.com",
+    "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000091819575/6971b3106d24cbbb7be7c8fad32a0e06.png",
+    "verified": false,
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000576267665/a780b6e25a4da5a45ca524dadf8f829a_normal.png",
+    "translator_type": "none",
+    "location": "Panam\u00e1",
+    "geo_enabled": true,
+    "utc_offset": -18000,
+    "notifications": null,
+    "profile_background_tile": false,
+    "friends_count": 1974,
+    "is_translator": false,
+    "follow_request_sent": null,
+    "default_profile_image": false,
+    "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000091819575/6971b3106d24cbbb7be7c8fad32a0e06.png",
+    "profile_background_color": "C0DEED",
+    "profile_link_color": "0084B4",
+    "profile_use_background_image": true,
+    "time_zone": "Eastern Time (US & Canada)",
+    "name": "Tarjeta Metrobus",
+    "profile_text_color": "333333",
+    "profile_sidebar_border_color": "FFFFFF",
+    "screen_name": "TarjetaMetrobus",
+    "lang": "es",
+    "following": null,
+    "listed_count": 5,
+    "protected": false,
+    "profile_sidebar_fill_color": "DDEEF6",
+    "followers_count": 1558,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/378800000576267665/a780b6e25a4da5a45ca524dadf8f829a_normal.png",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/556165028/1381423779",
+    "contributors_enabled": false,
+    "created_at": "Tue Apr 17 18:05:32 +0000 2012",
+    "id_str": "556165028",
+    "description": "Cuenta oficial de la Tarjeta Metrobus"
+  },
+  "created_at": "Tue Nov 14 16:00:59 +0000 2017",
+  "id_str": "930465594339622913",
+  "in_reply_to_user_id": 222210386,
+  "contributors": null
+}

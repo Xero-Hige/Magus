@@ -1,1 +1,146 @@
-{"in_reply_to_screen_name": "Fabioogas", "geo": null, "user": {"followers_count": 344, "profile_background_image_url": "", "profile_background_color": "F5F8FA", "translator_type": "none", "profile_image_url": "http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png", "default_profile": true, "utc_offset": null, "lang": "es", "url": null, "profile_background_image_url_https": "", "profile_image_url_https": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png", "time_zone": null, "profile_sidebar_border_color": "C0DEED", "profile_use_background_image": true, "id": 707746168978145280, "profile_link_color": "1DA1F2", "profile_sidebar_fill_color": "DDEEF6", "profile_background_tile": false, "geo_enabled": true, "id_str": "707746168978145280", "verified": false, "name": "liliana", "is_translator": false, "notifications": null, "following": null, "friends_count": 26, "contributors_enabled": false, "screen_name": "lilianacgallart", "created_at": "Thu Mar 10 01:53:30 +0000 2016", "profile_text_color": "333333", "favourites_count": 5658, "follow_request_sent": null, "description": null, "default_profile_image": false, "location": null, "listed_count": 8, "protected": false, "statuses_count": 27004}, "filter_level": "low", "in_reply_to_status_id": 930625135391985664, "lang": "es", "display_text_range": [37, 140], "favorited": false, "place": {"name": "La Plata", "full_name": "La Plata, Argentina", "place_type": "city", "country": "Argentina", "id": "0177894212b08f73", "bounding_box": {"type": "Polygon", "coordinates": [[[-58.160874, -35.031373], [-58.160874, -34.841264], [-57.865169, -34.841264], [-57.865169, -35.031373]]]}, "attributes": {}, "url": "https://api.twitter.com/1.1/geo/id/0177894212b08f73.json", "country_code": "AR"}, "coordinates": null, "entities": {"hashtags": [], "urls": [{"display_url": "twitter.com/i/web/status/9\u2026", "expanded_url": "https://twitter.com/i/web/status/930627842500648962", "url": "https://t.co/OCjM1rjjP6", "indices": [117, 140]}], "symbols": [], "user_mentions": [{"id": 147252020, "id_str": "147252020", "name": "74810645", "indices": [0, 10], "screen_name": "Fabioogas"}, {"id": 368600084, "id_str": "368600084", "name": "LISCATANIA", "indices": [11, 22], "screen_name": "liscatania"}, {"id": 54414081, "id_str": "54414081", "name": "Patricia Bullrich", "indices": [23, 36], "screen_name": "PatoBullrich"}]}, "id": 930627842500648962, "in_reply_to_user_id_str": "147252020", "id_str": "930627842500648962", "retweet_count": 0, "retweeted": false, "quote_count": 0, "truncated": true, "in_reply_to_status_id_str": "930625135391985664", "reply_count": 0, "created_at": "Wed Nov 15 02:45:42 +0000 2017", "is_quote_status": false, "in_reply_to_user_id": 147252020, "timestamp_ms": "1510713942538", "text": "@Fabioogas @liscatania @PatoBullrich NI LA VAN A DAR. ES UN GOBIERNO TOTALITARIO CON TODAS LAS PEORES CARACTER\u00ccSTIC\u2026 https://t.co/OCjM1rjjP6", "extended_tweet": {"full_text": "@Fabioogas @liscatania @PatoBullrich NI LA VAN A DAR. ES UN GOBIERNO TOTALITARIO CON TODAS LAS PEORES CARACTER\u00ccSTICAS DE LA DICTADURA MILITAR", "display_text_range": [37, 141], "entities": {"hashtags": [], "urls": [], "symbols": [], "user_mentions": [{"id": 147252020, "id_str": "147252020", "name": "74810645", "indices": [0, 10], "screen_name": "Fabioogas"}, {"id": 368600084, "id_str": "368600084", "name": "LISCATANIA", "indices": [11, 22], "screen_name": "liscatania"}, {"id": 54414081, "id_str": "54414081", "name": "Patricia Bullrich", "indices": [23, 36], "screen_name": "PatoBullrich"}]}}, "favorite_count": 0, "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>", "contributors": null}
+{
+  "in_reply_to_screen_name": "Fabioogas",
+  "geo": null,
+  "user": {
+    "followers_count": 344,
+    "profile_background_image_url": "",
+    "profile_background_color": "F5F8FA",
+    "translator_type": "none",
+    "profile_image_url": "http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+    "default_profile": true,
+    "utc_offset": null,
+    "lang": "es",
+    "url": null,
+    "profile_background_image_url_https": "",
+    "profile_image_url_https": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+    "time_zone": null,
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_use_background_image": true,
+    "id": 707746168978145280,
+    "profile_link_color": "1DA1F2",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_background_tile": false,
+    "geo_enabled": true,
+    "id_str": "707746168978145280",
+    "verified": false,
+    "name": "liliana",
+    "is_translator": false,
+    "notifications": null,
+    "following": null,
+    "friends_count": 26,
+    "contributors_enabled": false,
+    "screen_name": "lilianacgallart",
+    "created_at": "Thu Mar 10 01:53:30 +0000 2016",
+    "profile_text_color": "333333",
+    "favourites_count": 5658,
+    "follow_request_sent": null,
+    "description": null,
+    "default_profile_image": false,
+    "location": null,
+    "listed_count": 8,
+    "protected": false,
+    "statuses_count": 27004
+  },
+  "filter_level": "low",
+  "in_reply_to_status_id": 930625135391985664,
+  "lang": "es",
+  "display_text_range": [37, 140],
+  "favorited": false,
+  "place": {
+    "name": "La Plata",
+    "full_name": "La Plata, Argentina",
+    "place_type": "city",
+    "country": "Argentina",
+    "id": "0177894212b08f73",
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [[-58.160874, -35.031373], [-58.160874, -34.841264], [-57.865169, -34.841264], [-57.865169, -35.031373]]
+      ]
+    },
+    "attributes": {},
+    "url": "https://api.twitter.com/1.1/geo/id/0177894212b08f73.json",
+    "country_code": "AR"
+  },
+  "coordinates": null,
+  "entities": {
+    "hashtags": [],
+    "urls": [
+      {
+        "display_url": "twitter.com/i/web/status/9\u2026",
+        "expanded_url": "https://twitter.com/i/web/status/930627842500648962",
+        "url": "https://t.co/OCjM1rjjP6",
+        "indices": [117, 140]
+      }
+    ],
+    "symbols": [],
+    "user_mentions": [
+      {
+        "id": 147252020,
+        "id_str": "147252020",
+        "name": "74810645",
+        "indices": [0, 10],
+        "screen_name": "Fabioogas"
+      }, {
+        "id": 368600084,
+        "id_str": "368600084",
+        "name": "LISCATANIA",
+        "indices": [11, 22],
+        "screen_name": "liscatania"
+      }, {
+        "id": 54414081,
+        "id_str": "54414081",
+        "name": "Patricia Bullrich",
+        "indices": [23, 36],
+        "screen_name": "PatoBullrich"
+      }
+    ]
+  },
+  "id": 930627842500648962,
+  "in_reply_to_user_id_str": "147252020",
+  "id_str": "930627842500648962",
+  "retweet_count": 0,
+  "retweeted": false,
+  "quote_count": 0,
+  "truncated": true,
+  "in_reply_to_status_id_str": "930625135391985664",
+  "reply_count": 0,
+  "created_at": "Wed Nov 15 02:45:42 +0000 2017",
+  "is_quote_status": false,
+  "in_reply_to_user_id": 147252020,
+  "timestamp_ms": "1510713942538",
+  "text": "@Fabioogas @liscatania @PatoBullrich NI LA VAN A DAR. ES UN GOBIERNO TOTALITARIO CON TODAS LAS PEORES CARACTER\u00ccSTIC\u2026 https://t.co/OCjM1rjjP6",
+  "extended_tweet": {
+    "full_text": "@Fabioogas @liscatania @PatoBullrich NI LA VAN A DAR. ES UN GOBIERNO TOTALITARIO CON TODAS LAS PEORES CARACTER\u00ccSTICAS DE LA DICTADURA MILITAR",
+    "display_text_range": [37, 141],
+    "entities": {
+      "hashtags": [],
+      "urls": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "id": 147252020,
+          "id_str": "147252020",
+          "name": "74810645",
+          "indices": [0, 10],
+          "screen_name": "Fabioogas"
+        }, {
+          "id": 368600084,
+          "id_str": "368600084",
+          "name": "LISCATANIA",
+          "indices": [11, 22],
+          "screen_name": "liscatania"
+        }, {
+          "id": 54414081,
+          "id_str": "54414081",
+          "name": "Patricia Bullrich",
+          "indices": [23, 36],
+          "screen_name": "PatoBullrich"
+        }
+      ]
+    }
+  },
+  "favorite_count": 0,
+  "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+  "contributors": null
+}

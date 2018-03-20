@@ -1,1 +1,137 @@
-{"geo": null, "filter_level": "low", "in_reply_to_status_id": null, "lang": "es", "favorite_count": 0, "coordinates": null, "favorited": false, "place": {"name": "Valdivia", "full_name": "Valdivia, Chile", "place_type": "city", "country": "Chile", "id": "00e76fbf0a273ce5", "bounding_box": {"type": "Polygon", "coordinates": [[[-73.411399, -40.029857], [-73.411399, -39.637104], [-72.922392, -39.637104], [-72.922392, -40.029857]]]}, "attributes": {}, "url": "https://api.twitter.com/1.1/geo/id/00e76fbf0a273ce5.json", "country_code": "CL"}, "contributors": null, "entities": {"hashtags": [{"text": "DimeQuienFue", "indices": [6, 19]}], "urls": [{"display_url": "twitter.com/i/web/status/9\u2026", "expanded_url": "https://twitter.com/i/web/status/930626793035493376", "url": "https://t.co/Bxf0nvdxlL", "indices": [117, 140]}], "symbols": [], "user_mentions": [{"id": 106502630, "id_str": "106502630", "name": "TVN", "indices": [0, 4], "screen_name": "TVN"}]}, "id": 930626793035493376, "user": {"followers_count": 87, "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif", "profile_background_color": "131516", "translator_type": "none", "profile_image_url": "http://pbs.twimg.com/profile_images/733506926483410944/mgQS4IZo_normal.jpg", "default_profile": false, "utc_offset": -10800, "lang": "es", "url": null, "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif", "profile_image_url_https": "https://pbs.twimg.com/profile_images/733506926483410944/mgQS4IZo_normal.jpg", "time_zone": "Santiago", "profile_sidebar_border_color": "EEEEEE", "profile_use_background_image": true, "id": 32522612, "profile_link_color": "009999", "profile_sidebar_fill_color": "EFEFEF", "profile_background_tile": true, "geo_enabled": true, "id_str": "32522612", "verified": false, "name": "Patricia Rivas E.", "is_translator": false, "notifications": null, "following": null, "friends_count": 209, "contributors_enabled": false, "screen_name": "Patubela", "created_at": "Fri Apr 17 18:58:35 +0000 2009", "profile_text_color": "333333", "favourites_count": 567, "follow_request_sent": null, "description": "Mujer, Chilena, Madre, Valdiviana, soltera, + 40...me gusta estar informada y conocer tendencias...", "default_profile_image": false, "location": "Valdivia, Chile", "listed_count": 2, "protected": false, "statuses_count": 1192}, "id_str": "930626793035493376", "retweet_count": 0, "retweeted": false, "quote_count": 0, "truncated": true, "in_reply_to_status_id_str": null, "reply_count": 0, "created_at": "Wed Nov 15 02:41:32 +0000 2017", "is_quote_status": false, "in_reply_to_user_id": 106502630, "timestamp_ms": "1510713692326", "text": "@TVN  #DimeQuienFue ..mucho de Gran Hotel...la gran serie espa\u00f1ola de Netflix...otra \u00e9poca..cambios de sexo en algu\u2026 https://t.co/Bxf0nvdxlL", "extended_tweet": {"full_text": "@TVN  #DimeQuienFue ..mucho de Gran Hotel...la gran serie espa\u00f1ola de Netflix...otra \u00e9poca..cambios de sexo en algunos personajes..el hermano flojo...etc. que opinas @ana_josefa ?", "display_text_range": [0, 179], "entities": {"hashtags": [{"text": "DimeQuienFue", "indices": [6, 19]}], "urls": [], "symbols": [], "user_mentions": [{"id": 106502630, "id_str": "106502630", "name": "TVN", "indices": [0, 4], "screen_name": "TVN"}, {"id": 50429897, "id_str": "50429897", "name": "anajosefasilva.cl", "indices": [166, 177], "screen_name": "ana_josefa"}]}}, "in_reply_to_user_id_str": "106502630", "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>", "in_reply_to_screen_name": "TVN"}
+{
+  "geo": null,
+  "filter_level": "low",
+  "in_reply_to_status_id": null,
+  "lang": "es",
+  "favorite_count": 0,
+  "coordinates": null,
+  "favorited": false,
+  "place": {
+    "name": "Valdivia",
+    "full_name": "Valdivia, Chile",
+    "place_type": "city",
+    "country": "Chile",
+    "id": "00e76fbf0a273ce5",
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [[-73.411399, -40.029857], [-73.411399, -39.637104], [-72.922392, -39.637104], [-72.922392, -40.029857]]
+      ]
+    },
+    "attributes": {},
+    "url": "https://api.twitter.com/1.1/geo/id/00e76fbf0a273ce5.json",
+    "country_code": "CL"
+  },
+  "contributors": null,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "DimeQuienFue",
+        "indices": [6, 19]
+      }
+    ],
+    "urls": [
+      {
+        "display_url": "twitter.com/i/web/status/9\u2026",
+        "expanded_url": "https://twitter.com/i/web/status/930626793035493376",
+        "url": "https://t.co/Bxf0nvdxlL",
+        "indices": [117, 140]
+      }
+    ],
+    "symbols": [],
+    "user_mentions": [
+      {
+        "id": 106502630,
+        "id_str": "106502630",
+        "name": "TVN",
+        "indices": [0, 4],
+        "screen_name": "TVN"
+      }
+    ]
+  },
+  "id": 930626793035493376,
+  "user": {
+    "followers_count": 87,
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+    "profile_background_color": "131516",
+    "translator_type": "none",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/733506926483410944/mgQS4IZo_normal.jpg",
+    "default_profile": false,
+    "utc_offset": -10800,
+    "lang": "es",
+    "url": null,
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/733506926483410944/mgQS4IZo_normal.jpg",
+    "time_zone": "Santiago",
+    "profile_sidebar_border_color": "EEEEEE",
+    "profile_use_background_image": true,
+    "id": 32522612,
+    "profile_link_color": "009999",
+    "profile_sidebar_fill_color": "EFEFEF",
+    "profile_background_tile": true,
+    "geo_enabled": true,
+    "id_str": "32522612",
+    "verified": false,
+    "name": "Patricia Rivas E.",
+    "is_translator": false,
+    "notifications": null,
+    "following": null,
+    "friends_count": 209,
+    "contributors_enabled": false,
+    "screen_name": "Patubela",
+    "created_at": "Fri Apr 17 18:58:35 +0000 2009",
+    "profile_text_color": "333333",
+    "favourites_count": 567,
+    "follow_request_sent": null,
+    "description": "Mujer, Chilena, Madre, Valdiviana, soltera, + 40...me gusta estar informada y conocer tendencias...",
+    "default_profile_image": false,
+    "location": "Valdivia, Chile",
+    "listed_count": 2,
+    "protected": false,
+    "statuses_count": 1192
+  },
+  "id_str": "930626793035493376",
+  "retweet_count": 0,
+  "retweeted": false,
+  "quote_count": 0,
+  "truncated": true,
+  "in_reply_to_status_id_str": null,
+  "reply_count": 0,
+  "created_at": "Wed Nov 15 02:41:32 +0000 2017",
+  "is_quote_status": false,
+  "in_reply_to_user_id": 106502630,
+  "timestamp_ms": "1510713692326",
+  "text": "@TVN  #DimeQuienFue ..mucho de Gran Hotel...la gran serie espa\u00f1ola de Netflix...otra \u00e9poca..cambios de sexo en algu\u2026 https://t.co/Bxf0nvdxlL",
+  "extended_tweet": {
+    "full_text": "@TVN  #DimeQuienFue ..mucho de Gran Hotel...la gran serie espa\u00f1ola de Netflix...otra \u00e9poca..cambios de sexo en algunos personajes..el hermano flojo...etc. que opinas @ana_josefa ?",
+    "display_text_range": [0, 179],
+    "entities": {
+      "hashtags": [
+        {
+          "text": "DimeQuienFue",
+          "indices": [6, 19]
+        }
+      ],
+      "urls": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "id": 106502630,
+          "id_str": "106502630",
+          "name": "TVN",
+          "indices": [0, 4],
+          "screen_name": "TVN"
+        }, {
+          "id": 50429897,
+          "id_str": "50429897",
+          "name": "anajosefasilva.cl",
+          "indices": [166, 177],
+          "screen_name": "ana_josefa"
+        }
+      ]
+    }
+  },
+  "in_reply_to_user_id_str": "106502630",
+  "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+  "in_reply_to_screen_name": "TVN"
+}

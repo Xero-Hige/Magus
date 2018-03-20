@@ -1,1 +1,106 @@
-{"geo": null, "filter_level": "low", "in_reply_to_status_id": null, "lang": "es", "favorite_count": 0, "coordinates": null, "favorited": false, "place": {"name": "Aguilares", "full_name": "Aguilares, El Salvador", "place_type": "city", "country": "El Salvador", "id": "01d6a42e6657caa4", "bounding_box": {"type": "Polygon", "coordinates": [[[-89.269806, 13.626244], [-89.269806, 13.736932], [-89.155121, 13.736932], [-89.155121, 13.626244]]]}, "attributes": {}, "url": "https://api.twitter.com/1.1/geo/id/01d6a42e6657caa4.json", "country_code": "SV"}, "contributors": null, "entities": {"hashtags": [], "urls": [{"display_url": "twitter.com/i/web/status/9\u2026", "expanded_url": "https://twitter.com/i/web/status/930673807823695875", "url": "https://t.co/MTZKyAd9rs", "indices": [117, 140]}], "symbols": [], "user_mentions": []}, "id": 930673807823695875, "user": {"followers_count": 327, "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png", "profile_background_color": "C0DEED", "translator_type": "none", "profile_image_url": "http://pbs.twimg.com/profile_images/584821253300625408/B6mMiFzT_normal.jpg", "profile_banner_url": "https://pbs.twimg.com/profile_banners/122571719/1456673070", "default_profile": true, "utc_offset": -10800, "lang": "es", "url": "http://www.fundacionlared.or.sv", "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", "profile_image_url_https": "https://pbs.twimg.com/profile_images/584821253300625408/B6mMiFzT_normal.jpg", "time_zone": "Santiago", "profile_sidebar_border_color": "C0DEED", "profile_use_background_image": true, "id": 122571719, "profile_link_color": "1DA1F2", "profile_sidebar_fill_color": "DDEEF6", "profile_background_tile": false, "geo_enabled": true, "id_str": "122571719", "verified": false, "name": "Giovanni Barahona", "is_translator": false, "notifications": null, "following": null, "friends_count": 433, "contributors_enabled": false, "screen_name": "GioBarahona", "created_at": "Sat Mar 13 04:48:55 +0000 2010", "profile_text_color": "333333", "favourites_count": 275, "follow_request_sent": null, "description": "Director de FUNDARED..Felizmente Casado, con 37 a\u00f1os, Mis pasiones: Jes\u00fas, mi Esposita, Mi Fundaci\u00f3n y el futbolllllllllll!!!", "default_profile_image": false, "location": "El Salvador", "listed_count": 1, "protected": false, "statuses_count": 1297}, "id_str": "930673807823695875", "retweet_count": 0, "retweeted": false, "quote_count": 0, "truncated": true, "in_reply_to_status_id_str": null, "reply_count": 0, "created_at": "Wed Nov 15 05:48:21 +0000 2017", "is_quote_status": false, "in_reply_to_user_id": null, "timestamp_ms": "1510724901525", "text": "\"Y en los postreros d\u00edas, dice Dios, Derramar\u00e9 de mi Esp\u00edritu sobre toda carne, Y vuestros hijos y vuestras hijas p\u2026 https://t.co/MTZKyAd9rs", "extended_tweet": {"full_text": "\"Y en los postreros d\u00edas, dice Dios, Derramar\u00e9 de mi Esp\u00edritu sobre toda carne, Y vuestros hijos y vuestras hijas profetizar\u00e1n; Vuestros j\u00f3venes ver\u00e1n visiones, Y vuestros ancianos so\u00f1ar\u00e1n sue\u00f1os\" Hechos 2:17", "display_text_range": [0, 208], "entities": {"hashtags": [], "urls": [], "symbols": [], "user_mentions": []}}, "in_reply_to_user_id_str": null, "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>", "in_reply_to_screen_name": null}
+{
+  "geo": null,
+  "filter_level": "low",
+  "in_reply_to_status_id": null,
+  "lang": "es",
+  "favorite_count": 0,
+  "coordinates": null,
+  "favorited": false,
+  "place": {
+    "name": "Aguilares",
+    "full_name": "Aguilares, El Salvador",
+    "place_type": "city",
+    "country": "El Salvador",
+    "id": "01d6a42e6657caa4",
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [[-89.269806, 13.626244], [-89.269806, 13.736932], [-89.155121, 13.736932], [-89.155121, 13.626244]]
+      ]
+    },
+    "attributes": {},
+    "url": "https://api.twitter.com/1.1/geo/id/01d6a42e6657caa4.json",
+    "country_code": "SV"
+  },
+  "contributors": null,
+  "entities": {
+    "hashtags": [],
+    "urls": [
+      {
+        "display_url": "twitter.com/i/web/status/9\u2026",
+        "expanded_url": "https://twitter.com/i/web/status/930673807823695875",
+        "url": "https://t.co/MTZKyAd9rs",
+        "indices": [117, 140]
+      }
+    ],
+    "symbols": [],
+    "user_mentions": []
+  },
+  "id": 930673807823695875,
+  "user": {
+    "followers_count": 327,
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_color": "C0DEED",
+    "translator_type": "none",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/584821253300625408/B6mMiFzT_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/122571719/1456673070",
+    "default_profile": true,
+    "utc_offset": -10800,
+    "lang": "es",
+    "url": "http://www.fundacionlared.or.sv",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/584821253300625408/B6mMiFzT_normal.jpg",
+    "time_zone": "Santiago",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_use_background_image": true,
+    "id": 122571719,
+    "profile_link_color": "1DA1F2",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_background_tile": false,
+    "geo_enabled": true,
+    "id_str": "122571719",
+    "verified": false,
+    "name": "Giovanni Barahona",
+    "is_translator": false,
+    "notifications": null,
+    "following": null,
+    "friends_count": 433,
+    "contributors_enabled": false,
+    "screen_name": "GioBarahona",
+    "created_at": "Sat Mar 13 04:48:55 +0000 2010",
+    "profile_text_color": "333333",
+    "favourites_count": 275,
+    "follow_request_sent": null,
+    "description": "Director de FUNDARED..Felizmente Casado, con 37 a\u00f1os, Mis pasiones: Jes\u00fas, mi Esposita, Mi Fundaci\u00f3n y el futbolllllllllll!!!",
+    "default_profile_image": false,
+    "location": "El Salvador",
+    "listed_count": 1,
+    "protected": false,
+    "statuses_count": 1297
+  },
+  "id_str": "930673807823695875",
+  "retweet_count": 0,
+  "retweeted": false,
+  "quote_count": 0,
+  "truncated": true,
+  "in_reply_to_status_id_str": null,
+  "reply_count": 0,
+  "created_at": "Wed Nov 15 05:48:21 +0000 2017",
+  "is_quote_status": false,
+  "in_reply_to_user_id": null,
+  "timestamp_ms": "1510724901525",
+  "text": "\"Y en los postreros d\u00edas, dice Dios, Derramar\u00e9 de mi Esp\u00edritu sobre toda carne, Y vuestros hijos y vuestras hijas p\u2026 https://t.co/MTZKyAd9rs",
+  "extended_tweet": {
+    "full_text": "\"Y en los postreros d\u00edas, dice Dios, Derramar\u00e9 de mi Esp\u00edritu sobre toda carne, Y vuestros hijos y vuestras hijas profetizar\u00e1n; Vuestros j\u00f3venes ver\u00e1n visiones, Y vuestros ancianos so\u00f1ar\u00e1n sue\u00f1os\" Hechos 2:17",
+    "display_text_range": [0, 208],
+    "entities": {
+      "hashtags": [],
+      "urls": [],
+      "symbols": [],
+      "user_mentions": []
+    }
+  },
+  "in_reply_to_user_id_str": null,
+  "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+  "in_reply_to_screen_name": null
+}

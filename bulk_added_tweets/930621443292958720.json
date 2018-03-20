@@ -1,1 +1,122 @@
-{"geo": {"type": "Point", "coordinates": [40.7142, -74.0064]}, "filter_level": "low", "in_reply_to_status_id": null, "lang": "es", "favorite_count": 0, "coordinates": {"type": "Point", "coordinates": [-74.0064, 40.7142]}, "favorited": false, "place": {"name": "Manhattan", "full_name": "Manhattan, NY", "place_type": "city", "country": "United States", "id": "01a9a39529b27f36", "bounding_box": {"type": "Polygon", "coordinates": [[[-74.026675, 40.683935], [-74.026675, 40.877483], [-73.910408, 40.877483], [-73.910408, 40.683935]]]}, "attributes": {}, "url": "https://api.twitter.com/1.1/geo/id/01a9a39529b27f36.json", "country_code": "US"}, "contributors": null, "entities": {"hashtags": [{"text": "Envivooo", "indices": [51, 60]}], "urls": [{"display_url": "instagram.com/p/Bbf7fZCnX16/", "expanded_url": "https://www.instagram.com/p/Bbf7fZCnX16/", "url": "https://t.co/eIBm6o5nLR", "indices": [96, 119]}], "symbols": [], "user_mentions": [{"id": 29935436, "id_str": "29935436", "name": "Magic Juan", "indices": [62, 78], "screen_name": "MAGICJUANELDURO"}, {"id": 102433960, "id_str": "102433960", "name": "SHADOW BLOW", "indices": [81, 94], "screen_name": "01shadowblow"}]}, "id": 930621443292958720, "possibly_sensitive": false, "user": {"followers_count": 11753, "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/459266996123602945/Z8SgF-6b.jpeg", "profile_background_color": "131516", "translator_type": "none", "profile_image_url": "http://pbs.twimg.com/profile_images/794410521961361410/tDIQKQNs_normal.jpg", "profile_banner_url": "https://pbs.twimg.com/profile_banners/35434082/1506575742", "default_profile": false, "utc_offset": -18000, "lang": "en", "url": "https://BlazeMusic.Net", "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/459266996123602945/Z8SgF-6b.jpeg", "profile_image_url_https": "https://pbs.twimg.com/profile_images/794410521961361410/tDIQKQNs_normal.jpg", "time_zone": "Eastern Time (US & Canada)", "profile_sidebar_border_color": "000000", "profile_use_background_image": true, "id": 35434082, "profile_link_color": "1C4EB0", "profile_sidebar_fill_color": "EFEFEF", "profile_background_tile": true, "geo_enabled": true, "id_str": "35434082", "verified": false, "name": "BLAZEMUSIC.NET", "is_translator": false, "notifications": null, "following": null, "friends_count": 5010, "contributors_enabled": false, "screen_name": "BlazeMusicNet", "created_at": "Sun Apr 26 08:56:39 +0000 2009", "profile_text_color": "333333", "favourites_count": 347, "follow_request_sent": null, "description": "Owner & Ceo Of Blaze Music Website Contacts:  whatsapp: 1-347-579-5767 BlazeMusicNet@hotmail.com", "default_profile_image": false, "location": "Spanish Harlem, NYC, USA", "listed_count": 80, "protected": false, "statuses_count": 239043}, "id_str": "930621443292958720", "retweet_count": 0, "retweeted": false, "quote_count": 0, "truncated": false, "in_reply_to_status_id_str": null, "reply_count": 0, "created_at": "Wed Nov 15 02:20:16 +0000 2017", "is_quote_status": false, "in_reply_to_user_id": null, "source": "<a href=\"http://instagram.com\" rel=\"nofollow\">Instagram</a>", "text": "\ud83d\udea9S\u00e1bado 18 Noviembre \ud83d\udccdHard Rock Cafe Santo Domingo #Envivooo \ud83c\udfa4@magicjuanelduro \u274c @01shadowblow\u2026 https://t.co/eIBm6o5nLR", "timestamp_ms": "1510712416848", "in_reply_to_user_id_str": null, "in_reply_to_screen_name": null}
+{
+  "geo": {
+    "type": "Point",
+    "coordinates": [40.7142, -74.0064]
+  },
+  "filter_level": "low",
+  "in_reply_to_status_id": null,
+  "lang": "es",
+  "favorite_count": 0,
+  "coordinates": {
+    "type": "Point",
+    "coordinates": [-74.0064, 40.7142]
+  },
+  "favorited": false,
+  "place": {
+    "name": "Manhattan",
+    "full_name": "Manhattan, NY",
+    "place_type": "city",
+    "country": "United States",
+    "id": "01a9a39529b27f36",
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [[-74.026675, 40.683935], [-74.026675, 40.877483], [-73.910408, 40.877483], [-73.910408, 40.683935]]
+      ]
+    },
+    "attributes": {},
+    "url": "https://api.twitter.com/1.1/geo/id/01a9a39529b27f36.json",
+    "country_code": "US"
+  },
+  "contributors": null,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "Envivooo",
+        "indices": [51, 60]
+      }
+    ],
+    "urls": [
+      {
+        "display_url": "instagram.com/p/Bbf7fZCnX16/",
+        "expanded_url": "https://www.instagram.com/p/Bbf7fZCnX16/",
+        "url": "https://t.co/eIBm6o5nLR",
+        "indices": [96, 119]
+      }
+    ],
+    "symbols": [],
+    "user_mentions": [
+      {
+        "id": 29935436,
+        "id_str": "29935436",
+        "name": "Magic Juan",
+        "indices": [62, 78],
+        "screen_name": "MAGICJUANELDURO"
+      }, {
+        "id": 102433960,
+        "id_str": "102433960",
+        "name": "SHADOW BLOW",
+        "indices": [81, 94],
+        "screen_name": "01shadowblow"
+      }
+    ]
+  },
+  "id": 930621443292958720,
+  "possibly_sensitive": false,
+  "user": {
+    "followers_count": 11753,
+    "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/459266996123602945/Z8SgF-6b.jpeg",
+    "profile_background_color": "131516",
+    "translator_type": "none",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/794410521961361410/tDIQKQNs_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/35434082/1506575742",
+    "default_profile": false,
+    "utc_offset": -18000,
+    "lang": "en",
+    "url": "https://BlazeMusic.Net",
+    "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/459266996123602945/Z8SgF-6b.jpeg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/794410521961361410/tDIQKQNs_normal.jpg",
+    "time_zone": "Eastern Time (US & Canada)",
+    "profile_sidebar_border_color": "000000",
+    "profile_use_background_image": true,
+    "id": 35434082,
+    "profile_link_color": "1C4EB0",
+    "profile_sidebar_fill_color": "EFEFEF",
+    "profile_background_tile": true,
+    "geo_enabled": true,
+    "id_str": "35434082",
+    "verified": false,
+    "name": "BLAZEMUSIC.NET",
+    "is_translator": false,
+    "notifications": null,
+    "following": null,
+    "friends_count": 5010,
+    "contributors_enabled": false,
+    "screen_name": "BlazeMusicNet",
+    "created_at": "Sun Apr 26 08:56:39 +0000 2009",
+    "profile_text_color": "333333",
+    "favourites_count": 347,
+    "follow_request_sent": null,
+    "description": "Owner & Ceo Of Blaze Music Website Contacts:  whatsapp: 1-347-579-5767 BlazeMusicNet@hotmail.com",
+    "default_profile_image": false,
+    "location": "Spanish Harlem, NYC, USA",
+    "listed_count": 80,
+    "protected": false,
+    "statuses_count": 239043
+  },
+  "id_str": "930621443292958720",
+  "retweet_count": 0,
+  "retweeted": false,
+  "quote_count": 0,
+  "truncated": false,
+  "in_reply_to_status_id_str": null,
+  "reply_count": 0,
+  "created_at": "Wed Nov 15 02:20:16 +0000 2017",
+  "is_quote_status": false,
+  "in_reply_to_user_id": null,
+  "source": "<a href=\"http://instagram.com\" rel=\"nofollow\">Instagram</a>",
+  "text": "\ud83d\udea9S\u00e1bado 18 Noviembre \ud83d\udccdHard Rock Cafe Santo Domingo #Envivooo \ud83c\udfa4@magicjuanelduro \u274c @01shadowblow\u2026 https://t.co/eIBm6o5nLR",
+  "timestamp_ms": "1510712416848",
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null
+}

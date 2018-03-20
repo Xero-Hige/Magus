@@ -1,1 +1,106 @@
-{"is_quote_status": false, "in_reply_to_user_id_str": null, "created_at": "Tue Nov 14 21:16:58 +0000 2017", "favorite_count": 0, "in_reply_to_status_id": null, "id_str": "930545112853213187", "filter_level": "low", "reply_count": 0, "timestamp_ms": "1510694218253", "id": 930545112853213187, "coordinates": null, "in_reply_to_screen_name": null, "truncated": true, "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>", "place": {"bounding_box": {"coordinates": [[[-77.119401, 38.801826], [-77.119401, 38.99538], [-76.909396, 38.99538], [-76.909396, 38.801826]]], "type": "Polygon"}, "url": "https://api.twitter.com/1.1/geo/id/01fbe706f872cb32.json", "country_code": "US", "name": "Washington", "full_name": "Washington, DC", "id": "01fbe706f872cb32", "place_type": "city", "attributes": {}, "country": "Estados Unidos"}, "retweet_count": 0, "extended_tweet": {"display_text_range": [0, 153], "entities": {"user_mentions": [], "urls": [], "symbols": [], "hashtags": []}, "full_text": "La pol\u00edtica internacional no es un condominio o un centro de estudiantes. Alienta ver las costuras de los \"opin\u00f3logos\" y sus angustiosa intrascendencias."}, "quote_count": 0, "favorited": false, "text": "La pol\u00edtica internacional no es un condominio o un centro de estudiantes. Alienta ver las costuras de los \"opin\u00f3log\u2026 https://t.co/gwkpVkwdcx", "in_reply_to_user_id": null, "geo": null, "lang": "es", "contributors": null, "in_reply_to_status_id_str": null, "user": {"protected": false, "following": null, "profile_text_color": "333333", "profile_background_color": "131516", "statuses_count": 58239, "default_profile": false, "favourites_count": 4149, "friends_count": 1153, "follow_request_sent": null, "profile_sidebar_fill_color": "EFEFEF", "translator_type": "none", "notifications": null, "id_str": "52379357", "screen_name": "RoderickNavarro", "profile_banner_url": "https://pbs.twimg.com/profile_banners/52379357/1483918873", "verified": false, "id": 52379357, "profile_use_background_image": true, "description": "Libertario. Activista de @Rumbo_Libertad. Miembro de @VFutura. Ex-Pdte FCU-UCV. Pol\u00edtico y estudiante de politolog\u00eda.", "utc_offset": -14400, "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif", "is_translator": false, "listed_count": 561, "default_profile_image": false, "contributors_enabled": false, "followers_count": 51042, "location": "Caracas, Venezuela", "created_at": "Tue Jun 30 12:20:37 +0000 2009", "profile_image_url_https": "https://pbs.twimg.com/profile_images/923191498354634752/-nwJ-mqi_normal.jpg", "geo_enabled": true, "time_zone": "Caracas", "profile_image_url": "http://pbs.twimg.com/profile_images/923191498354634752/-nwJ-mqi_normal.jpg", "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif", "profile_link_color": "009999", "lang": "es", "name": "Roderick Navarro", "profile_background_tile": true, "url": "http://rumbolibertad.org", "profile_sidebar_border_color": "EEEEEE"}, "entities": {"user_mentions": [], "urls": [{"expanded_url": "https://twitter.com/i/web/status/930545112853213187", "url": "https://t.co/gwkpVkwdcx", "indices": [117, 140], "display_url": "twitter.com/i/web/status/9\u2026"}], "symbols": [], "hashtags": []}, "retweeted": false}
+{
+  "is_quote_status": false,
+  "in_reply_to_user_id_str": null,
+  "created_at": "Tue Nov 14 21:16:58 +0000 2017",
+  "favorite_count": 0,
+  "in_reply_to_status_id": null,
+  "id_str": "930545112853213187",
+  "filter_level": "low",
+  "reply_count": 0,
+  "timestamp_ms": "1510694218253",
+  "id": 930545112853213187,
+  "coordinates": null,
+  "in_reply_to_screen_name": null,
+  "truncated": true,
+  "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+  "place": {
+    "bounding_box": {
+      "coordinates": [
+        [[-77.119401, 38.801826], [-77.119401, 38.99538], [-76.909396, 38.99538], [-76.909396, 38.801826]]
+      ],
+      "type": "Polygon"
+    },
+    "url": "https://api.twitter.com/1.1/geo/id/01fbe706f872cb32.json",
+    "country_code": "US",
+    "name": "Washington",
+    "full_name": "Washington, DC",
+    "id": "01fbe706f872cb32",
+    "place_type": "city",
+    "attributes": {},
+    "country": "Estados Unidos"
+  },
+  "retweet_count": 0,
+  "extended_tweet": {
+    "display_text_range": [0, 153],
+    "entities": {
+      "user_mentions": [],
+      "urls": [],
+      "symbols": [],
+      "hashtags": []
+    },
+    "full_text": "La pol\u00edtica internacional no es un condominio o un centro de estudiantes. Alienta ver las costuras de los \"opin\u00f3logos\" y sus angustiosa intrascendencias."
+  },
+  "quote_count": 0,
+  "favorited": false,
+  "text": "La pol\u00edtica internacional no es un condominio o un centro de estudiantes. Alienta ver las costuras de los \"opin\u00f3log\u2026 https://t.co/gwkpVkwdcx",
+  "in_reply_to_user_id": null,
+  "geo": null,
+  "lang": "es",
+  "contributors": null,
+  "in_reply_to_status_id_str": null,
+  "user": {
+    "protected": false,
+    "following": null,
+    "profile_text_color": "333333",
+    "profile_background_color": "131516",
+    "statuses_count": 58239,
+    "default_profile": false,
+    "favourites_count": 4149,
+    "friends_count": 1153,
+    "follow_request_sent": null,
+    "profile_sidebar_fill_color": "EFEFEF",
+    "translator_type": "none",
+    "notifications": null,
+    "id_str": "52379357",
+    "screen_name": "RoderickNavarro",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/52379357/1483918873",
+    "verified": false,
+    "id": 52379357,
+    "profile_use_background_image": true,
+    "description": "Libertario. Activista de @Rumbo_Libertad. Miembro de @VFutura. Ex-Pdte FCU-UCV. Pol\u00edtico y estudiante de politolog\u00eda.",
+    "utc_offset": -14400,
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+    "is_translator": false,
+    "listed_count": 561,
+    "default_profile_image": false,
+    "contributors_enabled": false,
+    "followers_count": 51042,
+    "location": "Caracas, Venezuela",
+    "created_at": "Tue Jun 30 12:20:37 +0000 2009",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/923191498354634752/-nwJ-mqi_normal.jpg",
+    "geo_enabled": true,
+    "time_zone": "Caracas",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/923191498354634752/-nwJ-mqi_normal.jpg",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+    "profile_link_color": "009999",
+    "lang": "es",
+    "name": "Roderick Navarro",
+    "profile_background_tile": true,
+    "url": "http://rumbolibertad.org",
+    "profile_sidebar_border_color": "EEEEEE"
+  },
+  "entities": {
+    "user_mentions": [],
+    "urls": [
+      {
+        "expanded_url": "https://twitter.com/i/web/status/930545112853213187",
+        "url": "https://t.co/gwkpVkwdcx",
+        "indices": [117, 140],
+        "display_url": "twitter.com/i/web/status/9\u2026"
+      }
+    ],
+    "symbols": [],
+    "hashtags": []
+  },
+  "retweeted": false
+}

@@ -1,1 +1,103 @@
-{"created_at": "Sat Dec 02 18:38:40 +0000 2017", "id": 937028259572797441, "id_str": "937028259572797441", "text": "I'm at Minha casinha. in Fortaleza https://t.co/QNSVRyBs3A", "source": "<a href=\"http://foursquare.com\" rel=\"nofollow\">Foursquare</a>", "truncated": false, "in_reply_to_status_id": null, "in_reply_to_status_id_str": null, "in_reply_to_user_id": null, "in_reply_to_user_id_str": null, "in_reply_to_screen_name": null, "user": {"id": 72329438, "id_str": "72329438", "name": "Rafaela\ud83e\udd8b\ud83c\udf38\ud83e\udd8b", "screen_name": "rafacbrosa", "location": "Fortaleza - CE", "url": null, "description": "Assistente social, adepta do estilo de vida saud\u00e1vel, Jogadora de FlagFootball. Que ama a Deus e a vida. 3 Instagram: @rafaelacbrosa", "translator_type": "none", "protected": false, "verified": false, "followers_count": 1329, "friends_count": 2026, "listed_count": 38, "favourites_count": 2157, "statuses_count": 26452, "created_at": "Mon Sep 07 17:07:54 +0000 2009", "utc_offset": -7200, "time_zone": "Brasilia", "geo_enabled": true, "lang": "pt", "contributors_enabled": false, "is_translator": false, "profile_background_color": "FAFAFA", "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000021990458/52f3b8a211f2eeba7f9fce47a0ab128e.jpeg", "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000021990458/52f3b8a211f2eeba7f9fce47a0ab128e.jpeg", "profile_background_tile": true, "profile_link_color": "CC3366", "profile_sidebar_border_color": "FFFFFF", "profile_sidebar_fill_color": "FCFCFC", "profile_text_color": "333333", "profile_use_background_image": true, "profile_image_url": "http://pbs.twimg.com/profile_images/934942278342397952/-Ga-QOwK_normal.jpg", "profile_image_url_https": "https://pbs.twimg.com/profile_images/934942278342397952/-Ga-QOwK_normal.jpg", "profile_banner_url": "https://pbs.twimg.com/profile_banners/72329438/1506899426", "default_profile": false, "default_profile_image": false, "following": null, "follow_request_sent": null, "notifications": null}, "geo": {"type": "Point", "coordinates": [-3.75545747, -38.51126929]}, "coordinates": {"type": "Point", "coordinates": [-38.51126929, -3.75545747]}, "place": {"id": "d16815010421ff73", "url": "https://api.twitter.com/1.1/geo/id/d16815010421ff73.json", "place_type": "city", "name": "Fortaleza", "full_name": "Fortaleza, Brasil", "country_code": "BR", "country": "Brasil", "bounding_box": {"type": "Polygon", "coordinates": [[[-38.638212, -3.88818], [-38.638212, -3.691356], [-38.401568, -3.691356], [-38.401568, -3.88818]]]}, "attributes": {}}, "contributors": null, "is_quote_status": false, "quote_count": 0, "reply_count": 0, "retweet_count": 0, "favorite_count": 0, "entities": {"hashtags": [], "urls": [{"url": "https://t.co/QNSVRyBs3A", "expanded_url": "https://www.swarmapp.com/c/liOJrCCQVOV", "display_url": "swarmapp.com/c/liOJrCCQVOV", "indices": [35, 58]}], "user_mentions": [], "symbols": []}, "favorited": false, "retweeted": false, "possibly_sensitive": false, "filter_level": "low", "lang": "pt", "timestamp_ms": "1512239920882"}
+{
+  "created_at": "Sat Dec 02 18:38:40 +0000 2017",
+  "id": 937028259572797441,
+  "id_str": "937028259572797441",
+  "text": "I'm at Minha casinha. in Fortaleza https://t.co/QNSVRyBs3A",
+  "source": "<a href=\"http://foursquare.com\" rel=\"nofollow\">Foursquare</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 72329438,
+    "id_str": "72329438",
+    "name": "Rafaela\ud83e\udd8b\ud83c\udf38\ud83e\udd8b",
+    "screen_name": "rafacbrosa",
+    "location": "Fortaleza - CE",
+    "url": null,
+    "description": "Assistente social, adepta do estilo de vida saud\u00e1vel, Jogadora de FlagFootball. Que ama a Deus e a vida. 3 Instagram: @rafaelacbrosa",
+    "translator_type": "none",
+    "protected": false,
+    "verified": false,
+    "followers_count": 1329,
+    "friends_count": 2026,
+    "listed_count": 38,
+    "favourites_count": 2157,
+    "statuses_count": 26452,
+    "created_at": "Mon Sep 07 17:07:54 +0000 2009",
+    "utc_offset": -7200,
+    "time_zone": "Brasilia",
+    "geo_enabled": true,
+    "lang": "pt",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "FAFAFA",
+    "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000021990458/52f3b8a211f2eeba7f9fce47a0ab128e.jpeg",
+    "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000021990458/52f3b8a211f2eeba7f9fce47a0ab128e.jpeg",
+    "profile_background_tile": true,
+    "profile_link_color": "CC3366",
+    "profile_sidebar_border_color": "FFFFFF",
+    "profile_sidebar_fill_color": "FCFCFC",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/934942278342397952/-Ga-QOwK_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/934942278342397952/-Ga-QOwK_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/72329438/1506899426",
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": null,
+    "follow_request_sent": null,
+    "notifications": null
+  },
+  "geo": {
+    "type": "Point",
+    "coordinates": [-3.75545747, -38.51126929]
+  },
+  "coordinates": {
+    "type": "Point",
+    "coordinates": [-38.51126929, -3.75545747]
+  },
+  "place": {
+    "id": "d16815010421ff73",
+    "url": "https://api.twitter.com/1.1/geo/id/d16815010421ff73.json",
+    "place_type": "city",
+    "name": "Fortaleza",
+    "full_name": "Fortaleza, Brasil",
+    "country_code": "BR",
+    "country": "Brasil",
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [[-38.638212, -3.88818], [-38.638212, -3.691356], [-38.401568, -3.691356], [-38.401568, -3.88818]]
+      ]
+    },
+    "attributes": {}
+  },
+  "contributors": null,
+  "is_quote_status": false,
+  "quote_count": 0,
+  "reply_count": 0,
+  "retweet_count": 0,
+  "favorite_count": 0,
+  "entities": {
+    "hashtags": [],
+    "urls": [
+      {
+        "url": "https://t.co/QNSVRyBs3A",
+        "expanded_url": "https://www.swarmapp.com/c/liOJrCCQVOV",
+        "display_url": "swarmapp.com/c/liOJrCCQVOV",
+        "indices": [35, 58]
+      }
+    ],
+    "user_mentions": [],
+    "symbols": []
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false,
+  "filter_level": "low",
+  "lang": "pt",
+  "timestamp_ms": "1512239920882"
+}

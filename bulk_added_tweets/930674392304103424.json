@@ -1,1 +1,112 @@
-{"geo": {"type": "Point", "coordinates": [41.3833, 2.18333]}, "filter_level": "low", "in_reply_to_status_id": null, "lang": "es", "favorite_count": 0, "coordinates": {"type": "Point", "coordinates": [2.18333, 41.3833]}, "favorited": false, "place": {"name": "Barcelona", "full_name": "Barcelona, Espa\u00f1a", "place_type": "city", "country": "Espa\u00f1a", "id": "1a27537478dd8e38", "bounding_box": {"type": "Polygon", "coordinates": [[[2.052477, 41.317048], [2.052477, 41.468266], [2.229978, 41.468266], [2.229978, 41.317048]]]}, "attributes": {}, "url": "https://api.twitter.com/1.1/geo/id/1a27537478dd8e38.json", "country_code": "ES"}, "contributors": null, "entities": {"hashtags": [{"text": "BuenosDias", "indices": [33, 44]}, {"text": "Feliz", "indices": [45, 51]}, {"text": "Miercoles", "indices": [52, 62]}], "urls": [{"display_url": "instagram.com/p/BbgTkdqnpEN/", "expanded_url": "https://www.instagram.com/p/BbgTkdqnpEN/", "url": "https://t.co/6g2BV1XBNe", "indices": [82, 105]}], "symbols": [], "user_mentions": []}, "id": 930674392304103424, "possibly_sensitive": false, "user": {"followers_count": 538, "profile_background_image_url": "", "profile_background_color": "F5F8FA", "translator_type": "none", "profile_image_url": "http://pbs.twimg.com/profile_images/908994110777958400/7KZ34XQU_normal.jpg", "profile_banner_url": "https://pbs.twimg.com/profile_banners/856406081349853184/1505414559", "default_profile": true, "utc_offset": null, "lang": "es", "url": "http://www.facebook.com/MaspiBCN", "profile_background_image_url_https": "", "profile_image_url_https": "https://pbs.twimg.com/profile_images/908994110777958400/7KZ34XQU_normal.jpg", "time_zone": null, "profile_sidebar_border_color": "C0DEED", "profile_use_background_image": true, "id": 856406081349853184, "profile_link_color": "1DA1F2", "profile_sidebar_fill_color": "DDEEF6", "profile_background_tile": false, "geo_enabled": true, "id_str": "856406081349853184", "verified": false, "name": "Sebas Maspons", "is_translator": false, "notifications": null, "following": null, "friends_count": 357, "contributors_enabled": false, "screen_name": "MaspiDIAL", "created_at": "Mon Apr 24 07:14:55 +0000 2017", "profile_text_color": "333333", "favourites_count": 6375, "follow_request_sent": null, "description": "Nac\u00ed un 11 de noviembre de 1969 en la ciudad condal. Era martes y llov\u00eda eso dej\u00f3 bien claro que no iba para cantante. Arucitero teletuliano y hago radio", "default_profile_image": false, "location": "Sant Celoni, Espanya", "listed_count": 9, "protected": false, "statuses_count": 5293}, "id_str": "930674392304103424", "retweet_count": 0, "retweeted": false, "quote_count": 0, "truncated": false, "in_reply_to_status_id_str": null, "reply_count": 0, "created_at": "Wed Nov 15 05:50:40 +0000 2017", "is_quote_status": false, "in_reply_to_user_id": null, "source": "<a href=\"http://instagram.com\" rel=\"nofollow\">Instagram</a>", "text": "\u00c9rase un hombre pegado a un caf\u00e9 #BuenosDias #Feliz #Miercoles @ Barcelona, Spain https://t.co/6g2BV1XBNe", "timestamp_ms": "1510725040876", "in_reply_to_user_id_str": null, "in_reply_to_screen_name": null}
+{
+  "geo": {
+    "type": "Point",
+    "coordinates": [41.3833, 2.18333]
+  },
+  "filter_level": "low",
+  "in_reply_to_status_id": null,
+  "lang": "es",
+  "favorite_count": 0,
+  "coordinates": {
+    "type": "Point",
+    "coordinates": [2.18333, 41.3833]
+  },
+  "favorited": false,
+  "place": {
+    "name": "Barcelona",
+    "full_name": "Barcelona, Espa\u00f1a",
+    "place_type": "city",
+    "country": "Espa\u00f1a",
+    "id": "1a27537478dd8e38",
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [[[2.052477, 41.317048], [2.052477, 41.468266], [2.229978, 41.468266], [2.229978, 41.317048]]]
+    },
+    "attributes": {},
+    "url": "https://api.twitter.com/1.1/geo/id/1a27537478dd8e38.json",
+    "country_code": "ES"
+  },
+  "contributors": null,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "BuenosDias",
+        "indices": [33, 44]
+      }, {
+        "text": "Feliz",
+        "indices": [45, 51]
+      }, {
+        "text": "Miercoles",
+        "indices": [52, 62]
+      }
+    ],
+    "urls": [
+      {
+        "display_url": "instagram.com/p/BbgTkdqnpEN/",
+        "expanded_url": "https://www.instagram.com/p/BbgTkdqnpEN/",
+        "url": "https://t.co/6g2BV1XBNe",
+        "indices": [82, 105]
+      }
+    ],
+    "symbols": [],
+    "user_mentions": []
+  },
+  "id": 930674392304103424,
+  "possibly_sensitive": false,
+  "user": {
+    "followers_count": 538,
+    "profile_background_image_url": "",
+    "profile_background_color": "F5F8FA",
+    "translator_type": "none",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/908994110777958400/7KZ34XQU_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/856406081349853184/1505414559",
+    "default_profile": true,
+    "utc_offset": null,
+    "lang": "es",
+    "url": "http://www.facebook.com/MaspiBCN",
+    "profile_background_image_url_https": "",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/908994110777958400/7KZ34XQU_normal.jpg",
+    "time_zone": null,
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_use_background_image": true,
+    "id": 856406081349853184,
+    "profile_link_color": "1DA1F2",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_background_tile": false,
+    "geo_enabled": true,
+    "id_str": "856406081349853184",
+    "verified": false,
+    "name": "Sebas Maspons",
+    "is_translator": false,
+    "notifications": null,
+    "following": null,
+    "friends_count": 357,
+    "contributors_enabled": false,
+    "screen_name": "MaspiDIAL",
+    "created_at": "Mon Apr 24 07:14:55 +0000 2017",
+    "profile_text_color": "333333",
+    "favourites_count": 6375,
+    "follow_request_sent": null,
+    "description": "Nac\u00ed un 11 de noviembre de 1969 en la ciudad condal. Era martes y llov\u00eda eso dej\u00f3 bien claro que no iba para cantante. Arucitero teletuliano y hago radio",
+    "default_profile_image": false,
+    "location": "Sant Celoni, Espanya",
+    "listed_count": 9,
+    "protected": false,
+    "statuses_count": 5293
+  },
+  "id_str": "930674392304103424",
+  "retweet_count": 0,
+  "retweeted": false,
+  "quote_count": 0,
+  "truncated": false,
+  "in_reply_to_status_id_str": null,
+  "reply_count": 0,
+  "created_at": "Wed Nov 15 05:50:40 +0000 2017",
+  "is_quote_status": false,
+  "in_reply_to_user_id": null,
+  "source": "<a href=\"http://instagram.com\" rel=\"nofollow\">Instagram</a>",
+  "text": "\u00c9rase un hombre pegado a un caf\u00e9 #BuenosDias #Feliz #Miercoles @ Barcelona, Spain https://t.co/6g2BV1XBNe",
+  "timestamp_ms": "1510725040876",
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null
+}

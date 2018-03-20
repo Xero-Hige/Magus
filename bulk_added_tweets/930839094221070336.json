@@ -1,1 +1,125 @@
-{"extended_tweet": {"display_text_range": [0, 228], "entities": {"urls": [], "symbols": [], "hashtags": [{"text": "Verg\u00fcenzaajena", "indices": [213, 228]}], "user_mentions": [{"indices": [0, 14], "name": "Gabriel Rufi\u00e1n", "id_str": "2904896141", "screen_name": "gabrielrufian", "id": 2904896141}]}, "full_text": "@gabrielrufian es el ejemplo del parlamentarismo sin clase, sin verg\u00fcenza, sin educaci\u00f3n. Grotesco, ignorante y burlesco. Necesitamos parlamentarios que se respeten a si mismos, para respetar a los representados. #Verg\u00fcenzaajena"}, "favorited": false, "lang": "es", "favorite_count": 0, "reply_count": 0, "geo": null, "contributors": null, "text": "@gabrielrufian es el ejemplo del parlamentarismo sin clase, sin verg\u00fcenza, sin educaci\u00f3n. Grotesco, ignorante y bur\u2026 https://t.co/rloOPQLu3c", "created_at": "Wed Nov 15 16:45:08 +0000 2017", "place": {"place_type": "city", "full_name": "S\u00e9ville, Espagne", "country": "Espagne", "name": "S\u00e9ville", "url": "https://api.twitter.com/1.1/geo/id/8c86b8b4cb716103.json", "country_code": "ES", "bounding_box": {"type": "Polygon", "coordinates": [[[-6.02843, 37.313613], [-6.02843, 37.452783], [-5.81866, 37.452783], [-5.81866, 37.313613]]]}, "id": "8c86b8b4cb716103", "attributes": {}}, "user": {"profile_text_color": "333333", "lang": "fr", "location": "Andaluc\u00eda, Espa\u00f1a", "friends_count": 1062, "profile_link_color": "9D582E", "profile_image_url_https": "https://pbs.twimg.com/profile_images/869095584652824576/1UiI3z83_normal.jpg", "contributors_enabled": false, "following": null, "is_translator": false, "verified": false, "profile_banner_url": "https://pbs.twimg.com/profile_banners/111070106/1496043494", "utc_offset": -10800, "geo_enabled": true, "profile_sidebar_border_color": "FFFFFF", "created_at": "Wed Feb 03 18:22:04 +0000 2010", "description": "Humanista, europe\u00edsta y proactivo. Jurista y Polit\u00f3logo. Especialista en Derecho de la Uni\u00f3n Europea por IEE (Bruselas). Apasionado.", "profile_image_url": "http://pbs.twimg.com/profile_images/869095584652824576/1UiI3z83_normal.jpg", "profile_background_color": "8B542B", "listed_count": 26, "follow_request_sent": null, "profile_background_tile": true, "followers_count": 1239, "name": "Alfonso CG", "notifications": null, "default_profile_image": false, "url": null, "favourites_count": 537, "screen_name": "Alfonsoccgarcia", "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000109273641/24d5fd10de4635c23115b712e1d01b7c.jpeg", "profile_sidebar_fill_color": "DDEEF6", "profile_use_background_image": true, "translator_type": "none", "time_zone": "Greenland", "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000109273641/24d5fd10de4635c23115b712e1d01b7c.jpeg", "statuses_count": 7723, "id": 111070106, "default_profile": false, "protected": false, "id_str": "111070106"}, "in_reply_to_user_id_str": "2904896141", "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>", "filter_level": "low", "is_quote_status": false, "in_reply_to_status_id": null, "in_reply_to_user_id": 2904896141, "quote_count": 0, "retweeted": false, "in_reply_to_screen_name": "gabrielrufian", "retweet_count": 0, "in_reply_to_status_id_str": null, "coordinates": null, "id": 930839094221070336, "truncated": true, "entities": {"urls": [{"url": "https://t.co/rloOPQLu3c", "display_url": "twitter.com/i/web/status/9\u2026", "indices": [117, 140], "expanded_url": "https://twitter.com/i/web/status/930839094221070336"}], "symbols": [], "hashtags": [], "user_mentions": [{"indices": [0, 14], "name": "Gabriel Rufi\u00e1n", "id_str": "2904896141", "screen_name": "gabrielrufian", "id": 2904896141}]}, "timestamp_ms": "1510764308873", "id_str": "930839094221070336"}
+{
+  "extended_tweet": {
+    "display_text_range": [0, 228],
+    "entities": {
+      "urls": [],
+      "symbols": [],
+      "hashtags": [
+        {
+          "text": "Verg\u00fcenzaajena",
+          "indices": [213, 228]
+        }
+      ],
+      "user_mentions": [
+        {
+          "indices": [0, 14],
+          "name": "Gabriel Rufi\u00e1n",
+          "id_str": "2904896141",
+          "screen_name": "gabrielrufian",
+          "id": 2904896141
+        }
+      ]
+    },
+    "full_text": "@gabrielrufian es el ejemplo del parlamentarismo sin clase, sin verg\u00fcenza, sin educaci\u00f3n. Grotesco, ignorante y burlesco. Necesitamos parlamentarios que se respeten a si mismos, para respetar a los representados. #Verg\u00fcenzaajena"
+  },
+  "favorited": false,
+  "lang": "es",
+  "favorite_count": 0,
+  "reply_count": 0,
+  "geo": null,
+  "contributors": null,
+  "text": "@gabrielrufian es el ejemplo del parlamentarismo sin clase, sin verg\u00fcenza, sin educaci\u00f3n. Grotesco, ignorante y bur\u2026 https://t.co/rloOPQLu3c",
+  "created_at": "Wed Nov 15 16:45:08 +0000 2017",
+  "place": {
+    "place_type": "city",
+    "full_name": "S\u00e9ville, Espagne",
+    "country": "Espagne",
+    "name": "S\u00e9ville",
+    "url": "https://api.twitter.com/1.1/geo/id/8c86b8b4cb716103.json",
+    "country_code": "ES",
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [[[-6.02843, 37.313613], [-6.02843, 37.452783], [-5.81866, 37.452783], [-5.81866, 37.313613]]]
+    },
+    "id": "8c86b8b4cb716103",
+    "attributes": {}
+  },
+  "user": {
+    "profile_text_color": "333333",
+    "lang": "fr",
+    "location": "Andaluc\u00eda, Espa\u00f1a",
+    "friends_count": 1062,
+    "profile_link_color": "9D582E",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/869095584652824576/1UiI3z83_normal.jpg",
+    "contributors_enabled": false,
+    "following": null,
+    "is_translator": false,
+    "verified": false,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/111070106/1496043494",
+    "utc_offset": -10800,
+    "geo_enabled": true,
+    "profile_sidebar_border_color": "FFFFFF",
+    "created_at": "Wed Feb 03 18:22:04 +0000 2010",
+    "description": "Humanista, europe\u00edsta y proactivo. Jurista y Polit\u00f3logo. Especialista en Derecho de la Uni\u00f3n Europea por IEE (Bruselas). Apasionado.",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/869095584652824576/1UiI3z83_normal.jpg",
+    "profile_background_color": "8B542B",
+    "listed_count": 26,
+    "follow_request_sent": null,
+    "profile_background_tile": true,
+    "followers_count": 1239,
+    "name": "Alfonso CG",
+    "notifications": null,
+    "default_profile_image": false,
+    "url": null,
+    "favourites_count": 537,
+    "screen_name": "Alfonsoccgarcia",
+    "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000109273641/24d5fd10de4635c23115b712e1d01b7c.jpeg",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_use_background_image": true,
+    "translator_type": "none",
+    "time_zone": "Greenland",
+    "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000109273641/24d5fd10de4635c23115b712e1d01b7c.jpeg",
+    "statuses_count": 7723,
+    "id": 111070106,
+    "default_profile": false,
+    "protected": false,
+    "id_str": "111070106"
+  },
+  "in_reply_to_user_id_str": "2904896141",
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "filter_level": "low",
+  "is_quote_status": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_user_id": 2904896141,
+  "quote_count": 0,
+  "retweeted": false,
+  "in_reply_to_screen_name": "gabrielrufian",
+  "retweet_count": 0,
+  "in_reply_to_status_id_str": null,
+  "coordinates": null,
+  "id": 930839094221070336,
+  "truncated": true,
+  "entities": {
+    "urls": [
+      {
+        "url": "https://t.co/rloOPQLu3c",
+        "display_url": "twitter.com/i/web/status/9\u2026",
+        "indices": [117, 140],
+        "expanded_url": "https://twitter.com/i/web/status/930839094221070336"
+      }
+    ],
+    "symbols": [],
+    "hashtags": [],
+    "user_mentions": [
+      {
+        "indices": [0, 14],
+        "name": "Gabriel Rufi\u00e1n",
+        "id_str": "2904896141",
+        "screen_name": "gabrielrufian",
+        "id": 2904896141
+      }
+    ]
+  },
+  "timestamp_ms": "1510764308873",
+  "id_str": "930839094221070336"
+}

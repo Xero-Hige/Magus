@@ -1,1 +1,106 @@
-{"geo": null, "filter_level": "low", "in_reply_to_status_id": null, "lang": "es", "favorite_count": 0, "coordinates": null, "favorited": false, "place": {"name": "Maip\u00fa", "full_name": "Maip\u00fa, Chile", "place_type": "city", "country": "Chile", "id": "0113747966068613", "bounding_box": {"type": "Polygon", "coordinates": [[[-70.930215, -33.571733], [-70.930215, -33.458483], [-70.71874, -33.458483], [-70.71874, -33.571733]]]}, "attributes": {}, "url": "https://api.twitter.com/1.1/geo/id/0113747966068613.json", "country_code": "CL"}, "contributors": null, "entities": {"hashtags": [], "urls": [{"display_url": "twitter.com/i/web/status/9\u2026", "expanded_url": "https://twitter.com/i/web/status/930605446892851200", "url": "https://t.co/1cRcBZhHtk", "indices": [117, 140]}], "symbols": [], "user_mentions": []}, "id": 930605446892851200, "user": {"followers_count": 5761, "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000075903563/47482ed20e056d9f50d3f52028241a39.jpeg", "profile_background_color": "0099B9", "translator_type": "none", "profile_image_url": "http://pbs.twimg.com/profile_images/753793828792983553/1Fhn2Dsl_normal.jpg", "profile_banner_url": "https://pbs.twimg.com/profile_banners/102425640/1496360786", "default_profile": false, "utc_offset": -10800, "lang": "es", "url": null, "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000075903563/47482ed20e056d9f50d3f52028241a39.jpeg", "profile_image_url_https": "https://pbs.twimg.com/profile_images/753793828792983553/1Fhn2Dsl_normal.jpg", "time_zone": "Santiago", "profile_sidebar_border_color": "FFFFFF", "profile_use_background_image": true, "id": 102425640, "profile_link_color": "3B94D9", "profile_sidebar_fill_color": "95E8EC", "profile_background_tile": true, "geo_enabled": true, "id_str": "102425640", "verified": false, "name": "Cristi\u00e1n Alejandro", "is_translator": false, "notifications": null, "following": null, "friends_count": 3087, "contributors_enabled": false, "screen_name": "Cavigol7", "created_at": "Wed Jan 06 17:16:46 +0000 2010", "profile_text_color": "194CAB", "favourites_count": 1504, "follow_request_sent": null, "description": "Relator , compactos en CDF, mega.cl y periodista de Festivales. Casado con @cami07hurtado , padre de Constanza y de L\u00eda que son mi vida.", "default_profile_image": false, "location": "Maip\u00fa, Chile", "listed_count": 23, "protected": false, "statuses_count": 25688}, "id_str": "930605446892851200", "retweet_count": 0, "retweeted": false, "quote_count": 0, "truncated": true, "in_reply_to_status_id_str": null, "reply_count": 0, "created_at": "Wed Nov 15 01:16:43 +0000 2017", "is_quote_status": false, "in_reply_to_user_id": null, "timestamp_ms": "1510708603009", "text": "No soy abogado de nadie, pero claramente en nuestro f\u00fatbol (en proporci\u00f3n) es menos grave putear y amenazar a \u00e1rbit\u2026 https://t.co/1cRcBZhHtk", "extended_tweet": {"full_text": "No soy abogado de nadie, pero claramente en nuestro f\u00fatbol (en proporci\u00f3n) es menos grave putear y amenazar a \u00e1rbitros, que alguien deje una marca de x vida a un jugador o un criminal provoque una fractura a un colega, que caer sobre una c\u00e1mara y da\u00f1arla. Algo no encaja!!!", "display_text_range": [0, 273], "entities": {"hashtags": [], "urls": [], "symbols": [], "user_mentions": []}}, "in_reply_to_user_id_str": null, "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>", "in_reply_to_screen_name": null}
+{
+  "geo": null,
+  "filter_level": "low",
+  "in_reply_to_status_id": null,
+  "lang": "es",
+  "favorite_count": 0,
+  "coordinates": null,
+  "favorited": false,
+  "place": {
+    "name": "Maip\u00fa",
+    "full_name": "Maip\u00fa, Chile",
+    "place_type": "city",
+    "country": "Chile",
+    "id": "0113747966068613",
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [[-70.930215, -33.571733], [-70.930215, -33.458483], [-70.71874, -33.458483], [-70.71874, -33.571733]]
+      ]
+    },
+    "attributes": {},
+    "url": "https://api.twitter.com/1.1/geo/id/0113747966068613.json",
+    "country_code": "CL"
+  },
+  "contributors": null,
+  "entities": {
+    "hashtags": [],
+    "urls": [
+      {
+        "display_url": "twitter.com/i/web/status/9\u2026",
+        "expanded_url": "https://twitter.com/i/web/status/930605446892851200",
+        "url": "https://t.co/1cRcBZhHtk",
+        "indices": [117, 140]
+      }
+    ],
+    "symbols": [],
+    "user_mentions": []
+  },
+  "id": 930605446892851200,
+  "user": {
+    "followers_count": 5761,
+    "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000075903563/47482ed20e056d9f50d3f52028241a39.jpeg",
+    "profile_background_color": "0099B9",
+    "translator_type": "none",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/753793828792983553/1Fhn2Dsl_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/102425640/1496360786",
+    "default_profile": false,
+    "utc_offset": -10800,
+    "lang": "es",
+    "url": null,
+    "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000075903563/47482ed20e056d9f50d3f52028241a39.jpeg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/753793828792983553/1Fhn2Dsl_normal.jpg",
+    "time_zone": "Santiago",
+    "profile_sidebar_border_color": "FFFFFF",
+    "profile_use_background_image": true,
+    "id": 102425640,
+    "profile_link_color": "3B94D9",
+    "profile_sidebar_fill_color": "95E8EC",
+    "profile_background_tile": true,
+    "geo_enabled": true,
+    "id_str": "102425640",
+    "verified": false,
+    "name": "Cristi\u00e1n Alejandro",
+    "is_translator": false,
+    "notifications": null,
+    "following": null,
+    "friends_count": 3087,
+    "contributors_enabled": false,
+    "screen_name": "Cavigol7",
+    "created_at": "Wed Jan 06 17:16:46 +0000 2010",
+    "profile_text_color": "194CAB",
+    "favourites_count": 1504,
+    "follow_request_sent": null,
+    "description": "Relator , compactos en CDF, mega.cl y periodista de Festivales. Casado con @cami07hurtado , padre de Constanza y de L\u00eda que son mi vida.",
+    "default_profile_image": false,
+    "location": "Maip\u00fa, Chile",
+    "listed_count": 23,
+    "protected": false,
+    "statuses_count": 25688
+  },
+  "id_str": "930605446892851200",
+  "retweet_count": 0,
+  "retweeted": false,
+  "quote_count": 0,
+  "truncated": true,
+  "in_reply_to_status_id_str": null,
+  "reply_count": 0,
+  "created_at": "Wed Nov 15 01:16:43 +0000 2017",
+  "is_quote_status": false,
+  "in_reply_to_user_id": null,
+  "timestamp_ms": "1510708603009",
+  "text": "No soy abogado de nadie, pero claramente en nuestro f\u00fatbol (en proporci\u00f3n) es menos grave putear y amenazar a \u00e1rbit\u2026 https://t.co/1cRcBZhHtk",
+  "extended_tweet": {
+    "full_text": "No soy abogado de nadie, pero claramente en nuestro f\u00fatbol (en proporci\u00f3n) es menos grave putear y amenazar a \u00e1rbitros, que alguien deje una marca de x vida a un jugador o un criminal provoque una fractura a un colega, que caer sobre una c\u00e1mara y da\u00f1arla. Algo no encaja!!!",
+    "display_text_range": [0, 273],
+    "entities": {
+      "hashtags": [],
+      "urls": [],
+      "symbols": [],
+      "user_mentions": []
+    }
+  },
+  "in_reply_to_user_id_str": null,
+  "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+  "in_reply_to_screen_name": null
+}

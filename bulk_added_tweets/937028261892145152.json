@@ -1,1 +1,134 @@
-{"created_at": "Sat Dec 02 18:38:41 +0000 2017", "id": 937028261892145152, "id_str": "937028261892145152", "text": "Caturday. My Milo. #cat #kitten #kitty #caturday #katurday #tabby #orange #feline #milo #meow\u2026 https://t.co/ug2VF5s34U", "source": "<a href=\"http://instagram.com\" rel=\"nofollow\">Instagram</a>", "truncated": false, "in_reply_to_status_id": null, "in_reply_to_status_id_str": null, "in_reply_to_user_id": null, "in_reply_to_user_id_str": null, "in_reply_to_screen_name": null, "user": {"id": 228855380, "id_str": "228855380", "name": "Phil Carillo", "screen_name": "steelparade", "location": "Long Beach, CA", "url": "https://m.facebook.com/steelparade", "description": "Singer for Steel Parade. I also hit things with sticks. I like riding waves. I teach people how to do all of these things.", "translator_type": "none", "protected": false, "verified": false, "followers_count": 972, "friends_count": 2139, "listed_count": 16, "favourites_count": 586, "statuses_count": 979, "created_at": "Mon Dec 20 21:32:19 +0000 2010", "utc_offset": -32400, "time_zone": "Alaska", "geo_enabled": true, "lang": "en", "contributors_enabled": false, "is_translator": false, "profile_background_color": "C0DEED", "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png", "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", "profile_background_tile": false, "profile_link_color": "1DA1F2", "profile_sidebar_border_color": "C0DEED", "profile_sidebar_fill_color": "DDEEF6", "profile_text_color": "333333", "profile_use_background_image": true, "profile_image_url": "http://pbs.twimg.com/profile_images/481266262127812608/GTjleXRo_normal.jpeg", "profile_image_url_https": "https://pbs.twimg.com/profile_images/481266262127812608/GTjleXRo_normal.jpeg", "default_profile": true, "default_profile_image": false, "following": null, "follow_request_sent": null, "notifications": null}, "geo": {"type": "Point", "coordinates": [33.82372779, -118.17433745]}, "coordinates": {"type": "Point", "coordinates": [-118.17433745, 33.82372779]}, "place": {"id": "01c060cf466c6ce3", "url": "https://api.twitter.com/1.1/geo/id/01c060cf466c6ce3.json", "place_type": "city", "name": "Long Beach", "full_name": "Long Beach, CA", "country_code": "US", "country": "United States", "bounding_box": {"type": "Polygon", "coordinates": [[[-118.250227, 33.732905], [-118.250227, 33.885438], [-118.063194, 33.885438], [-118.063194, 33.732905]]]}, "attributes": {}}, "contributors": null, "is_quote_status": false, "quote_count": 0, "reply_count": 0, "retweet_count": 0, "favorite_count": 0, "entities": {"hashtags": [{"text": "cat", "indices": [19, 23]}, {"text": "kitten", "indices": [24, 31]}, {"text": "kitty", "indices": [32, 38]}, {"text": "caturday", "indices": [39, 48]}, {"text": "katurday", "indices": [49, 58]}, {"text": "tabby", "indices": [59, 65]}, {"text": "orange", "indices": [66, 73]}, {"text": "feline", "indices": [74, 81]}, {"text": "milo", "indices": [82, 87]}, {"text": "meow", "indices": [88, 93]}], "urls": [{"url": "https://t.co/ug2VF5s34U", "expanded_url": "https://www.instagram.com/p/BcNc-eiAUw8/", "display_url": "instagram.com/p/BcNc-eiAUw8/", "indices": [95, 118]}], "user_mentions": [], "symbols": []}, "favorited": false, "retweeted": false, "possibly_sensitive": false, "filter_level": "low", "lang": "en", "timestamp_ms": "1512239921435"}
+{
+  "created_at": "Sat Dec 02 18:38:41 +0000 2017",
+  "id": 937028261892145152,
+  "id_str": "937028261892145152",
+  "text": "Caturday. My Milo. #cat #kitten #kitty #caturday #katurday #tabby #orange #feline #milo #meow\u2026 https://t.co/ug2VF5s34U",
+  "source": "<a href=\"http://instagram.com\" rel=\"nofollow\">Instagram</a>",
+  "truncated": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 228855380,
+    "id_str": "228855380",
+    "name": "Phil Carillo",
+    "screen_name": "steelparade",
+    "location": "Long Beach, CA",
+    "url": "https://m.facebook.com/steelparade",
+    "description": "Singer for Steel Parade. I also hit things with sticks. I like riding waves. I teach people how to do all of these things.",
+    "translator_type": "none",
+    "protected": false,
+    "verified": false,
+    "followers_count": 972,
+    "friends_count": 2139,
+    "listed_count": 16,
+    "favourites_count": 586,
+    "statuses_count": 979,
+    "created_at": "Mon Dec 20 21:32:19 +0000 2010",
+    "utc_offset": -32400,
+    "time_zone": "Alaska",
+    "geo_enabled": true,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "profile_background_color": "C0DEED",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": false,
+    "profile_link_color": "1DA1F2",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/481266262127812608/GTjleXRo_normal.jpeg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/481266262127812608/GTjleXRo_normal.jpeg",
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": null,
+    "follow_request_sent": null,
+    "notifications": null
+  },
+  "geo": {
+    "type": "Point",
+    "coordinates": [33.82372779, -118.17433745]
+  },
+  "coordinates": {
+    "type": "Point",
+    "coordinates": [-118.17433745, 33.82372779]
+  },
+  "place": {
+    "id": "01c060cf466c6ce3",
+    "url": "https://api.twitter.com/1.1/geo/id/01c060cf466c6ce3.json",
+    "place_type": "city",
+    "name": "Long Beach",
+    "full_name": "Long Beach, CA",
+    "country_code": "US",
+    "country": "United States",
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [[-118.250227, 33.732905], [-118.250227, 33.885438], [-118.063194, 33.885438], [-118.063194, 33.732905]]
+      ]
+    },
+    "attributes": {}
+  },
+  "contributors": null,
+  "is_quote_status": false,
+  "quote_count": 0,
+  "reply_count": 0,
+  "retweet_count": 0,
+  "favorite_count": 0,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "cat",
+        "indices": [19, 23]
+      }, {
+        "text": "kitten",
+        "indices": [24, 31]
+      }, {
+        "text": "kitty",
+        "indices": [32, 38]
+      }, {
+        "text": "caturday",
+        "indices": [39, 48]
+      }, {
+        "text": "katurday",
+        "indices": [49, 58]
+      }, {
+        "text": "tabby",
+        "indices": [59, 65]
+      }, {
+        "text": "orange",
+        "indices": [66, 73]
+      }, {
+        "text": "feline",
+        "indices": [74, 81]
+      }, {
+        "text": "milo",
+        "indices": [82, 87]
+      }, {
+        "text": "meow",
+        "indices": [88, 93]
+      }
+    ],
+    "urls": [
+      {
+        "url": "https://t.co/ug2VF5s34U",
+        "expanded_url": "https://www.instagram.com/p/BcNc-eiAUw8/",
+        "display_url": "instagram.com/p/BcNc-eiAUw8/",
+        "indices": [95, 118]
+      }
+    ],
+    "user_mentions": [],
+    "symbols": []
+  },
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false,
+  "filter_level": "low",
+  "lang": "en",
+  "timestamp_ms": "1512239921435"
+}

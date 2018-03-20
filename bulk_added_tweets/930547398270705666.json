@@ -1,1 +1,115 @@
-{"is_quote_status": false, "in_reply_to_user_id_str": null, "created_at": "Tue Nov 14 21:26:03 +0000 2017", "favorite_count": 0, "in_reply_to_status_id": null, "id_str": "930547398270705666", "filter_level": "low", "reply_count": 0, "timestamp_ms": "1510694763139", "id": 930547398270705666, "coordinates": {"coordinates": [11.8885498, 45.4138336], "type": "Point"}, "in_reply_to_screen_name": null, "truncated": false, "source": "<a href=\"http://instagram.com\" rel=\"nofollow\">Instagram</a>", "place": {"bounding_box": {"coordinates": [[[11.805169, 45.340101], [11.805169, 45.457343], [11.976505, 45.457343], [11.976505, 45.340101]]], "type": "Polygon"}, "url": "https://api.twitter.com/1.1/geo/id/fdb8acc1584c75bc.json", "country_code": "IT", "name": "Padova", "full_name": "Padova, Veneto", "id": "fdb8acc1584c75bc", "place_type": "city", "attributes": {}, "country": "Italia"}, "retweet_count": 0, "quote_count": 0, "favorited": false, "text": "Che cos\u2019ho nella testa...? Un mundo de cosas #artepadova #cubanart #fabelo #unmundodecosas\u2026 https://t.co/bABUISTjtp", "in_reply_to_user_id": null, "geo": {"coordinates": [45.4138336, 11.8885498], "type": "Point"}, "lang": "es", "contributors": null, "in_reply_to_status_id_str": null, "user": {"protected": false, "following": null, "profile_text_color": "333333", "profile_background_color": "EBC1E8", "statuses_count": 2841, "default_profile": false, "favourites_count": 388, "friends_count": 496, "follow_request_sent": null, "profile_sidebar_fill_color": "DDEEF6", "translator_type": "none", "notifications": null, "id_str": "171267000", "screen_name": "cuocapaglia", "profile_banner_url": "https://pbs.twimg.com/profile_banners/171267000/1412108855", "verified": false, "id": 171267000, "profile_use_background_image": true, "description": "chef \ud83d\udc69\u200d\ud83c\udf73, cooking coach \ud83e\udd57, anti-aging chef, foodie \ud83c\udf5c, vegan pastry chef \ud83c\udf6a, vintage fashionista \ud83d\udc60, fitness lover \u2764\ufe0f \ud83d\udcaa, runner \ud83c\udfc3\u200d\u2640\ufe0f...&&&&&&&", "utc_offset": -10800, "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/526764615/PubblicazioneDISCO2.jpg", "is_translator": false, "listed_count": 16, "default_profile_image": false, "contributors_enabled": false, "followers_count": 300, "location": "padova", "created_at": "Mon Jul 26 23:40:37 +0000 2010", "profile_image_url_https": "https://pbs.twimg.com/profile_images/890253905950593030/WUeeukoS_normal.jpg", "geo_enabled": true, "time_zone": "Greenland", "profile_image_url": "http://pbs.twimg.com/profile_images/890253905950593030/WUeeukoS_normal.jpg", "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/526764615/PubblicazioneDISCO2.jpg", "profile_link_color": "6BB300", "lang": "it", "name": "erika coromer", "profile_background_tile": true, "url": "http://www.cuocapaglia.it", "profile_sidebar_border_color": "C0DEED"}, "possibly_sensitive": false, "entities": {"user_mentions": [], "urls": [{"expanded_url": "https://www.instagram.com/p/BbfZ0bUnqIk/", "url": "https://t.co/bABUISTjtp", "indices": [92, 115], "display_url": "instagram.com/p/BbfZ0bUnqIk/"}], "symbols": [], "hashtags": [{"text": "artepadova", "indices": [45, 56]}, {"text": "cubanart", "indices": [57, 66]}, {"text": "fabelo", "indices": [67, 74]}, {"text": "unmundodecosas", "indices": [75, 90]}]}, "retweeted": false}
+{
+  "is_quote_status": false,
+  "in_reply_to_user_id_str": null,
+  "created_at": "Tue Nov 14 21:26:03 +0000 2017",
+  "favorite_count": 0,
+  "in_reply_to_status_id": null,
+  "id_str": "930547398270705666",
+  "filter_level": "low",
+  "reply_count": 0,
+  "timestamp_ms": "1510694763139",
+  "id": 930547398270705666,
+  "coordinates": {
+    "coordinates": [11.8885498, 45.4138336],
+    "type": "Point"
+  },
+  "in_reply_to_screen_name": null,
+  "truncated": false,
+  "source": "<a href=\"http://instagram.com\" rel=\"nofollow\">Instagram</a>",
+  "place": {
+    "bounding_box": {
+      "coordinates": [[[11.805169, 45.340101], [11.805169, 45.457343], [11.976505, 45.457343], [11.976505, 45.340101]]],
+      "type": "Polygon"
+    },
+    "url": "https://api.twitter.com/1.1/geo/id/fdb8acc1584c75bc.json",
+    "country_code": "IT",
+    "name": "Padova",
+    "full_name": "Padova, Veneto",
+    "id": "fdb8acc1584c75bc",
+    "place_type": "city",
+    "attributes": {},
+    "country": "Italia"
+  },
+  "retweet_count": 0,
+  "quote_count": 0,
+  "favorited": false,
+  "text": "Che cos\u2019ho nella testa...? Un mundo de cosas #artepadova #cubanart #fabelo #unmundodecosas\u2026 https://t.co/bABUISTjtp",
+  "in_reply_to_user_id": null,
+  "geo": {
+    "coordinates": [45.4138336, 11.8885498],
+    "type": "Point"
+  },
+  "lang": "es",
+  "contributors": null,
+  "in_reply_to_status_id_str": null,
+  "user": {
+    "protected": false,
+    "following": null,
+    "profile_text_color": "333333",
+    "profile_background_color": "EBC1E8",
+    "statuses_count": 2841,
+    "default_profile": false,
+    "favourites_count": 388,
+    "friends_count": 496,
+    "follow_request_sent": null,
+    "profile_sidebar_fill_color": "DDEEF6",
+    "translator_type": "none",
+    "notifications": null,
+    "id_str": "171267000",
+    "screen_name": "cuocapaglia",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/171267000/1412108855",
+    "verified": false,
+    "id": 171267000,
+    "profile_use_background_image": true,
+    "description": "chef \ud83d\udc69\u200d\ud83c\udf73, cooking coach \ud83e\udd57, anti-aging chef, foodie \ud83c\udf5c, vegan pastry chef \ud83c\udf6a, vintage fashionista \ud83d\udc60, fitness lover \u2764\ufe0f \ud83d\udcaa, runner \ud83c\udfc3\u200d\u2640\ufe0f...&&&&&&&",
+    "utc_offset": -10800,
+    "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/526764615/PubblicazioneDISCO2.jpg",
+    "is_translator": false,
+    "listed_count": 16,
+    "default_profile_image": false,
+    "contributors_enabled": false,
+    "followers_count": 300,
+    "location": "padova",
+    "created_at": "Mon Jul 26 23:40:37 +0000 2010",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/890253905950593030/WUeeukoS_normal.jpg",
+    "geo_enabled": true,
+    "time_zone": "Greenland",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/890253905950593030/WUeeukoS_normal.jpg",
+    "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/526764615/PubblicazioneDISCO2.jpg",
+    "profile_link_color": "6BB300",
+    "lang": "it",
+    "name": "erika coromer",
+    "profile_background_tile": true,
+    "url": "http://www.cuocapaglia.it",
+    "profile_sidebar_border_color": "C0DEED"
+  },
+  "possibly_sensitive": false,
+  "entities": {
+    "user_mentions": [],
+    "urls": [
+      {
+        "expanded_url": "https://www.instagram.com/p/BbfZ0bUnqIk/",
+        "url": "https://t.co/bABUISTjtp",
+        "indices": [92, 115],
+        "display_url": "instagram.com/p/BbfZ0bUnqIk/"
+      }
+    ],
+    "symbols": [],
+    "hashtags": [
+      {
+        "text": "artepadova",
+        "indices": [45, 56]
+      }, {
+        "text": "cubanart",
+        "indices": [57, 66]
+      }, {
+        "text": "fabelo",
+        "indices": [67, 74]
+      }, {
+        "text": "unmundodecosas",
+        "indices": [75, 90]
+      }
+    ]
+  },
+  "retweeted": false
+}

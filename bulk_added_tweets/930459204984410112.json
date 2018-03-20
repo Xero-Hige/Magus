@@ -1,1 +1,180 @@
-{"id": 930459204984410112, "lang": "es", "in_reply_to_status_id_str": null, "truncated": true, "place": {"id": "018f1cde6bad9747", "country": "Argentina", "bounding_box": {"type": "Polygon", "coordinates": [[[-58.531792, -34.674453], [-58.531792, -34.534177], [-58.353494, -34.534177], [-58.353494, -34.674453]]]}, "url": "https://api.twitter.com/1.1/geo/id/018f1cde6bad9747.json", "full_name": "Ciudad Aut\u00f3noma de Buenos Aires, Argentina", "attributes": {}, "name": "Ciudad Aut\u00f3noma de Buenos Aires", "place_type": "city", "country_code": "AR"}, "favorite_count": 0, "retweeted": false, "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>", "is_quote_status": false, "possibly_sensitive": false, "geo": null, "in_reply_to_user_id_str": null, "in_reply_to_status_id": null, "retweet_count": 0, "quote_count": 0, "timestamp_ms": "1510673736221", "favorited": false, "coordinates": null, "filter_level": "low", "entities": {"urls": [{"indices": [117, 140], "display_url": "twitter.com/i/web/status/9\u2026", "url": "https://t.co/6DSvrWnLNQ", "expanded_url": "https://twitter.com/i/web/status/930459204984410112"}], "symbols": [], "user_mentions": [], "hashtags": []}, "reply_count": 0, "in_reply_to_screen_name": null, "display_text_range": [0, 140], "text": "Si no empezamos por sacar a patadas en el culo a los camioneros que sitiaron la Planta L\u00e1ctea y no consideramos que\u2026 https://t.co/6DSvrWnLNQ", "extended_tweet": {"display_text_range": [0, 171], "extended_entities": {"media": [{"id": 930459182553321472, "display_url": "pic.twitter.com/NdRWuGSlq1", "id_str": "930459182553321472", "indices": [172, 195], "expanded_url": "https://twitter.com/Juan68779410/status/930459204984410112/photo/1", "type": "photo", "url": "https://t.co/NdRWuGSlq1", "media_url_https": "https://pbs.twimg.com/media/DOmnsl4XUAA4lwe.jpg", "media_url": "http://pbs.twimg.com/media/DOmnsl4XUAA4lwe.jpg", "sizes": {"small": {"w": 680, "h": 425, "resize": "fit"}, "large": {"w": 1920, "h": 1200, "resize": "fit"}, "thumb": {"w": 150, "h": 150, "resize": "crop"}, "medium": {"w": 1200, "h": 750, "resize": "fit"}}}]}, "entities": {"media": [{"id": 930459182553321472, "display_url": "pic.twitter.com/NdRWuGSlq1", "id_str": "930459182553321472", "indices": [172, 195], "expanded_url": "https://twitter.com/Juan68779410/status/930459204984410112/photo/1", "type": "photo", "url": "https://t.co/NdRWuGSlq1", "media_url_https": "https://pbs.twimg.com/media/DOmnsl4XUAA4lwe.jpg", "media_url": "http://pbs.twimg.com/media/DOmnsl4XUAA4lwe.jpg", "sizes": {"small": {"w": 680, "h": 425, "resize": "fit"}, "large": {"w": 1920, "h": 1200, "resize": "fit"}, "thumb": {"w": 150, "h": 150, "resize": "crop"}, "medium": {"w": 1200, "h": 750, "resize": "fit"}}}], "urls": [], "symbols": [], "user_mentions": [], "hashtags": []}, "full_text": "Si no empezamos por sacar a patadas en el culo a los camioneros que sitiaron la Planta L\u00e1ctea y no consideramos que la RAM afecta la Seguridad Nacional, el Cambio no se ve https://t.co/NdRWuGSlq1"}, "user": {"statuses_count": 3605, "id": 872579262414544896, "default_profile": true, "favourites_count": 1771, "url": null, "profile_background_image_url_https": "", "verified": false, "profile_image_url_https": "https://pbs.twimg.com/profile_images/872622161256734727/yomIH5WY_normal.jpg", "translator_type": "none", "location": null, "geo_enabled": true, "utc_offset": null, "notifications": null, "profile_background_tile": false, "friends_count": 3085, "is_translator": false, "follow_request_sent": null, "default_profile_image": false, "profile_background_image_url": "", "profile_background_color": "F5F8FA", "profile_link_color": "1DA1F2", "profile_use_background_image": true, "time_zone": null, "name": "Cosme Churruca", "profile_text_color": "333333", "profile_sidebar_border_color": "C0DEED", "screen_name": "Juan68779410", "lang": "es", "following": null, "listed_count": 1, "protected": false, "profile_sidebar_fill_color": "DDEEF6", "followers_count": 1377, "profile_image_url": "http://pbs.twimg.com/profile_images/872622161256734727/yomIH5WY_normal.jpg", "profile_banner_url": "https://pbs.twimg.com/profile_banners/872579262414544896/1509230198", "contributors_enabled": false, "created_at": "Wed Jun 07 22:21:22 +0000 2017", "id_str": "872579262414544896", "description": "Cada d\u00eda nuevos descubrimientos de robos al Estado, probados y la Justicia gravosamente ausente, cobra sueldazos y no hace nada. No hay Cambio sin Justicia"}, "created_at": "Tue Nov 14 15:35:36 +0000 2017", "id_str": "930459204984410112", "in_reply_to_user_id": null, "contributors": null}
+{
+  "id": 930459204984410112,
+  "lang": "es",
+  "in_reply_to_status_id_str": null,
+  "truncated": true,
+  "place": {
+    "id": "018f1cde6bad9747",
+    "country": "Argentina",
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [[-58.531792, -34.674453], [-58.531792, -34.534177], [-58.353494, -34.534177], [-58.353494, -34.674453]]
+      ]
+    },
+    "url": "https://api.twitter.com/1.1/geo/id/018f1cde6bad9747.json",
+    "full_name": "Ciudad Aut\u00f3noma de Buenos Aires, Argentina",
+    "attributes": {},
+    "name": "Ciudad Aut\u00f3noma de Buenos Aires",
+    "place_type": "city",
+    "country_code": "AR"
+  },
+  "favorite_count": 0,
+  "retweeted": false,
+  "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+  "is_quote_status": false,
+  "possibly_sensitive": false,
+  "geo": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_status_id": null,
+  "retweet_count": 0,
+  "quote_count": 0,
+  "timestamp_ms": "1510673736221",
+  "favorited": false,
+  "coordinates": null,
+  "filter_level": "low",
+  "entities": {
+    "urls": [
+      {
+        "indices": [117, 140],
+        "display_url": "twitter.com/i/web/status/9\u2026",
+        "url": "https://t.co/6DSvrWnLNQ",
+        "expanded_url": "https://twitter.com/i/web/status/930459204984410112"
+      }
+    ],
+    "symbols": [],
+    "user_mentions": [],
+    "hashtags": []
+  },
+  "reply_count": 0,
+  "in_reply_to_screen_name": null,
+  "display_text_range": [0, 140],
+  "text": "Si no empezamos por sacar a patadas en el culo a los camioneros que sitiaron la Planta L\u00e1ctea y no consideramos que\u2026 https://t.co/6DSvrWnLNQ",
+  "extended_tweet": {
+    "display_text_range": [0, 171],
+    "extended_entities": {
+      "media": [
+        {
+          "id": 930459182553321472,
+          "display_url": "pic.twitter.com/NdRWuGSlq1",
+          "id_str": "930459182553321472",
+          "indices": [172, 195],
+          "expanded_url": "https://twitter.com/Juan68779410/status/930459204984410112/photo/1",
+          "type": "photo",
+          "url": "https://t.co/NdRWuGSlq1",
+          "media_url_https": "https://pbs.twimg.com/media/DOmnsl4XUAA4lwe.jpg",
+          "media_url": "http://pbs.twimg.com/media/DOmnsl4XUAA4lwe.jpg",
+          "sizes": {
+            "small": {
+              "w": 680,
+              "h": 425,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 1920,
+              "h": 1200,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 1200,
+              "h": 750,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "entities": {
+      "media": [
+        {
+          "id": 930459182553321472,
+          "display_url": "pic.twitter.com/NdRWuGSlq1",
+          "id_str": "930459182553321472",
+          "indices": [172, 195],
+          "expanded_url": "https://twitter.com/Juan68779410/status/930459204984410112/photo/1",
+          "type": "photo",
+          "url": "https://t.co/NdRWuGSlq1",
+          "media_url_https": "https://pbs.twimg.com/media/DOmnsl4XUAA4lwe.jpg",
+          "media_url": "http://pbs.twimg.com/media/DOmnsl4XUAA4lwe.jpg",
+          "sizes": {
+            "small": {
+              "w": 680,
+              "h": 425,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 1920,
+              "h": 1200,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 1200,
+              "h": 750,
+              "resize": "fit"
+            }
+          }
+        }
+      ],
+      "urls": [],
+      "symbols": [],
+      "user_mentions": [],
+      "hashtags": []
+    },
+    "full_text": "Si no empezamos por sacar a patadas en el culo a los camioneros que sitiaron la Planta L\u00e1ctea y no consideramos que la RAM afecta la Seguridad Nacional, el Cambio no se ve https://t.co/NdRWuGSlq1"
+  },
+  "user": {
+    "statuses_count": 3605,
+    "id": 872579262414544896,
+    "default_profile": true,
+    "favourites_count": 1771,
+    "url": null,
+    "profile_background_image_url_https": "",
+    "verified": false,
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/872622161256734727/yomIH5WY_normal.jpg",
+    "translator_type": "none",
+    "location": null,
+    "geo_enabled": true,
+    "utc_offset": null,
+    "notifications": null,
+    "profile_background_tile": false,
+    "friends_count": 3085,
+    "is_translator": false,
+    "follow_request_sent": null,
+    "default_profile_image": false,
+    "profile_background_image_url": "",
+    "profile_background_color": "F5F8FA",
+    "profile_link_color": "1DA1F2",
+    "profile_use_background_image": true,
+    "time_zone": null,
+    "name": "Cosme Churruca",
+    "profile_text_color": "333333",
+    "profile_sidebar_border_color": "C0DEED",
+    "screen_name": "Juan68779410",
+    "lang": "es",
+    "following": null,
+    "listed_count": 1,
+    "protected": false,
+    "profile_sidebar_fill_color": "DDEEF6",
+    "followers_count": 1377,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/872622161256734727/yomIH5WY_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/872579262414544896/1509230198",
+    "contributors_enabled": false,
+    "created_at": "Wed Jun 07 22:21:22 +0000 2017",
+    "id_str": "872579262414544896",
+    "description": "Cada d\u00eda nuevos descubrimientos de robos al Estado, probados y la Justicia gravosamente ausente, cobra sueldazos y no hace nada. No hay Cambio sin Justicia"
+  },
+  "created_at": "Tue Nov 14 15:35:36 +0000 2017",
+  "id_str": "930459204984410112",
+  "in_reply_to_user_id": null,
+  "contributors": null
+}

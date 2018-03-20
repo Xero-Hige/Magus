@@ -1,1 +1,120 @@
-{"in_reply_to_screen_name": "DaniPintoB", "geo": null, "user": {"followers_count": 315, "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png", "profile_background_color": "C0DEED", "translator_type": "none", "profile_image_url": "http://pbs.twimg.com/profile_images/538741353136414720/xMDqVekc_normal.jpeg", "default_profile": true, "utc_offset": null, "lang": "es", "url": null, "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", "profile_image_url_https": "https://pbs.twimg.com/profile_images/538741353136414720/xMDqVekc_normal.jpeg", "time_zone": null, "profile_sidebar_border_color": "C0DEED", "profile_use_background_image": true, "id": 890619156, "profile_link_color": "1DA1F2", "profile_sidebar_fill_color": "DDEEF6", "profile_background_tile": false, "geo_enabled": true, "id_str": "890619156", "verified": false, "name": "nuria puignero", "is_translator": false, "notifications": null, "following": null, "friends_count": 660, "contributors_enabled": false, "screen_name": "NPuignero", "created_at": "Fri Oct 19 09:24:01 +0000 2012", "profile_text_color": "333333", "favourites_count": 2503, "follow_request_sent": null, "description": null, "default_profile_image": false, "location": "Badalona, Catalu\u00f1a", "listed_count": 0, "protected": false, "statuses_count": 4177}, "filter_level": "low", "in_reply_to_status_id": 930531961692676096, "lang": "es", "display_text_range": [12, 140], "favorited": false, "place": {"name": "Badalona", "full_name": "Badalona, Espa\u00f1a", "place_type": "city", "country": "Espa\u00f1a", "id": "59d08c41f3229755", "bounding_box": {"type": "Polygon", "coordinates": [[[2.211092, 41.42594], [2.211092, 41.492681], [2.270008, 41.492681], [2.270008, 41.42594]]]}, "attributes": {}, "url": "https://api.twitter.com/1.1/geo/id/59d08c41f3229755.json", "country_code": "ES"}, "coordinates": null, "entities": {"hashtags": [], "urls": [{"display_url": "twitter.com/i/web/status/9\u2026", "expanded_url": "https://twitter.com/i/web/status/930672621846499329", "url": "https://t.co/8PDw3JTo9Z", "indices": [117, 140]}], "symbols": [], "user_mentions": [{"id": 139486627, "id_str": "139486627", "name": "DaniPintoB", "indices": [0, 11], "screen_name": "DaniPintoB"}]}, "id": 930672621846499329, "in_reply_to_user_id_str": "139486627", "id_str": "930672621846499329", "retweet_count": 0, "retweeted": false, "quote_count": 0, "truncated": true, "in_reply_to_status_id_str": "930531961692676096", "reply_count": 0, "created_at": "Wed Nov 15 05:43:38 +0000 2017", "is_quote_status": false, "in_reply_to_user_id": 139486627, "timestamp_ms": "1510724618766", "text": "@DaniPintoB juicio,sentencia ala c\u00e1rcel y luego tirar la llave, si vuelven a la pol\u00edtica volver\u00e1n a las andadas,est\u2026 https://t.co/8PDw3JTo9Z", "extended_tweet": {"full_text": "@DaniPintoB juicio,sentencia ala c\u00e1rcel y luego tirar la llave, si vuelven a la pol\u00edtica volver\u00e1n a las andadas,estos no quieren a Catalu\u00f1a ni a los catalanes solo quieren a su ego.", "display_text_range": [12, 181], "entities": {"hashtags": [], "urls": [], "symbols": [], "user_mentions": [{"id": 139486627, "id_str": "139486627", "name": "DaniPintoB", "indices": [0, 11], "screen_name": "DaniPintoB"}]}}, "favorite_count": 0, "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>", "contributors": null}
+{
+  "in_reply_to_screen_name": "DaniPintoB",
+  "geo": null,
+  "user": {
+    "followers_count": 315,
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_color": "C0DEED",
+    "translator_type": "none",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/538741353136414720/xMDqVekc_normal.jpeg",
+    "default_profile": true,
+    "utc_offset": null,
+    "lang": "es",
+    "url": null,
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/538741353136414720/xMDqVekc_normal.jpeg",
+    "time_zone": null,
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_use_background_image": true,
+    "id": 890619156,
+    "profile_link_color": "1DA1F2",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_background_tile": false,
+    "geo_enabled": true,
+    "id_str": "890619156",
+    "verified": false,
+    "name": "nuria puignero",
+    "is_translator": false,
+    "notifications": null,
+    "following": null,
+    "friends_count": 660,
+    "contributors_enabled": false,
+    "screen_name": "NPuignero",
+    "created_at": "Fri Oct 19 09:24:01 +0000 2012",
+    "profile_text_color": "333333",
+    "favourites_count": 2503,
+    "follow_request_sent": null,
+    "description": null,
+    "default_profile_image": false,
+    "location": "Badalona, Catalu\u00f1a",
+    "listed_count": 0,
+    "protected": false,
+    "statuses_count": 4177
+  },
+  "filter_level": "low",
+  "in_reply_to_status_id": 930531961692676096,
+  "lang": "es",
+  "display_text_range": [12, 140],
+  "favorited": false,
+  "place": {
+    "name": "Badalona",
+    "full_name": "Badalona, Espa\u00f1a",
+    "place_type": "city",
+    "country": "Espa\u00f1a",
+    "id": "59d08c41f3229755",
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [[[2.211092, 41.42594], [2.211092, 41.492681], [2.270008, 41.492681], [2.270008, 41.42594]]]
+    },
+    "attributes": {},
+    "url": "https://api.twitter.com/1.1/geo/id/59d08c41f3229755.json",
+    "country_code": "ES"
+  },
+  "coordinates": null,
+  "entities": {
+    "hashtags": [],
+    "urls": [
+      {
+        "display_url": "twitter.com/i/web/status/9\u2026",
+        "expanded_url": "https://twitter.com/i/web/status/930672621846499329",
+        "url": "https://t.co/8PDw3JTo9Z",
+        "indices": [117, 140]
+      }
+    ],
+    "symbols": [],
+    "user_mentions": [
+      {
+        "id": 139486627,
+        "id_str": "139486627",
+        "name": "DaniPintoB",
+        "indices": [0, 11],
+        "screen_name": "DaniPintoB"
+      }
+    ]
+  },
+  "id": 930672621846499329,
+  "in_reply_to_user_id_str": "139486627",
+  "id_str": "930672621846499329",
+  "retweet_count": 0,
+  "retweeted": false,
+  "quote_count": 0,
+  "truncated": true,
+  "in_reply_to_status_id_str": "930531961692676096",
+  "reply_count": 0,
+  "created_at": "Wed Nov 15 05:43:38 +0000 2017",
+  "is_quote_status": false,
+  "in_reply_to_user_id": 139486627,
+  "timestamp_ms": "1510724618766",
+  "text": "@DaniPintoB juicio,sentencia ala c\u00e1rcel y luego tirar la llave, si vuelven a la pol\u00edtica volver\u00e1n a las andadas,est\u2026 https://t.co/8PDw3JTo9Z",
+  "extended_tweet": {
+    "full_text": "@DaniPintoB juicio,sentencia ala c\u00e1rcel y luego tirar la llave, si vuelven a la pol\u00edtica volver\u00e1n a las andadas,estos no quieren a Catalu\u00f1a ni a los catalanes solo quieren a su ego.",
+    "display_text_range": [12, 181],
+    "entities": {
+      "hashtags": [],
+      "urls": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "id": 139486627,
+          "id_str": "139486627",
+          "name": "DaniPintoB",
+          "indices": [0, 11],
+          "screen_name": "DaniPintoB"
+        }
+      ]
+    }
+  },
+  "favorite_count": 0,
+  "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+  "contributors": null
+}

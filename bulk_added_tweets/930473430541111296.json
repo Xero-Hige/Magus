@@ -1,1 +1,120 @@
-{"id": 930473430541111296, "reply_count": 0, "id_str": "930473430541111296", "user": {"url": null, "protected": false, "profile_use_background_image": true, "id_str": "251604591", "following": null, "time_zone": "Madrid", "translator_type": "none", "profile_sidebar_border_color": "FFFFFF", "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/490631193251954690/JawSXpcL.jpeg", "name": "\u044f\u03c5\u0432inho", "friends_count": 482, "profile_banner_url": "https://pbs.twimg.com/profile_banners/251604591/1502868058", "profile_background_color": "131516", "lang": "es", "statuses_count": 23308, "utc_offset": 3600, "profile_sidebar_fill_color": "F4F4F7", "created_at": "Sun Feb 13 13:43:52 +0000 2011", "location": "Caput Castellae", "profile_image_url_https": "https://pbs.twimg.com/profile_images/922568035591966721/9Jn2SlMk_normal.jpg", "follow_request_sent": null, "description": "Blanquinegro a jornada completa, del Burgos Club de F\u00fatbol en mis ratos libres. Cositas en @Burgos_CF y ahora tambi\u00e9n en @en_byn.", "profile_image_url": "http://pbs.twimg.com/profile_images/922568035591966721/9Jn2SlMk_normal.jpg", "geo_enabled": true, "is_translator": false, "profile_text_color": "333333", "contributors_enabled": false, "default_profile": false, "notifications": null, "verified": false, "id": 251604591, "profile_link_color": "0944F2", "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/490631193251954690/JawSXpcL.jpeg", "default_profile_image": false, "listed_count": 26, "favourites_count": 3561, "followers_count": 632, "screen_name": "_StuntmanMike_", "profile_background_tile": false}, "truncated": true, "in_reply_to_screen_name": null, "filter_level": "low", "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>", "lang": "es", "coordinates": null, "created_at": "Tue Nov 14 16:32:07 +0000 2017", "favorite_count": 0, "contributors": null, "in_reply_to_user_id_str": null, "quote_count": 0, "in_reply_to_user_id": null, "retweeted": false, "favorited": false, "timestamp_ms": "1510677127858", "extended_tweet": {"full_text": "Es muy l\u00edcito quejarse por el cambio de horario que aplicar\u00e1 el @Burgos_CF en las jornadas 17 y 19, pero algunos argumentos son para re\u00edrse y con ganas adem\u00e1s. \ud83e\udd23", "display_text_range": [0, 161], "entities": {"hashtags": [], "user_mentions": [{"indices": [64, 74], "id_str": "135180710", "name": "Burgos C.F.", "screen_name": "Burgos_CF", "id": 135180710}], "urls": [], "symbols": []}}, "entities": {"hashtags": [], "user_mentions": [{"indices": [64, 74], "id_str": "135180710", "name": "Burgos C.F.", "screen_name": "Burgos_CF", "id": 135180710}], "urls": [{"url": "https://t.co/HqUxVnNeFP", "indices": [117, 140], "expanded_url": "https://twitter.com/i/web/status/930473430541111296", "display_url": "twitter.com/i/web/status/9\u2026"}], "symbols": []}, "retweet_count": 0, "text": "Es muy l\u00edcito quejarse por el cambio de horario que aplicar\u00e1 el @Burgos_CF en las jornadas 17 y 19, pero algunos ar\u2026 https://t.co/HqUxVnNeFP", "geo": null, "in_reply_to_status_id_str": null, "in_reply_to_status_id": null, "is_quote_status": false, "place": {"place_type": "city", "url": "https://api.twitter.com/1.1/geo/id/aab98cb60835e83e.json", "full_name": "Burgos, Espa\u00f1a", "attributes": {}, "country": "Espa\u00f1a", "id": "aab98cb60835e83e", "country_code": "ES", "bounding_box": {"type": "Polygon", "coordinates": [[[-3.794911, 42.284782], [-3.794911, 42.404004], [-3.583968, 42.404004], [-3.583968, 42.284782]]]}, "name": "Burgos"}}
+{
+  "id": 930473430541111296,
+  "reply_count": 0,
+  "id_str": "930473430541111296",
+  "user": {
+    "url": null,
+    "protected": false,
+    "profile_use_background_image": true,
+    "id_str": "251604591",
+    "following": null,
+    "time_zone": "Madrid",
+    "translator_type": "none",
+    "profile_sidebar_border_color": "FFFFFF",
+    "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/490631193251954690/JawSXpcL.jpeg",
+    "name": "\u044f\u03c5\u0432inho",
+    "friends_count": 482,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/251604591/1502868058",
+    "profile_background_color": "131516",
+    "lang": "es",
+    "statuses_count": 23308,
+    "utc_offset": 3600,
+    "profile_sidebar_fill_color": "F4F4F7",
+    "created_at": "Sun Feb 13 13:43:52 +0000 2011",
+    "location": "Caput Castellae",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/922568035591966721/9Jn2SlMk_normal.jpg",
+    "follow_request_sent": null,
+    "description": "Blanquinegro a jornada completa, del Burgos Club de F\u00fatbol en mis ratos libres. Cositas en @Burgos_CF y ahora tambi\u00e9n en @en_byn.",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/922568035591966721/9Jn2SlMk_normal.jpg",
+    "geo_enabled": true,
+    "is_translator": false,
+    "profile_text_color": "333333",
+    "contributors_enabled": false,
+    "default_profile": false,
+    "notifications": null,
+    "verified": false,
+    "id": 251604591,
+    "profile_link_color": "0944F2",
+    "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/490631193251954690/JawSXpcL.jpeg",
+    "default_profile_image": false,
+    "listed_count": 26,
+    "favourites_count": 3561,
+    "followers_count": 632,
+    "screen_name": "_StuntmanMike_",
+    "profile_background_tile": false
+  },
+  "truncated": true,
+  "in_reply_to_screen_name": null,
+  "filter_level": "low",
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "lang": "es",
+  "coordinates": null,
+  "created_at": "Tue Nov 14 16:32:07 +0000 2017",
+  "favorite_count": 0,
+  "contributors": null,
+  "in_reply_to_user_id_str": null,
+  "quote_count": 0,
+  "in_reply_to_user_id": null,
+  "retweeted": false,
+  "favorited": false,
+  "timestamp_ms": "1510677127858",
+  "extended_tweet": {
+    "full_text": "Es muy l\u00edcito quejarse por el cambio de horario que aplicar\u00e1 el @Burgos_CF en las jornadas 17 y 19, pero algunos argumentos son para re\u00edrse y con ganas adem\u00e1s. \ud83e\udd23",
+    "display_text_range": [0, 161],
+    "entities": {
+      "hashtags": [],
+      "user_mentions": [
+        {
+          "indices": [64, 74],
+          "id_str": "135180710",
+          "name": "Burgos C.F.",
+          "screen_name": "Burgos_CF",
+          "id": 135180710
+        }
+      ],
+      "urls": [],
+      "symbols": []
+    }
+  },
+  "entities": {
+    "hashtags": [],
+    "user_mentions": [
+      {
+        "indices": [64, 74],
+        "id_str": "135180710",
+        "name": "Burgos C.F.",
+        "screen_name": "Burgos_CF",
+        "id": 135180710
+      }
+    ],
+    "urls": [
+      {
+        "url": "https://t.co/HqUxVnNeFP",
+        "indices": [117, 140],
+        "expanded_url": "https://twitter.com/i/web/status/930473430541111296",
+        "display_url": "twitter.com/i/web/status/9\u2026"
+      }
+    ],
+    "symbols": []
+  },
+  "retweet_count": 0,
+  "text": "Es muy l\u00edcito quejarse por el cambio de horario que aplicar\u00e1 el @Burgos_CF en las jornadas 17 y 19, pero algunos ar\u2026 https://t.co/HqUxVnNeFP",
+  "geo": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_status_id": null,
+  "is_quote_status": false,
+  "place": {
+    "place_type": "city",
+    "url": "https://api.twitter.com/1.1/geo/id/aab98cb60835e83e.json",
+    "full_name": "Burgos, Espa\u00f1a",
+    "attributes": {},
+    "country": "Espa\u00f1a",
+    "id": "aab98cb60835e83e",
+    "country_code": "ES",
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [[[-3.794911, 42.284782], [-3.794911, 42.404004], [-3.583968, 42.404004], [-3.583968, 42.284782]]]
+    },
+    "name": "Burgos"
+  }
+}

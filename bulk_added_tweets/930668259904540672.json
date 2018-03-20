@@ -1,1 +1,170 @@
-{"geo": null, "filter_level": "low", "in_reply_to_status_id": null, "lang": "es", "favorite_count": 0, "coordinates": null, "favorited": false, "place": {"name": "Cusco", "full_name": "Cusco, Peru", "place_type": "city", "country": "Peru", "id": "0108cb796c965852", "bounding_box": {"type": "Polygon", "coordinates": [[[-72.051159, -13.5665], [-72.051159, -13.42992], [-71.925301, -13.42992], [-71.925301, -13.5665]]]}, "attributes": {}, "url": "https://api.twitter.com/1.1/geo/id/0108cb796c965852.json", "country_code": "PE"}, "contributors": null, "entities": {"hashtags": [], "urls": [{"display_url": "twitter.com/i/web/status/9\u2026", "expanded_url": "https://twitter.com/i/web/status/930668259904540672", "url": "https://t.co/y8elezv2Ij", "indices": [117, 140]}], "symbols": [], "user_mentions": [{"id": 637207513, "id_str": "637207513", "name": "Luis Advincula", "indices": [0, 16], "screen_name": "luisadvincula17"}, {"id": 815847554, "id_str": "815847554", "name": "Edison Flores", "indices": [17, 33], "screen_name": "edisonflores135"}, {"id": 3886533616, "id_str": "3886533616", "name": "Jefferson Farfan", "indices": [34, 48], "screen_name": "JeffersonF_10"}, {"id": 3222639900, "id_str": "3222639900", "name": "Nolberto Solano", "indices": [49, 59], "screen_name": "NolSolano"}, {"id": 374766739, "id_str": "374766739", "name": "Pedro Gallese Quiroz", "indices": [60, 73], "screen_name": "pedrogallese"}]}, "id": 930668259904540672, "user": {"followers_count": 839, "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png", "profile_background_color": "C0DEED", "translator_type": "none", "profile_image_url": "http://pbs.twimg.com/profile_images/887513512280563712/BDqJx7II_normal.jpg", "profile_banner_url": "https://pbs.twimg.com/profile_banners/342414457/1491610145", "default_profile": true, "utc_offset": -18000, "lang": "es", "url": "http://filosofiayanalisisdelderecho.blogspot.com/", "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", "profile_image_url_https": "https://pbs.twimg.com/profile_images/887513512280563712/BDqJx7II_normal.jpg", "time_zone": "Eastern Time (US & Canada)", "profile_sidebar_border_color": "C0DEED", "profile_use_background_image": true, "id": 342414457, "profile_link_color": "1DA1F2", "profile_sidebar_fill_color": "DDEEF6", "profile_background_tile": false, "geo_enabled": true, "id_str": "342414457", "verified": false, "name": "Abraham Huayhuaca", "is_translator": false, "notifications": null, "following": null, "friends_count": 1464, "contributors_enabled": false, "screen_name": "Huayhuaca", "created_at": "Tue Jul 26 00:01:14 +0000 2011", "profile_text_color": "333333", "favourites_count": 4110, "follow_request_sent": null, "description": "Imaginador descomunal", "default_profile_image": false, "location": "Cusco, y otros  lugares.", "listed_count": 4, "protected": false, "statuses_count": 2211}, "id_str": "930668259904540672", "retweet_count": 0, "retweeted": false, "quote_count": 0, "truncated": true, "in_reply_to_status_id_str": null, "reply_count": 0, "created_at": "Wed Nov 15 05:26:18 +0000 2017", "is_quote_status": false, "in_reply_to_user_id": 637207513, "timestamp_ms": "1510723578798", "text": "@luisadvincula17 @edisonflores135 @JeffersonF_10 @NolSolano @pedrogallese los kiwis son ingenuos enga\u00f1enlos ellos p\u2026 https://t.co/y8elezv2Ij", "extended_tweet": {"full_text": "@luisadvincula17 @edisonflores135 @JeffersonF_10 @NolSolano @pedrogallese los kiwis son ingenuos enga\u00f1enlos ellos piensan inocente, finteen, amaguen, hagan un poco de magia. Suerte compatriotas!!! Arriba!!! Per\u00fa!!!", "display_text_range": [0, 214], "entities": {"hashtags": [], "urls": [], "symbols": [], "user_mentions": [{"id": 637207513, "id_str": "637207513", "name": "Luis Advincula", "indices": [0, 16], "screen_name": "luisadvincula17"}, {"id": 815847554, "id_str": "815847554", "name": "Edison Flores", "indices": [17, 33], "screen_name": "edisonflores135"}, {"id": 3886533616, "id_str": "3886533616", "name": "Jefferson Farfan", "indices": [34, 48], "screen_name": "JeffersonF_10"}, {"id": 3222639900, "id_str": "3222639900", "name": "Nolberto Solano", "indices": [49, 59], "screen_name": "NolSolano"}, {"id": 374766739, "id_str": "374766739", "name": "Pedro Gallese Quiroz", "indices": [60, 73], "screen_name": "pedrogallese"}]}}, "in_reply_to_user_id_str": "637207513", "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>", "in_reply_to_screen_name": "luisadvincula17"}
+{
+  "geo": null,
+  "filter_level": "low",
+  "in_reply_to_status_id": null,
+  "lang": "es",
+  "favorite_count": 0,
+  "coordinates": null,
+  "favorited": false,
+  "place": {
+    "name": "Cusco",
+    "full_name": "Cusco, Peru",
+    "place_type": "city",
+    "country": "Peru",
+    "id": "0108cb796c965852",
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [[-72.051159, -13.5665], [-72.051159, -13.42992], [-71.925301, -13.42992], [-71.925301, -13.5665]]
+      ]
+    },
+    "attributes": {},
+    "url": "https://api.twitter.com/1.1/geo/id/0108cb796c965852.json",
+    "country_code": "PE"
+  },
+  "contributors": null,
+  "entities": {
+    "hashtags": [],
+    "urls": [
+      {
+        "display_url": "twitter.com/i/web/status/9\u2026",
+        "expanded_url": "https://twitter.com/i/web/status/930668259904540672",
+        "url": "https://t.co/y8elezv2Ij",
+        "indices": [117, 140]
+      }
+    ],
+    "symbols": [],
+    "user_mentions": [
+      {
+        "id": 637207513,
+        "id_str": "637207513",
+        "name": "Luis Advincula",
+        "indices": [0, 16],
+        "screen_name": "luisadvincula17"
+      }, {
+        "id": 815847554,
+        "id_str": "815847554",
+        "name": "Edison Flores",
+        "indices": [17, 33],
+        "screen_name": "edisonflores135"
+      }, {
+        "id": 3886533616,
+        "id_str": "3886533616",
+        "name": "Jefferson Farfan",
+        "indices": [34, 48],
+        "screen_name": "JeffersonF_10"
+      }, {
+        "id": 3222639900,
+        "id_str": "3222639900",
+        "name": "Nolberto Solano",
+        "indices": [49, 59],
+        "screen_name": "NolSolano"
+      }, {
+        "id": 374766739,
+        "id_str": "374766739",
+        "name": "Pedro Gallese Quiroz",
+        "indices": [60, 73],
+        "screen_name": "pedrogallese"
+      }
+    ]
+  },
+  "id": 930668259904540672,
+  "user": {
+    "followers_count": 839,
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_color": "C0DEED",
+    "translator_type": "none",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/887513512280563712/BDqJx7II_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/342414457/1491610145",
+    "default_profile": true,
+    "utc_offset": -18000,
+    "lang": "es",
+    "url": "http://filosofiayanalisisdelderecho.blogspot.com/",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/887513512280563712/BDqJx7II_normal.jpg",
+    "time_zone": "Eastern Time (US & Canada)",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_use_background_image": true,
+    "id": 342414457,
+    "profile_link_color": "1DA1F2",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_background_tile": false,
+    "geo_enabled": true,
+    "id_str": "342414457",
+    "verified": false,
+    "name": "Abraham Huayhuaca",
+    "is_translator": false,
+    "notifications": null,
+    "following": null,
+    "friends_count": 1464,
+    "contributors_enabled": false,
+    "screen_name": "Huayhuaca",
+    "created_at": "Tue Jul 26 00:01:14 +0000 2011",
+    "profile_text_color": "333333",
+    "favourites_count": 4110,
+    "follow_request_sent": null,
+    "description": "Imaginador descomunal",
+    "default_profile_image": false,
+    "location": "Cusco, y otros  lugares.",
+    "listed_count": 4,
+    "protected": false,
+    "statuses_count": 2211
+  },
+  "id_str": "930668259904540672",
+  "retweet_count": 0,
+  "retweeted": false,
+  "quote_count": 0,
+  "truncated": true,
+  "in_reply_to_status_id_str": null,
+  "reply_count": 0,
+  "created_at": "Wed Nov 15 05:26:18 +0000 2017",
+  "is_quote_status": false,
+  "in_reply_to_user_id": 637207513,
+  "timestamp_ms": "1510723578798",
+  "text": "@luisadvincula17 @edisonflores135 @JeffersonF_10 @NolSolano @pedrogallese los kiwis son ingenuos enga\u00f1enlos ellos p\u2026 https://t.co/y8elezv2Ij",
+  "extended_tweet": {
+    "full_text": "@luisadvincula17 @edisonflores135 @JeffersonF_10 @NolSolano @pedrogallese los kiwis son ingenuos enga\u00f1enlos ellos piensan inocente, finteen, amaguen, hagan un poco de magia. Suerte compatriotas!!! Arriba!!! Per\u00fa!!!",
+    "display_text_range": [0, 214],
+    "entities": {
+      "hashtags": [],
+      "urls": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "id": 637207513,
+          "id_str": "637207513",
+          "name": "Luis Advincula",
+          "indices": [0, 16],
+          "screen_name": "luisadvincula17"
+        }, {
+          "id": 815847554,
+          "id_str": "815847554",
+          "name": "Edison Flores",
+          "indices": [17, 33],
+          "screen_name": "edisonflores135"
+        }, {
+          "id": 3886533616,
+          "id_str": "3886533616",
+          "name": "Jefferson Farfan",
+          "indices": [34, 48],
+          "screen_name": "JeffersonF_10"
+        }, {
+          "id": 3222639900,
+          "id_str": "3222639900",
+          "name": "Nolberto Solano",
+          "indices": [49, 59],
+          "screen_name": "NolSolano"
+        }, {
+          "id": 374766739,
+          "id_str": "374766739",
+          "name": "Pedro Gallese Quiroz",
+          "indices": [60, 73],
+          "screen_name": "pedrogallese"
+        }
+      ]
+    }
+  },
+  "in_reply_to_user_id_str": "637207513",
+  "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+  "in_reply_to_screen_name": "luisadvincula17"
+}

@@ -1,1 +1,183 @@
-{"id": 930459250832367617, "lang": "es", "in_reply_to_status_id_str": null, "truncated": true, "place": {"id": "043383f8b2b79918", "country": "Venezuela", "bounding_box": {"type": "Polygon", "coordinates": [[[-73.354073, 0.648837], [-73.354073, 12.196802], [-59.80378, 12.196802], [-59.80378, 0.648837]]]}, "url": "https://api.twitter.com/1.1/geo/id/043383f8b2b79918.json", "full_name": "Venezuela", "attributes": {}, "name": "Venezuela", "place_type": "country", "country_code": "VE"}, "favorite_count": 0, "retweeted": false, "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>", "is_quote_status": false, "possibly_sensitive": false, "geo": null, "in_reply_to_user_id_str": null, "in_reply_to_status_id": null, "retweet_count": 0, "quote_count": 0, "timestamp_ms": "1510673747152", "favorited": false, "coordinates": null, "filter_level": "low", "entities": {"urls": [{"indices": [117, 140], "display_url": "twitter.com/i/web/status/9\u2026", "url": "https://t.co/41h5WjVPKH", "expanded_url": "https://twitter.com/i/web/status/930459250832367617"}], "symbols": [], "user_mentions": [], "hashtags": []}, "reply_count": 0, "in_reply_to_screen_name": null, "display_text_range": [0, 140], "text": "En nuestras jornadas m\u00e9dico asistenciales los habitantes de nuestras comunidades  son orientados con charlas m\u00e9dica\u2026 https://t.co/41h5WjVPKH", "extended_tweet": {"display_text_range": [0, 142], "extended_entities": {"media": [{"id": 930458807452528640, "display_url": "pic.twitter.com/XadFI1QhCZ", "id_str": "930458807452528640", "indices": [143, 166], "expanded_url": "https://twitter.com/InvepalOficial/status/930459250832367617/photo/1", "type": "photo", "url": "https://t.co/XadFI1QhCZ", "media_url_https": "https://pbs.twimg.com/media/DOmnWwhXcAAgopE.jpg", "media_url": "http://pbs.twimg.com/media/DOmnWwhXcAAgopE.jpg", "sizes": {"small": {"w": 680, "h": 453, "resize": "fit"}, "large": {"w": 2048, "h": 1365, "resize": "fit"}, "thumb": {"w": 150, "h": 150, "resize": "crop"}, "medium": {"w": 1200, "h": 800, "resize": "fit"}}}]}, "entities": {"media": [{"id": 930458807452528640, "display_url": "pic.twitter.com/XadFI1QhCZ", "id_str": "930458807452528640", "indices": [143, 166], "expanded_url": "https://twitter.com/InvepalOficial/status/930459250832367617/photo/1", "type": "photo", "url": "https://t.co/XadFI1QhCZ", "media_url_https": "https://pbs.twimg.com/media/DOmnWwhXcAAgopE.jpg", "media_url": "http://pbs.twimg.com/media/DOmnWwhXcAAgopE.jpg", "sizes": {"small": {"w": 680, "h": 453, "resize": "fit"}, "large": {"w": 2048, "h": 1365, "resize": "fit"}, "thumb": {"w": 150, "h": 150, "resize": "crop"}, "medium": {"w": 1200, "h": 800, "resize": "fit"}}}], "urls": [], "symbols": [], "user_mentions": [], "hashtags": [{"text": "BonoNavide\u00f1oNavidadFeliz", "indices": [117, 142]}]}, "full_text": "En nuestras jornadas m\u00e9dico asistenciales los habitantes de nuestras comunidades  son orientados con charlas m\u00e9dicas #BonoNavide\u00f1oNavidadFeliz https://t.co/XadFI1QhCZ"}, "user": {"statuses_count": 42420, "id": 1116657170, "default_profile": false, "favourites_count": 158, "url": "http://www.invepal.com.ve", "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/519158709763571712/zdDVv7-r.jpeg", "verified": false, "profile_image_url_https": "https://pbs.twimg.com/profile_images/776835848998359040/6noj0XSo_normal.jpg", "translator_type": "none", "location": "Mor\u00f3n y Maracay, Venezuela", "geo_enabled": true, "utc_offset": -14400, "notifications": null, "profile_background_tile": true, "friends_count": 573, "is_translator": false, "follow_request_sent": null, "default_profile_image": false, "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/519158709763571712/zdDVv7-r.jpeg", "profile_background_color": "C0DEED", "profile_link_color": "23289A", "profile_use_background_image": false, "time_zone": "Caracas", "name": "Invepal", "profile_text_color": "333333", "profile_sidebar_border_color": "FFFFFF", "screen_name": "InvepalOficial", "lang": "es", "following": null, "listed_count": 42, "protected": false, "profile_sidebar_fill_color": "DDEEF6", "followers_count": 7534, "profile_image_url": "http://pbs.twimg.com/profile_images/776835848998359040/6noj0XSo_normal.jpg", "profile_banner_url": "https://pbs.twimg.com/profile_banners/1116657170/1475086479", "contributors_enabled": false, "created_at": "Thu Jan 24 12:24:03 +0000 2013", "id_str": "1116657170", "description": "Cuenta Oficial de la Primera Empresa Recuperada por sus Trabajadores; ente adscrito al @Minppibes \u00a1Una Gesti\u00f3n Obrerista Rumbo a la Excelencia!"}, "created_at": "Tue Nov 14 15:35:47 +0000 2017", "id_str": "930459250832367617", "in_reply_to_user_id": null, "contributors": null}
+{
+  "id": 930459250832367617,
+  "lang": "es",
+  "in_reply_to_status_id_str": null,
+  "truncated": true,
+  "place": {
+    "id": "043383f8b2b79918",
+    "country": "Venezuela",
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [[[-73.354073, 0.648837], [-73.354073, 12.196802], [-59.80378, 12.196802], [-59.80378, 0.648837]]]
+    },
+    "url": "https://api.twitter.com/1.1/geo/id/043383f8b2b79918.json",
+    "full_name": "Venezuela",
+    "attributes": {},
+    "name": "Venezuela",
+    "place_type": "country",
+    "country_code": "VE"
+  },
+  "favorite_count": 0,
+  "retweeted": false,
+  "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+  "is_quote_status": false,
+  "possibly_sensitive": false,
+  "geo": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_status_id": null,
+  "retweet_count": 0,
+  "quote_count": 0,
+  "timestamp_ms": "1510673747152",
+  "favorited": false,
+  "coordinates": null,
+  "filter_level": "low",
+  "entities": {
+    "urls": [
+      {
+        "indices": [117, 140],
+        "display_url": "twitter.com/i/web/status/9\u2026",
+        "url": "https://t.co/41h5WjVPKH",
+        "expanded_url": "https://twitter.com/i/web/status/930459250832367617"
+      }
+    ],
+    "symbols": [],
+    "user_mentions": [],
+    "hashtags": []
+  },
+  "reply_count": 0,
+  "in_reply_to_screen_name": null,
+  "display_text_range": [0, 140],
+  "text": "En nuestras jornadas m\u00e9dico asistenciales los habitantes de nuestras comunidades  son orientados con charlas m\u00e9dica\u2026 https://t.co/41h5WjVPKH",
+  "extended_tweet": {
+    "display_text_range": [0, 142],
+    "extended_entities": {
+      "media": [
+        {
+          "id": 930458807452528640,
+          "display_url": "pic.twitter.com/XadFI1QhCZ",
+          "id_str": "930458807452528640",
+          "indices": [143, 166],
+          "expanded_url": "https://twitter.com/InvepalOficial/status/930459250832367617/photo/1",
+          "type": "photo",
+          "url": "https://t.co/XadFI1QhCZ",
+          "media_url_https": "https://pbs.twimg.com/media/DOmnWwhXcAAgopE.jpg",
+          "media_url": "http://pbs.twimg.com/media/DOmnWwhXcAAgopE.jpg",
+          "sizes": {
+            "small": {
+              "w": 680,
+              "h": 453,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 2048,
+              "h": 1365,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 1200,
+              "h": 800,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "entities": {
+      "media": [
+        {
+          "id": 930458807452528640,
+          "display_url": "pic.twitter.com/XadFI1QhCZ",
+          "id_str": "930458807452528640",
+          "indices": [143, 166],
+          "expanded_url": "https://twitter.com/InvepalOficial/status/930459250832367617/photo/1",
+          "type": "photo",
+          "url": "https://t.co/XadFI1QhCZ",
+          "media_url_https": "https://pbs.twimg.com/media/DOmnWwhXcAAgopE.jpg",
+          "media_url": "http://pbs.twimg.com/media/DOmnWwhXcAAgopE.jpg",
+          "sizes": {
+            "small": {
+              "w": 680,
+              "h": 453,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 2048,
+              "h": 1365,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 1200,
+              "h": 800,
+              "resize": "fit"
+            }
+          }
+        }
+      ],
+      "urls": [],
+      "symbols": [],
+      "user_mentions": [],
+      "hashtags": [
+        {
+          "text": "BonoNavide\u00f1oNavidadFeliz",
+          "indices": [117, 142]
+        }
+      ]
+    },
+    "full_text": "En nuestras jornadas m\u00e9dico asistenciales los habitantes de nuestras comunidades  son orientados con charlas m\u00e9dicas #BonoNavide\u00f1oNavidadFeliz https://t.co/XadFI1QhCZ"
+  },
+  "user": {
+    "statuses_count": 42420,
+    "id": 1116657170,
+    "default_profile": false,
+    "favourites_count": 158,
+    "url": "http://www.invepal.com.ve",
+    "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/519158709763571712/zdDVv7-r.jpeg",
+    "verified": false,
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/776835848998359040/6noj0XSo_normal.jpg",
+    "translator_type": "none",
+    "location": "Mor\u00f3n y Maracay, Venezuela",
+    "geo_enabled": true,
+    "utc_offset": -14400,
+    "notifications": null,
+    "profile_background_tile": true,
+    "friends_count": 573,
+    "is_translator": false,
+    "follow_request_sent": null,
+    "default_profile_image": false,
+    "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/519158709763571712/zdDVv7-r.jpeg",
+    "profile_background_color": "C0DEED",
+    "profile_link_color": "23289A",
+    "profile_use_background_image": false,
+    "time_zone": "Caracas",
+    "name": "Invepal",
+    "profile_text_color": "333333",
+    "profile_sidebar_border_color": "FFFFFF",
+    "screen_name": "InvepalOficial",
+    "lang": "es",
+    "following": null,
+    "listed_count": 42,
+    "protected": false,
+    "profile_sidebar_fill_color": "DDEEF6",
+    "followers_count": 7534,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/776835848998359040/6noj0XSo_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1116657170/1475086479",
+    "contributors_enabled": false,
+    "created_at": "Thu Jan 24 12:24:03 +0000 2013",
+    "id_str": "1116657170",
+    "description": "Cuenta Oficial de la Primera Empresa Recuperada por sus Trabajadores; ente adscrito al @Minppibes \u00a1Una Gesti\u00f3n Obrerista Rumbo a la Excelencia!"
+  },
+  "created_at": "Tue Nov 14 15:35:47 +0000 2017",
+  "id_str": "930459250832367617",
+  "in_reply_to_user_id": null,
+  "contributors": null
+}

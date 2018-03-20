@@ -1,1 +1,145 @@
-{"id": 930461083562803200, "lang": "es", "in_reply_to_status_id_str": "930424706095775744", "truncated": true, "place": {"id": "206c436ce43a43a3", "country": "Espa\u00f1a", "bounding_box": {"type": "Polygon", "coordinates": [[[-3.889005, 40.312071], [-3.889005, 40.643518], [-3.51801, 40.643518], [-3.51801, 40.312071]]]}, "url": "https://api.twitter.com/1.1/geo/id/206c436ce43a43a3.json", "full_name": "Madrid, Espa\u00f1a", "attributes": {}, "name": "Madrid", "place_type": "city", "country_code": "ES"}, "favorite_count": 0, "retweeted": false, "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>", "is_quote_status": false, "in_reply_to_status_id": 930424706095775744, "in_reply_to_user_id_str": "925448292225429504", "in_reply_to_screen_name": "JordiEmbodas", "retweet_count": 0, "quote_count": 0, "timestamp_ms": "1510674184109", "favorited": false, "coordinates": null, "filter_level": "low", "entities": {"urls": [{"indices": [117, 140], "display_url": "twitter.com/i/web/status/9\u2026", "url": "https://t.co/oeClIEbFzn", "expanded_url": "https://twitter.com/i/web/status/930461083562803200"}], "symbols": [], "user_mentions": [{"screen_name": "JordiEmbodas", "id": 925448292225429504, "name": "Jordi Embodas", "indices": [0, 13], "id_str": "925448292225429504"}, {"screen_name": "MartaPastor", "id": 6367162, "name": "Marta Pastor", "indices": [14, 26], "id_str": "6367162"}, {"screen_name": "SusodeToro1", "id": 3963101903, "name": "Suso De Toro", "indices": [27, 39], "id_str": "3963101903"}], "hashtags": []}, "reply_count": 0, "geo": null, "display_text_range": [40, 140], "text": "@JordiEmbodas @MartaPastor @SusodeToro1 Es m\u00e1s, considero que por ser agentes del orden y ej\u00e9rcito deber\u00edan tener u\u2026 https://t.co/oeClIEbFzn", "extended_tweet": {"display_text_range": [40, 311], "entities": {"urls": [], "symbols": [], "user_mentions": [{"screen_name": "JordiEmbodas", "id": 925448292225429504, "name": "Jordi Embodas", "indices": [0, 13], "id_str": "925448292225429504"}, {"screen_name": "MartaPastor", "id": 6367162, "name": "Marta Pastor", "indices": [14, 26], "id_str": "6367162"}, {"screen_name": "SusodeToro1", "id": 3963101903, "name": "Suso De Toro", "indices": [27, 39], "id_str": "3963101903"}], "hashtags": []}, "full_text": "@JordiEmbodas @MartaPastor @SusodeToro1 Es m\u00e1s, considero que por ser agentes del orden y ej\u00e9rcito deber\u00edan tener un suplemento de delito, porque siendo defensores de la ley y perfectos conocedores de las normas de comportamiento, delinquen doblemente pues se aprovechan de su posici\u00f3n. Veremos c\u00f3mo acaba esto."}, "user": {"statuses_count": 822, "id": 871129506127499264, "default_profile": true, "favourites_count": 120, "url": null, "profile_background_image_url_https": "", "verified": false, "profile_image_url_https": "https://pbs.twimg.com/profile_images/917115177396592640/s4urU2zb_normal.jpg", "translator_type": "none", "location": "Madrid capital", "geo_enabled": true, "utc_offset": null, "notifications": null, "profile_background_tile": false, "friends_count": 146, "is_translator": false, "follow_request_sent": null, "default_profile_image": false, "profile_background_image_url": "", "profile_background_color": "F5F8FA", "profile_link_color": "1DA1F2", "profile_use_background_image": true, "time_zone": null, "name": "Luluz Roja", "profile_text_color": "333333", "profile_sidebar_border_color": "C0DEED", "screen_name": "LMatnez", "lang": "es", "following": null, "listed_count": 0, "protected": false, "profile_sidebar_fill_color": "DDEEF6", "followers_count": 26, "profile_image_url": "http://pbs.twimg.com/profile_images/917115177396592640/s4urU2zb_normal.jpg", "profile_banner_url": "https://pbs.twimg.com/profile_banners/871129506127499264/1507491970", "contributors_enabled": false, "created_at": "Sat Jun 03 22:20:33 +0000 2017", "id_str": "871129506127499264", "description": "por los q sufren y mueren en sus exodos personales. Por los q no disponen ni d un twiter para denunciar lo q les pasa a ellos y su entorno,estamos nosotros."}, "created_at": "Tue Nov 14 15:43:04 +0000 2017", "id_str": "930461083562803200", "in_reply_to_user_id": 925448292225429504, "contributors": null}
+{
+  "id": 930461083562803200,
+  "lang": "es",
+  "in_reply_to_status_id_str": "930424706095775744",
+  "truncated": true,
+  "place": {
+    "id": "206c436ce43a43a3",
+    "country": "Espa\u00f1a",
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [[[-3.889005, 40.312071], [-3.889005, 40.643518], [-3.51801, 40.643518], [-3.51801, 40.312071]]]
+    },
+    "url": "https://api.twitter.com/1.1/geo/id/206c436ce43a43a3.json",
+    "full_name": "Madrid, Espa\u00f1a",
+    "attributes": {},
+    "name": "Madrid",
+    "place_type": "city",
+    "country_code": "ES"
+  },
+  "favorite_count": 0,
+  "retweeted": false,
+  "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+  "is_quote_status": false,
+  "in_reply_to_status_id": 930424706095775744,
+  "in_reply_to_user_id_str": "925448292225429504",
+  "in_reply_to_screen_name": "JordiEmbodas",
+  "retweet_count": 0,
+  "quote_count": 0,
+  "timestamp_ms": "1510674184109",
+  "favorited": false,
+  "coordinates": null,
+  "filter_level": "low",
+  "entities": {
+    "urls": [
+      {
+        "indices": [117, 140],
+        "display_url": "twitter.com/i/web/status/9\u2026",
+        "url": "https://t.co/oeClIEbFzn",
+        "expanded_url": "https://twitter.com/i/web/status/930461083562803200"
+      }
+    ],
+    "symbols": [],
+    "user_mentions": [
+      {
+        "screen_name": "JordiEmbodas",
+        "id": 925448292225429504,
+        "name": "Jordi Embodas",
+        "indices": [0, 13],
+        "id_str": "925448292225429504"
+      }, {
+        "screen_name": "MartaPastor",
+        "id": 6367162,
+        "name": "Marta Pastor",
+        "indices": [14, 26],
+        "id_str": "6367162"
+      }, {
+        "screen_name": "SusodeToro1",
+        "id": 3963101903,
+        "name": "Suso De Toro",
+        "indices": [27, 39],
+        "id_str": "3963101903"
+      }
+    ],
+    "hashtags": []
+  },
+  "reply_count": 0,
+  "geo": null,
+  "display_text_range": [40, 140],
+  "text": "@JordiEmbodas @MartaPastor @SusodeToro1 Es m\u00e1s, considero que por ser agentes del orden y ej\u00e9rcito deber\u00edan tener u\u2026 https://t.co/oeClIEbFzn",
+  "extended_tweet": {
+    "display_text_range": [40, 311],
+    "entities": {
+      "urls": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "screen_name": "JordiEmbodas",
+          "id": 925448292225429504,
+          "name": "Jordi Embodas",
+          "indices": [0, 13],
+          "id_str": "925448292225429504"
+        }, {
+          "screen_name": "MartaPastor",
+          "id": 6367162,
+          "name": "Marta Pastor",
+          "indices": [14, 26],
+          "id_str": "6367162"
+        }, {
+          "screen_name": "SusodeToro1",
+          "id": 3963101903,
+          "name": "Suso De Toro",
+          "indices": [27, 39],
+          "id_str": "3963101903"
+        }
+      ],
+      "hashtags": []
+    },
+    "full_text": "@JordiEmbodas @MartaPastor @SusodeToro1 Es m\u00e1s, considero que por ser agentes del orden y ej\u00e9rcito deber\u00edan tener un suplemento de delito, porque siendo defensores de la ley y perfectos conocedores de las normas de comportamiento, delinquen doblemente pues se aprovechan de su posici\u00f3n. Veremos c\u00f3mo acaba esto."
+  },
+  "user": {
+    "statuses_count": 822,
+    "id": 871129506127499264,
+    "default_profile": true,
+    "favourites_count": 120,
+    "url": null,
+    "profile_background_image_url_https": "",
+    "verified": false,
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/917115177396592640/s4urU2zb_normal.jpg",
+    "translator_type": "none",
+    "location": "Madrid capital",
+    "geo_enabled": true,
+    "utc_offset": null,
+    "notifications": null,
+    "profile_background_tile": false,
+    "friends_count": 146,
+    "is_translator": false,
+    "follow_request_sent": null,
+    "default_profile_image": false,
+    "profile_background_image_url": "",
+    "profile_background_color": "F5F8FA",
+    "profile_link_color": "1DA1F2",
+    "profile_use_background_image": true,
+    "time_zone": null,
+    "name": "Luluz Roja",
+    "profile_text_color": "333333",
+    "profile_sidebar_border_color": "C0DEED",
+    "screen_name": "LMatnez",
+    "lang": "es",
+    "following": null,
+    "listed_count": 0,
+    "protected": false,
+    "profile_sidebar_fill_color": "DDEEF6",
+    "followers_count": 26,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/917115177396592640/s4urU2zb_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/871129506127499264/1507491970",
+    "contributors_enabled": false,
+    "created_at": "Sat Jun 03 22:20:33 +0000 2017",
+    "id_str": "871129506127499264",
+    "description": "por los q sufren y mueren en sus exodos personales. Por los q no disponen ni d un twiter para denunciar lo q les pasa a ellos y su entorno,estamos nosotros."
+  },
+  "created_at": "Tue Nov 14 15:43:04 +0000 2017",
+  "id_str": "930461083562803200",
+  "in_reply_to_user_id": 925448292225429504,
+  "contributors": null
+}

@@ -1,1 +1,147 @@
-{"is_quote_status": false, "quote_count": 0, "in_reply_to_user_id_str": "837649286305361920", "favorite_count": 0, "in_reply_to_status_id": 930457945883725827, "id_str": "930556156094935040", "filter_level": "low", "reply_count": 0, "timestamp_ms": "1510696851167", "id": 930556156094935040, "display_text_range": [35, 140], "coordinates": null, "in_reply_to_screen_name": "KomunAgency", "truncated": true, "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>", "place": {"bounding_box": {"coordinates": [[[-60.781306, -33.033993], [-60.781306, -32.869238], [-60.613506, -32.869238], [-60.613506, -33.033993]]], "type": "Polygon"}, "url": "https://api.twitter.com/1.1/geo/id/0079bbc151fa56d2.json", "country_code": "AR", "name": "Rosario", "full_name": "Rosario, Argentina", "id": "0079bbc151fa56d2", "place_type": "city", "attributes": {}, "country": "Argentina"}, "retweet_count": 0, "extended_tweet": {"display_text_range": [35, 200], "entities": {"user_mentions": [{"id": 837649286305361920, "screen_name": "KomunAgency", "id_str": "837649286305361920", "indices": [0, 12], "name": "Kom\u00fcn Agency"}, {"id": 762252634053087232, "screen_name": "aytacsasmaz", "id_str": "762252634053087232", "indices": [13, 25], "name": "Ayta\u00e7 \u015ea\u015fmaz"}, {"id": 836197983918112769, "screen_name": "sozdizi", "id_str": "836197983918112769", "indices": [26, 34], "name": "S\u00d6Z"}], "urls": [], "symbols": [], "hashtags": []}, "full_text": "@KomunAgency @aytacsasmaz @sozdizi El cap\u00edtulo de ayer,me produjo una tristeza muy grande.Creo que demasiado tr\u00e1gica.Llor\u00e9 con desconsuelo por AL\u00cd y FATMA.Felicitaciones por vuestro excelente trabajo."}, "created_at": "Tue Nov 14 22:00:51 +0000 2017", "favorited": false, "text": "@KomunAgency @aytacsasmaz @sozdizi El cap\u00edtulo de ayer,me produjo una tristeza muy grande.Creo que demasiado tr\u00e1gic\u2026 https://t.co/GqNt1HcfZD", "in_reply_to_user_id": 837649286305361920, "geo": null, "lang": "es", "contributors": null, "in_reply_to_status_id_str": "930457945883725827", "user": {"protected": false, "following": null, "profile_text_color": "000000", "profile_background_color": "000000", "statuses_count": 1615, "default_profile": false, "favourites_count": 17958, "friends_count": 207, "follow_request_sent": null, "profile_sidebar_fill_color": "000000", "translator_type": "regular", "notifications": null, "id_str": "3379309797", "screen_name": "BartomioliMarta", "profile_banner_url": "https://pbs.twimg.com/profile_banners/3379309797/1442920405", "verified": false, "id": 3379309797, "profile_use_background_image": false, "description": "MADRE Y ABUELA", "utc_offset": null, "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", "is_translator": false, "listed_count": 0, "default_profile_image": false, "contributors_enabled": false, "followers_count": 60, "location": "Santa Fe, Argentina", "created_at": "Thu Jul 16 20:53:02 +0000 2015", "profile_image_url_https": "https://pbs.twimg.com/profile_images/708761179720716289/b5liwKGQ_normal.jpg", "geo_enabled": true, "time_zone": null, "profile_image_url": "http://pbs.twimg.com/profile_images/708761179720716289/b5liwKGQ_normal.jpg", "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png", "profile_link_color": "4A913C", "lang": "es", "name": "marta bartomioli", "profile_background_tile": false, "url": null, "profile_sidebar_border_color": "000000"}, "entities": {"user_mentions": [{"id": 837649286305361920, "screen_name": "KomunAgency", "id_str": "837649286305361920", "indices": [0, 12], "name": "Kom\u00fcn Agency"}, {"id": 762252634053087232, "screen_name": "aytacsasmaz", "id_str": "762252634053087232", "indices": [13, 25], "name": "Ayta\u00e7 \u015ea\u015fmaz"}, {"id": 836197983918112769, "screen_name": "sozdizi", "id_str": "836197983918112769", "indices": [26, 34], "name": "S\u00d6Z"}], "urls": [{"expanded_url": "https://twitter.com/i/web/status/930556156094935040", "url": "https://t.co/GqNt1HcfZD", "indices": [117, 140], "display_url": "twitter.com/i/web/status/9\u2026"}], "symbols": [], "hashtags": []}, "retweeted": false}
+{
+  "is_quote_status": false,
+  "quote_count": 0,
+  "in_reply_to_user_id_str": "837649286305361920",
+  "favorite_count": 0,
+  "in_reply_to_status_id": 930457945883725827,
+  "id_str": "930556156094935040",
+  "filter_level": "low",
+  "reply_count": 0,
+  "timestamp_ms": "1510696851167",
+  "id": 930556156094935040,
+  "display_text_range": [35, 140],
+  "coordinates": null,
+  "in_reply_to_screen_name": "KomunAgency",
+  "truncated": true,
+  "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+  "place": {
+    "bounding_box": {
+      "coordinates": [
+        [[-60.781306, -33.033993], [-60.781306, -32.869238], [-60.613506, -32.869238], [-60.613506, -33.033993]]
+      ],
+      "type": "Polygon"
+    },
+    "url": "https://api.twitter.com/1.1/geo/id/0079bbc151fa56d2.json",
+    "country_code": "AR",
+    "name": "Rosario",
+    "full_name": "Rosario, Argentina",
+    "id": "0079bbc151fa56d2",
+    "place_type": "city",
+    "attributes": {},
+    "country": "Argentina"
+  },
+  "retweet_count": 0,
+  "extended_tweet": {
+    "display_text_range": [35, 200],
+    "entities": {
+      "user_mentions": [
+        {
+          "id": 837649286305361920,
+          "screen_name": "KomunAgency",
+          "id_str": "837649286305361920",
+          "indices": [0, 12],
+          "name": "Kom\u00fcn Agency"
+        }, {
+          "id": 762252634053087232,
+          "screen_name": "aytacsasmaz",
+          "id_str": "762252634053087232",
+          "indices": [13, 25],
+          "name": "Ayta\u00e7 \u015ea\u015fmaz"
+        }, {
+          "id": 836197983918112769,
+          "screen_name": "sozdizi",
+          "id_str": "836197983918112769",
+          "indices": [26, 34],
+          "name": "S\u00d6Z"
+        }
+      ],
+      "urls": [],
+      "symbols": [],
+      "hashtags": []
+    },
+    "full_text": "@KomunAgency @aytacsasmaz @sozdizi El cap\u00edtulo de ayer,me produjo una tristeza muy grande.Creo que demasiado tr\u00e1gica.Llor\u00e9 con desconsuelo por AL\u00cd y FATMA.Felicitaciones por vuestro excelente trabajo."
+  },
+  "created_at": "Tue Nov 14 22:00:51 +0000 2017",
+  "favorited": false,
+  "text": "@KomunAgency @aytacsasmaz @sozdizi El cap\u00edtulo de ayer,me produjo una tristeza muy grande.Creo que demasiado tr\u00e1gic\u2026 https://t.co/GqNt1HcfZD",
+  "in_reply_to_user_id": 837649286305361920,
+  "geo": null,
+  "lang": "es",
+  "contributors": null,
+  "in_reply_to_status_id_str": "930457945883725827",
+  "user": {
+    "protected": false,
+    "following": null,
+    "profile_text_color": "000000",
+    "profile_background_color": "000000",
+    "statuses_count": 1615,
+    "default_profile": false,
+    "favourites_count": 17958,
+    "friends_count": 207,
+    "follow_request_sent": null,
+    "profile_sidebar_fill_color": "000000",
+    "translator_type": "regular",
+    "notifications": null,
+    "id_str": "3379309797",
+    "screen_name": "BartomioliMarta",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/3379309797/1442920405",
+    "verified": false,
+    "id": 3379309797,
+    "profile_use_background_image": false,
+    "description": "MADRE Y ABUELA",
+    "utc_offset": null,
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "is_translator": false,
+    "listed_count": 0,
+    "default_profile_image": false,
+    "contributors_enabled": false,
+    "followers_count": 60,
+    "location": "Santa Fe, Argentina",
+    "created_at": "Thu Jul 16 20:53:02 +0000 2015",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/708761179720716289/b5liwKGQ_normal.jpg",
+    "geo_enabled": true,
+    "time_zone": null,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/708761179720716289/b5liwKGQ_normal.jpg",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_link_color": "4A913C",
+    "lang": "es",
+    "name": "marta bartomioli",
+    "profile_background_tile": false,
+    "url": null,
+    "profile_sidebar_border_color": "000000"
+  },
+  "entities": {
+    "user_mentions": [
+      {
+        "id": 837649286305361920,
+        "screen_name": "KomunAgency",
+        "id_str": "837649286305361920",
+        "indices": [0, 12],
+        "name": "Kom\u00fcn Agency"
+      }, {
+        "id": 762252634053087232,
+        "screen_name": "aytacsasmaz",
+        "id_str": "762252634053087232",
+        "indices": [13, 25],
+        "name": "Ayta\u00e7 \u015ea\u015fmaz"
+      }, {
+        "id": 836197983918112769,
+        "screen_name": "sozdizi",
+        "id_str": "836197983918112769",
+        "indices": [26, 34],
+        "name": "S\u00d6Z"
+      }
+    ],
+    "urls": [
+      {
+        "expanded_url": "https://twitter.com/i/web/status/930556156094935040",
+        "url": "https://t.co/GqNt1HcfZD",
+        "indices": [117, 140],
+        "display_url": "twitter.com/i/web/status/9\u2026"
+      }
+    ],
+    "symbols": [],
+    "hashtags": []
+  },
+  "retweeted": false
+}

@@ -1,1 +1,103 @@
-{"is_quote_status": false, "in_reply_to_user_id_str": null, "created_at": "Tue Nov 14 21:46:20 +0000 2017", "favorite_count": 0, "in_reply_to_status_id": null, "id_str": "930552503502073858", "filter_level": "low", "reply_count": 0, "timestamp_ms": "1510695980321", "id": 930552503502073858, "coordinates": null, "in_reply_to_screen_name": null, "truncated": true, "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>", "place": {"bounding_box": {"coordinates": [[[-76.584528, 3.266369], [-76.584528, 3.461995], [-76.407632, 3.461995], [-76.407632, 3.266369]]], "type": "Polygon"}, "url": "https://api.twitter.com/1.1/geo/id/003f97dd7a518791.json", "country_code": "CO", "name": "Candelaria", "full_name": "Candelaria, Colombia", "id": "003f97dd7a518791", "place_type": "city", "attributes": {}, "country": "Colombia"}, "retweet_count": 0, "extended_tweet": {"display_text_range": [0, 280], "entities": {"user_mentions": [], "urls": [], "symbols": [], "hashtags": []}, "full_text": "A las autoridades de tr\u00e1nsito de Cali les aconsejo que dicten un manual para los motociclistas (normas y comportamiento en la v\u00eda), con lo que el municipio y conductores se podr\u00edan evitar dolores de cabeza, la movilidad mejorar\u00eda y no habr\u00eda tanta v\u00edctima por culpa de accidentes."}, "quote_count": 0, "favorited": false, "text": "A las autoridades de tr\u00e1nsito de Cali les aconsejo que dicten un manual para los motociclistas (normas y comportami\u2026 https://t.co/5JkVfVHHdk", "in_reply_to_user_id": null, "geo": null, "lang": "es", "contributors": null, "in_reply_to_status_id_str": null, "user": {"protected": false, "following": null, "profile_text_color": "333333", "profile_background_color": "F5F8FA", "statuses_count": 39, "default_profile": true, "favourites_count": 3, "friends_count": 65, "follow_request_sent": null, "profile_sidebar_fill_color": "DDEEF6", "translator_type": "none", "notifications": null, "id_str": "917579445774553089", "screen_name": "DavidAyalaMill2", "verified": false, "id": 917579445774553089, "profile_use_background_image": true, "description": null, "utc_offset": null, "profile_background_image_url_https": "", "is_translator": false, "listed_count": 0, "default_profile_image": false, "contributors_enabled": false, "followers_count": 2, "location": null, "created_at": "Tue Oct 10 02:36:02 +0000 2017", "profile_image_url_https": "https://pbs.twimg.com/profile_images/924630229490061312/T6io9VaH_normal.jpg", "geo_enabled": true, "time_zone": null, "profile_image_url": "http://pbs.twimg.com/profile_images/924630229490061312/T6io9VaH_normal.jpg", "profile_background_image_url": "", "profile_link_color": "1DA1F2", "lang": "es", "name": "David Ayala Millan", "profile_background_tile": false, "url": null, "profile_sidebar_border_color": "C0DEED"}, "entities": {"user_mentions": [], "urls": [{"expanded_url": "https://twitter.com/i/web/status/930552503502073858", "url": "https://t.co/5JkVfVHHdk", "indices": [117, 140], "display_url": "twitter.com/i/web/status/9\u2026"}], "symbols": [], "hashtags": []}, "retweeted": false}
+{
+  "is_quote_status": false,
+  "in_reply_to_user_id_str": null,
+  "created_at": "Tue Nov 14 21:46:20 +0000 2017",
+  "favorite_count": 0,
+  "in_reply_to_status_id": null,
+  "id_str": "930552503502073858",
+  "filter_level": "low",
+  "reply_count": 0,
+  "timestamp_ms": "1510695980321",
+  "id": 930552503502073858,
+  "coordinates": null,
+  "in_reply_to_screen_name": null,
+  "truncated": true,
+  "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+  "place": {
+    "bounding_box": {
+      "coordinates": [[[-76.584528, 3.266369], [-76.584528, 3.461995], [-76.407632, 3.461995], [-76.407632, 3.266369]]],
+      "type": "Polygon"
+    },
+    "url": "https://api.twitter.com/1.1/geo/id/003f97dd7a518791.json",
+    "country_code": "CO",
+    "name": "Candelaria",
+    "full_name": "Candelaria, Colombia",
+    "id": "003f97dd7a518791",
+    "place_type": "city",
+    "attributes": {},
+    "country": "Colombia"
+  },
+  "retweet_count": 0,
+  "extended_tweet": {
+    "display_text_range": [0, 280],
+    "entities": {
+      "user_mentions": [],
+      "urls": [],
+      "symbols": [],
+      "hashtags": []
+    },
+    "full_text": "A las autoridades de tr\u00e1nsito de Cali les aconsejo que dicten un manual para los motociclistas (normas y comportamiento en la v\u00eda), con lo que el municipio y conductores se podr\u00edan evitar dolores de cabeza, la movilidad mejorar\u00eda y no habr\u00eda tanta v\u00edctima por culpa de accidentes."
+  },
+  "quote_count": 0,
+  "favorited": false,
+  "text": "A las autoridades de tr\u00e1nsito de Cali les aconsejo que dicten un manual para los motociclistas (normas y comportami\u2026 https://t.co/5JkVfVHHdk",
+  "in_reply_to_user_id": null,
+  "geo": null,
+  "lang": "es",
+  "contributors": null,
+  "in_reply_to_status_id_str": null,
+  "user": {
+    "protected": false,
+    "following": null,
+    "profile_text_color": "333333",
+    "profile_background_color": "F5F8FA",
+    "statuses_count": 39,
+    "default_profile": true,
+    "favourites_count": 3,
+    "friends_count": 65,
+    "follow_request_sent": null,
+    "profile_sidebar_fill_color": "DDEEF6",
+    "translator_type": "none",
+    "notifications": null,
+    "id_str": "917579445774553089",
+    "screen_name": "DavidAyalaMill2",
+    "verified": false,
+    "id": 917579445774553089,
+    "profile_use_background_image": true,
+    "description": null,
+    "utc_offset": null,
+    "profile_background_image_url_https": "",
+    "is_translator": false,
+    "listed_count": 0,
+    "default_profile_image": false,
+    "contributors_enabled": false,
+    "followers_count": 2,
+    "location": null,
+    "created_at": "Tue Oct 10 02:36:02 +0000 2017",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/924630229490061312/T6io9VaH_normal.jpg",
+    "geo_enabled": true,
+    "time_zone": null,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/924630229490061312/T6io9VaH_normal.jpg",
+    "profile_background_image_url": "",
+    "profile_link_color": "1DA1F2",
+    "lang": "es",
+    "name": "David Ayala Millan",
+    "profile_background_tile": false,
+    "url": null,
+    "profile_sidebar_border_color": "C0DEED"
+  },
+  "entities": {
+    "user_mentions": [],
+    "urls": [
+      {
+        "expanded_url": "https://twitter.com/i/web/status/930552503502073858",
+        "url": "https://t.co/5JkVfVHHdk",
+        "indices": [117, 140],
+        "display_url": "twitter.com/i/web/status/9\u2026"
+      }
+    ],
+    "symbols": [],
+    "hashtags": []
+  },
+  "retweeted": false
+}

@@ -1,1 +1,135 @@
-{"reply_count": 0, "user": {"profile_banner_url": "https://pbs.twimg.com/profile_banners/201246465/1510692621", "following": null, "profile_background_color": "C0DEED", "url": null, "utc_offset": -14400, "follow_request_sent": null, "translator_type": "none", "profile_text_color": "333333", "id_str": "201246465", "favourites_count": 469, "friends_count": 978, "followers_count": 1277, "id": 201246465, "geo_enabled": true, "profile_sidebar_border_color": "C0DEED", "profile_image_url_https": "https://pbs.twimg.com/profile_images/928753770661421056/1C1PZWBJ_normal.jpg", "statuses_count": 22043, "notifications": null, "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", "protected": false, "listed_count": 7, "screen_name": "sbsparacotos", "profile_sidebar_fill_color": "DDEEF6", "location": "Paracotos", "created_at": "Mon Oct 11 12:38:43 +0000 2010", "default_profile": true, "time_zone": "Caracas", "verified": false, "contributors_enabled": false, "profile_image_url": "http://pbs.twimg.com/profile_images/928753770661421056/1C1PZWBJ_normal.jpg", "lang": "es", "name": "JESUS RIVERO", "profile_link_color": "1DA1F2", "is_translator": false, "description": "CLP de la parroquia combativa Paracotos, Mun. Guaicaipuro Edo. Bolivariano de Miranda,", "profile_use_background_image": true, "default_profile_image": false, "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png", "profile_background_tile": false}, "contributors": null, "id_str": "930551648614780928", "in_reply_to_screen_name": "FreddyMartinezT", "in_reply_to_user_id_str": "928597865865334784", "in_reply_to_status_id": 930493585534963712, "in_reply_to_status_id_str": "930493585534963712", "display_text_range": [17, 140], "in_reply_to_user_id": 928597865865334784, "id": 930551648614780928, "possibly_sensitive": false, "favorite_count": 0, "entities": {"user_mentions": [{"id": 928597865865334784, "indices": [0, 16], "screen_name": "FreddyMartinezT", "id_str": "928597865865334784", "name": "FreddyMartinezT"}], "hashtags": [], "symbols": [], "urls": [{"expanded_url": "https://twitter.com/i/web/status/930551648614780928", "url": "https://t.co/zSQTdUKiOY", "display_url": "twitter.com/i/web/status/9\u2026", "indices": [117, 140]}]}, "created_at": "Tue Nov 14 21:42:56 +0000 2017", "extended_tweet": {"entities": {"user_mentions": [{"id": 928597865865334784, "indices": [0, 16], "screen_name": "FreddyMartinezT", "id_str": "928597865865334784", "name": "FreddyMartinezT"}, {"id": 105201972, "indices": [225, 238], "screen_name": "SERGIOGRAFFE", "id_str": "105201972", "name": "SERGIO GRAFFE"}], "hashtags": [], "symbols": [], "urls": [{"expanded_url": "https://www.youtube.com/watch?v=5b_uJiB0iZ4", "url": "https://t.co/luDz07W9F9", "display_url": "youtube.com/watch?v=5b_uJi\u2026", "indices": [274, 297]}]}, "display_text_range": [17, 297], "full_text": "@FreddyMartinezT Hoy el carcamal de la propuesta de una parte de la oposici\u00f3n en Guaicaipuro paso sin pena ni gloria por la parroquia Chavista de Paracotos, sin ninguna participaci\u00f3n, dejando ver su gran debilidad, su asesor @sergiograffe es el mismo que apoyo la guarimbas https://t.co/luDz07W9F9"}, "favorited": false, "timestamp_ms": "1510695776500", "quote_count": 0, "place": {"country_code": "VE", "bounding_box": {"coordinates": [[[-73.354073, 0.648837], [-73.354073, 12.196802], [-59.80378, 12.196802], [-59.80378, 0.648837]]], "type": "Polygon"}, "attributes": {}, "url": "https://api.twitter.com/1.1/geo/id/043383f8b2b79918.json", "name": "Venezuela", "id": "043383f8b2b79918", "place_type": "country", "country": "Venezuela", "full_name": "Venezuela"}, "text": "@FreddyMartinezT Hoy el carcamal de la propuesta de una parte de la oposici\u00f3n en Guaicaipuro paso sin pena ni glori\u2026 https://t.co/zSQTdUKiOY", "geo": null, "retweeted": false, "retweet_count": 0, "filter_level": "low", "lang": "es", "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>", "is_quote_status": false, "coordinates": null, "truncated": true}
+{
+  "reply_count": 0,
+  "user": {
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/201246465/1510692621",
+    "following": null,
+    "profile_background_color": "C0DEED",
+    "url": null,
+    "utc_offset": -14400,
+    "follow_request_sent": null,
+    "translator_type": "none",
+    "profile_text_color": "333333",
+    "id_str": "201246465",
+    "favourites_count": 469,
+    "friends_count": 978,
+    "followers_count": 1277,
+    "id": 201246465,
+    "geo_enabled": true,
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/928753770661421056/1C1PZWBJ_normal.jpg",
+    "statuses_count": 22043,
+    "notifications": null,
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "protected": false,
+    "listed_count": 7,
+    "screen_name": "sbsparacotos",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "location": "Paracotos",
+    "created_at": "Mon Oct 11 12:38:43 +0000 2010",
+    "default_profile": true,
+    "time_zone": "Caracas",
+    "verified": false,
+    "contributors_enabled": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/928753770661421056/1C1PZWBJ_normal.jpg",
+    "lang": "es",
+    "name": "JESUS RIVERO",
+    "profile_link_color": "1DA1F2",
+    "is_translator": false,
+    "description": "CLP de la parroquia combativa Paracotos, Mun. Guaicaipuro Edo. Bolivariano de Miranda,",
+    "profile_use_background_image": true,
+    "default_profile_image": false,
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": false
+  },
+  "contributors": null,
+  "id_str": "930551648614780928",
+  "in_reply_to_screen_name": "FreddyMartinezT",
+  "in_reply_to_user_id_str": "928597865865334784",
+  "in_reply_to_status_id": 930493585534963712,
+  "in_reply_to_status_id_str": "930493585534963712",
+  "display_text_range": [17, 140],
+  "in_reply_to_user_id": 928597865865334784,
+  "id": 930551648614780928,
+  "possibly_sensitive": false,
+  "favorite_count": 0,
+  "entities": {
+    "user_mentions": [
+      {
+        "id": 928597865865334784,
+        "indices": [0, 16],
+        "screen_name": "FreddyMartinezT",
+        "id_str": "928597865865334784",
+        "name": "FreddyMartinezT"
+      }
+    ],
+    "hashtags": [],
+    "symbols": [],
+    "urls": [
+      {
+        "expanded_url": "https://twitter.com/i/web/status/930551648614780928",
+        "url": "https://t.co/zSQTdUKiOY",
+        "display_url": "twitter.com/i/web/status/9\u2026",
+        "indices": [117, 140]
+      }
+    ]
+  },
+  "created_at": "Tue Nov 14 21:42:56 +0000 2017",
+  "extended_tweet": {
+    "entities": {
+      "user_mentions": [
+        {
+          "id": 928597865865334784,
+          "indices": [0, 16],
+          "screen_name": "FreddyMartinezT",
+          "id_str": "928597865865334784",
+          "name": "FreddyMartinezT"
+        }, {
+          "id": 105201972,
+          "indices": [225, 238],
+          "screen_name": "SERGIOGRAFFE",
+          "id_str": "105201972",
+          "name": "SERGIO GRAFFE"
+        }
+      ],
+      "hashtags": [],
+      "symbols": [],
+      "urls": [
+        {
+          "expanded_url": "https://www.youtube.com/watch?v=5b_uJiB0iZ4",
+          "url": "https://t.co/luDz07W9F9",
+          "display_url": "youtube.com/watch?v=5b_uJi\u2026",
+          "indices": [274, 297]
+        }
+      ]
+    },
+    "display_text_range": [17, 297],
+    "full_text": "@FreddyMartinezT Hoy el carcamal de la propuesta de una parte de la oposici\u00f3n en Guaicaipuro paso sin pena ni gloria por la parroquia Chavista de Paracotos, sin ninguna participaci\u00f3n, dejando ver su gran debilidad, su asesor @sergiograffe es el mismo que apoyo la guarimbas https://t.co/luDz07W9F9"
+  },
+  "favorited": false,
+  "timestamp_ms": "1510695776500",
+  "quote_count": 0,
+  "place": {
+    "country_code": "VE",
+    "bounding_box": {
+      "coordinates": [[[-73.354073, 0.648837], [-73.354073, 12.196802], [-59.80378, 12.196802], [-59.80378, 0.648837]]],
+      "type": "Polygon"
+    },
+    "attributes": {},
+    "url": "https://api.twitter.com/1.1/geo/id/043383f8b2b79918.json",
+    "name": "Venezuela",
+    "id": "043383f8b2b79918",
+    "place_type": "country",
+    "country": "Venezuela",
+    "full_name": "Venezuela"
+  },
+  "text": "@FreddyMartinezT Hoy el carcamal de la propuesta de una parte de la oposici\u00f3n en Guaicaipuro paso sin pena ni glori\u2026 https://t.co/zSQTdUKiOY",
+  "geo": null,
+  "retweeted": false,
+  "retweet_count": 0,
+  "filter_level": "low",
+  "lang": "es",
+  "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+  "is_quote_status": false,
+  "coordinates": null,
+  "truncated": true
+}

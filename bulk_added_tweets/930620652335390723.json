@@ -1,1 +1,166 @@
-{"in_reply_to_screen_name": null, "geo": null, "filter_level": "low", "in_reply_to_status_id": null, "lang": "es", "favorite_count": 0, "display_text_range": [0, 98], "favorited": false, "id": 930620652335390723, "place": {"name": "Bogot\u00e1, D.C.", "full_name": "Bogot\u00e1, D.C., Colombia", "place_type": "city", "country": "Colombia", "id": "0161be1b3f98d6c3", "bounding_box": {"type": "Polygon", "coordinates": [[[-74.483289, 3.717432], [-74.483289, 4.807135], [-74.004053, 4.807135], [-74.004053, 3.717432]]]}, "attributes": {}, "url": "https://api.twitter.com/1.1/geo/id/0161be1b3f98d6c3.json", "country_code": "CO"}, "coordinates": null, "entities": {"media": [{"id_str": "930620613110194181", "display_url": "pic.twitter.com/4VPlyHOVVK", "url": "https://t.co/4VPlyHOVVK", "expanded_url": "https://twitter.com/josiasfiesco/status/930620652335390723/photo/1", "media_url_https": "https://pbs.twimg.com/media/DOo6hFkW4AUONgH.jpg", "id": 930620613110194181, "type": "photo", "indices": [99, 122], "sizes": {"medium": {"h": 1200, "resize": "fit", "w": 928}, "thumb": {"h": 150, "resize": "crop", "w": 150}, "large": {"h": 1280, "resize": "fit", "w": 990}, "small": {"h": 680, "resize": "fit", "w": 526}}, "media_url": "http://pbs.twimg.com/media/DOo6hFkW4AUONgH.jpg"}], "hashtags": [{"text": "EstamosFirmes", "indices": [84, 98]}], "urls": [], "symbols": [], "user_mentions": []}, "extended_entities": {"media": [{"id_str": "930620613110194181", "display_url": "pic.twitter.com/4VPlyHOVVK", "url": "https://t.co/4VPlyHOVVK", "expanded_url": "https://twitter.com/josiasfiesco/status/930620652335390723/photo/1", "media_url_https": "https://pbs.twimg.com/media/DOo6hFkW4AUONgH.jpg", "id": 930620613110194181, "type": "photo", "indices": [99, 122], "sizes": {"medium": {"h": 1200, "resize": "fit", "w": 928}, "thumb": {"h": 150, "resize": "crop", "w": 150}, "large": {"h": 1280, "resize": "fit", "w": 990}, "small": {"h": 680, "resize": "fit", "w": 526}}, "media_url": "http://pbs.twimg.com/media/DOo6hFkW4AUONgH.jpg"}]}, "possibly_sensitive": false, "user": {"followers_count": 4155, "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/151290005/JOSI_TWITTER_copia.jpg", "profile_background_color": "E2EFF5", "translator_type": "none", "profile_image_url": "http://pbs.twimg.com/profile_images/929871730855825409/rfpJeLQL_normal.jpg", "profile_banner_url": "https://pbs.twimg.com/profile_banners/95494483/1488079387", "default_profile": false, "utc_offset": -21600, "lang": "es", "url": "https://www.facebook.com/josiasfiesco/", "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/151290005/JOSI_TWITTER_copia.jpg", "profile_image_url_https": "https://pbs.twimg.com/profile_images/929871730855825409/rfpJeLQL_normal.jpg", "time_zone": "Central Time (US & Canada)", "profile_sidebar_border_color": "FFFFFF", "profile_use_background_image": false, "id": 95494483, "profile_link_color": "063042", "profile_sidebar_fill_color": "050505", "profile_background_tile": true, "geo_enabled": true, "id_str": "95494483", "verified": false, "name": "Josias Fiesco", "is_translator": false, "notifications": null, "following": null, "friends_count": 136, "contributors_enabled": false, "screen_name": "josiasfiesco", "created_at": "Tue Dec 08 20:21:19 +0000 2009", "profile_text_color": "154775", "favourites_count": 982, "follow_request_sent": null, "description": "Joven firme. Defiendo una #Bogot\u00e1 de servicios y a Colombia de la alianza Santos -Farc #Transmilenio24horas #SinJuventudNO\n\n Opini\u00f3n @las2orillas y @minuto30com", "default_profile_image": false, "location": "Bogot\u00e1 - Colombia", "listed_count": 23, "protected": false, "statuses_count": 2561}, "id_str": "930620652335390723", "retweet_count": 0, "retweeted": false, "quote_count": 0, "truncated": false, "in_reply_to_status_id_str": null, "reply_count": 0, "created_at": "Wed Nov 15 02:17:08 +0000 2017", "is_quote_status": false, "in_reply_to_user_id": null, "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>", "text": "Defenderemos la libertad y la democracia siempre. Ma\u00f1ana en la U. Nacional - Bogot\u00e1\n#EstamosFirmes https://t.co/4VPlyHOVVK", "timestamp_ms": "1510712228269", "in_reply_to_user_id_str": null, "contributors": null}
+{
+  "in_reply_to_screen_name": null,
+  "geo": null,
+  "filter_level": "low",
+  "in_reply_to_status_id": null,
+  "lang": "es",
+  "favorite_count": 0,
+  "display_text_range": [0, 98],
+  "favorited": false,
+  "id": 930620652335390723,
+  "place": {
+    "name": "Bogot\u00e1, D.C.",
+    "full_name": "Bogot\u00e1, D.C., Colombia",
+    "place_type": "city",
+    "country": "Colombia",
+    "id": "0161be1b3f98d6c3",
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [[[-74.483289, 3.717432], [-74.483289, 4.807135], [-74.004053, 4.807135], [-74.004053, 3.717432]]]
+    },
+    "attributes": {},
+    "url": "https://api.twitter.com/1.1/geo/id/0161be1b3f98d6c3.json",
+    "country_code": "CO"
+  },
+  "coordinates": null,
+  "entities": {
+    "media": [
+      {
+        "id_str": "930620613110194181",
+        "display_url": "pic.twitter.com/4VPlyHOVVK",
+        "url": "https://t.co/4VPlyHOVVK",
+        "expanded_url": "https://twitter.com/josiasfiesco/status/930620652335390723/photo/1",
+        "media_url_https": "https://pbs.twimg.com/media/DOo6hFkW4AUONgH.jpg",
+        "id": 930620613110194181,
+        "type": "photo",
+        "indices": [99, 122],
+        "sizes": {
+          "medium": {
+            "h": 1200,
+            "resize": "fit",
+            "w": 928
+          },
+          "thumb": {
+            "h": 150,
+            "resize": "crop",
+            "w": 150
+          },
+          "large": {
+            "h": 1280,
+            "resize": "fit",
+            "w": 990
+          },
+          "small": {
+            "h": 680,
+            "resize": "fit",
+            "w": 526
+          }
+        },
+        "media_url": "http://pbs.twimg.com/media/DOo6hFkW4AUONgH.jpg"
+      }
+    ],
+    "hashtags": [
+      {
+        "text": "EstamosFirmes",
+        "indices": [84, 98]
+      }
+    ],
+    "urls": [],
+    "symbols": [],
+    "user_mentions": []
+  },
+  "extended_entities": {
+    "media": [
+      {
+        "id_str": "930620613110194181",
+        "display_url": "pic.twitter.com/4VPlyHOVVK",
+        "url": "https://t.co/4VPlyHOVVK",
+        "expanded_url": "https://twitter.com/josiasfiesco/status/930620652335390723/photo/1",
+        "media_url_https": "https://pbs.twimg.com/media/DOo6hFkW4AUONgH.jpg",
+        "id": 930620613110194181,
+        "type": "photo",
+        "indices": [99, 122],
+        "sizes": {
+          "medium": {
+            "h": 1200,
+            "resize": "fit",
+            "w": 928
+          },
+          "thumb": {
+            "h": 150,
+            "resize": "crop",
+            "w": 150
+          },
+          "large": {
+            "h": 1280,
+            "resize": "fit",
+            "w": 990
+          },
+          "small": {
+            "h": 680,
+            "resize": "fit",
+            "w": 526
+          }
+        },
+        "media_url": "http://pbs.twimg.com/media/DOo6hFkW4AUONgH.jpg"
+      }
+    ]
+  },
+  "possibly_sensitive": false,
+  "user": {
+    "followers_count": 4155,
+    "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/151290005/JOSI_TWITTER_copia.jpg",
+    "profile_background_color": "E2EFF5",
+    "translator_type": "none",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/929871730855825409/rfpJeLQL_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/95494483/1488079387",
+    "default_profile": false,
+    "utc_offset": -21600,
+    "lang": "es",
+    "url": "https://www.facebook.com/josiasfiesco/",
+    "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/151290005/JOSI_TWITTER_copia.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/929871730855825409/rfpJeLQL_normal.jpg",
+    "time_zone": "Central Time (US & Canada)",
+    "profile_sidebar_border_color": "FFFFFF",
+    "profile_use_background_image": false,
+    "id": 95494483,
+    "profile_link_color": "063042",
+    "profile_sidebar_fill_color": "050505",
+    "profile_background_tile": true,
+    "geo_enabled": true,
+    "id_str": "95494483",
+    "verified": false,
+    "name": "Josias Fiesco",
+    "is_translator": false,
+    "notifications": null,
+    "following": null,
+    "friends_count": 136,
+    "contributors_enabled": false,
+    "screen_name": "josiasfiesco",
+    "created_at": "Tue Dec 08 20:21:19 +0000 2009",
+    "profile_text_color": "154775",
+    "favourites_count": 982,
+    "follow_request_sent": null,
+    "description": "Joven firme. Defiendo una #Bogot\u00e1 de servicios y a Colombia de la alianza Santos -Farc #Transmilenio24horas #SinJuventudNO\n\n Opini\u00f3n @las2orillas y @minuto30com",
+    "default_profile_image": false,
+    "location": "Bogot\u00e1 - Colombia",
+    "listed_count": 23,
+    "protected": false,
+    "statuses_count": 2561
+  },
+  "id_str": "930620652335390723",
+  "retweet_count": 0,
+  "retweeted": false,
+  "quote_count": 0,
+  "truncated": false,
+  "in_reply_to_status_id_str": null,
+  "reply_count": 0,
+  "created_at": "Wed Nov 15 02:17:08 +0000 2017",
+  "is_quote_status": false,
+  "in_reply_to_user_id": null,
+  "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+  "text": "Defenderemos la libertad y la democracia siempre. Ma\u00f1ana en la U. Nacional - Bogot\u00e1\n#EstamosFirmes https://t.co/4VPlyHOVVK",
+  "timestamp_ms": "1510712228269",
+  "in_reply_to_user_id_str": null,
+  "contributors": null
+}

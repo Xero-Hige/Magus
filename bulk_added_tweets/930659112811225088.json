@@ -1,1 +1,127 @@
-{"geo": null, "filter_level": "low", "in_reply_to_status_id": null, "lang": "es", "favorite_count": 0, "coordinates": null, "favorited": false, "place": {"name": "Palmira", "full_name": "Palmira, Colombia", "place_type": "city", "country": "Colombia", "id": "0083e91b64f919f4", "bounding_box": {"type": "Polygon", "coordinates": [[[-76.607335, 3.439586], [-76.607335, 3.701271], [-76.08991, 3.701271], [-76.08991, 3.439586]]]}, "attributes": {}, "url": "https://api.twitter.com/1.1/geo/id/0083e91b64f919f4.json", "country_code": "CO"}, "contributors": null, "entities": {"hashtags": [], "urls": [{"display_url": "twitter.com/i/web/status/9\u2026", "expanded_url": "https://twitter.com/i/web/status/930659112811225088", "url": "https://t.co/5EdRyekHei", "indices": [117, 140]}], "symbols": [], "user_mentions": [{"id": 77151219, "id_str": "77151219", "name": "Alexandra Salazar R.", "indices": [0, 16], "screen_name": "SoyAlexaSalazar"}]}, "id": 930659112811225088, "possibly_sensitive": false, "user": {"followers_count": 519, "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png", "profile_background_color": "C0DEED", "translator_type": "none", "profile_image_url": "http://pbs.twimg.com/profile_images/3002996157/81d0595c6642c77faf6334d167c81a67_normal.png", "default_profile": true, "utc_offset": null, "lang": "es", "url": null, "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", "profile_image_url_https": "https://pbs.twimg.com/profile_images/3002996157/81d0595c6642c77faf6334d167c81a67_normal.png", "time_zone": null, "profile_sidebar_border_color": "C0DEED", "profile_use_background_image": true, "id": 628855626, "profile_link_color": "1DA1F2", "profile_sidebar_fill_color": "DDEEF6", "profile_background_tile": false, "geo_enabled": true, "id_str": "628855626", "verified": false, "name": "\u157c\u162e\u1610\u3007\u2122", "is_translator": false, "notifications": null, "following": null, "friends_count": 1317, "contributors_enabled": false, "screen_name": "hugo_extrem", "created_at": "Fri Jul 06 22:27:12 +0000 2012", "profile_text_color": "333333", "favourites_count": 8921, "follow_request_sent": null, "description": "GOZAR la vida!! :) \u266b\u266b\u266b disfrutar las peque\u00f1as cosas y hacerlas grandes momentos.\u2665 \uff29 \uff4c\uff4f\uff56\uff45\uff52 \uff4d\uff55\uff53\uff49\uff43 \u2665 Dios ante todo! #lafelicidad", "default_profile_image": false, "location": "Caliwood - City", "listed_count": 13, "protected": false, "statuses_count": 22824}, "id_str": "930659112811225088", "retweet_count": 0, "retweeted": false, "quote_count": 0, "truncated": true, "in_reply_to_status_id_str": null, "reply_count": 0, "created_at": "Wed Nov 15 04:49:57 +0000 2017", "is_quote_status": false, "in_reply_to_user_id": 77151219, "timestamp_ms": "1510721397961", "text": "@SoyAlexaSalazar Nintendo va a hacer otra pel\u00edcula de Mario! \n\nCon la ayuda de Illumination Entertainment (los de M\u2026 https://t.co/5EdRyekHei", "extended_tweet": {"full_text": "@SoyAlexaSalazar Nintendo va a hacer otra pel\u00edcula de Mario! \n\nCon la ayuda de Illumination Entertainment (los de Mi Villano Favorito y los Minions)\n\n*Todos los Goombas se visten de Minions \n\nhttps://t.co/fqqquWVV39 \u2026", "display_text_range": [0, 217], "entities": {"hashtags": [], "urls": [{"display_url": "io9.gizmodo.com/nintendo-is-fi\u2026", "expanded_url": "https://io9.gizmodo.com/nintendo-is-finally-making-another-super-mario-bros-mo-1820435189/amp", "url": "https://t.co/fqqquWVV39", "indices": [192, 215]}], "symbols": [], "user_mentions": [{"id": 77151219, "id_str": "77151219", "name": "Alexandra Salazar R.", "indices": [0, 16], "screen_name": "SoyAlexaSalazar"}]}}, "in_reply_to_user_id_str": "77151219", "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>", "in_reply_to_screen_name": "SoyAlexaSalazar"}
+{
+  "geo": null,
+  "filter_level": "low",
+  "in_reply_to_status_id": null,
+  "lang": "es",
+  "favorite_count": 0,
+  "coordinates": null,
+  "favorited": false,
+  "place": {
+    "name": "Palmira",
+    "full_name": "Palmira, Colombia",
+    "place_type": "city",
+    "country": "Colombia",
+    "id": "0083e91b64f919f4",
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [[[-76.607335, 3.439586], [-76.607335, 3.701271], [-76.08991, 3.701271], [-76.08991, 3.439586]]]
+    },
+    "attributes": {},
+    "url": "https://api.twitter.com/1.1/geo/id/0083e91b64f919f4.json",
+    "country_code": "CO"
+  },
+  "contributors": null,
+  "entities": {
+    "hashtags": [],
+    "urls": [
+      {
+        "display_url": "twitter.com/i/web/status/9\u2026",
+        "expanded_url": "https://twitter.com/i/web/status/930659112811225088",
+        "url": "https://t.co/5EdRyekHei",
+        "indices": [117, 140]
+      }
+    ],
+    "symbols": [],
+    "user_mentions": [
+      {
+        "id": 77151219,
+        "id_str": "77151219",
+        "name": "Alexandra Salazar R.",
+        "indices": [0, 16],
+        "screen_name": "SoyAlexaSalazar"
+      }
+    ]
+  },
+  "id": 930659112811225088,
+  "possibly_sensitive": false,
+  "user": {
+    "followers_count": 519,
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_color": "C0DEED",
+    "translator_type": "none",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/3002996157/81d0595c6642c77faf6334d167c81a67_normal.png",
+    "default_profile": true,
+    "utc_offset": null,
+    "lang": "es",
+    "url": null,
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/3002996157/81d0595c6642c77faf6334d167c81a67_normal.png",
+    "time_zone": null,
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_use_background_image": true,
+    "id": 628855626,
+    "profile_link_color": "1DA1F2",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_background_tile": false,
+    "geo_enabled": true,
+    "id_str": "628855626",
+    "verified": false,
+    "name": "\u157c\u162e\u1610\u3007\u2122",
+    "is_translator": false,
+    "notifications": null,
+    "following": null,
+    "friends_count": 1317,
+    "contributors_enabled": false,
+    "screen_name": "hugo_extrem",
+    "created_at": "Fri Jul 06 22:27:12 +0000 2012",
+    "profile_text_color": "333333",
+    "favourites_count": 8921,
+    "follow_request_sent": null,
+    "description": "GOZAR la vida!! :) \u266b\u266b\u266b disfrutar las peque\u00f1as cosas y hacerlas grandes momentos.\u2665 \uff29 \uff4c\uff4f\uff56\uff45\uff52 \uff4d\uff55\uff53\uff49\uff43 \u2665 Dios ante todo! #lafelicidad",
+    "default_profile_image": false,
+    "location": "Caliwood - City",
+    "listed_count": 13,
+    "protected": false,
+    "statuses_count": 22824
+  },
+  "id_str": "930659112811225088",
+  "retweet_count": 0,
+  "retweeted": false,
+  "quote_count": 0,
+  "truncated": true,
+  "in_reply_to_status_id_str": null,
+  "reply_count": 0,
+  "created_at": "Wed Nov 15 04:49:57 +0000 2017",
+  "is_quote_status": false,
+  "in_reply_to_user_id": 77151219,
+  "timestamp_ms": "1510721397961",
+  "text": "@SoyAlexaSalazar Nintendo va a hacer otra pel\u00edcula de Mario! \n\nCon la ayuda de Illumination Entertainment (los de M\u2026 https://t.co/5EdRyekHei",
+  "extended_tweet": {
+    "full_text": "@SoyAlexaSalazar Nintendo va a hacer otra pel\u00edcula de Mario! \n\nCon la ayuda de Illumination Entertainment (los de Mi Villano Favorito y los Minions)\n\n*Todos los Goombas se visten de Minions \n\nhttps://t.co/fqqquWVV39 \u2026",
+    "display_text_range": [0, 217],
+    "entities": {
+      "hashtags": [],
+      "urls": [
+        {
+          "display_url": "io9.gizmodo.com/nintendo-is-fi\u2026",
+          "expanded_url": "https://io9.gizmodo.com/nintendo-is-finally-making-another-super-mario-bros-mo-1820435189/amp",
+          "url": "https://t.co/fqqquWVV39",
+          "indices": [192, 215]
+        }
+      ],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "id": 77151219,
+          "id_str": "77151219",
+          "name": "Alexandra Salazar R.",
+          "indices": [0, 16],
+          "screen_name": "SoyAlexaSalazar"
+        }
+      ]
+    }
+  },
+  "in_reply_to_user_id_str": "77151219",
+  "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+  "in_reply_to_screen_name": "SoyAlexaSalazar"
+}

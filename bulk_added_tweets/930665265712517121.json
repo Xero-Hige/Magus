@@ -1,1 +1,170 @@
-{"in_reply_to_screen_name": null, "geo": null, "filter_level": "low", "in_reply_to_status_id": null, "lang": "es", "favorite_count": 0, "display_text_range": [0, 83], "favorited": false, "id": 930665265712517121, "place": {"name": "Ecuador", "full_name": "Ecuador", "place_type": "country", "country": "Ecuador", "id": "4e43cac8250a8b20", "bounding_box": {"type": "Polygon", "coordinates": [[[-92.008973, -5.013285], [-92.008973, 1.681834], [-75.192627, 1.681834], [-75.192627, -5.013285]]]}, "attributes": {}, "url": "https://api.twitter.com/1.1/geo/id/4e43cac8250a8b20.json", "country_code": "EC"}, "coordinates": null, "entities": {"media": [{"id_str": "930665254937350144", "display_url": "pic.twitter.com/6RyteeV8QC", "url": "https://t.co/6RyteeV8QC", "expanded_url": "https://twitter.com/RobertoRomanV/status/930665265712517121/photo/1", "media_url_https": "https://pbs.twimg.com/media/DOpjHlVW0AAIsQS.jpg", "id": 930665254937350144, "type": "photo", "indices": [84, 107], "sizes": {"medium": {"h": 360, "resize": "fit", "w": 680}, "thumb": {"h": 150, "resize": "crop", "w": 150}, "large": {"h": 360, "resize": "fit", "w": 680}, "small": {"h": 360, "resize": "fit", "w": 680}}, "media_url": "http://pbs.twimg.com/media/DOpjHlVW0AAIsQS.jpg"}], "hashtags": [], "urls": [{"display_url": "fueradelcampo.net/Not3.html", "expanded_url": "http://fueradelcampo.net/Not3.html", "url": "https://t.co/FmmpQQumpw", "indices": [60, 83]}], "symbols": [], "user_mentions": []}, "extended_entities": {"media": [{"id_str": "930665254937350144", "display_url": "pic.twitter.com/6RyteeV8QC", "url": "https://t.co/6RyteeV8QC", "expanded_url": "https://twitter.com/RobertoRomanV/status/930665265712517121/photo/1", "media_url_https": "https://pbs.twimg.com/media/DOpjHlVW0AAIsQS.jpg", "id": 930665254937350144, "type": "photo", "indices": [84, 107], "sizes": {"medium": {"h": 360, "resize": "fit", "w": 680}, "thumb": {"h": 150, "resize": "crop", "w": 150}, "large": {"h": 360, "resize": "fit", "w": 680}, "small": {"h": 360, "resize": "fit", "w": 680}}, "media_url": "http://pbs.twimg.com/media/DOpjHlVW0AAIsQS.jpg"}]}, "possibly_sensitive": false, "user": {"followers_count": 29622, "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/684772128/f942770a47f127b8b613e6190710cda9.jpeg", "profile_background_color": "C0DEED", "translator_type": "none", "profile_image_url": "http://pbs.twimg.com/profile_images/661367419752071168/U58TCMHc_normal.jpg", "profile_banner_url": "https://pbs.twimg.com/profile_banners/255843324/1406669608", "default_profile": false, "utc_offset": -18000, "lang": "es", "url": "http://www.fueradelcampo.net", "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/684772128/f942770a47f127b8b613e6190710cda9.jpeg", "profile_image_url_https": "https://pbs.twimg.com/profile_images/661367419752071168/U58TCMHc_normal.jpg", "time_zone": "Quito", "profile_sidebar_border_color": "000000", "profile_use_background_image": true, "id": 255843324, "profile_link_color": "3B94D9", "profile_sidebar_fill_color": "2AEB2A", "profile_background_tile": true, "geo_enabled": true, "id_str": "255843324", "verified": false, "name": "Ab. Roberto Rom\u00e1n", "is_translator": false, "notifications": null, "following": null, "friends_count": 448, "contributors_enabled": false, "screen_name": "RobertoRomanV", "created_at": "Tue Feb 22 04:28:40 +0000 2011", "profile_text_color": "0A0909", "favourites_count": 56, "follow_request_sent": null, "description": "Periodista 50 a\u00f1os de experiencia. Abogado. DT. Ex-Presidente de Asociaci\u00f3n de Entrenadores. Director del Programa Fuera del Campo. Comentarista Am\u00e9ricaVision.", "default_profile_image": false, "location": "Guayaquil, Ecuador", "listed_count": 67, "protected": false, "statuses_count": 65760}, "id_str": "930665265712517121", "retweet_count": 0, "retweeted": false, "quote_count": 0, "truncated": false, "in_reply_to_status_id_str": null, "reply_count": 0, "created_at": "Wed Nov 15 05:14:24 +0000 2017", "is_quote_status": false, "in_reply_to_user_id": null, "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>", "text": "Ayayayyyyyy... Los mismos polic\u00edas le robaban a la Polic\u00eda. https://t.co/FmmpQQumpw https://t.co/6RyteeV8QC", "timestamp_ms": "1510722864927", "in_reply_to_user_id_str": null, "contributors": null}
+{
+  "in_reply_to_screen_name": null,
+  "geo": null,
+  "filter_level": "low",
+  "in_reply_to_status_id": null,
+  "lang": "es",
+  "favorite_count": 0,
+  "display_text_range": [0, 83],
+  "favorited": false,
+  "id": 930665265712517121,
+  "place": {
+    "name": "Ecuador",
+    "full_name": "Ecuador",
+    "place_type": "country",
+    "country": "Ecuador",
+    "id": "4e43cac8250a8b20",
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [[-92.008973, -5.013285], [-92.008973, 1.681834], [-75.192627, 1.681834], [-75.192627, -5.013285]]
+      ]
+    },
+    "attributes": {},
+    "url": "https://api.twitter.com/1.1/geo/id/4e43cac8250a8b20.json",
+    "country_code": "EC"
+  },
+  "coordinates": null,
+  "entities": {
+    "media": [
+      {
+        "id_str": "930665254937350144",
+        "display_url": "pic.twitter.com/6RyteeV8QC",
+        "url": "https://t.co/6RyteeV8QC",
+        "expanded_url": "https://twitter.com/RobertoRomanV/status/930665265712517121/photo/1",
+        "media_url_https": "https://pbs.twimg.com/media/DOpjHlVW0AAIsQS.jpg",
+        "id": 930665254937350144,
+        "type": "photo",
+        "indices": [84, 107],
+        "sizes": {
+          "medium": {
+            "h": 360,
+            "resize": "fit",
+            "w": 680
+          },
+          "thumb": {
+            "h": 150,
+            "resize": "crop",
+            "w": 150
+          },
+          "large": {
+            "h": 360,
+            "resize": "fit",
+            "w": 680
+          },
+          "small": {
+            "h": 360,
+            "resize": "fit",
+            "w": 680
+          }
+        },
+        "media_url": "http://pbs.twimg.com/media/DOpjHlVW0AAIsQS.jpg"
+      }
+    ],
+    "hashtags": [],
+    "urls": [
+      {
+        "display_url": "fueradelcampo.net/Not3.html",
+        "expanded_url": "http://fueradelcampo.net/Not3.html",
+        "url": "https://t.co/FmmpQQumpw",
+        "indices": [60, 83]
+      }
+    ],
+    "symbols": [],
+    "user_mentions": []
+  },
+  "extended_entities": {
+    "media": [
+      {
+        "id_str": "930665254937350144",
+        "display_url": "pic.twitter.com/6RyteeV8QC",
+        "url": "https://t.co/6RyteeV8QC",
+        "expanded_url": "https://twitter.com/RobertoRomanV/status/930665265712517121/photo/1",
+        "media_url_https": "https://pbs.twimg.com/media/DOpjHlVW0AAIsQS.jpg",
+        "id": 930665254937350144,
+        "type": "photo",
+        "indices": [84, 107],
+        "sizes": {
+          "medium": {
+            "h": 360,
+            "resize": "fit",
+            "w": 680
+          },
+          "thumb": {
+            "h": 150,
+            "resize": "crop",
+            "w": 150
+          },
+          "large": {
+            "h": 360,
+            "resize": "fit",
+            "w": 680
+          },
+          "small": {
+            "h": 360,
+            "resize": "fit",
+            "w": 680
+          }
+        },
+        "media_url": "http://pbs.twimg.com/media/DOpjHlVW0AAIsQS.jpg"
+      }
+    ]
+  },
+  "possibly_sensitive": false,
+  "user": {
+    "followers_count": 29622,
+    "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/684772128/f942770a47f127b8b613e6190710cda9.jpeg",
+    "profile_background_color": "C0DEED",
+    "translator_type": "none",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/661367419752071168/U58TCMHc_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/255843324/1406669608",
+    "default_profile": false,
+    "utc_offset": -18000,
+    "lang": "es",
+    "url": "http://www.fueradelcampo.net",
+    "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/684772128/f942770a47f127b8b613e6190710cda9.jpeg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/661367419752071168/U58TCMHc_normal.jpg",
+    "time_zone": "Quito",
+    "profile_sidebar_border_color": "000000",
+    "profile_use_background_image": true,
+    "id": 255843324,
+    "profile_link_color": "3B94D9",
+    "profile_sidebar_fill_color": "2AEB2A",
+    "profile_background_tile": true,
+    "geo_enabled": true,
+    "id_str": "255843324",
+    "verified": false,
+    "name": "Ab. Roberto Rom\u00e1n",
+    "is_translator": false,
+    "notifications": null,
+    "following": null,
+    "friends_count": 448,
+    "contributors_enabled": false,
+    "screen_name": "RobertoRomanV",
+    "created_at": "Tue Feb 22 04:28:40 +0000 2011",
+    "profile_text_color": "0A0909",
+    "favourites_count": 56,
+    "follow_request_sent": null,
+    "description": "Periodista 50 a\u00f1os de experiencia. Abogado. DT. Ex-Presidente de Asociaci\u00f3n de Entrenadores. Director del Programa Fuera del Campo. Comentarista Am\u00e9ricaVision.",
+    "default_profile_image": false,
+    "location": "Guayaquil, Ecuador",
+    "listed_count": 67,
+    "protected": false,
+    "statuses_count": 65760
+  },
+  "id_str": "930665265712517121",
+  "retweet_count": 0,
+  "retweeted": false,
+  "quote_count": 0,
+  "truncated": false,
+  "in_reply_to_status_id_str": null,
+  "reply_count": 0,
+  "created_at": "Wed Nov 15 05:14:24 +0000 2017",
+  "is_quote_status": false,
+  "in_reply_to_user_id": null,
+  "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+  "text": "Ayayayyyyyy... Los mismos polic\u00edas le robaban a la Polic\u00eda. https://t.co/FmmpQQumpw https://t.co/6RyteeV8QC",
+  "timestamp_ms": "1510722864927",
+  "in_reply_to_user_id_str": null,
+  "contributors": null
+}

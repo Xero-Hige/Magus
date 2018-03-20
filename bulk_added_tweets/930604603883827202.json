@@ -1,1 +1,115 @@
-{"geo": null, "filter_level": "low", "in_reply_to_status_id": null, "lang": "es", "favorite_count": 0, "coordinates": null, "favorited": false, "place": {"name": "Peru", "full_name": "Peru", "place_type": "country", "country": "Peru", "id": "2dfa9ecb0179a4e4", "bounding_box": {"type": "Polygon", "coordinates": [[[-81.328148, -18.349728], [-81.328148, -0.03884], [-68.673088, -0.03884], [-68.673088, -18.349728]]]}, "attributes": {}, "url": "https://api.twitter.com/1.1/geo/id/2dfa9ecb0179a4e4.json", "country_code": "PE"}, "contributors": null, "entities": {"hashtags": [{"text": "leyacosopol\u00edticoahora", "indices": [0, 22]}], "urls": [{"display_url": "twitter.com/i/web/status/9\u2026", "expanded_url": "https://twitter.com/i/web/status/930604603883827202", "url": "https://t.co/5b9PE5ETwt", "indices": [117, 140]}], "symbols": [], "user_mentions": []}, "id": 930604603883827202, "user": {"followers_count": 11, "profile_background_image_url": "", "profile_background_color": "F5F8FA", "translator_type": "none", "profile_image_url": "http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png", "default_profile": true, "utc_offset": -28800, "lang": "es", "url": null, "profile_background_image_url_https": "", "profile_image_url_https": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png", "time_zone": "Pacific Time (US & Canada)", "profile_sidebar_border_color": "C0DEED", "profile_use_background_image": true, "id": 893562685459226626, "profile_link_color": "1DA1F2", "profile_sidebar_fill_color": "DDEEF6", "profile_background_tile": false, "geo_enabled": true, "id_str": "893562685459226626", "verified": false, "name": "Gaviota Perla", "is_translator": false, "notifications": null, "following": null, "friends_count": 212, "contributors_enabled": false, "screen_name": "PerseverandoenV", "created_at": "Fri Aug 04 20:02:00 +0000 2017", "profile_text_color": "333333", "favourites_count": 261, "follow_request_sent": null, "description": "En defensa de la institucion divina, EL MATRIMONIO, la Familia natural y LA VIDA.", "default_profile_image": false, "location": "Lima, Peru", "listed_count": 0, "protected": false, "statuses_count": 2850}, "id_str": "930604603883827202", "retweet_count": 0, "retweeted": false, "quote_count": 0, "truncated": true, "in_reply_to_status_id_str": null, "reply_count": 0, "created_at": "Wed Nov 15 01:13:22 +0000 2017", "is_quote_status": false, "in_reply_to_user_id": null, "timestamp_ms": "1510708402020", "text": "#leyacosopol\u00edticoahora.SEMEJANTES GRANDULONAS...PARA PROMOVER LO VILES ASESINATOS D INOCENTES ESTAN AL DIA!!...COBA\u2026 https://t.co/5b9PE5ETwt", "extended_tweet": {"full_text": "#leyacosopol\u00edticoahora.SEMEJANTES GRANDULONAS...PARA PROMOVER LO VILES ASESINATOS D INOCENTES ESTAN AL DIA!!...COBARDES!!......DEFIENDANSE SOLAS !!...NOOOOOOOOOOOOOO MAS LEYES!!!!", "display_text_range": [0, 179], "entities": {"hashtags": [{"text": "leyacosopol\u00edticoahora", "indices": [0, 22]}], "urls": [], "symbols": [], "user_mentions": []}}, "in_reply_to_user_id_str": null, "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>", "in_reply_to_screen_name": null}
+{
+  "geo": null,
+  "filter_level": "low",
+  "in_reply_to_status_id": null,
+  "lang": "es",
+  "favorite_count": 0,
+  "coordinates": null,
+  "favorited": false,
+  "place": {
+    "name": "Peru",
+    "full_name": "Peru",
+    "place_type": "country",
+    "country": "Peru",
+    "id": "2dfa9ecb0179a4e4",
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [[-81.328148, -18.349728], [-81.328148, -0.03884], [-68.673088, -0.03884], [-68.673088, -18.349728]]
+      ]
+    },
+    "attributes": {},
+    "url": "https://api.twitter.com/1.1/geo/id/2dfa9ecb0179a4e4.json",
+    "country_code": "PE"
+  },
+  "contributors": null,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "leyacosopol\u00edticoahora",
+        "indices": [0, 22]
+      }
+    ],
+    "urls": [
+      {
+        "display_url": "twitter.com/i/web/status/9\u2026",
+        "expanded_url": "https://twitter.com/i/web/status/930604603883827202",
+        "url": "https://t.co/5b9PE5ETwt",
+        "indices": [117, 140]
+      }
+    ],
+    "symbols": [],
+    "user_mentions": []
+  },
+  "id": 930604603883827202,
+  "user": {
+    "followers_count": 11,
+    "profile_background_image_url": "",
+    "profile_background_color": "F5F8FA",
+    "translator_type": "none",
+    "profile_image_url": "http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+    "default_profile": true,
+    "utc_offset": -28800,
+    "lang": "es",
+    "url": null,
+    "profile_background_image_url_https": "",
+    "profile_image_url_https": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+    "time_zone": "Pacific Time (US & Canada)",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_use_background_image": true,
+    "id": 893562685459226626,
+    "profile_link_color": "1DA1F2",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_background_tile": false,
+    "geo_enabled": true,
+    "id_str": "893562685459226626",
+    "verified": false,
+    "name": "Gaviota Perla",
+    "is_translator": false,
+    "notifications": null,
+    "following": null,
+    "friends_count": 212,
+    "contributors_enabled": false,
+    "screen_name": "PerseverandoenV",
+    "created_at": "Fri Aug 04 20:02:00 +0000 2017",
+    "profile_text_color": "333333",
+    "favourites_count": 261,
+    "follow_request_sent": null,
+    "description": "En defensa de la institucion divina, EL MATRIMONIO, la Familia natural y LA VIDA.",
+    "default_profile_image": false,
+    "location": "Lima, Peru",
+    "listed_count": 0,
+    "protected": false,
+    "statuses_count": 2850
+  },
+  "id_str": "930604603883827202",
+  "retweet_count": 0,
+  "retweeted": false,
+  "quote_count": 0,
+  "truncated": true,
+  "in_reply_to_status_id_str": null,
+  "reply_count": 0,
+  "created_at": "Wed Nov 15 01:13:22 +0000 2017",
+  "is_quote_status": false,
+  "in_reply_to_user_id": null,
+  "timestamp_ms": "1510708402020",
+  "text": "#leyacosopol\u00edticoahora.SEMEJANTES GRANDULONAS...PARA PROMOVER LO VILES ASESINATOS D INOCENTES ESTAN AL DIA!!...COBA\u2026 https://t.co/5b9PE5ETwt",
+  "extended_tweet": {
+    "full_text": "#leyacosopol\u00edticoahora.SEMEJANTES GRANDULONAS...PARA PROMOVER LO VILES ASESINATOS D INOCENTES ESTAN AL DIA!!...COBARDES!!......DEFIENDANSE SOLAS !!...NOOOOOOOOOOOOOO MAS LEYES!!!!",
+    "display_text_range": [0, 179],
+    "entities": {
+      "hashtags": [
+        {
+          "text": "leyacosopol\u00edticoahora",
+          "indices": [0, 22]
+        }
+      ],
+      "urls": [],
+      "symbols": [],
+      "user_mentions": []
+    }
+  },
+  "in_reply_to_user_id_str": null,
+  "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+  "in_reply_to_screen_name": null
+}

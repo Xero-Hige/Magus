@@ -1,1 +1,123 @@
-{"extended_tweet": {"display_text_range": [10, 235], "entities": {"urls": [], "symbols": [], "hashtags": [], "user_mentions": [{"indices": [0, 9], "name": "Carlos Arango Ortiz.", "id_str": "1365187266", "screen_name": "Fijadito", "id": 1365187266}]}, "full_text": "@Fijadito La conclusi\u00f3n es irrefutable. \nPodr\u00edamos evitarla pero, todo indica que nadie hace algo por evitarla. \nEn consecuencia, que siga la fiesta de aqu\u00ed al momento de la debacle. \nLo del \u00b482 ser\u00e1 juego de ni\u00f1os ante lo que veremos."}, "favorited": false, "lang": "es", "display_text_range": [10, 140], "favorite_count": 0, "reply_count": 0, "geo": null, "contributors": null, "text": "@Fijadito La conclusi\u00f3n es irrefutable. \nPodr\u00edamos evitarla pero, todo indica que nadie hace algo por evitarla. \nEn\u2026 https://t.co/OAZF9ju0wc", "created_at": "Wed Nov 15 16:39:42 +0000 2017", "place": {"place_type": "city", "full_name": "Cuauht\u00e9moc, Distrito Federal", "country": "M\u00e9xico", "name": "Cuauht\u00e9moc", "url": "https://api.twitter.com/1.1/geo/id/bfc35dcc7e63252a.json", "country_code": "MX", "bounding_box": {"type": "Polygon", "coordinates": [[[-99.18435, 19.399835], [-99.18435, 19.465837], [-99.122382, 19.465837], [-99.122382, 19.399835]]]}, "id": "bfc35dcc7e63252a", "attributes": {}}, "user": {"profile_text_color": "333333", "lang": "es", "location": null, "friends_count": 43, "profile_link_color": "1DA1F2", "profile_image_url_https": "https://pbs.twimg.com/profile_images/716106189948387328/9i9jKVp4_normal.jpg", "contributors_enabled": false, "following": null, "is_translator": false, "verified": false, "profile_banner_url": "https://pbs.twimg.com/profile_banners/715294120047063040/1487988697", "utc_offset": -21600, "geo_enabled": true, "profile_sidebar_border_color": "C0DEED", "created_at": "Wed Mar 30 21:46:22 +0000 2016", "description": "Columnista en Exc\u00e9sior, y comentarista en Reporte 98.", "profile_image_url": "http://pbs.twimg.com/profile_images/716106189948387328/9i9jKVp4_normal.jpg", "profile_background_color": "F5F8FA", "listed_count": 27, "follow_request_sent": null, "profile_background_tile": false, "followers_count": 4752, "name": "Angel Verdugo", "notifications": null, "default_profile_image": false, "url": "http://www.excelsior.com.mx/opinion/angel-verdugo", "favourites_count": 6, "screen_name": "AngelVerdugoB", "profile_background_image_url": "", "profile_sidebar_fill_color": "DDEEF6", "profile_use_background_image": true, "translator_type": "none", "time_zone": "Mexico City", "profile_background_image_url_https": "", "statuses_count": 6785, "id": 715294120047063040, "default_profile": true, "protected": false, "id_str": "715294120047063040"}, "in_reply_to_user_id_str": "1365187266", "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>", "filter_level": "low", "is_quote_status": false, "in_reply_to_status_id": 930836607560695808, "in_reply_to_user_id": 1365187266, "quote_count": 0, "retweeted": false, "in_reply_to_screen_name": "Fijadito", "retweet_count": 0, "in_reply_to_status_id_str": "930836607560695808", "coordinates": null, "id": 930837723568521216, "truncated": true, "entities": {"urls": [{"url": "https://t.co/OAZF9ju0wc", "display_url": "twitter.com/i/web/status/9\u2026", "indices": [117, 140], "expanded_url": "https://twitter.com/i/web/status/930837723568521216"}], "symbols": [], "hashtags": [], "user_mentions": [{"indices": [0, 9], "name": "Carlos Arango Ortiz.", "id_str": "1365187266", "screen_name": "Fijadito", "id": 1365187266}]}, "timestamp_ms": "1510763982084", "id_str": "930837723568521216"}
+{
+  "extended_tweet": {
+    "display_text_range": [10, 235],
+    "entities": {
+      "urls": [],
+      "symbols": [],
+      "hashtags": [],
+      "user_mentions": [
+        {
+          "indices": [0, 9],
+          "name": "Carlos Arango Ortiz.",
+          "id_str": "1365187266",
+          "screen_name": "Fijadito",
+          "id": 1365187266
+        }
+      ]
+    },
+    "full_text": "@Fijadito La conclusi\u00f3n es irrefutable. \nPodr\u00edamos evitarla pero, todo indica que nadie hace algo por evitarla. \nEn consecuencia, que siga la fiesta de aqu\u00ed al momento de la debacle. \nLo del \u00b482 ser\u00e1 juego de ni\u00f1os ante lo que veremos."
+  },
+  "favorited": false,
+  "lang": "es",
+  "display_text_range": [10, 140],
+  "favorite_count": 0,
+  "reply_count": 0,
+  "geo": null,
+  "contributors": null,
+  "text": "@Fijadito La conclusi\u00f3n es irrefutable. \nPodr\u00edamos evitarla pero, todo indica que nadie hace algo por evitarla. \nEn\u2026 https://t.co/OAZF9ju0wc",
+  "created_at": "Wed Nov 15 16:39:42 +0000 2017",
+  "place": {
+    "place_type": "city",
+    "full_name": "Cuauht\u00e9moc, Distrito Federal",
+    "country": "M\u00e9xico",
+    "name": "Cuauht\u00e9moc",
+    "url": "https://api.twitter.com/1.1/geo/id/bfc35dcc7e63252a.json",
+    "country_code": "MX",
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [[-99.18435, 19.399835], [-99.18435, 19.465837], [-99.122382, 19.465837], [-99.122382, 19.399835]]
+      ]
+    },
+    "id": "bfc35dcc7e63252a",
+    "attributes": {}
+  },
+  "user": {
+    "profile_text_color": "333333",
+    "lang": "es",
+    "location": null,
+    "friends_count": 43,
+    "profile_link_color": "1DA1F2",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/716106189948387328/9i9jKVp4_normal.jpg",
+    "contributors_enabled": false,
+    "following": null,
+    "is_translator": false,
+    "verified": false,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/715294120047063040/1487988697",
+    "utc_offset": -21600,
+    "geo_enabled": true,
+    "profile_sidebar_border_color": "C0DEED",
+    "created_at": "Wed Mar 30 21:46:22 +0000 2016",
+    "description": "Columnista en Exc\u00e9sior, y comentarista en Reporte 98.",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/716106189948387328/9i9jKVp4_normal.jpg",
+    "profile_background_color": "F5F8FA",
+    "listed_count": 27,
+    "follow_request_sent": null,
+    "profile_background_tile": false,
+    "followers_count": 4752,
+    "name": "Angel Verdugo",
+    "notifications": null,
+    "default_profile_image": false,
+    "url": "http://www.excelsior.com.mx/opinion/angel-verdugo",
+    "favourites_count": 6,
+    "screen_name": "AngelVerdugoB",
+    "profile_background_image_url": "",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_use_background_image": true,
+    "translator_type": "none",
+    "time_zone": "Mexico City",
+    "profile_background_image_url_https": "",
+    "statuses_count": 6785,
+    "id": 715294120047063040,
+    "default_profile": true,
+    "protected": false,
+    "id_str": "715294120047063040"
+  },
+  "in_reply_to_user_id_str": "1365187266",
+  "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+  "filter_level": "low",
+  "is_quote_status": false,
+  "in_reply_to_status_id": 930836607560695808,
+  "in_reply_to_user_id": 1365187266,
+  "quote_count": 0,
+  "retweeted": false,
+  "in_reply_to_screen_name": "Fijadito",
+  "retweet_count": 0,
+  "in_reply_to_status_id_str": "930836607560695808",
+  "coordinates": null,
+  "id": 930837723568521216,
+  "truncated": true,
+  "entities": {
+    "urls": [
+      {
+        "url": "https://t.co/OAZF9ju0wc",
+        "display_url": "twitter.com/i/web/status/9\u2026",
+        "indices": [117, 140],
+        "expanded_url": "https://twitter.com/i/web/status/930837723568521216"
+      }
+    ],
+    "symbols": [],
+    "hashtags": [],
+    "user_mentions": [
+      {
+        "indices": [0, 9],
+        "name": "Carlos Arango Ortiz.",
+        "id_str": "1365187266",
+        "screen_name": "Fijadito",
+        "id": 1365187266
+      }
+    ]
+  },
+  "timestamp_ms": "1510763982084",
+  "id_str": "930837723568521216"
+}

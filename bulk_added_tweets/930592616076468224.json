@@ -1,1 +1,122 @@
-{"geo": null, "filter_level": "low", "in_reply_to_status_id": null, "lang": "es", "favorite_count": 0, "coordinates": null, "favorited": false, "place": {"name": "Colombia", "full_name": "Colombia", "place_type": "country", "country": "Colombia", "id": "0639360bd49a15e3", "bounding_box": {"type": "Polygon", "coordinates": [[[-81.728111, -4.227073], [-81.728111, 13.390292], [-66.854502, 13.390292], [-66.854502, -4.227073]]]}, "attributes": {}, "url": "https://api.twitter.com/1.1/geo/id/0639360bd49a15e3.json", "country_code": "CO"}, "contributors": null, "entities": {"hashtags": [], "urls": [{"display_url": "twitter.com/i/web/status/9\u2026", "expanded_url": "https://twitter.com/i/web/status/930592616076468224", "url": "https://t.co/TQs5PdB7To", "indices": [117, 140]}], "symbols": [], "user_mentions": []}, "id": 930592616076468224, "possibly_sensitive": false, "user": {"followers_count": 1102, "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png", "profile_background_color": "C0DEED", "translator_type": "none", "profile_image_url": "http://pbs.twimg.com/profile_images/908857420482572289/PlalaO-n_normal.jpg", "profile_banner_url": "https://pbs.twimg.com/profile_banners/417387462/1505523617", "default_profile": true, "utc_offset": null, "lang": "es", "url": null, "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", "profile_image_url_https": "https://pbs.twimg.com/profile_images/908857420482572289/PlalaO-n_normal.jpg", "time_zone": null, "profile_sidebar_border_color": "C0DEED", "profile_use_background_image": true, "id": 417387462, "profile_link_color": "1DA1F2", "profile_sidebar_fill_color": "DDEEF6", "profile_background_tile": false, "geo_enabled": true, "id_str": "417387462", "verified": false, "name": "Harold Ruiz", "is_translator": false, "notifications": null, "following": null, "friends_count": 981, "contributors_enabled": false, "screen_name": "harolderuiz", "created_at": "Sun Nov 20 21:36:53 +0000 2011", "profile_text_color": "333333", "favourites_count": 2286, "follow_request_sent": null, "description": "La justicia enaltece a una naci\u00f3n, pero la impunidad deshonra a un Pa\u00eds.", "default_profile_image": false, "location": "Pereira, Colombia", "listed_count": 6, "protected": false, "statuses_count": 6663}, "id_str": "930592616076468224", "retweet_count": 0, "retweeted": false, "quote_count": 0, "truncated": true, "in_reply_to_status_id_str": null, "reply_count": 0, "created_at": "Wed Nov 15 00:25:43 +0000 2017", "is_quote_status": false, "in_reply_to_user_id": null, "timestamp_ms": "1510705543904", "text": "Hay una amenaza para Colombia y su democracia. Las FARC hacen parte del Foro de San Paulo y hacen propaganda por to\u2026 https://t.co/TQs5PdB7To", "extended_tweet": {"full_text": "Hay una amenaza para Colombia y su democracia. Las FARC hacen parte del Foro de San Paulo y hacen propaganda por toda Latinoam\u00e9rica para establecer el \u201cComunismo\u201d @omarbula https://t.co/KD9SmlwZu6", "display_text_range": [0, 196], "entities": {"hashtags": [], "urls": [{"display_url": "informadorpublico.com/internacional/\u2026", "expanded_url": "https://www.informadorpublico.com/internacional/las-farc-el-foro-de-san-paulo-y-compania-van-por-todo-latinoamerica", "url": "https://t.co/KD9SmlwZu6", "indices": [173, 196]}], "symbols": [], "user_mentions": [{"id": 192538987, "id_str": "192538987", "name": "O. Bula Escobar", "indices": [163, 172], "screen_name": "omarbula"}]}}, "in_reply_to_user_id_str": null, "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>", "in_reply_to_screen_name": null}
+{
+  "geo": null,
+  "filter_level": "low",
+  "in_reply_to_status_id": null,
+  "lang": "es",
+  "favorite_count": 0,
+  "coordinates": null,
+  "favorited": false,
+  "place": {
+    "name": "Colombia",
+    "full_name": "Colombia",
+    "place_type": "country",
+    "country": "Colombia",
+    "id": "0639360bd49a15e3",
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [[-81.728111, -4.227073], [-81.728111, 13.390292], [-66.854502, 13.390292], [-66.854502, -4.227073]]
+      ]
+    },
+    "attributes": {},
+    "url": "https://api.twitter.com/1.1/geo/id/0639360bd49a15e3.json",
+    "country_code": "CO"
+  },
+  "contributors": null,
+  "entities": {
+    "hashtags": [],
+    "urls": [
+      {
+        "display_url": "twitter.com/i/web/status/9\u2026",
+        "expanded_url": "https://twitter.com/i/web/status/930592616076468224",
+        "url": "https://t.co/TQs5PdB7To",
+        "indices": [117, 140]
+      }
+    ],
+    "symbols": [],
+    "user_mentions": []
+  },
+  "id": 930592616076468224,
+  "possibly_sensitive": false,
+  "user": {
+    "followers_count": 1102,
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_color": "C0DEED",
+    "translator_type": "none",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/908857420482572289/PlalaO-n_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/417387462/1505523617",
+    "default_profile": true,
+    "utc_offset": null,
+    "lang": "es",
+    "url": null,
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/908857420482572289/PlalaO-n_normal.jpg",
+    "time_zone": null,
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_use_background_image": true,
+    "id": 417387462,
+    "profile_link_color": "1DA1F2",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_background_tile": false,
+    "geo_enabled": true,
+    "id_str": "417387462",
+    "verified": false,
+    "name": "Harold Ruiz",
+    "is_translator": false,
+    "notifications": null,
+    "following": null,
+    "friends_count": 981,
+    "contributors_enabled": false,
+    "screen_name": "harolderuiz",
+    "created_at": "Sun Nov 20 21:36:53 +0000 2011",
+    "profile_text_color": "333333",
+    "favourites_count": 2286,
+    "follow_request_sent": null,
+    "description": "La justicia enaltece a una naci\u00f3n, pero la impunidad deshonra a un Pa\u00eds.",
+    "default_profile_image": false,
+    "location": "Pereira, Colombia",
+    "listed_count": 6,
+    "protected": false,
+    "statuses_count": 6663
+  },
+  "id_str": "930592616076468224",
+  "retweet_count": 0,
+  "retweeted": false,
+  "quote_count": 0,
+  "truncated": true,
+  "in_reply_to_status_id_str": null,
+  "reply_count": 0,
+  "created_at": "Wed Nov 15 00:25:43 +0000 2017",
+  "is_quote_status": false,
+  "in_reply_to_user_id": null,
+  "timestamp_ms": "1510705543904",
+  "text": "Hay una amenaza para Colombia y su democracia. Las FARC hacen parte del Foro de San Paulo y hacen propaganda por to\u2026 https://t.co/TQs5PdB7To",
+  "extended_tweet": {
+    "full_text": "Hay una amenaza para Colombia y su democracia. Las FARC hacen parte del Foro de San Paulo y hacen propaganda por toda Latinoam\u00e9rica para establecer el \u201cComunismo\u201d @omarbula https://t.co/KD9SmlwZu6",
+    "display_text_range": [0, 196],
+    "entities": {
+      "hashtags": [],
+      "urls": [
+        {
+          "display_url": "informadorpublico.com/internacional/\u2026",
+          "expanded_url": "https://www.informadorpublico.com/internacional/las-farc-el-foro-de-san-paulo-y-compania-van-por-todo-latinoamerica",
+          "url": "https://t.co/KD9SmlwZu6",
+          "indices": [173, 196]
+        }
+      ],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "id": 192538987,
+          "id_str": "192538987",
+          "name": "O. Bula Escobar",
+          "indices": [163, 172],
+          "screen_name": "omarbula"
+        }
+      ]
+    }
+  },
+  "in_reply_to_user_id_str": null,
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "in_reply_to_screen_name": null
+}

@@ -1,1 +1,159 @@
-{"extended_tweet": {"display_text_range": [51, 320], "entities": {"urls": [], "symbols": [], "hashtags": [], "user_mentions": [{"indices": [0, 14], "name": "Carlos Ochoa", "id_str": "42242731", "screen_name": "Charles_Ryder", "id": 42242731}, {"indices": [15, 30], "name": "Alberto Molina", "id_str": "53808469", "screen_name": "AlbertoMoolina", "id": 53808469}, {"indices": [31, 39], "name": "S\u00f3crates Ochoa", "id_str": "171339258", "screen_name": "socra8a", "id": 171339258}, {"indices": [40, 50], "name": "IndieWire", "id_str": "13992132", "screen_name": "IndieWire", "id": 13992132}]}, "full_text": "@Charles_Ryder @AlbertoMoolina @socra8a @IndieWire Yo la primera vez que la vi estaba tan emocionado con lo que estaba viendo y a la mitad de la pel\u00edcula mi cara cambi\u00f3, pas\u00e9 por varios estados de \u00e1nimo, la sufr\u00ed pero sal\u00ed muy complacido, \u00a1me encant\u00f3! La segunda vez que la vi, s\u00f3lo fue para ver detalles y me gust\u00f3 m\u00e1s."}, "favorited": false, "lang": "es", "display_text_range": [51, 140], "favorite_count": 0, "reply_count": 0, "geo": null, "contributors": null, "text": "@Charles_Ryder @AlbertoMoolina @socra8a @IndieWire Yo la primera vez que la vi estaba tan emocionado con lo que est\u2026 https://t.co/sh8Z4oGQEK", "created_at": "Wed Nov 15 15:52:42 +0000 2017", "place": {"place_type": "city", "full_name": "Monterrey, Nuevo Le\u00f3n", "country": "M\u00e9xico", "name": "Monterrey", "url": "https://api.twitter.com/1.1/geo/id/b19e24ce42ccd6aa.json", "country_code": "MX", "bounding_box": {"type": "Polygon", "coordinates": [[[-100.421037, 25.480538], [-100.421037, 25.802899], [-100.166146, 25.802899], [-100.166146, 25.480538]]]}, "id": "b19e24ce42ccd6aa", "attributes": {}}, "user": {"profile_text_color": "000000", "lang": "es", "location": "Monterrey, Nuevo Le\u00f3n.", "friends_count": 531, "profile_link_color": "000000", "profile_image_url_https": "https://pbs.twimg.com/profile_images/930301458314080257/DMDY9n1h_normal.jpg", "contributors_enabled": false, "following": null, "is_translator": false, "verified": false, "profile_banner_url": "https://pbs.twimg.com/profile_banners/152078892/1509685474", "utc_offset": -21600, "geo_enabled": true, "profile_sidebar_border_color": "000000", "created_at": "Sat Jun 05 01:16:44 +0000 2010", "description": "C\u00c9GRAFO \u00ae | Dise\u00f1ador Gr\u00e1fico | Cin\u00e9filo | Fot\u00f3grafo | Coleccionista DVD, Blu-ray & 4K Ultra HD | 'Vida, nada me debes, vida, estamos en paz'. - Amado Nervo.", "profile_image_url": "http://pbs.twimg.com/profile_images/930301458314080257/DMDY9n1h_normal.jpg", "profile_background_color": "131516", "listed_count": 37, "follow_request_sent": null, "profile_background_tile": true, "followers_count": 839, "name": "C\u00e9sar Rodr\u00edguez", "notifications": null, "default_profile_image": false, "url": "http://www.instagram.com/cegrafo", "favourites_count": 16132, "screen_name": "cegrafo", "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/629105115048185856/Gt3XleWg.jpg", "profile_sidebar_fill_color": "000000", "profile_use_background_image": true, "translator_type": "regular", "time_zone": "Monterrey", "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/629105115048185856/Gt3XleWg.jpg", "statuses_count": 32741, "id": 152078892, "default_profile": false, "protected": false, "id_str": "152078892"}, "in_reply_to_user_id_str": "42242731", "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>", "filter_level": "low", "is_quote_status": false, "in_reply_to_status_id": 930824760019300352, "in_reply_to_user_id": 42242731, "quote_count": 0, "retweeted": false, "in_reply_to_screen_name": "Charles_Ryder", "retweet_count": 0, "in_reply_to_status_id_str": "930824760019300352", "coordinates": null, "id": 930825896742699008, "truncated": true, "entities": {"urls": [{"url": "https://t.co/sh8Z4oGQEK", "display_url": "twitter.com/i/web/status/9\u2026", "indices": [117, 140], "expanded_url": "https://twitter.com/i/web/status/930825896742699008"}], "symbols": [], "hashtags": [], "user_mentions": [{"indices": [0, 14], "name": "Carlos Ochoa", "id_str": "42242731", "screen_name": "Charles_Ryder", "id": 42242731}, {"indices": [15, 30], "name": "Alberto Molina", "id_str": "53808469", "screen_name": "AlbertoMoolina", "id": 53808469}, {"indices": [31, 39], "name": "S\u00f3crates Ochoa", "id_str": "171339258", "screen_name": "socra8a", "id": 171339258}, {"indices": [40, 50], "name": "IndieWire", "id_str": "13992132", "screen_name": "IndieWire", "id": 13992132}]}, "timestamp_ms": "1510761162349", "id_str": "930825896742699008"}
+{
+  "extended_tweet": {
+    "display_text_range": [51, 320],
+    "entities": {
+      "urls": [],
+      "symbols": [],
+      "hashtags": [],
+      "user_mentions": [
+        {
+          "indices": [0, 14],
+          "name": "Carlos Ochoa",
+          "id_str": "42242731",
+          "screen_name": "Charles_Ryder",
+          "id": 42242731
+        }, {
+          "indices": [15, 30],
+          "name": "Alberto Molina",
+          "id_str": "53808469",
+          "screen_name": "AlbertoMoolina",
+          "id": 53808469
+        }, {
+          "indices": [31, 39],
+          "name": "S\u00f3crates Ochoa",
+          "id_str": "171339258",
+          "screen_name": "socra8a",
+          "id": 171339258
+        }, {
+          "indices": [40, 50],
+          "name": "IndieWire",
+          "id_str": "13992132",
+          "screen_name": "IndieWire",
+          "id": 13992132
+        }
+      ]
+    },
+    "full_text": "@Charles_Ryder @AlbertoMoolina @socra8a @IndieWire Yo la primera vez que la vi estaba tan emocionado con lo que estaba viendo y a la mitad de la pel\u00edcula mi cara cambi\u00f3, pas\u00e9 por varios estados de \u00e1nimo, la sufr\u00ed pero sal\u00ed muy complacido, \u00a1me encant\u00f3! La segunda vez que la vi, s\u00f3lo fue para ver detalles y me gust\u00f3 m\u00e1s."
+  },
+  "favorited": false,
+  "lang": "es",
+  "display_text_range": [51, 140],
+  "favorite_count": 0,
+  "reply_count": 0,
+  "geo": null,
+  "contributors": null,
+  "text": "@Charles_Ryder @AlbertoMoolina @socra8a @IndieWire Yo la primera vez que la vi estaba tan emocionado con lo que est\u2026 https://t.co/sh8Z4oGQEK",
+  "created_at": "Wed Nov 15 15:52:42 +0000 2017",
+  "place": {
+    "place_type": "city",
+    "full_name": "Monterrey, Nuevo Le\u00f3n",
+    "country": "M\u00e9xico",
+    "name": "Monterrey",
+    "url": "https://api.twitter.com/1.1/geo/id/b19e24ce42ccd6aa.json",
+    "country_code": "MX",
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [[-100.421037, 25.480538], [-100.421037, 25.802899], [-100.166146, 25.802899], [-100.166146, 25.480538]]
+      ]
+    },
+    "id": "b19e24ce42ccd6aa",
+    "attributes": {}
+  },
+  "user": {
+    "profile_text_color": "000000",
+    "lang": "es",
+    "location": "Monterrey, Nuevo Le\u00f3n.",
+    "friends_count": 531,
+    "profile_link_color": "000000",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/930301458314080257/DMDY9n1h_normal.jpg",
+    "contributors_enabled": false,
+    "following": null,
+    "is_translator": false,
+    "verified": false,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/152078892/1509685474",
+    "utc_offset": -21600,
+    "geo_enabled": true,
+    "profile_sidebar_border_color": "000000",
+    "created_at": "Sat Jun 05 01:16:44 +0000 2010",
+    "description": "C\u00c9GRAFO \u00ae | Dise\u00f1ador Gr\u00e1fico | Cin\u00e9filo | Fot\u00f3grafo | Coleccionista DVD, Blu-ray & 4K Ultra HD | 'Vida, nada me debes, vida, estamos en paz'. - Amado Nervo.",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/930301458314080257/DMDY9n1h_normal.jpg",
+    "profile_background_color": "131516",
+    "listed_count": 37,
+    "follow_request_sent": null,
+    "profile_background_tile": true,
+    "followers_count": 839,
+    "name": "C\u00e9sar Rodr\u00edguez",
+    "notifications": null,
+    "default_profile_image": false,
+    "url": "http://www.instagram.com/cegrafo",
+    "favourites_count": 16132,
+    "screen_name": "cegrafo",
+    "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/629105115048185856/Gt3XleWg.jpg",
+    "profile_sidebar_fill_color": "000000",
+    "profile_use_background_image": true,
+    "translator_type": "regular",
+    "time_zone": "Monterrey",
+    "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/629105115048185856/Gt3XleWg.jpg",
+    "statuses_count": 32741,
+    "id": 152078892,
+    "default_profile": false,
+    "protected": false,
+    "id_str": "152078892"
+  },
+  "in_reply_to_user_id_str": "42242731",
+  "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+  "filter_level": "low",
+  "is_quote_status": false,
+  "in_reply_to_status_id": 930824760019300352,
+  "in_reply_to_user_id": 42242731,
+  "quote_count": 0,
+  "retweeted": false,
+  "in_reply_to_screen_name": "Charles_Ryder",
+  "retweet_count": 0,
+  "in_reply_to_status_id_str": "930824760019300352",
+  "coordinates": null,
+  "id": 930825896742699008,
+  "truncated": true,
+  "entities": {
+    "urls": [
+      {
+        "url": "https://t.co/sh8Z4oGQEK",
+        "display_url": "twitter.com/i/web/status/9\u2026",
+        "indices": [117, 140],
+        "expanded_url": "https://twitter.com/i/web/status/930825896742699008"
+      }
+    ],
+    "symbols": [],
+    "hashtags": [],
+    "user_mentions": [
+      {
+        "indices": [0, 14],
+        "name": "Carlos Ochoa",
+        "id_str": "42242731",
+        "screen_name": "Charles_Ryder",
+        "id": 42242731
+      }, {
+        "indices": [15, 30],
+        "name": "Alberto Molina",
+        "id_str": "53808469",
+        "screen_name": "AlbertoMoolina",
+        "id": 53808469
+      }, {
+        "indices": [31, 39],
+        "name": "S\u00f3crates Ochoa",
+        "id_str": "171339258",
+        "screen_name": "socra8a",
+        "id": 171339258
+      }, {
+        "indices": [40, 50],
+        "name": "IndieWire",
+        "id_str": "13992132",
+        "screen_name": "IndieWire",
+        "id": 13992132
+      }
+    ]
+  },
+  "timestamp_ms": "1510761162349",
+  "id_str": "930825896742699008"
+}

@@ -1,1 +1,101 @@
-{"favorite_count": 0, "lang": "es", "favorited": false, "reply_count": 0, "geo": {"type": "Point", "coordinates": [3.47904368, -76.48606765]}, "contributors": null, "text": "@Psicologia\nINCREIBLEqSEANvalidasLASsoesesPalabrasHIJUEPUTAmalparid DIRIJIDASaINGRATOSeINDIFERENTESqPARAnadaIMPORTALESelDOLORdQUIENES SUFREN", "created_at": "Wed Nov 15 15:15:09 +0000 2017", "place": {"place_type": "city", "full_name": "Palmira, Colombia", "country": "Colombia", "name": "Palmira", "url": "https://api.twitter.com/1.1/geo/id/0083e91b64f919f4.json", "country_code": "CO", "bounding_box": {"type": "Polygon", "coordinates": [[[-76.607335, 3.439586], [-76.607335, 3.701271], [-76.08991, 3.701271], [-76.08991, 3.439586]]]}, "id": "0083e91b64f919f4", "attributes": {}}, "user": {"profile_text_color": "333333", "lang": "es", "location": "COLOMBIA", "friends_count": 60, "profile_link_color": "1DA1F2", "profile_image_url_https": "https://pbs.twimg.com/profile_images/466956636397903872/1nbIEtQA_normal.jpeg", "contributors_enabled": false, "following": null, "is_translator": false, "verified": false, "profile_banner_url": "https://pbs.twimg.com/profile_banners/1596782899/1400166424", "utc_offset": -18000, "geo_enabled": true, "profile_sidebar_border_color": "C0DEED", "created_at": "Mon Jul 15 21:06:59 +0000 2013", "description": "Defensa Civil  Cosmopolitana H-8 ESCRITOR FILOSOFO ESTRATEGA AMBIENTALISTA EN ACCIONFUTURISTA", "profile_image_url": "http://pbs.twimg.com/profile_images/466956636397903872/1nbIEtQA_normal.jpeg", "profile_background_color": "C0DEED", "listed_count": 47, "follow_request_sent": null, "profile_background_tile": false, "followers_count": 96, "name": "Diego A Ramirez O.", "notifications": null, "default_profile_image": false, "url": null, "favourites_count": 2801, "screen_name": "cosmopolitanos", "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png", "profile_sidebar_fill_color": "DDEEF6", "profile_use_background_image": true, "translator_type": "none", "time_zone": "Eastern Time (US & Canada)", "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", "statuses_count": 28874, "id": 1596782899, "default_profile": true, "protected": false, "id_str": "1596782899"}, "in_reply_to_user_id_str": "8498592", "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>", "filter_level": "low", "is_quote_status": false, "in_reply_to_status_id": null, "in_reply_to_user_id": 8498592, "quote_count": 0, "retweeted": false, "in_reply_to_screen_name": "psicologia", "retweet_count": 0, "in_reply_to_status_id_str": null, "coordinates": {"type": "Point", "coordinates": [-76.48606765, 3.47904368]}, "id": 930816445860188162, "truncated": false, "entities": {"urls": [], "symbols": [], "hashtags": [], "user_mentions": [{"indices": [0, 11], "name": "PSICOLOGIA", "id_str": "8498592", "screen_name": "psicologia", "id": 8498592}]}, "timestamp_ms": "1510758909083", "id_str": "930816445860188162"}
+{
+  "favorite_count": 0,
+  "lang": "es",
+  "favorited": false,
+  "reply_count": 0,
+  "geo": {
+    "type": "Point",
+    "coordinates": [3.47904368, -76.48606765]
+  },
+  "contributors": null,
+  "text": "@Psicologia\nINCREIBLEqSEANvalidasLASsoesesPalabrasHIJUEPUTAmalparid DIRIJIDASaINGRATOSeINDIFERENTESqPARAnadaIMPORTALESelDOLORdQUIENES SUFREN",
+  "created_at": "Wed Nov 15 15:15:09 +0000 2017",
+  "place": {
+    "place_type": "city",
+    "full_name": "Palmira, Colombia",
+    "country": "Colombia",
+    "name": "Palmira",
+    "url": "https://api.twitter.com/1.1/geo/id/0083e91b64f919f4.json",
+    "country_code": "CO",
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [[[-76.607335, 3.439586], [-76.607335, 3.701271], [-76.08991, 3.701271], [-76.08991, 3.439586]]]
+    },
+    "id": "0083e91b64f919f4",
+    "attributes": {}
+  },
+  "user": {
+    "profile_text_color": "333333",
+    "lang": "es",
+    "location": "COLOMBIA",
+    "friends_count": 60,
+    "profile_link_color": "1DA1F2",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/466956636397903872/1nbIEtQA_normal.jpeg",
+    "contributors_enabled": false,
+    "following": null,
+    "is_translator": false,
+    "verified": false,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1596782899/1400166424",
+    "utc_offset": -18000,
+    "geo_enabled": true,
+    "profile_sidebar_border_color": "C0DEED",
+    "created_at": "Mon Jul 15 21:06:59 +0000 2013",
+    "description": "Defensa Civil  Cosmopolitana H-8 ESCRITOR FILOSOFO ESTRATEGA AMBIENTALISTA EN ACCIONFUTURISTA",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/466956636397903872/1nbIEtQA_normal.jpeg",
+    "profile_background_color": "C0DEED",
+    "listed_count": 47,
+    "follow_request_sent": null,
+    "profile_background_tile": false,
+    "followers_count": 96,
+    "name": "Diego A Ramirez O.",
+    "notifications": null,
+    "default_profile_image": false,
+    "url": null,
+    "favourites_count": 2801,
+    "screen_name": "cosmopolitanos",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_use_background_image": true,
+    "translator_type": "none",
+    "time_zone": "Eastern Time (US & Canada)",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "statuses_count": 28874,
+    "id": 1596782899,
+    "default_profile": true,
+    "protected": false,
+    "id_str": "1596782899"
+  },
+  "in_reply_to_user_id_str": "8498592",
+  "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+  "filter_level": "low",
+  "is_quote_status": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_user_id": 8498592,
+  "quote_count": 0,
+  "retweeted": false,
+  "in_reply_to_screen_name": "psicologia",
+  "retweet_count": 0,
+  "in_reply_to_status_id_str": null,
+  "coordinates": {
+    "type": "Point",
+    "coordinates": [-76.48606765, 3.47904368]
+  },
+  "id": 930816445860188162,
+  "truncated": false,
+  "entities": {
+    "urls": [],
+    "symbols": [],
+    "hashtags": [],
+    "user_mentions": [
+      {
+        "indices": [0, 11],
+        "name": "PSICOLOGIA",
+        "id_str": "8498592",
+        "screen_name": "psicologia",
+        "id": 8498592
+      }
+    ]
+  },
+  "timestamp_ms": "1510758909083",
+  "id_str": "930816445860188162"
+}

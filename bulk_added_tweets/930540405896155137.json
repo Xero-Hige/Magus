@@ -1,1 +1,123 @@
-{"reply_count": 0, "user": {"profile_banner_url": "https://pbs.twimg.com/profile_banners/902026057473294337/1508176107", "following": null, "profile_background_color": "F5F8FA", "url": null, "utc_offset": null, "follow_request_sent": null, "translator_type": "none", "profile_text_color": "333333", "id_str": "902026057473294337", "favourites_count": 219, "friends_count": 75, "followers_count": 15, "id": 902026057473294337, "geo_enabled": true, "profile_sidebar_border_color": "C0DEED", "profile_image_url_https": "https://pbs.twimg.com/profile_images/930136552025542656/6FLHRSn0_normal.jpg", "statuses_count": 263, "notifications": null, "profile_background_image_url_https": "", "protected": false, "listed_count": 0, "screen_name": "BenincaRaquell", "profile_sidebar_fill_color": "DDEEF6", "location": "Formosa, Argentina", "created_at": "Mon Aug 28 04:32:25 +0000 2017", "default_profile": true, "time_zone": null, "verified": false, "contributors_enabled": false, "profile_image_url": "http://pbs.twimg.com/profile_images/930136552025542656/6FLHRSn0_normal.jpg", "lang": "es", "name": "Raquell Beninca", "profile_link_color": "1DA1F2", "is_translator": false, "description": "Artistas internacionales,Amr Diab \ud83d\ude0d", "profile_use_background_image": true, "default_profile_image": false, "profile_background_image_url": "", "profile_background_tile": false}, "contributors": null, "id_str": "930540405896155137", "in_reply_to_screen_name": "deeh173", "in_reply_to_user_id_str": "3235581750", "in_reply_to_status_id": 930521054539284480, "in_reply_to_status_id_str": "930521054539284480", "display_text_range": [9, 140], "in_reply_to_user_id": 3235581750, "id": 930540405896155137, "favorite_count": 0, "entities": {"user_mentions": [{"id": 3235581750, "indices": [0, 8], "screen_name": "deeh173", "id_str": "3235581750", "name": "Denilson S. Lau"}], "hashtags": [], "symbols": [], "urls": [{"expanded_url": "https://twitter.com/i/web/status/930540405896155137", "url": "https://t.co/F9eGYo6Y9t", "display_url": "twitter.com/i/web/status/9\u2026", "indices": [116, 139]}]}, "created_at": "Tue Nov 14 20:58:16 +0000 2017", "extended_tweet": {"entities": {"user_mentions": [{"id": 3235581750, "indices": [0, 8], "screen_name": "deeh173", "id_str": "3235581750", "name": "Denilson S. Lau"}], "hashtags": [], "symbols": [], "urls": []}, "display_text_range": [9, 162], "full_text": "@deeh173 Solo somos hermanos argentinos,la misma pasi\u00f3n por el f\u00fatbol y la Misma pasi\u00f3n por la bandera\ud83c\udde6\ud83c\uddf7 solamente un \u00eddolo,Messi el Mejor Jugador del planeta \ud83d\ude0d\ud83d\ude0d\ud83d\ude0d"}, "favorited": false, "timestamp_ms": "1510693096027", "quote_count": 0, "place": {"country_code": "AR", "bounding_box": {"coordinates": [[[-58.238548, -26.209999], [-58.238548, -26.113228], [-58.142021, -26.113228], [-58.142021, -26.209999]]], "type": "Polygon"}, "attributes": {}, "url": "https://api.twitter.com/1.1/geo/id/017f47ab29a7772a.json", "name": "Formosa", "id": "017f47ab29a7772a", "place_type": "city", "country": "Argentina", "full_name": "Formosa, Argentina"}, "text": "@deeh173 Solo somos hermanos argentinos,la misma pasi\u00f3n por el f\u00fatbol y la Misma pasi\u00f3n por la bandera\ud83c\udde6\ud83c\uddf7 solamente\u2026 https://t.co/F9eGYo6Y9t", "geo": null, "retweeted": false, "retweet_count": 0, "filter_level": "low", "lang": "es", "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>", "is_quote_status": false, "coordinates": null, "truncated": true}
+{
+  "reply_count": 0,
+  "user": {
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/902026057473294337/1508176107",
+    "following": null,
+    "profile_background_color": "F5F8FA",
+    "url": null,
+    "utc_offset": null,
+    "follow_request_sent": null,
+    "translator_type": "none",
+    "profile_text_color": "333333",
+    "id_str": "902026057473294337",
+    "favourites_count": 219,
+    "friends_count": 75,
+    "followers_count": 15,
+    "id": 902026057473294337,
+    "geo_enabled": true,
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/930136552025542656/6FLHRSn0_normal.jpg",
+    "statuses_count": 263,
+    "notifications": null,
+    "profile_background_image_url_https": "",
+    "protected": false,
+    "listed_count": 0,
+    "screen_name": "BenincaRaquell",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "location": "Formosa, Argentina",
+    "created_at": "Mon Aug 28 04:32:25 +0000 2017",
+    "default_profile": true,
+    "time_zone": null,
+    "verified": false,
+    "contributors_enabled": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/930136552025542656/6FLHRSn0_normal.jpg",
+    "lang": "es",
+    "name": "Raquell Beninca",
+    "profile_link_color": "1DA1F2",
+    "is_translator": false,
+    "description": "Artistas internacionales,Amr Diab \ud83d\ude0d",
+    "profile_use_background_image": true,
+    "default_profile_image": false,
+    "profile_background_image_url": "",
+    "profile_background_tile": false
+  },
+  "contributors": null,
+  "id_str": "930540405896155137",
+  "in_reply_to_screen_name": "deeh173",
+  "in_reply_to_user_id_str": "3235581750",
+  "in_reply_to_status_id": 930521054539284480,
+  "in_reply_to_status_id_str": "930521054539284480",
+  "display_text_range": [9, 140],
+  "in_reply_to_user_id": 3235581750,
+  "id": 930540405896155137,
+  "favorite_count": 0,
+  "entities": {
+    "user_mentions": [
+      {
+        "id": 3235581750,
+        "indices": [0, 8],
+        "screen_name": "deeh173",
+        "id_str": "3235581750",
+        "name": "Denilson S. Lau"
+      }
+    ],
+    "hashtags": [],
+    "symbols": [],
+    "urls": [
+      {
+        "expanded_url": "https://twitter.com/i/web/status/930540405896155137",
+        "url": "https://t.co/F9eGYo6Y9t",
+        "display_url": "twitter.com/i/web/status/9\u2026",
+        "indices": [116, 139]
+      }
+    ]
+  },
+  "created_at": "Tue Nov 14 20:58:16 +0000 2017",
+  "extended_tweet": {
+    "entities": {
+      "user_mentions": [
+        {
+          "id": 3235581750,
+          "indices": [0, 8],
+          "screen_name": "deeh173",
+          "id_str": "3235581750",
+          "name": "Denilson S. Lau"
+        }
+      ],
+      "hashtags": [],
+      "symbols": [],
+      "urls": []
+    },
+    "display_text_range": [9, 162],
+    "full_text": "@deeh173 Solo somos hermanos argentinos,la misma pasi\u00f3n por el f\u00fatbol y la Misma pasi\u00f3n por la bandera\ud83c\udde6\ud83c\uddf7 solamente un \u00eddolo,Messi el Mejor Jugador del planeta \ud83d\ude0d\ud83d\ude0d\ud83d\ude0d"
+  },
+  "favorited": false,
+  "timestamp_ms": "1510693096027",
+  "quote_count": 0,
+  "place": {
+    "country_code": "AR",
+    "bounding_box": {
+      "coordinates": [
+        [[-58.238548, -26.209999], [-58.238548, -26.113228], [-58.142021, -26.113228], [-58.142021, -26.209999]]
+      ],
+      "type": "Polygon"
+    },
+    "attributes": {},
+    "url": "https://api.twitter.com/1.1/geo/id/017f47ab29a7772a.json",
+    "name": "Formosa",
+    "id": "017f47ab29a7772a",
+    "place_type": "city",
+    "country": "Argentina",
+    "full_name": "Formosa, Argentina"
+  },
+  "text": "@deeh173 Solo somos hermanos argentinos,la misma pasi\u00f3n por el f\u00fatbol y la Misma pasi\u00f3n por la bandera\ud83c\udde6\ud83c\uddf7 solamente\u2026 https://t.co/F9eGYo6Y9t",
+  "geo": null,
+  "retweeted": false,
+  "retweet_count": 0,
+  "filter_level": "low",
+  "lang": "es",
+  "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+  "is_quote_status": false,
+  "coordinates": null,
+  "truncated": true
+}

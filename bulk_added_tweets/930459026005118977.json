@@ -1,1 +1,94 @@
-{"id": 930459026005118977, "in_reply_to_status_id_str": null, "truncated": false, "place": {"id": "0142981624862aa5", "country": "Peru", "bounding_box": {"type": "Polygon", "coordinates": [[[-77.009464, -12.113876], [-77.009464, -12.079572], [-76.97544, -12.079572], [-76.97544, -12.113876]]]}, "url": "https://api.twitter.com/1.1/geo/id/0142981624862aa5.json", "full_name": "San Borja, Peru", "attributes": {}, "name": "San Borja", "place_type": "city", "country_code": "PE"}, "favorite_count": 0, "retweeted": false, "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>", "is_quote_status": false, "in_reply_to_status_id": null, "coordinates": null, "in_reply_to_screen_name": null, "retweet_count": 0, "quote_count": 0, "timestamp_ms": "1510673693549", "favorited": false, "in_reply_to_user_id_str": null, "text": "#NoHayPeorSelfieQue salir con papadaaaaa!! Uff horrible \ud83d\ude05", "entities": {"urls": [], "symbols": [], "user_mentions": [], "hashtags": [{"text": "NoHayPeorSelfieQue", "indices": [0, 19]}]}, "reply_count": 0, "geo": null, "filter_level": "low", "lang": "es", "user": {"statuses_count": 133, "id": 919668833820045313, "default_profile": false, "favourites_count": 594, "url": null, "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", "verified": false, "profile_image_url_https": "https://pbs.twimg.com/profile_images/928158001613111296/x7YqGtAO_normal.jpg", "translator_type": "none", "location": "Lima, Peru", "geo_enabled": true, "utc_offset": null, "notifications": null, "profile_background_tile": false, "friends_count": 164, "is_translator": false, "follow_request_sent": null, "default_profile_image": false, "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png", "profile_background_color": "000000", "profile_link_color": "981CEB", "profile_use_background_image": false, "time_zone": null, "name": "jullietteeeeee \ud83d\udc85\ud83c\udffb", "profile_text_color": "000000", "profile_sidebar_border_color": "000000", "screen_name": "jullietteeeeee", "lang": "en", "following": null, "listed_count": 0, "protected": false, "profile_sidebar_fill_color": "000000", "followers_count": 70, "profile_image_url": "http://pbs.twimg.com/profile_images/928158001613111296/x7YqGtAO_normal.jpg", "profile_banner_url": "https://pbs.twimg.com/profile_banners/919668833820045313/1510291823", "contributors_enabled": false, "created_at": "Sun Oct 15 20:58:31 +0000 2017", "id_str": "919668833820045313", "description": "Del \ud83c\uddf5\ud83c\uddea pal \ud83c\udf0e"}, "created_at": "Tue Nov 14 15:34:53 +0000 2017", "id_str": "930459026005118977", "in_reply_to_user_id": null, "contributors": null}
+{
+  "id": 930459026005118977,
+  "in_reply_to_status_id_str": null,
+  "truncated": false,
+  "place": {
+    "id": "0142981624862aa5",
+    "country": "Peru",
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [[-77.009464, -12.113876], [-77.009464, -12.079572], [-76.97544, -12.079572], [-76.97544, -12.113876]]
+      ]
+    },
+    "url": "https://api.twitter.com/1.1/geo/id/0142981624862aa5.json",
+    "full_name": "San Borja, Peru",
+    "attributes": {},
+    "name": "San Borja",
+    "place_type": "city",
+    "country_code": "PE"
+  },
+  "favorite_count": 0,
+  "retweeted": false,
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "is_quote_status": false,
+  "in_reply_to_status_id": null,
+  "coordinates": null,
+  "in_reply_to_screen_name": null,
+  "retweet_count": 0,
+  "quote_count": 0,
+  "timestamp_ms": "1510673693549",
+  "favorited": false,
+  "in_reply_to_user_id_str": null,
+  "text": "#NoHayPeorSelfieQue salir con papadaaaaa!! Uff horrible \ud83d\ude05",
+  "entities": {
+    "urls": [],
+    "symbols": [],
+    "user_mentions": [],
+    "hashtags": [
+      {
+        "text": "NoHayPeorSelfieQue",
+        "indices": [0, 19]
+      }
+    ]
+  },
+  "reply_count": 0,
+  "geo": null,
+  "filter_level": "low",
+  "lang": "es",
+  "user": {
+    "statuses_count": 133,
+    "id": 919668833820045313,
+    "default_profile": false,
+    "favourites_count": 594,
+    "url": null,
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "verified": false,
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/928158001613111296/x7YqGtAO_normal.jpg",
+    "translator_type": "none",
+    "location": "Lima, Peru",
+    "geo_enabled": true,
+    "utc_offset": null,
+    "notifications": null,
+    "profile_background_tile": false,
+    "friends_count": 164,
+    "is_translator": false,
+    "follow_request_sent": null,
+    "default_profile_image": false,
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_color": "000000",
+    "profile_link_color": "981CEB",
+    "profile_use_background_image": false,
+    "time_zone": null,
+    "name": "jullietteeeeee \ud83d\udc85\ud83c\udffb",
+    "profile_text_color": "000000",
+    "profile_sidebar_border_color": "000000",
+    "screen_name": "jullietteeeeee",
+    "lang": "en",
+    "following": null,
+    "listed_count": 0,
+    "protected": false,
+    "profile_sidebar_fill_color": "000000",
+    "followers_count": 70,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/928158001613111296/x7YqGtAO_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/919668833820045313/1510291823",
+    "contributors_enabled": false,
+    "created_at": "Sun Oct 15 20:58:31 +0000 2017",
+    "id_str": "919668833820045313",
+    "description": "Del \ud83c\uddf5\ud83c\uddea pal \ud83c\udf0e"
+  },
+  "created_at": "Tue Nov 14 15:34:53 +0000 2017",
+  "id_str": "930459026005118977",
+  "in_reply_to_user_id": null,
+  "contributors": null
+}

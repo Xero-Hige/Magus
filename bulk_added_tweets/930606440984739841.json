@@ -1,1 +1,134 @@
-{"reply_count": 0, "user": {"profile_banner_url": "https://pbs.twimg.com/profile_banners/300598896/1453804388", "following": null, "profile_background_color": "4B565C", "url": null, "utc_offset": -14400, "follow_request_sent": null, "translator_type": "none", "profile_text_color": "FFFFFF", "id_str": "300598896", "favourites_count": 1022, "friends_count": 919, "followers_count": 212, "id": 300598896, "geo_enabled": true, "profile_sidebar_border_color": "FFFFFF", "profile_image_url_https": "https://pbs.twimg.com/profile_images/912146313738899457/KOOPIhxD_normal.jpg", "statuses_count": 3730, "notifications": null, "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/742854225/cdc6da906c8a715e487c6fb90a231f38.jpeg", "protected": false, "listed_count": 6, "screen_name": "GonzaValdovinos", "profile_sidebar_fill_color": "0F1824", "location": "Asunci\u00f3n -  Paraguay", "created_at": "Wed May 18 01:30:08 +0000 2011", "default_profile": false, "time_zone": "La Paz", "verified": false, "contributors_enabled": false, "profile_image_url": "http://pbs.twimg.com/profile_images/912146313738899457/KOOPIhxD_normal.jpg", "lang": "es", "name": "Gonza Valdovinos", "profile_link_color": "0084B4", "is_translator": false, "description": "Tecn\u00f3logo, gamer, amante de la m\u00fasica, de la rica comida y la naturaleza. Diab\u00e9tico Tipo 1!\nSoy yo mismo, la mejor versi\u00f3n de mi todos los d\u00edas. \ud83d\ude00\ud83c\udfb5", "profile_use_background_image": true, "default_profile_image": false, "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/742854225/cdc6da906c8a715e487c6fb90a231f38.jpeg", "profile_background_tile": false}, "contributors": null, "id_str": "930606440984739841", "in_reply_to_screen_name": null, "in_reply_to_user_id_str": null, "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>", "in_reply_to_status_id_str": null, "in_reply_to_user_id": null, "id": 930606440984739841, "in_reply_to_status_id": null, "favorite_count": 0, "entities": {"user_mentions": [{"id": 15179874, "indices": [43, 47], "screen_name": "WDD", "id_str": "15179874", "name": "World Diabetes Day"}, {"id": 23794763, "indices": [48, 63], "screen_name": "AmDiabetesAssn", "id_str": "23794763", "name": "Amer. Diabetes Assn."}], "hashtags": [], "symbols": [], "urls": [{"expanded_url": "https://twitter.com/i/web/status/930606440984739841", "url": "https://t.co/qSkude8swn", "display_url": "twitter.com/i/web/status/9\u2026", "indices": [116, 139]}]}, "created_at": "Wed Nov 15 01:20:40 +0000 2017", "extended_tweet": {"entities": {"user_mentions": [{"id": 15179874, "indices": [43, 47], "screen_name": "WDD", "id_str": "15179874", "name": "World Diabetes Day"}, {"id": 23794763, "indices": [48, 63], "screen_name": "AmDiabetesAssn", "id_str": "23794763", "name": "Amer. Diabetes Assn."}], "hashtags": [], "symbols": [], "urls": []}, "display_text_range": [0, 243], "full_text": "Hoy es el d\u00eda internacional de la Diabetes @WDD @AmDiabetesAssn una lucha por vivir que sue\u00f1a con un d\u00eda encontrar la cura definitiva a una enfermedad casi tan grave como el C\u00e1ncer. Yo la padezco hace 11 a\u00f1os y no le deseo ni a mi peor enemigo"}, "favorited": false, "timestamp_ms": "1510708840019", "quote_count": 0, "place": {"country_code": "PY", "bounding_box": {"coordinates": [[[-57.674304, -25.34793], [-57.674304, -25.252598], [-57.537731, -25.252598], [-57.537731, -25.34793]]], "type": "Polygon"}, "attributes": {}, "url": "https://api.twitter.com/1.1/geo/id/01f2931e2c7f48a8.json", "name": "Asuncion", "id": "01f2931e2c7f48a8", "place_type": "city", "country": "Paraguay", "full_name": "Asuncion, Paraguay"}, "text": "Hoy es el d\u00eda internacional de la Diabetes @WDD @AmDiabetesAssn una lucha por vivir que sue\u00f1a con un d\u00eda encontrar\u2026 https://t.co/qSkude8swn", "geo": null, "retweeted": false, "retweet_count": 0, "filter_level": "low", "lang": "es", "is_quote_status": false, "coordinates": null, "truncated": true}
+{
+  "reply_count": 0,
+  "user": {
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/300598896/1453804388",
+    "following": null,
+    "profile_background_color": "4B565C",
+    "url": null,
+    "utc_offset": -14400,
+    "follow_request_sent": null,
+    "translator_type": "none",
+    "profile_text_color": "FFFFFF",
+    "id_str": "300598896",
+    "favourites_count": 1022,
+    "friends_count": 919,
+    "followers_count": 212,
+    "id": 300598896,
+    "geo_enabled": true,
+    "profile_sidebar_border_color": "FFFFFF",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/912146313738899457/KOOPIhxD_normal.jpg",
+    "statuses_count": 3730,
+    "notifications": null,
+    "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/742854225/cdc6da906c8a715e487c6fb90a231f38.jpeg",
+    "protected": false,
+    "listed_count": 6,
+    "screen_name": "GonzaValdovinos",
+    "profile_sidebar_fill_color": "0F1824",
+    "location": "Asunci\u00f3n -  Paraguay",
+    "created_at": "Wed May 18 01:30:08 +0000 2011",
+    "default_profile": false,
+    "time_zone": "La Paz",
+    "verified": false,
+    "contributors_enabled": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/912146313738899457/KOOPIhxD_normal.jpg",
+    "lang": "es",
+    "name": "Gonza Valdovinos",
+    "profile_link_color": "0084B4",
+    "is_translator": false,
+    "description": "Tecn\u00f3logo, gamer, amante de la m\u00fasica, de la rica comida y la naturaleza. Diab\u00e9tico Tipo 1!\nSoy yo mismo, la mejor versi\u00f3n de mi todos los d\u00edas. \ud83d\ude00\ud83c\udfb5",
+    "profile_use_background_image": true,
+    "default_profile_image": false,
+    "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/742854225/cdc6da906c8a715e487c6fb90a231f38.jpeg",
+    "profile_background_tile": false
+  },
+  "contributors": null,
+  "id_str": "930606440984739841",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_user_id_str": null,
+  "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "id": 930606440984739841,
+  "in_reply_to_status_id": null,
+  "favorite_count": 0,
+  "entities": {
+    "user_mentions": [
+      {
+        "id": 15179874,
+        "indices": [43, 47],
+        "screen_name": "WDD",
+        "id_str": "15179874",
+        "name": "World Diabetes Day"
+      }, {
+        "id": 23794763,
+        "indices": [48, 63],
+        "screen_name": "AmDiabetesAssn",
+        "id_str": "23794763",
+        "name": "Amer. Diabetes Assn."
+      }
+    ],
+    "hashtags": [],
+    "symbols": [],
+    "urls": [
+      {
+        "expanded_url": "https://twitter.com/i/web/status/930606440984739841",
+        "url": "https://t.co/qSkude8swn",
+        "display_url": "twitter.com/i/web/status/9\u2026",
+        "indices": [116, 139]
+      }
+    ]
+  },
+  "created_at": "Wed Nov 15 01:20:40 +0000 2017",
+  "extended_tweet": {
+    "entities": {
+      "user_mentions": [
+        {
+          "id": 15179874,
+          "indices": [43, 47],
+          "screen_name": "WDD",
+          "id_str": "15179874",
+          "name": "World Diabetes Day"
+        }, {
+          "id": 23794763,
+          "indices": [48, 63],
+          "screen_name": "AmDiabetesAssn",
+          "id_str": "23794763",
+          "name": "Amer. Diabetes Assn."
+        }
+      ],
+      "hashtags": [],
+      "symbols": [],
+      "urls": []
+    },
+    "display_text_range": [0, 243],
+    "full_text": "Hoy es el d\u00eda internacional de la Diabetes @WDD @AmDiabetesAssn una lucha por vivir que sue\u00f1a con un d\u00eda encontrar la cura definitiva a una enfermedad casi tan grave como el C\u00e1ncer. Yo la padezco hace 11 a\u00f1os y no le deseo ni a mi peor enemigo"
+  },
+  "favorited": false,
+  "timestamp_ms": "1510708840019",
+  "quote_count": 0,
+  "place": {
+    "country_code": "PY",
+    "bounding_box": {
+      "coordinates": [
+        [[-57.674304, -25.34793], [-57.674304, -25.252598], [-57.537731, -25.252598], [-57.537731, -25.34793]]
+      ],
+      "type": "Polygon"
+    },
+    "attributes": {},
+    "url": "https://api.twitter.com/1.1/geo/id/01f2931e2c7f48a8.json",
+    "name": "Asuncion",
+    "id": "01f2931e2c7f48a8",
+    "place_type": "city",
+    "country": "Paraguay",
+    "full_name": "Asuncion, Paraguay"
+  },
+  "text": "Hoy es el d\u00eda internacional de la Diabetes @WDD @AmDiabetesAssn una lucha por vivir que sue\u00f1a con un d\u00eda encontrar\u2026 https://t.co/qSkude8swn",
+  "geo": null,
+  "retweeted": false,
+  "retweet_count": 0,
+  "filter_level": "low",
+  "lang": "es",
+  "is_quote_status": false,
+  "coordinates": null,
+  "truncated": true
+}

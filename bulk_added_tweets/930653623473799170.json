@@ -1,1 +1,127 @@
-{"geo": null, "filter_level": "low", "in_reply_to_status_id": null, "lang": "es", "favorite_count": 0, "coordinates": null, "favorited": false, "place": {"name": "Nogales", "full_name": "Nogales, Sonora", "place_type": "city", "country": "Mexico", "id": "fee8b88f74a9763d", "bounding_box": {"type": "Polygon", "coordinates": [[[-111.353471, 31.007209], [-111.353471, 31.377975], [-110.649331, 31.377975], [-110.649331, 31.007209]]]}, "attributes": {}, "url": "https://api.twitter.com/1.1/geo/id/fee8b88f74a9763d.json", "country_code": "MX"}, "contributors": null, "entities": {"hashtags": [], "urls": [{"display_url": "twitter.com/i/web/status/9\u2026", "expanded_url": "https://twitter.com/i/web/status/930653623473799170", "url": "https://t.co/cIpX8jmzDb", "indices": [117, 140]}], "symbols": [], "user_mentions": [{"id": 94443745, "id_str": "94443745", "name": "INEGI", "indices": [86, 100], "screen_name": "INEGI_INFORMA"}]}, "id": 930653623473799170, "user": {"followers_count": 2433, "profile_background_image_url": "http://abs.twimg.com/images/themes/theme17/bg.gif", "profile_background_color": "DBE9ED", "translator_type": "none", "profile_image_url": "http://pbs.twimg.com/profile_images/729751606875459585/61paSpb3_normal.jpg", "profile_banner_url": "https://pbs.twimg.com/profile_banners/29285777/1486014184", "default_profile": false, "utc_offset": -25200, "lang": "en", "url": "http://jesusibarrablog.wordpress.com", "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme17/bg.gif", "profile_image_url_https": "https://pbs.twimg.com/profile_images/729751606875459585/61paSpb3_normal.jpg", "time_zone": "Arizona", "profile_sidebar_border_color": "DBE9ED", "profile_use_background_image": false, "id": 29285777, "profile_link_color": "1B95E0", "profile_sidebar_fill_color": "E6F6F9", "profile_background_tile": false, "geo_enabled": true, "id_str": "29285777", "verified": false, "name": "Jes\u00fas Alberto Ibarra", "is_translator": false, "notifications": null, "following": null, "friends_count": 5001, "contributors_enabled": false, "screen_name": "Morpheus_mx1", "created_at": "Mon Apr 06 20:31:08 +0000 2009", "profile_text_color": "333333", "favourites_count": 38487, "follow_request_sent": null, "description": "Periodista. S\u00d3LO publico mis opiniones, mi blog NO tiene nada que ver con los medios para los que trabajo. No a la Posverdad -*Phd-Boxing Pundit-Crypto Punk", "default_profile_image": false, "location": "Somewhere, HMO", "listed_count": 101, "protected": false, "statuses_count": 36306}, "id_str": "930653623473799170", "retweet_count": 0, "retweeted": false, "quote_count": 0, "truncated": true, "in_reply_to_status_id_str": null, "reply_count": 0, "created_at": "Wed Nov 15 04:28:09 +0000 2017", "is_quote_status": false, "in_reply_to_user_id": null, "timestamp_ms": "1510720089201", "text": "Ma\u00f1ana se celebra el D\u00eda Mundial del GIS (Sistema de Informaci\u00f3n Georeferenciada), el @INEGI_INFORMA tiene evento m\u2026 https://t.co/cIpX8jmzDb", "extended_tweet": {"full_text": "Ma\u00f1ana se celebra el D\u00eda Mundial del GIS (Sistema de Informaci\u00f3n Georeferenciada), el @INEGI_INFORMA tiene evento ma\u00f1ana y por ah\u00ed exponemos \"GIS y Periodismo de Datos en Sonora\" en el Centro de Gobierno #GISDay2017", "display_text_range": [0, 215], "entities": {"hashtags": [{"text": "GISDay2017", "indices": [204, 215]}], "urls": [], "symbols": [], "user_mentions": [{"id": 94443745, "id_str": "94443745", "name": "INEGI", "indices": [86, 100], "screen_name": "INEGI_INFORMA"}]}}, "in_reply_to_user_id_str": null, "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>", "in_reply_to_screen_name": null}
+{
+  "geo": null,
+  "filter_level": "low",
+  "in_reply_to_status_id": null,
+  "lang": "es",
+  "favorite_count": 0,
+  "coordinates": null,
+  "favorited": false,
+  "place": {
+    "name": "Nogales",
+    "full_name": "Nogales, Sonora",
+    "place_type": "city",
+    "country": "Mexico",
+    "id": "fee8b88f74a9763d",
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [[-111.353471, 31.007209], [-111.353471, 31.377975], [-110.649331, 31.377975], [-110.649331, 31.007209]]
+      ]
+    },
+    "attributes": {},
+    "url": "https://api.twitter.com/1.1/geo/id/fee8b88f74a9763d.json",
+    "country_code": "MX"
+  },
+  "contributors": null,
+  "entities": {
+    "hashtags": [],
+    "urls": [
+      {
+        "display_url": "twitter.com/i/web/status/9\u2026",
+        "expanded_url": "https://twitter.com/i/web/status/930653623473799170",
+        "url": "https://t.co/cIpX8jmzDb",
+        "indices": [117, 140]
+      }
+    ],
+    "symbols": [],
+    "user_mentions": [
+      {
+        "id": 94443745,
+        "id_str": "94443745",
+        "name": "INEGI",
+        "indices": [86, 100],
+        "screen_name": "INEGI_INFORMA"
+      }
+    ]
+  },
+  "id": 930653623473799170,
+  "user": {
+    "followers_count": 2433,
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme17/bg.gif",
+    "profile_background_color": "DBE9ED",
+    "translator_type": "none",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/729751606875459585/61paSpb3_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/29285777/1486014184",
+    "default_profile": false,
+    "utc_offset": -25200,
+    "lang": "en",
+    "url": "http://jesusibarrablog.wordpress.com",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme17/bg.gif",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/729751606875459585/61paSpb3_normal.jpg",
+    "time_zone": "Arizona",
+    "profile_sidebar_border_color": "DBE9ED",
+    "profile_use_background_image": false,
+    "id": 29285777,
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_fill_color": "E6F6F9",
+    "profile_background_tile": false,
+    "geo_enabled": true,
+    "id_str": "29285777",
+    "verified": false,
+    "name": "Jes\u00fas Alberto Ibarra",
+    "is_translator": false,
+    "notifications": null,
+    "following": null,
+    "friends_count": 5001,
+    "contributors_enabled": false,
+    "screen_name": "Morpheus_mx1",
+    "created_at": "Mon Apr 06 20:31:08 +0000 2009",
+    "profile_text_color": "333333",
+    "favourites_count": 38487,
+    "follow_request_sent": null,
+    "description": "Periodista. S\u00d3LO publico mis opiniones, mi blog NO tiene nada que ver con los medios para los que trabajo. No a la Posverdad -*Phd-Boxing Pundit-Crypto Punk",
+    "default_profile_image": false,
+    "location": "Somewhere, HMO",
+    "listed_count": 101,
+    "protected": false,
+    "statuses_count": 36306
+  },
+  "id_str": "930653623473799170",
+  "retweet_count": 0,
+  "retweeted": false,
+  "quote_count": 0,
+  "truncated": true,
+  "in_reply_to_status_id_str": null,
+  "reply_count": 0,
+  "created_at": "Wed Nov 15 04:28:09 +0000 2017",
+  "is_quote_status": false,
+  "in_reply_to_user_id": null,
+  "timestamp_ms": "1510720089201",
+  "text": "Ma\u00f1ana se celebra el D\u00eda Mundial del GIS (Sistema de Informaci\u00f3n Georeferenciada), el @INEGI_INFORMA tiene evento m\u2026 https://t.co/cIpX8jmzDb",
+  "extended_tweet": {
+    "full_text": "Ma\u00f1ana se celebra el D\u00eda Mundial del GIS (Sistema de Informaci\u00f3n Georeferenciada), el @INEGI_INFORMA tiene evento ma\u00f1ana y por ah\u00ed exponemos \"GIS y Periodismo de Datos en Sonora\" en el Centro de Gobierno #GISDay2017",
+    "display_text_range": [0, 215],
+    "entities": {
+      "hashtags": [
+        {
+          "text": "GISDay2017",
+          "indices": [204, 215]
+        }
+      ],
+      "urls": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "id": 94443745,
+          "id_str": "94443745",
+          "name": "INEGI",
+          "indices": [86, 100],
+          "screen_name": "INEGI_INFORMA"
+        }
+      ]
+    }
+  },
+  "in_reply_to_user_id_str": null,
+  "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+  "in_reply_to_screen_name": null
+}

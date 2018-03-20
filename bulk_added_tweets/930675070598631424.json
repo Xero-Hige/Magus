@@ -1,1 +1,122 @@
-{"reply_count": 0, "user": {"profile_banner_url": "https://pbs.twimg.com/profile_banners/1856239256/1487007961", "following": null, "profile_background_color": "C0DEED", "url": null, "utc_offset": -28800, "follow_request_sent": null, "translator_type": "none", "profile_text_color": "333333", "id_str": "1856239256", "favourites_count": 9973, "friends_count": 181, "followers_count": 41, "id": 1856239256, "geo_enabled": true, "profile_sidebar_border_color": "C0DEED", "profile_image_url_https": "https://pbs.twimg.com/profile_images/871902782026113024/68xiz2N8_normal.jpg", "statuses_count": 1068, "notifications": null, "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", "protected": false, "listed_count": 0, "screen_name": "ChabelaVazquez2", "profile_sidebar_fill_color": "DDEEF6", "location": "Montevideo, Uruguay", "created_at": "Thu Sep 12 04:09:17 +0000 2013", "default_profile": true, "time_zone": "Pacific Time (US & Canada)", "verified": false, "contributors_enabled": false, "profile_image_url": "http://pbs.twimg.com/profile_images/871902782026113024/68xiz2N8_normal.jpg", "lang": "es", "name": "Chabela Vazquez", "profile_link_color": "1DA1F2", "is_translator": false, "description": "Escritora", "profile_use_background_image": true, "default_profile_image": false, "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png", "profile_background_tile": false}, "contributors": null, "id_str": "930675070598631424", "in_reply_to_screen_name": "ddm_oficial", "in_reply_to_user_id_str": "1400809836", "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>", "in_reply_to_status_id_str": null, "in_reply_to_user_id": 1400809836, "id": 930675070598631424, "in_reply_to_status_id": null, "favorite_count": 0, "entities": {"user_mentions": [{"id": 1400809836, "indices": [0, 12], "screen_name": "ddm_oficial", "id_str": "1400809836", "name": "El diario de Mariana"}], "hashtags": [], "symbols": [], "urls": [{"expanded_url": "https://twitter.com/i/web/status/930675070598631424", "url": "https://t.co/vrRPvOy6HI", "display_url": "twitter.com/i/web/status/9\u2026", "indices": [117, 140]}]}, "created_at": "Wed Nov 15 05:53:22 +0000 2017", "extended_tweet": {"entities": {"user_mentions": [{"id": 1400809836, "indices": [0, 12], "screen_name": "ddm_oficial", "id_str": "1400809836", "name": "El diario de Mariana"}], "hashtags": [], "symbols": [], "urls": []}, "display_text_range": [0, 217], "full_text": "@ddm_oficial Dijo el abogado de Nisman \"Se lo vilipendi\u00f3, se dijo de todo, desde 'GAY' hasta mujeriego, ya no hab\u00eda q PORQUER\u00cdA m\u00e1s asignarle\"... no escuch\u00e9 a nadie quejarse por considerar a un gay como porquer\u00eda... \ud83e\udd14"}, "favorited": false, "timestamp_ms": "1510725202594", "quote_count": 0, "place": {"country_code": "UY", "bounding_box": {"coordinates": [[[-56.430439, -34.937896], [-56.430439, -34.701599], [-56.029341, -34.701599], [-56.029341, -34.937896]]], "type": "Polygon"}, "attributes": {}, "url": "https://api.twitter.com/1.1/geo/id/01a9dbb9232f0fac.json", "name": "Montevideo", "id": "01a9dbb9232f0fac", "place_type": "admin", "country": "Uruguay", "full_name": "Montevideo, Uruguay"}, "text": "@ddm_oficial Dijo el abogado de Nisman \"Se lo vilipendi\u00f3, se dijo de todo, desde 'GAY' hasta mujeriego, ya no hab\u00eda\u2026 https://t.co/vrRPvOy6HI", "geo": null, "retweeted": false, "retweet_count": 0, "filter_level": "low", "lang": "es", "is_quote_status": false, "coordinates": null, "truncated": true}
+{
+  "reply_count": 0,
+  "user": {
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1856239256/1487007961",
+    "following": null,
+    "profile_background_color": "C0DEED",
+    "url": null,
+    "utc_offset": -28800,
+    "follow_request_sent": null,
+    "translator_type": "none",
+    "profile_text_color": "333333",
+    "id_str": "1856239256",
+    "favourites_count": 9973,
+    "friends_count": 181,
+    "followers_count": 41,
+    "id": 1856239256,
+    "geo_enabled": true,
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/871902782026113024/68xiz2N8_normal.jpg",
+    "statuses_count": 1068,
+    "notifications": null,
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "protected": false,
+    "listed_count": 0,
+    "screen_name": "ChabelaVazquez2",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "location": "Montevideo, Uruguay",
+    "created_at": "Thu Sep 12 04:09:17 +0000 2013",
+    "default_profile": true,
+    "time_zone": "Pacific Time (US & Canada)",
+    "verified": false,
+    "contributors_enabled": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/871902782026113024/68xiz2N8_normal.jpg",
+    "lang": "es",
+    "name": "Chabela Vazquez",
+    "profile_link_color": "1DA1F2",
+    "is_translator": false,
+    "description": "Escritora",
+    "profile_use_background_image": true,
+    "default_profile_image": false,
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": false
+  },
+  "contributors": null,
+  "id_str": "930675070598631424",
+  "in_reply_to_screen_name": "ddm_oficial",
+  "in_reply_to_user_id_str": "1400809836",
+  "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": 1400809836,
+  "id": 930675070598631424,
+  "in_reply_to_status_id": null,
+  "favorite_count": 0,
+  "entities": {
+    "user_mentions": [
+      {
+        "id": 1400809836,
+        "indices": [0, 12],
+        "screen_name": "ddm_oficial",
+        "id_str": "1400809836",
+        "name": "El diario de Mariana"
+      }
+    ],
+    "hashtags": [],
+    "symbols": [],
+    "urls": [
+      {
+        "expanded_url": "https://twitter.com/i/web/status/930675070598631424",
+        "url": "https://t.co/vrRPvOy6HI",
+        "display_url": "twitter.com/i/web/status/9\u2026",
+        "indices": [117, 140]
+      }
+    ]
+  },
+  "created_at": "Wed Nov 15 05:53:22 +0000 2017",
+  "extended_tweet": {
+    "entities": {
+      "user_mentions": [
+        {
+          "id": 1400809836,
+          "indices": [0, 12],
+          "screen_name": "ddm_oficial",
+          "id_str": "1400809836",
+          "name": "El diario de Mariana"
+        }
+      ],
+      "hashtags": [],
+      "symbols": [],
+      "urls": []
+    },
+    "display_text_range": [0, 217],
+    "full_text": "@ddm_oficial Dijo el abogado de Nisman \"Se lo vilipendi\u00f3, se dijo de todo, desde 'GAY' hasta mujeriego, ya no hab\u00eda q PORQUER\u00cdA m\u00e1s asignarle\"... no escuch\u00e9 a nadie quejarse por considerar a un gay como porquer\u00eda... \ud83e\udd14"
+  },
+  "favorited": false,
+  "timestamp_ms": "1510725202594",
+  "quote_count": 0,
+  "place": {
+    "country_code": "UY",
+    "bounding_box": {
+      "coordinates": [
+        [[-56.430439, -34.937896], [-56.430439, -34.701599], [-56.029341, -34.701599], [-56.029341, -34.937896]]
+      ],
+      "type": "Polygon"
+    },
+    "attributes": {},
+    "url": "https://api.twitter.com/1.1/geo/id/01a9dbb9232f0fac.json",
+    "name": "Montevideo",
+    "id": "01a9dbb9232f0fac",
+    "place_type": "admin",
+    "country": "Uruguay",
+    "full_name": "Montevideo, Uruguay"
+  },
+  "text": "@ddm_oficial Dijo el abogado de Nisman \"Se lo vilipendi\u00f3, se dijo de todo, desde 'GAY' hasta mujeriego, ya no hab\u00eda\u2026 https://t.co/vrRPvOy6HI",
+  "geo": null,
+  "retweeted": false,
+  "retweet_count": 0,
+  "filter_level": "low",
+  "lang": "es",
+  "is_quote_status": false,
+  "coordinates": null,
+  "truncated": true
+}

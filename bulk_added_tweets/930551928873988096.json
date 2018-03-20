@@ -1,1 +1,180 @@
-{"is_quote_status": false, "quote_count": 0, "in_reply_to_user_id_str": null, "favorite_count": 0, "in_reply_to_status_id": null, "id_str": "930551928873988096", "filter_level": "low", "reply_count": 0, "timestamp_ms": "1510695843319", "id": 930551928873988096, "display_text_range": [0, 140], "coordinates": null, "in_reply_to_screen_name": null, "truncated": true, "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>", "place": {"bounding_box": {"coordinates": [[[-99.241647, 18.910465], [-99.241647, 18.93215], [-99.227425, 18.93215], [-99.227425, 18.910465]]], "type": "Polygon"}, "url": "https://api.twitter.com/1.1/geo/id/3c3262edadd66d0b.json", "country_code": "MX", "name": "Centro", "full_name": "Centro, Cuernavaca", "id": "3c3262edadd66d0b", "place_type": "neighborhood", "attributes": {}, "country": "M\u00e9xico"}, "retweet_count": 0, "extended_tweet": {"display_text_range": [0, 184], "entities": {"user_mentions": [], "urls": [], "symbols": [], "hashtags": [], "media": [{"media_url_https": "https://pbs.twimg.com/media/DOn8CIwWAAEwxyI.jpg", "expanded_url": "https://twitter.com/angelodho/status/930551928873988096/photo/1", "id_str": "930551911668908033", "media_url": "http://pbs.twimg.com/media/DOn8CIwWAAEwxyI.jpg", "display_url": "pic.twitter.com/umYpXX2Q5v", "id": 930551911668908033, "indices": [185, 208], "type": "photo", "url": "https://t.co/umYpXX2Q5v", "sizes": {"small": {"resize": "fit", "h": 331, "w": 680}, "large": {"resize": "fit", "h": 996, "w": 2048}, "thumb": {"resize": "crop", "h": 150, "w": 150}, "medium": {"resize": "fit", "h": 584, "w": 1200}}}]}, "extended_entities": {"media": [{"media_url_https": "https://pbs.twimg.com/media/DOn8CIwWAAEwxyI.jpg", "expanded_url": "https://twitter.com/angelodho/status/930551928873988096/photo/1", "id_str": "930551911668908033", "media_url": "http://pbs.twimg.com/media/DOn8CIwWAAEwxyI.jpg", "display_url": "pic.twitter.com/umYpXX2Q5v", "id": 930551911668908033, "indices": [185, 208], "type": "photo", "url": "https://t.co/umYpXX2Q5v", "sizes": {"small": {"resize": "fit", "h": 331, "w": 680}, "large": {"resize": "fit", "h": 996, "w": 2048}, "thumb": {"resize": "crop", "h": 150, "w": 150}, "medium": {"resize": "fit", "h": 584, "w": 1200}}}]}, "full_text": "Un gusto acompa\u00f1ar a la Mtra. Cristina Rumbo en la Presentaci\u00f3n de la Enncuesta de Victimizacion y Cultura de la Legalidad a trav\u00e9s del Observatorio Ciudadano de Justicia y Legaliadad! https://t.co/umYpXX2Q5v"}, "created_at": "Tue Nov 14 21:44:03 +0000 2017", "favorited": false, "text": "Un gusto acompa\u00f1ar a la Mtra. Cristina Rumbo en la Presentaci\u00f3n de la Enncuesta de Victimizacion y Cultura de la Le\u2026 https://t.co/oDZKtAt3be", "in_reply_to_user_id": null, "geo": null, "lang": "es", "contributors": null, "in_reply_to_status_id_str": null, "user": {"protected": false, "following": null, "profile_text_color": "333333", "profile_background_color": "C0DEED", "statuses_count": 15381, "default_profile": false, "favourites_count": 6178, "friends_count": 646, "follow_request_sent": null, "profile_sidebar_fill_color": "DDEEF6", "translator_type": "none", "notifications": null, "id_str": "168921332", "screen_name": "angelodho", "profile_banner_url": "https://pbs.twimg.com/profile_banners/168921332/1505348849", "verified": false, "id": 168921332, "profile_use_background_image": true, "description": "Sec T\u00e9cnico de @CIGMorelos @MorelosCongreso integrante Comisi\u00f3n Permanente de @somospanmorelos y Barra de Abogados, Derechos de Mujeres, Pol\u00edtica y Elecciones.", "utc_offset": -21600, "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/752677732/4b4308fd6b2a03230ace5eb91bcffe79.jpeg", "is_translator": false, "listed_count": 12, "default_profile_image": false, "contributors_enabled": false, "followers_count": 891, "location": "Cuernavaca", "created_at": "Wed Jul 21 03:04:04 +0000 2010", "profile_image_url_https": "https://pbs.twimg.com/profile_images/921394720210898944/d2-IoBmJ_normal.jpg", "geo_enabled": true, "time_zone": "Mexico City", "profile_image_url": "http://pbs.twimg.com/profile_images/921394720210898944/d2-IoBmJ_normal.jpg", "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/752677732/4b4308fd6b2a03230ace5eb91bcffe79.jpeg", "profile_link_color": "0084B4", "lang": "es", "name": "David Hidalgo", "profile_background_tile": false, "url": null, "profile_sidebar_border_color": "FFFFFF"}, "possibly_sensitive": false, "entities": {"user_mentions": [], "urls": [{"expanded_url": "https://twitter.com/i/web/status/930551928873988096", "url": "https://t.co/oDZKtAt3be", "indices": [117, 140], "display_url": "twitter.com/i/web/status/9\u2026"}], "symbols": [], "hashtags": []}, "retweeted": false}
+{
+  "is_quote_status": false,
+  "quote_count": 0,
+  "in_reply_to_user_id_str": null,
+  "favorite_count": 0,
+  "in_reply_to_status_id": null,
+  "id_str": "930551928873988096",
+  "filter_level": "low",
+  "reply_count": 0,
+  "timestamp_ms": "1510695843319",
+  "id": 930551928873988096,
+  "display_text_range": [0, 140],
+  "coordinates": null,
+  "in_reply_to_screen_name": null,
+  "truncated": true,
+  "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+  "place": {
+    "bounding_box": {
+      "coordinates": [
+        [[-99.241647, 18.910465], [-99.241647, 18.93215], [-99.227425, 18.93215], [-99.227425, 18.910465]]
+      ],
+      "type": "Polygon"
+    },
+    "url": "https://api.twitter.com/1.1/geo/id/3c3262edadd66d0b.json",
+    "country_code": "MX",
+    "name": "Centro",
+    "full_name": "Centro, Cuernavaca",
+    "id": "3c3262edadd66d0b",
+    "place_type": "neighborhood",
+    "attributes": {},
+    "country": "M\u00e9xico"
+  },
+  "retweet_count": 0,
+  "extended_tweet": {
+    "display_text_range": [0, 184],
+    "entities": {
+      "user_mentions": [],
+      "urls": [],
+      "symbols": [],
+      "hashtags": [],
+      "media": [
+        {
+          "media_url_https": "https://pbs.twimg.com/media/DOn8CIwWAAEwxyI.jpg",
+          "expanded_url": "https://twitter.com/angelodho/status/930551928873988096/photo/1",
+          "id_str": "930551911668908033",
+          "media_url": "http://pbs.twimg.com/media/DOn8CIwWAAEwxyI.jpg",
+          "display_url": "pic.twitter.com/umYpXX2Q5v",
+          "id": 930551911668908033,
+          "indices": [185, 208],
+          "type": "photo",
+          "url": "https://t.co/umYpXX2Q5v",
+          "sizes": {
+            "small": {
+              "resize": "fit",
+              "h": 331,
+              "w": 680
+            },
+            "large": {
+              "resize": "fit",
+              "h": 996,
+              "w": 2048
+            },
+            "thumb": {
+              "resize": "crop",
+              "h": 150,
+              "w": 150
+            },
+            "medium": {
+              "resize": "fit",
+              "h": 584,
+              "w": 1200
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "media_url_https": "https://pbs.twimg.com/media/DOn8CIwWAAEwxyI.jpg",
+          "expanded_url": "https://twitter.com/angelodho/status/930551928873988096/photo/1",
+          "id_str": "930551911668908033",
+          "media_url": "http://pbs.twimg.com/media/DOn8CIwWAAEwxyI.jpg",
+          "display_url": "pic.twitter.com/umYpXX2Q5v",
+          "id": 930551911668908033,
+          "indices": [185, 208],
+          "type": "photo",
+          "url": "https://t.co/umYpXX2Q5v",
+          "sizes": {
+            "small": {
+              "resize": "fit",
+              "h": 331,
+              "w": 680
+            },
+            "large": {
+              "resize": "fit",
+              "h": 996,
+              "w": 2048
+            },
+            "thumb": {
+              "resize": "crop",
+              "h": 150,
+              "w": 150
+            },
+            "medium": {
+              "resize": "fit",
+              "h": 584,
+              "w": 1200
+            }
+          }
+        }
+      ]
+    },
+    "full_text": "Un gusto acompa\u00f1ar a la Mtra. Cristina Rumbo en la Presentaci\u00f3n de la Enncuesta de Victimizacion y Cultura de la Legalidad a trav\u00e9s del Observatorio Ciudadano de Justicia y Legaliadad! https://t.co/umYpXX2Q5v"
+  },
+  "created_at": "Tue Nov 14 21:44:03 +0000 2017",
+  "favorited": false,
+  "text": "Un gusto acompa\u00f1ar a la Mtra. Cristina Rumbo en la Presentaci\u00f3n de la Enncuesta de Victimizacion y Cultura de la Le\u2026 https://t.co/oDZKtAt3be",
+  "in_reply_to_user_id": null,
+  "geo": null,
+  "lang": "es",
+  "contributors": null,
+  "in_reply_to_status_id_str": null,
+  "user": {
+    "protected": false,
+    "following": null,
+    "profile_text_color": "333333",
+    "profile_background_color": "C0DEED",
+    "statuses_count": 15381,
+    "default_profile": false,
+    "favourites_count": 6178,
+    "friends_count": 646,
+    "follow_request_sent": null,
+    "profile_sidebar_fill_color": "DDEEF6",
+    "translator_type": "none",
+    "notifications": null,
+    "id_str": "168921332",
+    "screen_name": "angelodho",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/168921332/1505348849",
+    "verified": false,
+    "id": 168921332,
+    "profile_use_background_image": true,
+    "description": "Sec T\u00e9cnico de @CIGMorelos @MorelosCongreso integrante Comisi\u00f3n Permanente de @somospanmorelos y Barra de Abogados, Derechos de Mujeres, Pol\u00edtica y Elecciones.",
+    "utc_offset": -21600,
+    "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/752677732/4b4308fd6b2a03230ace5eb91bcffe79.jpeg",
+    "is_translator": false,
+    "listed_count": 12,
+    "default_profile_image": false,
+    "contributors_enabled": false,
+    "followers_count": 891,
+    "location": "Cuernavaca",
+    "created_at": "Wed Jul 21 03:04:04 +0000 2010",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/921394720210898944/d2-IoBmJ_normal.jpg",
+    "geo_enabled": true,
+    "time_zone": "Mexico City",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/921394720210898944/d2-IoBmJ_normal.jpg",
+    "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/752677732/4b4308fd6b2a03230ace5eb91bcffe79.jpeg",
+    "profile_link_color": "0084B4",
+    "lang": "es",
+    "name": "David Hidalgo",
+    "profile_background_tile": false,
+    "url": null,
+    "profile_sidebar_border_color": "FFFFFF"
+  },
+  "possibly_sensitive": false,
+  "entities": {
+    "user_mentions": [],
+    "urls": [
+      {
+        "expanded_url": "https://twitter.com/i/web/status/930551928873988096",
+        "url": "https://t.co/oDZKtAt3be",
+        "indices": [117, 140],
+        "display_url": "twitter.com/i/web/status/9\u2026"
+      }
+    ],
+    "symbols": [],
+    "hashtags": []
+  },
+  "retweeted": false
+}

@@ -1,1 +1,112 @@
-{"id": 930457077176258562, "lang": "es", "in_reply_to_status_id_str": null, "truncated": true, "place": {"id": "00698bbe577bad5b", "country": "Colombia", "bounding_box": {"type": "Polygon", "coordinates": [[[-75.731653, 6.166059], [-75.731653, 6.375707], [-75.506773, 6.375707], [-75.506773, 6.166059]]]}, "url": "https://api.twitter.com/1.1/geo/id/00698bbe577bad5b.json", "full_name": "Medell\u00edn, Colombia", "attributes": {}, "name": "Medell\u00edn", "place_type": "city", "country_code": "CO"}, "favorite_count": 0, "retweeted": false, "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>", "is_quote_status": false, "possibly_sensitive": false, "geo": null, "in_reply_to_user_id_str": null, "in_reply_to_status_id": null, "retweet_count": 0, "quote_count": 0, "timestamp_ms": "1510673228912", "favorited": false, "coordinates": null, "text": "La soluci\u00f3n no son m\u00e1s impuestos, las soluci\u00f3n no es silenciarlos, el remedio con los colectivistas es ignorarlos,\u2026 https://t.co/g5mUdLAI59", "entities": {"urls": [{"indices": [116, 139], "display_url": "twitter.com/i/web/status/9\u2026", "url": "https://t.co/g5mUdLAI59", "expanded_url": "https://twitter.com/i/web/status/930457077176258562"}], "symbols": [], "user_mentions": [], "hashtags": []}, "reply_count": 0, "in_reply_to_screen_name": null, "filter_level": "low", "extended_tweet": {"display_text_range": [0, 186], "entities": {"urls": [{"indices": [163, 186], "display_url": "nytimes.com/es/2017/11/13/\u2026", "url": "https://t.co/uv05lhDQwx", "expanded_url": "https://www.nytimes.com/es/2017/11/13/colombia-impuesto-bebidas-azucaradas-obesidad/"}], "symbols": [], "user_mentions": [], "hashtags": []}, "full_text": "La soluci\u00f3n no son m\u00e1s impuestos, las soluci\u00f3n no es silenciarlos, el remedio con los colectivistas es ignorarlos, o ense\u00f1arles (Aunque esto es dif\u00edcil con ellos) https://t.co/uv05lhDQwx"}, "user": {"statuses_count": 22314, "id": 127264987, "default_profile": false, "favourites_count": 14013, "url": "https://elsombrerodebastiat.wordpress.com/", "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif", "verified": false, "profile_image_url_https": "https://pbs.twimg.com/profile_images/910003716778074112/c7O87Q4q_normal.jpg", "translator_type": "none", "location": "Bucaramanga, Colombia", "geo_enabled": true, "utc_offset": -21600, "notifications": null, "profile_background_tile": false, "friends_count": 1746, "is_translator": false, "follow_request_sent": null, "default_profile_image": false, "profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif", "profile_background_color": "000000", "profile_link_color": "1B95E0", "profile_use_background_image": false, "time_zone": "Central Time (US & Canada)", "name": "Vladimir\uf8ffGuti\u00e9rrez F", "profile_text_color": "000000", "profile_sidebar_border_color": "000000", "screen_name": "VladimirGutiFer", "lang": "es", "following": null, "listed_count": 54, "protected": false, "profile_sidebar_fill_color": "000000", "followers_count": 2490, "profile_image_url": "http://pbs.twimg.com/profile_images/910003716778074112/c7O87Q4q_normal.jpg", "profile_banner_url": "https://pbs.twimg.com/profile_banners/127264987/1510427624", "contributors_enabled": false, "created_at": "Sun Mar 28 16:44:04 +0000 2010", "id_str": "127264987", "description": "Ten\u00eda una buena bio, pero se perdi\u00f3 mientras me buscaba."}, "created_at": "Tue Nov 14 15:27:08 +0000 2017", "id_str": "930457077176258562", "in_reply_to_user_id": null, "contributors": null}
+{
+  "id": 930457077176258562,
+  "lang": "es",
+  "in_reply_to_status_id_str": null,
+  "truncated": true,
+  "place": {
+    "id": "00698bbe577bad5b",
+    "country": "Colombia",
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [[[-75.731653, 6.166059], [-75.731653, 6.375707], [-75.506773, 6.375707], [-75.506773, 6.166059]]]
+    },
+    "url": "https://api.twitter.com/1.1/geo/id/00698bbe577bad5b.json",
+    "full_name": "Medell\u00edn, Colombia",
+    "attributes": {},
+    "name": "Medell\u00edn",
+    "place_type": "city",
+    "country_code": "CO"
+  },
+  "favorite_count": 0,
+  "retweeted": false,
+  "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+  "is_quote_status": false,
+  "possibly_sensitive": false,
+  "geo": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_status_id": null,
+  "retweet_count": 0,
+  "quote_count": 0,
+  "timestamp_ms": "1510673228912",
+  "favorited": false,
+  "coordinates": null,
+  "text": "La soluci\u00f3n no son m\u00e1s impuestos, las soluci\u00f3n no es silenciarlos, el remedio con los colectivistas es ignorarlos,\u2026 https://t.co/g5mUdLAI59",
+  "entities": {
+    "urls": [
+      {
+        "indices": [116, 139],
+        "display_url": "twitter.com/i/web/status/9\u2026",
+        "url": "https://t.co/g5mUdLAI59",
+        "expanded_url": "https://twitter.com/i/web/status/930457077176258562"
+      }
+    ],
+    "symbols": [],
+    "user_mentions": [],
+    "hashtags": []
+  },
+  "reply_count": 0,
+  "in_reply_to_screen_name": null,
+  "filter_level": "low",
+  "extended_tweet": {
+    "display_text_range": [0, 186],
+    "entities": {
+      "urls": [
+        {
+          "indices": [163, 186],
+          "display_url": "nytimes.com/es/2017/11/13/\u2026",
+          "url": "https://t.co/uv05lhDQwx",
+          "expanded_url": "https://www.nytimes.com/es/2017/11/13/colombia-impuesto-bebidas-azucaradas-obesidad/"
+        }
+      ],
+      "symbols": [],
+      "user_mentions": [],
+      "hashtags": []
+    },
+    "full_text": "La soluci\u00f3n no son m\u00e1s impuestos, las soluci\u00f3n no es silenciarlos, el remedio con los colectivistas es ignorarlos, o ense\u00f1arles (Aunque esto es dif\u00edcil con ellos) https://t.co/uv05lhDQwx"
+  },
+  "user": {
+    "statuses_count": 22314,
+    "id": 127264987,
+    "default_profile": false,
+    "favourites_count": 14013,
+    "url": "https://elsombrerodebastiat.wordpress.com/",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+    "verified": false,
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/910003716778074112/c7O87Q4q_normal.jpg",
+    "translator_type": "none",
+    "location": "Bucaramanga, Colombia",
+    "geo_enabled": true,
+    "utc_offset": -21600,
+    "notifications": null,
+    "profile_background_tile": false,
+    "friends_count": 1746,
+    "is_translator": false,
+    "follow_request_sent": null,
+    "default_profile_image": false,
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+    "profile_background_color": "000000",
+    "profile_link_color": "1B95E0",
+    "profile_use_background_image": false,
+    "time_zone": "Central Time (US & Canada)",
+    "name": "Vladimir\uf8ffGuti\u00e9rrez F",
+    "profile_text_color": "000000",
+    "profile_sidebar_border_color": "000000",
+    "screen_name": "VladimirGutiFer",
+    "lang": "es",
+    "following": null,
+    "listed_count": 54,
+    "protected": false,
+    "profile_sidebar_fill_color": "000000",
+    "followers_count": 2490,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/910003716778074112/c7O87Q4q_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/127264987/1510427624",
+    "contributors_enabled": false,
+    "created_at": "Sun Mar 28 16:44:04 +0000 2010",
+    "id_str": "127264987",
+    "description": "Ten\u00eda una buena bio, pero se perdi\u00f3 mientras me buscaba."
+  },
+  "created_at": "Tue Nov 14 15:27:08 +0000 2017",
+  "id_str": "930457077176258562",
+  "in_reply_to_user_id": null,
+  "contributors": null
+}

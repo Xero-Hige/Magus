@@ -1,1 +1,178 @@
-{"extended_tweet": {"display_text_range": [0, 250], "entities": {"urls": [], "media": [{"type": "photo", "media_url": "http://pbs.twimg.com/media/DOrxvgzVoAUwhh4.jpg", "expanded_url": "https://twitter.com/JorgeCaamano/status/930822086091792389/photo/1", "id_str": "930822071566835717", "indices": [251, 274], "id": 930822071566835717, "url": "https://t.co/EawFi1bMOe", "display_url": "pic.twitter.com/EawFi1bMOe", "sizes": {"large": {"w": 585, "resize": "fit", "h": 585}, "thumb": {"w": 150, "resize": "crop", "h": 150}, "medium": {"w": 585, "resize": "fit", "h": 585}, "small": {"w": 585, "resize": "fit", "h": 585}}, "media_url_https": "https://pbs.twimg.com/media/DOrxvgzVoAUwhh4.jpg"}], "symbols": [], "hashtags": [], "user_mentions": []}, "full_text": "Sorprendido del trato tan amable que se recibe en M\u00e1laga, desde taxistas, saloneros, recepcionistas y hasta la Polic\u00eda, la ciudad vive del turismo y la meta es asegurarse que todos nos llevemos una excelente impresi\u00f3n. Lo que nuestro pa\u00eds ha perdido. https://t.co/EawFi1bMOe", "extended_entities": {"media": [{"type": "photo", "media_url": "http://pbs.twimg.com/media/DOrxvgzVoAUwhh4.jpg", "expanded_url": "https://twitter.com/JorgeCaamano/status/930822086091792389/photo/1", "id_str": "930822071566835717", "indices": [251, 274], "id": 930822071566835717, "url": "https://t.co/EawFi1bMOe", "display_url": "pic.twitter.com/EawFi1bMOe", "sizes": {"large": {"w": 585, "resize": "fit", "h": 585}, "thumb": {"w": 150, "resize": "crop", "h": 150}, "medium": {"w": 585, "resize": "fit", "h": 585}, "small": {"w": 585, "resize": "fit", "h": 585}}, "media_url_https": "https://pbs.twimg.com/media/DOrxvgzVoAUwhh4.jpg"}]}}, "favorited": false, "lang": "es", "display_text_range": [0, 140], "favorite_count": 0, "reply_count": 0, "geo": null, "contributors": null, "text": "Sorprendido del trato tan amable que se recibe en M\u00e1laga, desde taxistas, saloneros, recepcionistas y hasta la Poli\u2026 https://t.co/YnweM6p5Le", "created_at": "Wed Nov 15 15:37:33 +0000 2017", "place": {"place_type": "city", "full_name": "M\u00e1laga, Espa\u00f1a", "country": "Espa\u00f1a", "name": "M\u00e1laga", "url": "https://api.twitter.com/1.1/geo/id/507a015cba6ef518.json", "country_code": "ES", "bounding_box": {"type": "Polygon", "coordinates": [[[-4.587928, 36.635585], [-4.587928, 36.894171], [-4.260134, 36.894171], [-4.260134, 36.635585]]]}, "id": "507a015cba6ef518", "attributes": {}}, "user": {"profile_text_color": "333333", "lang": "es", "location": "Costa Rica", "friends_count": 623, "profile_link_color": "1B95E0", "profile_image_url_https": "https://pbs.twimg.com/profile_images/910934871845015552/RfYC3pL1_normal.jpg", "contributors_enabled": false, "following": null, "is_translator": false, "verified": false, "profile_banner_url": "https://pbs.twimg.com/profile_banners/86187792/1499554997", "utc_offset": -21600, "geo_enabled": true, "profile_sidebar_border_color": "C0DEED", "created_at": "Thu Oct 29 23:12:51 +0000 2009", "description": "CUENTA OFICIAL Periodista #ESPN #FOXSPORTS Dirigente #SANTOS #UNAFUT Licencia DT Clase A en @USSOCCER @UEFA @FEDEFUTBOL_CR y 5 veces mundialista \ud83c\udde8\ud83c\uddf7\ud83c\udde8\ud83c\uddf7", "profile_image_url": "http://pbs.twimg.com/profile_images/910934871845015552/RfYC3pL1_normal.jpg", "profile_background_color": "C0DEED", "listed_count": 69, "follow_request_sent": null, "profile_background_tile": true, "followers_count": 4619, "name": "Jorge Caama\u00f1o", "notifications": null, "default_profile_image": false, "url": "http://jcdeportes.com/", "favourites_count": 16612, "screen_name": "JorgeCaamano", "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/190120540/01-TacticaFija.jpg", "profile_sidebar_fill_color": "DDEEF6", "profile_use_background_image": true, "translator_type": "none", "time_zone": "America/Costa_Rica", "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/190120540/01-TacticaFija.jpg", "statuses_count": 27383, "id": 86187792, "default_profile": false, "protected": false, "id_str": "86187792"}, "in_reply_to_user_id_str": null, "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>", "filter_level": "low", "is_quote_status": false, "in_reply_to_status_id": null, "in_reply_to_user_id": null, "quote_count": 0, "retweeted": false, "possibly_sensitive": false, "in_reply_to_screen_name": null, "retweet_count": 0, "in_reply_to_status_id_str": null, "coordinates": null, "id": 930822086091792389, "truncated": true, "entities": {"urls": [{"url": "https://t.co/YnweM6p5Le", "display_url": "twitter.com/i/web/status/9\u2026", "indices": [117, 140], "expanded_url": "https://twitter.com/i/web/status/930822086091792389"}], "symbols": [], "hashtags": [], "user_mentions": []}, "timestamp_ms": "1510760253819", "id_str": "930822086091792389"}
+{
+  "extended_tweet": {
+    "display_text_range": [0, 250],
+    "entities": {
+      "urls": [],
+      "media": [
+        {
+          "type": "photo",
+          "media_url": "http://pbs.twimg.com/media/DOrxvgzVoAUwhh4.jpg",
+          "expanded_url": "https://twitter.com/JorgeCaamano/status/930822086091792389/photo/1",
+          "id_str": "930822071566835717",
+          "indices": [251, 274],
+          "id": 930822071566835717,
+          "url": "https://t.co/EawFi1bMOe",
+          "display_url": "pic.twitter.com/EawFi1bMOe",
+          "sizes": {
+            "large": {
+              "w": 585,
+              "resize": "fit",
+              "h": 585
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 585,
+              "resize": "fit",
+              "h": 585
+            },
+            "small": {
+              "w": 585,
+              "resize": "fit",
+              "h": 585
+            }
+          },
+          "media_url_https": "https://pbs.twimg.com/media/DOrxvgzVoAUwhh4.jpg"
+        }
+      ],
+      "symbols": [],
+      "hashtags": [],
+      "user_mentions": []
+    },
+    "full_text": "Sorprendido del trato tan amable que se recibe en M\u00e1laga, desde taxistas, saloneros, recepcionistas y hasta la Polic\u00eda, la ciudad vive del turismo y la meta es asegurarse que todos nos llevemos una excelente impresi\u00f3n. Lo que nuestro pa\u00eds ha perdido. https://t.co/EawFi1bMOe",
+    "extended_entities": {
+      "media": [
+        {
+          "type": "photo",
+          "media_url": "http://pbs.twimg.com/media/DOrxvgzVoAUwhh4.jpg",
+          "expanded_url": "https://twitter.com/JorgeCaamano/status/930822086091792389/photo/1",
+          "id_str": "930822071566835717",
+          "indices": [251, 274],
+          "id": 930822071566835717,
+          "url": "https://t.co/EawFi1bMOe",
+          "display_url": "pic.twitter.com/EawFi1bMOe",
+          "sizes": {
+            "large": {
+              "w": 585,
+              "resize": "fit",
+              "h": 585
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 585,
+              "resize": "fit",
+              "h": 585
+            },
+            "small": {
+              "w": 585,
+              "resize": "fit",
+              "h": 585
+            }
+          },
+          "media_url_https": "https://pbs.twimg.com/media/DOrxvgzVoAUwhh4.jpg"
+        }
+      ]
+    }
+  },
+  "favorited": false,
+  "lang": "es",
+  "display_text_range": [0, 140],
+  "favorite_count": 0,
+  "reply_count": 0,
+  "geo": null,
+  "contributors": null,
+  "text": "Sorprendido del trato tan amable que se recibe en M\u00e1laga, desde taxistas, saloneros, recepcionistas y hasta la Poli\u2026 https://t.co/YnweM6p5Le",
+  "created_at": "Wed Nov 15 15:37:33 +0000 2017",
+  "place": {
+    "place_type": "city",
+    "full_name": "M\u00e1laga, Espa\u00f1a",
+    "country": "Espa\u00f1a",
+    "name": "M\u00e1laga",
+    "url": "https://api.twitter.com/1.1/geo/id/507a015cba6ef518.json",
+    "country_code": "ES",
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [[[-4.587928, 36.635585], [-4.587928, 36.894171], [-4.260134, 36.894171], [-4.260134, 36.635585]]]
+    },
+    "id": "507a015cba6ef518",
+    "attributes": {}
+  },
+  "user": {
+    "profile_text_color": "333333",
+    "lang": "es",
+    "location": "Costa Rica",
+    "friends_count": 623,
+    "profile_link_color": "1B95E0",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/910934871845015552/RfYC3pL1_normal.jpg",
+    "contributors_enabled": false,
+    "following": null,
+    "is_translator": false,
+    "verified": false,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/86187792/1499554997",
+    "utc_offset": -21600,
+    "geo_enabled": true,
+    "profile_sidebar_border_color": "C0DEED",
+    "created_at": "Thu Oct 29 23:12:51 +0000 2009",
+    "description": "CUENTA OFICIAL Periodista #ESPN #FOXSPORTS Dirigente #SANTOS #UNAFUT Licencia DT Clase A en @USSOCCER @UEFA @FEDEFUTBOL_CR y 5 veces mundialista \ud83c\udde8\ud83c\uddf7\ud83c\udde8\ud83c\uddf7",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/910934871845015552/RfYC3pL1_normal.jpg",
+    "profile_background_color": "C0DEED",
+    "listed_count": 69,
+    "follow_request_sent": null,
+    "profile_background_tile": true,
+    "followers_count": 4619,
+    "name": "Jorge Caama\u00f1o",
+    "notifications": null,
+    "default_profile_image": false,
+    "url": "http://jcdeportes.com/",
+    "favourites_count": 16612,
+    "screen_name": "JorgeCaamano",
+    "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/190120540/01-TacticaFija.jpg",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_use_background_image": true,
+    "translator_type": "none",
+    "time_zone": "America/Costa_Rica",
+    "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/190120540/01-TacticaFija.jpg",
+    "statuses_count": 27383,
+    "id": 86187792,
+    "default_profile": false,
+    "protected": false,
+    "id_str": "86187792"
+  },
+  "in_reply_to_user_id_str": null,
+  "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+  "filter_level": "low",
+  "is_quote_status": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_user_id": null,
+  "quote_count": 0,
+  "retweeted": false,
+  "possibly_sensitive": false,
+  "in_reply_to_screen_name": null,
+  "retweet_count": 0,
+  "in_reply_to_status_id_str": null,
+  "coordinates": null,
+  "id": 930822086091792389,
+  "truncated": true,
+  "entities": {
+    "urls": [
+      {
+        "url": "https://t.co/YnweM6p5Le",
+        "display_url": "twitter.com/i/web/status/9\u2026",
+        "indices": [117, 140],
+        "expanded_url": "https://twitter.com/i/web/status/930822086091792389"
+      }
+    ],
+    "symbols": [],
+    "hashtags": [],
+    "user_mentions": []
+  },
+  "timestamp_ms": "1510760253819",
+  "id_str": "930822086091792389"
+}

@@ -1,1 +1,176 @@
-{"in_reply_to_screen_name": null, "geo": {"type": "Point", "coordinates": [-12.05812309, -77.08325386]}, "filter_level": "low", "in_reply_to_status_id": null, "lang": "es", "favorite_count": 0, "display_text_range": [0, 111], "favorited": false, "id": 930633116947009536, "place": {"name": "Lima", "full_name": "Lima, Peru", "place_type": "city", "country": "Peru", "id": "006099b7317c8404", "bounding_box": {"type": "Polygon", "coordinates": [[[-77.088074, -12.080577], [-77.088074, -12.030359], [-76.999859, -12.030359], [-76.999859, -12.080577]]]}, "attributes": {}, "url": "https://api.twitter.com/1.1/geo/id/006099b7317c8404.json", "country_code": "PE"}, "coordinates": {"type": "Point", "coordinates": [-77.08325386, -12.05812309]}, "entities": {"media": [{"id_str": "930633114560483330", "display_url": "pic.twitter.com/ibxZl1lgFW", "url": "https://t.co/ibxZl1lgFW", "expanded_url": "https://twitter.com/nuncatanmalo/status/930633116947009536/photo/1", "media_url_https": "https://pbs.twimg.com/media/DOpF4xGX0AI5nNf.jpg", "id": 930633114560483330, "type": "photo", "indices": [112, 135], "sizes": {"medium": {"h": 540, "resize": "fit", "w": 720}, "thumb": {"h": 150, "resize": "crop", "w": 150}, "large": {"h": 540, "resize": "fit", "w": 720}, "small": {"h": 510, "resize": "fit", "w": 680}}, "media_url": "http://pbs.twimg.com/media/DOpF4xGX0AI5nNf.jpg"}], "hashtags": [], "urls": [{"display_url": "swarmapp.com/c/assOUgzQs9F", "expanded_url": "https://www.swarmapp.com/c/assOUgzQs9F", "url": "https://t.co/b1w5pBWD6v", "indices": [88, 111]}], "symbols": [], "user_mentions": []}, "extended_entities": {"media": [{"id_str": "930633114560483330", "display_url": "pic.twitter.com/ibxZl1lgFW", "url": "https://t.co/ibxZl1lgFW", "expanded_url": "https://twitter.com/nuncatanmalo/status/930633116947009536/photo/1", "media_url_https": "https://pbs.twimg.com/media/DOpF4xGX0AI5nNf.jpg", "id": 930633114560483330, "type": "photo", "indices": [112, 135], "sizes": {"medium": {"h": 540, "resize": "fit", "w": 720}, "thumb": {"h": 150, "resize": "crop", "w": 150}, "large": {"h": 540, "resize": "fit", "w": 720}, "small": {"h": 510, "resize": "fit", "w": 680}}, "media_url": "http://pbs.twimg.com/media/DOpF4xGX0AI5nNf.jpg"}]}, "possibly_sensitive": false, "user": {"followers_count": 1509, "profile_background_image_url": "http://abs.twimg.com/images/themes/theme10/bg.gif", "profile_background_color": "642D8B", "translator_type": "none", "profile_image_url": "http://pbs.twimg.com/profile_images/900586853862080512/v6HMmrlG_normal.jpg", "profile_banner_url": "https://pbs.twimg.com/profile_banners/289729416/1443490888", "default_profile": false, "utc_offset": -21600, "lang": "es", "url": "http://chicovisible.blogspot.pe", "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme10/bg.gif", "profile_image_url_https": "https://pbs.twimg.com/profile_images/900586853862080512/v6HMmrlG_normal.jpg", "time_zone": "Central Time (US & Canada)", "profile_sidebar_border_color": "FFFFFF", "profile_use_background_image": true, "id": 289729416, "profile_link_color": "FF0000", "profile_sidebar_fill_color": "7AC3EE", "profile_background_tile": true, "geo_enabled": true, "id_str": "289729416", "verified": false, "name": "Arroz Chaufa", "is_translator": false, "notifications": null, "following": null, "friends_count": 35, "contributors_enabled": false, "screen_name": "nuncatanmalo", "created_at": "Fri Apr 29 03:40:12 +0000 2011", "profile_text_color": "3D1957", "favourites_count": 228, "follow_request_sent": null, "description": "25. Profesor y futuro ing. de sistemas. M\u00fasico y escritor de blogs baratos sin fines de lucro. Mis opiniones son personales.\nsnap: daniel.cd91", "default_profile_image": false, "location": "Lima, Per\u00fa o Penny Lane", "listed_count": 13, "protected": false, "statuses_count": 88863}, "id_str": "930633116947009536", "retweet_count": 0, "retweeted": false, "quote_count": 0, "truncated": false, "in_reply_to_status_id_str": null, "reply_count": 0, "created_at": "Wed Nov 15 03:06:40 +0000 2017", "is_quote_status": false, "in_reply_to_user_id": null, "source": "<a href=\"http://foursquare.com\" rel=\"nofollow\">Foursquare</a>", "text": "Green Day!!! \ud83e\udd18 (@ Estadio de la Universidad Nacional Mayor de San Marcos for Green Day) https://t.co/b1w5pBWD6v https://t.co/ibxZl1lgFW", "timestamp_ms": "1510715200064", "in_reply_to_user_id_str": null, "contributors": null}
+{
+  "in_reply_to_screen_name": null,
+  "geo": {
+    "type": "Point",
+    "coordinates": [-12.05812309, -77.08325386]
+  },
+  "filter_level": "low",
+  "in_reply_to_status_id": null,
+  "lang": "es",
+  "favorite_count": 0,
+  "display_text_range": [0, 111],
+  "favorited": false,
+  "id": 930633116947009536,
+  "place": {
+    "name": "Lima",
+    "full_name": "Lima, Peru",
+    "place_type": "city",
+    "country": "Peru",
+    "id": "006099b7317c8404",
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [[-77.088074, -12.080577], [-77.088074, -12.030359], [-76.999859, -12.030359], [-76.999859, -12.080577]]
+      ]
+    },
+    "attributes": {},
+    "url": "https://api.twitter.com/1.1/geo/id/006099b7317c8404.json",
+    "country_code": "PE"
+  },
+  "coordinates": {
+    "type": "Point",
+    "coordinates": [-77.08325386, -12.05812309]
+  },
+  "entities": {
+    "media": [
+      {
+        "id_str": "930633114560483330",
+        "display_url": "pic.twitter.com/ibxZl1lgFW",
+        "url": "https://t.co/ibxZl1lgFW",
+        "expanded_url": "https://twitter.com/nuncatanmalo/status/930633116947009536/photo/1",
+        "media_url_https": "https://pbs.twimg.com/media/DOpF4xGX0AI5nNf.jpg",
+        "id": 930633114560483330,
+        "type": "photo",
+        "indices": [112, 135],
+        "sizes": {
+          "medium": {
+            "h": 540,
+            "resize": "fit",
+            "w": 720
+          },
+          "thumb": {
+            "h": 150,
+            "resize": "crop",
+            "w": 150
+          },
+          "large": {
+            "h": 540,
+            "resize": "fit",
+            "w": 720
+          },
+          "small": {
+            "h": 510,
+            "resize": "fit",
+            "w": 680
+          }
+        },
+        "media_url": "http://pbs.twimg.com/media/DOpF4xGX0AI5nNf.jpg"
+      }
+    ],
+    "hashtags": [],
+    "urls": [
+      {
+        "display_url": "swarmapp.com/c/assOUgzQs9F",
+        "expanded_url": "https://www.swarmapp.com/c/assOUgzQs9F",
+        "url": "https://t.co/b1w5pBWD6v",
+        "indices": [88, 111]
+      }
+    ],
+    "symbols": [],
+    "user_mentions": []
+  },
+  "extended_entities": {
+    "media": [
+      {
+        "id_str": "930633114560483330",
+        "display_url": "pic.twitter.com/ibxZl1lgFW",
+        "url": "https://t.co/ibxZl1lgFW",
+        "expanded_url": "https://twitter.com/nuncatanmalo/status/930633116947009536/photo/1",
+        "media_url_https": "https://pbs.twimg.com/media/DOpF4xGX0AI5nNf.jpg",
+        "id": 930633114560483330,
+        "type": "photo",
+        "indices": [112, 135],
+        "sizes": {
+          "medium": {
+            "h": 540,
+            "resize": "fit",
+            "w": 720
+          },
+          "thumb": {
+            "h": 150,
+            "resize": "crop",
+            "w": 150
+          },
+          "large": {
+            "h": 540,
+            "resize": "fit",
+            "w": 720
+          },
+          "small": {
+            "h": 510,
+            "resize": "fit",
+            "w": 680
+          }
+        },
+        "media_url": "http://pbs.twimg.com/media/DOpF4xGX0AI5nNf.jpg"
+      }
+    ]
+  },
+  "possibly_sensitive": false,
+  "user": {
+    "followers_count": 1509,
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme10/bg.gif",
+    "profile_background_color": "642D8B",
+    "translator_type": "none",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/900586853862080512/v6HMmrlG_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/289729416/1443490888",
+    "default_profile": false,
+    "utc_offset": -21600,
+    "lang": "es",
+    "url": "http://chicovisible.blogspot.pe",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme10/bg.gif",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/900586853862080512/v6HMmrlG_normal.jpg",
+    "time_zone": "Central Time (US & Canada)",
+    "profile_sidebar_border_color": "FFFFFF",
+    "profile_use_background_image": true,
+    "id": 289729416,
+    "profile_link_color": "FF0000",
+    "profile_sidebar_fill_color": "7AC3EE",
+    "profile_background_tile": true,
+    "geo_enabled": true,
+    "id_str": "289729416",
+    "verified": false,
+    "name": "Arroz Chaufa",
+    "is_translator": false,
+    "notifications": null,
+    "following": null,
+    "friends_count": 35,
+    "contributors_enabled": false,
+    "screen_name": "nuncatanmalo",
+    "created_at": "Fri Apr 29 03:40:12 +0000 2011",
+    "profile_text_color": "3D1957",
+    "favourites_count": 228,
+    "follow_request_sent": null,
+    "description": "25. Profesor y futuro ing. de sistemas. M\u00fasico y escritor de blogs baratos sin fines de lucro. Mis opiniones son personales.\nsnap: daniel.cd91",
+    "default_profile_image": false,
+    "location": "Lima, Per\u00fa o Penny Lane",
+    "listed_count": 13,
+    "protected": false,
+    "statuses_count": 88863
+  },
+  "id_str": "930633116947009536",
+  "retweet_count": 0,
+  "retweeted": false,
+  "quote_count": 0,
+  "truncated": false,
+  "in_reply_to_status_id_str": null,
+  "reply_count": 0,
+  "created_at": "Wed Nov 15 03:06:40 +0000 2017",
+  "is_quote_status": false,
+  "in_reply_to_user_id": null,
+  "source": "<a href=\"http://foursquare.com\" rel=\"nofollow\">Foursquare</a>",
+  "text": "Green Day!!! \ud83e\udd18 (@ Estadio de la Universidad Nacional Mayor de San Marcos for Green Day) https://t.co/b1w5pBWD6v https://t.co/ibxZl1lgFW",
+  "timestamp_ms": "1510715200064",
+  "in_reply_to_user_id_str": null,
+  "contributors": null
+}

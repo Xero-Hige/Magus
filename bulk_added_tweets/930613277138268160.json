@@ -1,1 +1,106 @@
-{"geo": null, "filter_level": "low", "in_reply_to_status_id": null, "lang": "es", "favorite_count": 0, "coordinates": null, "favorited": false, "place": {"name": "Mar del Plata", "full_name": "Mar del Plata, Argentina", "place_type": "city", "country": "Argentina", "id": "010d7db066434a8a", "bounding_box": {"type": "Polygon", "coordinates": [[[-57.645563, -38.127814], [-57.645563, -37.895361], [-57.517298, -37.895361], [-57.517298, -38.127814]]]}, "attributes": {}, "url": "https://api.twitter.com/1.1/geo/id/010d7db066434a8a.json", "country_code": "AR"}, "contributors": null, "entities": {"hashtags": [], "urls": [{"display_url": "twitter.com/i/web/status/9\u2026", "expanded_url": "https://twitter.com/i/web/status/930613277138268160", "url": "https://t.co/TcLpfKbIph", "indices": [117, 140]}], "symbols": [], "user_mentions": []}, "id": 930613277138268160, "user": {"followers_count": 278, "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/692284431/e10a807dfb799b626e1d600de53e7e79.jpeg", "profile_background_color": "131516", "translator_type": "none", "profile_image_url": "http://pbs.twimg.com/profile_images/572248653394214912/2QhPlweQ_normal.png", "profile_banner_url": "https://pbs.twimg.com/profile_banners/244653096/1509416578", "default_profile": false, "utc_offset": -10800, "lang": "es", "url": null, "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/692284431/e10a807dfb799b626e1d600de53e7e79.jpeg", "profile_image_url_https": "https://pbs.twimg.com/profile_images/572248653394214912/2QhPlweQ_normal.png", "time_zone": "Buenos Aires", "profile_sidebar_border_color": "FFFFFF", "profile_use_background_image": true, "id": 244653096, "profile_link_color": "2BF00C", "profile_sidebar_fill_color": "EFEFEF", "profile_background_tile": true, "geo_enabled": true, "id_str": "244653096", "verified": false, "name": "DI PAOLO DAMIAN", "is_translator": false, "notifications": null, "following": null, "friends_count": 563, "contributors_enabled": false, "screen_name": "damiandipaolo1", "created_at": "Sat Jan 29 20:28:05 +0000 2011", "profile_text_color": "333333", "favourites_count": 857, "follow_request_sent": null, "description": "Un VAGO de mil CARAVANAS a punto de quedar a pie!!!Saliste ya mil veces de la pista respirar a reclutar bien maquillado!!!Y ESCORPIANO", "default_profile_image": false, "location": "MAR DEL PLATA", "listed_count": 3, "protected": false, "statuses_count": 2613}, "id_str": "930613277138268160", "retweet_count": 0, "retweeted": false, "quote_count": 0, "truncated": true, "in_reply_to_status_id_str": null, "reply_count": 0, "created_at": "Wed Nov 15 01:47:49 +0000 2017", "is_quote_status": false, "in_reply_to_user_id": null, "timestamp_ms": "1510710469885", "text": "\"MUCHOS MIRAN AL EMPRESARIO COMO EL LOBO QUE HAY QUE ABATIR,OTROS LO MIRAN COMO LA VACA QUE HAY QUE ORDE\u00d1AR Y MUY P\u2026 https://t.co/TcLpfKbIph", "extended_tweet": {"full_text": "\"MUCHOS MIRAN AL EMPRESARIO COMO EL LOBO QUE HAY QUE ABATIR,OTROS LO MIRAN COMO LA VACA QUE HAY QUE ORDE\u00d1AR Y MUY POCOS LO MIRAN COMO EL CABALLO QUE TIRA EL GRAN CARRO,,,\n-WINSTON CHURCHILL-", "display_text_range": [0, 190], "entities": {"hashtags": [], "urls": [], "symbols": [], "user_mentions": []}}, "in_reply_to_user_id_str": null, "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>", "in_reply_to_screen_name": null}
+{
+  "geo": null,
+  "filter_level": "low",
+  "in_reply_to_status_id": null,
+  "lang": "es",
+  "favorite_count": 0,
+  "coordinates": null,
+  "favorited": false,
+  "place": {
+    "name": "Mar del Plata",
+    "full_name": "Mar del Plata, Argentina",
+    "place_type": "city",
+    "country": "Argentina",
+    "id": "010d7db066434a8a",
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [[-57.645563, -38.127814], [-57.645563, -37.895361], [-57.517298, -37.895361], [-57.517298, -38.127814]]
+      ]
+    },
+    "attributes": {},
+    "url": "https://api.twitter.com/1.1/geo/id/010d7db066434a8a.json",
+    "country_code": "AR"
+  },
+  "contributors": null,
+  "entities": {
+    "hashtags": [],
+    "urls": [
+      {
+        "display_url": "twitter.com/i/web/status/9\u2026",
+        "expanded_url": "https://twitter.com/i/web/status/930613277138268160",
+        "url": "https://t.co/TcLpfKbIph",
+        "indices": [117, 140]
+      }
+    ],
+    "symbols": [],
+    "user_mentions": []
+  },
+  "id": 930613277138268160,
+  "user": {
+    "followers_count": 278,
+    "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/692284431/e10a807dfb799b626e1d600de53e7e79.jpeg",
+    "profile_background_color": "131516",
+    "translator_type": "none",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/572248653394214912/2QhPlweQ_normal.png",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/244653096/1509416578",
+    "default_profile": false,
+    "utc_offset": -10800,
+    "lang": "es",
+    "url": null,
+    "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/692284431/e10a807dfb799b626e1d600de53e7e79.jpeg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/572248653394214912/2QhPlweQ_normal.png",
+    "time_zone": "Buenos Aires",
+    "profile_sidebar_border_color": "FFFFFF",
+    "profile_use_background_image": true,
+    "id": 244653096,
+    "profile_link_color": "2BF00C",
+    "profile_sidebar_fill_color": "EFEFEF",
+    "profile_background_tile": true,
+    "geo_enabled": true,
+    "id_str": "244653096",
+    "verified": false,
+    "name": "DI PAOLO DAMIAN",
+    "is_translator": false,
+    "notifications": null,
+    "following": null,
+    "friends_count": 563,
+    "contributors_enabled": false,
+    "screen_name": "damiandipaolo1",
+    "created_at": "Sat Jan 29 20:28:05 +0000 2011",
+    "profile_text_color": "333333",
+    "favourites_count": 857,
+    "follow_request_sent": null,
+    "description": "Un VAGO de mil CARAVANAS a punto de quedar a pie!!!Saliste ya mil veces de la pista respirar a reclutar bien maquillado!!!Y ESCORPIANO",
+    "default_profile_image": false,
+    "location": "MAR DEL PLATA",
+    "listed_count": 3,
+    "protected": false,
+    "statuses_count": 2613
+  },
+  "id_str": "930613277138268160",
+  "retweet_count": 0,
+  "retweeted": false,
+  "quote_count": 0,
+  "truncated": true,
+  "in_reply_to_status_id_str": null,
+  "reply_count": 0,
+  "created_at": "Wed Nov 15 01:47:49 +0000 2017",
+  "is_quote_status": false,
+  "in_reply_to_user_id": null,
+  "timestamp_ms": "1510710469885",
+  "text": "\"MUCHOS MIRAN AL EMPRESARIO COMO EL LOBO QUE HAY QUE ABATIR,OTROS LO MIRAN COMO LA VACA QUE HAY QUE ORDE\u00d1AR Y MUY P\u2026 https://t.co/TcLpfKbIph",
+  "extended_tweet": {
+    "full_text": "\"MUCHOS MIRAN AL EMPRESARIO COMO EL LOBO QUE HAY QUE ABATIR,OTROS LO MIRAN COMO LA VACA QUE HAY QUE ORDE\u00d1AR Y MUY POCOS LO MIRAN COMO EL CABALLO QUE TIRA EL GRAN CARRO,,,\n-WINSTON CHURCHILL-",
+    "display_text_range": [0, 190],
+    "entities": {
+      "hashtags": [],
+      "urls": [],
+      "symbols": [],
+      "user_mentions": []
+    }
+  },
+  "in_reply_to_user_id_str": null,
+  "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+  "in_reply_to_screen_name": null
+}

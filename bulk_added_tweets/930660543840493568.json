@@ -1,1 +1,115 @@
-{"geo": {"type": "Point", "coordinates": [8.87591657, -79.78880517]}, "filter_level": "low", "in_reply_to_status_id": null, "lang": "es", "favorite_count": 0, "coordinates": {"type": "Point", "coordinates": [-79.78880517, 8.87591657]}, "favorited": false, "place": {"name": "Panam\u00e1", "full_name": "Panam\u00e1", "place_type": "country", "country": "Panam\u00e1", "id": "9d8ae4b0fac2036a", "bounding_box": {"type": "Polygon", "coordinates": [[[-83.051445, 7.20386], [-83.051445, 9.639486], [-77.13939, 9.639486], [-77.13939, 7.20386]]]}, "attributes": {}, "url": "https://api.twitter.com/1.1/geo/id/9d8ae4b0fac2036a.json", "country_code": "PA"}, "contributors": null, "entities": {"hashtags": [{"text": "Confirmado", "indices": [0, 11]}, {"text": "Reggaeton", "indices": [18, 28]}, {"text": "Sabado24", "indices": [68, 77]}, {"text": "Noviembre", "indices": [81, 91]}], "urls": [{"display_url": "instagram.com/p/BbgNRR7AQAF/", "expanded_url": "https://www.instagram.com/p/BbgNRR7AQAF/", "url": "https://t.co/CTUNLOeMll", "indices": [93, 116]}], "symbols": [], "user_mentions": []}, "id": 930660543840493568, "possibly_sensitive": false, "user": {"followers_count": 34, "profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif", "profile_background_color": "1A1B1F", "translator_type": "none", "profile_image_url": "http://pbs.twimg.com/profile_images/800859746525913089/OPPwhH5K_normal.jpg", "profile_banner_url": "https://pbs.twimg.com/profile_banners/1192030915/1486255091", "default_profile": false, "utc_offset": -18000, "lang": "es", "url": "https://www.instagram.com/tu_parking_507/", "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif", "profile_image_url_https": "https://pbs.twimg.com/profile_images/800859746525913089/OPPwhH5K_normal.jpg", "time_zone": "Bogota", "profile_sidebar_border_color": "181A1E", "profile_use_background_image": true, "id": 1192030915, "profile_link_color": "2FC2EF", "profile_sidebar_fill_color": "252429", "profile_background_tile": false, "geo_enabled": true, "id_str": "1192030915", "verified": false, "name": "Yosimar Sanchez", "is_translator": false, "notifications": null, "following": null, "friends_count": 323, "contributors_enabled": false, "screen_name": "yosimarsm_30", "created_at": "Mon Feb 18 04:25:46 +0000 2013", "profile_text_color": "666666", "favourites_count": 138, "follow_request_sent": null, "description": "PROMOTOR de CHILL OUT\ud83c\udf34\n\ud83d\udd35LISTA AZUL\ud83d\udd35\nPARA RESERVACIONES, LISTAS\n& CUMPLEA\u00d1OS AL \ud83d\udcf263068360\n\ninst: @yosimarsm_30      @tu_parking_507", "default_profile_image": false, "location": "Panam\u00e1", "listed_count": 0, "protected": false, "statuses_count": 1386}, "id_str": "930660543840493568", "retweet_count": 0, "retweeted": false, "quote_count": 0, "truncated": false, "in_reply_to_status_id_str": null, "reply_count": 0, "created_at": "Wed Nov 15 04:55:39 +0000 2017", "is_quote_status": false, "in_reply_to_user_id": null, "source": "<a href=\"http://instagram.com\" rel=\"nofollow\">Instagram</a>", "text": "#Confirmado habra #Reggaeton en la Gala De Los Amigos Del Senafront #Sabado24 de #Noviembre\u2026 https://t.co/CTUNLOeMll", "timestamp_ms": "1510721739145", "in_reply_to_user_id_str": null, "in_reply_to_screen_name": null}
+{
+  "geo": {
+    "type": "Point",
+    "coordinates": [8.87591657, -79.78880517]
+  },
+  "filter_level": "low",
+  "in_reply_to_status_id": null,
+  "lang": "es",
+  "favorite_count": 0,
+  "coordinates": {
+    "type": "Point",
+    "coordinates": [-79.78880517, 8.87591657]
+  },
+  "favorited": false,
+  "place": {
+    "name": "Panam\u00e1",
+    "full_name": "Panam\u00e1",
+    "place_type": "country",
+    "country": "Panam\u00e1",
+    "id": "9d8ae4b0fac2036a",
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [[[-83.051445, 7.20386], [-83.051445, 9.639486], [-77.13939, 9.639486], [-77.13939, 7.20386]]]
+    },
+    "attributes": {},
+    "url": "https://api.twitter.com/1.1/geo/id/9d8ae4b0fac2036a.json",
+    "country_code": "PA"
+  },
+  "contributors": null,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "Confirmado",
+        "indices": [0, 11]
+      }, {
+        "text": "Reggaeton",
+        "indices": [18, 28]
+      }, {
+        "text": "Sabado24",
+        "indices": [68, 77]
+      }, {
+        "text": "Noviembre",
+        "indices": [81, 91]
+      }
+    ],
+    "urls": [
+      {
+        "display_url": "instagram.com/p/BbgNRR7AQAF/",
+        "expanded_url": "https://www.instagram.com/p/BbgNRR7AQAF/",
+        "url": "https://t.co/CTUNLOeMll",
+        "indices": [93, 116]
+      }
+    ],
+    "symbols": [],
+    "user_mentions": []
+  },
+  "id": 930660543840493568,
+  "possibly_sensitive": false,
+  "user": {
+    "followers_count": 34,
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+    "profile_background_color": "1A1B1F",
+    "translator_type": "none",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/800859746525913089/OPPwhH5K_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1192030915/1486255091",
+    "default_profile": false,
+    "utc_offset": -18000,
+    "lang": "es",
+    "url": "https://www.instagram.com/tu_parking_507/",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/800859746525913089/OPPwhH5K_normal.jpg",
+    "time_zone": "Bogota",
+    "profile_sidebar_border_color": "181A1E",
+    "profile_use_background_image": true,
+    "id": 1192030915,
+    "profile_link_color": "2FC2EF",
+    "profile_sidebar_fill_color": "252429",
+    "profile_background_tile": false,
+    "geo_enabled": true,
+    "id_str": "1192030915",
+    "verified": false,
+    "name": "Yosimar Sanchez",
+    "is_translator": false,
+    "notifications": null,
+    "following": null,
+    "friends_count": 323,
+    "contributors_enabled": false,
+    "screen_name": "yosimarsm_30",
+    "created_at": "Mon Feb 18 04:25:46 +0000 2013",
+    "profile_text_color": "666666",
+    "favourites_count": 138,
+    "follow_request_sent": null,
+    "description": "PROMOTOR de CHILL OUT\ud83c\udf34\n\ud83d\udd35LISTA AZUL\ud83d\udd35\nPARA RESERVACIONES, LISTAS\n& CUMPLEA\u00d1OS AL \ud83d\udcf263068360\n\ninst: @yosimarsm_30      @tu_parking_507",
+    "default_profile_image": false,
+    "location": "Panam\u00e1",
+    "listed_count": 0,
+    "protected": false,
+    "statuses_count": 1386
+  },
+  "id_str": "930660543840493568",
+  "retweet_count": 0,
+  "retweeted": false,
+  "quote_count": 0,
+  "truncated": false,
+  "in_reply_to_status_id_str": null,
+  "reply_count": 0,
+  "created_at": "Wed Nov 15 04:55:39 +0000 2017",
+  "is_quote_status": false,
+  "in_reply_to_user_id": null,
+  "source": "<a href=\"http://instagram.com\" rel=\"nofollow\">Instagram</a>",
+  "text": "#Confirmado habra #Reggaeton en la Gala De Los Amigos Del Senafront #Sabado24 de #Noviembre\u2026 https://t.co/CTUNLOeMll",
+  "timestamp_ms": "1510721739145",
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null
+}

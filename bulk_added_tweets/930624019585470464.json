@@ -1,1 +1,103 @@
-{"geo": {"type": "Point", "coordinates": [28.1167, -15.4333]}, "filter_level": "low", "in_reply_to_status_id": null, "lang": "es", "favorite_count": 0, "coordinates": {"type": "Point", "coordinates": [-15.4333, 28.1167]}, "favorited": false, "place": {"name": "Las Palmas de Gran Canaria", "full_name": "Las Palmas de Gran Canaria, Espa\u00f1a", "place_type": "city", "country": "Espa\u00f1a", "id": "00ab08eef1b62e92", "bounding_box": {"type": "Polygon", "coordinates": [[[-15.525504, 28.024813], [-15.525504, 28.181213], [-15.394194, 28.181213], [-15.394194, 28.024813]]]}, "attributes": {}, "url": "https://api.twitter.com/1.1/geo/id/00ab08eef1b62e92.json", "country_code": "ES"}, "contributors": null, "entities": {"hashtags": [], "urls": [{"display_url": "instagram.com/p/Bbf8qWFl9b1/", "expanded_url": "https://www.instagram.com/p/Bbf8qWFl9b1/", "url": "https://t.co/Sds21I20wp", "indices": [98, 121]}], "symbols": [], "user_mentions": []}, "id": 930624019585470464, "possibly_sensitive": false, "user": {"followers_count": 1003, "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/218837963/big_estrellas-de-mar_1_.jpg", "profile_background_color": "E8F7F7", "translator_type": "none", "profile_image_url": "http://pbs.twimg.com/profile_images/876444905924636673/-WyfUtCi_normal.jpg", "profile_banner_url": "https://pbs.twimg.com/profile_banners/267808133/1498420604", "default_profile": false, "utc_offset": -14400, "lang": "es", "url": "http://www.facebook.com/miamiviajesyturismo", "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/218837963/big_estrellas-de-mar_1_.jpg", "profile_image_url_https": "https://pbs.twimg.com/profile_images/876444905924636673/-WyfUtCi_normal.jpg", "time_zone": "Caracas", "profile_sidebar_border_color": "C0DEED", "profile_use_background_image": true, "id": 267808133, "profile_link_color": "0084B4", "profile_sidebar_fill_color": "DDEEF6", "profile_background_tile": true, "geo_enabled": true, "id_str": "267808133", "verified": false, "name": "Miami Viajes", "is_translator": false, "notifications": null, "following": null, "friends_count": 982, "contributors_enabled": false, "screen_name": "Miamiviajes", "created_at": "Thu Mar 17 15:41:15 +0000 2011", "profile_text_color": "333333", "favourites_count": 1669, "follow_request_sent": null, "description": "Nos diferenciamos gracias a la excelencia de nuestros productos, nuestros precios competitivos y el profesionalismo de nuestro personal", "default_profile_image": false, "location": "Caracas-Venezuela", "listed_count": 8, "protected": false, "statuses_count": 4713}, "id_str": "930624019585470464", "retweet_count": 0, "retweeted": false, "quote_count": 0, "truncated": false, "in_reply_to_status_id_str": null, "reply_count": 0, "created_at": "Wed Nov 15 02:30:31 +0000 2017", "is_quote_status": false, "in_reply_to_user_id": null, "source": "<a href=\"http://instagram.com\" rel=\"nofollow\">Instagram</a>", "text": "Ofertas hacia Europa. \u00daltimos cupos. Diciembre 07. Tarifa solo de un trayecto. Tarifas en Euros.\u2026 https://t.co/Sds21I20wp", "timestamp_ms": "1510713031084", "in_reply_to_user_id_str": null, "in_reply_to_screen_name": null}
+{
+  "geo": {
+    "type": "Point",
+    "coordinates": [28.1167, -15.4333]
+  },
+  "filter_level": "low",
+  "in_reply_to_status_id": null,
+  "lang": "es",
+  "favorite_count": 0,
+  "coordinates": {
+    "type": "Point",
+    "coordinates": [-15.4333, 28.1167]
+  },
+  "favorited": false,
+  "place": {
+    "name": "Las Palmas de Gran Canaria",
+    "full_name": "Las Palmas de Gran Canaria, Espa\u00f1a",
+    "place_type": "city",
+    "country": "Espa\u00f1a",
+    "id": "00ab08eef1b62e92",
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [[-15.525504, 28.024813], [-15.525504, 28.181213], [-15.394194, 28.181213], [-15.394194, 28.024813]]
+      ]
+    },
+    "attributes": {},
+    "url": "https://api.twitter.com/1.1/geo/id/00ab08eef1b62e92.json",
+    "country_code": "ES"
+  },
+  "contributors": null,
+  "entities": {
+    "hashtags": [],
+    "urls": [
+      {
+        "display_url": "instagram.com/p/Bbf8qWFl9b1/",
+        "expanded_url": "https://www.instagram.com/p/Bbf8qWFl9b1/",
+        "url": "https://t.co/Sds21I20wp",
+        "indices": [98, 121]
+      }
+    ],
+    "symbols": [],
+    "user_mentions": []
+  },
+  "id": 930624019585470464,
+  "possibly_sensitive": false,
+  "user": {
+    "followers_count": 1003,
+    "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/218837963/big_estrellas-de-mar_1_.jpg",
+    "profile_background_color": "E8F7F7",
+    "translator_type": "none",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/876444905924636673/-WyfUtCi_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/267808133/1498420604",
+    "default_profile": false,
+    "utc_offset": -14400,
+    "lang": "es",
+    "url": "http://www.facebook.com/miamiviajesyturismo",
+    "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/218837963/big_estrellas-de-mar_1_.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/876444905924636673/-WyfUtCi_normal.jpg",
+    "time_zone": "Caracas",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_use_background_image": true,
+    "id": 267808133,
+    "profile_link_color": "0084B4",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_background_tile": true,
+    "geo_enabled": true,
+    "id_str": "267808133",
+    "verified": false,
+    "name": "Miami Viajes",
+    "is_translator": false,
+    "notifications": null,
+    "following": null,
+    "friends_count": 982,
+    "contributors_enabled": false,
+    "screen_name": "Miamiviajes",
+    "created_at": "Thu Mar 17 15:41:15 +0000 2011",
+    "profile_text_color": "333333",
+    "favourites_count": 1669,
+    "follow_request_sent": null,
+    "description": "Nos diferenciamos gracias a la excelencia de nuestros productos, nuestros precios competitivos y el profesionalismo de nuestro personal",
+    "default_profile_image": false,
+    "location": "Caracas-Venezuela",
+    "listed_count": 8,
+    "protected": false,
+    "statuses_count": 4713
+  },
+  "id_str": "930624019585470464",
+  "retweet_count": 0,
+  "retweeted": false,
+  "quote_count": 0,
+  "truncated": false,
+  "in_reply_to_status_id_str": null,
+  "reply_count": 0,
+  "created_at": "Wed Nov 15 02:30:31 +0000 2017",
+  "is_quote_status": false,
+  "in_reply_to_user_id": null,
+  "source": "<a href=\"http://instagram.com\" rel=\"nofollow\">Instagram</a>",
+  "text": "Ofertas hacia Europa. \u00daltimos cupos. Diciembre 07. Tarifa solo de un trayecto. Tarifas en Euros.\u2026 https://t.co/Sds21I20wp",
+  "timestamp_ms": "1510713031084",
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null
+}

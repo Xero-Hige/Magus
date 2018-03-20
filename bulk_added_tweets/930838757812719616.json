@@ -1,1 +1,111 @@
-{"extended_tweet": {"display_text_range": [0, 280], "entities": {"urls": [], "symbols": [], "hashtags": [{"text": "HayUnDiosQueTodoLoVe", "indices": [254, 275]}], "user_mentions": []}, "full_text": "Acto1: Muchacha vac\u00eda una botella de l\u00edquido de limpieza directo al piso \nActo2: Paso por el pasillo, patino y caigo, mu\u00f1eca rota, operaci\u00f3n\nActo3: Muchacha sube al ascensor, se va la luz y queda una hora atorada\nC\u00f3mo se llam\u00f3 la obra? \u201cJusticia divina\u201d #HayUnDiosQueTodoLoVe jaja"}, "favorited": false, "lang": "es", "favorite_count": 0, "reply_count": 0, "geo": null, "contributors": null, "text": "Acto1: Muchacha vac\u00eda una botella de l\u00edquido de limpieza directo al piso \nActo2: Paso por el pasillo, patino y caig\u2026 https://t.co/7BwueUuiiU", "created_at": "Wed Nov 15 16:43:48 +0000 2017", "place": {"place_type": "city", "full_name": "Cuajimalpa de Morelos, Distrito Federal", "country": "M\u00e9xico", "name": "Cuajimalpa de Morelos", "url": "https://api.twitter.com/1.1/geo/id/e86e154b91acd5a3.json", "country_code": "MX", "bounding_box": {"type": "Polygon", "coordinates": [[[-99.364536, 19.232313], [-99.364536, 19.405081], [-99.246625, 19.405081], [-99.246625, 19.232313]]]}, "id": "e86e154b91acd5a3", "attributes": {}}, "user": {"profile_text_color": "333333", "lang": "es", "location": "M\u00e9xico City", "friends_count": 275, "profile_link_color": "009999", "profile_image_url_https": "https://pbs.twimg.com/profile_images/927370462426001414/K_DVNHOJ_normal.jpg", "contributors_enabled": false, "following": null, "is_translator": false, "verified": false, "profile_banner_url": "https://pbs.twimg.com/profile_banners/162284835/1509937324", "utc_offset": -21600, "geo_enabled": true, "profile_sidebar_border_color": "FFFFFF", "created_at": "Sat Jul 03 05:59:11 +0000 2010", "description": "Madre orgullosa l Yucateca exiliada l Amante del orden l Viajera frecuente l Apasionada de la buena mesa l Fan taurino", "profile_image_url": "http://pbs.twimg.com/profile_images/927370462426001414/K_DVNHOJ_normal.jpg", "profile_background_color": "131516", "listed_count": 6, "follow_request_sent": null, "profile_background_tile": true, "followers_count": 265, "name": "Nonoy \ud83e\udd8b", "notifications": null, "default_profile_image": false, "url": null, "favourites_count": 1056, "screen_name": "Norma_Barrera", "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000011300293/406dc02da09f3641b1c1cb9a77691ea1.jpeg", "profile_sidebar_fill_color": "DDEEF6", "profile_use_background_image": true, "translator_type": "none", "time_zone": "Mexico City", "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000011300293/406dc02da09f3641b1c1cb9a77691ea1.jpeg", "statuses_count": 3620, "id": 162284835, "default_profile": false, "protected": false, "id_str": "162284835"}, "in_reply_to_user_id_str": null, "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>", "filter_level": "low", "is_quote_status": false, "in_reply_to_status_id": null, "in_reply_to_user_id": null, "quote_count": 0, "retweeted": false, "in_reply_to_screen_name": null, "retweet_count": 0, "in_reply_to_status_id_str": null, "coordinates": null, "id": 930838757812719616, "truncated": true, "entities": {"urls": [{"url": "https://t.co/7BwueUuiiU", "display_url": "twitter.com/i/web/status/9\u2026", "indices": [117, 140], "expanded_url": "https://twitter.com/i/web/status/930838757812719616"}], "symbols": [], "hashtags": [], "user_mentions": []}, "timestamp_ms": "1510764228667", "id_str": "930838757812719616"}
+{
+  "extended_tweet": {
+    "display_text_range": [0, 280],
+    "entities": {
+      "urls": [],
+      "symbols": [],
+      "hashtags": [
+        {
+          "text": "HayUnDiosQueTodoLoVe",
+          "indices": [254, 275]
+        }
+      ],
+      "user_mentions": []
+    },
+    "full_text": "Acto1: Muchacha vac\u00eda una botella de l\u00edquido de limpieza directo al piso \nActo2: Paso por el pasillo, patino y caigo, mu\u00f1eca rota, operaci\u00f3n\nActo3: Muchacha sube al ascensor, se va la luz y queda una hora atorada\nC\u00f3mo se llam\u00f3 la obra? \u201cJusticia divina\u201d #HayUnDiosQueTodoLoVe jaja"
+  },
+  "favorited": false,
+  "lang": "es",
+  "favorite_count": 0,
+  "reply_count": 0,
+  "geo": null,
+  "contributors": null,
+  "text": "Acto1: Muchacha vac\u00eda una botella de l\u00edquido de limpieza directo al piso \nActo2: Paso por el pasillo, patino y caig\u2026 https://t.co/7BwueUuiiU",
+  "created_at": "Wed Nov 15 16:43:48 +0000 2017",
+  "place": {
+    "place_type": "city",
+    "full_name": "Cuajimalpa de Morelos, Distrito Federal",
+    "country": "M\u00e9xico",
+    "name": "Cuajimalpa de Morelos",
+    "url": "https://api.twitter.com/1.1/geo/id/e86e154b91acd5a3.json",
+    "country_code": "MX",
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [[-99.364536, 19.232313], [-99.364536, 19.405081], [-99.246625, 19.405081], [-99.246625, 19.232313]]
+      ]
+    },
+    "id": "e86e154b91acd5a3",
+    "attributes": {}
+  },
+  "user": {
+    "profile_text_color": "333333",
+    "lang": "es",
+    "location": "M\u00e9xico City",
+    "friends_count": 275,
+    "profile_link_color": "009999",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/927370462426001414/K_DVNHOJ_normal.jpg",
+    "contributors_enabled": false,
+    "following": null,
+    "is_translator": false,
+    "verified": false,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/162284835/1509937324",
+    "utc_offset": -21600,
+    "geo_enabled": true,
+    "profile_sidebar_border_color": "FFFFFF",
+    "created_at": "Sat Jul 03 05:59:11 +0000 2010",
+    "description": "Madre orgullosa l Yucateca exiliada l Amante del orden l Viajera frecuente l Apasionada de la buena mesa l Fan taurino",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/927370462426001414/K_DVNHOJ_normal.jpg",
+    "profile_background_color": "131516",
+    "listed_count": 6,
+    "follow_request_sent": null,
+    "profile_background_tile": true,
+    "followers_count": 265,
+    "name": "Nonoy \ud83e\udd8b",
+    "notifications": null,
+    "default_profile_image": false,
+    "url": null,
+    "favourites_count": 1056,
+    "screen_name": "Norma_Barrera",
+    "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000011300293/406dc02da09f3641b1c1cb9a77691ea1.jpeg",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_use_background_image": true,
+    "translator_type": "none",
+    "time_zone": "Mexico City",
+    "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000011300293/406dc02da09f3641b1c1cb9a77691ea1.jpeg",
+    "statuses_count": 3620,
+    "id": 162284835,
+    "default_profile": false,
+    "protected": false,
+    "id_str": "162284835"
+  },
+  "in_reply_to_user_id_str": null,
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "filter_level": "low",
+  "is_quote_status": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_user_id": null,
+  "quote_count": 0,
+  "retweeted": false,
+  "in_reply_to_screen_name": null,
+  "retweet_count": 0,
+  "in_reply_to_status_id_str": null,
+  "coordinates": null,
+  "id": 930838757812719616,
+  "truncated": true,
+  "entities": {
+    "urls": [
+      {
+        "url": "https://t.co/7BwueUuiiU",
+        "display_url": "twitter.com/i/web/status/9\u2026",
+        "indices": [117, 140],
+        "expanded_url": "https://twitter.com/i/web/status/930838757812719616"
+      }
+    ],
+    "symbols": [],
+    "hashtags": [],
+    "user_mentions": []
+  },
+  "timestamp_ms": "1510764228667",
+  "id_str": "930838757812719616"
+}

@@ -1,1 +1,106 @@
-{"geo": null, "filter_level": "low", "in_reply_to_status_id": null, "lang": "es", "favorite_count": 0, "coordinates": null, "favorited": false, "place": {"name": "Tijuana", "full_name": "Tijuana, Baja California", "place_type": "city", "country": "M\u00e9xico", "id": "2400156d6de057e3", "bounding_box": {"type": "Polygon", "coordinates": [[[-117.298421, 32.098292], [-117.298421, 32.567461], [-116.559783, 32.567461], [-116.559783, 32.098292]]]}, "attributes": {}, "url": "https://api.twitter.com/1.1/geo/id/2400156d6de057e3.json", "country_code": "MX"}, "contributors": null, "entities": {"hashtags": [], "urls": [{"display_url": "twitter.com/i/web/status/9\u2026", "expanded_url": "https://twitter.com/i/web/status/930633970634473472", "url": "https://t.co/z1wS257EJY", "indices": [117, 140]}], "symbols": [], "user_mentions": []}, "id": 930633970634473472, "user": {"followers_count": 246, "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png", "profile_background_color": "000000", "translator_type": "none", "profile_image_url": "http://pbs.twimg.com/profile_images/878454504525451264/WYn70xX1_normal.jpg", "profile_banner_url": "https://pbs.twimg.com/profile_banners/755836689122152448/1510713629", "default_profile": false, "utc_offset": -28800, "lang": "es", "url": null, "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", "profile_image_url_https": "https://pbs.twimg.com/profile_images/878454504525451264/WYn70xX1_normal.jpg", "time_zone": "Pacific Time (US & Canada)", "profile_sidebar_border_color": "000000", "profile_use_background_image": false, "id": 755836689122152448, "profile_link_color": "1B95E0", "profile_sidebar_fill_color": "000000", "profile_background_tile": false, "geo_enabled": true, "id_str": "755836689122152448", "verified": false, "name": "Mariana \ud83c\uddf2\ud83c\uddfd", "is_translator": false, "notifications": null, "following": null, "friends_count": 200, "contributors_enabled": false, "screen_name": "marroquinmaria8", "created_at": "Wed Jul 20 18:48:04 +0000 2016", "profile_text_color": "000000", "favourites_count": 15654, "follow_request_sent": null, "description": "SM\u2763\ufe0f JPZ \ud83d\udc93 LUCAH\ud83d\udc9e  SCREAMAU\ud83d\udc9c", "default_profile_image": false, "location": "M\u00e9xico, Tijuana", "listed_count": 0, "protected": false, "statuses_count": 8200}, "id_str": "930633970634473472", "retweet_count": 0, "retweeted": false, "quote_count": 0, "truncated": true, "in_reply_to_status_id_str": null, "reply_count": 0, "created_at": "Wed Nov 15 03:10:03 +0000 2017", "is_quote_status": false, "in_reply_to_user_id": null, "timestamp_ms": "1510715403599", "text": "HAY VECES QUE NO TENGO GANAS DE VERTE HAY VECES QUE NO QUIERO NI TOCARTE HAY VECES QUE QUISIERA AHOGARTE EN UN GRIT\u2026 https://t.co/z1wS257EJY", "extended_tweet": {"full_text": "HAY VECES QUE NO TENGO GANAS DE VERTE HAY VECES QUE NO QUIERO NI TOCARTE HAY VECES QUE QUISIERA AHOGARTE EN UN GRITO Y OLVIDARME DE ESA IMAGEN TUYA PERO NO ME ATREVO", "display_text_range": [0, 165], "entities": {"hashtags": [], "urls": [], "symbols": [], "user_mentions": []}}, "in_reply_to_user_id_str": null, "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>", "in_reply_to_screen_name": null}
+{
+  "geo": null,
+  "filter_level": "low",
+  "in_reply_to_status_id": null,
+  "lang": "es",
+  "favorite_count": 0,
+  "coordinates": null,
+  "favorited": false,
+  "place": {
+    "name": "Tijuana",
+    "full_name": "Tijuana, Baja California",
+    "place_type": "city",
+    "country": "M\u00e9xico",
+    "id": "2400156d6de057e3",
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [[-117.298421, 32.098292], [-117.298421, 32.567461], [-116.559783, 32.567461], [-116.559783, 32.098292]]
+      ]
+    },
+    "attributes": {},
+    "url": "https://api.twitter.com/1.1/geo/id/2400156d6de057e3.json",
+    "country_code": "MX"
+  },
+  "contributors": null,
+  "entities": {
+    "hashtags": [],
+    "urls": [
+      {
+        "display_url": "twitter.com/i/web/status/9\u2026",
+        "expanded_url": "https://twitter.com/i/web/status/930633970634473472",
+        "url": "https://t.co/z1wS257EJY",
+        "indices": [117, 140]
+      }
+    ],
+    "symbols": [],
+    "user_mentions": []
+  },
+  "id": 930633970634473472,
+  "user": {
+    "followers_count": 246,
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_color": "000000",
+    "translator_type": "none",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/878454504525451264/WYn70xX1_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/755836689122152448/1510713629",
+    "default_profile": false,
+    "utc_offset": -28800,
+    "lang": "es",
+    "url": null,
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/878454504525451264/WYn70xX1_normal.jpg",
+    "time_zone": "Pacific Time (US & Canada)",
+    "profile_sidebar_border_color": "000000",
+    "profile_use_background_image": false,
+    "id": 755836689122152448,
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_fill_color": "000000",
+    "profile_background_tile": false,
+    "geo_enabled": true,
+    "id_str": "755836689122152448",
+    "verified": false,
+    "name": "Mariana \ud83c\uddf2\ud83c\uddfd",
+    "is_translator": false,
+    "notifications": null,
+    "following": null,
+    "friends_count": 200,
+    "contributors_enabled": false,
+    "screen_name": "marroquinmaria8",
+    "created_at": "Wed Jul 20 18:48:04 +0000 2016",
+    "profile_text_color": "000000",
+    "favourites_count": 15654,
+    "follow_request_sent": null,
+    "description": "SM\u2763\ufe0f JPZ \ud83d\udc93 LUCAH\ud83d\udc9e  SCREAMAU\ud83d\udc9c",
+    "default_profile_image": false,
+    "location": "M\u00e9xico, Tijuana",
+    "listed_count": 0,
+    "protected": false,
+    "statuses_count": 8200
+  },
+  "id_str": "930633970634473472",
+  "retweet_count": 0,
+  "retweeted": false,
+  "quote_count": 0,
+  "truncated": true,
+  "in_reply_to_status_id_str": null,
+  "reply_count": 0,
+  "created_at": "Wed Nov 15 03:10:03 +0000 2017",
+  "is_quote_status": false,
+  "in_reply_to_user_id": null,
+  "timestamp_ms": "1510715403599",
+  "text": "HAY VECES QUE NO TENGO GANAS DE VERTE HAY VECES QUE NO QUIERO NI TOCARTE HAY VECES QUE QUISIERA AHOGARTE EN UN GRIT\u2026 https://t.co/z1wS257EJY",
+  "extended_tweet": {
+    "full_text": "HAY VECES QUE NO TENGO GANAS DE VERTE HAY VECES QUE NO QUIERO NI TOCARTE HAY VECES QUE QUISIERA AHOGARTE EN UN GRITO Y OLVIDARME DE ESA IMAGEN TUYA PERO NO ME ATREVO",
+    "display_text_range": [0, 165],
+    "entities": {
+      "hashtags": [],
+      "urls": [],
+      "symbols": [],
+      "user_mentions": []
+    }
+  },
+  "in_reply_to_user_id_str": null,
+  "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+  "in_reply_to_screen_name": null
+}

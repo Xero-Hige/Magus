@@ -1,1 +1,168 @@
-{"reply_count": 0, "user": {"profile_banner_url": "https://pbs.twimg.com/profile_banners/282833933/1510328762", "following": null, "profile_background_color": "0099B9", "url": null, "utc_offset": -10800, "follow_request_sent": null, "translator_type": "none", "profile_text_color": "3C3940", "id_str": "282833933", "favourites_count": 9647, "friends_count": 135, "followers_count": 102, "id": 282833933, "geo_enabled": true, "profile_sidebar_border_color": "5ED4DC", "profile_image_url_https": "https://pbs.twimg.com/profile_images/929012714445398016/M5RXEryp_normal.jpg", "statuses_count": 6106, "notifications": null, "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif", "protected": false, "listed_count": 11, "screen_name": "kaupem", "profile_sidebar_fill_color": "95E8EC", "location": "ushuaia", "created_at": "Sat Apr 16 01:21:56 +0000 2011", "default_profile": false, "time_zone": "America/Argentina/Buenos_Aires", "verified": false, "contributors_enabled": false, "profile_image_url": "http://pbs.twimg.com/profile_images/929012714445398016/M5RXEryp_normal.jpg", "lang": "es", "name": "In\u00e9s In\u00e9s", "profile_link_color": "0099B9", "is_translator": false, "description": "amo mis hijos con locura... militante  \u2764 soldado de Cristina \ud83d\ude0d", "profile_use_background_image": true, "default_profile_image": false, "profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif", "profile_background_tile": false}, "contributors": null, "id_str": "930541462290403330", "in_reply_to_screen_name": null, "in_reply_to_user_id_str": null, "in_reply_to_status_id": null, "in_reply_to_status_id_str": null, "display_text_range": [0, 95], "in_reply_to_user_id": null, "id": 930541462290403330, "possibly_sensitive": false, "favorite_count": 0, "entities": {"user_mentions": [], "media": [{"display_url": "pic.twitter.com/hxy3vABoS3", "expanded_url": "https://twitter.com/kaupem/status/930541462290403330/photo/1", "indices": [96, 119], "url": "https://t.co/hxy3vABoS3", "sizes": {"large": {"resize": "fit", "w": 575, "h": 1024}, "medium": {"resize": "fit", "w": 575, "h": 1024}, "small": {"resize": "fit", "w": 382, "h": 680}, "thumb": {"resize": "crop", "w": 150, "h": 150}}, "id": 930541441859940352, "media_url": "http://pbs.twimg.com/media/DOnygtrXcAAmxpU.jpg", "media_url_https": "https://pbs.twimg.com/media/DOnygtrXcAAmxpU.jpg", "id_str": "930541441859940352", "type": "photo"}], "hashtags": [{"text": "PuntoDeEncuentro", "indices": [0, 17]}], "symbols": [], "urls": []}, "created_at": "Tue Nov 14 21:02:27 +0000 2017", "favorited": false, "timestamp_ms": "1510693347891", "quote_count": 0, "place": {"country_code": "AR", "bounding_box": {"coordinates": [[[-68.369881, -54.837486], [-68.369881, -54.774362], [-68.221243, -54.774362], [-68.221243, -54.837486]]], "type": "Polygon"}, "attributes": {}, "url": "https://api.twitter.com/1.1/geo/id/001040bd29e08949.json", "name": "Ushuaia", "id": "001040bd29e08949", "place_type": "city", "country": "Argentina", "full_name": "Ushuaia, Argentina"}, "text": "#PuntoDeEncuentro Vaaaamos compa\u00f1ero! No nos abandone, el pueblo unido jam\u00e1s ser\u00e1 VENCIDOOOO... https://t.co/hxy3vABoS3", "geo": null, "retweeted": false, "retweet_count": 0, "filter_level": "low", "lang": "es", "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>", "is_quote_status": false, "extended_entities": {"media": [{"display_url": "pic.twitter.com/hxy3vABoS3", "expanded_url": "https://twitter.com/kaupem/status/930541462290403330/photo/1", "indices": [96, 119], "url": "https://t.co/hxy3vABoS3", "sizes": {"large": {"resize": "fit", "w": 575, "h": 1024}, "medium": {"resize": "fit", "w": 575, "h": 1024}, "small": {"resize": "fit", "w": 382, "h": 680}, "thumb": {"resize": "crop", "w": 150, "h": 150}}, "id": 930541441859940352, "media_url": "http://pbs.twimg.com/media/DOnygtrXcAAmxpU.jpg", "media_url_https": "https://pbs.twimg.com/media/DOnygtrXcAAmxpU.jpg", "id_str": "930541441859940352", "type": "photo"}]}, "coordinates": null, "truncated": false}
+{
+  "reply_count": 0,
+  "user": {
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/282833933/1510328762",
+    "following": null,
+    "profile_background_color": "0099B9",
+    "url": null,
+    "utc_offset": -10800,
+    "follow_request_sent": null,
+    "translator_type": "none",
+    "profile_text_color": "3C3940",
+    "id_str": "282833933",
+    "favourites_count": 9647,
+    "friends_count": 135,
+    "followers_count": 102,
+    "id": 282833933,
+    "geo_enabled": true,
+    "profile_sidebar_border_color": "5ED4DC",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/929012714445398016/M5RXEryp_normal.jpg",
+    "statuses_count": 6106,
+    "notifications": null,
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+    "protected": false,
+    "listed_count": 11,
+    "screen_name": "kaupem",
+    "profile_sidebar_fill_color": "95E8EC",
+    "location": "ushuaia",
+    "created_at": "Sat Apr 16 01:21:56 +0000 2011",
+    "default_profile": false,
+    "time_zone": "America/Argentina/Buenos_Aires",
+    "verified": false,
+    "contributors_enabled": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/929012714445398016/M5RXEryp_normal.jpg",
+    "lang": "es",
+    "name": "In\u00e9s In\u00e9s",
+    "profile_link_color": "0099B9",
+    "is_translator": false,
+    "description": "amo mis hijos con locura... militante  \u2764 soldado de Cristina \ud83d\ude0d",
+    "profile_use_background_image": true,
+    "default_profile_image": false,
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+    "profile_background_tile": false
+  },
+  "contributors": null,
+  "id_str": "930541462290403330",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "display_text_range": [0, 95],
+  "in_reply_to_user_id": null,
+  "id": 930541462290403330,
+  "possibly_sensitive": false,
+  "favorite_count": 0,
+  "entities": {
+    "user_mentions": [],
+    "media": [
+      {
+        "display_url": "pic.twitter.com/hxy3vABoS3",
+        "expanded_url": "https://twitter.com/kaupem/status/930541462290403330/photo/1",
+        "indices": [96, 119],
+        "url": "https://t.co/hxy3vABoS3",
+        "sizes": {
+          "large": {
+            "resize": "fit",
+            "w": 575,
+            "h": 1024
+          },
+          "medium": {
+            "resize": "fit",
+            "w": 575,
+            "h": 1024
+          },
+          "small": {
+            "resize": "fit",
+            "w": 382,
+            "h": 680
+          },
+          "thumb": {
+            "resize": "crop",
+            "w": 150,
+            "h": 150
+          }
+        },
+        "id": 930541441859940352,
+        "media_url": "http://pbs.twimg.com/media/DOnygtrXcAAmxpU.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/DOnygtrXcAAmxpU.jpg",
+        "id_str": "930541441859940352",
+        "type": "photo"
+      }
+    ],
+    "hashtags": [
+      {
+        "text": "PuntoDeEncuentro",
+        "indices": [0, 17]
+      }
+    ],
+    "symbols": [],
+    "urls": []
+  },
+  "created_at": "Tue Nov 14 21:02:27 +0000 2017",
+  "favorited": false,
+  "timestamp_ms": "1510693347891",
+  "quote_count": 0,
+  "place": {
+    "country_code": "AR",
+    "bounding_box": {
+      "coordinates": [
+        [[-68.369881, -54.837486], [-68.369881, -54.774362], [-68.221243, -54.774362], [-68.221243, -54.837486]]
+      ],
+      "type": "Polygon"
+    },
+    "attributes": {},
+    "url": "https://api.twitter.com/1.1/geo/id/001040bd29e08949.json",
+    "name": "Ushuaia",
+    "id": "001040bd29e08949",
+    "place_type": "city",
+    "country": "Argentina",
+    "full_name": "Ushuaia, Argentina"
+  },
+  "text": "#PuntoDeEncuentro Vaaaamos compa\u00f1ero! No nos abandone, el pueblo unido jam\u00e1s ser\u00e1 VENCIDOOOO... https://t.co/hxy3vABoS3",
+  "geo": null,
+  "retweeted": false,
+  "retweet_count": 0,
+  "filter_level": "low",
+  "lang": "es",
+  "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+  "is_quote_status": false,
+  "extended_entities": {
+    "media": [
+      {
+        "display_url": "pic.twitter.com/hxy3vABoS3",
+        "expanded_url": "https://twitter.com/kaupem/status/930541462290403330/photo/1",
+        "indices": [96, 119],
+        "url": "https://t.co/hxy3vABoS3",
+        "sizes": {
+          "large": {
+            "resize": "fit",
+            "w": 575,
+            "h": 1024
+          },
+          "medium": {
+            "resize": "fit",
+            "w": 575,
+            "h": 1024
+          },
+          "small": {
+            "resize": "fit",
+            "w": 382,
+            "h": 680
+          },
+          "thumb": {
+            "resize": "crop",
+            "w": 150,
+            "h": 150
+          }
+        },
+        "id": 930541441859940352,
+        "media_url": "http://pbs.twimg.com/media/DOnygtrXcAAmxpU.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/DOnygtrXcAAmxpU.jpg",
+        "id_str": "930541441859940352",
+        "type": "photo"
+      }
+    ]
+  },
+  "coordinates": null,
+  "truncated": false
+}

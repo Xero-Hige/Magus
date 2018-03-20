@@ -1,1 +1,106 @@
-{"id": 930458880915763202, "lang": "es", "in_reply_to_status_id_str": null, "truncated": true, "place": {"id": "009924a469d7ace1", "country": "Ecuador", "bounding_box": {"type": "Polygon", "coordinates": [[[-80.467605, -3.063716], [-80.467605, -1.962274], [-79.714781, -1.962274], [-79.714781, -3.063716]]]}, "url": "https://api.twitter.com/1.1/geo/id/009924a469d7ace1.json", "full_name": "Guayaquil, Ecuador", "attributes": {}, "name": "Guayaquil", "place_type": "city", "country_code": "EC"}, "favorite_count": 0, "retweeted": false, "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>", "is_quote_status": false, "in_reply_to_status_id": null, "in_reply_to_user_id_str": null, "in_reply_to_screen_name": null, "retweet_count": 0, "quote_count": 0, "timestamp_ms": "1510673658957", "favorited": false, "coordinates": null, "text": "Pasatiempos de Dios:\n\n-- Apretar pero no ahorcar.\n-- Ayudar al que madruga.\n-- Crear un roto para un descocido.\n--\u2026 https://t.co/rE3EQHKlm9", "entities": {"urls": [{"indices": [116, 139], "display_url": "twitter.com/i/web/status/9\u2026", "url": "https://t.co/rE3EQHKlm9", "expanded_url": "https://twitter.com/i/web/status/930458880915763202"}], "symbols": [], "user_mentions": [], "hashtags": []}, "reply_count": 0, "geo": null, "filter_level": "low", "extended_tweet": {"display_text_range": [0, 185], "entities": {"urls": [], "symbols": [], "user_mentions": [], "hashtags": []}, "full_text": "Pasatiempos de Dios:\n\n-- Apretar pero no ahorcar.\n-- Ayudar al que madruga.\n-- Crear un roto para un descocido.\n-- Saber por qu\u00e9 hace las cosas.\n-- Escribir recto sobre l\u00edneas torcidas."}, "user": {"statuses_count": 31630, "id": 178253123, "default_profile": false, "favourites_count": 11394, "url": null, "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/732842829/f0bebd81d48dc33daf8ac9fd249c9b90.jpeg", "verified": false, "profile_image_url_https": "https://pbs.twimg.com/profile_images/924087139045969925/LUA8kd7I_normal.jpg", "translator_type": "none", "location": "Guayaquil, Ecuador", "geo_enabled": true, "utc_offset": -21600, "notifications": null, "profile_background_tile": true, "friends_count": 1249, "is_translator": false, "follow_request_sent": null, "default_profile_image": false, "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/732842829/f0bebd81d48dc33daf8ac9fd249c9b90.jpeg", "profile_background_color": "352726", "profile_link_color": "D02B55", "profile_use_background_image": true, "time_zone": "Central Time (US & Canada)", "name": "Maria Belen Roman", "profile_text_color": "3E4415", "profile_sidebar_border_color": "FFFFFF", "screen_name": "mabelenroman", "lang": "es", "following": null, "listed_count": 52, "protected": false, "profile_sidebar_fill_color": "99CC33", "followers_count": 2672, "profile_image_url": "http://pbs.twimg.com/profile_images/924087139045969925/LUA8kd7I_normal.jpg", "profile_banner_url": "https://pbs.twimg.com/profile_banners/178253123/1499753973", "contributors_enabled": false, "created_at": "Sat Aug 14 07:29:28 +0000 2010", "id_str": "178253123", "description": "Happiness is being love for who you are. Pura risa. El mundo es de los luchadores."}, "created_at": "Tue Nov 14 15:34:18 +0000 2017", "id_str": "930458880915763202", "in_reply_to_user_id": null, "contributors": null}
+{
+  "id": 930458880915763202,
+  "lang": "es",
+  "in_reply_to_status_id_str": null,
+  "truncated": true,
+  "place": {
+    "id": "009924a469d7ace1",
+    "country": "Ecuador",
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [[-80.467605, -3.063716], [-80.467605, -1.962274], [-79.714781, -1.962274], [-79.714781, -3.063716]]
+      ]
+    },
+    "url": "https://api.twitter.com/1.1/geo/id/009924a469d7ace1.json",
+    "full_name": "Guayaquil, Ecuador",
+    "attributes": {},
+    "name": "Guayaquil",
+    "place_type": "city",
+    "country_code": "EC"
+  },
+  "favorite_count": 0,
+  "retweeted": false,
+  "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+  "is_quote_status": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "retweet_count": 0,
+  "quote_count": 0,
+  "timestamp_ms": "1510673658957",
+  "favorited": false,
+  "coordinates": null,
+  "text": "Pasatiempos de Dios:\n\n-- Apretar pero no ahorcar.\n-- Ayudar al que madruga.\n-- Crear un roto para un descocido.\n--\u2026 https://t.co/rE3EQHKlm9",
+  "entities": {
+    "urls": [
+      {
+        "indices": [116, 139],
+        "display_url": "twitter.com/i/web/status/9\u2026",
+        "url": "https://t.co/rE3EQHKlm9",
+        "expanded_url": "https://twitter.com/i/web/status/930458880915763202"
+      }
+    ],
+    "symbols": [],
+    "user_mentions": [],
+    "hashtags": []
+  },
+  "reply_count": 0,
+  "geo": null,
+  "filter_level": "low",
+  "extended_tweet": {
+    "display_text_range": [0, 185],
+    "entities": {
+      "urls": [],
+      "symbols": [],
+      "user_mentions": [],
+      "hashtags": []
+    },
+    "full_text": "Pasatiempos de Dios:\n\n-- Apretar pero no ahorcar.\n-- Ayudar al que madruga.\n-- Crear un roto para un descocido.\n-- Saber por qu\u00e9 hace las cosas.\n-- Escribir recto sobre l\u00edneas torcidas."
+  },
+  "user": {
+    "statuses_count": 31630,
+    "id": 178253123,
+    "default_profile": false,
+    "favourites_count": 11394,
+    "url": null,
+    "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/732842829/f0bebd81d48dc33daf8ac9fd249c9b90.jpeg",
+    "verified": false,
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/924087139045969925/LUA8kd7I_normal.jpg",
+    "translator_type": "none",
+    "location": "Guayaquil, Ecuador",
+    "geo_enabled": true,
+    "utc_offset": -21600,
+    "notifications": null,
+    "profile_background_tile": true,
+    "friends_count": 1249,
+    "is_translator": false,
+    "follow_request_sent": null,
+    "default_profile_image": false,
+    "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/732842829/f0bebd81d48dc33daf8ac9fd249c9b90.jpeg",
+    "profile_background_color": "352726",
+    "profile_link_color": "D02B55",
+    "profile_use_background_image": true,
+    "time_zone": "Central Time (US & Canada)",
+    "name": "Maria Belen Roman",
+    "profile_text_color": "3E4415",
+    "profile_sidebar_border_color": "FFFFFF",
+    "screen_name": "mabelenroman",
+    "lang": "es",
+    "following": null,
+    "listed_count": 52,
+    "protected": false,
+    "profile_sidebar_fill_color": "99CC33",
+    "followers_count": 2672,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/924087139045969925/LUA8kd7I_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/178253123/1499753973",
+    "contributors_enabled": false,
+    "created_at": "Sat Aug 14 07:29:28 +0000 2010",
+    "id_str": "178253123",
+    "description": "Happiness is being love for who you are. Pura risa. El mundo es de los luchadores."
+  },
+  "created_at": "Tue Nov 14 15:34:18 +0000 2017",
+  "id_str": "930458880915763202",
+  "in_reply_to_user_id": null,
+  "contributors": null
+}

@@ -1,1 +1,120 @@
-{"retweet_count": 0, "place": {"place_type": "city", "country": "Argentina", "name": "Mar del Plata", "id": "010d7db066434a8a", "url": "https://api.twitter.com/1.1/geo/id/010d7db066434a8a.json", "full_name": "Mar del Plata, Argentina", "bounding_box": {"coordinates": [[[-57.645563, -38.127814], [-57.645563, -37.895361], [-57.517298, -37.895361], [-57.517298, -38.127814]]], "type": "Polygon"}, "country_code": "AR", "attributes": {}}, "favorited": false, "quote_count": 0, "in_reply_to_user_id_str": null, "user": {"utc_offset": -7200, "verified": false, "profile_background_tile": false, "location": "Mar del Plata, BsAs, Argentina", "profile_link_color": "9266CC", "notifications": null, "profile_use_background_image": true, "protected": false, "following": null, "profile_sidebar_fill_color": "DDEEF6", "description": "ABRE TUS ALAS......sue\u00f1a libre......vive libre... vuela libre.....                     DISE\u00d1OS EXCLUSIVOS", "time_zone": "Brasilia", "is_translator": false, "listed_count": 1, "contributors_enabled": false, "translator_type": "none", "profile_text_color": "333333", "follow_request_sent": null, "favourites_count": 20, "statuses_count": 1976, "lang": "es", "default_profile": false, "name": "ABRE TUS ALAS", "id_str": "1300392144", "profile_background_color": "B2DFDA", "profile_banner_url": "https://pbs.twimg.com/profile_banners/1300392144/1418786733", "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/824305585/2108a208e730e19de992aca531ae82bf.jpeg", "default_profile_image": false, "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/824305585/2108a208e730e19de992aca531ae82bf.jpeg", "screen_name": "Abre_ts_alas", "created_at": "Mon Mar 25 17:38:48 +0000 2013", "profile_image_url": "http://pbs.twimg.com/profile_images/545059252834799616/vd9HZf6G_normal.jpeg", "id": 1300392144, "geo_enabled": true, "url": "http://www.abretusalaslove.com", "followers_count": 14, "profile_sidebar_border_color": "FFFFFF", "friends_count": 33, "profile_image_url_https": "https://pbs.twimg.com/profile_images/545059252834799616/vd9HZf6G_normal.jpeg"}, "in_reply_to_status_id": null, "in_reply_to_screen_name": null, "entities": {"symbols": [], "user_mentions": [], "urls": [{"url": "https://t.co/9hl30rjj4O", "expanded_url": "https://www.instagram.com/p/BbfFVC-HQag/", "display_url": "instagram.com/p/BbfFVC-HQag/", "indices": [87, 110]}], "hashtags": [{"indices": [14, 31], "text": "abretusalastenns"}, {"indices": [32, 44], "text": "abretusalas"}, {"indices": [45, 63], "text": "dise\u00f1osexclusivos"}, {"indices": [64, 72], "text": "remeras"}, {"indices": [73, 85], "text": "mardelplata"}]}, "reply_count": 0, "geo": {"coordinates": [-38.00809969, -57.53999423], "type": "Point"}, "contributors": null, "favorite_count": 0, "possibly_sensitive": false, "lang": "es", "text": "Abre tus alas #abretusalastenns #abretusalas #dise\u00f1osexclusivos #remeras #mardelplata\u2026 https://t.co/9hl30rjj4O", "timestamp_ms": "1510684112104", "id_str": "930502724592062465", "source": "<a href=\"http://instagram.com\" rel=\"nofollow\">Instagram</a>", "truncated": false, "retweeted": false, "in_reply_to_user_id": null, "created_at": "Tue Nov 14 18:28:32 +0000 2017", "coordinates": {"coordinates": [-57.53999423, -38.00809969], "type": "Point"}, "in_reply_to_status_id_str": null, "id": 930502724592062465, "filter_level": "low", "is_quote_status": false}
+{
+  "retweet_count": 0,
+  "place": {
+    "place_type": "city",
+    "country": "Argentina",
+    "name": "Mar del Plata",
+    "id": "010d7db066434a8a",
+    "url": "https://api.twitter.com/1.1/geo/id/010d7db066434a8a.json",
+    "full_name": "Mar del Plata, Argentina",
+    "bounding_box": {
+      "coordinates": [
+        [[-57.645563, -38.127814], [-57.645563, -37.895361], [-57.517298, -37.895361], [-57.517298, -38.127814]]
+      ],
+      "type": "Polygon"
+    },
+    "country_code": "AR",
+    "attributes": {}
+  },
+  "favorited": false,
+  "quote_count": 0,
+  "in_reply_to_user_id_str": null,
+  "user": {
+    "utc_offset": -7200,
+    "verified": false,
+    "profile_background_tile": false,
+    "location": "Mar del Plata, BsAs, Argentina",
+    "profile_link_color": "9266CC",
+    "notifications": null,
+    "profile_use_background_image": true,
+    "protected": false,
+    "following": null,
+    "profile_sidebar_fill_color": "DDEEF6",
+    "description": "ABRE TUS ALAS......sue\u00f1a libre......vive libre... vuela libre.....                     DISE\u00d1OS EXCLUSIVOS",
+    "time_zone": "Brasilia",
+    "is_translator": false,
+    "listed_count": 1,
+    "contributors_enabled": false,
+    "translator_type": "none",
+    "profile_text_color": "333333",
+    "follow_request_sent": null,
+    "favourites_count": 20,
+    "statuses_count": 1976,
+    "lang": "es",
+    "default_profile": false,
+    "name": "ABRE TUS ALAS",
+    "id_str": "1300392144",
+    "profile_background_color": "B2DFDA",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1300392144/1418786733",
+    "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/824305585/2108a208e730e19de992aca531ae82bf.jpeg",
+    "default_profile_image": false,
+    "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/824305585/2108a208e730e19de992aca531ae82bf.jpeg",
+    "screen_name": "Abre_ts_alas",
+    "created_at": "Mon Mar 25 17:38:48 +0000 2013",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/545059252834799616/vd9HZf6G_normal.jpeg",
+    "id": 1300392144,
+    "geo_enabled": true,
+    "url": "http://www.abretusalaslove.com",
+    "followers_count": 14,
+    "profile_sidebar_border_color": "FFFFFF",
+    "friends_count": 33,
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/545059252834799616/vd9HZf6G_normal.jpeg"
+  },
+  "in_reply_to_status_id": null,
+  "in_reply_to_screen_name": null,
+  "entities": {
+    "symbols": [],
+    "user_mentions": [],
+    "urls": [
+      {
+        "url": "https://t.co/9hl30rjj4O",
+        "expanded_url": "https://www.instagram.com/p/BbfFVC-HQag/",
+        "display_url": "instagram.com/p/BbfFVC-HQag/",
+        "indices": [87, 110]
+      }
+    ],
+    "hashtags": [
+      {
+        "indices": [14, 31],
+        "text": "abretusalastenns"
+      }, {
+        "indices": [32, 44],
+        "text": "abretusalas"
+      }, {
+        "indices": [45, 63],
+        "text": "dise\u00f1osexclusivos"
+      }, {
+        "indices": [64, 72],
+        "text": "remeras"
+      }, {
+        "indices": [73, 85],
+        "text": "mardelplata"
+      }
+    ]
+  },
+  "reply_count": 0,
+  "geo": {
+    "coordinates": [-38.00809969, -57.53999423],
+    "type": "Point"
+  },
+  "contributors": null,
+  "favorite_count": 0,
+  "possibly_sensitive": false,
+  "lang": "es",
+  "text": "Abre tus alas #abretusalastenns #abretusalas #dise\u00f1osexclusivos #remeras #mardelplata\u2026 https://t.co/9hl30rjj4O",
+  "timestamp_ms": "1510684112104",
+  "id_str": "930502724592062465",
+  "source": "<a href=\"http://instagram.com\" rel=\"nofollow\">Instagram</a>",
+  "truncated": false,
+  "retweeted": false,
+  "in_reply_to_user_id": null,
+  "created_at": "Tue Nov 14 18:28:32 +0000 2017",
+  "coordinates": {
+    "coordinates": [-57.53999423, -38.00809969],
+    "type": "Point"
+  },
+  "in_reply_to_status_id_str": null,
+  "id": 930502724592062465,
+  "filter_level": "low",
+  "is_quote_status": false
+}

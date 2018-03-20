@@ -1,1 +1,180 @@
-{"id": 930462322656718848, "lang": "es", "in_reply_to_status_id_str": null, "truncated": true, "place": {"id": "0086126d0a893d08", "country": "Peru", "bounding_box": {"type": "Polygon", "coordinates": [[[-77.025146, -12.127209], [-77.025146, -12.103188], [-76.992137, -12.103188], [-76.992137, -12.127209]]]}, "url": "https://api.twitter.com/1.1/geo/id/0086126d0a893d08.json", "full_name": "Surquillo, Peru", "attributes": {}, "name": "Surquillo", "place_type": "city", "country_code": "PE"}, "favorite_count": 0, "retweeted": false, "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>", "is_quote_status": false, "possibly_sensitive": false, "geo": null, "in_reply_to_user_id_str": null, "in_reply_to_status_id": null, "retweet_count": 0, "quote_count": 0, "timestamp_ms": "1510674479532", "favorited": false, "coordinates": null, "filter_level": "low", "entities": {"urls": [{"indices": [117, 140], "display_url": "twitter.com/i/web/status/9\u2026", "url": "https://t.co/X5j0nqO3gJ", "expanded_url": "https://twitter.com/i/web/status/930462322656718848"}], "symbols": [], "user_mentions": [], "hashtags": []}, "reply_count": 0, "in_reply_to_screen_name": null, "display_text_range": [0, 140], "text": "A esto le podemos decir \"Periodismo Independiente\"?\nAhora resulta que ya es Abogada penalista y es tambien Fisca, J\u2026 https://t.co/X5j0nqO3gJ", "extended_tweet": {"display_text_range": [0, 221], "extended_entities": {"media": [{"id": 930462287604998144, "display_url": "pic.twitter.com/SfoWS3alTq", "id_str": "930462287604998144", "indices": [222, 245], "expanded_url": "https://twitter.com/GregorioLpez/status/930462322656718848/photo/1", "type": "photo", "url": "https://t.co/SfoWS3alTq", "media_url_https": "https://pbs.twimg.com/media/DOmqhVGX4AAWQ_C.jpg", "media_url": "http://pbs.twimg.com/media/DOmqhVGX4AAWQ_C.jpg", "sizes": {"small": {"w": 430, "h": 680, "resize": "fit"}, "large": {"w": 639, "h": 1010, "resize": "fit"}, "thumb": {"w": 150, "h": 150, "resize": "crop"}, "medium": {"w": 639, "h": 1010, "resize": "fit"}}}]}, "entities": {"media": [{"id": 930462287604998144, "display_url": "pic.twitter.com/SfoWS3alTq", "id_str": "930462287604998144", "indices": [222, 245], "expanded_url": "https://twitter.com/GregorioLpez/status/930462322656718848/photo/1", "type": "photo", "url": "https://t.co/SfoWS3alTq", "media_url_https": "https://pbs.twimg.com/media/DOmqhVGX4AAWQ_C.jpg", "media_url": "http://pbs.twimg.com/media/DOmqhVGX4AAWQ_C.jpg", "sizes": {"small": {"w": 430, "h": 680, "resize": "fit"}, "large": {"w": 639, "h": 1010, "resize": "fit"}, "thumb": {"w": 150, "h": 150, "resize": "crop"}, "medium": {"w": 639, "h": 1010, "resize": "fit"}}}], "urls": [], "symbols": [], "user_mentions": [], "hashtags": []}, "full_text": "A esto le podemos decir \"Periodismo Independiente\"?\nAhora resulta que ya es Abogada penalista y es tambien Fisca, Juez Supremo? miembro del TC, etc etc etc\nO sea es culpable.pero ya no es penado x defecto es \"inocente\"??? https://t.co/SfoWS3alTq"}, "user": {"statuses_count": 17906, "id": 359553799, "default_profile": false, "favourites_count": 31622, "url": null, "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", "verified": false, "profile_image_url_https": "https://pbs.twimg.com/profile_images/758302315258507264/4kkT52Qu_normal.jpg", "translator_type": "none", "location": "Lima- Per\u00fa", "geo_enabled": true, "utc_offset": null, "notifications": null, "profile_background_tile": false, "friends_count": 1265, "is_translator": false, "follow_request_sent": null, "default_profile_image": false, "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png", "profile_background_color": "000000", "profile_link_color": "94D487", "profile_use_background_image": false, "time_zone": null, "name": "Gregorio L\u00f3pez Agurt", "profile_text_color": "000000", "profile_sidebar_border_color": "000000", "screen_name": "GregorioLpez", "lang": "es", "following": null, "listed_count": 2, "protected": false, "profile_sidebar_fill_color": "000000", "followers_count": 562, "profile_image_url": "http://pbs.twimg.com/profile_images/758302315258507264/4kkT52Qu_normal.jpg", "profile_banner_url": "https://pbs.twimg.com/profile_banners/359553799/1501688648", "contributors_enabled": false, "created_at": "Sun Aug 21 19:51:31 +0000 2011", "id_str": "359553799", "description": "Contador P\u00fablico Colegiado,Universidad San Mart\u00edn de Porres, Especialidad en Impuestos en Universidad de Lima,Maestr\u00eda Impuestos Universidad Federico Villarreal"}, "created_at": "Tue Nov 14 15:47:59 +0000 2017", "id_str": "930462322656718848", "in_reply_to_user_id": null, "contributors": null}
+{
+  "id": 930462322656718848,
+  "lang": "es",
+  "in_reply_to_status_id_str": null,
+  "truncated": true,
+  "place": {
+    "id": "0086126d0a893d08",
+    "country": "Peru",
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [[-77.025146, -12.127209], [-77.025146, -12.103188], [-76.992137, -12.103188], [-76.992137, -12.127209]]
+      ]
+    },
+    "url": "https://api.twitter.com/1.1/geo/id/0086126d0a893d08.json",
+    "full_name": "Surquillo, Peru",
+    "attributes": {},
+    "name": "Surquillo",
+    "place_type": "city",
+    "country_code": "PE"
+  },
+  "favorite_count": 0,
+  "retweeted": false,
+  "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+  "is_quote_status": false,
+  "possibly_sensitive": false,
+  "geo": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_status_id": null,
+  "retweet_count": 0,
+  "quote_count": 0,
+  "timestamp_ms": "1510674479532",
+  "favorited": false,
+  "coordinates": null,
+  "filter_level": "low",
+  "entities": {
+    "urls": [
+      {
+        "indices": [117, 140],
+        "display_url": "twitter.com/i/web/status/9\u2026",
+        "url": "https://t.co/X5j0nqO3gJ",
+        "expanded_url": "https://twitter.com/i/web/status/930462322656718848"
+      }
+    ],
+    "symbols": [],
+    "user_mentions": [],
+    "hashtags": []
+  },
+  "reply_count": 0,
+  "in_reply_to_screen_name": null,
+  "display_text_range": [0, 140],
+  "text": "A esto le podemos decir \"Periodismo Independiente\"?\nAhora resulta que ya es Abogada penalista y es tambien Fisca, J\u2026 https://t.co/X5j0nqO3gJ",
+  "extended_tweet": {
+    "display_text_range": [0, 221],
+    "extended_entities": {
+      "media": [
+        {
+          "id": 930462287604998144,
+          "display_url": "pic.twitter.com/SfoWS3alTq",
+          "id_str": "930462287604998144",
+          "indices": [222, 245],
+          "expanded_url": "https://twitter.com/GregorioLpez/status/930462322656718848/photo/1",
+          "type": "photo",
+          "url": "https://t.co/SfoWS3alTq",
+          "media_url_https": "https://pbs.twimg.com/media/DOmqhVGX4AAWQ_C.jpg",
+          "media_url": "http://pbs.twimg.com/media/DOmqhVGX4AAWQ_C.jpg",
+          "sizes": {
+            "small": {
+              "w": 430,
+              "h": 680,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 639,
+              "h": 1010,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 639,
+              "h": 1010,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "entities": {
+      "media": [
+        {
+          "id": 930462287604998144,
+          "display_url": "pic.twitter.com/SfoWS3alTq",
+          "id_str": "930462287604998144",
+          "indices": [222, 245],
+          "expanded_url": "https://twitter.com/GregorioLpez/status/930462322656718848/photo/1",
+          "type": "photo",
+          "url": "https://t.co/SfoWS3alTq",
+          "media_url_https": "https://pbs.twimg.com/media/DOmqhVGX4AAWQ_C.jpg",
+          "media_url": "http://pbs.twimg.com/media/DOmqhVGX4AAWQ_C.jpg",
+          "sizes": {
+            "small": {
+              "w": 430,
+              "h": 680,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 639,
+              "h": 1010,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 639,
+              "h": 1010,
+              "resize": "fit"
+            }
+          }
+        }
+      ],
+      "urls": [],
+      "symbols": [],
+      "user_mentions": [],
+      "hashtags": []
+    },
+    "full_text": "A esto le podemos decir \"Periodismo Independiente\"?\nAhora resulta que ya es Abogada penalista y es tambien Fisca, Juez Supremo? miembro del TC, etc etc etc\nO sea es culpable.pero ya no es penado x defecto es \"inocente\"??? https://t.co/SfoWS3alTq"
+  },
+  "user": {
+    "statuses_count": 17906,
+    "id": 359553799,
+    "default_profile": false,
+    "favourites_count": 31622,
+    "url": null,
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "verified": false,
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/758302315258507264/4kkT52Qu_normal.jpg",
+    "translator_type": "none",
+    "location": "Lima- Per\u00fa",
+    "geo_enabled": true,
+    "utc_offset": null,
+    "notifications": null,
+    "profile_background_tile": false,
+    "friends_count": 1265,
+    "is_translator": false,
+    "follow_request_sent": null,
+    "default_profile_image": false,
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_color": "000000",
+    "profile_link_color": "94D487",
+    "profile_use_background_image": false,
+    "time_zone": null,
+    "name": "Gregorio L\u00f3pez Agurt",
+    "profile_text_color": "000000",
+    "profile_sidebar_border_color": "000000",
+    "screen_name": "GregorioLpez",
+    "lang": "es",
+    "following": null,
+    "listed_count": 2,
+    "protected": false,
+    "profile_sidebar_fill_color": "000000",
+    "followers_count": 562,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/758302315258507264/4kkT52Qu_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/359553799/1501688648",
+    "contributors_enabled": false,
+    "created_at": "Sun Aug 21 19:51:31 +0000 2011",
+    "id_str": "359553799",
+    "description": "Contador P\u00fablico Colegiado,Universidad San Mart\u00edn de Porres, Especialidad en Impuestos en Universidad de Lima,Maestr\u00eda Impuestos Universidad Federico Villarreal"
+  },
+  "created_at": "Tue Nov 14 15:47:59 +0000 2017",
+  "id_str": "930462322656718848",
+  "in_reply_to_user_id": null,
+  "contributors": null
+}

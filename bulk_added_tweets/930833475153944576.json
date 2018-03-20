@@ -1,1 +1,122 @@
-{"extended_tweet": {"display_text_range": [0, 196], "entities": {"urls": [], "symbols": [], "hashtags": [], "user_mentions": [{"indices": [0, 10], "name": "La Capital - Rosario", "id_str": "179990537", "screen_name": "lacapital", "id": 179990537}]}, "full_text": "@lacapital es el diario que todo rosarino cuando era chico lo uso para la escuela en la primaria y lo ley\u00f3 en un bar ya de adulto mientras se tomaba un caf\u00e9. Felicitaciones al decano de la prensa."}, "favorited": false, "lang": "es", "favorite_count": 0, "reply_count": 0, "geo": null, "contributors": null, "text": "@lacapital es el diario que todo rosarino cuando era chico lo uso para la escuela en la primaria y lo ley\u00f3 en un ba\u2026 https://t.co/qlwBQybMWQ", "created_at": "Wed Nov 15 16:22:49 +0000 2017", "place": {"place_type": "city", "full_name": "Rosario, Argentina", "country": "Argentina", "name": "Rosario", "url": "https://api.twitter.com/1.1/geo/id/0079bbc151fa56d2.json", "country_code": "AR", "bounding_box": {"type": "Polygon", "coordinates": [[[-60.781306, -33.033993], [-60.781306, -32.869238], [-60.613506, -32.869238], [-60.613506, -33.033993]]]}, "id": "0079bbc151fa56d2", "attributes": {}}, "user": {"profile_text_color": "000000", "lang": "es", "location": "Rosario, Argentina", "friends_count": 794, "profile_link_color": "1AA102", "profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000080427304/0096b96b9fb67201539b37736983ae2e_normal.jpeg", "contributors_enabled": false, "following": null, "is_translator": false, "verified": false, "profile_banner_url": "https://pbs.twimg.com/profile_banners/145774397/1391050763", "utc_offset": -10800, "geo_enabled": true, "profile_sidebar_border_color": "000000", "created_at": "Wed May 19 21:10:17 +0000 2010", "description": "Tipo inteligente, carente de facha y a veces con suerte. Geek. Gamer. Exagerado. M\u00fasico. Escritor berreta, dibujante berreta :D Locutor/Voice Actor", "profile_image_url": "http://pbs.twimg.com/profile_images/378800000080427304/0096b96b9fb67201539b37736983ae2e_normal.jpeg", "profile_background_color": "000000", "listed_count": 7, "follow_request_sent": null, "profile_background_tile": true, "followers_count": 169, "name": "Evan Stock \ud83d\udcfb", "notifications": null, "default_profile_image": false, "url": "https://rosariomangaworkshop.wordpress.com/", "favourites_count": 3776, "screen_name": "EvanStockVA", "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/660710455086858240/l8-IXycC.jpg", "profile_sidebar_fill_color": "000000", "profile_use_background_image": true, "translator_type": "regular", "time_zone": "Buenos Aires", "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/660710455086858240/l8-IXycC.jpg", "statuses_count": 8724, "id": 145774397, "default_profile": false, "protected": false, "id_str": "145774397"}, "in_reply_to_user_id_str": "179990537", "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>", "filter_level": "low", "is_quote_status": false, "in_reply_to_status_id": null, "in_reply_to_user_id": 179990537, "quote_count": 0, "retweeted": false, "in_reply_to_screen_name": "lacapital", "retweet_count": 0, "in_reply_to_status_id_str": null, "coordinates": null, "id": 930833475153944576, "truncated": true, "entities": {"urls": [{"url": "https://t.co/qlwBQybMWQ", "display_url": "twitter.com/i/web/status/9\u2026", "indices": [117, 140], "expanded_url": "https://twitter.com/i/web/status/930833475153944576"}], "symbols": [], "hashtags": [], "user_mentions": [{"indices": [0, 10], "name": "La Capital - Rosario", "id_str": "179990537", "screen_name": "lacapital", "id": 179990537}]}, "timestamp_ms": "1510762969183", "id_str": "930833475153944576"}
+{
+  "extended_tweet": {
+    "display_text_range": [0, 196],
+    "entities": {
+      "urls": [],
+      "symbols": [],
+      "hashtags": [],
+      "user_mentions": [
+        {
+          "indices": [0, 10],
+          "name": "La Capital - Rosario",
+          "id_str": "179990537",
+          "screen_name": "lacapital",
+          "id": 179990537
+        }
+      ]
+    },
+    "full_text": "@lacapital es el diario que todo rosarino cuando era chico lo uso para la escuela en la primaria y lo ley\u00f3 en un bar ya de adulto mientras se tomaba un caf\u00e9. Felicitaciones al decano de la prensa."
+  },
+  "favorited": false,
+  "lang": "es",
+  "favorite_count": 0,
+  "reply_count": 0,
+  "geo": null,
+  "contributors": null,
+  "text": "@lacapital es el diario que todo rosarino cuando era chico lo uso para la escuela en la primaria y lo ley\u00f3 en un ba\u2026 https://t.co/qlwBQybMWQ",
+  "created_at": "Wed Nov 15 16:22:49 +0000 2017",
+  "place": {
+    "place_type": "city",
+    "full_name": "Rosario, Argentina",
+    "country": "Argentina",
+    "name": "Rosario",
+    "url": "https://api.twitter.com/1.1/geo/id/0079bbc151fa56d2.json",
+    "country_code": "AR",
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [[-60.781306, -33.033993], [-60.781306, -32.869238], [-60.613506, -32.869238], [-60.613506, -33.033993]]
+      ]
+    },
+    "id": "0079bbc151fa56d2",
+    "attributes": {}
+  },
+  "user": {
+    "profile_text_color": "000000",
+    "lang": "es",
+    "location": "Rosario, Argentina",
+    "friends_count": 794,
+    "profile_link_color": "1AA102",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000080427304/0096b96b9fb67201539b37736983ae2e_normal.jpeg",
+    "contributors_enabled": false,
+    "following": null,
+    "is_translator": false,
+    "verified": false,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/145774397/1391050763",
+    "utc_offset": -10800,
+    "geo_enabled": true,
+    "profile_sidebar_border_color": "000000",
+    "created_at": "Wed May 19 21:10:17 +0000 2010",
+    "description": "Tipo inteligente, carente de facha y a veces con suerte. Geek. Gamer. Exagerado. M\u00fasico. Escritor berreta, dibujante berreta :D Locutor/Voice Actor",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/378800000080427304/0096b96b9fb67201539b37736983ae2e_normal.jpeg",
+    "profile_background_color": "000000",
+    "listed_count": 7,
+    "follow_request_sent": null,
+    "profile_background_tile": true,
+    "followers_count": 169,
+    "name": "Evan Stock \ud83d\udcfb",
+    "notifications": null,
+    "default_profile_image": false,
+    "url": "https://rosariomangaworkshop.wordpress.com/",
+    "favourites_count": 3776,
+    "screen_name": "EvanStockVA",
+    "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/660710455086858240/l8-IXycC.jpg",
+    "profile_sidebar_fill_color": "000000",
+    "profile_use_background_image": true,
+    "translator_type": "regular",
+    "time_zone": "Buenos Aires",
+    "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/660710455086858240/l8-IXycC.jpg",
+    "statuses_count": 8724,
+    "id": 145774397,
+    "default_profile": false,
+    "protected": false,
+    "id_str": "145774397"
+  },
+  "in_reply_to_user_id_str": "179990537",
+  "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+  "filter_level": "low",
+  "is_quote_status": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_user_id": 179990537,
+  "quote_count": 0,
+  "retweeted": false,
+  "in_reply_to_screen_name": "lacapital",
+  "retweet_count": 0,
+  "in_reply_to_status_id_str": null,
+  "coordinates": null,
+  "id": 930833475153944576,
+  "truncated": true,
+  "entities": {
+    "urls": [
+      {
+        "url": "https://t.co/qlwBQybMWQ",
+        "display_url": "twitter.com/i/web/status/9\u2026",
+        "indices": [117, 140],
+        "expanded_url": "https://twitter.com/i/web/status/930833475153944576"
+      }
+    ],
+    "symbols": [],
+    "hashtags": [],
+    "user_mentions": [
+      {
+        "indices": [0, 10],
+        "name": "La Capital - Rosario",
+        "id_str": "179990537",
+        "screen_name": "lacapital",
+        "id": 179990537
+      }
+    ]
+  },
+  "timestamp_ms": "1510762969183",
+  "id_str": "930833475153944576"
+}

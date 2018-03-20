@@ -1,1 +1,180 @@
-{"is_quote_status": false, "quote_count": 0, "in_reply_to_user_id_str": null, "favorite_count": 0, "in_reply_to_status_id": null, "id_str": "930554417107099648", "filter_level": "low", "reply_count": 0, "timestamp_ms": "1510696436560", "id": 930554417107099648, "display_text_range": [0, 140], "coordinates": null, "in_reply_to_screen_name": null, "truncated": true, "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>", "place": {"bounding_box": {"coordinates": [[[-74.242298, 10.798249], [-74.242298, 11.348676], [-73.612345, 11.348676], [-73.612345, 10.798249]]], "type": "Polygon"}, "url": "https://api.twitter.com/1.1/geo/id/00082d21223f8397.json", "country_code": "CO", "name": "Santa Marta", "full_name": "Santa Marta, Colombia", "id": "00082d21223f8397", "place_type": "city", "attributes": {}, "country": "Colombia"}, "retweet_count": 0, "extended_tweet": {"display_text_range": [0, 273], "entities": {"user_mentions": [], "urls": [], "symbols": [], "hashtags": [], "media": [{"media_url_https": "https://pbs.twimg.com/media/DOn-TE7WkAESYbp.jpg", "expanded_url": "https://twitter.com/danielalobera/status/930554417107099648/photo/1", "id_str": "930554401722372097", "media_url": "http://pbs.twimg.com/media/DOn-TE7WkAESYbp.jpg", "display_url": "pic.twitter.com/IFQiM08i4v", "id": 930554401722372097, "indices": [274, 297], "type": "photo", "url": "https://t.co/IFQiM08i4v", "sizes": {"large": {"resize": "fit", "h": 1131, "w": 1131}, "small": {"resize": "fit", "h": 680, "w": 680}, "thumb": {"resize": "crop", "h": 150, "w": 150}, "medium": {"resize": "fit", "h": 1131, "w": 1131}}}]}, "extended_entities": {"media": [{"media_url_https": "https://pbs.twimg.com/media/DOn-TE7WkAESYbp.jpg", "expanded_url": "https://twitter.com/danielalobera/status/930554417107099648/photo/1", "id_str": "930554401722372097", "media_url": "http://pbs.twimg.com/media/DOn-TE7WkAESYbp.jpg", "display_url": "pic.twitter.com/IFQiM08i4v", "id": 930554401722372097, "indices": [274, 297], "type": "photo", "url": "https://t.co/IFQiM08i4v", "sizes": {"large": {"resize": "fit", "h": 1131, "w": 1131}, "small": {"resize": "fit", "h": 680, "w": 680}, "thumb": {"resize": "crop", "h": 150, "w": 150}, "medium": {"resize": "fit", "h": 1131, "w": 1131}}}]}, "full_text": "Se acerca un nuevo reto, el m\u00e1s importante de cada a\u00f1o, que es lograr darle color, amor y una sonrisa a nuestros ni\u00f1os menos favorecidos. \u00c9stos ni\u00f1os necesitan que le pongas color a su navidad. Dona un regalo y dibujar\u00e1s una sonrisa en estos inocentes y hermosos rostros\u2764\ufe0f\ud83c\udf84 https://t.co/IFQiM08i4v"}, "created_at": "Tue Nov 14 21:53:56 +0000 2017", "favorited": false, "text": "Se acerca un nuevo reto, el m\u00e1s importante de cada a\u00f1o, que es lograr darle color, amor y una sonrisa a nuestros ni\u2026 https://t.co/595hUYVHJP", "in_reply_to_user_id": null, "geo": null, "lang": "es", "contributors": null, "in_reply_to_status_id_str": null, "user": {"protected": false, "following": null, "profile_text_color": "000000", "profile_background_color": "000000", "statuses_count": 5769, "default_profile": false, "favourites_count": 2141, "friends_count": 92, "follow_request_sent": null, "profile_sidebar_fill_color": "000000", "translator_type": "none", "notifications": null, "id_str": "2991087586", "screen_name": "danielalobera", "profile_banner_url": "https://pbs.twimg.com/profile_banners/2991087586/1490743245", "verified": false, "id": 2991087586, "profile_use_background_image": false, "description": "Martinista\u303d\ufe0f", "utc_offset": null, "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", "is_translator": false, "listed_count": 4, "default_profile_image": false, "contributors_enabled": false, "followers_count": 184, "location": "Santa Marta", "created_at": "Thu Jan 22 01:21:22 +0000 2015", "profile_image_url_https": "https://pbs.twimg.com/profile_images/868620496375599104/bbsTcqZa_normal.jpg", "geo_enabled": true, "time_zone": null, "profile_image_url": "http://pbs.twimg.com/profile_images/868620496375599104/bbsTcqZa_normal.jpg", "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png", "profile_link_color": "F5ABB5", "lang": "es", "name": "Daniela.", "profile_background_tile": false, "url": null, "profile_sidebar_border_color": "000000"}, "possibly_sensitive": false, "entities": {"user_mentions": [], "urls": [{"expanded_url": "https://twitter.com/i/web/status/930554417107099648", "url": "https://t.co/595hUYVHJP", "indices": [117, 140], "display_url": "twitter.com/i/web/status/9\u2026"}], "symbols": [], "hashtags": []}, "retweeted": false}
+{
+  "is_quote_status": false,
+  "quote_count": 0,
+  "in_reply_to_user_id_str": null,
+  "favorite_count": 0,
+  "in_reply_to_status_id": null,
+  "id_str": "930554417107099648",
+  "filter_level": "low",
+  "reply_count": 0,
+  "timestamp_ms": "1510696436560",
+  "id": 930554417107099648,
+  "display_text_range": [0, 140],
+  "coordinates": null,
+  "in_reply_to_screen_name": null,
+  "truncated": true,
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "place": {
+    "bounding_box": {
+      "coordinates": [
+        [[-74.242298, 10.798249], [-74.242298, 11.348676], [-73.612345, 11.348676], [-73.612345, 10.798249]]
+      ],
+      "type": "Polygon"
+    },
+    "url": "https://api.twitter.com/1.1/geo/id/00082d21223f8397.json",
+    "country_code": "CO",
+    "name": "Santa Marta",
+    "full_name": "Santa Marta, Colombia",
+    "id": "00082d21223f8397",
+    "place_type": "city",
+    "attributes": {},
+    "country": "Colombia"
+  },
+  "retweet_count": 0,
+  "extended_tweet": {
+    "display_text_range": [0, 273],
+    "entities": {
+      "user_mentions": [],
+      "urls": [],
+      "symbols": [],
+      "hashtags": [],
+      "media": [
+        {
+          "media_url_https": "https://pbs.twimg.com/media/DOn-TE7WkAESYbp.jpg",
+          "expanded_url": "https://twitter.com/danielalobera/status/930554417107099648/photo/1",
+          "id_str": "930554401722372097",
+          "media_url": "http://pbs.twimg.com/media/DOn-TE7WkAESYbp.jpg",
+          "display_url": "pic.twitter.com/IFQiM08i4v",
+          "id": 930554401722372097,
+          "indices": [274, 297],
+          "type": "photo",
+          "url": "https://t.co/IFQiM08i4v",
+          "sizes": {
+            "large": {
+              "resize": "fit",
+              "h": 1131,
+              "w": 1131
+            },
+            "small": {
+              "resize": "fit",
+              "h": 680,
+              "w": 680
+            },
+            "thumb": {
+              "resize": "crop",
+              "h": 150,
+              "w": 150
+            },
+            "medium": {
+              "resize": "fit",
+              "h": 1131,
+              "w": 1131
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "media_url_https": "https://pbs.twimg.com/media/DOn-TE7WkAESYbp.jpg",
+          "expanded_url": "https://twitter.com/danielalobera/status/930554417107099648/photo/1",
+          "id_str": "930554401722372097",
+          "media_url": "http://pbs.twimg.com/media/DOn-TE7WkAESYbp.jpg",
+          "display_url": "pic.twitter.com/IFQiM08i4v",
+          "id": 930554401722372097,
+          "indices": [274, 297],
+          "type": "photo",
+          "url": "https://t.co/IFQiM08i4v",
+          "sizes": {
+            "large": {
+              "resize": "fit",
+              "h": 1131,
+              "w": 1131
+            },
+            "small": {
+              "resize": "fit",
+              "h": 680,
+              "w": 680
+            },
+            "thumb": {
+              "resize": "crop",
+              "h": 150,
+              "w": 150
+            },
+            "medium": {
+              "resize": "fit",
+              "h": 1131,
+              "w": 1131
+            }
+          }
+        }
+      ]
+    },
+    "full_text": "Se acerca un nuevo reto, el m\u00e1s importante de cada a\u00f1o, que es lograr darle color, amor y una sonrisa a nuestros ni\u00f1os menos favorecidos. \u00c9stos ni\u00f1os necesitan que le pongas color a su navidad. Dona un regalo y dibujar\u00e1s una sonrisa en estos inocentes y hermosos rostros\u2764\ufe0f\ud83c\udf84 https://t.co/IFQiM08i4v"
+  },
+  "created_at": "Tue Nov 14 21:53:56 +0000 2017",
+  "favorited": false,
+  "text": "Se acerca un nuevo reto, el m\u00e1s importante de cada a\u00f1o, que es lograr darle color, amor y una sonrisa a nuestros ni\u2026 https://t.co/595hUYVHJP",
+  "in_reply_to_user_id": null,
+  "geo": null,
+  "lang": "es",
+  "contributors": null,
+  "in_reply_to_status_id_str": null,
+  "user": {
+    "protected": false,
+    "following": null,
+    "profile_text_color": "000000",
+    "profile_background_color": "000000",
+    "statuses_count": 5769,
+    "default_profile": false,
+    "favourites_count": 2141,
+    "friends_count": 92,
+    "follow_request_sent": null,
+    "profile_sidebar_fill_color": "000000",
+    "translator_type": "none",
+    "notifications": null,
+    "id_str": "2991087586",
+    "screen_name": "danielalobera",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/2991087586/1490743245",
+    "verified": false,
+    "id": 2991087586,
+    "profile_use_background_image": false,
+    "description": "Martinista\u303d\ufe0f",
+    "utc_offset": null,
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "is_translator": false,
+    "listed_count": 4,
+    "default_profile_image": false,
+    "contributors_enabled": false,
+    "followers_count": 184,
+    "location": "Santa Marta",
+    "created_at": "Thu Jan 22 01:21:22 +0000 2015",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/868620496375599104/bbsTcqZa_normal.jpg",
+    "geo_enabled": true,
+    "time_zone": null,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/868620496375599104/bbsTcqZa_normal.jpg",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_link_color": "F5ABB5",
+    "lang": "es",
+    "name": "Daniela.",
+    "profile_background_tile": false,
+    "url": null,
+    "profile_sidebar_border_color": "000000"
+  },
+  "possibly_sensitive": false,
+  "entities": {
+    "user_mentions": [],
+    "urls": [
+      {
+        "expanded_url": "https://twitter.com/i/web/status/930554417107099648",
+        "url": "https://t.co/595hUYVHJP",
+        "indices": [117, 140],
+        "display_url": "twitter.com/i/web/status/9\u2026"
+      }
+    ],
+    "symbols": [],
+    "hashtags": []
+  },
+  "retweeted": false
+}

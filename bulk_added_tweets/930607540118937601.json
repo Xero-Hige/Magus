@@ -1,1 +1,103 @@
-{"geo": {"type": "Point", "coordinates": [-41.15784, -71.3165999]}, "filter_level": "low", "in_reply_to_status_id": null, "lang": "es", "favorite_count": 0, "coordinates": {"type": "Point", "coordinates": [-71.3165999, -41.15784]}, "favorited": false, "place": {"name": "San Carlos de Bariloche", "full_name": "San Carlos de Bariloche, Argentina", "place_type": "city", "country": "Argentina", "id": "011abdad7dddec83", "bounding_box": {"type": "Polygon", "coordinates": [[[-71.476571, -41.173798], [-71.476571, -41.087088], [-71.167834, -41.087088], [-71.167834, -41.173798]]]}, "attributes": {}, "url": "https://api.twitter.com/1.1/geo/id/011abdad7dddec83.json", "country_code": "AR"}, "contributors": null, "entities": {"hashtags": [], "urls": [{"display_url": "instagram.com/p/Bbf1K4RDfjp/", "expanded_url": "https://www.instagram.com/p/Bbf1K4RDfjp/", "url": "https://t.co/y3Wb9X6JhW", "indices": [93, 116]}], "symbols": [], "user_mentions": []}, "id": 930607540118937601, "possibly_sensitive": false, "user": {"followers_count": 582, "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/560921456242999296/bwbnf6ZH.jpeg", "profile_background_color": "000000", "translator_type": "none", "profile_image_url": "http://pbs.twimg.com/profile_images/921872977561563136/d16IzGIQ_normal.jpg", "profile_banner_url": "https://pbs.twimg.com/profile_banners/2986759005/1504533189", "default_profile": false, "utc_offset": null, "lang": "es", "url": null, "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/560921456242999296/bwbnf6ZH.jpeg", "profile_image_url_https": "https://pbs.twimg.com/profile_images/921872977561563136/d16IzGIQ_normal.jpg", "time_zone": null, "profile_sidebar_border_color": "000000", "profile_use_background_image": true, "id": 2986759005, "profile_link_color": "19CF86", "profile_sidebar_fill_color": "000000", "profile_background_tile": true, "geo_enabled": true, "id_str": "2986759005", "verified": false, "name": "Ragnar", "is_translator": false, "notifications": null, "following": null, "friends_count": 584, "contributors_enabled": false, "screen_name": "PaczkoAgustin", "created_at": "Tue Jan 20 03:41:29 +0000 2015", "profile_text_color": "000000", "favourites_count": 13192, "follow_request_sent": null, "description": "19 a\u00f1os, River Plate, FC Barcelona, Salta La Banca,Vikings, Basta de culpar a Callejeros, Las Malvinas son \ud83c\udde6\ud83c\uddf7. 16/8 Brc '17 \u2744, Hab 411 \u2744\ufe0f", "default_profile_image": false, "location": "Lan\u00fas Oeste, Argentina", "listed_count": 2, "protected": false, "statuses_count": 14465}, "id_str": "930607540118937601", "retweet_count": 0, "retweeted": false, "quote_count": 0, "truncated": false, "in_reply_to_status_id_str": null, "reply_count": 0, "created_at": "Wed Nov 15 01:25:02 +0000 2017", "is_quote_status": false, "in_reply_to_user_id": null, "source": "<a href=\"http://instagram.com\" rel=\"nofollow\">Instagram</a>", "text": "Lo que dar\u00eda por sentir nuevamente ese alborozo. en Cerro Catedral - Catedral Alta Patagonia https://t.co/y3Wb9X6JhW", "timestamp_ms": "1510709102073", "in_reply_to_user_id_str": null, "in_reply_to_screen_name": null}
+{
+  "geo": {
+    "type": "Point",
+    "coordinates": [-41.15784, -71.3165999]
+  },
+  "filter_level": "low",
+  "in_reply_to_status_id": null,
+  "lang": "es",
+  "favorite_count": 0,
+  "coordinates": {
+    "type": "Point",
+    "coordinates": [-71.3165999, -41.15784]
+  },
+  "favorited": false,
+  "place": {
+    "name": "San Carlos de Bariloche",
+    "full_name": "San Carlos de Bariloche, Argentina",
+    "place_type": "city",
+    "country": "Argentina",
+    "id": "011abdad7dddec83",
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [[-71.476571, -41.173798], [-71.476571, -41.087088], [-71.167834, -41.087088], [-71.167834, -41.173798]]
+      ]
+    },
+    "attributes": {},
+    "url": "https://api.twitter.com/1.1/geo/id/011abdad7dddec83.json",
+    "country_code": "AR"
+  },
+  "contributors": null,
+  "entities": {
+    "hashtags": [],
+    "urls": [
+      {
+        "display_url": "instagram.com/p/Bbf1K4RDfjp/",
+        "expanded_url": "https://www.instagram.com/p/Bbf1K4RDfjp/",
+        "url": "https://t.co/y3Wb9X6JhW",
+        "indices": [93, 116]
+      }
+    ],
+    "symbols": [],
+    "user_mentions": []
+  },
+  "id": 930607540118937601,
+  "possibly_sensitive": false,
+  "user": {
+    "followers_count": 582,
+    "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/560921456242999296/bwbnf6ZH.jpeg",
+    "profile_background_color": "000000",
+    "translator_type": "none",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/921872977561563136/d16IzGIQ_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/2986759005/1504533189",
+    "default_profile": false,
+    "utc_offset": null,
+    "lang": "es",
+    "url": null,
+    "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/560921456242999296/bwbnf6ZH.jpeg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/921872977561563136/d16IzGIQ_normal.jpg",
+    "time_zone": null,
+    "profile_sidebar_border_color": "000000",
+    "profile_use_background_image": true,
+    "id": 2986759005,
+    "profile_link_color": "19CF86",
+    "profile_sidebar_fill_color": "000000",
+    "profile_background_tile": true,
+    "geo_enabled": true,
+    "id_str": "2986759005",
+    "verified": false,
+    "name": "Ragnar",
+    "is_translator": false,
+    "notifications": null,
+    "following": null,
+    "friends_count": 584,
+    "contributors_enabled": false,
+    "screen_name": "PaczkoAgustin",
+    "created_at": "Tue Jan 20 03:41:29 +0000 2015",
+    "profile_text_color": "000000",
+    "favourites_count": 13192,
+    "follow_request_sent": null,
+    "description": "19 a\u00f1os, River Plate, FC Barcelona, Salta La Banca,Vikings, Basta de culpar a Callejeros, Las Malvinas son \ud83c\udde6\ud83c\uddf7. 16/8 Brc '17 \u2744, Hab 411 \u2744\ufe0f",
+    "default_profile_image": false,
+    "location": "Lan\u00fas Oeste, Argentina",
+    "listed_count": 2,
+    "protected": false,
+    "statuses_count": 14465
+  },
+  "id_str": "930607540118937601",
+  "retweet_count": 0,
+  "retweeted": false,
+  "quote_count": 0,
+  "truncated": false,
+  "in_reply_to_status_id_str": null,
+  "reply_count": 0,
+  "created_at": "Wed Nov 15 01:25:02 +0000 2017",
+  "is_quote_status": false,
+  "in_reply_to_user_id": null,
+  "source": "<a href=\"http://instagram.com\" rel=\"nofollow\">Instagram</a>",
+  "text": "Lo que dar\u00eda por sentir nuevamente ese alborozo. en Cerro Catedral - Catedral Alta Patagonia https://t.co/y3Wb9X6JhW",
+  "timestamp_ms": "1510709102073",
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null
+}

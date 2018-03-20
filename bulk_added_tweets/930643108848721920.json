@@ -1,1 +1,129 @@
-{"in_reply_to_screen_name": "CCQ_PRI", "geo": null, "user": {"followers_count": 346, "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png", "profile_background_color": "C0DEED", "translator_type": "none", "profile_image_url": "http://pbs.twimg.com/profile_images/917797962394284033/D8_IoEf7_normal.jpg", "profile_banner_url": "https://pbs.twimg.com/profile_banners/59484222/1474925376", "default_profile": true, "utc_offset": -21600, "lang": "es", "url": null, "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", "profile_image_url_https": "https://pbs.twimg.com/profile_images/917797962394284033/D8_IoEf7_normal.jpg", "time_zone": "Mexico City", "profile_sidebar_border_color": "C0DEED", "profile_use_background_image": true, "id": 59484222, "profile_link_color": "1DA1F2", "profile_sidebar_fill_color": "DDEEF6", "profile_background_tile": false, "geo_enabled": true, "id_str": "59484222", "verified": false, "name": "Guillermo A. Cruz A.", "is_translator": false, "notifications": null, "following": null, "friends_count": 1409, "contributors_enabled": false, "screen_name": "lemorgon", "created_at": "Thu Jul 23 14:48:45 +0000 2009", "profile_text_color": "333333", "favourites_count": 5702, "follow_request_sent": null, "description": "gaxamx - steelers", "default_profile_image": false, "location": "M\u00e9xico", "listed_count": 6, "protected": false, "statuses_count": 6673}, "filter_level": "low", "in_reply_to_status_id": 930570106182291456, "lang": "es", "display_text_range": [9, 140], "favorited": false, "place": {"name": "La Magdalena Contreras", "full_name": "La Magdalena Contreras, Distrito Federal", "place_type": "city", "country": "M\u00e9xico", "id": "d3bf364c09703d00", "bounding_box": {"type": "Polygon", "coordinates": [[[-99.322812, 19.213113], [-99.322812, 19.338016], [-99.206241, 19.338016], [-99.206241, 19.213113]]]}, "attributes": {}, "url": "https://api.twitter.com/1.1/geo/id/d3bf364c09703d00.json", "country_code": "MX"}, "coordinates": null, "entities": {"hashtags": [], "urls": [{"display_url": "twitter.com/i/web/status/9\u2026", "expanded_url": "https://twitter.com/i/web/status/930643108848721920", "url": "https://t.co/Yi7kRbuu1N", "indices": [117, 140]}], "symbols": [], "user_mentions": [{"id": 204472461, "id_str": "204472461", "name": "C\u00e9sar Camacho", "indices": [0, 8], "screen_name": "CCQ_PRI"}]}, "id": 930643108848721920, "in_reply_to_user_id_str": "204472461", "id_str": "930643108848721920", "retweet_count": 0, "retweeted": false, "quote_count": 0, "truncated": true, "in_reply_to_status_id_str": "930570106182291456", "reply_count": 0, "created_at": "Wed Nov 15 03:46:22 +0000 2017", "is_quote_status": false, "in_reply_to_user_id": 204472461, "timestamp_ms": "1510717582319", "text": "@CCQ_PRI Eres un pobre pendejo que vive de nosotros, tragas de nuestros impuestos, eso cabroncito de mierda te debe\u2026 https://t.co/Yi7kRbuu1N", "extended_tweet": {"full_text": "@CCQ_PRI Eres un pobre pendejo que vive de nosotros, tragas de nuestros impuestos, eso cabroncito de mierda te deberia de dar tantitos huevos para aceptar que eres PUTO y robas como BRUTO, y tu y @EPN son un par de PUTOS", "display_text_range": [9, 220], "entities": {"hashtags": [], "urls": [], "symbols": [], "user_mentions": [{"id": 204472461, "id_str": "204472461", "name": "C\u00e9sar Camacho", "indices": [0, 8], "screen_name": "CCQ_PRI"}, {"id": 2897441, "id_str": "2897441", "name": "Enrique Pe\u00f1a Nieto", "indices": [196, 200], "screen_name": "EPN"}]}}, "favorite_count": 0, "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>", "contributors": null}
+{
+  "in_reply_to_screen_name": "CCQ_PRI",
+  "geo": null,
+  "user": {
+    "followers_count": 346,
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_color": "C0DEED",
+    "translator_type": "none",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/917797962394284033/D8_IoEf7_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/59484222/1474925376",
+    "default_profile": true,
+    "utc_offset": -21600,
+    "lang": "es",
+    "url": null,
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/917797962394284033/D8_IoEf7_normal.jpg",
+    "time_zone": "Mexico City",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_use_background_image": true,
+    "id": 59484222,
+    "profile_link_color": "1DA1F2",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_background_tile": false,
+    "geo_enabled": true,
+    "id_str": "59484222",
+    "verified": false,
+    "name": "Guillermo A. Cruz A.",
+    "is_translator": false,
+    "notifications": null,
+    "following": null,
+    "friends_count": 1409,
+    "contributors_enabled": false,
+    "screen_name": "lemorgon",
+    "created_at": "Thu Jul 23 14:48:45 +0000 2009",
+    "profile_text_color": "333333",
+    "favourites_count": 5702,
+    "follow_request_sent": null,
+    "description": "gaxamx - steelers",
+    "default_profile_image": false,
+    "location": "M\u00e9xico",
+    "listed_count": 6,
+    "protected": false,
+    "statuses_count": 6673
+  },
+  "filter_level": "low",
+  "in_reply_to_status_id": 930570106182291456,
+  "lang": "es",
+  "display_text_range": [9, 140],
+  "favorited": false,
+  "place": {
+    "name": "La Magdalena Contreras",
+    "full_name": "La Magdalena Contreras, Distrito Federal",
+    "place_type": "city",
+    "country": "M\u00e9xico",
+    "id": "d3bf364c09703d00",
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [[-99.322812, 19.213113], [-99.322812, 19.338016], [-99.206241, 19.338016], [-99.206241, 19.213113]]
+      ]
+    },
+    "attributes": {},
+    "url": "https://api.twitter.com/1.1/geo/id/d3bf364c09703d00.json",
+    "country_code": "MX"
+  },
+  "coordinates": null,
+  "entities": {
+    "hashtags": [],
+    "urls": [
+      {
+        "display_url": "twitter.com/i/web/status/9\u2026",
+        "expanded_url": "https://twitter.com/i/web/status/930643108848721920",
+        "url": "https://t.co/Yi7kRbuu1N",
+        "indices": [117, 140]
+      }
+    ],
+    "symbols": [],
+    "user_mentions": [
+      {
+        "id": 204472461,
+        "id_str": "204472461",
+        "name": "C\u00e9sar Camacho",
+        "indices": [0, 8],
+        "screen_name": "CCQ_PRI"
+      }
+    ]
+  },
+  "id": 930643108848721920,
+  "in_reply_to_user_id_str": "204472461",
+  "id_str": "930643108848721920",
+  "retweet_count": 0,
+  "retweeted": false,
+  "quote_count": 0,
+  "truncated": true,
+  "in_reply_to_status_id_str": "930570106182291456",
+  "reply_count": 0,
+  "created_at": "Wed Nov 15 03:46:22 +0000 2017",
+  "is_quote_status": false,
+  "in_reply_to_user_id": 204472461,
+  "timestamp_ms": "1510717582319",
+  "text": "@CCQ_PRI Eres un pobre pendejo que vive de nosotros, tragas de nuestros impuestos, eso cabroncito de mierda te debe\u2026 https://t.co/Yi7kRbuu1N",
+  "extended_tweet": {
+    "full_text": "@CCQ_PRI Eres un pobre pendejo que vive de nosotros, tragas de nuestros impuestos, eso cabroncito de mierda te deberia de dar tantitos huevos para aceptar que eres PUTO y robas como BRUTO, y tu y @EPN son un par de PUTOS",
+    "display_text_range": [9, 220],
+    "entities": {
+      "hashtags": [],
+      "urls": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "id": 204472461,
+          "id_str": "204472461",
+          "name": "C\u00e9sar Camacho",
+          "indices": [0, 8],
+          "screen_name": "CCQ_PRI"
+        }, {
+          "id": 2897441,
+          "id_str": "2897441",
+          "name": "Enrique Pe\u00f1a Nieto",
+          "indices": [196, 200],
+          "screen_name": "EPN"
+        }
+      ]
+    }
+  },
+  "favorite_count": 0,
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "contributors": null
+}

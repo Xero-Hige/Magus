@@ -1,1 +1,122 @@
-{"reply_count": 0, "user": {"notifications": null, "following": null, "profile_background_color": "F5F8FA", "url": null, "utc_offset": null, "follow_request_sent": null, "translator_type": "none", "profile_text_color": "333333", "id_str": "720885764112777216", "favourites_count": 6, "friends_count": 24, "followers_count": 0, "id": 720885764112777216, "geo_enabled": true, "profile_sidebar_border_color": "C0DEED", "profile_image_url_https": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png", "statuses_count": 9, "profile_background_image_url_https": "", "protected": false, "listed_count": 0, "screen_name": "JosGGutirrezE1", "profile_sidebar_fill_color": "DDEEF6", "location": null, "created_at": "Fri Apr 15 08:05:34 +0000 2016", "default_profile": true, "time_zone": null, "verified": false, "contributors_enabled": false, "profile_image_url": "http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png", "lang": "es", "name": "Jos\u00e9 G Guti\u00e9rrez E", "profile_link_color": "1DA1F2", "is_translator": false, "description": null, "profile_use_background_image": true, "default_profile_image": false, "profile_background_image_url": "", "profile_background_tile": false}, "contributors": null, "id_str": "930625864122843141", "in_reply_to_screen_name": "castillejos_m", "in_reply_to_user_id_str": "26436473", "in_reply_to_status_id": 930443516060213248, "in_reply_to_status_id_str": "930443516060213248", "display_text_range": [15, 140], "in_reply_to_user_id": 26436473, "id": 930625864122843141, "favorite_count": 0, "entities": {"user_mentions": [{"id": 26436473, "indices": [0, 14], "screen_name": "castillejos_m", "id_str": "26436473", "name": "mario castillejos"}], "hashtags": [], "symbols": [], "urls": [{"expanded_url": "https://twitter.com/i/web/status/930625864122843141", "url": "https://t.co/1e9VsOjl9u", "display_url": "twitter.com/i/web/status/9\u2026", "indices": [117, 140]}]}, "created_at": "Wed Nov 15 02:37:50 +0000 2017", "extended_tweet": {"entities": {"user_mentions": [{"id": 26436473, "indices": [0, 14], "screen_name": "castillejos_m", "id_str": "26436473", "name": "mario castillejos"}], "hashtags": [], "symbols": [], "urls": []}, "display_text_range": [15, 154], "full_text": "@castillejos_m Felicidades Mario. Defendiste fieramente el derecho a asistir al estadio sin restricciones por el Jersey. Total firmeza, cero ambig\u00fcedades."}, "favorited": false, "timestamp_ms": "1510713470856", "quote_count": 0, "place": {"country_code": "MX", "bounding_box": {"coordinates": [[[-100.337498, 25.702823], [-100.337498, 25.770607], [-100.20345, 25.770607], [-100.20345, 25.702823]]], "type": "Polygon"}, "attributes": {}, "url": "https://api.twitter.com/1.1/geo/id/c5c72776b9f0cc0b.json", "name": "San Nicol\u00e1s de los Garza", "id": "c5c72776b9f0cc0b", "place_type": "city", "country": "M\u00e9xico", "full_name": "San Nicol\u00e1s de los Garza, Nuevo Le\u00f3n"}, "text": "@castillejos_m Felicidades Mario. Defendiste fieramente el derecho a asistir al estadio sin restricciones por el Je\u2026 https://t.co/1e9VsOjl9u", "geo": null, "retweeted": false, "retweet_count": 0, "filter_level": "low", "lang": "es", "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>", "is_quote_status": false, "coordinates": null, "truncated": true}
+{
+  "reply_count": 0,
+  "user": {
+    "notifications": null,
+    "following": null,
+    "profile_background_color": "F5F8FA",
+    "url": null,
+    "utc_offset": null,
+    "follow_request_sent": null,
+    "translator_type": "none",
+    "profile_text_color": "333333",
+    "id_str": "720885764112777216",
+    "favourites_count": 6,
+    "friends_count": 24,
+    "followers_count": 0,
+    "id": 720885764112777216,
+    "geo_enabled": true,
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_image_url_https": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+    "statuses_count": 9,
+    "profile_background_image_url_https": "",
+    "protected": false,
+    "listed_count": 0,
+    "screen_name": "JosGGutirrezE1",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "location": null,
+    "created_at": "Fri Apr 15 08:05:34 +0000 2016",
+    "default_profile": true,
+    "time_zone": null,
+    "verified": false,
+    "contributors_enabled": false,
+    "profile_image_url": "http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+    "lang": "es",
+    "name": "Jos\u00e9 G Guti\u00e9rrez E",
+    "profile_link_color": "1DA1F2",
+    "is_translator": false,
+    "description": null,
+    "profile_use_background_image": true,
+    "default_profile_image": false,
+    "profile_background_image_url": "",
+    "profile_background_tile": false
+  },
+  "contributors": null,
+  "id_str": "930625864122843141",
+  "in_reply_to_screen_name": "castillejos_m",
+  "in_reply_to_user_id_str": "26436473",
+  "in_reply_to_status_id": 930443516060213248,
+  "in_reply_to_status_id_str": "930443516060213248",
+  "display_text_range": [15, 140],
+  "in_reply_to_user_id": 26436473,
+  "id": 930625864122843141,
+  "favorite_count": 0,
+  "entities": {
+    "user_mentions": [
+      {
+        "id": 26436473,
+        "indices": [0, 14],
+        "screen_name": "castillejos_m",
+        "id_str": "26436473",
+        "name": "mario castillejos"
+      }
+    ],
+    "hashtags": [],
+    "symbols": [],
+    "urls": [
+      {
+        "expanded_url": "https://twitter.com/i/web/status/930625864122843141",
+        "url": "https://t.co/1e9VsOjl9u",
+        "display_url": "twitter.com/i/web/status/9\u2026",
+        "indices": [117, 140]
+      }
+    ]
+  },
+  "created_at": "Wed Nov 15 02:37:50 +0000 2017",
+  "extended_tweet": {
+    "entities": {
+      "user_mentions": [
+        {
+          "id": 26436473,
+          "indices": [0, 14],
+          "screen_name": "castillejos_m",
+          "id_str": "26436473",
+          "name": "mario castillejos"
+        }
+      ],
+      "hashtags": [],
+      "symbols": [],
+      "urls": []
+    },
+    "display_text_range": [15, 154],
+    "full_text": "@castillejos_m Felicidades Mario. Defendiste fieramente el derecho a asistir al estadio sin restricciones por el Jersey. Total firmeza, cero ambig\u00fcedades."
+  },
+  "favorited": false,
+  "timestamp_ms": "1510713470856",
+  "quote_count": 0,
+  "place": {
+    "country_code": "MX",
+    "bounding_box": {
+      "coordinates": [
+        [[-100.337498, 25.702823], [-100.337498, 25.770607], [-100.20345, 25.770607], [-100.20345, 25.702823]]
+      ],
+      "type": "Polygon"
+    },
+    "attributes": {},
+    "url": "https://api.twitter.com/1.1/geo/id/c5c72776b9f0cc0b.json",
+    "name": "San Nicol\u00e1s de los Garza",
+    "id": "c5c72776b9f0cc0b",
+    "place_type": "city",
+    "country": "M\u00e9xico",
+    "full_name": "San Nicol\u00e1s de los Garza, Nuevo Le\u00f3n"
+  },
+  "text": "@castillejos_m Felicidades Mario. Defendiste fieramente el derecho a asistir al estadio sin restricciones por el Je\u2026 https://t.co/1e9VsOjl9u",
+  "geo": null,
+  "retweeted": false,
+  "retweet_count": 0,
+  "filter_level": "low",
+  "lang": "es",
+  "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+  "is_quote_status": false,
+  "coordinates": null,
+  "truncated": true
+}

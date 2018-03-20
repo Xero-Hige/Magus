@@ -1,1 +1,106 @@
-{"geo": null, "filter_level": "low", "in_reply_to_status_id": null, "lang": "es", "favorite_count": 0, "coordinates": null, "favorited": false, "place": {"name": "Uruguay", "full_name": "Uruguay", "place_type": "country", "country": "Uruguay", "id": "d0f5be1262dee9aa", "bounding_box": {"type": "Polygon", "coordinates": [[[-58.491052, -34.980163], [-58.491052, -30.085693], [-53.071505, -30.085693], [-53.071505, -34.980163]]]}, "attributes": {}, "url": "https://api.twitter.com/1.1/geo/id/d0f5be1262dee9aa.json", "country_code": "UY"}, "contributors": null, "entities": {"hashtags": [], "urls": [{"display_url": "twitter.com/i/web/status/9\u2026", "expanded_url": "https://twitter.com/i/web/status/930623263063109633", "url": "https://t.co/LNNtkmVxbK", "indices": [117, 140]}], "symbols": [], "user_mentions": []}, "id": 930623263063109633, "user": {"followers_count": 1473, "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png", "profile_background_color": "000000", "translator_type": "none", "profile_image_url": "http://pbs.twimg.com/profile_images/928069162303401986/QJu18Naf_normal.jpg", "profile_banner_url": "https://pbs.twimg.com/profile_banners/2803759614/1510022437", "default_profile": false, "utc_offset": -10800, "lang": "es", "url": null, "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", "profile_image_url_https": "https://pbs.twimg.com/profile_images/928069162303401986/QJu18Naf_normal.jpg", "time_zone": "Buenos Aires", "profile_sidebar_border_color": "000000", "profile_use_background_image": false, "id": 2803759614, "profile_link_color": "9266CC", "profile_sidebar_fill_color": "000000", "profile_background_tile": false, "geo_enabled": true, "id_str": "2803759614", "verified": false, "name": "FS Fans URUGUAY", "is_translator": false, "notifications": null, "following": null, "friends_count": 1554, "contributors_enabled": false, "screen_name": "FANSFSOGURUGUAY", "created_at": "Thu Sep 11 14:38:35 +0000 2014", "profile_text_color": "000000", "favourites_count": 13120, "follow_request_sent": null, "description": "EMBAJADORA DE URUGUAY PARA #FSOGLATINOAMERICA", "default_profile_image": false, "location": "URUGUAY", "listed_count": 20, "protected": false, "statuses_count": 21910}, "id_str": "930623263063109633", "retweet_count": 0, "retweeted": false, "quote_count": 0, "truncated": true, "in_reply_to_status_id_str": null, "reply_count": 0, "created_at": "Wed Nov 15 02:27:30 +0000 2017", "is_quote_status": false, "in_reply_to_user_id": null, "timestamp_ms": "1510712850715", "text": "\"\u00a1Estoy realmente emocionado! Esta tercera pel\u00edcula fue tan emocionante de rodar. Todos trabajamos juntos durante l\u2026 https://t.co/LNNtkmVxbK", "extended_tweet": {"full_text": "\"\u00a1Estoy realmente emocionado! Esta tercera pel\u00edcula fue tan emocionante de rodar. Todos trabajamos juntos durante los \u00faltimos cuatro a\u00f1os y tuvimos que hacer cosas realmente divertidas en este \u00faltimo (mis labios est\u00e1n sellados sobre lo que son.).....", "display_text_range": [0, 250], "entities": {"hashtags": [], "urls": [], "symbols": [], "user_mentions": []}}, "in_reply_to_user_id_str": null, "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>", "in_reply_to_screen_name": null}
+{
+  "geo": null,
+  "filter_level": "low",
+  "in_reply_to_status_id": null,
+  "lang": "es",
+  "favorite_count": 0,
+  "coordinates": null,
+  "favorited": false,
+  "place": {
+    "name": "Uruguay",
+    "full_name": "Uruguay",
+    "place_type": "country",
+    "country": "Uruguay",
+    "id": "d0f5be1262dee9aa",
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [[-58.491052, -34.980163], [-58.491052, -30.085693], [-53.071505, -30.085693], [-53.071505, -34.980163]]
+      ]
+    },
+    "attributes": {},
+    "url": "https://api.twitter.com/1.1/geo/id/d0f5be1262dee9aa.json",
+    "country_code": "UY"
+  },
+  "contributors": null,
+  "entities": {
+    "hashtags": [],
+    "urls": [
+      {
+        "display_url": "twitter.com/i/web/status/9\u2026",
+        "expanded_url": "https://twitter.com/i/web/status/930623263063109633",
+        "url": "https://t.co/LNNtkmVxbK",
+        "indices": [117, 140]
+      }
+    ],
+    "symbols": [],
+    "user_mentions": []
+  },
+  "id": 930623263063109633,
+  "user": {
+    "followers_count": 1473,
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_color": "000000",
+    "translator_type": "none",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/928069162303401986/QJu18Naf_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/2803759614/1510022437",
+    "default_profile": false,
+    "utc_offset": -10800,
+    "lang": "es",
+    "url": null,
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/928069162303401986/QJu18Naf_normal.jpg",
+    "time_zone": "Buenos Aires",
+    "profile_sidebar_border_color": "000000",
+    "profile_use_background_image": false,
+    "id": 2803759614,
+    "profile_link_color": "9266CC",
+    "profile_sidebar_fill_color": "000000",
+    "profile_background_tile": false,
+    "geo_enabled": true,
+    "id_str": "2803759614",
+    "verified": false,
+    "name": "FS Fans URUGUAY",
+    "is_translator": false,
+    "notifications": null,
+    "following": null,
+    "friends_count": 1554,
+    "contributors_enabled": false,
+    "screen_name": "FANSFSOGURUGUAY",
+    "created_at": "Thu Sep 11 14:38:35 +0000 2014",
+    "profile_text_color": "000000",
+    "favourites_count": 13120,
+    "follow_request_sent": null,
+    "description": "EMBAJADORA DE URUGUAY PARA #FSOGLATINOAMERICA",
+    "default_profile_image": false,
+    "location": "URUGUAY",
+    "listed_count": 20,
+    "protected": false,
+    "statuses_count": 21910
+  },
+  "id_str": "930623263063109633",
+  "retweet_count": 0,
+  "retweeted": false,
+  "quote_count": 0,
+  "truncated": true,
+  "in_reply_to_status_id_str": null,
+  "reply_count": 0,
+  "created_at": "Wed Nov 15 02:27:30 +0000 2017",
+  "is_quote_status": false,
+  "in_reply_to_user_id": null,
+  "timestamp_ms": "1510712850715",
+  "text": "\"\u00a1Estoy realmente emocionado! Esta tercera pel\u00edcula fue tan emocionante de rodar. Todos trabajamos juntos durante l\u2026 https://t.co/LNNtkmVxbK",
+  "extended_tweet": {
+    "full_text": "\"\u00a1Estoy realmente emocionado! Esta tercera pel\u00edcula fue tan emocionante de rodar. Todos trabajamos juntos durante los \u00faltimos cuatro a\u00f1os y tuvimos que hacer cosas realmente divertidas en este \u00faltimo (mis labios est\u00e1n sellados sobre lo que son.).....",
+    "display_text_range": [0, 250],
+    "entities": {
+      "hashtags": [],
+      "urls": [],
+      "symbols": [],
+      "user_mentions": []
+    }
+  },
+  "in_reply_to_user_id_str": null,
+  "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+  "in_reply_to_screen_name": null
+}

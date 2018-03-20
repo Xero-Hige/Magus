@@ -1,1 +1,130 @@
-{"geo": null, "filter_level": "low", "in_reply_to_status_id": null, "lang": "es", "favorite_count": 0, "coordinates": null, "favorited": false, "place": {"name": "Osorno", "full_name": "Osorno, Chile", "place_type": "city", "country": "Chile", "id": "0079147013a9cd4f", "bounding_box": {"type": "Polygon", "coordinates": [[[-73.415901, -40.78724], [-73.415901, -40.419311], [-72.768427, -40.419311], [-72.768427, -40.78724]]]}, "attributes": {}, "url": "https://api.twitter.com/1.1/geo/id/0079147013a9cd4f.json", "country_code": "CL"}, "contributors": null, "entities": {"hashtags": [], "urls": [{"display_url": "twitter.com/i/web/status/9\u2026", "expanded_url": "https://twitter.com/i/web/status/930579458414833666", "url": "https://t.co/uFqmmPpZC6", "indices": [117, 140]}], "symbols": [], "user_mentions": [{"id": 176203476, "id_str": "176203476", "name": "Carolina Soto Mu\u00f1oz", "indices": [6, 21], "screen_name": "carolina_soto_"}]}, "id": 930579458414833666, "user": {"followers_count": 202, "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/439075408/234.jpg", "profile_background_color": "B2DFDA", "translator_type": "none", "profile_image_url": "http://pbs.twimg.com/profile_images/929901520614805504/ISbSHYXO_normal.jpg", "profile_banner_url": "https://pbs.twimg.com/profile_banners/153946159/1506558605", "default_profile": false, "utc_offset": -10800, "lang": "es", "url": null, "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/439075408/234.jpg", "profile_image_url_https": "https://pbs.twimg.com/profile_images/929901520614805504/ISbSHYXO_normal.jpg", "time_zone": "Santiago", "profile_sidebar_border_color": "EEEEEE", "profile_use_background_image": true, "id": 153946159, "profile_link_color": "93A644", "profile_sidebar_fill_color": "FFFFFF", "profile_background_tile": false, "geo_enabled": true, "id_str": "153946159", "verified": false, "name": "Carmen Delg. Barril", "is_translator": false, "notifications": null, "following": null, "friends_count": 66, "contributors_enabled": false, "screen_name": "Carmener33", "created_at": "Wed Jun 09 23:58:13 +0000 2010", "profile_text_color": "333333", "favourites_count": 4989, "follow_request_sent": null, "description": "A\u00fan creo en el ser humano, pese, a mi...la nostalgia me hace sentir, que he tenido hermosos momentos", "default_profile_image": false, "location": "Osorno", "listed_count": 3, "protected": false, "statuses_count": 6600}, "id_str": "930579458414833666", "retweet_count": 0, "retweeted": false, "quote_count": 0, "truncated": true, "in_reply_to_status_id_str": null, "reply_count": 0, "created_at": "Tue Nov 14 23:33:26 +0000 2017", "is_quote_status": false, "in_reply_to_user_id": null, "timestamp_ms": "1510702406873", "text": "Linda @carolina_soto_  bendiciones y que te vaya muy bien en la onda retro..tienes una bella voz, por algo haz gana\u2026 https://t.co/uFqmmPpZC6", "extended_tweet": {"full_text": "Linda @carolina_soto_  bendiciones y que te vaya muy bien en la onda retro..tienes una bella voz, por algo haz ganado tanto festival chiquilla...ya dar\u00e1s al clavo \ud83d\ude09\ud83c\udf3c #sure\u00f1amilf #vitamina\ud83d\udc99\ud83c\udf3c", "display_text_range": [0, 189], "entities": {"hashtags": [{"text": "sure\u00f1amilf", "indices": [166, 177]}, {"text": "vitamina", "indices": [178, 187]}], "urls": [], "symbols": [], "user_mentions": [{"id": 176203476, "id_str": "176203476", "name": "Carolina Soto Mu\u00f1oz", "indices": [6, 21], "screen_name": "carolina_soto_"}]}}, "in_reply_to_user_id_str": null, "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>", "in_reply_to_screen_name": null}
+{
+  "geo": null,
+  "filter_level": "low",
+  "in_reply_to_status_id": null,
+  "lang": "es",
+  "favorite_count": 0,
+  "coordinates": null,
+  "favorited": false,
+  "place": {
+    "name": "Osorno",
+    "full_name": "Osorno, Chile",
+    "place_type": "city",
+    "country": "Chile",
+    "id": "0079147013a9cd4f",
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [[-73.415901, -40.78724], [-73.415901, -40.419311], [-72.768427, -40.419311], [-72.768427, -40.78724]]
+      ]
+    },
+    "attributes": {},
+    "url": "https://api.twitter.com/1.1/geo/id/0079147013a9cd4f.json",
+    "country_code": "CL"
+  },
+  "contributors": null,
+  "entities": {
+    "hashtags": [],
+    "urls": [
+      {
+        "display_url": "twitter.com/i/web/status/9\u2026",
+        "expanded_url": "https://twitter.com/i/web/status/930579458414833666",
+        "url": "https://t.co/uFqmmPpZC6",
+        "indices": [117, 140]
+      }
+    ],
+    "symbols": [],
+    "user_mentions": [
+      {
+        "id": 176203476,
+        "id_str": "176203476",
+        "name": "Carolina Soto Mu\u00f1oz",
+        "indices": [6, 21],
+        "screen_name": "carolina_soto_"
+      }
+    ]
+  },
+  "id": 930579458414833666,
+  "user": {
+    "followers_count": 202,
+    "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/439075408/234.jpg",
+    "profile_background_color": "B2DFDA",
+    "translator_type": "none",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/929901520614805504/ISbSHYXO_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/153946159/1506558605",
+    "default_profile": false,
+    "utc_offset": -10800,
+    "lang": "es",
+    "url": null,
+    "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/439075408/234.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/929901520614805504/ISbSHYXO_normal.jpg",
+    "time_zone": "Santiago",
+    "profile_sidebar_border_color": "EEEEEE",
+    "profile_use_background_image": true,
+    "id": 153946159,
+    "profile_link_color": "93A644",
+    "profile_sidebar_fill_color": "FFFFFF",
+    "profile_background_tile": false,
+    "geo_enabled": true,
+    "id_str": "153946159",
+    "verified": false,
+    "name": "Carmen Delg. Barril",
+    "is_translator": false,
+    "notifications": null,
+    "following": null,
+    "friends_count": 66,
+    "contributors_enabled": false,
+    "screen_name": "Carmener33",
+    "created_at": "Wed Jun 09 23:58:13 +0000 2010",
+    "profile_text_color": "333333",
+    "favourites_count": 4989,
+    "follow_request_sent": null,
+    "description": "A\u00fan creo en el ser humano, pese, a mi...la nostalgia me hace sentir, que he tenido hermosos momentos",
+    "default_profile_image": false,
+    "location": "Osorno",
+    "listed_count": 3,
+    "protected": false,
+    "statuses_count": 6600
+  },
+  "id_str": "930579458414833666",
+  "retweet_count": 0,
+  "retweeted": false,
+  "quote_count": 0,
+  "truncated": true,
+  "in_reply_to_status_id_str": null,
+  "reply_count": 0,
+  "created_at": "Tue Nov 14 23:33:26 +0000 2017",
+  "is_quote_status": false,
+  "in_reply_to_user_id": null,
+  "timestamp_ms": "1510702406873",
+  "text": "Linda @carolina_soto_  bendiciones y que te vaya muy bien en la onda retro..tienes una bella voz, por algo haz gana\u2026 https://t.co/uFqmmPpZC6",
+  "extended_tweet": {
+    "full_text": "Linda @carolina_soto_  bendiciones y que te vaya muy bien en la onda retro..tienes una bella voz, por algo haz ganado tanto festival chiquilla...ya dar\u00e1s al clavo \ud83d\ude09\ud83c\udf3c #sure\u00f1amilf #vitamina\ud83d\udc99\ud83c\udf3c",
+    "display_text_range": [0, 189],
+    "entities": {
+      "hashtags": [
+        {
+          "text": "sure\u00f1amilf",
+          "indices": [166, 177]
+        }, {
+          "text": "vitamina",
+          "indices": [178, 187]
+        }
+      ],
+      "urls": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "id": 176203476,
+          "id_str": "176203476",
+          "name": "Carolina Soto Mu\u00f1oz",
+          "indices": [6, 21],
+          "screen_name": "carolina_soto_"
+        }
+      ]
+    }
+  },
+  "in_reply_to_user_id_str": null,
+  "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+  "in_reply_to_screen_name": null
+}

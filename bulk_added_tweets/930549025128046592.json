@@ -1,1 +1,106 @@
-{"reply_count": 0, "user": {"profile_banner_url": "https://pbs.twimg.com/profile_banners/794061476826910720/1478154619", "following": null, "profile_background_color": "F5F8FA", "url": null, "utc_offset": null, "follow_request_sent": null, "translator_type": "none", "profile_text_color": "333333", "id_str": "794061476826910720", "favourites_count": 394, "friends_count": 150, "followers_count": 68, "id": 794061476826910720, "geo_enabled": true, "profile_sidebar_border_color": "C0DEED", "profile_image_url_https": "https://pbs.twimg.com/profile_images/927436901333815296/v5YNU3sH_normal.jpg", "statuses_count": 587, "notifications": null, "profile_background_image_url_https": "", "protected": false, "listed_count": 0, "screen_name": "DalmaArroyo", "profile_sidebar_fill_color": "DDEEF6", "location": "Salta, Argentina", "created_at": "Thu Nov 03 06:19:43 +0000 2016", "default_profile": true, "time_zone": null, "verified": false, "contributors_enabled": false, "profile_image_url": "http://pbs.twimg.com/profile_images/927436901333815296/v5YNU3sH_normal.jpg", "lang": "es", "name": "Dalma Arroyo", "profile_link_color": "1DA1F2", "is_translator": false, "description": "\ud83c\udf41#22\nEncarando la vida.\nProf. de Teatro", "profile_use_background_image": true, "default_profile_image": false, "profile_background_image_url": "", "profile_background_tile": false}, "contributors": null, "id_str": "930549025128046592", "in_reply_to_screen_name": null, "in_reply_to_user_id_str": null, "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>", "in_reply_to_status_id_str": null, "in_reply_to_user_id": null, "id": 930549025128046592, "in_reply_to_status_id": null, "favorite_count": 0, "entities": {"user_mentions": [], "hashtags": [], "symbols": [], "urls": [{"expanded_url": "https://twitter.com/i/web/status/930549025128046592", "url": "https://t.co/yzfGfbX0GZ", "display_url": "twitter.com/i/web/status/9\u2026", "indices": [117, 140]}]}, "created_at": "Tue Nov 14 21:32:31 +0000 2017", "extended_tweet": {"entities": {"user_mentions": [], "hashtags": [], "symbols": [], "urls": []}, "display_text_range": [0, 273], "full_text": "Una maestra afuera del establecimiento d\u00f3nde estudio:\nM:- Tom\u00e1s me quiero ir. (A tom\u00e1s no lo vienen a buscar todav\u00eda. Y est\u00e1 pegado a la baranda mirando en qu\u00e9 momento aparece su mam\u00e1)\nNo s\u00e9 qu\u00e9 es peor: la \"Se\u00f1o\" que lo hace sentir una carga o la mam\u00e1 que no viene por el."}, "favorited": false, "timestamp_ms": "1510695151012", "quote_count": 0, "place": {"country_code": "AR", "bounding_box": {"coordinates": [[[-65.532514, -24.871621], [-65.532514, -24.74685], [-65.358702, -24.74685], [-65.358702, -24.871621]]], "type": "Polygon"}, "attributes": {}, "url": "https://api.twitter.com/1.1/geo/id/0085b01d4f65f576.json", "name": "Salta", "id": "0085b01d4f65f576", "place_type": "city", "country": "Argentina", "full_name": "Salta, Argentina"}, "text": "Una maestra afuera del establecimiento d\u00f3nde estudio:\nM:- Tom\u00e1s me quiero ir. (A tom\u00e1s no lo vienen a buscar todav\u00ed\u2026 https://t.co/yzfGfbX0GZ", "geo": null, "retweeted": false, "retweet_count": 0, "filter_level": "low", "lang": "es", "is_quote_status": false, "coordinates": null, "truncated": true}
+{
+  "reply_count": 0,
+  "user": {
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/794061476826910720/1478154619",
+    "following": null,
+    "profile_background_color": "F5F8FA",
+    "url": null,
+    "utc_offset": null,
+    "follow_request_sent": null,
+    "translator_type": "none",
+    "profile_text_color": "333333",
+    "id_str": "794061476826910720",
+    "favourites_count": 394,
+    "friends_count": 150,
+    "followers_count": 68,
+    "id": 794061476826910720,
+    "geo_enabled": true,
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/927436901333815296/v5YNU3sH_normal.jpg",
+    "statuses_count": 587,
+    "notifications": null,
+    "profile_background_image_url_https": "",
+    "protected": false,
+    "listed_count": 0,
+    "screen_name": "DalmaArroyo",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "location": "Salta, Argentina",
+    "created_at": "Thu Nov 03 06:19:43 +0000 2016",
+    "default_profile": true,
+    "time_zone": null,
+    "verified": false,
+    "contributors_enabled": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/927436901333815296/v5YNU3sH_normal.jpg",
+    "lang": "es",
+    "name": "Dalma Arroyo",
+    "profile_link_color": "1DA1F2",
+    "is_translator": false,
+    "description": "\ud83c\udf41#22\nEncarando la vida.\nProf. de Teatro",
+    "profile_use_background_image": true,
+    "default_profile_image": false,
+    "profile_background_image_url": "",
+    "profile_background_tile": false
+  },
+  "contributors": null,
+  "id_str": "930549025128046592",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_user_id_str": null,
+  "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "id": 930549025128046592,
+  "in_reply_to_status_id": null,
+  "favorite_count": 0,
+  "entities": {
+    "user_mentions": [],
+    "hashtags": [],
+    "symbols": [],
+    "urls": [
+      {
+        "expanded_url": "https://twitter.com/i/web/status/930549025128046592",
+        "url": "https://t.co/yzfGfbX0GZ",
+        "display_url": "twitter.com/i/web/status/9\u2026",
+        "indices": [117, 140]
+      }
+    ]
+  },
+  "created_at": "Tue Nov 14 21:32:31 +0000 2017",
+  "extended_tweet": {
+    "entities": {
+      "user_mentions": [],
+      "hashtags": [],
+      "symbols": [],
+      "urls": []
+    },
+    "display_text_range": [0, 273],
+    "full_text": "Una maestra afuera del establecimiento d\u00f3nde estudio:\nM:- Tom\u00e1s me quiero ir. (A tom\u00e1s no lo vienen a buscar todav\u00eda. Y est\u00e1 pegado a la baranda mirando en qu\u00e9 momento aparece su mam\u00e1)\nNo s\u00e9 qu\u00e9 es peor: la \"Se\u00f1o\" que lo hace sentir una carga o la mam\u00e1 que no viene por el."
+  },
+  "favorited": false,
+  "timestamp_ms": "1510695151012",
+  "quote_count": 0,
+  "place": {
+    "country_code": "AR",
+    "bounding_box": {
+      "coordinates": [
+        [[-65.532514, -24.871621], [-65.532514, -24.74685], [-65.358702, -24.74685], [-65.358702, -24.871621]]
+      ],
+      "type": "Polygon"
+    },
+    "attributes": {},
+    "url": "https://api.twitter.com/1.1/geo/id/0085b01d4f65f576.json",
+    "name": "Salta",
+    "id": "0085b01d4f65f576",
+    "place_type": "city",
+    "country": "Argentina",
+    "full_name": "Salta, Argentina"
+  },
+  "text": "Una maestra afuera del establecimiento d\u00f3nde estudio:\nM:- Tom\u00e1s me quiero ir. (A tom\u00e1s no lo vienen a buscar todav\u00ed\u2026 https://t.co/yzfGfbX0GZ",
+  "geo": null,
+  "retweeted": false,
+  "retweet_count": 0,
+  "filter_level": "low",
+  "lang": "es",
+  "is_quote_status": false,
+  "coordinates": null,
+  "truncated": true
+}

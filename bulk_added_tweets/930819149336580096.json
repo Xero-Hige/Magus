@@ -1,1 +1,111 @@
-{"extended_tweet": {"display_text_range": [0, 280], "entities": {"urls": [], "symbols": [], "hashtags": [{"text": "OTDirecto15N", "indices": [267, 280]}], "user_mentions": []}, "full_text": "Javi sobre la historia de la canci\u00f3n: \"ellos estuvieron tonteando pero el tenia novia y ella tenia novio, por eso no nunca pudo ser, se qued\u00f3 esperando en esa habitaci\u00f3n a que \u00e9l llegase y se imagin\u00f3 que pasaba de verdad, pero nunca pas\u00f3\u201d\nLa cara de Aitana, deja vu  #OTDirecto15N"}, "favorited": false, "lang": "es", "favorite_count": 0, "reply_count": 0, "geo": null, "contributors": null, "text": "Javi sobre la historia de la canci\u00f3n: \"ellos estuvieron tonteando pero el tenia novia y ella tenia novio, por eso n\u2026 https://t.co/RV3ff4S5yM", "created_at": "Wed Nov 15 15:25:53 +0000 2017", "place": {"place_type": "city", "full_name": "La Plata, Argentina", "country": "Argentina", "name": "La Plata", "url": "https://api.twitter.com/1.1/geo/id/0177894212b08f73.json", "country_code": "AR", "bounding_box": {"type": "Polygon", "coordinates": [[[-58.160874, -35.031373], [-58.160874, -34.841264], [-57.865169, -34.841264], [-57.865169, -35.031373]]]}, "id": "0177894212b08f73", "attributes": {}}, "user": {"profile_text_color": "333333", "lang": "es", "location": "llama llama red pajama", "friends_count": 641, "profile_link_color": "94D487", "profile_image_url_https": "https://pbs.twimg.com/profile_images/930252058023940096/mhcwT-Gb_normal.jpg", "contributors_enabled": false, "following": null, "is_translator": false, "verified": false, "profile_banner_url": "https://pbs.twimg.com/profile_banners/2972048021/1496821030", "utc_offset": -10800, "geo_enabled": true, "profile_sidebar_border_color": "C0DEED", "created_at": "Sat Jan 10 21:07:14 +0000 2015", "description": "Teen Wolf es un camino de ida / \u00abMica Viciconte\u00bb \u00abLauren Jauregui\u00bb \u00abCamila Cabello\u00bb  #Ananto\ud83d\udc98 Maleanalyn\ud83d\udc51", "profile_image_url": "http://pbs.twimg.com/profile_images/930252058023940096/mhcwT-Gb_normal.jpg", "profile_background_color": "94D487", "listed_count": 27, "follow_request_sent": null, "profile_background_tile": true, "followers_count": 6278, "name": "Ana", "notifications": null, "default_profile_image": false, "url": null, "favourites_count": 6963, "screen_name": "theblondxcubans", "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/571830375169523712/SuHqFx6O.jpeg", "profile_sidebar_fill_color": "DDEEF6", "profile_use_background_image": true, "translator_type": "none", "time_zone": "Buenos Aires", "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/571830375169523712/SuHqFx6O.jpeg", "statuses_count": 174827, "id": 2972048021, "default_profile": false, "protected": false, "id_str": "2972048021"}, "in_reply_to_user_id_str": null, "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>", "filter_level": "low", "is_quote_status": false, "in_reply_to_status_id": null, "in_reply_to_user_id": null, "quote_count": 0, "retweeted": false, "in_reply_to_screen_name": null, "retweet_count": 0, "in_reply_to_status_id_str": null, "coordinates": null, "id": 930819149336580096, "truncated": true, "entities": {"urls": [{"url": "https://t.co/RV3ff4S5yM", "display_url": "twitter.com/i/web/status/9\u2026", "indices": [117, 140], "expanded_url": "https://twitter.com/i/web/status/930819149336580096"}], "symbols": [], "hashtags": [], "user_mentions": []}, "timestamp_ms": "1510759553642", "id_str": "930819149336580096"}
+{
+  "extended_tweet": {
+    "display_text_range": [0, 280],
+    "entities": {
+      "urls": [],
+      "symbols": [],
+      "hashtags": [
+        {
+          "text": "OTDirecto15N",
+          "indices": [267, 280]
+        }
+      ],
+      "user_mentions": []
+    },
+    "full_text": "Javi sobre la historia de la canci\u00f3n: \"ellos estuvieron tonteando pero el tenia novia y ella tenia novio, por eso no nunca pudo ser, se qued\u00f3 esperando en esa habitaci\u00f3n a que \u00e9l llegase y se imagin\u00f3 que pasaba de verdad, pero nunca pas\u00f3\u201d\nLa cara de Aitana, deja vu  #OTDirecto15N"
+  },
+  "favorited": false,
+  "lang": "es",
+  "favorite_count": 0,
+  "reply_count": 0,
+  "geo": null,
+  "contributors": null,
+  "text": "Javi sobre la historia de la canci\u00f3n: \"ellos estuvieron tonteando pero el tenia novia y ella tenia novio, por eso n\u2026 https://t.co/RV3ff4S5yM",
+  "created_at": "Wed Nov 15 15:25:53 +0000 2017",
+  "place": {
+    "place_type": "city",
+    "full_name": "La Plata, Argentina",
+    "country": "Argentina",
+    "name": "La Plata",
+    "url": "https://api.twitter.com/1.1/geo/id/0177894212b08f73.json",
+    "country_code": "AR",
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [[-58.160874, -35.031373], [-58.160874, -34.841264], [-57.865169, -34.841264], [-57.865169, -35.031373]]
+      ]
+    },
+    "id": "0177894212b08f73",
+    "attributes": {}
+  },
+  "user": {
+    "profile_text_color": "333333",
+    "lang": "es",
+    "location": "llama llama red pajama",
+    "friends_count": 641,
+    "profile_link_color": "94D487",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/930252058023940096/mhcwT-Gb_normal.jpg",
+    "contributors_enabled": false,
+    "following": null,
+    "is_translator": false,
+    "verified": false,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/2972048021/1496821030",
+    "utc_offset": -10800,
+    "geo_enabled": true,
+    "profile_sidebar_border_color": "C0DEED",
+    "created_at": "Sat Jan 10 21:07:14 +0000 2015",
+    "description": "Teen Wolf es un camino de ida / \u00abMica Viciconte\u00bb \u00abLauren Jauregui\u00bb \u00abCamila Cabello\u00bb  #Ananto\ud83d\udc98 Maleanalyn\ud83d\udc51",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/930252058023940096/mhcwT-Gb_normal.jpg",
+    "profile_background_color": "94D487",
+    "listed_count": 27,
+    "follow_request_sent": null,
+    "profile_background_tile": true,
+    "followers_count": 6278,
+    "name": "Ana",
+    "notifications": null,
+    "default_profile_image": false,
+    "url": null,
+    "favourites_count": 6963,
+    "screen_name": "theblondxcubans",
+    "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/571830375169523712/SuHqFx6O.jpeg",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_use_background_image": true,
+    "translator_type": "none",
+    "time_zone": "Buenos Aires",
+    "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/571830375169523712/SuHqFx6O.jpeg",
+    "statuses_count": 174827,
+    "id": 2972048021,
+    "default_profile": false,
+    "protected": false,
+    "id_str": "2972048021"
+  },
+  "in_reply_to_user_id_str": null,
+  "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+  "filter_level": "low",
+  "is_quote_status": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_user_id": null,
+  "quote_count": 0,
+  "retweeted": false,
+  "in_reply_to_screen_name": null,
+  "retweet_count": 0,
+  "in_reply_to_status_id_str": null,
+  "coordinates": null,
+  "id": 930819149336580096,
+  "truncated": true,
+  "entities": {
+    "urls": [
+      {
+        "url": "https://t.co/RV3ff4S5yM",
+        "display_url": "twitter.com/i/web/status/9\u2026",
+        "indices": [117, 140],
+        "expanded_url": "https://twitter.com/i/web/status/930819149336580096"
+      }
+    ],
+    "symbols": [],
+    "hashtags": [],
+    "user_mentions": []
+  },
+  "timestamp_ms": "1510759553642",
+  "id_str": "930819149336580096"
+}

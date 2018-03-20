@@ -1,1 +1,181 @@
-{"is_quote_status": false, "in_reply_to_user_id_str": "147019698", "created_at": "Tue Nov 14 21:35:43 +0000 2017", "favorite_count": 0, "in_reply_to_status_id": null, "id_str": "930549834091761664", "filter_level": "low", "reply_count": 0, "timestamp_ms": "1510695343884", "id": 930549834091761664, "display_text_range": [0, 90], "coordinates": null, "in_reply_to_screen_name": "GeorginaHolguin", "truncated": false, "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>", "place": {"bounding_box": {"coordinates": [[[-99.180678, 19.444937], [-99.180678, 19.592375], [-99.051103, 19.592375], [-99.051103, 19.444937]]], "type": "Polygon"}, "url": "https://api.twitter.com/1.1/geo/id/6f1840cee437e17a.json", "country_code": "MX", "name": "Gustavo A. Madero", "full_name": "Gustavo A. Madero, Distrito Federal", "id": "6f1840cee437e17a", "place_type": "city", "attributes": {}, "country": "M\u00e9xico"}, "extended_entities": {"media": [{"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/DOn6IoUWAAIfzwV.jpg", "expanded_url": "https://twitter.com/cristhian1990/status/930549834091761664/photo/1", "video_info": {"aspect_ratio": [61, 43], "variants": [{"url": "https://video.twimg.com/tweet_video/DOn6IoUWAAIfzwV.mp4", "bitrate": 0, "content_type": "video/mp4"}]}, "id_str": "930549824197361666", "media_url": "http://pbs.twimg.com/tweet_video_thumb/DOn6IoUWAAIfzwV.jpg", "display_url": "pic.twitter.com/ibXpMdHDyF", "id": 930549824197361666, "indices": [91, 114], "type": "animated_gif", "url": "https://t.co/ibXpMdHDyF", "sizes": {"medium": {"resize": "fit", "h": 172, "w": 244}, "small": {"resize": "fit", "h": 172, "w": 244}, "thumb": {"resize": "crop", "h": 150, "w": 150}, "large": {"resize": "fit", "h": 172, "w": 244}}}]}, "retweet_count": 0, "quote_count": 0, "favorited": false, "text": "@GeorginaHolguin feliz u fant\u00e1stico cumple, Muchas bendiciones y \u00e9xito tengas en tu vida!! https://t.co/ibXpMdHDyF", "in_reply_to_user_id": 147019698, "geo": null, "lang": "es", "contributors": null, "in_reply_to_status_id_str": null, "user": {"protected": false, "following": null, "profile_text_color": "000000", "profile_background_color": "000000", "statuses_count": 4120, "default_profile": false, "favourites_count": 3964, "friends_count": 536, "follow_request_sent": null, "profile_sidebar_fill_color": "000000", "translator_type": "none", "notifications": null, "id_str": "115483630", "screen_name": "cristhian1990", "profile_banner_url": "https://pbs.twimg.com/profile_banners/115483630/1419392200", "verified": false, "id": 115483630, "profile_use_background_image": false, "description": "Egresado de la universidad de la calle..soy un apasionado del futbol y aficionado al Club America y de la Seleccion Nacional de Mexico", "utc_offset": -21600, "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif", "is_translator": false, "listed_count": 2, "default_profile_image": false, "contributors_enabled": false, "followers_count": 126, "location": null, "created_at": "Thu Feb 18 20:11:20 +0000 2010", "profile_image_url_https": "https://pbs.twimg.com/profile_images/906221807585415168/tSAMzh0l_normal.jpg", "geo_enabled": true, "time_zone": "Mexico City", "profile_image_url": "http://pbs.twimg.com/profile_images/906221807585415168/tSAMzh0l_normal.jpg", "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif", "profile_link_color": "815212", "lang": "es", "name": "Aguilaxsiempre\u24c2\ufe0f\ud83c\uddf2\ud83c\uddfd", "profile_background_tile": false, "url": null, "profile_sidebar_border_color": "000000"}, "possibly_sensitive": false, "entities": {"user_mentions": [{"id": 147019698, "screen_name": "GeorginaHolguin", "id_str": "147019698", "indices": [0, 16], "name": "Gina Holguin"}], "urls": [], "symbols": [], "hashtags": [], "media": [{"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/DOn6IoUWAAIfzwV.jpg", "expanded_url": "https://twitter.com/cristhian1990/status/930549834091761664/photo/1", "id_str": "930549824197361666", "media_url": "http://pbs.twimg.com/tweet_video_thumb/DOn6IoUWAAIfzwV.jpg", "display_url": "pic.twitter.com/ibXpMdHDyF", "id": 930549824197361666, "indices": [91, 114], "type": "photo", "url": "https://t.co/ibXpMdHDyF", "sizes": {"medium": {"resize": "fit", "h": 172, "w": 244}, "small": {"resize": "fit", "h": 172, "w": 244}, "thumb": {"resize": "crop", "h": 150, "w": 150}, "large": {"resize": "fit", "h": 172, "w": 244}}}]}, "retweeted": false}
+{
+  "is_quote_status": false,
+  "in_reply_to_user_id_str": "147019698",
+  "created_at": "Tue Nov 14 21:35:43 +0000 2017",
+  "favorite_count": 0,
+  "in_reply_to_status_id": null,
+  "id_str": "930549834091761664",
+  "filter_level": "low",
+  "reply_count": 0,
+  "timestamp_ms": "1510695343884",
+  "id": 930549834091761664,
+  "display_text_range": [0, 90],
+  "coordinates": null,
+  "in_reply_to_screen_name": "GeorginaHolguin",
+  "truncated": false,
+  "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+  "place": {
+    "bounding_box": {
+      "coordinates": [
+        [[-99.180678, 19.444937], [-99.180678, 19.592375], [-99.051103, 19.592375], [-99.051103, 19.444937]]
+      ],
+      "type": "Polygon"
+    },
+    "url": "https://api.twitter.com/1.1/geo/id/6f1840cee437e17a.json",
+    "country_code": "MX",
+    "name": "Gustavo A. Madero",
+    "full_name": "Gustavo A. Madero, Distrito Federal",
+    "id": "6f1840cee437e17a",
+    "place_type": "city",
+    "attributes": {},
+    "country": "M\u00e9xico"
+  },
+  "extended_entities": {
+    "media": [
+      {
+        "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/DOn6IoUWAAIfzwV.jpg",
+        "expanded_url": "https://twitter.com/cristhian1990/status/930549834091761664/photo/1",
+        "video_info": {
+          "aspect_ratio": [61, 43],
+          "variants": [
+            {
+              "url": "https://video.twimg.com/tweet_video/DOn6IoUWAAIfzwV.mp4",
+              "bitrate": 0,
+              "content_type": "video/mp4"
+            }
+          ]
+        },
+        "id_str": "930549824197361666",
+        "media_url": "http://pbs.twimg.com/tweet_video_thumb/DOn6IoUWAAIfzwV.jpg",
+        "display_url": "pic.twitter.com/ibXpMdHDyF",
+        "id": 930549824197361666,
+        "indices": [91, 114],
+        "type": "animated_gif",
+        "url": "https://t.co/ibXpMdHDyF",
+        "sizes": {
+          "medium": {
+            "resize": "fit",
+            "h": 172,
+            "w": 244
+          },
+          "small": {
+            "resize": "fit",
+            "h": 172,
+            "w": 244
+          },
+          "thumb": {
+            "resize": "crop",
+            "h": 150,
+            "w": 150
+          },
+          "large": {
+            "resize": "fit",
+            "h": 172,
+            "w": 244
+          }
+        }
+      }
+    ]
+  },
+  "retweet_count": 0,
+  "quote_count": 0,
+  "favorited": false,
+  "text": "@GeorginaHolguin feliz u fant\u00e1stico cumple, Muchas bendiciones y \u00e9xito tengas en tu vida!! https://t.co/ibXpMdHDyF",
+  "in_reply_to_user_id": 147019698,
+  "geo": null,
+  "lang": "es",
+  "contributors": null,
+  "in_reply_to_status_id_str": null,
+  "user": {
+    "protected": false,
+    "following": null,
+    "profile_text_color": "000000",
+    "profile_background_color": "000000",
+    "statuses_count": 4120,
+    "default_profile": false,
+    "favourites_count": 3964,
+    "friends_count": 536,
+    "follow_request_sent": null,
+    "profile_sidebar_fill_color": "000000",
+    "translator_type": "none",
+    "notifications": null,
+    "id_str": "115483630",
+    "screen_name": "cristhian1990",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/115483630/1419392200",
+    "verified": false,
+    "id": 115483630,
+    "profile_use_background_image": false,
+    "description": "Egresado de la universidad de la calle..soy un apasionado del futbol y aficionado al Club America y de la Seleccion Nacional de Mexico",
+    "utc_offset": -21600,
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+    "is_translator": false,
+    "listed_count": 2,
+    "default_profile_image": false,
+    "contributors_enabled": false,
+    "followers_count": 126,
+    "location": null,
+    "created_at": "Thu Feb 18 20:11:20 +0000 2010",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/906221807585415168/tSAMzh0l_normal.jpg",
+    "geo_enabled": true,
+    "time_zone": "Mexico City",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/906221807585415168/tSAMzh0l_normal.jpg",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+    "profile_link_color": "815212",
+    "lang": "es",
+    "name": "Aguilaxsiempre\u24c2\ufe0f\ud83c\uddf2\ud83c\uddfd",
+    "profile_background_tile": false,
+    "url": null,
+    "profile_sidebar_border_color": "000000"
+  },
+  "possibly_sensitive": false,
+  "entities": {
+    "user_mentions": [
+      {
+        "id": 147019698,
+        "screen_name": "GeorginaHolguin",
+        "id_str": "147019698",
+        "indices": [0, 16],
+        "name": "Gina Holguin"
+      }
+    ],
+    "urls": [],
+    "symbols": [],
+    "hashtags": [],
+    "media": [
+      {
+        "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/DOn6IoUWAAIfzwV.jpg",
+        "expanded_url": "https://twitter.com/cristhian1990/status/930549834091761664/photo/1",
+        "id_str": "930549824197361666",
+        "media_url": "http://pbs.twimg.com/tweet_video_thumb/DOn6IoUWAAIfzwV.jpg",
+        "display_url": "pic.twitter.com/ibXpMdHDyF",
+        "id": 930549824197361666,
+        "indices": [91, 114],
+        "type": "photo",
+        "url": "https://t.co/ibXpMdHDyF",
+        "sizes": {
+          "medium": {
+            "resize": "fit",
+            "h": 172,
+            "w": 244
+          },
+          "small": {
+            "resize": "fit",
+            "h": 172,
+            "w": 244
+          },
+          "thumb": {
+            "resize": "crop",
+            "h": 150,
+            "w": 150
+          },
+          "large": {
+            "resize": "fit",
+            "h": 172,
+            "w": 244
+          }
+        }
+      }
+    ]
+  },
+  "retweeted": false
+}

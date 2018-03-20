@@ -1,1 +1,177 @@
-{"reply_count": 0, "user": {"profile_banner_url": "https://pbs.twimg.com/profile_banners/814619057756508160/1505921848", "following": null, "profile_background_color": "F5F8FA", "url": null, "utc_offset": null, "follow_request_sent": null, "translator_type": "none", "profile_text_color": "333333", "id_str": "814619057756508160", "favourites_count": 13213, "friends_count": 210, "followers_count": 274, "id": 814619057756508160, "geo_enabled": true, "profile_sidebar_border_color": "C0DEED", "profile_image_url_https": "https://pbs.twimg.com/profile_images/919572039278714880/971MRkuD_normal.jpg", "statuses_count": 18005, "notifications": null, "profile_background_image_url_https": "", "protected": false, "listed_count": 1, "screen_name": "EduardoJ59", "profile_sidebar_fill_color": "DDEEF6", "location": "Barquisimeto, Venezuela", "created_at": "Thu Dec 29 23:48:13 +0000 2016", "default_profile": true, "time_zone": null, "verified": false, "contributors_enabled": false, "profile_image_url": "http://pbs.twimg.com/profile_images/919572039278714880/971MRkuD_normal.jpg", "lang": "es", "name": "Eduardo J Pineda \ud83d\ude0e\u2615", "profile_link_color": "1DA1F2", "is_translator": false, "description": null, "profile_use_background_image": true, "default_profile_image": false, "profile_background_image_url": "", "profile_background_tile": false}, "contributors": null, "id_str": "930620003765968896", "in_reply_to_screen_name": "PACIFICADOR2040", "in_reply_to_user_id_str": "2237379685", "in_reply_to_status_id": 930614653557886976, "in_reply_to_status_id_str": "930614653557886976", "display_text_range": [17, 109], "in_reply_to_user_id": 2237379685, "id": 930620003765968896, "possibly_sensitive": false, "favorite_count": 0, "entities": {"user_mentions": [{"id": 2237379685, "indices": [0, 16], "screen_name": "PACIFICADOR2040", "id_str": "2237379685", "name": "El PACIFICADOR \ud83d\ude07"}, {"id": 2237379685, "indices": [22, 38], "screen_name": "PACIFICADOR2040", "id_str": "2237379685", "name": "El PACIFICADOR \ud83d\ude07"}], "media": [{"display_url": "pic.twitter.com/mhXcEeA8gS", "expanded_url": "https://twitter.com/EduardoJ59/status/930620003765968896/photo/1", "indices": [110, 133], "url": "https://t.co/mhXcEeA8gS", "sizes": {"large": {"resize": "fit", "w": 500, "h": 749}, "medium": {"resize": "fit", "w": 500, "h": 749}, "small": {"resize": "fit", "w": 454, "h": 680}, "thumb": {"resize": "crop", "w": 150, "h": 150}}, "id": 930619998267207680, "media_url": "http://pbs.twimg.com/media/DOo59TGXcAAkIdU.jpg", "media_url_https": "https://pbs.twimg.com/media/DOo59TGXcAAkIdU.jpg", "id_str": "930619998267207680", "type": "photo"}], "hashtags": [], "symbols": [], "urls": []}, "created_at": "Wed Nov 15 02:14:33 +0000 2017", "favorited": false, "timestamp_ms": "1510712073638", "quote_count": 0, "place": {"country_code": "VE", "bounding_box": {"coordinates": [[[-70.674082, 9.399607], [-70.674082, 10.746048], [-68.889864, 10.746048], [-68.889864, 9.399607]]], "type": "Polygon"}, "attributes": {}, "url": "https://api.twitter.com/1.1/geo/id/00e7ab373bbd3707.json", "name": "Lara", "id": "00e7ab373bbd3707", "place_type": "admin", "country": "Venezuela", "full_name": "Lara, Venezuela"}, "text": "@PACIFICADOR2040 Am\u00e9n @PACIFICADOR2040 !! Buen descanso y feliz viaje al pa\u00eds de los sue\u00f1os...\nBendiciones... https://t.co/mhXcEeA8gS", "geo": null, "retweeted": false, "retweet_count": 0, "filter_level": "low", "lang": "es", "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>", "is_quote_status": false, "extended_entities": {"media": [{"display_url": "pic.twitter.com/mhXcEeA8gS", "expanded_url": "https://twitter.com/EduardoJ59/status/930620003765968896/photo/1", "indices": [110, 133], "url": "https://t.co/mhXcEeA8gS", "sizes": {"large": {"resize": "fit", "w": 500, "h": 749}, "medium": {"resize": "fit", "w": 500, "h": 749}, "small": {"resize": "fit", "w": 454, "h": 680}, "thumb": {"resize": "crop", "w": 150, "h": 150}}, "id": 930619998267207680, "media_url": "http://pbs.twimg.com/media/DOo59TGXcAAkIdU.jpg", "media_url_https": "https://pbs.twimg.com/media/DOo59TGXcAAkIdU.jpg", "id_str": "930619998267207680", "type": "photo"}]}, "coordinates": null, "truncated": false}
+{
+  "reply_count": 0,
+  "user": {
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/814619057756508160/1505921848",
+    "following": null,
+    "profile_background_color": "F5F8FA",
+    "url": null,
+    "utc_offset": null,
+    "follow_request_sent": null,
+    "translator_type": "none",
+    "profile_text_color": "333333",
+    "id_str": "814619057756508160",
+    "favourites_count": 13213,
+    "friends_count": 210,
+    "followers_count": 274,
+    "id": 814619057756508160,
+    "geo_enabled": true,
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/919572039278714880/971MRkuD_normal.jpg",
+    "statuses_count": 18005,
+    "notifications": null,
+    "profile_background_image_url_https": "",
+    "protected": false,
+    "listed_count": 1,
+    "screen_name": "EduardoJ59",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "location": "Barquisimeto, Venezuela",
+    "created_at": "Thu Dec 29 23:48:13 +0000 2016",
+    "default_profile": true,
+    "time_zone": null,
+    "verified": false,
+    "contributors_enabled": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/919572039278714880/971MRkuD_normal.jpg",
+    "lang": "es",
+    "name": "Eduardo J Pineda \ud83d\ude0e\u2615",
+    "profile_link_color": "1DA1F2",
+    "is_translator": false,
+    "description": null,
+    "profile_use_background_image": true,
+    "default_profile_image": false,
+    "profile_background_image_url": "",
+    "profile_background_tile": false
+  },
+  "contributors": null,
+  "id_str": "930620003765968896",
+  "in_reply_to_screen_name": "PACIFICADOR2040",
+  "in_reply_to_user_id_str": "2237379685",
+  "in_reply_to_status_id": 930614653557886976,
+  "in_reply_to_status_id_str": "930614653557886976",
+  "display_text_range": [17, 109],
+  "in_reply_to_user_id": 2237379685,
+  "id": 930620003765968896,
+  "possibly_sensitive": false,
+  "favorite_count": 0,
+  "entities": {
+    "user_mentions": [
+      {
+        "id": 2237379685,
+        "indices": [0, 16],
+        "screen_name": "PACIFICADOR2040",
+        "id_str": "2237379685",
+        "name": "El PACIFICADOR \ud83d\ude07"
+      }, {
+        "id": 2237379685,
+        "indices": [22, 38],
+        "screen_name": "PACIFICADOR2040",
+        "id_str": "2237379685",
+        "name": "El PACIFICADOR \ud83d\ude07"
+      }
+    ],
+    "media": [
+      {
+        "display_url": "pic.twitter.com/mhXcEeA8gS",
+        "expanded_url": "https://twitter.com/EduardoJ59/status/930620003765968896/photo/1",
+        "indices": [110, 133],
+        "url": "https://t.co/mhXcEeA8gS",
+        "sizes": {
+          "large": {
+            "resize": "fit",
+            "w": 500,
+            "h": 749
+          },
+          "medium": {
+            "resize": "fit",
+            "w": 500,
+            "h": 749
+          },
+          "small": {
+            "resize": "fit",
+            "w": 454,
+            "h": 680
+          },
+          "thumb": {
+            "resize": "crop",
+            "w": 150,
+            "h": 150
+          }
+        },
+        "id": 930619998267207680,
+        "media_url": "http://pbs.twimg.com/media/DOo59TGXcAAkIdU.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/DOo59TGXcAAkIdU.jpg",
+        "id_str": "930619998267207680",
+        "type": "photo"
+      }
+    ],
+    "hashtags": [],
+    "symbols": [],
+    "urls": []
+  },
+  "created_at": "Wed Nov 15 02:14:33 +0000 2017",
+  "favorited": false,
+  "timestamp_ms": "1510712073638",
+  "quote_count": 0,
+  "place": {
+    "country_code": "VE",
+    "bounding_box": {
+      "coordinates": [
+        [[-70.674082, 9.399607], [-70.674082, 10.746048], [-68.889864, 10.746048], [-68.889864, 9.399607]]
+      ],
+      "type": "Polygon"
+    },
+    "attributes": {},
+    "url": "https://api.twitter.com/1.1/geo/id/00e7ab373bbd3707.json",
+    "name": "Lara",
+    "id": "00e7ab373bbd3707",
+    "place_type": "admin",
+    "country": "Venezuela",
+    "full_name": "Lara, Venezuela"
+  },
+  "text": "@PACIFICADOR2040 Am\u00e9n @PACIFICADOR2040 !! Buen descanso y feliz viaje al pa\u00eds de los sue\u00f1os...\nBendiciones... https://t.co/mhXcEeA8gS",
+  "geo": null,
+  "retweeted": false,
+  "retweet_count": 0,
+  "filter_level": "low",
+  "lang": "es",
+  "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+  "is_quote_status": false,
+  "extended_entities": {
+    "media": [
+      {
+        "display_url": "pic.twitter.com/mhXcEeA8gS",
+        "expanded_url": "https://twitter.com/EduardoJ59/status/930620003765968896/photo/1",
+        "indices": [110, 133],
+        "url": "https://t.co/mhXcEeA8gS",
+        "sizes": {
+          "large": {
+            "resize": "fit",
+            "w": 500,
+            "h": 749
+          },
+          "medium": {
+            "resize": "fit",
+            "w": 500,
+            "h": 749
+          },
+          "small": {
+            "resize": "fit",
+            "w": 454,
+            "h": 680
+          },
+          "thumb": {
+            "resize": "crop",
+            "w": 150,
+            "h": 150
+          }
+        },
+        "id": 930619998267207680,
+        "media_url": "http://pbs.twimg.com/media/DOo59TGXcAAkIdU.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/DOo59TGXcAAkIdU.jpg",
+        "id_str": "930619998267207680",
+        "type": "photo"
+      }
+    ]
+  },
+  "coordinates": null,
+  "truncated": false
+}

@@ -1,1 +1,122 @@
-{"extended_tweet": {"display_text_range": [0, 197], "entities": {"urls": [], "symbols": [], "hashtags": [], "user_mentions": [{"indices": [0, 16], "name": "Contacto Citibanamex", "id_str": "61021139", "screen_name": "ContactoCitibmx", "id": 61021139}]}, "full_text": "@ContactoCitibmx \u00a1Hola! Buen d\u00eda. Me llegaron dos reposiciones de Tarjetas, una de ellas TC pero no me han llegado los Edos de Cta a mi mail ni puedo descargarlos v\u00eda Bancanet, \u00bfque hago? \u00a1Gracias!"}, "favorited": false, "lang": "es", "favorite_count": 0, "reply_count": 0, "geo": null, "contributors": null, "text": "@ContactoCitibmx \u00a1Hola! Buen d\u00eda. Me llegaron dos reposiciones de Tarjetas, una de ellas TC pero no me han llegado\u2026 https://t.co/zPppm3sWUZ", "created_at": "Wed Nov 15 15:28:30 +0000 2017", "place": {"place_type": "city", "full_name": "Iztapalapa, Distrito Federal", "country": "M\u00e9xico", "name": "Iztapalapa", "url": "https://api.twitter.com/1.1/geo/id/6d31e9257b83e23c.json", "country_code": "MX", "bounding_box": {"type": "Polygon", "coordinates": [[[-99.140238, 19.284692], [-99.140238, 19.400885], [-98.960684, 19.400885], [-98.960684, 19.284692]]]}, "id": "6d31e9257b83e23c", "attributes": {}}, "user": {"profile_text_color": "666666", "lang": "es", "location": null, "friends_count": 682, "profile_link_color": "2FC2EF", "profile_image_url_https": "https://pbs.twimg.com/profile_images/854334549668630529/plbPLK5i_normal.jpg", "contributors_enabled": false, "following": null, "is_translator": false, "verified": false, "profile_banner_url": "https://pbs.twimg.com/profile_banners/188151900/1471996554", "utc_offset": -21600, "geo_enabled": true, "profile_sidebar_border_color": "FFFFFF", "created_at": "Wed Sep 08 01:29:48 +0000 2010", "description": "Adicta a la vida, la m\u00fasica, los libros y los tacos, si vienen acompa\u00f1ados de una cerveza, mejor :)", "profile_image_url": "http://pbs.twimg.com/profile_images/854334549668630529/plbPLK5i_normal.jpg", "profile_background_color": "1A1B1F", "listed_count": 3, "follow_request_sent": null, "profile_background_tile": true, "followers_count": 413, "name": "Verito Rueda", "notifications": null, "default_profile_image": false, "url": "http://www.facebook.com/veritoveruche", "favourites_count": 3218, "screen_name": "verito_veruche", "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/831395565/a7af0267c3797420fc1214e31d026885.jpeg", "profile_sidebar_fill_color": "252429", "profile_use_background_image": true, "translator_type": "none", "time_zone": "Mexico City", "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/831395565/a7af0267c3797420fc1214e31d026885.jpeg", "statuses_count": 7942, "id": 188151900, "default_profile": false, "protected": false, "id_str": "188151900"}, "in_reply_to_user_id_str": "61021139", "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>", "filter_level": "low", "is_quote_status": false, "in_reply_to_status_id": null, "in_reply_to_user_id": 61021139, "quote_count": 0, "retweeted": false, "in_reply_to_screen_name": "ContactoCitibmx", "retweet_count": 0, "in_reply_to_status_id_str": null, "coordinates": null, "id": 930819807943028736, "truncated": true, "entities": {"urls": [{"url": "https://t.co/zPppm3sWUZ", "display_url": "twitter.com/i/web/status/9\u2026", "indices": [116, 139], "expanded_url": "https://twitter.com/i/web/status/930819807943028736"}], "symbols": [], "hashtags": [], "user_mentions": [{"indices": [0, 16], "name": "Contacto Citibanamex", "id_str": "61021139", "screen_name": "ContactoCitibmx", "id": 61021139}]}, "timestamp_ms": "1510759710666", "id_str": "930819807943028736"}
+{
+  "extended_tweet": {
+    "display_text_range": [0, 197],
+    "entities": {
+      "urls": [],
+      "symbols": [],
+      "hashtags": [],
+      "user_mentions": [
+        {
+          "indices": [0, 16],
+          "name": "Contacto Citibanamex",
+          "id_str": "61021139",
+          "screen_name": "ContactoCitibmx",
+          "id": 61021139
+        }
+      ]
+    },
+    "full_text": "@ContactoCitibmx \u00a1Hola! Buen d\u00eda. Me llegaron dos reposiciones de Tarjetas, una de ellas TC pero no me han llegado los Edos de Cta a mi mail ni puedo descargarlos v\u00eda Bancanet, \u00bfque hago? \u00a1Gracias!"
+  },
+  "favorited": false,
+  "lang": "es",
+  "favorite_count": 0,
+  "reply_count": 0,
+  "geo": null,
+  "contributors": null,
+  "text": "@ContactoCitibmx \u00a1Hola! Buen d\u00eda. Me llegaron dos reposiciones de Tarjetas, una de ellas TC pero no me han llegado\u2026 https://t.co/zPppm3sWUZ",
+  "created_at": "Wed Nov 15 15:28:30 +0000 2017",
+  "place": {
+    "place_type": "city",
+    "full_name": "Iztapalapa, Distrito Federal",
+    "country": "M\u00e9xico",
+    "name": "Iztapalapa",
+    "url": "https://api.twitter.com/1.1/geo/id/6d31e9257b83e23c.json",
+    "country_code": "MX",
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [[-99.140238, 19.284692], [-99.140238, 19.400885], [-98.960684, 19.400885], [-98.960684, 19.284692]]
+      ]
+    },
+    "id": "6d31e9257b83e23c",
+    "attributes": {}
+  },
+  "user": {
+    "profile_text_color": "666666",
+    "lang": "es",
+    "location": null,
+    "friends_count": 682,
+    "profile_link_color": "2FC2EF",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/854334549668630529/plbPLK5i_normal.jpg",
+    "contributors_enabled": false,
+    "following": null,
+    "is_translator": false,
+    "verified": false,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/188151900/1471996554",
+    "utc_offset": -21600,
+    "geo_enabled": true,
+    "profile_sidebar_border_color": "FFFFFF",
+    "created_at": "Wed Sep 08 01:29:48 +0000 2010",
+    "description": "Adicta a la vida, la m\u00fasica, los libros y los tacos, si vienen acompa\u00f1ados de una cerveza, mejor :)",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/854334549668630529/plbPLK5i_normal.jpg",
+    "profile_background_color": "1A1B1F",
+    "listed_count": 3,
+    "follow_request_sent": null,
+    "profile_background_tile": true,
+    "followers_count": 413,
+    "name": "Verito Rueda",
+    "notifications": null,
+    "default_profile_image": false,
+    "url": "http://www.facebook.com/veritoveruche",
+    "favourites_count": 3218,
+    "screen_name": "verito_veruche",
+    "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/831395565/a7af0267c3797420fc1214e31d026885.jpeg",
+    "profile_sidebar_fill_color": "252429",
+    "profile_use_background_image": true,
+    "translator_type": "none",
+    "time_zone": "Mexico City",
+    "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/831395565/a7af0267c3797420fc1214e31d026885.jpeg",
+    "statuses_count": 7942,
+    "id": 188151900,
+    "default_profile": false,
+    "protected": false,
+    "id_str": "188151900"
+  },
+  "in_reply_to_user_id_str": "61021139",
+  "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+  "filter_level": "low",
+  "is_quote_status": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_user_id": 61021139,
+  "quote_count": 0,
+  "retweeted": false,
+  "in_reply_to_screen_name": "ContactoCitibmx",
+  "retweet_count": 0,
+  "in_reply_to_status_id_str": null,
+  "coordinates": null,
+  "id": 930819807943028736,
+  "truncated": true,
+  "entities": {
+    "urls": [
+      {
+        "url": "https://t.co/zPppm3sWUZ",
+        "display_url": "twitter.com/i/web/status/9\u2026",
+        "indices": [116, 139],
+        "expanded_url": "https://twitter.com/i/web/status/930819807943028736"
+      }
+    ],
+    "symbols": [],
+    "hashtags": [],
+    "user_mentions": [
+      {
+        "indices": [0, 16],
+        "name": "Contacto Citibanamex",
+        "id_str": "61021139",
+        "screen_name": "ContactoCitibmx",
+        "id": 61021139
+      }
+    ]
+  },
+  "timestamp_ms": "1510759710666",
+  "id_str": "930819807943028736"
+}

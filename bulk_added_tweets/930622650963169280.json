@@ -1,1 +1,120 @@
-{"geo": null, "filter_level": "low", "in_reply_to_status_id": null, "lang": "es", "favorite_count": 0, "coordinates": null, "favorited": false, "place": {"name": "San Jos\u00e9", "full_name": "San Jos\u00e9, Costa Rica", "place_type": "admin", "country": "Costa Rica", "id": "0003557c7b244fd3", "bounding_box": {"type": "Polygon", "coordinates": [[[-84.59195, 9.065554], [-84.59195, 10.199165], [-83.429459, 10.199165], [-83.429459, 9.065554]]]}, "attributes": {}, "url": "https://api.twitter.com/1.1/geo/id/0003557c7b244fd3.json", "country_code": "CR"}, "contributors": null, "entities": {"hashtags": [], "urls": [{"display_url": "twitter.com/i/web/status/9\u2026", "expanded_url": "https://twitter.com/i/web/status/930622650963169280", "url": "https://t.co/FpqVyGrgW4", "indices": [117, 140]}], "symbols": [], "user_mentions": [{"id": 599390703, "id_str": "599390703", "name": "Leonel  Moreira", "indices": [82, 90], "screen_name": "leoml_1"}]}, "id": 930622650963169280, "user": {"followers_count": 1250, "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/640112563/xce3608478ee726fd2bbf6663d1b730f.jpg", "profile_background_color": "59BEE4", "translator_type": "none", "profile_image_url": "http://pbs.twimg.com/profile_images/860125822279184384/Vls7h1XX_normal.jpg", "profile_banner_url": "https://pbs.twimg.com/profile_banners/20693083/1406681033", "default_profile": false, "utc_offset": -25200, "lang": "en", "url": "http://phollo.me/pedroller", "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/640112563/xce3608478ee726fd2bbf6663d1b730f.jpg", "profile_image_url_https": "https://pbs.twimg.com/profile_images/860125822279184384/Vls7h1XX_normal.jpg", "time_zone": "Mountain Time (US & Canada)", "profile_sidebar_border_color": "4BB7DF", "profile_use_background_image": true, "id": 20693083, "profile_link_color": "3B94D9", "profile_sidebar_fill_color": "191F22", "profile_background_tile": false, "geo_enabled": true, "id_str": "20693083", "verified": false, "name": "Pedro Oller", "is_translator": false, "notifications": null, "following": null, "friends_count": 1945, "contributors_enabled": false, "screen_name": "pedroller", "created_at": "Thu Feb 12 16:59:06 +0000 2009", "profile_text_color": "4BB7DF", "favourites_count": 10889, "follow_request_sent": null, "description": "Father, husband, lawyer, friend, cook. Founder of Oller Abogados.\nThis is a personal account", "default_profile_image": false, "location": "Costa Rica", "listed_count": 24, "protected": false, "statuses_count": 14360}, "id_str": "930622650963169280", "retweet_count": 0, "retweeted": false, "quote_count": 0, "truncated": true, "in_reply_to_status_id_str": null, "reply_count": 0, "created_at": "Wed Nov 15 02:25:04 +0000 2017", "is_quote_status": false, "in_reply_to_user_id": null, "timestamp_ms": "1510712704779", "text": "La diferencia m\u00e1s importante de hoy al s\u00e1bado fue que hoy si jugamos con portero. @leoml_1 \nPor lo dem\u00e1s, el equipo\u2026 https://t.co/FpqVyGrgW4", "extended_tweet": {"full_text": "La diferencia m\u00e1s importante de hoy al s\u00e1bado fue que hoy si jugamos con portero. @leoml_1 \nPor lo dem\u00e1s, el equipo fue igual de lento y sin ideas.\nMachillo, usted necesita un Goku S\u00faper Sayayin para ver si estos maes le responden", "display_text_range": [0, 230], "entities": {"hashtags": [], "urls": [], "symbols": [], "user_mentions": [{"id": 599390703, "id_str": "599390703", "name": "Leonel  Moreira", "indices": [82, 90], "screen_name": "leoml_1"}]}}, "in_reply_to_user_id_str": null, "source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>", "in_reply_to_screen_name": null}
+{
+  "geo": null,
+  "filter_level": "low",
+  "in_reply_to_status_id": null,
+  "lang": "es",
+  "favorite_count": 0,
+  "coordinates": null,
+  "favorited": false,
+  "place": {
+    "name": "San Jos\u00e9",
+    "full_name": "San Jos\u00e9, Costa Rica",
+    "place_type": "admin",
+    "country": "Costa Rica",
+    "id": "0003557c7b244fd3",
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [[[-84.59195, 9.065554], [-84.59195, 10.199165], [-83.429459, 10.199165], [-83.429459, 9.065554]]]
+    },
+    "attributes": {},
+    "url": "https://api.twitter.com/1.1/geo/id/0003557c7b244fd3.json",
+    "country_code": "CR"
+  },
+  "contributors": null,
+  "entities": {
+    "hashtags": [],
+    "urls": [
+      {
+        "display_url": "twitter.com/i/web/status/9\u2026",
+        "expanded_url": "https://twitter.com/i/web/status/930622650963169280",
+        "url": "https://t.co/FpqVyGrgW4",
+        "indices": [117, 140]
+      }
+    ],
+    "symbols": [],
+    "user_mentions": [
+      {
+        "id": 599390703,
+        "id_str": "599390703",
+        "name": "Leonel  Moreira",
+        "indices": [82, 90],
+        "screen_name": "leoml_1"
+      }
+    ]
+  },
+  "id": 930622650963169280,
+  "user": {
+    "followers_count": 1250,
+    "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/640112563/xce3608478ee726fd2bbf6663d1b730f.jpg",
+    "profile_background_color": "59BEE4",
+    "translator_type": "none",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/860125822279184384/Vls7h1XX_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/20693083/1406681033",
+    "default_profile": false,
+    "utc_offset": -25200,
+    "lang": "en",
+    "url": "http://phollo.me/pedroller",
+    "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/640112563/xce3608478ee726fd2bbf6663d1b730f.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/860125822279184384/Vls7h1XX_normal.jpg",
+    "time_zone": "Mountain Time (US & Canada)",
+    "profile_sidebar_border_color": "4BB7DF",
+    "profile_use_background_image": true,
+    "id": 20693083,
+    "profile_link_color": "3B94D9",
+    "profile_sidebar_fill_color": "191F22",
+    "profile_background_tile": false,
+    "geo_enabled": true,
+    "id_str": "20693083",
+    "verified": false,
+    "name": "Pedro Oller",
+    "is_translator": false,
+    "notifications": null,
+    "following": null,
+    "friends_count": 1945,
+    "contributors_enabled": false,
+    "screen_name": "pedroller",
+    "created_at": "Thu Feb 12 16:59:06 +0000 2009",
+    "profile_text_color": "4BB7DF",
+    "favourites_count": 10889,
+    "follow_request_sent": null,
+    "description": "Father, husband, lawyer, friend, cook. Founder of Oller Abogados.\nThis is a personal account",
+    "default_profile_image": false,
+    "location": "Costa Rica",
+    "listed_count": 24,
+    "protected": false,
+    "statuses_count": 14360
+  },
+  "id_str": "930622650963169280",
+  "retweet_count": 0,
+  "retweeted": false,
+  "quote_count": 0,
+  "truncated": true,
+  "in_reply_to_status_id_str": null,
+  "reply_count": 0,
+  "created_at": "Wed Nov 15 02:25:04 +0000 2017",
+  "is_quote_status": false,
+  "in_reply_to_user_id": null,
+  "timestamp_ms": "1510712704779",
+  "text": "La diferencia m\u00e1s importante de hoy al s\u00e1bado fue que hoy si jugamos con portero. @leoml_1 \nPor lo dem\u00e1s, el equipo\u2026 https://t.co/FpqVyGrgW4",
+  "extended_tweet": {
+    "full_text": "La diferencia m\u00e1s importante de hoy al s\u00e1bado fue que hoy si jugamos con portero. @leoml_1 \nPor lo dem\u00e1s, el equipo fue igual de lento y sin ideas.\nMachillo, usted necesita un Goku S\u00faper Sayayin para ver si estos maes le responden",
+    "display_text_range": [0, 230],
+    "entities": {
+      "hashtags": [],
+      "urls": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "id": 599390703,
+          "id_str": "599390703",
+          "name": "Leonel  Moreira",
+          "indices": [82, 90],
+          "screen_name": "leoml_1"
+        }
+      ]
+    }
+  },
+  "in_reply_to_user_id_str": null,
+  "source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+  "in_reply_to_screen_name": null
+}

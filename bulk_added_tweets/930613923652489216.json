@@ -1,1 +1,104 @@
-{"geo": null, "filter_level": "low", "in_reply_to_status_id": null, "lang": "es", "favorite_count": 0, "coordinates": null, "favorited": false, "place": {"name": "Venezuela", "full_name": "Venezuela", "place_type": "country", "country": "Venezuela", "id": "043383f8b2b79918", "bounding_box": {"type": "Polygon", "coordinates": [[[-73.354073, 0.648837], [-73.354073, 12.196802], [-59.80378, 12.196802], [-59.80378, 0.648837]]]}, "attributes": {}, "url": "https://api.twitter.com/1.1/geo/id/043383f8b2b79918.json", "country_code": "VE"}, "contributors": null, "entities": {"hashtags": [], "urls": [{"display_url": "twitter.com/i/web/status/9\u2026", "expanded_url": "https://twitter.com/i/web/status/930613923652489216", "url": "https://t.co/mCjn1xUNTm", "indices": [117, 140]}], "symbols": [], "user_mentions": []}, "id": 930613923652489216, "user": {"followers_count": 454, "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png", "profile_background_color": "000000", "translator_type": "none", "profile_image_url": "http://pbs.twimg.com/profile_images/923309868211195904/FL5oEpLB_normal.jpg", "profile_banner_url": "https://pbs.twimg.com/profile_banners/703667717845422085/1502427926", "default_profile": false, "utc_offset": -28800, "lang": "es", "url": null, "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", "profile_image_url_https": "https://pbs.twimg.com/profile_images/923309868211195904/FL5oEpLB_normal.jpg", "time_zone": "Pacific Time (US & Canada)", "profile_sidebar_border_color": "000000", "profile_use_background_image": false, "id": 703667717845422085, "profile_link_color": "ABB8C2", "profile_sidebar_fill_color": "000000", "profile_background_tile": false, "geo_enabled": true, "id_str": "703667717845422085", "verified": false, "name": "three\ud83c\udf6d", "is_translator": false, "notifications": null, "following": null, "friends_count": 435, "contributors_enabled": false, "screen_name": "VB18_", "created_at": "Sat Feb 27 19:47:12 +0000 2016", "profile_text_color": "000000", "favourites_count": 5693, "follow_request_sent": null, "description": "18. S\u00f3lo vengo a quejarme, sorrynotsorry.", "default_profile_image": false, "location": null, "listed_count": 6, "protected": false, "statuses_count": 26256}, "id_str": "930613923652489216", "retweet_count": 0, "retweeted": false, "quote_count": 0, "truncated": true, "in_reply_to_status_id_str": null, "reply_count": 0, "created_at": "Wed Nov 15 01:50:24 +0000 2017", "is_quote_status": false, "in_reply_to_user_id": null, "timestamp_ms": "1510710624026", "text": "Yo estoy muy mal acostumbrada a ba\u00f1arme con agua caliente, c\u00f3mo ser\u00e1 si llego a emigrar y no haya calentador en d\u00f3n\u2026 https://t.co/mCjn1xUNTm", "extended_tweet": {"full_text": "Yo estoy muy mal acostumbrada a ba\u00f1arme con agua caliente, c\u00f3mo ser\u00e1 si llego a emigrar y no haya calentador en d\u00f3nde vaya a vivir? ME MORIR\u00cdAaaaaaaaaAaaaAAAa", "display_text_range": [0, 158], "entities": {"hashtags": [], "urls": [], "symbols": [], "user_mentions": []}}, "in_reply_to_user_id_str": null, "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>", "in_reply_to_screen_name": null}
+{
+  "geo": null,
+  "filter_level": "low",
+  "in_reply_to_status_id": null,
+  "lang": "es",
+  "favorite_count": 0,
+  "coordinates": null,
+  "favorited": false,
+  "place": {
+    "name": "Venezuela",
+    "full_name": "Venezuela",
+    "place_type": "country",
+    "country": "Venezuela",
+    "id": "043383f8b2b79918",
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [[[-73.354073, 0.648837], [-73.354073, 12.196802], [-59.80378, 12.196802], [-59.80378, 0.648837]]]
+    },
+    "attributes": {},
+    "url": "https://api.twitter.com/1.1/geo/id/043383f8b2b79918.json",
+    "country_code": "VE"
+  },
+  "contributors": null,
+  "entities": {
+    "hashtags": [],
+    "urls": [
+      {
+        "display_url": "twitter.com/i/web/status/9\u2026",
+        "expanded_url": "https://twitter.com/i/web/status/930613923652489216",
+        "url": "https://t.co/mCjn1xUNTm",
+        "indices": [117, 140]
+      }
+    ],
+    "symbols": [],
+    "user_mentions": []
+  },
+  "id": 930613923652489216,
+  "user": {
+    "followers_count": 454,
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_color": "000000",
+    "translator_type": "none",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/923309868211195904/FL5oEpLB_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/703667717845422085/1502427926",
+    "default_profile": false,
+    "utc_offset": -28800,
+    "lang": "es",
+    "url": null,
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/923309868211195904/FL5oEpLB_normal.jpg",
+    "time_zone": "Pacific Time (US & Canada)",
+    "profile_sidebar_border_color": "000000",
+    "profile_use_background_image": false,
+    "id": 703667717845422085,
+    "profile_link_color": "ABB8C2",
+    "profile_sidebar_fill_color": "000000",
+    "profile_background_tile": false,
+    "geo_enabled": true,
+    "id_str": "703667717845422085",
+    "verified": false,
+    "name": "three\ud83c\udf6d",
+    "is_translator": false,
+    "notifications": null,
+    "following": null,
+    "friends_count": 435,
+    "contributors_enabled": false,
+    "screen_name": "VB18_",
+    "created_at": "Sat Feb 27 19:47:12 +0000 2016",
+    "profile_text_color": "000000",
+    "favourites_count": 5693,
+    "follow_request_sent": null,
+    "description": "18. S\u00f3lo vengo a quejarme, sorrynotsorry.",
+    "default_profile_image": false,
+    "location": null,
+    "listed_count": 6,
+    "protected": false,
+    "statuses_count": 26256
+  },
+  "id_str": "930613923652489216",
+  "retweet_count": 0,
+  "retweeted": false,
+  "quote_count": 0,
+  "truncated": true,
+  "in_reply_to_status_id_str": null,
+  "reply_count": 0,
+  "created_at": "Wed Nov 15 01:50:24 +0000 2017",
+  "is_quote_status": false,
+  "in_reply_to_user_id": null,
+  "timestamp_ms": "1510710624026",
+  "text": "Yo estoy muy mal acostumbrada a ba\u00f1arme con agua caliente, c\u00f3mo ser\u00e1 si llego a emigrar y no haya calentador en d\u00f3n\u2026 https://t.co/mCjn1xUNTm",
+  "extended_tweet": {
+    "full_text": "Yo estoy muy mal acostumbrada a ba\u00f1arme con agua caliente, c\u00f3mo ser\u00e1 si llego a emigrar y no haya calentador en d\u00f3nde vaya a vivir? ME MORIR\u00cdAaaaaaaaaAaaaAAAa",
+    "display_text_range": [0, 158],
+    "entities": {
+      "hashtags": [],
+      "urls": [],
+      "symbols": [],
+      "user_mentions": []
+    }
+  },
+  "in_reply_to_user_id_str": null,
+  "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+  "in_reply_to_screen_name": null
+}

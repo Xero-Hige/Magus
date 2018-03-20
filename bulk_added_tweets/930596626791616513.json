@@ -1,1 +1,106 @@
-{"geo": null, "filter_level": "low", "in_reply_to_status_id": null, "lang": "es", "favorite_count": 0, "coordinates": null, "favorited": false, "place": {"name": "Peru", "full_name": "Peru", "place_type": "country", "country": "Peru", "id": "2dfa9ecb0179a4e4", "bounding_box": {"type": "Polygon", "coordinates": [[[-81.328148, -18.349728], [-81.328148, -0.03884], [-68.673088, -0.03884], [-68.673088, -18.349728]]]}, "attributes": {}, "url": "https://api.twitter.com/1.1/geo/id/2dfa9ecb0179a4e4.json", "country_code": "PE"}, "contributors": null, "entities": {"hashtags": [], "urls": [{"display_url": "twitter.com/i/web/status/9\u2026", "expanded_url": "https://twitter.com/i/web/status/930596626791616513", "url": "https://t.co/7w74AlDdj4", "indices": [117, 140]}], "symbols": [], "user_mentions": []}, "id": 930596626791616513, "user": {"followers_count": 208, "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/524005133957353472/eMs7rxxt.jpeg", "profile_background_color": "C0DEED", "translator_type": "none", "profile_image_url": "http://pbs.twimg.com/profile_images/918508745327632387/hVX6d3fB_normal.jpg", "profile_banner_url": "https://pbs.twimg.com/profile_banners/1543436540/1493865722", "default_profile": false, "utc_offset": -18000, "lang": "es", "url": null, "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/524005133957353472/eMs7rxxt.jpeg", "profile_image_url_https": "https://pbs.twimg.com/profile_images/918508745327632387/hVX6d3fB_normal.jpg", "time_zone": "Eastern Time (US & Canada)", "profile_sidebar_border_color": "FFFFFF", "profile_use_background_image": true, "id": 1543436540, "profile_link_color": "4A913C", "profile_sidebar_fill_color": "DDEEF6", "profile_background_tile": false, "geo_enabled": true, "id_str": "1543436540", "verified": false, "name": "Danilo Balbin", "is_translator": false, "notifications": null, "following": null, "friends_count": 194, "contributors_enabled": false, "screen_name": "ItsDeeni", "created_at": "Mon Jun 24 14:43:40 +0000 2013", "profile_text_color": "333333", "favourites_count": 3929, "follow_request_sent": null, "description": "Estudiante de ingenier\u00eda. Rap, Funk e Indie Rock. Tatuajes, Cerveza y F\u00fatbol.", "default_profile_image": false, "location": "Lima, Peru", "listed_count": 3, "protected": false, "statuses_count": 10620}, "id_str": "930596626791616513", "retweet_count": 0, "retweeted": false, "quote_count": 0, "truncated": true, "in_reply_to_status_id_str": null, "reply_count": 0, "created_at": "Wed Nov 15 00:41:40 +0000 2017", "is_quote_status": false, "in_reply_to_user_id": null, "timestamp_ms": "1510706500133", "text": "Creo que nada, as\u00ed NADA, me emociona hasta las l\u00e1grimas que cualquier v\u00eddeo de la selecci\u00f3n. \n\nPero no jodas, uno c\u2026 https://t.co/7w74AlDdj4", "extended_tweet": {"full_text": "Creo que nada, as\u00ed NADA, me emociona hasta las l\u00e1grimas que cualquier v\u00eddeo de la selecci\u00f3n. \n\nPero no jodas, uno con una carta al viejo, ya es otra cosa", "display_text_range": [0, 153], "entities": {"hashtags": [], "urls": [], "symbols": [], "user_mentions": []}}, "in_reply_to_user_id_str": null, "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>", "in_reply_to_screen_name": null}
+{
+  "geo": null,
+  "filter_level": "low",
+  "in_reply_to_status_id": null,
+  "lang": "es",
+  "favorite_count": 0,
+  "coordinates": null,
+  "favorited": false,
+  "place": {
+    "name": "Peru",
+    "full_name": "Peru",
+    "place_type": "country",
+    "country": "Peru",
+    "id": "2dfa9ecb0179a4e4",
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [[-81.328148, -18.349728], [-81.328148, -0.03884], [-68.673088, -0.03884], [-68.673088, -18.349728]]
+      ]
+    },
+    "attributes": {},
+    "url": "https://api.twitter.com/1.1/geo/id/2dfa9ecb0179a4e4.json",
+    "country_code": "PE"
+  },
+  "contributors": null,
+  "entities": {
+    "hashtags": [],
+    "urls": [
+      {
+        "display_url": "twitter.com/i/web/status/9\u2026",
+        "expanded_url": "https://twitter.com/i/web/status/930596626791616513",
+        "url": "https://t.co/7w74AlDdj4",
+        "indices": [117, 140]
+      }
+    ],
+    "symbols": [],
+    "user_mentions": []
+  },
+  "id": 930596626791616513,
+  "user": {
+    "followers_count": 208,
+    "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/524005133957353472/eMs7rxxt.jpeg",
+    "profile_background_color": "C0DEED",
+    "translator_type": "none",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/918508745327632387/hVX6d3fB_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1543436540/1493865722",
+    "default_profile": false,
+    "utc_offset": -18000,
+    "lang": "es",
+    "url": null,
+    "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/524005133957353472/eMs7rxxt.jpeg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/918508745327632387/hVX6d3fB_normal.jpg",
+    "time_zone": "Eastern Time (US & Canada)",
+    "profile_sidebar_border_color": "FFFFFF",
+    "profile_use_background_image": true,
+    "id": 1543436540,
+    "profile_link_color": "4A913C",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_background_tile": false,
+    "geo_enabled": true,
+    "id_str": "1543436540",
+    "verified": false,
+    "name": "Danilo Balbin",
+    "is_translator": false,
+    "notifications": null,
+    "following": null,
+    "friends_count": 194,
+    "contributors_enabled": false,
+    "screen_name": "ItsDeeni",
+    "created_at": "Mon Jun 24 14:43:40 +0000 2013",
+    "profile_text_color": "333333",
+    "favourites_count": 3929,
+    "follow_request_sent": null,
+    "description": "Estudiante de ingenier\u00eda. Rap, Funk e Indie Rock. Tatuajes, Cerveza y F\u00fatbol.",
+    "default_profile_image": false,
+    "location": "Lima, Peru",
+    "listed_count": 3,
+    "protected": false,
+    "statuses_count": 10620
+  },
+  "id_str": "930596626791616513",
+  "retweet_count": 0,
+  "retweeted": false,
+  "quote_count": 0,
+  "truncated": true,
+  "in_reply_to_status_id_str": null,
+  "reply_count": 0,
+  "created_at": "Wed Nov 15 00:41:40 +0000 2017",
+  "is_quote_status": false,
+  "in_reply_to_user_id": null,
+  "timestamp_ms": "1510706500133",
+  "text": "Creo que nada, as\u00ed NADA, me emociona hasta las l\u00e1grimas que cualquier v\u00eddeo de la selecci\u00f3n. \n\nPero no jodas, uno c\u2026 https://t.co/7w74AlDdj4",
+  "extended_tweet": {
+    "full_text": "Creo que nada, as\u00ed NADA, me emociona hasta las l\u00e1grimas que cualquier v\u00eddeo de la selecci\u00f3n. \n\nPero no jodas, uno con una carta al viejo, ya es otra cosa",
+    "display_text_range": [0, 153],
+    "entities": {
+      "hashtags": [],
+      "urls": [],
+      "symbols": [],
+      "user_mentions": []
+    }
+  },
+  "in_reply_to_user_id_str": null,
+  "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+  "in_reply_to_screen_name": null
+}

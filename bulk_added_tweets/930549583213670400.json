@@ -1,1 +1,104 @@
-{"is_quote_status": false, "in_reply_to_user_id_str": null, "created_at": "Tue Nov 14 21:34:44 +0000 2017", "favorite_count": 0, "in_reply_to_status_id": null, "id_str": "930549583213670400", "filter_level": "low", "reply_count": 0, "timestamp_ms": "1510695284070", "id": 930549583213670400, "coordinates": null, "in_reply_to_screen_name": null, "truncated": true, "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>", "place": {"bounding_box": {"coordinates": [[[2.052477, 41.317048], [2.052477, 41.468266], [2.229978, 41.468266], [2.229978, 41.317048]]], "type": "Polygon"}, "url": "https://api.twitter.com/1.1/geo/id/1a27537478dd8e38.json", "country_code": "ES", "name": "Barcelona", "full_name": "Barcelona, Espa\u00f1a", "id": "1a27537478dd8e38", "place_type": "city", "attributes": {}, "country": "Espa\u00f1a"}, "retweet_count": 0, "extended_tweet": {"display_text_range": [0, 144], "entities": {"user_mentions": [], "urls": [], "symbols": [], "hashtags": []}, "full_text": "Yo no odio a los fumadores, s\u00f3lo a los que tiran las colillas al suelo. Y apenas deben de ser el 99% del total, as\u00ed que no pienso generalizar..."}, "quote_count": 0, "favorited": false, "text": "Yo no odio a los fumadores, s\u00f3lo a los que tiran las colillas al suelo. Y apenas deben de ser el 99% del total, as\u00ed\u2026 https://t.co/4WpO0EJn2h", "in_reply_to_user_id": null, "geo": null, "lang": "es", "contributors": null, "in_reply_to_status_id_str": null, "user": {"protected": false, "following": null, "profile_text_color": "333333", "profile_background_color": "C0DEED", "statuses_count": 29130, "default_profile": false, "favourites_count": 23549, "friends_count": 1076, "follow_request_sent": null, "profile_sidebar_fill_color": "DDEEF6", "translator_type": "none", "notifications": null, "id_str": "89227893", "screen_name": "serperiba", "profile_banner_url": "https://pbs.twimg.com/profile_banners/89227893/1509017232", "verified": false, "id": 89227893, "profile_use_background_image": false, "description": "Teleco haciendo webs. No me gustan en absoluto los extremismos. \ud83d\ude0f", "utc_offset": 3600, "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/210018650/4380297134_fbb7815d8a_b.jpg", "is_translator": false, "listed_count": 54, "default_profile_image": false, "contributors_enabled": false, "followers_count": 1391, "location": null, "created_at": "Wed Nov 11 16:54:56 +0000 2009", "profile_image_url_https": "https://pbs.twimg.com/profile_images/925832786958839808/G7UL3OPm_normal.jpg", "geo_enabled": true, "time_zone": "Madrid", "profile_image_url": "http://pbs.twimg.com/profile_images/925832786958839808/G7UL3OPm_normal.jpg", "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/210018650/4380297134_fbb7815d8a_b.jpg", "profile_link_color": "0084B4", "lang": "es", "name": "Sergi", "profile_background_tile": false, "url": null, "profile_sidebar_border_color": "C0DEED"}, "entities": {"user_mentions": [], "urls": [{"expanded_url": "https://twitter.com/i/web/status/930549583213670400", "url": "https://t.co/4WpO0EJn2h", "indices": [117, 140], "display_url": "twitter.com/i/web/status/9\u2026"}], "symbols": [], "hashtags": []}, "retweeted": false}
+{
+  "is_quote_status": false,
+  "in_reply_to_user_id_str": null,
+  "created_at": "Tue Nov 14 21:34:44 +0000 2017",
+  "favorite_count": 0,
+  "in_reply_to_status_id": null,
+  "id_str": "930549583213670400",
+  "filter_level": "low",
+  "reply_count": 0,
+  "timestamp_ms": "1510695284070",
+  "id": 930549583213670400,
+  "coordinates": null,
+  "in_reply_to_screen_name": null,
+  "truncated": true,
+  "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+  "place": {
+    "bounding_box": {
+      "coordinates": [[[2.052477, 41.317048], [2.052477, 41.468266], [2.229978, 41.468266], [2.229978, 41.317048]]],
+      "type": "Polygon"
+    },
+    "url": "https://api.twitter.com/1.1/geo/id/1a27537478dd8e38.json",
+    "country_code": "ES",
+    "name": "Barcelona",
+    "full_name": "Barcelona, Espa\u00f1a",
+    "id": "1a27537478dd8e38",
+    "place_type": "city",
+    "attributes": {},
+    "country": "Espa\u00f1a"
+  },
+  "retweet_count": 0,
+  "extended_tweet": {
+    "display_text_range": [0, 144],
+    "entities": {
+      "user_mentions": [],
+      "urls": [],
+      "symbols": [],
+      "hashtags": []
+    },
+    "full_text": "Yo no odio a los fumadores, s\u00f3lo a los que tiran las colillas al suelo. Y apenas deben de ser el 99% del total, as\u00ed que no pienso generalizar..."
+  },
+  "quote_count": 0,
+  "favorited": false,
+  "text": "Yo no odio a los fumadores, s\u00f3lo a los que tiran las colillas al suelo. Y apenas deben de ser el 99% del total, as\u00ed\u2026 https://t.co/4WpO0EJn2h",
+  "in_reply_to_user_id": null,
+  "geo": null,
+  "lang": "es",
+  "contributors": null,
+  "in_reply_to_status_id_str": null,
+  "user": {
+    "protected": false,
+    "following": null,
+    "profile_text_color": "333333",
+    "profile_background_color": "C0DEED",
+    "statuses_count": 29130,
+    "default_profile": false,
+    "favourites_count": 23549,
+    "friends_count": 1076,
+    "follow_request_sent": null,
+    "profile_sidebar_fill_color": "DDEEF6",
+    "translator_type": "none",
+    "notifications": null,
+    "id_str": "89227893",
+    "screen_name": "serperiba",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/89227893/1509017232",
+    "verified": false,
+    "id": 89227893,
+    "profile_use_background_image": false,
+    "description": "Teleco haciendo webs. No me gustan en absoluto los extremismos. \ud83d\ude0f",
+    "utc_offset": 3600,
+    "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/210018650/4380297134_fbb7815d8a_b.jpg",
+    "is_translator": false,
+    "listed_count": 54,
+    "default_profile_image": false,
+    "contributors_enabled": false,
+    "followers_count": 1391,
+    "location": null,
+    "created_at": "Wed Nov 11 16:54:56 +0000 2009",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/925832786958839808/G7UL3OPm_normal.jpg",
+    "geo_enabled": true,
+    "time_zone": "Madrid",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/925832786958839808/G7UL3OPm_normal.jpg",
+    "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/210018650/4380297134_fbb7815d8a_b.jpg",
+    "profile_link_color": "0084B4",
+    "lang": "es",
+    "name": "Sergi",
+    "profile_background_tile": false,
+    "url": null,
+    "profile_sidebar_border_color": "C0DEED"
+  },
+  "entities": {
+    "user_mentions": [],
+    "urls": [
+      {
+        "expanded_url": "https://twitter.com/i/web/status/930549583213670400",
+        "url": "https://t.co/4WpO0EJn2h",
+        "indices": [117, 140],
+        "display_url": "twitter.com/i/web/status/9\u2026"
+      }
+    ],
+    "symbols": [],
+    "hashtags": []
+  },
+  "retweeted": false
+}

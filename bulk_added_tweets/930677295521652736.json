@@ -1,1 +1,106 @@
-{"geo": null, "filter_level": "low", "in_reply_to_status_id": null, "lang": "es", "favorite_count": 0, "coordinates": null, "favorited": false, "place": {"name": "M\u00e9rida", "full_name": "M\u00e9rida, Yucat\u00e1n", "place_type": "city", "country": "M\u00e9xico", "id": "01566b25bbe7a6d3", "bounding_box": {"type": "Polygon", "coordinates": [[[-89.798197, 20.695104], [-89.798197, 21.186966], [-89.449025, 21.186966], [-89.449025, 20.695104]]]}, "attributes": {}, "url": "https://api.twitter.com/1.1/geo/id/01566b25bbe7a6d3.json", "country_code": "MX"}, "contributors": null, "entities": {"hashtags": [], "urls": [{"display_url": "twitter.com/i/web/status/9\u2026", "expanded_url": "https://twitter.com/i/web/status/930677295521652736", "url": "https://t.co/ZKW1cxuPww", "indices": [117, 140]}], "symbols": [], "user_mentions": []}, "id": 930677295521652736, "user": {"followers_count": 424, "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png", "profile_background_color": "C0DEED", "translator_type": "none", "profile_image_url": "http://pbs.twimg.com/profile_images/923298629233778688/Bj2igIpV_normal.jpg", "profile_banner_url": "https://pbs.twimg.com/profile_banners/2936518537/1510369713", "default_profile": true, "utc_offset": null, "lang": "es", "url": null, "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", "profile_image_url_https": "https://pbs.twimg.com/profile_images/923298629233778688/Bj2igIpV_normal.jpg", "time_zone": null, "profile_sidebar_border_color": "C0DEED", "profile_use_background_image": true, "id": 2936518537, "profile_link_color": "1DA1F2", "profile_sidebar_fill_color": "DDEEF6", "profile_background_tile": false, "geo_enabled": true, "id_str": "2936518537", "verified": false, "name": "Samuel Estrada", "is_translator": false, "notifications": null, "following": null, "friends_count": 2295, "contributors_enabled": false, "screen_name": "SamyEstradaR", "created_at": "Sat Dec 20 00:11:03 +0000 2014", "profile_text_color": "333333", "favourites_count": 1602, "follow_request_sent": null, "description": "Mexicano orgulloso, aficionado de la musica, el arte, y la cultura universal. un paso m\u00e1s cerca de mi sue\u00f1o, siempre ser\u00e1s el amor de mi vida \u2764\ufe0f\ud83c\udf2a", "default_profile_image": false, "location": "M\u00e9xico", "listed_count": 2, "protected": false, "statuses_count": 830}, "id_str": "930677295521652736", "retweet_count": 0, "retweeted": false, "quote_count": 0, "truncated": true, "in_reply_to_status_id_str": null, "reply_count": 0, "created_at": "Wed Nov 15 06:02:13 +0000 2017", "is_quote_status": false, "in_reply_to_user_id": null, "timestamp_ms": "1510725733057", "text": "Y si t\u00fa amor por m\u00ed fue una mentira para cuidarte de que yo no te hiciera alg\u00fan da\u00f1o, no te preocupes, si tanto cre\u2026 https://t.co/ZKW1cxuPww", "extended_tweet": {"full_text": "Y si t\u00fa amor por m\u00ed fue una mentira para cuidarte de que yo no te hiciera alg\u00fan da\u00f1o, no te preocupes, si tanto crees es Dios, el se encargar\u00e1 de ti, Dios te bendiga mi \u2764\ufe0f\ud83c\udf2a", "display_text_range": [0, 172], "entities": {"hashtags": [], "urls": [], "symbols": [], "user_mentions": []}}, "in_reply_to_user_id_str": null, "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>", "in_reply_to_screen_name": null}
+{
+  "geo": null,
+  "filter_level": "low",
+  "in_reply_to_status_id": null,
+  "lang": "es",
+  "favorite_count": 0,
+  "coordinates": null,
+  "favorited": false,
+  "place": {
+    "name": "M\u00e9rida",
+    "full_name": "M\u00e9rida, Yucat\u00e1n",
+    "place_type": "city",
+    "country": "M\u00e9xico",
+    "id": "01566b25bbe7a6d3",
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [[-89.798197, 20.695104], [-89.798197, 21.186966], [-89.449025, 21.186966], [-89.449025, 20.695104]]
+      ]
+    },
+    "attributes": {},
+    "url": "https://api.twitter.com/1.1/geo/id/01566b25bbe7a6d3.json",
+    "country_code": "MX"
+  },
+  "contributors": null,
+  "entities": {
+    "hashtags": [],
+    "urls": [
+      {
+        "display_url": "twitter.com/i/web/status/9\u2026",
+        "expanded_url": "https://twitter.com/i/web/status/930677295521652736",
+        "url": "https://t.co/ZKW1cxuPww",
+        "indices": [117, 140]
+      }
+    ],
+    "symbols": [],
+    "user_mentions": []
+  },
+  "id": 930677295521652736,
+  "user": {
+    "followers_count": 424,
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_color": "C0DEED",
+    "translator_type": "none",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/923298629233778688/Bj2igIpV_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/2936518537/1510369713",
+    "default_profile": true,
+    "utc_offset": null,
+    "lang": "es",
+    "url": null,
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/923298629233778688/Bj2igIpV_normal.jpg",
+    "time_zone": null,
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_use_background_image": true,
+    "id": 2936518537,
+    "profile_link_color": "1DA1F2",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_background_tile": false,
+    "geo_enabled": true,
+    "id_str": "2936518537",
+    "verified": false,
+    "name": "Samuel Estrada",
+    "is_translator": false,
+    "notifications": null,
+    "following": null,
+    "friends_count": 2295,
+    "contributors_enabled": false,
+    "screen_name": "SamyEstradaR",
+    "created_at": "Sat Dec 20 00:11:03 +0000 2014",
+    "profile_text_color": "333333",
+    "favourites_count": 1602,
+    "follow_request_sent": null,
+    "description": "Mexicano orgulloso, aficionado de la musica, el arte, y la cultura universal. un paso m\u00e1s cerca de mi sue\u00f1o, siempre ser\u00e1s el amor de mi vida \u2764\ufe0f\ud83c\udf2a",
+    "default_profile_image": false,
+    "location": "M\u00e9xico",
+    "listed_count": 2,
+    "protected": false,
+    "statuses_count": 830
+  },
+  "id_str": "930677295521652736",
+  "retweet_count": 0,
+  "retweeted": false,
+  "quote_count": 0,
+  "truncated": true,
+  "in_reply_to_status_id_str": null,
+  "reply_count": 0,
+  "created_at": "Wed Nov 15 06:02:13 +0000 2017",
+  "is_quote_status": false,
+  "in_reply_to_user_id": null,
+  "timestamp_ms": "1510725733057",
+  "text": "Y si t\u00fa amor por m\u00ed fue una mentira para cuidarte de que yo no te hiciera alg\u00fan da\u00f1o, no te preocupes, si tanto cre\u2026 https://t.co/ZKW1cxuPww",
+  "extended_tweet": {
+    "full_text": "Y si t\u00fa amor por m\u00ed fue una mentira para cuidarte de que yo no te hiciera alg\u00fan da\u00f1o, no te preocupes, si tanto crees es Dios, el se encargar\u00e1 de ti, Dios te bendiga mi \u2764\ufe0f\ud83c\udf2a",
+    "display_text_range": [0, 172],
+    "entities": {
+      "hashtags": [],
+      "urls": [],
+      "symbols": [],
+      "user_mentions": []
+    }
+  },
+  "in_reply_to_user_id_str": null,
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "in_reply_to_screen_name": null
+}

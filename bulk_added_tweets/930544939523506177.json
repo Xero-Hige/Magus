@@ -1,1 +1,133 @@
-{"is_quote_status": false, "quote_count": 0, "in_reply_to_user_id_str": "907069912438509569", "favorite_count": 0, "in_reply_to_status_id": 930538815156047872, "id_str": "930544939523506177", "filter_level": "low", "reply_count": 0, "timestamp_ms": "1510694176928", "id": 930544939523506177, "display_text_range": [16, 140], "coordinates": null, "in_reply_to_screen_name": "Loresinmordaza", "truncated": true, "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>", "place": {"bounding_box": {"coordinates": [[[-58.447767, -34.90991], [-58.447767, -34.754352], [-58.30982, -34.754352], [-58.30982, -34.90991]]], "type": "Polygon"}, "url": "https://api.twitter.com/1.1/geo/id/014c3ff137d87084.json", "country_code": "AR", "name": "Almirante Brown", "full_name": "Almirante Brown, Argentina", "id": "014c3ff137d87084", "place_type": "city", "attributes": {}, "country": "Argentina"}, "retweet_count": 0, "extended_tweet": {"display_text_range": [16, 195], "entities": {"user_mentions": [{"id": 907069912438509569, "screen_name": "Loresinmordaza", "id_str": "907069912438509569", "indices": [0, 15], "name": "Lorena"}], "urls": [], "symbols": [], "hashtags": [{"text": "KirchneristasCorruptos", "indices": [85, 108]}]}, "full_text": "@Loresinmordaza Si no lo suicidan a Vandenboeler como lo hicieron con Nisman, muchos #KirchneristasCorruptos van a caer en  cana y eso es un hecho.\nLo raro es que todavia hay giles que los votan."}, "created_at": "Tue Nov 14 21:16:16 +0000 2017", "favorited": false, "text": "@Loresinmordaza Si no lo suicidan a Vandenboeler como lo hicieron con Nisman, muchos #KirchneristasCorruptos van a\u2026 https://t.co/qWLS47DmRf", "in_reply_to_user_id": 907069912438509569, "geo": null, "lang": "es", "contributors": null, "in_reply_to_status_id_str": "930538815156047872", "user": {"protected": false, "following": null, "profile_text_color": "333333", "profile_background_color": "642D8B", "statuses_count": 42623, "default_profile": false, "favourites_count": 1672, "friends_count": 75, "follow_request_sent": null, "profile_sidebar_fill_color": "A0C5C7", "translator_type": "none", "notifications": null, "id_str": "253523814", "screen_name": "adrinesitas", "profile_banner_url": "https://pbs.twimg.com/profile_banners/253523814/1468355481", "verified": false, "id": 253523814, "profile_use_background_image": true, "description": "Creadora del hashtag  #lasredeshablan\r\nS\u00f3lo soy un ama de casa.", "utc_offset": -10800, "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000105240867/014b724d5bd1aeeec1ed93c0e81ec79c.jpeg", "is_translator": false, "listed_count": 12, "default_profile_image": false, "contributors_enabled": false, "followers_count": 862, "location": "Burzaco", "created_at": "Thu Feb 17 12:21:15 +0000 2011", "profile_image_url_https": "https://pbs.twimg.com/profile_images/923282776387997698/80zV-3nf_normal.jpg", "geo_enabled": true, "time_zone": "America/Argentina/Buenos_Aires", "profile_image_url": "http://pbs.twimg.com/profile_images/923282776387997698/80zV-3nf_normal.jpg", "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000105240867/014b724d5bd1aeeec1ed93c0e81ec79c.jpeg", "profile_link_color": "FF0000", "lang": "es", "name": "La tia Adrines", "profile_background_tile": false, "url": "http://www.followfriday.com/followfriday/adrinesitas", "profile_sidebar_border_color": "000000"}, "entities": {"user_mentions": [{"id": 907069912438509569, "screen_name": "Loresinmordaza", "id_str": "907069912438509569", "indices": [0, 15], "name": "Lorena"}], "urls": [{"expanded_url": "https://twitter.com/i/web/status/930544939523506177", "url": "https://t.co/qWLS47DmRf", "indices": [116, 139], "display_url": "twitter.com/i/web/status/9\u2026"}], "symbols": [], "hashtags": [{"text": "KirchneristasCorruptos", "indices": [85, 108]}]}, "retweeted": false}
+{
+  "is_quote_status": false,
+  "quote_count": 0,
+  "in_reply_to_user_id_str": "907069912438509569",
+  "favorite_count": 0,
+  "in_reply_to_status_id": 930538815156047872,
+  "id_str": "930544939523506177",
+  "filter_level": "low",
+  "reply_count": 0,
+  "timestamp_ms": "1510694176928",
+  "id": 930544939523506177,
+  "display_text_range": [16, 140],
+  "coordinates": null,
+  "in_reply_to_screen_name": "Loresinmordaza",
+  "truncated": true,
+  "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+  "place": {
+    "bounding_box": {
+      "coordinates": [
+        [[-58.447767, -34.90991], [-58.447767, -34.754352], [-58.30982, -34.754352], [-58.30982, -34.90991]]
+      ],
+      "type": "Polygon"
+    },
+    "url": "https://api.twitter.com/1.1/geo/id/014c3ff137d87084.json",
+    "country_code": "AR",
+    "name": "Almirante Brown",
+    "full_name": "Almirante Brown, Argentina",
+    "id": "014c3ff137d87084",
+    "place_type": "city",
+    "attributes": {},
+    "country": "Argentina"
+  },
+  "retweet_count": 0,
+  "extended_tweet": {
+    "display_text_range": [16, 195],
+    "entities": {
+      "user_mentions": [
+        {
+          "id": 907069912438509569,
+          "screen_name": "Loresinmordaza",
+          "id_str": "907069912438509569",
+          "indices": [0, 15],
+          "name": "Lorena"
+        }
+      ],
+      "urls": [],
+      "symbols": [],
+      "hashtags": [
+        {
+          "text": "KirchneristasCorruptos",
+          "indices": [85, 108]
+        }
+      ]
+    },
+    "full_text": "@Loresinmordaza Si no lo suicidan a Vandenboeler como lo hicieron con Nisman, muchos #KirchneristasCorruptos van a caer en  cana y eso es un hecho.\nLo raro es que todavia hay giles que los votan."
+  },
+  "created_at": "Tue Nov 14 21:16:16 +0000 2017",
+  "favorited": false,
+  "text": "@Loresinmordaza Si no lo suicidan a Vandenboeler como lo hicieron con Nisman, muchos #KirchneristasCorruptos van a\u2026 https://t.co/qWLS47DmRf",
+  "in_reply_to_user_id": 907069912438509569,
+  "geo": null,
+  "lang": "es",
+  "contributors": null,
+  "in_reply_to_status_id_str": "930538815156047872",
+  "user": {
+    "protected": false,
+    "following": null,
+    "profile_text_color": "333333",
+    "profile_background_color": "642D8B",
+    "statuses_count": 42623,
+    "default_profile": false,
+    "favourites_count": 1672,
+    "friends_count": 75,
+    "follow_request_sent": null,
+    "profile_sidebar_fill_color": "A0C5C7",
+    "translator_type": "none",
+    "notifications": null,
+    "id_str": "253523814",
+    "screen_name": "adrinesitas",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/253523814/1468355481",
+    "verified": false,
+    "id": 253523814,
+    "profile_use_background_image": true,
+    "description": "Creadora del hashtag  #lasredeshablan\r\nS\u00f3lo soy un ama de casa.",
+    "utc_offset": -10800,
+    "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000105240867/014b724d5bd1aeeec1ed93c0e81ec79c.jpeg",
+    "is_translator": false,
+    "listed_count": 12,
+    "default_profile_image": false,
+    "contributors_enabled": false,
+    "followers_count": 862,
+    "location": "Burzaco",
+    "created_at": "Thu Feb 17 12:21:15 +0000 2011",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/923282776387997698/80zV-3nf_normal.jpg",
+    "geo_enabled": true,
+    "time_zone": "America/Argentina/Buenos_Aires",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/923282776387997698/80zV-3nf_normal.jpg",
+    "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000105240867/014b724d5bd1aeeec1ed93c0e81ec79c.jpeg",
+    "profile_link_color": "FF0000",
+    "lang": "es",
+    "name": "La tia Adrines",
+    "profile_background_tile": false,
+    "url": "http://www.followfriday.com/followfriday/adrinesitas",
+    "profile_sidebar_border_color": "000000"
+  },
+  "entities": {
+    "user_mentions": [
+      {
+        "id": 907069912438509569,
+        "screen_name": "Loresinmordaza",
+        "id_str": "907069912438509569",
+        "indices": [0, 15],
+        "name": "Lorena"
+      }
+    ],
+    "urls": [
+      {
+        "expanded_url": "https://twitter.com/i/web/status/930544939523506177",
+        "url": "https://t.co/qWLS47DmRf",
+        "indices": [116, 139],
+        "display_url": "twitter.com/i/web/status/9\u2026"
+      }
+    ],
+    "symbols": [],
+    "hashtags": [
+      {
+        "text": "KirchneristasCorruptos",
+        "indices": [85, 108]
+      }
+    ]
+  },
+  "retweeted": false
+}

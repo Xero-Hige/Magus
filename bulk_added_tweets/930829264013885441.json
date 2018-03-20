@@ -1,1 +1,127 @@
-{"extended_tweet": {"display_text_range": [0, 167], "entities": {"urls": [], "symbols": [], "hashtags": [{"text": "Puebla", "indices": [154, 161]}], "user_mentions": [{"indices": [0, 8], "name": "IMSS", "id_str": "69034805", "screen_name": "Tu_IMSS", "id": 69034805}]}, "full_text": "@Tu_IMSS tengo una amiga que ayer tuvo cesar\u00eda y desde ayer no podemos ver a la paciente ni al beb\u00e9 que no hay fichas de visita esto en imss margarita en #Puebla ayuda"}, "favorited": false, "lang": "es", "favorite_count": 0, "reply_count": 0, "geo": null, "contributors": null, "text": "@Tu_IMSS tengo una amiga que ayer tuvo cesar\u00eda y desde ayer no podemos ver a la paciente ni al beb\u00e9 que no hay fich\u2026 https://t.co/6iRToWVPSE", "created_at": "Wed Nov 15 16:06:05 +0000 2017", "place": {"place_type": "city", "full_name": "San Andr\u00e9s Cholula, Puebla", "country": "M\u00e9xico", "name": "San Andr\u00e9s Cholula", "url": "https://api.twitter.com/1.1/geo/id/9de57b9239869b74.json", "country_code": "MX", "bounding_box": {"type": "Polygon", "coordinates": [[[-98.363779, 18.980181], [-98.363779, 19.065807], [-98.253419, 19.065807], [-98.253419, 18.980181]]]}, "id": "9de57b9239869b74", "attributes": {}}, "user": {"profile_text_color": "333333", "lang": "es", "location": "San Pedro cholula ", "friends_count": 733, "profile_link_color": "0099CC", "profile_image_url_https": "https://pbs.twimg.com/profile_images/887812176785879046/YB_ILxuf_normal.jpg", "contributors_enabled": false, "following": null, "is_translator": false, "verified": false, "profile_banner_url": "https://pbs.twimg.com/profile_banners/74359348/1417072016", "utc_offset": -21600, "geo_enabled": true, "profile_sidebar_border_color": "000000", "created_at": "Tue Sep 15 03:57:55 +0000 2009", "description": "Estudio Ciencias Pol\u00edticas labora DIF ESTATAL, me puedes encontrar en @freerailroad programa de radio y embajador de UBER EN Pue", "profile_image_url": "http://pbs.twimg.com/profile_images/887812176785879046/YB_ILxuf_normal.jpg", "profile_background_color": "FFF04D", "listed_count": 19, "follow_request_sent": null, "profile_background_tile": true, "followers_count": 733, "name": "Kike R\u2661mer\u2661 Brav\u2661", "notifications": null, "default_profile_image": false, "url": "http://Instagram.com/kike_romero_bravo", "favourites_count": 1573, "screen_name": "KIKEromerobravo", "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/735508627/8a06cce3afd5bc990aa31268cf9cb251.gif", "profile_sidebar_fill_color": "F6FFD1", "profile_use_background_image": true, "translator_type": "none", "time_zone": "Mexico City", "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/735508627/8a06cce3afd5bc990aa31268cf9cb251.gif", "statuses_count": 26516, "id": 74359348, "default_profile": false, "protected": false, "id_str": "74359348"}, "in_reply_to_user_id_str": "69034805", "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>", "filter_level": "low", "is_quote_status": false, "in_reply_to_status_id": null, "in_reply_to_user_id": 69034805, "quote_count": 0, "retweeted": false, "in_reply_to_screen_name": "Tu_IMSS", "retweet_count": 0, "in_reply_to_status_id_str": null, "coordinates": null, "id": 930829264013885441, "truncated": true, "entities": {"urls": [{"url": "https://t.co/6iRToWVPSE", "display_url": "twitter.com/i/web/status/9\u2026", "indices": [117, 140], "expanded_url": "https://twitter.com/i/web/status/930829264013885441"}], "symbols": [], "hashtags": [], "user_mentions": [{"indices": [0, 8], "name": "IMSS", "id_str": "69034805", "screen_name": "Tu_IMSS", "id": 69034805}]}, "timestamp_ms": "1510761965169", "id_str": "930829264013885441"}
+{
+  "extended_tweet": {
+    "display_text_range": [0, 167],
+    "entities": {
+      "urls": [],
+      "symbols": [],
+      "hashtags": [
+        {
+          "text": "Puebla",
+          "indices": [154, 161]
+        }
+      ],
+      "user_mentions": [
+        {
+          "indices": [0, 8],
+          "name": "IMSS",
+          "id_str": "69034805",
+          "screen_name": "Tu_IMSS",
+          "id": 69034805
+        }
+      ]
+    },
+    "full_text": "@Tu_IMSS tengo una amiga que ayer tuvo cesar\u00eda y desde ayer no podemos ver a la paciente ni al beb\u00e9 que no hay fichas de visita esto en imss margarita en #Puebla ayuda"
+  },
+  "favorited": false,
+  "lang": "es",
+  "favorite_count": 0,
+  "reply_count": 0,
+  "geo": null,
+  "contributors": null,
+  "text": "@Tu_IMSS tengo una amiga que ayer tuvo cesar\u00eda y desde ayer no podemos ver a la paciente ni al beb\u00e9 que no hay fich\u2026 https://t.co/6iRToWVPSE",
+  "created_at": "Wed Nov 15 16:06:05 +0000 2017",
+  "place": {
+    "place_type": "city",
+    "full_name": "San Andr\u00e9s Cholula, Puebla",
+    "country": "M\u00e9xico",
+    "name": "San Andr\u00e9s Cholula",
+    "url": "https://api.twitter.com/1.1/geo/id/9de57b9239869b74.json",
+    "country_code": "MX",
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [[-98.363779, 18.980181], [-98.363779, 19.065807], [-98.253419, 19.065807], [-98.253419, 18.980181]]
+      ]
+    },
+    "id": "9de57b9239869b74",
+    "attributes": {}
+  },
+  "user": {
+    "profile_text_color": "333333",
+    "lang": "es",
+    "location": "San Pedro cholula ",
+    "friends_count": 733,
+    "profile_link_color": "0099CC",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/887812176785879046/YB_ILxuf_normal.jpg",
+    "contributors_enabled": false,
+    "following": null,
+    "is_translator": false,
+    "verified": false,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/74359348/1417072016",
+    "utc_offset": -21600,
+    "geo_enabled": true,
+    "profile_sidebar_border_color": "000000",
+    "created_at": "Tue Sep 15 03:57:55 +0000 2009",
+    "description": "Estudio Ciencias Pol\u00edticas labora DIF ESTATAL, me puedes encontrar en @freerailroad programa de radio y embajador de UBER EN Pue",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/887812176785879046/YB_ILxuf_normal.jpg",
+    "profile_background_color": "FFF04D",
+    "listed_count": 19,
+    "follow_request_sent": null,
+    "profile_background_tile": true,
+    "followers_count": 733,
+    "name": "Kike R\u2661mer\u2661 Brav\u2661",
+    "notifications": null,
+    "default_profile_image": false,
+    "url": "http://Instagram.com/kike_romero_bravo",
+    "favourites_count": 1573,
+    "screen_name": "KIKEromerobravo",
+    "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/735508627/8a06cce3afd5bc990aa31268cf9cb251.gif",
+    "profile_sidebar_fill_color": "F6FFD1",
+    "profile_use_background_image": true,
+    "translator_type": "none",
+    "time_zone": "Mexico City",
+    "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/735508627/8a06cce3afd5bc990aa31268cf9cb251.gif",
+    "statuses_count": 26516,
+    "id": 74359348,
+    "default_profile": false,
+    "protected": false,
+    "id_str": "74359348"
+  },
+  "in_reply_to_user_id_str": "69034805",
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "filter_level": "low",
+  "is_quote_status": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_user_id": 69034805,
+  "quote_count": 0,
+  "retweeted": false,
+  "in_reply_to_screen_name": "Tu_IMSS",
+  "retweet_count": 0,
+  "in_reply_to_status_id_str": null,
+  "coordinates": null,
+  "id": 930829264013885441,
+  "truncated": true,
+  "entities": {
+    "urls": [
+      {
+        "url": "https://t.co/6iRToWVPSE",
+        "display_url": "twitter.com/i/web/status/9\u2026",
+        "indices": [117, 140],
+        "expanded_url": "https://twitter.com/i/web/status/930829264013885441"
+      }
+    ],
+    "symbols": [],
+    "hashtags": [],
+    "user_mentions": [
+      {
+        "indices": [0, 8],
+        "name": "IMSS",
+        "id_str": "69034805",
+        "screen_name": "Tu_IMSS",
+        "id": 69034805
+      }
+    ]
+  },
+  "timestamp_ms": "1510761965169",
+  "id_str": "930829264013885441"
+}

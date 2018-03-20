@@ -1,1 +1,97 @@
-{"geo": null, "filter_level": "low", "in_reply_to_status_id": null, "lang": "es", "favorite_count": 0, "coordinates": null, "favorited": false, "place": {"name": "Chihuahua", "full_name": "Chihuahua, M\u00e9xico", "place_type": "city", "country": "Mexico", "id": "7efb0e99097064ea", "bounding_box": {"type": "Polygon", "coordinates": [[[-106.619964, 28.096608], [-106.619964, 29.787124], [-105.705833, 29.787124], [-105.705833, 28.096608]]]}, "attributes": {}, "url": "https://api.twitter.com/1.1/geo/id/7efb0e99097064ea.json", "country_code": "MX"}, "contributors": null, "entities": {"hashtags": [], "urls": [{"display_url": "open.spotify.com/track/4xnn45V7\u2026", "expanded_url": "https://open.spotify.com/track/4xnn45V7T4vfP3z1pmktjC?si=rkRc-a4zSAWLxTd1kDuiUQ", "url": "https://t.co/sLK79430sZ", "indices": [86, 109]}], "symbols": [], "user_mentions": []}, "id": 930668872088346624, "possibly_sensitive": false, "user": {"followers_count": 80, "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/344918034409585100/f29e1a1e49e89806795a2c1457c689c0.jpeg", "profile_background_color": "FFFFFF", "translator_type": "none", "profile_image_url": "http://pbs.twimg.com/profile_images/733751850034434048/hCa5q3cm_normal.jpg", "profile_banner_url": "https://pbs.twimg.com/profile_banners/135531868/1463774876", "default_profile": false, "utc_offset": -25200, "lang": "en", "url": "http://www.goodreads.com/ulisesdominguez", "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/344918034409585100/f29e1a1e49e89806795a2c1457c689c0.jpeg", "profile_image_url_https": "https://pbs.twimg.com/profile_images/733751850034434048/hCa5q3cm_normal.jpg", "time_zone": "Chihuahua", "profile_sidebar_border_color": "FFFFFF", "profile_use_background_image": true, "id": 135531868, "profile_link_color": "23BD07", "profile_sidebar_fill_color": "DDEEF6", "profile_background_tile": false, "geo_enabled": true, "id_str": "135531868", "verified": false, "name": "Ulises Dom\u00ednguez", "is_translator": false, "notifications": null, "following": null, "friends_count": 249, "contributors_enabled": false, "screen_name": "ulisesdominguez", "created_at": "Wed Apr 21 15:23:34 +0000 2010", "profile_text_color": "333333", "favourites_count": 648, "follow_request_sent": null, "description": "mel\u00f3mano de coraz\u00f3n, bibliotecario de profesi\u00f3n, m\u00fasico y compositor de rock and roll, escritor de ocasi\u00f3n \u00b7 instagram: pantera9000", "default_profile_image": false, "location": "Chihuahua M\u00e9xico", "listed_count": 5, "protected": false, "statuses_count": 1266}, "id_str": "930668872088346624", "retweet_count": 0, "retweeted": false, "quote_count": 0, "truncated": false, "in_reply_to_status_id_str": null, "reply_count": 0, "created_at": "Wed Nov 15 05:28:44 +0000 2017", "is_quote_status": false, "in_reply_to_user_id": null, "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>", "text": "Esta canci\u00f3n fue la que motiv\u00f3 grabar Le motif, que realmente debi llamarlo Leitmotiv https://t.co/sLK79430sZ", "timestamp_ms": "1510723724754", "in_reply_to_user_id_str": null, "in_reply_to_screen_name": null}
+{
+  "geo": null,
+  "filter_level": "low",
+  "in_reply_to_status_id": null,
+  "lang": "es",
+  "favorite_count": 0,
+  "coordinates": null,
+  "favorited": false,
+  "place": {
+    "name": "Chihuahua",
+    "full_name": "Chihuahua, M\u00e9xico",
+    "place_type": "city",
+    "country": "Mexico",
+    "id": "7efb0e99097064ea",
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [[-106.619964, 28.096608], [-106.619964, 29.787124], [-105.705833, 29.787124], [-105.705833, 28.096608]]
+      ]
+    },
+    "attributes": {},
+    "url": "https://api.twitter.com/1.1/geo/id/7efb0e99097064ea.json",
+    "country_code": "MX"
+  },
+  "contributors": null,
+  "entities": {
+    "hashtags": [],
+    "urls": [
+      {
+        "display_url": "open.spotify.com/track/4xnn45V7\u2026",
+        "expanded_url": "https://open.spotify.com/track/4xnn45V7T4vfP3z1pmktjC?si=rkRc-a4zSAWLxTd1kDuiUQ",
+        "url": "https://t.co/sLK79430sZ",
+        "indices": [86, 109]
+      }
+    ],
+    "symbols": [],
+    "user_mentions": []
+  },
+  "id": 930668872088346624,
+  "possibly_sensitive": false,
+  "user": {
+    "followers_count": 80,
+    "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/344918034409585100/f29e1a1e49e89806795a2c1457c689c0.jpeg",
+    "profile_background_color": "FFFFFF",
+    "translator_type": "none",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/733751850034434048/hCa5q3cm_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/135531868/1463774876",
+    "default_profile": false,
+    "utc_offset": -25200,
+    "lang": "en",
+    "url": "http://www.goodreads.com/ulisesdominguez",
+    "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/344918034409585100/f29e1a1e49e89806795a2c1457c689c0.jpeg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/733751850034434048/hCa5q3cm_normal.jpg",
+    "time_zone": "Chihuahua",
+    "profile_sidebar_border_color": "FFFFFF",
+    "profile_use_background_image": true,
+    "id": 135531868,
+    "profile_link_color": "23BD07",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_background_tile": false,
+    "geo_enabled": true,
+    "id_str": "135531868",
+    "verified": false,
+    "name": "Ulises Dom\u00ednguez",
+    "is_translator": false,
+    "notifications": null,
+    "following": null,
+    "friends_count": 249,
+    "contributors_enabled": false,
+    "screen_name": "ulisesdominguez",
+    "created_at": "Wed Apr 21 15:23:34 +0000 2010",
+    "profile_text_color": "333333",
+    "favourites_count": 648,
+    "follow_request_sent": null,
+    "description": "mel\u00f3mano de coraz\u00f3n, bibliotecario de profesi\u00f3n, m\u00fasico y compositor de rock and roll, escritor de ocasi\u00f3n \u00b7 instagram: pantera9000",
+    "default_profile_image": false,
+    "location": "Chihuahua M\u00e9xico",
+    "listed_count": 5,
+    "protected": false,
+    "statuses_count": 1266
+  },
+  "id_str": "930668872088346624",
+  "retweet_count": 0,
+  "retweeted": false,
+  "quote_count": 0,
+  "truncated": false,
+  "in_reply_to_status_id_str": null,
+  "reply_count": 0,
+  "created_at": "Wed Nov 15 05:28:44 +0000 2017",
+  "is_quote_status": false,
+  "in_reply_to_user_id": null,
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "text": "Esta canci\u00f3n fue la que motiv\u00f3 grabar Le motif, que realmente debi llamarlo Leitmotiv https://t.co/sLK79430sZ",
+  "timestamp_ms": "1510723724754",
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null
+}

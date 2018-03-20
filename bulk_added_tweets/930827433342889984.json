@@ -1,1 +1,163 @@
-{"favorited": false, "lang": "es", "display_text_range": [0, 108], "favorite_count": 0, "reply_count": 0, "geo": null, "contributors": null, "text": "Siembra paz, siembra sue\u00f1os, siembra un palito de mango donde puedas montar un culumpio de llantas. S\u00e9 feliz https://t.co/SSyPLuGsrZ", "created_at": "Wed Nov 15 15:58:48 +0000 2017", "place": {"place_type": "city", "full_name": "Santa Marta, Colombia", "country": "Colombia", "name": "Santa Marta", "url": "https://api.twitter.com/1.1/geo/id/00082d21223f8397.json", "country_code": "CO", "bounding_box": {"type": "Polygon", "coordinates": [[[-74.242298, 10.798249], [-74.242298, 11.348676], [-73.612345, 11.348676], [-73.612345, 10.798249]]]}, "id": "00082d21223f8397", "attributes": {}}, "user": {"profile_text_color": "000000", "lang": "es", "location": "Santa Marta, Colombia", "friends_count": 2454, "profile_link_color": "7FDBB6", "profile_image_url_https": "https://pbs.twimg.com/profile_images/879413469824647170/7CJCxK0S_normal.jpg", "contributors_enabled": false, "following": null, "is_translator": false, "verified": false, "profile_banner_url": "https://pbs.twimg.com/profile_banners/824983858923917313/1506868860", "utc_offset": -28800, "geo_enabled": true, "profile_sidebar_border_color": "000000", "created_at": "Fri Jan 27 14:14:14 +0000 2017", "description": "Escritor criollo, Samario\u2014Cienaguero\nAmante del guineo verde y sus derivados.\nDel suero y sus virtudes \nDel Caribe colombiano y su alegr\u00eda", "profile_image_url": "http://pbs.twimg.com/profile_images/879413469824647170/7CJCxK0S_normal.jpg", "profile_background_color": "000000", "listed_count": 5, "follow_request_sent": null, "profile_background_tile": false, "followers_count": 5495, "name": "Primo E`Costa", "notifications": null, "default_profile_image": false, "url": "https://www.facebook.com/Primo1993/?ref=settings", "favourites_count": 704, "screen_name": "PrimoECosta1", "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png", "profile_sidebar_fill_color": "000000", "profile_use_background_image": false, "translator_type": "none", "time_zone": "Pacific Time (US & Canada)", "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", "statuses_count": 1575, "id": 824983858923917313, "default_profile": false, "protected": false, "id_str": "824983858923917313"}, "in_reply_to_user_id_str": null, "extended_entities": {"media": [{"type": "photo", "media_url": "http://pbs.twimg.com/media/DOr2mwaX0AIijxN.jpg", "expanded_url": "https://twitter.com/PrimoECosta1/status/930827433342889984/photo/1", "id_str": "930827418696404994", "indices": [109, 132], "id": 930827418696404994, "url": "https://t.co/SSyPLuGsrZ", "display_url": "pic.twitter.com/SSyPLuGsrZ", "sizes": {"large": {"w": 1080, "resize": "fit", "h": 972}, "thumb": {"w": 150, "resize": "crop", "h": 150}, "medium": {"w": 1080, "resize": "fit", "h": 972}, "small": {"w": 680, "resize": "fit", "h": 612}}, "media_url_https": "https://pbs.twimg.com/media/DOr2mwaX0AIijxN.jpg"}]}, "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>", "filter_level": "low", "is_quote_status": false, "in_reply_to_status_id": null, "in_reply_to_user_id": null, "quote_count": 0, "retweeted": false, "possibly_sensitive": false, "in_reply_to_screen_name": null, "retweet_count": 0, "in_reply_to_status_id_str": null, "coordinates": null, "id": 930827433342889984, "truncated": false, "entities": {"urls": [], "media": [{"type": "photo", "media_url": "http://pbs.twimg.com/media/DOr2mwaX0AIijxN.jpg", "expanded_url": "https://twitter.com/PrimoECosta1/status/930827433342889984/photo/1", "id_str": "930827418696404994", "indices": [109, 132], "id": 930827418696404994, "url": "https://t.co/SSyPLuGsrZ", "display_url": "pic.twitter.com/SSyPLuGsrZ", "sizes": {"large": {"w": 1080, "resize": "fit", "h": 972}, "thumb": {"w": 150, "resize": "crop", "h": 150}, "medium": {"w": 1080, "resize": "fit", "h": 972}, "small": {"w": 680, "resize": "fit", "h": 612}}, "media_url_https": "https://pbs.twimg.com/media/DOr2mwaX0AIijxN.jpg"}], "symbols": [], "hashtags": [], "user_mentions": []}, "timestamp_ms": "1510761528703", "id_str": "930827433342889984"}
+{
+  "favorited": false,
+  "lang": "es",
+  "display_text_range": [0, 108],
+  "favorite_count": 0,
+  "reply_count": 0,
+  "geo": null,
+  "contributors": null,
+  "text": "Siembra paz, siembra sue\u00f1os, siembra un palito de mango donde puedas montar un culumpio de llantas. S\u00e9 feliz https://t.co/SSyPLuGsrZ",
+  "created_at": "Wed Nov 15 15:58:48 +0000 2017",
+  "place": {
+    "place_type": "city",
+    "full_name": "Santa Marta, Colombia",
+    "country": "Colombia",
+    "name": "Santa Marta",
+    "url": "https://api.twitter.com/1.1/geo/id/00082d21223f8397.json",
+    "country_code": "CO",
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [[-74.242298, 10.798249], [-74.242298, 11.348676], [-73.612345, 11.348676], [-73.612345, 10.798249]]
+      ]
+    },
+    "id": "00082d21223f8397",
+    "attributes": {}
+  },
+  "user": {
+    "profile_text_color": "000000",
+    "lang": "es",
+    "location": "Santa Marta, Colombia",
+    "friends_count": 2454,
+    "profile_link_color": "7FDBB6",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/879413469824647170/7CJCxK0S_normal.jpg",
+    "contributors_enabled": false,
+    "following": null,
+    "is_translator": false,
+    "verified": false,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/824983858923917313/1506868860",
+    "utc_offset": -28800,
+    "geo_enabled": true,
+    "profile_sidebar_border_color": "000000",
+    "created_at": "Fri Jan 27 14:14:14 +0000 2017",
+    "description": "Escritor criollo, Samario\u2014Cienaguero\nAmante del guineo verde y sus derivados.\nDel suero y sus virtudes \nDel Caribe colombiano y su alegr\u00eda",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/879413469824647170/7CJCxK0S_normal.jpg",
+    "profile_background_color": "000000",
+    "listed_count": 5,
+    "follow_request_sent": null,
+    "profile_background_tile": false,
+    "followers_count": 5495,
+    "name": "Primo E`Costa",
+    "notifications": null,
+    "default_profile_image": false,
+    "url": "https://www.facebook.com/Primo1993/?ref=settings",
+    "favourites_count": 704,
+    "screen_name": "PrimoECosta1",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_sidebar_fill_color": "000000",
+    "profile_use_background_image": false,
+    "translator_type": "none",
+    "time_zone": "Pacific Time (US & Canada)",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "statuses_count": 1575,
+    "id": 824983858923917313,
+    "default_profile": false,
+    "protected": false,
+    "id_str": "824983858923917313"
+  },
+  "in_reply_to_user_id_str": null,
+  "extended_entities": {
+    "media": [
+      {
+        "type": "photo",
+        "media_url": "http://pbs.twimg.com/media/DOr2mwaX0AIijxN.jpg",
+        "expanded_url": "https://twitter.com/PrimoECosta1/status/930827433342889984/photo/1",
+        "id_str": "930827418696404994",
+        "indices": [109, 132],
+        "id": 930827418696404994,
+        "url": "https://t.co/SSyPLuGsrZ",
+        "display_url": "pic.twitter.com/SSyPLuGsrZ",
+        "sizes": {
+          "large": {
+            "w": 1080,
+            "resize": "fit",
+            "h": 972
+          },
+          "thumb": {
+            "w": 150,
+            "resize": "crop",
+            "h": 150
+          },
+          "medium": {
+            "w": 1080,
+            "resize": "fit",
+            "h": 972
+          },
+          "small": {
+            "w": 680,
+            "resize": "fit",
+            "h": 612
+          }
+        },
+        "media_url_https": "https://pbs.twimg.com/media/DOr2mwaX0AIijxN.jpg"
+      }
+    ]
+  },
+  "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+  "filter_level": "low",
+  "is_quote_status": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_user_id": null,
+  "quote_count": 0,
+  "retweeted": false,
+  "possibly_sensitive": false,
+  "in_reply_to_screen_name": null,
+  "retweet_count": 0,
+  "in_reply_to_status_id_str": null,
+  "coordinates": null,
+  "id": 930827433342889984,
+  "truncated": false,
+  "entities": {
+    "urls": [],
+    "media": [
+      {
+        "type": "photo",
+        "media_url": "http://pbs.twimg.com/media/DOr2mwaX0AIijxN.jpg",
+        "expanded_url": "https://twitter.com/PrimoECosta1/status/930827433342889984/photo/1",
+        "id_str": "930827418696404994",
+        "indices": [109, 132],
+        "id": 930827418696404994,
+        "url": "https://t.co/SSyPLuGsrZ",
+        "display_url": "pic.twitter.com/SSyPLuGsrZ",
+        "sizes": {
+          "large": {
+            "w": 1080,
+            "resize": "fit",
+            "h": 972
+          },
+          "thumb": {
+            "w": 150,
+            "resize": "crop",
+            "h": 150
+          },
+          "medium": {
+            "w": 1080,
+            "resize": "fit",
+            "h": 972
+          },
+          "small": {
+            "w": 680,
+            "resize": "fit",
+            "h": 612
+          }
+        },
+        "media_url_https": "https://pbs.twimg.com/media/DOr2mwaX0AIijxN.jpg"
+      }
+    ],
+    "symbols": [],
+    "hashtags": [],
+    "user_mentions": []
+  },
+  "timestamp_ms": "1510761528703",
+  "id_str": "930827433342889984"
+}

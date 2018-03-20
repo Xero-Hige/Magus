@@ -1,1 +1,102 @@
-{"geo": null, "filter_level": "low", "in_reply_to_status_id": null, "lang": "es", "favorite_count": 0, "coordinates": null, "favorited": false, "place": {"name": "C\u00f3rdoba", "full_name": "C\u00f3rdoba, Veracruz de Ignacio de la Llave", "place_type": "city", "country": "M\u00e9xico", "id": "c2d5fb040f71e7c0", "bounding_box": {"type": "Polygon", "coordinates": [[[-97.001897, 18.837368], [-97.001897, 19.013211], [-96.872107, 19.013211], [-96.872107, 18.837368]]]}, "attributes": {}, "url": "https://api.twitter.com/1.1/geo/id/c2d5fb040f71e7c0.json", "country_code": "MX"}, "contributors": null, "entities": {"hashtags": [{"text": "cordobaver", "indices": [27, 38]}], "urls": [], "symbols": [], "user_mentions": [{"id": 40445356, "id_str": "40445356", "name": "Santiago Cruz", "indices": [9, 19], "screen_name": "SantiCruz"}]}, "id": 930585873254625280, "user": {"followers_count": 238, "profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif", "profile_background_color": "1A1B1F", "translator_type": "none", "profile_image_url": "http://pbs.twimg.com/profile_images/924826532845162497/TOcRjKes_normal.jpg", "profile_banner_url": "https://pbs.twimg.com/profile_banners/206372972/1349059736", "default_profile": false, "utc_offset": -21600, "lang": "es", "url": null, "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif", "profile_image_url_https": "https://pbs.twimg.com/profile_images/924826532845162497/TOcRjKes_normal.jpg", "time_zone": "Central Time (US & Canada)", "profile_sidebar_border_color": "181A1E", "profile_use_background_image": false, "id": 206372972, "profile_link_color": "2FC2EF", "profile_sidebar_fill_color": "252429", "profile_background_tile": false, "geo_enabled": true, "id_str": "206372972", "verified": false, "name": "Vigo", "is_translator": false, "notifications": null, "following": null, "friends_count": 637, "contributors_enabled": false, "screen_name": "victorglezmac", "created_at": "Fri Oct 22 20:48:16 +0000 2010", "profile_text_color": "666666", "favourites_count": 3279, "follow_request_sent": null, "description": "Padre, hijo y hermano. Emprendedor mexicano Contacto victorglezmac@gmail.com", "default_profile_image": false, "location": null, "listed_count": 5, "protected": false, "statuses_count": 8259}, "id_str": "930585873254625280", "retweet_count": 0, "retweeted": false, "quote_count": 0, "truncated": false, "in_reply_to_status_id_str": null, "reply_count": 0, "created_at": "Tue Nov 14 23:58:56 +0000 2017", "is_quote_status": false, "in_reply_to_user_id": null, "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>", "text": "Mira que @SantiCruz visite #cordobaver y que no haya ido... Se me vuelve a revolver la panza!", "timestamp_ms": "1510703936290", "in_reply_to_user_id_str": null, "in_reply_to_screen_name": null}
+{
+  "geo": null,
+  "filter_level": "low",
+  "in_reply_to_status_id": null,
+  "lang": "es",
+  "favorite_count": 0,
+  "coordinates": null,
+  "favorited": false,
+  "place": {
+    "name": "C\u00f3rdoba",
+    "full_name": "C\u00f3rdoba, Veracruz de Ignacio de la Llave",
+    "place_type": "city",
+    "country": "M\u00e9xico",
+    "id": "c2d5fb040f71e7c0",
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [[-97.001897, 18.837368], [-97.001897, 19.013211], [-96.872107, 19.013211], [-96.872107, 18.837368]]
+      ]
+    },
+    "attributes": {},
+    "url": "https://api.twitter.com/1.1/geo/id/c2d5fb040f71e7c0.json",
+    "country_code": "MX"
+  },
+  "contributors": null,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "cordobaver",
+        "indices": [27, 38]
+      }
+    ],
+    "urls": [],
+    "symbols": [],
+    "user_mentions": [
+      {
+        "id": 40445356,
+        "id_str": "40445356",
+        "name": "Santiago Cruz",
+        "indices": [9, 19],
+        "screen_name": "SantiCruz"
+      }
+    ]
+  },
+  "id": 930585873254625280,
+  "user": {
+    "followers_count": 238,
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+    "profile_background_color": "1A1B1F",
+    "translator_type": "none",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/924826532845162497/TOcRjKes_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/206372972/1349059736",
+    "default_profile": false,
+    "utc_offset": -21600,
+    "lang": "es",
+    "url": null,
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/924826532845162497/TOcRjKes_normal.jpg",
+    "time_zone": "Central Time (US & Canada)",
+    "profile_sidebar_border_color": "181A1E",
+    "profile_use_background_image": false,
+    "id": 206372972,
+    "profile_link_color": "2FC2EF",
+    "profile_sidebar_fill_color": "252429",
+    "profile_background_tile": false,
+    "geo_enabled": true,
+    "id_str": "206372972",
+    "verified": false,
+    "name": "Vigo",
+    "is_translator": false,
+    "notifications": null,
+    "following": null,
+    "friends_count": 637,
+    "contributors_enabled": false,
+    "screen_name": "victorglezmac",
+    "created_at": "Fri Oct 22 20:48:16 +0000 2010",
+    "profile_text_color": "666666",
+    "favourites_count": 3279,
+    "follow_request_sent": null,
+    "description": "Padre, hijo y hermano. Emprendedor mexicano Contacto victorglezmac@gmail.com",
+    "default_profile_image": false,
+    "location": null,
+    "listed_count": 5,
+    "protected": false,
+    "statuses_count": 8259
+  },
+  "id_str": "930585873254625280",
+  "retweet_count": 0,
+  "retweeted": false,
+  "quote_count": 0,
+  "truncated": false,
+  "in_reply_to_status_id_str": null,
+  "reply_count": 0,
+  "created_at": "Tue Nov 14 23:58:56 +0000 2017",
+  "is_quote_status": false,
+  "in_reply_to_user_id": null,
+  "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+  "text": "Mira que @SantiCruz visite #cordobaver y que no haya ido... Se me vuelve a revolver la panza!",
+  "timestamp_ms": "1510703936290",
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null
+}
