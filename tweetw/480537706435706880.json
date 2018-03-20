@@ -1,0 +1,104 @@
+{
+  "created_at": "Sun Jun 22 02:28:11 +0000 2014",
+  "id": 480537706435706880,
+  "id_str": "480537706435706880",
+  "text": "#MeCaeMal esa gente que quiere tener la razon SIEMPRE. Y las que quieren caerle bien a todo el mundo .",
+  "truncated": false,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "MeCaeMal",
+        "indices": [0, 9]
+      }
+    ],
+    "symbols": [],
+    "user_mentions": [],
+    "urls": []
+  },
+  "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 473654781,
+    "id_str": "473654781",
+    "name": "Fl\ud83c\udf38rencia",
+    "screen_name": "Florspuhr",
+    "location": "",
+    "description": "XIX \ud83c\udf88",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": []
+      }
+    },
+    "protected": false,
+    "followers_count": 1470,
+    "friends_count": 561,
+    "listed_count": 2,
+    "created_at": "Wed Jan 25 06:06:37 +0000 2012",
+    "favourites_count": 26051,
+    "utc_offset": -10800,
+    "time_zone": "Buenos Aires",
+    "geo_enabled": true,
+    "verified": false,
+    "statuses_count": 79480,
+    "lang": "es",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "is_translation_enabled": false,
+    "profile_background_color": "F254E0",
+    "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/629662874584150016/M4Tzs40F.jpg",
+    "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/629662874584150016/M4Tzs40F.jpg",
+    "profile_background_tile": true,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/970150145676513285/-SEZ41ii_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/970150145676513285/-SEZ41ii_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/473654781/1519662062",
+    "profile_link_color": "981CEB",
+    "profile_sidebar_border_color": "FFFFFF",
+    "profile_sidebar_fill_color": "E5507E",
+    "profile_text_color": "362720",
+    "profile_use_background_image": true,
+    "has_extended_profile": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false,
+    "translator_type": "none"
+  },
+  "geo": {
+    "type": "Point",
+    "coordinates": [-34.4148309, -58.8646575]
+  },
+  "coordinates": {
+    "type": "Point",
+    "coordinates": [-58.8646575, -34.4148309]
+  },
+  "place": {
+    "id": "0005a92a6b72edeb",
+    "url": "https://api.twitter.com/1.1/geo/id/0005a92a6b72edeb.json",
+    "place_type": "city",
+    "name": "Pilar",
+    "full_name": "Pilar, Argentina",
+    "country_code": "AR",
+    "country": "Argentina",
+    "contained_within": [],
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [[-58.977471, -34.518913], [-58.7373658, -34.518913], [-58.7373658, -34.383761], [-58.977471, -34.383761]]
+      ]
+    },
+    "attributes": {}
+  },
+  "contributors": null,
+  "is_quote_status": false,
+  "retweet_count": 6,
+  "favorite_count": 4,
+  "favorited": false,
+  "retweeted": false,
+  "lang": "es"
+}

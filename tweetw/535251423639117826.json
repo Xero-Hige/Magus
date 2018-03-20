@@ -1,0 +1,114 @@
+{
+  "created_at": "Thu Nov 20 02:00:58 +0000 2014",
+  "id": 535251423639117826,
+  "id_str": "535251423639117826",
+  "text": "Empiezan a suceder cosas raras, cosas sorprendentes, cosas buenas, cosas bonitas.... #Increible",
+  "truncated": false,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "Increible",
+        "indices": [85, 95]
+      }
+    ],
+    "symbols": [],
+    "user_mentions": [],
+    "urls": []
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 63862179,
+    "id_str": "63862179",
+    "name": "Enid Escamilla",
+    "screen_name": "Maniwis",
+    "location": "M\u00e9xico",
+    "description": "Mexicana CDMX | 28 a\u00f1os | Dise\u00f1adora | Amante de los detalles | Viviendo al m\u00e1ximo |",
+    "url": "https://t.co/tPgOijNklG",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "https://t.co/tPgOijNklG",
+            "expanded_url": "https://www.instagram.com/eniidessa",
+            "display_url": "instagram.com/eniidessa",
+            "indices": [0, 23]
+          }
+        ]
+      },
+      "description": {
+        "urls": []
+      }
+    },
+    "protected": false,
+    "followers_count": 416,
+    "friends_count": 64,
+    "listed_count": 27,
+    "created_at": "Sat Aug 08 00:19:04 +0000 2009",
+    "favourites_count": 1697,
+    "utc_offset": -21600,
+    "time_zone": "Mexico City",
+    "geo_enabled": true,
+    "verified": false,
+    "statuses_count": 26324,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "is_translation_enabled": false,
+    "profile_background_color": "C0DEED",
+    "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/553420587981209600/FRHt4ET5.jpeg",
+    "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/553420587981209600/FRHt4ET5.jpeg",
+    "profile_background_tile": true,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/968678376562135040/tO8R5l6v_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/968678376562135040/tO8R5l6v_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/63862179/1496070873",
+    "profile_link_color": "0084B4",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "has_extended_profile": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false,
+    "translator_type": "none"
+  },
+  "geo": {
+    "type": "Point",
+    "coordinates": [19.37488066, -99.17618282]
+  },
+  "coordinates": {
+    "type": "Point",
+    "coordinates": [-99.17618282, 19.37488066]
+  },
+  "place": {
+    "id": "7d93122509633720",
+    "url": "https://api.twitter.com/1.1/geo/id/7d93122509633720.json",
+    "place_type": "city",
+    "name": "Benito Ju\u00e1rez",
+    "full_name": "Benito Ju\u00e1rez, Distrito Federal",
+    "country_code": "MX",
+    "country": "M\u00e9xico",
+    "contained_within": [],
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [[-99.1919955, 19.357102], [-99.1309649, 19.357102], [-99.1309649, 19.4041235], [-99.1919955, 19.4041235]]
+      ]
+    },
+    "attributes": {}
+  },
+  "contributors": null,
+  "is_quote_status": false,
+  "retweet_count": 0,
+  "favorite_count": 0,
+  "favorited": false,
+  "retweeted": false,
+  "lang": "es"
+}

@@ -1,0 +1,114 @@
+{
+  "created_at": "Sun May 11 09:03:28 +0000 2014",
+  "id": 465416891050500096,
+  "id_str": "465416891050500096",
+  "text": "Que mejor que terminar la noche durmiendo con lluvia? M\u00e1s no puedo pedir #Feliz",
+  "truncated": false,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "Feliz",
+        "indices": [73, 79]
+      }
+    ],
+    "symbols": [],
+    "user_mentions": [],
+    "urls": []
+  },
+  "source": "<a href=\"https://twitter.com/download/android\" rel=\"nofollow\">Twitter for  Android</a>",
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 601138687,
+    "id_str": "601138687",
+    "name": "Ailu\u2661",
+    "screen_name": "Ailenlagares1",
+    "location": "Salto Argentina.",
+    "description": "Conserva lo que tienes,lucha por lo que quieres y valora lo que posees| Amante del biznikke",
+    "url": "https://t.co/ZTmlct2IOO",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "https://t.co/ZTmlct2IOO",
+            "expanded_url": "http://www.facebook.com/ailen.lagares?ref=tn_tnmn",
+            "display_url": "facebook.com/ailen.lagares?\u2026",
+            "indices": [0, 23]
+          }
+        ]
+      },
+      "description": {
+        "urls": []
+      }
+    },
+    "protected": false,
+    "followers_count": 199,
+    "friends_count": 143,
+    "listed_count": 0,
+    "created_at": "Wed Jun 06 17:19:57 +0000 2012",
+    "favourites_count": 685,
+    "utc_offset": -10800,
+    "time_zone": "Brasilia",
+    "geo_enabled": true,
+    "verified": false,
+    "statuses_count": 2738,
+    "lang": "es",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "is_translation_enabled": false,
+    "profile_background_color": "3B94D9",
+    "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/483713407397265408/lC1BsWYQ.jpeg",
+    "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/483713407397265408/lC1BsWYQ.jpeg",
+    "profile_background_tile": true,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/810003699972132864/Dfg7-8wu_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/810003699972132864/Dfg7-8wu_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/601138687/1479749144",
+    "profile_link_color": "DD2E44",
+    "profile_sidebar_border_color": "FFFFFF",
+    "profile_sidebar_fill_color": "7AC3EE",
+    "profile_text_color": "3D1957",
+    "profile_use_background_image": false,
+    "has_extended_profile": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false,
+    "translator_type": "none"
+  },
+  "geo": {
+    "type": "Point",
+    "coordinates": [-34.2933444, -60.2517759]
+  },
+  "coordinates": {
+    "type": "Point",
+    "coordinates": [-60.2517759, -34.2933444]
+  },
+  "place": {
+    "id": "4afa2757051c5192",
+    "url": "https://api.twitter.com/1.1/geo/id/4afa2757051c5192.json",
+    "place_type": "admin",
+    "name": "Buenos Aires",
+    "full_name": "Buenos Aires, Argentina",
+    "country_code": "AR",
+    "country": "Argentina",
+    "contained_within": [],
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [[-63.39386, -41.035009], [-56.665836, -41.035009], [-56.665836, -33.260144], [-63.39386, -33.260144]]
+      ]
+    },
+    "attributes": {}
+  },
+  "contributors": null,
+  "is_quote_status": false,
+  "retweet_count": 0,
+  "favorite_count": 0,
+  "favorited": false,
+  "retweeted": false,
+  "lang": "es"
+}

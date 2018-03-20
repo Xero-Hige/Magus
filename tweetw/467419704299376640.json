@@ -1,0 +1,122 @@
+{
+  "created_at": "Fri May 16 21:41:56 +0000 2014",
+  "id": 467419704299376640,
+  "id_str": "467419704299376640",
+  "text": "@MiguelFernandi VERG\u00dcENZA es poco amigo, el pa\u00eds de la cultura dicen... JA! Si no dejan... #Asco",
+  "truncated": false,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "Asco",
+        "indices": [91, 96]
+      }
+    ],
+    "symbols": [],
+    "user_mentions": [
+      {
+        "screen_name": "MiguelFernandi",
+        "name": "M\u00edguel Fernandi",
+        "id": 148353925,
+        "id_str": "148353925",
+        "indices": [0, 15]
+      }
+    ],
+    "urls": []
+  },
+  "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+  "in_reply_to_status_id": 467417199159042049,
+  "in_reply_to_status_id_str": "467417199159042049",
+  "in_reply_to_user_id": 148353925,
+  "in_reply_to_user_id_str": "148353925",
+  "in_reply_to_screen_name": "MiguelFernandi",
+  "user": {
+    "id": 83359741,
+    "id_str": "83359741",
+    "name": "Jose A. Ruiz",
+    "screen_name": "josearuizp",
+    "location": "Gij\u00f3n / Barcelona",
+    "description": "Redactor y Promote de @DMetalheadRadio.\nDreamTheateriano confeso. \nAmante del Heavy Metal.\nJuego a FIFA como si no hubiese ma\u00f1ana.",
+    "url": "https://t.co/N6gLPRbICO",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "https://t.co/N6gLPRbICO",
+            "expanded_url": "http://www.larryrunner.com",
+            "display_url": "larryrunner.com",
+            "indices": [0, 23]
+          }
+        ]
+      },
+      "description": {
+        "urls": []
+      }
+    },
+    "protected": false,
+    "followers_count": 306,
+    "friends_count": 336,
+    "listed_count": 13,
+    "created_at": "Sun Oct 18 13:03:56 +0000 2009",
+    "favourites_count": 2381,
+    "utc_offset": 3600,
+    "time_zone": "Madrid",
+    "geo_enabled": true,
+    "verified": false,
+    "statuses_count": 11158,
+    "lang": "es",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "is_translation_enabled": false,
+    "profile_background_color": "000000",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+    "profile_background_tile": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/597144057010397188/6vOm0inC_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/597144057010397188/6vOm0inC_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/83359741/1397905964",
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_border_color": "000000",
+    "profile_sidebar_fill_color": "000000",
+    "profile_text_color": "000000",
+    "profile_use_background_image": false,
+    "has_extended_profile": false,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false,
+    "translator_type": "none"
+  },
+  "geo": {
+    "type": "Point",
+    "coordinates": [41.4096056, 2.1861466]
+  },
+  "coordinates": {
+    "type": "Point",
+    "coordinates": [2.1861466, 41.4096056]
+  },
+  "place": {
+    "id": "74c8e195422281dd",
+    "url": "https://api.twitter.com/1.1/geo/id/74c8e195422281dd.json",
+    "place_type": "city",
+    "name": "Barcelona",
+    "full_name": "Barcelona, Espa\u00f1a",
+    "country_code": "ES",
+    "country": "Espa\u00f1a",
+    "contained_within": [],
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [[2.0524766, 41.3170475], [2.2299781, 41.3170475], [2.2299781, 41.4682658], [2.0524766, 41.4682658]]
+      ]
+    },
+    "attributes": {}
+  },
+  "contributors": null,
+  "is_quote_status": false,
+  "retweet_count": 0,
+  "favorite_count": 0,
+  "favorited": false,
+  "retweeted": false,
+  "lang": "es"
+}

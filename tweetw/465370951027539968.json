@@ -1,0 +1,115 @@
+{
+  "created_at": "Sun May 11 06:00:55 +0000 2014",
+  "id": 465370951027539968,
+  "id_str": "465370951027539968",
+  "text": "\u201c@Peruchapromedio: Regia Gisela, ya quisiera llegar a su edad asi de bien\u201d#ira\u00f1quirofano",
+  "truncated": false,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "ira\u00f1quirofano",
+        "indices": [74, 88]
+      }
+    ],
+    "symbols": [],
+    "user_mentions": [
+      {
+        "screen_name": "Peruchapromedio",
+        "name": "Carla Medina",
+        "id": 41751032,
+        "id_str": "41751032",
+        "indices": [1, 17]
+      }
+    ],
+    "urls": []
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "in_reply_to_status_id": 465334703227416576,
+  "in_reply_to_status_id_str": "465334703227416576",
+  "in_reply_to_user_id": 41751032,
+  "in_reply_to_user_id_str": "41751032",
+  "in_reply_to_screen_name": "Peruchapromedio",
+  "user": {
+    "id": 68535234,
+    "id_str": "68535234",
+    "name": "Hernando de la Vega",
+    "screen_name": "hmdelavega",
+    "location": "Miraflores, Peru",
+    "description": "Experto en seguridad integral con m\u00e1s de 20 a\u00f1os en el rubro.                         La vita e quella cosa che inizia dopo il caffe",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": []
+      }
+    },
+    "protected": false,
+    "followers_count": 556,
+    "friends_count": 1155,
+    "listed_count": 2,
+    "created_at": "Mon Aug 24 22:56:13 +0000 2009",
+    "favourites_count": 135,
+    "utc_offset": -18000,
+    "time_zone": "Lima",
+    "geo_enabled": true,
+    "verified": false,
+    "statuses_count": 7652,
+    "lang": "es",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "is_translation_enabled": false,
+    "profile_background_color": "0099B9",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+    "profile_background_tile": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/863786551939125248/pGMblU07_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/863786551939125248/pGMblU07_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/68535234/1444305125",
+    "profile_link_color": "0099B9",
+    "profile_sidebar_border_color": "5ED4DC",
+    "profile_sidebar_fill_color": "95E8EC",
+    "profile_text_color": "3C3940",
+    "profile_use_background_image": true,
+    "has_extended_profile": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false,
+    "translator_type": "none"
+  },
+  "geo": {
+    "type": "Point",
+    "coordinates": [-12.10614926, -77.03123628]
+  },
+  "coordinates": {
+    "type": "Point",
+    "coordinates": [-77.03123628, -12.10614926]
+  },
+  "place": {
+    "id": "2dfa9ecb0179a4e4",
+    "url": "https://api.twitter.com/1.1/geo/id/2dfa9ecb0179a4e4.json",
+    "place_type": "country",
+    "name": "Peru",
+    "full_name": "Peru",
+    "country_code": "PE",
+    "country": "Peru",
+    "contained_within": [],
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [-81.3281479193672, -18.3497280290367], [-68.6730880806328, -18.3497280290367],
+          [-68.6730880806328, -0.0388399739132714], [-81.3281479193672, -0.0388399739132714]
+        ]
+      ]
+    },
+    "attributes": {}
+  },
+  "contributors": null,
+  "is_quote_status": false,
+  "retweet_count": 0,
+  "favorite_count": 0,
+  "favorited": false,
+  "retweeted": false,
+  "lang": "es"
+}

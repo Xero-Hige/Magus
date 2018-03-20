@@ -1,0 +1,112 @@
+{
+  "created_at": "Fri Oct 03 18:51:25 +0000 2014",
+  "id": 518111092867092481,
+  "id_str": "518111092867092481",
+  "text": "@wqueijeiro En Lan\u00fas tambien estaba el hombre gato !!! Y yo lloraba y me escondia . Y si veia un arbol pasaba corriendo !!! Jajaja. #Miedo",
+  "truncated": false,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "Miedo",
+        "indices": [132, 138]
+      }
+    ],
+    "symbols": [],
+    "user_mentions": [
+      {
+        "screen_name": "wqueijeiro",
+        "name": "Walter Queijeiro",
+        "id": 37093819,
+        "id_str": "37093819",
+        "indices": [0, 11]
+      }
+    ],
+    "urls": []
+  },
+  "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+  "in_reply_to_status_id": 518109446896357376,
+  "in_reply_to_status_id_str": "518109446896357376",
+  "in_reply_to_user_id": 37093819,
+  "in_reply_to_user_id_str": "37093819",
+  "in_reply_to_screen_name": "wqueijeiro",
+  "user": {
+    "id": 444277399,
+    "id_str": "444277399",
+    "name": "D\u00e9bora",
+    "screen_name": "DeboraV80",
+    "location": "Lan\u00fas",
+    "description": "",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": []
+      }
+    },
+    "protected": false,
+    "followers_count": 111,
+    "friends_count": 666,
+    "listed_count": 0,
+    "created_at": "Fri Dec 23 03:00:42 +0000 2011",
+    "favourites_count": 1848,
+    "utc_offset": -10800,
+    "time_zone": "Buenos Aires",
+    "geo_enabled": true,
+    "verified": false,
+    "statuses_count": 2557,
+    "lang": "es",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "is_translation_enabled": false,
+    "profile_background_color": "EDECE9",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme3/bg.gif",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme3/bg.gif",
+    "profile_background_tile": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/968544953906417664/RaztWJ7i_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/968544953906417664/RaztWJ7i_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/444277399/1457451644",
+    "profile_link_color": "088253",
+    "profile_sidebar_border_color": "D3D2CF",
+    "profile_sidebar_fill_color": "E3E2DE",
+    "profile_text_color": "634047",
+    "profile_use_background_image": true,
+    "has_extended_profile": false,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false,
+    "translator_type": "none"
+  },
+  "geo": {
+    "type": "Point",
+    "coordinates": [-34.7723126, -58.4373488]
+  },
+  "coordinates": {
+    "type": "Point",
+    "coordinates": [-58.4373488, -34.7723126]
+  },
+  "place": {
+    "id": "000ceddc32916a4c",
+    "url": "https://api.twitter.com/1.1/geo/id/000ceddc32916a4c.json",
+    "place_type": "city",
+    "name": "Lomas de Zamora",
+    "full_name": "Lomas de Zamora, Argentina",
+    "country_code": "AR",
+    "country": "Argentina",
+    "contained_within": [],
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [[-58.500948, -34.817177], [-58.336764, -34.817177], [-58.336764, -34.688414], [-58.500948, -34.688414]]
+      ]
+    },
+    "attributes": {}
+  },
+  "contributors": null,
+  "is_quote_status": false,
+  "retweet_count": 0,
+  "favorite_count": 0,
+  "favorited": false,
+  "retweeted": false,
+  "lang": "es"
+}

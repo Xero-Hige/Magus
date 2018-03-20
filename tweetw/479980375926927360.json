@@ -1,0 +1,103 @@
+{
+  "created_at": "Fri Jun 20 13:33:33 +0000 2014",
+  "id": 479980375926927360,
+  "id_str": "479980375926927360",
+  "text": "Hace una perfecta tarde de piscina, pero a mi me va mas eso de encerrarme en la biblioteca a estudiar #fuck",
+  "truncated": false,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "fuck",
+        "indices": [102, 107]
+      }
+    ],
+    "symbols": [],
+    "user_mentions": [],
+    "urls": []
+  },
+  "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 243198819,
+    "id_str": "243198819",
+    "name": "Silvia Calvo",
+    "screen_name": "SilviaCorella",
+    "location": "Corella",
+    "description": "Enfermera \ud83d\udc89\ud83d\udc89",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": []
+      }
+    },
+    "protected": false,
+    "followers_count": 365,
+    "friends_count": 448,
+    "listed_count": 2,
+    "created_at": "Wed Jan 26 14:40:49 +0000 2011",
+    "favourites_count": 3439,
+    "utc_offset": 0,
+    "time_zone": "Lisbon",
+    "geo_enabled": true,
+    "verified": false,
+    "statuses_count": 13313,
+    "lang": "es",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "is_translation_enabled": false,
+    "profile_background_color": "E64CDC",
+    "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000115254222/25d4d8552e1e0caad70f7bd9afcaf0ae.jpeg",
+    "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000115254222/25d4d8552e1e0caad70f7bd9afcaf0ae.jpeg",
+    "profile_background_tile": true,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/790151818470916097/CPMMU9X9_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/790151818470916097/CPMMU9X9_normal.jpg",
+    "profile_link_color": "E33BC1",
+    "profile_sidebar_border_color": "000000",
+    "profile_sidebar_fill_color": "E055C0",
+    "profile_text_color": "000000",
+    "profile_use_background_image": true,
+    "has_extended_profile": false,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false,
+    "translator_type": "none"
+  },
+  "geo": {
+    "type": "Point",
+    "coordinates": [42.1169382, -1.787189]
+  },
+  "coordinates": {
+    "type": "Point",
+    "coordinates": [-1.787189, 42.1169382]
+  },
+  "place": {
+    "id": "4aabb480e3d3e311",
+    "url": "https://api.twitter.com/1.1/geo/id/4aabb480e3d3e311.json",
+    "place_type": "city",
+    "name": "Corella",
+    "full_name": "Corella, Espa\u00f1a",
+    "country_code": "ES",
+    "country": "Espa\u00f1a",
+    "contained_within": [],
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [[-1.8976698, 42.0724992], [-1.6986375, 42.0724992], [-1.6986375, 42.1538913], [-1.8976698, 42.1538913]]
+      ]
+    },
+    "attributes": {}
+  },
+  "contributors": null,
+  "is_quote_status": false,
+  "retweet_count": 0,
+  "favorite_count": 0,
+  "favorited": false,
+  "retweeted": false,
+  "lang": "es"
+}

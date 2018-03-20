@@ -1,0 +1,113 @@
+{
+  "created_at": "Thu May 08 22:13:46 +0000 2014",
+  "id": 464528614932107265,
+  "id_str": "464528614932107265",
+  "text": "Espero que la improvisada exposici\u00f3n de grupo no salga tan mal #porfavor #miedo #ayura",
+  "truncated": false,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "porfavor",
+        "indices": [63, 72]
+      }, {
+        "text": "miedo",
+        "indices": [73, 79]
+      }, {
+        "text": "ayura",
+        "indices": [80, 86]
+      }
+    ],
+    "symbols": [],
+    "user_mentions": [],
+    "urls": []
+  },
+  "source": "<a href=\"http://blackberry.com/twitter\" rel=\"nofollow\">Twitter for BlackBerry\u00ae</a>",
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 370407351,
+    "id_str": "370407351",
+    "name": "Reina Casas Aguilar",
+    "screen_name": "reinavc",
+    "location": "Lima - Per\u00fa ",
+    "description": "Estudiante de comunicaciones en la USMP, cantante, actriz e int\u00e9rprete. Conversadora y extrovertida.",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": []
+      }
+    },
+    "protected": false,
+    "followers_count": 125,
+    "friends_count": 156,
+    "listed_count": 1,
+    "created_at": "Thu Sep 08 23:57:04 +0000 2011",
+    "favourites_count": 58,
+    "utc_offset": -18000,
+    "time_zone": "Quito",
+    "geo_enabled": true,
+    "verified": false,
+    "statuses_count": 578,
+    "lang": "es",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "is_translation_enabled": false,
+    "profile_background_color": "0099B9",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+    "profile_background_tile": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/863894297959165952/q-ZNMA8C_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/863894297959165952/q-ZNMA8C_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/370407351/1400610732",
+    "profile_link_color": "F2309E",
+    "profile_sidebar_border_color": "5ED4DC",
+    "profile_sidebar_fill_color": "95E8EC",
+    "profile_text_color": "3C3940",
+    "profile_use_background_image": true,
+    "has_extended_profile": false,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false,
+    "translator_type": "none"
+  },
+  "geo": {
+    "type": "Point",
+    "coordinates": [-12.16131, -76.97479]
+  },
+  "coordinates": {
+    "type": "Point",
+    "coordinates": [-76.97479, -12.16131]
+  },
+  "place": {
+    "id": "2dfa9ecb0179a4e4",
+    "url": "https://api.twitter.com/1.1/geo/id/2dfa9ecb0179a4e4.json",
+    "place_type": "country",
+    "name": "Peru",
+    "full_name": "Peru",
+    "country_code": "PE",
+    "country": "Peru",
+    "contained_within": [],
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [-81.3281479193672, -18.3497280290367], [-68.6730880806328, -18.3497280290367],
+          [-68.6730880806328, -0.0388399739132714], [-81.3281479193672, -0.0388399739132714]
+        ]
+      ]
+    },
+    "attributes": {}
+  },
+  "contributors": null,
+  "is_quote_status": false,
+  "retweet_count": 0,
+  "favorite_count": 0,
+  "favorited": false,
+  "retweeted": false,
+  "lang": "es"
+}

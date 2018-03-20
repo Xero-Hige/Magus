@@ -1,0 +1,107 @@
+{
+  "created_at": "Sat Jun 21 10:54:48 +0000 2014",
+  "id": 480302813419806720,
+  "id_str": "480302813419806720",
+  "text": "Fuck ayer me olvid\u00e9 de fragileesss lo voy a tener q ver en la p\u00e1gina #fuckingferiado #mepierdoo",
+  "truncated": false,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "fuckingferiado",
+        "indices": [69, 84]
+      }, {
+        "text": "mepierdoo",
+        "indices": [85, 95]
+      }
+    ],
+    "symbols": [],
+    "user_mentions": [],
+    "urls": []
+  },
+  "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 2356694006,
+    "id_str": "2356694006",
+    "name": "Ana Curletto",
+    "screen_name": "AnaGCurletto",
+    "location": "Santa Fe, Argentina",
+    "description": "",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": []
+      }
+    },
+    "protected": false,
+    "followers_count": 271,
+    "friends_count": 255,
+    "listed_count": 0,
+    "created_at": "Sat Feb 22 17:51:05 +0000 2014",
+    "favourites_count": 2722,
+    "utc_offset": -25200,
+    "time_zone": "Pacific Time (US & Canada)",
+    "geo_enabled": true,
+    "verified": false,
+    "statuses_count": 5005,
+    "lang": "es",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "is_translation_enabled": false,
+    "profile_background_color": "000000",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/558388874490445825/s_k5GQjz_normal.jpeg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/558388874490445825/s_k5GQjz_normal.jpeg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/2356694006/1393096468",
+    "profile_link_color": "9266CC",
+    "profile_sidebar_border_color": "000000",
+    "profile_sidebar_fill_color": "000000",
+    "profile_text_color": "000000",
+    "profile_use_background_image": false,
+    "has_extended_profile": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false,
+    "translator_type": "regular"
+  },
+  "geo": {
+    "type": "Point",
+    "coordinates": [-30.5800526, -59.9279514]
+  },
+  "coordinates": {
+    "type": "Point",
+    "coordinates": [-59.9279514, -30.5800526]
+  },
+  "place": {
+    "id": "0a738ff13a08a7dd",
+    "url": "https://api.twitter.com/1.1/geo/id/0a738ff13a08a7dd.json",
+    "place_type": "admin",
+    "name": "Santa Fe",
+    "full_name": "Santa Fe, Argentina",
+    "country_code": "AR",
+    "country": "Argentina",
+    "contained_within": [],
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [[-62.889222, -34.3842965], [-58.870821, -34.3842965], [-58.870821, -27.993928], [-62.889222, -27.993928]]
+      ]
+    },
+    "attributes": {}
+  },
+  "contributors": null,
+  "is_quote_status": false,
+  "retweet_count": 0,
+  "favorite_count": 0,
+  "favorited": false,
+  "retweeted": false,
+  "lang": "es"
+}

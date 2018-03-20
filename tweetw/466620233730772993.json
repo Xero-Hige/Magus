@@ -1,0 +1,104 @@
+{
+  "created_at": "Wed May 14 16:45:07 +0000 2014",
+  "id": 466620233730772993,
+  "id_str": "466620233730772993",
+  "text": "Las estrellas son muy bonitas hasta el momento en el que te tienes que aprender todas sus malditas etapas. #asco",
+  "truncated": false,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "asco",
+        "indices": [107, 112]
+      }
+    ],
+    "symbols": [],
+    "user_mentions": [],
+    "urls": []
+  },
+  "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 522341753,
+    "id_str": "522341753",
+    "name": "DESIR\u00c9E.",
+    "screen_name": "desisi20",
+    "location": "Navalmanzano.",
+    "description": "Luchando mil batallas por dentro, con mil sonrisas por fuera.                                                                   20\ud83d\udc8e",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": []
+      }
+    },
+    "protected": false,
+    "followers_count": 406,
+    "friends_count": 379,
+    "listed_count": 2,
+    "created_at": "Mon Mar 12 15:29:38 +0000 2012",
+    "favourites_count": 394,
+    "utc_offset": 3600,
+    "time_zone": "Amsterdam",
+    "geo_enabled": true,
+    "verified": false,
+    "statuses_count": 9412,
+    "lang": "es",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "is_translation_enabled": false,
+    "profile_background_color": "131516",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+    "profile_background_tile": true,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/499178592816095232/_-dlfmRr_normal.jpeg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/499178592816095232/_-dlfmRr_normal.jpeg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/522341753/1410825517",
+    "profile_link_color": "009999",
+    "profile_sidebar_border_color": "EEEEEE",
+    "profile_sidebar_fill_color": "EFEFEF",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "has_extended_profile": false,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false,
+    "translator_type": "none"
+  },
+  "geo": {
+    "type": "Point",
+    "coordinates": [41.2152755, -4.2579951]
+  },
+  "coordinates": {
+    "type": "Point",
+    "coordinates": [-4.2579951, 41.2152755]
+  },
+  "place": {
+    "id": "9235ea3c8d25b5dc",
+    "url": "https://api.twitter.com/1.1/geo/id/9235ea3c8d25b5dc.json",
+    "place_type": "city",
+    "name": "Navalmanzano",
+    "full_name": "Navalmanzano, Espa\u00f1a",
+    "country_code": "ES",
+    "country": "Espa\u00f1a",
+    "contained_within": [],
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [[-4.3080902, 41.1811492], [-4.217589, 41.1811492], [-4.217589, 41.2557744], [-4.3080902, 41.2557744]]
+      ]
+    },
+    "attributes": {}
+  },
+  "contributors": null,
+  "is_quote_status": false,
+  "retweet_count": 2,
+  "favorite_count": 1,
+  "favorited": false,
+  "retweeted": false,
+  "lang": "es"
+}

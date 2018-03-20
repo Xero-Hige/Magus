@@ -1,0 +1,129 @@
+{
+  "created_at": "Mon May 19 11:32:19 +0000 2014",
+  "id": 468353451207188480,
+  "id_str": "468353451207188480",
+  "text": "@ElPerroDeToni @Orcasmo seguro q est\u00e1 en ello, estudiando clonaci\u00f3n avanzada para poder ser omnipresente! #miedo",
+  "truncated": false,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "miedo",
+        "indices": [106, 112]
+      }
+    ],
+    "symbols": [],
+    "user_mentions": [
+      {
+        "screen_name": "Orcasmo",
+        "name": "\u0412\u0430\u0440\u0447\u0435\u043d\u043a\u043e \u0421\u0432\u0435\u0442\u043b\u0430\u043d\u0430",
+        "id": 2834100375,
+        "id_str": "2834100375",
+        "indices": [15, 23]
+      }
+    ],
+    "urls": []
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 431705595,
+    "id_str": "431705595",
+    "name": "carlusii",
+    "screen_name": "carlusii",
+    "location": "Alicante ",
+    "description": "https://t.co/BcPdpPWwIm IG: carlusii",
+    "url": "https://t.co/WltfQ26nBa",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "https://t.co/WltfQ26nBa",
+            "expanded_url": "http://actionistrespoke.tumblr.com/",
+            "display_url": "actionistrespoke.tumblr.com",
+            "indices": [0, 23]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+          {
+            "url": "https://t.co/BcPdpPWwIm",
+            "expanded_url": "http://cargocollective.com/carlossanz",
+            "display_url": "cargocollective.com/carlossanz",
+            "indices": [0, 23]
+          }
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 432,
+    "friends_count": 334,
+    "listed_count": 4,
+    "created_at": "Thu Dec 08 16:03:29 +0000 2011",
+    "favourites_count": 6428,
+    "utc_offset": 3600,
+    "time_zone": "Madrid",
+    "geo_enabled": true,
+    "verified": false,
+    "statuses_count": 35337,
+    "lang": "es",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "is_translation_enabled": false,
+    "profile_background_color": "C0DEED",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/891250422224232448/EUThiYWU_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/891250422224232448/EUThiYWU_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/431705595/1348177959",
+    "profile_link_color": "1DA1F2",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "has_extended_profile": true,
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false,
+    "translator_type": "none"
+  },
+  "geo": {
+    "type": "Point",
+    "coordinates": [40.2998887, -3.47312163]
+  },
+  "coordinates": {
+    "type": "Point",
+    "coordinates": [-3.47312163, 40.2998887]
+  },
+  "place": {
+    "id": "fdfe71d3b7d78b56",
+    "url": "https://api.twitter.com/1.1/geo/id/fdfe71d3b7d78b56.json",
+    "place_type": "city",
+    "name": "Arganda del Rey",
+    "full_name": "Arganda del Rey, Espa\u00f1a",
+    "country_code": "ES",
+    "country": "Espa\u00f1a",
+    "contained_within": [],
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [[-3.5198442, 40.2481072], [-3.3697418, 40.2481072], [-3.3697418, 40.3521978], [-3.5198442, 40.3521978]]
+      ]
+    },
+    "attributes": {}
+  },
+  "contributors": null,
+  "is_quote_status": false,
+  "retweet_count": 0,
+  "favorite_count": 0,
+  "favorited": false,
+  "retweeted": false,
+  "lang": "es"
+}

@@ -1,0 +1,121 @@
+{
+  "created_at": "Sun Jun 22 17:50:24 +0000 2014",
+  "id": 480769789854363650,
+  "id_str": "480769789854363650",
+  "text": "#NadaMasFeoQue tener antojo de alguna comida deliciosa y no tener dinero",
+  "truncated": false,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "NadaMasFeoQue",
+        "indices": [0, 14]
+      }
+    ],
+    "symbols": [],
+    "user_mentions": [],
+    "urls": []
+  },
+  "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 300662118,
+    "id_str": "300662118",
+    "name": "M a g g y h u a n a",
+    "screen_name": "MaggieRodVal",
+    "location": "Puebla, Puebla ",
+    "description": "https://t.co/3U9Twq5sqH",
+    "url": "https://t.co/vRqO3ApDyU",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "https://t.co/vRqO3ApDyU",
+            "expanded_url": "http://www.instagram.com/maggie_rv89",
+            "display_url": "instagram.com/maggie_rv89",
+            "indices": [0, 23]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+          {
+            "url": "https://t.co/3U9Twq5sqH",
+            "expanded_url": "http://www.facebook.com/maggihuana",
+            "display_url": "facebook.com/maggihuana",
+            "indices": [0, 23]
+          }
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 332,
+    "friends_count": 453,
+    "listed_count": 0,
+    "created_at": "Wed May 18 04:22:43 +0000 2011",
+    "favourites_count": 90,
+    "utc_offset": -21600,
+    "time_zone": "America/Mexico_City",
+    "geo_enabled": true,
+    "verified": false,
+    "statuses_count": 1376,
+    "lang": "es",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "is_translation_enabled": false,
+    "profile_background_color": "1A1B1F",
+    "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/826786007/ac86fcb3b7e57b999286d411e3bf7d0f.jpeg",
+    "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/826786007/ac86fcb3b7e57b999286d411e3bf7d0f.jpeg",
+    "profile_background_tile": true,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/737875480251097089/JVwVHopH_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/737875480251097089/JVwVHopH_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/300662118/1398232499",
+    "profile_link_color": "2FC2EF",
+    "profile_sidebar_border_color": "FFFFFF",
+    "profile_sidebar_fill_color": "252429",
+    "profile_text_color": "666666",
+    "profile_use_background_image": true,
+    "has_extended_profile": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false,
+    "translator_type": "none"
+  },
+  "geo": {
+    "type": "Point",
+    "coordinates": [19.04195273, -98.21374545]
+  },
+  "coordinates": {
+    "type": "Point",
+    "coordinates": [-98.21374545, 19.04195273]
+  },
+  "place": {
+    "id": "0ac8a42f23e8f736",
+    "url": "https://api.twitter.com/1.1/geo/id/0ac8a42f23e8f736.json",
+    "place_type": "city",
+    "name": "Puebla",
+    "full_name": "Puebla, M\u00e9xico",
+    "country_code": "MX",
+    "country": "M\u00e9xico",
+    "contained_within": [],
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [[-98.289206, 18.83765], [-98.019327, 18.83765], [-98.019327, 19.226809], [-98.289206, 19.226809]]
+      ]
+    },
+    "attributes": {}
+  },
+  "contributors": null,
+  "is_quote_status": false,
+  "retweet_count": 0,
+  "favorite_count": 0,
+  "favorited": false,
+  "retweeted": false,
+  "lang": "es"
+}

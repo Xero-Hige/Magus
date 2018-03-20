@@ -1,0 +1,118 @@
+{
+  "created_at": "Sat May 24 22:04:58 +0000 2014",
+  "id": 470324602779230209,
+  "id_str": "470324602779230209",
+  "text": "Los de la cocacola a mi hermano le regalaron banda de cocas, latitas y botellas de medio litro #FELIZ #AmoLaCoca",
+  "truncated": false,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "FELIZ",
+        "indices": [95, 101]
+      }, {
+        "text": "AmoLaCoca",
+        "indices": [102, 112]
+      }
+    ],
+    "symbols": [],
+    "user_mentions": [],
+    "urls": []
+  },
+  "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 353226667,
+    "id_str": "353226667",
+    "name": "|\u00d7|",
+    "screen_name": "MaartinPesoa",
+    "location": "Neuquen -",
+    "description": "Aqu\u00ed y ahora.\n #Aikido \n - https://t.co/jTpSZORvju",
+    "url": "https://t.co/3XaUgIk2mM",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "https://t.co/3XaUgIk2mM",
+            "expanded_url": "http://www.facebook.com/MaartiinL",
+            "display_url": "facebook.com/MaartiinL",
+            "indices": [0, 23]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+          {
+            "url": "https://t.co/jTpSZORvju",
+            "expanded_url": "http://instagram.com/mmartinpesoa",
+            "display_url": "instagram.com/mmartinpesoa",
+            "indices": [27, 50]
+          }
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 387,
+    "friends_count": 366,
+    "listed_count": 3,
+    "created_at": "Thu Aug 11 19:02:22 +0000 2011",
+    "favourites_count": 3115,
+    "utc_offset": -10800,
+    "time_zone": "Buenos Aires",
+    "geo_enabled": true,
+    "verified": false,
+    "statuses_count": 29063,
+    "lang": "es",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "is_translation_enabled": false,
+    "profile_background_color": "080808",
+    "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000085396391/317de024b11f7252a1525511ff19bb50.jpeg",
+    "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000085396391/317de024b11f7252a1525511ff19bb50.jpeg",
+    "profile_background_tile": true,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/919253205623693314/U3mj6uRD_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/919253205623693314/U3mj6uRD_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/353226667/1410819261",
+    "profile_link_color": "000A99",
+    "profile_sidebar_border_color": "000000",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "has_extended_profile": false,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false,
+    "translator_type": "none"
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": {
+    "id": "94965b2c45386f87",
+    "url": "https://api.twitter.com/1.1/geo/id/94965b2c45386f87.json",
+    "place_type": "admin",
+    "name": "Nueva York",
+    "full_name": "Nueva York, USA",
+    "country_code": "US",
+    "country": "Estados Unidos",
+    "contained_within": [],
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [[-79.76259, 40.477383], [-71.777492, 40.477383], [-71.777492, 45.015851], [-79.76259, 45.015851]]
+      ]
+    },
+    "attributes": {}
+  },
+  "contributors": null,
+  "is_quote_status": false,
+  "retweet_count": 0,
+  "favorite_count": 0,
+  "favorited": false,
+  "retweeted": false,
+  "lang": "es"
+}

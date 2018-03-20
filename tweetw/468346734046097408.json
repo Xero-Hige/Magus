@@ -1,0 +1,125 @@
+{
+  "created_at": "Mon May 19 11:05:37 +0000 2014",
+  "id": 468346734046097408,
+  "id_str": "468346734046097408",
+  "text": "Saber que te veo el miercoles @sole_pastorutti ya hace que hasta el lunes gris tenga otro color #Feliz #SemanaRaiz",
+  "truncated": false,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "Feliz",
+        "indices": [96, 102]
+      }, {
+        "text": "SemanaRaiz",
+        "indices": [103, 114]
+      }
+    ],
+    "symbols": [],
+    "user_mentions": [
+      {
+        "screen_name": "sole_pastorutti",
+        "name": "Soledad Pastorutti",
+        "id": 191725777,
+        "id_str": "191725777",
+        "indices": [30, 46]
+      }
+    ],
+    "urls": []
+  },
+  "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 606664869,
+    "id_str": "606664869",
+    "name": "\u2606 ceci morra \u2606",
+    "screen_name": "ceci_morra",
+    "location": "C\u00f3rdoba Capital - Argentina",
+    "description": "Estudiante de nutrici\u00f3n. Amante de la m\u00fasica. Fiel seguidora de la chica de Arequito que revolea el poncho \u00a5 \u00a5 \u00a5",
+    "url": "https://t.co/QJyuxXgSdb",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "https://t.co/QJyuxXgSdb",
+            "expanded_url": "https://www.facebook.com/ceci.morra",
+            "display_url": "facebook.com/ceci.morra",
+            "indices": [0, 23]
+          }
+        ]
+      },
+      "description": {
+        "urls": []
+      }
+    },
+    "protected": false,
+    "followers_count": 225,
+    "friends_count": 361,
+    "listed_count": 7,
+    "created_at": "Tue Jun 12 19:43:56 +0000 2012",
+    "favourites_count": 536,
+    "utc_offset": -10800,
+    "time_zone": "Buenos Aires",
+    "geo_enabled": true,
+    "verified": false,
+    "statuses_count": 3753,
+    "lang": "es",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "is_translation_enabled": false,
+    "profile_background_color": "DBE9ED",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme17/bg.gif",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme17/bg.gif",
+    "profile_background_tile": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/825816784729157632/WNS_kq71_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/825816784729157632/WNS_kq71_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/606664869/1427828051",
+    "profile_link_color": "CC3366",
+    "profile_sidebar_border_color": "FFFFFF",
+    "profile_sidebar_fill_color": "E6F6F9",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "has_extended_profile": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false,
+    "translator_type": "none"
+  },
+  "geo": {
+    "type": "Point",
+    "coordinates": [-31.3867195, -64.2063589]
+  },
+  "coordinates": {
+    "type": "Point",
+    "coordinates": [-64.2063589, -31.3867195]
+  },
+  "place": {
+    "id": "0b79f7e718cb54b9",
+    "url": "https://api.twitter.com/1.1/geo/id/0b79f7e718cb54b9.json",
+    "place_type": "admin",
+    "name": "C\u00f3rdoba",
+    "full_name": "C\u00f3rdoba, Argentina",
+    "country_code": "AR",
+    "country": "Argentina",
+    "contained_within": [],
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [[-65.778264, -34.998735], [-61.777678, -34.998735], [-61.777678, -29.503325], [-65.778264, -29.503325]]
+      ]
+    },
+    "attributes": {}
+  },
+  "contributors": null,
+  "is_quote_status": false,
+  "retweet_count": 0,
+  "favorite_count": 0,
+  "favorited": false,
+  "retweeted": false,
+  "lang": "es"
+}

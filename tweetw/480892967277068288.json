@@ -1,0 +1,98 @@
+{
+  "created_at": "Mon Jun 23 01:59:52 +0000 2014",
+  "id": 480892967277068288,
+  "id_str": "480892967277068288",
+  "text": "#MeCaeMal Esos choferes De Transantiago,Micros Talagantinas Que hacen paro para puro ver el partido ! sin cumplir su pega como corresponde!",
+  "truncated": false,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "MeCaeMal",
+        "indices": [0, 9]
+      }
+    ],
+    "symbols": [],
+    "user_mentions": [],
+    "urls": []
+  },
+  "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 1292171664,
+    "id_str": "1292171664",
+    "name": "I Am Cristian",
+    "screen_name": "CristiaNight",
+    "location": "Santiago,Talgante Chile",
+    "description": "Enamorado de mi Danae",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": []
+      }
+    },
+    "protected": false,
+    "followers_count": 4275,
+    "friends_count": 151,
+    "listed_count": 1,
+    "created_at": "Sat Mar 23 18:40:14 +0000 2013",
+    "favourites_count": 54,
+    "utc_offset": -10800,
+    "time_zone": "Atlantic Time (Canada)",
+    "geo_enabled": true,
+    "verified": false,
+    "statuses_count": 1687,
+    "lang": "es",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "is_translation_enabled": false,
+    "profile_background_color": "3FDE1F",
+    "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/457554612422078464/KUCtyYmp.jpeg",
+    "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/457554612422078464/KUCtyYmp.jpeg",
+    "profile_background_tile": true,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/784583559998803968/1Lxfur-P_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/784583559998803968/1Lxfur-P_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1292171664/1418931578",
+    "profile_link_color": "19CF86",
+    "profile_sidebar_border_color": "FFFFFF",
+    "profile_sidebar_fill_color": "44E516",
+    "profile_text_color": "12B8A1",
+    "profile_use_background_image": true,
+    "has_extended_profile": false,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false,
+    "translator_type": "regular"
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": {
+    "id": "47a3cf27863714de",
+    "url": "https://api.twitter.com/1.1/geo/id/47a3cf27863714de.json",
+    "place_type": "country",
+    "name": "Chile",
+    "full_name": "Chile",
+    "country_code": "CL",
+    "country": "Chile",
+    "contained_within": [],
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [[-109.4791708, -56.5573577], [-66.15203, -56.5573577], [-66.15203, -17.497384], [-109.4791708, -17.497384]]
+      ]
+    },
+    "attributes": {}
+  },
+  "contributors": null,
+  "is_quote_status": false,
+  "retweet_count": 0,
+  "favorite_count": 0,
+  "favorited": false,
+  "retweeted": false,
+  "lang": "es"
+}

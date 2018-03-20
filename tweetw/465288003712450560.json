@@ -1,0 +1,104 @@
+{
+  "created_at": "Sun May 11 00:31:19 +0000 2014",
+  "id": 465288003712450560,
+  "id_str": "465288003712450560",
+  "text": "El mejor cine est\u00e1 en casa, pero mucho mejor en casa de mi mejor amigo!!! #Feliz",
+  "truncated": false,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "Feliz",
+        "indices": [74, 80]
+      }
+    ],
+    "symbols": [],
+    "user_mentions": [],
+    "urls": []
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 168696463,
+    "id_str": "168696463",
+    "name": "Sandra Armengol",
+    "screen_name": "Sandra_Armengol",
+    "location": "Cuernavaca, Mor.",
+    "description": "Licenciada en Ciencias Pol\u00edticas y Gesti\u00f3n Publica, Pri\u00edsta de coraz\u00f3n y convicci\u00f3n, l\u00fadica y apasionada por la vida.",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": []
+      }
+    },
+    "protected": false,
+    "followers_count": 435,
+    "friends_count": 1044,
+    "listed_count": 1,
+    "created_at": "Tue Jul 20 15:18:36 +0000 2010",
+    "favourites_count": 436,
+    "utc_offset": -21600,
+    "time_zone": "Mountain Time (US & Canada)",
+    "geo_enabled": true,
+    "verified": false,
+    "statuses_count": 1884,
+    "lang": "es",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "is_translation_enabled": false,
+    "profile_background_color": "000000",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme11/bg.gif",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme11/bg.gif",
+    "profile_background_tile": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/965685149684977664/lTenF-Ks_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/965685149684977664/lTenF-Ks_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/168696463/1519072257",
+    "profile_link_color": "E81C4F",
+    "profile_sidebar_border_color": "000000",
+    "profile_sidebar_fill_color": "000000",
+    "profile_text_color": "000000",
+    "profile_use_background_image": false,
+    "has_extended_profile": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false,
+    "translator_type": "none"
+  },
+  "geo": {
+    "type": "Point",
+    "coordinates": [19.31942996, -99.24386126]
+  },
+  "coordinates": {
+    "type": "Point",
+    "coordinates": [-99.24386126, 19.31942996]
+  },
+  "place": {
+    "id": "d3bf364c09703d00",
+    "url": "https://api.twitter.com/1.1/geo/id/d3bf364c09703d00.json",
+    "place_type": "city",
+    "name": "La Magdalena Contreras",
+    "full_name": "La Magdalena Contreras, Distrito Federal",
+    "country_code": "MX",
+    "country": "M\u00e9xico",
+    "contained_within": [],
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [[-99.322812, 19.213113], [-99.2062407, 19.213113], [-99.2062407, 19.3380163], [-99.322812, 19.3380163]]
+      ]
+    },
+    "attributes": {}
+  },
+  "contributors": null,
+  "is_quote_status": false,
+  "retweet_count": 0,
+  "favorite_count": 1,
+  "favorited": false,
+  "retweeted": false,
+  "lang": "es"
+}

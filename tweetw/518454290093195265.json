@@ -1,0 +1,98 @@
+{
+  "created_at": "Sat Oct 04 17:35:09 +0000 2014",
+  "id": 518454290093195265,
+  "id_str": "518454290093195265",
+  "text": "Las personas se pueden hacer pateticas en tan poco tiempo? #increible",
+  "truncated": false,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "increible",
+        "indices": [59, 69]
+      }
+    ],
+    "symbols": [],
+    "user_mentions": [],
+    "urls": []
+  },
+  "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 390457456,
+    "id_str": "390457456",
+    "name": "Sof\u00eda \u2728",
+    "screen_name": "SofiaNoeliaGett",
+    "location": "",
+    "description": "Todo arde si le aplicas la chispa adecuada. Ingeniera Agr\u00f3noma, alg\u00fan d\u00eda.Boca Juniors \u2665",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": []
+      }
+    },
+    "protected": false,
+    "followers_count": 720,
+    "friends_count": 689,
+    "listed_count": 6,
+    "created_at": "Fri Oct 14 00:50:06 +0000 2011",
+    "favourites_count": 5351,
+    "utc_offset": -10800,
+    "time_zone": "Brasilia",
+    "geo_enabled": true,
+    "verified": false,
+    "statuses_count": 22894,
+    "lang": "es",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "is_translation_enabled": false,
+    "profile_background_color": "ABB8C2",
+    "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/556618188574580736/Aa7yQmmM.jpeg",
+    "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/556618188574580736/Aa7yQmmM.jpeg",
+    "profile_background_tile": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/954016029545517056/Lq3feamy_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/954016029545517056/Lq3feamy_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/390457456/1477840377",
+    "profile_link_color": "FA743E",
+    "profile_sidebar_border_color": "DFDFDF",
+    "profile_sidebar_fill_color": "F3F3F3",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "has_extended_profile": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false,
+    "translator_type": "none"
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": {
+    "id": "01df29355ffa0d6b",
+    "url": "https://api.twitter.com/1.1/geo/id/01df29355ffa0d6b.json",
+    "place_type": "city",
+    "name": "Santa Rosa",
+    "full_name": "Santa Rosa, Argentina",
+    "country_code": "AR",
+    "country": "Argentina",
+    "contained_within": [],
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [[-64.338104, -36.662555], [-64.2478512, -36.662555], [-64.2478512, -36.575113], [-64.338104, -36.575113]]
+      ]
+    },
+    "attributes": {}
+  },
+  "contributors": null,
+  "is_quote_status": false,
+  "retweet_count": 0,
+  "favorite_count": 0,
+  "favorited": false,
+  "retweeted": false,
+  "lang": "es"
+}

@@ -1,0 +1,113 @@
+{
+  "created_at": "Fri May 23 01:01:28 +0000 2014",
+  "id": 469644244609957889,
+  "id_str": "469644244609957889",
+  "text": "Obvio! Con mis amores! Son lo mejor que puedo tener! :) #feliz (@ La Junta w/ 3 others) http://t.co/DIBd8aVoSL",
+  "truncated": false,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "feliz",
+        "indices": [56, 62]
+      }
+    ],
+    "symbols": [],
+    "user_mentions": [],
+    "urls": [
+      {
+        "url": "http://t.co/DIBd8aVoSL",
+        "expanded_url": "http://4sq.com/1jIsWbP",
+        "display_url": "4sq.com/1jIsWbP",
+        "indices": [88, 110]
+      }
+    ]
+  },
+  "source": "<a href=\"http://foursquare.com\" rel=\"nofollow\">Foursquare</a>",
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 149153731,
+    "id_str": "149153731",
+    "name": "Loreto Aqueveque",
+    "screen_name": "Lore_Aqueveque",
+    "location": "Santiago, Chile",
+    "description": "Lic. En Matematica y Estadistica UC/ Amo lo simple de la vida",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": []
+      }
+    },
+    "protected": false,
+    "followers_count": 454,
+    "friends_count": 938,
+    "listed_count": 0,
+    "created_at": "Fri May 28 15:09:59 +0000 2010",
+    "favourites_count": 548,
+    "utc_offset": -10800,
+    "time_zone": "Santiago",
+    "geo_enabled": true,
+    "verified": false,
+    "statuses_count": 11896,
+    "lang": "es",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "is_translation_enabled": false,
+    "profile_background_color": "000000",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme10/bg.gif",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme10/bg.gif",
+    "profile_background_tile": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/792561169529659392/x__tnHew_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/792561169529659392/x__tnHew_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/149153731/1410530038",
+    "profile_link_color": "DD2E44",
+    "profile_sidebar_border_color": "000000",
+    "profile_sidebar_fill_color": "000000",
+    "profile_text_color": "000000",
+    "profile_use_background_image": false,
+    "has_extended_profile": false,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false,
+    "translator_type": "none"
+  },
+  "geo": {
+    "type": "Point",
+    "coordinates": [-33.43960332, -70.64152589]
+  },
+  "coordinates": {
+    "type": "Point",
+    "coordinates": [-70.64152589, -33.43960332]
+  },
+  "place": {
+    "id": "75be422815eb66b9",
+    "url": "https://api.twitter.com/1.1/geo/id/75be422815eb66b9.json",
+    "place_type": "admin",
+    "name": "Metropolitana de Santiago",
+    "full_name": "Metropolitana de Santiago, Chile",
+    "country_code": "CL",
+    "country": "Chile",
+    "contained_within": [],
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [[-71.716005, -34.287811], [-69.750032, -34.287811], [-69.750032, -32.921265], [-71.716005, -32.921265]]
+      ]
+    },
+    "attributes": {}
+  },
+  "contributors": null,
+  "is_quote_status": false,
+  "retweet_count": 0,
+  "favorite_count": 0,
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false,
+  "possibly_sensitive_appealable": false,
+  "lang": "es"
+}

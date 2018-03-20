@@ -1,0 +1,125 @@
+{
+  "created_at": "Mon Jun 23 12:29:19 +0000 2014",
+  "id": 481051371027066880,
+  "id_str": "481051371027066880",
+  "text": "@SGarciaSoto Pero hay que decir quien es el empresario. Verdades a medias no son verdades. #NadaMasFeoQue un periodista que no cuenta todo.",
+  "truncated": false,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "NadaMasFeoQue",
+        "indices": [91, 105]
+      }
+    ],
+    "symbols": [],
+    "user_mentions": [
+      {
+        "screen_name": "SGarciaSoto",
+        "name": "Salvador Garc\u00eda Soto",
+        "id": 84352783,
+        "id_str": "84352783",
+        "indices": [0, 12]
+      }
+    ],
+    "urls": []
+  },
+  "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": 84352783,
+  "in_reply_to_user_id_str": "84352783",
+  "in_reply_to_screen_name": "SGarciaSoto",
+  "user": {
+    "id": 28639536,
+    "id_str": "28639536",
+    "name": "Pablonline",
+    "screen_name": "pablonline",
+    "location": "Distrito Federal, M\u00e9xico",
+    "description": "Live a little. Be here now.",
+    "url": "https://t.co/GzVyWWkw5d",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "https://t.co/GzVyWWkw5d",
+            "expanded_url": "http://www.facebook.com/#!/pages/Academia-de-Cintas-Negras/201921856529066",
+            "display_url": "facebook.com/#!/pages/Acade\u2026",
+            "indices": [0, 23]
+          }
+        ]
+      },
+      "description": {
+        "urls": []
+      }
+    },
+    "protected": false,
+    "followers_count": 182,
+    "friends_count": 137,
+    "listed_count": 3,
+    "created_at": "Fri Apr 03 19:59:44 +0000 2009",
+    "favourites_count": 548,
+    "utc_offset": -18000,
+    "time_zone": "Bogota",
+    "geo_enabled": true,
+    "verified": false,
+    "statuses_count": 6646,
+    "lang": "es",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "is_translation_enabled": false,
+    "profile_background_color": "9AE4E8",
+    "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/7655576/Bettlewhos.jpg",
+    "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/7655576/Bettlewhos.jpg",
+    "profile_background_tile": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/846738740865327105/dgl8F_Dm_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/846738740865327105/dgl8F_Dm_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/28639536/1490713224",
+    "profile_link_color": "0084B4",
+    "profile_sidebar_border_color": "BDDCAD",
+    "profile_sidebar_fill_color": "DDFFCC",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "has_extended_profile": false,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false,
+    "translator_type": "none"
+  },
+  "geo": {
+    "type": "Point",
+    "coordinates": [4.6726811, -74.0521947]
+  },
+  "coordinates": {
+    "type": "Point",
+    "coordinates": [-74.0521947, 4.6726811]
+  },
+  "place": {
+    "id": "0161be1b3f98d6c3",
+    "url": "https://api.twitter.com/1.1/geo/id/0161be1b3f98d6c3.json",
+    "place_type": "city",
+    "name": "Bogot\u00e1, D.C.",
+    "full_name": "Bogot\u00e1, D.C., Colombia",
+    "country_code": "CO",
+    "country": "Colombia",
+    "contained_within": [],
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [-74.483288999243, 3.71743200175304], [-74.0040529979154, 3.71743200175304],
+          [-74.0040529979154, 4.80713500387127], [-74.483288999243, 4.80713500387127]
+        ]
+      ]
+    },
+    "attributes": {}
+  },
+  "contributors": null,
+  "is_quote_status": false,
+  "retweet_count": 2,
+  "favorite_count": 0,
+  "favorited": false,
+  "retweeted": false,
+  "lang": "es"
+}

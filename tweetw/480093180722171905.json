@@ -1,0 +1,128 @@
+{
+  "created_at": "Fri Jun 20 21:01:48 +0000 2014",
+  "id": 480093180722171905,
+  "id_str": "480093180722171905",
+  "text": "Algo est\u00e1 pasando en el norte de #chile ! Temblores, animales inquietos y clima tenso! @DonDateador #nortedechile #temblor",
+  "truncated": false,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "chile",
+        "indices": [33, 39]
+      }, {
+        "text": "nortedechile",
+        "indices": [100, 113]
+      }, {
+        "text": "temblor",
+        "indices": [114, 122]
+      }
+    ],
+    "symbols": [],
+    "user_mentions": [
+      {
+        "screen_name": "DonDateador",
+        "name": "#DonTheFixer",
+        "id": 376796612,
+        "id_str": "376796612",
+        "indices": [87, 99]
+      }
+    ],
+    "urls": []
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 933285074,
+    "id_str": "933285074",
+    "name": "Jos\u00e9 Tom\u00e1s Henr\u00edquez",
+    "screen_name": "gringohenriquez",
+    "location": "Santiago, Chile",
+    "description": "Periodista chileno; comunicador. Jugador de rugby de #oldreds. Profesor de entrenamiento funcional. Amante de la naturaleza y el #hiking. Vivo el presente, t\u00fa?",
+    "url": "https://t.co/YR2o4KyJvj",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "https://t.co/YR2o4KyJvj",
+            "expanded_url": "http://youtube.com/gringohenriquez",
+            "display_url": "youtube.com/gringohenriquez",
+            "indices": [0, 23]
+          }
+        ]
+      },
+      "description": {
+        "urls": []
+      }
+    },
+    "protected": false,
+    "followers_count": 962,
+    "friends_count": 1422,
+    "listed_count": 7,
+    "created_at": "Thu Nov 08 00:30:23 +0000 2012",
+    "favourites_count": 811,
+    "utc_offset": -10800,
+    "time_zone": "Santiago",
+    "geo_enabled": true,
+    "verified": false,
+    "statuses_count": 3232,
+    "lang": "es",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "is_translation_enabled": false,
+    "profile_background_color": "FFF1D0",
+    "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/344511763024441706/0a1fac1cebd4455565c6c7d69d0766b2.png",
+    "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/344511763024441706/0a1fac1cebd4455565c6c7d69d0766b2.png",
+    "profile_background_tile": true,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/477078492539260928/xSCnuWiZ_normal.jpeg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/477078492539260928/xSCnuWiZ_normal.jpeg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/933285074/1402579855",
+    "profile_link_color": "2A2827",
+    "profile_sidebar_border_color": "404562",
+    "profile_sidebar_fill_color": "4F708F",
+    "profile_text_color": "7F9885",
+    "profile_use_background_image": true,
+    "has_extended_profile": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false,
+    "translator_type": "none"
+  },
+  "geo": {
+    "type": "Point",
+    "coordinates": [-33.43674335, -70.60886556]
+  },
+  "coordinates": {
+    "type": "Point",
+    "coordinates": [-70.60886556, -33.43674335]
+  },
+  "place": {
+    "id": "01d461fd3da860bd",
+    "url": "https://api.twitter.com/1.1/geo/id/01d461fd3da860bd.json",
+    "place_type": "city",
+    "name": "Providencia",
+    "full_name": "Providencia, Chile",
+    "country_code": "CL",
+    "country": "Chile",
+    "contained_within": [],
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [[-70.6376924, -33.4499729], [-70.5838263, -33.4499729], [-70.5838263, -33.4089971], [-70.6376924, -33.4089971]]
+      ]
+    },
+    "attributes": {}
+  },
+  "contributors": null,
+  "is_quote_status": false,
+  "retweet_count": 0,
+  "favorite_count": 0,
+  "favorited": false,
+  "retweeted": false,
+  "lang": "es"
+}

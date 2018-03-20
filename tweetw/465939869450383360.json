@@ -1,0 +1,104 @@
+{
+  "created_at": "Mon May 12 19:41:36 +0000 2014",
+  "id": 465939869450383360,
+  "id_str": "465939869450383360",
+  "text": "Bueno pues ya nos hemos duchado y ahora seguimos estudiando que #asco",
+  "truncated": false,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "asco",
+        "indices": [64, 69]
+      }
+    ],
+    "symbols": [],
+    "user_mentions": [],
+    "urls": []
+  },
+  "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 1413748832,
+    "id_str": "1413748832",
+    "name": "criisti",
+    "screen_name": "criistina1999",
+    "location": "monte alegre - albacete ",
+    "description": "",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": []
+      }
+    },
+    "protected": false,
+    "followers_count": 146,
+    "friends_count": 183,
+    "listed_count": 1,
+    "created_at": "Wed May 08 20:17:42 +0000 2013",
+    "favourites_count": 776,
+    "utc_offset": 3600,
+    "time_zone": "Amsterdam",
+    "geo_enabled": true,
+    "verified": false,
+    "statuses_count": 1914,
+    "lang": "es",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "is_translation_enabled": false,
+    "profile_background_color": "C0DEED",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/471260907704967168/T8WT0PeR_normal.jpeg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/471260907704967168/T8WT0PeR_normal.jpeg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1413748832/1399239819",
+    "profile_link_color": "1DA1F2",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "has_extended_profile": false,
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false,
+    "translator_type": "none"
+  },
+  "geo": {
+    "type": "Point",
+    "coordinates": [38.786976, -1.3244114]
+  },
+  "coordinates": {
+    "type": "Point",
+    "coordinates": [-1.3244114, 38.786976]
+  },
+  "place": {
+    "id": "4fb9260b207194f7",
+    "url": "https://api.twitter.com/1.1/geo/id/4fb9260b207194f7.json",
+    "place_type": "city",
+    "name": "Montealegre del Castillo",
+    "full_name": "Montealegre del Castillo, Espa\u00f1a",
+    "country_code": "ES",
+    "country": "Espa\u00f1a",
+    "contained_within": [],
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [[-1.3950822, 38.677296], [-1.1842098, 38.677296], [-1.1842098, 38.8378026], [-1.3950822, 38.8378026]]
+      ]
+    },
+    "attributes": {}
+  },
+  "contributors": null,
+  "is_quote_status": false,
+  "retweet_count": 0,
+  "favorite_count": 1,
+  "favorited": false,
+  "retweeted": false,
+  "lang": "es"
+}

@@ -1,0 +1,114 @@
+{
+  "created_at": "Sun May 11 06:37:10 +0000 2014",
+  "id": 465380073940742144,
+  "id_str": "465380073940742144",
+  "text": "Me desperte, fui abajo a tomar algo y de afuera se escucha musica china #Miedo",
+  "truncated": false,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "Miedo",
+        "indices": [72, 78]
+      }
+    ],
+    "symbols": [],
+    "user_mentions": [],
+    "urls": []
+  },
+  "source": "<a href=\"https://twitter.com/download/android\" rel=\"nofollow\">Twitter for  Android</a>",
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 1588929038,
+    "id_str": "1588929038",
+    "name": "F\u00e9nix",
+    "screen_name": "EvelynVeraBl",
+    "location": "Buenos Aires, Argentina",
+    "description": "El \u00e9xito en la vida no se mide por lo que logras, si no por los obst\u00e1culos que se superan.",
+    "url": "https://t.co/7eZWXwHyc8",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "https://t.co/7eZWXwHyc8",
+            "expanded_url": "https://www.instagram.com/_ev.vera/",
+            "display_url": "instagram.com/_ev.vera/",
+            "indices": [0, 23]
+          }
+        ]
+      },
+      "description": {
+        "urls": []
+      }
+    },
+    "protected": false,
+    "followers_count": 1069,
+    "friends_count": 851,
+    "listed_count": 1,
+    "created_at": "Fri Jul 12 16:52:55 +0000 2013",
+    "favourites_count": 8339,
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": true,
+    "verified": false,
+    "statuses_count": 40665,
+    "lang": "es",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "is_translation_enabled": false,
+    "profile_background_color": "000000",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+    "profile_background_tile": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/974456558095601666/fYixppBP_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/974456558095601666/fYixppBP_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1588929038/1486779032",
+    "profile_link_color": "94D487",
+    "profile_sidebar_border_color": "000000",
+    "profile_sidebar_fill_color": "000000",
+    "profile_text_color": "000000",
+    "profile_use_background_image": false,
+    "has_extended_profile": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false,
+    "translator_type": "none"
+  },
+  "geo": {
+    "type": "Point",
+    "coordinates": [-34.7433914, -58.5982397]
+  },
+  "coordinates": {
+    "type": "Point",
+    "coordinates": [-58.5982397, -34.7433914]
+  },
+  "place": {
+    "id": "4afa2757051c5192",
+    "url": "https://api.twitter.com/1.1/geo/id/4afa2757051c5192.json",
+    "place_type": "admin",
+    "name": "Buenos Aires",
+    "full_name": "Buenos Aires, Argentina",
+    "country_code": "AR",
+    "country": "Argentina",
+    "contained_within": [],
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [[-63.39386, -41.035009], [-56.665836, -41.035009], [-56.665836, -33.260144], [-63.39386, -33.260144]]
+      ]
+    },
+    "attributes": {}
+  },
+  "contributors": null,
+  "is_quote_status": false,
+  "retweet_count": 0,
+  "favorite_count": 0,
+  "favorited": false,
+  "retweeted": false,
+  "lang": "es"
+}

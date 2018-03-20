@@ -1,0 +1,110 @@
+{
+  "created_at": "Sun May 11 13:52:53 +0000 2014",
+  "id": 465489724720046080,
+  "id_str": "465489724720046080",
+  "text": "Hoy es un dia para disfrutar!! #feliz domingo!! #flia #amigos, hoy quiero paseito!!",
+  "truncated": false,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "feliz",
+        "indices": [31, 37]
+      }, {
+        "text": "flia",
+        "indices": [48, 53]
+      }, {
+        "text": "amigos",
+        "indices": [54, 61]
+      }
+    ],
+    "symbols": [],
+    "user_mentions": [],
+    "urls": []
+  },
+  "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 627784272,
+    "id_str": "627784272",
+    "name": "Delia Medina",
+    "screen_name": "dell_24",
+    "location": "",
+    "description": "Un guerrero de la luz comparte su mundo con las personas que ama. Familia y Amigos la base de mi vida.",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": []
+      }
+    },
+    "protected": false,
+    "followers_count": 514,
+    "friends_count": 773,
+    "listed_count": 1,
+    "created_at": "Thu Jul 05 20:23:30 +0000 2012",
+    "favourites_count": 957,
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": true,
+    "verified": false,
+    "statuses_count": 5499,
+    "lang": "es",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "is_translation_enabled": false,
+    "profile_background_color": "EBE8E8",
+    "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/730754398/1829c41d735fdf1ffe7a5ce6a721e304.jpeg",
+    "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/730754398/1829c41d735fdf1ffe7a5ce6a721e304.jpeg",
+    "profile_background_tile": true,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/734372171682877441/X-fyNevX_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/734372171682877441/X-fyNevX_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/627784272/1354804032",
+    "profile_link_color": "088253",
+    "profile_sidebar_border_color": "000000",
+    "profile_sidebar_fill_color": "E5507E",
+    "profile_text_color": "362720",
+    "profile_use_background_image": true,
+    "has_extended_profile": false,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false,
+    "translator_type": "none"
+  },
+  "geo": {
+    "type": "Point",
+    "coordinates": [-27.3197392, -55.8610576]
+  },
+  "coordinates": {
+    "type": "Point",
+    "coordinates": [-55.8610576, -27.3197392]
+  },
+  "place": {
+    "id": "6cf2fd60a82329fc",
+    "url": "https://api.twitter.com/1.1/geo/id/6cf2fd60a82329fc.json",
+    "place_type": "country",
+    "name": "Paraguay",
+    "full_name": "Paraguay",
+    "country_code": "PY",
+    "country": "Paraguay",
+    "contained_within": [],
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [[-62.6451197, -27.594325], [-54.258291, -27.594325], [-54.258291, -19.2940407], [-62.6451197, -19.2940407]]
+      ]
+    },
+    "attributes": {}
+  },
+  "contributors": null,
+  "is_quote_status": false,
+  "retweet_count": 0,
+  "favorite_count": 0,
+  "favorited": false,
+  "retweeted": false,
+  "lang": "es"
+}

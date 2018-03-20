@@ -1,0 +1,114 @@
+{
+  "created_at": "Tue Jun 24 20:13:20 +0000 2014",
+  "id": 481530535337267200,
+  "id_str": "481530535337267200",
+  "text": "No podes ponerte a trabajar en atencion al publico con una mala onda #MeSaca",
+  "truncated": false,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "MeSaca",
+        "indices": [69, 76]
+      }
+    ],
+    "symbols": [],
+    "user_mentions": [],
+    "urls": []
+  },
+  "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 1400308525,
+    "id_str": "1400308525",
+    "name": "Una negra \u2606",
+    "screen_name": "DDanaAbeiro",
+    "location": "",
+    "description": "18 a\u00f1os.\nA un paso del cambio.\nExplosion de sentimientos.\nViedma-R\u00edo Negro.",
+    "url": "https://t.co/Me8SGT85Rm",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "https://t.co/Me8SGT85Rm",
+            "expanded_url": "http://www.facebook.com/Daanu.montecino",
+            "display_url": "facebook.com/Daanu.montecino",
+            "indices": [0, 23]
+          }
+        ]
+      },
+      "description": {
+        "urls": []
+      }
+    },
+    "protected": false,
+    "followers_count": 263,
+    "friends_count": 277,
+    "listed_count": 0,
+    "created_at": "Fri May 03 17:40:36 +0000 2013",
+    "favourites_count": 411,
+    "utc_offset": -10800,
+    "time_zone": "Brasilia",
+    "geo_enabled": true,
+    "verified": false,
+    "statuses_count": 5858,
+    "lang": "es",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "is_translation_enabled": false,
+    "profile_background_color": "C0DEED",
+    "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/567495117330583552/bdlPwXzY.jpeg",
+    "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/567495117330583552/bdlPwXzY.jpeg",
+    "profile_background_tile": true,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/616496715059851264/uv_0QsFh_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/616496715059851264/uv_0QsFh_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1400308525/1442559641",
+    "profile_link_color": "0084B4",
+    "profile_sidebar_border_color": "FFFFFF",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "has_extended_profile": false,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false,
+    "translator_type": "none"
+  },
+  "geo": {
+    "type": "Point",
+    "coordinates": [-40.8208003, -62.998785]
+  },
+  "coordinates": {
+    "type": "Point",
+    "coordinates": [-62.998785, -40.8208003]
+  },
+  "place": {
+    "id": "01f7d5d9145f3315",
+    "url": "https://api.twitter.com/1.1/geo/id/01f7d5d9145f3315.json",
+    "place_type": "city",
+    "name": "Viedma",
+    "full_name": "Viedma, Argentina",
+    "country_code": "AR",
+    "country": "Argentina",
+    "contained_within": [],
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [[-63.033476, -40.84534], [-62.960298, -40.84534], [-62.960298, -40.799256], [-63.033476, -40.799256]]
+      ]
+    },
+    "attributes": {}
+  },
+  "contributors": null,
+  "is_quote_status": false,
+  "retweet_count": 0,
+  "favorite_count": 0,
+  "favorited": false,
+  "retweeted": false,
+  "lang": "es"
+}

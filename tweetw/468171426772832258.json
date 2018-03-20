@@ -1,0 +1,112 @@
+{
+  "created_at": "Sun May 18 23:29:01 +0000 2014",
+  "id": 468171426772832258,
+  "id_str": "468171426772832258",
+  "text": "@JumboChile se han ido a dar una vuelta al sta Isabel de rep\u00fablica un domingo a esta hora? Colas que llegan hasta la mitad del s\u00faper #asco",
+  "truncated": false,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "asco",
+        "indices": [133, 138]
+      }
+    ],
+    "symbols": [],
+    "user_mentions": [
+      {
+        "screen_name": "JumboChile",
+        "name": "JUMBO",
+        "id": 25338543,
+        "id_str": "25338543",
+        "indices": [0, 11]
+      }
+    ],
+    "urls": []
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": 25338543,
+  "in_reply_to_user_id_str": "25338543",
+  "in_reply_to_screen_name": "JumboChile",
+  "user": {
+    "id": 103908733,
+    "id_str": "103908733",
+    "name": "Rey Lagarto",
+    "screen_name": "sremonsellez",
+    "location": "Chile, Santiago",
+    "description": "No se le vaya a ocurrir preguntar tonteras, porque las respondo",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": []
+      }
+    },
+    "protected": false,
+    "followers_count": 181,
+    "friends_count": 319,
+    "listed_count": 2,
+    "created_at": "Mon Jan 11 17:02:27 +0000 2010",
+    "favourites_count": 409,
+    "utc_offset": -10800,
+    "time_zone": "Santiago",
+    "geo_enabled": true,
+    "verified": false,
+    "statuses_count": 9191,
+    "lang": "es",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "is_translation_enabled": false,
+    "profile_background_color": "131516",
+    "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/460647023943761920/roDOz9Pn.jpeg",
+    "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/460647023943761920/roDOz9Pn.jpeg",
+    "profile_background_tile": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/617394019434397696/ePGlLxQR_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/617394019434397696/ePGlLxQR_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/103908733/1517924410",
+    "profile_link_color": "009999",
+    "profile_sidebar_border_color": "000000",
+    "profile_sidebar_fill_color": "EFEFEF",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "has_extended_profile": false,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false,
+    "translator_type": "none"
+  },
+  "geo": {
+    "type": "Point",
+    "coordinates": [-33.45042801, -70.66338893]
+  },
+  "coordinates": {
+    "type": "Point",
+    "coordinates": [-70.66338893, -33.45042801]
+  },
+  "place": {
+    "id": "75be422815eb66b9",
+    "url": "https://api.twitter.com/1.1/geo/id/75be422815eb66b9.json",
+    "place_type": "admin",
+    "name": "Metropolitana de Santiago",
+    "full_name": "Metropolitana de Santiago, Chile",
+    "country_code": "CL",
+    "country": "Chile",
+    "contained_within": [],
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [[-71.716005, -34.287811], [-69.750032, -34.287811], [-69.750032, -32.921265], [-71.716005, -32.921265]]
+      ]
+    },
+    "attributes": {}
+  },
+  "contributors": null,
+  "is_quote_status": false,
+  "retweet_count": 0,
+  "favorite_count": 0,
+  "favorited": false,
+  "retweeted": false,
+  "lang": "es"
+}

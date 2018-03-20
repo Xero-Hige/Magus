@@ -1,0 +1,107 @@
+{
+  "created_at": "Thu May 22 16:12:00 +0000 2014",
+  "id": 469511000816091136,
+  "id_str": "469511000816091136",
+  "text": "Rey de bastos caradura o poliz\u00f3n.. Qu\u00e9 falta de respeto q atropello a la raz\u00f3n cualquiera es un Sr. cualquiera es un ladr\u00f3n #cambalache #ira",
+  "truncated": false,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "cambalache",
+        "indices": [124, 135]
+      }, {
+        "text": "ira",
+        "indices": [136, 140]
+      }
+    ],
+    "symbols": [],
+    "user_mentions": [],
+    "urls": []
+  },
+  "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 468522493,
+    "id_str": "468522493",
+    "name": "Andrea Melgarejo",
+    "screen_name": "andrealanegri",
+    "location": "Asunci\u00f3n",
+    "description": "Apasionada de la vida... buscando ser mi mejor versi\u00f3n...",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": []
+      }
+    },
+    "protected": false,
+    "followers_count": 457,
+    "friends_count": 917,
+    "listed_count": 6,
+    "created_at": "Thu Jan 19 16:44:21 +0000 2012",
+    "favourites_count": 2328,
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": true,
+    "verified": false,
+    "statuses_count": 362,
+    "lang": "es",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "is_translation_enabled": false,
+    "profile_background_color": "C0DEED",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1766634681/FacebookHomescreenImage_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1766634681/FacebookHomescreenImage_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/468522493/1394588520",
+    "profile_link_color": "1DA1F2",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "has_extended_profile": false,
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false,
+    "translator_type": "none"
+  },
+  "geo": {
+    "type": "Point",
+    "coordinates": [-25.3040473, -57.559607]
+  },
+  "coordinates": {
+    "type": "Point",
+    "coordinates": [-57.559607, -25.3040473]
+  },
+  "place": {
+    "id": "6cf2fd60a82329fc",
+    "url": "https://api.twitter.com/1.1/geo/id/6cf2fd60a82329fc.json",
+    "place_type": "country",
+    "name": "Paraguay",
+    "full_name": "Paraguay",
+    "country_code": "PY",
+    "country": "Paraguay",
+    "contained_within": [],
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [[-62.6451197, -27.594325], [-54.258291, -27.594325], [-54.258291, -19.2940407], [-62.6451197, -19.2940407]]
+      ]
+    },
+    "attributes": {}
+  },
+  "contributors": null,
+  "is_quote_status": false,
+  "retweet_count": 0,
+  "favorite_count": 0,
+  "favorited": false,
+  "retweeted": false,
+  "lang": "es"
+}

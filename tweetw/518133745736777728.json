@@ -1,0 +1,115 @@
+{
+  "created_at": "Fri Oct 03 20:21:26 +0000 2014",
+  "id": 518133745736777728,
+  "id_str": "518133745736777728",
+  "text": "Esos amigos que te traen dulces porque estas enferma!!! #sorpresa #inesperada #richiiii #annie",
+  "truncated": false,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "sorpresa",
+        "indices": [56, 65]
+      }, {
+        "text": "inesperada",
+        "indices": [66, 77]
+      }, {
+        "text": "richiiii",
+        "indices": [78, 87]
+      }, {
+        "text": "annie",
+        "indices": [88, 94]
+      }
+    ],
+    "symbols": [],
+    "user_mentions": [],
+    "urls": []
+  },
+  "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 130987292,
+    "id_str": "130987292",
+    "name": "\ud835\udcdb\ud835\udcee\ud835\udcf7\ud835\udcea.",
+    "screen_name": "lenadeelrey",
+    "location": "Lima, Peru",
+    "description": "En un d\u00eda tengo como un mill\u00f3n de estados de \u00e1nimo.",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": []
+      }
+    },
+    "protected": false,
+    "followers_count": 381,
+    "friends_count": 1187,
+    "listed_count": 3,
+    "created_at": "Thu Apr 08 23:13:51 +0000 2010",
+    "favourites_count": 245,
+    "utc_offset": -10800,
+    "time_zone": "Santiago",
+    "geo_enabled": true,
+    "verified": false,
+    "statuses_count": 7596,
+    "lang": "es",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "is_translation_enabled": false,
+    "profile_background_color": "ABB8C2",
+    "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/467461889652297728/3A1J4_YA.jpeg",
+    "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/467461889652297728/3A1J4_YA.jpeg",
+    "profile_background_tile": true,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/974644407675838464/pQV-CPXr_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/974644407675838464/pQV-CPXr_normal.jpg",
+    "profile_link_color": "9266CC",
+    "profile_sidebar_border_color": "000000",
+    "profile_sidebar_fill_color": "EADEAA",
+    "profile_text_color": "333333",
+    "profile_use_background_image": false,
+    "has_extended_profile": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false,
+    "translator_type": "none"
+  },
+  "geo": {
+    "type": "Point",
+    "coordinates": [-12.0839476, -77.0860071]
+  },
+  "coordinates": {
+    "type": "Point",
+    "coordinates": [-77.0860071, -12.0839476]
+  },
+  "place": {
+    "id": "2dfa9ecb0179a4e4",
+    "url": "https://api.twitter.com/1.1/geo/id/2dfa9ecb0179a4e4.json",
+    "place_type": "country",
+    "name": "Peru",
+    "full_name": "Peru",
+    "country_code": "PE",
+    "country": "Peru",
+    "contained_within": [],
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [-81.3281479193672, -18.3497280290367], [-68.6730880806328, -18.3497280290367],
+          [-68.6730880806328, -0.0388399739132714], [-81.3281479193672, -0.0388399739132714]
+        ]
+      ]
+    },
+    "attributes": {}
+  },
+  "contributors": null,
+  "is_quote_status": false,
+  "retweet_count": 0,
+  "favorite_count": 0,
+  "favorited": false,
+  "retweeted": false,
+  "lang": "es"
+}

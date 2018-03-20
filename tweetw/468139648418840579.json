@@ -1,0 +1,104 @@
+{
+  "created_at": "Sun May 18 21:22:44 +0000 2014",
+  "id": 468139648418840579,
+  "id_str": "468139648418840579",
+  "text": "Cantar con mi viejo una cancion q el cantaba cuando iba a la cancha y 20 a\u00f1os despues la cante yo en la cancha Hoy la cantamos juntos #Feliz",
+  "truncated": false,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "Feliz",
+        "indices": [134, 140]
+      }
+    ],
+    "symbols": [],
+    "user_mentions": [],
+    "urls": []
+  },
+  "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 1228790072,
+    "id_str": "1228790072",
+    "name": "Tupac Catari",
+    "screen_name": "FerMopal",
+    "location": "San Antonio de Areco",
+    "description": "\ud83c\udfb5Se\u00f1ores yo soy del gallinero \ud83c\udfb5 \n                                   \n           Futuro Historiador.",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": []
+      }
+    },
+    "protected": false,
+    "followers_count": 294,
+    "friends_count": 895,
+    "listed_count": 0,
+    "created_at": "Fri Mar 01 01:51:06 +0000 2013",
+    "favourites_count": 561,
+    "utc_offset": -10800,
+    "time_zone": "Buenos Aires",
+    "geo_enabled": true,
+    "verified": false,
+    "statuses_count": 5315,
+    "lang": "es",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "is_translation_enabled": false,
+    "profile_background_color": "C0DEED",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/673882648390049794/VdHjKL47_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/673882648390049794/VdHjKL47_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1228790072/1424303888",
+    "profile_link_color": "1DA1F2",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "has_extended_profile": true,
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false,
+    "translator_type": "none"
+  },
+  "geo": {
+    "type": "Point",
+    "coordinates": [-34.2556337, -59.4592489]
+  },
+  "coordinates": {
+    "type": "Point",
+    "coordinates": [-59.4592489, -34.2556337]
+  },
+  "place": {
+    "id": "4afa2757051c5192",
+    "url": "https://api.twitter.com/1.1/geo/id/4afa2757051c5192.json",
+    "place_type": "admin",
+    "name": "Buenos Aires",
+    "full_name": "Buenos Aires, Argentina",
+    "country_code": "AR",
+    "country": "Argentina",
+    "contained_within": [],
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [[-63.39386, -41.035009], [-56.665836, -41.035009], [-56.665836, -33.260144], [-63.39386, -33.260144]]
+      ]
+    },
+    "attributes": {}
+  },
+  "contributors": null,
+  "is_quote_status": false,
+  "retweet_count": 0,
+  "favorite_count": 0,
+  "favorited": false,
+  "retweeted": false,
+  "lang": "es"
+}

@@ -1,0 +1,114 @@
+{
+  "created_at": "Wed May 14 01:33:13 +0000 2014",
+  "id": 466390745637990401,
+  "id_str": "466390745637990401",
+  "text": "Para mi un dia maximok va a caer y va a ser el encargado de mandar todo el pa\u00eds a la bosta... Esta muy callado el cordisssss #miedo",
+  "truncated": false,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "miedo",
+        "indices": [125, 131]
+      }
+    ],
+    "symbols": [],
+    "user_mentions": [],
+    "urls": []
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 133667407,
+    "id_str": "133667407",
+    "name": "Mat\u00edas Martin",
+    "screen_name": "Matukkka",
+    "location": "Argentina",
+    "description": "todavia no me conozco mucho...",
+    "url": "http://t.co/g1C5QnYKUH",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://t.co/g1C5QnYKUH",
+            "expanded_url": "http://facebook.com/churrinchecanejo",
+            "display_url": "facebook.com/churrinchecane\u2026",
+            "indices": [0, 22]
+          }
+        ]
+      },
+      "description": {
+        "urls": []
+      }
+    },
+    "protected": false,
+    "followers_count": 529,
+    "friends_count": 1256,
+    "listed_count": 3,
+    "created_at": "Fri Apr 16 10:10:00 +0000 2010",
+    "favourites_count": 788,
+    "utc_offset": -10800,
+    "time_zone": "Buenos Aires",
+    "geo_enabled": true,
+    "verified": false,
+    "statuses_count": 7110,
+    "lang": "es",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "is_translation_enabled": false,
+    "profile_background_color": "030303",
+    "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/237294734/Foto0398.jpg",
+    "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/237294734/Foto0398.jpg",
+    "profile_background_tile": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/627930113380888576/fUrkfyfn_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/627930113380888576/fUrkfyfn_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/133667407/1500134825",
+    "profile_link_color": "3B94D9",
+    "profile_sidebar_border_color": "000000",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "050005",
+    "profile_use_background_image": false,
+    "has_extended_profile": false,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false,
+    "translator_type": "none"
+  },
+  "geo": {
+    "type": "Point",
+    "coordinates": [-34.58539779, -58.41986044]
+  },
+  "coordinates": {
+    "type": "Point",
+    "coordinates": [-58.41986044, -34.58539779]
+  },
+  "place": {
+    "id": "1ed82be977be0cfa",
+    "url": "https://api.twitter.com/1.1/geo/id/1ed82be977be0cfa.json",
+    "place_type": "admin",
+    "name": "Ciudad Aut\u00f3noma de Buenos Aires",
+    "full_name": "Ciudad Aut\u00f3noma de Buenos Aires, Argentina",
+    "country_code": "AR",
+    "country": "Argentina",
+    "contained_within": [],
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [[-58.5317922, -34.7054213], [-58.335105, -34.7054213], [-58.335105, -34.526466], [-58.5317922, -34.526466]]
+      ]
+    },
+    "attributes": {}
+  },
+  "contributors": null,
+  "is_quote_status": false,
+  "retweet_count": 0,
+  "favorite_count": 0,
+  "favorited": false,
+  "retweeted": false,
+  "lang": "es"
+}

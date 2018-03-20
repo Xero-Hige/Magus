@@ -1,0 +1,104 @@
+{
+  "created_at": "Mon May 19 12:53:40 +0000 2014",
+  "id": 468373924263518208,
+  "id_str": "468373924263518208",
+  "text": "Buenos d\u00edas :) comienza una nueva semana, ahora de vuelta a la realidad ! Pero que mejor que tenga un feriado entre medio \ud83d\ude01 #feliz",
+  "truncated": false,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "feliz",
+        "indices": [124, 130]
+      }
+    ],
+    "symbols": [],
+    "user_mentions": [],
+    "urls": []
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 305853168,
+    "id_str": "305853168",
+    "name": "Sol",
+    "screen_name": "CsolangeS",
+    "location": "",
+    "description": "Esposa del hombre m\u00e1s lindo del mundo @aastroza . mam\u00e1 del gato m\u00e1s pesado, amiga de las personas m\u00e1s bac\u00e1nes del mundo, enloquecida con el ejercicio ... feliz",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": []
+      }
+    },
+    "protected": false,
+    "followers_count": 272,
+    "friends_count": 670,
+    "listed_count": 2,
+    "created_at": "Thu May 26 22:04:13 +0000 2011",
+    "favourites_count": 611,
+    "utc_offset": -18000,
+    "time_zone": "Quito",
+    "geo_enabled": true,
+    "verified": false,
+    "statuses_count": 3992,
+    "lang": "es",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "is_translation_enabled": false,
+    "profile_background_color": "ECE7F0",
+    "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/886498518/2f2a193e643f08d0dff7563e6ef842d2.jpeg",
+    "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/886498518/2f2a193e643f08d0dff7563e6ef842d2.jpeg",
+    "profile_background_tile": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/752219074063663104/Vb_7lMyQ_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/752219074063663104/Vb_7lMyQ_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/305853168/1468177981",
+    "profile_link_color": "BD28BD",
+    "profile_sidebar_border_color": "FFFFFF",
+    "profile_sidebar_fill_color": "7AC3EE",
+    "profile_text_color": "3D1957",
+    "profile_use_background_image": true,
+    "has_extended_profile": false,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false,
+    "translator_type": "none"
+  },
+  "geo": {
+    "type": "Point",
+    "coordinates": [-33.46725418, -70.62469865]
+  },
+  "coordinates": {
+    "type": "Point",
+    "coordinates": [-70.62469865, -33.46725418]
+  },
+  "place": {
+    "id": "75be422815eb66b9",
+    "url": "https://api.twitter.com/1.1/geo/id/75be422815eb66b9.json",
+    "place_type": "admin",
+    "name": "Metropolitana de Santiago",
+    "full_name": "Metropolitana de Santiago, Chile",
+    "country_code": "CL",
+    "country": "Chile",
+    "contained_within": [],
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [[-71.716005, -34.287811], [-69.750032, -34.287811], [-69.750032, -32.921265], [-71.716005, -32.921265]]
+      ]
+    },
+    "attributes": {}
+  },
+  "contributors": null,
+  "is_quote_status": false,
+  "retweet_count": 0,
+  "favorite_count": 0,
+  "favorited": false,
+  "retweeted": false,
+  "lang": "es"
+}

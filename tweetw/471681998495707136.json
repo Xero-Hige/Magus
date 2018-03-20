@@ -1,0 +1,114 @@
+{
+  "created_at": "Wed May 28 15:58:46 +0000 2014",
+  "id": 471681998495707136,
+  "id_str": "471681998495707136",
+  "text": "En la mesa de al lado hay unos viejos hablando de la \u00e9poca de Franco y de c\u00f3mo era esto entonces y no s\u00e9 qu\u00e9 m\u00e1s #miedo",
+  "truncated": false,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "miedo",
+        "indices": [113, 119]
+      }
+    ],
+    "symbols": [],
+    "user_mentions": [],
+    "urls": []
+  },
+  "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 37499938,
+    "id_str": "37499938",
+    "name": "\u039b\u03b9\u03c2",
+    "screen_name": "LisM1991",
+    "location": "Laredo, Cantabria",
+    "description": "26. English teacher. Eternal teen. Languages are my passion. Music and books give me life. I love cats and dogs. @Gabas86 is my soulmate \u2665 ig: @butterfly20_",
+    "url": "https://t.co/qp9KOAleXt",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "https://t.co/qp9KOAleXt",
+            "expanded_url": "http://historiasdelaluna.wordpress.com/",
+            "display_url": "historiasdelaluna.wordpress.com",
+            "indices": [0, 23]
+          }
+        ]
+      },
+      "description": {
+        "urls": []
+      }
+    },
+    "protected": false,
+    "followers_count": 165,
+    "friends_count": 288,
+    "listed_count": 8,
+    "created_at": "Sun May 03 20:56:12 +0000 2009",
+    "favourites_count": 5246,
+    "utc_offset": 3600,
+    "time_zone": "Madrid",
+    "geo_enabled": true,
+    "verified": false,
+    "statuses_count": 25572,
+    "lang": "es",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "is_translation_enabled": false,
+    "profile_background_color": "C0DEED",
+    "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/623976377432281088/Ni6d-hnM.png",
+    "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/623976377432281088/Ni6d-hnM.png",
+    "profile_background_tile": true,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/878712800708775937/i13QnwFD_normal.png",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/878712800708775937/i13QnwFD_normal.png",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/37499938/1502724554",
+    "profile_link_color": "9266CC",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "has_extended_profile": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false,
+    "translator_type": "none"
+  },
+  "geo": {
+    "type": "Point",
+    "coordinates": [43.3488647, -4.0484129]
+  },
+  "coordinates": {
+    "type": "Point",
+    "coordinates": [-4.0484129, 43.3488647]
+  },
+  "place": {
+    "id": "a9530eb697d5ceca",
+    "url": "https://api.twitter.com/1.1/geo/id/a9530eb697d5ceca.json",
+    "place_type": "city",
+    "name": "Torrelavega",
+    "full_name": "Torrelavega, Espa\u00f1a",
+    "country_code": "ES",
+    "country": "Espa\u00f1a",
+    "contained_within": [],
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [[-4.0819466, 43.3004753], [-4.0019526, 43.3004753], [-4.0019526, 43.3817302], [-4.0819466, 43.3817302]]
+      ]
+    },
+    "attributes": {}
+  },
+  "contributors": null,
+  "is_quote_status": false,
+  "retweet_count": 0,
+  "favorite_count": 0,
+  "favorited": false,
+  "retweeted": false,
+  "lang": "es"
+}

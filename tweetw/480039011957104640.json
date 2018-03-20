@@ -1,0 +1,110 @@
+{
+  "created_at": "Fri Jun 20 17:26:33 +0000 2014",
+  "id": 480039011957104640,
+  "id_str": "480039011957104640",
+  "text": "De esto que vamos cinco a la playa y solo me quemo yo.... #malasuerte #duele #roja",
+  "truncated": false,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "malasuerte",
+        "indices": [58, 69]
+      }, {
+        "text": "duele",
+        "indices": [70, 76]
+      }, {
+        "text": "roja",
+        "indices": [77, 82]
+      }
+    ],
+    "symbols": [],
+    "user_mentions": [],
+    "urls": []
+  },
+  "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 608960459,
+    "id_str": "608960459",
+    "name": "Judit",
+    "screen_name": "Judit_Cmoreno",
+    "location": "",
+    "description": "Master en Direcci\u00f3n y gesti\u00f3n de RRHH. Graduada en RRLL & RRHH.\n\nT\u00e9cnico superior en Prevenci\u00f3n de Riesgos Laborales.",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": []
+      }
+    },
+    "protected": false,
+    "followers_count": 227,
+    "friends_count": 239,
+    "listed_count": 1,
+    "created_at": "Fri Jun 15 10:09:52 +0000 2012",
+    "favourites_count": 523,
+    "utc_offset": 7200,
+    "time_zone": "Athens",
+    "geo_enabled": true,
+    "verified": false,
+    "statuses_count": 1377,
+    "lang": "es",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "is_translation_enabled": false,
+    "profile_background_color": "0099B9",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+    "profile_background_tile": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/710368397205381120/ntCuYpZw_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/710368397205381120/ntCuYpZw_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/608960459/1424129791",
+    "profile_link_color": "0099B9",
+    "profile_sidebar_border_color": "5ED4DC",
+    "profile_sidebar_fill_color": "95E8EC",
+    "profile_text_color": "3C3940",
+    "profile_use_background_image": true,
+    "has_extended_profile": false,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false,
+    "translator_type": "none"
+  },
+  "geo": {
+    "type": "Point",
+    "coordinates": [38.1160927, -1.3044711]
+  },
+  "coordinates": {
+    "type": "Point",
+    "coordinates": [-1.3044711, 38.1160927]
+  },
+  "place": {
+    "id": "c37c690dfb9a3c4c",
+    "url": "https://api.twitter.com/1.1/geo/id/c37c690dfb9a3c4c.json",
+    "place_type": "city",
+    "name": "Archena",
+    "full_name": "Archena, Espa\u00f1a",
+    "country_code": "ES",
+    "country": "Espa\u00f1a",
+    "contained_within": [],
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [[-1.3260152, 38.0853715], [-1.2659056, 38.0853715], [-1.2659056, 38.1400876], [-1.3260152, 38.1400876]]
+      ]
+    },
+    "attributes": {}
+  },
+  "contributors": null,
+  "is_quote_status": false,
+  "retweet_count": 0,
+  "favorite_count": 0,
+  "favorited": false,
+  "retweeted": false,
+  "lang": "es"
+}

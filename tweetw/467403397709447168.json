@@ -1,0 +1,110 @@
+{
+  "created_at": "Fri May 16 20:37:08 +0000 2014",
+  "id": 467403397709447168,
+  "id_str": "467403397709447168",
+  "text": "Cagar no es lo mismo desde que ayer me encontrase a mi primera ara\u00f1a parda. Me da miedo que me piquen en el ojete. #ara\u00f1aparda #cagar #miedo",
+  "truncated": false,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "ara\u00f1aparda",
+        "indices": [115, 126]
+      }, {
+        "text": "cagar",
+        "indices": [127, 133]
+      }, {
+        "text": "miedo",
+        "indices": [134, 140]
+      }
+    ],
+    "symbols": [],
+    "user_mentions": [],
+    "urls": []
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 357764316,
+    "id_str": "357764316",
+    "name": "Julio \ud83e\udd55",
+    "screen_name": "thisisnotjulio",
+    "location": "New Jersey, USA",
+    "description": "Amen al pr\u00f3jimo tanto como yo los amo a ustedes. #julio #el #amoroso \ud83d\ude18\ud83d\udc3b\ud83c\udf3d\u2708\ufe0f\ud83d\udc8d",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": []
+      }
+    },
+    "protected": false,
+    "followers_count": 177,
+    "friends_count": 198,
+    "listed_count": 6,
+    "created_at": "Thu Aug 18 21:34:06 +0000 2011",
+    "favourites_count": 1955,
+    "utc_offset": 3600,
+    "time_zone": "Madrid",
+    "geo_enabled": true,
+    "verified": false,
+    "statuses_count": 3043,
+    "lang": "es",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "is_translation_enabled": false,
+    "profile_background_color": "709397",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+    "profile_background_tile": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/969070381419155456/zYNz1SpL_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/969070381419155456/zYNz1SpL_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/357764316/1488782791",
+    "profile_link_color": "FF3300",
+    "profile_sidebar_border_color": "86A4A6",
+    "profile_sidebar_fill_color": "A0C5C7",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "has_extended_profile": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false,
+    "translator_type": "none"
+  },
+  "geo": {
+    "type": "Point",
+    "coordinates": [37.37029713, -5.95190162]
+  },
+  "coordinates": {
+    "type": "Point",
+    "coordinates": [-5.95190162, 37.37029713]
+  },
+  "place": {
+    "id": "8c86b8b4cb716103",
+    "url": "https://api.twitter.com/1.1/geo/id/8c86b8b4cb716103.json",
+    "place_type": "city",
+    "name": "Sevilla",
+    "full_name": "Sevilla, Espa\u00f1a",
+    "country_code": "ES",
+    "country": "Espa\u00f1a",
+    "contained_within": [],
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [[-6.0284301, 37.3136131], [-5.8186601, 37.3136131], [-5.8186601, 37.4527828], [-6.0284301, 37.4527828]]
+      ]
+    },
+    "attributes": {}
+  },
+  "contributors": null,
+  "is_quote_status": false,
+  "retweet_count": 0,
+  "favorite_count": 2,
+  "favorited": false,
+  "retweeted": false,
+  "lang": "es"
+}

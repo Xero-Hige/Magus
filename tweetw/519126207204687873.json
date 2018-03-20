@@ -1,0 +1,109 @@
+{
+  "created_at": "Mon Oct 06 14:05:07 +0000 2014",
+  "id": 519126207204687873,
+  "id_str": "519126207204687873",
+  "text": "@frmdg2001 Acaban de Informar que Velarde es el Alcalde en San Isidro...con votos golondrinos #Increible",
+  "truncated": false,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "Increible",
+        "indices": [94, 104]
+      }
+    ],
+    "symbols": [],
+    "user_mentions": [
+      {
+        "screen_name": "frmdg2001",
+        "name": "Ruthie",
+        "id": 2198342802,
+        "id_str": "2198342802",
+        "indices": [0, 10]
+      }
+    ],
+    "urls": []
+  },
+  "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+  "in_reply_to_status_id": 519117155166879744,
+  "in_reply_to_status_id_str": "519117155166879744",
+  "in_reply_to_user_id": 2198342802,
+  "in_reply_to_user_id_str": "2198342802",
+  "in_reply_to_screen_name": "frmdg2001",
+  "user": {
+    "id": 232031038,
+    "id_str": "232031038",
+    "name": "mardewe",
+    "screen_name": "mardewe",
+    "location": "Lima, Peru",
+    "description": "Vivi y estudi\u00e9 en Alemania, voy y vengo me gusta opinar libremente sobre mi pais. Orgullosa de tener mis propias ideas y decirlas",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": []
+      }
+    },
+    "protected": false,
+    "followers_count": 6577,
+    "friends_count": 1443,
+    "listed_count": 115,
+    "created_at": "Thu Dec 30 02:55:03 +0000 2010",
+    "favourites_count": 105371,
+    "utc_offset": -18000,
+    "time_zone": "Lima",
+    "geo_enabled": true,
+    "verified": false,
+    "statuses_count": 209650,
+    "lang": "es",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "is_translation_enabled": false,
+    "profile_background_color": "C0DEED",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/608845139801460739/Sl-13FEu_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/608845139801460739/Sl-13FEu_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/232031038/1466954162",
+    "profile_link_color": "1DA1F2",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "has_extended_profile": false,
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false,
+    "translator_type": "none"
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": {
+    "id": "2dfa9ecb0179a4e4",
+    "url": "https://api.twitter.com/1.1/geo/id/2dfa9ecb0179a4e4.json",
+    "place_type": "country",
+    "name": "Peru",
+    "full_name": "Peru",
+    "country_code": "PE",
+    "country": "Peru",
+    "contained_within": [],
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [-81.3281479193672, -18.3497280290367], [-68.6730880806328, -18.3497280290367],
+          [-68.6730880806328, -0.0388399739132714], [-81.3281479193672, -0.0388399739132714]
+        ]
+      ]
+    },
+    "attributes": {}
+  },
+  "contributors": null,
+  "is_quote_status": false,
+  "retweet_count": 1,
+  "favorite_count": 0,
+  "favorited": false,
+  "retweeted": false,
+  "lang": "es"
+}

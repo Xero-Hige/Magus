@@ -1,0 +1,123 @@
+{
+  "created_at": "Sat May 10 00:18:30 +0000 2014",
+  "id": 464922392423567360,
+  "id_str": "464922392423567360",
+  "text": "Con uno de la familia que haga ejercicio el cambio y la proactividad se contagia. ^_^ #feliz (@ Toluca De Lerdo) http://t.co/Ih2ZEDjLWS",
+  "truncated": false,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "feliz",
+        "indices": [86, 92]
+      }
+    ],
+    "symbols": [],
+    "user_mentions": [],
+    "urls": [
+      {
+        "url": "http://t.co/Ih2ZEDjLWS",
+        "expanded_url": "http://4sq.com/1nqfs5Z",
+        "display_url": "4sq.com/1nqfs5Z",
+        "indices": [113, 135]
+      }
+    ]
+  },
+  "source": "<a href=\"http://foursquare.com\" rel=\"nofollow\">Foursquare</a>",
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 83056662,
+    "id_str": "83056662",
+    "name": "Daniel Avila",
+    "screen_name": "denzoodaniel",
+    "location": "M\u00e9xico",
+    "description": "\u2022AudioVisual Producer\u2022Graphic Designer\u2022",
+    "url": "https://t.co/CIspx2iKQg",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "https://t.co/CIspx2iKQg",
+            "expanded_url": "https://vimeo.com/denzoodaniel",
+            "display_url": "vimeo.com/denzoodaniel",
+            "indices": [0, 23]
+          }
+        ]
+      },
+      "description": {
+        "urls": []
+      }
+    },
+    "protected": false,
+    "followers_count": 527,
+    "friends_count": 503,
+    "listed_count": 13,
+    "created_at": "Sat Oct 17 04:38:45 +0000 2009",
+    "favourites_count": 1428,
+    "utc_offset": -21600,
+    "time_zone": "Mexico City",
+    "geo_enabled": true,
+    "verified": false,
+    "statuses_count": 29714,
+    "lang": "es",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "is_translation_enabled": false,
+    "profile_background_color": "642D8B",
+    "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/142755084/ULTIMA_CENA.jpg",
+    "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/142755084/ULTIMA_CENA.jpg",
+    "profile_background_tile": true,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/722252177444446208/sT068LmB_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/722252177444446208/sT068LmB_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/83056662/1376551882",
+    "profile_link_color": "FF0000",
+    "profile_sidebar_border_color": "65B0DA",
+    "profile_sidebar_fill_color": "7AC3EE",
+    "profile_text_color": "3D1957",
+    "profile_use_background_image": true,
+    "has_extended_profile": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false,
+    "translator_type": "none"
+  },
+  "geo": {
+    "type": "Point",
+    "coordinates": [19.26650181, -99.67351317]
+  },
+  "coordinates": {
+    "type": "Point",
+    "coordinates": [-99.67351317, 19.26650181]
+  },
+  "place": {
+    "id": "7027ba8eb532eb33",
+    "url": "https://api.twitter.com/1.1/geo/id/7027ba8eb532eb33.json",
+    "place_type": "city",
+    "name": "Toluca",
+    "full_name": "Toluca, M\u00e9xico",
+    "country_code": "MX",
+    "country": "M\u00e9xico",
+    "contained_within": [],
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [[-99.7825792, 19.0763934], [-99.5287728, 19.0763934], [-99.5287728, 19.4922499], [-99.7825792, 19.4922499]]
+      ]
+    },
+    "attributes": {}
+  },
+  "contributors": null,
+  "is_quote_status": false,
+  "retweet_count": 0,
+  "favorite_count": 0,
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false,
+  "possibly_sensitive_appealable": false,
+  "lang": "es"
+}

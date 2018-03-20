@@ -1,0 +1,134 @@
+{
+  "created_at": "Thu May 22 22:32:16 +0000 2014",
+  "id": 469606699980955648,
+  "id_str": "469606699980955648",
+  "text": "Yo la m\u00e1s feliz con mi playera de @mijobrands #trabajando #feliz @ Plaza Mega San Mateo http://t.co/nAth2ozYCl",
+  "truncated": false,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "trabajando",
+        "indices": [46, 57]
+      }, {
+        "text": "feliz",
+        "indices": [58, 64]
+      }
+    ],
+    "symbols": [],
+    "user_mentions": [
+      {
+        "screen_name": "mijobrands",
+        "name": "Mijo! Brands",
+        "id": 53448094,
+        "id_str": "53448094",
+        "indices": [34, 45]
+      }
+    ],
+    "urls": [
+      {
+        "url": "http://t.co/nAth2ozYCl",
+        "expanded_url": "http://instagram.com/p/oUORD0iUPB/",
+        "display_url": "instagram.com/p/oUORD0iUPB/",
+        "indices": [88, 110]
+      }
+    ]
+  },
+  "source": "<a href=\"http://instagram.com\" rel=\"nofollow\">Instagram</a>",
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 179605871,
+    "id_str": "179605871",
+    "name": "Elidee Hern\u00e1ndez",
+    "screen_name": "elideehdz",
+    "location": "Ciudad de M\u00e9xico",
+    "description": "Amante del #MarketingDigital, de la m\u00fasica, de la vida y de la locutora por pasi\u00f3n... #Miber",
+    "url": "https://t.co/wFWwnkATYK",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "https://t.co/wFWwnkATYK",
+            "expanded_url": "http://elideehernandez.blogspot.com",
+            "display_url": "elideehernandez.blogspot.com",
+            "indices": [0, 23]
+          }
+        ]
+      },
+      "description": {
+        "urls": []
+      }
+    },
+    "protected": false,
+    "followers_count": 1363,
+    "friends_count": 2279,
+    "listed_count": 38,
+    "created_at": "Tue Aug 17 18:08:59 +0000 2010",
+    "favourites_count": 1114,
+    "utc_offset": -14400,
+    "time_zone": "Eastern Time (US & Canada)",
+    "geo_enabled": true,
+    "verified": false,
+    "statuses_count": 11871,
+    "lang": "es",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "is_translation_enabled": false,
+    "profile_background_color": "FF6699",
+    "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/583107724/8emn8hh7j38pjke91l2z.gif",
+    "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/583107724/8emn8hh7j38pjke91l2z.gif",
+    "profile_background_tile": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/528604026267369472/ATZqZhzL_normal.jpeg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/528604026267369472/ATZqZhzL_normal.jpeg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/179605871/1399641271",
+    "profile_link_color": "B40B43",
+    "profile_sidebar_border_color": "CC3366",
+    "profile_sidebar_fill_color": "E5507E",
+    "profile_text_color": "362720",
+    "profile_use_background_image": false,
+    "has_extended_profile": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false,
+    "translator_type": "none"
+  },
+  "geo": {
+    "type": "Point",
+    "coordinates": [19.48389078, -99.24970486]
+  },
+  "coordinates": {
+    "type": "Point",
+    "coordinates": [-99.24970486, 19.48389078]
+  },
+  "place": {
+    "id": "088bd1671a2e601a",
+    "url": "https://api.twitter.com/1.1/geo/id/088bd1671a2e601a.json",
+    "place_type": "city",
+    "name": "Naucalpan de Ju\u00e1rez",
+    "full_name": "Naucalpan de Ju\u00e1rez, M\u00e9xico",
+    "country_code": "MX",
+    "country": "M\u00e9xico",
+    "contained_within": [],
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [[-99.413769, 19.412031], [-99.2070866, 19.412031], [-99.2070866, 19.535557], [-99.413769, 19.535557]]
+      ]
+    },
+    "attributes": {}
+  },
+  "contributors": null,
+  "is_quote_status": false,
+  "retweet_count": 0,
+  "favorite_count": 0,
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false,
+  "possibly_sensitive_appealable": false,
+  "lang": "es"
+}

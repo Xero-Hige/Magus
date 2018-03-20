@@ -1,0 +1,107 @@
+{
+  "created_at": "Mon May 12 15:00:40 +0000 2014",
+  "id": 465869173110104064,
+  "id_str": "465869173110104064",
+  "text": "Despertar feliz despu\u00e9s del fin de que paso y que como estas con tos, venga mam\u00e1 y traiga el desayuno para las dos a la cama #amor #feliz",
+  "truncated": false,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "amor",
+        "indices": [125, 130]
+      }, {
+        "text": "feliz",
+        "indices": [131, 137]
+      }
+    ],
+    "symbols": [],
+    "user_mentions": [],
+    "urls": []
+  },
+  "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 63615702,
+    "id_str": "63615702",
+    "name": "Nanu",
+    "screen_name": "NadiaJosefina",
+    "location": "",
+    "description": "Fb:Nadiia Josefina/Instagram: NadiiiaJosefina// Thanks for making me a fighter",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": []
+      }
+    },
+    "protected": false,
+    "followers_count": 160,
+    "friends_count": 338,
+    "listed_count": 0,
+    "created_at": "Fri Aug 07 02:33:05 +0000 2009",
+    "favourites_count": 1134,
+    "utc_offset": -10800,
+    "time_zone": "Buenos Aires",
+    "geo_enabled": true,
+    "verified": false,
+    "statuses_count": 6813,
+    "lang": "es",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "is_translation_enabled": false,
+    "profile_background_color": "009AB9",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+    "profile_background_tile": true,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/702686919281549312/WhrCuyxo_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/702686919281549312/WhrCuyxo_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/63615702/1398174812",
+    "profile_link_color": "009999",
+    "profile_sidebar_border_color": "FFFFFF",
+    "profile_sidebar_fill_color": "95E8EC",
+    "profile_text_color": "3C3940",
+    "profile_use_background_image": true,
+    "has_extended_profile": false,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false,
+    "translator_type": "none"
+  },
+  "geo": {
+    "type": "Point",
+    "coordinates": [-34.5812486, -58.4135742]
+  },
+  "coordinates": {
+    "type": "Point",
+    "coordinates": [-58.4135742, -34.5812486]
+  },
+  "place": {
+    "id": "1ed82be977be0cfa",
+    "url": "https://api.twitter.com/1.1/geo/id/1ed82be977be0cfa.json",
+    "place_type": "admin",
+    "name": "Ciudad Aut\u00f3noma de Buenos Aires",
+    "full_name": "Ciudad Aut\u00f3noma de Buenos Aires, Argentina",
+    "country_code": "AR",
+    "country": "Argentina",
+    "contained_within": [],
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [[-58.5317922, -34.7054213], [-58.335105, -34.7054213], [-58.335105, -34.526466], [-58.5317922, -34.526466]]
+      ]
+    },
+    "attributes": {}
+  },
+  "contributors": null,
+  "is_quote_status": false,
+  "retweet_count": 0,
+  "favorite_count": 0,
+  "favorited": false,
+  "retweeted": false,
+  "lang": "es"
+}

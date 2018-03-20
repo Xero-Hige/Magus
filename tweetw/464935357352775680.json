@@ -1,0 +1,104 @@
+{
+  "created_at": "Sat May 10 01:10:01 +0000 2014",
+  "id": 464935357352775680,
+  "id_str": "464935357352775680",
+  "text": "Anda un preso pr\u00f3fugo piden no levantar de calle ja! #Terror",
+  "truncated": false,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "Terror",
+        "indices": [53, 60]
+      }
+    ],
+    "symbols": [],
+    "user_mentions": [],
+    "urls": []
+  },
+  "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 1416293924,
+    "id_str": "1416293924",
+    "name": "\u2600\u261e \u029b\u24e4\u24e2\u2020\u24d0\u24e5\u03c3 \u261c \u2600",
+    "screen_name": "gus290191",
+    "location": "Necochea ",
+    "description": "\u00b0\u00b0\u00b0Miradas que invitan so\u00f1ar\u00b0\u00b0\u00b0",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": []
+      }
+    },
+    "protected": false,
+    "followers_count": 108,
+    "friends_count": 192,
+    "listed_count": 0,
+    "created_at": "Thu May 09 19:31:34 +0000 2013",
+    "favourites_count": 98,
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": true,
+    "verified": false,
+    "statuses_count": 3095,
+    "lang": "es",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "is_translation_enabled": false,
+    "profile_background_color": "25B4C7",
+    "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000004987400/fafa5efeaf3cbe3b23b2748d13e629a1.jpeg",
+    "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000004987400/fafa5efeaf3cbe3b23b2748d13e629a1.jpeg",
+    "profile_background_tile": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/535147457479725057/VYaiGLr5_normal.jpeg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/535147457479725057/VYaiGLr5_normal.jpeg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1416293924/1416424067",
+    "profile_link_color": "373F42",
+    "profile_sidebar_border_color": "FFFFFF",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "has_extended_profile": false,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false,
+    "translator_type": "none"
+  },
+  "geo": {
+    "type": "Point",
+    "coordinates": [-38.56429713, -58.7360516]
+  },
+  "coordinates": {
+    "type": "Point",
+    "coordinates": [-58.7360516, -38.56429713]
+  },
+  "place": {
+    "id": "4afa2757051c5192",
+    "url": "https://api.twitter.com/1.1/geo/id/4afa2757051c5192.json",
+    "place_type": "admin",
+    "name": "Buenos Aires",
+    "full_name": "Buenos Aires, Argentina",
+    "country_code": "AR",
+    "country": "Argentina",
+    "contained_within": [],
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [[-63.39386, -41.035009], [-56.665836, -41.035009], [-56.665836, -33.260144], [-63.39386, -33.260144]]
+      ]
+    },
+    "attributes": {}
+  },
+  "contributors": null,
+  "is_quote_status": false,
+  "retweet_count": 0,
+  "favorite_count": 0,
+  "favorited": false,
+  "retweeted": false,
+  "lang": "es"
+}

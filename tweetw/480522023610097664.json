@@ -1,0 +1,104 @@
+{
+  "created_at": "Sun Jun 22 01:25:52 +0000 2014",
+  "id": 480522023610097664,
+  "id_str": "480522023610097664",
+  "text": "#odioquando estoy por saber que en cualquier momento se me apaga el celular porque no tengo bater\u00eda.",
+  "truncated": false,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "odioquando",
+        "indices": [0, 11]
+      }
+    ],
+    "symbols": [],
+    "user_mentions": [],
+    "urls": []
+  },
+  "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 1113009480,
+    "id_str": "1113009480",
+    "name": "Casi\ud83d\udcab",
+    "screen_name": "CassJuarez99",
+    "location": "",
+    "description": "17 a\u00f1os|Club Pucara\ud83d\udc99\u2764 [[Sing]]  \u2764                                                            Sc. CassJuarez99 #PROMO17",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": []
+      }
+    },
+    "protected": false,
+    "followers_count": 222,
+    "friends_count": 210,
+    "listed_count": 1,
+    "created_at": "Wed Jan 23 00:37:37 +0000 2013",
+    "favourites_count": 5153,
+    "utc_offset": -10800,
+    "time_zone": "Brasilia",
+    "geo_enabled": true,
+    "verified": false,
+    "statuses_count": 9968,
+    "lang": "es",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "is_translation_enabled": false,
+    "profile_background_color": "0099B9",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+    "profile_background_tile": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/805417420924063744/5fkyuISP_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/805417420924063744/5fkyuISP_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1113009480/1469225376",
+    "profile_link_color": "0099B9",
+    "profile_sidebar_border_color": "5ED4DC",
+    "profile_sidebar_fill_color": "95E8EC",
+    "profile_text_color": "3C3940",
+    "profile_use_background_image": true,
+    "has_extended_profile": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false,
+    "translator_type": "none"
+  },
+  "geo": {
+    "type": "Point",
+    "coordinates": [-34.8134703, -58.3801051]
+  },
+  "coordinates": {
+    "type": "Point",
+    "coordinates": [-58.3801051, -34.8134703]
+  },
+  "place": {
+    "id": "014c3ff137d87084",
+    "url": "https://api.twitter.com/1.1/geo/id/014c3ff137d87084.json",
+    "place_type": "city",
+    "name": "Almirante Brown",
+    "full_name": "Almirante Brown, Argentina",
+    "country_code": "AR",
+    "country": "Argentina",
+    "contained_within": [],
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [[-58.447767, -34.90991], [-58.30982, -34.90991], [-58.30982, -34.754352], [-58.447767, -34.754352]]
+      ]
+    },
+    "attributes": {}
+  },
+  "contributors": null,
+  "is_quote_status": false,
+  "retweet_count": 0,
+  "favorite_count": 0,
+  "favorited": false,
+  "retweeted": false,
+  "lang": "es"
+}

@@ -1,0 +1,107 @@
+{
+  "created_at": "Wed May 14 02:06:42 +0000 2014",
+  "id": 466399170258305028,
+  "id_str": "466399170258305028",
+  "text": "Acabo de flashar que se abria la puerta y entraba una luz amarilla  y era solo una sombra.. juro que no me drogo #noestoybien #miedo",
+  "truncated": false,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "noestoybien",
+        "indices": [113, 125]
+      }, {
+        "text": "miedo",
+        "indices": [126, 132]
+      }
+    ],
+    "symbols": [],
+    "user_mentions": [],
+    "urls": []
+  },
+  "source": "<a href=\"https://twitter.com/download/android\" rel=\"nofollow\">Twitter for  Android</a>",
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 79468881,
+    "id_str": "79468881",
+    "name": "Flor Paz",
+    "screen_name": "flor_fp",
+    "location": "Las Flores",
+    "description": "improvisaci\u00f3n para un mundo mejor \ud83d\udc4c",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": []
+      }
+    },
+    "protected": false,
+    "followers_count": 619,
+    "friends_count": 607,
+    "listed_count": 4,
+    "created_at": "Sat Oct 03 14:08:18 +0000 2009",
+    "favourites_count": 1607,
+    "utc_offset": -10800,
+    "time_zone": "Buenos Aires",
+    "geo_enabled": true,
+    "verified": false,
+    "statuses_count": 12191,
+    "lang": "es",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "is_translation_enabled": false,
+    "profile_background_color": "DBE9ED",
+    "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/869204767/15f68b3c54ad781b9349a3ea67ac1684.jpeg",
+    "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/869204767/15f68b3c54ad781b9349a3ea67ac1684.jpeg",
+    "profile_background_tile": true,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/967410622513254400/botk6IeS_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/967410622513254400/botk6IeS_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/79468881/1516270403",
+    "profile_link_color": "CC3366",
+    "profile_sidebar_border_color": "FFFFFF",
+    "profile_sidebar_fill_color": "65BDF0",
+    "profile_text_color": "1A92ED",
+    "profile_use_background_image": true,
+    "has_extended_profile": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false,
+    "translator_type": "none"
+  },
+  "geo": {
+    "type": "Point",
+    "coordinates": [-34.923968, -57.956735]
+  },
+  "coordinates": {
+    "type": "Point",
+    "coordinates": [-57.956735, -34.923968]
+  },
+  "place": {
+    "id": "4afa2757051c5192",
+    "url": "https://api.twitter.com/1.1/geo/id/4afa2757051c5192.json",
+    "place_type": "admin",
+    "name": "Buenos Aires",
+    "full_name": "Buenos Aires, Argentina",
+    "country_code": "AR",
+    "country": "Argentina",
+    "contained_within": [],
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [[-63.39386, -41.035009], [-56.665836, -41.035009], [-56.665836, -33.260144], [-63.39386, -33.260144]]
+      ]
+    },
+    "attributes": {}
+  },
+  "contributors": null,
+  "is_quote_status": false,
+  "retweet_count": 0,
+  "favorite_count": 0,
+  "favorited": false,
+  "retweeted": false,
+  "lang": "es"
+}

@@ -1,0 +1,111 @@
+{
+  "created_at": "Tue Jun 24 17:09:40 +0000 2014",
+  "id": 481484314371436544,
+  "id_str": "481484314371436544",
+  "text": "#enojopantojo la ponen el caramelito, colaboradora y tal pa que largue y luego patada en la boca cono a la tia de adams @salvameoficial",
+  "truncated": false,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "enojopantojo",
+        "indices": [0, 13]
+      }
+    ],
+    "symbols": [],
+    "user_mentions": [
+      {
+        "screen_name": "salvameoficial",
+        "name": "S\u00e1lvame Oficial",
+        "id": 252607825,
+        "id_str": "252607825",
+        "indices": [120, 135]
+      }
+    ],
+    "urls": []
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 135619382,
+    "id_str": "135619382",
+    "name": "Jesus Fernandez",
+    "screen_name": "jmanuelfv",
+    "location": "Rivas Vaciamadrid ",
+    "description": "",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": []
+      }
+    },
+    "protected": false,
+    "followers_count": 318,
+    "friends_count": 233,
+    "listed_count": 2,
+    "created_at": "Wed Apr 21 20:38:59 +0000 2010",
+    "favourites_count": 299,
+    "utc_offset": 3600,
+    "time_zone": "Madrid",
+    "geo_enabled": true,
+    "verified": false,
+    "statuses_count": 20236,
+    "lang": "es",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "is_translation_enabled": false,
+    "profile_background_color": "C0DEED",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/742303550382952448/G9CCJCM5_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/742303550382952448/G9CCJCM5_normal.jpg",
+    "profile_link_color": "1DA1F2",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "has_extended_profile": true,
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false,
+    "translator_type": "none"
+  },
+  "geo": {
+    "type": "Point",
+    "coordinates": [40.35641916, -3.5191442]
+  },
+  "coordinates": {
+    "type": "Point",
+    "coordinates": [-3.5191442, 40.35641916]
+  },
+  "place": {
+    "id": "da488f9634588a45",
+    "url": "https://api.twitter.com/1.1/geo/id/da488f9634588a45.json",
+    "place_type": "city",
+    "name": "Rivas-Vaciamadrid",
+    "full_name": "Rivas-Vaciamadrid, Espa\u00f1a",
+    "country_code": "ES",
+    "country": "Espa\u00f1a",
+    "contained_within": [],
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [[-3.5850355, 40.2876027], [-3.4698762, 40.2876027], [-3.4698762, 40.4112697], [-3.5850355, 40.4112697]]
+      ]
+    },
+    "attributes": {}
+  },
+  "contributors": null,
+  "is_quote_status": false,
+  "retweet_count": 0,
+  "favorite_count": 0,
+  "favorited": false,
+  "retweeted": false,
+  "lang": "es"
+}

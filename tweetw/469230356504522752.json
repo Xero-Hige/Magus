@@ -1,0 +1,104 @@
+{
+  "created_at": "Wed May 21 21:36:49 +0000 2014",
+  "id": 469230356504522752,
+  "id_str": "469230356504522752",
+  "text": "Me estres\u00f3 recibir un mensaje de mi mam\u00e1 diciendo \"ME CAMBIE EL LOOK\" necesito tomar aire para responderle .#MIEDO",
+  "truncated": false,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "MIEDO",
+        "indices": [108, 114]
+      }
+    ],
+    "symbols": [],
+    "user_mentions": [],
+    "urls": []
+  },
+  "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 815274378,
+    "id_str": "815274378",
+    "name": "Mika Paez\u2661",
+    "screen_name": "MikapaezBarquin",
+    "location": "",
+    "description": "Mama de Federica \u2764\ufe0f",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": []
+      }
+    },
+    "protected": false,
+    "followers_count": 427,
+    "friends_count": 248,
+    "listed_count": 0,
+    "created_at": "Mon Sep 10 13:55:45 +0000 2012",
+    "favourites_count": 905,
+    "utc_offset": -10800,
+    "time_zone": "Brasilia",
+    "geo_enabled": true,
+    "verified": false,
+    "statuses_count": 9334,
+    "lang": "es",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "is_translation_enabled": false,
+    "profile_background_color": "C0DEED",
+    "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/715834127/5d79c1e313617ae9ba0bb22d6dee7bdd.jpeg",
+    "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/715834127/5d79c1e313617ae9ba0bb22d6dee7bdd.jpeg",
+    "profile_background_tile": true,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/917965214045343744/T1ZcjWie_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/917965214045343744/T1ZcjWie_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/815274378/1520000300",
+    "profile_link_color": "0084B4",
+    "profile_sidebar_border_color": "FFFFFF",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "has_extended_profile": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false,
+    "translator_type": "none"
+  },
+  "geo": {
+    "type": "Point",
+    "coordinates": [-27.7870553, -64.2610559]
+  },
+  "coordinates": {
+    "type": "Point",
+    "coordinates": [-64.2610559, -27.7870553]
+  },
+  "place": {
+    "id": "0ef5d7bb520a036f",
+    "url": "https://api.twitter.com/1.1/geo/id/0ef5d7bb520a036f.json",
+    "place_type": "admin",
+    "name": "Santiago del Estero",
+    "full_name": "Santiago del Estero, Argentina",
+    "country_code": "AR",
+    "country": "Argentina",
+    "contained_within": [],
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [[-65.187403, -30.478989], [-61.709882, -30.478989], [-61.709882, -25.651906], [-65.187403, -25.651906]]
+      ]
+    },
+    "attributes": {}
+  },
+  "contributors": null,
+  "is_quote_status": false,
+  "retweet_count": 0,
+  "favorite_count": 1,
+  "favorited": false,
+  "retweeted": false,
+  "lang": "es"
+}
