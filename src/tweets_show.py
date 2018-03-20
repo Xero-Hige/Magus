@@ -1,3 +1,4 @@
+import datetime
 import os
 import random
 import re
@@ -153,13 +154,15 @@ def scrapp():
                   stdout=PIPE, stdin=PIPE, stderr=PIPE, cwd='./upload')
         p.communicate(input=b'\n')
 
-        p = Popen(["git", "checkout", "tweets"],
+        new_branch = "tweets_{}".format(datetime.datetime.now())
+
+        p = Popen(["git", "checkout", "-b", new_branch, "812749abb8e4018c60a9322a1ca12026485f7e3d"],
                   stdout=PIPE, stdin=PIPE, stderr=PIPE, cwd='./upload')
         p.communicate(input=b'\n')
 
-        p = Popen(["git", "pull", "origin", "tweets"],
-                  stdout=PIPE, stdin=PIPE, stderr=PIPE, cwd='./upload')
-        p.communicate(input=b'\n')
+        # p = Popen(["git", "pull", "origin", "tweets"],
+        #          stdout=PIPE, stdin=PIPE, stderr=PIPE, cwd='./upload')
+        # p.communicate(input=b'\n')
 
         do_scrapping(locations, topics, geo, "./upload/bulk")
 
@@ -174,12 +177,12 @@ def scrapp():
         stdout_data = p.communicate(input=b'\n')
         print("DEBUG - INFO : ", stdout_data)
 
-        p = Popen(["git", "pull", "origin", "tweets"],
-                  stdout=PIPE, stdin=PIPE, stderr=PIPE, cwd='./upload')
-        stdout_data = p.communicate(input=b'\n')
+        # p = Popen(["git", "pull", "origin", "tweets"],
+        #          stdout=PIPE, stdin=PIPE, stderr=PIPE, cwd='./upload')
+        # stdout_data = p.communicate(input=b'\n')
         print("DEBUG - INFO : ", stdout_data)
 
-        p = Popen(["git", "push", "--set-upstream", "origin", "tweets"],
+        p = Popen(["git", "push", "--set-upstream", "origin", new_branch],
                   stdout=PIPE, stdin=PIPE, stderr=PIPE, cwd='./upload')
         stdout_data = p.communicate(
                 input=bytes('{}\n{}\n'.format(
@@ -297,15 +300,15 @@ def get_tweets_status():
     bulk_tweets = os.listdir("../bulk")
 
     samples = {
-        JOY: [],
-        TRUST: [],
-        FEAR: [],
-        SURPRISE: [],
-        DISGUST: [],
-        ANGER: [],
+        JOY:          [],
+        TRUST:        [],
+        FEAR:         [],
+        SURPRISE:     [],
+        DISGUST:      [],
+        ANGER:        [],
         ANTICIPATION: [],
-        SADNESS: [],
-        NEUTRAL: []
+        SADNESS:      [],
+        NEUTRAL:      []
     }
 
     with DB_Handler() as handler:
