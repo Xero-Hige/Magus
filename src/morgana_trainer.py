@@ -12,6 +12,7 @@ from tensorflow.python.saved_model import builder as saved_model_builder, signat
 from tensorflow.python.util import compat
 
 from morgana_cnn_schema import MorganaCNNSchema
+from morgana_config_handler import NUMBER_OF_EMOTIONS
 
 TEST_STEP = 5
 
@@ -238,8 +239,14 @@ def do_test_step(batches, cnn, sess):
 
     random.shuffle(batches)
 
-    confusion_matrix_global = [[0 for _ in range(5)] for _ in range(5)]
-    confusion_matrix_partial = [[0 for _ in range(5)] for _ in range(5)]
+    confusion_matrix_global = [
+        [0 for _ in range(NUMBER_OF_EMOTIONS)]
+        for _ in range(NUMBER_OF_EMOTIONS)
+    ]
+    confusion_matrix_partial = [
+        [0 for _ in range(NUMBER_OF_EMOTIONS)]
+        for _ in range(NUMBER_OF_EMOTIONS)
+    ]
 
     for batch_number in range(len(batches)):
         with open(batches[batch_number], 'rb') as pickled:
@@ -283,19 +290,19 @@ def do_test_step(batches, cnn, sess):
 
     print("Fscore Global")
     total_fscore = 0
-    for label in range(5):
+    for label in range(NUMBER_OF_EMOTIONS):
         f_score = get_f_score_for_label(label, confusion_matrix_global)
         print("Label: {} - Fscore {}".format(label, f_score))
         total_fscore += f_score
-    print("Mean Fscore {}".format(total_fscore / 5))
+    print("Mean Fscore {}".format(total_fscore / NUMBER_OF_EMOTIONS))
 
     print("Fscore Partial")
     total_fscore = 0
-    for label in range(5):
+    for label in range(NUMBER_OF_EMOTIONS):
         f_score = get_f_score_for_label(label, confusion_matrix_partial)
         print("Label: {} - Fscore {}".format(label, f_score))
         total_fscore += f_score
-    print("Mean Fscore {}".format(total_fscore / 5))
+    print("Mean Fscore {}".format(total_fscore / NUMBER_OF_EMOTIONS))
 
     with open("test_steps.csv", "a") as log:
         log.write("{},{},{},{},{}\n".format(total_accuracy / total_batches,

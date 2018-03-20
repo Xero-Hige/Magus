@@ -10,6 +10,7 @@ except IOError:
 
 MORGANA_CONFIGS = config
 ENABLED_EMOTIONS = config["enabled_emotions"]
+NUMBER_OF_EMOTIONS = len(ENABLED_EMOTIONS)
 TWEETS_DIRS = config["tweets_dirs"]
 EMBEDDING_SIZES = config["embeddings_sizes"]
 MAX_FEATURES = config["max_features"]
