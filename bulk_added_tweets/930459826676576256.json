@@ -1,0 +1,106 @@
+{
+  "id": 930459826676576256,
+  "in_reply_to_status_id_str": null,
+  "truncated": false,
+  "place": {
+    "id": "3a9c654a445000f6",
+    "country": "Spain",
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [[[-3.761318, 40.266415], [-3.761318, 40.334686], [-3.570016, 40.334686], [-3.570016, 40.266415]]]
+    },
+    "url": "https://api.twitter.com/1.1/geo/id/3a9c654a445000f6.json",
+    "full_name": "Getafe, Spain",
+    "attributes": {},
+    "name": "Getafe",
+    "place_type": "city",
+    "country_code": "ES"
+  },
+  "favorite_count": 0,
+  "retweeted": false,
+  "source": "<a href=\"https://dlvrit.com/\" rel=\"nofollow\">dlvr.it</a>",
+  "is_quote_status": false,
+  "possibly_sensitive": false,
+  "geo": {
+    "type": "Point",
+    "coordinates": [40.325608, -3.64746094]
+  },
+  "coordinates": {
+    "type": "Point",
+    "coordinates": [-3.64746094, 40.325608]
+  },
+  "in_reply_to_status_id": null,
+  "retweet_count": 0,
+  "quote_count": 0,
+  "timestamp_ms": "1510673884444",
+  "favorited": false,
+  "in_reply_to_user_id_str": null,
+  "text": "#Egaylity \u2014 Joven cubano denunci\u00f3 que fue v\u00edctima de ataque homof\u00f3bico https://t.co/T96YpSZcf8",
+  "entities": {
+    "urls": [
+      {
+        "indices": [71, 94],
+        "display_url": "dlvr.it/Q0vS5v",
+        "url": "https://t.co/T96YpSZcf8",
+        "expanded_url": "http://dlvr.it/Q0vS5v"
+      }
+    ],
+    "symbols": [],
+    "user_mentions": [],
+    "hashtags": [
+      {
+        "text": "Egaylity",
+        "indices": [0, 9]
+      }
+    ]
+  },
+  "reply_count": 0,
+  "in_reply_to_screen_name": null,
+  "filter_level": "low",
+  "lang": "es",
+  "user": {
+    "statuses_count": 1259733,
+    "id": 208056970,
+    "default_profile": false,
+    "favourites_count": 0,
+    "url": "http://in.stigmabase.org",
+    "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000124911460/6bd515ae471cf08b101143d6cd9eeeaa.png",
+    "verified": false,
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000775227733/ae13c3d84fd6fa9876a0c7c46e3a3f24_normal.png",
+    "translator_type": "none",
+    "location": "WORLDWIDE ",
+    "geo_enabled": true,
+    "utc_offset": -28800,
+    "notifications": null,
+    "profile_background_tile": false,
+    "friends_count": 2754,
+    "is_translator": false,
+    "follow_request_sent": null,
+    "default_profile_image": false,
+    "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000124911460/6bd515ae471cf08b101143d6cd9eeeaa.png",
+    "profile_background_color": "FFFFFF",
+    "profile_link_color": "0084B4",
+    "profile_use_background_image": true,
+    "time_zone": "Pacific Time (US & Canada)",
+    "name": "Stigmabase | UN",
+    "profile_text_color": "000000",
+    "profile_sidebar_border_color": "FFFFFF",
+    "screen_name": "PairsonnalitesU",
+    "lang": "en",
+    "following": null,
+    "listed_count": 142,
+    "protected": false,
+    "profile_sidebar_fill_color": "DDEEF6",
+    "followers_count": 2871,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/378800000775227733/ae13c3d84fd6fa9876a0c7c46e3a3f24_normal.png",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/208056970/1385144150",
+    "contributors_enabled": false,
+    "created_at": "Tue Oct 26 15:04:54 +0000 2010",
+    "id_str": "208056970",
+    "description": "India & Asia \u2014 T\u00fcrk\u00e7e \u2014 \u010ce\u0161tina \u2014 \u03b5\u03bb\u03bb\u03b7\u03bd\u03b9\u03ba\u03ac | Keeping up-to-date on social exclusion worldwide | A Nonprofit Initiative"
+  },
+  "created_at": "Tue Nov 14 15:38:04 +0000 2017",
+  "id_str": "930459826676576256",
+  "in_reply_to_user_id": null,
+  "contributors": null
+}

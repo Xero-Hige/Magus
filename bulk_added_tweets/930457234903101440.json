@@ -1,0 +1,134 @@
+{
+  "id": 930457234903101440,
+  "lang": "es",
+  "in_reply_to_status_id_str": null,
+  "truncated": true,
+  "place": {
+    "id": "0177894212b08f73",
+    "country": "Argentina",
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [[-58.160874, -35.031373], [-58.160874, -34.841264], [-57.865169, -34.841264], [-57.865169, -35.031373]]
+      ]
+    },
+    "url": "https://api.twitter.com/1.1/geo/id/0177894212b08f73.json",
+    "full_name": "La Plata, Argentina",
+    "attributes": {},
+    "name": "La Plata",
+    "place_type": "city",
+    "country_code": "AR"
+  },
+  "favorite_count": 0,
+  "retweeted": false,
+  "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+  "is_quote_status": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "retweet_count": 0,
+  "quote_count": 0,
+  "timestamp_ms": "1510673266517",
+  "favorited": false,
+  "coordinates": null,
+  "text": "No est\u00e1 mal la carta de @MarcelaFeudale . Pero no comparto su interpretaci\u00f3n. Yo entend\u00ed de entrada que @alfleuco s\u2026 https://t.co/0o2ubPlFOe",
+  "entities": {
+    "urls": [
+      {
+        "indices": [117, 140],
+        "display_url": "twitter.com/i/web/status/9\u2026",
+        "url": "https://t.co/0o2ubPlFOe",
+        "expanded_url": "https://twitter.com/i/web/status/930457234903101440"
+      }
+    ],
+    "symbols": [],
+    "user_mentions": [
+      {
+        "screen_name": "MarcelaFeudale",
+        "id": 237828788,
+        "name": "Marcela Feudale",
+        "indices": [24, 39],
+        "id_str": "237828788"
+      }, {
+        "screen_name": "alfleuco",
+        "id": 2329247971,
+        "name": "Alfredo Leuco OK",
+        "indices": [104, 113],
+        "id_str": "2329247971"
+      }
+    ],
+    "hashtags": []
+  },
+  "reply_count": 0,
+  "geo": null,
+  "filter_level": "low",
+  "extended_tweet": {
+    "display_text_range": [0, 272],
+    "entities": {
+      "urls": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "screen_name": "MarcelaFeudale",
+          "id": 237828788,
+          "name": "Marcela Feudale",
+          "indices": [24, 39],
+          "id_str": "237828788"
+        }, {
+          "screen_name": "alfleuco",
+          "id": 2329247971,
+          "name": "Alfredo Leuco OK",
+          "indices": [104, 113],
+          "id_str": "2329247971"
+        }
+      ],
+      "hashtags": []
+    },
+    "full_text": "No est\u00e1 mal la carta de @MarcelaFeudale . Pero no comparto su interpretaci\u00f3n. Yo entend\u00ed de entrada que @alfleuco se refer\u00eda a los que, adem\u00e1s de los due\u00f1os de medios, verdaderamente tenian poder de decisi\u00f3n. Sietecase, Navarro, los VHM... Y no a los laburantes \"de a pie\""
+  },
+  "user": {
+    "statuses_count": 21244,
+    "id": 153804572,
+    "default_profile": false,
+    "favourites_count": 6234,
+    "url": null,
+    "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/205762107/Cantando_en_Gesell.jpg",
+    "verified": false,
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/590873218564673537/yBKrv-a4_normal.jpg",
+    "translator_type": "none",
+    "location": "La Plata",
+    "geo_enabled": true,
+    "utc_offset": -10800,
+    "notifications": null,
+    "profile_background_tile": true,
+    "friends_count": 856,
+    "is_translator": false,
+    "follow_request_sent": null,
+    "default_profile_image": false,
+    "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/205762107/Cantando_en_Gesell.jpg",
+    "profile_background_color": "0E475C",
+    "profile_link_color": "0084B4",
+    "profile_use_background_image": true,
+    "time_zone": "Buenos Aires",
+    "name": "Sir Arthur Pendragon",
+    "profile_text_color": "333333",
+    "profile_sidebar_border_color": "FFFFFF",
+    "screen_name": "SirArthur769",
+    "lang": "es",
+    "following": null,
+    "listed_count": 7,
+    "protected": false,
+    "profile_sidebar_fill_color": "C0DFEC",
+    "followers_count": 713,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/590873218564673537/yBKrv-a4_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/153804572/1395837603",
+    "contributors_enabled": false,
+    "created_at": "Wed Jun 09 14:01:41 +0000 2010",
+    "id_str": "153804572",
+    "description": "Argentino, liberal y republicano. No me gustan los fanatismos pero defiendo con pasi\u00f3n lo que pienso. Coreuta. Donar sangre es donar vida!"
+  },
+  "created_at": "Tue Nov 14 15:27:46 +0000 2017",
+  "id_str": "930457234903101440",
+  "in_reply_to_user_id": null,
+  "contributors": null
+}

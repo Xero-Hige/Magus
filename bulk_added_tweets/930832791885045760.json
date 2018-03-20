@@ -1,0 +1,200 @@
+{
+  "extended_tweet": {
+    "display_text_range": [0, 138],
+    "entities": {
+      "urls": [],
+      "media": [
+        {
+          "type": "photo",
+          "media_url": "http://pbs.twimg.com/media/DOr7fYRX4AA0A8-.jpg",
+          "expanded_url": "https://twitter.com/AnacoPrensa_Alc/status/930832791885045760/photo/1",
+          "id_str": "930832789515264000",
+          "indices": [139, 162],
+          "id": 930832789515264000,
+          "url": "https://t.co/bwzuKYApux",
+          "display_url": "pic.twitter.com/bwzuKYApux",
+          "sizes": {
+            "large": {
+              "w": 1200,
+              "resize": "fit",
+              "h": 641
+            },
+            "small": {
+              "w": 680,
+              "resize": "fit",
+              "h": 363
+            },
+            "medium": {
+              "w": 1200,
+              "resize": "fit",
+              "h": 641
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            }
+          },
+          "media_url_https": "https://pbs.twimg.com/media/DOr7fYRX4AA0A8-.jpg"
+        }
+      ],
+      "symbols": [],
+      "hashtags": [
+        {
+          "text": "DEPORTE",
+          "indices": [0, 8]
+        }, {
+          "text": "MarcosContigo",
+          "indices": [106, 120]
+        }, {
+          "text": "Gesti\u00f3nEficiente",
+          "indices": [121, 138]
+        }
+      ],
+      "user_mentions": []
+    },
+    "full_text": "#DEPORTE | Con Marcos Ramos hoy tenemos espacios deportivos de primer nivel \"Cancha M\u00faltiple Buena Vista\" #MarcosContigo #Gesti\u00f3nEficiente https://t.co/bwzuKYApux",
+    "extended_entities": {
+      "media": [
+        {
+          "type": "photo",
+          "media_url": "http://pbs.twimg.com/media/DOr7fYRX4AA0A8-.jpg",
+          "expanded_url": "https://twitter.com/AnacoPrensa_Alc/status/930832791885045760/photo/1",
+          "id_str": "930832789515264000",
+          "indices": [139, 162],
+          "id": 930832789515264000,
+          "url": "https://t.co/bwzuKYApux",
+          "display_url": "pic.twitter.com/bwzuKYApux",
+          "sizes": {
+            "large": {
+              "w": 1200,
+              "resize": "fit",
+              "h": 641
+            },
+            "small": {
+              "w": 680,
+              "resize": "fit",
+              "h": 363
+            },
+            "medium": {
+              "w": 1200,
+              "resize": "fit",
+              "h": 641
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            }
+          },
+          "media_url_https": "https://pbs.twimg.com/media/DOr7fYRX4AA0A8-.jpg"
+        }
+      ]
+    }
+  },
+  "favorited": false,
+  "lang": "es",
+  "display_text_range": [0, 140],
+  "favorite_count": 0,
+  "reply_count": 0,
+  "geo": {
+    "type": "Point",
+    "coordinates": [9.4276423, -64.4772039]
+  },
+  "contributors": null,
+  "text": "#DEPORTE | Con Marcos Ramos hoy tenemos espacios deportivos de primer nivel \"Cancha M\u00faltiple Buena Vista\"\u2026 https://t.co/fJd1xCXdE4",
+  "created_at": "Wed Nov 15 16:20:06 +0000 2017",
+  "place": {
+    "place_type": "city",
+    "full_name": "Anaco, Venezuela",
+    "country": "Venezuela",
+    "name": "Anaco",
+    "url": "https://api.twitter.com/1.1/geo/id/003b48082dfdd19b.json",
+    "country_code": "VE",
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [[[-64.489479, 9.412723], [-64.489479, 9.460971], [-64.446014, 9.460971], [-64.446014, 9.412723]]]
+    },
+    "id": "003b48082dfdd19b",
+    "attributes": {}
+  },
+  "user": {
+    "profile_text_color": "000000",
+    "lang": "es",
+    "location": "Venezuela ",
+    "friends_count": 466,
+    "profile_link_color": "4A913C",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/730801579717230592/Sp_RGGtu_normal.jpg",
+    "contributors_enabled": false,
+    "following": null,
+    "is_translator": false,
+    "verified": false,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/3367813169/1439246126",
+    "utc_offset": -14400,
+    "geo_enabled": true,
+    "profile_sidebar_border_color": "000000",
+    "created_at": "Thu Jul 09 15:48:46 +0000 2015",
+    "description": "Cuenta de la Alcald\u00eda del Municipio Bolivariano de Anaco Edo. Anzo\u00e1tegui. \nDep. Prensa - Juntos, lograremos que este Municipio sea #LaCiudadQueTodosQueremos",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/730801579717230592/Sp_RGGtu_normal.jpg",
+    "profile_background_color": "000000",
+    "listed_count": 7,
+    "follow_request_sent": null,
+    "profile_background_tile": false,
+    "followers_count": 1341,
+    "name": "Prensa Alc de Anaco",
+    "notifications": null,
+    "default_profile_image": false,
+    "url": "http://alcaldiabolivarianadeanaco.com/",
+    "favourites_count": 184,
+    "screen_name": "AnacoPrensa_Alc",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_sidebar_fill_color": "000000",
+    "profile_use_background_image": false,
+    "translator_type": "none",
+    "time_zone": "Caracas",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "statuses_count": 8896,
+    "id": 3367813169,
+    "default_profile": false,
+    "protected": false,
+    "id_str": "3367813169"
+  },
+  "in_reply_to_user_id_str": null,
+  "source": "<a href=\"http://www.hootsuite.com\" rel=\"nofollow\">Hootsuite</a>",
+  "filter_level": "low",
+  "is_quote_status": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_user_id": null,
+  "quote_count": 0,
+  "retweeted": false,
+  "possibly_sensitive": false,
+  "in_reply_to_screen_name": null,
+  "retweet_count": 0,
+  "in_reply_to_status_id_str": null,
+  "coordinates": {
+    "type": "Point",
+    "coordinates": [-64.4772039, 9.4276423]
+  },
+  "id": 930832791885045760,
+  "truncated": true,
+  "entities": {
+    "urls": [
+      {
+        "url": "https://t.co/fJd1xCXdE4",
+        "display_url": "twitter.com/i/web/status/9\u2026",
+        "indices": [107, 130],
+        "expanded_url": "https://twitter.com/i/web/status/930832791885045760"
+      }
+    ],
+    "symbols": [],
+    "hashtags": [
+      {
+        "text": "DEPORTE",
+        "indices": [0, 8]
+      }
+    ],
+    "user_mentions": []
+  },
+  "timestamp_ms": "1510762806279",
+  "id_str": "930832791885045760"
+}

@@ -1,0 +1,244 @@
+{
+  "is_quote_status": false,
+  "quote_count": 0,
+  "in_reply_to_user_id_str": null,
+  "favorite_count": 0,
+  "in_reply_to_status_id": null,
+  "id_str": "930547558778331138",
+  "filter_level": "low",
+  "reply_count": 0,
+  "timestamp_ms": "1510694801407",
+  "id": 930547558778331138,
+  "display_text_range": [0, 140],
+  "coordinates": null,
+  "in_reply_to_screen_name": null,
+  "truncated": true,
+  "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+  "place": {
+    "bounding_box": {
+      "coordinates": [
+        [[-58.491052, -34.980163], [-58.491052, -30.085693], [-53.071505, -30.085693], [-53.071505, -34.980163]]
+      ],
+      "type": "Polygon"
+    },
+    "url": "https://api.twitter.com/1.1/geo/id/d0f5be1262dee9aa.json",
+    "country_code": "UY",
+    "name": "Uruguay",
+    "full_name": "Uruguay",
+    "id": "d0f5be1262dee9aa",
+    "place_type": "country",
+    "attributes": {},
+    "country": "Uruguay"
+  },
+  "retweet_count": 0,
+  "extended_tweet": {
+    "display_text_range": [0, 205],
+    "entities": {
+      "user_mentions": [],
+      "urls": [],
+      "symbols": [],
+      "hashtags": [],
+      "media": [
+        {
+          "media_url_https": "https://pbs.twimg.com/media/DOn4CZAW4AAX_EL.jpg",
+          "expanded_url": "https://twitter.com/EjercitoUy/status/930547558778331138/photo/1",
+          "id_str": "930547517984530432",
+          "media_url": "http://pbs.twimg.com/media/DOn4CZAW4AAX_EL.jpg",
+          "display_url": "pic.twitter.com/WNl2yMz2Vw",
+          "id": 930547517984530432,
+          "indices": [206, 229],
+          "type": "photo",
+          "url": "https://t.co/WNl2yMz2Vw",
+          "sizes": {
+            "large": {
+              "resize": "fit",
+              "h": 1200,
+              "w": 1600
+            },
+            "small": {
+              "resize": "fit",
+              "h": 510,
+              "w": 680
+            },
+            "thumb": {
+              "resize": "crop",
+              "h": 150,
+              "w": 150
+            },
+            "medium": {
+              "resize": "fit",
+              "h": 900,
+              "w": 1200
+            }
+          }
+        }, {
+          "media_url_https": "https://pbs.twimg.com/media/DOn4CY_X0AEH42V.jpg",
+          "expanded_url": "https://twitter.com/EjercitoUy/status/930547558778331138/photo/1",
+          "id_str": "930547517980397569",
+          "media_url": "http://pbs.twimg.com/media/DOn4CY_X0AEH42V.jpg",
+          "display_url": "pic.twitter.com/WNl2yMz2Vw",
+          "id": 930547517980397569,
+          "indices": [206, 229],
+          "type": "photo",
+          "url": "https://t.co/WNl2yMz2Vw",
+          "sizes": {
+            "medium": {
+              "resize": "fit",
+              "h": 900,
+              "w": 1200
+            },
+            "large": {
+              "resize": "fit",
+              "h": 960,
+              "w": 1280
+            },
+            "thumb": {
+              "resize": "crop",
+              "h": 150,
+              "w": 150
+            },
+            "small": {
+              "resize": "fit",
+              "h": 510,
+              "w": 680
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "media_url_https": "https://pbs.twimg.com/media/DOn4CZAW4AAX_EL.jpg",
+          "expanded_url": "https://twitter.com/EjercitoUy/status/930547558778331138/photo/1",
+          "id_str": "930547517984530432",
+          "media_url": "http://pbs.twimg.com/media/DOn4CZAW4AAX_EL.jpg",
+          "display_url": "pic.twitter.com/WNl2yMz2Vw",
+          "id": 930547517984530432,
+          "indices": [206, 229],
+          "type": "photo",
+          "url": "https://t.co/WNl2yMz2Vw",
+          "sizes": {
+            "large": {
+              "resize": "fit",
+              "h": 1200,
+              "w": 1600
+            },
+            "small": {
+              "resize": "fit",
+              "h": 510,
+              "w": 680
+            },
+            "thumb": {
+              "resize": "crop",
+              "h": 150,
+              "w": 150
+            },
+            "medium": {
+              "resize": "fit",
+              "h": 900,
+              "w": 1200
+            }
+          }
+        }, {
+          "media_url_https": "https://pbs.twimg.com/media/DOn4CY_X0AEH42V.jpg",
+          "expanded_url": "https://twitter.com/EjercitoUy/status/930547558778331138/photo/1",
+          "id_str": "930547517980397569",
+          "media_url": "http://pbs.twimg.com/media/DOn4CY_X0AEH42V.jpg",
+          "display_url": "pic.twitter.com/WNl2yMz2Vw",
+          "id": 930547517980397569,
+          "indices": [206, 229],
+          "type": "photo",
+          "url": "https://t.co/WNl2yMz2Vw",
+          "sizes": {
+            "medium": {
+              "resize": "fit",
+              "h": 900,
+              "w": 1200
+            },
+            "large": {
+              "resize": "fit",
+              "h": 960,
+              "w": 1280
+            },
+            "thumb": {
+              "resize": "crop",
+              "h": 150,
+              "w": 150
+            },
+            "small": {
+              "resize": "fit",
+              "h": 510,
+              "w": 680
+            }
+          }
+        }
+      ]
+    },
+    "full_text": "El d\u00eda s\u00e1bado 11 arrib\u00f3 al continente Ant\u00e1rtico la nueva Dotaci\u00f3n ANTARKOS XXXIV (2017-2018), 10 efectivos de las FF.AA. comandada por el Tte. Cnel. Luis Manzanares quien relev\u00f3 al Cnel. Gustavo Dal Monte. https://t.co/WNl2yMz2Vw"
+  },
+  "created_at": "Tue Nov 14 21:26:41 +0000 2017",
+  "favorited": false,
+  "text": "El d\u00eda s\u00e1bado 11 arrib\u00f3 al continente Ant\u00e1rtico la nueva Dotaci\u00f3n ANTARKOS XXXIV (2017-2018), 10 efectivos de las F\u2026 https://t.co/nmBWhkzaBd",
+  "in_reply_to_user_id": null,
+  "geo": null,
+  "lang": "es",
+  "contributors": null,
+  "in_reply_to_status_id_str": null,
+  "user": {
+    "protected": false,
+    "following": null,
+    "profile_text_color": "000000",
+    "profile_background_color": "000000",
+    "statuses_count": 175,
+    "default_profile": false,
+    "favourites_count": 226,
+    "friends_count": 53,
+    "follow_request_sent": null,
+    "profile_sidebar_fill_color": "000000",
+    "translator_type": "none",
+    "notifications": null,
+    "id_str": "879718735933734914",
+    "screen_name": "EjercitoUy",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/879718735933734914/1508870853",
+    "verified": false,
+    "id": 879718735933734914,
+    "profile_use_background_image": false,
+    "description": "Bienvenidos al Twitter Oficial del Ej\u00e9rcito del Uruguay. Los invitamos a conocer m\u00e1s de nuestro quehacer cotidiano, en el cumplimiento de nuestra Misi\u00f3n.",
+    "utc_offset": -10800,
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "is_translator": false,
+    "listed_count": 5,
+    "default_profile_image": false,
+    "contributors_enabled": false,
+    "followers_count": 1465,
+    "location": "Uruguay",
+    "created_at": "Tue Jun 27 15:11:05 +0000 2017",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/879723727012982784/u0-vD2Un_normal.jpg",
+    "geo_enabled": true,
+    "time_zone": "Buenos Aires",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/879723727012982784/u0-vD2Un_normal.jpg",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_link_color": "1B95E0",
+    "lang": "es",
+    "name": "Ej\u00e9rcito del Uruguay",
+    "profile_background_tile": false,
+    "url": "http://www2.ejercito.mil.uy",
+    "profile_sidebar_border_color": "000000"
+  },
+  "possibly_sensitive": false,
+  "entities": {
+    "user_mentions": [],
+    "urls": [
+      {
+        "expanded_url": "https://twitter.com/i/web/status/930547558778331138",
+        "url": "https://t.co/nmBWhkzaBd",
+        "indices": [117, 140],
+        "display_url": "twitter.com/i/web/status/9\u2026"
+      }
+    ],
+    "symbols": [],
+    "hashtags": []
+  },
+  "retweeted": false
+}

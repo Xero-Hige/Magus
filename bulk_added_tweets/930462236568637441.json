@@ -1,0 +1,122 @@
+{
+  "id": 930462236568637441,
+  "lang": "es",
+  "in_reply_to_status_id_str": "930440059194626048",
+  "truncated": true,
+  "place": {
+    "id": "01b40b49265b126c",
+    "country": "Argentina",
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [[-60.764198, -31.684295], [-60.764198, -31.553978], [-60.585606, -31.553978], [-60.585606, -31.684295]]
+      ]
+    },
+    "url": "https://api.twitter.com/1.1/geo/id/01b40b49265b126c.json",
+    "full_name": "Santa F\u00e9, Argentina",
+    "attributes": {},
+    "name": "Santa F\u00e9",
+    "place_type": "city",
+    "country_code": "AR"
+  },
+  "favorite_count": 0,
+  "retweeted": false,
+  "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+  "is_quote_status": false,
+  "in_reply_to_status_id": 930440059194626048,
+  "in_reply_to_user_id_str": "2444574164",
+  "in_reply_to_screen_name": "FViaLibre",
+  "retweet_count": 0,
+  "quote_count": 0,
+  "timestamp_ms": "1510674459007",
+  "favorited": false,
+  "coordinates": null,
+  "filter_level": "low",
+  "entities": {
+    "urls": [
+      {
+        "indices": [117, 140],
+        "display_url": "twitter.com/i/web/status/9\u2026",
+        "url": "https://t.co/3RuHAawIbp",
+        "expanded_url": "https://twitter.com/i/web/status/930462236568637441"
+      }
+    ],
+    "symbols": [],
+    "user_mentions": [
+      {
+        "screen_name": "FViaLibre",
+        "id": 2444574164,
+        "name": "Fundaci\u00f3n V\u00eda Libre",
+        "indices": [0, 10],
+        "id_str": "2444574164"
+      }
+    ],
+    "hashtags": []
+  },
+  "reply_count": 0,
+  "geo": null,
+  "display_text_range": [11, 140],
+  "text": "@FViaLibre Hay que ver. Si a Conicet se lo contrata y paga por el informe, el \"propietario\" es el gobierno. No creo\u2026 https://t.co/3RuHAawIbp",
+  "extended_tweet": {
+    "display_text_range": [11, 175],
+    "entities": {
+      "urls": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "screen_name": "FViaLibre",
+          "id": 2444574164,
+          "name": "Fundaci\u00f3n V\u00eda Libre",
+          "indices": [0, 10],
+          "id_str": "2444574164"
+        }
+      ],
+      "hashtags": []
+    },
+    "full_text": "@FViaLibre Hay que ver. Si a Conicet se lo contrata y paga por el informe, el \"propietario\" es el gobierno. No creo que pueda Conicet exponerlo si gobierno no lo deja. Veremos"
+  },
+  "user": {
+    "statuses_count": 4223,
+    "id": 721862042399981571,
+    "default_profile": false,
+    "favourites_count": 1053,
+    "url": null,
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "verified": false,
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/915670055731564545/BEwAh70l_normal.jpg",
+    "translator_type": "none",
+    "location": null,
+    "geo_enabled": true,
+    "utc_offset": -28800,
+    "notifications": null,
+    "profile_background_tile": false,
+    "friends_count": 104,
+    "is_translator": false,
+    "follow_request_sent": null,
+    "default_profile_image": false,
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_color": "000000",
+    "profile_link_color": "FAB81E",
+    "profile_use_background_image": false,
+    "time_zone": "Pacific Time (US & Canada)",
+    "name": "Dr Meterete",
+    "profile_text_color": "000000",
+    "profile_sidebar_border_color": "000000",
+    "screen_name": "DrMeterete",
+    "lang": "es",
+    "following": null,
+    "listed_count": 17,
+    "protected": false,
+    "profile_sidebar_fill_color": "000000",
+    "followers_count": 51,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/915670055731564545/BEwAh70l_normal.jpg",
+    "contributors_enabled": false,
+    "created_at": "Mon Apr 18 00:44:57 +0000 2016",
+    "id_str": "721862042399981571",
+    "description": "Abogado, cr\u00edtico de todo, mi opinion es mi doctrina. Solo se que no se nadar   #Noalvotoelectronico"
+  },
+  "created_at": "Tue Nov 14 15:47:39 +0000 2017",
+  "id_str": "930462236568637441",
+  "in_reply_to_user_id": 2444574164,
+  "contributors": null
+}

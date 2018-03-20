@@ -1,0 +1,120 @@
+{
+  "created_at": "Fri May 16 14:14:03 +0000 2014",
+  "id": 467306992206614528,
+  "id_str": "467306992206614528",
+  "text": "Si un chico te dice me gustas, corre, corre lo m\u00e1s r\u00e1pido posible #nolove #miedo \ud83d\ude33",
+  "truncated": false,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "nolove",
+        "indices": [66, 73]
+      }, {
+        "text": "miedo",
+        "indices": [74, 80]
+      }
+    ],
+    "symbols": [],
+    "user_mentions": [],
+    "urls": []
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 2429934213,
+    "id_str": "2429934213",
+    "name": "Karina A.",
+    "screen_name": "karale32",
+    "location": "Per\u00fa ",
+    "description": "03/02\u2764\ufe0f | instagram: Karale32 \u2665 | \ud83d\udc78\ud83c\udffb21\u2763|  \ud83d\udc6d19\ud83d\udc9c",
+    "url": "https://t.co/hH2Wf1bjmm",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "https://t.co/hH2Wf1bjmm",
+            "expanded_url": "https://www.facebook.com/karinaalexandra.paiscruzado",
+            "display_url": "facebook.com/karinaalexandr\u2026",
+            "indices": [0, 23]
+          }
+        ]
+      },
+      "description": {
+        "urls": []
+      }
+    },
+    "protected": false,
+    "followers_count": 124,
+    "friends_count": 105,
+    "listed_count": 0,
+    "created_at": "Sun Mar 23 00:49:22 +0000 2014",
+    "favourites_count": 3617,
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": true,
+    "verified": false,
+    "statuses_count": 1768,
+    "lang": "es",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "is_translation_enabled": false,
+    "profile_background_color": "ACDED6",
+    "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/526076474420240384/_9-LFE7H.jpeg",
+    "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/526076474420240384/_9-LFE7H.jpeg",
+    "profile_background_tile": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/840676952042287108/Sm-mdHkg_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/840676952042287108/Sm-mdHkg_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/2429934213/1490753141",
+    "profile_link_color": "9266CC",
+    "profile_sidebar_border_color": "000000",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "has_extended_profile": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false,
+    "translator_type": "none"
+  },
+  "geo": {
+    "type": "Point",
+    "coordinates": [-8.11670411, -79.04279475]
+  },
+  "coordinates": {
+    "type": "Point",
+    "coordinates": [-79.04279475, -8.11670411]
+  },
+  "place": {
+    "id": "2dfa9ecb0179a4e4",
+    "url": "https://api.twitter.com/1.1/geo/id/2dfa9ecb0179a4e4.json",
+    "place_type": "country",
+    "name": "Peru",
+    "full_name": "Peru",
+    "country_code": "PE",
+    "country": "Peru",
+    "contained_within": [],
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [-81.3281479193672, -18.3497280290367], [-68.6730880806328, -18.3497280290367],
+          [-68.6730880806328, -0.0388399739132714], [-81.3281479193672, -0.0388399739132714]
+        ]
+      ]
+    },
+    "attributes": {}
+  },
+  "contributors": null,
+  "is_quote_status": false,
+  "retweet_count": 0,
+  "favorite_count": 0,
+  "favorited": false,
+  "retweeted": false,
+  "lang": "es"
+}

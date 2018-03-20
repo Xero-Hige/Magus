@@ -1,0 +1,106 @@
+{
+  "created_at": "Fri Dec 09 22:06:26 +0000 2011",
+  "id": 145263058682519552,
+  "id_str": "145263058682519552",
+  "text": "@Dar_Rex Lets just say my 2000 \"quota\" for the day wasnt met :L heading into the library tomorrow to do more #JOY -.- get my text? :)",
+  "truncated": false,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "JOY",
+        "indices": [109, 113]
+      }
+    ],
+    "symbols": [],
+    "user_mentions": [
+      {
+        "screen_name": "Dar_Rex",
+        "name": "The Young Wolf",
+        "id": 41624948,
+        "id_str": "41624948",
+        "indices": [0, 8]
+      }
+    ],
+    "urls": []
+  },
+  "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+  "in_reply_to_status_id": 145262639034023937,
+  "in_reply_to_status_id_str": "145262639034023937",
+  "in_reply_to_user_id": 41624948,
+  "in_reply_to_user_id_str": "41624948",
+  "in_reply_to_screen_name": "Dar_Rex",
+  "user": {
+    "id": 257677439,
+    "id_str": "257677439",
+    "name": "Eimear Yore",
+    "screen_name": "Ah_Ted",
+    "location": "",
+    "description": "",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": []
+      }
+    },
+    "protected": false,
+    "followers_count": 400,
+    "friends_count": 750,
+    "listed_count": 2,
+    "created_at": "Fri Feb 25 23:16:31 +0000 2011",
+    "favourites_count": 1101,
+    "utc_offset": 0,
+    "time_zone": "Casablanca",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 5390,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "is_translation_enabled": false,
+    "profile_background_color": "EAEBCD",
+    "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000173336974/gRxL-t7F.jpeg",
+    "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000173336974/gRxL-t7F.jpeg",
+    "profile_background_tile": true,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/589061983170859009/RL30oEim_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/589061983170859009/RL30oEim_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/257677439/1420982159",
+    "profile_link_color": "A32424",
+    "profile_sidebar_border_color": "FFFFFF",
+    "profile_sidebar_fill_color": "B32D48",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "has_extended_profile": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false,
+    "translator_type": "none"
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": {
+    "id": "f3159ec778471cc9",
+    "url": "https://api.twitter.com/1.1/geo/id/f3159ec778471cc9.json",
+    "place_type": "city",
+    "name": "Meath",
+    "full_name": "Meath, Ireland",
+    "country_code": "IE",
+    "country": "Irlanda",
+    "contained_within": [],
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [[-7.3440927, 53.3821295], [-6.2067738, 53.3821295], [-6.2067738, 53.9177055], [-7.3440927, 53.9177055]]
+      ]
+    },
+    "attributes": {}
+  },
+  "contributors": null,
+  "is_quote_status": false,
+  "retweet_count": 0,
+  "favorite_count": 0,
+  "favorited": false,
+  "retweeted": false,
+  "lang": "en"
+}

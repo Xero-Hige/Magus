@@ -1,0 +1,111 @@
+{
+  "is_quote_status": false,
+  "in_reply_to_user_id_str": null,
+  "created_at": "Tue Nov 14 21:44:08 +0000 2017",
+  "favorite_count": 0,
+  "in_reply_to_status_id": null,
+  "id_str": "930551951460143104",
+  "filter_level": "low",
+  "reply_count": 0,
+  "timestamp_ms": "1510695848704",
+  "id": 930551951460143104,
+  "coordinates": {
+    "coordinates": [-56.43598461, -25.81631252],
+    "type": "Point"
+  },
+  "in_reply_to_screen_name": null,
+  "truncated": false,
+  "source": "<a href=\"http://foursquare.com\" rel=\"nofollow\">Foursquare</a>",
+  "place": {
+    "bounding_box": {
+      "coordinates": [
+        [[-56.785835, -26.191654], [-56.785835, -25.558613], [-55.907974, -25.558613], [-55.907974, -26.191654]]
+      ],
+      "type": "Polygon"
+    },
+    "url": "https://api.twitter.com/1.1/geo/id/019b80063f88752a.json",
+    "country_code": "PY",
+    "name": "Guaira",
+    "full_name": "Guaira, Paraguay",
+    "id": "019b80063f88752a",
+    "place_type": "admin",
+    "attributes": {},
+    "country": "Paraguay"
+  },
+  "retweet_count": 0,
+  "quote_count": 0,
+  "favorited": false,
+  "text": "2/9 \ud83d\ude30 (@ Facultad de Ciencias Juridicas - Universidad Catolica. - @csjuridicasvca in Villarrica, Guair\u00e1, Paraguay) https://t.co/yRPpH4HXve",
+  "in_reply_to_user_id": null,
+  "geo": {
+    "coordinates": [-25.81631252, -56.43598461],
+    "type": "Point"
+  },
+  "lang": "es",
+  "contributors": null,
+  "in_reply_to_status_id_str": null,
+  "user": {
+    "protected": false,
+    "following": null,
+    "profile_text_color": "333333",
+    "profile_background_color": "131516",
+    "statuses_count": 19828,
+    "default_profile": false,
+    "favourites_count": 934,
+    "friends_count": 528,
+    "follow_request_sent": null,
+    "profile_sidebar_fill_color": "EFEFEF",
+    "translator_type": "none",
+    "notifications": null,
+    "id_str": "266082207",
+    "screen_name": "natym770",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/266082207/1506489250",
+    "verified": false,
+    "id": 266082207,
+    "profile_use_background_image": true,
+    "description": "' Pasaje a ning\u00fan lugar \u267b",
+    "utc_offset": -10800,
+    "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/465136458513137664/hhlyRWfL.jpeg",
+    "is_translator": false,
+    "listed_count": 6,
+    "default_profile_image": false,
+    "contributors_enabled": false,
+    "followers_count": 1109,
+    "location": "Villarrica,Paraguay",
+    "created_at": "Mon Mar 14 16:33:15 +0000 2011",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/912902404458336257/RncyCNTe_normal.jpg",
+    "geo_enabled": true,
+    "time_zone": "Buenos Aires",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/912902404458336257/RncyCNTe_normal.jpg",
+    "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/465136458513137664/hhlyRWfL.jpeg",
+    "profile_link_color": "3B94D9",
+    "lang": "es",
+    "name": "Natalia Meaurio \ud83e\udd37\u200d\u2640",
+    "profile_background_tile": true,
+    "url": null,
+    "profile_sidebar_border_color": "FFFFFF"
+  },
+  "possibly_sensitive": false,
+  "entities": {
+    "user_mentions": [
+      {
+        "id": 426954846,
+        "screen_name": "csjuridicasvca",
+        "id_str": "426954846",
+        "indices": [66, 81],
+        "name": "Jur\u00eddicas UC Guair\u00e1"
+      }
+    ],
+    "urls": [
+      {
+        "expanded_url": "https://www.swarmapp.com/c/jDV6uBvptdi",
+        "url": "https://t.co/yRPpH4HXve",
+        "indices": [115, 138],
+        "display_url": "swarmapp.com/c/jDV6uBvptdi"
+      }
+    ],
+    "symbols": [],
+    "hashtags": []
+  },
+  "retweeted": false
+}

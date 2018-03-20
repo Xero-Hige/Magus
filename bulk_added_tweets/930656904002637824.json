@@ -1,0 +1,132 @@
+{
+  "geo": null,
+  "filter_level": "low",
+  "in_reply_to_status_id": null,
+  "lang": "es",
+  "favorite_count": 0,
+  "coordinates": null,
+  "favorited": false,
+  "place": {
+    "name": "R\u00edo de Janeiro",
+    "full_name": "R\u00edo de Janeiro, Brasil",
+    "place_type": "city",
+    "country": "Brasil",
+    "id": "97bcdfca1a2dca59",
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [[-43.795449, -23.08302], [-43.795449, -22.739823], [-43.087707, -22.739823], [-43.087707, -23.08302]]
+      ]
+    },
+    "attributes": {},
+    "url": "https://api.twitter.com/1.1/geo/id/97bcdfca1a2dca59.json",
+    "country_code": "BR"
+  },
+  "contributors": null,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "PaoloGuerrero",
+        "indices": [25, 39]
+      }
+    ],
+    "urls": [
+      {
+        "display_url": "twitter.com/i/web/status/9\u2026",
+        "expanded_url": "https://twitter.com/i/web/status/930656904002637824",
+        "url": "https://t.co/W29bDwTbCf",
+        "indices": [117, 140]
+      }
+    ],
+    "symbols": [],
+    "user_mentions": []
+  },
+  "id": 930656904002637824,
+  "possibly_sensitive": false,
+  "user": {
+    "followers_count": 3984,
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_color": "C0DEED",
+    "translator_type": "none",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/616097087625818112/dlnNnyN0_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1383508188/1435723998",
+    "default_profile": false,
+    "utc_offset": -21600,
+    "lang": "es",
+    "url": null,
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/616097087625818112/dlnNnyN0_normal.jpg",
+    "time_zone": "Monterrey",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_use_background_image": true,
+    "id": 1383508188,
+    "profile_link_color": "CC0000",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_background_tile": false,
+    "geo_enabled": true,
+    "id_str": "1383508188",
+    "verified": false,
+    "name": "loca calata",
+    "is_translator": false,
+    "notifications": null,
+    "following": null,
+    "friends_count": 3379,
+    "contributors_enabled": false,
+    "screen_name": "locacalata__",
+    "created_at": "Sat Apr 27 04:18:49 +0000 2013",
+    "profile_text_color": "333333",
+    "favourites_count": 10852,
+    "follow_request_sent": null,
+    "description": "Sin verg\u00fcenza, ignorante, mala actriz, abrazadora ,vaga,especialista en descontroles ,sobreviviente peruana y me ba\u00f1o 2 veces por semana.",
+    "default_profile_image": false,
+    "location": null,
+    "listed_count": 18,
+    "protected": false,
+    "statuses_count": 4840
+  },
+  "id_str": "930656904002637824",
+  "retweet_count": 0,
+  "retweeted": false,
+  "quote_count": 0,
+  "truncated": true,
+  "in_reply_to_status_id_str": null,
+  "reply_count": 0,
+  "created_at": "Wed Nov 15 04:41:11 +0000 2017",
+  "is_quote_status": false,
+  "in_reply_to_user_id": null,
+  "timestamp_ms": "1510720871340",
+  "text": "Las muestras de afecto a #PaoloGuerrero cruzan los l\u00edmites nacionales. J Balvin: \u201cPorque queremos ver a nuestro cam\u2026 https://t.co/W29bDwTbCf",
+  "extended_tweet": {
+    "full_text": "Las muestras de afecto a #PaoloGuerrero cruzan los l\u00edmites nacionales. J Balvin: \u201cPorque queremos ver a nuestro campe\u00f3n celebrando el gol que nos llevar\u00e1 a la clasificaci\u00f3n\u201d@JBALVIN https://t.co/L77sY8Q7pw",
+    "display_text_range": [0, 205],
+    "entities": {
+      "hashtags": [
+        {
+          "text": "PaoloGuerrero",
+          "indices": [25, 39]
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "peru21.pe/deportes/j-bal\u2026",
+          "expanded_url": "https://peru21.pe/deportes/j-balvin-respalda-paolo-guerrero-manera-384425",
+          "url": "https://t.co/L77sY8Q7pw",
+          "indices": [182, 205]
+        }
+      ],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "id": 44670915,
+          "id_str": "44670915",
+          "name": "J BALVIN",
+          "indices": [173, 181],
+          "screen_name": "JBALVIN"
+        }
+      ]
+    }
+  },
+  "in_reply_to_user_id_str": null,
+  "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+  "in_reply_to_screen_name": null
+}

@@ -1,0 +1,101 @@
+{
+  "created_at": "Fri Dec 09 15:14:39 +0000 2011",
+  "id": 145159427748659200,
+  "id_str": "145159427748659200",
+  "text": "Je ne vous ai pas dit, @CeliaRoot  vient chez moi ce week-end, je vais faire une p\u00e2tisserie, un truc qu'elle aime... #Surprise",
+  "truncated": false,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "Surprise",
+        "indices": [117, 126]
+      }
+    ],
+    "symbols": [],
+    "user_mentions": [],
+    "urls": []
+  },
+  "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 329339408,
+    "id_str": "329339408",
+    "name": "Citoyenne du Monde",
+    "screen_name": "VivyMQe",
+    "location": "M\u00e9ridien de Greenwich",
+    "description": "Je suis n\u00e9e sur une \u00eele amoureuse du vent o\u00f9 l'air \u00e0 des odeurs de sucre et de vanille...",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": []
+      }
+    },
+    "protected": false,
+    "followers_count": 132,
+    "friends_count": 138,
+    "listed_count": 4,
+    "created_at": "Mon Jul 04 22:32:26 +0000 2011",
+    "favourites_count": 246,
+    "utc_offset": 7200,
+    "time_zone": "Athens",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 11554,
+    "lang": "fr",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "is_translation_enabled": false,
+    "profile_background_color": "FF6699",
+    "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/405841229/404229_229970257084993_160744380674248_496064_658842563_n.jpg",
+    "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/405841229/404229_229970257084993_160744380674248_496064_658842563_n.jpg",
+    "profile_background_tile": true,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/929013199524986880/6SPEW07p_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/929013199524986880/6SPEW07p_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/329339408/1348951796",
+    "profile_link_color": "B40B43",
+    "profile_sidebar_border_color": "CC3366",
+    "profile_sidebar_fill_color": "E5507E",
+    "profile_text_color": "362720",
+    "profile_use_background_image": true,
+    "has_extended_profile": false,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false,
+    "translator_type": "none"
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": {
+    "id": "0459030bad7b5db8",
+    "url": "https://api.twitter.com/1.1/geo/id/0459030bad7b5db8.json",
+    "place_type": "city",
+    "name": "Arcueil",
+    "full_name": "Arcueil, France",
+    "country_code": "FR",
+    "country": "Francia",
+    "contained_within": [],
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [2.31784308020583, 48.7968720289324], [2.34788291893577, 48.7968720289324],
+          [2.34788291893577, 48.8137400078465], [2.31784308020583, 48.8137400078465]
+        ]
+      ]
+    },
+    "attributes": {}
+  },
+  "contributors": null,
+  "is_quote_status": false,
+  "retweet_count": 1,
+  "favorite_count": 0,
+  "favorited": false,
+  "retweeted": false,
+  "lang": "fr"
+}

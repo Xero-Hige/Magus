@@ -1,0 +1,196 @@
+{
+  "id": 930462404030365701,
+  "lang": "es",
+  "in_reply_to_status_id_str": "930454614683586560",
+  "truncated": true,
+  "place": {
+    "id": "0004c3fb58780d2a",
+    "country": "Peru",
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [[-77.153431, -12.064963], [-77.153431, -11.904214], [-77.085511, -11.904214], [-77.085511, -12.064963]]
+      ]
+    },
+    "url": "https://api.twitter.com/1.1/geo/id/0004c3fb58780d2a.json",
+    "full_name": "Callao, Peru",
+    "attributes": {},
+    "name": "Callao",
+    "place_type": "city",
+    "country_code": "PE"
+  },
+  "favorite_count": 0,
+  "retweeted": false,
+  "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+  "is_quote_status": false,
+  "possibly_sensitive": false,
+  "geo": null,
+  "in_reply_to_user_id_str": "29330019",
+  "in_reply_to_status_id": 930454614683586560,
+  "retweet_count": 0,
+  "quote_count": 0,
+  "timestamp_ms": "1510674498933",
+  "favorited": false,
+  "coordinates": null,
+  "filter_level": "low",
+  "entities": {
+    "urls": [
+      {
+        "indices": [117, 140],
+        "display_url": "twitter.com/i/web/status/9\u2026",
+        "url": "https://t.co/Soza1DfP1O",
+        "expanded_url": "https://twitter.com/i/web/status/930462404030365701"
+      }
+    ],
+    "symbols": [],
+    "user_mentions": [
+      {
+        "screen_name": "lamula",
+        "id": 29330019,
+        "name": "La Mula",
+        "indices": [0, 7],
+        "id_str": "29330019"
+      }
+    ],
+    "hashtags": []
+  },
+  "reply_count": 0,
+  "in_reply_to_screen_name": "lamula",
+  "display_text_range": [8, 140],
+  "text": "@lamula Se imaginan !!!. Si en verdad supieran lo q significa dignidad y tener valores morales como persona .? El c\u2026 https://t.co/Soza1DfP1O",
+  "extended_tweet": {
+    "display_text_range": [8, 266],
+    "extended_entities": {
+      "media": [
+        {
+          "id": 930462383675502594,
+          "display_url": "pic.twitter.com/pAZVyirHL9",
+          "id_str": "930462383675502594",
+          "indices": [267, 290],
+          "expanded_url": "https://twitter.com/MesiaGue/status/930462404030365701/photo/1",
+          "type": "photo",
+          "url": "https://t.co/pAZVyirHL9",
+          "media_url_https": "https://pbs.twimg.com/media/DOmqm6_XcAIvAJC.jpg",
+          "media_url": "http://pbs.twimg.com/media/DOmqm6_XcAIvAJC.jpg",
+          "sizes": {
+            "small": {
+              "w": 680,
+              "h": 680,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 1280,
+              "h": 1280,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 1200,
+              "h": 1200,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "entities": {
+      "media": [
+        {
+          "id": 930462383675502594,
+          "display_url": "pic.twitter.com/pAZVyirHL9",
+          "id_str": "930462383675502594",
+          "indices": [267, 290],
+          "expanded_url": "https://twitter.com/MesiaGue/status/930462404030365701/photo/1",
+          "type": "photo",
+          "url": "https://t.co/pAZVyirHL9",
+          "media_url_https": "https://pbs.twimg.com/media/DOmqm6_XcAIvAJC.jpg",
+          "media_url": "http://pbs.twimg.com/media/DOmqm6_XcAIvAJC.jpg",
+          "sizes": {
+            "small": {
+              "w": 680,
+              "h": 680,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 1280,
+              "h": 1280,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 1200,
+              "h": 1200,
+              "resize": "fit"
+            }
+          }
+        }
+      ],
+      "urls": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "screen_name": "lamula",
+          "id": 29330019,
+          "name": "La Mula",
+          "indices": [0, 7],
+          "id_str": "29330019"
+        }
+      ],
+      "hashtags": []
+    },
+    "full_text": "@lamula Se imaginan !!!. Si en verdad supieran lo q significa dignidad y tener valores morales como persona .? El congreso quedar\u00eda completamente VACIOOOO!!! imagino el hogar q tuvieron y la clase de crianza q les dieron.DERREPENTE padres abusadores, dictadores etc. https://t.co/pAZVyirHL9"
+  },
+  "user": {
+    "statuses_count": 1294,
+    "id": 843087945414463488,
+    "default_profile": true,
+    "favourites_count": 2,
+    "url": null,
+    "profile_background_image_url_https": "",
+    "verified": false,
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/927281431193063424/5Ddb_JBV_normal.jpg",
+    "translator_type": "none",
+    "location": "Magdalena del Mar, Peru",
+    "geo_enabled": true,
+    "utc_offset": null,
+    "notifications": null,
+    "profile_background_tile": false,
+    "friends_count": 52,
+    "is_translator": false,
+    "follow_request_sent": null,
+    "default_profile_image": false,
+    "profile_background_image_url": "",
+    "profile_background_color": "F5F8FA",
+    "profile_link_color": "1DA1F2",
+    "profile_use_background_image": true,
+    "time_zone": null,
+    "name": "CARLOS .J. MESIA GUE",
+    "profile_text_color": "333333",
+    "profile_sidebar_border_color": "C0DEED",
+    "screen_name": "MesiaGue",
+    "lang": "es",
+    "following": null,
+    "listed_count": 0,
+    "protected": false,
+    "profile_sidebar_fill_color": "DDEEF6",
+    "followers_count": 1,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/927281431193063424/5Ddb_JBV_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/843087945414463488/1489852875",
+    "contributors_enabled": false,
+    "created_at": "Sat Mar 18 13:13:24 +0000 2017",
+    "id_str": "843087945414463488",
+    "description": null
+  },
+  "created_at": "Tue Nov 14 15:48:18 +0000 2017",
+  "id_str": "930462404030365701",
+  "in_reply_to_user_id": 29330019,
+  "contributors": null
+}

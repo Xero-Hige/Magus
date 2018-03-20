@@ -1,0 +1,391 @@
+{
+  "is_quote_status": false,
+  "quote_count": 0,
+  "in_reply_to_user_id_str": null,
+  "favorite_count": 0,
+  "in_reply_to_status_id": null,
+  "id_str": "930558849970556928",
+  "filter_level": "low",
+  "reply_count": 0,
+  "timestamp_ms": "1510697493437",
+  "id": 930558849970556928,
+  "display_text_range": [0, 140],
+  "coordinates": null,
+  "in_reply_to_screen_name": null,
+  "truncated": true,
+  "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+  "place": {
+    "bounding_box": {
+      "coordinates": [[[-74.483289, 3.717432], [-74.483289, 4.807135], [-74.004053, 4.807135], [-74.004053, 3.717432]]],
+      "type": "Polygon"
+    },
+    "url": "https://api.twitter.com/1.1/geo/id/0161be1b3f98d6c3.json",
+    "country_code": "CO",
+    "name": "Bogot\u00e1, D.C.",
+    "full_name": "Bogot\u00e1, D.C., Colombia",
+    "id": "0161be1b3f98d6c3",
+    "place_type": "city",
+    "attributes": {},
+    "country": "Colombia"
+  },
+  "retweet_count": 0,
+  "extended_tweet": {
+    "display_text_range": [0, 224],
+    "entities": {
+      "user_mentions": [
+        {
+          "id": 211038547,
+          "screen_name": "pactocolombia",
+          "id_str": "211038547",
+          "indices": [193, 207],
+          "name": "Pacto Global Col."
+        }, {
+          "id": 2571081338,
+          "screen_name": "CAEMcorporacion",
+          "id_str": "2571081338",
+          "indices": [208, 224],
+          "name": "Caem"
+        }
+      ],
+      "urls": [
+        {
+          "expanded_url": "http://goo.gl/koLbtg",
+          "url": "https://t.co/SPwA9LvsYH",
+          "indices": [159, 182],
+          "display_url": "goo.gl/koLbtg"
+        }
+      ],
+      "symbols": [],
+      "hashtags": [],
+      "media": [
+        {
+          "media_url_https": "https://pbs.twimg.com/media/DOoBxqWWsAAuofP.png",
+          "expanded_url": "https://twitter.com/CAEMcorporacion/status/930558849970556928/photo/1",
+          "id_str": "930558225698697216",
+          "media_url": "http://pbs.twimg.com/media/DOoBxqWWsAAuofP.png",
+          "display_url": "pic.twitter.com/bLwfznsUpn",
+          "id": 930558225698697216,
+          "indices": [225, 248],
+          "type": "photo",
+          "url": "https://t.co/bLwfznsUpn",
+          "sizes": {
+            "medium": {
+              "resize": "fit",
+              "h": 900,
+              "w": 1200
+            },
+            "small": {
+              "resize": "fit",
+              "h": 510,
+              "w": 680
+            },
+            "thumb": {
+              "resize": "crop",
+              "h": 150,
+              "w": 150
+            },
+            "large": {
+              "resize": "fit",
+              "h": 960,
+              "w": 1280
+            }
+          }
+        }, {
+          "media_url_https": "https://pbs.twimg.com/media/DOoBzPUXcAAhw06.png",
+          "expanded_url": "https://twitter.com/CAEMcorporacion/status/930558849970556928/photo/1",
+          "id_str": "930558252802338816",
+          "media_url": "http://pbs.twimg.com/media/DOoBzPUXcAAhw06.png",
+          "display_url": "pic.twitter.com/bLwfznsUpn",
+          "id": 930558252802338816,
+          "indices": [225, 248],
+          "type": "photo",
+          "url": "https://t.co/bLwfznsUpn",
+          "sizes": {
+            "medium": {
+              "resize": "fit",
+              "h": 1200,
+              "w": 1200
+            },
+            "large": {
+              "resize": "fit",
+              "h": 1280,
+              "w": 1280
+            },
+            "thumb": {
+              "resize": "crop",
+              "h": 150,
+              "w": 150
+            },
+            "small": {
+              "resize": "fit",
+              "h": 680,
+              "w": 680
+            }
+          }
+        }, {
+          "media_url_https": "https://pbs.twimg.com/media/DOoBzP5W4AYHxVB.png",
+          "expanded_url": "https://twitter.com/CAEMcorporacion/status/930558849970556928/photo/1",
+          "id_str": "930558252957491206",
+          "media_url": "http://pbs.twimg.com/media/DOoBzP5W4AYHxVB.png",
+          "display_url": "pic.twitter.com/bLwfznsUpn",
+          "id": 930558252957491206,
+          "indices": [225, 248],
+          "type": "photo",
+          "url": "https://t.co/bLwfznsUpn",
+          "sizes": {
+            "medium": {
+              "resize": "fit",
+              "h": 1200,
+              "w": 1200
+            },
+            "large": {
+              "resize": "fit",
+              "h": 1280,
+              "w": 1280
+            },
+            "thumb": {
+              "resize": "crop",
+              "h": 150,
+              "w": 150
+            },
+            "small": {
+              "resize": "fit",
+              "h": 680,
+              "w": 680
+            }
+          }
+        }, {
+          "media_url_https": "https://pbs.twimg.com/media/DOoB1k0X0AM96ae.png",
+          "expanded_url": "https://twitter.com/CAEMcorporacion/status/930558849970556928/photo/1",
+          "id_str": "930558292933464067",
+          "media_url": "http://pbs.twimg.com/media/DOoB1k0X0AM96ae.png",
+          "display_url": "pic.twitter.com/bLwfznsUpn",
+          "id": 930558292933464067,
+          "indices": [225, 248],
+          "type": "photo",
+          "url": "https://t.co/bLwfznsUpn",
+          "sizes": {
+            "medium": {
+              "resize": "fit",
+              "h": 1200,
+              "w": 1200
+            },
+            "large": {
+              "resize": "fit",
+              "h": 1280,
+              "w": 1280
+            },
+            "thumb": {
+              "resize": "crop",
+              "h": 150,
+              "w": 150
+            },
+            "small": {
+              "resize": "fit",
+              "h": 680,
+              "w": 680
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "media_url_https": "https://pbs.twimg.com/media/DOoBxqWWsAAuofP.png",
+          "expanded_url": "https://twitter.com/CAEMcorporacion/status/930558849970556928/photo/1",
+          "id_str": "930558225698697216",
+          "media_url": "http://pbs.twimg.com/media/DOoBxqWWsAAuofP.png",
+          "display_url": "pic.twitter.com/bLwfznsUpn",
+          "id": 930558225698697216,
+          "indices": [225, 248],
+          "type": "photo",
+          "url": "https://t.co/bLwfznsUpn",
+          "sizes": {
+            "medium": {
+              "resize": "fit",
+              "h": 900,
+              "w": 1200
+            },
+            "small": {
+              "resize": "fit",
+              "h": 510,
+              "w": 680
+            },
+            "thumb": {
+              "resize": "crop",
+              "h": 150,
+              "w": 150
+            },
+            "large": {
+              "resize": "fit",
+              "h": 960,
+              "w": 1280
+            }
+          }
+        }, {
+          "media_url_https": "https://pbs.twimg.com/media/DOoBzPUXcAAhw06.png",
+          "expanded_url": "https://twitter.com/CAEMcorporacion/status/930558849970556928/photo/1",
+          "id_str": "930558252802338816",
+          "media_url": "http://pbs.twimg.com/media/DOoBzPUXcAAhw06.png",
+          "display_url": "pic.twitter.com/bLwfznsUpn",
+          "id": 930558252802338816,
+          "indices": [225, 248],
+          "type": "photo",
+          "url": "https://t.co/bLwfznsUpn",
+          "sizes": {
+            "medium": {
+              "resize": "fit",
+              "h": 1200,
+              "w": 1200
+            },
+            "large": {
+              "resize": "fit",
+              "h": 1280,
+              "w": 1280
+            },
+            "thumb": {
+              "resize": "crop",
+              "h": 150,
+              "w": 150
+            },
+            "small": {
+              "resize": "fit",
+              "h": 680,
+              "w": 680
+            }
+          }
+        }, {
+          "media_url_https": "https://pbs.twimg.com/media/DOoBzP5W4AYHxVB.png",
+          "expanded_url": "https://twitter.com/CAEMcorporacion/status/930558849970556928/photo/1",
+          "id_str": "930558252957491206",
+          "media_url": "http://pbs.twimg.com/media/DOoBzP5W4AYHxVB.png",
+          "display_url": "pic.twitter.com/bLwfznsUpn",
+          "id": 930558252957491206,
+          "indices": [225, 248],
+          "type": "photo",
+          "url": "https://t.co/bLwfznsUpn",
+          "sizes": {
+            "medium": {
+              "resize": "fit",
+              "h": 1200,
+              "w": 1200
+            },
+            "large": {
+              "resize": "fit",
+              "h": 1280,
+              "w": 1280
+            },
+            "thumb": {
+              "resize": "crop",
+              "h": 150,
+              "w": 150
+            },
+            "small": {
+              "resize": "fit",
+              "h": 680,
+              "w": 680
+            }
+          }
+        }, {
+          "media_url_https": "https://pbs.twimg.com/media/DOoB1k0X0AM96ae.png",
+          "expanded_url": "https://twitter.com/CAEMcorporacion/status/930558849970556928/photo/1",
+          "id_str": "930558292933464067",
+          "media_url": "http://pbs.twimg.com/media/DOoB1k0X0AM96ae.png",
+          "display_url": "pic.twitter.com/bLwfznsUpn",
+          "id": 930558292933464067,
+          "indices": [225, 248],
+          "type": "photo",
+          "url": "https://t.co/bLwfznsUpn",
+          "sizes": {
+            "medium": {
+              "resize": "fit",
+              "h": 1200,
+              "w": 1200
+            },
+            "large": {
+              "resize": "fit",
+              "h": 1280,
+              "w": 1280
+            },
+            "thumb": {
+              "resize": "crop",
+              "h": 150,
+              "w": 150
+            },
+            "small": {
+              "resize": "fit",
+              "h": 680,
+              "w": 680
+            }
+          }
+        }
+      ]
+    },
+    "full_text": "\u00a1MA\u00d1ANA! Resuelva inquietudes, apu\u00e9stele al progreso y empiece a gestionar la huella de carbono y la eficiencia energ\u00e9tica de su organizaci\u00f3n.\n\nInscripciones: https://t.co/SPwA9LvsYH\n\nInvitan: @pactocolombia @CAEMcorporacion https://t.co/bLwfznsUpn"
+  },
+  "created_at": "Tue Nov 14 22:11:33 +0000 2017",
+  "favorited": false,
+  "text": "\u00a1MA\u00d1ANA! Resuelva inquietudes, apu\u00e9stele al progreso y empiece a gestionar la huella de carbono y la eficiencia ene\u2026 https://t.co/04ddq0Jajz",
+  "in_reply_to_user_id": null,
+  "geo": null,
+  "lang": "es",
+  "contributors": null,
+  "in_reply_to_status_id_str": null,
+  "user": {
+    "protected": false,
+    "following": null,
+    "profile_text_color": "000000",
+    "profile_background_color": "4A913C",
+    "statuses_count": 1784,
+    "default_profile": false,
+    "favourites_count": 223,
+    "friends_count": 1817,
+    "follow_request_sent": null,
+    "profile_sidebar_fill_color": "000000",
+    "translator_type": "none",
+    "notifications": null,
+    "id_str": "2571081338",
+    "screen_name": "CAEMcorporacion",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/2571081338/1499702931",
+    "verified": false,
+    "id": 2571081338,
+    "profile_use_background_image": true,
+    "description": "Corporaci\u00f3n Ambiental Empresarial, CAEM. Promovemos  la gesti\u00f3n ambiental empresarial eficiente. Filial de la @camaracomerbog.",
+    "utc_offset": -18000,
+    "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/605015401156747265/OAd6NVss.png",
+    "is_translator": false,
+    "listed_count": 18,
+    "default_profile_image": false,
+    "contributors_enabled": false,
+    "followers_count": 1185,
+    "location": "Bogot\u00e1, Colombia",
+    "created_at": "Mon Jun 16 14:52:38 +0000 2014",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/922910208560713728/dy64nnwK_normal.jpg",
+    "geo_enabled": true,
+    "time_zone": "Bogota",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/922910208560713728/dy64nnwK_normal.jpg",
+    "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/605015401156747265/OAd6NVss.png",
+    "profile_link_color": "4A913C",
+    "lang": "es",
+    "name": "Caem",
+    "profile_background_tile": true,
+    "url": "http://www.caem.org.co",
+    "profile_sidebar_border_color": "000000"
+  },
+  "possibly_sensitive": false,
+  "entities": {
+    "user_mentions": [],
+    "urls": [
+      {
+        "expanded_url": "https://twitter.com/i/web/status/930558849970556928",
+        "url": "https://t.co/04ddq0Jajz",
+        "indices": [117, 140],
+        "display_url": "twitter.com/i/web/status/9\u2026"
+      }
+    ],
+    "symbols": [],
+    "hashtags": []
+  },
+  "retweeted": false
+}

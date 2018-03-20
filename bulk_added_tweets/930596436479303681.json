@@ -1,0 +1,121 @@
+{
+  "geo": null,
+  "filter_level": "low",
+  "in_reply_to_status_id": null,
+  "lang": "es",
+  "favorite_count": 0,
+  "coordinates": null,
+  "favorited": false,
+  "place": {
+    "name": "Puebla",
+    "full_name": "Puebla, M\u00e9xico",
+    "place_type": "city",
+    "country": "M\u00e9xico",
+    "id": "0ac8a42f23e8f736",
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [[-98.289206, 18.83765], [-98.289206, 19.226809], [-98.019327, 19.226809], [-98.019327, 18.83765]]
+      ]
+    },
+    "attributes": {},
+    "url": "https://api.twitter.com/1.1/geo/id/0ac8a42f23e8f736.json",
+    "country_code": "MX"
+  },
+  "contributors": null,
+  "entities": {
+    "hashtags": [],
+    "urls": [
+      {
+        "display_url": "twitter.com/i/web/status/9\u2026",
+        "expanded_url": "https://twitter.com/i/web/status/930596436479303681",
+        "url": "https://t.co/r5WMCM96jt",
+        "indices": [117, 140]
+      }
+    ],
+    "symbols": [],
+    "user_mentions": [
+      {
+        "id": 74006055,
+        "id_str": "74006055",
+        "name": "Cinco Radio",
+        "indices": [0, 16],
+        "screen_name": "JavierLopezDiaz"
+      }
+    ]
+  },
+  "id": 930596436479303681,
+  "user": {
+    "followers_count": 90,
+    "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/392516925/71653_1598557574503_1552927493_31468081_1854433_n.jpg",
+    "profile_background_color": "1A1B1F",
+    "translator_type": "none",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/2644057920/b57d53c0ba45cbd7476e6472896032b2_normal.jpeg",
+    "default_profile": false,
+    "utc_offset": -21600,
+    "lang": "es",
+    "url": null,
+    "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/392516925/71653_1598557574503_1552927493_31468081_1854433_n.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/2644057920/b57d53c0ba45cbd7476e6472896032b2_normal.jpeg",
+    "time_zone": "Mexico City",
+    "profile_sidebar_border_color": "181A1E",
+    "profile_use_background_image": true,
+    "id": 104380613,
+    "profile_link_color": "2FC2EF",
+    "profile_sidebar_fill_color": "252429",
+    "profile_background_tile": true,
+    "geo_enabled": true,
+    "id_str": "104380613",
+    "verified": false,
+    "name": "Carlos JP",
+    "is_translator": false,
+    "notifications": null,
+    "following": null,
+    "friends_count": 501,
+    "contributors_enabled": false,
+    "screen_name": "blackcodejulian",
+    "created_at": "Wed Jan 13 04:36:05 +0000 2010",
+    "profile_text_color": "666666",
+    "favourites_count": 5495,
+    "follow_request_sent": null,
+    "description": null,
+    "default_profile_image": false,
+    "location": "Puebla, M\u00e9xico",
+    "listed_count": 0,
+    "protected": false,
+    "statuses_count": 1999
+  },
+  "id_str": "930596436479303681",
+  "retweet_count": 0,
+  "retweeted": false,
+  "quote_count": 0,
+  "truncated": true,
+  "in_reply_to_status_id_str": null,
+  "reply_count": 0,
+  "created_at": "Wed Nov 15 00:40:54 +0000 2017",
+  "is_quote_status": false,
+  "in_reply_to_user_id": 74006055,
+  "timestamp_ms": "1510706454759",
+  "text": "@JavierLopezDiaz Tr\u00e1fico intenso en la calzada Zaragoza viniendo de los estadios y en 18 de noviembre junto a los e\u2026 https://t.co/r5WMCM96jt",
+  "extended_tweet": {
+    "full_text": "@JavierLopezDiaz Tr\u00e1fico intenso en la calzada Zaragoza viniendo de los estadios y en 18 de noviembre junto a los estadios sentidos al centro de la ciudad",
+    "display_text_range": [0, 154],
+    "entities": {
+      "hashtags": [],
+      "urls": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "id": 74006055,
+          "id_str": "74006055",
+          "name": "Cinco Radio",
+          "indices": [0, 16],
+          "screen_name": "JavierLopezDiaz"
+        }
+      ]
+    }
+  },
+  "in_reply_to_user_id_str": "74006055",
+  "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+  "in_reply_to_screen_name": "JavierLopezDiaz"
+}

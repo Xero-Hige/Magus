@@ -1,0 +1,122 @@
+{
+  "geo": null,
+  "filter_level": "low",
+  "in_reply_to_status_id": null,
+  "lang": "es",
+  "favorite_count": 0,
+  "coordinates": null,
+  "favorited": false,
+  "place": {
+    "name": "Quito",
+    "full_name": "Quito, Ecuador",
+    "place_type": "city",
+    "country": "Ecuador",
+    "id": "0177bc687a9ac697",
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [[-78.948466, -0.588618], [-78.948466, 0.255477], [-78.164897, 0.255477], [-78.164897, -0.588618]]
+      ]
+    },
+    "attributes": {},
+    "url": "https://api.twitter.com/1.1/geo/id/0177bc687a9ac697.json",
+    "country_code": "EC"
+  },
+  "contributors": null,
+  "entities": {
+    "hashtags": [],
+    "urls": [
+      {
+        "display_url": "twitter.com/i/web/status/9\u2026",
+        "expanded_url": "https://twitter.com/i/web/status/930676571236651014",
+        "url": "https://t.co/h6jbWuNMko",
+        "indices": [116, 139]
+      }
+    ],
+    "symbols": [],
+    "user_mentions": [
+      {
+        "id": 259612451,
+        "id_str": "259612451",
+        "name": "Mauricio Rodas",
+        "indices": [0, 16],
+        "screen_name": "MauricioRodasEC"
+      }
+    ]
+  },
+  "id": 930676571236651014,
+  "user": {
+    "followers_count": 23,
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_color": "C0DEED",
+    "translator_type": "none",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/919940760107143168/rvbLTGNh_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/380022271/1507868967",
+    "default_profile": true,
+    "utc_offset": -18000,
+    "lang": "es",
+    "url": null,
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/919940760107143168/rvbLTGNh_normal.jpg",
+    "time_zone": "Eastern Time (US & Canada)",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_use_background_image": true,
+    "id": 380022271,
+    "profile_link_color": "1DA1F2",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_background_tile": false,
+    "geo_enabled": true,
+    "id_str": "380022271",
+    "verified": false,
+    "name": "VICTOR ATEO 74",
+    "is_translator": false,
+    "notifications": null,
+    "following": null,
+    "friends_count": 44,
+    "contributors_enabled": false,
+    "screen_name": "victorhogomoren",
+    "created_at": "Sun Sep 25 23:22:03 +0000 2011",
+    "profile_text_color": "333333",
+    "favourites_count": 100,
+    "follow_request_sent": null,
+    "description": "me gusta ser sincero y no hip\u00f3crita",
+    "default_profile_image": false,
+    "location": "quito ecuador",
+    "listed_count": 0,
+    "protected": false,
+    "statuses_count": 313
+  },
+  "id_str": "930676571236651014",
+  "retweet_count": 0,
+  "retweeted": false,
+  "quote_count": 0,
+  "truncated": true,
+  "in_reply_to_status_id_str": null,
+  "reply_count": 0,
+  "created_at": "Wed Nov 15 05:59:20 +0000 2017",
+  "is_quote_status": false,
+  "in_reply_to_user_id": 259612451,
+  "timestamp_ms": "1510725560374",
+  "text": "@MauricioRodasEC y ahora cuando ser\u00e1 que le devuelvan la mercader\u00eda robada por esas basuras de chapas municipales,\u2026 https://t.co/h6jbWuNMko",
+  "extended_tweet": {
+    "full_text": "@MauricioRodasEC y ahora cuando ser\u00e1 que le devuelvan la mercader\u00eda robada por esas basuras de chapas municipales, creo que nunca porque son de la misma cala\u00f1a que asco de municipio y de esos ladrones",
+    "display_text_range": [0, 200],
+    "entities": {
+      "hashtags": [],
+      "urls": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "id": 259612451,
+          "id_str": "259612451",
+          "name": "Mauricio Rodas",
+          "indices": [0, 16],
+          "screen_name": "MauricioRodasEC"
+        }
+      ]
+    }
+  },
+  "in_reply_to_user_id_str": "259612451",
+  "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+  "in_reply_to_screen_name": "MauricioRodasEC"
+}

@@ -1,0 +1,107 @@
+{
+  "created_at": "Sun May 18 17:35:17 +0000 2014",
+  "id": 468082410991923201,
+  "id_str": "468082410991923201",
+  "text": "No puedo comer y ver #honeybooboo  al mismo tiempo #asco :p",
+  "truncated": false,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "honeybooboo",
+        "indices": [21, 33]
+      }, {
+        "text": "asco",
+        "indices": [51, 56]
+      }
+    ],
+    "symbols": [],
+    "user_mentions": [],
+    "urls": []
+  },
+  "source": "<a href=\"https://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android Tablets</a>",
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 399026273,
+    "id_str": "399026273",
+    "name": "Carla P\u00eda",
+    "screen_name": "Carlita_PiaJC",
+    "location": "Concepci\u00f3n, Chile",
+    "description": "",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": []
+      }
+    },
+    "protected": false,
+    "followers_count": 1806,
+    "friends_count": 1622,
+    "listed_count": 0,
+    "created_at": "Wed Oct 26 21:50:45 +0000 2011",
+    "favourites_count": 232,
+    "utc_offset": -10800,
+    "time_zone": "Atlantic Time (Canada)",
+    "geo_enabled": true,
+    "verified": false,
+    "statuses_count": 6099,
+    "lang": "es",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "is_translation_enabled": false,
+    "profile_background_color": "ACDED6",
+    "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/702951329/82bd52ee38ba060da9a8cd4cbbb7764a.jpeg",
+    "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/702951329/82bd52ee38ba060da9a8cd4cbbb7764a.jpeg",
+    "profile_background_tile": true,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/696557718493077505/BddiDh5t_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/696557718493077505/BddiDh5t_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/399026273/1455730118",
+    "profile_link_color": "F5ABB5",
+    "profile_sidebar_border_color": "FFFFFF",
+    "profile_sidebar_fill_color": "F6F6F6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "has_extended_profile": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false,
+    "translator_type": "none"
+  },
+  "geo": {
+    "type": "Point",
+    "coordinates": [-36.7914109, -73.0345903]
+  },
+  "coordinates": {
+    "type": "Point",
+    "coordinates": [-73.0345903, -36.7914109]
+  },
+  "place": {
+    "id": "6582523387242497",
+    "url": "https://api.twitter.com/1.1/geo/id/6582523387242497.json",
+    "place_type": "admin",
+    "name": "B\u00edo-B\u00edo",
+    "full_name": "B\u00edo-B\u00edo, Chile",
+    "country_code": "CL",
+    "country": "Chile",
+    "contained_within": [],
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [[-73.961901, -38.49157], [-70.984718, -38.49157], [-70.984718, -36.004678], [-73.961901, -36.004678]]
+      ]
+    },
+    "attributes": {}
+  },
+  "contributors": null,
+  "is_quote_status": false,
+  "retweet_count": 0,
+  "favorite_count": 0,
+  "favorited": false,
+  "retweeted": false,
+  "lang": "es"
+}

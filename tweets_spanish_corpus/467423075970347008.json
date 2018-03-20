@@ -1,0 +1,104 @@
+{
+  "created_at": "Fri May 16 21:55:20 +0000 2014",
+  "id": 467423075970347008,
+  "id_str": "467423075970347008",
+  "text": "Valla noche de tos con la mierda alergia un #asco",
+  "truncated": false,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "asco",
+        "indices": [44, 49]
+      }
+    ],
+    "symbols": [],
+    "user_mentions": [],
+    "urls": []
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 263315158,
+    "id_str": "263315158",
+    "name": "jesus palomo sierras",
+    "screen_name": "jesusPalomoSFC",
+    "location": "ANTEQUERA",
+    "description": "La razon de ser sevillista es por un sentiento dia a dia .Levantate y mira hacia arriba siempre. #eterno16 ,#rebujitos #pelucin",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": []
+      }
+    },
+    "protected": false,
+    "followers_count": 370,
+    "friends_count": 1720,
+    "listed_count": 6,
+    "created_at": "Wed Mar 09 20:23:12 +0000 2011",
+    "favourites_count": 5,
+    "utc_offset": 3600,
+    "time_zone": "Madrid",
+    "geo_enabled": true,
+    "verified": false,
+    "statuses_count": 3751,
+    "lang": "es",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "is_translation_enabled": false,
+    "profile_background_color": "F00524",
+    "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/247417789/sevilla_fc____2011.jpg",
+    "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/247417789/sevilla_fc____2011.jpg",
+    "profile_background_tile": true,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1478867218/recortada_10_normal.JPG",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1478867218/recortada_10_normal.JPG",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/263315158/1349989998",
+    "profile_link_color": "F50A15",
+    "profile_sidebar_border_color": "F7EAEA",
+    "profile_sidebar_fill_color": "CC0C0C",
+    "profile_text_color": "FAFAFA",
+    "profile_use_background_image": true,
+    "has_extended_profile": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false,
+    "translator_type": "none"
+  },
+  "geo": {
+    "type": "Point",
+    "coordinates": [37.01998021, -4.55786465]
+  },
+  "coordinates": {
+    "type": "Point",
+    "coordinates": [-4.55786465, 37.01998021]
+  },
+  "place": {
+    "id": "a36276b6d5e356e7",
+    "url": "https://api.twitter.com/1.1/geo/id/a36276b6d5e356e7.json",
+    "place_type": "city",
+    "name": "Antequera",
+    "full_name": "Antequera, Espa\u00f1a",
+    "country_code": "ES",
+    "country": "Espa\u00f1a",
+    "contained_within": [],
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [[-4.8275228, 36.8932539], [-4.3479666, 36.8932539], [-4.3479666, 37.2317797], [-4.8275228, 37.2317797]]
+      ]
+    },
+    "attributes": {}
+  },
+  "contributors": null,
+  "is_quote_status": false,
+  "retweet_count": 0,
+  "favorite_count": 1,
+  "favorited": false,
+  "retweeted": false,
+  "lang": "es"
+}

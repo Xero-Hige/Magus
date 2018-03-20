@@ -1,0 +1,106 @@
+{
+  "geo": null,
+  "filter_level": "low",
+  "in_reply_to_status_id": null,
+  "lang": "es",
+  "favorite_count": 0,
+  "coordinates": null,
+  "favorited": false,
+  "place": {
+    "name": "Ciudad Aut\u00f3noma de Buenos Aires",
+    "full_name": "Ciudad Aut\u00f3noma de Buenos Aires, Argentina",
+    "place_type": "city",
+    "country": "Argentina",
+    "id": "018f1cde6bad9747",
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [[-58.531792, -34.674453], [-58.531792, -34.534177], [-58.353494, -34.534177], [-58.353494, -34.674453]]
+      ]
+    },
+    "attributes": {},
+    "url": "https://api.twitter.com/1.1/geo/id/018f1cde6bad9747.json",
+    "country_code": "AR"
+  },
+  "contributors": null,
+  "entities": {
+    "hashtags": [],
+    "urls": [
+      {
+        "display_url": "twitter.com/i/web/status/9\u2026",
+        "expanded_url": "https://twitter.com/i/web/status/930592987775676416",
+        "url": "https://t.co/UfjbZ9jH4i",
+        "indices": [116, 139]
+      }
+    ],
+    "symbols": [],
+    "user_mentions": []
+  },
+  "id": 930592987775676416,
+  "user": {
+    "followers_count": 1976,
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_color": "C0DEED",
+    "translator_type": "none",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/835170357678067712/qqDZDt44_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/2993446906/1493221422",
+    "default_profile": true,
+    "utc_offset": -10800,
+    "lang": "es",
+    "url": "http://hugoromeroconcejal.com.ar",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/835170357678067712/qqDZDt44_normal.jpg",
+    "time_zone": "Buenos Aires",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_use_background_image": true,
+    "id": 2993446906,
+    "profile_link_color": "1DA1F2",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_background_tile": false,
+    "geo_enabled": true,
+    "id_str": "2993446906",
+    "verified": false,
+    "name": "Concejal Hugo Romero",
+    "is_translator": false,
+    "notifications": null,
+    "following": null,
+    "friends_count": 513,
+    "contributors_enabled": false,
+    "screen_name": "HugoRomeroTDF",
+    "created_at": "Fri Jan 23 01:58:14 +0000 2015",
+    "profile_text_color": "333333",
+    "favourites_count": 682,
+    "follow_request_sent": null,
+    "description": "Concejal de Ushuaia por el Frente Para la Victoria (FPV).",
+    "default_profile_image": false,
+    "location": "Tierra del Fuego Ant\u00e1rtida e I",
+    "listed_count": 22,
+    "protected": false,
+    "statuses_count": 3350
+  },
+  "id_str": "930592987775676416",
+  "retweet_count": 0,
+  "retweeted": false,
+  "quote_count": 0,
+  "truncated": true,
+  "in_reply_to_status_id_str": null,
+  "reply_count": 0,
+  "created_at": "Wed Nov 15 00:27:12 +0000 2017",
+  "is_quote_status": false,
+  "in_reply_to_user_id": null,
+  "timestamp_ms": "1510705632524",
+  "text": "La raz\u00f3n por la que estamos postergando el tratamiento del Presupuesto, al igual\nque la Legislatura Provincial, es\u2026 https://t.co/UfjbZ9jH4i",
+  "extended_tweet": {
+    "full_text": "La raz\u00f3n por la que estamos postergando el tratamiento del Presupuesto, al igual\nque la Legislatura Provincial, es que nos parece prudente tomarnos un tiempo para\nevaluar el Proyecto de Ley de Presupuesto presentado a nivel nacional.",
+    "display_text_range": [0, 233],
+    "entities": {
+      "hashtags": [],
+      "urls": [],
+      "symbols": [],
+      "user_mentions": []
+    }
+  },
+  "in_reply_to_user_id_str": null,
+  "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+  "in_reply_to_screen_name": null
+}

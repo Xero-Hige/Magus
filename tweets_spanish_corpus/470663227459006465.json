@@ -1,0 +1,120 @@
+{
+  "created_at": "Sun May 25 20:30:32 +0000 2014",
+  "id": 470663227459006465,
+  "id_str": "470663227459006465",
+  "text": "He tenido que pellizcarme cuando he puesto el Canal Internacional de @La1_tve y estaban dando Espa\u00f1a Directo con la d\u00e9cima del Madrid #asco",
+  "truncated": false,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "asco",
+        "indices": [134, 139]
+      }
+    ],
+    "symbols": [],
+    "user_mentions": [
+      {
+        "screen_name": "La1_tve",
+        "name": "La 1",
+        "id": 57981270,
+        "id_str": "57981270",
+        "indices": [69, 77]
+      }
+    ],
+    "urls": []
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 135591166,
+    "id_str": "135591166",
+    "name": "F\u00e1tima del Olmo",
+    "screen_name": "FatimaDelOlmo",
+    "location": "Suiza",
+    "description": "Adem\u00e1s de historiadora (ni\u00f1os en la incivil posguerra) y profesora de espa\u00f1ol en Suiza, este pa\u00eds de contradicciones, ahora aprendiz de librera en @Ibercultura",
+    "url": "https://t.co/YROluhdoze",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "https://t.co/YROluhdoze",
+            "expanded_url": "http://cuadernosdesdeladistancia.blogspot.ch",
+            "display_url": "cuadernosdesdeladistancia.blogspot.ch",
+            "indices": [0, 23]
+          }
+        ]
+      },
+      "description": {
+        "urls": []
+      }
+    },
+    "protected": false,
+    "followers_count": 1642,
+    "friends_count": 1484,
+    "listed_count": 39,
+    "created_at": "Wed Apr 21 18:53:20 +0000 2010",
+    "favourites_count": 34351,
+    "utc_offset": -10800,
+    "time_zone": "Greenland",
+    "geo_enabled": true,
+    "verified": false,
+    "statuses_count": 61179,
+    "lang": "es",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "is_translation_enabled": false,
+    "profile_background_color": "EBEBEB",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme7/bg.gif",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme7/bg.gif",
+    "profile_background_tile": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/972005579236388866/8enRfJ2p_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/972005579236388866/8enRfJ2p_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/135591166/1520766210",
+    "profile_link_color": "990000",
+    "profile_sidebar_border_color": "DFDFDF",
+    "profile_sidebar_fill_color": "F3F3F3",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "has_extended_profile": false,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false,
+    "translator_type": "none"
+  },
+  "geo": {
+    "type": "Point",
+    "coordinates": [46.95276995, 8.38711596]
+  },
+  "coordinates": {
+    "type": "Point",
+    "coordinates": [8.38711596, 46.95276995]
+  },
+  "place": {
+    "id": "502d0556dfd8587d",
+    "url": "https://api.twitter.com/1.1/geo/id/502d0556dfd8587d.json",
+    "place_type": "city",
+    "name": "Oberdorf (NW)",
+    "full_name": "Oberdorf (NW), Schweiz",
+    "country_code": "CH",
+    "country": "Suiza",
+    "contained_within": [],
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [[[8.367378, 46.919655], [8.455691, 46.919655], [8.455691, 46.968002], [8.367378, 46.968002]]]
+    },
+    "attributes": {}
+  },
+  "contributors": null,
+  "is_quote_status": false,
+  "retweet_count": 10,
+  "favorite_count": 5,
+  "favorited": false,
+  "retweeted": false,
+  "lang": "es"
+}

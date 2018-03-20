@@ -1,0 +1,121 @@
+{
+  "created_at": "Sun Nov 27 14:28:08 +0000 2011",
+  "id": 140799066467614720,
+  "id_str": "140799066467614720",
+  "text": "Plus que sept minutes avant le d\u00e9but du film et je suis encore dans le bus. #fear #nowpanic",
+  "truncated": false,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "fear",
+        "indices": [76, 81]
+      }, {
+        "text": "nowpanic",
+        "indices": [82, 91]
+      }
+    ],
+    "symbols": [],
+    "user_mentions": [],
+    "urls": []
+  },
+  "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 115834046,
+    "id_str": "115834046",
+    "name": "Alvin Stick",
+    "screen_name": "Alvin_Stick",
+    "location": "Paris, France",
+    "description": "Journaliste chef des soluces @JVCOM. Faiseur de Podcasts @Radiokawa (@TVNRShow @PasseLeStick). Co-auteur de G\u00e9n\u00e9rations Pok\u00e9mon : https://t.co/G7o6GDL1tl",
+    "url": "https://t.co/pGMEArJFaS",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "https://t.co/pGMEArJFaS",
+            "expanded_url": "https://www.snapchat.com/add/alvin_stick/",
+            "display_url": "snapchat.com/add/alvin_stic\u2026",
+            "indices": [0, 23]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+          {
+            "url": "https://t.co/G7o6GDL1tl",
+            "expanded_url": "http://bit.ly/2g1lKuf",
+            "display_url": "bit.ly/2g1lKuf",
+            "indices": [130, 153]
+          }
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 4313,
+    "friends_count": 1010,
+    "listed_count": 129,
+    "created_at": "Sat Feb 20 03:45:26 +0000 2010",
+    "favourites_count": 14034,
+    "utc_offset": 3600,
+    "time_zone": "Paris",
+    "geo_enabled": true,
+    "verified": false,
+    "statuses_count": 53459,
+    "lang": "fr",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "is_translation_enabled": false,
+    "profile_background_color": "131516",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+    "profile_background_tile": true,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/965290760265400327/xBLybnK9_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/965290760265400327/xBLybnK9_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/115834046/1398201016",
+    "profile_link_color": "009999",
+    "profile_sidebar_border_color": "EEEEEE",
+    "profile_sidebar_fill_color": "EFEFEF",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "has_extended_profile": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false,
+    "translator_type": "regular"
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": {
+    "id": "7238f93a3e899af6",
+    "url": "https://api.twitter.com/1.1/geo/id/7238f93a3e899af6.json",
+    "place_type": "city",
+    "name": "Par\u00eds",
+    "full_name": "Par\u00eds, Francia",
+    "country_code": "FR",
+    "country": "Francia",
+    "contained_within": [],
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [2.22410088273942, 48.8155599896432], [2.46990996027006, 48.8155599896432],
+          [2.46990996027006, 48.9021460222041], [2.22410088273942, 48.9021460222041]
+        ]
+      ]
+    },
+    "attributes": {}
+  },
+  "contributors": null,
+  "is_quote_status": false,
+  "retweet_count": 0,
+  "favorite_count": 0,
+  "favorited": false,
+  "retweeted": false,
+  "lang": "fr"
+}

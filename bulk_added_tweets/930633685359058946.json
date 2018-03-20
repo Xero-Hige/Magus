@@ -1,0 +1,168 @@
+{
+  "in_reply_to_screen_name": null,
+  "geo": null,
+  "filter_level": "low",
+  "in_reply_to_status_id": null,
+  "lang": "es",
+  "favorite_count": 0,
+  "display_text_range": [0, 61],
+  "favorited": false,
+  "id": 930633685359058946,
+  "place": {
+    "name": "Puerto Presidente Stroessner",
+    "full_name": "Puerto Presidente Stroessner, Paraguay",
+    "place_type": "city",
+    "country": "Paraguay",
+    "id": "01bbf1366b6a9f02",
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [[-54.677048, -25.578857], [-54.677048, -25.493748], [-54.599575, -25.493748], [-54.599575, -25.578857]]
+      ]
+    },
+    "attributes": {},
+    "url": "https://api.twitter.com/1.1/geo/id/01bbf1366b6a9f02.json",
+    "country_code": "PY"
+  },
+  "coordinates": null,
+  "entities": {
+    "media": [
+      {
+        "id_str": "930633672864206848",
+        "display_url": "pic.twitter.com/NeLTPIRnXy",
+        "url": "https://t.co/NeLTPIRnXy",
+        "expanded_url": "https://twitter.com/EduOcampo10/status/930633685359058946/photo/1",
+        "media_url_https": "https://pbs.twimg.com/media/DOpGZQ8WkAA5Ip8.jpg",
+        "id": 930633672864206848,
+        "type": "photo",
+        "indices": [62, 85],
+        "sizes": {
+          "medium": {
+            "h": 768,
+            "resize": "fit",
+            "w": 1024
+          },
+          "thumb": {
+            "h": 150,
+            "resize": "crop",
+            "w": 150
+          },
+          "large": {
+            "h": 768,
+            "resize": "fit",
+            "w": 1024
+          },
+          "small": {
+            "h": 510,
+            "resize": "fit",
+            "w": 680
+          }
+        },
+        "media_url": "http://pbs.twimg.com/media/DOpGZQ8WkAA5Ip8.jpg"
+      }
+    ],
+    "hashtags": [
+      {
+        "text": "InstitutoCDE",
+        "indices": [44, 57]
+      }
+    ],
+    "urls": [],
+    "symbols": [],
+    "user_mentions": []
+  },
+  "extended_entities": {
+    "media": [
+      {
+        "id_str": "930633672864206848",
+        "display_url": "pic.twitter.com/NeLTPIRnXy",
+        "url": "https://t.co/NeLTPIRnXy",
+        "expanded_url": "https://twitter.com/EduOcampo10/status/930633685359058946/photo/1",
+        "media_url_https": "https://pbs.twimg.com/media/DOpGZQ8WkAA5Ip8.jpg",
+        "id": 930633672864206848,
+        "type": "photo",
+        "indices": [62, 85],
+        "sizes": {
+          "medium": {
+            "h": 768,
+            "resize": "fit",
+            "w": 1024
+          },
+          "thumb": {
+            "h": 150,
+            "resize": "crop",
+            "w": 150
+          },
+          "large": {
+            "h": 768,
+            "resize": "fit",
+            "w": 1024
+          },
+          "small": {
+            "h": 510,
+            "resize": "fit",
+            "w": 680
+          }
+        },
+        "media_url": "http://pbs.twimg.com/media/DOpGZQ8WkAA5Ip8.jpg"
+      }
+    ]
+  },
+  "possibly_sensitive": false,
+  "user": {
+    "followers_count": 879,
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+    "profile_background_color": "000000",
+    "translator_type": "none",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/929848108938350593/EC0csobC_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/245593163/1510584577",
+    "default_profile": false,
+    "utc_offset": -7200,
+    "lang": "es",
+    "url": "http://lds.org",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/929848108938350593/EC0csobC_normal.jpg",
+    "time_zone": "Brasilia",
+    "profile_sidebar_border_color": "000000",
+    "profile_use_background_image": false,
+    "id": 245593163,
+    "profile_link_color": "ABB8C2",
+    "profile_sidebar_fill_color": "000000",
+    "profile_background_tile": false,
+    "geo_enabled": true,
+    "id_str": "245593163",
+    "verified": false,
+    "name": "Eduardo Ocampo",
+    "is_translator": false,
+    "notifications": null,
+    "following": null,
+    "friends_count": 114,
+    "contributors_enabled": false,
+    "screen_name": "EduOcampo10",
+    "created_at": "Tue Feb 01 01:36:01 +0000 2011",
+    "profile_text_color": "000000",
+    "favourites_count": 852,
+    "follow_request_sent": null,
+    "description": "Chile Rancagua mission 2013-2015  \ud83d\udc54Journalism student\ud83d\udde3\ufe0f XXIIV\ud83d\udc8e Club Cerro Porte\u00f1o \ud83d\udd34\u2b55\ud83c\uddf5\ud83c\uddfe",
+    "default_profile_image": false,
+    "location": "Paraguay",
+    "listed_count": 7,
+    "protected": false,
+    "statuses_count": 13968
+  },
+  "id_str": "930633685359058946",
+  "retweet_count": 0,
+  "retweeted": false,
+  "quote_count": 0,
+  "truncated": false,
+  "in_reply_to_status_id_str": null,
+  "reply_count": 0,
+  "created_at": "Wed Nov 15 03:08:55 +0000 2017",
+  "is_quote_status": false,
+  "in_reply_to_user_id": null,
+  "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+  "text": "Excelente compa\u00f1eros del comite estudiantil #InstitutoCDE \ud83d\udc4f\ud83d\udd1d\u2714 https://t.co/NeLTPIRnXy",
+  "timestamp_ms": "1510715335584",
+  "in_reply_to_user_id_str": null,
+  "contributors": null
+}

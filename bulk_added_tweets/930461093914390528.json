@@ -1,0 +1,405 @@
+{
+  "id": 930461093914390528,
+  "lang": "es",
+  "in_reply_to_status_id_str": null,
+  "truncated": true,
+  "place": {
+    "id": "01b6248340098bad",
+    "country": "El Salvador",
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [[-89.288895, 13.468974], [-89.288895, 14.05962], [-89.022102, 14.05962], [-89.022102, 13.468974]]
+      ]
+    },
+    "url": "https://api.twitter.com/1.1/geo/id/01b6248340098bad.json",
+    "full_name": "San Salvador, El Salvador",
+    "attributes": {},
+    "name": "San Salvador",
+    "place_type": "admin",
+    "country_code": "SV"
+  },
+  "favorite_count": 0,
+  "retweeted": false,
+  "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+  "is_quote_status": false,
+  "possibly_sensitive": false,
+  "geo": null,
+  "in_reply_to_user_id_str": "1322729737",
+  "in_reply_to_status_id": null,
+  "retweet_count": 0,
+  "quote_count": 0,
+  "timestamp_ms": "1510674186577",
+  "favorited": false,
+  "coordinates": null,
+  "filter_level": "low",
+  "entities": {
+    "urls": [
+      {
+        "indices": [117, 140],
+        "display_url": "twitter.com/i/web/status/9\u2026",
+        "url": "https://t.co/IXHE4wwTPp",
+        "expanded_url": "https://twitter.com/i/web/status/930461093914390528"
+      }
+    ],
+    "symbols": [],
+    "user_mentions": [
+      {
+        "screen_name": "fonatsv",
+        "id": 1322729737,
+        "name": "FONATSV",
+        "indices": [0, 8],
+        "id_str": "1322729737"
+      }, {
+        "screen_name": "conasevi",
+        "id": 2565658705,
+        "name": "Conasevi",
+        "indices": [11, 20],
+        "id_str": "2565658705"
+      }
+    ],
+    "hashtags": []
+  },
+  "reply_count": 0,
+  "in_reply_to_screen_name": "fonatsv",
+  "display_text_range": [0, 140],
+  "text": "@fonatsv y @Conasevi entregar\u00e1 179 kits de emergencia para la atenci\u00f3n prehospitalaria de las v\u00edctimas de siniestro\u2026 https://t.co/IXHE4wwTPp",
+  "extended_tweet": {
+    "display_text_range": [0, 143],
+    "extended_entities": {
+      "media": [
+        {
+          "id": 930461003200032768,
+          "display_url": "pic.twitter.com/jFs69WtTbj",
+          "id_str": "930461003200032768",
+          "indices": [144, 167],
+          "expanded_url": "https://twitter.com/fonatsv/status/930461093914390528/photo/1",
+          "type": "photo",
+          "url": "https://t.co/jFs69WtTbj",
+          "media_url_https": "https://pbs.twimg.com/media/DOmpWkUXcAAk7bA.jpg",
+          "media_url": "http://pbs.twimg.com/media/DOmpWkUXcAAk7bA.jpg",
+          "sizes": {
+            "small": {
+              "w": 680,
+              "h": 510,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 960,
+              "h": 720,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 960,
+              "h": 720,
+              "resize": "fit"
+            }
+          }
+        }, {
+          "id": 930461031377326081,
+          "display_url": "pic.twitter.com/jFs69WtTbj",
+          "id_str": "930461031377326081",
+          "indices": [144, 167],
+          "expanded_url": "https://twitter.com/fonatsv/status/930461093914390528/photo/1",
+          "type": "photo",
+          "url": "https://t.co/jFs69WtTbj",
+          "media_url_https": "https://pbs.twimg.com/media/DOmpYNSW0AEWuub.jpg",
+          "media_url": "http://pbs.twimg.com/media/DOmpYNSW0AEWuub.jpg",
+          "sizes": {
+            "small": {
+              "w": 510,
+              "h": 680,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 720,
+              "h": 960,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 720,
+              "h": 960,
+              "resize": "fit"
+            }
+          }
+        }, {
+          "id": 930461050285289472,
+          "display_url": "pic.twitter.com/jFs69WtTbj",
+          "id_str": "930461050285289472",
+          "indices": [144, 167],
+          "expanded_url": "https://twitter.com/fonatsv/status/930461093914390528/photo/1",
+          "type": "photo",
+          "url": "https://t.co/jFs69WtTbj",
+          "media_url_https": "https://pbs.twimg.com/media/DOmpZTuXcAA4MH3.jpg",
+          "media_url": "http://pbs.twimg.com/media/DOmpZTuXcAA4MH3.jpg",
+          "sizes": {
+            "small": {
+              "w": 680,
+              "h": 510,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 960,
+              "h": 720,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 960,
+              "h": 720,
+              "resize": "fit"
+            }
+          }
+        }, {
+          "id": 930461069507727361,
+          "display_url": "pic.twitter.com/jFs69WtTbj",
+          "id_str": "930461069507727361",
+          "indices": [144, 167],
+          "expanded_url": "https://twitter.com/fonatsv/status/930461093914390528/photo/1",
+          "type": "photo",
+          "url": "https://t.co/jFs69WtTbj",
+          "media_url_https": "https://pbs.twimg.com/media/DOmpabVWkAEqhja.jpg",
+          "media_url": "http://pbs.twimg.com/media/DOmpabVWkAEqhja.jpg",
+          "sizes": {
+            "small": {
+              "w": 680,
+              "h": 510,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 960,
+              "h": 720,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 960,
+              "h": 720,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "entities": {
+      "media": [
+        {
+          "id": 930461003200032768,
+          "display_url": "pic.twitter.com/jFs69WtTbj",
+          "id_str": "930461003200032768",
+          "indices": [144, 167],
+          "expanded_url": "https://twitter.com/fonatsv/status/930461093914390528/photo/1",
+          "type": "photo",
+          "url": "https://t.co/jFs69WtTbj",
+          "media_url_https": "https://pbs.twimg.com/media/DOmpWkUXcAAk7bA.jpg",
+          "media_url": "http://pbs.twimg.com/media/DOmpWkUXcAAk7bA.jpg",
+          "sizes": {
+            "small": {
+              "w": 680,
+              "h": 510,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 960,
+              "h": 720,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 960,
+              "h": 720,
+              "resize": "fit"
+            }
+          }
+        }, {
+          "id": 930461031377326081,
+          "display_url": "pic.twitter.com/jFs69WtTbj",
+          "id_str": "930461031377326081",
+          "indices": [144, 167],
+          "expanded_url": "https://twitter.com/fonatsv/status/930461093914390528/photo/1",
+          "type": "photo",
+          "url": "https://t.co/jFs69WtTbj",
+          "media_url_https": "https://pbs.twimg.com/media/DOmpYNSW0AEWuub.jpg",
+          "media_url": "http://pbs.twimg.com/media/DOmpYNSW0AEWuub.jpg",
+          "sizes": {
+            "small": {
+              "w": 510,
+              "h": 680,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 720,
+              "h": 960,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 720,
+              "h": 960,
+              "resize": "fit"
+            }
+          }
+        }, {
+          "id": 930461050285289472,
+          "display_url": "pic.twitter.com/jFs69WtTbj",
+          "id_str": "930461050285289472",
+          "indices": [144, 167],
+          "expanded_url": "https://twitter.com/fonatsv/status/930461093914390528/photo/1",
+          "type": "photo",
+          "url": "https://t.co/jFs69WtTbj",
+          "media_url_https": "https://pbs.twimg.com/media/DOmpZTuXcAA4MH3.jpg",
+          "media_url": "http://pbs.twimg.com/media/DOmpZTuXcAA4MH3.jpg",
+          "sizes": {
+            "small": {
+              "w": 680,
+              "h": 510,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 960,
+              "h": 720,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 960,
+              "h": 720,
+              "resize": "fit"
+            }
+          }
+        }, {
+          "id": 930461069507727361,
+          "display_url": "pic.twitter.com/jFs69WtTbj",
+          "id_str": "930461069507727361",
+          "indices": [144, 167],
+          "expanded_url": "https://twitter.com/fonatsv/status/930461093914390528/photo/1",
+          "type": "photo",
+          "url": "https://t.co/jFs69WtTbj",
+          "media_url_https": "https://pbs.twimg.com/media/DOmpabVWkAEqhja.jpg",
+          "media_url": "http://pbs.twimg.com/media/DOmpabVWkAEqhja.jpg",
+          "sizes": {
+            "small": {
+              "w": 680,
+              "h": 510,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 960,
+              "h": 720,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 960,
+              "h": 720,
+              "resize": "fit"
+            }
+          }
+        }
+      ],
+      "urls": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "screen_name": "fonatsv",
+          "id": 1322729737,
+          "name": "FONATSV",
+          "indices": [0, 8],
+          "id_str": "1322729737"
+        }, {
+          "screen_name": "conasevi",
+          "id": 2565658705,
+          "name": "Conasevi",
+          "indices": [11, 20],
+          "id_str": "2565658705"
+        }
+      ],
+      "hashtags": [
+        {
+          "text": "SeguridadVial",
+          "indices": [129, 143]
+        }
+      ]
+    },
+    "full_text": "@fonatsv y @Conasevi entregar\u00e1 179 kits de emergencia para la atenci\u00f3n prehospitalaria de las v\u00edctimas de siniestros de tr\u00e1nsito #SeguridadVial https://t.co/jFs69WtTbj"
+  },
+  "user": {
+    "statuses_count": 3552,
+    "id": 1322729737,
+    "default_profile": false,
+    "favourites_count": 851,
+    "url": "http://www.facebook.com/Fonatoficial",
+    "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/873187864/f9d66a37aafc09af618cefaea5ffc77d.jpeg",
+    "verified": false,
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/3468487649/9fa7d1795611bdd9e03e0a16b022668d_normal.jpeg",
+    "translator_type": "none",
+    "location": "El Salvador, Centroam\u00e9rica.",
+    "geo_enabled": true,
+    "utc_offset": null,
+    "notifications": null,
+    "profile_background_tile": false,
+    "friends_count": 580,
+    "is_translator": false,
+    "follow_request_sent": null,
+    "default_profile_image": false,
+    "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/873187864/f9d66a37aafc09af618cefaea5ffc77d.jpeg",
+    "profile_background_color": "C0DEED",
+    "profile_link_color": "0084B4",
+    "profile_use_background_image": true,
+    "time_zone": null,
+    "name": "FONATSV",
+    "profile_text_color": "333333",
+    "profile_sidebar_border_color": "FFFFFF",
+    "screen_name": "fonatsv",
+    "lang": "es",
+    "following": null,
+    "listed_count": 24,
+    "protected": false,
+    "profile_sidebar_fill_color": "DDEEF6",
+    "followers_count": 4044,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/3468487649/9fa7d1795611bdd9e03e0a16b022668d_normal.jpeg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1322729737/1407779529",
+    "contributors_enabled": false,
+    "created_at": "Tue Apr 02 15:34:21 +0000 2013",
+    "id_str": "1322729737",
+    "description": "Fondo que responde por las V\u00edctima de Accidentes de Tr\u00e1nsito. Es Solidario y Universal"
+  },
+  "created_at": "Tue Nov 14 15:43:06 +0000 2017",
+  "id_str": "930461093914390528",
+  "in_reply_to_user_id": 1322729737,
+  "contributors": null
+}

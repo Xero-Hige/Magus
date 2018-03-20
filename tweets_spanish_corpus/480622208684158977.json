@@ -1,0 +1,110 @@
+{
+  "created_at": "Sun Jun 22 08:03:58 +0000 2014",
+  "id": 480622208684158977,
+  "id_str": "480622208684158977",
+  "text": "#MeCaeMal que cuando m\u00e1s te esfuerzas por ser detallista, resulta ser de los d\u00edas m\u00e1s desagradables con ella #NoMasDetalles #HeDicho",
+  "truncated": false,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "MeCaeMal",
+        "indices": [0, 9]
+      }, {
+        "text": "NoMasDetalles",
+        "indices": [109, 123]
+      }, {
+        "text": "HeDicho",
+        "indices": [124, 132]
+      }
+    ],
+    "symbols": [],
+    "user_mentions": [],
+    "urls": []
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 374508331,
+    "id_str": "374508331",
+    "name": "ISAAC",
+    "screen_name": "IsaacMoreno88",
+    "location": "Tehuacan, Puebla, M\u00e9xico",
+    "description": "Carismatico Ambicioso Pensador Comprometido Optimista Confiado Panista Patriota eterno, no solo cuando hay box o juega la selecci\u00f3n y un poco arrogante. G\u00e9minis",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": []
+      }
+    },
+    "protected": false,
+    "followers_count": 7851,
+    "friends_count": 6472,
+    "listed_count": 7,
+    "created_at": "Fri Sep 16 12:55:13 +0000 2011",
+    "favourites_count": 4512,
+    "utc_offset": -21600,
+    "time_zone": "Mountain Time (US & Canada)",
+    "geo_enabled": true,
+    "verified": false,
+    "statuses_count": 4767,
+    "lang": "es",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "is_translation_enabled": false,
+    "profile_background_color": "131516",
+    "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000168505621/FO_J4A3o.jpeg",
+    "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000168505621/FO_J4A3o.jpeg",
+    "profile_background_tile": true,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/750153906894712832/rJ7VvLBM_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/750153906894712832/rJ7VvLBM_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/374508331/1470269787",
+    "profile_link_color": "009999",
+    "profile_sidebar_border_color": "FFFFFF",
+    "profile_sidebar_fill_color": "EFEFEF",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "has_extended_profile": false,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false,
+    "translator_type": "none"
+  },
+  "geo": {
+    "type": "Point",
+    "coordinates": [18.4537363, -97.38908189]
+  },
+  "coordinates": {
+    "type": "Point",
+    "coordinates": [-97.38908189, 18.4537363]
+  },
+  "place": {
+    "id": "c29d286f2db37d16",
+    "url": "https://api.twitter.com/1.1/geo/id/c29d286f2db37d16.json",
+    "place_type": "city",
+    "name": "Tehuac\u00e1n",
+    "full_name": "Tehuac\u00e1n, Puebla",
+    "country_code": "MX",
+    "country": "M\u00e9xico",
+    "contained_within": [],
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [[-97.638955, 18.327584], [-97.205792, 18.327584], [-97.205792, 18.604805], [-97.638955, 18.604805]]
+      ]
+    },
+    "attributes": {}
+  },
+  "contributors": null,
+  "is_quote_status": false,
+  "retweet_count": 0,
+  "favorite_count": 0,
+  "favorited": false,
+  "retweeted": false,
+  "lang": "es"
+}

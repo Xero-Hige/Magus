@@ -1,0 +1,112 @@
+{
+  "created_at": "Wed May 14 12:45:36 +0000 2014",
+  "id": 466559956230344704,
+  "id_str": "466559956230344704",
+  "text": "@LayaOscura solo cuando se meten conmigo o los m\u00edos me parece mal!!!  siempre aprovechando r\u00edo revuelto para sus intereses #asco",
+  "truncated": false,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "asco",
+        "indices": [123, 128]
+      }
+    ],
+    "symbols": [],
+    "user_mentions": [
+      {
+        "screen_name": "LayaOscura",
+        "name": "Laya Red Lander",
+        "id": 974197244,
+        "id_str": "974197244",
+        "indices": [0, 11]
+      }
+    ],
+    "urls": []
+  },
+  "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+  "in_reply_to_status_id": 466555525958598656,
+  "in_reply_to_status_id_str": "466555525958598656",
+  "in_reply_to_user_id": 974197244,
+  "in_reply_to_user_id_str": "974197244",
+  "in_reply_to_screen_name": "LayaOscura",
+  "user": {
+    "id": 288565086,
+    "id_str": "288565086",
+    "name": "JO$\u20ac",
+    "screen_name": "jomalo_1973",
+    "location": "closer ",
+    "description": "la vida es eso que pasa mientras entramos en Twitter. Life is so short",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": []
+      }
+    },
+    "protected": false,
+    "followers_count": 117,
+    "friends_count": 173,
+    "listed_count": 4,
+    "created_at": "Wed Apr 27 02:32:03 +0000 2011",
+    "favourites_count": 11433,
+    "utc_offset": -10800,
+    "time_zone": "Greenland",
+    "geo_enabled": true,
+    "verified": false,
+    "statuses_count": 15941,
+    "lang": "es",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "is_translation_enabled": false,
+    "profile_background_color": "C0DEED",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/939268752117551104/SYDp85B__normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/939268752117551104/SYDp85B__normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/288565086/1411741770",
+    "profile_link_color": "1DA1F2",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "has_extended_profile": false,
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false,
+    "translator_type": "none"
+  },
+  "geo": {
+    "type": "Point",
+    "coordinates": [43.3289134, -3.0357268]
+  },
+  "coordinates": {
+    "type": "Point",
+    "coordinates": [-3.0357268, 43.3289134]
+  },
+  "place": {
+    "id": "9b893d63185dc04b",
+    "url": "https://api.twitter.com/1.1/geo/id/9b893d63185dc04b.json",
+    "place_type": "city",
+    "name": "Santurtzi",
+    "full_name": "Santurtzi, Espa\u00f1a",
+    "country_code": "ES",
+    "country": "Espa\u00f1a",
+    "contained_within": [],
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [[-3.0689726, 43.315327], [-3.0228627, 43.315327], [-3.0228627, 43.3519153], [-3.0689726, 43.3519153]]
+      ]
+    },
+    "attributes": {}
+  },
+  "contributors": null,
+  "is_quote_status": false,
+  "retweet_count": 0,
+  "favorite_count": 1,
+  "favorited": false,
+  "retweeted": false,
+  "lang": "es"
+}

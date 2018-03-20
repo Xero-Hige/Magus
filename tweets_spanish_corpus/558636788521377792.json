@@ -1,0 +1,116 @@
+{
+  "created_at": "Fri Jan 23 14:46:04 +0000 2015",
+  "id": 558636788521377792,
+  "id_str": "558636788521377792",
+  "text": "Brasil y Chile se van al descanso con triunfo chileno por la m\u00ednima diferencia #sorpresa #Qatar2015",
+  "truncated": false,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "sorpresa",
+        "indices": [79, 88]
+      }, {
+        "text": "Qatar2015",
+        "indices": [89, 99]
+      }
+    ],
+    "symbols": [],
+    "user_mentions": [],
+    "urls": []
+  },
+  "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 154496328,
+    "id_str": "154496328",
+    "name": "Germ\u00e1n Ara\u00fajo",
+    "screen_name": "ger_araujo",
+    "location": "Uruguay",
+    "description": "Tenemos la necesidad de cambiar",
+    "url": "https://t.co/twkB95rpsc",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "https://t.co/twkB95rpsc",
+            "expanded_url": "https://www.facebook.com/german.araujo.9",
+            "display_url": "facebook.com/german.araujo.9",
+            "indices": [0, 23]
+          }
+        ]
+      },
+      "description": {
+        "urls": []
+      }
+    },
+    "protected": false,
+    "followers_count": 64,
+    "friends_count": 224,
+    "listed_count": 2,
+    "created_at": "Fri Jun 11 11:27:52 +0000 2010",
+    "favourites_count": 38,
+    "utc_offset": -10800,
+    "time_zone": "Greenland",
+    "geo_enabled": true,
+    "verified": false,
+    "statuses_count": 545,
+    "lang": "es",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "is_translation_enabled": false,
+    "profile_background_color": "022330",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+    "profile_background_tile": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/577676466353229824/iaBOt-9M_normal.jpeg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/577676466353229824/iaBOt-9M_normal.jpeg",
+    "profile_link_color": "0084B4",
+    "profile_sidebar_border_color": "A8C7F7",
+    "profile_sidebar_fill_color": "C0DFEC",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "has_extended_profile": false,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false,
+    "translator_type": "none"
+  },
+  "geo": {
+    "type": "Point",
+    "coordinates": [-34.2951044, -55.9531211]
+  },
+  "coordinates": {
+    "type": "Point",
+    "coordinates": [-55.9531211, -34.2951044]
+  },
+  "place": {
+    "id": "009b71fa17159ccc",
+    "url": "https://api.twitter.com/1.1/geo/id/009b71fa17159ccc.json",
+    "place_type": "admin",
+    "name": "Canelones",
+    "full_name": "Canelones, Uruguay",
+    "country_code": "UY",
+    "country": "Uruguay",
+    "contained_within": [],
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [[-56.494047, -34.88039], [-55.3932154, -34.88039], [-55.3932154, -34.207474], [-56.494047, -34.207474]]
+      ]
+    },
+    "attributes": {}
+  },
+  "contributors": null,
+  "is_quote_status": false,
+  "retweet_count": 1,
+  "favorite_count": 0,
+  "favorited": false,
+  "retweeted": false,
+  "lang": "es"
+}

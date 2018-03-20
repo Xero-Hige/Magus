@@ -1,0 +1,104 @@
+{
+  "created_at": "Fri Oct 03 07:12:15 +0000 2014",
+  "id": 517935143894675456,
+  "id_str": "517935143894675456",
+  "text": "EL viento . Yo sola. La puerta de mi pieza se abre y cierra despacito a modo terror \ud83d\ude28\ud83d\ude28 #Miedo",
+  "truncated": false,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "Miedo",
+        "indices": [87, 93]
+      }
+    ],
+    "symbols": [],
+    "user_mentions": [],
+    "urls": []
+  },
+  "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 177049366,
+    "id_str": "177049366",
+    "name": "Agostina \u2661",
+    "screen_name": "afmassari",
+    "location": "Venado Tuerto, Argentina",
+    "description": "Fan\u00e1tica de Marcos Di Palma \u2665 Radi\u00f3loga - Camino a los 30 y todav\u00eda Aguitos.",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": []
+      }
+    },
+    "protected": false,
+    "followers_count": 273,
+    "friends_count": 564,
+    "listed_count": 7,
+    "created_at": "Wed Aug 11 03:25:50 +0000 2010",
+    "favourites_count": 2811,
+    "utc_offset": -10800,
+    "time_zone": "Buenos Aires",
+    "geo_enabled": true,
+    "verified": false,
+    "statuses_count": 11646,
+    "lang": "es",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "is_translation_enabled": false,
+    "profile_background_color": "DD2E44",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+    "profile_background_tile": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/791881227271823361/0gqdpKDx_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/791881227271823361/0gqdpKDx_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/177049366/1469079444",
+    "profile_link_color": "DD2E44",
+    "profile_sidebar_border_color": "FFFFFF",
+    "profile_sidebar_fill_color": "E3E2DE",
+    "profile_text_color": "634047",
+    "profile_use_background_image": true,
+    "has_extended_profile": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false,
+    "translator_type": "none"
+  },
+  "geo": {
+    "type": "Point",
+    "coordinates": [-32.9513897, -60.6534786]
+  },
+  "coordinates": {
+    "type": "Point",
+    "coordinates": [-60.6534786, -32.9513897]
+  },
+  "place": {
+    "id": "0079bbc151fa56d2",
+    "url": "https://api.twitter.com/1.1/geo/id/0079bbc151fa56d2.json",
+    "place_type": "city",
+    "name": "Rosario",
+    "full_name": "Rosario, Argentina",
+    "country_code": "AR",
+    "country": "Argentina",
+    "contained_within": [],
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [[-60.781306, -33.033993], [-60.6135057, -33.033993], [-60.6135057, -32.8692378], [-60.781306, -32.8692378]]
+      ]
+    },
+    "attributes": {}
+  },
+  "contributors": null,
+  "is_quote_status": false,
+  "retweet_count": 0,
+  "favorite_count": 0,
+  "favorited": false,
+  "retweeted": false,
+  "lang": "es"
+}

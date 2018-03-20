@@ -1,0 +1,135 @@
+{
+  "extended_tweet": {
+    "display_text_range": [21, 189],
+    "entities": {
+      "urls": [],
+      "symbols": [],
+      "hashtags": [],
+      "user_mentions": [
+        {
+          "indices": [0, 13],
+          "name": "Leninistas Ecuador",
+          "id_str": "4895147265",
+          "screen_name": "LeninistasEC",
+          "id": 4895147265
+        }, {
+          "indices": [14, 20],
+          "name": "Len\u00edn Moreno",
+          "id_str": "913131817",
+          "screen_name": "Lenin",
+          "id": 913131817
+        }
+      ]
+    },
+    "full_text": "@LeninistasEC @Lenin S\u00ed, pero hay que saber con qui\u00e9n se dialoga, y si no hay coherencia, lealtad ni respeto por sus co-idearios, c\u00f3mo se puede tener respeto por el pueblo y sus decisiones?"
+  },
+  "favorited": false,
+  "lang": "es",
+  "display_text_range": [21, 140],
+  "favorite_count": 0,
+  "reply_count": 0,
+  "geo": null,
+  "contributors": null,
+  "text": "@LeninistasEC @Lenin S\u00ed, pero hay que saber con qui\u00e9n se dialoga, y si no hay coherencia, lealtad ni respeto por su\u2026 https://t.co/XZO5jAt4I5",
+  "created_at": "Wed Nov 15 16:44:41 +0000 2017",
+  "place": {
+    "place_type": "country",
+    "full_name": "Ecuador",
+    "country": "Ecuador",
+    "name": "Ecuador",
+    "url": "https://api.twitter.com/1.1/geo/id/4e43cac8250a8b20.json",
+    "country_code": "EC",
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [[-92.008973, -5.013285], [-92.008973, 1.681834], [-75.192627, 1.681834], [-75.192627, -5.013285]]
+      ]
+    },
+    "id": "4e43cac8250a8b20",
+    "attributes": {}
+  },
+  "user": {
+    "profile_text_color": "000000",
+    "lang": "es",
+    "location": "Ecuador",
+    "friends_count": 85,
+    "profile_link_color": "3B94D9",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/530778595736571904/w0RfnStb_normal.jpeg",
+    "contributors_enabled": false,
+    "following": null,
+    "is_translator": false,
+    "verified": false,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/429346597/1438781437",
+    "utc_offset": null,
+    "geo_enabled": true,
+    "profile_sidebar_border_color": "000000",
+    "created_at": "Mon Dec 05 21:24:00 +0000 2011",
+    "description": null,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/530778595736571904/w0RfnStb_normal.jpeg",
+    "profile_background_color": "000000",
+    "listed_count": 2,
+    "follow_request_sent": null,
+    "profile_background_tile": false,
+    "followers_count": 84,
+    "name": "Pablo D\u00e1vila Morgner",
+    "notifications": null,
+    "default_profile_image": false,
+    "url": null,
+    "favourites_count": 11877,
+    "screen_name": "PabloDvilaMorgn",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_sidebar_fill_color": "000000",
+    "profile_use_background_image": false,
+    "translator_type": "none",
+    "time_zone": null,
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "statuses_count": 6676,
+    "id": 429346597,
+    "default_profile": false,
+    "protected": false,
+    "id_str": "429346597"
+  },
+  "in_reply_to_user_id_str": "4895147265",
+  "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+  "filter_level": "low",
+  "is_quote_status": false,
+  "in_reply_to_status_id": 930597077586993152,
+  "in_reply_to_user_id": 4895147265,
+  "quote_count": 0,
+  "retweeted": false,
+  "in_reply_to_screen_name": "LeninistasEC",
+  "retweet_count": 0,
+  "in_reply_to_status_id_str": "930597077586993152",
+  "coordinates": null,
+  "id": 930838978441379841,
+  "truncated": true,
+  "entities": {
+    "urls": [
+      {
+        "url": "https://t.co/XZO5jAt4I5",
+        "display_url": "twitter.com/i/web/status/9\u2026",
+        "indices": [117, 140],
+        "expanded_url": "https://twitter.com/i/web/status/930838978441379841"
+      }
+    ],
+    "symbols": [],
+    "hashtags": [],
+    "user_mentions": [
+      {
+        "indices": [0, 13],
+        "name": "Leninistas Ecuador",
+        "id_str": "4895147265",
+        "screen_name": "LeninistasEC",
+        "id": 4895147265
+      }, {
+        "indices": [14, 20],
+        "name": "Len\u00edn Moreno",
+        "id_str": "913131817",
+        "screen_name": "Lenin",
+        "id": 913131817
+      }
+    ]
+  },
+  "timestamp_ms": "1510764281269",
+  "id_str": "930838978441379841"
+}

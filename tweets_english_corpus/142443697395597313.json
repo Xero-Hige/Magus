@@ -1,0 +1,115 @@
+{
+  "created_at": "Fri Dec 02 03:23:18 +0000 2011",
+  "id": 142443697395597313,
+  "id_str": "142443697395597313",
+  "text": "@samharless I've gotta run in that memorial marathon in the city #joy #notrainingneeded",
+  "truncated": false,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "joy",
+        "indices": [65, 69]
+      }, {
+        "text": "notrainingneeded",
+        "indices": [70, 87]
+      }
+    ],
+    "symbols": [],
+    "user_mentions": [
+      {
+        "screen_name": "samharless",
+        "name": "samantha harless",
+        "id": 315947697,
+        "id_str": "315947697",
+        "indices": [0, 11]
+      }
+    ],
+    "urls": []
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "in_reply_to_status_id": 142443386773831680,
+  "in_reply_to_status_id_str": "142443386773831680",
+  "in_reply_to_user_id": 315947697,
+  "in_reply_to_user_id_str": "315947697",
+  "in_reply_to_screen_name": "samharless",
+  "user": {
+    "id": 299072707,
+    "id_str": "299072707",
+    "name": "Hunter Hines",
+    "screen_name": "hunnid_hines",
+    "location": "Sayre\u2022Creede\u2022Nompton\u2022Dub",
+    "description": "\u2022 Life is good \u2022 SWOSU \u2022",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": []
+      }
+    },
+    "protected": false,
+    "followers_count": 1498,
+    "friends_count": 692,
+    "listed_count": 1,
+    "created_at": "Sun May 15 13:18:24 +0000 2011",
+    "favourites_count": 12156,
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": true,
+    "verified": false,
+    "statuses_count": 10558,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "is_translation_enabled": false,
+    "profile_background_color": "C0DEED",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/904798413195280386/3MCxaN39_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/904798413195280386/3MCxaN39_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/299072707/1511428486",
+    "profile_link_color": "1DA1F2",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "has_extended_profile": false,
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false,
+    "translator_type": "none"
+  },
+  "geo": {
+    "type": "Point",
+    "coordinates": [35.29233238, -99.62573578]
+  },
+  "coordinates": {
+    "type": "Point",
+    "coordinates": [-99.62573578, 35.29233238]
+  },
+  "place": {
+    "id": "1fd8b3e8688bfe84",
+    "url": "https://api.twitter.com/1.1/geo/id/1fd8b3e8688bfe84.json",
+    "place_type": "city",
+    "name": "Sayre",
+    "full_name": "Sayre, OK",
+    "country_code": "US",
+    "country": "Estados Unidos",
+    "contained_within": [],
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [[-99.6512981, 35.267624], [-99.608681, 35.267624], [-99.608681, 35.315307], [-99.6512981, 35.315307]]
+      ]
+    },
+    "attributes": {}
+  },
+  "contributors": null,
+  "is_quote_status": false,
+  "retweet_count": 0,
+  "favorite_count": 0,
+  "favorited": false,
+  "retweeted": false,
+  "lang": "en"
+}

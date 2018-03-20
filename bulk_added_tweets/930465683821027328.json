@@ -1,0 +1,215 @@
+{
+  "id": 930465683821027328,
+  "lang": "es",
+  "in_reply_to_status_id_str": null,
+  "truncated": true,
+  "place": {
+    "id": "01a09ade70818f7c",
+    "country": "Argentina",
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [[-64.532816, -31.465601], [-64.532816, -31.382763], [-64.454134, -31.382763], [-64.454134, -31.465601]]
+      ]
+    },
+    "url": "https://api.twitter.com/1.1/geo/id/01a09ade70818f7c.json",
+    "full_name": "Villa Carlos Paz, Argentina",
+    "attributes": {},
+    "name": "Villa Carlos Paz",
+    "place_type": "city",
+    "country_code": "AR"
+  },
+  "favorite_count": 0,
+  "retweeted": false,
+  "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+  "is_quote_status": false,
+  "possibly_sensitive": false,
+  "geo": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_status_id": null,
+  "retweet_count": 0,
+  "quote_count": 0,
+  "timestamp_ms": "1510675280896",
+  "favorited": false,
+  "coordinates": null,
+  "filter_level": "low",
+  "entities": {
+    "urls": [
+      {
+        "indices": [113, 136],
+        "display_url": "twitter.com/i/web/status/9\u2026",
+        "url": "https://t.co/6yjxTZPp8S",
+        "expanded_url": "https://twitter.com/i/web/status/930465683821027328"
+      }
+    ],
+    "symbols": [],
+    "user_mentions": [
+      {
+        "screen_name": "Aerolineas_AR",
+        "id": 153900887,
+        "name": "Aerol\u00edneasArgentinas",
+        "indices": [51, 65],
+        "id_str": "153900887"
+      }
+    ],
+    "hashtags": [
+      {
+        "text": "AloRolling",
+        "indices": [100, 111]
+      }
+    ]
+  },
+  "reply_count": 0,
+  "in_reply_to_screen_name": null,
+  "display_text_range": [0, 140],
+  "text": "\u2705 Mar Del Plata con vuelo directo desde C\u00f3rdoba!\n\u27a1\ufe0f@Aerolineas_AR. Prep\u00e1rate para este Verano 2018! #AloRolling\u2026 https://t.co/6yjxTZPp8S",
+  "extended_tweet": {
+    "display_text_range": [0, 136],
+    "extended_entities": {
+      "media": [
+        {
+          "id": 930463985765437443,
+          "display_url": "pic.twitter.com/nDjBF8mT7y",
+          "id_str": "930463985765437443",
+          "indices": [137, 160],
+          "expanded_url": "https://twitter.com/rolling_travel/status/930465683821027328/photo/1",
+          "type": "photo",
+          "url": "https://t.co/nDjBF8mT7y",
+          "media_url_https": "https://pbs.twimg.com/media/DOmsELPX0AMGV4h.jpg",
+          "media_url": "http://pbs.twimg.com/media/DOmsELPX0AMGV4h.jpg",
+          "sizes": {
+            "small": {
+              "w": 680,
+              "h": 514,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 1153,
+              "h": 872,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 1153,
+              "h": 872,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "entities": {
+      "media": [
+        {
+          "id": 930463985765437443,
+          "display_url": "pic.twitter.com/nDjBF8mT7y",
+          "id_str": "930463985765437443",
+          "indices": [137, 160],
+          "expanded_url": "https://twitter.com/rolling_travel/status/930465683821027328/photo/1",
+          "type": "photo",
+          "url": "https://t.co/nDjBF8mT7y",
+          "media_url_https": "https://pbs.twimg.com/media/DOmsELPX0AMGV4h.jpg",
+          "media_url": "http://pbs.twimg.com/media/DOmsELPX0AMGV4h.jpg",
+          "sizes": {
+            "small": {
+              "w": 680,
+              "h": 514,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 1153,
+              "h": 872,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 1153,
+              "h": 872,
+              "resize": "fit"
+            }
+          }
+        }
+      ],
+      "urls": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "screen_name": "Aerolineas_AR",
+          "id": 153900887,
+          "name": "Aerol\u00edneasArgentinas",
+          "indices": [51, 65],
+          "id_str": "153900887"
+        }
+      ],
+      "hashtags": [
+        {
+          "text": "AloRolling",
+          "indices": [100, 111]
+        }, {
+          "text": "sol",
+          "indices": [112, 116]
+        }, {
+          "text": "playa",
+          "indices": [117, 123]
+        }, {
+          "text": "MardelPlata",
+          "indices": [124, 136]
+        }
+      ]
+    },
+    "full_text": "\u2705 Mar Del Plata con vuelo directo desde C\u00f3rdoba!\n\u27a1\ufe0f@Aerolineas_AR. Prep\u00e1rate para este Verano 2018! #AloRolling #sol #playa #MardelPlata https://t.co/nDjBF8mT7y"
+  },
+  "user": {
+    "statuses_count": 799,
+    "id": 3364636972,
+    "default_profile": false,
+    "favourites_count": 69,
+    "url": "http://www.rollingtravel.tur.ar/",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "verified": false,
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/631948145061195777/1Y01qO-F_normal.jpg",
+    "translator_type": "none",
+    "location": "Capital - C\u00f3rdoba, Argentina",
+    "geo_enabled": true,
+    "utc_offset": -28800,
+    "notifications": null,
+    "profile_background_tile": false,
+    "friends_count": 602,
+    "is_translator": false,
+    "follow_request_sent": null,
+    "default_profile_image": false,
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_color": "3B94D9",
+    "profile_link_color": "1B95E0",
+    "profile_use_background_image": false,
+    "time_zone": "Pacific Time (US & Canada)",
+    "name": "Rolling Travel",
+    "profile_text_color": "000000",
+    "profile_sidebar_border_color": "000000",
+    "screen_name": "rolling_travel",
+    "lang": "es",
+    "following": null,
+    "listed_count": 3,
+    "protected": false,
+    "profile_sidebar_fill_color": "000000",
+    "followers_count": 725,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/631948145061195777/1Y01qO-F_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/3364636972/1510079525",
+    "contributors_enabled": false,
+    "created_at": "Tue Jul 07 18:42:38 +0000 2015",
+    "id_str": "3364636972",
+    "description": "Operadora Mayorista de Turismo."
+  },
+  "created_at": "Tue Nov 14 16:01:20 +0000 2017",
+  "id_str": "930465683821027328",
+  "in_reply_to_user_id": null,
+  "contributors": null
+}

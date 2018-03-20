@@ -1,0 +1,104 @@
+{
+  "created_at": "Sun Jun 22 12:37:25 +0000 2014",
+  "id": 480691025145769984,
+  "id_str": "480691025145769984",
+  "text": "Horrible levantarse sin ganas de hacer nada y q en tu casa se levanten con ganas de q hagas todo.. #MeCaeMal",
+  "truncated": false,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "MeCaeMal",
+        "indices": [99, 108]
+      }
+    ],
+    "symbols": [],
+    "user_mentions": [],
+    "urls": []
+  },
+  "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 218155485,
+    "id_str": "218155485",
+    "name": "PieGrande",
+    "screen_name": "IsmasHeiL",
+    "location": "",
+    "description": "",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": []
+      }
+    },
+    "protected": false,
+    "followers_count": 151,
+    "friends_count": 384,
+    "listed_count": 0,
+    "created_at": "Sun Nov 21 15:40:58 +0000 2010",
+    "favourites_count": 143,
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": true,
+    "verified": false,
+    "statuses_count": 720,
+    "lang": "es",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "is_translation_enabled": false,
+    "profile_background_color": "C0DEED",
+    "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/837796708/abf85c227e8278bdb1cfce09575dba02.jpeg",
+    "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/837796708/abf85c227e8278bdb1cfce09575dba02.jpeg",
+    "profile_background_tile": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/527104474691948544/IPi1wehU_normal.jpeg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/527104474691948544/IPi1wehU_normal.jpeg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/218155485/1414506472",
+    "profile_link_color": "0084B4",
+    "profile_sidebar_border_color": "FFFFFF",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "has_extended_profile": false,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false,
+    "translator_type": "none"
+  },
+  "geo": {
+    "type": "Point",
+    "coordinates": [-31.3559062, -64.3373447]
+  },
+  "coordinates": {
+    "type": "Point",
+    "coordinates": [-64.3373447, -31.3559062]
+  },
+  "place": {
+    "id": "00e03d61002c8a01",
+    "url": "https://api.twitter.com/1.1/geo/id/00e03d61002c8a01.json",
+    "place_type": "city",
+    "name": "La Calera",
+    "full_name": "La Calera, Argentina",
+    "country_code": "AR",
+    "country": "Argentina",
+    "contained_within": [],
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [[-64.35756, -31.364732], [-64.3289433, -31.364732], [-64.3289433, -31.3186279], [-64.35756, -31.3186279]]
+      ]
+    },
+    "attributes": {}
+  },
+  "contributors": null,
+  "is_quote_status": false,
+  "retweet_count": 2,
+  "favorite_count": 0,
+  "favorited": false,
+  "retweeted": false,
+  "lang": "es"
+}

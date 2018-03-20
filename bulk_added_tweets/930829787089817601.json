@@ -1,0 +1,118 @@
+{
+  "extended_tweet": {
+    "display_text_range": [0, 168],
+    "entities": {
+      "urls": [],
+      "symbols": [],
+      "hashtags": [],
+      "user_mentions": [
+        {
+          "indices": [144, 157],
+          "name": "Mariano Rajoy Brey",
+          "id_str": "343447873",
+          "screen_name": "marianorajoy",
+          "id": 343447873
+        }, {
+          "indices": [159, 168],
+          "name": "Partido Popular",
+          "id_str": "20509689",
+          "screen_name": "PPopular",
+          "id": 20509689
+        }
+      ]
+    },
+    "full_text": "Dijo Rajoy: \"Los pol\u00edticos que mienten deber\u00edan ser inhabilitados\" (??) Y lo dijo \u00e9l s\u00f3lo, sin ayuda y sin autoinhabilitarse \u00e9l autom\u00e1ticamente @marianorajoy  @PPopular"
+  },
+  "favorited": false,
+  "lang": "es",
+  "favorite_count": 0,
+  "reply_count": 0,
+  "geo": null,
+  "contributors": null,
+  "text": "Dijo Rajoy: \"Los pol\u00edticos que mienten deber\u00edan ser inhabilitados\" (??) Y lo dijo \u00e9l s\u00f3lo, sin ayuda y sin autoinha\u2026 https://t.co/Y8Wpjy1JLW",
+  "created_at": "Wed Nov 15 16:08:09 +0000 2017",
+  "place": {
+    "place_type": "city",
+    "full_name": "Olesa de Montserrat, Espa\u00f1a",
+    "country": "Espa\u00f1a",
+    "name": "Olesa de Montserrat",
+    "url": "https://api.twitter.com/1.1/geo/id/f91c3faa315d62e6.json",
+    "country_code": "ES",
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [[[1.872591, 41.532654], [1.872591, 41.579219], [1.933297, 41.579219], [1.933297, 41.532654]]]
+    },
+    "id": "f91c3faa315d62e6",
+    "attributes": {}
+  },
+  "user": {
+    "profile_text_color": "333333",
+    "lang": "es",
+    "location": null,
+    "friends_count": 1940,
+    "profile_link_color": "1DA1F2",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/738837377406357505/xZ0qFc6P_normal.jpg",
+    "contributors_enabled": false,
+    "following": null,
+    "is_translator": false,
+    "verified": false,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1343861509/1476843823",
+    "utc_offset": 3600,
+    "geo_enabled": true,
+    "profile_sidebar_border_color": "C0DEED",
+    "created_at": "Thu Apr 11 08:22:01 +0000 2013",
+    "description": "De izquierdas, marxista, del PSC. No creo en las fronteras ni en las banderas.  !Ah! y soy del Bar\u00e7a",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/738837377406357505/xZ0qFc6P_normal.jpg",
+    "profile_background_color": "C0DEED",
+    "listed_count": 11,
+    "follow_request_sent": null,
+    "profile_background_tile": false,
+    "followers_count": 829,
+    "name": "Paco Fdez Hoces",
+    "notifications": null,
+    "default_profile_image": false,
+    "url": null,
+    "favourites_count": 351,
+    "screen_name": "PacoFdezHoces",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_use_background_image": true,
+    "translator_type": "none",
+    "time_zone": "Madrid",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "statuses_count": 9920,
+    "id": 1343861509,
+    "default_profile": true,
+    "protected": false,
+    "id_str": "1343861509"
+  },
+  "in_reply_to_user_id_str": null,
+  "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+  "filter_level": "low",
+  "is_quote_status": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_user_id": null,
+  "quote_count": 0,
+  "retweeted": false,
+  "in_reply_to_screen_name": null,
+  "retweet_count": 0,
+  "in_reply_to_status_id_str": null,
+  "coordinates": null,
+  "id": 930829787089817601,
+  "truncated": true,
+  "entities": {
+    "urls": [
+      {
+        "url": "https://t.co/Y8Wpjy1JLW",
+        "display_url": "twitter.com/i/web/status/9\u2026",
+        "indices": [117, 140],
+        "expanded_url": "https://twitter.com/i/web/status/930829787089817601"
+      }
+    ],
+    "symbols": [],
+    "hashtags": [],
+    "user_mentions": []
+  },
+  "timestamp_ms": "1510762089880",
+  "id_str": "930829787089817601"
+}

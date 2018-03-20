@@ -1,0 +1,110 @@
+{
+  "created_at": "Wed Dec 07 04:12:19 +0000 2011",
+  "id": 144267973073436673,
+  "id_str": "144267973073436673",
+  "text": "I'm freezing :( I need my cuddle partner but he's 2.5 hrs away! #joy #cold #sleepy \ue048\ue04b\ue330\ue11d\ue443\ue055\ue049\ue13c",
+  "truncated": false,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "joy",
+        "indices": [64, 68]
+      }, {
+        "text": "cold",
+        "indices": [69, 74]
+      }, {
+        "text": "sleepy",
+        "indices": [75, 82]
+      }
+    ],
+    "symbols": [],
+    "user_mentions": [],
+    "urls": []
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 337881343,
+    "id_str": "337881343",
+    "name": "Ravyn Powell",
+    "screen_name": "Ravynmay",
+    "location": "small town USA",
+    "description": "#WWJD #CSP #MARILYNMONROE ~*Phillipians 4:13*~",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": []
+      }
+    },
+    "protected": false,
+    "followers_count": 417,
+    "friends_count": 404,
+    "listed_count": 0,
+    "created_at": "Mon Jul 18 18:43:28 +0000 2011",
+    "favourites_count": 200,
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": true,
+    "verified": false,
+    "statuses_count": 6351,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "is_translation_enabled": false,
+    "profile_background_color": "C0DEED",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/415215728610914304/MZI-rFMN_normal.jpeg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/415215728610914304/MZI-rFMN_normal.jpeg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/337881343/1412435822",
+    "profile_link_color": "1DA1F2",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "has_extended_profile": false,
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false,
+    "translator_type": "none"
+  },
+  "geo": {
+    "type": "Point",
+    "coordinates": [33.54996588, -93.68419698]
+  },
+  "coordinates": {
+    "type": "Point",
+    "coordinates": [-93.68419698, 33.54996588]
+  },
+  "place": {
+    "id": "60037d3a757556e0",
+    "url": "https://api.twitter.com/1.1/geo/id/60037d3a757556e0.json",
+    "place_type": "city",
+    "name": "Springhill",
+    "full_name": "Springhill, AR",
+    "country_code": "US",
+    "country": "Estados Unidos",
+    "contained_within": [],
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [[-93.736133, 33.479317], [-93.591525, 33.479317], [-93.591525, 33.612705], [-93.736133, 33.612705]]
+      ]
+    },
+    "attributes": {}
+  },
+  "contributors": null,
+  "is_quote_status": false,
+  "retweet_count": 0,
+  "favorite_count": 0,
+  "favorited": false,
+  "retweeted": false,
+  "lang": "en"
+}

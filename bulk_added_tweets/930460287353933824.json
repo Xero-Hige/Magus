@@ -1,0 +1,282 @@
+{
+  "id": 930460287353933824,
+  "lang": "es",
+  "in_reply_to_status_id_str": null,
+  "truncated": true,
+  "place": {
+    "id": "4e43cac8250a8b20",
+    "country": "Ecuador",
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [[-92.008973, -5.013285], [-92.008973, 1.681834], [-75.192627, 1.681834], [-75.192627, -5.013285]]
+      ]
+    },
+    "url": "https://api.twitter.com/1.1/geo/id/4e43cac8250a8b20.json",
+    "full_name": "Ecuador",
+    "attributes": {},
+    "name": "Ecuador",
+    "place_type": "country",
+    "country_code": "EC"
+  },
+  "favorite_count": 0,
+  "retweeted": false,
+  "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+  "is_quote_status": false,
+  "possibly_sensitive": false,
+  "geo": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_status_id": null,
+  "retweet_count": 0,
+  "quote_count": 0,
+  "timestamp_ms": "1510673994278",
+  "favorited": false,
+  "coordinates": null,
+  "filter_level": "low",
+  "entities": {
+    "urls": [
+      {
+        "indices": [117, 140],
+        "display_url": "twitter.com/i/web/status/9\u2026",
+        "url": "https://t.co/O8gQ2Drxf1",
+        "expanded_url": "https://twitter.com/i/web/status/930460287353933824"
+      }
+    ],
+    "symbols": [],
+    "user_mentions": [
+      {
+        "screen_name": "Educacion_Ec",
+        "id": 360682978,
+        "name": "Educaci\u00f3n Ecuador",
+        "indices": [1, 14],
+        "id_str": "360682978"
+      }, {
+        "screen_name": "UNESCO_es",
+        "id": 306245721,
+        "name": "UNESCO en espa\u00f1ol",
+        "indices": [17, 27],
+        "id_str": "306245721"
+      }
+    ],
+    "hashtags": [
+      {
+        "text": "EducaConTini",
+        "indices": [51, 64]
+      }
+    ]
+  },
+  "reply_count": 0,
+  "in_reply_to_screen_name": null,
+  "display_text_range": [0, 140],
+  "text": ".@Educacion_Ec y @UNESCO_es ofrecen la metodolog\u00eda #EducaConTini que se usa en m\u00e1s de diez pa\u00edses y fomenta la conv\u2026 https://t.co/O8gQ2Drxf1",
+  "extended_tweet": {
+    "display_text_range": [0, 150],
+    "extended_entities": {
+      "media": [
+        {
+          "id": 930460248892215296,
+          "display_url": "pic.twitter.com/kStJI2CXD1",
+          "id_str": "930460248892215296",
+          "indices": [151, 174],
+          "expanded_url": "https://twitter.com/Educacion_Ec/status/930460287353933824/photo/1",
+          "type": "photo",
+          "url": "https://t.co/kStJI2CXD1",
+          "media_url_https": "https://pbs.twimg.com/media/DOmoqqTXkAAiCWY.jpg",
+          "media_url": "http://pbs.twimg.com/media/DOmoqqTXkAAiCWY.jpg",
+          "sizes": {
+            "small": {
+              "w": 680,
+              "h": 510,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 1024,
+              "h": 768,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 1024,
+              "h": 768,
+              "resize": "fit"
+            }
+          }
+        }, {
+          "id": 930460273537929216,
+          "display_url": "pic.twitter.com/kStJI2CXD1",
+          "id_str": "930460273537929216",
+          "indices": [151, 174],
+          "expanded_url": "https://twitter.com/Educacion_Ec/status/930460287353933824/photo/1",
+          "type": "photo",
+          "url": "https://t.co/kStJI2CXD1",
+          "media_url_https": "https://pbs.twimg.com/media/DOmosGHXUAAbgWm.jpg",
+          "media_url": "http://pbs.twimg.com/media/DOmosGHXUAAbgWm.jpg",
+          "sizes": {
+            "small": {
+              "w": 680,
+              "h": 510,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 1024,
+              "h": 768,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 1024,
+              "h": 768,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "entities": {
+      "media": [
+        {
+          "id": 930460248892215296,
+          "display_url": "pic.twitter.com/kStJI2CXD1",
+          "id_str": "930460248892215296",
+          "indices": [151, 174],
+          "expanded_url": "https://twitter.com/Educacion_Ec/status/930460287353933824/photo/1",
+          "type": "photo",
+          "url": "https://t.co/kStJI2CXD1",
+          "media_url_https": "https://pbs.twimg.com/media/DOmoqqTXkAAiCWY.jpg",
+          "media_url": "http://pbs.twimg.com/media/DOmoqqTXkAAiCWY.jpg",
+          "sizes": {
+            "small": {
+              "w": 680,
+              "h": 510,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 1024,
+              "h": 768,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 1024,
+              "h": 768,
+              "resize": "fit"
+            }
+          }
+        }, {
+          "id": 930460273537929216,
+          "display_url": "pic.twitter.com/kStJI2CXD1",
+          "id_str": "930460273537929216",
+          "indices": [151, 174],
+          "expanded_url": "https://twitter.com/Educacion_Ec/status/930460287353933824/photo/1",
+          "type": "photo",
+          "url": "https://t.co/kStJI2CXD1",
+          "media_url_https": "https://pbs.twimg.com/media/DOmosGHXUAAbgWm.jpg",
+          "media_url": "http://pbs.twimg.com/media/DOmosGHXUAAbgWm.jpg",
+          "sizes": {
+            "small": {
+              "w": 680,
+              "h": 510,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 1024,
+              "h": 768,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 1024,
+              "h": 768,
+              "resize": "fit"
+            }
+          }
+        }
+      ],
+      "urls": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "screen_name": "Educacion_Ec",
+          "id": 360682978,
+          "name": "Educaci\u00f3n Ecuador",
+          "indices": [1, 14],
+          "id_str": "360682978"
+        }, {
+          "screen_name": "UNESCO_es",
+          "id": 306245721,
+          "name": "UNESCO en espa\u00f1ol",
+          "indices": [17, 27],
+          "id_str": "306245721"
+        }
+      ],
+      "hashtags": [
+        {
+          "text": "EducaConTini",
+          "indices": [51, 64]
+        }
+      ]
+    },
+    "full_text": ".@Educacion_Ec y @UNESCO_es ofrecen la metodolog\u00eda #EducaConTini que se usa en m\u00e1s de diez pa\u00edses y fomenta la convivencia arm\u00f3nica con la naturaleza. https://t.co/kStJI2CXD1"
+  },
+  "user": {
+    "statuses_count": 36805,
+    "id": 360682978,
+    "default_profile": false,
+    "favourites_count": 1867,
+    "url": "http://www.educacion.gob.ec",
+    "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/627657741/tk7f8r0xiu8xi69zbl0o.jpeg",
+    "verified": false,
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/927645416698646528/A1bJsnqu_normal.jpg",
+    "translator_type": "none",
+    "location": "Ecuador",
+    "geo_enabled": true,
+    "utc_offset": -18000,
+    "notifications": null,
+    "profile_background_tile": false,
+    "friends_count": 926,
+    "is_translator": false,
+    "follow_request_sent": null,
+    "default_profile_image": false,
+    "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/627657741/tk7f8r0xiu8xi69zbl0o.jpeg",
+    "profile_background_color": "FFFFFF",
+    "profile_link_color": "1B95E0",
+    "profile_use_background_image": true,
+    "time_zone": "Quito",
+    "name": "Educaci\u00f3n Ecuador",
+    "profile_text_color": "333333",
+    "profile_sidebar_border_color": "A8C7F7",
+    "screen_name": "Educacion_Ec",
+    "lang": "es",
+    "following": null,
+    "listed_count": 508,
+    "protected": false,
+    "profile_sidebar_fill_color": "C0DFEC",
+    "followers_count": 158060,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/927645416698646528/A1bJsnqu_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/360682978/1510185108",
+    "contributors_enabled": false,
+    "created_at": "Tue Aug 23 16:05:26 +0000 2011",
+    "id_str": "360682978",
+    "description": "Cuenta Oficial de Twitter del Ministerio de Educaci\u00f3n del Ecuador."
+  },
+  "created_at": "Tue Nov 14 15:39:54 +0000 2017",
+  "id_str": "930460287353933824",
+  "in_reply_to_user_id": null,
+  "contributors": null
+}

@@ -1,0 +1,104 @@
+{
+  "created_at": "Fri May 16 02:53:20 +0000 2014",
+  "id": 467135681522069504,
+  "id_str": "467135681522069504",
+  "text": "Mirar canal trece a esta hora es como mirar un programa cuervo. #Asco",
+  "truncated": false,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "Asco",
+        "indices": [64, 69]
+      }
+    ],
+    "symbols": [],
+    "user_mentions": [],
+    "urls": []
+  },
+  "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 1008044347,
+    "id_str": "1008044347",
+    "name": "pol\u03b9\u03b9  ~ Racing \u10e6",
+    "screen_name": "PoliiAkd",
+    "location": "",
+    "description": "Racing & nada m\u00e1s \ud83d\udc99 ~ Yo sobreviv\u00eda sin \u00e9l, y \u00e9l era feliz sin mi ~ \ud83d\udc8e",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": []
+      }
+    },
+    "protected": false,
+    "followers_count": 1048,
+    "friends_count": 812,
+    "listed_count": 3,
+    "created_at": "Thu Dec 13 05:01:52 +0000 2012",
+    "favourites_count": 51555,
+    "utc_offset": -10800,
+    "time_zone": "Brasilia",
+    "geo_enabled": true,
+    "verified": false,
+    "statuses_count": 41737,
+    "lang": "es",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "is_translation_enabled": false,
+    "profile_background_color": "00BBFF",
+    "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/736773153/1896a5880c433cb403f8b743e5b276eb.jpeg",
+    "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/736773153/1896a5880c433cb403f8b743e5b276eb.jpeg",
+    "profile_background_tile": true,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/817985926588678144/x9FYUPGp_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/817985926588678144/x9FYUPGp_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1008044347/1428194124",
+    "profile_link_color": "0088FF",
+    "profile_sidebar_border_color": "000000",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "has_extended_profile": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false,
+    "translator_type": "regular"
+  },
+  "geo": {
+    "type": "Point",
+    "coordinates": [-34.6471804, -58.4706954]
+  },
+  "coordinates": {
+    "type": "Point",
+    "coordinates": [-58.4706954, -34.6471804]
+  },
+  "place": {
+    "id": "1ed82be977be0cfa",
+    "url": "https://api.twitter.com/1.1/geo/id/1ed82be977be0cfa.json",
+    "place_type": "admin",
+    "name": "Ciudad Aut\u00f3noma de Buenos Aires",
+    "full_name": "Ciudad Aut\u00f3noma de Buenos Aires, Argentina",
+    "country_code": "AR",
+    "country": "Argentina",
+    "contained_within": [],
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [[-58.5317922, -34.7054213], [-58.335105, -34.7054213], [-58.335105, -34.526466], [-58.5317922, -34.526466]]
+      ]
+    },
+    "attributes": {}
+  },
+  "contributors": null,
+  "is_quote_status": false,
+  "retweet_count": 1,
+  "favorite_count": 1,
+  "favorited": false,
+  "retweeted": false,
+  "lang": "es"
+}

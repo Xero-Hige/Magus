@@ -1,0 +1,388 @@
+{
+  "is_quote_status": false,
+  "quote_count": 0,
+  "in_reply_to_user_id_str": null,
+  "favorite_count": 0,
+  "in_reply_to_status_id": null,
+  "id_str": "930552007701643264",
+  "filter_level": "low",
+  "reply_count": 0,
+  "timestamp_ms": "1510695862113",
+  "id": 930552007701643264,
+  "display_text_range": [0, 140],
+  "coordinates": null,
+  "in_reply_to_screen_name": null,
+  "truncated": true,
+  "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+  "place": {
+    "bounding_box": {
+      "coordinates": [
+        [[-105.102464, 26.340366], [-105.102464, 27.601418], [-103.69926, 27.601418], [-103.69926, 26.340366]]
+      ],
+      "type": "Polygon"
+    },
+    "url": "https://api.twitter.com/1.1/geo/id/7774ce7483b8bc12.json",
+    "country_code": "MX",
+    "name": "Jim\u00e9nez",
+    "full_name": "Jim\u00e9nez, Chihuahua",
+    "id": "7774ce7483b8bc12",
+    "place_type": "city",
+    "attributes": {},
+    "country": "M\u00e9xico"
+  },
+  "retweet_count": 0,
+  "extended_tweet": {
+    "display_text_range": [0, 276],
+    "entities": {
+      "user_mentions": [],
+      "urls": [],
+      "symbols": [],
+      "hashtags": [
+        {
+          "text": "educaci\u00f3n",
+          "indices": [42, 52]
+        }, {
+          "text": "becas",
+          "indices": [71, 77]
+        }
+      ],
+      "media": [
+        {
+          "media_url_https": "https://pbs.twimg.com/media/DOn6hDSXkAIe30B.jpg",
+          "expanded_url": "https://twitter.com/chatoabes/status/930552007701643264/photo/1",
+          "id_str": "930550243753693186",
+          "media_url": "http://pbs.twimg.com/media/DOn6hDSXkAIe30B.jpg",
+          "display_url": "pic.twitter.com/vtxDdBxULY",
+          "id": 930550243753693186,
+          "indices": [277, 300],
+          "type": "photo",
+          "url": "https://t.co/vtxDdBxULY",
+          "sizes": {
+            "small": {
+              "resize": "fit",
+              "h": 455,
+              "w": 680
+            },
+            "large": {
+              "resize": "fit",
+              "h": 1369,
+              "w": 2048
+            },
+            "thumb": {
+              "resize": "crop",
+              "h": 150,
+              "w": 150
+            },
+            "medium": {
+              "resize": "fit",
+              "h": 802,
+              "w": 1200
+            }
+          }
+        }, {
+          "media_url_https": "https://pbs.twimg.com/media/DOn6hfXXUAEhbdG.jpg",
+          "expanded_url": "https://twitter.com/chatoabes/status/930552007701643264/photo/1",
+          "id_str": "930550251290841089",
+          "media_url": "http://pbs.twimg.com/media/DOn6hfXXUAEhbdG.jpg",
+          "display_url": "pic.twitter.com/vtxDdBxULY",
+          "id": 930550251290841089,
+          "indices": [277, 300],
+          "type": "photo",
+          "url": "https://t.co/vtxDdBxULY",
+          "sizes": {
+            "small": {
+              "resize": "fit",
+              "h": 455,
+              "w": 680
+            },
+            "large": {
+              "resize": "fit",
+              "h": 1369,
+              "w": 2048
+            },
+            "thumb": {
+              "resize": "crop",
+              "h": 150,
+              "w": 150
+            },
+            "medium": {
+              "resize": "fit",
+              "h": 802,
+              "w": 1200
+            }
+          }
+        }, {
+          "media_url_https": "https://pbs.twimg.com/media/DOn6hDVWAAADR00.jpg",
+          "expanded_url": "https://twitter.com/chatoabes/status/930552007701643264/photo/1",
+          "id_str": "930550243766173696",
+          "media_url": "http://pbs.twimg.com/media/DOn6hDVWAAADR00.jpg",
+          "display_url": "pic.twitter.com/vtxDdBxULY",
+          "id": 930550243766173696,
+          "indices": [277, 300],
+          "type": "photo",
+          "url": "https://t.co/vtxDdBxULY",
+          "sizes": {
+            "small": {
+              "resize": "fit",
+              "h": 455,
+              "w": 680
+            },
+            "large": {
+              "resize": "fit",
+              "h": 1369,
+              "w": 2048
+            },
+            "thumb": {
+              "resize": "crop",
+              "h": 150,
+              "w": 150
+            },
+            "medium": {
+              "resize": "fit",
+              "h": 802,
+              "w": 1200
+            }
+          }
+        }, {
+          "media_url_https": "https://pbs.twimg.com/media/DOn6hDVXcAU4fnL.jpg",
+          "expanded_url": "https://twitter.com/chatoabes/status/930552007701643264/photo/1",
+          "id_str": "930550243766267909",
+          "media_url": "http://pbs.twimg.com/media/DOn6hDVXcAU4fnL.jpg",
+          "display_url": "pic.twitter.com/vtxDdBxULY",
+          "id": 930550243766267909,
+          "indices": [277, 300],
+          "type": "photo",
+          "url": "https://t.co/vtxDdBxULY",
+          "sizes": {
+            "small": {
+              "resize": "fit",
+              "h": 455,
+              "w": 680
+            },
+            "large": {
+              "resize": "fit",
+              "h": 1369,
+              "w": 2048
+            },
+            "thumb": {
+              "resize": "crop",
+              "h": 150,
+              "w": 150
+            },
+            "medium": {
+              "resize": "fit",
+              "h": 802,
+              "w": 1200
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "media_url_https": "https://pbs.twimg.com/media/DOn6hDSXkAIe30B.jpg",
+          "expanded_url": "https://twitter.com/chatoabes/status/930552007701643264/photo/1",
+          "id_str": "930550243753693186",
+          "media_url": "http://pbs.twimg.com/media/DOn6hDSXkAIe30B.jpg",
+          "display_url": "pic.twitter.com/vtxDdBxULY",
+          "id": 930550243753693186,
+          "indices": [277, 300],
+          "type": "photo",
+          "url": "https://t.co/vtxDdBxULY",
+          "sizes": {
+            "small": {
+              "resize": "fit",
+              "h": 455,
+              "w": 680
+            },
+            "large": {
+              "resize": "fit",
+              "h": 1369,
+              "w": 2048
+            },
+            "thumb": {
+              "resize": "crop",
+              "h": 150,
+              "w": 150
+            },
+            "medium": {
+              "resize": "fit",
+              "h": 802,
+              "w": 1200
+            }
+          }
+        }, {
+          "media_url_https": "https://pbs.twimg.com/media/DOn6hfXXUAEhbdG.jpg",
+          "expanded_url": "https://twitter.com/chatoabes/status/930552007701643264/photo/1",
+          "id_str": "930550251290841089",
+          "media_url": "http://pbs.twimg.com/media/DOn6hfXXUAEhbdG.jpg",
+          "display_url": "pic.twitter.com/vtxDdBxULY",
+          "id": 930550251290841089,
+          "indices": [277, 300],
+          "type": "photo",
+          "url": "https://t.co/vtxDdBxULY",
+          "sizes": {
+            "small": {
+              "resize": "fit",
+              "h": 455,
+              "w": 680
+            },
+            "large": {
+              "resize": "fit",
+              "h": 1369,
+              "w": 2048
+            },
+            "thumb": {
+              "resize": "crop",
+              "h": 150,
+              "w": 150
+            },
+            "medium": {
+              "resize": "fit",
+              "h": 802,
+              "w": 1200
+            }
+          }
+        }, {
+          "media_url_https": "https://pbs.twimg.com/media/DOn6hDVWAAADR00.jpg",
+          "expanded_url": "https://twitter.com/chatoabes/status/930552007701643264/photo/1",
+          "id_str": "930550243766173696",
+          "media_url": "http://pbs.twimg.com/media/DOn6hDVWAAADR00.jpg",
+          "display_url": "pic.twitter.com/vtxDdBxULY",
+          "id": 930550243766173696,
+          "indices": [277, 300],
+          "type": "photo",
+          "url": "https://t.co/vtxDdBxULY",
+          "sizes": {
+            "small": {
+              "resize": "fit",
+              "h": 455,
+              "w": 680
+            },
+            "large": {
+              "resize": "fit",
+              "h": 1369,
+              "w": 2048
+            },
+            "thumb": {
+              "resize": "crop",
+              "h": 150,
+              "w": 150
+            },
+            "medium": {
+              "resize": "fit",
+              "h": 802,
+              "w": 1200
+            }
+          }
+        }, {
+          "media_url_https": "https://pbs.twimg.com/media/DOn6hDVXcAU4fnL.jpg",
+          "expanded_url": "https://twitter.com/chatoabes/status/930552007701643264/photo/1",
+          "id_str": "930550243766267909",
+          "media_url": "http://pbs.twimg.com/media/DOn6hDVXcAU4fnL.jpg",
+          "display_url": "pic.twitter.com/vtxDdBxULY",
+          "id": 930550243766267909,
+          "indices": [277, 300],
+          "type": "photo",
+          "url": "https://t.co/vtxDdBxULY",
+          "sizes": {
+            "small": {
+              "resize": "fit",
+              "h": 455,
+              "w": 680
+            },
+            "large": {
+              "resize": "fit",
+              "h": 1369,
+              "w": 2048
+            },
+            "thumb": {
+              "resize": "crop",
+              "h": 150,
+              "w": 150
+            },
+            "medium": {
+              "resize": "fit",
+              "h": 802,
+              "w": 1200
+            }
+          }
+        }
+      ]
+    },
+    "full_text": "En mi gobierno siempre he apostado por la #educaci\u00f3n. Hoy entregu\u00e9 450 #becas, las cuales consisten en apoyos econ\u00f3micos para alumnos de todos los niveles educativos y estudiantes con capacidades diferentes, y por primera vez premiamos a alumnos con promedios destacados. \ud83d\udcdd\ud83d\udc68\u200d\ud83c\udf93 https://t.co/vtxDdBxULY"
+  },
+  "created_at": "Tue Nov 14 21:44:22 +0000 2017",
+  "favorited": false,
+  "text": "En mi gobierno siempre he apostado por la #educaci\u00f3n. Hoy entregu\u00e9 450 #becas, las cuales consisten en apoyos econ\u00f3\u2026 https://t.co/lz0NDZKiJ1",
+  "in_reply_to_user_id": null,
+  "geo": null,
+  "lang": "es",
+  "contributors": null,
+  "in_reply_to_status_id_str": null,
+  "user": {
+    "protected": false,
+    "following": null,
+    "profile_text_color": "000000",
+    "profile_background_color": "000000",
+    "statuses_count": 13,
+    "default_profile": false,
+    "favourites_count": 2,
+    "friends_count": 340,
+    "follow_request_sent": null,
+    "profile_sidebar_fill_color": "000000",
+    "translator_type": "none",
+    "notifications": null,
+    "id_str": "926538402349985792",
+    "screen_name": "chatoabes",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/926538402349985792/1509745127",
+    "verified": false,
+    "id": 926538402349985792,
+    "profile_use_background_image": false,
+    "description": "Presidente, comprometido con mi municipio y toda su gente. Orgullosamente #jimenense. Te invito a seguirme en mis redes sociales:\n\nhttps://t.co/wLmNKWqEw5",
+    "utc_offset": null,
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "is_translator": false,
+    "listed_count": 0,
+    "default_profile_image": false,
+    "contributors_enabled": false,
+    "followers_count": 19,
+    "location": "Jim\u00e9nez, Chihuahua",
+    "created_at": "Fri Nov 03 19:55:44 +0000 2017",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/926540156760293376/jRZ8WLtb_normal.jpg",
+    "geo_enabled": true,
+    "time_zone": null,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/926540156760293376/jRZ8WLtb_normal.jpg",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_link_color": "19CF86",
+    "lang": "es",
+    "name": "Jos\u00e9 Arnoldo Abes D.",
+    "profile_background_tile": false,
+    "url": "http://www.facebook.com/ChatoAbes",
+    "profile_sidebar_border_color": "000000"
+  },
+  "possibly_sensitive": false,
+  "entities": {
+    "user_mentions": [],
+    "urls": [
+      {
+        "expanded_url": "https://twitter.com/i/web/status/930552007701643264",
+        "url": "https://t.co/lz0NDZKiJ1",
+        "indices": [117, 140],
+        "display_url": "twitter.com/i/web/status/9\u2026"
+      }
+    ],
+    "symbols": [],
+    "hashtags": [
+      {
+        "text": "educaci\u00f3n",
+        "indices": [42, 52]
+      }, {
+        "text": "becas",
+        "indices": [71, 77]
+      }
+    ]
+  },
+  "retweeted": false
+}

@@ -1,0 +1,132 @@
+{
+  "id": 930456731347554305,
+  "lang": "es",
+  "in_reply_to_status_id_str": null,
+  "truncated": true,
+  "place": {
+    "id": "609d1bbc180f1434",
+    "country": "M\u00e9xico",
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [[-99.205809, 19.297011], [-99.205809, 19.359755], [-99.098871, 19.359755], [-99.098871, 19.297011]]
+      ]
+    },
+    "url": "https://api.twitter.com/1.1/geo/id/609d1bbc180f1434.json",
+    "full_name": "Coyoac\u00e1n, Distrito Federal",
+    "attributes": {},
+    "name": "Coyoac\u00e1n",
+    "place_type": "city",
+    "country_code": "MX"
+  },
+  "favorite_count": 0,
+  "retweeted": false,
+  "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+  "is_quote_status": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "retweet_count": 0,
+  "quote_count": 0,
+  "timestamp_ms": "1510673146460",
+  "favorited": false,
+  "coordinates": null,
+  "text": "No s\u00e9 que es m\u00e1s pat\u00e9tico: ver a @EPN chillando porque \"bullean\" a sus polic\u00edas o al #FrenteCiudadanoPorM\u00e9xico cree\u2026 https://t.co/FI3UOrVKpz",
+  "entities": {
+    "urls": [
+      {
+        "indices": [117, 140],
+        "display_url": "twitter.com/i/web/status/9\u2026",
+        "url": "https://t.co/FI3UOrVKpz",
+        "expanded_url": "https://twitter.com/i/web/status/930456731347554305"
+      }
+    ],
+    "symbols": [],
+    "user_mentions": [
+      {
+        "screen_name": "EPN",
+        "id": 2897441,
+        "name": "Enrique Pe\u00f1a Nieto",
+        "indices": [33, 37],
+        "id_str": "2897441"
+      }
+    ],
+    "hashtags": [
+      {
+        "text": "FrenteCiudadanoPorM\u00e9xico",
+        "indices": [85, 110]
+      }
+    ]
+  },
+  "reply_count": 0,
+  "geo": null,
+  "filter_level": "low",
+  "extended_tweet": {
+    "display_text_range": [0, 208],
+    "entities": {
+      "urls": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "screen_name": "EPN",
+          "id": 2897441,
+          "name": "Enrique Pe\u00f1a Nieto",
+          "indices": [33, 37],
+          "id_str": "2897441"
+        }
+      ],
+      "hashtags": [
+        {
+          "text": "FrenteCiudadanoPorM\u00e9xico",
+          "indices": [85, 110]
+        }
+      ]
+    },
+    "full_text": "No s\u00e9 que es m\u00e1s pat\u00e9tico: ver a @EPN chillando porque \"bullean\" a sus polic\u00edas o al #FrenteCiudadanoPorM\u00e9xico creer que pueden ganar presidencia cuando ni siquiera pudieron evitar lo de Riquelme en Coahuila."
+  },
+  "user": {
+    "statuses_count": 9046,
+    "id": 58655113,
+    "default_profile": false,
+    "favourites_count": 4208,
+    "url": "http://www.cnee-sur.net",
+    "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/458096306284544000/-mWgX5a3.jpeg",
+    "verified": false,
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/902883649271455746/GsCZnQ2e_normal.jpg",
+    "translator_type": "none",
+    "location": "M\u00e9xico, DF",
+    "geo_enabled": true,
+    "utc_offset": -21600,
+    "notifications": null,
+    "profile_background_tile": false,
+    "friends_count": 216,
+    "is_translator": false,
+    "follow_request_sent": null,
+    "default_profile_image": false,
+    "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/458096306284544000/-mWgX5a3.jpeg",
+    "profile_background_color": "D60707",
+    "profile_link_color": "E81C4F",
+    "profile_use_background_image": true,
+    "time_zone": "Mexico City",
+    "name": "TimmyO'TooleDeCoapa",
+    "profile_text_color": "333333",
+    "profile_sidebar_border_color": "000000",
+    "screen_name": "eaperezlopez",
+    "lang": "es",
+    "following": null,
+    "listed_count": 1,
+    "protected": false,
+    "profile_sidebar_fill_color": "C0DFEC",
+    "followers_count": 223,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/902883649271455746/GsCZnQ2e_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/58655113/1354906769",
+    "contributors_enabled": false,
+    "created_at": "Tue Jul 21 01:14:06 +0000 2009",
+    "id_str": "58655113",
+    "description": "El partido es la clase trabajadora, el compromiso con el proletariado. Historiador por profesi\u00f3n, revolucionario de oficio. \r\nhttp://www.fsmamerica.org"
+  },
+  "created_at": "Tue Nov 14 15:25:46 +0000 2017",
+  "id_str": "930456731347554305",
+  "in_reply_to_user_id": null,
+  "contributors": null
+}

@@ -1,0 +1,114 @@
+{
+  "created_at": "Fri May 09 07:15:28 +0000 2014",
+  "id": 464664938137808897,
+  "id_str": "464664938137808897",
+  "text": "Que te peguen debajo de la cama es de las peores cosas que te pueden pasar. Hace mucho no me suced\u00eda... #Miedo",
+  "truncated": false,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "Miedo",
+        "indices": [104, 110]
+      }
+    ],
+    "symbols": [],
+    "user_mentions": [],
+    "urls": []
+  },
+  "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 253337607,
+    "id_str": "253337607",
+    "name": "Eric Goomez",
+    "screen_name": "EricGoomez",
+    "location": "Corrientes, Argentina",
+    "description": "23 a\u00f1os. Periodista Deportivo en @LaRepublicaCtes. BOSTERO Y MADRIDISTA. ~Vive la vida sin mirar atr\u00e1s, siempre tira para adelante~\nVIVA EL FERNECITO M\u00c1GICO.",
+    "url": "https://t.co/2RuZHGRuN7",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "https://t.co/2RuZHGRuN7",
+            "expanded_url": "https://www.facebook.com/SlimShady011",
+            "display_url": "facebook.com/SlimShady011",
+            "indices": [0, 23]
+          }
+        ]
+      },
+      "description": {
+        "urls": []
+      }
+    },
+    "protected": false,
+    "followers_count": 458,
+    "friends_count": 445,
+    "listed_count": 16,
+    "created_at": "Thu Feb 17 01:30:49 +0000 2011",
+    "favourites_count": 19626,
+    "utc_offset": -10800,
+    "time_zone": "Buenos Aires",
+    "geo_enabled": true,
+    "verified": false,
+    "statuses_count": 33755,
+    "lang": "es",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "is_translation_enabled": false,
+    "profile_background_color": "05050D",
+    "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/697823936/5a4f07f4819470894d379e925c5a1bf2.jpeg",
+    "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/697823936/5a4f07f4819470894d379e925c5a1bf2.jpeg",
+    "profile_background_tile": true,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/929938847001120768/z4PTY5kO_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/929938847001120768/z4PTY5kO_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/253337607/1497278411",
+    "profile_link_color": "3B94D9",
+    "profile_sidebar_border_color": "FFFFFF",
+    "profile_sidebar_fill_color": "BA6D53",
+    "profile_text_color": "833741",
+    "profile_use_background_image": true,
+    "has_extended_profile": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false,
+    "translator_type": "none"
+  },
+  "geo": {
+    "type": "Point",
+    "coordinates": [-27.4685983, -58.8262395]
+  },
+  "coordinates": {
+    "type": "Point",
+    "coordinates": [-58.8262395, -27.4685983]
+  },
+  "place": {
+    "id": "6591282d67e31598",
+    "url": "https://api.twitter.com/1.1/geo/id/6591282d67e31598.json",
+    "place_type": "admin",
+    "name": "Corrientes",
+    "full_name": "Corrientes, Argentina",
+    "country_code": "AR",
+    "country": "Argentina",
+    "contained_within": [],
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [[-59.689189, -30.7347646], [-55.6190826, -30.7347646], [-55.6190826, -27.24655], [-59.689189, -27.24655]]
+      ]
+    },
+    "attributes": {}
+  },
+  "contributors": null,
+  "is_quote_status": false,
+  "retweet_count": 0,
+  "favorite_count": 0,
+  "favorited": false,
+  "retweeted": false,
+  "lang": "es"
+}

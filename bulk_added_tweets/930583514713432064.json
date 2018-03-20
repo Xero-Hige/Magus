@@ -1,0 +1,106 @@
+{
+  "geo": null,
+  "filter_level": "low",
+  "in_reply_to_status_id": null,
+  "lang": "es",
+  "favorite_count": 0,
+  "coordinates": null,
+  "favorited": false,
+  "place": {
+    "name": "Iztacalco",
+    "full_name": "Iztacalco, Distrito Federal",
+    "place_type": "city",
+    "country": "M\u00e9xico",
+    "id": "de24fd487f41bad3",
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [[-99.137171, 19.375769], [-99.137171, 19.422433], [-99.055821, 19.422433], [-99.055821, 19.375769]]
+      ]
+    },
+    "attributes": {},
+    "url": "https://api.twitter.com/1.1/geo/id/de24fd487f41bad3.json",
+    "country_code": "MX"
+  },
+  "contributors": null,
+  "entities": {
+    "hashtags": [],
+    "urls": [
+      {
+        "display_url": "twitter.com/i/web/status/9\u2026",
+        "expanded_url": "https://twitter.com/i/web/status/930583514713432064",
+        "url": "https://t.co/UfKIFnnD2S",
+        "indices": [117, 140]
+      }
+    ],
+    "symbols": [],
+    "user_mentions": []
+  },
+  "id": 930583514713432064,
+  "user": {
+    "followers_count": 654,
+    "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/623380439/piy5rs2rgm3afnpnq06k.jpeg",
+    "profile_background_color": "C0DEED",
+    "translator_type": "none",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/929986148486836224/9doo5vmv_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/499500750/1509787218",
+    "default_profile": false,
+    "utc_offset": null,
+    "lang": "es",
+    "url": null,
+    "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/623380439/piy5rs2rgm3afnpnq06k.jpeg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/929986148486836224/9doo5vmv_normal.jpg",
+    "time_zone": null,
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_use_background_image": true,
+    "id": 499500750,
+    "profile_link_color": "ABB8C2",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_background_tile": true,
+    "geo_enabled": true,
+    "id_str": "499500750",
+    "verified": false,
+    "name": "\u00c1lvaro Buend\u00edaMK\ud83d\udc41\ufe0f",
+    "is_translator": false,
+    "notifications": null,
+    "following": null,
+    "friends_count": 574,
+    "contributors_enabled": false,
+    "screen_name": "alvarogapo",
+    "created_at": "Wed Feb 22 05:39:30 +0000 2012",
+    "profile_text_color": "333333",
+    "favourites_count": 4039,
+    "follow_request_sent": null,
+    "description": "Con sangre de drag\u00f3n, amante del fuego verde. Mitad veracruzano mitad poblano, nacido en CDMX. Flaco pero hermoso. B\u00e9same el culo y s\u00edgueme.",
+    "default_profile_image": false,
+    "location": "-En el ombligo de la luna- ",
+    "listed_count": 2,
+    "protected": false,
+    "statuses_count": 7011
+  },
+  "id_str": "930583514713432064",
+  "retweet_count": 0,
+  "retweeted": false,
+  "quote_count": 0,
+  "truncated": true,
+  "in_reply_to_status_id_str": null,
+  "reply_count": 0,
+  "created_at": "Tue Nov 14 23:49:33 +0000 2017",
+  "is_quote_status": false,
+  "in_reply_to_user_id": null,
+  "timestamp_ms": "1510703373970",
+  "text": "C\u00f3mo le hacen para entrenar, comer bien. Descansar. Trabajar y a parte tener vida social? Yo a\u00fan no puedo con mi te\u2026 https://t.co/UfKIFnnD2S",
+  "extended_tweet": {
+    "full_text": "C\u00f3mo le hacen para entrenar, comer bien. Descansar. Trabajar y a parte tener vida social? Yo a\u00fan no puedo con mi tercer comida del d\u00eda y el sue\u00f1o me persigue.",
+    "display_text_range": [0, 158],
+    "entities": {
+      "hashtags": [],
+      "urls": [],
+      "symbols": [],
+      "user_mentions": []
+    }
+  },
+  "in_reply_to_user_id_str": null,
+  "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+  "in_reply_to_screen_name": null
+}

@@ -1,0 +1,114 @@
+{
+  "created_at": "Sun Jun 22 17:55:44 +0000 2014",
+  "id": 480771132275306496,
+  "id_str": "480771132275306496",
+  "text": "#MeCaeMal la gente que te dice te quiero , y a tus espaldas te anda pelando .",
+  "truncated": false,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "MeCaeMal",
+        "indices": [0, 9]
+      }
+    ],
+    "symbols": [],
+    "user_mentions": [],
+    "urls": []
+  },
+  "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 610967076,
+    "id_str": "610967076",
+    "name": "CristianOlivaresV",
+    "screen_name": "OlivaresCriss",
+    "location": "vi\u00f1a del mar , chile",
+    "description": "Un guerrero no renuncia nunca a lo que ama , encuentra el amor en todo lo que hace. XVIII-VIII-XCVI",
+    "url": "https://t.co/XDBve1ImmE",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "https://t.co/XDBve1ImmE",
+            "expanded_url": "http://Instagram.com/olivarescriss",
+            "display_url": "Instagram.com/olivarescriss",
+            "indices": [0, 23]
+          }
+        ]
+      },
+      "description": {
+        "urls": []
+      }
+    },
+    "protected": false,
+    "followers_count": 1262,
+    "friends_count": 1680,
+    "listed_count": 3,
+    "created_at": "Sun Jun 17 15:14:43 +0000 2012",
+    "favourites_count": 2513,
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": true,
+    "verified": false,
+    "statuses_count": 10847,
+    "lang": "es",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "is_translation_enabled": false,
+    "profile_background_color": "B2BADE",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+    "profile_background_tile": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/935324895268999169/KHQi-m_l_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/935324895268999169/KHQi-m_l_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/610967076/1432412702",
+    "profile_link_color": "3A27E6",
+    "profile_sidebar_border_color": "FFFFFF",
+    "profile_sidebar_fill_color": "FFFFFF",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "has_extended_profile": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false,
+    "translator_type": "none"
+  },
+  "geo": {
+    "type": "Point",
+    "coordinates": [-33.0414346, -71.5278218]
+  },
+  "coordinates": {
+    "type": "Point",
+    "coordinates": [-71.5278218, -33.0414346]
+  },
+  "place": {
+    "id": "008be613029d4ca5",
+    "url": "https://api.twitter.com/1.1/geo/id/008be613029d4ca5.json",
+    "place_type": "city",
+    "name": "Vi\u00f1a del Mar",
+    "full_name": "Vi\u00f1a del Mar, Chile",
+    "country_code": "CL",
+    "country": "Chile",
+    "contained_within": [],
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [[-71.5898331, -33.1045519], [-71.4414593, -33.1045519], [-71.4414593, -32.9481633], [-71.5898331, -32.9481633]]
+      ]
+    },
+    "attributes": {}
+  },
+  "contributors": null,
+  "is_quote_status": false,
+  "retweet_count": 0,
+  "favorite_count": 0,
+  "favorited": false,
+  "retweeted": false,
+  "lang": "es"
+}

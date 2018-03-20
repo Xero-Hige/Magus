@@ -1,0 +1,196 @@
+{
+  "is_quote_status": false,
+  "quote_count": 0,
+  "in_reply_to_user_id_str": null,
+  "favorite_count": 0,
+  "in_reply_to_status_id": null,
+  "id_str": "930561301415387136",
+  "filter_level": "low",
+  "reply_count": 0,
+  "timestamp_ms": "1510698077907",
+  "id": 930561301415387136,
+  "display_text_range": [0, 140],
+  "coordinates": null,
+  "in_reply_to_screen_name": null,
+  "truncated": true,
+  "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+  "place": {
+    "bounding_box": {
+      "coordinates": [
+        [[-100.421037, 25.480538], [-100.421037, 25.802899], [-100.166146, 25.802899], [-100.166146, 25.480538]]
+      ],
+      "type": "Polygon"
+    },
+    "url": "https://api.twitter.com/1.1/geo/id/b19e24ce42ccd6aa.json",
+    "country_code": "MX",
+    "name": "Monterrey",
+    "full_name": "Monterrey, Nuevo Le\u00f3n",
+    "id": "b19e24ce42ccd6aa",
+    "place_type": "city",
+    "attributes": {},
+    "country": "M\u00e9xico"
+  },
+  "retweet_count": 0,
+  "extended_tweet": {
+    "display_text_range": [0, 138],
+    "entities": {
+      "user_mentions": [],
+      "urls": [],
+      "symbols": [],
+      "hashtags": [
+        {
+          "text": "Monterrey",
+          "indices": [90, 100]
+        }, {
+          "text": "Saltillo",
+          "indices": [103, 112]
+        }
+      ],
+      "media": [
+        {
+          "media_url_https": "https://pbs.twimg.com/media/DOoEj3jX4AA-OHc.jpg",
+          "expanded_url": "https://twitter.com/NoresteGrill/status/930561301415387136/photo/1",
+          "id_str": "930561287259676672",
+          "media_url": "http://pbs.twimg.com/media/DOoEj3jX4AA-OHc.jpg",
+          "display_url": "pic.twitter.com/KMcS91shSd",
+          "id": 930561287259676672,
+          "indices": [139, 162],
+          "type": "photo",
+          "url": "https://t.co/KMcS91shSd",
+          "sizes": {
+            "large": {
+              "resize": "fit",
+              "h": 963,
+              "w": 963
+            },
+            "small": {
+              "resize": "fit",
+              "h": 680,
+              "w": 680
+            },
+            "thumb": {
+              "resize": "crop",
+              "h": 150,
+              "w": 150
+            },
+            "medium": {
+              "resize": "fit",
+              "h": 963,
+              "w": 963
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "media_url_https": "https://pbs.twimg.com/media/DOoEj3jX4AA-OHc.jpg",
+          "expanded_url": "https://twitter.com/NoresteGrill/status/930561301415387136/photo/1",
+          "id_str": "930561287259676672",
+          "media_url": "http://pbs.twimg.com/media/DOoEj3jX4AA-OHc.jpg",
+          "display_url": "pic.twitter.com/KMcS91shSd",
+          "id": 930561287259676672,
+          "indices": [139, 162],
+          "type": "photo",
+          "url": "https://t.co/KMcS91shSd",
+          "sizes": {
+            "large": {
+              "resize": "fit",
+              "h": 963,
+              "w": 963
+            },
+            "small": {
+              "resize": "fit",
+              "h": 680,
+              "w": 680
+            },
+            "thumb": {
+              "resize": "crop",
+              "h": 150,
+              "w": 150
+            },
+            "medium": {
+              "resize": "fit",
+              "h": 963,
+              "w": 963
+            }
+          }
+        }
+      ]
+    },
+    "full_text": "Este fin de semana (del 16 al 19 de noviembre) ven a cualquiera de nuestras sucursales en #Monterrey y #Saltillo y aprovecha nuestra promo https://t.co/KMcS91shSd"
+  },
+  "created_at": "Tue Nov 14 22:21:17 +0000 2017",
+  "favorited": false,
+  "text": "Este fin de semana (del 16 al 19 de noviembre) ven a cualquiera de nuestras sucursales en #Monterrey y #Saltillo y\u2026 https://t.co/8B02kzk8KR",
+  "in_reply_to_user_id": null,
+  "geo": null,
+  "lang": "es",
+  "contributors": null,
+  "in_reply_to_status_id_str": null,
+  "user": {
+    "protected": false,
+    "following": null,
+    "profile_text_color": "333333",
+    "profile_background_color": "C0DEED",
+    "statuses_count": 4279,
+    "default_profile": false,
+    "favourites_count": 188,
+    "friends_count": 4133,
+    "follow_request_sent": null,
+    "profile_sidebar_fill_color": "DDEEF6",
+    "translator_type": "none",
+    "notifications": null,
+    "id_str": "804846241",
+    "screen_name": "NoresteGrill",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/804846241/1509730160",
+    "verified": false,
+    "id": 804846241,
+    "profile_use_background_image": true,
+    "description": "Para comer carne de calidad al mejor precio... NoresteGrill",
+    "utc_offset": -28800,
+    "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/652589352/2wqd7dvznr3opkltmnj4.jpeg",
+    "is_translator": false,
+    "listed_count": 8,
+    "default_profile_image": false,
+    "contributors_enabled": false,
+    "followers_count": 1588,
+    "location": null,
+    "created_at": "Wed Sep 05 15:38:27 +0000 2012",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/919984929399640065/MtXcRTSW_normal.jpg",
+    "geo_enabled": true,
+    "time_zone": "Pacific Time (US & Canada)",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/919984929399640065/MtXcRTSW_normal.jpg",
+    "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/652589352/2wqd7dvznr3opkltmnj4.jpeg",
+    "profile_link_color": "0084B4",
+    "lang": "es",
+    "name": "NoresteGrill",
+    "profile_background_tile": false,
+    "url": "http://www.norestegrill.com.mx/",
+    "profile_sidebar_border_color": "C0DEED"
+  },
+  "possibly_sensitive": false,
+  "entities": {
+    "user_mentions": [],
+    "urls": [
+      {
+        "expanded_url": "https://twitter.com/i/web/status/930561301415387136",
+        "url": "https://t.co/8B02kzk8KR",
+        "indices": [116, 139],
+        "display_url": "twitter.com/i/web/status/9\u2026"
+      }
+    ],
+    "symbols": [],
+    "hashtags": [
+      {
+        "text": "Monterrey",
+        "indices": [90, 100]
+      }, {
+        "text": "Saltillo",
+        "indices": [103, 112]
+      }
+    ]
+  },
+  "retweeted": false
+}

@@ -1,0 +1,104 @@
+{
+  "created_at": "Fri Nov 25 23:05:23 +0000 2011",
+  "id": 140204461728600065,
+  "id_str": "140204461728600065",
+  "text": "I have to write four essays for the Santa Clara application. This is why I've stopped finishing these applications-.- #joy",
+  "truncated": false,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "joy",
+        "indices": [118, 122]
+      }
+    ],
+    "symbols": [],
+    "user_mentions": [],
+    "urls": []
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 163727675,
+    "id_str": "163727675",
+    "name": "susan\ud83e\udd40nelson",
+    "screen_name": "Sueebaru",
+    "location": "California, USA",
+    "description": "mommy entered the gates of heaven on August 14, 2016",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": []
+      }
+    },
+    "protected": false,
+    "followers_count": 356,
+    "friends_count": 139,
+    "listed_count": 4,
+    "created_at": "Wed Jul 07 03:45:02 +0000 2010",
+    "favourites_count": 4287,
+    "utc_offset": -28800,
+    "time_zone": "Pacific Time (US & Canada)",
+    "geo_enabled": true,
+    "verified": false,
+    "statuses_count": 39660,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "is_translation_enabled": false,
+    "profile_background_color": "ACDED6",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+    "profile_background_tile": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/844033121725030400/tiY0EixW_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/844033121725030400/tiY0EixW_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/163727675/1431492709",
+    "profile_link_color": "038543",
+    "profile_sidebar_border_color": "EEEEEE",
+    "profile_sidebar_fill_color": "F6F6F6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "has_extended_profile": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false,
+    "translator_type": "none"
+  },
+  "geo": {
+    "type": "Point",
+    "coordinates": [33.97031897, -117.36358151]
+  },
+  "coordinates": {
+    "type": "Point",
+    "coordinates": [-117.36358151, 33.97031897]
+  },
+  "place": {
+    "id": "6ba08e404aed471f",
+    "url": "https://api.twitter.com/1.1/geo/id/6ba08e404aed471f.json",
+    "place_type": "city",
+    "name": "Riverside",
+    "full_name": "Riverside, CA",
+    "country_code": "US",
+    "country": "Estados Unidos",
+    "contained_within": [],
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [[-117.523867, 33.85216], [-117.271365, 33.85216], [-117.271365, 34.019484], [-117.523867, 34.019484]]
+      ]
+    },
+    "attributes": {}
+  },
+  "contributors": null,
+  "is_quote_status": false,
+  "retweet_count": 0,
+  "favorite_count": 0,
+  "favorited": false,
+  "retweeted": false,
+  "lang": "en"
+}

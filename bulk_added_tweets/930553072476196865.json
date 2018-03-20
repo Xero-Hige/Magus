@@ -1,0 +1,106 @@
+{
+  "is_quote_status": false,
+  "in_reply_to_user_id_str": null,
+  "created_at": "Tue Nov 14 21:48:35 +0000 2017",
+  "favorite_count": 0,
+  "in_reply_to_status_id": null,
+  "id_str": "930553072476196865",
+  "filter_level": "low",
+  "reply_count": 0,
+  "timestamp_ms": "1510696115975",
+  "id": 930553072476196865,
+  "coordinates": null,
+  "in_reply_to_screen_name": null,
+  "truncated": true,
+  "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+  "place": {
+    "bounding_box": {
+      "coordinates": [
+        [[-58.531792, -34.674453], [-58.531792, -34.534177], [-58.353494, -34.534177], [-58.353494, -34.674453]]
+      ],
+      "type": "Polygon"
+    },
+    "url": "https://api.twitter.com/1.1/geo/id/018f1cde6bad9747.json",
+    "country_code": "AR",
+    "name": "Ciudad Aut\u00f3noma de Buenos Aires",
+    "full_name": "Ciudad Aut\u00f3noma de Buenos Aires, Argentina",
+    "id": "018f1cde6bad9747",
+    "place_type": "city",
+    "attributes": {},
+    "country": "Argentina"
+  },
+  "retweet_count": 0,
+  "extended_tweet": {
+    "display_text_range": [0, 150],
+    "entities": {
+      "user_mentions": [],
+      "urls": [],
+      "symbols": [],
+      "hashtags": []
+    },
+    "full_text": "me d\u00ed cuenta que todos nos creen vicios x estar con el celular,poneme a las personas a las que les hablo y te juro q no toco el celular en todo el d\u00eda"
+  },
+  "quote_count": 0,
+  "favorited": false,
+  "text": "me d\u00ed cuenta que todos nos creen vicios x estar con el celular,poneme a las personas a las que les hablo y te juro\u2026 https://t.co/dYfAtqs0hq",
+  "in_reply_to_user_id": null,
+  "geo": null,
+  "lang": "es",
+  "contributors": null,
+  "in_reply_to_status_id_str": null,
+  "user": {
+    "protected": false,
+    "following": null,
+    "profile_text_color": "000000",
+    "profile_background_color": "000000",
+    "statuses_count": 12307,
+    "default_profile": false,
+    "favourites_count": 15694,
+    "friends_count": 1110,
+    "follow_request_sent": null,
+    "profile_sidebar_fill_color": "000000",
+    "translator_type": "regular",
+    "notifications": null,
+    "id_str": "2163461209",
+    "screen_name": "H4RRYPETER0",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/2163461209/1509753497",
+    "verified": false,
+    "id": 2163461209,
+    "profile_use_background_image": true,
+    "description": "i know u want me",
+    "utc_offset": -28800,
+    "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/705862438307143680/tJj5IJrD.jpg",
+    "is_translator": false,
+    "listed_count": 3,
+    "default_profile_image": false,
+    "contributors_enabled": false,
+    "followers_count": 1514,
+    "location": "everyone is gay",
+    "created_at": "Tue Oct 29 20:02:08 +0000 2013",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/926598800839512071/5eWwHVj2_normal.jpg",
+    "geo_enabled": true,
+    "time_zone": "Pacific Time (US & Canada)",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/926598800839512071/5eWwHVj2_normal.jpg",
+    "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/705862438307143680/tJj5IJrD.jpg",
+    "profile_link_color": "1B95E0",
+    "lang": "es",
+    "name": "\ud83d\udc7d",
+    "profile_background_tile": true,
+    "url": null,
+    "profile_sidebar_border_color": "000000"
+  },
+  "entities": {
+    "user_mentions": [],
+    "urls": [
+      {
+        "expanded_url": "https://twitter.com/i/web/status/930553072476196865",
+        "url": "https://t.co/dYfAtqs0hq",
+        "indices": [116, 139],
+        "display_url": "twitter.com/i/web/status/9\u2026"
+      }
+    ],
+    "symbols": [],
+    "hashtags": []
+  },
+  "retweeted": false
+}

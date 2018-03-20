@@ -1,0 +1,143 @@
+{
+  "geo": null,
+  "filter_level": "low",
+  "in_reply_to_status_id": null,
+  "lang": "es",
+  "favorite_count": 0,
+  "coordinates": null,
+  "favorited": false,
+  "place": {
+    "name": "Panam\u00e1",
+    "full_name": "Panam\u00e1",
+    "place_type": "country",
+    "country": "Panam\u00e1",
+    "id": "9d8ae4b0fac2036a",
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [[[-83.051445, 7.20386], [-83.051445, 9.639486], [-77.13939, 9.639486], [-77.13939, 7.20386]]]
+    },
+    "attributes": {},
+    "url": "https://api.twitter.com/1.1/geo/id/9d8ae4b0fac2036a.json",
+    "country_code": "PA"
+  },
+  "contributors": null,
+  "entities": {
+    "hashtags": [],
+    "urls": [
+      {
+        "display_url": "twitter.com/i/web/status/9\u2026",
+        "expanded_url": "https://twitter.com/i/web/status/930663572656582657",
+        "url": "https://t.co/gu89NFJOV7",
+        "indices": [116, 139]
+      }
+    ],
+    "symbols": [],
+    "user_mentions": [
+      {
+        "id": 397773475,
+        "id_str": "397773475",
+        "name": "Danilo Castillo P",
+        "indices": [28, 36],
+        "screen_name": "DancPTY"
+      }, {
+        "id": 1239751405,
+        "id_str": "1239751405",
+        "name": "TurismoGuna507\ud83c\udf0a\ud83c\udf34\u2600",
+        "indices": [37, 52],
+        "screen_name": "TurismoGuna507"
+      }
+    ]
+  },
+  "id": 930663572656582657,
+  "user": {
+    "followers_count": 37495,
+    "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/672892586/be095234ee381af3e8a7f18727105b81.jpeg",
+    "profile_background_color": "022330",
+    "translator_type": "none",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/877658105999392771/nvuVdflT_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/251189552/1460765703",
+    "default_profile": false,
+    "utc_offset": -18000,
+    "lang": "es",
+    "url": "http://www.dermaclinica.com",
+    "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/672892586/be095234ee381af3e8a7f18727105b81.jpeg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/877658105999392771/nvuVdflT_normal.jpg",
+    "time_zone": "Bogota",
+    "profile_sidebar_border_color": "FFFFFF",
+    "profile_use_background_image": true,
+    "id": 251189552,
+    "profile_link_color": "0084B4",
+    "profile_sidebar_fill_color": "C0DFEC",
+    "profile_background_tile": false,
+    "geo_enabled": true,
+    "id_str": "251189552",
+    "verified": false,
+    "name": "Dr. Armando Mocci",
+    "is_translator": false,
+    "notifications": null,
+    "following": null,
+    "friends_count": 7094,
+    "contributors_enabled": false,
+    "screen_name": "armandomocci",
+    "created_at": "Sat Feb 12 16:37:50 +0000 2011",
+    "profile_text_color": "333333",
+    "favourites_count": 11958,
+    "follow_request_sent": null,
+    "description": "100% Dermatologo abnegado y buen ciudadano paname\u00f1o. Vive sin miedo, como si ya te hubieras muerto :. #37K #dermatologia https://www.youtube.com/user/ptymosh",
+    "default_profile_image": false,
+    "location": "Panama",
+    "listed_count": 66,
+    "protected": false,
+    "statuses_count": 27959
+  },
+  "id_str": "930663572656582657",
+  "retweet_count": 0,
+  "retweeted": false,
+  "quote_count": 0,
+  "truncated": true,
+  "in_reply_to_status_id_str": null,
+  "reply_count": 0,
+  "created_at": "Wed Nov 15 05:07:41 +0000 2017",
+  "is_quote_status": false,
+  "in_reply_to_user_id": null,
+  "timestamp_ms": "1510722461271",
+  "text": "Feliz cumplea\u00f1os a mi amigo @DancPTY @TurismoGuna507 y a sus otras 7 cuentas.  Jajajaja saludos Danilo p\u00e1salo bien\u2026 https://t.co/gu89NFJOV7",
+  "extended_tweet": {
+    "full_text": "Feliz cumplea\u00f1os a mi amigo @DancPTY @TurismoGuna507 y a sus otras 7 cuentas.  Jajajaja saludos Danilo p\u00e1salo bien en tu onom\u00e1stico #FelizCumpleanos #miercolesintratable #panamacase",
+    "display_text_range": [0, 181],
+    "entities": {
+      "hashtags": [
+        {
+          "text": "FelizCumpleanos",
+          "indices": [132, 148]
+        }, {
+          "text": "miercolesintratable",
+          "indices": [149, 169]
+        }, {
+          "text": "panamacase",
+          "indices": [170, 181]
+        }
+      ],
+      "urls": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "id": 397773475,
+          "id_str": "397773475",
+          "name": "Danilo Castillo P",
+          "indices": [28, 36],
+          "screen_name": "DancPTY"
+        }, {
+          "id": 1239751405,
+          "id_str": "1239751405",
+          "name": "TurismoGuna507\ud83c\udf0a\ud83c\udf34\u2600",
+          "indices": [37, 52],
+          "screen_name": "TurismoGuna507"
+        }
+      ]
+    }
+  },
+  "in_reply_to_user_id_str": null,
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "in_reply_to_screen_name": null
+}

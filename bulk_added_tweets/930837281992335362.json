@@ -1,0 +1,134 @@
+{
+  "extended_tweet": {
+    "display_text_range": [0, 215],
+    "entities": {
+      "urls": [],
+      "symbols": [],
+      "hashtags": [],
+      "user_mentions": [
+        {
+          "indices": [0, 12],
+          "name": "Ra\u00fal Brindis",
+          "id_str": "32620600",
+          "screen_name": "raulbrindis",
+          "id": 32620600
+        }, {
+          "indices": [56, 66],
+          "name": "Pedro",
+          "id_str": "65671126",
+          "screen_name": "CaraTurky",
+          "id": 65671126
+        }
+      ]
+    },
+    "full_text": "@raulbrindis \u00a1Buen d\u00eda, Ra\u00fal! No entiendo c\u00f3mo el se\u00f1or @CaraTurky tiene dinero para comprar activos en La Bolsa, pero no tiene dinero para comprar un desayuno saludable. \u00bfCual es su prioridad, la salud o el dinero?"
+  },
+  "favorited": false,
+  "lang": "es",
+  "favorite_count": 0,
+  "reply_count": 0,
+  "geo": null,
+  "contributors": null,
+  "text": "@raulbrindis \u00a1Buen d\u00eda, Ra\u00fal! No entiendo c\u00f3mo el se\u00f1or @CaraTurky tiene dinero para comprar activos en La Bolsa, p\u2026 https://t.co/0VhY6as3QT",
+  "created_at": "Wed Nov 15 16:37:56 +0000 2017",
+  "place": {
+    "place_type": "city",
+    "full_name": "Brooklyn, NY",
+    "country": "United States",
+    "name": "Brooklyn",
+    "url": "https://api.twitter.com/1.1/geo/id/011add077f4d2da3.json",
+    "country_code": "US",
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [[-74.041878, 40.570842], [-74.041878, 40.739434], [-73.855673, 40.739434], [-73.855673, 40.570842]]
+      ]
+    },
+    "id": "011add077f4d2da3",
+    "attributes": {}
+  },
+  "user": {
+    "profile_text_color": "333333",
+    "lang": "en",
+    "location": null,
+    "friends_count": 58,
+    "profile_link_color": "1DA1F2",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/803317699141046274/H1brTUvh_normal.jpg",
+    "contributors_enabled": false,
+    "following": null,
+    "is_translator": false,
+    "verified": false,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1453981645/1470997491",
+    "utc_offset": null,
+    "geo_enabled": true,
+    "profile_sidebar_border_color": "C0DEED",
+    "created_at": "Fri May 24 11:33:18 +0000 2013",
+    "description": null,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/803317699141046274/H1brTUvh_normal.jpg",
+    "profile_background_color": "C0DEED",
+    "listed_count": 0,
+    "follow_request_sent": null,
+    "profile_background_tile": false,
+    "followers_count": 5,
+    "name": "Senen_Martinez",
+    "notifications": null,
+    "default_profile_image": false,
+    "url": null,
+    "favourites_count": 2821,
+    "screen_name": "Senen_Martinez",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_use_background_image": true,
+    "translator_type": "none",
+    "time_zone": null,
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "statuses_count": 837,
+    "id": 1453981645,
+    "default_profile": true,
+    "protected": false,
+    "id_str": "1453981645"
+  },
+  "in_reply_to_user_id_str": "32620600",
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "filter_level": "low",
+  "is_quote_status": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_user_id": 32620600,
+  "quote_count": 0,
+  "retweeted": false,
+  "in_reply_to_screen_name": "raulbrindis",
+  "retweet_count": 0,
+  "in_reply_to_status_id_str": null,
+  "coordinates": null,
+  "id": 930837281992335362,
+  "truncated": true,
+  "entities": {
+    "urls": [
+      {
+        "url": "https://t.co/0VhY6as3QT",
+        "display_url": "twitter.com/i/web/status/9\u2026",
+        "indices": [117, 140],
+        "expanded_url": "https://twitter.com/i/web/status/930837281992335362"
+      }
+    ],
+    "symbols": [],
+    "hashtags": [],
+    "user_mentions": [
+      {
+        "indices": [0, 12],
+        "name": "Ra\u00fal Brindis",
+        "id_str": "32620600",
+        "screen_name": "raulbrindis",
+        "id": 32620600
+      }, {
+        "indices": [56, 66],
+        "name": "Pedro",
+        "id_str": "65671126",
+        "screen_name": "CaraTurky",
+        "id": 65671126
+      }
+    ]
+  },
+  "timestamp_ms": "1510763876804",
+  "id_str": "930837281992335362"
+}

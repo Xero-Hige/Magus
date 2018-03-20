@@ -1,0 +1,114 @@
+{
+  "geo": null,
+  "filter_level": "low",
+  "in_reply_to_status_id": null,
+  "lang": "es",
+  "favorite_count": 0,
+  "coordinates": null,
+  "favorited": false,
+  "place": {
+    "name": "Las Condes",
+    "full_name": "Las Condes, Chile",
+    "place_type": "city",
+    "country": "Chile",
+    "id": "00c4b64e7affea25",
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [[-70.608694, -33.486182], [-70.608694, -33.364619], [-70.429141, -33.364619], [-70.429141, -33.486182]]
+      ]
+    },
+    "attributes": {},
+    "url": "https://api.twitter.com/1.1/geo/id/00c4b64e7affea25.json",
+    "country_code": "CL"
+  },
+  "contributors": null,
+  "entities": {
+    "hashtags": [],
+    "urls": [
+      {
+        "display_url": "twitter.com/i/web/status/9\u2026",
+        "expanded_url": "https://twitter.com/i/web/status/930618789607206913",
+        "url": "https://t.co/a1ilj0pQVZ",
+        "indices": [117, 140]
+      }
+    ],
+    "symbols": [],
+    "user_mentions": []
+  },
+  "id": 930618789607206913,
+  "user": {
+    "followers_count": 231,
+    "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/626073153/4mkhoddlk37ao0zbdg4o.jpeg",
+    "profile_background_color": "EDECE9",
+    "translator_type": "none",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/796368819396677632/Q7AQ06pm_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/59043005/1348632077",
+    "default_profile": false,
+    "utc_offset": -10800,
+    "lang": "es",
+    "url": "http://www.facebook.com/calitobarria",
+    "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/626073153/4mkhoddlk37ao0zbdg4o.jpeg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/796368819396677632/Q7AQ06pm_normal.jpg",
+    "time_zone": "Santiago",
+    "profile_sidebar_border_color": "D3D2CF",
+    "profile_use_background_image": true,
+    "id": 59043005,
+    "profile_link_color": "088253",
+    "profile_sidebar_fill_color": "E3E2DE",
+    "profile_background_tile": true,
+    "geo_enabled": true,
+    "id_str": "59043005",
+    "verified": false,
+    "name": "CaLiTo",
+    "is_translator": false,
+    "notifications": null,
+    "following": null,
+    "friends_count": 296,
+    "contributors_enabled": false,
+    "screen_name": "calitobarria",
+    "created_at": "Wed Jul 22 05:06:58 +0000 2009",
+    "profile_text_color": "634047",
+    "favourites_count": 848,
+    "follow_request_sent": null,
+    "description": "Madre de tres hermosos ni\u00f1os que adora y que ha decidido pensar en ella tambi\u00e9n. No tiene pelos en la lengua y cuando se enoja deja todo lo lady de lado.",
+    "default_profile_image": false,
+    "location": null,
+    "listed_count": 4,
+    "protected": false,
+    "statuses_count": 18353
+  },
+  "id_str": "930618789607206913",
+  "retweet_count": 0,
+  "retweeted": false,
+  "quote_count": 0,
+  "truncated": true,
+  "in_reply_to_status_id_str": null,
+  "reply_count": 0,
+  "created_at": "Wed Nov 15 02:09:44 +0000 2017",
+  "is_quote_status": false,
+  "in_reply_to_user_id": null,
+  "timestamp_ms": "1510711784160",
+  "text": "El 03 de nov tuvimos 3 cortes de luz en menos de 24 hrs, hoy ya llevamos 2 cortes y a\u00fan no nos han repuesto el serv\u2026 https://t.co/a1ilj0pQVZ",
+  "extended_tweet": {
+    "full_text": "El 03 de nov tuvimos 3 cortes de luz en menos de 24 hrs, hoy ya llevamos 2 cortes y a\u00fan no nos han repuesto el servicio, qu\u00e9 espera @EnelClientesCL para entregar un servicio decente? Que todos mis artefactos terminen da\u00f1ados?",
+    "display_text_range": [0, 225],
+    "entities": {
+      "hashtags": [],
+      "urls": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "id": 348090653,
+          "id_str": "348090653",
+          "name": "Enel Distribuci\u00f3n",
+          "indices": [132, 147],
+          "screen_name": "EnelClientesCL"
+        }
+      ]
+    }
+  },
+  "in_reply_to_user_id_str": null,
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "in_reply_to_screen_name": null
+}

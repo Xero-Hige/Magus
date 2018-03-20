@@ -1,0 +1,240 @@
+{
+  "geo": null,
+  "filter_level": "low",
+  "in_reply_to_status_id": null,
+  "lang": "es",
+  "favorite_count": 0,
+  "coordinates": null,
+  "favorited": false,
+  "place": {
+    "name": "Quito",
+    "full_name": "Quito, Ecuador",
+    "place_type": "city",
+    "country": "Ecuador",
+    "id": "0177bc687a9ac697",
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [[-78.948466, -0.588618], [-78.948466, 0.255477], [-78.164897, 0.255477], [-78.164897, -0.588618]]
+      ]
+    },
+    "attributes": {},
+    "url": "https://api.twitter.com/1.1/geo/id/0177bc687a9ac697.json",
+    "country_code": "EC"
+  },
+  "contributors": null,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "JuniorBenitez",
+        "indices": [5, 19]
+      }
+    ],
+    "urls": [
+      {
+        "display_url": "twitter.com/i/web/status/9\u2026",
+        "expanded_url": "https://twitter.com/i/web/status/930603340710465537",
+        "url": "https://t.co/KicBNPzgbm",
+        "indices": [102, 125]
+      }
+    ],
+    "symbols": [],
+    "user_mentions": [
+      {
+        "id": 2150907582,
+        "id_str": "2150907582",
+        "name": "cristian pavon",
+        "indices": [73, 82],
+        "screen_name": "96Kichan"
+      }, {
+        "id": 1352467310,
+        "id_str": "1352467310",
+        "name": "Dario Benedetto",
+        "indices": [84, 98],
+        "screen_name": "PipaBenedetto"
+      }
+    ]
+  },
+  "id": 930603340710465537,
+  "possibly_sensitive": false,
+  "user": {
+    "followers_count": 2255,
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_color": "C0DEED",
+    "translator_type": "none",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/476511053082525696/J5ce0Mhs_normal.jpeg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/542975090/1463662561",
+    "default_profile": true,
+    "utc_offset": -18000,
+    "lang": "es",
+    "url": null,
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/476511053082525696/J5ce0Mhs_normal.jpeg",
+    "time_zone": "Eastern Time (US & Canada)",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_use_background_image": true,
+    "id": 542975090,
+    "profile_link_color": "1DA1F2",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_background_tile": false,
+    "geo_enabled": true,
+    "id_str": "542975090",
+    "verified": false,
+    "name": "Boca Juniors Ecuador",
+    "is_translator": false,
+    "notifications": null,
+    "following": null,
+    "friends_count": 508,
+    "contributors_enabled": false,
+    "screen_name": "BocajrsEcuador",
+    "created_at": "Mon Apr 02 00:40:06 +0000 2012",
+    "profile_text_color": "333333",
+    "favourites_count": 3741,
+    "follow_request_sent": null,
+    "description": "Noticias del club m\u00e1s grande y la hinchada ecuatoriana que tambi\u00e9n apoya. Porque #BocaEsMundial y #EcuadorEsDeBoca",
+    "default_profile_image": false,
+    "location": "Ecuador",
+    "listed_count": 7,
+    "protected": false,
+    "statuses_count": 10685
+  },
+  "id_str": "930603340710465537",
+  "retweet_count": 0,
+  "retweeted": false,
+  "quote_count": 0,
+  "truncated": true,
+  "in_reply_to_status_id_str": null,
+  "reply_count": 0,
+  "created_at": "Wed Nov 15 01:08:20 +0000 2017",
+  "is_quote_status": false,
+  "in_reply_to_user_id": null,
+  "timestamp_ms": "1510708100856",
+  "text": "\"Hoy #JuniorBenitez no se pudo entrenar por una lumbalgia. Me parece que @96Kichan, @PipaBenedetto y\u2026 https://t.co/KicBNPzgbm",
+  "extended_tweet": {
+    "extended_entities": {
+      "media": [
+        {
+          "id_str": "930564321037438976",
+          "media_url": "http://pbs.twimg.com/media/DOoHUdQW0AAUhxN.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/DOoHUdQW0AAUhxN.jpg",
+          "source_status_id_str": "930564364805001222",
+          "type": "photo",
+          "url": "https://t.co/2hVhUboBNE",
+          "indices": [167, 190],
+          "id": 930564321037438976,
+          "expanded_url": "https://twitter.com/La12tuittera/status/930564364805001222/photo/1",
+          "source_user_id_str": "249345746",
+          "source_user_id": 249345746,
+          "display_url": "pic.twitter.com/2hVhUboBNE",
+          "source_status_id": 930564364805001222,
+          "sizes": {
+            "medium": {
+              "h": 867,
+              "resize": "fit",
+              "w": 1200
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            },
+            "large": {
+              "h": 868,
+              "resize": "fit",
+              "w": 1202
+            },
+            "small": {
+              "h": 491,
+              "resize": "fit",
+              "w": 680
+            }
+          }
+        }
+      ]
+    },
+    "full_text": "\"Hoy #JuniorBenitez no se pudo entrenar por una lumbalgia. Me parece que @96Kichan, @PipaBenedetto y @CriisEspinoza7 ser\u00e1 la delantera vs #Racing\" \n\nCosta @ClossAM590 https://t.co/2hVhUboBNE",
+    "display_text_range": [0, 190],
+    "entities": {
+      "media": [
+        {
+          "id_str": "930564321037438976",
+          "media_url": "http://pbs.twimg.com/media/DOoHUdQW0AAUhxN.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/DOoHUdQW0AAUhxN.jpg",
+          "source_status_id_str": "930564364805001222",
+          "type": "photo",
+          "url": "https://t.co/2hVhUboBNE",
+          "indices": [167, 190],
+          "id": 930564321037438976,
+          "expanded_url": "https://twitter.com/La12tuittera/status/930564364805001222/photo/1",
+          "source_user_id_str": "249345746",
+          "source_user_id": 249345746,
+          "display_url": "pic.twitter.com/2hVhUboBNE",
+          "source_status_id": 930564364805001222,
+          "sizes": {
+            "medium": {
+              "h": 867,
+              "resize": "fit",
+              "w": 1200
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            },
+            "large": {
+              "h": 868,
+              "resize": "fit",
+              "w": 1202
+            },
+            "small": {
+              "h": 491,
+              "resize": "fit",
+              "w": 680
+            }
+          }
+        }
+      ],
+      "hashtags": [
+        {
+          "text": "JuniorBenitez",
+          "indices": [5, 19]
+        }, {
+          "text": "Racing",
+          "indices": [138, 145]
+        }
+      ],
+      "urls": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "id": 2150907582,
+          "id_str": "2150907582",
+          "name": "cristian pavon",
+          "indices": [73, 82],
+          "screen_name": "96Kichan"
+        }, {
+          "id": 1352467310,
+          "id_str": "1352467310",
+          "name": "Dario Benedetto",
+          "indices": [84, 98],
+          "screen_name": "PipaBenedetto"
+        }, {
+          "id": 929924209,
+          "id_str": "929924209",
+          "name": "Cristian Espinoza \u26bd\ufe0f",
+          "indices": [101, 116],
+          "screen_name": "CriisEspinoza7"
+        }, {
+          "id": 461974257,
+          "id_str": "461974257",
+          "name": "Closs Continental",
+          "indices": [155, 166],
+          "screen_name": "ClossAM590"
+        }
+      ]
+    }
+  },
+  "in_reply_to_user_id_str": null,
+  "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+  "in_reply_to_screen_name": null
+}

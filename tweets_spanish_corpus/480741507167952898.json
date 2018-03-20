@@ -1,0 +1,104 @@
+{
+  "created_at": "Sun Jun 22 15:58:01 +0000 2014",
+  "id": 480741507167952898,
+  "id_str": "480741507167952898",
+  "text": "#NadaMasFeoQue estar a 10 cuadras de tu casa y darte cuenta que te olvidas del tu celular :'c",
+  "truncated": false,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "NadaMasFeoQue",
+        "indices": [0, 14]
+      }
+    ],
+    "symbols": [],
+    "user_mentions": [],
+    "urls": []
+  },
+  "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 1299898434,
+    "id_str": "1299898434",
+    "name": "Franco",
+    "screen_name": "FranPascual2",
+    "location": "",
+    "description": "",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": []
+      }
+    },
+    "protected": false,
+    "followers_count": 1798,
+    "friends_count": 703,
+    "listed_count": 0,
+    "created_at": "Mon Mar 25 15:24:27 +0000 2013",
+    "favourites_count": 5932,
+    "utc_offset": -10800,
+    "time_zone": "Brasilia",
+    "geo_enabled": true,
+    "verified": false,
+    "statuses_count": 37642,
+    "lang": "es",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "is_translation_enabled": false,
+    "profile_background_color": "ACDED6",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+    "profile_background_tile": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/974292051633344512/oLn_XKDE_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/974292051633344512/oLn_XKDE_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1299898434/1511995191",
+    "profile_link_color": "038543",
+    "profile_sidebar_border_color": "EEEEEE",
+    "profile_sidebar_fill_color": "F6F6F6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "has_extended_profile": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false,
+    "translator_type": "none"
+  },
+  "geo": {
+    "type": "Point",
+    "coordinates": [-31.3639018, -64.186021]
+  },
+  "coordinates": {
+    "type": "Point",
+    "coordinates": [-64.186021, -31.3639018]
+  },
+  "place": {
+    "id": "00f84d414936f28e",
+    "url": "https://api.twitter.com/1.1/geo/id/00f84d414936f28e.json",
+    "place_type": "city",
+    "name": "C\u00f3rdoba",
+    "full_name": "C\u00f3rdoba, Argentina",
+    "country_code": "AR",
+    "country": "Argentina",
+    "contained_within": [],
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [[-64.3195, -31.5235762], [-64.0765511, -31.5235762], [-64.0765511, -31.307337], [-64.3195, -31.307337]]
+      ]
+    },
+    "attributes": {}
+  },
+  "contributors": null,
+  "is_quote_status": false,
+  "retweet_count": 0,
+  "favorite_count": 0,
+  "favorited": false,
+  "retweeted": false,
+  "lang": "es"
+}

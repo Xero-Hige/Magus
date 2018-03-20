@@ -1,0 +1,110 @@
+{
+  "created_at": "Fri Oct 03 22:45:06 +0000 2014",
+  "id": 518169900914057217,
+  "id_str": "518169900914057217",
+  "text": "Ahora que me acuerdo...a\u00fan estoy esper\u00e1ndote el jueves en la piscina pa echarte una carrera! @Pablo9Alonso #miedo #cagon #putakuadrao\u00e9",
+  "truncated": false,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "miedo",
+        "indices": [107, 113]
+      }, {
+        "text": "cagon",
+        "indices": [114, 120]
+      }, {
+        "text": "putakuadrao\u00e9",
+        "indices": [121, 134]
+      }
+    ],
+    "symbols": [],
+    "user_mentions": [],
+    "urls": []
+  },
+  "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 783183530,
+    "id_str": "783183530",
+    "name": "Mario Falc\u00f3n",
+    "screen_name": "m_falkon",
+    "location": "Peralta/Azkoien",
+    "description": "Aprend\u00ed que hay cosas que es mejor no aprender.",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": []
+      }
+    },
+    "protected": false,
+    "followers_count": 240,
+    "friends_count": 240,
+    "listed_count": 1,
+    "created_at": "Sun Aug 26 20:57:28 +0000 2012",
+    "favourites_count": 504,
+    "utc_offset": 3600,
+    "time_zone": "Madrid",
+    "geo_enabled": true,
+    "verified": false,
+    "statuses_count": 1105,
+    "lang": "es",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "is_translation_enabled": false,
+    "profile_background_color": "1A1B1F",
+    "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000095280694/f007b27f30db881460b7930f16c1cb7f.png",
+    "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000095280694/f007b27f30db881460b7930f16c1cb7f.png",
+    "profile_background_tile": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/433766917934170112/va2AcuYM_normal.jpeg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/433766917934170112/va2AcuYM_normal.jpeg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/783183530/1379307669",
+    "profile_link_color": "2FC2EF",
+    "profile_sidebar_border_color": "000000",
+    "profile_sidebar_fill_color": "252429",
+    "profile_text_color": "666666",
+    "profile_use_background_image": true,
+    "has_extended_profile": false,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false,
+    "translator_type": "none"
+  },
+  "geo": {
+    "type": "Point",
+    "coordinates": [42.3379083, -1.8038469]
+  },
+  "coordinates": {
+    "type": "Point",
+    "coordinates": [-1.8038469, 42.3379083]
+  },
+  "place": {
+    "id": "2168259d22835194",
+    "url": "https://api.twitter.com/1.1/geo/id/2168259d22835194.json",
+    "place_type": "city",
+    "name": "Peralta",
+    "full_name": "Peralta, Espa\u00f1a",
+    "country_code": "ES",
+    "country": "Espa\u00f1a",
+    "contained_within": [],
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [[-1.898572, 42.3162926], [-1.7047881, 42.3162926], [-1.7047881, 42.3967417], [-1.898572, 42.3967417]]
+      ]
+    },
+    "attributes": {}
+  },
+  "contributors": null,
+  "is_quote_status": false,
+  "retweet_count": 0,
+  "favorite_count": 0,
+  "favorited": false,
+  "retweeted": false,
+  "lang": "es"
+}

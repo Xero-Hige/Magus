@@ -1,0 +1,116 @@
+{
+  "created_at": "Thu Dec 01 15:49:49 +0000 2011",
+  "id": 142269177875542016,
+  "id_str": "142269177875542016",
+  "text": "Snow all around, gigantic stalactites and this old woman who says : \"You wanna go to Erzurum? Crazy! It's too cold, there!\" #Fear #Turkey",
+  "truncated": false,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "Fear",
+        "indices": [124, 129]
+      }, {
+        "text": "Turkey",
+        "indices": [130, 137]
+      }
+    ],
+    "symbols": [],
+    "user_mentions": [],
+    "urls": []
+  },
+  "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 252941431,
+    "id_str": "252941431",
+    "name": "Antoine d'Audigier",
+    "screen_name": "WorldDetour",
+    "location": "Around the world, India",
+    "description": "Constant traveler. \r\n\r\nI'll tweet from your couch.\r\n\r\nYou speak French? Follow my French account : @detourdumonde!",
+    "url": "http://t.co/8zphaFLIja",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://t.co/8zphaFLIja",
+            "expanded_url": "http://www.detourdumonde.com",
+            "display_url": "detourdumonde.com",
+            "indices": [0, 22]
+          }
+        ]
+      },
+      "description": {
+        "urls": []
+      }
+    },
+    "protected": false,
+    "followers_count": 152,
+    "friends_count": 109,
+    "listed_count": 16,
+    "created_at": "Wed Feb 16 06:50:33 +0000 2011",
+    "favourites_count": 4,
+    "utc_offset": 19800,
+    "time_zone": "Chennai",
+    "geo_enabled": true,
+    "verified": false,
+    "statuses_count": 2080,
+    "lang": "fr",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "is_translation_enabled": false,
+    "profile_background_color": "C0DEED",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/3371726102/e3bb3bb61155b1e4b5810992de229856_normal.jpeg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/3371726102/e3bb3bb61155b1e4b5810992de229856_normal.jpeg",
+    "profile_link_color": "1DA1F2",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "has_extended_profile": false,
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false,
+    "translator_type": "none"
+  },
+  "geo": {
+    "type": "Point",
+    "coordinates": [41.025485, 40.51921]
+  },
+  "coordinates": {
+    "type": "Point",
+    "coordinates": [40.51921, 41.025485]
+  },
+  "place": {
+    "id": "682c5a667856ef42",
+    "url": "https://api.twitter.com/1.1/geo/id/682c5a667856ef42.json",
+    "place_type": "country",
+    "name": "Turqu\u00eda",
+    "full_name": "Turqu\u00eda",
+    "country_code": "TR",
+    "country": "Turqu\u00eda",
+    "contained_within": [],
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [[25.668509, 35.8084193], [44.817931, 35.8084193], [44.817931, 42.1047857], [25.668509, 42.1047857]]
+      ]
+    },
+    "attributes": {}
+  },
+  "contributors": null,
+  "is_quote_status": false,
+  "retweet_count": 0,
+  "favorite_count": 0,
+  "favorited": false,
+  "retweeted": false,
+  "lang": "en"
+}

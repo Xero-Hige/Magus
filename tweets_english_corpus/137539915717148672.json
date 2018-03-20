@@ -1,0 +1,113 @@
+{
+  "created_at": "Fri Nov 18 14:37:25 +0000 2011",
+  "id": 137539915717148672,
+  "id_str": "137539915717148672",
+  "text": "Sorry I've disappeared from the twitter sphere. I've been too busy to tweet. #sadness #illprobablygetfired #7hillsstaff #wetweetsomuch",
+  "truncated": false,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "sadness",
+        "indices": [77, 85]
+      }, {
+        "text": "illprobablygetfired",
+        "indices": [86, 106]
+      }, {
+        "text": "7hillsstaff",
+        "indices": [107, 119]
+      }, {
+        "text": "wetweetsomuch",
+        "indices": [120, 134]
+      }
+    ],
+    "symbols": [],
+    "user_mentions": [],
+    "urls": []
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 221072386,
+    "id_str": "221072386",
+    "name": "Alyssa Carroll",
+    "screen_name": "alyssatcarroll",
+    "location": "",
+    "description": "O R L | F L. Church Builder.",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": []
+      }
+    },
+    "protected": false,
+    "followers_count": 689,
+    "friends_count": 636,
+    "listed_count": 9,
+    "created_at": "Mon Nov 29 17:22:28 +0000 2010",
+    "favourites_count": 4076,
+    "utc_offset": -21600,
+    "time_zone": "Central Time (US & Canada)",
+    "geo_enabled": true,
+    "verified": false,
+    "statuses_count": 16638,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "is_translation_enabled": false,
+    "profile_background_color": "ACDED6",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+    "profile_background_tile": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/760169363638931456/IETicJQK_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/760169363638931456/IETicJQK_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/221072386/1461683002",
+    "profile_link_color": "038543",
+    "profile_sidebar_border_color": "EEEEEE",
+    "profile_sidebar_fill_color": "F6F6F6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "has_extended_profile": false,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false,
+    "translator_type": "none"
+  },
+  "geo": {
+    "type": "Point",
+    "coordinates": [39.03262744, -84.46519083]
+  },
+  "coordinates": {
+    "type": "Point",
+    "coordinates": [-84.46519083, 39.03262744]
+  },
+  "place": {
+    "id": "de599025180e2ee7",
+    "url": "https://api.twitter.com/1.1/geo/id/de599025180e2ee7.json",
+    "place_type": "admin",
+    "name": "Ohio",
+    "full_name": "Ohio, USA",
+    "country_code": "US",
+    "country": "Estados Unidos",
+    "contained_within": [],
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [[-84.8203089, 38.403186], [-80.518626, 38.403186], [-80.518626, 42.327133], [-84.8203089, 42.327133]]
+      ]
+    },
+    "attributes": {}
+  },
+  "contributors": null,
+  "is_quote_status": false,
+  "retweet_count": 0,
+  "favorite_count": 0,
+  "favorited": false,
+  "retweeted": false,
+  "lang": "en"
+}

@@ -1,0 +1,105 @@
+{
+  "favorite_count": 0,
+  "lang": "es",
+  "favorited": false,
+  "reply_count": 0,
+  "geo": {
+    "type": "Point",
+    "coordinates": [41.65, -4.71667]
+  },
+  "contributors": null,
+  "text": "Desde el martes estamos en #valladolid en fibar_valladolid ,ahora aprendemos de la mano de\u2026 https://t.co/T62bfzVxTa",
+  "created_at": "Wed Nov 15 15:40:40 +0000 2017",
+  "place": {
+    "place_type": "city",
+    "full_name": "Valladolid, Espa\u00f1a",
+    "country": "Espa\u00f1a",
+    "name": "Valladolid",
+    "url": "https://api.twitter.com/1.1/geo/id/2afe3164f39d1b83.json",
+    "country_code": "ES",
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [[[-4.928146, 41.523108], [-4.928146, 41.815553], [-4.630882, 41.815553], [-4.630882, 41.523108]]]
+    },
+    "id": "2afe3164f39d1b83",
+    "attributes": {}
+  },
+  "user": {
+    "profile_text_color": "333333",
+    "lang": "es",
+    "location": "cordoba",
+    "friends_count": 264,
+    "profile_link_color": "CC3366",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/715563082626498561/c1LcETIG_normal.jpg",
+    "contributors_enabled": false,
+    "following": null,
+    "is_translator": false,
+    "verified": false,
+    "utc_offset": 0,
+    "geo_enabled": true,
+    "profile_sidebar_border_color": "000000",
+    "created_at": "Mon Aug 22 16:09:00 +0000 2011",
+    "description": "Taberna miguelito es un nuevo concepto de taberna cordobesa ,  muy alegre  juvenil con platos muy muy diferentes y a precios super asequibles.",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/715563082626498561/c1LcETIG_normal.jpg",
+    "profile_background_color": "7FEB86",
+    "listed_count": 9,
+    "follow_request_sent": null,
+    "profile_background_tile": true,
+    "followers_count": 322,
+    "name": "Taberna Miguelito",
+    "notifications": null,
+    "default_profile_image": false,
+    "url": null,
+    "favourites_count": 84,
+    "screen_name": "tabernmiguelito",
+    "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/788095637/9aab478e8473762cbdbc19e6cfbb67ec.jpeg",
+    "profile_sidebar_fill_color": "E6F6F9",
+    "profile_use_background_image": true,
+    "translator_type": "none",
+    "time_zone": "London",
+    "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/788095637/9aab478e8473762cbdbc19e6cfbb67ec.jpeg",
+    "statuses_count": 2012,
+    "id": 360046630,
+    "default_profile": false,
+    "protected": false,
+    "id_str": "360046630"
+  },
+  "in_reply_to_user_id_str": null,
+  "source": "<a href=\"http://instagram.com\" rel=\"nofollow\">Instagram</a>",
+  "filter_level": "low",
+  "is_quote_status": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_user_id": null,
+  "quote_count": 0,
+  "retweeted": false,
+  "possibly_sensitive": false,
+  "in_reply_to_screen_name": null,
+  "retweet_count": 0,
+  "in_reply_to_status_id_str": null,
+  "coordinates": {
+    "type": "Point",
+    "coordinates": [-4.71667, 41.65]
+  },
+  "id": 930822870774804480,
+  "truncated": false,
+  "entities": {
+    "urls": [
+      {
+        "url": "https://t.co/T62bfzVxTa",
+        "display_url": "instagram.com/p/BbhXGAHFdZK/",
+        "indices": [92, 115],
+        "expanded_url": "https://www.instagram.com/p/BbhXGAHFdZK/"
+      }
+    ],
+    "symbols": [],
+    "hashtags": [
+      {
+        "text": "valladolid",
+        "indices": [27, 38]
+      }
+    ],
+    "user_mentions": []
+  },
+  "timestamp_ms": "1510760440902",
+  "id_str": "930822870774804480"
+}

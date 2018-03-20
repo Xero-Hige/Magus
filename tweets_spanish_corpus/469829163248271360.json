@@ -1,0 +1,104 @@
+{
+  "created_at": "Fri May 23 13:16:16 +0000 2014",
+  "id": 469829163248271360,
+  "id_str": "469829163248271360",
+  "text": "Qu\u00e9 lindo arrancar el viernes asiiiiii #feliz hoy me duermo todo!!!",
+  "truncated": false,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "feliz",
+        "indices": [39, 45]
+      }
+    ],
+    "symbols": [],
+    "user_mentions": [],
+    "urls": []
+  },
+  "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 201447969,
+    "id_str": "201447969",
+    "name": "Ara Canziani",
+    "screen_name": "AraCanziani",
+    "location": "",
+    "description": "Por la sonrisa de mi madre que vale un mill\u00f3n \u2764",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": []
+      }
+    },
+    "protected": false,
+    "followers_count": 179,
+    "friends_count": 1098,
+    "listed_count": 0,
+    "created_at": "Mon Oct 11 21:45:27 +0000 2010",
+    "favourites_count": 1041,
+    "utc_offset": -10800,
+    "time_zone": "Brasilia",
+    "geo_enabled": true,
+    "verified": false,
+    "statuses_count": 1915,
+    "lang": "es",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "is_translation_enabled": false,
+    "profile_background_color": "EDECE9",
+    "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/283284549/AMIGAS.jpg",
+    "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/283284549/AMIGAS.jpg",
+    "profile_background_tile": true,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/971528729078960129/sbhebVri_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/971528729078960129/sbhebVri_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/201447969/1515465187",
+    "profile_link_color": "088253",
+    "profile_sidebar_border_color": "D3D2CF",
+    "profile_sidebar_fill_color": "E3E2DE",
+    "profile_text_color": "634047",
+    "profile_use_background_image": true,
+    "has_extended_profile": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false,
+    "translator_type": "none"
+  },
+  "geo": {
+    "type": "Point",
+    "coordinates": [-33.0863056, -60.6205192]
+  },
+  "coordinates": {
+    "type": "Point",
+    "coordinates": [-60.6205192, -33.0863056]
+  },
+  "place": {
+    "id": "0a738ff13a08a7dd",
+    "url": "https://api.twitter.com/1.1/geo/id/0a738ff13a08a7dd.json",
+    "place_type": "admin",
+    "name": "Santa Fe",
+    "full_name": "Santa Fe, Argentina",
+    "country_code": "AR",
+    "country": "Argentina",
+    "contained_within": [],
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [[-62.889222, -34.3842965], [-58.870821, -34.3842965], [-58.870821, -27.993928], [-62.889222, -27.993928]]
+      ]
+    },
+    "attributes": {}
+  },
+  "contributors": null,
+  "is_quote_status": false,
+  "retweet_count": 0,
+  "favorite_count": 0,
+  "favorited": false,
+  "retweeted": false,
+  "lang": "es"
+}

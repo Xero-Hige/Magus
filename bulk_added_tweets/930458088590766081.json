@@ -1,0 +1,227 @@
+{
+  "id": 930458088590766081,
+  "lang": "es",
+  "in_reply_to_status_id_str": null,
+  "truncated": true,
+  "place": {
+    "id": "90a5d505052f7bae",
+    "country": "M\u00e9xico",
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [[-99.324375, 19.232228], [-99.324375, 19.403856], [-99.171644, 19.403856], [-99.171644, 19.232228]]
+      ]
+    },
+    "url": "https://api.twitter.com/1.1/geo/id/90a5d505052f7bae.json",
+    "full_name": "\u00c1lvaro Obreg\u00f3n, Distrito Federal",
+    "attributes": {},
+    "name": "\u00c1lvaro Obreg\u00f3n",
+    "place_type": "city",
+    "country_code": "MX"
+  },
+  "favorite_count": 0,
+  "retweeted": false,
+  "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+  "is_quote_status": false,
+  "possibly_sensitive": false,
+  "geo": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_status_id": null,
+  "retweet_count": 0,
+  "quote_count": 0,
+  "timestamp_ms": "1510673470052",
+  "favorited": false,
+  "coordinates": null,
+  "filter_level": "low",
+  "entities": {
+    "urls": [
+      {
+        "indices": [108, 131],
+        "display_url": "twitter.com/i/web/status/9\u2026",
+        "url": "https://t.co/zFw5qGopOP",
+        "expanded_url": "https://twitter.com/i/web/status/930458088590766081"
+      }
+    ],
+    "symbols": [],
+    "user_mentions": [
+      {
+        "screen_name": "ItsSpoilerTime",
+        "id": 3362259433,
+        "name": "It's Spoiler Time",
+        "indices": [52, 67],
+        "id_str": "3362259433"
+      }
+    ],
+    "hashtags": []
+  },
+  "reply_count": 0,
+  "in_reply_to_screen_name": null,
+  "display_text_range": [0, 140],
+  "text": "En Facebook estamos pasando los 280.000 me gusta de @ItsSpoilerTime y hoy festejamos el cumple de mi amigo\u2026 https://t.co/zFw5qGopOP",
+  "extended_tweet": {
+    "display_text_range": [0, 148],
+    "extended_entities": {
+      "media": [
+        {
+          "id": 930457908692901888,
+          "display_url": "pic.twitter.com/RyKgDJx69A",
+          "id_str": "930457908692901888",
+          "indices": [149, 172],
+          "expanded_url": "https://twitter.com/ranafonk/status/930458088590766081/photo/1",
+          "type": "animated_gif",
+          "url": "https://t.co/RyKgDJx69A",
+          "video_info": {
+            "variants": [
+              {
+                "url": "https://video.twimg.com/tweet_video/DOmmicYX4AAdPa3.mp4",
+                "bitrate": 0,
+                "content_type": "video/mp4"
+              }
+            ],
+            "aspect_ratio": [3, 2]
+          },
+          "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/DOmmicYX4AAdPa3.jpg",
+          "media_url": "http://pbs.twimg.com/tweet_video_thumb/DOmmicYX4AAdPa3.jpg",
+          "sizes": {
+            "small": {
+              "w": 498,
+              "h": 332,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 498,
+              "h": 332,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 498,
+              "h": 332,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "entities": {
+      "media": [
+        {
+          "id": 930457908692901888,
+          "display_url": "pic.twitter.com/RyKgDJx69A",
+          "id_str": "930457908692901888",
+          "indices": [149, 172],
+          "expanded_url": "https://twitter.com/ranafonk/status/930458088590766081/photo/1",
+          "type": "animated_gif",
+          "url": "https://t.co/RyKgDJx69A",
+          "video_info": {
+            "variants": [
+              {
+                "url": "https://video.twimg.com/tweet_video/DOmmicYX4AAdPa3.mp4",
+                "bitrate": 0,
+                "content_type": "video/mp4"
+              }
+            ],
+            "aspect_ratio": [3, 2]
+          },
+          "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/DOmmicYX4AAdPa3.jpg",
+          "media_url": "http://pbs.twimg.com/tweet_video_thumb/DOmmicYX4AAdPa3.jpg",
+          "sizes": {
+            "small": {
+              "w": 498,
+              "h": 332,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 498,
+              "h": 332,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 498,
+              "h": 332,
+              "resize": "fit"
+            }
+          }
+        }
+      ],
+      "urls": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "screen_name": "ItsSpoilerTime",
+          "id": 3362259433,
+          "name": "It's Spoiler Time",
+          "indices": [52, 67],
+          "id_str": "3362259433"
+        }, {
+          "screen_name": "StiviDeTivi",
+          "id": 95294154,
+          "name": "Stivi De Tivi",
+          "indices": [107, 119],
+          "id_str": "95294154"
+        }
+      ],
+      "hashtags": [
+        {
+          "text": "SpoilerNightShow",
+          "indices": [126, 143]
+        }
+      ]
+    },
+    "full_text": "En Facebook estamos pasando los 280.000 me gusta de @ItsSpoilerTime y hoy festejamos el cumple de mi amigo @StiviDeTivi en el #SpoilerNightShow !!!! https://t.co/RyKgDJx69A"
+  },
+  "user": {
+    "statuses_count": 75980,
+    "id": 23216769,
+    "default_profile": false,
+    "favourites_count": 12429,
+    "url": "http://www.afanaticbychoice.com",
+    "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/796303232/97be62edb25ef375e84580cb2819cb3d.jpeg",
+    "verified": false,
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/601227696778031105/YibCzQ1A_normal.jpg",
+    "translator_type": "none",
+    "location": "M\u00e9xico DF",
+    "geo_enabled": true,
+    "utc_offset": -21600,
+    "notifications": null,
+    "profile_background_tile": true,
+    "friends_count": 2173,
+    "is_translator": false,
+    "follow_request_sent": null,
+    "default_profile_image": false,
+    "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/796303232/97be62edb25ef375e84580cb2819cb3d.jpeg",
+    "profile_background_color": "000000",
+    "profile_link_color": "FF0000",
+    "profile_use_background_image": true,
+    "time_zone": "Mexico City",
+    "name": "RanaFonk",
+    "profile_text_color": "FFFFFF",
+    "profile_sidebar_border_color": "FFFFFF",
+    "screen_name": "ranafonk",
+    "lang": "es",
+    "following": null,
+    "listed_count": 85,
+    "protected": false,
+    "profile_sidebar_fill_color": "000000",
+    "followers_count": 3110,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/601227696778031105/YibCzQ1A_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/23216769/1432178787",
+    "contributors_enabled": false,
+    "created_at": "Sat Mar 07 18:03:53 +0000 2009",
+    "id_str": "23216769",
+    "description": "DRUMMER // Co-Founder & Director @itsspoilertime // Conductor #SpoilerNightShow // Music, Movies, TV shows // Argentino en M\u00e9xico"
+  },
+  "created_at": "Tue Nov 14 15:31:10 +0000 2017",
+  "id_str": "930458088590766081",
+  "in_reply_to_user_id": null,
+  "contributors": null
+}

@@ -1,0 +1,112 @@
+{
+  "created_at": "Fri May 16 17:24:44 +0000 2014",
+  "id": 467354980035604481,
+  "id_str": "467354980035604481",
+  "text": "@elcavista pufff...q mal.... Lo peor es que uno no sabe cuando va a parar...#miedo",
+  "truncated": false,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "miedo",
+        "indices": [76, 82]
+      }
+    ],
+    "symbols": [],
+    "user_mentions": [
+      {
+        "screen_name": "elcavista",
+        "name": "H\u00e9ctor Riquelme",
+        "id": 607346316,
+        "id_str": "607346316",
+        "indices": [0, 10]
+      }
+    ],
+    "urls": []
+  },
+  "source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+  "in_reply_to_status_id": 467340669326209024,
+  "in_reply_to_status_id_str": "467340669326209024",
+  "in_reply_to_user_id": 607346316,
+  "in_reply_to_user_id_str": "607346316",
+  "in_reply_to_screen_name": "elcavista",
+  "user": {
+    "id": 421736379,
+    "id_str": "421736379",
+    "name": "mariacsdenogues",
+    "screen_name": "mariacsdenogues",
+    "location": "Bilbao",
+    "description": "Familia, vino y buenos ratos. Ceuta, Bilbao, Chile, Brasil, mis lugares en el mundo. No hago turismo, viajo. Corro",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": []
+      }
+    },
+    "protected": false,
+    "followers_count": 140,
+    "friends_count": 359,
+    "listed_count": 2,
+    "created_at": "Sat Nov 26 09:35:12 +0000 2011",
+    "favourites_count": 3105,
+    "utc_offset": -18000,
+    "time_zone": "Quito",
+    "geo_enabled": true,
+    "verified": false,
+    "statuses_count": 1383,
+    "lang": "es",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "is_translation_enabled": false,
+    "profile_background_color": "C0DEED",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/635546164885106689/xazvbQ_I_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/635546164885106689/xazvbQ_I_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/421736379/1399668210",
+    "profile_link_color": "1DA1F2",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "has_extended_profile": false,
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false,
+    "translator_type": "none"
+  },
+  "geo": {
+    "type": "Point",
+    "coordinates": [43.26406518, -2.93494594]
+  },
+  "coordinates": {
+    "type": "Point",
+    "coordinates": [-2.93494594, 43.26406518]
+  },
+  "place": {
+    "id": "cd43ea85d651af92",
+    "url": "https://api.twitter.com/1.1/geo/id/cd43ea85d651af92.json",
+    "place_type": "city",
+    "name": "Bilbao",
+    "full_name": "Bilbao, Espa\u00f1a",
+    "country_code": "ES",
+    "country": "Espa\u00f1a",
+    "contained_within": [],
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [[-2.9860102, 43.2136542], [-2.8803248, 43.2136542], [-2.8803248, 43.2901452], [-2.9860102, 43.2901452]]
+      ]
+    },
+    "attributes": {}
+  },
+  "contributors": null,
+  "is_quote_status": false,
+  "retweet_count": 0,
+  "favorite_count": 0,
+  "favorited": false,
+  "retweeted": false,
+  "lang": "es"
+}

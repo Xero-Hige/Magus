@@ -1,0 +1,119 @@
+{
+  "is_quote_status": false,
+  "in_reply_to_user_id_str": null,
+  "created_at": "Tue Nov 14 22:03:50 +0000 2017",
+  "favorite_count": 0,
+  "in_reply_to_status_id": null,
+  "id_str": "930556910025302016",
+  "filter_level": "low",
+  "reply_count": 0,
+  "timestamp_ms": "1510697030918",
+  "id": 930556910025302016,
+  "coordinates": null,
+  "in_reply_to_screen_name": null,
+  "truncated": true,
+  "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+  "place": {
+    "bounding_box": {
+      "coordinates": [
+        [[-90.128663, 13.149692], [-90.128663, 14.450551], [-87.683181, 14.450551], [-87.683181, 13.149692]]
+      ],
+      "type": "Polygon"
+    },
+    "url": "https://api.twitter.com/1.1/geo/id/43bf7210cd175772.json",
+    "country_code": "SV",
+    "name": "El Salvador",
+    "full_name": "El Salvador",
+    "id": "43bf7210cd175772",
+    "place_type": "country",
+    "attributes": {},
+    "country": "El Salvador"
+  },
+  "retweet_count": 0,
+  "extended_tweet": {
+    "display_text_range": [0, 173],
+    "entities": {
+      "user_mentions": [],
+      "urls": [],
+      "symbols": [],
+      "hashtags": [
+        {
+          "text": "Mar\u00edaReinaDeLaFamilia",
+          "indices": [24, 46]
+        }, {
+          "text": "RadioSanJos\u00e9930am",
+          "indices": [155, 173]
+        }
+      ]
+    },
+    "full_text": "((En vivo)) su programa #Mar\u00edaReinaDeLaFamilia conducido por Sandra de Granados, compartiendo el tema: \" cinco verdades sobre el culto a la Virgen Mar\u00eda\".\n#RadioSanJos\u00e9930am"
+  },
+  "quote_count": 0,
+  "favorited": false,
+  "text": "((En vivo)) su programa #Mar\u00edaReinaDeLaFamilia conducido por Sandra de Granados, compartiendo el tema: \" cinco verd\u2026 https://t.co/9B89cPCAPh",
+  "in_reply_to_user_id": null,
+  "geo": null,
+  "lang": "es",
+  "contributors": null,
+  "in_reply_to_status_id_str": null,
+  "user": {
+    "protected": false,
+    "following": null,
+    "profile_text_color": "333333",
+    "profile_background_color": "94D487",
+    "statuses_count": 52721,
+    "default_profile": false,
+    "favourites_count": 1529,
+    "friends_count": 502,
+    "follow_request_sent": null,
+    "profile_sidebar_fill_color": "DDEEF6",
+    "translator_type": "none",
+    "notifications": null,
+    "id_str": "785961654",
+    "screen_name": "RadioSanJosesv",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/785961654/1510596616",
+    "verified": false,
+    "id": 785961654,
+    "profile_use_background_image": true,
+    "description": "Radio cat\u00f3lica propiedad del Arzobispado de S. S. Transmite  programas que promueven los valores familiares, siguiendo el modelo de la Familia de Nazareth...",
+    "utc_offset": -21600,
+    "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/608038679140007937/YBVV-vEX.jpg",
+    "is_translator": false,
+    "listed_count": 47,
+    "default_profile_image": false,
+    "contributors_enabled": false,
+    "followers_count": 3136,
+    "location": "El Salvador C.A.",
+    "created_at": "Tue Aug 28 02:08:05 +0000 2012",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/712009887492997120/R24otvB1_normal.jpg",
+    "geo_enabled": true,
+    "time_zone": "Central Time (US & Canada)",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/712009887492997120/R24otvB1_normal.jpg",
+    "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/608038679140007937/YBVV-vEX.jpg",
+    "profile_link_color": "4A913C",
+    "lang": "es",
+    "name": "Radio San Jos\u00e9",
+    "profile_background_tile": true,
+    "url": "http://www.facebook.com/pages/Radio-San-Jos%C3%A9/200526816722668?ref=hl",
+    "profile_sidebar_border_color": "FFFFFF"
+  },
+  "entities": {
+    "user_mentions": [],
+    "urls": [
+      {
+        "expanded_url": "https://twitter.com/i/web/status/930556910025302016",
+        "url": "https://t.co/9B89cPCAPh",
+        "indices": [117, 140],
+        "display_url": "twitter.com/i/web/status/9\u2026"
+      }
+    ],
+    "symbols": [],
+    "hashtags": [
+      {
+        "text": "Mar\u00edaReinaDeLaFamilia",
+        "indices": [24, 46]
+      }
+    ]
+  },
+  "retweeted": false
+}

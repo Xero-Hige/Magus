@@ -1,0 +1,103 @@
+{
+  "created_at": "Tue May 20 15:57:55 +0000 2014",
+  "id": 468782681057415168,
+  "id_str": "468782681057415168",
+  "text": "Tengo trabajo,  salud,  familia,  amigos contados con los dedos de la mano, tengo un novio que espero con ansias locas su regreso #feliz",
+  "truncated": false,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "feliz",
+        "indices": [130, 136]
+      }
+    ],
+    "symbols": [],
+    "user_mentions": [],
+    "urls": []
+  },
+  "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 98237988,
+    "id_str": "98237988",
+    "name": "Linda",
+    "screen_name": "lindita_lr",
+    "location": "M\u00e9xico",
+    "description": "Esposa, mam\u00e1, hija, hermana, trabajadora, enamorada, inteligente, buena cocinera o al menos eso dice mi esposo.",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": []
+      }
+    },
+    "protected": false,
+    "followers_count": 145,
+    "friends_count": 464,
+    "listed_count": 0,
+    "created_at": "Mon Dec 21 00:19:25 +0000 2009",
+    "favourites_count": 40,
+    "utc_offset": -18000,
+    "time_zone": "Central Time (US & Canada)",
+    "geo_enabled": true,
+    "verified": false,
+    "statuses_count": 2879,
+    "lang": "es",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "is_translation_enabled": false,
+    "profile_background_color": "EBEBEB",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme7/bg.gif",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme7/bg.gif",
+    "profile_background_tile": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/604822484190257153/nzeu1CFE_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/604822484190257153/nzeu1CFE_normal.jpg",
+    "profile_link_color": "990000",
+    "profile_sidebar_border_color": "DFDFDF",
+    "profile_sidebar_fill_color": "F3F3F3",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "has_extended_profile": false,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false,
+    "translator_type": "none"
+  },
+  "geo": {
+    "type": "Point",
+    "coordinates": [25.5651944, -103.4278785]
+  },
+  "coordinates": {
+    "type": "Point",
+    "coordinates": [-103.4278785, 25.5651944]
+  },
+  "place": {
+    "id": "373c6c575cd2601b",
+    "url": "https://api.twitter.com/1.1/geo/id/373c6c575cd2601b.json",
+    "place_type": "city",
+    "name": "Torre\u00f3n",
+    "full_name": "Torre\u00f3n, Coahuila de Zaragoza",
+    "country_code": "MX",
+    "country": "M\u00e9xico",
+    "contained_within": [],
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [[-103.5113786, 24.7938211], [-102.954881, 24.7938211], [-102.954881, 25.694625], [-103.5113786, 25.694625]]
+      ]
+    },
+    "attributes": {}
+  },
+  "contributors": null,
+  "is_quote_status": false,
+  "retweet_count": 0,
+  "favorite_count": 0,
+  "favorited": false,
+  "retweeted": false,
+  "lang": "es"
+}

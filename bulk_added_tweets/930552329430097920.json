@@ -1,0 +1,125 @@
+{
+  "is_quote_status": false,
+  "in_reply_to_user_id_str": null,
+  "created_at": "Tue Nov 14 21:45:38 +0000 2017",
+  "favorite_count": 0,
+  "in_reply_to_status_id": null,
+  "id_str": "930552329430097920",
+  "filter_level": "low",
+  "reply_count": 0,
+  "timestamp_ms": "1510695938819",
+  "id": 930552329430097920,
+  "coordinates": null,
+  "in_reply_to_screen_name": null,
+  "truncated": true,
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "place": {
+    "bounding_box": {
+      "coordinates": [
+        [[-58.531792, -34.674453], [-58.531792, -34.534177], [-58.353494, -34.534177], [-58.353494, -34.674453]]
+      ],
+      "type": "Polygon"
+    },
+    "url": "https://api.twitter.com/1.1/geo/id/018f1cde6bad9747.json",
+    "country_code": "AR",
+    "name": "Ciudad Aut\u00f3noma de Buenos Aires",
+    "full_name": "Ciudad Aut\u00f3noma de Buenos Aires, Argentina",
+    "id": "018f1cde6bad9747",
+    "place_type": "city",
+    "attributes": {},
+    "country": "Argentina"
+  },
+  "retweet_count": 0,
+  "extended_tweet": {
+    "display_text_range": [0, 151],
+    "entities": {
+      "user_mentions": [
+        {
+          "id": 2507810474,
+          "screen_name": "basubte",
+          "id_str": "2507810474",
+          "indices": [118, 126],
+          "name": "BA Subte"
+        }, {
+          "id": 77009449,
+          "screen_name": "horaciorlarreta",
+          "id_str": "77009449",
+          "indices": [135, 151],
+          "name": "H Rodr\u00edguez Larreta"
+        }
+      ],
+      "urls": [],
+      "symbols": [],
+      "hashtags": [
+        {
+          "text": "LineaD",
+          "indices": [127, 134]
+        }
+      ]
+    },
+    "full_text": "Est\u00e1s toda la jornada con el aire salis tomas el subte en la segunda estaci\u00f3n parec que te pegaron un baldado de agua @basubte #LineaD @horaciorlarreta"
+  },
+  "quote_count": 0,
+  "favorited": false,
+  "text": "Est\u00e1s toda la jornada con el aire salis tomas el subte en la segunda estaci\u00f3n parec que te pegaron un baldado de ag\u2026 https://t.co/43qOXHwnS6",
+  "in_reply_to_user_id": null,
+  "geo": null,
+  "lang": "es",
+  "contributors": null,
+  "in_reply_to_status_id_str": null,
+  "user": {
+    "protected": false,
+    "following": null,
+    "profile_text_color": "333333",
+    "profile_background_color": "022330",
+    "statuses_count": 17984,
+    "default_profile": false,
+    "favourites_count": 3414,
+    "friends_count": 1976,
+    "follow_request_sent": null,
+    "profile_sidebar_fill_color": "C0DFEC",
+    "translator_type": "none",
+    "notifications": null,
+    "id_str": "151069285",
+    "screen_name": "GustoFalcon",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/151069285/1504837857",
+    "verified": false,
+    "id": 151069285,
+    "profile_use_background_image": true,
+    "description": "Taurino , Divertido , Alegre, jodon, RRPP. Amante de las cenas con Amigos, las series y Pel\u00edculas, mates al aire libre . Lic. en Seguridad e Higiene.",
+    "utc_offset": -10800,
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+    "is_translator": false,
+    "listed_count": 15,
+    "default_profile_image": false,
+    "contributors_enabled": false,
+    "followers_count": 1356,
+    "location": "Buenos Aires, Argentina",
+    "created_at": "Wed Jun 02 14:41:46 +0000 2010",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/921923081823809538/0cCaAOUn_normal.jpg",
+    "geo_enabled": true,
+    "time_zone": "Buenos Aires",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/921923081823809538/0cCaAOUn_normal.jpg",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+    "profile_link_color": "0084B4",
+    "lang": "es",
+    "name": "Gusto Falc\u00f3n \uf8ff",
+    "profile_background_tile": false,
+    "url": "http://www.facebook.com/gustafalcon",
+    "profile_sidebar_border_color": "A8C7F7"
+  },
+  "entities": {
+    "user_mentions": [],
+    "urls": [
+      {
+        "expanded_url": "https://twitter.com/i/web/status/930552329430097920",
+        "url": "https://t.co/43qOXHwnS6",
+        "indices": [117, 140],
+        "display_url": "twitter.com/i/web/status/9\u2026"
+      }
+    ],
+    "symbols": [],
+    "hashtags": []
+  },
+  "retweeted": false
+}

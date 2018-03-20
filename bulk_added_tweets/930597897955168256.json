@@ -1,0 +1,221 @@
+{
+  "geo": null,
+  "filter_level": "low",
+  "in_reply_to_status_id": null,
+  "lang": "es",
+  "favorite_count": 0,
+  "coordinates": null,
+  "favorited": false,
+  "place": {
+    "name": "Venezuela",
+    "full_name": "Venezuela",
+    "place_type": "country",
+    "country": "Venezuela",
+    "id": "043383f8b2b79918",
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [[[-73.354073, 0.648837], [-73.354073, 12.196802], [-59.80378, 12.196802], [-59.80378, 0.648837]]]
+    },
+    "attributes": {},
+    "url": "https://api.twitter.com/1.1/geo/id/043383f8b2b79918.json",
+    "country_code": "VE"
+  },
+  "contributors": null,
+  "entities": {
+    "hashtags": [],
+    "urls": [
+      {
+        "display_url": "twitter.com/i/web/status/9\u2026",
+        "expanded_url": "https://twitter.com/i/web/status/930597897955168256",
+        "url": "https://t.co/d2q788SjVx",
+        "indices": [117, 140]
+      }
+    ],
+    "symbols": [],
+    "user_mentions": []
+  },
+  "id": 930597897955168256,
+  "possibly_sensitive": false,
+  "user": {
+    "followers_count": 1573,
+    "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/419044800/17781-60158.jpg",
+    "profile_background_color": "4C6B7A",
+    "translator_type": "none",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/488035639276105728/3JMoAqLz_normal.jpeg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/146203831/1405191626",
+    "default_profile": false,
+    "utc_offset": -14400,
+    "lang": "es",
+    "url": null,
+    "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/419044800/17781-60158.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/488035639276105728/3JMoAqLz_normal.jpeg",
+    "time_zone": "Caracas",
+    "profile_sidebar_border_color": "176480",
+    "profile_use_background_image": true,
+    "id": 146203831,
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_fill_color": "EFEFEF",
+    "profile_background_tile": true,
+    "geo_enabled": true,
+    "id_str": "146203831",
+    "verified": false,
+    "name": "ALBERT JOSE CADENAS",
+    "is_translator": false,
+    "notifications": null,
+    "following": null,
+    "friends_count": 2027,
+    "contributors_enabled": false,
+    "screen_name": "ALBERTCADENAS",
+    "created_at": "Thu May 20 21:20:12 +0000 2010",
+    "profile_text_color": "333333",
+    "favourites_count": 50,
+    "follow_request_sent": null,
+    "description": "REVOLUCIONARIO HASTA LA MUERTE",
+    "default_profile_image": false,
+    "location": "Portuguesa, Venezuela",
+    "listed_count": 6,
+    "protected": false,
+    "statuses_count": 9356
+  },
+  "id_str": "930597897955168256",
+  "retweet_count": 0,
+  "retweeted": false,
+  "quote_count": 0,
+  "truncated": true,
+  "in_reply_to_status_id_str": null,
+  "reply_count": 0,
+  "created_at": "Wed Nov 15 00:46:43 +0000 2017",
+  "is_quote_status": false,
+  "in_reply_to_user_id": null,
+  "timestamp_ms": "1510706803202",
+  "text": "El Canciller de la Rep\u00fablica Bolivariana de Venezuela, Jorge Arreaza, denunci\u00f3 que los Gobiernos de la Uni\u00f3n Europe\u2026 https://t.co/d2q788SjVx",
+  "extended_tweet": {
+    "extended_entities": {
+      "media": [
+        {
+          "id_str": "930595670419038208",
+          "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/930595670419038208/pu/img/Mvl94flcmrmfjisG.jpg",
+          "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/930595670419038208/pu/img/Mvl94flcmrmfjisG.jpg",
+          "source_status_id_str": "930595717718134784",
+          "type": "video",
+          "url": "https://t.co/zdLb21Ggm3",
+          "indices": [202, 225],
+          "video_info": {
+            "variants": [
+              {
+                "content_type": "application/x-mpegURL",
+                "url": "https://video.twimg.com/ext_tw_video/930595670419038208/pu/pl/WrCYy-NA_LNZs-KX.m3u8"
+              }, {
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/930595670419038208/pu/vid/568x360/oIQib1r_489-9ieV.mp4",
+                "bitrate": 832000
+              }, {
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/930595670419038208/pu/vid/284x180/2PXxzmxnNffTTPTZ.mp4",
+                "bitrate": 320000
+              }
+            ],
+            "aspect_ratio": [71, 45],
+            "duration_millis": 33800
+          },
+          "id": 930595670419038208,
+          "expanded_url": "https://twitter.com/CiudadCCS/status/930595717718134784/video/1",
+          "source_user_id_str": "131618749",
+          "source_user_id": 131618749,
+          "display_url": "pic.twitter.com/zdLb21Ggm3",
+          "source_status_id": 930595717718134784,
+          "sizes": {
+            "medium": {
+              "h": 360,
+              "resize": "fit",
+              "w": 568
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            },
+            "large": {
+              "h": 360,
+              "resize": "fit",
+              "w": 568
+            },
+            "small": {
+              "h": 215,
+              "resize": "fit",
+              "w": 340
+            }
+          }
+        }
+      ]
+    },
+    "full_text": "El Canciller de la Rep\u00fablica Bolivariana de Venezuela, Jorge Arreaza, denunci\u00f3 que los Gobiernos de la Uni\u00f3n Europea en vez de salir en defensa de un pa\u00eds y pueblo amigo se suma a la estrategia de EEUU https://t.co/zdLb21Ggm3",
+    "display_text_range": [0, 225],
+    "entities": {
+      "media": [
+        {
+          "id_str": "930595670419038208",
+          "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/930595670419038208/pu/img/Mvl94flcmrmfjisG.jpg",
+          "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/930595670419038208/pu/img/Mvl94flcmrmfjisG.jpg",
+          "source_status_id_str": "930595717718134784",
+          "type": "video",
+          "url": "https://t.co/zdLb21Ggm3",
+          "indices": [202, 225],
+          "video_info": {
+            "variants": [
+              {
+                "content_type": "application/x-mpegURL",
+                "url": "https://video.twimg.com/ext_tw_video/930595670419038208/pu/pl/WrCYy-NA_LNZs-KX.m3u8"
+              }, {
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/930595670419038208/pu/vid/568x360/oIQib1r_489-9ieV.mp4",
+                "bitrate": 832000
+              }, {
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/930595670419038208/pu/vid/284x180/2PXxzmxnNffTTPTZ.mp4",
+                "bitrate": 320000
+              }
+            ],
+            "aspect_ratio": [71, 45],
+            "duration_millis": 33800
+          },
+          "id": 930595670419038208,
+          "expanded_url": "https://twitter.com/CiudadCCS/status/930595717718134784/video/1",
+          "source_user_id_str": "131618749",
+          "source_user_id": 131618749,
+          "display_url": "pic.twitter.com/zdLb21Ggm3",
+          "source_status_id": 930595717718134784,
+          "sizes": {
+            "medium": {
+              "h": 360,
+              "resize": "fit",
+              "w": 568
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            },
+            "large": {
+              "h": 360,
+              "resize": "fit",
+              "w": 568
+            },
+            "small": {
+              "h": 215,
+              "resize": "fit",
+              "w": 340
+            }
+          }
+        }
+      ],
+      "hashtags": [],
+      "urls": [],
+      "symbols": [],
+      "user_mentions": []
+    }
+  },
+  "in_reply_to_user_id_str": null,
+  "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+  "in_reply_to_screen_name": null
+}

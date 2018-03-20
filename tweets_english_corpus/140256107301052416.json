@@ -1,0 +1,107 @@
+{
+  "created_at": "Sat Nov 26 02:30:36 +0000 2011",
+  "id": 140256107301052416,
+  "id_str": "140256107301052416",
+  "text": "#sadness my California cousins left today. It was definitely a good time though. #lovefamily",
+  "truncated": false,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "sadness",
+        "indices": [0, 8]
+      }, {
+        "text": "lovefamily",
+        "indices": [81, 92]
+      }
+    ],
+    "symbols": [],
+    "user_mentions": [],
+    "urls": []
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 68777137,
+    "id_str": "68777137",
+    "name": "David",
+    "screen_name": "notestodavid",
+    "location": "Dallas, TX",
+    "description": "",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": []
+      }
+    },
+    "protected": false,
+    "followers_count": 231,
+    "friends_count": 341,
+    "listed_count": 4,
+    "created_at": "Tue Aug 25 19:07:31 +0000 2009",
+    "favourites_count": 704,
+    "utc_offset": -25200,
+    "time_zone": "Arizona",
+    "geo_enabled": true,
+    "verified": false,
+    "statuses_count": 2636,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "is_translation_enabled": false,
+    "profile_background_color": "709397",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+    "profile_background_tile": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/845346073795190784/FChRTsjl_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/845346073795190784/FChRTsjl_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/68777137/1500230837",
+    "profile_link_color": "FF3300",
+    "profile_sidebar_border_color": "86A4A6",
+    "profile_sidebar_fill_color": "A0C5C7",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "has_extended_profile": false,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false,
+    "translator_type": "none"
+  },
+  "geo": {
+    "type": "Point",
+    "coordinates": [32.92852376, -97.27956886]
+  },
+  "coordinates": {
+    "type": "Point",
+    "coordinates": [-97.27956886, 32.92852376]
+  },
+  "place": {
+    "id": "42e46bc3663a4b5f",
+    "url": "https://api.twitter.com/1.1/geo/id/42e46bc3663a4b5f.json",
+    "place_type": "city",
+    "name": "Fort Worth",
+    "full_name": "Fort Worth, TX",
+    "country_code": "US",
+    "country": "Estados Unidos",
+    "contained_within": [],
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [[-97.538285, 32.569477], [-97.033542, 32.569477], [-97.033542, 32.990456], [-97.538285, 32.990456]]
+      ]
+    },
+    "attributes": {}
+  },
+  "contributors": null,
+  "is_quote_status": false,
+  "retweet_count": 0,
+  "favorite_count": 0,
+  "favorited": false,
+  "retweeted": false,
+  "lang": "en"
+}

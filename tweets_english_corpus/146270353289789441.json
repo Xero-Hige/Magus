@@ -1,0 +1,103 @@
+{
+  "created_at": "Mon Dec 12 16:49:04 +0000 2011",
+  "id": 146270353289789441,
+  "id_str": "146270353289789441",
+  "text": "I love how I'm dramatic if I say something and dramatic if I don't say anything at all. It's like I'm not a person with feelings. #joy",
+  "truncated": false,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "joy",
+        "indices": [130, 134]
+      }
+    ],
+    "symbols": [],
+    "user_mentions": [],
+    "urls": []
+  },
+  "source": "<a href=\"http://blackberry.com/twitter\" rel=\"nofollow\">Twitter for BlackBerry\u00ae</a>",
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 165530675,
+    "id_str": "165530675",
+    "name": "Bobert",
+    "screen_name": "bobertAH09",
+    "location": "Dallas, TX",
+    "description": "Attorney, Germany (and sometimes Arsenal) supporter, lover of trains and books, tenor, Hoya",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": []
+      }
+    },
+    "protected": false,
+    "followers_count": 644,
+    "friends_count": 925,
+    "listed_count": 13,
+    "created_at": "Sun Jul 11 21:18:49 +0000 2010",
+    "favourites_count": 522,
+    "utc_offset": -21600,
+    "time_zone": "Central Time (US & Canada)",
+    "geo_enabled": true,
+    "verified": false,
+    "statuses_count": 25316,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "is_translation_enabled": false,
+    "profile_background_color": "FFFFFF",
+    "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/404506368/Screen_shot_2011-07-15_at_02.36.22_AM.png",
+    "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/404506368/Screen_shot_2011-07-15_at_02.36.22_AM.png",
+    "profile_background_tile": true,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/477671568177262592/1xKsInPO_normal.jpeg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/477671568177262592/1xKsInPO_normal.jpeg",
+    "profile_link_color": "0084B4",
+    "profile_sidebar_border_color": "FFFFFF",
+    "profile_sidebar_fill_color": "FFFFFF",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "has_extended_profile": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false,
+    "translator_type": "none"
+  },
+  "geo": {
+    "type": "Point",
+    "coordinates": [32.84556, -96.78871]
+  },
+  "coordinates": {
+    "type": "Point",
+    "coordinates": [-96.78871, 32.84556]
+  },
+  "place": {
+    "id": "f90baaeac804e75f",
+    "url": "https://api.twitter.com/1.1/geo/id/f90baaeac804e75f.json",
+    "place_type": "city",
+    "name": "University Park",
+    "full_name": "University Park, TX",
+    "country_code": "US",
+    "country": "Estados Unidos",
+    "contained_within": [],
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [[-96.815054, 32.8365233], [-96.7710486, 32.8365233], [-96.7710486, 32.865496], [-96.815054, 32.865496]]
+      ]
+    },
+    "attributes": {}
+  },
+  "contributors": null,
+  "is_quote_status": false,
+  "retweet_count": 0,
+  "favorite_count": 0,
+  "favorited": false,
+  "retweeted": false,
+  "lang": "en"
+}

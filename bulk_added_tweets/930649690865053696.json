@@ -1,0 +1,221 @@
+{
+  "geo": null,
+  "filter_level": "low",
+  "in_reply_to_status_id": null,
+  "lang": "es",
+  "favorite_count": 0,
+  "coordinates": null,
+  "favorited": false,
+  "place": {
+    "name": "Palmira",
+    "full_name": "Palmira, Colombia",
+    "place_type": "city",
+    "country": "Colombia",
+    "id": "0083e91b64f919f4",
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [[[-76.607335, 3.439586], [-76.607335, 3.701271], [-76.08991, 3.701271], [-76.08991, 3.439586]]]
+    },
+    "attributes": {},
+    "url": "https://api.twitter.com/1.1/geo/id/0083e91b64f919f4.json",
+    "country_code": "CO"
+  },
+  "contributors": null,
+  "entities": {
+    "hashtags": [],
+    "urls": [
+      {
+        "display_url": "twitter.com/i/web/status/9\u2026",
+        "expanded_url": "https://twitter.com/i/web/status/930649690865053696",
+        "url": "https://t.co/Rza0cYuubO",
+        "indices": [117, 140]
+      }
+    ],
+    "symbols": [],
+    "user_mentions": []
+  },
+  "id": 930649690865053696,
+  "possibly_sensitive": false,
+  "user": {
+    "followers_count": 1708,
+    "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/773346077/74c166d54a309ec61445b6287b646e1c.jpeg",
+    "profile_background_color": "C0DEED",
+    "translator_type": "none",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/899381767265767426/Br1zrfDK_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/238573091/1457396172",
+    "default_profile": false,
+    "utc_offset": -18000,
+    "lang": "es",
+    "url": null,
+    "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/773346077/74c166d54a309ec61445b6287b646e1c.jpeg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/899381767265767426/Br1zrfDK_normal.jpg",
+    "time_zone": "Bogota",
+    "profile_sidebar_border_color": "FFFFFF",
+    "profile_use_background_image": true,
+    "id": 238573091,
+    "profile_link_color": "0084B4",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_background_tile": false,
+    "geo_enabled": true,
+    "id_str": "238573091",
+    "verified": false,
+    "name": "Alejandro Calder\u00f3n R",
+    "is_translator": false,
+    "notifications": null,
+    "following": null,
+    "friends_count": 1726,
+    "contributors_enabled": false,
+    "screen_name": "AlejoCalder",
+    "created_at": "Sat Jan 15 13:56:35 +0000 2011",
+    "profile_text_color": "333333",
+    "favourites_count": 32,
+    "follow_request_sent": null,
+    "description": "Abogado, Asesor. Periodista Independiente-Journalist and Lawyer. Campaigns and Elections",
+    "default_profile_image": false,
+    "location": "Alejandro Calder\u00f3n-Colombia",
+    "listed_count": 19,
+    "protected": false,
+    "statuses_count": 12658
+  },
+  "id_str": "930649690865053696",
+  "retweet_count": 0,
+  "retweeted": false,
+  "quote_count": 0,
+  "truncated": true,
+  "in_reply_to_status_id_str": null,
+  "reply_count": 0,
+  "created_at": "Wed Nov 15 04:12:31 +0000 2017",
+  "is_quote_status": false,
+  "in_reply_to_user_id": null,
+  "timestamp_ms": "1510719151594",
+  "text": "Todos los colombianos somos santandereanos. \nUnidos por la defensa del P\u00e1ramo de Santurb\u00e1n, como dice su himno \n\"\u00a1S\u2026 https://t.co/Rza0cYuubO",
+  "extended_tweet": {
+    "extended_entities": {
+      "media": [
+        {
+          "id_str": "930611681088110594",
+          "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/930611681088110594/pu/img/UZFGHgxwxQnl87sy.jpg",
+          "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/930611681088110594/pu/img/UZFGHgxwxQnl87sy.jpg",
+          "source_status_id_str": "930613253981523969",
+          "type": "video",
+          "url": "https://t.co/LSbHsWCUWN",
+          "indices": [225, 248],
+          "video_info": {
+            "variants": [
+              {
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/930611681088110594/pu/vid/240x240/V2d5AeWG_bDN23Wh.mp4",
+                "bitrate": 320000
+              }, {
+                "content_type": "application/x-mpegURL",
+                "url": "https://video.twimg.com/ext_tw_video/930611681088110594/pu/pl/mT0laMztXiI_bgAD.m3u8"
+              }
+            ],
+            "aspect_ratio": [1, 1],
+            "duration_millis": 98080
+          },
+          "id": 930611681088110594,
+          "expanded_url": "https://twitter.com/JERobledo/status/930613253981523969/video/1",
+          "source_user_id_str": "268322810",
+          "source_user_id": 268322810,
+          "display_url": "pic.twitter.com/LSbHsWCUWN",
+          "source_status_id": 930613253981523969,
+          "sizes": {
+            "medium": {
+              "h": 400,
+              "resize": "fit",
+              "w": 400
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            },
+            "large": {
+              "h": 400,
+              "resize": "fit",
+              "w": 400
+            },
+            "small": {
+              "h": 340,
+              "resize": "fit",
+              "w": 340
+            }
+          }
+        }
+      ]
+    },
+    "full_text": "Todos los colombianos somos santandereanos. \nUnidos por la defensa del P\u00e1ramo de Santurb\u00e1n, como dice su himno \n\"\u00a1Santandereanos, siempre adelante!\n\u00a1Santandereanos, ni un paso atr\u00e1s!\" \n#NuestroOroEsElAgua #Miner\u00edaS\u00edPeroNoAs\u00ed https://t.co/LSbHsWCUWN",
+    "display_text_range": [0, 248],
+    "entities": {
+      "media": [
+        {
+          "id_str": "930611681088110594",
+          "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/930611681088110594/pu/img/UZFGHgxwxQnl87sy.jpg",
+          "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/930611681088110594/pu/img/UZFGHgxwxQnl87sy.jpg",
+          "source_status_id_str": "930613253981523969",
+          "type": "video",
+          "url": "https://t.co/LSbHsWCUWN",
+          "indices": [225, 248],
+          "video_info": {
+            "variants": [
+              {
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/930611681088110594/pu/vid/240x240/V2d5AeWG_bDN23Wh.mp4",
+                "bitrate": 320000
+              }, {
+                "content_type": "application/x-mpegURL",
+                "url": "https://video.twimg.com/ext_tw_video/930611681088110594/pu/pl/mT0laMztXiI_bgAD.m3u8"
+              }
+            ],
+            "aspect_ratio": [1, 1],
+            "duration_millis": 98080
+          },
+          "id": 930611681088110594,
+          "expanded_url": "https://twitter.com/JERobledo/status/930613253981523969/video/1",
+          "source_user_id_str": "268322810",
+          "source_user_id": 268322810,
+          "display_url": "pic.twitter.com/LSbHsWCUWN",
+          "source_status_id": 930613253981523969,
+          "sizes": {
+            "medium": {
+              "h": 400,
+              "resize": "fit",
+              "w": 400
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            },
+            "large": {
+              "h": 400,
+              "resize": "fit",
+              "w": 400
+            },
+            "small": {
+              "h": 340,
+              "resize": "fit",
+              "w": 340
+            }
+          }
+        }
+      ],
+      "hashtags": [
+        {
+          "text": "NuestroOroEsElAgua",
+          "indices": [185, 204]
+        }, {
+          "text": "Miner\u00edaS\u00edPeroNoAs\u00ed",
+          "indices": [205, 224]
+        }
+      ],
+      "urls": [],
+      "symbols": [],
+      "user_mentions": []
+    }
+  },
+  "in_reply_to_user_id_str": null,
+  "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+  "in_reply_to_screen_name": null
+}

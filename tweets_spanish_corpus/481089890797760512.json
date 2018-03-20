@@ -1,0 +1,104 @@
+{
+  "created_at": "Mon Jun 23 15:02:22 +0000 2014",
+  "id": 481089890797760512,
+  "id_str": "481089890797760512",
+  "text": "Esta lindo para estar tirada tomando una buena coca fr\u00eda y no para estar a punto de rendir. #fuckingfacultad",
+  "truncated": false,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "fuckingfacultad",
+        "indices": [92, 108]
+      }
+    ],
+    "symbols": [],
+    "user_mentions": [],
+    "urls": []
+  },
+  "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 239241647,
+    "id_str": "239241647",
+    "name": "Vito Valenzuela",
+    "screen_name": "vito_valenzuela",
+    "location": "La Paz",
+    "description": "Estudiante de Lic. en Nutrici\u00f3n",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": []
+      }
+    },
+    "protected": false,
+    "followers_count": 1032,
+    "friends_count": 793,
+    "listed_count": 5,
+    "created_at": "Mon Jan 17 04:41:46 +0000 2011",
+    "favourites_count": 1508,
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": true,
+    "verified": false,
+    "statuses_count": 14654,
+    "lang": "es",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "is_translation_enabled": false,
+    "profile_background_color": "C0DEED",
+    "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000019060337/93eb2c915a2c46ebc981ff8438d8aa49.jpeg",
+    "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000019060337/93eb2c915a2c46ebc981ff8438d8aa49.jpeg",
+    "profile_background_tile": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/503630534396755968/mgupnSRD_normal.jpeg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/503630534396755968/mgupnSRD_normal.jpeg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/239241647/1399325037",
+    "profile_link_color": "0084B4",
+    "profile_sidebar_border_color": "FFFFFF",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "has_extended_profile": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false,
+    "translator_type": "none"
+  },
+  "geo": {
+    "type": "Point",
+    "coordinates": [-31.6464698, -60.7081857]
+  },
+  "coordinates": {
+    "type": "Point",
+    "coordinates": [-60.7081857, -31.6464698]
+  },
+  "place": {
+    "id": "01b40b49265b126c",
+    "url": "https://api.twitter.com/1.1/geo/id/01b40b49265b126c.json",
+    "place_type": "city",
+    "name": "Santa F\u00e9",
+    "full_name": "Santa F\u00e9, Argentina",
+    "country_code": "AR",
+    "country": "Argentina",
+    "contained_within": [],
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [[-60.764198, -31.684295], [-60.585606, -31.684295], [-60.585606, -31.553978], [-60.764198, -31.553978]]
+      ]
+    },
+    "attributes": {}
+  },
+  "contributors": null,
+  "is_quote_status": false,
+  "retweet_count": 0,
+  "favorite_count": 1,
+  "favorited": false,
+  "retweeted": false,
+  "lang": "es"
+}

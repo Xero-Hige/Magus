@@ -1,0 +1,133 @@
+{
+  "in_reply_to_screen_name": "danielvigueras",
+  "geo": null,
+  "user": {
+    "followers_count": 413,
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_color": "C0DEED",
+    "translator_type": "none",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/923938415258820608/1X7Wzxx5_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/232205822/1485725790",
+    "default_profile": false,
+    "utc_offset": 3600,
+    "lang": "es",
+    "url": "https://www.javiercno.es",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/923938415258820608/1X7Wzxx5_normal.jpg",
+    "time_zone": "Amsterdam",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_use_background_image": true,
+    "id": 232205822,
+    "profile_link_color": "0083B3",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_background_tile": false,
+    "geo_enabled": true,
+    "id_str": "232205822",
+    "verified": false,
+    "name": "Javier Cano",
+    "is_translator": false,
+    "notifications": null,
+    "following": null,
+    "friends_count": 332,
+    "contributors_enabled": false,
+    "screen_name": "javiercno",
+    "created_at": "Thu Dec 30 14:38:05 +0000 2010",
+    "profile_text_color": "333333",
+    "favourites_count": 397,
+    "follow_request_sent": null,
+    "description": "Me gustar\u00eda ser probador de sof\u00e1s, pero me conformo con programar #PHP #javascript #vuejs #symfony #laravel",
+    "default_profile_image": false,
+    "location": "Albacete, Espa\u00f1a",
+    "listed_count": 20,
+    "protected": false,
+    "statuses_count": 4820
+  },
+  "filter_level": "low",
+  "in_reply_to_status_id": 930432986281140224,
+  "lang": "es",
+  "display_text_range": [28, 140],
+  "favorited": false,
+  "place": {
+    "name": "Albacete",
+    "full_name": "Albacete, Espa\u00f1a",
+    "place_type": "city",
+    "country": "Espa\u00f1a",
+    "id": "56933d34eb0f964a",
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [[[-2.181299, 38.672083], [-2.181299, 39.186567], [-1.62259, 39.186567], [-1.62259, 38.672083]]]
+    },
+    "attributes": {},
+    "url": "https://api.twitter.com/1.1/geo/id/56933d34eb0f964a.json",
+    "country_code": "ES"
+  },
+  "coordinates": null,
+  "entities": {
+    "hashtags": [],
+    "urls": [
+      {
+        "display_url": "twitter.com/i/web/status/9\u2026",
+        "expanded_url": "https://twitter.com/i/web/status/930579728569982977",
+        "url": "https://t.co/PkvmT8SUI8",
+        "indices": [116, 139]
+      }
+    ],
+    "symbols": [],
+    "user_mentions": [
+      {
+        "id": 17883714,
+        "id_str": "17883714",
+        "name": "Daniel Vigueras",
+        "indices": [0, 15],
+        "screen_name": "danielvigueras"
+      }, {
+        "id": 54128435,
+        "id_str": "54128435",
+        "name": "Javier Ferrer",
+        "indices": [16, 27],
+        "screen_name": "JavierCane"
+      }
+    ]
+  },
+  "id": 930579728569982977,
+  "in_reply_to_user_id_str": "17883714",
+  "id_str": "930579728569982977",
+  "retweet_count": 0,
+  "retweeted": false,
+  "quote_count": 0,
+  "truncated": true,
+  "in_reply_to_status_id_str": "930432986281140224",
+  "reply_count": 0,
+  "created_at": "Tue Nov 14 23:34:31 +0000 2017",
+  "is_quote_status": false,
+  "in_reply_to_user_id": 17883714,
+  "timestamp_ms": "1510702471283",
+  "text": "@danielvigueras @JavierCane No le encuentro mucho sentido, te imaginas que un usuario est\u00e1 visualizando un listado\u2026 https://t.co/PkvmT8SUI8",
+  "extended_tweet": {
+    "full_text": "@danielvigueras @JavierCane No le encuentro mucho sentido, te imaginas que un usuario est\u00e1 visualizando un listado paginado y al cambiar de p\u00e1gina le lleva a la pantalla de login? Desde mi punto de vista deber\u00eda de funcionar igual que una sesi\u00f3n",
+    "display_text_range": [28, 245],
+    "entities": {
+      "hashtags": [],
+      "urls": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "id": 17883714,
+          "id_str": "17883714",
+          "name": "Daniel Vigueras",
+          "indices": [0, 15],
+          "screen_name": "danielvigueras"
+        }, {
+          "id": 54128435,
+          "id_str": "54128435",
+          "name": "Javier Ferrer",
+          "indices": [16, 27],
+          "screen_name": "JavierCane"
+        }
+      ]
+    }
+  },
+  "favorite_count": 0,
+  "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+  "contributors": null
+}

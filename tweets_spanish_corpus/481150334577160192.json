@@ -1,0 +1,104 @@
+{
+  "created_at": "Mon Jun 23 19:02:33 +0000 2014",
+  "id": 481150334577160192,
+  "id_str": "481150334577160192",
+  "text": "Personas que creia que eran buenas y me doy cuenta de que son mas falsas que las monedas de tres euros #sorprendida",
+  "truncated": false,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "sorprendida",
+        "indices": [103, 115]
+      }
+    ],
+    "symbols": [],
+    "user_mentions": [],
+    "urls": []
+  },
+  "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 230763845,
+    "id_str": "230763845",
+    "name": "Andrea:)",
+    "screen_name": "AndreaRiFe",
+    "location": "Torrox(M\u00e1laga)",
+    "description": "El flamenco y los animales son mi pasi\u00f3n.Me encanta las locuras con mis ni\u00f1as.Cometo muchos errores,no soy perfecta ni lo quiero ser.Mi meta? ser feliz.",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": []
+      }
+    },
+    "protected": false,
+    "followers_count": 302,
+    "friends_count": 264,
+    "listed_count": 0,
+    "created_at": "Sun Dec 26 16:10:20 +0000 2010",
+    "favourites_count": 514,
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": true,
+    "verified": false,
+    "statuses_count": 4838,
+    "lang": "es",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "is_translation_enabled": false,
+    "profile_background_color": "EBE8EA",
+    "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000179495176/vRWQ0R70.jpeg",
+    "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000179495176/vRWQ0R70.jpeg",
+    "profile_background_tile": true,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/490520575010693120/QFTM3Wdc_normal.jpeg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/490520575010693120/QFTM3Wdc_normal.jpeg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/230763845/1412514670",
+    "profile_link_color": "800960",
+    "profile_sidebar_border_color": "FFFFFF",
+    "profile_sidebar_fill_color": "E3E2DE",
+    "profile_text_color": "634047",
+    "profile_use_background_image": true,
+    "has_extended_profile": false,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false,
+    "translator_type": "none"
+  },
+  "geo": {
+    "type": "Point",
+    "coordinates": [36.7438289, -3.9563185]
+  },
+  "coordinates": {
+    "type": "Point",
+    "coordinates": [-3.9563185, 36.7438289]
+  },
+  "place": {
+    "id": "62bc678877f0168b",
+    "url": "https://api.twitter.com/1.1/geo/id/62bc678877f0168b.json",
+    "place_type": "city",
+    "name": "Torrox",
+    "full_name": "Torrox, Espa\u00f1a",
+    "country_code": "ES",
+    "country": "Espa\u00f1a",
+    "contained_within": [],
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [[-4.0031364, 36.7259447], [-3.9095434, 36.7259447], [-3.9095434, 36.8156932], [-4.0031364, 36.8156932]]
+      ]
+    },
+    "attributes": {}
+  },
+  "contributors": null,
+  "is_quote_status": false,
+  "retweet_count": 2,
+  "favorite_count": 1,
+  "favorited": false,
+  "retweeted": false,
+  "lang": "es"
+}

@@ -1,0 +1,119 @@
+{
+  "geo": null,
+  "filter_level": "low",
+  "in_reply_to_status_id": null,
+  "lang": "es",
+  "favorite_count": 0,
+  "coordinates": null,
+  "favorited": false,
+  "place": {
+    "name": "San Andr\u00e9s Cholula",
+    "full_name": "San Andr\u00e9s Cholula, Puebla",
+    "place_type": "city",
+    "country": "Mexico",
+    "id": "9de57b9239869b74",
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [[-98.363779, 18.980181], [-98.363779, 19.065807], [-98.253419, 19.065807], [-98.253419, 18.980181]]
+      ]
+    },
+    "attributes": {},
+    "url": "https://api.twitter.com/1.1/geo/id/9de57b9239869b74.json",
+    "country_code": "MX"
+  },
+  "contributors": null,
+  "entities": {
+    "hashtags": [],
+    "urls": [
+      {
+        "display_url": "twitter.com/i/web/status/9\u2026",
+        "expanded_url": "https://twitter.com/i/web/status/930581723192201216",
+        "url": "https://t.co/rq4oN104SB",
+        "indices": [117, 140]
+      }
+    ],
+    "symbols": [],
+    "user_mentions": []
+  },
+  "id": 930581723192201216,
+  "user": {
+    "followers_count": 1854,
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+    "profile_background_color": "022330",
+    "translator_type": "none",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/842596380795318272/VDuZ6eeW_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/37146293/1489725605",
+    "default_profile": false,
+    "utc_offset": -21600,
+    "lang": "en",
+    "url": "http://www.youtube.com/c/adriandeita",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/842596380795318272/VDuZ6eeW_normal.jpg",
+    "time_zone": "Central Time (US & Canada)",
+    "profile_sidebar_border_color": "A8C7F7",
+    "profile_use_background_image": true,
+    "id": 37146293,
+    "profile_link_color": "0084B4",
+    "profile_sidebar_fill_color": "C0DFEC",
+    "profile_background_tile": false,
+    "geo_enabled": true,
+    "id_str": "37146293",
+    "verified": false,
+    "name": "Adri\u00e1n de Ita",
+    "is_translator": false,
+    "notifications": null,
+    "following": null,
+    "friends_count": 286,
+    "contributors_enabled": false,
+    "screen_name": "adriandeita",
+    "created_at": "Sat May 02 05:07:19 +0000 2009",
+    "profile_text_color": "333333",
+    "favourites_count": 1270,
+    "follow_request_sent": null,
+    "description": "Cineasta | Vlogger | M\u00e9xico",
+    "default_profile_image": false,
+    "location": "Distrito Federal, M\u00e9xico",
+    "listed_count": 4,
+    "protected": false,
+    "statuses_count": 2312
+  },
+  "id_str": "930581723192201216",
+  "retweet_count": 0,
+  "retweeted": false,
+  "quote_count": 0,
+  "truncated": true,
+  "in_reply_to_status_id_str": null,
+  "reply_count": 0,
+  "created_at": "Tue Nov 14 23:42:26 +0000 2017",
+  "is_quote_status": false,
+  "in_reply_to_user_id": null,
+  "timestamp_ms": "1510702946838",
+  "text": "Las pasas con chocolate son la perfecta analog\u00eda de la dualidad: lo m\u00e1s asqueroso con lo m\u00e1s delicioso juntos, para\u2026 https://t.co/rq4oN104SB",
+  "extended_tweet": {
+    "full_text": "Las pasas con chocolate son la perfecta analog\u00eda de la dualidad: lo m\u00e1s asqueroso con lo m\u00e1s delicioso juntos, para ofrecer un perfecto sabor.\n\n#PensamientosRandom patrocinados por @RicolinoMX",
+    "display_text_range": [0, 192],
+    "entities": {
+      "hashtags": [
+        {
+          "text": "PensamientosRandom",
+          "indices": [144, 163]
+        }
+      ],
+      "urls": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "id": 246001516,
+          "id_str": "246001516",
+          "name": "Ricolino",
+          "indices": [181, 192],
+          "screen_name": "RicolinoMX"
+        }
+      ]
+    }
+  },
+  "in_reply_to_user_id_str": null,
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "in_reply_to_screen_name": null
+}

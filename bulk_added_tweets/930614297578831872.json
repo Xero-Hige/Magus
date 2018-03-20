@@ -1,0 +1,103 @@
+{
+  "geo": null,
+  "filter_level": "low",
+  "in_reply_to_status_id": null,
+  "lang": "es",
+  "favorite_count": 0,
+  "coordinates": null,
+  "favorited": false,
+  "place": {
+    "name": "Bogot\u00e1, D.C.",
+    "full_name": "Bogot\u00e1, D.C., Colombia",
+    "place_type": "city",
+    "country": "Colombia",
+    "id": "0161be1b3f98d6c3",
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [[[-74.483289, 3.717432], [-74.483289, 4.807135], [-74.004053, 4.807135], [-74.004053, 3.717432]]]
+    },
+    "attributes": {},
+    "url": "https://api.twitter.com/1.1/geo/id/0161be1b3f98d6c3.json",
+    "country_code": "CO"
+  },
+  "contributors": null,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "Pagar\u00edaPor",
+        "indices": [0, 11]
+      }, {
+        "text": "MundialRusia2018",
+        "indices": [52, 69]
+      }
+    ],
+    "urls": [],
+    "symbols": [],
+    "user_mentions": [
+      {
+        "id": 1117317140,
+        "id_str": "1117317140",
+        "name": "Selecci\u00f3n Colombia",
+        "indices": [29, 45],
+        "screen_name": "FCFSeleccionCol"
+      }
+    ]
+  },
+  "id": 930614297578831872,
+  "user": {
+    "followers_count": 399,
+    "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/413586244/87395_ampliada_jpg_1ec3abcfb4765d734caf4daf49bd82b4.png",
+    "profile_background_color": "1A1B1F",
+    "translator_type": "none",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/836957265395650561/fWlP6prS_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/147751778/1406231299",
+    "default_profile": false,
+    "utc_offset": -21600,
+    "lang": "es",
+    "url": null,
+    "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/413586244/87395_ampliada_jpg_1ec3abcfb4765d734caf4daf49bd82b4.png",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/836957265395650561/fWlP6prS_normal.jpg",
+    "time_zone": "Central Time (US & Canada)",
+    "profile_sidebar_border_color": "181A1E",
+    "profile_use_background_image": true,
+    "id": 147751778,
+    "profile_link_color": "2FC2EF",
+    "profile_sidebar_fill_color": "252429",
+    "profile_background_tile": true,
+    "geo_enabled": true,
+    "id_str": "147751778",
+    "verified": false,
+    "name": "Felipe Sarmiento G.",
+    "is_translator": false,
+    "notifications": null,
+    "following": null,
+    "friends_count": 1932,
+    "contributors_enabled": false,
+    "screen_name": "felsarga",
+    "created_at": "Mon May 24 23:44:44 +0000 2010",
+    "profile_text_color": "666666",
+    "favourites_count": 1889,
+    "follow_request_sent": null,
+    "description": "Especialista en Comunicaci\u00f3n Estrat\u00e9gica, Comunicador Social-Periodista e Hincha fiel de Independiente Santa Fe. Snapchat: Felsarga. Instagram: @felsarga8823",
+    "default_profile_image": false,
+    "location": null,
+    "listed_count": 9,
+    "protected": false,
+    "statuses_count": 8625
+  },
+  "id_str": "930614297578831872",
+  "retweet_count": 0,
+  "retweeted": false,
+  "quote_count": 0,
+  "truncated": false,
+  "in_reply_to_status_id_str": null,
+  "reply_count": 0,
+  "created_at": "Wed Nov 15 01:51:53 +0000 2017",
+  "is_quote_status": false,
+  "in_reply_to_user_id": null,
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "text": "#Pagar\u00edaPor ver campe\u00f3n a la @FCFSeleccionCol en el #MundialRusia2018",
+  "timestamp_ms": "1510710713177",
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null
+}

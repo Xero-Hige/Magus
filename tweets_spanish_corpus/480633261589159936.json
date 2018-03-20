@@ -1,0 +1,104 @@
+{
+  "created_at": "Sun Jun 22 08:47:53 +0000 2014",
+  "id": 480633261589159936,
+  "id_str": "480633261589159936",
+  "text": "#MeCaeMal la gente que pretende caerles a todo mundo bien, no jodan eso nunca pasa \ud83d\ude12",
+  "truncated": false,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "MeCaeMal",
+        "indices": [0, 9]
+      }
+    ],
+    "symbols": [],
+    "user_mentions": [],
+    "urls": []
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 146573770,
+    "id_str": "146573770",
+    "name": "pato Albarran",
+    "screen_name": "PatoAlbarran",
+    "location": "Centro de la Ciudad de M\u00e9xico, Cuauht\u00e9moc",
+    "description": "pr\u00f3xima Lic en comercio, practicante de Kick Boxing y un dolor de muelas para la gente amargada",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": []
+      }
+    },
+    "protected": false,
+    "followers_count": 142,
+    "friends_count": 202,
+    "listed_count": 3,
+    "created_at": "Fri May 21 19:54:09 +0000 2010",
+    "favourites_count": 822,
+    "utc_offset": -18000,
+    "time_zone": "Central Time (US & Canada)",
+    "geo_enabled": true,
+    "verified": false,
+    "statuses_count": 3913,
+    "lang": "es",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "is_translation_enabled": false,
+    "profile_background_color": "0099B9",
+    "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/609076640547655680/peNamAts.jpg",
+    "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/609076640547655680/peNamAts.jpg",
+    "profile_background_tile": true,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/944099302334382080/dfotV7xm_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/944099302334382080/dfotV7xm_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/146573770/1499745081",
+    "profile_link_color": "9266CC",
+    "profile_sidebar_border_color": "DBE9ED",
+    "profile_sidebar_fill_color": "E6F6F9",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "has_extended_profile": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false,
+    "translator_type": "none"
+  },
+  "geo": {
+    "type": "Point",
+    "coordinates": [19.51269174, -99.21608906]
+  },
+  "coordinates": {
+    "type": "Point",
+    "coordinates": [-99.21608906, 19.51269174]
+  },
+  "place": {
+    "id": "74704aa81e197418",
+    "url": "https://api.twitter.com/1.1/geo/id/74704aa81e197418.json",
+    "place_type": "city",
+    "name": "Tlalnepantla de Baz",
+    "full_name": "Tlalnepantla de Baz, M\u00e9xico",
+    "country_code": "MX",
+    "country": "M\u00e9xico",
+    "contained_within": [],
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [[-99.2481811, 19.498594], [-99.080384, 19.498594], [-99.080384, 19.589272], [-99.2481811, 19.589272]]
+      ]
+    },
+    "attributes": {}
+  },
+  "contributors": null,
+  "is_quote_status": false,
+  "retweet_count": 0,
+  "favorite_count": 0,
+  "favorited": false,
+  "retweeted": false,
+  "lang": "es"
+}

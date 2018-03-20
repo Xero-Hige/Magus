@@ -1,0 +1,112 @@
+{
+  "created_at": "Thu May 22 17:31:44 +0000 2014",
+  "id": 469531065376604160,
+  "id_str": "469531065376604160",
+  "text": "@jesusmzgz Y eso q est\u00e1n en campa\u00f1a! Si ganan si q sera un atentico  #Asco",
+  "truncated": false,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "Asco",
+        "indices": [69, 74]
+      }
+    ],
+    "symbols": [],
+    "user_mentions": [
+      {
+        "screen_name": "jesusmzgz",
+        "name": "Jes\u00fas Mart\u00ednez Glez",
+        "id": 236582689,
+        "id_str": "236582689",
+        "indices": [0, 10]
+      }
+    ],
+    "urls": []
+  },
+  "source": "<a href=\"http://blackberry.com/twitter\" rel=\"nofollow\">Twitter for BlackBerry\u00ae</a>",
+  "in_reply_to_status_id": 469529950010474496,
+  "in_reply_to_status_id_str": "469529950010474496",
+  "in_reply_to_user_id": 236582689,
+  "in_reply_to_user_id_str": "236582689",
+  "in_reply_to_screen_name": "jesusmzgz",
+  "user": {
+    "id": 279930425,
+    "id_str": "279930425",
+    "name": "DidacMR37",
+    "screen_name": "DidacMa",
+    "location": "Barcelona",
+    "description": "\ud83c\udf89Multicolor. MedioAteo . Feminista. Gay. Lesbiana. Bisexual. Transexual. Abortista. Divino. Maravilloso.  Turolense X tierras Catalanas. Bcn. MadonnaForever.\ud83c\udf89",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": []
+      }
+    },
+    "protected": false,
+    "followers_count": 1143,
+    "friends_count": 973,
+    "listed_count": 28,
+    "created_at": "Sun Apr 10 09:01:38 +0000 2011",
+    "favourites_count": 9572,
+    "utc_offset": 3600,
+    "time_zone": "Amsterdam",
+    "geo_enabled": true,
+    "verified": false,
+    "statuses_count": 50009,
+    "lang": "es",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "is_translation_enabled": false,
+    "profile_background_color": "022330",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+    "profile_background_tile": true,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/958021745755217922/_goq9TM2_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/958021745755217922/_goq9TM2_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/279930425/1506554100",
+    "profile_link_color": "DD2E44",
+    "profile_sidebar_border_color": "A8C7F7",
+    "profile_sidebar_fill_color": "C0DFEC",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "has_extended_profile": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false,
+    "translator_type": "none"
+  },
+  "geo": {
+    "type": "Point",
+    "coordinates": [41.381878, 2.1735]
+  },
+  "coordinates": {
+    "type": "Point",
+    "coordinates": [2.1735, 41.381878]
+  },
+  "place": {
+    "id": "74c8e195422281dd",
+    "url": "https://api.twitter.com/1.1/geo/id/74c8e195422281dd.json",
+    "place_type": "city",
+    "name": "Barcelona",
+    "full_name": "Barcelona, Espa\u00f1a",
+    "country_code": "ES",
+    "country": "Espa\u00f1a",
+    "contained_within": [],
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [[2.0524766, 41.3170475], [2.2299781, 41.3170475], [2.2299781, 41.4682658], [2.0524766, 41.4682658]]
+      ]
+    },
+    "attributes": {}
+  },
+  "contributors": null,
+  "is_quote_status": false,
+  "retweet_count": 0,
+  "favorite_count": 1,
+  "favorited": false,
+  "retweeted": false,
+  "lang": "es"
+}

@@ -1,0 +1,226 @@
+{
+  "is_quote_status": false,
+  "quote_count": 0,
+  "in_reply_to_user_id_str": null,
+  "favorite_count": 0,
+  "in_reply_to_status_id": null,
+  "id_str": "930552948022800385",
+  "filter_level": "low",
+  "reply_count": 0,
+  "timestamp_ms": "1510696086303",
+  "id": 930552948022800385,
+  "display_text_range": [0, 140],
+  "coordinates": null,
+  "in_reply_to_screen_name": null,
+  "truncated": true,
+  "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+  "place": {
+    "bounding_box": {
+      "coordinates": [[[2.052477, 41.317048], [2.052477, 41.468266], [2.229978, 41.468266], [2.229978, 41.317048]]],
+      "type": "Polygon"
+    },
+    "url": "https://api.twitter.com/1.1/geo/id/1a27537478dd8e38.json",
+    "country_code": "ES",
+    "name": "Barcelona",
+    "full_name": "Barcelona, Espa\u00f1a",
+    "id": "1a27537478dd8e38",
+    "place_type": "city",
+    "attributes": {},
+    "country": "Espa\u00f1a"
+  },
+  "retweet_count": 0,
+  "extended_tweet": {
+    "display_text_range": [0, 174],
+    "entities": {
+      "user_mentions": [
+        {
+          "id": 17616840,
+          "screen_name": "elkar",
+          "id_str": "17616840",
+          "indices": [168, 174],
+          "name": "elkar.eus"
+        }
+      ],
+      "urls": [
+        {
+          "expanded_url": "http://Elkar.eus",
+          "url": "https://t.co/LDhLm7kjgf",
+          "indices": [112, 135],
+          "display_url": "Elkar.eus"
+        }, {
+          "expanded_url": "https://www.elkar.eus/eu/liburu_fitxa/escalera-de-damas/palacios-villanueva-miren-e/9788415495680#.WKyZvLHmGDE.twitter",
+          "url": "https://t.co/t0VPYixv80",
+          "indices": [138, 161],
+          "display_url": "elkar.eus/eu/liburu_fitx\u2026"
+        }
+      ],
+      "symbols": [],
+      "hashtags": [
+        {
+          "text": "EscaleraDeDamas",
+          "indices": [0, 16]
+        }, {
+          "text": "leer",
+          "indices": [78, 83]
+        }, {
+          "text": "novela",
+          "indices": [84, 91]
+        }, {
+          "text": "LecturaRecomendada",
+          "indices": [92, 111]
+        }
+      ],
+      "media": [
+        {
+          "media_url_https": "https://pbs.twimg.com/media/DOn8qgnWsAYUen5.jpg",
+          "expanded_url": "https://twitter.com/mirenepalacios/status/930552948022800385/photo/1",
+          "id_str": "930552605268422662",
+          "media_url": "http://pbs.twimg.com/media/DOn8qgnWsAYUen5.jpg",
+          "display_url": "pic.twitter.com/PzxxXiDFq7",
+          "id": 930552605268422662,
+          "indices": [175, 198],
+          "type": "photo",
+          "url": "https://t.co/PzxxXiDFq7",
+          "sizes": {
+            "large": {
+              "resize": "fit",
+              "h": 960,
+              "w": 686
+            },
+            "medium": {
+              "resize": "fit",
+              "h": 960,
+              "w": 686
+            },
+            "thumb": {
+              "resize": "crop",
+              "h": 150,
+              "w": 150
+            },
+            "small": {
+              "resize": "fit",
+              "h": 680,
+              "w": 486
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "media_url_https": "https://pbs.twimg.com/media/DOn8qgnWsAYUen5.jpg",
+          "expanded_url": "https://twitter.com/mirenepalacios/status/930552948022800385/photo/1",
+          "id_str": "930552605268422662",
+          "media_url": "http://pbs.twimg.com/media/DOn8qgnWsAYUen5.jpg",
+          "display_url": "pic.twitter.com/PzxxXiDFq7",
+          "id": 930552605268422662,
+          "indices": [175, 198],
+          "type": "photo",
+          "url": "https://t.co/PzxxXiDFq7",
+          "sizes": {
+            "large": {
+              "resize": "fit",
+              "h": 960,
+              "w": 686
+            },
+            "medium": {
+              "resize": "fit",
+              "h": 960,
+              "w": 686
+            },
+            "thumb": {
+              "resize": "crop",
+              "h": 150,
+              "w": 150
+            },
+            "small": {
+              "resize": "fit",
+              "h": 680,
+              "w": 486
+            }
+          }
+        }
+      ]
+    },
+    "full_text": "#EscaleraDeDamas Trama con intriga, sexo, amor y desamor, pasi\u00f3n y desenfreno #leer #novela #LecturaRecomendada https://t.co/LDhLm7kjgf : https://t.co/t0VPYixv80 \u2026 v\u00eda @elkar https://t.co/PzxxXiDFq7"
+  },
+  "created_at": "Tue Nov 14 21:48:06 +0000 2017",
+  "favorited": false,
+  "text": "#EscaleraDeDamas Trama con intriga, sexo, amor y desamor, pasi\u00f3n y desenfreno #leer #novela #LecturaRecomendada\u2026 https://t.co/LL3V4RGQmA",
+  "in_reply_to_user_id": null,
+  "geo": null,
+  "lang": "es",
+  "contributors": null,
+  "in_reply_to_status_id_str": null,
+  "user": {
+    "protected": false,
+    "following": null,
+    "profile_text_color": "3C3940",
+    "profile_background_color": "0099B9",
+    "statuses_count": 54609,
+    "default_profile": false,
+    "favourites_count": 9273,
+    "friends_count": 900,
+    "follow_request_sent": null,
+    "profile_sidebar_fill_color": "95E8EC",
+    "translator_type": "regular",
+    "notifications": null,
+    "id_str": "258927499",
+    "screen_name": "mirenepalacios",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/258927499/1506633455",
+    "verified": false,
+    "id": 258927499,
+    "profile_use_background_image": true,
+    "description": "Poeta, escritora y miembro de la Editorial Palabras de Agua. Autora de algunos libros, el \u00faltimo #OtraFormaDeVer Gracias,",
+    "utc_offset": -10800,
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+    "is_translator": false,
+    "listed_count": 135,
+    "default_profile_image": false,
+    "contributors_enabled": false,
+    "followers_count": 1417,
+    "location": "Bilbao",
+    "created_at": "Mon Feb 28 20:17:21 +0000 2011",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1265092718/NOV-2009_normal.JPG",
+    "geo_enabled": true,
+    "time_zone": "Greenland",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1265092718/NOV-2009_normal.JPG",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+    "profile_link_color": "398F50",
+    "lang": "es",
+    "name": "miren e. palacios",
+    "profile_background_tile": false,
+    "url": "http://www.mirenepalacios.net",
+    "profile_sidebar_border_color": "5ED4DC"
+  },
+  "possibly_sensitive": false,
+  "entities": {
+    "user_mentions": [],
+    "urls": [
+      {
+        "expanded_url": "https://twitter.com/i/web/status/930552948022800385",
+        "url": "https://t.co/LL3V4RGQmA",
+        "indices": [113, 136],
+        "display_url": "twitter.com/i/web/status/9\u2026"
+      }
+    ],
+    "symbols": [],
+    "hashtags": [
+      {
+        "text": "EscaleraDeDamas",
+        "indices": [0, 16]
+      }, {
+        "text": "leer",
+        "indices": [78, 83]
+      }, {
+        "text": "novela",
+        "indices": [84, 91]
+      }, {
+        "text": "LecturaRecomendada",
+        "indices": [92, 111]
+      }
+    ]
+  },
+  "retweeted": false
+}

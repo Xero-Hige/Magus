@@ -1,0 +1,196 @@
+{
+  "id": 930459471297568768,
+  "lang": "es",
+  "in_reply_to_status_id_str": null,
+  "truncated": true,
+  "place": {
+    "id": "0151a18c54bdbe02",
+    "country": "Venezuela",
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [[-68.076592, 10.441758], [-68.076592, 10.48459], [-68.000618, 10.48459], [-68.000618, 10.441758]]
+      ]
+    },
+    "url": "https://api.twitter.com/1.1/geo/id/0151a18c54bdbe02.json",
+    "full_name": "Puerto Cabello, Venezuela",
+    "attributes": {},
+    "name": "Puerto Cabello",
+    "place_type": "city",
+    "country_code": "VE"
+  },
+  "favorite_count": 0,
+  "retweeted": false,
+  "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+  "is_quote_status": false,
+  "possibly_sensitive": false,
+  "geo": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_status_id": null,
+  "retweet_count": 0,
+  "quote_count": 0,
+  "timestamp_ms": "1510673799715",
+  "favorited": false,
+  "coordinates": null,
+  "filter_level": "low",
+  "entities": {
+    "urls": [
+      {
+        "indices": [117, 140],
+        "display_url": "twitter.com/i/web/status/9\u2026",
+        "url": "https://t.co/bfkmLosGCO",
+        "expanded_url": "https://twitter.com/i/web/status/930459471297568768"
+      }
+    ],
+    "symbols": [],
+    "user_mentions": [],
+    "hashtags": [
+      {
+        "text": "SabiasQue",
+        "indices": [0, 10]
+      }, {
+        "text": "24DeNoviembre",
+        "indices": [15, 29]
+      }
+    ]
+  },
+  "reply_count": 0,
+  "in_reply_to_screen_name": null,
+  "display_text_range": [0, 140],
+  "text": "#SabiasQue Hoy #24DeNoviembre se conmemoran 228 a\u00f1os del natalicio del General Jose Antonio Anzoategui  militar y p\u2026 https://t.co/bfkmLosGCO",
+  "extended_tweet": {
+    "display_text_range": [0, 267],
+    "extended_entities": {
+      "media": [
+        {
+          "id": 930458998050099200,
+          "display_url": "pic.twitter.com/UR8RG2cNwE",
+          "id_str": "930458998050099200",
+          "indices": [268, 291],
+          "expanded_url": "https://twitter.com/cmdnapc/status/930459471297568768/photo/1",
+          "type": "photo",
+          "url": "https://t.co/UR8RG2cNwE",
+          "media_url_https": "https://pbs.twimg.com/media/DOmnh2jXkAAYmNY.jpg",
+          "media_url": "http://pbs.twimg.com/media/DOmnh2jXkAAYmNY.jpg",
+          "sizes": {
+            "small": {
+              "w": 444,
+              "h": 680,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 890,
+              "h": 1364,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 783,
+              "h": 1200,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "entities": {
+      "media": [
+        {
+          "id": 930458998050099200,
+          "display_url": "pic.twitter.com/UR8RG2cNwE",
+          "id_str": "930458998050099200",
+          "indices": [268, 291],
+          "expanded_url": "https://twitter.com/cmdnapc/status/930459471297568768/photo/1",
+          "type": "photo",
+          "url": "https://t.co/UR8RG2cNwE",
+          "media_url_https": "https://pbs.twimg.com/media/DOmnh2jXkAAYmNY.jpg",
+          "media_url": "http://pbs.twimg.com/media/DOmnh2jXkAAYmNY.jpg",
+          "sizes": {
+            "small": {
+              "w": 444,
+              "h": 680,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 890,
+              "h": 1364,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 783,
+              "h": 1200,
+              "resize": "fit"
+            }
+          }
+        }
+      ],
+      "urls": [],
+      "symbols": [],
+      "user_mentions": [],
+      "hashtags": [
+        {
+          "text": "SabiasQue",
+          "indices": [0, 10]
+        }, {
+          "text": "24DeNoviembre",
+          "indices": [15, 29]
+        }
+      ]
+    },
+    "full_text": "#SabiasQue Hoy #24DeNoviembre se conmemoran 228 a\u00f1os del natalicio del General Jose Antonio Anzoategui  militar y pol\u00edtico venezolano pr\u00f3cer de la Independencia de Venezuela, h\u00e9roe del Paso de los Andes y la Batalla de Boyaca, combatio junto a Simon Bolivar y Paez... https://t.co/UR8RG2cNwE"
+  },
+  "user": {
+    "statuses_count": 7284,
+    "id": 2615565858,
+    "default_profile": false,
+    "favourites_count": 2555,
+    "url": null,
+    "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/488714808678563840/d6K9B3vi.jpeg",
+    "verified": false,
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/893476542906593280/ExchIl25_normal.jpg",
+    "translator_type": "none",
+    "location": null,
+    "geo_enabled": true,
+    "utc_offset": null,
+    "notifications": null,
+    "profile_background_tile": false,
+    "friends_count": 831,
+    "is_translator": false,
+    "follow_request_sent": null,
+    "default_profile_image": false,
+    "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/488714808678563840/d6K9B3vi.jpeg",
+    "profile_background_color": "C71034",
+    "profile_link_color": "E81C4F",
+    "profile_use_background_image": true,
+    "time_zone": null,
+    "name": "CMDNA Puerto Cabello",
+    "profile_text_color": "333333",
+    "profile_sidebar_border_color": "FFFFFF",
+    "screen_name": "cmdnapc",
+    "lang": "es",
+    "following": null,
+    "listed_count": 8,
+    "protected": false,
+    "profile_sidebar_fill_color": "DDEEF6",
+    "followers_count": 1691,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/893476542906593280/ExchIl25_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/2615565858/1405016026",
+    "contributors_enabled": false,
+    "created_at": "Thu Jul 10 14:25:38 +0000 2014",
+    "id_str": "2615565858",
+    "description": "Consejo Municipal de Derechos del ni\u00f1o ni\u00f1a y del adolescente de Puerto Cabello, nuestra premisa es el inter\u00e9s superior del ni\u00f1o, ni\u00f1a y del adolescente."
+  },
+  "created_at": "Tue Nov 14 15:36:39 +0000 2017",
+  "id_str": "930459471297568768",
+  "in_reply_to_user_id": null,
+  "contributors": null
+}

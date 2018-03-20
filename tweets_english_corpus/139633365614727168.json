@@ -1,0 +1,117 @@
+{
+  "created_at": "Thu Nov 24 09:16:03 +0000 2011",
+  "id": 139633365614727168,
+  "id_str": "139633365614727168",
+  "text": "Listening to Eternal by Joy Division. Sad, mournful and beautiful all mixed together. #joy division #Ian Curtis",
+  "truncated": false,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "joy",
+        "indices": [86, 90]
+      }, {
+        "text": "Ian",
+        "indices": [100, 104]
+      }
+    ],
+    "symbols": [],
+    "user_mentions": [],
+    "urls": []
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 203271559,
+    "id_str": "203271559",
+    "name": "jason willson",
+    "screen_name": "tuggyj",
+    "location": "Near London",
+    "description": "Cappuccinos, TubeRage, LFC (YNWA), Music (Love the Arctic Monkeys), Documentaries. That is all. And You Are?",
+    "url": "https://t.co/NMuZUNfJNt",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "https://t.co/NMuZUNfJNt",
+            "expanded_url": "http://www.themdigital.co.uk",
+            "display_url": "themdigital.co.uk",
+            "indices": [0, 23]
+          }
+        ]
+      },
+      "description": {
+        "urls": []
+      }
+    },
+    "protected": false,
+    "followers_count": 2201,
+    "friends_count": 1833,
+    "listed_count": 35,
+    "created_at": "Fri Oct 15 22:34:00 +0000 2010",
+    "favourites_count": 150,
+    "utc_offset": 0,
+    "time_zone": "Casablanca",
+    "geo_enabled": true,
+    "verified": false,
+    "statuses_count": 9596,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "is_translation_enabled": false,
+    "profile_background_color": "131516",
+    "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/370150050/images.png",
+    "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/370150050/images.png",
+    "profile_background_tile": true,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/687554851925024768/DuqKZT5s_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/687554851925024768/DuqKZT5s_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/203271559/1351467480",
+    "profile_link_color": "009999",
+    "profile_sidebar_border_color": "EEEEEE",
+    "profile_sidebar_fill_color": "EFEFEF",
+    "profile_text_color": "D11313",
+    "profile_use_background_image": true,
+    "has_extended_profile": false,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false,
+    "translator_type": "none"
+  },
+  "geo": {
+    "type": "Point",
+    "coordinates": [51.52031669, -0.09719757]
+  },
+  "coordinates": {
+    "type": "Point",
+    "coordinates": [-0.09719757, 51.52031669]
+  },
+  "place": {
+    "id": "283175923e0da726",
+    "url": "https://api.twitter.com/1.1/geo/id/283175923e0da726.json",
+    "place_type": "admin",
+    "name": "Londres",
+    "full_name": "Londres, Inglaterra",
+    "country_code": "GB",
+    "country": "Reino Unido",
+    "contained_within": [],
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [[-0.5093057, 51.286606], [0.334433, 51.286606], [0.334433, 51.6916388], [-0.5093057, 51.6916388]]
+      ]
+    },
+    "attributes": {}
+  },
+  "contributors": null,
+  "is_quote_status": false,
+  "retweet_count": 0,
+  "favorite_count": 0,
+  "favorited": false,
+  "retweeted": false,
+  "lang": "en"
+}

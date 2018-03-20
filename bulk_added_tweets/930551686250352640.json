@@ -1,0 +1,115 @@
+{
+  "is_quote_status": false,
+  "in_reply_to_user_id_str": null,
+  "created_at": "Tue Nov 14 21:43:05 +0000 2017",
+  "favorite_count": 0,
+  "in_reply_to_status_id": null,
+  "id_str": "930551686250352640",
+  "filter_level": "low",
+  "reply_count": 0,
+  "timestamp_ms": "1510695785473",
+  "id": 930551686250352640,
+  "coordinates": null,
+  "in_reply_to_screen_name": null,
+  "truncated": true,
+  "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+  "place": {
+    "bounding_box": {
+      "coordinates": [
+        [[-70.210918, -21.438447], [-70.210918, -20.065133], [-69.821905, -20.065133], [-69.821905, -21.438447]]
+      ],
+      "type": "Polygon"
+    },
+    "url": "https://api.twitter.com/1.1/geo/id/014f394f11cda9e4.json",
+    "country_code": "CL",
+    "name": "Iquique",
+    "full_name": "Iquique, Chile",
+    "id": "014f394f11cda9e4",
+    "place_type": "city",
+    "attributes": {},
+    "country": "Chile"
+  },
+  "retweet_count": 0,
+  "extended_tweet": {
+    "display_text_range": [0, 142],
+    "entities": {
+      "user_mentions": [],
+      "urls": [],
+      "symbols": [],
+      "hashtags": [
+        {
+          "text": "FeaLatitud",
+          "indices": [0, 11]
+        }
+      ]
+    },
+    "full_text": "#FeaLatitud primera vez q veo el programa muy bueno los animadores me encantaron. El se\u00f1or del pelo crespo buen entrevistador combinando todo."
+  },
+  "quote_count": 0,
+  "favorited": false,
+  "text": "#FeaLatitud primera vez q veo el programa muy bueno los animadores me encantaron. El se\u00f1or del pelo crespo buen ent\u2026 https://t.co/r9V2KgZnsc",
+  "in_reply_to_user_id": null,
+  "geo": null,
+  "lang": "es",
+  "contributors": null,
+  "in_reply_to_status_id_str": null,
+  "user": {
+    "protected": false,
+    "following": null,
+    "profile_text_color": "333333",
+    "profile_background_color": "F5F8FA",
+    "statuses_count": 2029,
+    "default_profile": true,
+    "favourites_count": 7624,
+    "friends_count": 161,
+    "follow_request_sent": null,
+    "profile_sidebar_fill_color": "DDEEF6",
+    "translator_type": "none",
+    "notifications": null,
+    "id_str": "834187728816324609",
+    "screen_name": "paolava46181272",
+    "verified": false,
+    "id": 834187728816324609,
+    "profile_use_background_image": true,
+    "description": "TRABAJADORA   SOCIAL  \n\nCOMUNICADORA SOCIAL\n\n\n\nCRUZADA A MORIR\n\n\nAmo a Dios y A mis hijos",
+    "utc_offset": null,
+    "profile_background_image_url_https": "",
+    "is_translator": false,
+    "listed_count": 0,
+    "default_profile_image": false,
+    "contributors_enabled": false,
+    "followers_count": 145,
+    "location": "Iquique, Chile",
+    "created_at": "Tue Feb 21 23:47:07 +0000 2017",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/891819238415118340/XewTHtq-_normal.jpg",
+    "geo_enabled": true,
+    "time_zone": null,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/891819238415118340/XewTHtq-_normal.jpg",
+    "profile_background_image_url": "",
+    "profile_link_color": "1DA1F2",
+    "lang": "es",
+    "name": "Xi Paola valdes",
+    "profile_background_tile": false,
+    "url": null,
+    "profile_sidebar_border_color": "C0DEED"
+  },
+  "entities": {
+    "user_mentions": [],
+    "urls": [
+      {
+        "expanded_url": "https://twitter.com/i/web/status/930551686250352640",
+        "url": "https://t.co/r9V2KgZnsc",
+        "indices": [117, 140],
+        "display_url": "twitter.com/i/web/status/9\u2026"
+      }
+    ],
+    "symbols": [],
+    "hashtags": [
+      {
+        "text": "FeaLatitud",
+        "indices": [0, 11]
+      }
+    ]
+  },
+  "retweeted": false
+}

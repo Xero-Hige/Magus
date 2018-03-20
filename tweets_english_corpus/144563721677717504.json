@@ -1,0 +1,104 @@
+{
+  "created_at": "Wed Dec 07 23:47:31 +0000 2011",
+  "id": 144563721677717504,
+  "id_str": "144563721677717504",
+  "text": "Sandwich....making me a sandwich. Alone :'( #sadness",
+  "truncated": false,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "sadness",
+        "indices": [44, 52]
+      }
+    ],
+    "symbols": [],
+    "user_mentions": [],
+    "urls": []
+  },
+  "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 26245133,
+    "id_str": "26245133",
+    "name": "Lauren Gonzales",
+    "screen_name": "theycallme_lg",
+    "location": "Texas",
+    "description": "I'm like the bottle. You need a 12 step program to break my spell.",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": []
+      }
+    },
+    "protected": false,
+    "followers_count": 50,
+    "friends_count": 155,
+    "listed_count": 2,
+    "created_at": "Tue Mar 24 14:20:37 +0000 2009",
+    "favourites_count": 731,
+    "utc_offset": -21600,
+    "time_zone": "Central Time (US & Canada)",
+    "geo_enabled": true,
+    "verified": false,
+    "statuses_count": 2435,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "is_translation_enabled": false,
+    "profile_background_color": "8C8B91",
+    "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000111379781/27d7957afe5be633f88d4f9dcdb65871.png",
+    "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000111379781/27d7957afe5be633f88d4f9dcdb65871.png",
+    "profile_background_tile": true,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/378800000476515089/edaafdcda29c207fb8a26da1072fe207_normal.jpeg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000476515089/edaafdcda29c207fb8a26da1072fe207_normal.jpeg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/26245133/1383850174",
+    "profile_link_color": "D4D4D4",
+    "profile_sidebar_border_color": "68FA04",
+    "profile_sidebar_fill_color": "1D1D1D",
+    "profile_text_color": "892DD8",
+    "profile_use_background_image": true,
+    "has_extended_profile": false,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false,
+    "translator_type": "none"
+  },
+  "geo": {
+    "type": "Point",
+    "coordinates": [29.829255, -95.50739025]
+  },
+  "coordinates": {
+    "type": "Point",
+    "coordinates": [-95.50739025, 29.829255]
+  },
+  "place": {
+    "id": "1c69a67ad480e1b1",
+    "url": "https://api.twitter.com/1.1/geo/id/1c69a67ad480e1b1.json",
+    "place_type": "city",
+    "name": "Houston",
+    "full_name": "Houston, TX",
+    "country_code": "US",
+    "country": "Estados Unidos",
+    "contained_within": [],
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [[-95.823268, 29.522325], [-95.069705, 29.522325], [-95.069705, 30.1546646], [-95.823268, 30.1546646]]
+      ]
+    },
+    "attributes": {}
+  },
+  "contributors": null,
+  "is_quote_status": false,
+  "retweet_count": 0,
+  "favorite_count": 0,
+  "favorited": false,
+  "retweeted": false,
+  "lang": "en"
+}

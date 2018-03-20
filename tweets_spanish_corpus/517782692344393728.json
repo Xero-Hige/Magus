@@ -1,0 +1,121 @@
+{
+  "created_at": "Thu Oct 02 21:06:28 +0000 2014",
+  "id": 517782692344393728,
+  "id_str": "517782692344393728",
+  "text": "\"@CosasEnAbandono: Pasillo de un hospital abandonado en Madrid. http://t.co/bsS2Yp4Ng4\" buuu vamos? jajaja #miedo @GonzaloCarranza",
+  "truncated": false,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "miedo",
+        "indices": [107, 113]
+      }
+    ],
+    "symbols": [],
+    "user_mentions": [
+      {
+        "screen_name": "GonzaloCarranza",
+        "name": "Gonza",
+        "id": 146014229,
+        "id_str": "146014229",
+        "indices": [114, 130]
+      }
+    ],
+    "urls": [
+      {
+        "url": "http://t.co/bsS2Yp4Ng4",
+        "expanded_url": "https://twitter.com/CosasEnAbandono/status/509839620780359682/photo/1",
+        "display_url": "pic.twitter.com/bsS2Yp4Ng4",
+        "indices": [64, 86]
+      }
+    ]
+  },
+  "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 419486067,
+    "id_str": "419486067",
+    "name": "Lucas .",
+    "screen_name": "lucasmillo9",
+    "location": "TRAVEL \u2708",
+    "description": "River Plate - Pipa pasi\u00f3n - marketing\u0337\u0337",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": []
+      }
+    },
+    "protected": false,
+    "followers_count": 402,
+    "friends_count": 987,
+    "listed_count": 13,
+    "created_at": "Wed Nov 23 12:13:10 +0000 2011",
+    "favourites_count": 6391,
+    "utc_offset": -10800,
+    "time_zone": "Santiago",
+    "geo_enabled": true,
+    "verified": false,
+    "statuses_count": 8001,
+    "lang": "es",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "is_translation_enabled": false,
+    "profile_background_color": "C0DEED",
+    "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/377602651/monumentallll.jpg",
+    "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/377602651/monumentallll.jpg",
+    "profile_background_tile": true,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/746736837759279104/0_vCjCP1_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/746736837759279104/0_vCjCP1_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/419486067/1462662109",
+    "profile_link_color": "0084B4",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "has_extended_profile": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false,
+    "translator_type": "none"
+  },
+  "geo": {
+    "type": "Point",
+    "coordinates": [-34.7732142, -58.3937354]
+  },
+  "coordinates": {
+    "type": "Point",
+    "coordinates": [-58.3937354, -34.7732142]
+  },
+  "place": {
+    "id": "000ceddc32916a4c",
+    "url": "https://api.twitter.com/1.1/geo/id/000ceddc32916a4c.json",
+    "place_type": "city",
+    "name": "Lomas de Zamora",
+    "full_name": "Lomas de Zamora, Argentina",
+    "country_code": "AR",
+    "country": "Argentina",
+    "contained_within": [],
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [[-58.500948, -34.817177], [-58.336764, -34.817177], [-58.336764, -34.688414], [-58.500948, -34.688414]]
+      ]
+    },
+    "attributes": {}
+  },
+  "contributors": null,
+  "is_quote_status": false,
+  "retweet_count": 0,
+  "favorite_count": 1,
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false,
+  "possibly_sensitive_appealable": false,
+  "lang": "es"
+}

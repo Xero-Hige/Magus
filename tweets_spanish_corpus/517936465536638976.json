@@ -1,0 +1,104 @@
+{
+  "created_at": "Fri Oct 03 07:17:30 +0000 2014",
+  "id": 517936465536638976,
+  "id_str": "517936465536638976",
+  "text": "Hoy primer examen de la carrera #Miedo :S",
+  "truncated": false,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "Miedo",
+        "indices": [32, 38]
+      }
+    ],
+    "symbols": [],
+    "user_mentions": [],
+    "urls": []
+  },
+  "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 273471846,
+    "id_str": "273471846",
+    "name": "Manuela",
+    "screen_name": "Manuelita_Ruiz",
+    "location": "",
+    "description": "Estas loco, pero te dire un secreto, las mejores personas lo est\u00e1n.",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": []
+      }
+    },
+    "protected": false,
+    "followers_count": 510,
+    "friends_count": 484,
+    "listed_count": 0,
+    "created_at": "Mon Mar 28 15:17:18 +0000 2011",
+    "favourites_count": 536,
+    "utc_offset": -10800,
+    "time_zone": "Greenland",
+    "geo_enabled": true,
+    "verified": false,
+    "statuses_count": 6460,
+    "lang": "es",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "is_translation_enabled": false,
+    "profile_background_color": "ACDED6",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+    "profile_background_tile": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/660037610732199936/PYSw3sY4_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/660037610732199936/PYSw3sY4_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/273471846/1414436518",
+    "profile_link_color": "038543",
+    "profile_sidebar_border_color": "EEEEEE",
+    "profile_sidebar_fill_color": "F6F6F6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "has_extended_profile": false,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false,
+    "translator_type": "none"
+  },
+  "geo": {
+    "type": "Point",
+    "coordinates": [40.4469613, -3.7323223]
+  },
+  "coordinates": {
+    "type": "Point",
+    "coordinates": [-3.7323223, 40.4469613]
+  },
+  "place": {
+    "id": "206c436ce43a43a3",
+    "url": "https://api.twitter.com/1.1/geo/id/206c436ce43a43a3.json",
+    "place_type": "city",
+    "name": "Madrid",
+    "full_name": "Madrid, Espa\u00f1a",
+    "country_code": "ES",
+    "country": "Espa\u00f1a",
+    "contained_within": [],
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [[-3.8890049, 40.3120713], [-3.5180102, 40.3120713], [-3.5180102, 40.6435181], [-3.8890049, 40.6435181]]
+      ]
+    },
+    "attributes": {}
+  },
+  "contributors": null,
+  "is_quote_status": false,
+  "retweet_count": 0,
+  "favorite_count": 2,
+  "favorited": false,
+  "retweeted": false,
+  "lang": "es"
+}

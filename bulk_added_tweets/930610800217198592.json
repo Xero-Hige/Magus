@@ -1,0 +1,103 @@
+{
+  "geo": {
+    "type": "Point",
+    "coordinates": [-33.4177, -70.6564]
+  },
+  "filter_level": "low",
+  "in_reply_to_status_id": null,
+  "lang": "es",
+  "favorite_count": 0,
+  "coordinates": {
+    "type": "Point",
+    "coordinates": [-70.6564, -33.4177]
+  },
+  "favorited": false,
+  "place": {
+    "name": "Independencia",
+    "full_name": "Independencia, Chile",
+    "place_type": "city",
+    "country": "Chile",
+    "id": "004da7ab4e8c1ab5",
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [[-70.683075, -33.431842], [-70.683075, -33.398912], [-70.651278, -33.398912], [-70.651278, -33.431842]]
+      ]
+    },
+    "attributes": {},
+    "url": "https://api.twitter.com/1.1/geo/id/004da7ab4e8c1ab5.json",
+    "country_code": "CL"
+  },
+  "contributors": null,
+  "entities": {
+    "hashtags": [],
+    "urls": [
+      {
+        "display_url": "central132.cl/llamado-130928\u2026",
+        "expanded_url": "https://central132.cl/llamado-130928?1",
+        "url": "https://t.co/1z4uHQs99A",
+        "indices": [97, 120]
+      }
+    ],
+    "symbols": [],
+    "user_mentions": []
+  },
+  "id": 930610800217198592,
+  "possibly_sensitive": false,
+  "user": {
+    "followers_count": 2718,
+    "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/627161174036115457/G6p-AUk8.jpg",
+    "profile_background_color": "FA743E",
+    "translator_type": "none",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/488878439727128576/jxGxDqAB_normal.jpeg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/2425869112/1438361480",
+    "default_profile": false,
+    "utc_offset": null,
+    "lang": "es",
+    "url": "http://www.novenacbms.cl",
+    "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/627161174036115457/G6p-AUk8.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/488878439727128576/jxGxDqAB_normal.jpeg",
+    "time_zone": null,
+    "profile_sidebar_border_color": "000000",
+    "profile_use_background_image": true,
+    "id": 2425869112,
+    "profile_link_color": "FA743E",
+    "profile_sidebar_fill_color": "000000",
+    "profile_background_tile": false,
+    "geo_enabled": true,
+    "id_str": "2425869112",
+    "verified": false,
+    "name": "Novena Cbms",
+    "is_translator": false,
+    "notifications": null,
+    "following": null,
+    "friends_count": 1086,
+    "contributors_enabled": false,
+    "screen_name": "novenacbms",
+    "created_at": "Fri Mar 21 00:58:00 +0000 2014",
+    "profile_text_color": "000000",
+    "favourites_count": 38,
+    "follow_request_sent": null,
+    "description": "Novena compa\u00f1ia fundada el 1 de agosto de 1964 ubicada en la comuna de lo espejo. Protecci\u00f3n y lealtad",
+    "default_profile_image": false,
+    "location": null,
+    "listed_count": 26,
+    "protected": false,
+    "statuses_count": 48240
+  },
+  "id_str": "930610800217198592",
+  "retweet_count": 0,
+  "retweeted": false,
+  "quote_count": 0,
+  "truncated": false,
+  "in_reply_to_status_id_str": null,
+  "reply_count": 0,
+  "created_at": "Wed Nov 15 01:37:59 +0000 2017",
+  "is_quote_status": false,
+  "in_reply_to_user_id": null,
+  "source": "<a href=\"https://central132.cl\" rel=\"nofollow\">Central132</a>",
+  "text": "22:37 en Independencia Rescate de personas (10-3-1) RX8 Profesor Alberto Za\u00f1artu y Independencia https://t.co/1z4uHQs99A",
+  "timestamp_ms": "1510709879341",
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null
+}

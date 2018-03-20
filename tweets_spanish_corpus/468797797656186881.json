@@ -1,0 +1,122 @@
+{
+  "created_at": "Tue May 20 16:57:59 +0000 2014",
+  "id": 468797797656186881,
+  "id_str": "468797797656186881",
+  "text": "Hoy lo nombramos tanto que acabo de ver publicidad del Sr. Agradable. @Maxi_Solito #MIEDO",
+  "truncated": false,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "MIEDO",
+        "indices": [83, 89]
+      }
+    ],
+    "symbols": [],
+    "user_mentions": [
+      {
+        "screen_name": "Maxi_Solito",
+        "name": "Maximiliano Solito",
+        "id": 426901863,
+        "id_str": "426901863",
+        "indices": [70, 82]
+      }
+    ],
+    "urls": []
+  },
+  "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 112001608,
+    "id_str": "112001608",
+    "name": "Fabi",
+    "screen_name": "FabiiBarrios",
+    "location": "\u2764 Salta, Argentina",
+    "description": "Mejor que decir es hacer, mejor que prometer es realizar. J. D. Per\u00f3n - #Peronista #Militante.",
+    "url": "https://t.co/PtrozvTcoI",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "https://t.co/PtrozvTcoI",
+            "expanded_url": "http://misionubuntu.org",
+            "display_url": "misionubuntu.org",
+            "indices": [0, 23]
+          }
+        ]
+      },
+      "description": {
+        "urls": []
+      }
+    },
+    "protected": false,
+    "followers_count": 678,
+    "friends_count": 993,
+    "listed_count": 17,
+    "created_at": "Sat Feb 06 22:45:33 +0000 2010",
+    "favourites_count": 26047,
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": true,
+    "verified": false,
+    "statuses_count": 20299,
+    "lang": "es",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "is_translation_enabled": false,
+    "profile_background_color": "F73B90",
+    "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000150940002/To9_D5ru.jpeg",
+    "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000150940002/To9_D5ru.jpeg",
+    "profile_background_tile": true,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/947005199511621632/WfzcgfdD_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/947005199511621632/WfzcgfdD_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/112001608/1481177095",
+    "profile_link_color": "C40F8B",
+    "profile_sidebar_border_color": "FFFFFF",
+    "profile_sidebar_fill_color": "28165E",
+    "profile_text_color": "8937C7",
+    "profile_use_background_image": true,
+    "has_extended_profile": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false,
+    "translator_type": "none"
+  },
+  "geo": {
+    "type": "Point",
+    "coordinates": [-24.7672733, -65.3964201]
+  },
+  "coordinates": {
+    "type": "Point",
+    "coordinates": [-65.3964201, -24.7672733]
+  },
+  "place": {
+    "id": "5482108831148f3c",
+    "url": "https://api.twitter.com/1.1/geo/id/5482108831148f3c.json",
+    "place_type": "admin",
+    "name": "Salta",
+    "full_name": "Salta, Argentina",
+    "country_code": "AR",
+    "country": "Argentina",
+    "contained_within": [],
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [[-68.568189, -26.398268], [-62.344366, -26.398268], [-62.344366, -21.996869], [-68.568189, -21.996869]]
+      ]
+    },
+    "attributes": {}
+  },
+  "contributors": null,
+  "is_quote_status": false,
+  "retweet_count": 0,
+  "favorite_count": 2,
+  "favorited": false,
+  "retweeted": false,
+  "lang": "es"
+}

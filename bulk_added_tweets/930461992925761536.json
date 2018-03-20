@@ -1,0 +1,191 @@
+{
+  "id": 930461992925761536,
+  "lang": "es",
+  "in_reply_to_status_id_str": null,
+  "truncated": true,
+  "place": {
+    "id": "3d90175134f017a1",
+    "country": "Espa\u00f1a",
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [[[-4.320559, 39.962485], [-4.320559, 40.007441], [-4.247767, 40.007441], [-4.247767, 39.962485]]]
+    },
+    "url": "https://api.twitter.com/1.1/geo/id/3d90175134f017a1.json",
+    "full_name": "Torrijos, Espa\u00f1a",
+    "attributes": {},
+    "name": "Torrijos",
+    "place_type": "city",
+    "country_code": "ES"
+  },
+  "favorite_count": 0,
+  "retweeted": false,
+  "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+  "is_quote_status": false,
+  "possibly_sensitive": false,
+  "geo": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_status_id": null,
+  "retweet_count": 0,
+  "quote_count": 0,
+  "timestamp_ms": "1510674400918",
+  "favorited": false,
+  "coordinates": null,
+  "filter_level": "low",
+  "entities": {
+    "urls": [
+      {
+        "indices": [117, 140],
+        "display_url": "twitter.com/i/web/status/9\u2026",
+        "url": "https://t.co/GijjvckIau",
+        "expanded_url": "https://twitter.com/i/web/status/930461992925761536"
+      }
+    ],
+    "symbols": [],
+    "user_mentions": [],
+    "hashtags": [
+      {
+        "text": "Torrijos",
+        "indices": [65, 74]
+      }
+    ]
+  },
+  "reply_count": 0,
+  "in_reply_to_screen_name": null,
+  "display_text_range": [0, 140],
+  "text": "Esto es lo realmente gastado del PLAN de ORDENACI\u00d3N MUNICIPAL de #Torrijos, a fecha de 21/11/2017. Seguiremos infor\u2026 https://t.co/GijjvckIau",
+  "extended_tweet": {
+    "display_text_range": [0, 139],
+    "extended_entities": {
+      "media": [
+        {
+          "id": 930461975687192577,
+          "display_url": "pic.twitter.com/3nMML1lC4I",
+          "id_str": "930461975687192577",
+          "indices": [140, 163],
+          "expanded_url": "https://twitter.com/NastaAlcalde/status/930461992925761536/photo/1",
+          "type": "photo",
+          "url": "https://t.co/3nMML1lC4I",
+          "media_url_https": "https://pbs.twimg.com/media/DOmqPLHX4AETsyS.jpg",
+          "media_url": "http://pbs.twimg.com/media/DOmqPLHX4AETsyS.jpg",
+          "sizes": {
+            "small": {
+              "w": 680,
+              "h": 340,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 2000,
+              "h": 1000,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 1200,
+              "h": 600,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "entities": {
+      "media": [
+        {
+          "id": 930461975687192577,
+          "display_url": "pic.twitter.com/3nMML1lC4I",
+          "id_str": "930461975687192577",
+          "indices": [140, 163],
+          "expanded_url": "https://twitter.com/NastaAlcalde/status/930461992925761536/photo/1",
+          "type": "photo",
+          "url": "https://t.co/3nMML1lC4I",
+          "media_url_https": "https://pbs.twimg.com/media/DOmqPLHX4AETsyS.jpg",
+          "media_url": "http://pbs.twimg.com/media/DOmqPLHX4AETsyS.jpg",
+          "sizes": {
+            "small": {
+              "w": 680,
+              "h": 340,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 2000,
+              "h": 1000,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 1200,
+              "h": 600,
+              "resize": "fit"
+            }
+          }
+        }
+      ],
+      "urls": [],
+      "symbols": [],
+      "user_mentions": [],
+      "hashtags": [
+        {
+          "text": "Torrijos",
+          "indices": [65, 74]
+        }, {
+          "text": "HaciendoTorrijos",
+          "indices": [122, 139]
+        }
+      ]
+    },
+    "full_text": "Esto es lo realmente gastado del PLAN de ORDENACI\u00d3N MUNICIPAL de #Torrijos, a fecha de 21/11/2017. Seguiremos informando. #HaciendoTorrijos https://t.co/3nMML1lC4I"
+  },
+  "user": {
+    "statuses_count": 1003,
+    "id": 3044583821,
+    "default_profile": false,
+    "favourites_count": 565,
+    "url": "http://psoe-torrijos.es/",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "verified": false,
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/867385153269755904/Wx8wqqm3_normal.jpg",
+    "translator_type": "none",
+    "location": null,
+    "geo_enabled": true,
+    "utc_offset": 3600,
+    "notifications": null,
+    "profile_background_tile": false,
+    "friends_count": 381,
+    "is_translator": false,
+    "follow_request_sent": null,
+    "default_profile_image": false,
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_color": "000000",
+    "profile_link_color": "DF0024",
+    "profile_use_background_image": false,
+    "time_zone": "Madrid",
+    "name": "Anastasio Arevalillo",
+    "profile_text_color": "000000",
+    "profile_sidebar_border_color": "000000",
+    "screen_name": "NastaAlcalde",
+    "lang": "es",
+    "following": null,
+    "listed_count": 4,
+    "protected": false,
+    "profile_sidebar_fill_color": "000000",
+    "followers_count": 586,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/867385153269755904/Wx8wqqm3_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/3044583821/1426113504",
+    "contributors_enabled": false,
+    "created_at": "Wed Feb 18 11:29:16 +0000 2015",
+    "id_str": "3044583821",
+    "description": "Anastasio Arevalillo Mart\u00edn, alcalde socialista de #Torrijos. Ldo en Humanidades y Tco. Sup. Administraci\u00f3n y Finanzas. #HaciendoTorrijos #SiempreFuerte"
+  },
+  "created_at": "Tue Nov 14 15:46:40 +0000 2017",
+  "id_str": "930461992925761536",
+  "in_reply_to_user_id": null,
+  "contributors": null
+}

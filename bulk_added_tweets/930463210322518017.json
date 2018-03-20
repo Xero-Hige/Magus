@@ -1,0 +1,133 @@
+{
+  "id": 930463210322518017,
+  "lang": "es",
+  "in_reply_to_status_id_str": "930326264019374081",
+  "truncated": true,
+  "place": {
+    "id": "1a27537478dd8e38",
+    "country": "Spain",
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [[[2.052477, 41.317048], [2.052477, 41.468266], [2.229978, 41.468266], [2.229978, 41.317048]]]
+    },
+    "url": "https://api.twitter.com/1.1/geo/id/1a27537478dd8e38.json",
+    "full_name": "Barcelona, Spain",
+    "attributes": {},
+    "name": "Barcelona",
+    "place_type": "city",
+    "country_code": "ES"
+  },
+  "favorite_count": 0,
+  "retweeted": false,
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "is_quote_status": false,
+  "in_reply_to_status_id": 930326264019374081,
+  "in_reply_to_user_id_str": "249294214",
+  "in_reply_to_screen_name": "mariadolorsa",
+  "retweet_count": 0,
+  "quote_count": 0,
+  "timestamp_ms": "1510674691168",
+  "favorited": false,
+  "coordinates": null,
+  "filter_level": "low",
+  "entities": {
+    "urls": [
+      {
+        "indices": [117, 140],
+        "display_url": "twitter.com/i/web/status/9\u2026",
+        "url": "https://t.co/jYfczIPw6t",
+        "expanded_url": "https://twitter.com/i/web/status/930463210322518017"
+      }
+    ],
+    "symbols": [],
+    "user_mentions": [
+      {
+        "screen_name": "mariadolorsa",
+        "id": 249294214,
+        "name": "Dolors Sabater Puig",
+        "indices": [0, 13],
+        "id_str": "249294214"
+      }, {
+        "screen_name": "gutbrero",
+        "id": 637115623,
+        "name": "Sergi",
+        "indices": [14, 23],
+        "id_str": "637115623"
+      }
+    ],
+    "hashtags": []
+  },
+  "reply_count": 0,
+  "geo": null,
+  "display_text_range": [24, 140],
+  "text": "@mariadolorsa @gutbrero Y al govern no se le piden explicaciones?? Xq bien bien tampoco creo q lo hayan hecho ... s\u2026 https://t.co/jYfczIPw6t",
+  "extended_tweet": {
+    "display_text_range": [24, 304],
+    "entities": {
+      "urls": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "screen_name": "mariadolorsa",
+          "id": 249294214,
+          "name": "Dolors Sabater Puig",
+          "indices": [0, 13],
+          "id_str": "249294214"
+        }, {
+          "screen_name": "gutbrero",
+          "id": 637115623,
+          "name": "Sergi",
+          "indices": [14, 23],
+          "id_str": "637115623"
+        }
+      ],
+      "hashtags": []
+    },
+    "full_text": "@mariadolorsa @gutbrero Y al govern no se le piden explicaciones?? Xq bien bien tampoco creo q lo hayan hecho ... saltarse retiradamente  la ley para defender las ideas de una parte sin contar con otros no es muy democr\u00e1tico... Y usted es alcaldesa de todos o solo de los que piensa como usted?? Pregunto"
+  },
+  "user": {
+    "statuses_count": 3097,
+    "id": 58768728,
+    "default_profile": true,
+    "favourites_count": 4045,
+    "url": null,
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "verified": false,
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/926936723589869570/mN3ug6BR_normal.jpg",
+    "translator_type": "none",
+    "location": null,
+    "geo_enabled": true,
+    "utc_offset": null,
+    "notifications": null,
+    "profile_background_tile": false,
+    "friends_count": 196,
+    "is_translator": false,
+    "follow_request_sent": null,
+    "default_profile_image": false,
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_color": "C0DEED",
+    "profile_link_color": "1DA1F2",
+    "profile_use_background_image": true,
+    "time_zone": null,
+    "name": "asgr",
+    "profile_text_color": "333333",
+    "profile_sidebar_border_color": "C0DEED",
+    "screen_name": "anasgr",
+    "lang": "en",
+    "following": null,
+    "listed_count": 1,
+    "protected": false,
+    "profile_sidebar_fill_color": "DDEEF6",
+    "followers_count": 121,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/926936723589869570/mN3ug6BR_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/58768728/1509747021",
+    "contributors_enabled": false,
+    "created_at": "Tue Jul 21 11:15:54 +0000 2009",
+    "id_str": "58768728",
+    "description": "persona (o al menos lo intento)"
+  },
+  "created_at": "Tue Nov 14 15:51:31 +0000 2017",
+  "id_str": "930463210322518017",
+  "in_reply_to_user_id": 249294214,
+  "contributors": null
+}

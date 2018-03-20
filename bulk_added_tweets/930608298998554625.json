@@ -1,0 +1,127 @@
+{
+  "geo": null,
+  "filter_level": "low",
+  "in_reply_to_status_id": null,
+  "lang": "es",
+  "favorite_count": 0,
+  "coordinates": null,
+  "favorited": false,
+  "place": {
+    "name": "Chubut",
+    "full_name": "Chubut, Argentina",
+    "place_type": "admin",
+    "country": "Argentina",
+    "id": "789cbde0feb1d0e2",
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [[-72.187898, -46.006904], [-72.187898, -41.996417], [-63.580185, -41.996417], [-63.580185, -46.006904]]
+      ]
+    },
+    "attributes": {},
+    "url": "https://api.twitter.com/1.1/geo/id/789cbde0feb1d0e2.json",
+    "country_code": "AR"
+  },
+  "contributors": null,
+  "entities": {
+    "hashtags": [],
+    "urls": [
+      {
+        "display_url": "twitter.com/i/web/status/9\u2026",
+        "expanded_url": "https://twitter.com/i/web/status/930608298998554625",
+        "url": "https://t.co/MJiBQpNOnf",
+        "indices": [116, 139]
+      }
+    ],
+    "symbols": [],
+    "user_mentions": [
+      {
+        "id": 709800285108105216,
+        "id_str": "709800285108105216",
+        "name": "Jorge Fern\u00e1ndez D\u00edaz",
+        "indices": [0, 16],
+        "screen_name": "fernandezdiazok"
+      }
+    ]
+  },
+  "id": 930608298998554625,
+  "user": {
+    "followers_count": 707,
+    "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/534351906/razon.jpg",
+    "profile_background_color": "352726",
+    "translator_type": "none",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/808744687364374528/18udb0mL_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/57546703/1494719042",
+    "default_profile": false,
+    "utc_offset": -10800,
+    "lang": "en",
+    "url": null,
+    "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/534351906/razon.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/808744687364374528/18udb0mL_normal.jpg",
+    "time_zone": "Buenos Aires",
+    "profile_sidebar_border_color": "829D5E",
+    "profile_use_background_image": true,
+    "id": 57546703,
+    "profile_link_color": "D02B55",
+    "profile_sidebar_fill_color": "99CC33",
+    "profile_background_tile": false,
+    "geo_enabled": true,
+    "id_str": "57546703",
+    "verified": false,
+    "name": "Mar\u00eda Giselle Castro",
+    "is_translator": false,
+    "notifications": null,
+    "following": null,
+    "friends_count": 1250,
+    "contributors_enabled": false,
+    "screen_name": "PatagoniaARG",
+    "created_at": "Fri Jul 17 04:03:11 +0000 2009",
+    "profile_text_color": "3E4415",
+    "favourites_count": 4605,
+    "follow_request_sent": null,
+    "description": "Periodista (UNLP). Entre 1990 y 2007 fui feliz en La Naci\u00f3n. Despu\u00e9s, dej\u00e9 las luces de Bs. As. y vine a poblar el sur. Las opiniones son m\u00edas (de qui\u00e9n si no)",
+    "default_profile_image": false,
+    "location": "Trelew . Chubut ",
+    "listed_count": 26,
+    "protected": false,
+    "statuses_count": 7412
+  },
+  "id_str": "930608298998554625",
+  "retweet_count": 0,
+  "retweeted": false,
+  "quote_count": 0,
+  "truncated": true,
+  "in_reply_to_status_id_str": null,
+  "reply_count": 0,
+  "created_at": "Wed Nov 15 01:28:03 +0000 2017",
+  "is_quote_status": false,
+  "in_reply_to_user_id": 709800285108105216,
+  "timestamp_ms": "1510709283004",
+  "text": "@fernandezdiazok Qu\u00e9 lindo escucharlo. Ese periodismo al que hizo referencia es el que amamos. \u00a1Felicitaciones por\u2026 https://t.co/MJiBQpNOnf",
+  "extended_tweet": {
+    "full_text": "@fernandezdiazok Qu\u00e9 lindo escucharlo. Ese periodismo al que hizo referencia es el que amamos. \u00a1Felicitaciones por el #PremiosKonex! Abrazos. \ud83e\udd17",
+    "display_text_range": [0, 143],
+    "entities": {
+      "hashtags": [
+        {
+          "text": "PremiosKonex",
+          "indices": [118, 131]
+        }
+      ],
+      "urls": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "id": 709800285108105216,
+          "id_str": "709800285108105216",
+          "name": "Jorge Fern\u00e1ndez D\u00edaz",
+          "indices": [0, 16],
+          "screen_name": "fernandezdiazok"
+        }
+      ]
+    }
+  },
+  "in_reply_to_user_id_str": "709800285108105216",
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "in_reply_to_screen_name": "fernandezdiazok"
+}

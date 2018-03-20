@@ -1,0 +1,121 @@
+{
+  "created_at": "Wed Dec 07 16:53:18 +0000 2011",
+  "id": 144459477884747777,
+  "id_str": "144459477884747777",
+  "text": "Gotta love the new coke machines! Strawberry Sprite! :-) #joy",
+  "truncated": false,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "joy",
+        "indices": [57, 61]
+      }
+    ],
+    "symbols": [],
+    "user_mentions": [],
+    "urls": []
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 148216850,
+    "id_str": "148216850",
+    "name": "Winnie Liau",
+    "screen_name": "Kawigirl313",
+    "location": "Potomac, Maryland",
+    "description": "Well-behaved women seldom make history. -Laurel Thatcher Ulrich\nRoad Racer, Coach, Freelance Photographer & designer of @MyndsEyePhoto http://t.co/kzEUX5EnBH",
+    "url": "http://t.co/AyPVwwqiao",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://t.co/AyPVwwqiao",
+            "expanded_url": "http://www.facebook.com/winnie76",
+            "display_url": "facebook.com/winnie76",
+            "indices": [0, 22]
+          }
+        ]
+      },
+      "description": {
+        "urls": [
+          {
+            "url": "http://t.co/kzEUX5EnBH",
+            "expanded_url": "http://www.myndseye.com/moto",
+            "display_url": "myndseye.com/moto",
+            "indices": [135, 157]
+          }
+        ]
+      }
+    },
+    "protected": false,
+    "followers_count": 145,
+    "friends_count": 365,
+    "listed_count": 1,
+    "created_at": "Wed May 26 04:05:22 +0000 2010",
+    "favourites_count": 126,
+    "utc_offset": -18000,
+    "time_zone": "Eastern Time (US & Canada)",
+    "geo_enabled": true,
+    "verified": false,
+    "statuses_count": 2725,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "is_translation_enabled": false,
+    "profile_background_color": "000000",
+    "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/415337036/313.jpg",
+    "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/415337036/313.jpg",
+    "profile_background_tile": true,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1799885104/tweet3_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1799885104/tweet3_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/148216850/1385403176",
+    "profile_link_color": "B80000",
+    "profile_sidebar_border_color": "EEEEEE",
+    "profile_sidebar_fill_color": "EFEFEF",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "has_extended_profile": false,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false,
+    "translator_type": "none"
+  },
+  "geo": {
+    "type": "Point",
+    "coordinates": [39.0409176, -77.15756389]
+  },
+  "coordinates": {
+    "type": "Point",
+    "coordinates": [-77.15756389, 39.0409176]
+  },
+  "place": {
+    "id": "6a83705c6ef0b6b0",
+    "url": "https://api.twitter.com/1.1/geo/id/6a83705c6ef0b6b0.json",
+    "place_type": "city",
+    "name": "Potomac",
+    "full_name": "Potomac, MD",
+    "country_code": "US",
+    "country": "Estados Unidos",
+    "contained_within": [],
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [[-77.248462, 38.971077], [-77.1418208, 38.971077], [-77.1418208, 39.0693022], [-77.248462, 39.0693022]]
+      ]
+    },
+    "attributes": {}
+  },
+  "contributors": null,
+  "is_quote_status": false,
+  "retweet_count": 0,
+  "favorite_count": 0,
+  "favorited": false,
+  "retweeted": false,
+  "lang": "en"
+}

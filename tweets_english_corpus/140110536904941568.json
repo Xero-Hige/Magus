@@ -1,0 +1,125 @@
+{
+  "created_at": "Fri Nov 25 16:52:09 +0000 2011",
+  "id": 140110536904941568,
+  "id_str": "140110536904941568",
+  "text": "A reminder: @cornerstonecity THIS WEEKEND - NO Double service as advised - Normal times and places. #joy #Derry",
+  "truncated": false,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "joy",
+        "indices": [100, 104]
+      }, {
+        "text": "Derry",
+        "indices": [105, 111]
+      }
+    ],
+    "symbols": [],
+    "user_mentions": [
+      {
+        "screen_name": "cornerstonecity",
+        "name": "Cornerstone Church",
+        "id": 84274590,
+        "id_str": "84274590",
+        "indices": [12, 28]
+      }
+    ],
+    "urls": []
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 39104107,
+    "id_str": "39104107",
+    "name": "Brian Somerville",
+    "screen_name": "Quaddaddy",
+    "location": "Derry/Londonderry",
+    "description": "Husband of 1, Father of 4, former pastor of Cornerstone City Church, member of the CCI National Lead Team, living in Derry/Londonderry, N Ireland.",
+    "url": "https://t.co/IblWdMMqXJ",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "https://t.co/IblWdMMqXJ",
+            "expanded_url": "http://www.ccireland.org",
+            "display_url": "ccireland.org",
+            "indices": [0, 23]
+          }
+        ]
+      },
+      "description": {
+        "urls": []
+      }
+    },
+    "protected": false,
+    "followers_count": 833,
+    "friends_count": 502,
+    "listed_count": 15,
+    "created_at": "Sun May 10 20:21:18 +0000 2009",
+    "favourites_count": 999,
+    "utc_offset": 0,
+    "time_zone": "London",
+    "geo_enabled": true,
+    "verified": false,
+    "statuses_count": 4766,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "is_translation_enabled": false,
+    "profile_background_color": "C0DEED",
+    "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/328706909/IMG_5751.JPG",
+    "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/328706909/IMG_5751.JPG",
+    "profile_background_tile": true,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/676917115530715137/w9Aq1ZEc_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/676917115530715137/w9Aq1ZEc_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/39104107/1450224593",
+    "profile_link_color": "0084B4",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "has_extended_profile": false,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false,
+    "translator_type": "none"
+  },
+  "geo": {
+    "type": "Point",
+    "coordinates": [54.98918107, -7.31500527]
+  },
+  "coordinates": {
+    "type": "Point",
+    "coordinates": [-7.31500527, 54.98918107]
+  },
+  "place": {
+    "id": "f2ea0703dc6c7579",
+    "url": "https://api.twitter.com/1.1/geo/id/f2ea0703dc6c7579.json",
+    "place_type": "admin",
+    "name": "Derry",
+    "full_name": "Derry, Northern Ireland",
+    "country_code": "GB",
+    "country": "Reino Unido",
+    "contained_within": [],
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [[-7.4070791, 54.8110645], [-7.0069043, 54.8110645], [-7.0069043, 55.0668188], [-7.4070791, 55.0668188]]
+      ]
+    },
+    "attributes": {}
+  },
+  "contributors": null,
+  "is_quote_status": false,
+  "retweet_count": 1,
+  "favorite_count": 0,
+  "favorited": false,
+  "retweeted": false,
+  "lang": "en"
+}

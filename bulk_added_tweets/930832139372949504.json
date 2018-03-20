@@ -1,0 +1,111 @@
+{
+  "favorite_count": 0,
+  "lang": "es",
+  "favorited": false,
+  "reply_count": 0,
+  "geo": {
+    "type": "Point",
+    "coordinates": [19.14216766, -96.18365314]
+  },
+  "contributors": null,
+  "text": "Viaje expr\u00e9s. (@ Aeropuerto Internacional de Veracruz (VER) - @asurmexico in Veracruz, VER) https://t.co/TD1zzV3kaJ",
+  "created_at": "Wed Nov 15 16:17:30 +0000 2017",
+  "place": {
+    "place_type": "city",
+    "full_name": "Veracruz, Veracruz de Ignacio de la Llave",
+    "country": "M\u00e9xico",
+    "name": "Veracruz",
+    "url": "https://api.twitter.com/1.1/geo/id/6c67fe933a62a8ec.json",
+    "country_code": "MX",
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [[-96.340535, 19.102814], [-96.340535, 19.265092], [-96.118258, 19.265092], [-96.118258, 19.102814]]
+      ]
+    },
+    "id": "6c67fe933a62a8ec",
+    "attributes": {}
+  },
+  "user": {
+    "profile_text_color": "333333",
+    "lang": "es",
+    "location": "Boca del R\u00edo, Ver.",
+    "friends_count": 1015,
+    "profile_link_color": "4D115C",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/525143318888742912/k3YghXm5_normal.jpeg",
+    "contributors_enabled": false,
+    "following": null,
+    "is_translator": false,
+    "verified": false,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/205110872/1412724123",
+    "utc_offset": -21600,
+    "geo_enabled": true,
+    "profile_sidebar_border_color": "670B75",
+    "created_at": "Wed Oct 20 05:13:30 +0000 2010",
+    "description": "Ing. Electr\u00f3nico, Jarocho, Quejumbroso y Wii/PS3 Gamer. Nintendo ID: lionlg PSN ID: alxleon XBOXONE: lionlg",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/525143318888742912/k3YghXm5_normal.jpeg",
+    "profile_background_color": "A9D3E8",
+    "listed_count": 28,
+    "follow_request_sent": null,
+    "profile_background_tile": true,
+    "followers_count": 1204,
+    "name": "Alex Le\u00f3n",
+    "notifications": null,
+    "default_profile_image": false,
+    "url": "http://www.facebook.com/aLxLG",
+    "favourites_count": 8489,
+    "screen_name": "lionlg",
+    "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/163629804/new-super-mario-bros.jpg",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_use_background_image": true,
+    "translator_type": "none",
+    "time_zone": "Central Time (US & Canada)",
+    "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/163629804/new-super-mario-bros.jpg",
+    "statuses_count": 54854,
+    "id": 205110872,
+    "default_profile": false,
+    "protected": false,
+    "id_str": "205110872"
+  },
+  "in_reply_to_user_id_str": null,
+  "source": "<a href=\"http://foursquare.com\" rel=\"nofollow\">Foursquare</a>",
+  "filter_level": "low",
+  "is_quote_status": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_user_id": null,
+  "quote_count": 0,
+  "retweeted": false,
+  "possibly_sensitive": false,
+  "in_reply_to_screen_name": null,
+  "retweet_count": 0,
+  "in_reply_to_status_id_str": null,
+  "coordinates": {
+    "type": "Point",
+    "coordinates": [-96.18365314, 19.14216766]
+  },
+  "id": 930832139372949504,
+  "truncated": false,
+  "entities": {
+    "urls": [
+      {
+        "url": "https://t.co/TD1zzV3kaJ",
+        "display_url": "swarmapp.com/c/1yFQHjwhXiW",
+        "indices": [92, 115],
+        "expanded_url": "https://www.swarmapp.com/c/1yFQHjwhXiW"
+      }
+    ],
+    "symbols": [],
+    "hashtags": [],
+    "user_mentions": [
+      {
+        "indices": [62, 73],
+        "name": "ASUR",
+        "id_str": "110773371",
+        "screen_name": "ASURMexico",
+        "id": 110773371
+      }
+    ]
+  },
+  "timestamp_ms": "1510762650708",
+  "id_str": "930832139372949504"
+}

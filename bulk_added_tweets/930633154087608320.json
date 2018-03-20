@@ -1,0 +1,121 @@
+{
+  "geo": null,
+  "filter_level": "low",
+  "in_reply_to_status_id": null,
+  "lang": "es",
+  "favorite_count": 0,
+  "coordinates": null,
+  "favorited": false,
+  "place": {
+    "name": "Benito Ju\u00e1rez",
+    "full_name": "Benito Ju\u00e1rez, Distrito Federal",
+    "place_type": "city",
+    "country": "M\u00e9xico",
+    "id": "7d93122509633720",
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [[-99.191996, 19.357102], [-99.191996, 19.404124], [-99.130965, 19.404124], [-99.130965, 19.357102]]
+      ]
+    },
+    "attributes": {},
+    "url": "https://api.twitter.com/1.1/geo/id/7d93122509633720.json",
+    "country_code": "MX"
+  },
+  "contributors": null,
+  "entities": {
+    "hashtags": [],
+    "urls": [
+      {
+        "display_url": "twitter.com/i/web/status/9\u2026",
+        "expanded_url": "https://twitter.com/i/web/status/930633154087608320",
+        "url": "https://t.co/zifK9LeKTd",
+        "indices": [116, 139]
+      }
+    ],
+    "symbols": [],
+    "user_mentions": [
+      {
+        "id": 3640935800,
+        "id_str": "3640935800",
+        "name": "\u00bfA qui\u00e9n le vas?",
+        "indices": [0, 14],
+        "screen_name": "AQuienLeVasTD"
+      }
+    ]
+  },
+  "id": 930633154087608320,
+  "user": {
+    "followers_count": 5,
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_color": "C0DEED",
+    "translator_type": "none",
+    "profile_image_url": "http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+    "default_profile": true,
+    "utc_offset": null,
+    "lang": "es",
+    "url": null,
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_image_url_https": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+    "time_zone": null,
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_use_background_image": true,
+    "id": 2373988633,
+    "profile_link_color": "1DA1F2",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_background_tile": false,
+    "geo_enabled": true,
+    "id_str": "2373988633",
+    "verified": false,
+    "name": "Luis Felipe",
+    "is_translator": false,
+    "notifications": null,
+    "following": null,
+    "friends_count": 28,
+    "contributors_enabled": false,
+    "screen_name": "LuisFel60999419",
+    "created_at": "Wed Mar 05 16:01:11 +0000 2014",
+    "profile_text_color": "333333",
+    "favourites_count": 16,
+    "follow_request_sent": null,
+    "description": "Creativo, risue\u00f1o y un tanto cuanto so\u00f1ador.",
+    "default_profile_image": false,
+    "location": null,
+    "listed_count": 0,
+    "protected": false,
+    "statuses_count": 13490
+  },
+  "id_str": "930633154087608320",
+  "retweet_count": 0,
+  "retweeted": false,
+  "quote_count": 0,
+  "truncated": true,
+  "in_reply_to_status_id_str": null,
+  "reply_count": 0,
+  "created_at": "Wed Nov 15 03:06:48 +0000 2017",
+  "is_quote_status": false,
+  "in_reply_to_user_id": 3640935800,
+  "timestamp_ms": "1510715208919",
+  "text": "@AQuienLeVasTD En cuanto a la selecci\u00f3n Argentina, sin duda es un equipazo con o sin Messi... \u00bfSer\u00e1 protagonista?,\u2026 https://t.co/zifK9LeKTd",
+  "extended_tweet": {
+    "full_text": "@AQuienLeVasTD En cuanto a la selecci\u00f3n Argentina, sin duda es un equipazo con o sin Messi... \u00bfSer\u00e1 protagonista?, esperemos que s\u00ed, pero no en contra de la selecci\u00f3n mexicana de f\u00fatbol ni contra la de Brasil ...",
+    "display_text_range": [0, 212],
+    "entities": {
+      "hashtags": [],
+      "urls": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "id": 3640935800,
+          "id_str": "3640935800",
+          "name": "\u00bfA qui\u00e9n le vas?",
+          "indices": [0, 14],
+          "screen_name": "AQuienLeVasTD"
+        }
+      ]
+    }
+  },
+  "in_reply_to_user_id_str": "3640935800",
+  "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+  "in_reply_to_screen_name": "AQuienLeVasTD"
+}

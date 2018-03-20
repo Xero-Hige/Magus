@@ -1,0 +1,123 @@
+{
+  "geo": {
+    "type": "Point",
+    "coordinates": [-37.9667, -61.3667]
+  },
+  "filter_level": "low",
+  "in_reply_to_status_id": null,
+  "lang": "es",
+  "favorite_count": 0,
+  "coordinates": {
+    "type": "Point",
+    "coordinates": [-61.3667, -37.9667]
+  },
+  "favorited": false,
+  "place": {
+    "name": "Buenos Aires",
+    "full_name": "Buenos Aires, Argentina",
+    "place_type": "admin",
+    "country": "Argentina",
+    "id": "4afa2757051c5192",
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [[-63.39386, -41.035009], [-63.39386, -33.260144], [-56.665836, -33.260144], [-56.665836, -41.035009]]
+      ]
+    },
+    "attributes": {},
+    "url": "https://api.twitter.com/1.1/geo/id/4afa2757051c5192.json",
+    "country_code": "AR"
+  },
+  "contributors": null,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "diarioelorden",
+        "indices": [27, 41]
+      }, {
+        "text": "granizo",
+        "indices": [42, 50]
+      }, {
+        "text": "lluvia",
+        "indices": [51, 58]
+      }, {
+        "text": "coronelpringles",
+        "indices": [59, 75]
+      }, {
+        "text": "tiempo",
+        "indices": [76, 83]
+      }, {
+        "text": "clima",
+        "indices": [84, 90]
+      }
+    ],
+    "urls": [
+      {
+        "display_url": "instagram.com/p/BbgL1T7gIlV/",
+        "expanded_url": "https://www.instagram.com/p/BbgL1T7gIlV/",
+        "url": "https://t.co/ykLWEaOGq0",
+        "indices": [95, 118]
+      }
+    ],
+    "symbols": [],
+    "user_mentions": []
+  },
+  "id": 930657839563100160,
+  "possibly_sensitive": false,
+  "user": {
+    "followers_count": 903,
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_color": "C0DEED",
+    "translator_type": "none",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/3572491971/f345a8e38257e15d2e3677d3985762ee_normal.jpeg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/133767837/1466895029",
+    "default_profile": true,
+    "utc_offset": -10800,
+    "lang": "es",
+    "url": "http://www.elorden.com",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/3572491971/f345a8e38257e15d2e3677d3985762ee_normal.jpeg",
+    "time_zone": "America/Argentina/Buenos_Aires",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_use_background_image": true,
+    "id": 133767837,
+    "profile_link_color": "1DA1F2",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_background_tile": false,
+    "geo_enabled": true,
+    "id_str": "133767837",
+    "verified": false,
+    "name": "DIARIO EL ORDEN",
+    "is_translator": false,
+    "notifications": null,
+    "following": null,
+    "friends_count": 437,
+    "contributors_enabled": false,
+    "screen_name": "diarioelorden",
+    "created_at": "Fri Apr 16 15:36:56 +0000 2010",
+    "profile_text_color": "333333",
+    "favourites_count": 68,
+    "follow_request_sent": null,
+    "description": "Propietario diario el orden fundado 12-10-1915- cuarta generaci\u00f3n vamos por los cien",
+    "default_profile_image": false,
+    "location": "Coronel pringles",
+    "listed_count": 12,
+    "protected": false,
+    "statuses_count": 12278
+  },
+  "id_str": "930657839563100160",
+  "retweet_count": 0,
+  "retweeted": false,
+  "quote_count": 0,
+  "truncated": false,
+  "in_reply_to_status_id_str": null,
+  "reply_count": 0,
+  "created_at": "Wed Nov 15 04:44:54 +0000 2017",
+  "is_quote_status": false,
+  "in_reply_to_user_id": null,
+  "source": "<a href=\"http://instagram.com\" rel=\"nofollow\">Instagram</a>",
+  "text": "Granizo en Paraje Frapal. \n#diarioelorden #granizo #lluvia #coronelpringles #tiempo #clima en\u2026 https://t.co/ykLWEaOGq0",
+  "timestamp_ms": "1510721094395",
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null
+}

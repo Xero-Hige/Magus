@@ -1,0 +1,111 @@
+{
+  "created_at": "Thu Jan 15 10:32:49 +0000 2015",
+  "id": 555673955693240321,
+  "id_str": "555673955693240321",
+  "text": "Cuando tiro piedra pa'rriba ella me caen en la cabeza y si salqo a pega' cuerno yo me llevo la #Sorpresa '88",
+  "truncated": false,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "Sorpresa",
+        "indices": [95, 104]
+      }
+    ],
+    "symbols": [],
+    "user_mentions": [],
+    "urls": []
+  },
+  "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 1938463532,
+    "id_str": "1938463532",
+    "name": "Le\uff92",
+    "screen_name": "YoserMinion",
+    "location": "Mi casa ;)",
+    "description": "SOFISTICADO , zurdo & Aguilucho.. Callo, escucho y analizo............................ Programador #PRO \u2551#Luna\u266b  \u2728",
+    "url": "https://t.co/w9no3rIhbF",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "https://t.co/w9no3rIhbF",
+            "expanded_url": "https://www.facebook.com/Taveras.deconetao",
+            "display_url": "facebook.com/Taveras.decone\u2026",
+            "indices": [0, 23]
+          }
+        ]
+      },
+      "description": {
+        "urls": []
+      }
+    },
+    "protected": false,
+    "followers_count": 589,
+    "friends_count": 509,
+    "listed_count": 1,
+    "created_at": "Sat Oct 05 18:13:10 +0000 2013",
+    "favourites_count": 51,
+    "utc_offset": -10800,
+    "time_zone": "Atlantic Time (Canada)",
+    "geo_enabled": true,
+    "verified": false,
+    "statuses_count": 5337,
+    "lang": "es",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "is_translation_enabled": false,
+    "profile_background_color": "254654",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+    "profile_background_tile": true,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/581192242280337410/4tliPHbN_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/581192242280337410/4tliPHbN_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1938463532/1427741652",
+    "profile_link_color": "4A913C",
+    "profile_sidebar_border_color": "FFFFFF",
+    "profile_sidebar_fill_color": "95E8EC",
+    "profile_text_color": "3C3940",
+    "profile_use_background_image": true,
+    "has_extended_profile": false,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false,
+    "translator_type": "regular"
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": {
+    "id": "695f560eb8922977",
+    "url": "https://api.twitter.com/1.1/geo/id/695f560eb8922977.json",
+    "place_type": "country",
+    "name": "Dominican Republic",
+    "full_name": "Dominican Republic",
+    "country_code": "DO",
+    "country": "Dominican Republic",
+    "contained_within": [],
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [-72.0073024918158, 17.4701563191231], [-68.3227847681842, 17.4701563191231],
+          [-68.3227847681842, 19.9323139188769], [-72.0073024918158, 19.9323139188769]
+        ]
+      ]
+    },
+    "attributes": {}
+  },
+  "contributors": null,
+  "is_quote_status": false,
+  "retweet_count": 0,
+  "favorite_count": 1,
+  "favorited": false,
+  "retweeted": false,
+  "lang": "es"
+}

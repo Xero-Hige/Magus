@@ -1,0 +1,122 @@
+{
+  "extended_tweet": {
+    "display_text_range": [16, 230],
+    "entities": {
+      "urls": [],
+      "symbols": [],
+      "hashtags": [],
+      "user_mentions": [
+        {
+          "indices": [0, 15],
+          "name": "Daniel Urresti",
+          "id_str": "2416088899",
+          "screen_name": "DanielUrresti1",
+          "id": 2416088899
+        }
+      ]
+    },
+    "full_text": "@DanielUrresti1 TRISTE LA VIDA DE ESTE ERRANTE-MEDI\u00c1TICO SINO NOMBRA A KEIKO NI A GARCIA , NO EXISTE, NADIE LO TOMA ENSERIO. MEDIQUEN A ESTE TRASTORNADO, verg\u00fcenza ajena sentir que este sujeto alguna vez pudo haber sido MINISTRO \ud83d\ude37"
+  },
+  "favorited": false,
+  "lang": "es",
+  "display_text_range": [16, 140],
+  "favorite_count": 0,
+  "reply_count": 0,
+  "geo": null,
+  "contributors": null,
+  "text": "@DanielUrresti1 TRISTE LA VIDA DE ESTE ERRANTE-MEDI\u00c1TICO SINO NOMBRA A KEIKO NI A GARCIA , NO EXISTE, NADIE LO TOMA\u2026 https://t.co/lUmmnomT17",
+  "created_at": "Wed Nov 15 16:46:25 +0000 2017",
+  "place": {
+    "place_type": "country",
+    "full_name": "Peru",
+    "country": "Peru",
+    "name": "Peru",
+    "url": "https://api.twitter.com/1.1/geo/id/2dfa9ecb0179a4e4.json",
+    "country_code": "PE",
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [[-81.328148, -18.349728], [-81.328148, -0.03884], [-68.673088, -0.03884], [-68.673088, -18.349728]]
+      ]
+    },
+    "id": "2dfa9ecb0179a4e4",
+    "attributes": {}
+  },
+  "user": {
+    "profile_text_color": "C4BEBE",
+    "lang": "es",
+    "location": null,
+    "friends_count": 302,
+    "profile_link_color": "000000",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/854157812099948545/eh0ZXElU_normal.jpg",
+    "contributors_enabled": false,
+    "following": null,
+    "is_translator": false,
+    "verified": false,
+    "utc_offset": -21600,
+    "geo_enabled": true,
+    "profile_sidebar_border_color": "FFFFFF",
+    "created_at": "Fri Nov 12 19:22:59 +0000 2010",
+    "description": "\u00ae M\u035fe\u035fd\u035fi\u035fc\u035fi\u035fn\u035fa\u035f & F\u035fu\u035fj\u035fi\u035fm\u035fo\u035fr\u035fi\u035f . \u2014  #DontBeFooledByTheTweetsThatIGot #IUsedToHaveALittleNowIHaveALot #NoMatterWhereIGoIKnowICameFrom",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/854157812099948545/eh0ZXElU_normal.jpg",
+    "profile_background_color": "FFFFFF",
+    "listed_count": 2443,
+    "follow_request_sent": null,
+    "profile_background_tile": true,
+    "followers_count": 18126,
+    "name": "\u00dat\u035fe\u035fr\u035fo\u035f de N\u035fadine",
+    "notifications": null,
+    "default_profile_image": false,
+    "url": null,
+    "favourites_count": 1,
+    "screen_name": "Odebresht",
+    "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/712191268990885888/6tK0bBV1.jpg",
+    "profile_sidebar_fill_color": "FFFFFF",
+    "profile_use_background_image": true,
+    "translator_type": "none",
+    "time_zone": "Central Time (US & Canada)",
+    "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/712191268990885888/6tK0bBV1.jpg",
+    "statuses_count": 26283,
+    "id": 215001631,
+    "default_profile": false,
+    "protected": false,
+    "id_str": "215001631"
+  },
+  "in_reply_to_user_id_str": "2416088899",
+  "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+  "filter_level": "low",
+  "is_quote_status": false,
+  "in_reply_to_status_id": 930602794213548032,
+  "in_reply_to_user_id": 2416088899,
+  "quote_count": 0,
+  "retweeted": false,
+  "in_reply_to_screen_name": "DanielUrresti1",
+  "retweet_count": 0,
+  "in_reply_to_status_id_str": "930602794213548032",
+  "coordinates": null,
+  "id": 930839417316630530,
+  "truncated": true,
+  "entities": {
+    "urls": [
+      {
+        "url": "https://t.co/lUmmnomT17",
+        "display_url": "twitter.com/i/web/status/9\u2026",
+        "indices": [117, 140],
+        "expanded_url": "https://twitter.com/i/web/status/930839417316630530"
+      }
+    ],
+    "symbols": [],
+    "hashtags": [],
+    "user_mentions": [
+      {
+        "indices": [0, 15],
+        "name": "Daniel Urresti",
+        "id_str": "2416088899",
+        "screen_name": "DanielUrresti1",
+        "id": 2416088899
+      }
+    ]
+  },
+  "timestamp_ms": "1510764385905",
+  "id_str": "930839417316630530"
+}

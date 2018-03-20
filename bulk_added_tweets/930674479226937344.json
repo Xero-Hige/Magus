@@ -1,0 +1,106 @@
+{
+  "geo": null,
+  "filter_level": "low",
+  "in_reply_to_status_id": null,
+  "lang": "es",
+  "favorite_count": 0,
+  "coordinates": null,
+  "favorited": false,
+  "place": {
+    "name": "Guadalupe",
+    "full_name": "Guadalupe, Nuevo Le\u00f3n",
+    "place_type": "city",
+    "country": "M\u00e9xico",
+    "id": "d1ec37eb74fb2830",
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [[-100.274823, 25.621688], [-100.274823, 25.731519], [-100.117445, 25.731519], [-100.117445, 25.621688]]
+      ]
+    },
+    "attributes": {},
+    "url": "https://api.twitter.com/1.1/geo/id/d1ec37eb74fb2830.json",
+    "country_code": "MX"
+  },
+  "contributors": null,
+  "entities": {
+    "hashtags": [],
+    "urls": [
+      {
+        "display_url": "twitter.com/i/web/status/9\u2026",
+        "expanded_url": "https://twitter.com/i/web/status/930674479226937344",
+        "url": "https://t.co/yuEMufkL8y",
+        "indices": [116, 139]
+      }
+    ],
+    "symbols": [],
+    "user_mentions": []
+  },
+  "id": 930674479226937344,
+  "user": {
+    "followers_count": 1058,
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_color": "000000",
+    "translator_type": "none",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/929557602429800448/ch4J_93V_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/2725519366/1510458779",
+    "default_profile": false,
+    "utc_offset": -21600,
+    "lang": "es",
+    "url": "http://vsco.co/pattygomitas",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/929557602429800448/ch4J_93V_normal.jpg",
+    "time_zone": "Monterrey",
+    "profile_sidebar_border_color": "000000",
+    "profile_use_background_image": false,
+    "id": 2725519366,
+    "profile_link_color": "9266CC",
+    "profile_sidebar_fill_color": "000000",
+    "profile_background_tile": false,
+    "geo_enabled": true,
+    "id_str": "2725519366",
+    "verified": false,
+    "name": "\u2600\ufe0f",
+    "is_translator": false,
+    "notifications": null,
+    "following": null,
+    "friends_count": 681,
+    "contributors_enabled": false,
+    "screen_name": "pattygomez01",
+    "created_at": "Sat Jul 26 18:51:37 +0000 2014",
+    "profile_text_color": "000000",
+    "favourites_count": 35069,
+    "follow_request_sent": null,
+    "description": "disappointed but not surprised",
+    "default_profile_image": false,
+    "location": "Monterrey, Nuevo Le\u00f3n",
+    "listed_count": 3,
+    "protected": false,
+    "statuses_count": 29311
+  },
+  "id_str": "930674479226937344",
+  "retweet_count": 0,
+  "retweeted": false,
+  "quote_count": 0,
+  "truncated": true,
+  "in_reply_to_status_id_str": null,
+  "reply_count": 0,
+  "created_at": "Wed Nov 15 05:51:01 +0000 2017",
+  "is_quote_status": false,
+  "in_reply_to_user_id": null,
+  "timestamp_ms": "1510725061600",
+  "text": "todos critican a bella thorne pero alch yo veo que ella se la pasa con madre a su modo y si ella es feliz haciendo\u2026 https://t.co/yuEMufkL8y",
+  "extended_tweet": {
+    "full_text": "todos critican a bella thorne pero alch yo veo que ella se la pasa con madre a su modo y si ella es feliz haciendo sus mamadas I don\u2019t understand why so much hate",
+    "display_text_range": [0, 162],
+    "entities": {
+      "hashtags": [],
+      "urls": [],
+      "symbols": [],
+      "user_mentions": []
+    }
+  },
+  "in_reply_to_user_id_str": null,
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "in_reply_to_screen_name": null
+}

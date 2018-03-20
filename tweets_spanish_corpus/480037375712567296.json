@@ -1,0 +1,106 @@
+{
+  "created_at": "Fri Jun 20 17:20:03 +0000 2014",
+  "id": 480037375712567296,
+  "id_str": "480037375712567296",
+  "text": "espero no volvr a ver 1 partido en @tdn_twit d Italia dond llamen viejo al portero y el delantero da miedo si lo ves en 1 callejon #malgusto",
+  "truncated": false,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "malgusto",
+        "indices": [131, 140]
+      }
+    ],
+    "symbols": [],
+    "user_mentions": [
+      {
+        "screen_name": "tdn_twit",
+        "name": "TDN",
+        "id": 51658330,
+        "id_str": "51658330",
+        "indices": [35, 44]
+      }
+    ],
+    "urls": []
+  },
+  "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 88070661,
+    "id_str": "88070661",
+    "name": "Victor PS",
+    "screen_name": "victorfps",
+    "location": "Guadalajara-Mexico",
+    "description": "todo lo q odias... yo lo tengo",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": []
+      }
+    },
+    "protected": false,
+    "followers_count": 190,
+    "friends_count": 346,
+    "listed_count": 0,
+    "created_at": "Sat Nov 07 00:17:48 +0000 2009",
+    "favourites_count": 1653,
+    "utc_offset": -21600,
+    "time_zone": "Mexico City",
+    "geo_enabled": true,
+    "verified": false,
+    "statuses_count": 5820,
+    "lang": "es",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "is_translation_enabled": false,
+    "profile_background_color": "C6E2EE",
+    "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/459030982134214656/B0M9Fykt.jpeg",
+    "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/459030982134214656/B0M9Fykt.jpeg",
+    "profile_background_tile": true,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/826092148084731904/9SJHxauh_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/826092148084731904/9SJHxauh_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/88070661/1398276585",
+    "profile_link_color": "1A0D80",
+    "profile_sidebar_border_color": "FFFFFF",
+    "profile_sidebar_fill_color": "DAECF4",
+    "profile_text_color": "663B12",
+    "profile_use_background_image": true,
+    "has_extended_profile": false,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false,
+    "translator_type": "none"
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": {
+    "id": "efe0e11c5514c8da",
+    "url": "https://api.twitter.com/1.1/geo/id/efe0e11c5514c8da.json",
+    "place_type": "admin",
+    "name": "Colima",
+    "full_name": "Colima, M\u00e9xico",
+    "country_code": "MX",
+    "country": "M\u00e9xico",
+    "contained_within": [],
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [[-104.6919916, 18.6860856], [-103.4868666, 18.6860856], [-103.4868666, 19.5128539], [-104.6919916, 19.5128539]]
+      ]
+    },
+    "attributes": {}
+  },
+  "contributors": null,
+  "is_quote_status": false,
+  "retweet_count": 0,
+  "favorite_count": 0,
+  "favorited": false,
+  "retweeted": false,
+  "lang": "es"
+}

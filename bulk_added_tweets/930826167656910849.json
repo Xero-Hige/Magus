@@ -1,0 +1,110 @@
+{
+  "favorited": false,
+  "lang": "es",
+  "display_text_range": [46, 110],
+  "favorite_count": 0,
+  "reply_count": 0,
+  "geo": null,
+  "contributors": null,
+  "text": "@PRI_Nacional @ALA_PROGRESISTA @EnriqueOchoaR Para ganar el primer lugar en robos, asesinatos y otros crimenes",
+  "created_at": "Wed Nov 15 15:53:46 +0000 2017",
+  "place": {
+    "place_type": "city",
+    "full_name": "Benito Ju\u00e1rez, Distrito Federal",
+    "country": "M\u00e9xico",
+    "name": "Benito Ju\u00e1rez",
+    "url": "https://api.twitter.com/1.1/geo/id/7d93122509633720.json",
+    "country_code": "MX",
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [[-99.191996, 19.357102], [-99.191996, 19.404124], [-99.130965, 19.404124], [-99.130965, 19.357102]]
+      ]
+    },
+    "id": "7d93122509633720",
+    "attributes": {}
+  },
+  "user": {
+    "profile_text_color": "000000",
+    "lang": "xx-lc",
+    "location": "DF",
+    "friends_count": 2252,
+    "profile_link_color": "080808",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/827051863035908096/42x9uCux_normal.jpg",
+    "contributors_enabled": false,
+    "following": null,
+    "is_translator": false,
+    "verified": false,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/145856381/1465534428",
+    "utc_offset": -36000,
+    "geo_enabled": true,
+    "profile_sidebar_border_color": "000000",
+    "created_at": "Thu May 20 01:47:04 +0000 2010",
+    "description": "Marxista-Leninista",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/827051863035908096/42x9uCux_normal.jpg",
+    "profile_background_color": "FFFFFF",
+    "listed_count": 56,
+    "follow_request_sent": null,
+    "profile_background_tile": false,
+    "followers_count": 3067,
+    "name": "Tlahuiztecatl",
+    "notifications": null,
+    "default_profile_image": false,
+    "url": null,
+    "favourites_count": 28905,
+    "screen_name": "Huiztecatl",
+    "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000145609367/jTgPyQf3.jpeg",
+    "profile_sidebar_fill_color": "FFFFFF",
+    "profile_use_background_image": true,
+    "translator_type": "regular",
+    "time_zone": "Hawaii",
+    "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000145609367/jTgPyQf3.jpeg",
+    "statuses_count": 72000,
+    "id": 145856381,
+    "default_profile": false,
+    "protected": false,
+    "id_str": "145856381"
+  },
+  "in_reply_to_user_id_str": "292116167",
+  "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+  "filter_level": "low",
+  "is_quote_status": false,
+  "in_reply_to_status_id": 930608128634310656,
+  "in_reply_to_user_id": 292116167,
+  "quote_count": 0,
+  "retweeted": false,
+  "in_reply_to_screen_name": "PRI_Nacional",
+  "retweet_count": 0,
+  "in_reply_to_status_id_str": "930608128634310656",
+  "coordinates": null,
+  "id": 930826167656910849,
+  "truncated": false,
+  "entities": {
+    "urls": [],
+    "symbols": [],
+    "hashtags": [],
+    "user_mentions": [
+      {
+        "indices": [0, 13],
+        "name": "PRI",
+        "id_str": "292116167",
+        "screen_name": "PRI_Nacional",
+        "id": 292116167
+      }, {
+        "indices": [14, 30],
+        "name": "ALA PROGRESISTA",
+        "id_str": "290696909",
+        "screen_name": "ALA_PROGRESISTA",
+        "id": 290696909
+      }, {
+        "indices": [31, 45],
+        "name": "Enrique Ochoa Reza",
+        "id_str": "103766959",
+        "screen_name": "EnriqueOchoaR",
+        "id": 103766959
+      }
+    ]
+  },
+  "timestamp_ms": "1510761226940",
+  "id_str": "930826167656910849"
+}

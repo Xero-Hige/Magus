@@ -1,0 +1,125 @@
+{
+  "created_at": "Sun Nov 16 19:45:39 +0000 2014",
+  "id": 534069810100203520,
+  "id_str": "534069810100203520",
+  "text": "@liverpoolmexico es incre\u00edble conozco muchas tiendas Liverpool he visitado 87 de las 100 tiendas y solo en #antea sent\u00ed humillaci\u00f3n #triste",
+  "truncated": false,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "antea",
+        "indices": [107, 113]
+      }, {
+        "text": "triste",
+        "indices": [132, 139]
+      }
+    ],
+    "symbols": [],
+    "user_mentions": [
+      {
+        "screen_name": "liverpoolmexico",
+        "name": "Liverpool M\u00e9xico",
+        "id": 65392033,
+        "id_str": "65392033",
+        "indices": [0, 16]
+      }
+    ],
+    "urls": []
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "in_reply_to_status_id": 534048594026692610,
+  "in_reply_to_status_id_str": "534048594026692610",
+  "in_reply_to_user_id": 65392033,
+  "in_reply_to_user_id_str": "65392033",
+  "in_reply_to_screen_name": "liverpoolmexico",
+  "user": {
+    "id": 73589296,
+    "id_str": "73589296",
+    "name": "Ma.deTodosLosAngeles",
+    "screen_name": "MariaDeTodos",
+    "location": "Delegaci\u00f3n Iztacalco",
+    "description": "Soy una chica, so\u00f1adora en busca del amor de su vida, y no es que ande urgida, pero creo que ya esto muy recorrida.",
+    "url": "http://t.co/7wvjdbgq",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://t.co/7wvjdbgq",
+            "expanded_url": "http://www.maraescalante.com.mx",
+            "display_url": "maraescalante.com.mx",
+            "indices": [0, 20]
+          }
+        ]
+      },
+      "description": {
+        "urls": []
+      }
+    },
+    "protected": false,
+    "followers_count": 4684,
+    "friends_count": 2053,
+    "listed_count": 37,
+    "created_at": "Sat Sep 12 06:48:27 +0000 2009",
+    "favourites_count": 16,
+    "utc_offset": -18000,
+    "time_zone": "Central Time (US & Canada)",
+    "geo_enabled": true,
+    "verified": false,
+    "statuses_count": 3217,
+    "lang": "es",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "is_translation_enabled": false,
+    "profile_background_color": "FF6699",
+    "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/36210378/stage-maria-de-todos-los-angeles.jpg",
+    "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/36210378/stage-maria-de-todos-los-angeles.jpg",
+    "profile_background_tile": true,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/3140208761/29beb954bb1d6c801477278fa64819c8_normal.jpeg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/3140208761/29beb954bb1d6c801477278fa64819c8_normal.jpeg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/73589296/1358749915",
+    "profile_link_color": "B40B43",
+    "profile_sidebar_border_color": "CC3366",
+    "profile_sidebar_fill_color": "E5507E",
+    "profile_text_color": "BF060F",
+    "profile_use_background_image": true,
+    "has_extended_profile": false,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false,
+    "translator_type": "none"
+  },
+  "geo": {
+    "type": "Point",
+    "coordinates": [20.66270585, -100.40293794]
+  },
+  "coordinates": {
+    "type": "Point",
+    "coordinates": [-100.40293794, 20.66270585]
+  },
+  "place": {
+    "id": "d3492c68c5661201",
+    "url": "https://api.twitter.com/1.1/geo/id/d3492c68c5661201.json",
+    "place_type": "city",
+    "name": "Quer\u00e9taro",
+    "full_name": "Quer\u00e9taro, Quer\u00e9taro Arteaga",
+    "country_code": "MX",
+    "country": "M\u00e9xico",
+    "contained_within": [],
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [[-100.5963431, 20.5031701], [-100.284846, 20.5031701], [-100.284846, 20.9273791], [-100.5963431, 20.9273791]]
+      ]
+    },
+    "attributes": {}
+  },
+  "contributors": null,
+  "is_quote_status": false,
+  "retweet_count": 0,
+  "favorite_count": 0,
+  "favorited": false,
+  "retweeted": false,
+  "lang": "es"
+}

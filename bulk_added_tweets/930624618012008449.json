@@ -1,0 +1,111 @@
+{
+  "geo": null,
+  "filter_level": "low",
+  "in_reply_to_status_id": null,
+  "lang": "es",
+  "favorite_count": 0,
+  "coordinates": null,
+  "favorited": false,
+  "place": {
+    "name": "Benito Ju\u00e1rez",
+    "full_name": "Benito Ju\u00e1rez, Distrito Federal",
+    "place_type": "city",
+    "country": "M\u00e9xico",
+    "id": "7d93122509633720",
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [[-99.191996, 19.357102], [-99.191996, 19.404124], [-99.130965, 19.404124], [-99.130965, 19.357102]]
+      ]
+    },
+    "attributes": {},
+    "url": "https://api.twitter.com/1.1/geo/id/7d93122509633720.json",
+    "country_code": "MX"
+  },
+  "contributors": null,
+  "entities": {
+    "hashtags": [],
+    "urls": [
+      {
+        "display_url": "twitter.com/i/web/status/9\u2026",
+        "expanded_url": "https://twitter.com/i/web/status/930624618012008449",
+        "url": "https://t.co/iQ6AiXidXq",
+        "indices": [117, 140]
+      }
+    ],
+    "symbols": [],
+    "user_mentions": []
+  },
+  "id": 930624618012008449,
+  "user": {
+    "followers_count": 301554,
+    "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/75822004/fondo_twitter_moda.gif",
+    "profile_background_color": "C0DEED",
+    "translator_type": "none",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/880209663236620288/K3dns9Hk_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/114887750/1510365429",
+    "default_profile": false,
+    "utc_offset": -21600,
+    "lang": "es",
+    "url": "http://gruporeforma.reforma.com/suplementos/modareforma/",
+    "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/75822004/fondo_twitter_moda.gif",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/880209663236620288/K3dns9Hk_normal.jpg",
+    "time_zone": "Mexico City",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_use_background_image": true,
+    "id": 114887750,
+    "profile_link_color": "0084B4",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_background_tile": true,
+    "geo_enabled": true,
+    "id_str": "114887750",
+    "verified": false,
+    "name": "Reforma Moda!",
+    "is_translator": false,
+    "notifications": null,
+    "following": null,
+    "friends_count": 4683,
+    "contributors_enabled": false,
+    "screen_name": "modareforma",
+    "created_at": "Tue Feb 16 23:03:08 +0000 2010",
+    "profile_text_color": "333333",
+    "favourites_count": 1542,
+    "follow_request_sent": null,
+    "description": "La tia Paz Arela, en su particular estilo, comenta todas las novedades de la moda nacional e internacional.",
+    "default_profile_image": false,
+    "location": "Ciudad de M\u00e9xico",
+    "listed_count": 1557,
+    "protected": false,
+    "statuses_count": 565798
+  },
+  "id_str": "930624618012008449",
+  "retweet_count": 0,
+  "retweeted": false,
+  "quote_count": 0,
+  "truncated": true,
+  "in_reply_to_status_id_str": null,
+  "reply_count": 0,
+  "created_at": "Wed Nov 15 02:32:53 +0000 2017",
+  "is_quote_status": false,
+  "in_reply_to_user_id": null,
+  "timestamp_ms": "1510713173760",
+  "text": "Creo que es reconfortante para el dise\u00f1ador, modelos y todo el equipo aplaudir cuando termina un desfile y no estar\u2026 https://t.co/iQ6AiXidXq",
+  "extended_tweet": {
+    "full_text": "Creo que es reconfortante para el dise\u00f1ador, modelos y todo el equipo aplaudir cuando termina un desfile y no estar nada m\u00e1s tomando foto y video ... opina su t\u00eda Paz #MBFWMx",
+    "display_text_range": [0, 174],
+    "entities": {
+      "hashtags": [
+        {
+          "text": "MBFWMx",
+          "indices": [167, 174]
+        }
+      ],
+      "urls": [],
+      "symbols": [],
+      "user_mentions": []
+    }
+  },
+  "in_reply_to_user_id_str": null,
+  "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+  "in_reply_to_screen_name": null
+}

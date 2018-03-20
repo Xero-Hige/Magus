@@ -1,0 +1,121 @@
+{
+  "extended_tweet": {
+    "display_text_range": [9, 257],
+    "entities": {
+      "urls": [],
+      "symbols": [],
+      "hashtags": [],
+      "user_mentions": [
+        {
+          "indices": [0, 8],
+          "name": "Miren Callejo",
+          "id_str": "954179844",
+          "screen_name": "MirenCZ",
+          "id": 954179844
+        }
+      ]
+    },
+    "full_text": "@MirenCZ A veces la gente regala animales, a sus hijos, a unos amigos, a alg\u00fan familiar y son adoptados pero acaban igualmente en la calle por i\u0155responsabilidad. Lo importante es no olvidar que los animales hay que cuidarlos siempre, vengan de donde vengan."
+  },
+  "favorited": false,
+  "lang": "es",
+  "display_text_range": [9, 140],
+  "favorite_count": 0,
+  "reply_count": 0,
+  "geo": null,
+  "contributors": null,
+  "text": "@MirenCZ A veces la gente regala animales, a sus hijos, a unos amigos, a alg\u00fan familiar y son adoptados pero acaban\u2026 https://t.co/q2TH8G9GW0",
+  "created_at": "Wed Nov 15 16:32:38 +0000 2017",
+  "place": {
+    "place_type": "city",
+    "full_name": "Sevilla, Espa\u00f1a",
+    "country": "Espa\u00f1a",
+    "name": "Sevilla",
+    "url": "https://api.twitter.com/1.1/geo/id/8c86b8b4cb716103.json",
+    "country_code": "ES",
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [[[-6.02843, 37.313613], [-6.02843, 37.452783], [-5.81866, 37.452783], [-5.81866, 37.313613]]]
+    },
+    "id": "8c86b8b4cb716103",
+    "attributes": {}
+  },
+  "user": {
+    "profile_text_color": "333333",
+    "lang": "es",
+    "location": null,
+    "friends_count": 1075,
+    "profile_link_color": "0084B4",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/702453522592342016/84CFAsPF_normal.jpg",
+    "contributors_enabled": false,
+    "following": null,
+    "is_translator": false,
+    "verified": false,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/587419623/1509108920",
+    "utc_offset": 7200,
+    "geo_enabled": true,
+    "profile_sidebar_border_color": "C0DEED",
+    "created_at": "Tue May 22 11:08:21 +0000 2012",
+    "description": "Escritora, polizonte, profesora de narrativa en Factor\u00eda de Autores y miembro fundador de Bibliof\u00f3rum. Roedora a jornada completa.Un caso perdido.",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/702453522592342016/84CFAsPF_normal.jpg",
+    "profile_background_color": "C0DEED",
+    "listed_count": 117,
+    "follow_request_sent": null,
+    "profile_background_tile": false,
+    "followers_count": 3347,
+    "name": "Concepci\u00f3n Perea",
+    "notifications": null,
+    "default_profile_image": false,
+    "url": "http://conchaperea.es/",
+    "favourites_count": 5406,
+    "screen_name": "SrtaNicasia",
+    "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/576611161/9rhoqlse55gxn6ma584w.jpeg",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_use_background_image": true,
+    "translator_type": "none",
+    "time_zone": "Athens",
+    "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/576611161/9rhoqlse55gxn6ma584w.jpeg",
+    "statuses_count": 15246,
+    "id": 587419623,
+    "default_profile": false,
+    "protected": false,
+    "id_str": "587419623"
+  },
+  "in_reply_to_user_id_str": "954179844",
+  "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+  "filter_level": "low",
+  "is_quote_status": false,
+  "in_reply_to_status_id": 930831919016800256,
+  "in_reply_to_user_id": 954179844,
+  "quote_count": 0,
+  "retweeted": false,
+  "in_reply_to_screen_name": "MirenCZ",
+  "retweet_count": 0,
+  "in_reply_to_status_id_str": "930831919016800256",
+  "coordinates": null,
+  "id": 930835947331125248,
+  "truncated": true,
+  "entities": {
+    "urls": [
+      {
+        "url": "https://t.co/q2TH8G9GW0",
+        "display_url": "twitter.com/i/web/status/9\u2026",
+        "indices": [117, 140],
+        "expanded_url": "https://twitter.com/i/web/status/930835947331125248"
+      }
+    ],
+    "symbols": [],
+    "hashtags": [],
+    "user_mentions": [
+      {
+        "indices": [0, 8],
+        "name": "Miren Callejo",
+        "id_str": "954179844",
+        "screen_name": "MirenCZ",
+        "id": 954179844
+      }
+    ]
+  },
+  "timestamp_ms": "1510763558596",
+  "id_str": "930835947331125248"
+}

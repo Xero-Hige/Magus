@@ -1,0 +1,122 @@
+{
+  "geo": null,
+  "filter_level": "low",
+  "in_reply_to_status_id": null,
+  "lang": "es",
+  "favorite_count": 0,
+  "coordinates": null,
+  "favorited": false,
+  "place": {
+    "name": "San Juan",
+    "full_name": "San Juan, Argentina",
+    "place_type": "city",
+    "country": "Argentina",
+    "id": "00d56adc79da66a3",
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [[-68.56829, -31.559809], [-68.56829, -31.50302], [-68.497409, -31.50302], [-68.497409, -31.559809]]
+      ]
+    },
+    "attributes": {},
+    "url": "https://api.twitter.com/1.1/geo/id/00d56adc79da66a3.json",
+    "country_code": "AR"
+  },
+  "contributors": null,
+  "entities": {
+    "hashtags": [],
+    "urls": [
+      {
+        "display_url": "twitter.com/i/web/status/9\u2026",
+        "expanded_url": "https://twitter.com/i/web/status/930632252417077249",
+        "url": "https://t.co/C7xlk0l7EF",
+        "indices": [117, 140]
+      }
+    ],
+    "symbols": [],
+    "user_mentions": [
+      {
+        "id": 3082820547,
+        "id_str": "3082820547",
+        "name": "Lulu",
+        "indices": [0, 14],
+        "screen_name": "casanovatoxic"
+      }
+    ]
+  },
+  "id": 930632252417077249,
+  "user": {
+    "followers_count": 1443,
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme3/bg.gif",
+    "profile_background_color": "EDECE9",
+    "translator_type": "none",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/929778287106252800/BPcPGULD_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1287230408/1510520377",
+    "default_profile": false,
+    "utc_offset": -7200,
+    "lang": "es",
+    "url": "http://instagram.com/migajareducida",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme3/bg.gif",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/929778287106252800/BPcPGULD_normal.jpg",
+    "time_zone": "Brasilia",
+    "profile_sidebar_border_color": "FFFFFF",
+    "profile_use_background_image": true,
+    "id": 1287230408,
+    "profile_link_color": "580980",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_background_tile": true,
+    "geo_enabled": true,
+    "id_str": "1287230408",
+    "verified": false,
+    "name": "Guada",
+    "is_translator": false,
+    "notifications": null,
+    "following": null,
+    "friends_count": 651,
+    "contributors_enabled": false,
+    "screen_name": "migajareducida",
+    "created_at": "Thu Mar 21 23:27:40 +0000 2013",
+    "profile_text_color": "333333",
+    "favourites_count": 17801,
+    "follow_request_sent": null,
+    "description": "No importa si esta lejos o esta a cent\u00edmetros de mi... El siempre va a ser mi lugar en esta vida, porque mi pacto con Agust\u00edn esta escrito en la eternidad \u2728",
+    "default_profile_image": false,
+    "location": "Mis Agustines, nou nou, Valen\u2764",
+    "listed_count": 3,
+    "protected": false,
+    "statuses_count": 42803
+  },
+  "id_str": "930632252417077249",
+  "retweet_count": 0,
+  "retweeted": false,
+  "quote_count": 0,
+  "truncated": true,
+  "in_reply_to_status_id_str": null,
+  "reply_count": 0,
+  "created_at": "Wed Nov 15 03:03:13 +0000 2017",
+  "is_quote_status": false,
+  "in_reply_to_user_id": 3082820547,
+  "timestamp_ms": "1510714993944",
+  "text": "@casanovatoxic feliz cumplea\u00f1os peque\u00f1ita toxic... Espero que pases un hermoso d\u00eda y que la vida siempre te de lo m\u2026 https://t.co/C7xlk0l7EF",
+  "extended_tweet": {
+    "full_text": "@casanovatoxic feliz cumplea\u00f1os peque\u00f1ita toxic... Espero que pases un hermoso d\u00eda y que la vida siempre te de lo mejor. Espero que seas siempre muy feliz y que siempre est\u00e9s rodeada de todo lo bueno... Te adoro mucho peque\u00f1a \u2764\u2728",
+    "display_text_range": [0, 228],
+    "entities": {
+      "hashtags": [],
+      "urls": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "id": 3082820547,
+          "id_str": "3082820547",
+          "name": "Lulu",
+          "indices": [0, 14],
+          "screen_name": "casanovatoxic"
+        }
+      ]
+    }
+  },
+  "in_reply_to_user_id_str": "3082820547",
+  "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+  "in_reply_to_screen_name": "casanovatoxic"
+}

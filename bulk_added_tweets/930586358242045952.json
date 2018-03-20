@@ -1,0 +1,133 @@
+{
+  "geo": null,
+  "filter_level": "low",
+  "in_reply_to_status_id": null,
+  "lang": "es",
+  "favorite_count": 0,
+  "coordinates": null,
+  "favorited": false,
+  "place": {
+    "name": "Santa Marta",
+    "full_name": "Santa Marta, Colombia",
+    "place_type": "city",
+    "country": "Colombia",
+    "id": "00082d21223f8397",
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [[-74.242298, 10.798249], [-74.242298, 11.348676], [-73.612345, 11.348676], [-73.612345, 10.798249]]
+      ]
+    },
+    "attributes": {},
+    "url": "https://api.twitter.com/1.1/geo/id/00082d21223f8397.json",
+    "country_code": "CO"
+  },
+  "contributors": null,
+  "entities": {
+    "hashtags": [],
+    "urls": [
+      {
+        "display_url": "twitter.com/i/web/status/9\u2026",
+        "expanded_url": "https://twitter.com/i/web/status/930586358242045952",
+        "url": "https://t.co/qu8RHBCDoW",
+        "indices": [117, 140]
+      }
+    ],
+    "symbols": [],
+    "user_mentions": [
+      {
+        "id": 545551039,
+        "id_str": "545551039",
+        "name": "Alcald\u00eda Santa Marta",
+        "indices": [29, 44],
+        "screen_name": "SantaMartaDTCH"
+      }
+    ]
+  },
+  "id": 930586358242045952,
+  "user": {
+    "followers_count": 2172,
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+    "profile_background_color": "0099B9",
+    "translator_type": "none",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/877894723339513856/z5jxrE5l_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/137567961/1495755998",
+    "default_profile": false,
+    "utc_offset": -18000,
+    "lang": "es",
+    "url": "http://xn--nario-rta.gov.co/inicio/",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/877894723339513856/z5jxrE5l_normal.jpg",
+    "time_zone": "Bogota",
+    "profile_sidebar_border_color": "5ED4DC",
+    "profile_use_background_image": true,
+    "id": 137567961,
+    "profile_link_color": "0099B9",
+    "profile_sidebar_fill_color": "95E8EC",
+    "profile_background_tile": false,
+    "geo_enabled": true,
+    "id_str": "137567961",
+    "verified": false,
+    "name": "PIERRE ALEE",
+    "is_translator": false,
+    "notifications": null,
+    "following": null,
+    "friends_count": 1398,
+    "contributors_enabled": false,
+    "screen_name": "pierrealee",
+    "created_at": "Tue Apr 27 03:36:38 +0000 2010",
+    "profile_text_color": "3C3940",
+    "favourites_count": 186,
+    "follow_request_sent": null,
+    "description": "Abogado, Administrador Publico, Esp. Gobierno, Esp. Gestion de Proyectos, M.S. Ciencias Politicas",
+    "default_profile_image": false,
+    "location": "Barranquilla - Santa Marta ",
+    "listed_count": 26,
+    "protected": false,
+    "statuses_count": 51709
+  },
+  "id_str": "930586358242045952",
+  "retweet_count": 0,
+  "retweeted": false,
+  "quote_count": 0,
+  "truncated": true,
+  "in_reply_to_status_id_str": null,
+  "reply_count": 0,
+  "created_at": "Wed Nov 15 00:00:51 +0000 2017",
+  "is_quote_status": false,
+  "in_reply_to_user_id": null,
+  "timestamp_ms": "1510704051920",
+  "text": "Desde las nuevas ciudadan\u00edas @SantaMartaDTCH, los convoc\u00f3 a una vigilia permanente en el parque Sim\u00f3n Bol\u00edvar por l\u2026 https://t.co/qu8RHBCDoW",
+  "extended_tweet": {
+    "full_text": "Desde las nuevas ciudadan\u00edas @SantaMartaDTCH, los convoc\u00f3 a una vigilia permanente en el parque Sim\u00f3n Bol\u00edvar por la democracia. Solidaridad y defensa @mrafael70 #RafaNoSeVa",
+    "display_text_range": [0, 173],
+    "entities": {
+      "hashtags": [
+        {
+          "text": "RafaNoSeVa",
+          "indices": [162, 173]
+        }
+      ],
+      "urls": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "id": 545551039,
+          "id_str": "545551039",
+          "name": "Alcald\u00eda Santa Marta",
+          "indices": [29, 44],
+          "screen_name": "SantaMartaDTCH"
+        }, {
+          "id": 253065502,
+          "id_str": "253065502",
+          "name": "Rafael Martinez",
+          "indices": [151, 161],
+          "screen_name": "mrafael70"
+        }
+      ]
+    }
+  },
+  "in_reply_to_user_id_str": null,
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "in_reply_to_screen_name": null
+}

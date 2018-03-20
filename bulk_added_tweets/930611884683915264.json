@@ -1,0 +1,103 @@
+{
+  "geo": {
+    "type": "Point",
+    "coordinates": [-29.23702977, -51.87219308]
+  },
+  "filter_level": "low",
+  "in_reply_to_status_id": null,
+  "lang": "es",
+  "favorite_count": 0,
+  "coordinates": {
+    "type": "Point",
+    "coordinates": [-51.87219308, -29.23702977]
+  },
+  "favorited": false,
+  "place": {
+    "name": "Encantado",
+    "full_name": "Encantado, Brasil",
+    "place_type": "city",
+    "country": "Brasil",
+    "id": "1148668ba02b645a",
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [[-52.004079, -29.294683], [-52.004079, -29.136181], [-51.850828, -29.136181], [-51.850828, -29.294683]]
+      ]
+    },
+    "attributes": {},
+    "url": "https://api.twitter.com/1.1/geo/id/1148668ba02b645a.json",
+    "country_code": "BR"
+  },
+  "contributors": null,
+  "entities": {
+    "hashtags": [],
+    "urls": [
+      {
+        "display_url": "swarmapp.com/c/4x6b8FoySj9",
+        "expanded_url": "https://www.swarmapp.com/c/4x6b8FoySj9",
+        "url": "https://t.co/GpAeID5ioE",
+        "indices": [56, 79]
+      }
+    ],
+    "symbols": [],
+    "user_mentions": []
+  },
+  "id": 930611884683915264,
+  "possibly_sensitive": false,
+  "user": {
+    "followers_count": 771,
+    "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/557999069/pequenas-flores-brancas.jpg",
+    "profile_background_color": "A2A2DB",
+    "translator_type": "none",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/930494132908445696/9rE0wjBB_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/352663870/1499009316",
+    "default_profile": false,
+    "utc_offset": -7200,
+    "lang": "pt",
+    "url": null,
+    "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/557999069/pequenas-flores-brancas.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/930494132908445696/9rE0wjBB_normal.jpg",
+    "time_zone": "Brasilia",
+    "profile_sidebar_border_color": "F505B9",
+    "profile_use_background_image": true,
+    "id": 352663870,
+    "profile_link_color": "FA05B9",
+    "profile_sidebar_fill_color": "FFFFFF",
+    "profile_background_tile": true,
+    "geo_enabled": true,
+    "id_str": "352663870",
+    "verified": false,
+    "name": "Bruna Lasta",
+    "is_translator": false,
+    "notifications": null,
+    "following": null,
+    "friends_count": 914,
+    "contributors_enabled": false,
+    "screen_name": "bru_lasta",
+    "created_at": "Wed Aug 10 22:55:04 +0000 2011",
+    "profile_text_color": "030303",
+    "favourites_count": 2026,
+    "follow_request_sent": null,
+    "description": "snap - brunalasta \ud83d\udc7b Leonina \u264c\ufe0f - 23",
+    "default_profile_image": false,
+    "location": "Encantado, Brasil",
+    "listed_count": 0,
+    "protected": false,
+    "statuses_count": 7630
+  },
+  "id_str": "930611884683915264",
+  "retweet_count": 0,
+  "retweeted": false,
+  "quote_count": 0,
+  "truncated": false,
+  "in_reply_to_status_id_str": null,
+  "reply_count": 0,
+  "created_at": "Wed Nov 15 01:42:17 +0000 2017",
+  "is_quote_status": false,
+  "in_reply_to_user_id": null,
+  "source": "<a href=\"http://foursquare.com\" rel=\"nofollow\">Foursquare</a>",
+  "text": "I'm at Centro Encantado in Encantado, Rio Grande do Sul https://t.co/GpAeID5ioE",
+  "timestamp_ms": "1510710137898",
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null
+}

@@ -1,0 +1,97 @@
+{
+  "created_at": "Wed Nov 30 07:20:12 +0000 2011",
+  "id": 141778538046042112,
+  "id_str": "141778538046042112",
+  "text": "Went upstairs for a min and came back to find my puppy ate a huge corner of my book... #anger",
+  "truncated": false,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "anger",
+        "indices": [87, 93]
+      }
+    ],
+    "symbols": [],
+    "user_mentions": [],
+    "urls": []
+  },
+  "source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iOS</a>",
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 239241559,
+    "id_str": "239241559",
+    "name": "OhKay",
+    "screen_name": "KayCStreet",
+    "location": "Michigan",
+    "description": "",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": []
+      }
+    },
+    "protected": false,
+    "followers_count": 342,
+    "friends_count": 227,
+    "listed_count": 5,
+    "created_at": "Mon Jan 17 04:41:29 +0000 2011",
+    "favourites_count": 3361,
+    "utc_offset": -18000,
+    "time_zone": "Eastern Time (US & Canada)",
+    "geo_enabled": true,
+    "verified": false,
+    "statuses_count": 18900,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "is_translation_enabled": false,
+    "profile_background_color": "EEF279",
+    "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000099793270/87e3b2748cd707ed8e33d75b7f8580a8.png",
+    "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000099793270/87e3b2748cd707ed8e33d75b7f8580a8.png",
+    "profile_background_tile": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/938618307531350016/w-qrx9CY_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/938618307531350016/w-qrx9CY_normal.jpg",
+    "profile_link_color": "FA743E",
+    "profile_sidebar_border_color": "000000",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "has_extended_profile": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false,
+    "translator_type": "none"
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": {
+    "id": "59381e983a8a5770",
+    "url": "https://api.twitter.com/1.1/geo/id/59381e983a8a5770.json",
+    "place_type": "city",
+    "name": "Warren",
+    "full_name": "Warren, MI",
+    "country_code": "US",
+    "country": "Estados Unidos",
+    "contained_within": [],
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [[-83.0868811, 42.4472888], [-82.967096, 42.4472888], [-82.967096, 42.538403], [-83.0868811, 42.538403]]
+      ]
+    },
+    "attributes": {}
+  },
+  "contributors": null,
+  "is_quote_status": false,
+  "retweet_count": 0,
+  "favorite_count": 0,
+  "favorited": false,
+  "retweeted": false,
+  "lang": "en"
+}

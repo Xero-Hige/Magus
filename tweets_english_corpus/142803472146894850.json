@@ -1,0 +1,101 @@
+{
+  "created_at": "Sat Dec 03 03:12:55 +0000 2011",
+  "id": 142803472146894850,
+  "id_str": "142803472146894850",
+  "text": "The book that I'm getting for someone for Christmas was originally written by a German. That explains *everything*. #cantsaymore #surprise",
+  "truncated": false,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "cantsaymore",
+        "indices": [116, 128]
+      }, {
+        "text": "surprise",
+        "indices": [129, 138]
+      }
+    ],
+    "symbols": [],
+    "user_mentions": [],
+    "urls": []
+  },
+  "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 51647515,
+    "id_str": "51647515",
+    "name": "Aaron Moman",
+    "screen_name": "admoman",
+    "location": "Maggie's Farm",
+    "description": "Caution, Fragile Life Here",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": []
+      }
+    },
+    "protected": false,
+    "followers_count": 88,
+    "friends_count": 359,
+    "listed_count": 7,
+    "created_at": "Sun Jun 28 04:14:19 +0000 2009",
+    "favourites_count": 5804,
+    "utc_offset": -21600,
+    "time_zone": "Central Time (US & Canada)",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 6738,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "is_translation_enabled": false,
+    "profile_background_color": "C0DEED",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/627372840178683905/qD2Cnx2z_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/627372840178683905/qD2Cnx2z_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/51647515/1438416864",
+    "profile_link_color": "1DA1F2",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "has_extended_profile": false,
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false,
+    "translator_type": "none"
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": {
+    "id": "a592bd6ceb1319f7",
+    "url": "https://api.twitter.com/1.1/geo/id/a592bd6ceb1319f7.json",
+    "place_type": "city",
+    "name": "San Diego",
+    "full_name": "San Diego, CA",
+    "country_code": "US",
+    "country": "Estados Unidos",
+    "contained_within": [],
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [[-117.282538, 32.53962], [-116.9274403, 32.53962], [-116.9274403, 33.0804044], [-117.282538, 33.0804044]]
+      ]
+    },
+    "attributes": {}
+  },
+  "contributors": null,
+  "is_quote_status": false,
+  "retweet_count": 0,
+  "favorite_count": 0,
+  "favorited": false,
+  "retweeted": false,
+  "lang": "en"
+}

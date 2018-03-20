@@ -1,0 +1,127 @@
+{
+  "geo": null,
+  "filter_level": "low",
+  "in_reply_to_status_id": null,
+  "lang": "es",
+  "favorite_count": 0,
+  "coordinates": null,
+  "favorited": false,
+  "place": {
+    "name": "Las Condes",
+    "full_name": "Las Condes, Chile",
+    "place_type": "city",
+    "country": "Chile",
+    "id": "00c4b64e7affea25",
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [[-70.608694, -33.486182], [-70.608694, -33.364619], [-70.429141, -33.364619], [-70.429141, -33.486182]]
+      ]
+    },
+    "attributes": {},
+    "url": "https://api.twitter.com/1.1/geo/id/00c4b64e7affea25.json",
+    "country_code": "CL"
+  },
+  "contributors": null,
+  "entities": {
+    "hashtags": [],
+    "urls": [
+      {
+        "display_url": "twitter.com/i/web/status/9\u2026",
+        "expanded_url": "https://twitter.com/i/web/status/930622988030042112",
+        "url": "https://t.co/n5qdJwLldT",
+        "indices": [117, 140]
+      }
+    ],
+    "symbols": [],
+    "user_mentions": [
+      {
+        "id": 37966027,
+        "id_str": "37966027",
+        "name": "Monserrat \u00c1lvarez",
+        "indices": [15, 29],
+        "screen_name": "alvarez_monse"
+      }
+    ]
+  },
+  "id": 930622988030042112,
+  "user": {
+    "followers_count": 413,
+    "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000038118760/a7d88166a6c6fcc41bd364cb23aebae8.png",
+    "profile_background_color": "BB87CF",
+    "translator_type": "none",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/924708134542893059/J37Kisqb_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/61410408/1412736340",
+    "default_profile": false,
+    "utc_offset": -10800,
+    "lang": "es",
+    "url": null,
+    "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000038118760/a7d88166a6c6fcc41bd364cb23aebae8.png",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/924708134542893059/J37Kisqb_normal.jpg",
+    "time_zone": "Santiago",
+    "profile_sidebar_border_color": "FFFFFF",
+    "profile_use_background_image": true,
+    "id": 61410408,
+    "profile_link_color": "9237C7",
+    "profile_sidebar_fill_color": "78C0A8",
+    "profile_background_tile": true,
+    "geo_enabled": true,
+    "id_str": "61410408",
+    "verified": false,
+    "name": "Lore Contreras",
+    "is_translator": false,
+    "notifications": null,
+    "following": null,
+    "friends_count": 575,
+    "contributors_enabled": false,
+    "screen_name": "lorecontreras",
+    "created_at": "Thu Jul 30 06:18:25 +0000 2009",
+    "profile_text_color": "5E412F",
+    "favourites_count": 828,
+    "follow_request_sent": null,
+    "description": "https://t.co/dVpESxiFbW en Salud Familiar y Facilitadora @TriplePChile.Feligresa del Metal\ud83e\udd18\ud83c\udffb. Catlover.Artista aficionada. Siempre con hambre\ud83d\udc37Casada con @docmartinplaza",
+    "default_profile_image": false,
+    "location": "santiago",
+    "listed_count": 8,
+    "protected": false,
+    "statuses_count": 5205
+  },
+  "id_str": "930622988030042112",
+  "retweet_count": 0,
+  "retweeted": false,
+  "quote_count": 0,
+  "truncated": true,
+  "in_reply_to_status_id_str": null,
+  "reply_count": 0,
+  "created_at": "Wed Nov 15 02:26:25 +0000 2017",
+  "is_quote_status": false,
+  "in_reply_to_user_id": null,
+  "timestamp_ms": "1510712785142",
+  "text": "Felicitaciones @alvarez_monse, muy buen programa! Siempre he pensado que el aeropuerto est\u00e1 cargadisimo de pena y a\u2026 https://t.co/n5qdJwLldT",
+  "extended_tweet": {
+    "full_text": "Felicitaciones @alvarez_monse, muy buen programa! Siempre he pensado que el aeropuerto est\u00e1 cargadisimo de pena y alegr\u00eda a la vez. Es muy interesante detenerse en cada historia. #HolayAdios",
+    "display_text_range": [0, 190],
+    "entities": {
+      "hashtags": [
+        {
+          "text": "HolayAdios",
+          "indices": [179, 190]
+        }
+      ],
+      "urls": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "id": 37966027,
+          "id_str": "37966027",
+          "name": "Monserrat \u00c1lvarez",
+          "indices": [15, 29],
+          "screen_name": "alvarez_monse"
+        }
+      ]
+    }
+  },
+  "in_reply_to_user_id_str": null,
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "in_reply_to_screen_name": null
+}

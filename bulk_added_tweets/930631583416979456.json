@@ -1,0 +1,122 @@
+{
+  "geo": null,
+  "filter_level": "low",
+  "in_reply_to_status_id": null,
+  "lang": "es",
+  "favorite_count": 0,
+  "coordinates": null,
+  "favorited": false,
+  "place": {
+    "name": "Puebla",
+    "full_name": "Puebla, M\u00e9xico",
+    "place_type": "city",
+    "country": "M\u00e9xico",
+    "id": "0ac8a42f23e8f736",
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [[-98.289206, 18.83765], [-98.289206, 19.226809], [-98.019327, 19.226809], [-98.019327, 18.83765]]
+      ]
+    },
+    "attributes": {},
+    "url": "https://api.twitter.com/1.1/geo/id/0ac8a42f23e8f736.json",
+    "country_code": "MX"
+  },
+  "contributors": null,
+  "entities": {
+    "hashtags": [],
+    "urls": [
+      {
+        "display_url": "twitter.com/i/web/status/9\u2026",
+        "expanded_url": "https://twitter.com/i/web/status/930631583416979456",
+        "url": "https://t.co/dDKRPuNB7l",
+        "indices": [117, 140]
+      }
+    ],
+    "symbols": [],
+    "user_mentions": [
+      {
+        "id": 107280900,
+        "id_str": "107280900",
+        "name": "Erick Becerra",
+        "indices": [74, 88],
+        "screen_name": "erickbecerra1"
+      }
+    ]
+  },
+  "id": 930631583416979456,
+  "user": {
+    "followers_count": 1041,
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+    "profile_background_color": "000000",
+    "translator_type": "none",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/895000204893716480/ee0e-BXm_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/90554916/1500003139",
+    "default_profile": false,
+    "utc_offset": -21600,
+    "lang": "es",
+    "url": "http://www.facebook.com/Eddiejimenez",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/895000204893716480/ee0e-BXm_normal.jpg",
+    "time_zone": "Mexico City",
+    "profile_sidebar_border_color": "000000",
+    "profile_use_background_image": false,
+    "id": 90554916,
+    "profile_link_color": "000000",
+    "profile_sidebar_fill_color": "000000",
+    "profile_background_tile": false,
+    "geo_enabled": true,
+    "id_str": "90554916",
+    "verified": false,
+    "name": "Eddie Jim\u00e9nez",
+    "is_translator": false,
+    "notifications": null,
+    "following": null,
+    "friends_count": 1603,
+    "contributors_enabled": false,
+    "screen_name": "iEddieJimenez",
+    "created_at": "Tue Nov 17 03:36:25 +0000 2009",
+    "profile_text_color": "000000",
+    "favourites_count": 6322,
+    "follow_request_sent": null,
+    "description": "| Founder & CEO #EddieJim\u00e9nezBowties |  MKT en @LosRostros y @sintesisweb | Amante de la moda | Ser Humano \ud83d\udc99| Xalape\u00f1o en Puebla | \n\n*Tweets a t\u00edtulo personal",
+    "default_profile_image": false,
+    "location": "Puebla, M\u00e9xico",
+    "listed_count": 16,
+    "protected": false,
+    "statuses_count": 20089
+  },
+  "id_str": "930631583416979456",
+  "retweet_count": 0,
+  "retweeted": false,
+  "quote_count": 0,
+  "truncated": true,
+  "in_reply_to_status_id_str": null,
+  "reply_count": 0,
+  "created_at": "Wed Nov 15 03:00:34 +0000 2017",
+  "is_quote_status": false,
+  "in_reply_to_user_id": null,
+  "timestamp_ms": "1510714834442",
+  "text": "\u00a1Hoy cumple uno de mis compa\u00f1eros de trabajo favorito! \n\nFeliz cumplea\u00f1os @erickbecerra1 \ud83c\udf82\ud83c\udf89 espero que la hayas pas\u2026 https://t.co/dDKRPuNB7l",
+  "extended_tweet": {
+    "full_text": "\u00a1Hoy cumple uno de mis compa\u00f1eros de trabajo favorito! \n\nFeliz cumplea\u00f1os @erickbecerra1 \ud83c\udf82\ud83c\udf89 espero que la hayas pasado incre\u00edble \ud83d\ude0b \n\n\u00a1Un enorme gusto y agradecimiento poder compartir espacios contigo! \ud83e\udd17",
+    "display_text_range": [0, 202],
+    "entities": {
+      "hashtags": [],
+      "urls": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "id": 107280900,
+          "id_str": "107280900",
+          "name": "Erick Becerra",
+          "indices": [74, 88],
+          "screen_name": "erickbecerra1"
+        }
+      ]
+    }
+  },
+  "in_reply_to_user_id_str": null,
+  "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+  "in_reply_to_screen_name": null
+}

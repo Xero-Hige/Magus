@@ -1,0 +1,122 @@
+{
+  "created_at": "Sun Jun 22 12:21:14 +0000 2014",
+  "id": 480686948903043072,
+  "id_str": "480686948903043072",
+  "text": "#NadaMasFeoQue en la Calle Alcal\u00e1 21, Metro Sevilla, en Coffee &amp; Salads te sirvan un zumo de naranja con larvas de insecto. @coffeeandsalad",
+  "truncated": false,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "NadaMasFeoQue",
+        "indices": [0, 14]
+      }
+    ],
+    "symbols": [],
+    "user_mentions": [
+      {
+        "screen_name": "Coffeeandsalad",
+        "name": "COFFEE & SALADS",
+        "id": 2456149608,
+        "id_str": "2456149608",
+        "indices": [128, 143]
+      }
+    ],
+    "urls": []
+  },
+  "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 606425018,
+    "id_str": "606425018",
+    "name": "RA\u00dcL \u221e",
+    "screen_name": "raulmad",
+    "location": "Madrid",
+    "description": "29, madrile\u00f1o, cul\u00e9, libra, Jedi... De noche limpio las calles de #Madrid de gentuza como t\u00fa, nanananana \u266a \u266a...",
+    "url": "https://t.co/msHmirAL1w",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "https://t.co/msHmirAL1w",
+            "expanded_url": "http://instagram.com/raulmadr",
+            "display_url": "instagram.com/raulmadr",
+            "indices": [0, 23]
+          }
+        ]
+      },
+      "description": {
+        "urls": []
+      }
+    },
+    "protected": false,
+    "followers_count": 261,
+    "friends_count": 105,
+    "listed_count": 7,
+    "created_at": "Tue Jun 12 16:02:00 +0000 2012",
+    "favourites_count": 5369,
+    "utc_offset": 3600,
+    "time_zone": "Madrid",
+    "geo_enabled": true,
+    "verified": false,
+    "statuses_count": 13929,
+    "lang": "es",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "is_translation_enabled": false,
+    "profile_background_color": "1A1B1F",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+    "profile_background_tile": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/646207032664715265/ao9Dus1U_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/646207032664715265/ao9Dus1U_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/606425018/1479214005",
+    "profile_link_color": "990000",
+    "profile_sidebar_border_color": "000000",
+    "profile_sidebar_fill_color": "252429",
+    "profile_text_color": "666666",
+    "profile_use_background_image": true,
+    "has_extended_profile": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false,
+    "translator_type": "regular"
+  },
+  "geo": {
+    "type": "Point",
+    "coordinates": [40.4274187, -3.6623576]
+  },
+  "coordinates": {
+    "type": "Point",
+    "coordinates": [-3.6623576, 40.4274187]
+  },
+  "place": {
+    "id": "c6a1f1f8e7db637a",
+    "url": "https://api.twitter.com/1.1/geo/id/c6a1f1f8e7db637a.json",
+    "place_type": "city",
+    "name": "Madrid",
+    "full_name": "Madrid, Espa\u00f1a",
+    "country_code": "ES",
+    "country": "Espa\u00f1a",
+    "contained_within": [],
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [[-3.8890049, 40.3120713], [-3.5180102, 40.3120713], [-3.5180102, 40.6435181], [-3.8890049, 40.6435181]]
+      ]
+    },
+    "attributes": {}
+  },
+  "contributors": null,
+  "is_quote_status": false,
+  "retweet_count": 0,
+  "favorite_count": 0,
+  "favorited": false,
+  "retweeted": false,
+  "lang": "es"
+}

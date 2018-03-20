@@ -1,0 +1,104 @@
+{
+  "created_at": "Tue Jun 24 16:13:38 +0000 2014",
+  "id": 481470212945223680,
+  "id_str": "481470212945223680",
+  "text": "Es genial que en tw arriba me aparezca un icono de los paises que estan jugando . #genial",
+  "truncated": false,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "genial",
+        "indices": [82, 89]
+      }
+    ],
+    "symbols": [],
+    "user_mentions": [],
+    "urls": []
+  },
+  "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 1005708013,
+    "id_str": "1005708013",
+    "name": "Srta Cami Lopez .",
+    "screen_name": "lopezcamOK",
+    "location": "Benito Ju\u00e1rez ",
+    "description": "Soy una mama felizzzzzzzz    Pierino \u263a",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": []
+      }
+    },
+    "protected": false,
+    "followers_count": 434,
+    "friends_count": 402,
+    "listed_count": 0,
+    "created_at": "Wed Dec 12 06:09:13 +0000 2012",
+    "favourites_count": 345,
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": true,
+    "verified": false,
+    "statuses_count": 10309,
+    "lang": "es",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "is_translation_enabled": false,
+    "profile_background_color": "DEADDC",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+    "profile_background_tile": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/576073343255900161/28U7X9Ah_normal.jpeg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/576073343255900161/28U7X9Ah_normal.jpeg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1005708013/1426181547",
+    "profile_link_color": "038543",
+    "profile_sidebar_border_color": "FFFFFF",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "has_extended_profile": false,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false,
+    "translator_type": "none"
+  },
+  "geo": {
+    "type": "Point",
+    "coordinates": [-37.6710623, -59.8046735]
+  },
+  "coordinates": {
+    "type": "Point",
+    "coordinates": [-59.8046735, -37.6710623]
+  },
+  "place": {
+    "id": "4afa2757051c5192",
+    "url": "https://api.twitter.com/1.1/geo/id/4afa2757051c5192.json",
+    "place_type": "admin",
+    "name": "Buenos Aires",
+    "full_name": "Buenos Aires, Argentina",
+    "country_code": "AR",
+    "country": "Argentina",
+    "contained_within": [],
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [[-63.39386, -41.035009], [-56.665836, -41.035009], [-56.665836, -33.260144], [-63.39386, -33.260144]]
+      ]
+    },
+    "attributes": {}
+  },
+  "contributors": null,
+  "is_quote_status": false,
+  "retweet_count": 0,
+  "favorite_count": 0,
+  "favorited": false,
+  "retweeted": false,
+  "lang": "es"
+}

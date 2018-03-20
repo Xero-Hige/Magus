@@ -1,0 +1,122 @@
+{
+  "created_at": "Fri Oct 03 03:29:37 +0000 2014",
+  "id": 517879116058886144,
+  "id_str": "517879116058886144",
+  "text": "Gracias a todos por hacernos siempre el aguante!!! #increible show de @mmfaiad",
+  "truncated": false,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "increible",
+        "indices": [51, 61]
+      }
+    ],
+    "symbols": [],
+    "user_mentions": [
+      {
+        "screen_name": "mmfaiad",
+        "name": "Micaela Faiad",
+        "id": 2763422229,
+        "id_str": "2763422229",
+        "indices": [70, 78]
+      }
+    ],
+    "urls": []
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 324561304,
+    "id_str": "324561304",
+    "name": "z\u03b1\u00a2\u03b1\u03c1\u0454\u03b9\u044f\u03b1\u03b7\u03c3",
+    "screen_name": "zacapeirano",
+    "location": "Loberia/La Plata",
+    "description": "M\u00fasico / Falsa via / instagram: zacapeirano",
+    "url": "https://t.co/GZnMJnMmET",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "https://t.co/GZnMJnMmET",
+            "expanded_url": "http://facebook.com/zacapeirano",
+            "display_url": "facebook.com/zacapeirano",
+            "indices": [0, 23]
+          }
+        ]
+      },
+      "description": {
+        "urls": []
+      }
+    },
+    "protected": false,
+    "followers_count": 525,
+    "friends_count": 480,
+    "listed_count": 0,
+    "created_at": "Sun Jun 26 21:01:39 +0000 2011",
+    "favourites_count": 1284,
+    "utc_offset": -10800,
+    "time_zone": "Buenos Aires",
+    "geo_enabled": true,
+    "verified": false,
+    "statuses_count": 3944,
+    "lang": "es",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "is_translation_enabled": false,
+    "profile_background_color": "131516",
+    "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/799790698/5fd32e8c4f4a711095e8d1d146eb0247.jpeg",
+    "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/799790698/5fd32e8c4f4a711095e8d1d146eb0247.jpeg",
+    "profile_background_tile": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/910345842229379072/zf-DZeyP_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/910345842229379072/zf-DZeyP_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/324561304/1422297400",
+    "profile_link_color": "ABB8C2",
+    "profile_sidebar_border_color": "000000",
+    "profile_sidebar_fill_color": "CFCFC7",
+    "profile_text_color": "10313B",
+    "profile_use_background_image": true,
+    "has_extended_profile": false,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false,
+    "translator_type": "none"
+  },
+  "geo": {
+    "type": "Point",
+    "coordinates": [-34.92857725, -57.95427805]
+  },
+  "coordinates": {
+    "type": "Point",
+    "coordinates": [-57.95427805, -34.92857725]
+  },
+  "place": {
+    "id": "0177894212b08f73",
+    "url": "https://api.twitter.com/1.1/geo/id/0177894212b08f73.json",
+    "place_type": "city",
+    "name": "La Plata",
+    "full_name": "La Plata, Argentina",
+    "country_code": "AR",
+    "country": "Argentina",
+    "contained_within": [],
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [[-58.160874, -35.031373], [-57.865169, -35.031373], [-57.865169, -34.841264], [-58.160874, -34.841264]]
+      ]
+    },
+    "attributes": {}
+  },
+  "contributors": null,
+  "is_quote_status": false,
+  "retweet_count": 1,
+  "favorite_count": 0,
+  "favorited": false,
+  "retweeted": false,
+  "lang": "es"
+}

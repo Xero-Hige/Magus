@@ -1,0 +1,352 @@
+{
+  "is_quote_status": false,
+  "quote_count": 0,
+  "in_reply_to_user_id_str": null,
+  "favorite_count": 0,
+  "in_reply_to_status_id": null,
+  "id_str": "930559215093125120",
+  "filter_level": "low",
+  "reply_count": 0,
+  "timestamp_ms": "1510697580489",
+  "id": 930559215093125120,
+  "display_text_range": [0, 140],
+  "coordinates": null,
+  "in_reply_to_screen_name": null,
+  "truncated": true,
+  "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+  "place": {
+    "bounding_box": {
+      "coordinates": [
+        [[-80.442683, 25.992486], [-80.442683, 26.063293], [-80.213314, 26.063293], [-80.213314, 25.992486]]
+      ],
+      "type": "Polygon"
+    },
+    "url": "https://api.twitter.com/1.1/geo/id/5727d936119423c0.json",
+    "country_code": "US",
+    "name": "Pembroke Pines",
+    "full_name": "Pembroke Pines, FL",
+    "id": "5727d936119423c0",
+    "place_type": "city",
+    "attributes": {},
+    "country": "Estados Unidos"
+  },
+  "retweet_count": 0,
+  "extended_tweet": {
+    "display_text_range": [0, 242],
+    "entities": {
+      "user_mentions": [
+        {
+          "id": 435374724,
+          "screen_name": "kikodangelo",
+          "id_str": "435374724",
+          "indices": [61, 73],
+          "name": "Kiko D'Angelo"
+        }, {
+          "id": 715599161027072001,
+          "screen_name": "MenesesJockey",
+          "id_str": "715599161027072001",
+          "indices": [141, 155],
+          "name": "Marcos Meneses"
+        }
+      ],
+      "urls": [],
+      "symbols": [],
+      "hashtags": [
+        {
+          "text": "Hipismo",
+          "indices": [0, 8]
+        }, {
+          "text": "4Motatan",
+          "indices": [32, 41]
+        }, {
+          "text": "GPWest",
+          "indices": [109, 116]
+        }, {
+          "text": "MagicStable",
+          "indices": [165, 177]
+        }
+      ],
+      "media": [
+        {
+          "media_url_https": "https://pbs.twimg.com/media/DOoCoqqWAAUqsJP.jpg",
+          "expanded_url": "https://twitter.com/CaribePalma/status/930559215093125120/photo/1",
+          "id_str": "930559170675343365",
+          "media_url": "http://pbs.twimg.com/media/DOoCoqqWAAUqsJP.jpg",
+          "display_url": "pic.twitter.com/dqMnxpj1WG",
+          "id": 930559170675343365,
+          "indices": [243, 266],
+          "type": "photo",
+          "url": "https://t.co/dqMnxpj1WG",
+          "sizes": {
+            "medium": {
+              "resize": "fit",
+              "h": 884,
+              "w": 1024
+            },
+            "large": {
+              "resize": "fit",
+              "h": 884,
+              "w": 1024
+            },
+            "thumb": {
+              "resize": "crop",
+              "h": 150,
+              "w": 150
+            },
+            "small": {
+              "resize": "fit",
+              "h": 587,
+              "w": 680
+            }
+          }
+        }, {
+          "media_url_https": "https://pbs.twimg.com/media/DOoCpRNWAAAVd9C.jpg",
+          "expanded_url": "https://twitter.com/CaribePalma/status/930559215093125120/photo/1",
+          "id_str": "930559181022691328",
+          "media_url": "http://pbs.twimg.com/media/DOoCpRNWAAAVd9C.jpg",
+          "display_url": "pic.twitter.com/dqMnxpj1WG",
+          "id": 930559181022691328,
+          "indices": [243, 266],
+          "type": "photo",
+          "url": "https://t.co/dqMnxpj1WG",
+          "sizes": {
+            "small": {
+              "resize": "fit",
+              "h": 383,
+              "w": 680
+            },
+            "large": {
+              "resize": "fit",
+              "h": 1109,
+              "w": 1971
+            },
+            "thumb": {
+              "resize": "crop",
+              "h": 150,
+              "w": 150
+            },
+            "medium": {
+              "resize": "fit",
+              "h": 675,
+              "w": 1200
+            }
+          }
+        }, {
+          "media_url_https": "https://pbs.twimg.com/media/DOoCqZCX0AAYTUK.jpg",
+          "expanded_url": "https://twitter.com/CaribePalma/status/930559215093125120/photo/1",
+          "id_str": "930559200304025600",
+          "media_url": "http://pbs.twimg.com/media/DOoCqZCX0AAYTUK.jpg",
+          "display_url": "pic.twitter.com/dqMnxpj1WG",
+          "id": 930559200304025600,
+          "indices": [243, 266],
+          "type": "photo",
+          "url": "https://t.co/dqMnxpj1WG",
+          "sizes": {
+            "small": {
+              "resize": "fit",
+              "h": 383,
+              "w": 680
+            },
+            "large": {
+              "resize": "fit",
+              "h": 1100,
+              "w": 1954
+            },
+            "thumb": {
+              "resize": "crop",
+              "h": 150,
+              "w": 150
+            },
+            "medium": {
+              "resize": "fit",
+              "h": 676,
+              "w": 1200
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "media_url_https": "https://pbs.twimg.com/media/DOoCoqqWAAUqsJP.jpg",
+          "expanded_url": "https://twitter.com/CaribePalma/status/930559215093125120/photo/1",
+          "id_str": "930559170675343365",
+          "media_url": "http://pbs.twimg.com/media/DOoCoqqWAAUqsJP.jpg",
+          "display_url": "pic.twitter.com/dqMnxpj1WG",
+          "id": 930559170675343365,
+          "indices": [243, 266],
+          "type": "photo",
+          "url": "https://t.co/dqMnxpj1WG",
+          "sizes": {
+            "medium": {
+              "resize": "fit",
+              "h": 884,
+              "w": 1024
+            },
+            "large": {
+              "resize": "fit",
+              "h": 884,
+              "w": 1024
+            },
+            "thumb": {
+              "resize": "crop",
+              "h": 150,
+              "w": 150
+            },
+            "small": {
+              "resize": "fit",
+              "h": 587,
+              "w": 680
+            }
+          }
+        }, {
+          "media_url_https": "https://pbs.twimg.com/media/DOoCpRNWAAAVd9C.jpg",
+          "expanded_url": "https://twitter.com/CaribePalma/status/930559215093125120/photo/1",
+          "id_str": "930559181022691328",
+          "media_url": "http://pbs.twimg.com/media/DOoCpRNWAAAVd9C.jpg",
+          "display_url": "pic.twitter.com/dqMnxpj1WG",
+          "id": 930559181022691328,
+          "indices": [243, 266],
+          "type": "photo",
+          "url": "https://t.co/dqMnxpj1WG",
+          "sizes": {
+            "small": {
+              "resize": "fit",
+              "h": 383,
+              "w": 680
+            },
+            "large": {
+              "resize": "fit",
+              "h": 1109,
+              "w": 1971
+            },
+            "thumb": {
+              "resize": "crop",
+              "h": 150,
+              "w": 150
+            },
+            "medium": {
+              "resize": "fit",
+              "h": 675,
+              "w": 1200
+            }
+          }
+        }, {
+          "media_url_https": "https://pbs.twimg.com/media/DOoCqZCX0AAYTUK.jpg",
+          "expanded_url": "https://twitter.com/CaribePalma/status/930559215093125120/photo/1",
+          "id_str": "930559200304025600",
+          "media_url": "http://pbs.twimg.com/media/DOoCqZCX0AAYTUK.jpg",
+          "display_url": "pic.twitter.com/dqMnxpj1WG",
+          "id": 930559200304025600,
+          "indices": [243, 266],
+          "type": "photo",
+          "url": "https://t.co/dqMnxpj1WG",
+          "sizes": {
+            "small": {
+              "resize": "fit",
+              "h": 383,
+              "w": 680
+            },
+            "large": {
+              "resize": "fit",
+              "h": 1100,
+              "w": 1954
+            },
+            "thumb": {
+              "resize": "crop",
+              "h": 150,
+              "w": 150
+            },
+            "medium": {
+              "resize": "fit",
+              "h": 676,
+              "w": 1200
+            }
+          }
+        }
+      ]
+    },
+    "full_text": "#Hipismo \nEl Alazan cara blanca #4Motatan pupilo del Campe\u00f3n @kikodangelo gan\u00f3 galopando la \u00faltima de hoy en #GPWest, muy bien conducido por @MenesesJockey, el Stud #MagicStable celebra el triunfo... Felicitaciones a nuestros queridos amigos! https://t.co/dqMnxpj1WG"
+  },
+  "created_at": "Tue Nov 14 22:13:00 +0000 2017",
+  "favorited": false,
+  "text": "#Hipismo \nEl Alazan cara blanca #4Motatan pupilo del Campe\u00f3n @kikodangelo gan\u00f3 galopando la \u00faltima de hoy en\u2026 https://t.co/sJUUfZcqXr",
+  "in_reply_to_user_id": null,
+  "geo": null,
+  "lang": "es",
+  "contributors": null,
+  "in_reply_to_status_id_str": null,
+  "user": {
+    "protected": false,
+    "following": null,
+    "profile_text_color": "333333",
+    "profile_background_color": "C0DEED",
+    "statuses_count": 2336,
+    "default_profile": true,
+    "favourites_count": 2861,
+    "friends_count": 349,
+    "follow_request_sent": null,
+    "profile_sidebar_fill_color": "DDEEF6",
+    "translator_type": "none",
+    "notifications": null,
+    "id_str": "218267505",
+    "screen_name": "CaribePalma",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/218267505/1485723742",
+    "verified": false,
+    "id": 218267505,
+    "profile_use_background_image": true,
+    "description": "Amo a mi Padre y creo en \u00c9l, DIOS. Pronosticador y Analista H\u00edpico de Radio y TV/ I Love my Father and I believe in Him, GOD. TV Analyst and Handicapper.",
+    "utc_offset": null,
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "is_translator": false,
+    "listed_count": 26,
+    "default_profile_image": false,
+    "contributors_enabled": false,
+    "followers_count": 5257,
+    "location": "Florida, USA",
+    "created_at": "Sun Nov 21 21:51:27 +0000 2010",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/782028955125747712/C9FIQEd8_normal.jpg",
+    "geo_enabled": true,
+    "time_zone": null,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/782028955125747712/C9FIQEd8_normal.jpg",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_link_color": "1DA1F2",
+    "lang": "es",
+    "name": "Juan Carlos Palma",
+    "profile_background_tile": false,
+    "url": null,
+    "profile_sidebar_border_color": "C0DEED"
+  },
+  "possibly_sensitive": false,
+  "entities": {
+    "user_mentions": [
+      {
+        "id": 435374724,
+        "screen_name": "kikodangelo",
+        "id_str": "435374724",
+        "indices": [61, 73],
+        "name": "Kiko D'Angelo"
+      }
+    ],
+    "urls": [
+      {
+        "expanded_url": "https://twitter.com/i/web/status/930559215093125120",
+        "url": "https://t.co/sJUUfZcqXr",
+        "indices": [110, 133],
+        "display_url": "twitter.com/i/web/status/9\u2026"
+      }
+    ],
+    "symbols": [],
+    "hashtags": [
+      {
+        "text": "Hipismo",
+        "indices": [0, 8]
+      }, {
+        "text": "4Motatan",
+        "indices": [32, 41]
+      }
+    ]
+  },
+  "retweeted": false
+}

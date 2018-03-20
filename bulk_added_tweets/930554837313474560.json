@@ -1,0 +1,322 @@
+{
+  "is_quote_status": false,
+  "quote_count": 0,
+  "in_reply_to_user_id_str": null,
+  "favorite_count": 0,
+  "in_reply_to_status_id": null,
+  "id_str": "930554837313474560",
+  "filter_level": "low",
+  "reply_count": 0,
+  "timestamp_ms": "1510696536745",
+  "id": 930554837313474560,
+  "display_text_range": [0, 140],
+  "coordinates": null,
+  "in_reply_to_screen_name": null,
+  "truncated": true,
+  "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+  "place": {
+    "bounding_box": {
+      "coordinates": [[[-74.483289, 3.717432], [-74.483289, 4.807135], [-74.004053, 4.807135], [-74.004053, 3.717432]]],
+      "type": "Polygon"
+    },
+    "url": "https://api.twitter.com/1.1/geo/id/0161be1b3f98d6c3.json",
+    "country_code": "CO",
+    "name": "Bogot\u00e1, D.C.",
+    "full_name": "Bogot\u00e1, D.C., Colombia",
+    "id": "0161be1b3f98d6c3",
+    "place_type": "city",
+    "attributes": {},
+    "country": "Colombia"
+  },
+  "retweet_count": 0,
+  "extended_tweet": {
+    "display_text_range": [0, 152],
+    "entities": {
+      "user_mentions": [],
+      "urls": [],
+      "symbols": [],
+      "hashtags": [
+        {
+          "text": "Empleo",
+          "indices": [38, 45]
+        }, {
+          "text": "FNEE2017",
+          "indices": [123, 132]
+        }, {
+          "text": "NosAcercaAlTrabajo",
+          "indices": [133, 152]
+        }
+      ],
+      "media": [
+        {
+          "media_url_https": "https://pbs.twimg.com/media/DOn-VQIXcAUlx5t.jpg",
+          "expanded_url": "https://twitter.com/ccfcomfatolima/status/930554837313474560/photo/1",
+          "id_str": "930554439089483781",
+          "media_url": "http://pbs.twimg.com/media/DOn-VQIXcAUlx5t.jpg",
+          "display_url": "pic.twitter.com/g2FGycr08p",
+          "id": 930554439089483781,
+          "indices": [153, 176],
+          "type": "photo",
+          "url": "https://t.co/g2FGycr08p",
+          "sizes": {
+            "medium": {
+              "resize": "fit",
+              "h": 668,
+              "w": 1200
+            },
+            "large": {
+              "resize": "fit",
+              "h": 1125,
+              "w": 2021
+            },
+            "thumb": {
+              "resize": "crop",
+              "h": 150,
+              "w": 150
+            },
+            "small": {
+              "resize": "fit",
+              "h": 379,
+              "w": 680
+            }
+          }
+        }, {
+          "media_url_https": "https://pbs.twimg.com/media/DOn-VRgX4AMmvfz.jpg",
+          "expanded_url": "https://twitter.com/ccfcomfatolima/status/930554837313474560/photo/1",
+          "id_str": "930554439458611203",
+          "media_url": "http://pbs.twimg.com/media/DOn-VRgX4AMmvfz.jpg",
+          "display_url": "pic.twitter.com/g2FGycr08p",
+          "id": 930554439458611203,
+          "indices": [153, 176],
+          "type": "photo",
+          "url": "https://t.co/g2FGycr08p",
+          "sizes": {
+            "medium": {
+              "resize": "fit",
+              "h": 668,
+              "w": 1200
+            },
+            "large": {
+              "resize": "fit",
+              "h": 1125,
+              "w": 2021
+            },
+            "thumb": {
+              "resize": "crop",
+              "h": 150,
+              "w": 150
+            },
+            "small": {
+              "resize": "fit",
+              "h": 379,
+              "w": 680
+            }
+          }
+        }, {
+          "media_url_https": "https://pbs.twimg.com/media/DOn-VRpX4AADPNk.jpg",
+          "expanded_url": "https://twitter.com/ccfcomfatolima/status/930554837313474560/photo/1",
+          "id_str": "930554439496359936",
+          "media_url": "http://pbs.twimg.com/media/DOn-VRpX4AADPNk.jpg",
+          "display_url": "pic.twitter.com/g2FGycr08p",
+          "id": 930554439496359936,
+          "indices": [153, 176],
+          "type": "photo",
+          "url": "https://t.co/g2FGycr08p",
+          "sizes": {
+            "medium": {
+              "resize": "fit",
+              "h": 668,
+              "w": 1200
+            },
+            "large": {
+              "resize": "fit",
+              "h": 1125,
+              "w": 2021
+            },
+            "thumb": {
+              "resize": "crop",
+              "h": 150,
+              "w": 150
+            },
+            "small": {
+              "resize": "fit",
+              "h": 379,
+              "w": 680
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "media_url_https": "https://pbs.twimg.com/media/DOn-VQIXcAUlx5t.jpg",
+          "expanded_url": "https://twitter.com/ccfcomfatolima/status/930554837313474560/photo/1",
+          "id_str": "930554439089483781",
+          "media_url": "http://pbs.twimg.com/media/DOn-VQIXcAUlx5t.jpg",
+          "display_url": "pic.twitter.com/g2FGycr08p",
+          "id": 930554439089483781,
+          "indices": [153, 176],
+          "type": "photo",
+          "url": "https://t.co/g2FGycr08p",
+          "sizes": {
+            "medium": {
+              "resize": "fit",
+              "h": 668,
+              "w": 1200
+            },
+            "large": {
+              "resize": "fit",
+              "h": 1125,
+              "w": 2021
+            },
+            "thumb": {
+              "resize": "crop",
+              "h": 150,
+              "w": 150
+            },
+            "small": {
+              "resize": "fit",
+              "h": 379,
+              "w": 680
+            }
+          }
+        }, {
+          "media_url_https": "https://pbs.twimg.com/media/DOn-VRgX4AMmvfz.jpg",
+          "expanded_url": "https://twitter.com/ccfcomfatolima/status/930554837313474560/photo/1",
+          "id_str": "930554439458611203",
+          "media_url": "http://pbs.twimg.com/media/DOn-VRgX4AMmvfz.jpg",
+          "display_url": "pic.twitter.com/g2FGycr08p",
+          "id": 930554439458611203,
+          "indices": [153, 176],
+          "type": "photo",
+          "url": "https://t.co/g2FGycr08p",
+          "sizes": {
+            "medium": {
+              "resize": "fit",
+              "h": 668,
+              "w": 1200
+            },
+            "large": {
+              "resize": "fit",
+              "h": 1125,
+              "w": 2021
+            },
+            "thumb": {
+              "resize": "crop",
+              "h": 150,
+              "w": 150
+            },
+            "small": {
+              "resize": "fit",
+              "h": 379,
+              "w": 680
+            }
+          }
+        }, {
+          "media_url_https": "https://pbs.twimg.com/media/DOn-VRpX4AADPNk.jpg",
+          "expanded_url": "https://twitter.com/ccfcomfatolima/status/930554837313474560/photo/1",
+          "id_str": "930554439496359936",
+          "media_url": "http://pbs.twimg.com/media/DOn-VRpX4AADPNk.jpg",
+          "display_url": "pic.twitter.com/g2FGycr08p",
+          "id": 930554439496359936,
+          "indices": [153, 176],
+          "type": "photo",
+          "url": "https://t.co/g2FGycr08p",
+          "sizes": {
+            "medium": {
+              "resize": "fit",
+              "h": 668,
+              "w": 1200
+            },
+            "large": {
+              "resize": "fit",
+              "h": 1125,
+              "w": 2021
+            },
+            "thumb": {
+              "resize": "crop",
+              "h": 150,
+              "w": 150
+            },
+            "small": {
+              "resize": "fit",
+              "h": 379,
+              "w": 680
+            }
+          }
+        }
+      ]
+    },
+    "full_text": "M\u00e1s ofertas laborales del servicio de #Empleo ComfaTolima!! \nLos esperamos en la Feria Nacional de Empleo y del Empresario #FNEE2017 #NosAcercaAlTrabajo https://t.co/g2FGycr08p"
+  },
+  "created_at": "Tue Nov 14 21:55:36 +0000 2017",
+  "favorited": false,
+  "text": "M\u00e1s ofertas laborales del servicio de #Empleo ComfaTolima!! \nLos esperamos en la Feria Nacional de Empleo y del Emp\u2026 https://t.co/HqLjs0DrVd",
+  "in_reply_to_user_id": null,
+  "geo": null,
+  "lang": "es",
+  "contributors": null,
+  "in_reply_to_status_id_str": null,
+  "user": {
+    "protected": false,
+    "following": null,
+    "profile_text_color": "333333",
+    "profile_background_color": "FFFFFF",
+    "statuses_count": 3884,
+    "default_profile": false,
+    "favourites_count": 360,
+    "friends_count": 925,
+    "follow_request_sent": null,
+    "profile_sidebar_fill_color": "FFFDF5",
+    "translator_type": "none",
+    "notifications": null,
+    "id_str": "342385107",
+    "screen_name": "ccfcomfatolima",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/342385107/1506369195",
+    "verified": false,
+    "id": 342385107,
+    "profile_use_background_image": true,
+    "description": "Caja de Compensaci\u00f3n Familiar del Tolima",
+    "utc_offset": -18000,
+    "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/609078570078601216/sCfafIhT.png",
+    "is_translator": false,
+    "listed_count": 20,
+    "default_profile_image": false,
+    "contributors_enabled": false,
+    "followers_count": 1425,
+    "location": "Ibagu\u00e9, Tolima, Colombia",
+    "created_at": "Mon Jul 25 22:55:45 +0000 2011",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/586668289637638144/F63D9HNt_normal.jpg",
+    "geo_enabled": true,
+    "time_zone": "Bogota",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/586668289637638144/F63D9HNt_normal.jpg",
+    "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/609078570078601216/sCfafIhT.png",
+    "profile_link_color": "652336",
+    "lang": "es",
+    "name": "Comfatolima",
+    "profile_background_tile": false,
+    "url": "http://www.comfatolima.com.co",
+    "profile_sidebar_border_color": "FFFFFF"
+  },
+  "possibly_sensitive": false,
+  "entities": {
+    "user_mentions": [],
+    "urls": [
+      {
+        "expanded_url": "https://twitter.com/i/web/status/930554837313474560",
+        "url": "https://t.co/HqLjs0DrVd",
+        "indices": [117, 140],
+        "display_url": "twitter.com/i/web/status/9\u2026"
+      }
+    ],
+    "symbols": [],
+    "hashtags": [
+      {
+        "text": "Empleo",
+        "indices": [38, 45]
+      }
+    ]
+  },
+  "retweeted": false
+}

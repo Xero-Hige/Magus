@@ -1,0 +1,128 @@
+{
+  "geo": null,
+  "filter_level": "low",
+  "in_reply_to_status_id": null,
+  "lang": "es",
+  "favorite_count": 0,
+  "coordinates": null,
+  "favorited": false,
+  "place": {
+    "name": "Zapopan",
+    "full_name": "Zapopan, Jalisco",
+    "place_type": "city",
+    "country": "M\u00e9xico",
+    "id": "8e098f6d686001a9",
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [[-103.664175, 20.583418], [-103.664175, 20.997896], [-103.305374, 20.997896], [-103.305374, 20.583418]]
+      ]
+    },
+    "attributes": {},
+    "url": "https://api.twitter.com/1.1/geo/id/8e098f6d686001a9.json",
+    "country_code": "MX"
+  },
+  "contributors": null,
+  "entities": {
+    "hashtags": [],
+    "urls": [
+      {
+        "display_url": "twitter.com/i/web/status/9\u2026",
+        "expanded_url": "https://twitter.com/i/web/status/930627856882737152",
+        "url": "https://t.co/ThI8vuR9nu",
+        "indices": [117, 140]
+      }
+    ],
+    "symbols": [],
+    "user_mentions": [
+      {
+        "id": 103324643,
+        "id_str": "103324643",
+        "name": "Arturo Gtz.",
+        "indices": [0, 10],
+        "screen_name": "CitizenR2"
+      }
+    ]
+  },
+  "id": 930627856882737152,
+  "user": {
+    "followers_count": 447,
+    "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/239664833/Imagen_1.jpg",
+    "profile_background_color": "FFF04D",
+    "translator_type": "none",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/804675294854418432/WgG_RhJc_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/107158646/1468044136",
+    "default_profile": false,
+    "utc_offset": -25200,
+    "lang": "es",
+    "url": null,
+    "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/239664833/Imagen_1.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/804675294854418432/WgG_RhJc_normal.jpg",
+    "time_zone": "Mountain Time (US & Canada)",
+    "profile_sidebar_border_color": "FFFFFF",
+    "profile_use_background_image": true,
+    "id": 107158646,
+    "profile_link_color": "0099CC",
+    "profile_sidebar_fill_color": "F6FFD1",
+    "profile_background_tile": true,
+    "geo_enabled": true,
+    "id_str": "107158646",
+    "verified": false,
+    "name": "Paulo N\u00fa\u00f1ez",
+    "is_translator": false,
+    "notifications": null,
+    "following": null,
+    "friends_count": 417,
+    "contributors_enabled": false,
+    "screen_name": "PauloMcLovin",
+    "created_at": "Thu Jan 21 18:23:25 +0000 2010",
+    "profile_text_color": "333333",
+    "favourites_count": 1792,
+    "follow_request_sent": null,
+    "description": "Staffeador de Andaluz Music || Fotograf\u00eda en GalvanMx || Plebeyo de tu coraz\u00f3n, chiquita.",
+    "default_profile_image": false,
+    "location": "Guanajuato, M\u00e9xico",
+    "listed_count": 11,
+    "protected": false,
+    "statuses_count": 9639
+  },
+  "id_str": "930627856882737152",
+  "retweet_count": 0,
+  "retweeted": false,
+  "quote_count": 0,
+  "truncated": true,
+  "in_reply_to_status_id_str": null,
+  "reply_count": 0,
+  "created_at": "Wed Nov 15 02:45:45 +0000 2017",
+  "is_quote_status": false,
+  "in_reply_to_user_id": 103324643,
+  "timestamp_ms": "1510713945967",
+  "text": "@CitizenR2 Carnalito feliz cumplea\u00f1os, espero que la est\u00e9s pasando muy bien! Te mando un fuerte abrazo Arturito. \nP\u2026 https://t.co/ThI8vuR9nu",
+  "extended_tweet": {
+    "full_text": "@CitizenR2 Carnalito feliz cumplea\u00f1os, espero que la est\u00e9s pasando muy bien! Te mando un fuerte abrazo Arturito. \nPd. Me dijo la @pattylopezdelac que tambi\u00e9n te manda saluditos.",
+    "display_text_range": [0, 177],
+    "entities": {
+      "hashtags": [],
+      "urls": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "id": 103324643,
+          "id_str": "103324643",
+          "name": "Arturo Gtz.",
+          "indices": [0, 10],
+          "screen_name": "CitizenR2"
+        }, {
+          "id": 58360430,
+          "id_str": "58360430",
+          "name": "Patty L\u00f3pez de la C",
+          "indices": [129, 145],
+          "screen_name": "pattylopezdelac"
+        }
+      ]
+    }
+  },
+  "in_reply_to_user_id_str": "103324643",
+  "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+  "in_reply_to_screen_name": "CitizenR2"
+}

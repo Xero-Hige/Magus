@@ -1,0 +1,108 @@
+{
+  "favorite_count": 0,
+  "lang": "es",
+  "favorited": false,
+  "reply_count": 0,
+  "geo": null,
+  "contributors": null,
+  "text": "@LourdesStephen \u00a1Hola! Lourdes. #BuenosDias y fel\u00edz al mi\u00e9rcoles. Tu_ eres mi rosa. #DespiertaAmerica #FelizMiercoles",
+  "created_at": "Wed Nov 15 16:13:05 +0000 2017",
+  "place": {
+    "place_type": "city",
+    "full_name": "Rockville, MD",
+    "country": "United States",
+    "name": "Rockville",
+    "url": "https://api.twitter.com/1.1/geo/id/8c88f07c8666389d.json",
+    "country_code": "US",
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [[-77.220557, 39.053158], [-77.220557, 39.120952], [-77.105648, 39.120952], [-77.105648, 39.053158]]
+      ]
+    },
+    "id": "8c88f07c8666389d",
+    "attributes": {}
+  },
+  "user": {
+    "profile_text_color": "000000",
+    "lang": "en",
+    "location": "Rockville, MD",
+    "friends_count": 375,
+    "profile_link_color": "E81C4F",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/850099641345601536/RhDBPAy2_normal.jpg",
+    "contributors_enabled": false,
+    "following": null,
+    "is_translator": false,
+    "verified": false,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/4455098849/1505850931",
+    "utc_offset": -18000,
+    "geo_enabled": true,
+    "profile_sidebar_border_color": "000000",
+    "created_at": "Sat Dec 12 03:19:59 +0000 2015",
+    "description": "This is the official account of Jude DeSilva.",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/850099641345601536/RhDBPAy2_normal.jpg",
+    "profile_background_color": "000000",
+    "listed_count": 19,
+    "follow_request_sent": null,
+    "profile_background_tile": false,
+    "followers_count": 75,
+    "name": "Jude DeSilva",
+    "notifications": null,
+    "default_profile_image": false,
+    "url": null,
+    "favourites_count": 2769,
+    "screen_name": "JudeFardoes",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_sidebar_fill_color": "000000",
+    "profile_use_background_image": false,
+    "translator_type": "none",
+    "time_zone": "Eastern Time (US & Canada)",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "statuses_count": 6143,
+    "id": 4455098849,
+    "default_profile": false,
+    "protected": false,
+    "id_str": "4455098849"
+  },
+  "in_reply_to_user_id_str": "113063404",
+  "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+  "filter_level": "low",
+  "is_quote_status": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_user_id": 113063404,
+  "quote_count": 0,
+  "retweeted": false,
+  "in_reply_to_screen_name": "LourdesStephen",
+  "retweet_count": 0,
+  "in_reply_to_status_id_str": null,
+  "coordinates": null,
+  "id": 930831027160932352,
+  "truncated": false,
+  "entities": {
+    "urls": [],
+    "symbols": [],
+    "hashtags": [
+      {
+        "text": "BuenosDias",
+        "indices": [32, 43]
+      }, {
+        "text": "DespiertaAmerica",
+        "indices": [84, 101]
+      }, {
+        "text": "FelizMiercoles",
+        "indices": [102, 117]
+      }
+    ],
+    "user_mentions": [
+      {
+        "indices": [0, 15],
+        "name": "Lourdes Stephen",
+        "id_str": "113063404",
+        "screen_name": "LourdesStephen",
+        "id": 113063404
+      }
+    ]
+  },
+  "timestamp_ms": "1510762385536",
+  "id_str": "930831027160932352"
+}

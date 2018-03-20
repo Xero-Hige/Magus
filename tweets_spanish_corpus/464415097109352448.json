@@ -1,0 +1,119 @@
+{
+  "created_at": "Thu May 08 14:42:42 +0000 2014",
+  "id": 464415097109352448,
+  "id_str": "464415097109352448",
+  "text": "@edu85fdez Sembrar #miedo, #dudas... el \"que viene el lobo\", pero a lo bestia. Y lo hacen con ayuda de los media. Y la gente les cree. :/",
+  "truncated": false,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "miedo",
+        "indices": [19, 25]
+      }, {
+        "text": "dudas",
+        "indices": [27, 33]
+      }
+    ],
+    "symbols": [],
+    "user_mentions": [
+      {
+        "screen_name": "edu85fdez",
+        "name": "Edu",
+        "id": 1641040482,
+        "id_str": "1641040482",
+        "indices": [0, 10]
+      }
+    ],
+    "urls": []
+  },
+  "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+  "in_reply_to_status_id": 464414696003895296,
+  "in_reply_to_status_id_str": "464414696003895296",
+  "in_reply_to_user_id": 1641040482,
+  "in_reply_to_user_id_str": "1641040482",
+  "in_reply_to_screen_name": "edu85fdez",
+  "user": {
+    "id": 789073212,
+    "id_str": "789073212",
+    "name": "Begotxu",
+    "screen_name": "BegotxuBoo",
+    "location": "",
+    "description": "Ser\u00e1n libres... o no ser\u00e1n!!",
+    "url": "https://t.co/ukGxRXYqu4",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "https://t.co/ukGxRXYqu4",
+            "expanded_url": "http://es.favstar.fm/users/BegotxuBoo",
+            "display_url": "es.favstar.fm/users/BegotxuB\u2026",
+            "indices": [0, 23]
+          }
+        ]
+      },
+      "description": {
+        "urls": []
+      }
+    },
+    "protected": false,
+    "followers_count": 11013,
+    "friends_count": 709,
+    "listed_count": 121,
+    "created_at": "Wed Aug 29 10:51:36 +0000 2012",
+    "favourites_count": 176165,
+    "utc_offset": 3600,
+    "time_zone": "Madrid",
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 140613,
+    "lang": "es",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "is_translation_enabled": false,
+    "profile_background_color": "C0DEED",
+    "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000180962117/kM4DDCUq.jpeg",
+    "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000180962117/kM4DDCUq.jpeg",
+    "profile_background_tile": true,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/534266200818483200/_78fiChL_normal.jpeg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/534266200818483200/_78fiChL_normal.jpeg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/789073212/1379398393",
+    "profile_link_color": "051B75",
+    "profile_sidebar_border_color": "000000",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "has_extended_profile": false,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false,
+    "translator_type": "regular"
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": {
+    "id": "5e4b6d601a1a2352",
+    "url": "https://api.twitter.com/1.1/geo/id/5e4b6d601a1a2352.json",
+    "place_type": "city",
+    "name": "Lleida",
+    "full_name": "Lleida, Espa\u00f1a",
+    "country_code": "ES",
+    "country": "Espa\u00f1a",
+    "contained_within": [],
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [[0.3635666, 41.5100907], [0.7425167, 41.5100907], [0.7425167, 41.7395531], [0.3635666, 41.7395531]]
+      ]
+    },
+    "attributes": {}
+  },
+  "contributors": null,
+  "is_quote_status": false,
+  "retweet_count": 0,
+  "favorite_count": 1,
+  "favorited": false,
+  "retweeted": false,
+  "lang": "es"
+}

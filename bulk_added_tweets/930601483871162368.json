@@ -1,0 +1,116 @@
+{
+  "geo": null,
+  "filter_level": "low",
+  "in_reply_to_status_id": null,
+  "lang": "es",
+  "favorite_count": 0,
+  "coordinates": null,
+  "favorited": false,
+  "place": {
+    "name": "Valdivia",
+    "full_name": "Valdivia, Chile",
+    "place_type": "city",
+    "country": "Chile",
+    "id": "00e76fbf0a273ce5",
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [[-73.411399, -40.029857], [-73.411399, -39.637104], [-72.922392, -39.637104], [-72.922392, -40.029857]]
+      ]
+    },
+    "attributes": {},
+    "url": "https://api.twitter.com/1.1/geo/id/00e76fbf0a273ce5.json",
+    "country_code": "CL"
+  },
+  "contributors": null,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "VotoVoluntario",
+        "indices": [52, 67]
+      }
+    ],
+    "urls": [
+      {
+        "display_url": "twitter.com/i/web/status/9\u2026",
+        "expanded_url": "https://twitter.com/i/web/status/930601483871162368",
+        "url": "https://t.co/QIdHffyNsz",
+        "indices": [117, 140]
+      }
+    ],
+    "symbols": [],
+    "user_mentions": []
+  },
+  "id": 930601483871162368,
+  "user": {
+    "followers_count": 788,
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+    "profile_background_color": "FFCC4D",
+    "translator_type": "none",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/923361840478019584/xLZtGqwW_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/57133751/1508981421",
+    "default_profile": false,
+    "utc_offset": -10800,
+    "lang": "es",
+    "url": null,
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/923361840478019584/xLZtGqwW_normal.jpg",
+    "time_zone": "Santiago",
+    "profile_sidebar_border_color": "F0A830",
+    "profile_use_background_image": true,
+    "id": 57133751,
+    "profile_link_color": "19CF86",
+    "profile_sidebar_fill_color": "78C0A8",
+    "profile_background_tile": true,
+    "geo_enabled": true,
+    "id_str": "57133751",
+    "verified": false,
+    "name": "Carla Mellado Z",
+    "is_translator": false,
+    "notifications": null,
+    "following": null,
+    "friends_count": 1370,
+    "contributors_enabled": false,
+    "screen_name": "rumboalmar",
+    "created_at": "Wed Jul 15 20:53:13 +0000 2009",
+    "profile_text_color": "5E412F",
+    "favourites_count": 960,
+    "follow_request_sent": null,
+    "description": "#Valdiviacl es mi nicho\ud83c\udf33.  Bi\u00f3logo Marino \ud83c\udf0a y estudiante MSc. Recursos H\u00eddricos \u2764\ufe0f\u2003#artesanalbeer \ud83c\udf7a#feminista \ud83e\udd18#toto\ud83d\udc36 #palta \ud83e\udd51#cicloturismo \ud83d\udeb5\u200d\u2640\ufe0f",
+    "default_profile_image": false,
+    "location": "Chile",
+    "listed_count": 13,
+    "protected": false,
+    "statuses_count": 13033
+  },
+  "id_str": "930601483871162368",
+  "retweet_count": 0,
+  "retweeted": false,
+  "quote_count": 0,
+  "truncated": true,
+  "in_reply_to_status_id_str": null,
+  "reply_count": 0,
+  "created_at": "Wed Nov 15 01:00:58 +0000 2017",
+  "is_quote_status": false,
+  "in_reply_to_user_id": null,
+  "timestamp_ms": "1510707658151",
+  "text": "cuando aprobaron la ley que no te obliga a sufragar #VotoVoluntario quedo la grande al momento de las elecciones, l\u2026 https://t.co/QIdHffyNsz",
+  "extended_tweet": {
+    "full_text": "cuando aprobaron la ley que no te obliga a sufragar #VotoVoluntario quedo la grande al momento de las elecciones, los candidatos son elegidos por la minor\u00eda!! que tan representativo es eso? modifiquen la ley!! l@s que no puedan, justifiquen con amor y paz y chao! \ud83e\udd84",
+    "display_text_range": [0, 265],
+    "entities": {
+      "hashtags": [
+        {
+          "text": "VotoVoluntario",
+          "indices": [52, 67]
+        }
+      ],
+      "urls": [],
+      "symbols": [],
+      "user_mentions": []
+    }
+  },
+  "in_reply_to_user_id_str": null,
+  "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+  "in_reply_to_screen_name": null
+}

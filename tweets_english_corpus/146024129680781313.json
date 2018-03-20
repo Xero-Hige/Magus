@@ -1,0 +1,104 @@
+{
+  "created_at": "Mon Dec 12 00:30:40 +0000 2011",
+  "id": 146024129680781313,
+  "id_str": "146024129680781313",
+  "text": "Mama think I'm cumin home Wednesday but I'm booked my ticket for Tuesday.. N when I get home ima just tell her slide and get me #surprise",
+  "truncated": false,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "surprise",
+        "indices": [128, 137]
+      }
+    ],
+    "symbols": [],
+    "user_mentions": [],
+    "urls": []
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 233002541,
+    "id_str": "233002541",
+    "name": "Amara_Lavernia",
+    "screen_name": "LaVernia_Badd",
+    "location": "Miami-Dade Liberty City",
+    "description": "From Miami, FL Love To Sing.. Nice, Playful But I Have limits.. #TeamTrack&Field #TeamBadAzz #TAKEN Proud Parent to Amara",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": []
+      }
+    },
+    "protected": false,
+    "followers_count": 783,
+    "friends_count": 801,
+    "listed_count": 4,
+    "created_at": "Sun Jan 02 00:43:38 +0000 2011",
+    "favourites_count": 669,
+    "utc_offset": -18000,
+    "time_zone": "Eastern Time (US & Canada)",
+    "geo_enabled": true,
+    "verified": false,
+    "statuses_count": 47626,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "is_translation_enabled": false,
+    "profile_background_color": "C2489B",
+    "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/382693188/Picture_82.jpg",
+    "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/382693188/Picture_82.jpg",
+    "profile_background_tile": true,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/456633328339128320/C9M5eqZa_normal.jpeg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/456633328339128320/C9M5eqZa_normal.jpeg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/233002541/1397704945",
+    "profile_link_color": "269900",
+    "profile_sidebar_border_color": "EEEEEE",
+    "profile_sidebar_fill_color": "EFEFEF",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "has_extended_profile": false,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false,
+    "translator_type": "none"
+  },
+  "geo": {
+    "type": "Point",
+    "coordinates": [32.98146486, -80.06873937]
+  },
+  "coordinates": {
+    "type": "Point",
+    "coordinates": [-80.06873937, 32.98146486]
+  },
+  "place": {
+    "id": "18df13e4a5a670b5",
+    "url": "https://api.twitter.com/1.1/geo/id/18df13e4a5a670b5.json",
+    "place_type": "city",
+    "name": "North Charleston",
+    "full_name": "North Charleston, SC",
+    "country_code": "US",
+    "country": "Estados Unidos",
+    "contained_within": [],
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [[-80.1575903, 32.829336], [-79.934288, 32.829336], [-79.934288, 32.9995131], [-80.1575903, 32.9995131]]
+      ]
+    },
+    "attributes": {}
+  },
+  "contributors": null,
+  "is_quote_status": false,
+  "retweet_count": 0,
+  "favorite_count": 0,
+  "favorited": false,
+  "retweeted": false,
+  "lang": "en"
+}

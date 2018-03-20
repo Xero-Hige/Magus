@@ -1,0 +1,147 @@
+{
+  "extended_tweet": {
+    "display_text_range": [41, 316],
+    "entities": {
+      "urls": [],
+      "symbols": [],
+      "hashtags": [],
+      "user_mentions": [
+        {
+          "indices": [0, 15],
+          "name": "Gustavo",
+          "id_str": "824949904128802817",
+          "screen_name": "Gustavo1234893",
+          "id": 824949904128802817
+        }, {
+          "indices": [16, 25],
+          "name": "HRC PICHI",
+          "id_str": "237248945",
+          "screen_name": "hrcpichi",
+          "id": 237248945
+        }, {
+          "indices": [26, 40],
+          "name": "6-7-8",
+          "id_str": "537300529",
+          "screen_name": "678elprograma",
+          "id": 537300529
+        }
+      ]
+    },
+    "full_text": "@Gustavo1234893 @hrcpichi @678elprograma Fuimos reconocidos internacionallmente , derechos humanos , deudas soberanas , que no pudimos usar con los fondos buitres pero ahora si , no le vamos a pagar un mango , ademas de ser impagable... uds son reconocidos intercionalmente por la corrupcion y falta de libertades..."
+  },
+  "favorited": false,
+  "lang": "es",
+  "display_text_range": [41, 140],
+  "favorite_count": 0,
+  "reply_count": 0,
+  "geo": null,
+  "contributors": null,
+  "text": "@Gustavo1234893 @hrcpichi @678elprograma Fuimos reconocidos internacionallmente , derechos humanos , deudas soberan\u2026 https://t.co/RyimMGMqX1",
+  "created_at": "Wed Nov 15 16:04:14 +0000 2017",
+  "place": {
+    "place_type": "city",
+    "full_name": "Rio Ceballos, Argentina",
+    "country": "Argentina",
+    "name": "Rio Ceballos",
+    "url": "https://api.twitter.com/1.1/geo/id/01af6bc212beb982.json",
+    "country_code": "AR",
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [[-64.357996, -31.215631], [-64.357996, -31.13819], [-64.292274, -31.13819], [-64.292274, -31.215631]]
+      ]
+    },
+    "id": "01af6bc212beb982",
+    "attributes": {}
+  },
+  "user": {
+    "profile_text_color": "333333",
+    "lang": "es",
+    "location": null,
+    "friends_count": 18,
+    "profile_link_color": "1DA1F2",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/915636243156934656/RkF9EpTY_normal.jpg",
+    "contributors_enabled": false,
+    "following": null,
+    "is_translator": false,
+    "verified": false,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/889608020359041024/1507139910",
+    "utc_offset": null,
+    "geo_enabled": true,
+    "profile_sidebar_border_color": "C0DEED",
+    "created_at": "Mon Jul 24 22:07:34 +0000 2017",
+    "description": "Como el t\u00e1bano en el lomo de los medio pelo macristas.",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/915636243156934656/RkF9EpTY_normal.jpg",
+    "profile_background_color": "F5F8FA",
+    "listed_count": 0,
+    "follow_request_sent": null,
+    "profile_background_tile": false,
+    "followers_count": 5,
+    "name": "Adolfo",
+    "notifications": null,
+    "default_profile_image": false,
+    "url": null,
+    "favourites_count": 508,
+    "screen_name": "Adolfo1007",
+    "profile_background_image_url": "",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_use_background_image": true,
+    "translator_type": "none",
+    "time_zone": null,
+    "profile_background_image_url_https": "",
+    "statuses_count": 1209,
+    "id": 889608020359041024,
+    "default_profile": true,
+    "protected": false,
+    "id_str": "889608020359041024"
+  },
+  "in_reply_to_user_id_str": "824949904128802817",
+  "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+  "filter_level": "low",
+  "is_quote_status": false,
+  "in_reply_to_status_id": 930799180708229120,
+  "in_reply_to_user_id": 824949904128802817,
+  "quote_count": 0,
+  "retweeted": false,
+  "in_reply_to_screen_name": "Gustavo1234893",
+  "retweet_count": 0,
+  "in_reply_to_status_id_str": "930799180708229120",
+  "coordinates": null,
+  "id": 930828801356988416,
+  "truncated": true,
+  "entities": {
+    "urls": [
+      {
+        "url": "https://t.co/RyimMGMqX1",
+        "display_url": "twitter.com/i/web/status/9\u2026",
+        "indices": [117, 140],
+        "expanded_url": "https://twitter.com/i/web/status/930828801356988416"
+      }
+    ],
+    "symbols": [],
+    "hashtags": [],
+    "user_mentions": [
+      {
+        "indices": [0, 15],
+        "name": "Gustavo",
+        "id_str": "824949904128802817",
+        "screen_name": "Gustavo1234893",
+        "id": 824949904128802817
+      }, {
+        "indices": [16, 25],
+        "name": "HRC PICHI",
+        "id_str": "237248945",
+        "screen_name": "hrcpichi",
+        "id": 237248945
+      }, {
+        "indices": [26, 40],
+        "name": "6-7-8",
+        "id_str": "537300529",
+        "screen_name": "678elprograma",
+        "id": 537300529
+      }
+    ]
+  },
+  "timestamp_ms": "1510761854863",
+  "id_str": "930828801356988416"
+}

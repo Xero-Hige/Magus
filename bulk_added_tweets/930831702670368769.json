@@ -1,0 +1,127 @@
+{
+  "extended_tweet": {
+    "display_text_range": [0, 206],
+    "entities": {
+      "urls": [],
+      "symbols": [],
+      "hashtags": [
+        {
+          "text": "Paraguay",
+          "indices": [197, 206]
+        }
+      ],
+      "user_mentions": [
+        {
+          "indices": [19, 31],
+          "name": "Aurelio Nu\u00f1o",
+          "id_str": "32226455",
+          "screen_name": "aurelionuno",
+          "id": 32226455
+        }
+      ]
+    },
+    "full_text": "Buenos d\u00edas, se\u00f1or @aurelionuno. Asesor\u00eda gratis: adem\u00e1s de insistir con el ingl\u00e9s en toooodas las escuelas, es evidente la importancia de aprender GEOGRAF\u00cdA para evitar un rid\u00edculo internacional.\n#Paraguay"
+  },
+  "favorited": false,
+  "lang": "es",
+  "favorite_count": 0,
+  "reply_count": 0,
+  "geo": null,
+  "contributors": null,
+  "text": "Buenos d\u00edas, se\u00f1or @aurelionuno. Asesor\u00eda gratis: adem\u00e1s de insistir con el ingl\u00e9s en toooodas las escuelas, es evi\u2026 https://t.co/7vAMjBpgSO",
+  "created_at": "Wed Nov 15 16:15:46 +0000 2017",
+  "place": {
+    "place_type": "city",
+    "full_name": "Tlalnepantla de Baz, M\u00e9xico",
+    "country": "M\u00e9xico",
+    "name": "Tlalnepantla de Baz",
+    "url": "https://api.twitter.com/1.1/geo/id/74704aa81e197418.json",
+    "country_code": "MX",
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [[-99.248181, 19.498594], [-99.248181, 19.589272], [-99.080384, 19.589272], [-99.080384, 19.498594]]
+      ]
+    },
+    "id": "74704aa81e197418",
+    "attributes": {}
+  },
+  "user": {
+    "profile_text_color": "333333",
+    "lang": "es",
+    "location": "Cerca de la UNAM",
+    "friends_count": 539,
+    "profile_link_color": "0066FF",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/920858360504815617/p1o4VsxU_normal.jpg",
+    "contributors_enabled": false,
+    "following": null,
+    "is_translator": false,
+    "verified": false,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/127696690/1400451466",
+    "utc_offset": -21600,
+    "geo_enabled": true,
+    "profile_sidebar_border_color": "86A4A6",
+    "created_at": "Tue Mar 30 00:25:23 +0000 2010",
+    "description": "Galante con las mujeres; implacable con los malvados.",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/920858360504815617/p1o4VsxU_normal.jpg",
+    "profile_background_color": "709397",
+    "listed_count": 6,
+    "follow_request_sent": null,
+    "profile_background_tile": true,
+    "followers_count": 477,
+    "name": "Germ\u00e1n B.",
+    "notifications": null,
+    "default_profile_image": false,
+    "url": "http://revistaconsideraciones.com",
+    "favourites_count": 131,
+    "screen_name": "unogermango",
+    "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/444552722/hal9000.jpg",
+    "profile_sidebar_fill_color": "A0C5C7",
+    "profile_use_background_image": true,
+    "translator_type": "none",
+    "time_zone": "Mexico City",
+    "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/444552722/hal9000.jpg",
+    "statuses_count": 11626,
+    "id": 127696690,
+    "default_profile": false,
+    "protected": false,
+    "id_str": "127696690"
+  },
+  "in_reply_to_user_id_str": null,
+  "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+  "filter_level": "low",
+  "is_quote_status": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_user_id": null,
+  "quote_count": 0,
+  "retweeted": false,
+  "in_reply_to_screen_name": null,
+  "retweet_count": 0,
+  "in_reply_to_status_id_str": null,
+  "coordinates": null,
+  "id": 930831702670368769,
+  "truncated": true,
+  "entities": {
+    "urls": [
+      {
+        "url": "https://t.co/7vAMjBpgSO",
+        "display_url": "twitter.com/i/web/status/9\u2026",
+        "indices": [117, 140],
+        "expanded_url": "https://twitter.com/i/web/status/930831702670368769"
+      }
+    ],
+    "symbols": [],
+    "hashtags": [],
+    "user_mentions": [
+      {
+        "indices": [19, 31],
+        "name": "Aurelio Nu\u00f1o",
+        "id_str": "32226455",
+        "screen_name": "aurelionuno",
+        "id": 32226455
+      }
+    ]
+  },
+  "timestamp_ms": "1510762546590",
+  "id_str": "930831702670368769"
+}

@@ -1,0 +1,123 @@
+{
+  "extended_tweet": {
+    "display_text_range": [13, 192],
+    "entities": {
+      "urls": [],
+      "symbols": [],
+      "hashtags": [],
+      "user_mentions": [
+        {
+          "indices": [0, 12],
+          "name": "Pablo Duggan",
+          "id_str": "145677457",
+          "screen_name": "pabloduggan",
+          "id": 145677457
+        }
+      ]
+    },
+    "full_text": "@pabloduggan sorry pablo te re banco pero en esta estas pifiando\u00bfo no eran los expertos los que abrieron la caja fuerte y sacaron lo que habia adentro sin guantes?pregunto tal vez estoy errada"
+  },
+  "favorited": false,
+  "lang": "es",
+  "display_text_range": [13, 140],
+  "favorite_count": 0,
+  "reply_count": 0,
+  "geo": null,
+  "contributors": null,
+  "text": "@pabloduggan sorry pablo te re banco pero en esta estas pifiando\u00bfo no eran los expertos los que abrieron la caja fu\u2026 https://t.co/eXJHkGO7UU",
+  "created_at": "Wed Nov 15 15:55:20 +0000 2017",
+  "place": {
+    "place_type": "city",
+    "full_name": "Goya, Argentina",
+    "country": "Argentina",
+    "name": "Goya",
+    "url": "https://api.twitter.com/1.1/geo/id/00980b8527832b2e.json",
+    "country_code": "AR",
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [[-59.279329, -29.17015], [-59.279329, -29.120483], [-59.244012, -29.120483], [-59.244012, -29.17015]]
+      ]
+    },
+    "id": "00980b8527832b2e",
+    "attributes": {}
+  },
+  "user": {
+    "profile_text_color": "333333",
+    "lang": "es",
+    "location": "concordia,entre rios",
+    "friends_count": 57,
+    "profile_link_color": "981CEB",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/846897090571644931/fGGavxdZ_normal.jpg",
+    "contributors_enabled": false,
+    "following": null,
+    "is_translator": false,
+    "verified": false,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1360648172/1483753551",
+    "utc_offset": -10800,
+    "geo_enabled": true,
+    "profile_sidebar_border_color": "C0DEED",
+    "created_at": "Thu Apr 18 00:23:40 +0000 2013",
+    "description": null,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/846897090571644931/fGGavxdZ_normal.jpg",
+    "profile_background_color": "C0DEED",
+    "listed_count": 1,
+    "follow_request_sent": null,
+    "profile_background_tile": false,
+    "followers_count": 58,
+    "name": "Maria Jose",
+    "notifications": null,
+    "default_profile_image": false,
+    "url": null,
+    "favourites_count": 1948,
+    "screen_name": "maritaaa8964",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_use_background_image": true,
+    "translator_type": "none",
+    "time_zone": "Buenos Aires",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "statuses_count": 3016,
+    "id": 1360648172,
+    "default_profile": false,
+    "protected": false,
+    "id_str": "1360648172"
+  },
+  "in_reply_to_user_id_str": "145677457",
+  "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+  "filter_level": "low",
+  "is_quote_status": false,
+  "in_reply_to_status_id": 930630543028387842,
+  "in_reply_to_user_id": 145677457,
+  "quote_count": 0,
+  "retweeted": false,
+  "in_reply_to_screen_name": "pabloduggan",
+  "retweet_count": 0,
+  "in_reply_to_status_id_str": "930630543028387842",
+  "coordinates": null,
+  "id": 930826561238044673,
+  "truncated": true,
+  "entities": {
+    "urls": [
+      {
+        "url": "https://t.co/eXJHkGO7UU",
+        "display_url": "twitter.com/i/web/status/9\u2026",
+        "indices": [117, 140],
+        "expanded_url": "https://twitter.com/i/web/status/930826561238044673"
+      }
+    ],
+    "symbols": [],
+    "hashtags": [],
+    "user_mentions": [
+      {
+        "indices": [0, 12],
+        "name": "Pablo Duggan",
+        "id_str": "145677457",
+        "screen_name": "pabloduggan",
+        "id": 145677457
+      }
+    ]
+  },
+  "timestamp_ms": "1510761320777",
+  "id_str": "930826561238044673"
+}

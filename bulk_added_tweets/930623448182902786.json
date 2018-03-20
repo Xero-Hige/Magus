@@ -1,0 +1,106 @@
+{
+  "geo": null,
+  "filter_level": "low",
+  "in_reply_to_status_id": null,
+  "lang": "es",
+  "favorite_count": 0,
+  "coordinates": null,
+  "favorited": false,
+  "place": {
+    "name": "Salta",
+    "full_name": "Salta, Argentina",
+    "place_type": "city",
+    "country": "Argentina",
+    "id": "0085b01d4f65f576",
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [[-65.532514, -24.871621], [-65.532514, -24.74685], [-65.358702, -24.74685], [-65.358702, -24.871621]]
+      ]
+    },
+    "attributes": {},
+    "url": "https://api.twitter.com/1.1/geo/id/0085b01d4f65f576.json",
+    "country_code": "AR"
+  },
+  "contributors": null,
+  "entities": {
+    "hashtags": [],
+    "urls": [
+      {
+        "display_url": "twitter.com/i/web/status/9\u2026",
+        "expanded_url": "https://twitter.com/i/web/status/930623448182902786",
+        "url": "https://t.co/0eHclJ3wiL",
+        "indices": [117, 140]
+      }
+    ],
+    "symbols": [],
+    "user_mentions": []
+  },
+  "id": 930623448182902786,
+  "user": {
+    "followers_count": 52,
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_color": "000000",
+    "translator_type": "none",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/930276464376844288/cWpTn05j_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/930094136388091905/1510587581",
+    "default_profile": false,
+    "utc_offset": -10800,
+    "lang": "en",
+    "url": null,
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/930276464376844288/cWpTn05j_normal.jpg",
+    "time_zone": "Buenos Aires",
+    "profile_sidebar_border_color": "000000",
+    "profile_use_background_image": false,
+    "id": 930094136388091905,
+    "profile_link_color": "ABB8C2",
+    "profile_sidebar_fill_color": "000000",
+    "profile_background_tile": false,
+    "geo_enabled": true,
+    "id_str": "930094136388091905",
+    "verified": false,
+    "name": "\ud83d\udd25",
+    "is_translator": false,
+    "notifications": null,
+    "following": null,
+    "friends_count": 85,
+    "contributors_enabled": false,
+    "screen_name": "cut3bu7psych0",
+    "created_at": "Mon Nov 13 15:24:57 +0000 2017",
+    "profile_text_color": "000000",
+    "favourites_count": 134,
+    "follow_request_sent": null,
+    "description": "Belieber y de Argentina. De los 90 y tanto.",
+    "default_profile_image": false,
+    "location": null,
+    "listed_count": 0,
+    "protected": false,
+    "statuses_count": 113
+  },
+  "id_str": "930623448182902786",
+  "retweet_count": 0,
+  "retweeted": false,
+  "quote_count": 0,
+  "truncated": true,
+  "in_reply_to_status_id_str": null,
+  "reply_count": 0,
+  "created_at": "Wed Nov 15 02:28:14 +0000 2017",
+  "is_quote_status": false,
+  "in_reply_to_user_id": null,
+  "timestamp_ms": "1510712894851",
+  "text": "Estoy feliz por mi viaje de fin de a\u00f1o but also me siento nerviosa porque voy a extra\u00f1ar el embole que paso en fami\u2026 https://t.co/0eHclJ3wiL",
+  "extended_tweet": {
+    "full_text": "Estoy feliz por mi viaje de fin de a\u00f1o but also me siento nerviosa porque voy a extra\u00f1ar el embole que paso en familia y en casa con comida hecha por mam\u00e1 en las fiestas.",
+    "display_text_range": [0, 170],
+    "entities": {
+      "hashtags": [],
+      "urls": [],
+      "symbols": [],
+      "user_mentions": []
+    }
+  },
+  "in_reply_to_user_id_str": null,
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "in_reply_to_screen_name": null
+}

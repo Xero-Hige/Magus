@@ -1,0 +1,109 @@
+{
+  "geo": null,
+  "filter_level": "low",
+  "in_reply_to_status_id": null,
+  "lang": "es",
+  "favorite_count": 0,
+  "coordinates": null,
+  "favorited": false,
+  "place": {
+    "name": "Bogot\u00e1, D.C.",
+    "full_name": "Bogot\u00e1, D.C., Colombia",
+    "place_type": "city",
+    "country": "Colombia",
+    "id": "0161be1b3f98d6c3",
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [[[-74.483289, 3.717432], [-74.483289, 4.807135], [-74.004053, 4.807135], [-74.004053, 3.717432]]]
+    },
+    "attributes": {},
+    "url": "https://api.twitter.com/1.1/geo/id/0161be1b3f98d6c3.json",
+    "country_code": "CO"
+  },
+  "contributors": null,
+  "entities": {
+    "hashtags": [],
+    "urls": [
+      {
+        "display_url": "twitter.com/i/web/status/9\u2026",
+        "expanded_url": "https://twitter.com/i/web/status/930603707338805250",
+        "url": "https://t.co/5PJoY3715j",
+        "indices": [117, 140]
+      }
+    ],
+    "symbols": [],
+    "user_mentions": []
+  },
+  "id": 930603707338805250,
+  "user": {
+    "followers_count": 143,
+    "profile_background_image_url": "",
+    "profile_background_color": "F5F8FA",
+    "translator_type": "none",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/869933159764422658/_io2k5SN_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/867790893281038336/1496243041",
+    "default_profile": true,
+    "utc_offset": -28800,
+    "lang": "es",
+    "url": "http://www.cundinamarca.gov.co/wps/portal/Secretariadeintegracion",
+    "profile_background_image_url_https": "",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/869933159764422658/_io2k5SN_normal.jpg",
+    "time_zone": "Pacific Time (US & Canada)",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_use_background_image": true,
+    "id": 867790893281038336,
+    "profile_link_color": "1DA1F2",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_background_tile": false,
+    "geo_enabled": true,
+    "id_str": "867790893281038336",
+    "verified": false,
+    "name": "Integraci\u00f3n Cund",
+    "is_translator": false,
+    "notifications": null,
+    "following": null,
+    "friends_count": 78,
+    "contributors_enabled": false,
+    "screen_name": "IntegracionReg",
+    "created_at": "Thu May 25 17:14:06 +0000 2017",
+    "profile_text_color": "333333",
+    "favourites_count": 22,
+    "follow_request_sent": null,
+    "description": "Twitter oficial de la Secretaria de Integraci\u00f3n Regional de Cundinamarca",
+    "default_profile_image": false,
+    "location": "Cundinamarca, Colombia",
+    "listed_count": 1,
+    "protected": false,
+    "statuses_count": 157
+  },
+  "id_str": "930603707338805250",
+  "retweet_count": 0,
+  "retweeted": false,
+  "quote_count": 0,
+  "truncated": true,
+  "in_reply_to_status_id_str": null,
+  "reply_count": 0,
+  "created_at": "Wed Nov 15 01:09:48 +0000 2017",
+  "is_quote_status": false,
+  "in_reply_to_user_id": null,
+  "timestamp_ms": "1510708188267",
+  "text": "\u201cSolo s\u00e9 que he tratado de defender a tantos inocentes que hab\u00e9is pisoteado. Dios se encargar\u00e1 de reivindicar la ju\u2026 https://t.co/5PJoY3715j",
+  "extended_tweet": {
+    "full_text": "\u201cSolo s\u00e9 que he tratado de defender a tantos inocentes que hab\u00e9is pisoteado. Dios se encargar\u00e1 de reivindicar la justicia y conceder la libertad y la paz a tantos pueblos oprimidos\u201d. #Policarpa200A\u00f1os",
+    "display_text_range": [0, 200],
+    "entities": {
+      "hashtags": [
+        {
+          "text": "Policarpa200A\u00f1os",
+          "indices": [183, 200]
+        }
+      ],
+      "urls": [],
+      "symbols": [],
+      "user_mentions": []
+    }
+  },
+  "in_reply_to_user_id_str": null,
+  "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+  "in_reply_to_screen_name": null
+}

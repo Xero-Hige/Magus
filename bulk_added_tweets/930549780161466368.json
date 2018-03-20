@@ -1,0 +1,133 @@
+{
+  "is_quote_status": false,
+  "quote_count": 0,
+  "in_reply_to_user_id_str": "250859381",
+  "favorite_count": 0,
+  "in_reply_to_status_id": 930125972485132288,
+  "id_str": "930549780161466368",
+  "filter_level": "low",
+  "reply_count": 0,
+  "timestamp_ms": "1510695331026",
+  "id": 930549780161466368,
+  "display_text_range": [25, 140],
+  "coordinates": null,
+  "in_reply_to_screen_name": "Cazatalentos",
+  "truncated": true,
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "place": {
+    "bounding_box": {
+      "coordinates": [[[-6.085853, 36.843545], [-6.085853, 36.890575], [-5.942034, 36.890575], [-5.942034, 36.843545]]],
+      "type": "Polygon"
+    },
+    "url": "https://api.twitter.com/1.1/geo/id/c977f869fc29411f.json",
+    "country_code": "ES",
+    "name": "El Cuervo de Sevilla",
+    "full_name": "El Cuervo de Sevilla, Espa\u00f1a",
+    "id": "c977f869fc29411f",
+    "place_type": "city",
+    "attributes": {},
+    "country": "Espa\u00f1a"
+  },
+  "retweet_count": 0,
+  "extended_tweet": {
+    "display_text_range": [25, 292],
+    "entities": {
+      "user_mentions": [
+        {
+          "id": 250859381,
+          "screen_name": "Cazatalentos",
+          "id_str": "250859381",
+          "indices": [0, 13],
+          "name": "Paco Lobo"
+        }, {
+          "id": 991560608,
+          "screen_name": "conchajua",
+          "id_str": "991560608",
+          "indices": [14, 24],
+          "name": "\u2728 Gata Tricolor \u2728"
+        }
+      ],
+      "urls": [],
+      "symbols": [],
+      "hashtags": []
+    },
+    "full_text": "@Cazatalentos @conchajua Exacto: esos q presumen de cumplir la ley(solo la suta) y de respetar las decisiones judiciales, aplauden a quien quiere vejarlas x no admitir sus PHOTOSHOCOPIAS DE YOU TUBE, a pesar d las numerosas sentencias negando esas pruebas. Pero al PP no le interesa la verdad"
+  },
+  "created_at": "Tue Nov 14 21:35:31 +0000 2017",
+  "favorited": false,
+  "text": "@Cazatalentos @conchajua Exacto: esos q presumen de cumplir la ley(solo la suta) y de respetar las decisiones judic\u2026 https://t.co/IeRjfyJqjO",
+  "in_reply_to_user_id": 250859381,
+  "geo": null,
+  "lang": "es",
+  "contributors": null,
+  "in_reply_to_status_id_str": "930125972485132288",
+  "user": {
+    "protected": false,
+    "following": null,
+    "profile_text_color": "333333",
+    "profile_background_color": "C0DEED",
+    "statuses_count": 5586,
+    "default_profile": true,
+    "favourites_count": 2464,
+    "friends_count": 63,
+    "follow_request_sent": null,
+    "profile_sidebar_fill_color": "DDEEF6",
+    "translator_type": "none",
+    "notifications": null,
+    "id_str": "550806763",
+    "screen_name": "MILLKIADES",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/550806763/1480602164",
+    "verified": false,
+    "id": 550806763,
+    "profile_use_background_image": true,
+    "description": "Antisistema? No se, pero lo que hay no me gusta nada... me molestan los politicos mentirosos",
+    "utc_offset": -28800,
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "is_translator": false,
+    "listed_count": 5,
+    "default_profile_image": false,
+    "contributors_enabled": false,
+    "followers_count": 66,
+    "location": null,
+    "created_at": "Wed Apr 11 08:16:34 +0000 2012",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/808686309602693120/Y8G5xDey_normal.jpg",
+    "geo_enabled": true,
+    "time_zone": "Pacific Time (US & Canada)",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/808686309602693120/Y8G5xDey_normal.jpg",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_link_color": "1DA1F2",
+    "lang": "es",
+    "name": "lobo solitario",
+    "profile_background_tile": false,
+    "url": null,
+    "profile_sidebar_border_color": "C0DEED"
+  },
+  "entities": {
+    "user_mentions": [
+      {
+        "id": 250859381,
+        "screen_name": "Cazatalentos",
+        "id_str": "250859381",
+        "indices": [0, 13],
+        "name": "Paco Lobo"
+      }, {
+        "id": 991560608,
+        "screen_name": "conchajua",
+        "id_str": "991560608",
+        "indices": [14, 24],
+        "name": "\u2728 Gata Tricolor \u2728"
+      }
+    ],
+    "urls": [
+      {
+        "expanded_url": "https://twitter.com/i/web/status/930549780161466368",
+        "url": "https://t.co/IeRjfyJqjO",
+        "indices": [117, 140],
+        "display_url": "twitter.com/i/web/status/9\u2026"
+      }
+    ],
+    "symbols": [],
+    "hashtags": []
+  },
+  "retweeted": false
+}

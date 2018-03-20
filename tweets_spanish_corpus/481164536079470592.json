@@ -1,0 +1,104 @@
+{
+  "created_at": "Mon Jun 23 19:58:59 +0000 2014",
+  "id": 481164536079470592,
+  "id_str": "481164536079470592",
+  "text": "Me dio piel de gallina ver y escuchar como cantaban el himno de Brasil. #Impresionante",
+  "truncated": false,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "Impresionante",
+        "indices": [72, 86]
+      }
+    ],
+    "symbols": [],
+    "user_mentions": [],
+    "urls": []
+  },
+  "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 266927513,
+    "id_str": "266927513",
+    "name": "Marcelo Rol\u00f3n",
+    "screen_name": "marceloRolon09",
+    "location": "Capiat\u00e1-Paraguay",
+    "description": "\u2764\ud83d\udc99",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": []
+      }
+    },
+    "protected": false,
+    "followers_count": 442,
+    "friends_count": 479,
+    "listed_count": 3,
+    "created_at": "Wed Mar 16 01:46:25 +0000 2011",
+    "favourites_count": 8400,
+    "utc_offset": 7200,
+    "time_zone": "Athens",
+    "geo_enabled": true,
+    "verified": false,
+    "statuses_count": 18230,
+    "lang": "es",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "is_translation_enabled": false,
+    "profile_background_color": "1A1B1F",
+    "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/839865914/f678f1d0839b6795259cc47cb86b95cf.jpeg",
+    "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/839865914/f678f1d0839b6795259cc47cb86b95cf.jpeg",
+    "profile_background_tile": true,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/894332351861358597/lIelW7vi_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/894332351861358597/lIelW7vi_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/266927513/1382671794",
+    "profile_link_color": "F5680A",
+    "profile_sidebar_border_color": "FFFFFF",
+    "profile_sidebar_fill_color": "252429",
+    "profile_text_color": "666666",
+    "profile_use_background_image": true,
+    "has_extended_profile": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false,
+    "translator_type": "none"
+  },
+  "geo": {
+    "type": "Point",
+    "coordinates": [-25.3483975, -57.4438053]
+  },
+  "coordinates": {
+    "type": "Point",
+    "coordinates": [-57.4438053, -25.3483975]
+  },
+  "place": {
+    "id": "6cf2fd60a82329fc",
+    "url": "https://api.twitter.com/1.1/geo/id/6cf2fd60a82329fc.json",
+    "place_type": "country",
+    "name": "Paraguay",
+    "full_name": "Paraguay",
+    "country_code": "PY",
+    "country": "Paraguay",
+    "contained_within": [],
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [[-62.6451197, -27.594325], [-54.258291, -27.594325], [-54.258291, -19.2940407], [-62.6451197, -19.2940407]]
+      ]
+    },
+    "attributes": {}
+  },
+  "contributors": null,
+  "is_quote_status": false,
+  "retweet_count": 0,
+  "favorite_count": 0,
+  "favorited": false,
+  "retweeted": false,
+  "lang": "es"
+}

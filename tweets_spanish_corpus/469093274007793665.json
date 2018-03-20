@@ -1,0 +1,122 @@
+{
+  "created_at": "Wed May 21 12:32:06 +0000 2014",
+  "id": 469093274007793665,
+  "id_str": "469093274007793665",
+  "text": "Comenzar el d\u00eda haciendo #m\u00fasica es lo mejor del #mundo, relaja, abre tu mente y te pone #FELIZ.\u2026 http://t.co/HjFgU14YSu",
+  "truncated": false,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "m\u00fasica",
+        "indices": [25, 32]
+      }, {
+        "text": "mundo",
+        "indices": [49, 55]
+      }, {
+        "text": "FELIZ",
+        "indices": [89, 95]
+      }
+    ],
+    "symbols": [],
+    "user_mentions": [],
+    "urls": [
+      {
+        "url": "http://t.co/HjFgU14YSu",
+        "expanded_url": "http://instagram.com/p/oQkyaZufx1/",
+        "display_url": "instagram.com/p/oQkyaZufx1/",
+        "indices": [98, 120]
+      }
+    ]
+  },
+  "source": "<a href=\"http://instagram.com\" rel=\"nofollow\">Instagram</a>",
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 166609814,
+    "id_str": "166609814",
+    "name": "Rubencho Rodriguez",
+    "screen_name": "Rubencho_R",
+    "location": "Riohacha",
+    "description": "Hijo de DIOS, amante de la buena m\u00fasica, acordeonista, Riohachero... mi whatsapp: 3014568399",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": []
+      }
+    },
+    "protected": false,
+    "followers_count": 1245,
+    "friends_count": 636,
+    "listed_count": 5,
+    "created_at": "Wed Jul 14 15:45:32 +0000 2010",
+    "favourites_count": 50,
+    "utc_offset": -18000,
+    "time_zone": "Bogota",
+    "geo_enabled": true,
+    "verified": false,
+    "statuses_count": 4787,
+    "lang": "es",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "is_translation_enabled": false,
+    "profile_background_color": "C0DEED",
+    "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/335428860/RUBENCHO_RODRIGUEZ__tw_Y_______RubenchordrgzB-_.jpg",
+    "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/335428860/RUBENCHO_RODRIGUEZ__tw_Y_______RubenchordrgzB-_.jpg",
+    "profile_background_tile": true,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/558146757004386305/hhWqd_qn_normal.jpeg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/558146757004386305/hhWqd_qn_normal.jpeg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/166609814/1421847245",
+    "profile_link_color": "0084B4",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "has_extended_profile": false,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false,
+    "translator_type": "none"
+  },
+  "geo": {
+    "type": "Point",
+    "coordinates": [11.54104232, -72.91161901]
+  },
+  "coordinates": {
+    "type": "Point",
+    "coordinates": [-72.91161901, 11.54104232]
+  },
+  "place": {
+    "id": "48b0b6c0e1a3a67a",
+    "url": "https://api.twitter.com/1.1/geo/id/48b0b6c0e1a3a67a.json",
+    "place_type": "admin",
+    "name": "La Guajira",
+    "full_name": "La Guajira, Colombia",
+    "country_code": "CO",
+    "country": "Colombia",
+    "contained_within": [],
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [-73.684600996788, 10.3808240011946], [-71.1129337233535, 10.3808240011946],
+          [-71.1129337233535, 12.4577744204127], [-73.684600996788, 12.4577744204127]
+        ]
+      ]
+    },
+    "attributes": {}
+  },
+  "contributors": null,
+  "is_quote_status": false,
+  "retweet_count": 0,
+  "favorite_count": 1,
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false,
+  "possibly_sensitive_appealable": false,
+  "lang": "es"
+}

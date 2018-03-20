@@ -1,0 +1,125 @@
+{
+  "is_quote_status": false,
+  "in_reply_to_user_id_str": null,
+  "created_at": "Tue Nov 14 21:59:31 +0000 2017",
+  "favorite_count": 0,
+  "in_reply_to_status_id": null,
+  "id_str": "930555823184596994",
+  "filter_level": "low",
+  "reply_count": 0,
+  "timestamp_ms": "1510696771795",
+  "id": 930555823184596994,
+  "coordinates": null,
+  "in_reply_to_screen_name": null,
+  "truncated": true,
+  "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+  "place": {
+    "bounding_box": {
+      "coordinates": [[[-75.731653, 6.166059], [-75.731653, 6.375707], [-75.506773, 6.375707], [-75.506773, 6.166059]]],
+      "type": "Polygon"
+    },
+    "url": "https://api.twitter.com/1.1/geo/id/00698bbe577bad5b.json",
+    "country_code": "CO",
+    "name": "Medell\u00edn",
+    "full_name": "Medell\u00edn, Colombia",
+    "id": "00698bbe577bad5b",
+    "place_type": "city",
+    "attributes": {},
+    "country": "Colombia"
+  },
+  "retweet_count": 0,
+  "extended_tweet": {
+    "display_text_range": [0, 280],
+    "entities": {
+      "user_mentions": [
+        {
+          "id": 920198755,
+          "screen_name": "DIM_Oficial",
+          "id_str": "920198755",
+          "indices": [59, 71],
+          "name": "DIM"
+        }, {
+          "id": 263487110,
+          "screen_name": "acordantioquia",
+          "id_str": "263487110",
+          "indices": [265, 280],
+          "name": "ACORD Antioquia"
+        }
+      ],
+      "urls": [],
+      "symbols": [],
+      "hashtags": []
+    },
+    "full_text": "En Medell\u00edn\nJos\u00e9 Luis Restrepo Jaramillo,primer presidente @DIM_Oficial en 1913. Fundadores Alberto Uribe Piedrahita y sus hermanos Luis y Rafael . Tambi\u00e9n Guillermo Greiffenstein, Enrique Villa Restrepo y Mart\u00edn del Corral. Datos del libro 80 a\u00f1os de Carlos Serna @acordantioquia"
+  },
+  "quote_count": 0,
+  "favorited": false,
+  "text": "En Medell\u00edn\nJos\u00e9 Luis Restrepo Jaramillo,primer presidente @DIM_Oficial en 1913. Fundadores Alberto Uribe Piedrahit\u2026 https://t.co/k8bEWFeHxp",
+  "in_reply_to_user_id": null,
+  "geo": null,
+  "lang": "es",
+  "contributors": null,
+  "in_reply_to_status_id_str": null,
+  "user": {
+    "protected": false,
+    "following": null,
+    "profile_text_color": "333333",
+    "profile_background_color": "C0DEED",
+    "statuses_count": 12225,
+    "default_profile": true,
+    "favourites_count": 143,
+    "friends_count": 374,
+    "follow_request_sent": null,
+    "profile_sidebar_fill_color": "DDEEF6",
+    "translator_type": "none",
+    "notifications": null,
+    "id_str": "2614657212",
+    "screen_name": "frafer143",
+    "verified": false,
+    "id": 2614657212,
+    "profile_use_background_image": true,
+    "description": "periodista deportivo. Acord Colombia. Socio Honorario Acord Antioquia",
+    "utc_offset": null,
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "is_translator": false,
+    "listed_count": 6,
+    "default_profile_image": false,
+    "contributors_enabled": false,
+    "followers_count": 282,
+    "location": "Medellin,Colombia",
+    "created_at": "Thu Jul 10 03:05:29 +0000 2014",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/737768501360762880/lNqEKu0S_normal.jpg",
+    "geo_enabled": true,
+    "time_zone": null,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/737768501360762880/lNqEKu0S_normal.jpg",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_link_color": "1DA1F2",
+    "lang": "es",
+    "name": "francisco  fernandez",
+    "profile_background_tile": false,
+    "url": null,
+    "profile_sidebar_border_color": "C0DEED"
+  },
+  "entities": {
+    "user_mentions": [
+      {
+        "id": 920198755,
+        "screen_name": "DIM_Oficial",
+        "id_str": "920198755",
+        "indices": [59, 71],
+        "name": "DIM"
+      }
+    ],
+    "urls": [
+      {
+        "expanded_url": "https://twitter.com/i/web/status/930555823184596994",
+        "url": "https://t.co/k8bEWFeHxp",
+        "indices": [117, 140],
+        "display_url": "twitter.com/i/web/status/9\u2026"
+      }
+    ],
+    "symbols": [],
+    "hashtags": []
+  },
+  "retweeted": false
+}

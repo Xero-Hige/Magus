@@ -1,0 +1,142 @@
+{
+  "extended_tweet": {
+    "display_text_range": [0, 185],
+    "entities": {
+      "urls": [],
+      "symbols": [],
+      "hashtags": [
+        {
+          "text": "Valparaiso",
+          "indices": [12, 23]
+        }, {
+          "text": "Vi\u00f1adelMar",
+          "indices": [80, 91]
+        }
+      ],
+      "user_mentions": [
+        {
+          "indices": [144, 153],
+          "name": "STTCONAF",
+          "id_str": "2579563513",
+          "screen_name": "STTCONAF",
+          "id": 2579563513
+        }, {
+          "indices": [154, 169],
+          "name": "Christian Venegas C.",
+          "id_str": "2339324186",
+          "screen_name": "Tragahumosfire",
+          "id": 2339324186
+        }, {
+          "indices": [170, 185],
+          "name": "Wildland firefighter",
+          "id_str": "149766523",
+          "screen_name": "xapuvillalobos",
+          "id": 149766523
+        }
+      ]
+    },
+    "full_text": "13:40 Horas #Valparaiso CBV despacha unidad 133 en apoyo a incendio forestal en #Vi\u00f1adelMar Re\u00f1aca Alto calle Claudio Arrau pasado villa Rukan. @STTCONAF @Tragahumosfire @xapuvillalobos"
+  },
+  "favorited": false,
+  "lang": "es",
+  "favorite_count": 0,
+  "reply_count": 0,
+  "geo": null,
+  "contributors": null,
+  "text": "13:40 Horas #Valparaiso CBV despacha unidad 133 en apoyo a incendio forestal en #Vi\u00f1adelMar Re\u00f1aca Alto calle Claud\u2026 https://t.co/J6QrCtwSHn",
+  "created_at": "Wed Nov 15 16:43:46 +0000 2017",
+  "place": {
+    "place_type": "city",
+    "full_name": "Vi\u00f1a del Mar, Chile",
+    "country": "Chile",
+    "name": "Vi\u00f1a del Mar",
+    "url": "https://api.twitter.com/1.1/geo/id/008be613029d4ca5.json",
+    "country_code": "CL",
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [[-71.589833, -33.104552], [-71.589833, -32.948163], [-71.441459, -32.948163], [-71.441459, -33.104552]]
+      ]
+    },
+    "id": "008be613029d4ca5",
+    "attributes": {}
+  },
+  "user": {
+    "profile_text_color": "000000",
+    "lang": "es",
+    "location": "Vi\u00f1a del Mar, Valpara\u00edso",
+    "friends_count": 1735,
+    "profile_link_color": "0084B4",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/533105046763089921/rDGwciRi_normal.jpeg",
+    "contributors_enabled": false,
+    "following": null,
+    "is_translator": false,
+    "verified": false,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/2861034045/1451937030",
+    "utc_offset": -21600,
+    "geo_enabled": true,
+    "profile_sidebar_border_color": "000000",
+    "created_at": "Tue Nov 04 17:42:27 +0000 2014",
+    "description": "Comunicaciones Emergencias Valpara\u00edso, iniciada el 25/11/2014.- Informamos de emergencias regionales y nacionales de importancia.",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/533105046763089921/rDGwciRi_normal.jpeg",
+    "profile_background_color": "000000",
+    "listed_count": 49,
+    "follow_request_sent": null,
+    "profile_background_tile": false,
+    "followers_count": 12320,
+    "name": "Com.Emergencias.Valp",
+    "notifications": null,
+    "default_profile_image": false,
+    "url": null,
+    "favourites_count": 5951,
+    "screen_name": "CEValparaiso",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_sidebar_fill_color": "000000",
+    "profile_use_background_image": false,
+    "translator_type": "none",
+    "time_zone": "Central Time (US & Canada)",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "statuses_count": 19386,
+    "id": 2861034045,
+    "default_profile": false,
+    "protected": false,
+    "id_str": "2861034045"
+  },
+  "in_reply_to_user_id_str": null,
+  "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+  "filter_level": "low",
+  "is_quote_status": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_user_id": null,
+  "quote_count": 0,
+  "retweeted": false,
+  "in_reply_to_screen_name": null,
+  "retweet_count": 0,
+  "in_reply_to_status_id_str": null,
+  "coordinates": null,
+  "id": 930838748153049089,
+  "truncated": true,
+  "entities": {
+    "urls": [
+      {
+        "url": "https://t.co/J6QrCtwSHn",
+        "display_url": "twitter.com/i/web/status/9\u2026",
+        "indices": [117, 140],
+        "expanded_url": "https://twitter.com/i/web/status/930838748153049089"
+      }
+    ],
+    "symbols": [],
+    "hashtags": [
+      {
+        "text": "Valparaiso",
+        "indices": [12, 23]
+      }, {
+        "text": "Vi\u00f1adelMar",
+        "indices": [80, 91]
+      }
+    ],
+    "user_mentions": []
+  },
+  "timestamp_ms": "1510764226364",
+  "id_str": "930838748153049089"
+}

@@ -1,0 +1,114 @@
+{
+  "created_at": "Fri May 09 16:49:29 +0000 2014",
+  "id": 464809390311477250,
+  "id_str": "464809390311477250",
+  "text": "\" \"Las Pastillas del Abuelo presenta su opera rock\". #miedo",
+  "truncated": false,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "miedo",
+        "indices": [53, 59]
+      }
+    ],
+    "symbols": [],
+    "user_mentions": [],
+    "urls": []
+  },
+  "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 114582277,
+    "id_str": "114582277",
+    "name": "Jorge Bern\u00e1rdez",
+    "screen_name": "Jbetiquetanegra",
+    "location": "Desubicado",
+    "description": "It ain't no myst'ry\r\nIf it's politics or hist'ry\r\nThe thing you gotta know is\r\nEv'rything is show biz",
+    "url": "https://t.co/1B0WfNxC7w",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "https://t.co/1B0WfNxC7w",
+            "expanded_url": "http://www.lotuyaesta.blogspot.com/",
+            "display_url": "lotuyaesta.blogspot.com",
+            "indices": [0, 23]
+          }
+        ]
+      },
+      "description": {
+        "urls": []
+      }
+    },
+    "protected": false,
+    "followers_count": 2776,
+    "friends_count": 2232,
+    "listed_count": 41,
+    "created_at": "Mon Feb 15 22:29:44 +0000 2010",
+    "favourites_count": 24146,
+    "utc_offset": -10800,
+    "time_zone": "Santiago",
+    "geo_enabled": true,
+    "verified": false,
+    "statuses_count": 89474,
+    "lang": "es",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "is_translation_enabled": false,
+    "profile_background_color": "C0DEED",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/698014187/jorge11_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/698014187/jorge11_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/114582277/1397031106",
+    "profile_link_color": "1DA1F2",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "has_extended_profile": false,
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false,
+    "translator_type": "none"
+  },
+  "geo": {
+    "type": "Point",
+    "coordinates": [-34.5723096, -58.4436233]
+  },
+  "coordinates": {
+    "type": "Point",
+    "coordinates": [-58.4436233, -34.5723096]
+  },
+  "place": {
+    "id": "1ed82be977be0cfa",
+    "url": "https://api.twitter.com/1.1/geo/id/1ed82be977be0cfa.json",
+    "place_type": "admin",
+    "name": "Ciudad Aut\u00f3noma de Buenos Aires",
+    "full_name": "Ciudad Aut\u00f3noma de Buenos Aires, Argentina",
+    "country_code": "AR",
+    "country": "Argentina",
+    "contained_within": [],
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [[-58.5317922, -34.7054213], [-58.335105, -34.7054213], [-58.335105, -34.526466], [-58.5317922, -34.526466]]
+      ]
+    },
+    "attributes": {}
+  },
+  "contributors": null,
+  "is_quote_status": false,
+  "retweet_count": 0,
+  "favorite_count": 2,
+  "favorited": false,
+  "retweeted": false,
+  "lang": "es"
+}

@@ -1,0 +1,121 @@
+{
+  "extended_tweet": {
+    "display_text_range": [10, 204],
+    "entities": {
+      "urls": [],
+      "symbols": [],
+      "hashtags": [],
+      "user_mentions": [
+        {
+          "indices": [0, 9],
+          "name": "Ferm\u00edn Huerta",
+          "id_str": "275681295",
+          "screen_name": "huertaff",
+          "id": 275681295
+        }
+      ]
+    },
+    "full_text": "@huertaff \u00bfPara discriminar a qui\u00e9n? Y lo del negocio, te contar\u00e9. Todav\u00eda estoy esperando mi paguita. Las mentiras repetidas no se convierten en verdad. Pocos independentistas hay para c\u00f3mo est\u00e1 el tema."
+  },
+  "favorited": false,
+  "lang": "es",
+  "display_text_range": [10, 140],
+  "favorite_count": 0,
+  "reply_count": 0,
+  "geo": null,
+  "contributors": null,
+  "text": "@huertaff \u00bfPara discriminar a qui\u00e9n? Y lo del negocio, te contar\u00e9. Todav\u00eda estoy esperando mi paguita. Las mentiras\u2026 https://t.co/LrCjFbmov4",
+  "created_at": "Wed Nov 15 15:50:20 +0000 2017",
+  "place": {
+    "place_type": "city",
+    "full_name": "Lugo, Espa\u00f1a",
+    "country": "Espa\u00f1a",
+    "name": "Lugo",
+    "url": "https://api.twitter.com/1.1/geo/id/07f70a23853105b1.json",
+    "country_code": "ES",
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [[[-7.735264, 42.882574], [-7.735264, 43.098682], [-7.405997, 43.098682], [-7.405997, 42.882574]]]
+    },
+    "id": "07f70a23853105b1",
+    "attributes": {}
+  },
+  "user": {
+    "profile_text_color": "0C3E53",
+    "lang": "es",
+    "location": "Barrio da Ponte, Lugoslavia",
+    "friends_count": 596,
+    "profile_link_color": "FF0000",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/749662724297293825/L8ucsrcY_normal.jpg",
+    "contributors_enabled": false,
+    "following": null,
+    "is_translator": false,
+    "verified": false,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/77189053/1461920008",
+    "utc_offset": 10800,
+    "geo_enabled": true,
+    "profile_sidebar_border_color": "F2E195",
+    "created_at": "Fri Sep 25 11:11:05 +0000 2009",
+    "description": "Queen in the North, periodista de Elprogreso e friqui vocacional",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/749662724297293825/L8ucsrcY_normal.jpg",
+    "profile_background_color": "BADFCD",
+    "listed_count": 34,
+    "follow_request_sent": null,
+    "profile_background_tile": true,
+    "followers_count": 1022,
+    "name": "Lyanna Stark",
+    "notifications": null,
+    "default_profile_image": false,
+    "url": "http://fada-morgana.livejournal.com/",
+    "favourites_count": 6854,
+    "screen_name": "mvizaguirre",
+    "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/264837436/rodchenko.jpg",
+    "profile_sidebar_fill_color": "FFF7CC",
+    "profile_use_background_image": true,
+    "translator_type": "regular",
+    "time_zone": "Volgograd",
+    "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/264837436/rodchenko.jpg",
+    "statuses_count": 36267,
+    "id": 77189053,
+    "default_profile": false,
+    "protected": false,
+    "id_str": "77189053"
+  },
+  "in_reply_to_user_id_str": "275681295",
+  "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+  "filter_level": "low",
+  "is_quote_status": false,
+  "in_reply_to_status_id": 930819903350804481,
+  "in_reply_to_user_id": 275681295,
+  "quote_count": 0,
+  "retweeted": false,
+  "in_reply_to_screen_name": "huertaff",
+  "retweet_count": 0,
+  "in_reply_to_status_id_str": "930819903350804481",
+  "coordinates": null,
+  "id": 930825300568616961,
+  "truncated": true,
+  "entities": {
+    "urls": [
+      {
+        "url": "https://t.co/LrCjFbmov4",
+        "display_url": "twitter.com/i/web/status/9\u2026",
+        "indices": [117, 140],
+        "expanded_url": "https://twitter.com/i/web/status/930825300568616961"
+      }
+    ],
+    "symbols": [],
+    "hashtags": [],
+    "user_mentions": [
+      {
+        "indices": [0, 9],
+        "name": "Ferm\u00edn Huerta",
+        "id_str": "275681295",
+        "screen_name": "huertaff",
+        "id": 275681295
+      }
+    ]
+  },
+  "timestamp_ms": "1510761020210",
+  "id_str": "930825300568616961"
+}

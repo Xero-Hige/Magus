@@ -1,0 +1,106 @@
+{
+  "geo": null,
+  "filter_level": "low",
+  "in_reply_to_status_id": null,
+  "lang": "es",
+  "favorite_count": 0,
+  "coordinates": null,
+  "favorited": false,
+  "place": {
+    "name": "Quito",
+    "full_name": "Quito, Ecuador",
+    "place_type": "city",
+    "country": "Ecuador",
+    "id": "0177bc687a9ac697",
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [[-78.948466, -0.588618], [-78.948466, 0.255477], [-78.164897, 0.255477], [-78.164897, -0.588618]]
+      ]
+    },
+    "attributes": {},
+    "url": "https://api.twitter.com/1.1/geo/id/0177bc687a9ac697.json",
+    "country_code": "EC"
+  },
+  "contributors": null,
+  "entities": {
+    "hashtags": [],
+    "urls": [
+      {
+        "display_url": "twitter.com/i/web/status/9\u2026",
+        "expanded_url": "https://twitter.com/i/web/status/930656963079426049",
+        "url": "https://t.co/FYcEEKSWR1",
+        "indices": [117, 140]
+      }
+    ],
+    "symbols": [],
+    "user_mentions": []
+  },
+  "id": 930656963079426049,
+  "user": {
+    "followers_count": 199,
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_color": "C0DEED",
+    "translator_type": "none",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/890376398262726659/dgAwseOV_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/102220938/1485235919",
+    "default_profile": true,
+    "utc_offset": null,
+    "lang": "es",
+    "url": null,
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/890376398262726659/dgAwseOV_normal.jpg",
+    "time_zone": null,
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_use_background_image": true,
+    "id": 102220938,
+    "profile_link_color": "1DA1F2",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_background_tile": false,
+    "geo_enabled": true,
+    "id_str": "102220938",
+    "verified": false,
+    "name": "fernando mej\u00eda",
+    "is_translator": false,
+    "notifications": null,
+    "following": null,
+    "friends_count": 222,
+    "contributors_enabled": false,
+    "screen_name": "ferchomejia",
+    "created_at": "Wed Jan 06 00:49:14 +0000 2010",
+    "profile_text_color": "333333",
+    "favourites_count": 187,
+    "follow_request_sent": null,
+    "description": "ing. Gob. seccionales.\nconsultor\u00eda pol\u00edtica y de gobierno",
+    "default_profile_image": false,
+    "location": "macas, morona santiago",
+    "listed_count": 4,
+    "protected": false,
+    "statuses_count": 1350
+  },
+  "id_str": "930656963079426049",
+  "retweet_count": 0,
+  "retweeted": false,
+  "quote_count": 0,
+  "truncated": true,
+  "in_reply_to_status_id_str": null,
+  "reply_count": 0,
+  "created_at": "Wed Nov 15 04:41:25 +0000 2017",
+  "is_quote_status": false,
+  "in_reply_to_user_id": null,
+  "timestamp_ms": "1510720885425",
+  "text": "Parecen no entender: un partido dividido pierde fuerza. Los tiempos no favorecen frente a una consulta popular. Y s\u2026 https://t.co/FYcEEKSWR1",
+  "extended_tweet": {
+    "full_text": "Parecen no entender: un partido dividido pierde fuerza. Los tiempos no favorecen frente a una consulta popular. Y sin embargo se pelea por estar en medios y no con el pueblo.",
+    "display_text_range": [0, 174],
+    "entities": {
+      "hashtags": [],
+      "urls": [],
+      "symbols": [],
+      "user_mentions": []
+    }
+  },
+  "in_reply_to_user_id_str": null,
+  "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+  "in_reply_to_screen_name": null
+}

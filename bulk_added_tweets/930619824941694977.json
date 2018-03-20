@@ -1,0 +1,126 @@
+{
+  "geo": null,
+  "filter_level": "low",
+  "in_reply_to_status_id": null,
+  "lang": "es",
+  "favorite_count": 0,
+  "coordinates": null,
+  "favorited": false,
+  "place": {
+    "name": "Caleta Olivia",
+    "full_name": "Caleta Olivia, Argentina",
+    "place_type": "city",
+    "country": "Argentina",
+    "id": "00aadc5551cd4446",
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [[-67.556432, -46.466223], [-67.556432, -46.421264], [-67.496948, -46.421264], [-67.496948, -46.466223]]
+      ]
+    },
+    "attributes": {},
+    "url": "https://api.twitter.com/1.1/geo/id/00aadc5551cd4446.json",
+    "country_code": "AR"
+  },
+  "contributors": null,
+  "entities": {
+    "hashtags": [],
+    "urls": [
+      {
+        "display_url": "twitter.com/i/web/status/9\u2026",
+        "expanded_url": "https://twitter.com/i/web/status/930619824941694977",
+        "url": "https://t.co/fFTcEItSLl",
+        "indices": [117, 140]
+      }
+    ],
+    "symbols": [],
+    "user_mentions": []
+  },
+  "id": 930619824941694977,
+  "user": {
+    "followers_count": 88,
+    "profile_background_image_url": "",
+    "profile_background_color": "F5F8FA",
+    "translator_type": "none",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/929796982822068224/cgn4ET7e_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/888856768683667456/1508712242",
+    "default_profile": true,
+    "utc_offset": null,
+    "lang": "es",
+    "url": null,
+    "profile_background_image_url_https": "",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/929796982822068224/cgn4ET7e_normal.jpg",
+    "time_zone": null,
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_use_background_image": true,
+    "id": 888856768683667456,
+    "profile_link_color": "1DA1F2",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_background_tile": false,
+    "geo_enabled": true,
+    "id_str": "888856768683667456",
+    "verified": false,
+    "name": "VIGEVANI\u00d7100PRE\ud83d\ude0d\ud83d\udc96",
+    "is_translator": false,
+    "notifications": null,
+    "following": null,
+    "friends_count": 449,
+    "contributors_enabled": false,
+    "screen_name": "ani_sesto",
+    "created_at": "Sat Jul 22 20:22:22 +0000 2017",
+    "profile_text_color": "333333",
+    "favourites_count": 835,
+    "follow_request_sent": null,
+    "description": "@dosogas los amo son lo mas\u2764",
+    "default_profile_image": false,
+    "location": null,
+    "listed_count": 0,
+    "protected": false,
+    "statuses_count": 1476
+  },
+  "id_str": "930619824941694977",
+  "retweet_count": 0,
+  "retweeted": false,
+  "quote_count": 0,
+  "truncated": true,
+  "in_reply_to_status_id_str": null,
+  "reply_count": 0,
+  "created_at": "Wed Nov 15 02:13:51 +0000 2017",
+  "is_quote_status": false,
+  "in_reply_to_user_id": null,
+  "timestamp_ms": "1510712031003",
+  "text": "Que verguenza chicos que hayan faltado el respeto a sus udolos ellos gambien son personas y tiene. jna vida y tambi\u2026 https://t.co/fFTcEItSLl",
+  "extended_tweet": {
+    "full_text": "Que verguenza chicos que hayan faltado el respeto a sus udolos ellos gambien son personas y tiene. jna vida y tambien necesitan espacio personal una verguenza y haci repetan a sus idolos @dosogas @mathisellanes @fedevigevani \u270a\ud83d\ude20",
+    "display_text_range": [0, 227],
+    "entities": {
+      "hashtags": [],
+      "urls": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "id": 2540028067,
+          "id_str": "2540028067",
+          "name": "Dosogas",
+          "indices": [187, 195],
+          "screen_name": "dosogas"
+        }, {
+          "id": 2947295399,
+          "id_str": "2947295399",
+          "name": "MATHI",
+          "indices": [196, 210],
+          "screen_name": "mathisellanes"
+        }, {
+          "id": 279367490,
+          "id_str": "279367490",
+          "name": "Fedilla",
+          "indices": [211, 224],
+          "screen_name": "fedevigevani"
+        }
+      ]
+    }
+  },
+  "in_reply_to_user_id_str": null,
+  "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+  "in_reply_to_screen_name": null
+}

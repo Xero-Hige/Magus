@@ -1,0 +1,104 @@
+{
+  "created_at": "Sat Nov 19 01:52:50 +0000 2011",
+  "id": 137709889295364097,
+  "id_str": "137709889295364097",
+  "text": "I am SO terrified of outside when it is dark out., I feel like someone is going to come snatch me up! #fear",
+  "truncated": false,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "fear",
+        "indices": [102, 107]
+      }
+    ],
+    "symbols": [],
+    "user_mentions": [],
+    "urls": []
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 278243429,
+    "id_str": "278243429",
+    "name": "Ashley Aldridge\ud83c\udf3b",
+    "screen_name": "wildd_ASHleyyy",
+    "location": "",
+    "description": "wherever you go, no matter what the weather, always bring your own sunshine \ud83c\udf1e",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": []
+      }
+    },
+    "protected": false,
+    "followers_count": 1264,
+    "friends_count": 852,
+    "listed_count": 6,
+    "created_at": "Wed Apr 06 22:14:36 +0000 2011",
+    "favourites_count": 35189,
+    "utc_offset": -18000,
+    "time_zone": "Eastern Time (US & Canada)",
+    "geo_enabled": true,
+    "verified": false,
+    "statuses_count": 18962,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "is_translation_enabled": false,
+    "profile_background_color": "FFFF05",
+    "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/299543226/love-1.png",
+    "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/299543226/love-1.png",
+    "profile_background_tile": true,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/961159236859432960/tsNqKMC2_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/961159236859432960/tsNqKMC2_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/278243429/1512547734",
+    "profile_link_color": "030303",
+    "profile_sidebar_border_color": "000000",
+    "profile_sidebar_fill_color": "83F500",
+    "profile_text_color": "8605FF",
+    "profile_use_background_image": true,
+    "has_extended_profile": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false,
+    "translator_type": "none"
+  },
+  "geo": {
+    "type": "Point",
+    "coordinates": [40.75106018, -86.37981877]
+  },
+  "coordinates": {
+    "type": "Point",
+    "coordinates": [-86.37981877, 40.75106018]
+  },
+  "place": {
+    "id": "21588d4d5485857e",
+    "url": "https://api.twitter.com/1.1/geo/id/21588d4d5485857e.json",
+    "place_type": "city",
+    "name": "Logansport",
+    "full_name": "Logansport, IN",
+    "country_code": "US",
+    "country": "Estados Unidos",
+    "contained_within": [],
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [[-86.4139514, 40.721652], [-86.29038, 40.721652], [-86.29038, 40.779044], [-86.4139514, 40.779044]]
+      ]
+    },
+    "attributes": {}
+  },
+  "contributors": null,
+  "is_quote_status": false,
+  "retweet_count": 0,
+  "favorite_count": 0,
+  "favorited": false,
+  "retweeted": false,
+  "lang": "en"
+}

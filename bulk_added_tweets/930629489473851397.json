@@ -1,0 +1,106 @@
+{
+  "geo": null,
+  "filter_level": "low",
+  "in_reply_to_status_id": null,
+  "lang": "es",
+  "favorite_count": 0,
+  "coordinates": null,
+  "favorited": false,
+  "place": {
+    "name": "San Miguel",
+    "full_name": "San Miguel, Peru",
+    "place_type": "city",
+    "country": "Peru",
+    "id": "01e0aaf250623895",
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [[-77.111083, -12.09762], [-77.111083, -12.061651], [-77.068127, -12.061651], [-77.068127, -12.09762]]
+      ]
+    },
+    "attributes": {},
+    "url": "https://api.twitter.com/1.1/geo/id/01e0aaf250623895.json",
+    "country_code": "PE"
+  },
+  "contributors": null,
+  "entities": {
+    "hashtags": [],
+    "urls": [
+      {
+        "display_url": "twitter.com/i/web/status/9\u2026",
+        "expanded_url": "https://twitter.com/i/web/status/930629489473851397",
+        "url": "https://t.co/sIyWjNcswb",
+        "indices": [117, 140]
+      }
+    ],
+    "symbols": [],
+    "user_mentions": []
+  },
+  "id": 930629489473851397,
+  "user": {
+    "followers_count": 36,
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_color": "C0DEED",
+    "translator_type": "none",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/851148482102611969/B7joz0PS_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/118739219/1491764585",
+    "default_profile": true,
+    "utc_offset": null,
+    "lang": "en",
+    "url": null,
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/851148482102611969/B7joz0PS_normal.jpg",
+    "time_zone": null,
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_use_background_image": true,
+    "id": 118739219,
+    "profile_link_color": "1DA1F2",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_background_tile": false,
+    "geo_enabled": true,
+    "id_str": "118739219",
+    "verified": false,
+    "name": "Marco A. Alem\u00e1n Alem\u00e1n",
+    "is_translator": false,
+    "notifications": null,
+    "following": null,
+    "friends_count": 202,
+    "contributors_enabled": false,
+    "screen_name": "marcoaleman",
+    "created_at": "Mon Mar 01 16:18:43 +0000 2010",
+    "profile_text_color": "333333",
+    "favourites_count": 965,
+    "follow_request_sent": null,
+    "description": "Profesional en mejoramiento y reestructuraci\u00f3n de empresas. En lo personal, digo lo que pienso y sigo de cerca el acontecer nacional. Librepensador, siempre!",
+    "default_profile_image": false,
+    "location": "San Miguel",
+    "listed_count": 0,
+    "protected": false,
+    "statuses_count": 691
+  },
+  "id_str": "930629489473851397",
+  "retweet_count": 0,
+  "retweeted": false,
+  "quote_count": 0,
+  "truncated": true,
+  "in_reply_to_status_id_str": null,
+  "reply_count": 0,
+  "created_at": "Wed Nov 15 02:52:15 +0000 2017",
+  "is_quote_status": false,
+  "in_reply_to_user_id": null,
+  "timestamp_ms": "1510714335207",
+  "text": "Este es, el gobierno de las indecisiones y de los \u201cSi eso pasa, entonces...\u201dSi la recaudaci\u00f3n tributaria aumenta, b\u2026 https://t.co/sIyWjNcswb",
+  "extended_tweet": {
+    "full_text": "Este es, el gobierno de las indecisiones y de los \u201cSi eso pasa, entonces...\u201dSi la recaudaci\u00f3n tributaria aumenta, bajamos 1 punto el IGV, ahora, Si ganamos a NZ, feriado el jueves. Absoluta falta de consistencia, orientaci\u00f3n y autoridad. Relajados!!!",
+    "display_text_range": [0, 250],
+    "entities": {
+      "hashtags": [],
+      "urls": [],
+      "symbols": [],
+      "user_mentions": []
+    }
+  },
+  "in_reply_to_user_id_str": null,
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "in_reply_to_screen_name": null
+}

@@ -1,0 +1,104 @@
+{
+  "created_at": "Mon Dec 05 11:28:24 +0000 2011",
+  "id": 143652940022939648,
+  "id_str": "143652940022939648",
+  "text": "Mise \u00e0 jour #android 2.3.5 sur mon Galaxy S2. #fear",
+  "truncated": false,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "android",
+        "indices": [12, 20]
+      }, {
+        "text": "fear",
+        "indices": [46, 51]
+      }
+    ],
+    "symbols": [],
+    "user_mentions": [],
+    "urls": []
+  },
+  "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 91543080,
+    "id_str": "91543080",
+    "name": "Philippe Gibert",
+    "screen_name": "GibOow",
+    "location": "Bain-de-Bretagne, France",
+    "description": "#Geek",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": []
+      }
+    },
+    "protected": false,
+    "followers_count": 404,
+    "friends_count": 699,
+    "listed_count": 46,
+    "created_at": "Sat Nov 21 09:58:03 +0000 2009",
+    "favourites_count": 215,
+    "utc_offset": 3600,
+    "time_zone": "Paris",
+    "geo_enabled": true,
+    "verified": false,
+    "statuses_count": 2160,
+    "lang": "fr",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "is_translation_enabled": false,
+    "profile_background_color": "022330",
+    "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/105622399/8bit.png",
+    "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/105622399/8bit.png",
+    "profile_background_tile": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/934966347/gibou42_free.fr_65c3cdaf_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/934966347/gibou42_free.fr_65c3cdaf_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/91543080/1359532018",
+    "profile_link_color": "0084B4",
+    "profile_sidebar_border_color": "A8C7F7",
+    "profile_sidebar_fill_color": "C0DFEC",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "has_extended_profile": false,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false,
+    "translator_type": "none"
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": {
+    "id": "d091189af463dd4a",
+    "url": "https://api.twitter.com/1.1/geo/id/d091189af463dd4a.json",
+    "place_type": "city",
+    "name": "Lyon",
+    "full_name": "Lyon, France",
+    "country_code": "FR",
+    "country": "Francia",
+    "contained_within": [],
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [4.77183095960533, 45.707363011012], [4.89836699719321, 45.707363011012],
+          [4.89836699719321, 45.8082829813072], [4.77183095960533, 45.8082829813072]
+        ]
+      ]
+    },
+    "attributes": {}
+  },
+  "contributors": null,
+  "is_quote_status": false,
+  "retweet_count": 0,
+  "favorite_count": 0,
+  "favorited": false,
+  "retweeted": false,
+  "lang": "fr"
+}

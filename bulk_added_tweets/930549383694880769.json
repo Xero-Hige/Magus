@@ -1,0 +1,307 @@
+{
+  "is_quote_status": false,
+  "quote_count": 0,
+  "in_reply_to_user_id_str": null,
+  "favorite_count": 0,
+  "in_reply_to_status_id": null,
+  "id_str": "930549383694880769",
+  "filter_level": "low",
+  "reply_count": 0,
+  "timestamp_ms": "1510695236501",
+  "id": 930549383694880769,
+  "display_text_range": [0, 140],
+  "coordinates": null,
+  "in_reply_to_screen_name": null,
+  "truncated": true,
+  "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+  "place": {
+    "bounding_box": {
+      "coordinates": [
+        [[-70.608694, -33.486182], [-70.608694, -33.364619], [-70.429141, -33.364619], [-70.429141, -33.486182]]
+      ],
+      "type": "Polygon"
+    },
+    "url": "https://api.twitter.com/1.1/geo/id/00c4b64e7affea25.json",
+    "country_code": "CL",
+    "name": "Las Condes",
+    "full_name": "Las Condes, Chile",
+    "id": "00c4b64e7affea25",
+    "place_type": "city",
+    "attributes": {},
+    "country": "Chile"
+  },
+  "retweet_count": 0,
+  "extended_tweet": {
+    "display_text_range": [0, 279],
+    "entities": {
+      "user_mentions": [],
+      "urls": [],
+      "symbols": [],
+      "hashtags": [],
+      "media": [
+        {
+          "media_url_https": "https://pbs.twimg.com/media/DOn5kUbXkAATADD.jpg",
+          "expanded_url": "https://twitter.com/RubnBriceoF/status/930549383694880769/photo/1",
+          "id_str": "930549200382824448",
+          "media_url": "http://pbs.twimg.com/media/DOn5kUbXkAATADD.jpg",
+          "display_url": "pic.twitter.com/r40dL5kI0P",
+          "id": 930549200382824448,
+          "indices": [280, 303],
+          "type": "photo",
+          "url": "https://t.co/r40dL5kI0P",
+          "sizes": {
+            "large": {
+              "resize": "fit",
+              "h": 480,
+              "w": 640
+            },
+            "small": {
+              "resize": "fit",
+              "h": 480,
+              "w": 640
+            },
+            "thumb": {
+              "resize": "crop",
+              "h": 150,
+              "w": 150
+            },
+            "medium": {
+              "resize": "fit",
+              "h": 480,
+              "w": 640
+            }
+          }
+        }, {
+          "media_url_https": "https://pbs.twimg.com/media/DOn5nMIWsAUE4KN.jpg",
+          "expanded_url": "https://twitter.com/RubnBriceoF/status/930549383694880769/photo/1",
+          "id_str": "930549249695199237",
+          "media_url": "http://pbs.twimg.com/media/DOn5nMIWsAUE4KN.jpg",
+          "display_url": "pic.twitter.com/r40dL5kI0P",
+          "id": 930549249695199237,
+          "indices": [280, 303],
+          "type": "photo",
+          "url": "https://t.co/r40dL5kI0P",
+          "sizes": {
+            "large": {
+              "resize": "fit",
+              "h": 480,
+              "w": 640
+            },
+            "small": {
+              "resize": "fit",
+              "h": 480,
+              "w": 640
+            },
+            "thumb": {
+              "resize": "crop",
+              "h": 150,
+              "w": 150
+            },
+            "medium": {
+              "resize": "fit",
+              "h": 480,
+              "w": 640
+            }
+          }
+        }, {
+          "media_url_https": "https://pbs.twimg.com/media/DOn5q6nX4AAXqSp.jpg",
+          "expanded_url": "https://twitter.com/RubnBriceoF/status/930549383694880769/photo/1",
+          "id_str": "930549313712939008",
+          "media_url": "http://pbs.twimg.com/media/DOn5q6nX4AAXqSp.jpg",
+          "display_url": "pic.twitter.com/r40dL5kI0P",
+          "id": 930549313712939008,
+          "indices": [280, 303],
+          "type": "photo",
+          "url": "https://t.co/r40dL5kI0P",
+          "sizes": {
+            "large": {
+              "resize": "fit",
+              "h": 480,
+              "w": 640
+            },
+            "small": {
+              "resize": "fit",
+              "h": 480,
+              "w": 640
+            },
+            "thumb": {
+              "resize": "crop",
+              "h": 150,
+              "w": 150
+            },
+            "medium": {
+              "resize": "fit",
+              "h": 480,
+              "w": 640
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "media_url_https": "https://pbs.twimg.com/media/DOn5kUbXkAATADD.jpg",
+          "expanded_url": "https://twitter.com/RubnBriceoF/status/930549383694880769/photo/1",
+          "id_str": "930549200382824448",
+          "media_url": "http://pbs.twimg.com/media/DOn5kUbXkAATADD.jpg",
+          "display_url": "pic.twitter.com/r40dL5kI0P",
+          "id": 930549200382824448,
+          "indices": [280, 303],
+          "type": "photo",
+          "url": "https://t.co/r40dL5kI0P",
+          "sizes": {
+            "large": {
+              "resize": "fit",
+              "h": 480,
+              "w": 640
+            },
+            "small": {
+              "resize": "fit",
+              "h": 480,
+              "w": 640
+            },
+            "thumb": {
+              "resize": "crop",
+              "h": 150,
+              "w": 150
+            },
+            "medium": {
+              "resize": "fit",
+              "h": 480,
+              "w": 640
+            }
+          }
+        }, {
+          "media_url_https": "https://pbs.twimg.com/media/DOn5nMIWsAUE4KN.jpg",
+          "expanded_url": "https://twitter.com/RubnBriceoF/status/930549383694880769/photo/1",
+          "id_str": "930549249695199237",
+          "media_url": "http://pbs.twimg.com/media/DOn5nMIWsAUE4KN.jpg",
+          "display_url": "pic.twitter.com/r40dL5kI0P",
+          "id": 930549249695199237,
+          "indices": [280, 303],
+          "type": "photo",
+          "url": "https://t.co/r40dL5kI0P",
+          "sizes": {
+            "large": {
+              "resize": "fit",
+              "h": 480,
+              "w": 640
+            },
+            "small": {
+              "resize": "fit",
+              "h": 480,
+              "w": 640
+            },
+            "thumb": {
+              "resize": "crop",
+              "h": 150,
+              "w": 150
+            },
+            "medium": {
+              "resize": "fit",
+              "h": 480,
+              "w": 640
+            }
+          }
+        }, {
+          "media_url_https": "https://pbs.twimg.com/media/DOn5q6nX4AAXqSp.jpg",
+          "expanded_url": "https://twitter.com/RubnBriceoF/status/930549383694880769/photo/1",
+          "id_str": "930549313712939008",
+          "media_url": "http://pbs.twimg.com/media/DOn5q6nX4AAXqSp.jpg",
+          "display_url": "pic.twitter.com/r40dL5kI0P",
+          "id": 930549313712939008,
+          "indices": [280, 303],
+          "type": "photo",
+          "url": "https://t.co/r40dL5kI0P",
+          "sizes": {
+            "large": {
+              "resize": "fit",
+              "h": 480,
+              "w": 640
+            },
+            "small": {
+              "resize": "fit",
+              "h": 480,
+              "w": 640
+            },
+            "thumb": {
+              "resize": "crop",
+              "h": 150,
+              "w": 150
+            },
+            "medium": {
+              "resize": "fit",
+              "h": 480,
+              "w": 640
+            }
+          }
+        }
+      ]
+    },
+    "full_text": "Para aquellos q conocen Pueblo Artesanal de Horc\u00f3n, en Valle de Elqui, ay\u00fadenos a difundir para q autoridades reaccionen ya frente a la tragedia q viven desde 30 de octubre agrupaci\u00f3n de artesanos, por incendio que arras\u00f3 con sus puestos y mercader\u00eda, generando grave  perjuicio. https://t.co/r40dL5kI0P"
+  },
+  "created_at": "Tue Nov 14 21:33:56 +0000 2017",
+  "favorited": false,
+  "text": "Para aquellos q conocen Pueblo Artesanal de Horc\u00f3n, en Valle de Elqui, ay\u00fadenos a difundir para q autoridades reacc\u2026 https://t.co/GGAMJXFN77",
+  "in_reply_to_user_id": null,
+  "geo": null,
+  "lang": "es",
+  "contributors": null,
+  "in_reply_to_status_id_str": null,
+  "user": {
+    "protected": false,
+    "following": null,
+    "profile_text_color": "000000",
+    "profile_background_color": "000000",
+    "statuses_count": 2784,
+    "default_profile": false,
+    "favourites_count": 393,
+    "friends_count": 541,
+    "follow_request_sent": null,
+    "profile_sidebar_fill_color": "000000",
+    "translator_type": "none",
+    "notifications": null,
+    "id_str": "1700632550",
+    "screen_name": "RubnBriceoF",
+    "verified": false,
+    "id": 1700632550,
+    "profile_use_background_image": false,
+    "description": "Liquidador Oficial de Seguros,  Nacido en Valpara\u00edso, Wanderino, tenista y hace 25 a\u00f1os en V. Alemana. Con oficinas en Quillota desde 1997.",
+    "utc_offset": -18000,
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "is_translator": false,
+    "listed_count": 2,
+    "default_profile_image": false,
+    "contributors_enabled": false,
+    "followers_count": 480,
+    "location": null,
+    "created_at": "Mon Aug 26 01:34:24 +0000 2013",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/520636874348437504/86S2RpTw_normal.jpeg",
+    "geo_enabled": true,
+    "time_zone": "Eastern Time (US & Canada)",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/520636874348437504/86S2RpTw_normal.jpeg",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_link_color": "4A913C",
+    "lang": "es",
+    "name": "Rub\u00e9n Dar\u00edo Brice\u00f1o",
+    "profile_background_tile": false,
+    "url": "http://www.rbliquidadores.cl",
+    "profile_sidebar_border_color": "000000"
+  },
+  "possibly_sensitive": false,
+  "entities": {
+    "user_mentions": [],
+    "urls": [
+      {
+        "expanded_url": "https://twitter.com/i/web/status/930549383694880769",
+        "url": "https://t.co/GGAMJXFN77",
+        "indices": [117, 140],
+        "display_url": "twitter.com/i/web/status/9\u2026"
+      }
+    ],
+    "symbols": [],
+    "hashtags": []
+  },
+  "retweeted": false
+}

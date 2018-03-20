@@ -1,0 +1,106 @@
+{
+  "created_at": "Tue Nov 22 22:33:48 +0000 2011",
+  "id": 139109353197289472,
+  "id_str": "139109353197289472",
+  "text": "Not afraid of tomorrow, for I have seen yesterday and I love today #fear #less.",
+  "truncated": false,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "fear",
+        "indices": [67, 72]
+      }, {
+        "text": "less",
+        "indices": [73, 78]
+      }
+    ],
+    "symbols": [],
+    "user_mentions": [],
+    "urls": []
+  },
+  "source": "<a href=\"http://blackberry.com/twitter\" rel=\"nofollow\">Twitter for BlackBerry\u00ae</a>",
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 321737827,
+    "id_str": "321737827",
+    "name": "Stef",
+    "screen_name": "StefonS",
+    "location": "Largo, MD ",
+    "description": "Was in the service now living the good life. I am a hard lover and strong minded lil dude out here trying to make a name and a way for myself.",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": []
+      }
+    },
+    "protected": false,
+    "followers_count": 42,
+    "friends_count": 111,
+    "listed_count": 0,
+    "created_at": "Wed Jun 22 01:56:29 +0000 2011",
+    "favourites_count": 11,
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": true,
+    "verified": false,
+    "statuses_count": 651,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "is_translation_enabled": false,
+    "profile_background_color": "C0DEED",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1545335868/IMG00029-20110513-2006_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1545335868/IMG00029-20110513-2006_normal.jpg",
+    "profile_link_color": "1DA1F2",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "has_extended_profile": false,
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false,
+    "translator_type": "none"
+  },
+  "geo": {
+    "type": "Point",
+    "coordinates": [38.9045, -76.92632]
+  },
+  "coordinates": {
+    "type": "Point",
+    "coordinates": [-76.92632, 38.9045]
+  },
+  "place": {
+    "id": "01fbe706f872cb32",
+    "url": "https://api.twitter.com/1.1/geo/id/01fbe706f872cb32.json",
+    "place_type": "city",
+    "name": "Washington",
+    "full_name": "Washington, DC",
+    "country_code": "US",
+    "country": "Estados Unidos",
+    "contained_within": [],
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [[-77.119401, 38.801826], [-76.909396, 38.801826], [-76.909396, 38.9953797], [-77.119401, 38.9953797]]
+      ]
+    },
+    "attributes": {}
+  },
+  "contributors": null,
+  "is_quote_status": false,
+  "retweet_count": 0,
+  "favorite_count": 0,
+  "favorited": false,
+  "retweeted": false,
+  "lang": "en"
+}

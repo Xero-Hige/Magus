@@ -1,0 +1,107 @@
+{
+  "created_at": "Wed May 21 13:23:40 +0000 2014",
+  "id": 469106252069736450,
+  "id_str": "469106252069736450",
+  "text": "\u00daltimo d\u00eda de curso, compa\u00f1eras encantadoras he aprendido mucho y lo he pasado genial #feliz #graciasporvuestroapollo",
+  "truncated": false,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "feliz",
+        "indices": [86, 92]
+      }, {
+        "text": "graciasporvuestroapollo",
+        "indices": [93, 117]
+      }
+    ],
+    "symbols": [],
+    "user_mentions": [],
+    "urls": []
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 1339116254,
+    "id_str": "1339116254",
+    "name": "Raquel",
+    "screen_name": "raquel89p",
+    "location": "",
+    "description": "",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": []
+      }
+    },
+    "protected": false,
+    "followers_count": 48,
+    "friends_count": 46,
+    "listed_count": 0,
+    "created_at": "Tue Apr 09 12:50:17 +0000 2013",
+    "favourites_count": 19,
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": true,
+    "verified": false,
+    "statuses_count": 93,
+    "lang": "es",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "is_translation_enabled": false,
+    "profile_background_color": "C0DEED",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/378800000257099718/0a830d97a966fc418d2db358b68dd694_normal.jpeg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000257099718/0a830d97a966fc418d2db358b68dd694_normal.jpeg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1339116254/1394785806",
+    "profile_link_color": "1DA1F2",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "has_extended_profile": false,
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false,
+    "translator_type": "none"
+  },
+  "geo": {
+    "type": "Point",
+    "coordinates": [40.30933776, -3.72975946]
+  },
+  "coordinates": {
+    "type": "Point",
+    "coordinates": [-3.72975946, 40.30933776]
+  },
+  "place": {
+    "id": "3a9c654a445000f6",
+    "url": "https://api.twitter.com/1.1/geo/id/3a9c654a445000f6.json",
+    "place_type": "city",
+    "name": "Getafe",
+    "full_name": "Getafe, Espa\u00f1a",
+    "country_code": "ES",
+    "country": "Espa\u00f1a",
+    "contained_within": [],
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [[-3.7613175, 40.266415], [-3.5700163, 40.266415], [-3.5700163, 40.3346858], [-3.7613175, 40.3346858]]
+      ]
+    },
+    "attributes": {}
+  },
+  "contributors": null,
+  "is_quote_status": false,
+  "retweet_count": 0,
+  "favorite_count": 0,
+  "favorited": false,
+  "retweeted": false,
+  "lang": "es"
+}

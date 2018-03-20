@@ -1,0 +1,107 @@
+{
+  "created_at": "Wed Nov 30 18:00:06 +0000 2011",
+  "id": 141939576536174592,
+  "id_str": "141939576536174592",
+  "text": "#101.1 if you live in San antonio Texas :) Christmas music is the best #joy #christmas",
+  "truncated": false,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "joy",
+        "indices": [71, 75]
+      }, {
+        "text": "christmas",
+        "indices": [76, 86]
+      }
+    ],
+    "symbols": [],
+    "user_mentions": [],
+    "urls": []
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 321414258,
+    "id_str": "321414258",
+    "name": "Augustine Meyer",
+    "screen_name": "AugustineMeyer",
+    "location": "San Antonio, TX",
+    "description": "what book are you reading?",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": []
+      }
+    },
+    "protected": false,
+    "followers_count": 681,
+    "friends_count": 1507,
+    "listed_count": 25,
+    "created_at": "Tue Jun 21 14:52:07 +0000 2011",
+    "favourites_count": 247,
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": true,
+    "verified": false,
+    "statuses_count": 4699,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "is_translation_enabled": false,
+    "profile_background_color": "000000",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/870625708749373440/oA6x3svP_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/870625708749373440/oA6x3svP_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/321414258/1497140359",
+    "profile_link_color": "94D487",
+    "profile_sidebar_border_color": "000000",
+    "profile_sidebar_fill_color": "000000",
+    "profile_text_color": "000000",
+    "profile_use_background_image": false,
+    "has_extended_profile": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false,
+    "translator_type": "none"
+  },
+  "geo": {
+    "type": "Point",
+    "coordinates": [29.34704058, -98.54350107]
+  },
+  "coordinates": {
+    "type": "Point",
+    "coordinates": [-98.54350107, 29.34704058]
+  },
+  "place": {
+    "id": "3df4f427b5a60fea",
+    "url": "https://api.twitter.com/1.1/geo/id/3df4f427b5a60fea.json",
+    "place_type": "city",
+    "name": "San Antonio",
+    "full_name": "San Antonio, TX",
+    "country_code": "US",
+    "country": "Estados Unidos",
+    "contained_within": [],
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [[-98.778559, 29.141956], [-98.302744, 29.141956], [-98.302744, 29.693046], [-98.778559, 29.693046]]
+      ]
+    },
+    "attributes": {}
+  },
+  "contributors": null,
+  "is_quote_status": false,
+  "retweet_count": 0,
+  "favorite_count": 0,
+  "favorited": false,
+  "retweeted": false,
+  "lang": "en"
+}

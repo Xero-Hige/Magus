@@ -1,0 +1,108 @@
+{
+  "created_at": "Tue Nov 22 15:09:37 +0000 2011",
+  "id": 138997569043972096,
+  "id_str": "138997569043972096",
+  "text": "Today I feel like a battle of jhonny walker. I don't know why but I just wanna be drunk. Might is it just #sadness",
+  "truncated": false,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "sadness",
+        "indices": [106, 114]
+      }
+    ],
+    "symbols": [],
+    "user_mentions": [],
+    "urls": []
+  },
+  "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 113623995,
+    "id_str": "113623995",
+    "name": "Beatrice Capaccioli",
+    "screen_name": "LadyCapac",
+    "location": "Monsummano Terme",
+    "description": "Me since 1994. - WARRIOR QUEEN - You have to be unique, and different, and shine in your own way - Lady Gaga",
+    "url": "http://t.co/55QmQdIGDm",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://t.co/55QmQdIGDm",
+            "expanded_url": "http://dahauseofreedom.tumblr.com/",
+            "display_url": "dahauseofreedom.tumblr.com",
+            "indices": [0, 22]
+          }
+        ]
+      },
+      "description": {
+        "urls": []
+      }
+    },
+    "protected": false,
+    "followers_count": 369,
+    "friends_count": 499,
+    "listed_count": 17,
+    "created_at": "Fri Feb 12 12:56:09 +0000 2010",
+    "favourites_count": 97,
+    "utc_offset": 3600,
+    "time_zone": "Rome",
+    "geo_enabled": true,
+    "verified": false,
+    "statuses_count": 10337,
+    "lang": "it",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "is_translation_enabled": false,
+    "profile_background_color": "666063",
+    "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/339037767/sfondo_twitty.jpg",
+    "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/339037767/sfondo_twitty.jpg",
+    "profile_background_tile": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/2663620163/844e4e8b560395c6188588e987e6ec3c_normal.jpeg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/2663620163/844e4e8b560395c6188588e987e6ec3c_normal.jpeg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/113623995/1348958957",
+    "profile_link_color": "A389F5",
+    "profile_sidebar_border_color": "271B85",
+    "profile_sidebar_fill_color": "CFD5E6",
+    "profile_text_color": "585863",
+    "profile_use_background_image": true,
+    "has_extended_profile": false,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false,
+    "translator_type": "none"
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": {
+    "id": "31f3eb21a53abde9",
+    "url": "https://api.twitter.com/1.1/geo/id/31f3eb21a53abde9.json",
+    "place_type": "city",
+    "name": "Massarosa",
+    "full_name": "Massarosa, Toscana",
+    "country_code": "IT",
+    "country": "Italia",
+    "contained_within": [],
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [[10.2550183, 43.8142099], [10.3970605, 43.8142099], [10.3970605, 43.9244353], [10.2550183, 43.9244353]]
+      ]
+    },
+    "attributes": {}
+  },
+  "contributors": null,
+  "is_quote_status": false,
+  "retweet_count": 0,
+  "favorite_count": 0,
+  "favorited": false,
+  "retweeted": false,
+  "lang": "en"
+}

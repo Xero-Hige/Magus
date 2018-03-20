@@ -1,0 +1,125 @@
+{
+  "created_at": "Sun May 18 16:42:57 +0000 2014",
+  "id": 468069236892794880,
+  "id_str": "468069236892794880",
+  "text": "El nivel de ser enfermo a aumentado enserio #Miedo Rt \"@Izaaky_: Hola mundo!! Hola Twitter!! \u2026 Hazme el amor frente al ventilador \u2026 (8) \u2026\"",
+  "truncated": false,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "Miedo",
+        "indices": [44, 50]
+      }
+    ],
+    "symbols": [],
+    "user_mentions": [
+      {
+        "screen_name": "IzaaKy_",
+        "name": "Jo\u00e3o Vitor Isaac",
+        "id": 742036491849859072,
+        "id_str": "742036491849859072",
+        "indices": [55, 63]
+      }
+    ],
+    "urls": []
+  },
+  "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 170482467,
+    "id_str": "170482467",
+    "name": "Batman",
+    "screen_name": "piedelimon94",
+    "location": "Chorrillos, Lima, Per\u00fa",
+    "description": "Fot\u00f3grafo y artista visual, me gusta el cine y las personas sin complejos. tengo 24 pero parezco de 15 jaja. Se feliz \ud83d\udcf8\u2728 Snapchat: theonebadkid",
+    "url": "https://t.co/0wmP5BeBCu",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "https://t.co/0wmP5BeBCu",
+            "expanded_url": "https://Instagram.com/piedelimon94",
+            "display_url": "Instagram.com/piedelimon94",
+            "indices": [0, 23]
+          }
+        ]
+      },
+      "description": {
+        "urls": []
+      }
+    },
+    "protected": false,
+    "followers_count": 401,
+    "friends_count": 127,
+    "listed_count": 4,
+    "created_at": "Sat Jul 24 23:46:47 +0000 2010",
+    "favourites_count": 3035,
+    "utc_offset": -18000,
+    "time_zone": "Central Time (US & Canada)",
+    "geo_enabled": true,
+    "verified": false,
+    "statuses_count": 34890,
+    "lang": "es",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "is_translation_enabled": false,
+    "profile_background_color": "352726",
+    "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/687401617/45d57a6244ddbd24ed6906b248c54869.jpeg",
+    "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/687401617/45d57a6244ddbd24ed6906b248c54869.jpeg",
+    "profile_background_tile": true,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/965408025711382533/ouRlecPv_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/965408025711382533/ouRlecPv_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/170482467/1467389446",
+    "profile_link_color": "4A913C",
+    "profile_sidebar_border_color": "FFFFFF",
+    "profile_sidebar_fill_color": "99CC33",
+    "profile_text_color": "3E4415",
+    "profile_use_background_image": true,
+    "has_extended_profile": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false,
+    "translator_type": "regular"
+  },
+  "geo": {
+    "type": "Point",
+    "coordinates": [-12.1948208, -76.9990804]
+  },
+  "coordinates": {
+    "type": "Point",
+    "coordinates": [-76.9990804, -12.1948208]
+  },
+  "place": {
+    "id": "2dfa9ecb0179a4e4",
+    "url": "https://api.twitter.com/1.1/geo/id/2dfa9ecb0179a4e4.json",
+    "place_type": "country",
+    "name": "Peru",
+    "full_name": "Peru",
+    "country_code": "PE",
+    "country": "Peru",
+    "contained_within": [],
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [-81.3281479193672, -18.3497280290367], [-68.6730880806328, -18.3497280290367],
+          [-68.6730880806328, -0.0388399739132714], [-81.3281479193672, -0.0388399739132714]
+        ]
+      ]
+    },
+    "attributes": {}
+  },
+  "contributors": null,
+  "is_quote_status": false,
+  "retweet_count": 0,
+  "favorite_count": 0,
+  "favorited": false,
+  "retweeted": false,
+  "lang": "es"
+}

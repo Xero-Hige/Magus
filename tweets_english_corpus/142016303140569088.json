@@ -1,0 +1,107 @@
+{
+  "created_at": "Wed Nov 30 23:04:59 +0000 2011",
+  "id": 142016303140569088,
+  "id_str": "142016303140569088",
+  "text": "Sleep time! Finally, after a day full of #sadness (mostly about #Chuck )",
+  "truncated": false,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "sadness",
+        "indices": [41, 49]
+      }, {
+        "text": "Chuck",
+        "indices": [64, 70]
+      }
+    ],
+    "symbols": [],
+    "user_mentions": [],
+    "urls": []
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 263898374,
+    "id_str": "263898374",
+    "name": "Mirco Conti",
+    "screen_name": "Sbeeer",
+    "location": "Rome, Italy",
+    "description": "",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": []
+      }
+    },
+    "protected": false,
+    "followers_count": 94,
+    "friends_count": 85,
+    "listed_count": 2,
+    "created_at": "Thu Mar 10 23:32:34 +0000 2011",
+    "favourites_count": 174,
+    "utc_offset": 3600,
+    "time_zone": "Rome",
+    "geo_enabled": true,
+    "verified": false,
+    "statuses_count": 2060,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "is_translation_enabled": false,
+    "profile_background_color": "131516",
+    "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/652610525/x6d7d14621bcfdf610996a72b697ef91.jpg",
+    "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/652610525/x6d7d14621bcfdf610996a72b697ef91.jpg",
+    "profile_background_tile": true,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/459033306693005312/oNeNhLZu_normal.jpeg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/459033306693005312/oNeNhLZu_normal.jpeg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/263898374/1398277008",
+    "profile_link_color": "FF5100",
+    "profile_sidebar_border_color": "7E8363",
+    "profile_sidebar_fill_color": "AECC47",
+    "profile_text_color": "C4E4B3",
+    "profile_use_background_image": true,
+    "has_extended_profile": false,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false,
+    "translator_type": "none"
+  },
+  "geo": {
+    "type": "Point",
+    "coordinates": [41.866703, 12.59528985]
+  },
+  "coordinates": {
+    "type": "Point",
+    "coordinates": [12.59528985, 41.866703]
+  },
+  "place": {
+    "id": "7d588036fe12e124",
+    "url": "https://api.twitter.com/1.1/geo/id/7d588036fe12e124.json",
+    "place_type": "city",
+    "name": "Roma",
+    "full_name": "Roma, Lacio",
+    "country_code": "IT",
+    "country": "Italia",
+    "contained_within": [],
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [[12.2344266, 41.6558738], [12.8558641, 41.6558738], [12.8558641, 42.140959], [12.2344266, 42.140959]]
+      ]
+    },
+    "attributes": {}
+  },
+  "contributors": null,
+  "is_quote_status": false,
+  "retweet_count": 0,
+  "favorite_count": 0,
+  "favorited": false,
+  "retweeted": false,
+  "lang": "en"
+}

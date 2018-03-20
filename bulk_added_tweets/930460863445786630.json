@@ -1,0 +1,223 @@
+{
+  "id": 930460863445786630,
+  "lang": "es",
+  "in_reply_to_status_id_str": null,
+  "truncated": true,
+  "place": {
+    "id": "4e43cac8250a8b20",
+    "country": "Ecuador",
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [[-92.008973, -5.013285], [-92.008973, 1.681834], [-75.192627, 1.681834], [-75.192627, -5.013285]]
+      ]
+    },
+    "url": "https://api.twitter.com/1.1/geo/id/4e43cac8250a8b20.json",
+    "full_name": "Ecuador",
+    "attributes": {},
+    "name": "Ecuador",
+    "place_type": "country",
+    "country_code": "EC"
+  },
+  "favorite_count": 0,
+  "retweeted": false,
+  "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+  "is_quote_status": false,
+  "possibly_sensitive": false,
+  "geo": null,
+  "in_reply_to_user_id_str": "913131817",
+  "in_reply_to_status_id": null,
+  "retweet_count": 0,
+  "quote_count": 0,
+  "timestamp_ms": "1510674131629",
+  "favorited": false,
+  "coordinates": null,
+  "filter_level": "low",
+  "entities": {
+    "urls": [
+      {
+        "indices": [117, 140],
+        "display_url": "twitter.com/i/web/status/9\u2026",
+        "url": "https://t.co/VMvw73dvaK",
+        "expanded_url": "https://twitter.com/i/web/status/930460863445786630"
+      }
+    ],
+    "symbols": [],
+    "user_mentions": [
+      {
+        "screen_name": "Lenin",
+        "id": 913131817,
+        "name": "Len\u00edn Moreno",
+        "indices": [0, 6],
+        "id_str": "913131817"
+      }
+    ],
+    "hashtags": [
+      {
+        "text": "CasoTerrabienes",
+        "indices": [79, 95]
+      }
+    ]
+  },
+  "reply_count": 0,
+  "in_reply_to_screen_name": "Lenin",
+  "display_text_range": [0, 140],
+  "text": "@Lenin en verdad que han sido ladrones de sue\u00f1os, ESTA FAMILIA ORTEGA TRUJILLO #CasoTerrabienes han enga\u00f1ado a 1200\u2026 https://t.co/VMvw73dvaK",
+  "extended_tweet": {
+    "display_text_range": [0, 275],
+    "extended_entities": {
+      "media": [
+        {
+          "id": 930458911135731712,
+          "display_url": "pic.twitter.com/lUQZzBUhf9",
+          "id_str": "930458911135731712",
+          "indices": [276, 299],
+          "expanded_url": "https://twitter.com/DiegoPinosA/status/930460863445786630/photo/1",
+          "type": "photo",
+          "url": "https://t.co/lUQZzBUhf9",
+          "media_url_https": "https://pbs.twimg.com/media/DOmncyxXkAA23wR.jpg",
+          "media_url": "http://pbs.twimg.com/media/DOmncyxXkAA23wR.jpg",
+          "sizes": {
+            "small": {
+              "w": 561,
+              "h": 600,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 561,
+              "h": 600,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 561,
+              "h": 600,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "entities": {
+      "media": [
+        {
+          "id": 930458911135731712,
+          "display_url": "pic.twitter.com/lUQZzBUhf9",
+          "id_str": "930458911135731712",
+          "indices": [276, 299],
+          "expanded_url": "https://twitter.com/DiegoPinosA/status/930460863445786630/photo/1",
+          "type": "photo",
+          "url": "https://t.co/lUQZzBUhf9",
+          "media_url_https": "https://pbs.twimg.com/media/DOmncyxXkAA23wR.jpg",
+          "media_url": "http://pbs.twimg.com/media/DOmncyxXkAA23wR.jpg",
+          "sizes": {
+            "small": {
+              "w": 561,
+              "h": 600,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 561,
+              "h": 600,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 561,
+              "h": 600,
+              "resize": "fit"
+            }
+          }
+        }
+      ],
+      "urls": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "screen_name": "Lenin",
+          "id": 913131817,
+          "name": "Len\u00edn Moreno",
+          "indices": [0, 6],
+          "id_str": "913131817"
+        }, {
+          "screen_name": "SuperciasEC",
+          "id": 382254928,
+          "name": "Supercias Ecuador",
+          "indices": [143, 155],
+          "id_str": "382254928"
+        }, {
+          "screen_name": "CorteNacional",
+          "id": 394145586,
+          "name": "Corte Nacional",
+          "indices": [246, 260],
+          "id_str": "394145586"
+        }, {
+          "screen_name": "CorteConstEcu",
+          "id": 213715038,
+          "name": "Corte Constitucional",
+          "indices": [261, 275],
+          "id_str": "213715038"
+        }
+      ],
+      "hashtags": [
+        {
+          "text": "CasoTerrabienes",
+          "indices": [79, 95]
+        }
+      ]
+    },
+    "full_text": "@Lenin en verdad que han sido ladrones de sue\u00f1os, ESTA FAMILIA ORTEGA TRUJILLO #CasoTerrabienes han enga\u00f1ado a 1200 familias con el aval de la @SuperciasEC , sentencia condenatoria con anulaci\u00f3n de pagar\u00e9s y devoluci\u00f3n de lo que nos han estafado @CorteNacional @CorteConstEcu https://t.co/lUQZzBUhf9"
+  },
+  "user": {
+    "statuses_count": 14114,
+    "id": 4563075453,
+    "default_profile": true,
+    "favourites_count": 13,
+    "url": null,
+    "profile_background_image_url_https": "",
+    "verified": false,
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/751613339005030403/onMxlwN8_normal.jpg",
+    "translator_type": "none",
+    "location": "Ecuador",
+    "geo_enabled": true,
+    "utc_offset": -28800,
+    "notifications": null,
+    "profile_background_tile": false,
+    "friends_count": 219,
+    "is_translator": false,
+    "follow_request_sent": null,
+    "default_profile_image": false,
+    "profile_background_image_url": "",
+    "profile_background_color": "F5F8FA",
+    "profile_link_color": "1DA1F2",
+    "profile_use_background_image": true,
+    "time_zone": "Pacific Time (US & Canada)",
+    "name": "Diego Pinos",
+    "profile_text_color": "333333",
+    "profile_sidebar_border_color": "C0DEED",
+    "screen_name": "DiegoPinosA",
+    "lang": "es",
+    "following": null,
+    "listed_count": 0,
+    "protected": false,
+    "profile_sidebar_fill_color": "DDEEF6",
+    "followers_count": 140,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/751613339005030403/onMxlwN8_normal.jpg",
+    "contributors_enabled": false,
+    "created_at": "Tue Dec 22 02:23:14 +0000 2015",
+    "id_str": "4563075453",
+    "description": null
+  },
+  "created_at": "Tue Nov 14 15:42:11 +0000 2017",
+  "id_str": "930460863445786630",
+  "in_reply_to_user_id": 913131817,
+  "contributors": null
+}

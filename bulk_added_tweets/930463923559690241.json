@@ -1,0 +1,122 @@
+{
+  "id": 930463923559690241,
+  "lang": "es",
+  "in_reply_to_status_id_str": null,
+  "truncated": true,
+  "place": {
+    "id": "7ef2a4f4beedc767",
+    "country": "Argentina",
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [[-63.427613, -28.00003], [-63.427613, -24.093138], [-58.363861, -24.093138], [-58.363861, -28.00003]]
+      ]
+    },
+    "url": "https://api.twitter.com/1.1/geo/id/7ef2a4f4beedc767.json",
+    "full_name": "Chaco, Argentina",
+    "attributes": {},
+    "name": "Chaco",
+    "place_type": "admin",
+    "country_code": "AR"
+  },
+  "favorite_count": 0,
+  "retweeted": false,
+  "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+  "is_quote_status": false,
+  "in_reply_to_status_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "retweet_count": 0,
+  "quote_count": 0,
+  "timestamp_ms": "1510674861217",
+  "favorited": false,
+  "coordinates": null,
+  "text": "#Urgente.El caso Maira Benitez pasa al fuero Federal: Convalidan la hipotesis de trata de persona #diario21t. La Ju\u2026 https://t.co/oFrmQrT92u",
+  "entities": {
+    "urls": [
+      {
+        "indices": [117, 140],
+        "display_url": "twitter.com/i/web/status/9\u2026",
+        "url": "https://t.co/oFrmQrT92u",
+        "expanded_url": "https://twitter.com/i/web/status/930463923559690241"
+      }
+    ],
+    "symbols": [],
+    "user_mentions": [],
+    "hashtags": [
+      {
+        "text": "Urgente",
+        "indices": [0, 8]
+      }, {
+        "text": "diario21t",
+        "indices": [98, 108]
+      }
+    ]
+  },
+  "reply_count": 0,
+  "geo": null,
+  "filter_level": "low",
+  "extended_tweet": {
+    "display_text_range": [0, 154],
+    "entities": {
+      "urls": [],
+      "symbols": [],
+      "user_mentions": [],
+      "hashtags": [
+        {
+          "text": "Urgente",
+          "indices": [0, 8]
+        }, {
+          "text": "diario21t",
+          "indices": [98, 108]
+        }
+      ]
+    },
+    "full_text": "#Urgente.El caso Maira Benitez pasa al fuero Federal: Convalidan la hipotesis de trata de persona #diario21t. La Justicia Ordinaria se declara incopetente"
+  },
+  "user": {
+    "statuses_count": 17785,
+    "id": 163552453,
+    "default_profile": false,
+    "favourites_count": 12059,
+    "url": "http://escuchanosonline.com/fmdelpueblo",
+    "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/802244092/663ac404b91f052f234723134d609f35.jpeg",
+    "verified": false,
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/875668660467232770/8TZOg083_normal.jpg",
+    "translator_type": "none",
+    "location": "Villa Angela. Chaco. Argentina",
+    "geo_enabled": true,
+    "utc_offset": -10800,
+    "notifications": null,
+    "profile_background_tile": true,
+    "friends_count": 745,
+    "is_translator": false,
+    "follow_request_sent": null,
+    "default_profile_image": false,
+    "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/802244092/663ac404b91f052f234723134d609f35.jpeg",
+    "profile_background_color": "1A1B1F",
+    "profile_link_color": "1B95E0",
+    "profile_use_background_image": true,
+    "time_zone": "Buenos Aires",
+    "name": "Mario Morales Diaz",
+    "profile_text_color": "D49DD4",
+    "profile_sidebar_border_color": "000000",
+    "screen_name": "mmorales_diaz",
+    "lang": "es",
+    "following": null,
+    "listed_count": 11,
+    "protected": false,
+    "profile_sidebar_fill_color": "252429",
+    "followers_count": 492,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/875668660467232770/8TZOg083_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/163552453/1446046209",
+    "contributors_enabled": false,
+    "created_at": "Tue Jul 06 18:16:20 +0000 2010",
+    "id_str": "163552453",
+    "description": "De regreso a la Radio Fm del Pueblo 105.5.Padre de Mauricio y Emma.\nhttp://villaangelaaldia.com"
+  },
+  "created_at": "Tue Nov 14 15:54:21 +0000 2017",
+  "id_str": "930463923559690241",
+  "in_reply_to_user_id": null,
+  "contributors": null
+}

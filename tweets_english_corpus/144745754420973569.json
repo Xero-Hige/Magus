@@ -1,0 +1,113 @@
+{
+  "created_at": "Thu Dec 08 11:50:51 +0000 2011",
+  "id": 144745754420973569,
+  "id_str": "144745754420973569",
+  "text": "last full day in europe. #sadness",
+  "truncated": false,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "sadness",
+        "indices": [25, 33]
+      }
+    ],
+    "symbols": [],
+    "user_mentions": [],
+    "urls": []
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 15882568,
+    "id_str": "15882568",
+    "name": "corinne almirol",
+    "screen_name": "corinneurotic",
+    "location": "wanderlust",
+    "description": "sorting it out.",
+    "url": "http://t.co/OG1eTPkRJk",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "http://t.co/OG1eTPkRJk",
+            "expanded_url": "http://transientnodes.tumblr.com",
+            "display_url": "transientnodes.tumblr.com",
+            "indices": [0, 22]
+          }
+        ]
+      },
+      "description": {
+        "urls": []
+      }
+    },
+    "protected": false,
+    "followers_count": 556,
+    "friends_count": 564,
+    "listed_count": 43,
+    "created_at": "Sun Aug 17 15:30:46 +0000 2008",
+    "favourites_count": 401,
+    "utc_offset": -28800,
+    "time_zone": "Pacific Time (US & Canada)",
+    "geo_enabled": true,
+    "verified": false,
+    "statuses_count": 5578,
+    "lang": "en",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "is_translation_enabled": false,
+    "profile_background_color": "FFFFFF",
+    "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/188344055/15_Light_-_Clean.jpg",
+    "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/188344055/15_Light_-_Clean.jpg",
+    "profile_background_tile": true,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/529093889/bandw_normal.png",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/529093889/bandw_normal.png",
+    "profile_link_color": "333333",
+    "profile_sidebar_border_color": "CCCCCC",
+    "profile_sidebar_fill_color": "FFFFFF",
+    "profile_text_color": "666666",
+    "profile_use_background_image": true,
+    "has_extended_profile": false,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false,
+    "translator_type": "none"
+  },
+  "geo": {
+    "type": "Point",
+    "coordinates": [53.3484026, -6.27841018]
+  },
+  "coordinates": {
+    "type": "Point",
+    "coordinates": [-6.27841018, 53.3484026]
+  },
+  "place": {
+    "id": "7dde0febc9ef245b",
+    "url": "https://api.twitter.com/1.1/geo/id/7dde0febc9ef245b.json",
+    "place_type": "city",
+    "name": "Dubl\u00edn",
+    "full_name": "Dubl\u00edn, Irlanda",
+    "country_code": "IE",
+    "country": "Irlanda",
+    "contained_within": [],
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [[-6.387438, 53.2987449], [-6.1078047, 53.2987449], [-6.1078047, 53.4110598], [-6.387438, 53.4110598]]
+      ]
+    },
+    "attributes": {}
+  },
+  "contributors": null,
+  "is_quote_status": false,
+  "retweet_count": 0,
+  "favorite_count": 0,
+  "favorited": false,
+  "retweeted": false,
+  "lang": "en"
+}

@@ -1,0 +1,115 @@
+{
+  "created_at": "Thu Oct 02 21:49:58 +0000 2014",
+  "id": 517793640740306944,
+  "id_str": "517793640740306944",
+  "text": "Quiero la repe del momento que llegaste a mi cuarto, no lo pod\u00eda creer y te empuje a la cama #sorpresa #sorprise jajajaj @VictoriaAndrei",
+  "truncated": false,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "sorpresa",
+        "indices": [93, 102]
+      }, {
+        "text": "sorprise",
+        "indices": [103, 112]
+      }
+    ],
+    "symbols": [],
+    "user_mentions": [
+      {
+        "screen_name": "VictoriaAndrei",
+        "name": "Mar\u00eda Victoria.",
+        "id": 136102944,
+        "id_str": "136102944",
+        "indices": [121, 136]
+      }
+    ],
+    "urls": []
+  },
+  "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 491982851,
+    "id_str": "491982851",
+    "name": "MACARENA",
+    "screen_name": "MakiMuzzo",
+    "location": "De Or\u00e1n, en Buenos Aires",
+    "description": "",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": []
+      }
+    },
+    "protected": false,
+    "followers_count": 415,
+    "friends_count": 377,
+    "listed_count": 3,
+    "created_at": "Tue Feb 14 07:03:28 +0000 2012",
+    "favourites_count": 958,
+    "utc_offset": -10800,
+    "time_zone": "Brasilia",
+    "geo_enabled": true,
+    "verified": false,
+    "statuses_count": 3111,
+    "lang": "es",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "is_translation_enabled": false,
+    "profile_background_color": "131516",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+    "profile_background_tile": true,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/690094146275663872/7Pu2VzSz_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/690094146275663872/7Pu2VzSz_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/491982851/1453365797",
+    "profile_link_color": "009999",
+    "profile_sidebar_border_color": "EEEEEE",
+    "profile_sidebar_fill_color": "EFEFEF",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "has_extended_profile": false,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false,
+    "translator_type": "none"
+  },
+  "geo": {
+    "type": "Point",
+    "coordinates": [-34.5901728, -58.3948958]
+  },
+  "coordinates": {
+    "type": "Point",
+    "coordinates": [-58.3948958, -34.5901728]
+  },
+  "place": {
+    "id": "018f1cde6bad9747",
+    "url": "https://api.twitter.com/1.1/geo/id/018f1cde6bad9747.json",
+    "place_type": "city",
+    "name": "Ciudad Aut\u00f3noma de Buenos Aires",
+    "full_name": "Ciudad Aut\u00f3noma de Buenos Aires, Argentina",
+    "country_code": "AR",
+    "country": "Argentina",
+    "contained_within": [],
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [[-58.5317922, -34.674453], [-58.353494, -34.674453], [-58.353494, -34.534177], [-58.5317922, -34.534177]]
+      ]
+    },
+    "attributes": {}
+  },
+  "contributors": null,
+  "is_quote_status": false,
+  "retweet_count": 2,
+  "favorite_count": 1,
+  "favorited": false,
+  "retweeted": false,
+  "lang": "es"
+}

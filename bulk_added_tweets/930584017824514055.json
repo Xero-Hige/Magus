@@ -1,0 +1,116 @@
+{
+  "geo": null,
+  "filter_level": "low",
+  "in_reply_to_status_id": null,
+  "lang": "es",
+  "favorite_count": 0,
+  "coordinates": null,
+  "favorited": false,
+  "place": {
+    "name": "Ituzaing\u00f3 Centro",
+    "full_name": "Ituzaing\u00f3 Centro, Argentina",
+    "place_type": "city",
+    "country": "Argentina",
+    "id": "012a97e00aba1e81",
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [[-58.729283, -34.685879], [-58.729283, -34.594417], [-58.653444, -34.594417], [-58.653444, -34.685879]]
+      ]
+    },
+    "attributes": {},
+    "url": "https://api.twitter.com/1.1/geo/id/012a97e00aba1e81.json",
+    "country_code": "AR"
+  },
+  "contributors": null,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "ReformaTributaria",
+        "indices": [7, 25]
+      }
+    ],
+    "urls": [
+      {
+        "display_url": "twitter.com/i/web/status/9\u2026",
+        "expanded_url": "https://twitter.com/i/web/status/930584017824514055",
+        "url": "https://t.co/ljktN4rV92",
+        "indices": [117, 140]
+      }
+    ],
+    "symbols": [],
+    "user_mentions": []
+  },
+  "id": 930584017824514055,
+  "user": {
+    "followers_count": 1071,
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_color": "C0DEED",
+    "translator_type": "none",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/890743635452493824/pYD2NZQu_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/2993832102/1501204927",
+    "default_profile": true,
+    "utc_offset": null,
+    "lang": "es",
+    "url": null,
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/890743635452493824/pYD2NZQu_normal.jpg",
+    "time_zone": null,
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_use_background_image": true,
+    "id": 2993832102,
+    "profile_link_color": "1DA1F2",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_background_tile": false,
+    "geo_enabled": true,
+    "id_str": "2993832102",
+    "verified": false,
+    "name": "Dami\u00e1n Sgro\u00ae \ud83c\udde6\ud83c\uddf7",
+    "is_translator": false,
+    "notifications": null,
+    "following": null,
+    "friends_count": 3280,
+    "contributors_enabled": false,
+    "screen_name": "SgroDamian",
+    "created_at": "Fri Jan 23 23:21:19 +0000 2015",
+    "profile_text_color": "333333",
+    "favourites_count": 1807,
+    "follow_request_sent": null,
+    "description": "Un bonaerense luchador, Peronista \u270c. \nLic. en Ciencia Pol\u00edtica (UBA). Docente, Co-autor de 'A la plaza de Peron',\nMunicipal de Ituzaingo",
+    "default_profile_image": false,
+    "location": "Ituzaing\u00f3 Centro, Argentina",
+    "listed_count": 1,
+    "protected": false,
+    "statuses_count": 2515
+  },
+  "id_str": "930584017824514055",
+  "retweet_count": 0,
+  "retweeted": false,
+  "quote_count": 0,
+  "truncated": true,
+  "in_reply_to_status_id_str": null,
+  "reply_count": 0,
+  "created_at": "Tue Nov 14 23:51:33 +0000 2017",
+  "is_quote_status": false,
+  "in_reply_to_user_id": null,
+  "timestamp_ms": "1510703493921",
+  "text": "Con la #ReformaTributaria que impulsa el Gobierno Nacional, que es la suba de impuestos salvo en el vino y la cerve\u2026 https://t.co/ljktN4rV92",
+  "extended_tweet": {
+    "full_text": "Con la #ReformaTributaria que impulsa el Gobierno Nacional, que es la suba de impuestos salvo en el vino y la cerveza, c\u00f3mo se incentiva a las econom\u00edas regionales si es una medida regresiva?",
+    "display_text_range": [0, 191],
+    "entities": {
+      "hashtags": [
+        {
+          "text": "ReformaTributaria",
+          "indices": [7, 25]
+        }
+      ],
+      "urls": [],
+      "symbols": [],
+      "user_mentions": []
+    }
+  },
+  "in_reply_to_user_id_str": null,
+  "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+  "in_reply_to_screen_name": null
+}

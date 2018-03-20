@@ -1,0 +1,133 @@
+{
+  "extended_tweet": {
+    "display_text_range": [29, 166],
+    "entities": {
+      "urls": [],
+      "symbols": [],
+      "hashtags": [],
+      "user_mentions": [
+        {
+          "indices": [0, 13],
+          "name": "Lidia Prevost Tricas",
+          "id_str": "890497090626998273",
+          "screen_name": "LidiaPrevost",
+          "id": 890497090626998273
+        }, {
+          "indices": [14, 28],
+          "name": "Grandes Medios\ud83d\udd39",
+          "id_str": "506717275",
+          "screen_name": "GrandesMedios",
+          "id": 506717275
+        }
+      ]
+    },
+    "full_text": "@LidiaPrevost @GrandesMedios Es una p\u00e1gina de M\u00e9xico, pero si le das lo lees y te explican todo los sitios que est\u00e1n en muchos de los bosques se han rodado pel\u00edculas."
+  },
+  "favorited": false,
+  "lang": "es",
+  "display_text_range": [29, 140],
+  "favorite_count": 0,
+  "reply_count": 0,
+  "geo": null,
+  "contributors": null,
+  "text": "@LidiaPrevost @GrandesMedios Es una p\u00e1gina de M\u00e9xico, pero si le das lo lees y te explican todo los sitios que est\u00e1\u2026 https://t.co/kmVHjvLSWP",
+  "created_at": "Wed Nov 15 15:32:03 +0000 2017",
+  "place": {
+    "place_type": "city",
+    "full_name": "Almer\u00eda, Espa\u00f1a",
+    "country": "Espa\u00f1a",
+    "name": "Almer\u00eda",
+    "url": "https://api.twitter.com/1.1/geo/id/e342de30841352bf.json",
+    "country_code": "ES",
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [[[-2.543758, 36.737433], [-2.543758, 37.000063], [-2.203638, 37.000063], [-2.203638, 36.737433]]]
+    },
+    "id": "e342de30841352bf",
+    "attributes": {}
+  },
+  "user": {
+    "profile_text_color": "333333",
+    "lang": "es",
+    "location": "Almer\u00eda, Espa\u00f1a",
+    "friends_count": 165,
+    "profile_link_color": "1DA1F2",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/928394462237220864/avEw9sm1_normal.jpg",
+    "contributors_enabled": false,
+    "following": null,
+    "is_translator": false,
+    "verified": false,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/905876054052614150/1510324401",
+    "utc_offset": null,
+    "geo_enabled": true,
+    "profile_sidebar_border_color": "C0DEED",
+    "created_at": "Thu Sep 07 19:30:56 +0000 2017",
+    "description": "Nac\u00ed en Almer\u00eda soy una abuela orgullosisimaaa de mi princesa, se llama Natalia, soy socialista de cuna y muy de izquierdas de siempre. Tengo dos hij@s.",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/928394462237220864/avEw9sm1_normal.jpg",
+    "profile_background_color": "F5F8FA",
+    "listed_count": 0,
+    "follow_request_sent": null,
+    "profile_background_tile": false,
+    "followers_count": 116,
+    "name": "Maria AraceliCarrasc",
+    "notifications": null,
+    "default_profile_image": false,
+    "url": null,
+    "favourites_count": 377,
+    "screen_name": "MAracelicarrasc",
+    "profile_background_image_url": "",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_use_background_image": true,
+    "translator_type": "none",
+    "time_zone": null,
+    "profile_background_image_url_https": "",
+    "statuses_count": 1541,
+    "id": 905876054052614150,
+    "default_profile": true,
+    "protected": false,
+    "id_str": "905876054052614150"
+  },
+  "in_reply_to_user_id_str": "890497090626998273",
+  "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+  "filter_level": "low",
+  "is_quote_status": false,
+  "in_reply_to_status_id": 930817810145607680,
+  "in_reply_to_user_id": 890497090626998273,
+  "quote_count": 0,
+  "retweeted": false,
+  "in_reply_to_screen_name": "LidiaPrevost",
+  "retweet_count": 0,
+  "in_reply_to_status_id_str": "930817810145607680",
+  "coordinates": null,
+  "id": 930820701745045504,
+  "truncated": true,
+  "entities": {
+    "urls": [
+      {
+        "url": "https://t.co/kmVHjvLSWP",
+        "display_url": "twitter.com/i/web/status/9\u2026",
+        "indices": [117, 140],
+        "expanded_url": "https://twitter.com/i/web/status/930820701745045504"
+      }
+    ],
+    "symbols": [],
+    "hashtags": [],
+    "user_mentions": [
+      {
+        "indices": [0, 13],
+        "name": "Lidia Prevost Tricas",
+        "id_str": "890497090626998273",
+        "screen_name": "LidiaPrevost",
+        "id": 890497090626998273
+      }, {
+        "indices": [14, 28],
+        "name": "Grandes Medios\ud83d\udd39",
+        "id_str": "506717275",
+        "screen_name": "GrandesMedios",
+        "id": 506717275
+      }
+    ]
+  },
+  "timestamp_ms": "1510759923765",
+  "id_str": "930820701745045504"
+}

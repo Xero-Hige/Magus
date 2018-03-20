@@ -1,0 +1,122 @@
+{
+  "geo": null,
+  "filter_level": "low",
+  "in_reply_to_status_id": 930255680858189824,
+  "lang": "es",
+  "favorite_count": 0,
+  "coordinates": null,
+  "favorited": false,
+  "place": {
+    "name": "La Plata",
+    "full_name": "La Plata, Argentina",
+    "place_type": "city",
+    "country": "Argentina",
+    "id": "0177894212b08f73",
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [[-58.160874, -35.031373], [-58.160874, -34.841264], [-57.865169, -34.841264], [-57.865169, -35.031373]]
+      ]
+    },
+    "attributes": {},
+    "url": "https://api.twitter.com/1.1/geo/id/0177894212b08f73.json",
+    "country_code": "AR"
+  },
+  "contributors": null,
+  "entities": {
+    "hashtags": [],
+    "urls": [
+      {
+        "display_url": "twitter.com/i/web/status/9\u2026",
+        "expanded_url": "https://twitter.com/i/web/status/930627790692651008",
+        "url": "https://t.co/Jiz6ZIiqDo",
+        "indices": [117, 140]
+      }
+    ],
+    "symbols": [],
+    "user_mentions": [
+      {
+        "id": 1553993341,
+        "id_str": "1553993341",
+        "name": "Agust\u00edn Pastorini",
+        "indices": [0, 12],
+        "screen_name": "pastoriniae"
+      }
+    ]
+  },
+  "id": 930627790692651008,
+  "user": {
+    "followers_count": 1430,
+    "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/596429833854263297/Nrz3Lvzg.jpg",
+    "profile_background_color": "022330",
+    "translator_type": "none",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/916702268086538242/9vDQ12PG_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/2332086339/1509822206",
+    "default_profile": false,
+    "utc_offset": null,
+    "lang": "es",
+    "url": "https://www.youtube.com/channel/UCFudNYbQEIDnVtsEWK8_eHA",
+    "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/596429833854263297/Nrz3Lvzg.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/916702268086538242/9vDQ12PG_normal.jpg",
+    "time_zone": null,
+    "profile_sidebar_border_color": "FFFFFF",
+    "profile_use_background_image": true,
+    "id": 2332086339,
+    "profile_link_color": "0084B4",
+    "profile_sidebar_fill_color": "C0DFEC",
+    "profile_background_tile": true,
+    "geo_enabled": true,
+    "id_str": "2332086339",
+    "verified": false,
+    "name": "Lautaro Retamozo",
+    "is_translator": false,
+    "notifications": null,
+    "following": null,
+    "friends_count": 477,
+    "contributors_enabled": false,
+    "screen_name": "RetamozoLautaro",
+    "created_at": "Sat Feb 08 16:08:20 +0000 2014",
+    "profile_text_color": "333333",
+    "favourites_count": 4119,
+    "follow_request_sent": null,
+    "description": "instagram: lautaroretamozo - Snap: lautaroretamoz0",
+    "default_profile_image": false,
+    "location": null,
+    "listed_count": 3,
+    "protected": false,
+    "statuses_count": 28023
+  },
+  "id_str": "930627790692651008",
+  "retweet_count": 0,
+  "retweeted": false,
+  "quote_count": 0,
+  "truncated": true,
+  "in_reply_to_status_id_str": "930255680858189824",
+  "reply_count": 0,
+  "created_at": "Wed Nov 15 02:45:30 +0000 2017",
+  "is_quote_status": false,
+  "in_reply_to_user_id": 2332086339,
+  "timestamp_ms": "1510713930186",
+  "text": "@pastoriniae lo mejor de mi fiesta de disfraces fue ver cuando estabas llegando amigo! Gracias por ayudar y por ir!\u2026 https://t.co/Jiz6ZIiqDo",
+  "extended_tweet": {
+    "full_text": "@pastoriniae lo mejor de mi fiesta de disfraces fue ver cuando estabas llegando amigo! Gracias por ayudar y por ir!! Hay que juntarnos a tirar pasos m\u00e1s seguido jajajaja te quiero amigo!!",
+    "display_text_range": [0, 187],
+    "entities": {
+      "hashtags": [],
+      "urls": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "id": 1553993341,
+          "id_str": "1553993341",
+          "name": "Agust\u00edn Pastorini",
+          "indices": [0, 12],
+          "screen_name": "pastoriniae"
+        }
+      ]
+    }
+  },
+  "in_reply_to_user_id_str": "2332086339",
+  "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+  "in_reply_to_screen_name": "RetamozoLautaro"
+}

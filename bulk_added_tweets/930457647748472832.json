@@ -1,0 +1,181 @@
+{
+  "id": 930457647748472832,
+  "in_reply_to_status_id_str": null,
+  "truncated": false,
+  "place": {
+    "id": "0010b4cb51ca93d8",
+    "country": "Chile",
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [[-70.692959, -33.478574], [-70.692959, -33.425749], [-70.626272, -33.425749], [-70.626272, -33.478574]]
+      ]
+    },
+    "url": "https://api.twitter.com/1.1/geo/id/0010b4cb51ca93d8.json",
+    "full_name": "Santiago, Chile",
+    "attributes": {},
+    "name": "Santiago",
+    "place_type": "city",
+    "country_code": "CL"
+  },
+  "favorite_count": 0,
+  "retweeted": false,
+  "source": "<a href=\"http://trendsmap.com/\" rel=\"nofollow\">Trendsmap Alerting</a>",
+  "is_quote_status": false,
+  "possibly_sensitive": false,
+  "geo": {
+    "type": "Point",
+    "coordinates": [-33.4569, -70.6483]
+  },
+  "coordinates": {
+    "type": "Point",
+    "coordinates": [-70.6483, -33.4569]
+  },
+  "in_reply_to_status_id": null,
+  "retweet_count": 0,
+  "quote_count": 0,
+  "timestamp_ms": "1510673364947",
+  "favorited": false,
+  "in_reply_to_user_id_str": null,
+  "filter_level": "low",
+  "entities": {
+    "media": [
+      {
+        "id": 930457645026246661,
+        "display_url": "pic.twitter.com/ONAsNsJQLO",
+        "id_str": "930457645026246661",
+        "indices": [101, 124],
+        "expanded_url": "https://twitter.com/TrendsSantiago/status/930457647748472832/photo/1",
+        "type": "photo",
+        "url": "https://t.co/ONAsNsJQLO",
+        "media_url_https": "https://pbs.twimg.com/media/DOmmTGJWAAUpImi.jpg",
+        "media_url": "http://pbs.twimg.com/media/DOmmTGJWAAUpImi.jpg",
+        "sizes": {
+          "small": {
+            "w": 680,
+            "h": 265,
+            "resize": "fit"
+          },
+          "large": {
+            "w": 1008,
+            "h": 393,
+            "resize": "fit"
+          },
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "medium": {
+            "w": 1008,
+            "h": 393,
+            "resize": "fit"
+          }
+        }
+      }
+    ],
+    "urls": [
+      {
+        "indices": [77, 100],
+        "display_url": "trendsmap.com/r/CL_SAN_ihwxnb",
+        "url": "https://t.co/tyxZ2aqD4j",
+        "expanded_url": "https://www.trendsmap.com/r/CL_SAN_ihwxnb"
+      }
+    ],
+    "symbols": [],
+    "user_mentions": [],
+    "hashtags": [
+      {
+        "text": "Santiago",
+        "indices": [66, 75]
+      }
+    ]
+  },
+  "reply_count": 0,
+  "in_reply_to_screen_name": null,
+  "display_text_range": [0, 100],
+  "extended_entities": {
+    "media": [
+      {
+        "id": 930457645026246661,
+        "display_url": "pic.twitter.com/ONAsNsJQLO",
+        "id_str": "930457645026246661",
+        "indices": [101, 124],
+        "expanded_url": "https://twitter.com/TrendsSantiago/status/930457647748472832/photo/1",
+        "type": "photo",
+        "url": "https://t.co/ONAsNsJQLO",
+        "media_url_https": "https://pbs.twimg.com/media/DOmmTGJWAAUpImi.jpg",
+        "media_url": "http://pbs.twimg.com/media/DOmmTGJWAAUpImi.jpg",
+        "sizes": {
+          "small": {
+            "w": 680,
+            "h": 265,
+            "resize": "fit"
+          },
+          "large": {
+            "w": 1008,
+            "h": 393,
+            "resize": "fit"
+          },
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "medium": {
+            "w": 1008,
+            "h": 393,
+            "resize": "fit"
+          }
+        }
+      }
+    ]
+  },
+  "text": "'colecciones', 'feminazis' y 'divorcio' es ahora una tendencia en #Santiago\n\nhttps://t.co/tyxZ2aqD4j https://t.co/ONAsNsJQLO",
+  "lang": "es",
+  "user": {
+    "statuses_count": 113274,
+    "id": 132096359,
+    "default_profile": false,
+    "favourites_count": 1,
+    "url": "http://trendsmap.com/local/cl/santiago",
+    "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/145449876/TrendsSantiago.jpg",
+    "verified": false,
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1118765445/TrendsMap-Logo-_Dark___1__normal.png",
+    "translator_type": "none",
+    "location": "Santiago, Chile",
+    "geo_enabled": true,
+    "utc_offset": -10800,
+    "notifications": null,
+    "profile_background_tile": true,
+    "friends_count": 2745,
+    "is_translator": false,
+    "follow_request_sent": null,
+    "default_profile_image": false,
+    "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/145449876/TrendsSantiago.jpg",
+    "profile_background_color": "C0DEED",
+    "profile_link_color": "0084B4",
+    "profile_use_background_image": true,
+    "time_zone": "Santiago",
+    "name": "Trendsmap Santiago",
+    "profile_text_color": "333333",
+    "profile_sidebar_border_color": "C0DEED",
+    "screen_name": "TrendsSantiago",
+    "lang": "en",
+    "following": null,
+    "listed_count": 145,
+    "protected": false,
+    "profile_sidebar_fill_color": "DDEEF6",
+    "followers_count": 16297,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1118765445/TrendsMap-Logo-_Dark___1__normal.png",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/132096359/1504491454",
+    "contributors_enabled": false,
+    "created_at": "Mon Apr 12 07:59:55 +0000 2010",
+    "id_str": "132096359",
+    "description": "En tiempo real las tendencias de Santiago"
+  },
+  "created_at": "Tue Nov 14 15:29:24 +0000 2017",
+  "id_str": "930457647748472832",
+  "in_reply_to_user_id": null,
+  "contributors": null
+}

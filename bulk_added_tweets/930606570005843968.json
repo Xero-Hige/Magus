@@ -1,0 +1,116 @@
+{
+  "geo": null,
+  "filter_level": "low",
+  "in_reply_to_status_id": null,
+  "lang": "es",
+  "favorite_count": 0,
+  "coordinates": null,
+  "favorited": false,
+  "place": {
+    "name": "La Plata",
+    "full_name": "La Plata, Argentina",
+    "place_type": "city",
+    "country": "Argentina",
+    "id": "0177894212b08f73",
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [[-58.160874, -35.031373], [-58.160874, -34.841264], [-57.865169, -34.841264], [-57.865169, -35.031373]]
+      ]
+    },
+    "attributes": {},
+    "url": "https://api.twitter.com/1.1/geo/id/0177894212b08f73.json",
+    "country_code": "AR"
+  },
+  "contributors": null,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "MartesIntratable",
+        "indices": [0, 17]
+      }
+    ],
+    "urls": [
+      {
+        "display_url": "twitter.com/i/web/status/9\u2026",
+        "expanded_url": "https://twitter.com/i/web/status/930606570005843968",
+        "url": "https://t.co/ZXslLqpuuP",
+        "indices": [117, 140]
+      }
+    ],
+    "symbols": [],
+    "user_mentions": []
+  },
+  "id": 930606570005843968,
+  "user": {
+    "followers_count": 783,
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_color": "C0DEED",
+    "translator_type": "none",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/930547869131726854/vy5rejaQ_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/2821491213/1499028146",
+    "default_profile": true,
+    "utc_offset": null,
+    "lang": "es",
+    "url": null,
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/930547869131726854/vy5rejaQ_normal.jpg",
+    "time_zone": null,
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_use_background_image": true,
+    "id": 2821491213,
+    "profile_link_color": "1DA1F2",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_background_tile": false,
+    "geo_enabled": true,
+    "id_str": "2821491213",
+    "verified": false,
+    "name": "martin nov",
+    "is_translator": false,
+    "notifications": null,
+    "following": null,
+    "friends_count": 593,
+    "contributors_enabled": false,
+    "screen_name": "LpMartinchus",
+    "created_at": "Fri Oct 10 22:13:50 +0000 2014",
+    "profile_text_color": "333333",
+    "favourites_count": 62851,
+    "follow_request_sent": null,
+    "description": "Miro, observo y veo. El resto? Puntos de vista discutibles.  Obsecuentes y fan\u00e1ticos GET OUT OF MY SIGHT!!!\nTrabajo en el \u00e1rea de salud.",
+    "default_profile_image": false,
+    "location": "LA PLATA",
+    "listed_count": 0,
+    "protected": false,
+    "statuses_count": 11874
+  },
+  "id_str": "930606570005843968",
+  "retweet_count": 0,
+  "retweeted": false,
+  "quote_count": 0,
+  "truncated": true,
+  "in_reply_to_status_id_str": null,
+  "reply_count": 0,
+  "created_at": "Wed Nov 15 01:21:10 +0000 2017",
+  "is_quote_status": false,
+  "in_reply_to_user_id": null,
+  "timestamp_ms": "1510708870780",
+  "text": "#MartesIntratable qu\u00e9 raro que donde hay coimas millonarias como confes\u00f3 Alejandro Burzaco haya siempre un Kirchner\u2026 https://t.co/ZXslLqpuuP",
+  "extended_tweet": {
+    "full_text": "#MartesIntratable qu\u00e9 raro que donde hay coimas millonarias como confes\u00f3 Alejandro Burzaco haya siempre un Kirchnerista metido. No se pierden una estos tipos!",
+    "display_text_range": [0, 158],
+    "entities": {
+      "hashtags": [
+        {
+          "text": "MartesIntratable",
+          "indices": [0, 17]
+        }
+      ],
+      "urls": [],
+      "symbols": [],
+      "user_mentions": []
+    }
+  },
+  "in_reply_to_user_id_str": null,
+  "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+  "in_reply_to_screen_name": null
+}

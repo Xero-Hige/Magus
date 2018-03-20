@@ -1,0 +1,104 @@
+{
+  "created_at": "Tue May 20 14:19:08 +0000 2014",
+  "id": 468757820440322049,
+  "id_str": "468757820440322049",
+  "text": "Me gusta como te sienta Mendoza @JuanLeandroNimo ;0) es lindo verte tan bien #Feliz ...Te Adoro Bello, muuuaaahhhh!!!!!!!",
+  "truncated": false,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "Feliz",
+        "indices": [77, 83]
+      }
+    ],
+    "symbols": [],
+    "user_mentions": [],
+    "urls": []
+  },
+  "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 335612783,
+    "id_str": "335612783",
+    "name": "Soledad Casanova",
+    "screen_name": "sol_casanova",
+    "location": "Buenos Aires, Argentina",
+    "description": "",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": []
+      }
+    },
+    "protected": false,
+    "followers_count": 713,
+    "friends_count": 954,
+    "listed_count": 4,
+    "created_at": "Thu Jul 14 23:36:36 +0000 2011",
+    "favourites_count": 3755,
+    "utc_offset": -10800,
+    "time_zone": "Buenos Aires",
+    "geo_enabled": true,
+    "verified": false,
+    "statuses_count": 27505,
+    "lang": "es",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "is_translation_enabled": false,
+    "profile_background_color": "642D8B",
+    "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/440775838/DSC038582.jpg",
+    "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/440775838/DSC038582.jpg",
+    "profile_background_tile": true,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/952293723299295233/8vV0eyFB_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/952293723299295233/8vV0eyFB_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/335612783/1515879762",
+    "profile_link_color": "FF0000",
+    "profile_sidebar_border_color": "450745",
+    "profile_sidebar_fill_color": "E6A6E6",
+    "profile_text_color": "360736",
+    "profile_use_background_image": true,
+    "has_extended_profile": false,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false,
+    "translator_type": "none"
+  },
+  "geo": {
+    "type": "Point",
+    "coordinates": [-34.7069693, -58.6025596]
+  },
+  "coordinates": {
+    "type": "Point",
+    "coordinates": [-58.6025596, -34.7069693]
+  },
+  "place": {
+    "id": "4afa2757051c5192",
+    "url": "https://api.twitter.com/1.1/geo/id/4afa2757051c5192.json",
+    "place_type": "admin",
+    "name": "Buenos Aires",
+    "full_name": "Buenos Aires, Argentina",
+    "country_code": "AR",
+    "country": "Argentina",
+    "contained_within": [],
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [[-63.39386, -41.035009], [-56.665836, -41.035009], [-56.665836, -33.260144], [-63.39386, -33.260144]]
+      ]
+    },
+    "attributes": {}
+  },
+  "contributors": null,
+  "is_quote_status": false,
+  "retweet_count": 0,
+  "favorite_count": 1,
+  "favorited": false,
+  "retweeted": false,
+  "lang": "es"
+}

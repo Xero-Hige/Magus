@@ -1,0 +1,271 @@
+{
+  "id": 930457648486584320,
+  "lang": "es",
+  "in_reply_to_status_id_str": null,
+  "truncated": true,
+  "place": {
+    "id": "4d3b316fe2e52b29",
+    "country": "Argentina",
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [[-73.572716, -55.116856], [-73.572716, -21.778451], [-53.641135, -21.778451], [-53.641135, -55.116856]]
+      ]
+    },
+    "url": "https://api.twitter.com/1.1/geo/id/4d3b316fe2e52b29.json",
+    "full_name": "Argentina",
+    "attributes": {},
+    "name": "Argentina",
+    "place_type": "country",
+    "country_code": "AR"
+  },
+  "favorite_count": 0,
+  "retweeted": false,
+  "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+  "is_quote_status": false,
+  "possibly_sensitive": false,
+  "geo": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_status_id": null,
+  "retweet_count": 0,
+  "quote_count": 0,
+  "timestamp_ms": "1510673365123",
+  "favorited": false,
+  "coordinates": null,
+  "filter_level": "low",
+  "entities": {
+    "urls": [
+      {
+        "indices": [116, 139],
+        "display_url": "twitter.com/i/web/status/9\u2026",
+        "url": "https://t.co/keh5bmAb7f",
+        "expanded_url": "https://twitter.com/i/web/status/930457648486584320"
+      }
+    ],
+    "symbols": [],
+    "user_mentions": [
+      {
+        "screen_name": "LorenaS26311744",
+        "id": 831281770284867586,
+        "name": "Lorena Sanchez",
+        "indices": [92, 108],
+        "id_str": "831281770284867586"
+      }
+    ],
+    "hashtags": []
+  },
+  "reply_count": 0,
+  "in_reply_to_screen_name": null,
+  "display_text_range": [0, 140],
+  "text": "La subsecretaria de Planificaci\u00f3n y Proyectos dependiente del Ministerio de Infraestructura @LorenaS26311744 junto\u2026 https://t.co/keh5bmAb7f",
+  "extended_tweet": {
+    "display_text_range": [0, 254],
+    "extended_entities": {
+      "media": [
+        {
+          "id": 930457638789402624,
+          "display_url": "pic.twitter.com/vJnelU89JI",
+          "id_str": "930457638789402624",
+          "indices": [255, 278],
+          "expanded_url": "https://twitter.com/chacoenlinearad/status/930457648486584320/photo/1",
+          "type": "photo",
+          "url": "https://t.co/vJnelU89JI",
+          "media_url_https": "https://pbs.twimg.com/media/DOmmSu6XUAAFfQL.jpg",
+          "media_url": "http://pbs.twimg.com/media/DOmmSu6XUAAFfQL.jpg",
+          "sizes": {
+            "small": {
+              "w": 680,
+              "h": 510,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 1200,
+              "h": 900,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 1200,
+              "h": 900,
+              "resize": "fit"
+            }
+          }
+        }, {
+          "id": 930457638806196224,
+          "display_url": "pic.twitter.com/vJnelU89JI",
+          "id_str": "930457638806196224",
+          "indices": [255, 278],
+          "expanded_url": "https://twitter.com/chacoenlinearad/status/930457648486584320/photo/1",
+          "type": "photo",
+          "url": "https://t.co/vJnelU89JI",
+          "media_url_https": "https://pbs.twimg.com/media/DOmmSu-XkAAhx5i.jpg",
+          "media_url": "http://pbs.twimg.com/media/DOmmSu-XkAAhx5i.jpg",
+          "sizes": {
+            "small": {
+              "w": 680,
+              "h": 510,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 1200,
+              "h": 900,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 1200,
+              "h": 900,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "entities": {
+      "media": [
+        {
+          "id": 930457638789402624,
+          "display_url": "pic.twitter.com/vJnelU89JI",
+          "id_str": "930457638789402624",
+          "indices": [255, 278],
+          "expanded_url": "https://twitter.com/chacoenlinearad/status/930457648486584320/photo/1",
+          "type": "photo",
+          "url": "https://t.co/vJnelU89JI",
+          "media_url_https": "https://pbs.twimg.com/media/DOmmSu6XUAAFfQL.jpg",
+          "media_url": "http://pbs.twimg.com/media/DOmmSu6XUAAFfQL.jpg",
+          "sizes": {
+            "small": {
+              "w": 680,
+              "h": 510,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 1200,
+              "h": 900,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 1200,
+              "h": 900,
+              "resize": "fit"
+            }
+          }
+        }, {
+          "id": 930457638806196224,
+          "display_url": "pic.twitter.com/vJnelU89JI",
+          "id_str": "930457638806196224",
+          "indices": [255, 278],
+          "expanded_url": "https://twitter.com/chacoenlinearad/status/930457648486584320/photo/1",
+          "type": "photo",
+          "url": "https://t.co/vJnelU89JI",
+          "media_url_https": "https://pbs.twimg.com/media/DOmmSu-XkAAhx5i.jpg",
+          "media_url": "http://pbs.twimg.com/media/DOmmSu-XkAAhx5i.jpg",
+          "sizes": {
+            "small": {
+              "w": 680,
+              "h": 510,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 1200,
+              "h": 900,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 1200,
+              "h": 900,
+              "resize": "fit"
+            }
+          }
+        }
+      ],
+      "urls": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "screen_name": "LorenaS26311744",
+          "id": 831281770284867586,
+          "name": "Lorena Sanchez",
+          "indices": [92, 108],
+          "id_str": "831281770284867586"
+        }
+      ],
+      "hashtags": [
+        {
+          "text": "UNNE",
+          "indices": [160, 165]
+        }, {
+          "text": "PlanMaestroHumedales",
+          "indices": [214, 235]
+        }, {
+          "text": "ElEstadodetuLado",
+          "indices": [237, 254]
+        }
+      ]
+    },
+    "full_text": "La subsecretaria de Planificaci\u00f3n y Proyectos dependiente del Ministerio de Infraestructura @LorenaS26311744 junto a estudiantes del ultimo a\u00f1o de Arquitectura #UNNE analizan proyectos estrat\u00e9gicos en el marco del #PlanMaestroHumedales.\n#ElEstadodetuLado https://t.co/vJnelU89JI"
+  },
+  "user": {
+    "statuses_count": 32360,
+    "id": 789544821094510592,
+    "default_profile": true,
+    "favourites_count": 23371,
+    "url": null,
+    "profile_background_image_url_https": "",
+    "verified": false,
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/872911727502950400/tHfEBZKb_normal.jpg",
+    "translator_type": "none",
+    "location": null,
+    "geo_enabled": true,
+    "utc_offset": null,
+    "notifications": null,
+    "profile_background_tile": false,
+    "friends_count": 300,
+    "is_translator": false,
+    "follow_request_sent": null,
+    "default_profile_image": false,
+    "profile_background_image_url": "",
+    "profile_background_color": "F5F8FA",
+    "profile_link_color": "1DA1F2",
+    "profile_use_background_image": true,
+    "time_zone": null,
+    "name": "chacoenlinearadio",
+    "profile_text_color": "333333",
+    "profile_sidebar_border_color": "C0DEED",
+    "screen_name": "chacoenlinearad",
+    "lang": "es",
+    "following": null,
+    "listed_count": 30,
+    "protected": false,
+    "profile_sidebar_fill_color": "DDEEF6",
+    "followers_count": 679,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/872911727502950400/tHfEBZKb_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/789544821094510592/1496953312",
+    "contributors_enabled": false,
+    "created_at": "Fri Oct 21 19:12:09 +0000 2016",
+    "id_str": "789544821094510592",
+    "description": null
+  },
+  "created_at": "Tue Nov 14 15:29:25 +0000 2017",
+  "id_str": "930457648486584320",
+  "in_reply_to_user_id": null,
+  "contributors": null
+}

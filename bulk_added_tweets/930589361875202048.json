@@ -1,0 +1,113 @@
+{
+  "geo": {
+    "type": "Point",
+    "coordinates": [38.8634, -104.792]
+  },
+  "filter_level": "low",
+  "in_reply_to_status_id": null,
+  "lang": "es",
+  "favorite_count": 0,
+  "coordinates": {
+    "type": "Point",
+    "coordinates": [-104.792, 38.8634]
+  },
+  "favorited": false,
+  "place": {
+    "name": "Colorado Springs",
+    "full_name": "Colorado Springs, CO",
+    "place_type": "city",
+    "country": "United States",
+    "id": "adc95f2911133646",
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [[-104.910562, 38.741142], [-104.910562, 39.035895], [-104.668092, 39.035895], [-104.668092, 38.741142]]
+      ]
+    },
+    "attributes": {},
+    "url": "https://api.twitter.com/1.1/geo/id/adc95f2911133646.json",
+    "country_code": "US"
+  },
+  "contributors": null,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "colorado",
+        "indices": [16, 25]
+      }, {
+        "text": "livetolove",
+        "indices": [26, 37]
+      }, {
+        "text": "nycbcg",
+        "indices": [38, 45]
+      }
+    ],
+    "urls": [
+      {
+        "display_url": "instagram.com/p/Bbfs51yHqjk/",
+        "expanded_url": "https://www.instagram.com/p/Bbfs51yHqjk/",
+        "url": "https://t.co/1X5Tx0pqnN",
+        "indices": [75, 98]
+      }
+    ],
+    "symbols": [],
+    "user_mentions": []
+  },
+  "id": 930589361875202048,
+  "possibly_sensitive": false,
+  "user": {
+    "followers_count": 150,
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_color": "C0DEED",
+    "translator_type": "none",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/470318215181004800/89508vF1_normal.jpeg",
+    "default_profile": true,
+    "utc_offset": null,
+    "lang": "en",
+    "url": null,
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/470318215181004800/89508vF1_normal.jpeg",
+    "time_zone": null,
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_use_background_image": true,
+    "id": 1289537552,
+    "profile_link_color": "1DA1F2",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_background_tile": false,
+    "geo_enabled": true,
+    "id_str": "1289537552",
+    "verified": false,
+    "name": "BobbyGutierrez",
+    "is_translator": false,
+    "notifications": null,
+    "following": null,
+    "friends_count": 41,
+    "contributors_enabled": false,
+    "screen_name": "nycbcg",
+    "created_at": "Fri Mar 22 19:59:56 +0000 2013",
+    "profile_text_color": "333333",
+    "favourites_count": 2,
+    "follow_request_sent": null,
+    "description": "Fashion/Music",
+    "default_profile_image": false,
+    "location": "New York",
+    "listed_count": 6,
+    "protected": false,
+    "statuses_count": 826
+  },
+  "id_str": "930589361875202048",
+  "retweet_count": 0,
+  "retweeted": false,
+  "quote_count": 0,
+  "truncated": false,
+  "in_reply_to_status_id_str": null,
+  "reply_count": 0,
+  "created_at": "Wed Nov 15 00:12:48 +0000 2017",
+  "is_quote_status": false,
+  "in_reply_to_user_id": null,
+  "source": "<a href=\"http://instagram.com\" rel=\"nofollow\">Instagram</a>",
+  "text": "Colorado Skies.\n#colorado\n#livetolove #nycbcg @ Colorado Springs, Colorado https://t.co/1X5Tx0pqnN",
+  "timestamp_ms": "1510704768042",
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null
+}

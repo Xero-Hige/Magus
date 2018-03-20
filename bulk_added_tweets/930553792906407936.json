@@ -1,0 +1,124 @@
+{
+  "is_quote_status": false,
+  "in_reply_to_user_id_str": null,
+  "created_at": "Tue Nov 14 21:51:27 +0000 2017",
+  "favorite_count": 0,
+  "in_reply_to_status_id": null,
+  "id_str": "930553792906407936",
+  "filter_level": "low",
+  "reply_count": 0,
+  "timestamp_ms": "1510696287739",
+  "id": 930553792906407936,
+  "coordinates": {
+    "coordinates": [2.18966671, 41.3687841],
+    "type": "Point"
+  },
+  "in_reply_to_screen_name": null,
+  "truncated": false,
+  "source": "<a href=\"http://instagram.com\" rel=\"nofollow\">Instagram</a>",
+  "place": {
+    "bounding_box": {
+      "coordinates": [[[2.052477, 41.317048], [2.052477, 41.468266], [2.229978, 41.468266], [2.229978, 41.317048]]],
+      "type": "Polygon"
+    },
+    "url": "https://api.twitter.com/1.1/geo/id/1a27537478dd8e38.json",
+    "country_code": "ES",
+    "name": "Barcelona",
+    "full_name": "Barcelona, Spain",
+    "id": "1a27537478dd8e38",
+    "place_type": "city",
+    "attributes": {},
+    "country": "Spain"
+  },
+  "retweet_count": 0,
+  "quote_count": 0,
+  "favorited": false,
+  "text": "Corridor #barcelona #catalunya #spain #whotel #theW #agameoftones #neon @ W Barcelona https://t.co/CBCogCV1Rc",
+  "in_reply_to_user_id": null,
+  "geo": {
+    "coordinates": [41.3687841, 2.18966671],
+    "type": "Point"
+  },
+  "lang": "es",
+  "contributors": null,
+  "in_reply_to_status_id_str": null,
+  "user": {
+    "protected": false,
+    "following": null,
+    "profile_text_color": "000000",
+    "profile_background_color": "9AE4E8",
+    "statuses_count": 1028,
+    "default_profile": false,
+    "favourites_count": 11,
+    "friends_count": 87,
+    "follow_request_sent": null,
+    "profile_sidebar_fill_color": "E0FF92",
+    "translator_type": "none",
+    "notifications": null,
+    "id_str": "76151921",
+    "screen_name": "YordyTube",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/76151921/1367518226",
+    "verified": false,
+    "id": 76151921,
+    "profile_use_background_image": true,
+    "description": "If you don't care where you are, you're not lost...",
+    "utc_offset": 3600,
+    "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/49630710/YordyTube_1256976925.jpg",
+    "is_translator": false,
+    "listed_count": 19,
+    "default_profile_image": false,
+    "contributors_enabled": false,
+    "followers_count": 41,
+    "location": "iPhone: 51.641644,5.940739",
+    "created_at": "Mon Sep 21 21:36:30 +0000 2009",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/3603974643/adbd05a5d31aff98c07a36abd29655a9_normal.jpeg",
+    "geo_enabled": true,
+    "time_zone": "Amsterdam",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/3603974643/adbd05a5d31aff98c07a36abd29655a9_normal.jpeg",
+    "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/49630710/YordyTube_1256976925.jpg",
+    "profile_link_color": "0000FF",
+    "lang": "en",
+    "name": "Yordy Minderhoud",
+    "profile_background_tile": false,
+    "url": "http://www.YouTube.com/yordytube",
+    "profile_sidebar_border_color": "87BC44"
+  },
+  "possibly_sensitive": false,
+  "entities": {
+    "user_mentions": [],
+    "urls": [
+      {
+        "expanded_url": "https://www.instagram.com/p/BbfcunigBMm/",
+        "url": "https://t.co/CBCogCV1Rc",
+        "indices": [86, 109],
+        "display_url": "instagram.com/p/BbfcunigBMm/"
+      }
+    ],
+    "symbols": [],
+    "hashtags": [
+      {
+        "text": "barcelona",
+        "indices": [9, 19]
+      }, {
+        "text": "catalunya",
+        "indices": [20, 30]
+      }, {
+        "text": "spain",
+        "indices": [31, 37]
+      }, {
+        "text": "whotel",
+        "indices": [38, 45]
+      }, {
+        "text": "theW",
+        "indices": [46, 51]
+      }, {
+        "text": "agameoftones",
+        "indices": [52, 65]
+      }, {
+        "text": "neon",
+        "indices": [66, 71]
+      }
+    ]
+  },
+  "retweeted": false
+}

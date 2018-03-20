@@ -1,0 +1,108 @@
+{
+  "is_quote_status": false,
+  "in_reply_to_user_id_str": null,
+  "created_at": "Tue Nov 14 22:08:18 +0000 2017",
+  "favorite_count": 0,
+  "in_reply_to_status_id": null,
+  "id_str": "930558030516838400",
+  "filter_level": "low",
+  "reply_count": 0,
+  "timestamp_ms": "1510697298064",
+  "id": 930558030516838400,
+  "coordinates": null,
+  "in_reply_to_screen_name": null,
+  "truncated": true,
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "place": {
+    "bounding_box": {
+      "coordinates": [[[12.445843, 41.731991], [12.445843, 41.907469], [12.665419, 41.907469], [12.665419, 41.731991]]],
+      "type": "Polygon"
+    },
+    "url": "https://api.twitter.com/1.1/geo/id/71b17dbc6d358e52.json",
+    "country_code": "VA",
+    "name": "Citt\u00e0 del Vaticano",
+    "full_name": "Citt\u00e0 del Vaticano",
+    "id": "71b17dbc6d358e52",
+    "place_type": "city",
+    "attributes": {},
+    "country": "Citt\u00e0 del Vaticano"
+  },
+  "retweet_count": 0,
+  "extended_tweet": {
+    "display_text_range": [0, 160],
+    "entities": {
+      "user_mentions": [],
+      "urls": [],
+      "symbols": [],
+      "hashtags": [
+        {
+          "text": "FutureOfHumanity",
+          "indices": [143, 160]
+        }
+      ]
+    },
+    "full_text": "El peligro del pasado era que los hombres fueran esclavos. Pero el peligro del futuro es que los hombres se conviertan en robots (Erich Fromm)\n#FutureOfHumanity"
+  },
+  "quote_count": 0,
+  "favorited": false,
+  "text": "El peligro del pasado era que los hombres fueran esclavos. Pero el peligro del futuro es que los hombres se convier\u2026 https://t.co/cNnkKGZaaI",
+  "in_reply_to_user_id": null,
+  "geo": null,
+  "lang": "es",
+  "contributors": null,
+  "in_reply_to_status_id_str": null,
+  "user": {
+    "protected": false,
+    "following": null,
+    "profile_text_color": "333333",
+    "profile_background_color": "C0DEED",
+    "statuses_count": 951,
+    "default_profile": true,
+    "favourites_count": 411,
+    "friends_count": 5,
+    "follow_request_sent": null,
+    "profile_sidebar_fill_color": "DDEEF6",
+    "translator_type": "none",
+    "notifications": null,
+    "id_str": "821049906",
+    "screen_name": "CardRavasi_es",
+    "verified": true,
+    "id": 821049906,
+    "profile_use_background_image": true,
+    "description": "Sacerdote y Cardenal. (Traducci\u00f3n en espa\u00f1ol de @CardRavasi)",
+    "utc_offset": 7200,
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "is_translator": false,
+    "listed_count": 104,
+    "default_profile_image": false,
+    "contributors_enabled": false,
+    "followers_count": 8079,
+    "location": "Vatican",
+    "created_at": "Thu Sep 13 07:26:14 +0000 2012",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/2604855094/0ravasi3_normal.jpg",
+    "geo_enabled": true,
+    "time_zone": "Athens",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/2604855094/0ravasi3_normal.jpg",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_link_color": "1DA1F2",
+    "lang": "it",
+    "name": "Gianfranco Ravasi",
+    "profile_background_tile": false,
+    "url": "http://www.cultura.va",
+    "profile_sidebar_border_color": "C0DEED"
+  },
+  "entities": {
+    "user_mentions": [],
+    "urls": [
+      {
+        "expanded_url": "https://twitter.com/i/web/status/930558030516838400",
+        "url": "https://t.co/cNnkKGZaaI",
+        "indices": [117, 140],
+        "display_url": "twitter.com/i/web/status/9\u2026"
+      }
+    ],
+    "symbols": [],
+    "hashtags": []
+  },
+  "retweeted": false
+}

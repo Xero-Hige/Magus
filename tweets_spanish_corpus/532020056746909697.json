@@ -1,0 +1,114 @@
+{
+  "created_at": "Tue Nov 11 04:00:40 +0000 2014",
+  "id": 532020056746909697,
+  "id_str": "532020056746909697",
+  "text": "Primera vez la vida que no soy la unica persona llena de ronchas toda brotada #increible",
+  "truncated": false,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "increible",
+        "indices": [78, 88]
+      }
+    ],
+    "symbols": [],
+    "user_mentions": [],
+    "urls": []
+  },
+  "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 635078649,
+    "id_str": "635078649",
+    "name": "Ye\u2665",
+    "screen_name": "YekaDadario",
+    "location": "Navarro-Bs As",
+    "description": "Necesidad de so\u00f1ar -Soy psicopedagoga*se que NUNCA se me va a olvidar tu voz aunque pierda la memoria- ES EL AMOR EL QUE HACE LA REVOLUCION:) #Lpda  #FIESTA",
+    "url": "https://t.co/3h03gqY4Ow",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "https://t.co/3h03gqY4Ow",
+            "expanded_url": "http://www.facebook.com/yesica.dadario",
+            "display_url": "facebook.com/yesica.dadario",
+            "indices": [0, 23]
+          }
+        ]
+      },
+      "description": {
+        "urls": []
+      }
+    },
+    "protected": false,
+    "followers_count": 501,
+    "friends_count": 534,
+    "listed_count": 0,
+    "created_at": "Sat Jul 14 01:10:06 +0000 2012",
+    "favourites_count": 3569,
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": true,
+    "verified": false,
+    "statuses_count": 10592,
+    "lang": "es",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "is_translation_enabled": false,
+    "profile_background_color": "131516",
+    "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/645280581/oun6coabefsai7e89xnf.jpeg",
+    "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/645280581/oun6coabefsai7e89xnf.jpeg",
+    "profile_background_tile": true,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/961054344803217411/8AiOuZ4g_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/961054344803217411/8AiOuZ4g_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/635078649/1442371928",
+    "profile_link_color": "C41874",
+    "profile_sidebar_border_color": "000000",
+    "profile_sidebar_fill_color": "EFEFEF",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "has_extended_profile": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false,
+    "translator_type": "none"
+  },
+  "geo": {
+    "type": "Point",
+    "coordinates": [-35.0056747, -59.2595409]
+  },
+  "coordinates": {
+    "type": "Point",
+    "coordinates": [-59.2595409, -35.0056747]
+  },
+  "place": {
+    "id": "01f74c47681e93fd",
+    "url": "https://api.twitter.com/1.1/geo/id/01f74c47681e93fd.json",
+    "place_type": "city",
+    "name": "Navarro",
+    "full_name": "Navarro, Argentina",
+    "country_code": "AR",
+    "country": "Argentina",
+    "contained_within": [],
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [[-59.287186, -35.01747], [-59.250521, -35.01747], [-59.250521, -34.988612], [-59.287186, -34.988612]]
+      ]
+    },
+    "attributes": {}
+  },
+  "contributors": null,
+  "is_quote_status": false,
+  "retweet_count": 0,
+  "favorite_count": 0,
+  "favorited": false,
+  "retweeted": false,
+  "lang": "es"
+}

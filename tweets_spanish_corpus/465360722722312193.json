@@ -1,0 +1,127 @@
+{
+  "created_at": "Sun May 11 05:20:16 +0000 2014",
+  "id": 465360722722312193,
+  "id_str": "465360722722312193",
+  "text": "@claudia_lup mi microsegundo hace un segundo fue la respuesta de @JaviMolinaHG #Feliz ;) no lo puedo negar soy demasiado @ChicaCocodriloG",
+  "truncated": false,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "Feliz",
+        "indices": [79, 85]
+      }
+    ],
+    "symbols": [],
+    "user_mentions": [
+      {
+        "screen_name": "claudia_lup",
+        "name": "A M\u00e3e Mais Fixe ",
+        "id": 3556661595,
+        "id_str": "3556661595",
+        "indices": [0, 12]
+      }, {
+        "screen_name": "JaviMolinaHG",
+        "name": "javi molina",
+        "id": 42864965,
+        "id_str": "42864965",
+        "indices": [65, 78]
+      }, {
+        "screen_name": "ChicaCocodriloG",
+        "name": "chicas cocodrilo \u00ae",
+        "id": 701542330,
+        "id_str": "701542330",
+        "indices": [121, 137]
+      }
+    ],
+    "urls": []
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "in_reply_to_status_id": 465359738302386176,
+  "in_reply_to_status_id_str": "465359738302386176",
+  "in_reply_to_user_id": 72961394,
+  "in_reply_to_user_id_str": "72961394",
+  "in_reply_to_screen_name": "claugofar",
+  "user": {
+    "id": 274802104,
+    "id_str": "274802104",
+    "name": "Catalina Salazar",
+    "screen_name": "catasalazarh",
+    "location": "Medell\u00edn - Colombia",
+    "description": "Arquitecta en Morfol\u00f3gica + INGO Constructores y estudiante de t\u00e9cnica vocal en Solo Rock! Soy Feliz!!!!",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": []
+      }
+    },
+    "protected": false,
+    "followers_count": 382,
+    "friends_count": 413,
+    "listed_count": 7,
+    "created_at": "Thu Mar 31 01:56:30 +0000 2011",
+    "favourites_count": 11788,
+    "utc_offset": -18000,
+    "time_zone": "Bogota",
+    "geo_enabled": true,
+    "verified": false,
+    "statuses_count": 8912,
+    "lang": "es",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "is_translation_enabled": false,
+    "profile_background_color": "ACDED6",
+    "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/439506376918708224/UB4I-u5h.jpeg",
+    "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/439506376918708224/UB4I-u5h.jpeg",
+    "profile_background_tile": true,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/378800000148900219/f2d7ab4f769e309c0523d1e107f2e7b6_normal.jpeg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000148900219/f2d7ab4f769e309c0523d1e107f2e7b6_normal.jpeg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/274802104/1362000198",
+    "profile_link_color": "038543",
+    "profile_sidebar_border_color": "FFFFFF",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "has_extended_profile": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false,
+    "translator_type": "none"
+  },
+  "geo": {
+    "type": "Point",
+    "coordinates": [6.22749003, -75.56701075]
+  },
+  "coordinates": {
+    "type": "Point",
+    "coordinates": [-75.56701075, 6.22749003]
+  },
+  "place": {
+    "id": "666f0989b9fd5616",
+    "url": "https://api.twitter.com/1.1/geo/id/666f0989b9fd5616.json",
+    "place_type": "admin",
+    "name": "Antioquia",
+    "full_name": "Antioquia, Colombia",
+    "country_code": "CO",
+    "country": "Colombia",
+    "contained_within": [],
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [
+          [-77.1214380001307, 5.41705499709144], [-73.8962009968991, 5.41705499709144],
+          [-73.8962009968991, 8.86135599382715], [-77.1214380001307, 8.86135599382715]
+        ]
+      ]
+    },
+    "attributes": {}
+  },
+  "contributors": null,
+  "is_quote_status": false,
+  "retweet_count": 1,
+  "favorite_count": 1,
+  "favorited": false,
+  "retweeted": false,
+  "lang": "es"
+}

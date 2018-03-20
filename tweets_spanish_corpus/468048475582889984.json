@@ -1,0 +1,104 @@
+{
+  "created_at": "Sun May 18 15:20:27 +0000 2014",
+  "id": 468048475582889984,
+  "id_str": "468048475582889984",
+  "text": "Me meten en un grupo que no conozco a nadie, empiezan a hablar de mi y :'D #Miedo",
+  "truncated": false,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "Miedo",
+        "indices": [75, 81]
+      }
+    ],
+    "symbols": [],
+    "user_mentions": [],
+    "urls": []
+  },
+  "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 1600753178,
+    "id_str": "1600753178",
+    "name": "Luc\u00eda Mart\u00ednez",
+    "screen_name": "Luciamart4",
+    "location": "Tarazona",
+    "description": "Ex alumna de la Escuela de Arte de Corella/Futura dise\u00f1adora de interiores/Menos drama, mas techno/Sin arte, la vida seria un error",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": []
+      }
+    },
+    "protected": false,
+    "followers_count": 410,
+    "friends_count": 273,
+    "listed_count": 3,
+    "created_at": "Wed Jul 17 11:30:08 +0000 2013",
+    "favourites_count": 5980,
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": true,
+    "verified": false,
+    "statuses_count": 17940,
+    "lang": "es",
+    "contributors_enabled": false,
+    "is_translator": false,
+    "is_translation_enabled": false,
+    "profile_background_color": "C0DEED",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/738528554699329536/IUWKNOrQ_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/738528554699329536/IUWKNOrQ_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1600753178/1383594115",
+    "profile_link_color": "1DA1F2",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "has_extended_profile": true,
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": false,
+    "follow_request_sent": false,
+    "notifications": false,
+    "translator_type": "none"
+  },
+  "geo": {
+    "type": "Point",
+    "coordinates": [41.9043067, -1.7204476]
+  },
+  "coordinates": {
+    "type": "Point",
+    "coordinates": [-1.7204476, 41.9043067]
+  },
+  "place": {
+    "id": "bfc3bdab8c4d2070",
+    "url": "https://api.twitter.com/1.1/geo/id/bfc3bdab8c4d2070.json",
+    "place_type": "city",
+    "name": "Tarazona",
+    "full_name": "Tarazona, Espa\u00f1a",
+    "country_code": "ES",
+    "country": "Espa\u00f1a",
+    "contained_within": [],
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [[-1.863827, 41.7777312], [-1.5767393, 41.7777312], [-1.5767393, 42.007758], [-1.863827, 42.007758]]
+      ]
+    },
+    "attributes": {}
+  },
+  "contributors": null,
+  "is_quote_status": false,
+  "retweet_count": 0,
+  "favorite_count": 0,
+  "favorited": false,
+  "retweeted": false,
+  "lang": "es"
+}

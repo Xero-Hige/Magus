@@ -1,0 +1,133 @@
+{
+  "extended_tweet": {
+    "display_text_range": [29, 152],
+    "entities": {
+      "urls": [],
+      "symbols": [],
+      "hashtags": [],
+      "user_mentions": [
+        {
+          "indices": [0, 16],
+          "name": "Pitu Albarellos",
+          "id_str": "399059884",
+          "screen_name": "pitu_albarellos",
+          "id": 399059884
+        }, {
+          "indices": [17, 28],
+          "name": "Fer Gonz\u00e1lez Gonzo",
+          "id_str": "220047267",
+          "screen_name": "a_lo_gonzo",
+          "id": 220047267
+        }
+      ]
+    },
+    "full_text": "@pitu_albarellos @a_lo_gonzo A mii me pasa lo mismo. Trato de llegar a Puentevedra pero no encuentro ning\u00fan indicador. Todos est\u00e1n en dialecto gallego:)"
+  },
+  "favorited": false,
+  "lang": "es",
+  "display_text_range": [29, 140],
+  "favorite_count": 0,
+  "reply_count": 0,
+  "geo": null,
+  "contributors": null,
+  "text": "@pitu_albarellos @a_lo_gonzo A mii me pasa lo mismo. Trato de llegar a Puentevedra pero no encuentro ning\u00fan indicad\u2026 https://t.co/oCyXQeOuyj",
+  "created_at": "Wed Nov 15 15:17:56 +0000 2017",
+  "place": {
+    "place_type": "city",
+    "full_name": "Santiago de Compostela, Espa\u00f1a",
+    "country": "Espa\u00f1a",
+    "name": "Santiago de Compostela",
+    "url": "https://api.twitter.com/1.1/geo/id/1115004c3fafaf8a.json",
+    "country_code": "ES",
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [[[-8.632309, 42.82373], [-8.632309, 42.990113], [-8.389983, 42.990113], [-8.389983, 42.82373]]]
+    },
+    "id": "1115004c3fafaf8a",
+    "attributes": {}
+  },
+  "user": {
+    "profile_text_color": "333333",
+    "lang": "es",
+    "location": "Pontevedra, Pasar\u00f3n.",
+    "friends_count": 600,
+    "profile_link_color": "0084B4",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/915229752759287808/6ek2RLww_normal.jpg",
+    "contributors_enabled": false,
+    "following": null,
+    "is_translator": false,
+    "verified": false,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/366223820/1507067752",
+    "utc_offset": 3600,
+    "geo_enabled": true,
+    "profile_sidebar_border_color": "FFFFFF",
+    "created_at": "Thu Sep 01 20:01:58 +0000 2011",
+    "description": "Es tan dif\u00edcil no odiarse?",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/915229752759287808/6ek2RLww_normal.jpg",
+    "profile_background_color": "660033",
+    "listed_count": 342,
+    "follow_request_sent": null,
+    "profile_background_tile": true,
+    "followers_count": 14056,
+    "name": "Xabier Fortes",
+    "notifications": null,
+    "default_profile_image": false,
+    "url": "http://www.xabierfortes.com",
+    "favourites_count": 5544,
+    "screen_name": "xabierfortes",
+    "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/461612992270827520/t9RsTl92.png",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_use_background_image": true,
+    "translator_type": "none",
+    "time_zone": "Madrid",
+    "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/461612992270827520/t9RsTl92.png",
+    "statuses_count": 16870,
+    "id": 366223820,
+    "default_profile": false,
+    "protected": false,
+    "id_str": "366223820"
+  },
+  "in_reply_to_user_id_str": "399059884",
+  "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+  "filter_level": "low",
+  "is_quote_status": false,
+  "in_reply_to_status_id": 930738868424503296,
+  "in_reply_to_user_id": 399059884,
+  "quote_count": 0,
+  "retweeted": false,
+  "in_reply_to_screen_name": "pitu_albarellos",
+  "retweet_count": 0,
+  "in_reply_to_status_id_str": "930738868424503296",
+  "coordinates": null,
+  "id": 930817148284559360,
+  "truncated": true,
+  "entities": {
+    "urls": [
+      {
+        "url": "https://t.co/oCyXQeOuyj",
+        "display_url": "twitter.com/i/web/status/9\u2026",
+        "indices": [117, 140],
+        "expanded_url": "https://twitter.com/i/web/status/930817148284559360"
+      }
+    ],
+    "symbols": [],
+    "hashtags": [],
+    "user_mentions": [
+      {
+        "indices": [0, 16],
+        "name": "Pitu Albarellos",
+        "id_str": "399059884",
+        "screen_name": "pitu_albarellos",
+        "id": 399059884
+      }, {
+        "indices": [17, 28],
+        "name": "Fer Gonz\u00e1lez Gonzo",
+        "id_str": "220047267",
+        "screen_name": "a_lo_gonzo",
+        "id": 220047267
+      }
+    ]
+  },
+  "timestamp_ms": "1510759076554",
+  "id_str": "930817148284559360"
+}

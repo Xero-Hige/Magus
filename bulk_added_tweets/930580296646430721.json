@@ -1,0 +1,136 @@
+{
+  "geo": null,
+  "filter_level": "low",
+  "in_reply_to_status_id": null,
+  "lang": "es",
+  "favorite_count": 0,
+  "coordinates": null,
+  "favorited": false,
+  "place": {
+    "name": "Puebla",
+    "full_name": "Puebla, M\u00e9xico",
+    "place_type": "city",
+    "country": "M\u00e9xico",
+    "id": "0ac8a42f23e8f736",
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [[-98.289206, 18.83765], [-98.289206, 19.226809], [-98.019327, 19.226809], [-98.019327, 18.83765]]
+      ]
+    },
+    "attributes": {},
+    "url": "https://api.twitter.com/1.1/geo/id/0ac8a42f23e8f736.json",
+    "country_code": "MX"
+  },
+  "contributors": null,
+  "entities": {
+    "hashtags": [
+      {
+        "text": "UltimaHora",
+        "indices": [0, 11]
+      }
+    ],
+    "urls": [
+      {
+        "display_url": "twitter.com/i/web/status/9\u2026",
+        "expanded_url": "https://twitter.com/i/web/status/930580296646430721",
+        "url": "https://t.co/v1oDD6slCh",
+        "indices": [117, 140]
+      }
+    ],
+    "symbols": [],
+    "user_mentions": []
+  },
+  "id": 930580296646430721,
+  "user": {
+    "followers_count": 313622,
+    "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/715523851/0ca9714559729175ec83d3f929b3204c.jpeg",
+    "profile_background_color": "032540",
+    "translator_type": "none",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/927305299978993664/6S7CGvxo_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/236602067/1509921968",
+    "default_profile": false,
+    "utc_offset": -21600,
+    "lang": "es",
+    "url": "http://www.elsoldepuebla.com.mx",
+    "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/715523851/0ca9714559729175ec83d3f929b3204c.jpeg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/927305299978993664/6S7CGvxo_normal.jpg",
+    "time_zone": "Mexico City",
+    "profile_sidebar_border_color": "000000",
+    "profile_use_background_image": true,
+    "id": 236602067,
+    "profile_link_color": "0E66C4",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_background_tile": false,
+    "geo_enabled": true,
+    "id_str": "236602067",
+    "verified": false,
+    "name": "El Sol de Puebla",
+    "is_translator": false,
+    "notifications": null,
+    "following": null,
+    "friends_count": 200,
+    "contributors_enabled": false,
+    "screen_name": "elsoldepuebla1",
+    "created_at": "Mon Jan 10 23:46:40 +0000 2011",
+    "profile_text_color": "333333",
+    "favourites_count": 616,
+    "follow_request_sent": null,
+    "description": "Somos el peri\u00f3dico de mayor presencia en Puebla. http://elsoldepuebla.com.mx       Fundado el 5 de Mayo de 1944. Noticias. Formamos parte de @oemenlinea",
+    "default_profile_image": false,
+    "location": "Puebla, Puebla, M\u00e9xico",
+    "listed_count": 605,
+    "protected": false,
+    "statuses_count": 189584
+  },
+  "id_str": "930580296646430721",
+  "retweet_count": 0,
+  "retweeted": false,
+  "quote_count": 0,
+  "truncated": true,
+  "in_reply_to_status_id_str": null,
+  "reply_count": 0,
+  "created_at": "Tue Nov 14 23:36:46 +0000 2017",
+  "is_quote_status": false,
+  "in_reply_to_user_id": null,
+  "timestamp_ms": "1510702606723",
+  "text": "#UltimaHora Rescatan a una mujer privada de su libertad en la autopista M\u00e9xico - Tuxpan. Participaron polic\u00edas de V\u2026 https://t.co/v1oDD6slCh",
+  "extended_tweet": {
+    "full_text": "#UltimaHora Rescatan a una mujer privada de su libertad en la autopista M\u00e9xico - Tuxpan. Participaron polic\u00edas de Venustiano Carranza, @SSP_Puebla, @PoliciaFedMx y elementos de la @SEDENAmx.",
+    "display_text_range": [0, 190],
+    "entities": {
+      "hashtags": [
+        {
+          "text": "UltimaHora",
+          "indices": [0, 11]
+        }
+      ],
+      "urls": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "id": 278619813,
+          "id_str": "278619813",
+          "name": "Seguridad P\u00fablica",
+          "indices": [135, 146],
+          "screen_name": "SSP_Puebla"
+        }, {
+          "id": 1262904818,
+          "id_str": "1262904818",
+          "name": "Polic\u00eda Federal Mx",
+          "indices": [148, 161],
+          "screen_name": "PoliciaFedMx"
+        }, {
+          "id": 121165363,
+          "id_str": "121165363",
+          "name": "SEDENA M\u00e9xico",
+          "indices": [180, 189],
+          "screen_name": "SEDENAmx"
+        }
+      ]
+    }
+  },
+  "in_reply_to_user_id_str": null,
+  "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+  "in_reply_to_screen_name": null
+}

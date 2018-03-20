@@ -1,0 +1,123 @@
+{
+  "extended_tweet": {
+    "display_text_range": [14, 292],
+    "entities": {
+      "urls": [],
+      "symbols": [],
+      "hashtags": [],
+      "user_mentions": [
+        {
+          "indices": [0, 13],
+          "name": "Natalia Melendez",
+          "id_str": "346670319",
+          "screen_name": "Natmelendez5",
+          "id": 346670319
+        }
+      ]
+    },
+    "full_text": "@Natmelendez5 Es un equipo que si la ofensiva no le funciona la defensa si y eso es lo que los hace ganar. Ya Morris est\u00e1 engranando y todos sabemos que no es estrella pero las mete y defiende. Ese equipo con el coach que tiene va para mucho este a\u00f1o. Ma\u00f1ana veremos un preview de lo que hay."
+  },
+  "favorited": false,
+  "lang": "es",
+  "display_text_range": [14, 140],
+  "favorite_count": 0,
+  "reply_count": 0,
+  "geo": null,
+  "contributors": null,
+  "text": "@Natmelendez5 Es un equipo que si la ofensiva no le funciona la defensa si y eso es lo que los hace ganar. Ya Morri\u2026 https://t.co/igdIHnTzfW",
+  "created_at": "Wed Nov 15 16:36:43 +0000 2017",
+  "place": {
+    "place_type": "city",
+    "full_name": "Hartford, CT",
+    "country": "Estados Unidos",
+    "name": "Hartford",
+    "url": "https://api.twitter.com/1.1/geo/id/61c225139f635563.json",
+    "country_code": "US",
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [[-72.718386, 41.723759], [-72.718386, 41.807475], [-72.643547, 41.807475], [-72.643547, 41.723759]]
+      ]
+    },
+    "id": "61c225139f635563",
+    "attributes": {}
+  },
+  "user": {
+    "profile_text_color": "333333",
+    "lang": "es",
+    "location": "Connecticut, USA",
+    "friends_count": 1013,
+    "profile_link_color": "009999",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/821411791729291265/B2atwmlO_normal.jpg",
+    "contributors_enabled": false,
+    "following": null,
+    "is_translator": false,
+    "verified": false,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/535442368/1499267702",
+    "utc_offset": -25200,
+    "geo_enabled": true,
+    "profile_sidebar_border_color": "FFFFFF",
+    "created_at": "Sat Mar 24 15:30:41 +0000 2012",
+    "description": "Aqui hablando un poco de baloncesto DESDE PUERTO RICO. Esta cuenta no es OFICIAL del EN.",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/821411791729291265/B2atwmlO_normal.jpg",
+    "profile_background_color": "131516",
+    "listed_count": 68,
+    "follow_request_sent": null,
+    "profile_background_tile": false,
+    "followers_count": 3863,
+    "name": "Basket PR",
+    "notifications": null,
+    "default_profile_image": false,
+    "url": "http://www.basketpr.com",
+    "favourites_count": 1040,
+    "screen_name": "basketpr",
+    "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/714999372/f46b012c2edd479aca6fd073cc517a4a.jpeg",
+    "profile_sidebar_fill_color": "EFEFEF",
+    "profile_use_background_image": true,
+    "translator_type": "none",
+    "time_zone": "Arizona",
+    "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/714999372/f46b012c2edd479aca6fd073cc517a4a.jpeg",
+    "statuses_count": 57645,
+    "id": 535442368,
+    "default_profile": false,
+    "protected": false,
+    "id_str": "535442368"
+  },
+  "in_reply_to_user_id_str": "346670319",
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "filter_level": "low",
+  "is_quote_status": false,
+  "in_reply_to_status_id": 930826508461060096,
+  "in_reply_to_user_id": 346670319,
+  "quote_count": 0,
+  "retweeted": false,
+  "in_reply_to_screen_name": "Natmelendez5",
+  "retweet_count": 0,
+  "in_reply_to_status_id_str": "930826508461060096",
+  "coordinates": null,
+  "id": 930836972595306496,
+  "truncated": true,
+  "entities": {
+    "urls": [
+      {
+        "url": "https://t.co/igdIHnTzfW",
+        "display_url": "twitter.com/i/web/status/9\u2026",
+        "indices": [117, 140],
+        "expanded_url": "https://twitter.com/i/web/status/930836972595306496"
+      }
+    ],
+    "symbols": [],
+    "hashtags": [],
+    "user_mentions": [
+      {
+        "indices": [0, 13],
+        "name": "Natalia Melendez",
+        "id_str": "346670319",
+        "screen_name": "Natmelendez5",
+        "id": 346670319
+      }
+    ]
+  },
+  "timestamp_ms": "1510763803038",
+  "id_str": "930836972595306496"
+}

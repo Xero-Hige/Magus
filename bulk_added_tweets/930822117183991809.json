@@ -1,0 +1,122 @@
+{
+  "extended_tweet": {
+    "display_text_range": [15, 254],
+    "entities": {
+      "urls": [],
+      "symbols": [],
+      "hashtags": [],
+      "user_mentions": [
+        {
+          "indices": [0, 14],
+          "name": "Diego Golombek",
+          "id_str": "575885116",
+          "screen_name": "DiegoGolombek",
+          "id": 575885116
+        }
+      ]
+    },
+    "full_text": "@DiegoGolombek En la puerta de mi casa hab\u00eda uno, lo sacaron porque estaba podrido desde adentro y no pusieron ninguno mas. una pena, extra\u00f1o esas flores tan hermosas que  ensuciaban la vereda y te pegabas  patinadas gloriosas cuando  llov\u00eda. Eran lindas"
+  },
+  "favorited": false,
+  "lang": "es",
+  "display_text_range": [15, 140],
+  "favorite_count": 0,
+  "reply_count": 0,
+  "geo": null,
+  "contributors": null,
+  "text": "@DiegoGolombek En la puerta de mi casa hab\u00eda uno, lo sacaron porque estaba podrido desde adentro y no pusieron ning\u2026 https://t.co/NtIlNifu0K",
+  "created_at": "Wed Nov 15 15:37:41 +0000 2017",
+  "place": {
+    "place_type": "city",
+    "full_name": "Ciudad Aut\u00f3noma de Buenos Aires, Argentina",
+    "country": "Argentina",
+    "name": "Ciudad Aut\u00f3noma de Buenos Aires",
+    "url": "https://api.twitter.com/1.1/geo/id/018f1cde6bad9747.json",
+    "country_code": "AR",
+    "bounding_box": {
+      "type": "Polygon",
+      "coordinates": [
+        [[-58.531792, -34.674453], [-58.531792, -34.534177], [-58.353494, -34.534177], [-58.353494, -34.674453]]
+      ]
+    },
+    "id": "018f1cde6bad9747",
+    "attributes": {}
+  },
+  "user": {
+    "profile_text_color": "000000",
+    "lang": "es",
+    "location": null,
+    "friends_count": 225,
+    "profile_link_color": "89C9FA",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/899758066442403841/f9_i4cAa_normal.jpg",
+    "contributors_enabled": false,
+    "following": null,
+    "is_translator": false,
+    "verified": false,
+    "utc_offset": null,
+    "geo_enabled": true,
+    "profile_sidebar_border_color": "000000",
+    "created_at": "Tue May 25 13:28:40 +0000 2010",
+    "description": null,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/899758066442403841/f9_i4cAa_normal.jpg",
+    "profile_background_color": "000000",
+    "listed_count": 3,
+    "follow_request_sent": null,
+    "profile_background_tile": false,
+    "followers_count": 134,
+    "name": "Sitarki",
+    "notifications": null,
+    "default_profile_image": false,
+    "url": null,
+    "favourites_count": 5052,
+    "screen_name": "AliciaSoe",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_sidebar_fill_color": "000000",
+    "profile_use_background_image": false,
+    "translator_type": "none",
+    "time_zone": null,
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "statuses_count": 13830,
+    "id": 147954815,
+    "default_profile": false,
+    "protected": false,
+    "id_str": "147954815"
+  },
+  "in_reply_to_user_id_str": "575885116",
+  "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+  "filter_level": "low",
+  "is_quote_status": false,
+  "in_reply_to_status_id": 930731078968541184,
+  "in_reply_to_user_id": 575885116,
+  "quote_count": 0,
+  "retweeted": false,
+  "in_reply_to_screen_name": "DiegoGolombek",
+  "retweet_count": 0,
+  "in_reply_to_status_id_str": "930731078968541184",
+  "coordinates": null,
+  "id": 930822117183991809,
+  "truncated": true,
+  "entities": {
+    "urls": [
+      {
+        "url": "https://t.co/NtIlNifu0K",
+        "display_url": "twitter.com/i/web/status/9\u2026",
+        "indices": [117, 140],
+        "expanded_url": "https://twitter.com/i/web/status/930822117183991809"
+      }
+    ],
+    "symbols": [],
+    "hashtags": [],
+    "user_mentions": [
+      {
+        "indices": [0, 14],
+        "name": "Diego Golombek",
+        "id_str": "575885116",
+        "screen_name": "DiegoGolombek",
+        "id": 575885116
+      }
+    ]
+  },
+  "timestamp_ms": "1510760261232",
+  "id_str": "930822117183991809"
+}
