@@ -33,5 +33,5 @@
     "raw_chars": "raw_chars_embeddings"
   },
   "enabled_emotions": ["Joy", "Fear", "Sadness", "Anger", "Neutral"],
-  "tweets_dirs": ["tweetz", "database"]
+  "tweets_dirs": ["tweets_english_corpus", "tweets_spanish_corpus", "user_added_tweets", "database"]
 }
