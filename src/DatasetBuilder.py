@@ -4,6 +4,8 @@ import numpy as np
 
 from morgana_cnn_schema import MorganaCNNSchema
 
+SLICE = 50
+
 
 def get_train_data():
     print("Loading data...")
@@ -11,7 +13,7 @@ def get_train_data():
 
     x = x_text
 
-    np.random.seed(15)
+    np.random.seed(97)
     shuffle_indices = np.random.permutation(np.arange(len(y)))
     x_shuffled = x[shuffle_indices]
     y_shuffled = y[shuffle_indices]
@@ -20,14 +22,12 @@ def get_train_data():
     x_train, x_dev = x_shuffled[:dev_sample_index], x_shuffled[dev_sample_index:]
     y_train, y_dev = y_shuffled[:dev_sample_index], y_shuffled[dev_sample_index:]
 
-    print("Vocabulary Size: {:d}".format(70))
     print("Train/Dev split: {:d}/{:d}".format(len(x_train), len(x_dev)))
     return x_train, y_train, x_dev, y_dev
 
 
 x_data, y_data, dev_x, dev_y = get_train_data()
 
-SLICE = 50
 
 i = 0
 while i * SLICE < len(x_data):
