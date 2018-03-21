@@ -12,7 +12,7 @@ from tensorflow.python.saved_model import (builder as saved_model_builder, signa
 from tensorflow.python.util import compat
 
 from morgana_cnn_schema import MorganaCNNSchema
-from morgana_config_handler import NUMBER_OF_EMOTIONS
+from morgana_config_handler import ENABLED_EMOTIONS, NUMBER_OF_EMOTIONS
 
 TEST_STEP = 5
 
@@ -288,28 +288,30 @@ def do_test_step(batches, cnn, sess):
             total_accuracy / total_batches, partial / total_batches,
             word / total_batches, char / total_batches, rchar / total_batches))
 
-    print("Fscore Global")
-    total_fscore = 0
-    for label in range(NUMBER_OF_EMOTIONS):
-        f_score = get_f_score_for_label(label, confusion_matrix_global)
-        print("Label: {} - Fscore {}".format(label, f_score))
-        total_fscore += f_score
-    print("Mean Fscore {}".format(total_fscore / NUMBER_OF_EMOTIONS))
-
-    print("Fscore Partial")
-    total_fscore = 0
-    for label in range(NUMBER_OF_EMOTIONS):
-        f_score = get_f_score_for_label(label, confusion_matrix_partial)
-        print("Label: {} - Fscore {}".format(label, f_score))
-        total_fscore += f_score
-    print("Mean Fscore {}".format(total_fscore / NUMBER_OF_EMOTIONS))
-
     with open("test_steps.csv", "a") as log:
         log.write("{},{},{},{},{}\n".format(total_accuracy / total_batches,
                                             partial / total_batches,
                                             word / total_batches,
                                             char / total_batches,
                                             rchar / total_batches))
+
+    calculate_all_f1_scores(confusion_matrix_global, "Global")
+    calculate_all_f1_scores(confusion_matrix_global, "Partial")
+
+
+def calculate_all_f1_scores(confusion_matrix, tag):
+    print("F1 Score {}".format(tag))
+
+    f_scores = [0] * NUMBER_OF_EMOTIONS
+    for label in range(NUMBER_OF_EMOTIONS):
+        f_score = get_f_score_for_label(label, confusion_matrix)
+        print("Label: {} - Fscore {}".format(ENABLED_EMOTIONS[label], f_score))
+        f_scores[label] = f_score
+
+    print("Mean Fscore {}".format(sum(f_scores) / NUMBER_OF_EMOTIONS))
+    with open("{}F1.csv".format(tag), 'a') as output:
+        line = ",".join([str(f_score) for f_score in f_scores]) + "\n"
+        output.write(line)
 
 
 def get_f_score_for_label(label, matrix):
