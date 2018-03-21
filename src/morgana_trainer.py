@@ -261,13 +261,9 @@ def do_test_step(batches, cnn, sess):
             cnn.dropout_keep_prob: 1
         }
 
-        accuracy, predictions, \
-        w_acc, c_acc, r_acc, \
-        partial_acc, partial_pred = sess.run(
-                [cnn.accuracy, cnn.predictions,
-                 cnn.word_accuracy, cnn.char_accuracy, cnn.rchar_accuracy,
-                 cnn.partial_accuracy, cnn.partial_predictions],
-                feed_dict)
+        accuracy, predictions, w_acc, c_acc, r_acc, partial_acc, partial_pred = sess.run(
+                [cnn.accuracy, cnn.predictions, cnn.word_accuracy, cnn.char_accuracy, cnn.rchar_accuracy,
+                 cnn.partial_accuracy, cnn.partial_predictions], feed_dict)
 
         total_batches += 1
         total_accuracy += accuracy
