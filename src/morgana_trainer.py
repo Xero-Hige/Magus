@@ -12,7 +12,7 @@ from tensorflow.python.saved_model import (builder as saved_model_builder, signa
 from tensorflow.python.util import compat
 
 from morgana_cnn_schema import MorganaCNNSchema
-from morgana_config_handler import ENABLED_EMOTIONS, NUMBER_OF_EMOTIONS
+from morgana_config_handler import ENABLED_EMOTIONS, NUMBER_OF_EMOTIONS, TRAIN_DATA_FOLDER
 
 TEST_STEP = 5
 
@@ -179,9 +179,9 @@ def store_servable_model(model_name, session, model, model_version):
 def load_batch_files():
     """Loads the list of aviable batchs for both training and testing.
     Returns firts the list of paths to train batches, and second the list to test batches"""
-    batch_files = os.listdir("/media/hige/320/train_data/")
-    train_batches = ["/media/hige/320/train_data/" + x for x in batch_files if "train_batch" in x]
-    test_batches = ["/media/hige/320/train_data/" + x for x in batch_files if "test_batch" in x]
+    batch_files = os.listdir(TRAIN_DATA_FOLDER)
+    train_batches = [os.path.join(TRAIN_DATA_FOLDER, x) for x in batch_files if "train_batch" in x]
+    test_batches = [os.path.join(TRAIN_DATA_FOLDER, x) for x in batch_files if "test_batch" in x]
     return train_batches, test_batches
 
 
