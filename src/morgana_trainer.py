@@ -292,7 +292,7 @@ def do_test_step(batches, cnn, sess):
                                             rchar / total_batches))
 
     calculate_all_f1_scores(confusion_matrix_global, "Global")
-    calculate_all_f1_scores(confusion_matrix_global, "Partial")
+    calculate_all_f1_scores(confusion_matrix_partial, "Partial")
 
 
 def calculate_all_f1_scores(confusion_matrix, tag):
