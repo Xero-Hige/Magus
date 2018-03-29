@@ -1,7 +1,7 @@
 {% include 'head.html' %}
 
 <nav id="menu"></nav>
-<div id="map_container" style="width: 100%">
+<div id="map_container" style="width: 100%;min-height: 75%">
     <nav id='filter-group-categoria' class='filter-group' style='top: 4em;'></nav>
     <!--
     <div class="side-by-side clearfix"
@@ -9,7 +9,7 @@
                 display: block;cursor: pointer;padding: 5px;width:0px">
             </div> -->
     <nav class="filter-group" id='filter-rating' style='top:32em'></nav>
-    <div id='map'></div>
+    <div id='map' style="height: 100%;width: 100%;"></div>
 </div>
 
 {% include 'foot.html' %}
