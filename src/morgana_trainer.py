@@ -49,7 +49,7 @@ def main(_):
     char_trainer = tf.train.AdamOptimizer(1e-3).minimize(cnn.char_loss, var_list=train_vars)
 
     # Raw Chars trainer (trains only rchar stream variables)
-    train_vars = tf.get_collection(tf.GraphKeys.TRAINABLE_VARIABLES, "rchar_stream")
+    train_vars = tf.get_collection(tf.GraphKeys.TRAINABLE_VARIABLES, "raw_char_stream")
     rchar_trainer = tf.train.AdamOptimizer(1e-3).minimize(cnn.rchar_loss, var_list=train_vars)
 
     tf.global_variables_initializer().run()
