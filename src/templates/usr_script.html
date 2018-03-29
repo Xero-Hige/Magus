@@ -1,0 +1,466 @@
+<script>
+    //PubNub init
+    var pubnub = new PubNub({
+        subscribeKey: '{{subscribe_key}}',
+        publishKey: '{{publish_key}}',
+        ssl: true
+    });
+
+    pubnub.subscribe({
+        channels: ['Joy', 'Sadness', 'Anger', 'Fear']
+    });
+
+    //Mapbox init
+    mapboxgl.accessToken = '{{map_access_token}}';
+    var map = new mapboxgl.Map({
+        container: 'map',
+        style: 'mapbox://styles/mapbox/light-v9',
+        center: [-58, -34],
+        zoom: 3
+    });
+
+    map.on('load', function () {
+        map.addSource('happy', {
+            "type": "geojson",
+            "data": happy_buffer,
+            buffer: 0
+        });
+
+        map.addSource('sad', {
+            "type": "geojson",
+            "data": sad_buffer,
+            buffer: 0
+        });
+
+        map.addSource('anger', {
+            "type": "geojson",
+            "data": angry_buffer,
+            buffer: 0
+        });
+
+        map.addSource('fear', {
+            "type": "geojson",
+            "data": fear_buffer,
+            buffer: 0
+        });
+
+        map.addControl(new mapboxgl.NavigationControl());
+
+        map.addLayer({
+            "id": "Happy",
+            "type": "heatmap",
+            "source": "happy",
+            "layout": {
+                'visibility': 'visible'
+            },
+            "paint": {
+                "heatmap-intensity": {
+                    "stops": [
+                        [8, 1],
+                        [15, 3]
+                    ]
+                },
+                "heatmap-color": [
+                    "interpolate",
+                    ["linear"],
+                    ["heatmap-density"],
+                    0, "rgba(0,100,0,25)",
+                    0.2, "rgba(34,139,34,50)",
+                    0.4, "rgba(50,205,50,100)",
+                    0.6, "rgba(0,255,0,150)",
+                    0.8, "rgba(127,255,0,200)",
+                    1, "rgba(173,255,47,255)"
+                ],
+                "heatmap-radius": {
+                    "stops": [
+                        [0, 7],
+                        [15, 20]
+                    ]
+                },
+                "heatmap-opacity": {
+                    "default": 0.70,
+                    "stops": [
+                        [0, 0.75],
+                        [15, 0.35]
+                    ]
+                }
+            }
+        }, 'waterway-label');
+        map.addLayer({
+            "id": "Sad",
+            "type": "heatmap",
+            "source": "sad",
+            "layout": {
+                'visibility': 'visible'
+            },
+            "paint": {
+                "heatmap-intensity": {
+                    "stops": [
+                        [8, 1],
+                        [15, 3]
+                    ]
+                },
+                "heatmap-color": [
+                    "interpolate",
+                    ["linear"],
+                    ["heatmap-density"],
+                    0, "rgba(0,0,128,25)",
+                    0.2, "rgba(0,0,205,50)",
+                    0.4, "rgba(0,0,255,100)",
+                    0.6, "rgba(65,105,225,150)",
+                    0.8, "rgba(30,144,255,200)",
+                    1, "rgba(0,191,255,255)"
+                ],
+                "heatmap-radius": {
+                    "stops": [
+                        [0, 7],
+                        [15, 20]
+                    ]
+                },
+                "heatmap-opacity": {
+                    "default": 0.70,
+                    "stops": [
+                        [0, 0.75],
+                        [15, 0.35]
+                    ]
+
+                }
+            }
+        }, 'waterway-label');
+        map.addLayer({
+            "id": "Anger",
+            "type": "heatmap",
+            "source": "anger",
+            "layout": {
+                'visibility': 'visible'
+            },
+            "paint": {
+                "heatmap-intensity": {
+                    "stops": [
+                        [8, 1],
+                        [15, 3]
+                    ]
+                },
+                "heatmap-color": [
+                    "interpolate",
+                    ["linear"],
+                    ["heatmap-density"],
+                    0, "rgba(128,0,0,25)",
+                    0.2, "rgba(139,0,0,50)",
+                    0.4, "rgba(178,34,34,50)",
+                    0.6, "rgba(220,20,60,50)",
+                    0.8, "rgba(255,0,0,50)",
+                    1, "rgba(255,69,0,50)"
+                ],
+                "heatmap-radius": {
+                    "stops": [
+                        [0, 7],
+                        [15, 20]
+                    ]
+                },
+                "heatmap-opacity": {
+                    "default": 0.70,
+                    "stops": [
+                        [0, 0.75],
+                        [15, 0.35]
+                    ]
+                }
+            }
+        }, 'waterway-label');
+        map.addLayer({
+            "id": "Fear",
+            "type": "heatmap",
+            "source": "fear",
+            "layout": {
+                'visibility': 'visible'
+            },
+            "paint": {
+                "heatmap-intensity": {
+                    "stops": [
+                        [8, 1],
+                        [15, 3]
+                    ]
+                },
+                "heatmap-color": [
+                    "interpolate",
+                    ["linear"],
+                    ["heatmap-density"],
+                    0, "rgba(75,0,130,25)",
+                    0.2, "rgba(128,0,128,50)",
+                    0.4, "rgba(139,0,139,50)",
+                    0.6, "rgba(148,0,211,50)",
+                    0.8, "rgba(186,85,211,50)",
+                    1, "rgba(238,130,238,50)"
+                ],
+                "heatmap-radius": {
+                    "stops": [
+                        [10, 10],
+                        [15, 20]
+                    ]
+                },
+                "heatmap-opacity": {
+                    "default": 0.70,
+                    "stops": [
+                        [0, 0.75],
+                        [15, 0.35]
+                    ]
+                }
+            }
+        }, 'waterway-label');
+
+
+        /*map.addLayer({
+         "id": "observations-point",
+         "type": "circle",
+         "source": "observations",
+         "minzoom": 10,
+         "paint": {
+         "circle-color": {
+         "property": "category",
+         "type": "categorical",
+         "stops": [
+         ['aberturas', 'red'],
+         ['vidrieria', 'green'],
+         ['constructora', '#72a0e5'],
+         ['arquitecto', 'purple'],
+         ['carpinteria metalurgica', 'black'],
+         ['carpinteria de aluminio', 'gray'],
+         ['carpinteria de plastico', '#98FB98']
+         ]
+         },
+         "circle-stroke-color": "white",
+         "circle-stroke-width": 1,
+         "circle-opacity": {
+         "stops": [
+         [7, 0],
+         [8, 1]
+         ]
+         },
+         'circle-radius': {
+         property: 'rating',
+         type: 'interval',
+         stops: [
+         [1, 2],
+         [2, 4],
+         [3, 6],
+         [4, 8],
+         [5, 10],
+         [6, 12],
+         [7, 14]
+         ]
+         },
+         }
+         }, 'waterway-label');
+
+         map.setFilter('observations-point', filterCategoria);
+
+         var filterGroupCategoria = document.getElementById('filter-group-categoria');
+
+         function agregar_opcion_filtro(filter_group, opt_name) {
+         var inputNew = document.createElement('input');
+         inputNew.type = 'checkbox';
+         inputNew.id = opt_name.replace(/ /g, "-");
+         inputNew.checked = true;
+         filter_group.appendChild(inputNew);
+
+         var labelNew = document.createElement('label');
+         labelNew.setAttribute('for', opt_name.replace(/ /g, "-"));
+         labelNew.textContent = opt_name;
+         filter_group.appendChild(labelNew);
+
+         inputNew.addEventListener('change', function (e) {
+         map.setFilter('observations-point', null);
+         map.setFilter('observations-heat', null);
+         h[opt_name] = inputNew.checked;
+         filterCategoria = construct_filter(h);
+         map.setFilter('observations-point', filterCategoria);
+         map.setFilter('observations-heat', filterCategoria);
+         });
+         }
+
+         agregar_opcion_filtro(filterGroupCategoria, 'cat1');
+         agregar_opcion_filtro(filterGroupCategoria, 'cat2');
+         agregar_opcion_filtro(filterGroupCategoria, 'cat3');
+         agregar_opcion_filtro(filterGroupCategoria, 'cat4');
+         agregar_opcion_filtro(filterGroupCategoria, 'cat5');
+         agregar_opcion_filtro(filterGroupCategoria, 'cat6');
+         agregar_opcion_filtro(filterGroupCategoria, 'cat7');
+         */
+
+        var filterRating = document.getElementById('filter-rating');
+        var inputRating = document.createElement('input');
+        inputRating.type = 'text';
+        inputRating.name = "rating";
+        inputRating.id = "rating-slider";
+        filterRating.appendChild(inputRating);
+
+        $("#rating-slider").slider({
+            step: 1,
+            min: 1,
+            max: 7,
+            orientation: 'vertical',
+            tooltip_position: 'right',
+            value: 1,
+            reversed: true
+        });
+
+        $('#rating-slider').on('slide', function (ev, picker) {
+            map.setFilter('observations-point', null);
+            map.setFilter('observations-heat', null);
+            filterCategoria = construct_filter(h, ev.value);
+            map.setFilter('observations-point', filterCategoria);
+            map.setFilter('observations-heat', filterCategoria);
+            console.log(ev.value);
+            console.log(filterCategoria);
+        });
+
+        var popup = new mapboxgl.Popup({
+            closeButton: false,
+            closeOnClick: false
+        });
+
+        /*map.on('mouseenter', 'observations-point', function (e) {
+         map.getCanvas().style.cursor = 'pointer';
+
+         popup.setLngLat(e.features[0].geometry.coordinates)
+         .setHTML(e.features[0].properties.category + " - " + e.features[0].properties.name)
+         .addTo(map);
+         });
+
+         map.on('mouseleave', 'observations-point', function () {
+         map.getCanvas().style.cursor = '';
+         popup.remove();
+         });*/
+
+    });
+
+
+    //Buffers
+    let happy_buffer = {
+        "type": "FeatureCollection",
+        "features": []
+    };
+    let sad_buffer = {
+        "type": "FeatureCollection",
+        "features": []
+    };
+    let angry_buffer = {
+        "type": "FeatureCollection",
+        "features": []
+    };
+    let fear_buffer = {
+        "type": "FeatureCollection",
+        "features": []
+    };
+
+    //PubNub callback
+    pubnub.addListener({
+        message: function (m) {
+            var channel = m.channel;
+
+            let feature = {
+                "type": "Feature",
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [m.message.lat, m.message.long]
+                }
+            };
+
+            if (channel === "Joy") {
+                happy_buffer.features.push(feature);
+                while (happy_buffer.length > {{buffer_max_size}}) {
+                    happy_buffer.shift();
+                }
+                try {
+                    map.getSource("happy").setData(happy_buffer);
+                } catch (err) { //Needed because there is a race condition that breaks this
+                    console.log("Not posted");
+                }
+            } else if (channel === "Sadness") {
+                sad_buffer.features.push(feature);
+                while (sad_buffer.length > {{buffer_max_size}}) {
+                    sad_buffer.shift();
+                }
+                try {
+                    map.getSource("sad").setData(sad_buffer);
+                } catch (err) { //Needed because there is a race condition that breaks this
+                    console.log("Not posted");
+                }
+            } else if (channel === "Anger") {
+                angry_buffer.features.push(feature);
+                while (angry_buffer.length > {{buffer_max_size}}) {
+                    angry_buffer.shift();
+                }
+                try {
+                    map.getSource("anger").setData(angry_buffer);
+                } catch (err) { //Needed because there is a race condition that breaks this
+                    console.log("Not posted");
+                }
+            } else if (channel === "Fear") {
+                fear_buffer.features.push(feature);
+                while (fear_buffer.length > {{buffer_max_size}}) {
+                    fear_buffer.shift();
+                }
+                try {
+                    map.getSource("fear").setData(fear_buffer);
+                } catch (err) { //Needed because there is a race condition that breaks this
+                    console.log("Not posted");
+                }
+            }
+
+            console.log("New point at: ", channel);
+        }
+    });
+
+
+    h = {'cat1': true, 'cat2': true, 'cat3': true, 'cat4': true, 'cat5': true, 'cat6': true, 'cat7': true};
+
+    /*function construct_filter(h, r_t=1) {
+     v = ["any"]
+     if (h["cat1"]) v.push(["==", "category", "cat1"]);
+     if (h["cat2"]) v.push(["==", "category", "cat2"]);
+     if (h["cat3"]) v.push(["==", "category", "cat3"]);
+     if (h["cat4"]) v.push(["==", "category", "cat4"]);
+     if (h["cat5"]) v.push(["==", "category", "cat5"]);
+     if (h["cat6"]) v.push(["==", "category", "cat6"]);
+     if (h["cat7"]) v.push(["==", "category", "cat7"]);
+     v_ = ["all", v]
+     v_.push([">=", "score", r_t]);
+     return v_;
+     }
+
+     var filterCategoria = construct_filter(h);
+     */
+
+
+    var toggleableLayerIds = ['Happy', 'Anger', 'Sad', 'Fear'];
+
+    for (var i = 0; i < toggleableLayerIds.length; i++) {
+        var id = toggleableLayerIds[i];
+
+        var link = document.createElement('a');
+        link.href = '#';
+        link.className = 'active';
+        link.textContent = id;
+
+        link.onclick = function (e) {
+            var clickedLayer = this.textContent;
+            e.preventDefault();
+            e.stopPropagation();
+
+            var visibility = map.getLayoutProperty(clickedLayer, 'visibility');
+
+            if (visibility === 'visible') {
+                map.setLayoutProperty(clickedLayer, 'visibility', 'none');
+                this.className = '';
+            } else {
+                this.className = 'active';
+                map.setLayoutProperty(clickedLayer, 'visibility', 'visible');
+            }
+        };
+
+        var layers = document.getElementById('menu');
+        layers.appendChild(link);
+    }
+
+</script>
