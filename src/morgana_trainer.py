@@ -35,13 +35,10 @@ def main(_):
     ###
     # Trainers
     ###
-    # Global trainer (trains only global stream variables)
-    train_vars = tf.get_collection(tf.GraphKeys.TRAINABLE_VARIABLES, "global")
-    global_trainer = tf.train.AdamOptimizer(1e-3).minimize(cnn.loss, var_list=train_vars)
 
-    # Partial trainer (trains only partial stream variables)
-    train_vars = tf.get_collection(tf.GraphKeys.TRAINABLE_VARIABLES, "partial")
-    partial_trainer = tf.train.AdamOptimizer(1e-3).minimize(cnn.partial_loss, var_list=train_vars)
+    # Output trainer (trains only output stream variables)
+    train_vars = tf.get_collection(tf.GraphKeys.TRAINABLE_VARIABLES, "output")
+    partial_trainer = tf.train.AdamOptimizer(1e-3).minimize(cnn.output_loss, var_list=train_vars)
 
     # Words trainer (trains only words stream variables)
     train_vars = tf.get_collection(tf.GraphKeys.TRAINABLE_VARIABLES, "words_stream")
@@ -111,21 +108,12 @@ def main(_):
                                                   iteration_slice_start=iteration_slice_start,
                                                   iteration_slice_end=iteration_slice_end)
 
-            # Trains the lasts streams if any of the first streams reached the minimun accuracy at train
+            # Trains the last stream if any of the first streams reached the minimun accuracy at train
             if acc_word > MIN_STREAM_ACC or acc_char > MIN_STREAM_ACC or acc_rchar > MIN_STREAM_ACC:
-
-                # Trains the full net, only some iteration
-                acc_global, loss_global = do_train_step(train_batches, cnn, epoch, model_name, checkpoint_saver,
-                                                        session,
-                                                        global_trainer, cnn.loss, cnn.accuracy,
-                                                        name="Global",
-                                                        start_iteration=iteration,
-                                                        iteration_slice_start=iteration_slice_start,
-                                                        iteration_slice_end=iteration_slice_end)
 
                 acc_partial, loss_partial = do_train_step(train_batches, cnn, epoch, model_name, checkpoint_saver,
                                                           session,
-                                                          partial_trainer, cnn.partial_loss, cnn.partial_accuracy,
+                                                          partial_trainer, cnn.output_loss, cnn.output_accuracy,
                                                           name="Partial",
                                                           start_iteration=iteration,
                                                           iteration_slice_start=iteration_slice_start,
@@ -179,7 +167,8 @@ def store_servable_model(model_name, session, model, model_version):
                     "chars": classification_inputs_chars,
                     "rchar": classification_inputs_rchar,
                     "loss": classification_inputs_keep_prob},
-            outputs={'scores': classification_outputs_scores, 'predictions': classification_outputs_classes},
+            outputs={'scores': classification_outputs_scores,
+                     'predictions': classification_outputs_classes},
             method_name=signature_constants.PREDICT_METHOD_NAME)
     legacy_init_op = tf.group(tf.tables_initializer(), name='legacy_init_op')
 
@@ -257,11 +246,7 @@ def do_test_step(batches, cnn, sess, iteration):
 
     random.shuffle(batches)
 
-    confusion_matrix_global = [
-        [0 for _ in range(NUMBER_OF_EMOTIONS)]
-        for _ in range(NUMBER_OF_EMOTIONS)
-    ]
-    confusion_matrix_partial = [
+    confusion_matrix = [
         [0 for _ in range(NUMBER_OF_EMOTIONS)]
         for _ in range(NUMBER_OF_EMOTIONS)
     ]
@@ -279,24 +264,21 @@ def do_test_step(batches, cnn, sess, iteration):
             cnn.dropout_keep_prob: 1
         }
 
-        accuracy, predictions, w_acc, c_acc, r_acc, partial_acc, partial_pred = sess.run(
-                [cnn.accuracy, cnn.predictions, cnn.word_accuracy, cnn.char_accuracy, cnn.rchar_accuracy,
-                 cnn.partial_accuracy, cnn.partial_predictions], feed_dict)
+        accuracy, predictions, w_acc, c_acc, r_acc = sess.run(
+                [cnn.output_accuracy, cnn.predictions, cnn.word_accuracy, cnn.char_accuracy, cnn.rchar_accuracy],
+                feed_dict)
 
         total_batches += 1
         total_accuracy += accuracy
         word += w_acc
         char += c_acc
         rchar += r_acc
-        partial += partial_acc
 
         for i in range(len(batch_data[3])):
             correct_class = int(batch_data[3][i])
-            partial_predicted = int(partial_pred[i])
-            global_predicted = int(predictions[i])
+            predicted = int(predictions[i])
 
-            confusion_matrix_global[global_predicted][correct_class] += 1
-            confusion_matrix_partial[partial_predicted][correct_class] += 1
+            confusion_matrix[predicted][correct_class] += 1
 
     print('Test Step: \n\tTotal Acc:{}\n\tPart Acc:{}\n\tWord Acc:{}\n\tChar Acc:{}\n\tRcha Acc:{}'.format(
             total_accuracy / total_batches, partial / total_batches,
@@ -310,8 +292,7 @@ def do_test_step(batches, cnn, sess, iteration):
                                                char / total_batches,
                                                rchar / total_batches))
 
-    calculate_all_f1_scores(confusion_matrix_global, "Global", iteration)
-    calculate_all_f1_scores(confusion_matrix_partial, "Partial", iteration)
+    calculate_all_f1_scores(confusion_matrix, "Morgana F1", iteration)
 
 
 def calculate_all_f1_scores(confusion_matrix, tag, iteration):

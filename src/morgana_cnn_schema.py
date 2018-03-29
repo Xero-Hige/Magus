@@ -105,7 +105,7 @@ class MorganaCNNSchema(CNNSchema):
         self.char_accuracy = self.get_accuracy(self.input_y, char_predictions)
 
         ##Raw chars
-        with tf.name_scope("rchar_stream"):
+        with tf.name_scope("raw_chars_stream"):
             hidden_rchar, r_chars_dl = self.__create_stream(self.raw_chars_features,
                                                             MorganaCNNSchema.RAW_CHARS_EMBEDDING_SIZE,
                                                             FILTER_SIZES["raw_chars"],
@@ -115,62 +115,36 @@ class MorganaCNNSchema(CNNSchema):
                                                             "rchars",
                                                             output_size=number_of_clases,
                                                             hidden_layer_size=HIDDEN_LAYERS_SIZE["raw_chars"],
-                                                            prefix="rchar_stream")
+                                                            prefix="raw_chars_stream")
 
             rchar_predictions = tf.argmax(r_chars_dl, 1)
         self.rchar_loss = self.get_loss(self.input_y, l2_loss, l2_reg_lambda, r_chars_dl)
         self.rchar_accuracy = self.get_accuracy(self.input_y, rchar_predictions)
 
         ###
-        # Complex layers
+        # OUTPUT layers
         ###
-        ##Scores stream
-        with tf.name_scope("partial"):
+        ## output stream
+        with tf.name_scope("output"):
             dense_layers = tf.concat([words_dl, chars_dl, r_chars_dl], 1)
             dense_layer = MorganaCNNSchema.create_dense_layer(dense_layers,
                                                               number_of_clases * 3,
                                                               HIDDEN_LAYERS_SIZE["scores_stream"],
                                                               "Extract",
-                                                              prefix="partial")
+                                                              prefix="output")
 
             dropout_redux = self.create_dropout_layer(dense_layer, dropout_prob=self.dropout_keep_prob)
             scores, predictions = self.create_output_layer(dropout_redux,
                                                            HIDDEN_LAYERS_SIZE["scores_stream"],
                                                            number_of_clases,
                                                            l2_loss=l2_loss,
-                                                           prefix="partial")
-
-        self.partial_scores = scores
-        self.partial_predictions = predictions
-
-        self.partial_loss = self.get_loss(self.input_y, l2_loss, l2_reg_lambda, scores)
-        self.partial_accuracy = self.get_accuracy(self.input_y, predictions)
-
-        ##Global Stream
-        with tf.name_scope("global"):
-            dense_layers = tf.concat([hidden_words, hidden_chars, hidden_rchar], 1)
-            dropout_concat = self.create_dropout_layer(dense_layers, dropout_prob=self.dropout_keep_prob)
-
-            dense_layer = MorganaCNNSchema.create_dense_layer(dropout_concat,
-                                                              HIDDEN_LAYERS_SIZE["words"] +
-                                                              HIDDEN_LAYERS_SIZE["chars"] +
-                                                              HIDDEN_LAYERS_SIZE["raw_chars"],
-                                                              HIDDEN_LAYERS_SIZE["global_stream"],
-                                                              "Extract",
-                                                              prefix="global")
-
-            dropout_redux = self.create_dropout_layer(dense_layer, dropout_prob=self.dropout_keep_prob)
-            scores, predictions = self.create_output_layer(dropout_redux,
-                                                           HIDDEN_LAYERS_SIZE["global_stream"],
-                                                           number_of_clases,
-                                                           l2_loss=l2_loss,
-                                                           prefix="global")
+                                                           prefix="output")
 
         self.scores = scores
         self.predictions = predictions
 
-        self.loss = self.get_loss(self.input_y, l2_loss, l2_reg_lambda, scores)
-        self.accuracy = self.get_accuracy(self.input_y, predictions)
+        self.output_loss = self.get_loss(self.input_y, l2_loss, l2_reg_lambda, scores)
+        self.output_accuracy = self.get_accuracy(self.input_y, predictions)
 
     def __create_stream(self,
                         input_layer,
