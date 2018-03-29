@@ -1,0 +1,103 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <meta http-equiv="x-ua-compatible" content="ie=edge">
+    <title>Magus Project - {{ Title }}</title>
+
+    <!-- Bootstrap core CSS -->
+    <link href="{{ url_for('static', filename='vendor/bootstrap/css/bootstrap.min.css') }}" rel="stylesheet">
+
+    <!-- Custom fonts for this template -->
+    <link href="https://fonts.googleapis.com/css?family=Catamaran:100,200,300,400,500,600,700,800,900" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css?family=Lato:100,100i,300,300i,400,400i,700,700i,900,900i"
+          rel="stylesheet">
+
+    <!-- Custom styles for this template -->
+    <link href="{{ url_for('static', filename='css/one-page-wonder.min.css') }}" rel="stylesheet">
+    <link href="{{ url_for('static', filename='scss/_masthead.scss') }}" rel="stylesheet">
+    <link href="{{ url_for('static', filename='css/one-page-wonder.css') }}" rel="stylesheet">
+
+    <link rel="apple-touch-icon" sizes="57x57" href="{{ url_for('static', filename='favicon/apple-icon-57x57.png') }}">
+    <link rel="apple-touch-icon" sizes="60x60" href="{{ url_for('static', filename='favicon/apple-icon-60x60.png') }}">
+    <link rel="apple-touch-icon" sizes="72x72" href="{{ url_for('static', filename='favicon/apple-icon-72x72.png') }}">
+    <link rel="apple-touch-icon" sizes="76x76" href="{{ url_for('static', filename='favicon/apple-icon-76x76.png') }}">
+    <link rel="apple-touch-icon" sizes="114x114"
+          href="{{ url_for('static', filename='favicon/apple-icon-114x114.png') }}">
+    <link rel="apple-touch-icon" sizes="120x120"
+          href="{{ url_for('static', filename='favicon/apple-icon-120x120.png') }}">
+    <link rel="apple-touch-icon" sizes="144x144"
+          href="{{ url_for('static', filename='favicon/apple-icon-144x144.png') }}">
+    <link rel="apple-touch-icon" sizes="152x152"
+          href="{{ url_for('static', filename='favicon/apple-icon-152x152.png') }}">
+    <link rel="apple-touch-icon" sizes="180x180"
+          href="{{ url_for('static', filename='favicon/apple-icon-180x180.png') }}">
+    <link rel="shortcut icon" type="image/x-icon" sizes="192x192"
+          href="{{ url_for('static', filename='favicon/android-icon-192x192.png') }}?v=2">
+    <link rel="shortcut icon" type="image/x-icon" sizes="32x32"
+          href="{{ url_for('static', filename='favicon/favicon-32x32.png') }}?v=2">
+    <link rel="shortcut icon" type="image/x-icon" sizes="96x96"
+          href="{{ url_for('static', filename='favicon/favicon-96x96.png') }}?v=2">
+    <link rel="shortcut icon" type="iimage/x-icon" sizes="16x16"
+          href="{{ url_for('static', filename='favicon/favicon-16x16.png') }}?v=2">
+    <link rel="manifest" href="{{ url_for('static', filename='favicon/manifest.json') }}">
+    <meta name="msapplication-TileColor" content="#ffffff">
+    <meta name="msapplication-TileImage" content="{{ url_for('static', filename='favicon/ms-icon-144x144.png') }}">
+    <meta name="theme-color" content="#ffffff">
+
+
+    {% include 'style.html' %}
+
+    <style>
+        .my_container {
+            background-image: url(http://www.thecartoonpictures.com/data/media/241/Alkaid-hacks.jpg);
+            background-size: 100% auto;
+            background-repeat: no-repeat;
+            background-position: center;
+            height: 151px;
+        }
+    </style>
+</head>
+
+<!-- SCRIPTS -->
+<script src="{{ url_for('static', filename='vendor/jquery/jquery.min.js') }}"></script>
+
+<script src="{{ url_for('static', filename='vendor/bootstrap/js/bootstrap.bundle.min.js') }}"></script>
+
+{% include 'scripts.html' %}
+
+<body>
+<!-- Navigation -->
+<nav class="navbar navbar-expand-lg navbar-dark navbar-custom fixed-top">
+    <div class="container">
+        <a class="navbar-brand" href="#">Magus Project</a>
+        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarResponsive"
+                aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="collapse navbar-collapse" id="navbarResponsive">
+            <ul class="navbar-nav ml-auto">
+                <li class="nav-item">
+                    <a class="nav-link" href="https://magus-catalog.herokuapp.com">Alkaid</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="https://magus-the-world.herokuapp.com/">The World</a>
+                </li>
+            </ul>
+        </div>
+    </div>
+    <a href="https://github.com/Xero-Hige/Magus/"><img
+            style="position: absolute; top: 0; right: 0; border: 0; z-index: 1;"
+            src="https://s3.amazonaws.com/github/ribbons/forkme_right_orange_ff7600.png"
+            alt="Fork me on GitHub"></a>
+
+</nav><!---->
+
+<section>
+    <div class="my_container"></div>
+</section>
+<section>
+    <div class="container" style="width: 100%">
