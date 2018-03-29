@@ -55,11 +55,6 @@ def main(_):
     train_vars = tf.get_collection(tf.GraphKeys.TRAINABLE_VARIABLES, "rchar_stream")
     rchar_trainer = tf.train.AdamOptimizer(1e-3).minimize(cnn.rchar_loss, var_list=train_vars)
 
-    # Full trainers (trains variables from every connected stream)
-    global_full_trainer = tf.train.AdamOptimizer(1e-3).minimize(cnn.loss)
-    partial_full_trainer = tf.train.AdamOptimizer(1e-3).minimize(cnn.partial_loss)
-    ###
-
     tf.global_variables_initializer().run()
 
     ###
@@ -80,9 +75,6 @@ def main(_):
     # Load batches
     train_batches, test_batches = load_batch_files()
 
-    acc_char = 0
-    acc_word = 0
-    acc_rchar = 0
     acc_global = 0
     acc_partial = 0
 
@@ -123,19 +115,17 @@ def main(_):
             if acc_word > MIN_STREAM_ACC or acc_char > MIN_STREAM_ACC or acc_rchar > MIN_STREAM_ACC:
 
                 # Trains the full net, only some iteration
-                trainer = global_full_trainer if iteration_slice % FULL_TRAIN_SLICE == 0 else global_trainer
                 acc_global, loss_global = do_train_step(train_batches, cnn, epoch, model_name, checkpoint_saver,
                                                         session,
-                                                        trainer, cnn.loss, cnn.accuracy,
+                                                        global_trainer, cnn.loss, cnn.accuracy,
                                                         name="Global",
                                                         start_iteration=iteration,
                                                         iteration_slice_start=iteration_slice_start,
                                                         iteration_slice_end=iteration_slice_end)
 
-                trainer = partial_full_trainer if iteration_slice % FULL_TRAIN_SLICE == 0 else partial_trainer
                 acc_partial, loss_partial = do_train_step(train_batches, cnn, epoch, model_name, checkpoint_saver,
                                                           session,
-                                                          trainer, cnn.partial_loss, cnn.partial_accuracy,
+                                                          partial_trainer, cnn.partial_loss, cnn.partial_accuracy,
                                                           name="Partial",
                                                           start_iteration=iteration,
                                                           iteration_slice_start=iteration_slice_start,
