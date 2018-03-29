@@ -315,14 +315,16 @@ def get_f_score_for_label(label, matrix):
     false_positives = 0
     false_negatives = 0
     for row_num, row in enumerate(matrix):
-        if row_num == label:
-            for column_num, column in enumerate(row):
-                if column_num == label:
-                    true_positives += column
-                else:
-                    false_positives += column
+
+        if row_num != label:
+            false_negatives += row[label]
             continue
-        false_negatives += row[label]
+
+        for column_num, column in enumerate(row):
+            if column_num == label:
+                true_positives += column
+            else:
+                false_positives += column
 
     if true_positives == 0:
         return 0
