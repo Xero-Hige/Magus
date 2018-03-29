@@ -5,7 +5,7 @@ import numpy as np
 from morgana_cnn_schema import MorganaCNNSchema
 from morgana_config_handler import TRAIN_DATA_FOLDER
 
-SEED = 97
+SEED = 99
 SLICE = 50
 
 
