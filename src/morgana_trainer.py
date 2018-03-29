@@ -14,17 +14,17 @@ from tensorflow.python.util import compat
 from morgana_cnn_schema import MorganaCNNSchema
 from morgana_config_handler import ENABLED_EMOTIONS, NUMBER_OF_EMOTIONS, TRAIN_DATA_FOLDER
 
-TEST_STEP = 5
+FULL_TRAIN_SLICE = 5
 
 MIN_STREAM_ACC = 0.6
 
 
 def main(_):
     # Unpack args
-    iterations = int(sys.argv[1])
+    epochs = int(sys.argv[1])
     model_name = sys.argv[2]
     model_version = int(sys.argv[3])
-    start_it = int(sys.argv[4])
+    start_epoch = int(sys.argv[4])
 
     # Create session
     session = tf.InteractiveSession()
@@ -68,13 +68,13 @@ def main(_):
     checkpoint_saver = tf.train.Saver()
 
     # Reload checkpoint if exists
-    if start_it != 0:
-        checkpoint_saver.restore(session, "tmp/" + model_name + "_{}.ckpt".format(start_it))
+    if start_epoch != 0:
+        checkpoint_saver.restore(session, "tmp/" + model_name + "_{}.ckpt".format(start_epoch))
 
-    # Redo last iteration because it could be not completed
-    start_it -= 1 if start_it != 0 else 0
+    # Redo last epoch because epoch could be not completed
+    start_epoch -= 1 if start_epoch != 0 else 0
 
-    # Stores a summary of the model, so it can be checked at tensorboard for debugging
+    # Stores a summary of the model, so epoch can be checked at tensorboard for debugging
     tf.summary.FileWriter('summary/{}'.format(model_name), session.graph)
 
     # Load batches
@@ -89,44 +89,72 @@ def main(_):
     # Training
     print('Training model {}<{}>'.format(model_name, model_version))
 
-    for it in range(start_it + 1, iterations):
-        # Train the first streams
-        acc_word, loss_word = do_train_step(train_batches, cnn, it, model_name, checkpoint_saver, session,
-                                            word_trainer, cnn.word_loss, cnn.word_accuracy,
-                                            name="Words", prev_acc=acc_word)
-        acc_char, loss_char = do_train_step(train_batches, cnn, it, model_name, checkpoint_saver, session,
-                                            char_trainer, cnn.char_loss, cnn.char_accuracy,
-                                            name="Chars", prev_acc=acc_char)
-        acc_rchar, loss_rchar = do_train_step(train_batches, cnn, it, model_name, checkpoint_saver, session,
-                                              rchar_trainer, cnn.rchar_loss, cnn.rchar_accuracy,
-                                              name="Rchar", prev_acc=acc_rchar)
+    iteration = 0
+    do_test_step(test_batches, cnn, session, iteration)
 
-        # Trains the lasts streams if any of the first streams reached the minimun accuracy at train
-        if acc_word > MIN_STREAM_ACC or acc_char > MIN_STREAM_ACC or acc_rchar > MIN_STREAM_ACC:
-            # Trains the full net, only 1 of TEST_STEP times, and only after the test step
-            trainer = global_full_trainer if it % TEST_STEP == 1 else global_trainer
-            acc_global, loss_global = do_train_step(train_batches, cnn, it, model_name, checkpoint_saver, session,
-                                                    trainer, cnn.loss, cnn.accuracy,
-                                                    name="Global", prev_acc=acc_global)
+    for epoch in range(start_epoch + 1, epochs):
+        random.shuffle(train_batches)
 
-            trainer = partial_full_trainer if it % TEST_STEP == 1 else partial_trainer
-            acc_partial, loss_partial = do_train_step(train_batches, cnn, it, model_name, checkpoint_saver, session,
-                                                      trainer, cnn.partial_loss, cnn.partial_accuracy,
-                                                      name="Partial", prev_acc=acc_partial)
-        if (it % TEST_STEP) == 0:
-            do_test_step(test_batches, cnn, session)
+        for iteration_slice in range(len(train_batches) // 100):
+            iteration_slice_start = iteration_slice * 100
+            iteration_slice_end = min((iteration_slice + 1) * 100, len(train_batches))
 
-        # Keeps track of the training accuracy of the model
-        with open("{}_train_steps.csv".format(model_name), "a") as log:
-            log.write("{},{},{},{},{},{}\n".format(it,
-                                                   acc_global,
-                                                   acc_partial,
-                                                   acc_word,
-                                                   acc_char,
-                                                   acc_rchar))
+            # Train the first streams
+            acc_word, loss_word = do_train_step(train_batches, cnn, epoch, model_name, checkpoint_saver, session,
+                                                word_trainer, cnn.word_loss, cnn.word_accuracy,
+                                                name="Words",
+                                                start_iteration=iteration,
+                                                iteration_slice_start=iteration_slice_start,
+                                                iteration_slice_end=iteration_slice_end)
+            acc_char, loss_char = do_train_step(train_batches, cnn, epoch, model_name, checkpoint_saver, session,
+                                                char_trainer, cnn.char_loss, cnn.char_accuracy,
+                                                name="Chars",
+                                                start_iteration=iteration,
+                                                iteration_slice_start=iteration_slice_start,
+                                                iteration_slice_end=iteration_slice_end)
+            acc_rchar, loss_rchar = do_train_step(train_batches, cnn, epoch, model_name, checkpoint_saver, session,
+                                                  rchar_trainer, cnn.rchar_loss, cnn.rchar_accuracy,
+                                                  name="Rchar",
+                                                  start_iteration=iteration,
+                                                  iteration_slice_start=iteration_slice_start,
+                                                  iteration_slice_end=iteration_slice_end)
+
+            # Trains the lasts streams if any of the first streams reached the minimun accuracy at train
+            if acc_word > MIN_STREAM_ACC or acc_char > MIN_STREAM_ACC or acc_rchar > MIN_STREAM_ACC:
+
+                # Trains the full net, only some iteration
+                trainer = global_full_trainer if iteration_slice % FULL_TRAIN_SLICE == 0 else global_trainer
+                acc_global, loss_global = do_train_step(train_batches, cnn, epoch, model_name, checkpoint_saver,
+                                                        session,
+                                                        trainer, cnn.loss, cnn.accuracy,
+                                                        name="Global",
+                                                        start_iteration=iteration,
+                                                        iteration_slice_start=iteration_slice_start,
+                                                        iteration_slice_end=iteration_slice_end)
+
+                trainer = partial_full_trainer if iteration_slice % FULL_TRAIN_SLICE == 0 else partial_trainer
+                acc_partial, loss_partial = do_train_step(train_batches, cnn, epoch, model_name, checkpoint_saver,
+                                                          session,
+                                                          trainer, cnn.partial_loss, cnn.partial_accuracy,
+                                                          name="Partial",
+                                                          start_iteration=iteration,
+                                                          iteration_slice_start=iteration_slice_start,
+                                                          iteration_slice_end=iteration_slice_end)
+
+            iteration += iteration_slice_end - iteration_slice_start
+            do_test_step(test_batches, cnn, session, iteration)
+
+            # Keeps track of the training accuracy of the model
+            with open("{}_train_steps.csv".format(model_name), "a") as log:
+                log.write("{},{},{},{},{},{}\n".format(iteration,
+                                                       acc_global,
+                                                       acc_partial,
+                                                       acc_word,
+                                                       acc_char,
+                                                       acc_rchar))
 
     # Do a final test step
-    do_test_step(test_batches, cnn, session)
+    do_test_step(test_batches, cnn, session, iteration)
     print('Done training!')
 
     # Save the model
@@ -185,23 +213,23 @@ def load_batch_files():
     return train_batches, test_batches
 
 
-def do_train_step(batches, cnn, it, output_folder, saver, sess, trainer, training_loss, training_accuracy, name="",
-                  prev_acc=1):
+def do_train_step(batches, cnn, epoch, output_folder, saver, sess, trainer, training_loss, training_accuracy, name="",
+                  start_iteration=0, iteration_slice_start=0, iteration_slice_end=0):
     """Does a train step for the given trainer, using the passed batches.
     Returns the average accuracy and loss among all batches used"""
-    print("Iteration <{}>".format(name), it)
-    random.shuffle(batches)
     total_loss = 0
     total_accuracy = 0
     total_batches = 0
-    for batch_number in range(len(batches)):
+    for batch_number in range(iteration_slice_start, iteration_slice_end):
+        iteration = start_iteration + batch_number
+        print("Iteration <{}>".format(name), iteration)
+
         # Loads the pickled batch
         with open(batches[batch_number], 'rb') as pickled:
             batch_data = pickle.load(pickled)
 
         # Training takes a while, so, some kind of info serves as some kind of heartbeat
-        print("[{}] Iteration{}: {} - Batch: {}/{}".format(datetime.datetime.now(), name, it, batch_number + 1,
-                                                           len(batches)))
+        print("[{}] <{}> Iteration: {} - Epoch: {}".format(datetime.datetime.now(), name, iteration, epoch))
 
         # Runs the trainer and gets the asociated loss and accuracy values
         _, loss, accuracy = sess.run([trainer, training_loss, training_accuracy], feed_dict={
@@ -216,17 +244,17 @@ def do_train_step(batches, cnn, it, output_folder, saver, sess, trainer, trainin
         total_accuracy += float(accuracy)
         total_loss += float(loss)
 
-    print('Step[{}]<{}>\n\tLoss: {}\n\tAccuracy:{}'.format(name, it,
+    print('Step[{}]<{}>\n\tLoss: {}\n\tAccuracy:{}'.format(name, iteration,
                                                            total_loss / total_batches,
                                                            total_accuracy / total_batches)
           )
-    save_path = saver.save(sess, "tmp/" + output_folder + "_{}.ckpt".format(it))
+    save_path = saver.save(sess, "tmp/" + output_folder + "_{}.ckpt".format(epoch))
     print("Iteration training end: {}".format(save_path))
 
     return total_accuracy / total_batches, total_loss / total_batches
 
 
-def do_test_step(batches, cnn, sess):
+def do_test_step(batches, cnn, sess, iteration):
     """Does a test step for the full model, using the passed batches."""
 
     total_accuracy = 0
@@ -285,17 +313,18 @@ def do_test_step(batches, cnn, sess):
             word / total_batches, char / total_batches, rchar / total_batches))
 
     with open("test_steps.csv", "a") as log:
-        log.write("{},{},{},{},{}\n".format(total_accuracy / total_batches,
-                                            partial / total_batches,
-                                            word / total_batches,
-                                            char / total_batches,
-                                            rchar / total_batches))
+        log.write("{},{},{},{},{},{}\n".format(iteration,
+                                               total_accuracy / total_batches,
+                                               partial / total_batches,
+                                               word / total_batches,
+                                               char / total_batches,
+                                               rchar / total_batches))
 
-    calculate_all_f1_scores(confusion_matrix_global, "Global")
-    calculate_all_f1_scores(confusion_matrix_partial, "Partial")
+    calculate_all_f1_scores(confusion_matrix_global, "Global", iteration)
+    calculate_all_f1_scores(confusion_matrix_partial, "Partial", iteration)
 
 
-def calculate_all_f1_scores(confusion_matrix, tag):
+def calculate_all_f1_scores(confusion_matrix, tag, iteration):
     print("F1 Score {}".format(tag))
 
     f_scores = [0] * NUMBER_OF_EMOTIONS
@@ -306,7 +335,7 @@ def calculate_all_f1_scores(confusion_matrix, tag):
 
     print("Mean Fscore {}".format(sum(f_scores) / NUMBER_OF_EMOTIONS))
     with open("{}F1.csv".format(tag), 'a') as output:
-        line = ",".join([str(f_score) for f_score in f_scores]) + "\n"
+        line = ",".join([str(iteration)] + [str(f_score) for f_score in f_scores]) + "\n"
         output.write(line)
 
 
@@ -323,6 +352,10 @@ def get_f_score_for_label(label, matrix):
                     false_positives += column
             continue
         false_negatives += row[label]
+
+    if true_positives == 0:
+        return 0
+
     precision = true_positives / (true_positives + false_positives)
     recall = true_positives / (true_positives + false_negatives)
     f_score = 2 * ((precision * recall) / (precision + recall))
