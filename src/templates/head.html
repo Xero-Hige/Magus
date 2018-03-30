@@ -53,10 +53,8 @@
 
     <style>
         .my_container {
-            background-image: url({{ url_for('static', filename='banner/banner.png') }});
-            background-size: 100% auto;
-            background-repeat: no-repeat;
-            background-position: center;
+            background-size: auto;
+            background: url({{ url_for('static', filename='banner/banner.png') }}) no-repeat center center;
             height: 151px;
         }
 
