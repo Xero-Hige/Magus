@@ -67,8 +67,8 @@ class ClassifierCore(MagusCore):
                 return
 
             tweet_info = {
-                "classification":      result,
-                TweetParser.TWEET_ID:  tweet_id,
+                "classification": result,
+                TweetParser.TWEET_ID: tweet_id,
                 "tweet_lat": tweet_info["Latitude"],
                 "tweet_lon": tweet_info["Longitude"]
             }
@@ -77,9 +77,6 @@ class ClassifierCore(MagusCore):
             self._log("Sent {}".format(tweet_id))
 
         self.in_queue.receive_messages(callback)
-
-    # def load_features_map(self, tweet_id):
-    #    return [[0.1 for _ in range(80)] for _ in range(300)]
 
     def make_request(self, rchar_matrix, char_matrix, word_matrix):
         request = predict_pb2.PredictRequest()
