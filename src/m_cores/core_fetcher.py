@@ -4,7 +4,6 @@
 from __future__ import absolute_import, print_function, unicode_literals
 
 import json
-import time
 
 from libs.tweet_fetcher import TweetsFetcher
 from m_cores.magus_core import MagusCore
@@ -22,9 +21,10 @@ class FetcherCore(MagusCore):
                 continue
             tweet_string = json.dumps(tweet)
             self.out_queue.send_message(tweet_string)
-            with open("/tweets/{}.json".format(tweet["id"]), 'w') as output:
-                output.write(tweet_string)
+            # with open("/tweets/{}.json".format(tweet["id"]), 'w') as output:
+            #    output.write(tweet_string)
             self._log("Tweet sent")
-            time.sleep(0.5)
+
+            #time.sleep(0.5)
         self.out_queue.close()
         return 0
