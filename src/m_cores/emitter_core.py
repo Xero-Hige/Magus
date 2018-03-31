@@ -42,8 +42,8 @@ class EmitterCore(MagusCore):
             try:
                 self.pubnub.publish().channel(classification).message({
                     "status": True,
-                    'long':   latitude,
-                    'lat':    longitude
+                    'long': latitude,
+                    'lat': longitude
                 }).sync()  # TODO: Check
                 # print("publish timetoken: %d" % envelope.result.timetoken)
             except PubNubException as e:

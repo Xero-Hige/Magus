@@ -32,10 +32,10 @@ class RCharsEmbeddingCore(MagusDumpCore):
                 numpy.save(matrix_file, matrix, allow_pickle=True, fix_imports=True)
 
             advice = {
-                "ID": tweet       [TweetParser.TWEET_ID],
-                "Latitude": tweet [TweetParser.LATITUDE],
+                "ID": tweet[TweetParser.TWEET_ID],
+                "Latitude": tweet[TweetParser.LATITUDE],
                 "Longitude": tweet[TweetParser.LONGITUDE],
-                "MatrixFile":     matrix_filename
+                "MatrixFile": matrix_filename
             }
             self.dump_queue.send_message(self.serializer.dumps(advice))
 

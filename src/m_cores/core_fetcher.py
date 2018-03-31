@@ -25,6 +25,6 @@ class FetcherCore(MagusCore):
             #    output.write(tweet_string)
             self._log("Tweet sent")
 
-            #time.sleep(0.5)
+            # time.sleep(0.5)
         self.out_queue.close()
         return 0
