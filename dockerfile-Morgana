@@ -3,8 +3,8 @@ FROM debian:testing
 MAINTAINER Xero-Hige <Gaston.martinez.90@gmail.com>
 WORKDIR /
 
-RUN echo "deb http://mirrors.dcarsat.com.ar/debian/ testing main contrib non-free \
-          \ndeb-src http://mirrors.dcarsat.com.ar/debian/ testing main contrib non-free" > /etc/apt/sources.list
+RUN echo "deb http://debian.unnoba.edu.ar/debian/ testing main contrib non-free \
+          \ndeb-src http://debian.unnoba.edu.ar/debian/ testing main contrib non-free" > /etc/apt/sources.list
 
 RUN apt-get update && \
     apt-get install -y --no-install-recommends aptitude && \
