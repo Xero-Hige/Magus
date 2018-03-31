@@ -2,6 +2,8 @@
 
 from __future__ import absolute_import, print_function, unicode_literals
 
+import random
+
 from libs.tweet_parser import TweetParser
 from m_cores.magus_core import MagusCore
 
@@ -24,10 +26,13 @@ class ParserCore(MagusCore):
                 self._log("Can't parse tweet")
                 return
 
-            if tweet["tweet_lang"].lower() != 'en':
-                self._log("Not english: {}".format(tweet["tweet_lang"]))
+            if tweet["tweet_lang"].lower() not in ['en', 'es']:
+                self._log("Not spanish/english: {}".format(tweet["tweet_lang"]))
                 return
 
-            self.out_queue.send_message(self.serializer.dumps(tweet))
+            # Discard 75% of the tweets for memory sake
+            # TODO: Remove this on production
+            if random.randrange(0, 100) > 75:
+                self.out_queue.send_message(self.serializer.dumps(tweet))
 
         self.in_queue.receive_messages(callback)
