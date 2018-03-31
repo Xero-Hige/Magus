@@ -36,22 +36,6 @@ services:
 
     stop_signal: SIGINT
 
-  the_world:
-    # Web Frontend (Interactive world map)
-    build:
-      context: .
-      dockerfile: dockerfile-TheWorld
-
-    ports:
-      # Frontend port
-      - "8000:8000"
-
-    env_file:
-      # Keys enviroment file
-      - the_world.env
-
-    stop_signal: SIGINT
-
   morgana:
     # Tensorflow server for the CNN model
     build:
@@ -60,6 +44,6 @@ services:
 
     volumes:
       # Model folder
-      - ./Sphinx:/MorganaModel
+      - ./src/Morgana:/MorganaModel
 
     stop_signal: SIGINT
