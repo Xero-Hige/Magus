@@ -22,4 +22,7 @@ class EmbeddingHandler:
         while len(matrix) < self.matrix_height:
             matrix.append(self.get_embedding(""))
 
+        while len(matrix) > self.matrix_height:
+            matrix.pop()
+
         return matrix
