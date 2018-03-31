@@ -25,4 +25,4 @@ class EmbeddingHandler:
         while len(matrix) > self.matrix_height:
             matrix.pop()
 
-        return
+        return matrix
