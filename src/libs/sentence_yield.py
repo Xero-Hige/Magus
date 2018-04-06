@@ -14,4 +14,8 @@ class TrainSentenceGenerator():
                 for tweet_file in tweet_files:
                     path = os.path.join(directory, tweet_file)
                     tweet = TweetParser.parse_from_json_file(path)
+
+                    if tweet[TweetParser.LANG].lower() not in ["es", "en"]:
+                        continue
+
                     yield self.tokenizer.tokenize_raw(tweet)
