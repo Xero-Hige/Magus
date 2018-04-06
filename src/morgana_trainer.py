@@ -49,7 +49,7 @@ def main(_):
     char_trainer = tf.train.AdamOptimizer(1e-3).minimize(cnn.char_loss, var_list=train_vars)
 
     # Raw Chars trainer (trains only rchar stream variables)
-    train_vars = tf.get_collection(tf.GraphKeys.TRAINABLE_VARIABLES, "raw_char_stream")
+    train_vars = tf.get_collection(tf.GraphKeys.TRAINABLE_VARIABLES, "raw_chars_stream")
     rchar_trainer = tf.train.AdamOptimizer(1e-3).minimize(cnn.rchar_loss, var_list=train_vars)
 
     tf.global_variables_initializer().run()
@@ -84,7 +84,7 @@ def main(_):
     for epoch in range(start_epoch + 1, epochs):
         random.shuffle(train_batches)
 
-        for iteration_slice in range(len(train_batches) // 100):
+        for iteration_slice in range(len(train_batches) // 100 + 1):
             iteration_slice_start = iteration_slice * 100
             iteration_slice_end = min((iteration_slice + 1) * 100, len(train_batches))
 
