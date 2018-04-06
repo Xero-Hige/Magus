@@ -161,7 +161,7 @@ class MorganaCNNSchema(CNNSchema):
             -ConvPoll layer
             -Dense layer (size of hidden)
             -Dense layer (size of output)
-            
+
             Returns the created hidden and output layer"""
         convolution_layer_output, output_channels = self.create_conv_pool_layer(input_layer,
                                                                                 embedding_size,
@@ -185,7 +185,7 @@ class MorganaCNNSchema(CNNSchema):
         Returns two np.arrays, the first containing the tweets ids and the second the labels.
         Both returning arrays have the same length and order. Labels are marked as the index of the class in the
         enabled emotion list at the config file.
-         
+
         Note: Non enabled emotion tweets are omitted"""
 
         data = []
@@ -218,6 +218,10 @@ class MorganaCNNSchema(CNNSchema):
         for tweet, tag in data:
             if tag not in ENABLED_EMOTIONS:
                 print("Not tag {}".format(tag))
+                tag = ENABLED_EMOTIONS[-1]
+                # continue
+
+            if tweet[TweetParser.LANG].lower() not in ["es", "en"]:
                 continue
 
             tweets_ids.append(str(tweet[TweetParser.TWEET_ID]))
@@ -230,7 +234,7 @@ class MorganaCNNSchema(CNNSchema):
 
     @staticmethod
     def map_batch(tweets):
-        """Given a list of tweet ids as string, returns a tuple of np.arrays with the 
+        """Given a list of tweet ids as string, returns a tuple of np.arrays with the
         features map for each given tweet id."""
 
         maps_words = []
