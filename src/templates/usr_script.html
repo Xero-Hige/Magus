@@ -473,10 +473,10 @@
     var actual_filter_string = "";
 
     function clear_buffers() {
-        happy_buffer = [];
-        angry_buffer = [];
-        sad_buffer = [];
-        fear_buffer = [];
+        happy_buffer.splice(0, happy_buffer.length);
+        angry_buffer.splice(0, angry_buffer.length);
+        sad_buffer.splice(0, sad_buffer.length);
+        fear_buffer.splice(0, fear_buffer.length);
     }
 
     function add_filter() {
