@@ -11,6 +11,7 @@ class TweetParser:
     AT_USER = "at_user"
     LONGITUDE = "longitude"
     LATITUDE = "latitude"
+    ORIGINAL_TEXT = "original"
 
     @staticmethod
     def parse_from_json_file(filename):
@@ -49,6 +50,8 @@ class TweetParser:
                     "utf-8")
         else:
             tweet_dict[TweetParser.TWEET_TEXT] = tweet["text"].encode("utf-8", 'replace').decode("utf-8")
+
+        tweet_dict[TweetParser.ORIGINAL_TEXT] = tweet_dict[TweetParser.TWEET_TEXT]
 
         try:
             if "coordinates" in tweet and tweet["coordinates"]:
