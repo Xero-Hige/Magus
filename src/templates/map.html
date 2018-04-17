@@ -2,9 +2,6 @@
 
 
 <div class="container">
-    <h2>Dynamic Tabs</h2>
-    <p>To make the tabs toggleable, add the data-toggle="tab" attribute to each link. Then add a .tab-pane class with a
-        unique ID for every tab and wrap them inside a div element with class .tab-content.</p>
 
     <ul class="nav nav-tabs">
         <li class="active"><a data-toggle="tab" href="#map">Map</a></li>
@@ -16,11 +13,11 @@
 
     <div class="tab-content">
         <div id="map" class="tab-pane fade in active">
+            <div id='map' style="width: 100%;"></div>
             <div id="map_container">
                 <nav id="menu"></nav>
                 <nav id='filter-group-categoria' class='filter-group' style='top: 4em;'></nav>
                 <nav class="filter-group" id='filter-rating' style='top:32em'></nav>
-                <div id='map' style="width: 100%;"></div>
             </div>
 
         </div>
