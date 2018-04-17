@@ -366,6 +366,12 @@
                 }
             };
 
+            if (actual_filter_string !== "") {
+                if (m.message.words.indexOf(actual_filter_string) < 0) {
+                    return;
+                }
+            }
+
             if (channel === "Joy") {
                 happy_buffer.features.push(feature);
                 while (happy_buffer.length > {{buffer_max_size}}) {
@@ -463,4 +469,23 @@
         layers.appendChild(link);
     }
 
+
+    var actual_filter_string = "";
+
+    function clear_buffers() {
+        happy_buffer = [];
+        angry_buffer = [];
+        sad_buffer = [];
+        fear_buffer = [];
+    }
+
+    function add_filter(filter_string) {
+        actual_filter_string = filter_string;
+        clear_buffers();
+    }
+
+    function clear_filter() {
+        actual_filter_string = "";
+        clear_buffers();
+    }
 </script>
