@@ -70,7 +70,8 @@ class ClassifierCore(MagusCore):
                 "classification": result,
                 TweetParser.TWEET_ID: tweet_id,
                 "tweet_lat": tweet_info["Latitude"],
-                "tweet_lon": tweet_info["Longitude"]
+                "tweet_lon": tweet_info["Longitude"],
+                "tweet_text": tweet_info["Text"]
             }
 
             self.out_queue.send_message(self.serializer.dumps(tweet_info))

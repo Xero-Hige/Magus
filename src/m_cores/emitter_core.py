@@ -35,15 +35,15 @@ class EmitterCore(MagusCore):
 
             latitude, longitude = tweet_info["tweet_lat"], tweet_info["tweet_lon"]
             classification = tweet_info["classification"]
-            tweet_id = tweet_info[TweetParser.TWEET_ID]
-
+            text = tweet_info["tweet_text"]
             self._log("Sent {}".format(classification))
 
             try:
                 self.pubnub.publish().channel(classification).message({
                     "status": True,
                     'long': latitude,
-                    'lat': longitude
+                    'lat': longitude,
+                    "words": text
                 }).sync()  # TODO: Check
                 # print("publish timetoken: %d" % envelope.result.timetoken)
             except PubNubException as e:

@@ -32,7 +32,7 @@ class JoinerCore(MagusCore):
                 advice.pop("MatrixFile")
                 self.out_queue.send_message(self.serializer.dumps(advice))
 
-                self._log("Joimed {}".format(tweet_id))
+                self._log("Joined {}".format(tweet_id))
                 return
 
             self.accumulator[tweet_id] = id_accumulator
