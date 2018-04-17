@@ -1,9 +1,8 @@
 {% include 'head.html' %}
 <div>
-    <input type="text" name="filter" value="">
+    <input type="text" id="filter" value="">
     <button onclick="add_filter()">Add Filter</button>
-
-    <div>
+</div>
 <div id="map_container">
     <nav id="menu"></nav>
     <nav id='filter-group-categoria' class='filter-group' style='top: 4em;'></nav>
@@ -11,4 +10,4 @@
     <div id='map' style="width: 100%;"></div>
 </div>
 
-        {% include 'foot.html' %}
+{% include 'foot.html' %}
