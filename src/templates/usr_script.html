@@ -477,6 +477,15 @@
         angry_buffer.features.splice(0,angry_buffer.features.length);
         fear_buffer.features.splice(0,fear_buffer.features.length);
         sad_buffer.features.splice(0,sad_buffer.features.length);
+
+        try{
+            map.getSource("happy").setData(happy_buffer);
+            map.getSource("sad").setData(sad_buffer);
+            map.getSource("anger").setData(angry_buffer);
+            map.getSource("fear").setData(fear_buffer);
+        } catch (err) { //Needed because there is a race condition that breaks this
+            console.log("Not posted");
+        }
     }
 
     function add_filter() {
