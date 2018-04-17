@@ -481,6 +481,7 @@
 
     function add_filter() {
         actual_filter_string = document.getElementById("filter").value;
+        actual_filter_string = actual_filter_string.toLocaleLowerCase();
         clear_buffers();
     }
 
