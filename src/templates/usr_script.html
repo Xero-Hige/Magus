@@ -14,7 +14,7 @@
     mapboxgl.accessToken = '{{map_access_token}}';
     var map = new mapboxgl.Map({
         container: 'map',
-        style: 'mapbox://styles/mapbox/light-v9',
+        style: 'mapbox://styles/mapbox/outdoors-v10',
         center: [-58, -34],
         zoom: 3
     });
@@ -260,7 +260,7 @@
         "features": []
     };
 
-    var prev = [["_", ""], ["_", ""], ["_", ""], ["_", ""], ["_", ""], ["_", ""], ["_", ""], ["_", ""]];
+    var prev = [];
 
     //PubNub callback
     pubnub.addListener({
@@ -282,7 +282,18 @@
             }
 
             if (prev.length < 10) {
-                prev.push([m.message.words, channel])
+                var el = document.createElement('div');
+                el.className = 'marker';
+
+                // make a marker for each feature and add to the map
+                var new_marker = new mapboxgl.Marker(el);
+                new_marker.setLngLat([m.message.lat, m.message.long]);
+                new_marker.setPopup(
+                    new mapboxgl.Popup({offset: 25})
+                        .setHTML('<h3>' + channel + '</h3><p>' + m.message.words + '</p>')
+                );
+                new_marker.addTo(map);
+                prev.push([m.message.words, channel, new_marker])
             }
 
             if (channel === "Joy") {
@@ -399,7 +410,7 @@
         my_marquee.style.color = "black";
         my_marquee.style.webkitAnimation = "none";
 
-        var new_line = ["_", ""];
+        var new_line = ["_", "", none];
         if (prev.length > 3) {
             new_line = prev.shift();
         }
@@ -414,6 +425,10 @@
             new_color = "red";
         } else if (new_line[1] === "Fear") {
             new_color = "purple";
+        }
+
+        if (new_line[2]) {
+            new_line[2].remove();
         }
 
         setTimeout(function () {
