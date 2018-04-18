@@ -396,6 +396,7 @@
 
     function update_marquee_line(element) {
         var my_marquee = document.getElementById(element);
+        my_marquee.style.color = "black";
         my_marquee.style.webkitAnimation = "none";
 
         var new_line = ["_", ""];
@@ -404,24 +405,20 @@
         }
 
         my_marquee.innerHTML = new_line[0];
+        var new_color = "black";
         if (new_line[1] === "Joy") {
-            my_marquee.style.color = "green";
+            new_color = "green";
         } else if (new_line[1] === "Sadness") {
-            my_marquee.style.color = "blue";
+            new_color = "blue";
         } else if (new_line[1] === "Anger") {
-            my_marquee.style.color = "red";
+            new_color = "red";
         } else if (new_line[1] === "Fear") {
-            my_marquee.style.color = "purple";
+            new_color = "purple";
         }
-        else {
-            my_marquee.style.color = "black";
-        }
-        //var x = Math.floor(Math.random() * 10) + 10;
-        //var duration = x + "s";
 
         setTimeout(function () {
             my_marquee.style.webkitAnimation = "";
-            //my_marquee.style.setProperty("animation-duration", duration);
+            my_marquee.style.color = new_color;
         }, 10);
     }
 
