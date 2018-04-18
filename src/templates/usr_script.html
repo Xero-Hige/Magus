@@ -208,85 +208,6 @@
             }
         }, 'waterway-label');
 
-
-        /*map.addLayer({
-         "id": "observations-point",
-         "type": "circle",
-         "source": "observations",
-         "minzoom": 10,
-         "paint": {
-         "circle-color": {
-         "property": "category",
-         "type": "categorical",
-         "stops": [
-         ['aberturas', 'red'],
-         ['vidrieria', 'green'],
-         ['constructora', '#72a0e5'],
-         ['arquitecto', 'purple'],
-         ['carpinteria metalurgica', 'black'],
-         ['carpinteria de aluminio', 'gray'],
-         ['carpinteria de plastico', '#98FB98']
-         ]
-         },
-         "circle-stroke-color": "white",
-         "circle-stroke-width": 1,
-         "circle-opacity": {
-         "stops": [
-         [7, 0],
-         [8, 1]
-         ]
-         },
-         'circle-radius': {
-         property: 'rating',
-         type: 'interval',
-         stops: [
-         [1, 2],
-         [2, 4],
-         [3, 6],
-         [4, 8],
-         [5, 10],
-         [6, 12],
-         [7, 14]
-         ]
-         },
-         }
-         }, 'waterway-label');
-
-         map.setFilter('observations-point', filterCategoria);
-
-         var filterGroupCategoria = document.getElementById('filter-group-categoria');
-
-         function agregar_opcion_filtro(filter_group, opt_name) {
-         var inputNew = document.createElement('input');
-         inputNew.type = 'checkbox';
-         inputNew.id = opt_name.replace(/ /g, "-");
-         inputNew.checked = true;
-         filter_group.appendChild(inputNew);
-
-         var labelNew = document.createElement('label');
-         labelNew.setAttribute('for', opt_name.replace(/ /g, "-"));
-         labelNew.textContent = opt_name;
-         filter_group.appendChild(labelNew);
-
-         inputNew.addEventListener('change', function (e) {
-         map.setFilter('observations-point', null);
-         map.setFilter('observations-heat', null);
-         h[opt_name] = inputNew.checked;
-         filterCategoria = construct_filter(h);
-         map.setFilter('observations-point', filterCategoria);
-         map.setFilter('observations-heat', filterCategoria);
-         });
-         }
-
-         agregar_opcion_filtro(filterGroupCategoria, 'cat1');
-         agregar_opcion_filtro(filterGroupCategoria, 'cat2');
-         agregar_opcion_filtro(filterGroupCategoria, 'cat3');
-         agregar_opcion_filtro(filterGroupCategoria, 'cat4');
-         agregar_opcion_filtro(filterGroupCategoria, 'cat5');
-         agregar_opcion_filtro(filterGroupCategoria, 'cat6');
-         agregar_opcion_filtro(filterGroupCategoria, 'cat7');
-         */
-
         var filterRating = document.getElementById('filter-rating');
         var inputRating = document.createElement('input');
         inputRating.type = 'text';
@@ -318,20 +239,6 @@
             closeButton: false,
             closeOnClick: false
         });
-
-        /*map.on('mouseenter', 'observations-point', function (e) {
-         map.getCanvas().style.cursor = 'pointer';
-
-         popup.setLngLat(e.features[0].geometry.coordinates)
-         .setHTML(e.features[0].properties.category + " - " + e.features[0].properties.name)
-         .addTo(map);
-         });
-
-         map.on('mouseleave', 'observations-point', function () {
-         map.getCanvas().style.cursor = '';
-         popup.remove();
-         });*/
-
     });
 
 
@@ -353,6 +260,8 @@
         "features": []
     };
 
+    var prev = [["_", ""], ["_", ""], ["_", ""], ["_", ""], ["_", ""], ["_", ""], ["_", ""], ["_", ""]];
+
     //PubNub callback
     pubnub.addListener({
         message: function (m) {
@@ -370,6 +279,10 @@
                 if (m.message.words.indexOf(actual_filter_string) < 0) {
                     return;
                 }
+            }
+
+            if (prev.length < 10) {
+                prev.push([m.message.words, channel])
             }
 
             if (channel === "Joy") {
@@ -421,24 +334,6 @@
 
     h = {'cat1': true, 'cat2': true, 'cat3': true, 'cat4': true, 'cat5': true, 'cat6': true, 'cat7': true};
 
-    /*function construct_filter(h, r_t=1) {
-     v = ["any"]
-     if (h["cat1"]) v.push(["==", "category", "cat1"]);
-     if (h["cat2"]) v.push(["==", "category", "cat2"]);
-     if (h["cat3"]) v.push(["==", "category", "cat3"]);
-     if (h["cat4"]) v.push(["==", "category", "cat4"]);
-     if (h["cat5"]) v.push(["==", "category", "cat5"]);
-     if (h["cat6"]) v.push(["==", "category", "cat6"]);
-     if (h["cat7"]) v.push(["==", "category", "cat7"]);
-     v_ = ["all", v]
-     v_.push([">=", "score", r_t]);
-     return v_;
-     }
-
-     var filterCategoria = construct_filter(h);
-     */
-
-
     var toggleableLayerIds = ['Happy', 'Anger', 'Sad', 'Fear'];
 
     for (var i = 0; i < toggleableLayerIds.length; i++) {
@@ -473,12 +368,12 @@
     var actual_filter_string = "";
 
     function clear_buffers() {
-        happy_buffer.features.splice(0,happy_buffer.features.length);
-        angry_buffer.features.splice(0,angry_buffer.features.length);
-        fear_buffer.features.splice(0,fear_buffer.features.length);
-        sad_buffer.features.splice(0,sad_buffer.features.length);
+        happy_buffer.features.splice(0, happy_buffer.features.length);
+        angry_buffer.features.splice(0, angry_buffer.features.length);
+        fear_buffer.features.splice(0, fear_buffer.features.length);
+        sad_buffer.features.splice(0, sad_buffer.features.length);
 
-        try{
+        try {
             map.getSource("happy").setData(happy_buffer);
             map.getSource("sad").setData(sad_buffer);
             map.getSource("anger").setData(angry_buffer);
@@ -498,4 +393,63 @@
         actual_filter_string = "";
         clear_buffers();
     }
+
+    function update_marquee_line(element) {
+        var my_marquee = document.getElementById(element);
+        my_marquee.style.webkitAnimation = "none";
+
+        var new_line = ["_", ""];
+        if (prev.length > 3) {
+            new_line = prev.shift();
+        }
+
+        my_marquee.innerHTML = new_line[0];
+        if (new_line[1] === "Joy") {
+            my_marquee.style.color = "green";
+        } else if (new_line[1] === "Sadness") {
+            my_marquee.style.color = "blue";
+        } else if (new_line[1] === "Anger") {
+            my_marquee.style.color = "red";
+        } else if (new_line[1] === "Fear") {
+            my_marquee.style.color = "purple";
+        }
+        else {
+            my_marquee.style.color = "black";
+        }
+        var x = Math.floor(Math.random() * 10) + 10;
+        var duration = x + "s";
+
+        setTimeout(function () {
+            my_marquee.style.webkitAnimation = "";
+            my_marquee.style.setProperty("animation-duration", duration);
+        }, 10);
+    }
+
+    var animation_div = document.getElementById("top");
+    animation_div.addEventListener(
+        "animationiteration",
+        function () {
+            update_marquee_line("top");
+        },
+        false
+    );
+
+    animation_div = document.getElementById("middle");
+    animation_div.addEventListener(
+        "animationiteration",
+        function () {
+            update_marquee_line("middle");
+        },
+        false
+    );
+
+    animation_div = document.getElementById("bottom");
+    animation_div.addEventListener(
+        "animationiteration",
+        function () {
+            update_marquee_line("bottom");
+        },
+        false
+    );
+
 </script>

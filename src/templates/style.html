@@ -117,4 +117,38 @@
         background: #3074a4;
     }
 
+    #marquee_div {
+        background-color: black;
+        overflow: hidden;
+        white-space: nowrap;
+    }
+
+    #top {
+        background-color: black;
+        animation: marquee linear infinite;
+        animation-duration: 9s;
+    }
+
+    #middle {
+        background-color: black;
+        animation: marquee linear infinite;
+        animation-duration: 10s;
+    }
+
+    #bottom {
+        background-color: black;
+        animation: marquee linear infinite;
+        animation-duration: 11s;
+    }
+
+    @keyframes marquee {
+        from {
+            transform: translateX(110%);
+        }
+        to {
+            transform: translateX(-110%);
+        }
+    }
+
+
 </style>
