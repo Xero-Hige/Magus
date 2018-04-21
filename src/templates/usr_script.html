@@ -473,4 +473,22 @@
         false
     );
 
+    var online = false;
+
+    function disable_online() {
+        var online_button = document.getElementById("online_button");
+        online_button.classList.remove('btn-success');
+        online_button.classList.add('btn-danger');
+        online_button.innerHTML = "* Offline *";
+        online = false;
+    }
+
+    function enable_online() {
+        var online_button = document.getElementById("online_button");
+        online_button.classList.remove('btn-danger');
+        online_button.classList.add('btn-success');
+        online_button.innerHTML = "* Online *";
+        online = true;
+    }
+
 </script>
