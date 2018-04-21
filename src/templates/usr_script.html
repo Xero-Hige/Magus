@@ -411,7 +411,7 @@
     }
 
     function add_filter_from(button_id) {
-        var hashtag = document.getElementById(button_id).value;
+        var hashtag = document.getElementById(button_id).innerText;
         hashtag = hashtag.substring(1);
         actual_filter_string = hashtag.toLocaleLowerCase();
         clear_buffers();
