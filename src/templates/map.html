@@ -1,170 +1,173 @@
 {% include 'head.html' %}
-<div class="container">
 
-    <div id="accordion">
+<div id="accordion">
 
-        <div class="card">
-            <button class="btn btn-danger" data-toggle="collapse" data-target="#collapseOne"
-                    id="online_button"
-                    disabled=disabled>
-                * Offline *
-            </button>
-            <div id="collapseOne" class="collapse" aria-labelledby="headingOne" data-parent="#accordion">
-                <div class="card-body">
-                    <div id="marquee_div">
-                        <div id="top">
-                            _
-                        </div>
-                        <div id="middle">
-                            _
-                        </div>
-                        <div id="bottom">
-                            _
-                        </div>
+    <div class="card">
+        <button class="btn btn-danger" data-toggle="collapse" data-target="#collapseOne"
+                id="online_button"
+                disabled=disabled>
+            * Offline *
+        </button>
+        <div id="collapseOne" class="collapse" aria-labelledby="headingOne" data-parent="#accordion">
+            <div class="card-body">
+                <div id="marquee_div">
+                    <div id="top">
+                        _
+                    </div>
+                    <div id="middle">
+                        _
+                    </div>
+                    <div id="bottom">
+                        _
                     </div>
                 </div>
             </div>
         </div>
-
     </div>
 
-    <div id="accordion2">
+</div>
 
-        <div class="card">
-            <button class="btn btn-primary" data-toggle="collapse" data-target="#collapseOne2"
-                    id="online_button">
-                Filters
-            </button>
-            <div id="collapseOne2" class="collapse" aria-labelledby="headingOne" data-parent="#accordion2">
-                <div class="card-body">
-                    <div class="row">
-                        <div class="col-6">
+<div id="accordion2">
 
-                            <div class="input-group mb-3">
-                                <input type="text" class="form-control" placeholder="Word. E.G: Syria" id="w_filter">
-                                <div class="input-group-append">
-                                    <button class="btn btn-outline-secondary" type="button" onclick="add_filter()">
-                                        Filter
-                                    </button>
-                                </div>
+    <div class="card">
+        <button class="btn btn-primary" data-toggle="collapse" data-target="#collapseOne2"
+                id="online_button">
+            Filters
+        </button>
+        <div id="collapseOne2" class="collapse" aria-labelledby="headingOne" data-parent="#accordion2">
+            <div class="card-body">
+                <div class="row">
+                    <div class="col-6">
+
+                        <div class="input-group mb-3">
+                            <input type="text" class="form-control" placeholder="Word. E.G: Syria" id="w_filter">
+                            <div class="input-group-append">
+                                <button class="btn btn-outline-secondary" type="button" onclick="add_filter()">
+                                    Filter
+                                </button>
                             </div>
                         </div>
-
-                        <div class="col-6">
-                            <div class="input-group mb-3">
-                                <div class="input-group-prepend">
-                                    <span class="input-group-text" id="basic-addon1">#</span>
-                                </div>
-                                <input type="text" class="form-control" placeholder="Hashtag. E.G: StopWar"
-                                       id="h_filter">
-                                <div class="input-group-append">
-                                    <button class="btn btn-outline-secondary" type="button" onclick="add_h_filter()">
-                                        Filter
-                                    </button>
-                                </div>
-                            </div>
-                        </div>
-
                     </div>
 
-                    <div class="row">
-                        <div class="col-5"></div>
-                        <div class="col-2">
-                            Filter by top hashtags
-                        </div>
-                        <div class="col-5"></div>
-                    </div>
-
-                    <div class="row">
-                        <div class="col-2">
-                            <div class="input-group mb-3">
-                                <button class="btn btn-outline-secondary" type="button" onclick="add_filter()">
+                    <div class="col-6">
+                        <div class="input-group mb-3">
+                            <div class="input-group-prepend">
+                                <span class="input-group-text" id="basic-addon1">#</span>
+                            </div>
+                            <input type="text" class="form-control" placeholder="Hashtag. E.G: StopWar"
+                                   id="h_filter">
+                            <div class="input-group-append">
+                                <button class="btn btn-outline-secondary" type="button" onclick="add_h_filter()">
                                     Filter
                                 </button>
                             </div>
                         </div>
-
-                        <div class="col-2">
-                            <div class="input-group mb-3">
-                                <button class="btn btn-outline-secondary" type="button" onclick="add_filter()">
-                                    Filter
-                                </button>
-                            </div>
-                        </div>
-
-                        <div class="col-2">
-                            <div class="input-group mb-3">
-                                <button class="btn btn-outline-secondary" type="button" onclick="add_filter()">
-                                    Filter
-                                </button>
-                            </div>
-                        </div>
-
-                        <div class="col-2">
-                            <div class="input-group mb-3">
-                                <button class="btn btn-outline-secondary" type="button" onclick="add_filter()">
-                                    Filter
-                                </button>
-                            </div>
-                        </div>
-
-                        <div class="col-2">
-                            <div class="input-group mb-3">
-                                <button class="btn btn-outline-secondary" type="button" onclick="add_filter()">
-                                    Filter
-                                </button>
-                            </div>
-                        </div>
-
-                    </div>
-                    <div class="row">
-                        <div class="col-2">
-                            <div class="input-group mb-3">
-                                <button class="btn btn-outline-secondary" type="button" onclick="add_filter()">
-                                    Filter
-                                </button>
-                            </div>
-                        </div>
-
-                        <div class="col-2">
-                            <div class="input-group mb-3">
-                                <button class="btn btn-outline-secondary" type="button" onclick="add_filter()">
-                                    Filter
-                                </button>
-                            </div>
-                        </div>
-
-                        <div class="col-2">
-                            <div class="input-group mb-3">
-                                <button class="btn btn-outline-secondary" type="button" onclick="add_filter()">
-                                    Filter
-                                </button>
-                            </div>
-                        </div>
-
-                        <div class="col-2">
-                            <div class="input-group mb-3">
-                                <button class="btn btn-outline-secondary" type="button" onclick="add_filter()">
-                                    Filter
-                                </button>
-                            </div>
-                        </div>
-
-                        <div class="col-2">
-                            <div class="input-group mb-3">
-                                <button class="btn btn-outline-secondary" type="button" onclick="add_filter()">
-                                    Filter
-                                </button>
-                            </div>
-                        </div>
-
                     </div>
 
                 </div>
+
+                <div class="row">
+                    <div class="col-5"></div>
+                    <div class="col-2">
+                        Filter by top hashtags
+                    </div>
+                    <div class="col-5"></div>
+                </div>
+
+                <div class="row">
+                    <div class="col-2">
+                        <div class="input-group mb-3">
+                            <button class="btn btn-outline-secondary" type="button" onClick="add_filter_from('top1')"
+                                    width="100%" id="top1">
+                                #Top1
+                            </button>
+                        </div>
+                    </div>
+
+                    <div class="col-2">
+                        <div class="input-group mb-3">
+                            <button class="btn btn-outline-secondary" type="button" onclick="add_filter_from('top2')"
+                                    width="100%" id="top2">
+                                #Top2
+                            </button>
+                        </div>
+                    </div>
+
+                    <div class="col-2">
+                        <div class="input-group mb-3">
+                            <button class="btn btn-outline-secondary" type="button" onclick="add_filter_from('top3')"
+                                    width="100%" id="top3">
+                                #Top3
+                            </button>
+                        </div>
+                    </div>
+
+                    <div class="col-2">
+                        <div class="input-group mb-3">
+                            <button class="btn btn-outline-secondary" type="button" onclick="add_filter_from('top4')"
+                                    width="100%" id="top4">
+                                #Top4
+                            </button>
+                        </div>
+                    </div>
+
+                    <div class="col-2">
+                        <div class="input-group mb-3">
+                            <button class="btn btn-outline-secondary" type="button" onclick="add_filter_from('top5')"
+                                    width="100%" id="top5">
+                                #Top5
+                            </button>
+                        </div>
+                    </div>
+
+                </div>
+                <div class="row">
+                    <div class="col-2">
+                        <div class="input-group mb-3">
+                            <button class="btn btn-outline-secondary" type="button" onclick="add_filter()" width="100%">
+                                Filter
+                            </button>
+                        </div>
+                    </div>
+
+                    <div class="col-2">
+                        <div class="input-group mb-3">
+                            <button class="btn btn-outline-secondary" type="button" onclick="add_filter()" width="100%">
+                                Filter
+                            </button>
+                        </div>
+                    </div>
+
+                    <div class="col-2">
+                        <div class="input-group mb-3">
+                            <button class="btn btn-outline-secondary" type="button" onclick="add_filter()" width="100%">
+                                Filter
+                            </button>
+                        </div>
+                    </div>
+
+                    <div class="col-2">
+                        <div class="input-group mb-3">
+                            <button class="btn btn-outline-secondary" type="button" onclick="add_filter()" width="100%">
+                                Filter
+                            </button>
+                        </div>
+                    </div>
+
+                    <div class="col-2">
+                        <div class="input-group mb-3">
+                            <button class="btn btn-outline-secondary" type="button" onclick="add_filter()" width="100%">
+                                Filter
+                            </button>
+                        </div>
+                    </div>
+
+                </div>
+
             </div>
         </div>
-
     </div>
+
 </div>
 
 <div id="map_container">
