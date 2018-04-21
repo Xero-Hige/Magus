@@ -1,6 +1,33 @@
 {% include 'head.html' %}
 <div class="container">
 
+    <div id="accordion">
+
+        <div class="card">
+            <button class="btn btn-danger" data-toggle="collapse" data-target="#collapseOne"
+                    id="online_button"
+                    disabled=disabled>
+                * Offline *
+            </button>
+            <div id="collapseOne" class="collapse" aria-labelledby="headingOne" data-parent="#accordion">
+                <div class="card-body">
+                    <div id="marquee_div">
+                        <div id="top">
+                            _
+                        </div>
+                        <div id="middle">
+                            _
+                        </div>
+                        <div id="bottom">
+                            _
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+    </div>
+
     <div class="row">
         <div class="col-6">
 
@@ -26,31 +53,6 @@
 
     </div>
 
-    <div id="accordion">
-
-        <div class="card">
-            <button class="btn btn-danger" data-toggle="collapse" data-target="#collapseOne"
-                    id="online_button">
-                * Offline *
-            </button>
-            <div id="collapseOne" class="collapse" aria-labelledby="headingOne" data-parent="#accordion">
-                <div class="card-body">
-                    <div id="marquee_div">
-                        <div id="top">
-                            _
-                        </div>
-                        <div id="middle">
-                            _
-                        </div>
-                        <div id="bottom">
-                            _
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-
-    </div>
 
     <div id="map_container">
         <nav id="menu"></nav>
