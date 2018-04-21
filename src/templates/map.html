@@ -1,52 +1,71 @@
 {% include 'head.html' %}
 <div class="container">
+
     <div class="row">
         <div class="col-6">
-            <input type="text" id="filter" value="" placeholder="e.g Syria">
-            <button onclick="add_filter()">Add Filter</button>
+
+            <div class="input-group mb-3">
+                <input type="text" class="form-control" placeholder="Word. E.G: Syria" id="w_filter">
+                <div class="input-group-append">
+                    <button class="btn btn-outline-secondary" type="button" onclick="add_filter()">Filter</button>
+                </div>
+            </div>
         </div>
+
         <div class="col-6">
-            <input type="text" id="filter" value="" placeholder="e.g StopWar">
-            <button onclick="add_filter()">Add Filter</button>
+            <input class="inp" type="text" id="filter" value="" placeholder="e.g Syria">
+            <button onclick="add_w_filter()">Add Filter</button>
+
+
+            <div class="input-group mb-3">
+                <div class="input-group-prepend">
+                    <span class="input-group-text" id="basic-addon1">#</span>
+                </div>
+                <input type="text" class="form-control" placeholder="Hashtag. E.G: StopWar" id="h_filter">
+                <div class="input-group-append">
+                    <button class="btn btn-outline-secondary" type="button" onclick="add_h_filter()">Filter</button>
+                </div>
+            </div>
         </div>
+
     </div>
-</div>
 
-<div id="accordion">
+    <div id="accordion">
 
-    <div class="card">
-        <div class="card-header" id="headingOne">
-            <h5 class="mb-0">
-                <button class="btn btn-link" data-toggle="collapse" data-target="#collapseOne" aria-expanded="true"
-                        aria-controls="collapseOne">
-                    Live *
-                </button>
-            </h5>
-        </div>
-
-        <div id="collapseOne" class="collapse" aria-labelledby="headingOne" data-parent="#accordion">
-            <div class="card-body">
-                <div id="marquee_div">
-                    <div id="top">
-                        _
-                    </div>
-                    <div id="middle">
-                        _
-                    </div>
-                    <div id="bottom">
-                        _
+        <div class="card">
+            <div class="card-header" id="headingOne">
+                <h5 class="mb-0">
+                    <button class="btn btn-link" data-toggle="collapse" data-target="#collapseOne"
+                            aria-expanded="true"
+                            aria-controls="collapseOne">
+                        Live *
+                    </button>
+                </h5>
+            </div>
+            <div id="collapseOne" class="collapse" aria-labelledby="headingOne" data-parent="#accordion">
+                <div class="card-body">
+                    <div id="marquee_div">
+                        <div id="top">
+                            _
+                        </div>
+                        <div id="middle">
+                            _
+                        </div>
+                        <div id="bottom">
+                            _
+                        </div>
                     </div>
                 </div>
             </div>
         </div>
+
     </div>
-</div>
 
-<div id="map_container">
-    <nav id="menu"></nav>
-    <nav id='filter-group-categoria' class='filter-group' style='top: 4em;'></nav>
-    <nav class="filter-group" id='filter-rating' style='top:32em'></nav>
-    <div id='map' style="width: 100%;"></div>
-</div>
+    <div id="map_container">
+        <nav id="menu"></nav>
+        <nav id='filter-group-categoria' class='filter-group' style='top: 4em;'></nav>
+        <nav class="filter-group" id='filter-rating' style='top:32em'></nav>
+        <div id='map' style="width: 100%;"></div>
+    </div>
 
-{% include 'foot.html' %}
+    {% include 'foot.html' %}

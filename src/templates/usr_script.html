@@ -394,10 +394,19 @@
         }
     }
 
-    function add_filter() {
-        actual_filter_string = document.getElementById("filter").value;
+    function add_w_filter() {
+        actual_filter_string = document.getElementById("w_filter").value;
         actual_filter_string = actual_filter_string.toLocaleLowerCase();
         clear_buffers();
+        document.getElementById("h_filter").value = "";
+    }
+
+    function add_h_filter() {
+        actual_filter_string = "#" + document.getElementById("h_filter").value;
+        actual_filter_string = actual_filter_string.toLocaleLowerCase();
+        clear_buffers();
+        document.getElementById("w_filter").value = "";
+
     }
 
     function clear_filter() {
