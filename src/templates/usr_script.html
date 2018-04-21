@@ -276,7 +276,8 @@
             };
 
             if (actual_filter_string !== "") {
-                if (m.message.words.indexOf(actual_filter_string) < 0) {
+
+                if (m.message.words.toLocaleLowerCase().indexOf(actual_filter_string) < 0) {
                     return;
                 }
             }
@@ -421,7 +422,10 @@
 
         var new_line = ["_", "", null];
         if (prev.length > 3) {
+            if (!online) enable_online();
             new_line = prev.shift();
+        } else {
+            if (online) disable_online();
         }
 
         my_marquee.innerHTML = new_line[0];
