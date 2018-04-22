@@ -27,15 +27,11 @@ class HtagEmitterCore(MagusCore):
 
     def run_core(self):
 
-        def callback(tweet_string):
-            if not tweet_string:
-                return
-
-            self._log("Incoming words tweet {}".format(tweet_string))
-            text = self.serializer.loads(tweet_string)
-
+        def callback(text):
             if not text:
                 return
+
+            self._log("Incoming words tweet {}".format(text))
 
             for htag in filter(lambda x: x[0] == "#", text.split()):
                 self.htags[0][htag] = self.htags[0].get(htag, 0) + 1
