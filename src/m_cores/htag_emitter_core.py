@@ -40,14 +40,19 @@ class HtagEmitterCore(MagusCore):
 
             self.count += 1
 
-            if self.count > 100:
-                htags = self.htags.pop(0)
-                self.htags.append({})
+            if self.count % 50 == 0:
+                htags = self.htags[0]
+
+                if self.count % 100 == 0:
+                    htags = self.htags.pop(0)
+                    self.htags.append({})
 
                 top_htags = heapq.nlargest(10, htags, key=htags.get)
 
                 while len(top_htags) < 10:
                     top_htags.append("")
+
+                self._log(str(top_htags))
 
                 try:
                     self.pubnub.publish().channel("TopHtags").message({
@@ -56,6 +61,6 @@ class HtagEmitterCore(MagusCore):
                     }).sync()  # TODO: Check
                     # print("publish timetoken: %d" % envelope.result.timetoken)
                 except PubNubException as e:
-                    print("Error")
+                    self._log(str(e))
 
         self.in_queue.receive_messages(callback)
