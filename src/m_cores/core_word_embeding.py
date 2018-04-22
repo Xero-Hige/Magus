@@ -36,7 +36,7 @@ class WordEmbeddingCore(MagusDumpCore):
                 "Latitude": tweet[TweetParser.LATITUDE],
                 "Longitude": tweet[TweetParser.LONGITUDE],
                 "MatrixFile": matrix_filename,
-                "Text": tweet[TweetParser.TWEET_TEXT].lower()
+                "Text": tweet[TweetParser.TWEET_TEXT]
             }
             self.dump_queue.send_message(self.serializer.dumps(advice))
 
