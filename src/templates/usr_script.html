@@ -267,6 +267,10 @@
         message: function (m) {
             var channel = m.channel;
 
+            if (channel == "TopHtags") {
+                update_top(m.words);
+            }
+
             let feature = {
                 "type": "Feature",
                 "geometry": {
@@ -506,4 +510,9 @@
         online = true;
     }
 
+    function update_top(top_htags) {
+        {%for i in range(10)%}
+            document.getElementById("top{{ i }}").innerText = top_htags[{{ i }}];
+        {%endfor%}
+    }
 </script>

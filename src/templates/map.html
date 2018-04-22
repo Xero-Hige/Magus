@@ -73,113 +73,31 @@
                     </div>
                     <div class="col-5"></div>
                 </div>
-
-                <div class="row">
-                    <div class="col-2">
-                        <div class="input-group mb-3">
-                            <button class="btn btn-outline-secondary" type="button" onClick="add_filter_from('top1')"
-                                    width="100%" id="top1">
-                                #Top1
-                            </button>
+                {% for j in [0,1] %}
+                    <div class="row">
+                    {% for i in [0,1,2,3,4] %}
+                        <div class="col-2">
+                            <div class="input-group mb-3">
+                                <button class="btn btn-outline-secondary" type="button"
+                                        onClick="add_filter_from('top{{ i+(j*5) }}')"
+                                        width="100%" id="top{{ i+(j*5) }}">
+                                    #Top{{ i+(j*5) }}
+                                </button>
+                            </div>
                         </div>
-                    </div>
-
-                    <div class="col-2">
-                        <div class="input-group mb-3">
-                            <button class="btn btn-outline-secondary" type="button" onclick="add_filter_from('top2')"
-                                    width="100%" id="top2">
-                                #Top2
-                            </button>
-                        </div>
-                    </div>
-
-                    <div class="col-2">
-                        <div class="input-group mb-3">
-                            <button class="btn btn-outline-secondary" type="button" onclick="add_filter_from('top3')"
-                                    width="100%" id="top3">
-                                #Top3
-                            </button>
-                        </div>
-                    </div>
-
-                    <div class="col-2">
-                        <div class="input-group mb-3">
-                            <button class="btn btn-outline-secondary" type="button" onclick="add_filter_from('top4')"
-                                    width="100%" id="top4">
-                                #Top4
-                            </button>
-                        </div>
-                    </div>
-
-                    <div class="col-2">
-                        <div class="input-group mb-3">
-                            <button class="btn btn-outline-secondary" type="button" onclick="add_filter_from('top5')"
-                                    width="100%" id="top5">
-                                #Top5
-                            </button>
-                        </div>
-                    </div>
-
+                    {% endfor %}
+                {% endfor %}
                 </div>
-                <div class="row">
-                    <div class="col-2">
-                        <div class="input-group mb-3">
-                            <button class="btn btn-outline-secondary" type="button" onClick="add_filter_from('top1')"
-                                    width="100%" id="top1">
-                                #Top1
-                            </button>
-                        </div>
-                    </div>
-
-                    <div class="col-2">
-                        <div class="input-group mb-3">
-                            <button class="btn btn-outline-secondary" type="button" onclick="add_filter_from('top2')"
-                                    width="100%" id="top2">
-                                #Top2
-                            </button>
-                        </div>
-                    </div>
-
-                    <div class="col-2">
-                        <div class="input-group mb-3">
-                            <button class="btn btn-outline-secondary" type="button" onclick="add_filter_from('top3')"
-                                    width="100%" id="top3">
-                                #Top3
-                            </button>
-                        </div>
-                    </div>
-
-                    <div class="col-2">
-                        <div class="input-group mb-3">
-                            <button class="btn btn-outline-secondary" type="button" onclick="add_filter_from('top4')"
-                                    width="100%" id="top4">
-                                #Top4
-                            </button>
-                        </div>
-                    </div>
-
-                    <div class="col-2">
-                        <div class="input-group mb-3">
-                            <button class="btn btn-outline-secondary" type="button" onclick="add_filter_from('top5')"
-                                    width="100%" id="top5">
-                                #Top5
-                            </button>
-                        </div>
-                    </div>
-
-                </div>
-
             </div>
         </div>
+
     </div>
 
-</div>
+    <div id="map_container">
+        <nav id="menu"></nav>
+        <nav id='filter-group-categoria' class='filter-group' style='top: 4em;'></nav>
+        <nav class="filter-group" id='filter-rating' style='top:32em'></nav>
+        <div id='map' style="width: 100%;"></div>
+    </div>
 
-<div id="map_container">
-    <nav id="menu"></nav>
-    <nav id='filter-group-categoria' class='filter-group' style='top: 4em;'></nav>
-    <nav class="filter-group" id='filter-rating' style='top:32em'></nav>
-    <div id='map' style="width: 100%;"></div>
-</div>
-
-{% include 'foot.html' %}
+    {% include 'foot.html' %}
