@@ -493,6 +493,7 @@
         online_button.classList.remove('btn-success');
         online_button.classList.add('btn-danger');
         online_button.innerHTML = "* Offline *";
+        online_button.disabled = true;
         online = false;
     }
 
@@ -501,6 +502,7 @@
         online_button.classList.remove('btn-danger');
         online_button.classList.add('btn-success');
         online_button.innerHTML = "* Online *";
+        online_button.disabled = false;
         online = true;
     }
 
