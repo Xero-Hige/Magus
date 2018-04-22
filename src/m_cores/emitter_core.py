@@ -6,7 +6,6 @@ from pubnub.exceptions import PubNubException
 from pubnub.pnconfiguration import PNConfiguration
 from pubnub.pubnub import PubNub
 
-from libs.tweet_parser import TweetParser
 from m_cores.magus_core import MagusCore
 
 
@@ -48,5 +47,7 @@ class EmitterCore(MagusCore):
                 # print("publish timetoken: %d" % envelope.result.timetoken)
             except PubNubException as e:
                 print("Error")
+
+            self.out_queue.send_message(self.serializer.dumps(text))
 
         self.in_queue.receive_messages(callback)
