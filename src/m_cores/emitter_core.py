@@ -48,6 +48,6 @@ class EmitterCore(MagusCore):
             except PubNubException as e:
                 print("Error")
 
-            self.out_queue.send_message(self.serializer.dumps(text))
+            self.out_queue.send_message(text)
 
         self.in_queue.receive_messages(callback)
