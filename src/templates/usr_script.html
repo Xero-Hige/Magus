@@ -266,9 +266,11 @@
     pubnub.addListener({
         message: function (m) {
             var channel = m.channel;
+            console.log(channel);
 
-            if (channel == "TopHtags") {
+            if (channel === "TopHtags") {
                 update_top(m.words);
+                return;
             }
 
             let feature = {
@@ -298,7 +300,9 @@
                         .setHTML('<h3>' + channel + '</h3><p>' + m.message.words + '</p>')
                 );
                 new_marker.addTo(map);
-                prev.push([m.message.words, channel, new_marker])
+                prev.push([m.message.words, channel, new_marker]);
+
+                if (prev.length === 10 && !online) enable_online();
             }
 
             if (channel === "Joy") {
