@@ -15,26 +15,28 @@ if sys.version_info.major == 3:
     from m_cores.core_parser import ParserCore
     from m_cores.core_rchars_dumper import RCharsEmbeddingCore
     from m_cores.core_shortener import ShortenerCore
+    from m_cores.core_strip_accents import StripAccentsCore
     from m_cores.core_word_embeding import WordEmbeddingCore
     from m_cores.core_word_splitter import WordSplitterCore
     from m_cores.emitter_core import EmitterCore
-    from m_cores.core_strip_accents import StripAccentsCore
+    from m_cores.htag_emitter_core import HtagEmitterCore
 
     CORES = {
-        "fetcher":       FetcherCore,
-        "parser":        ParserCore,
-        "anonymize":     AnonymizeCore,
-        "s_accents":     StripAccentsCore,
+        "fetcher": FetcherCore,
+        "parser": ParserCore,
+        "anonymize": AnonymizeCore,
+        "s_accents": StripAccentsCore,
         "char_splitter": CharSplitterCore,
-        "w_splitter":    WordSplitterCore,
-        "shortener":     ShortenerCore,
+        "w_splitter": WordSplitterCore,
+        "shortener": ShortenerCore,
         "htag_splitter": HashtagSplitterCore,
-        "lower":         LowerCore,
-        "emitter":       EmitterCore,
-        "rchar_embed":   RCharsEmbeddingCore,
-        "char_embed":    CharsEmbeddingCore,
-        "w_embedding":   WordEmbeddingCore,
-        "joiner":        JoinerCore
+        "lower": LowerCore,
+        "emitter": EmitterCore,
+        "htag_emitter": HtagEmitterCore,
+        "rchar_embed": RCharsEmbeddingCore,
+        "char_embed": CharsEmbeddingCore,
+        "w_embedding": WordEmbeddingCore,
+        "joiner": JoinerCore
     }
 else:
     from m_cores.core_classifier import ClassifierCore

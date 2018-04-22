@@ -87,6 +87,12 @@
     "tag": "emitter",
     "replicas": 2,
     "input_queue": "classifier_output",
+    "output_queue": "emitter_out"
+  },
+  "htag_emitter": {
+    "tag": "htag_emitter",
+    "replicas": 1,
+    "input_queue": "emitter_out",
     "output_queue": "nothing"
   }
 }
