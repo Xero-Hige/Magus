@@ -268,8 +268,8 @@
             var channel = m.channel;
             console.log(channel);
 
-            if (channel === "TopHtags") {
-                update_top(m.words);
+            if (channel === "Toptags") {
+                update_top(m.message.words);
                 return;
             }
 
