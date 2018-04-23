@@ -26,13 +26,13 @@ class ParserCore(MagusCore):
                 self._log("Can't parse tweet")
                 return
 
-            if tweet["tweet_lang"].lower() not in ['en', 'es']:
+            if tweet["tweet_lang"].lower() not in ['en', 'en-gb', 'es']:
                 self._log("Not spanish/english: {}".format(tweet["tweet_lang"]))
                 return
 
-            # Discard 75% of the tweets for memory sake
+            # Discard 60% of the tweets for memory sake
             # TODO: Remove this on production
-            if random.randrange(0, 100) > 75:
+            if random.randrange(0, 100) > 60:
                 self.out_queue.send_message(self.serializer.dumps(tweet))
 
         self.in_queue.receive_messages(callback)
