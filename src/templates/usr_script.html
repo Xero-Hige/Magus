@@ -467,6 +467,44 @@
         }, 10);
     }
 
+    function update_quote() {
+        var quote_text = document.getElementById("q1_text");
+        var quote_auth = document.getElementById("q1_auth");
+
+        //my_marquee.style.color = "black";
+        //my_marquee.style.webkitAnimation = "none";
+
+        var new_line = ["_", "", null];
+        if (prev.length > 1) {
+            if (!online) enable_online();
+            new_line = prev.shift();
+        } else {
+            if (online) disable_online();
+        }
+
+        quote_text.innerHTML = new_line[0];
+        var new_color = "black";
+        if (new_line[1] === "Joy") {
+            new_color = "green";
+        } else if (new_line[1] === "Sadness") {
+            new_color = "blue";
+        } else if (new_line[1] === "Anger") {
+            new_color = "red";
+        } else if (new_line[1] === "Fear") {
+            new_color = "purple";
+        }
+
+        quote_auth.innerHTML = new_line[1];
+
+        if (new_line[2]) {
+            new_line[2].remove();
+        }
+
+        setTimeout(update_quote(), 15000);
+    }
+
+
+
     var animation_div = document.getElementById("top");
     animation_div.addEventListener(
         "animationiteration",
