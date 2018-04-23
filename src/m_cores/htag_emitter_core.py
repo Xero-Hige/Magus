@@ -55,11 +55,11 @@ class HtagEmitterCore(MagusCore):
                 self._log(str(top_htags))
 
                 try:
-                    self.pubnub.publish().channel("TopHtags").message({
+                    envelope = self.pubnub.publish().channel("Toptags").message({
                         "status": True,
                         "words": top_htags
                     }).sync()  # TODO: Check
-                    # print("publish timetoken: %d" % envelope.result.timetoken)
+                    self._log("Published timetoken: {}".format(envelope.result.timetoken))
                 except PubNubException as e:
                     self._log(str(e))
 
