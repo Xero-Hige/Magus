@@ -7,7 +7,7 @@
     });
 
     pubnub.subscribe({
-        channels: ['Joy', 'Sadness', 'Anger', 'Fear','Toptags']
+        channels: ['Joy', 'Sadness', 'Anger', 'Fear', 'Toptags']
     });
 
     //Mapbox init
@@ -468,13 +468,11 @@
     }
 
     function update_quote() {
-        var quote_text = document.getElementById("q1_text");
-        var quote_auth = document.getElementById("q1_auth");
+        var quote = document.getElementById("quote");
+        var quote_text = document.getElementById("quote_text");
+        var quote_sentiment = document.getElementById("quote_sentiment");
 
-        //my_marquee.style.color = "black";
-        //my_marquee.style.webkitAnimation = "none";
-
-        var new_line = ["_", "", null];
+        var new_line = ["Nothing to see here", "Soon here would be a tweet... maybe...", null];
         if (prev.length > 1) {
             if (!online) enable_online();
             new_line = prev.shift();
@@ -483,18 +481,21 @@
         }
 
         quote_text.innerHTML = new_line[0];
-        var new_color = "black";
+        quote_sentiment.innerHTML = new_line[1];
+
+        var color = "gray";
         if (new_line[1] === "Joy") {
-            new_color = "green";
+            color = "grass";
         } else if (new_line[1] === "Sadness") {
-            new_color = "blue";
+            color = "blue";
         } else if (new_line[1] === "Anger") {
-            new_color = "red";
+            color = "grapefruit";
         } else if (new_line[1] === "Fear") {
-            new_color = "purple";
+            color = "bluejeans";
         }
 
-        quote_auth.innerHTML = new_line[1];
+        quote.className = color;
+        quote_sentiment.className = "C" + color;
 
         if (new_line[2]) {
             new_line[2].remove();
