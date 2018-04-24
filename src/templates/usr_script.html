@@ -295,10 +295,20 @@
                 // make a marker for each feature and add to the map
                 var new_marker = new mapboxgl.Marker(el);
                 new_marker.setLngLat([m.message.lat, m.message.long]);
+
                 new_marker.setPopup(
                     new mapboxgl.Popup({offset: 25})
-                        .setHTML('<h3>' + channel + '</h3><p>' + m.message.words + '</p>')
+                        .setHTML(
+                            '<blockquote class="quote-card '
+                            + channel
+                            + '-card"><p>'
+                            + m.message.words
+                            + '</p><cite>'
+                            + channel
+                            + '</cite></blockquote>'
+                        )
                 );
+
                 new_marker.addTo(map);
                 prev.push([m.message.words, channel, new_marker]);
 
@@ -506,32 +516,16 @@
     window.setInterval(update_quote, 15000);
 
 
-    var animation_div = document.getElementById("top");
-    animation_div.addEventListener(
-        "animationiteration",
-        function () {
-            update_marquee_line("top");
-        },
-        false
-    );
-
-    animation_div = document.getElementById("middle");
-    animation_div.addEventListener(
-        "animationiteration",
-        function () {
-            update_marquee_line("middle");
-        },
-        false
-    );
-
-    animation_div = document.getElementById("bottom");
-    animation_div.addEventListener(
-        "animationiteration",
-        function () {
-            update_marquee_line("bottom");
-        },
-        false
-    );
+    {% for element in ["top","middle","buttom"] %}
+        var animation_div = document.getElementById({{ element }});
+        animation_div.addEventListener(
+            "animationiteration",
+            function () {
+                update_marquee_line({{ element }});
+            },
+            false
+        );
+    {% endfor %}
 
     var online = false;
 
