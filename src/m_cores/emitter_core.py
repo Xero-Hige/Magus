@@ -34,6 +34,10 @@ class EmitterCore(MagusCore):
 
             latitude, longitude = tweet_info["tweet_lat"], tweet_info["tweet_lon"]
             classification = tweet_info["classification"]
+
+            if classification.lower() == "neutral":
+                return
+
             text = tweet_info["tweet_text"]
             self._log("Sent {}".format(classification))
 

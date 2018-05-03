@@ -48,16 +48,22 @@ class ClassifierCore(MagusCore):
             tweet_id = tweet_info["ID"]
             self._log("Classify {}".format(tweet_id))
 
-            rchar_matrix = numpy.load("vectors/rchar_matrix_{}.npy".format(tweet_id), allow_pickle=True,
-                                      fix_imports=True)
-            char_matrix = numpy.load("vectors/char_matrix_{}.npy".format(tweet_id), allow_pickle=True,
-                                     fix_imports=True)
-            word_matrix = numpy.load("vectors/word_matrix_{}.npy".format(tweet_id), allow_pickle=True,
-                                     fix_imports=True)
+            try:
+                rchar_matrix = numpy.load("vectors/rchar_matrix_{}.npy".format(tweet_id), allow_pickle=True,
+                                          fix_imports=True)
+                char_matrix = numpy.load("vectors/char_matrix_{}.npy".format(tweet_id), allow_pickle=True,
+                                         fix_imports=True)
+                word_matrix = numpy.load("vectors/word_matrix_{}.npy".format(tweet_id), allow_pickle=True,
+                                         fix_imports=True)
+            except:
+                return
 
-            os.remove("vectors/rchar_matrix_{}.npy".format(tweet_id))
-            os.remove("vectors/char_matrix_{}.npy".format(tweet_id))
-            os.remove("vectors/word_matrix_{}.npy".format(tweet_id))
+            try:
+                os.remove("vectors/rchar_matrix_{}.npy".format(tweet_id))
+                os.remove("vectors/char_matrix_{}.npy".format(tweet_id))
+                os.remove("vectors/word_matrix_{}.npy".format(tweet_id))
+            except:
+                self._log("Already removed")
 
             self._log("Classify new tweet_id")
             result = self.make_request(rchar_matrix, char_matrix, word_matrix)
