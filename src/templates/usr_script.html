@@ -557,7 +557,7 @@
     function display_filter() {
         var banner = document.getElementById("filter_top");
         if (actual_filter_string !== "") {
-            banner.innerHTML = actual_filter_string;
+            banner.innerHTML = "Filtering by: " + actual_filter_string;
         } else {
             banner.innerHTML = "No filter applied";
         }
