@@ -261,6 +261,7 @@
     };
 
     var prev = [];
+    var olders = [];
 
     //PubNub callback
     pubnub.addListener({
@@ -280,6 +281,10 @@
                     "coordinates": [m.message.lat, m.message.long]
                 }
             };
+
+            if (olders.length < 3) {
+                olders.push(channel)
+            }
 
             if (actual_filter_string !== "") {
 
@@ -398,10 +403,18 @@
     var actual_filter_string = "";
 
     function clear_buffers() {
+        var old_buff = prev;
+        prev = [];
+
         happy_buffer.features.splice(0, happy_buffer.features.length);
         angry_buffer.features.splice(0, angry_buffer.features.length);
         fear_buffer.features.splice(0, fear_buffer.features.length);
         sad_buffer.features.splice(0, sad_buffer.features.length);
+
+        while (old_buff.length > 0) {
+            var line = prev.shift();
+            line[2].remove();
+        }
 
         try {
             map.getSource("happy").setData(happy_buffer);
@@ -450,10 +463,7 @@
 
         var new_line = ["_", "", null];
         if (prev.length > 3) {
-            if (!online) enable_online();
             new_line = prev.shift();
-        } else {
-            if (online) disable_online();
         }
 
         my_marquee.innerHTML = new_line[0];
@@ -484,11 +494,8 @@
         var quote_sentiment = document.getElementById("quote_sentiment");
 
         var new_line = ["Soon here would be a tweet... maybe...", "Nothing to see here", null];
-        if (prev.length > 1) {
-            if (!online) enable_online();
+        if (prev.length > 0) {
             new_line = prev.shift();
-        } else {
-            if (online) disable_online();
         }
 
         quote_text.innerHTML = new_line[0];
@@ -516,6 +523,20 @@
     update_quote();
     window.setInterval(update_quote, 15000);
 
+    function update_online() {
+        if (olders.length > 0) {
+            olders.shift();
+            if (!online)
+                enable_online();
+            return;
+        }
+
+        if (online)
+            disable_online();
+    }
+
+    update_online();
+    window.setInterval(update_online, 5000);
 
     {% for element in ["top","middle","buttom"] %}
         var animation_div = document.getElementById({{ element }});
