@@ -418,6 +418,7 @@
         actual_filter_string = actual_filter_string.toLocaleLowerCase();
         clear_buffers();
         document.getElementById("h_filter").value = "";
+        display_filter();
     }
 
     function add_h_filter() {
@@ -425,16 +426,16 @@
         actual_filter_string = actual_filter_string.toLocaleLowerCase();
         clear_buffers();
         document.getElementById("w_filter").value = "";
-
+        display_filter();
     }
 
     function add_filter_from(button_id) {
         var hashtag = document.getElementById(button_id).innerText;
-        hashtag = hashtag.substring(1);
         actual_filter_string = hashtag.toLocaleLowerCase();
         clear_buffers();
-        document.getElementById("h_filter").value = hashtag;
+        document.getElementById("h_filter").value = hashtag.substring(1);
         document.getElementById("w_filter").value = "";
+        display_filter();
     }
 
     function clear_filter() {
@@ -551,5 +552,14 @@
         {%for i in range(10)%}
             document.getElementById("top{{ i }}").innerText = top_htags[{{ i }}];
         {%endfor%}
+    }
+
+    function display_filter() {
+        var banner = document.getElementById("filter_top");
+        if (actual_filter_string !== "") {
+            banner.innerHTML = actual_filter_string;
+        } else {
+            banner.innerHTML = "No filter applied";
+        }
     }
 </script>
