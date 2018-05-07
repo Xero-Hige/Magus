@@ -412,7 +412,7 @@
         sad_buffer.features.splice(0, sad_buffer.features.length);
 
         while (old_buff.length > 0) {
-            var line = prev.shift();
+            var line = old_buff.shift();
             line[2].remove();
         }
 
