@@ -105,7 +105,7 @@ def adder_post():
     if "err" in str(stdout_data).lower():
         print("DEBUG - Script Error: ", stdout_data)
 
-    p = Popen(["ruby", "uploader.rb", "tweets/{}.json".format(tweet_id), "../tweets/{}.json".format(tweet_id)],
+    p = Popen(["ruby", "uploader.rb", "user_added_tweets/{}.json".format(tweet_id), "../tweets/{}.json".format(tweet_id)],
               stdout=PIPE, stdin=PIPE, stderr=PIPE)
 
     stdout_data = p.communicate(input=b'\n')
