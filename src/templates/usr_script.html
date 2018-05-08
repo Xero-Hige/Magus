@@ -472,7 +472,10 @@
 
     function clear_filter() {
         actual_filter_string = "";
+        document.getElementById("w_filter").value = "";
+        document.getElementById("h_filter").value = "";
         clear_buffers();
+        display_filter();
     }
 
     function update_marquee_line(element) {
